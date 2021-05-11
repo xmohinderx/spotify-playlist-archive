@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 | 2021-05-11 |  |
 | [(L)only Child](https://open.spotify.com/track/22lJaG2yxlSjIwdUIddcFk) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [(L)only Child](https://open.spotify.com/album/2dNtoOVqFNhA8SM7563kQh) | 2:24 | 2021-03-19 | 2021-05-08 |
 | [100 Rounds](https://open.spotify.com/track/0mUWV7sAT17gHP2g8cC7xV) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [100 Rounds](https://open.spotify.com/album/4qgIdr76ZUiioRZHZotFCu) | 2:58 | 2021-02-19 | 2021-03-26 |
 | [13 Missed Calls](https://open.spotify.com/track/6KVFBsfbnaFFa43i4k0cce) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [13 Missed Calls](https://open.spotify.com/album/5EP7WwXvPDOp1JeSHRxiFQ) | 3:29 | 2021-04-24 |  |
