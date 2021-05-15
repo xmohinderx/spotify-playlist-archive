@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [(Не)идеальна](https://open.spotify.com/track/4td0GwMmapEdpV2g5C2l9K) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [(Не)идеальна](https://open.spotify.com/album/4vm9d1inYJkGY81jfbJEkh) | 2:38 | 2021-04-26 |  |
+| [(Не)идеальна](https://open.spotify.com/track/4td0GwMmapEdpV2g5C2l9K) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [(Не)идеальна](https://open.spotify.com/album/4vm9d1inYJkGY81jfbJEkh) | 2:38 | 2021-04-26 | 2021-05-15 |
 | [+44](https://open.spotify.com/track/1ngGGsWzGONyiOlxdXRDr7) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [+44](https://open.spotify.com/album/5RKI4eixkCmtxfSwhB9RkY) | 2:28 | 2021-03-27 | 2021-04-10 |
 | [1 000 000](https://open.spotify.com/track/2kTdm97JgsVqkMbQChhXD1) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 3:02 | 2021-03-27 | 2021-03-30 |
 | [16](https://open.spotify.com/track/22ONmP2pHRZKTngdAl25aj) | [Scriptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 2:27 | 2021-04-29 | 2021-05-03 |
@@ -154,6 +154,7 @@
 | [Старшие (feat. Polyana)](https://open.spotify.com/track/56eV7dmQU2tlUT9QsVQWUV) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Polyana](https://open.spotify.com/artist/2Nu8ejfvmO9ZF3gebkCPnz) | [FREERIO](https://open.spotify.com/album/5zkFFXDh9W9457YNxel2gO) | 3:08 | 2021-05-03 |  |
 | [Статус](https://open.spotify.com/track/3qecFMBa2YWdZ5Yz9faiQ8) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [Искренний](https://open.spotify.com/album/4LWHMwwy0m51ZfIFwJziYJ) | 3:06 | 2021-04-10 | 2021-04-11 |
 | [Тебе лучше не знать](https://open.spotify.com/track/0rJ0G0gJomdi076uYy4c6A) | [Tima Belorusskih](https://open.spotify.com/artist/0bOSNnz9bGAUlV3OJ3rnQW) | [Тебе лучше не знать](https://open.spotify.com/album/4st4uawcsd4sahmhag0Mpm) | 3:04 | 2021-04-26 |  |
+| [Трап Дом](https://open.spotify.com/track/5GBH3zfuxFmOuZ2mf1IXos) | [THRILL PILL](https://open.spotify.com/artist/3pONzjQKqFrh3zTQBTMeWd), [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Трап Дом](https://open.spotify.com/album/7zHyc7Gygs8r8koLNbgvuc) | 3:16 | 2021-05-15 |  |
 | [ТЫ ГОРИШЬ КАК ОГОНЬ](https://open.spotify.com/track/12Kknh5NqqAukiyevjDQkT) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [ТЫ ГОРИШЬ КАК ОГОНЬ](https://open.spotify.com/album/2KeNL92nQTFuhI9L0eHpPS) | 2:19 | 2021-03-27 |  |
 | [Тысячи рук](https://open.spotify.com/track/4wT9xC986HKw6LMObnOLfr) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Viva la vida](https://open.spotify.com/album/4xu3a1LuYV0r3uCgiiuPNy) | 3:06 | 2021-05-08 |  |
 | [Форсаж (Prod. by Sqweezey x Nest)](https://open.spotify.com/track/2a4pOWf80Ln1WKX8d8CncE) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:20 | 2021-03-27 | 2021-03-29 |

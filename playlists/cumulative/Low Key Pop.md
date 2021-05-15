@@ -2,7 +2,7 @@
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: <a href="spotify:artist:4hOb2WdQMQWyG6RQAhR7iE">Budjerah</a>
+> Let your mind float away with these down-tempo low key tracks. Cover: Maisie Peters &amp; James Bay
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Flying So Far](https://open.spotify.com/track/6N5y3lqSOZdKXhnpb8SNoQ) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [Flying So Far](https://open.spotify.com/album/3iTg2cXyH6ZiiGHSqgduc4) | 2:52 | 2019-11-25 | 2021-05-12 |
 | [Fools](https://open.spotify.com/track/029JPfM163NTS6fA0Pldws) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Nights Like This](https://open.spotify.com/album/7xyaGyDfDSP6h05f7vM7oq) | 3:44 | 2019-08-27 | 2020-02-12 |
 | [Forgive Myself](https://open.spotify.com/track/4upXlYzMHIwAd8fR2cp6sp) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Forgive Myself](https://open.spotify.com/album/4zYpRSmCxbwKtFaoHhezsG) | 2:53 | 2020-05-29 | 2021-05-12 |
+| [Forgot About](https://open.spotify.com/track/3JnRyp1X0N1QxiaMwnXlEs) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Forgot About](https://open.spotify.com/album/1KdLuqgmPBrrOtkqFDDvxe) | 3:38 | 2021-05-15 |  |
 | [Four Walls](https://open.spotify.com/track/1wX3WY9nQ3D4vRUR9Vmfl6) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Four Walls](https://open.spotify.com/album/5ntMnnFCM2LtENrZOoeQxp) | 3:33 | 2019-11-05 | 2020-02-12 |
 | [Freak (feat. REI AMI)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2020-03-13 | 2021-05-12 |
 | [FRESH OUT OF LOVE](https://open.spotify.com/track/5CKtwvWxx2CZzPmDAhF4gL) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FRESH OUT OF LOVE](https://open.spotify.com/album/3plC8Tnhm7VA6mPq4fVjdd) | 2:48 | 2020-02-14 | 2021-05-12 |
