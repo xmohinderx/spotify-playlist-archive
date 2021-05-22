@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Sam Hunt
+> Today's top country hits of the week, worldwide! Cover: Blake Shelton
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [I Hope You’re Happy Now](https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Hope You’re Happy Now](https://open.spotify.com/album/5zMUrHGRi7LpqRW1mxM2wu) | 3:18 | 2019-10-26 | 2020-08-08 |
 | [I Love My Country](https://open.spotify.com/track/16kqEZBfhhK8XlQpauKej1) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [I Love My Country](https://open.spotify.com/album/6HQLji6pkqG4guxd9YcFTP) | 3:04 | 2020-03-28 | 2020-09-26 |
 | [I Should Probably Go To Bed](https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed](https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj) | 2:51 | 2020-07-31 | 2021-01-30 |
+| [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 | 2021-05-22 |  |
 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 | 2020-02-29 | 2020-03-28 |
 | [I'll Be The One](https://open.spotify.com/track/4g02Ty2n2yAEiRidGVNgmG) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [I'll Be The One](https://open.spotify.com/album/4G47IFDXKyHDv5wTVPCtEC) | 3:21 | 2019-08-09 | 2019-11-16 |
 | [In Between](https://open.spotify.com/track/4bZsLI9lZgSu3MN99kDbic) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:41 | 2019-05-26 | 2020-06-29 |
@@ -370,6 +371,7 @@
 | [Wedding Dress](https://open.spotify.com/track/2Jy50uaAgvyyrVOQsUv3rJ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Wedding Dress](https://open.spotify.com/album/48N7RsO9NW9PKALS4SJ40k) | 3:08 | 2020-04-12 | 2020-06-21 |
 | [What Happens In A Small Town](https://open.spotify.com/track/3g9OCNXY2aSbGRQGY17qVE) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [What Happens In A Small Town](https://open.spotify.com/album/6LF5fXCN9UPwvHHtzF22Ln) | 3:22 | 2019-06-02 | 2019-10-19 |
 | [What If I Never Get Over You](https://open.spotify.com/track/1kqVSbwdlNKsPGv0aehcAZ) | [Lady Antebellum](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What If I Never Get Over You](https://open.spotify.com/album/29nEDtxAppakEN3LIDZD4a) | 3:26 | 2019-06-15 | 2020-02-29 |
+| [What If I'm Right](https://open.spotify.com/track/5dg2ifK4KMf60vH6Zxm4Yq) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [What If I'm Right](https://open.spotify.com/album/1eEYTcFsn8Mq5yQK6HJYuo) | 2:46 | 2021-05-22 |  |
 | [What She Wants Tonight](https://open.spotify.com/track/5M3v6frAiTyqenNAeQVcxC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What She Wants Tonight](https://open.spotify.com/album/0YgJpsCDakroRHWZ8WzgiT) | 3:06 | 2019-11-02 | 2020-04-04 |
 | [What You See Is What You Get](https://open.spotify.com/track/7kaVqrNf9L90pCslMxE9zP) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/750uAIE8WhEJLPu1QC71qd) | 2:51 | 2019-11-09 | 2020-02-22 |
 | [Whatever You Do](https://open.spotify.com/track/355tAo2nEqL74FFvTlwXAR) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Finally](https://open.spotify.com/album/0HeTHWLmcrCShhRz79CKUe) | 2:55 | 2021-02-27 | 2021-03-27 |
