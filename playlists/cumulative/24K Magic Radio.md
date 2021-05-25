@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Ed Sheeran, Ariana Grande, Nicki Minaj and more
+> With Bruno Mars, Nicki Minaj, Travie McCoy, Justin Timberlake and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

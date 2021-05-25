@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Mega%20Hit%20Mix.md) - [plain](/play
 
 ### [Mega Hit Mix](https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk)
 
-> A mega mix of 75 of your favorite songs from the last few years! Cover: Dua Lipa
+> A mega mix of 75 of your favorite songs from the last few years! 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

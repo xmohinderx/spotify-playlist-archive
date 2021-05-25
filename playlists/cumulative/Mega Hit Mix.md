@@ -2,7 +2,7 @@
 
 ### [Mega Hit Mix](https://open.spotify.com/playlist/37i9dQZF1DXbYM3nMM0oPk)
 
-> A mega mix of 75 of your favorite songs from the last few years! Cover: Dua Lipa
+> A mega mix of 75 of your favorite songs from the last few years! 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
