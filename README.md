@@ -42,27 +42,6 @@ rather than by track number, so that it only changes when tracks are added or
 removed, making [Git History](https://githistory.xyz/) a nice way to visualize
 how the playlist evolves over time.
 
-## Development
-
-This project uses [`pip-tools`](https://github.com/jazzband/pip-tools) to manage
-dependencies.
-
-To get started, first create and activate a new virtual environment:
-```
-$ python3.8 -m venv venv
-$ source venv/bin/activate
-```
-
-Then install `pip-tools`:
-```
-$ pip install pip-tools
-```
-
-Lastly, use `pip-sync` to install the dev requirements:
-```
-$ pip-sync requirements/requirements-dev.txt
-```
-
 ## Playlists
 
 - [2010s Hits](/playlists/pretty/2010s%20Hits.md)
