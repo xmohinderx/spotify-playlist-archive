@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1,2,3](https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [1,2,3](https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q) | 3:45 | 2021-03-27 |  |
+| [1,2,3](https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [1,2,3](https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q) | 3:45 | 2021-03-27 | 2021-05-26 |
 | [911](https://open.spotify.com/track/2chIkORxBLpPVgruGiMY8k) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF](https://open.spotify.com/album/62f3yVpi23o1YepGRLsSQI) | 2:52 | 2021-04-30 | 2021-05-15 |
 | [Akrapovic](https://open.spotify.com/track/2GJM3nRv8ihs52OsCjjV6j) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [2.7.0 : Château Noir](https://open.spotify.com/album/3EDTWgtPkgHRlTMcLX4cUY) | 3:32 | 2021-03-27 | 2021-03-29 |
 | [All We Got (feat. KIDDO)](https://open.spotify.com/track/1iAyJBksvAI6DQEnzv8l1E) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [IIII](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c) | 3:10 | 2021-03-27 | 2021-04-09 |
@@ -46,7 +46,7 @@
 | [Demain sera meilleur](https://open.spotify.com/track/59bwGxBnTACwkxEbKCbwjs) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:45 | 2021-03-27 | 2021-03-31 |
 | [DEUX TOILES DE MER](https://open.spotify.com/track/7yN9Qx1HtE4c1fhakBz8Ay) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF](https://open.spotify.com/album/62f3yVpi23o1YepGRLsSQI) | 5:15 | 2021-05-03 | 2021-05-09 |
 | [DÁKITI](https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:25 | 2021-03-27 |  |
-| [Elles ont trop joué avec mon cœur](https://open.spotify.com/track/5SqR7dxbJiTSadTaVEhZ04) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [VI République](https://open.spotify.com/album/2yiTtbQXKxr7uswNyxjrs9) | 3:43 | 2021-03-27 | 2021-05-23 |
+| [Elles ont trop joué avec mon cœur](https://open.spotify.com/track/5SqR7dxbJiTSadTaVEhZ04) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [VI République](https://open.spotify.com/album/2yiTtbQXKxr7uswNyxjrs9) | 3:43 | 2021-03-27 |  |
 | [Essayez](https://open.spotify.com/track/5buwti8KR41CbKSv3nnqzu) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:57 | 2021-03-27 | 2021-04-02 |
 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 | 2021-04-05 |  |
 | [Euro](https://open.spotify.com/track/1zPefdsgeLBNZjkxKstBrh) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:42 | 2021-03-27 | 2021-04-04 |

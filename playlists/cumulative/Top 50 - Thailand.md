@@ -7,7 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1001 (You're Lovely)](https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 (You're Lovely)](https://open.spotify.com/album/034QxEQoDA2B6O8rtNglTe) | 3:14 | 2021-03-27 |  |
-| [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2021-03-27 | 2021-05-25 |
+| [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2021-03-27 |  |
 | [ANL](https://open.spotify.com/track/3zIvzPKUUdSpDCm1uua6Be) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce - The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:45 | 2021-05-12 | 2021-05-13 |
 | [At My Worst](https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:50 | 2021-03-27 |  |
 | [Be There For You](https://open.spotify.com/track/65aiZeH9Uld7iFC4w24tiR) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce - The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:43 | 2021-05-12 | 2021-05-13 |
@@ -105,5 +105,5 @@
 | [โคตรพิเศษ - (From “แปลรักฉันด้วยใจเธอ”)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ (From “แปลรักฉันด้วยใจเธอ”)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2021-05-12 |  |
 | [โคตรพิเศษ - (Ost. แปลรักฉันด้วยใจเธอ)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ (From “แปลรักฉันด้วยใจเธอ”)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2021-05-03 | 2021-05-12 |
 | [โคตรพิเศษ - (Ost. แปลรักฉันด้วยใจเธอ)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ (Ost. แปลรักฉันด้วยใจเธอ)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2021-03-27 | 2021-05-03 |
-| [ไม่อยากฟัง](https://open.spotify.com/track/5NHUdpYUEHL8fDLmR1qFd8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่อยากฟัง](https://open.spotify.com/album/3q1bjaW7no3BHSRS2QOajV) | 4:38 | 2021-03-27 |  |
+| [ไม่อยากฟัง](https://open.spotify.com/track/5NHUdpYUEHL8fDLmR1qFd8) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ไม่อยากฟัง](https://open.spotify.com/album/3q1bjaW7no3BHSRS2QOajV) | 4:38 | 2021-03-27 | 2021-05-26 |
 | [ไวน์ลดา](https://open.spotify.com/track/1RVYucT3tc32YzRDsP30t3) | [The Toys](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [ไวน์ลดา](https://open.spotify.com/album/5SntqKVAPjrv7hmtsJKx4p) | 3:47 | 2021-03-27 |  |
