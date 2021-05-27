@@ -2,7 +2,7 @@
 
 ### [Hot Rhythmic](https://open.spotify.com/playlist/37i9dQZF1DWYs83FtTMQFw)
 
-> The hottest tracks of today are here...featuring Trippie Redd, Playboi Carti, and Internet Money.
+> The hottest tracks of today...featuring Lil Nas X, Lil Tecca, and Internet Money.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Emergency (feat. Gunna & Young Thug)](https://open.spotify.com/track/4ZkQ2t966y0fmTW6TWNwR2) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Spiral: From The Book of Saw Soundtrack](https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6) | 2:57 | 2021-05-15 |  |
 | [Enough](https://open.spotify.com/track/5ozKTgHJvWkC4lRh9g4Wa4) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Enough](https://open.spotify.com/album/3TpfvI3R3un9ltkNM0FcHl) | 2:39 | 2021-02-12 | 2021-03-06 |
 | [Entrepreneur (feat. JAY-Z)](https://open.spotify.com/track/7E1lnnPsrnHslXSWomUkLP) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Entrepreneur (feat. JAY-Z)](https://open.spotify.com/album/1WbOXz9VQ3YM1OtnwoawHa) | 4:18 | 2020-09-30 | 2020-10-23 |
+| [Essence (feat. Tems)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-05-27 |  |
 | [EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-05-12 |  |
 | [Falling For You with Justin Bieber](https://open.spotify.com/track/24MWSatP5sTylISvJONhnB) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [CTV3: Cool Tape Vol. 3](https://open.spotify.com/album/2NuZ1TloomufyKf57ZLBQn) | 3:42 | 2020-09-30 | 2020-10-30 |
 | [Fast (Motion)](https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Fast (Motion)](https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB) | 2:50 | 2021-05-08 |  |
