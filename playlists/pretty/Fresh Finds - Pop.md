@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20-%20Pop.md) - [plain
 
 ### [Fresh Finds - Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> Fresh pop music by independent artists every Wednesday. Cover: sammy rash, Artwork: Paola Saliby
+> Fresh pop music by independent artists every Wednesday. Cover: KiNG MALA , Artwork: Paola Saliby
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
