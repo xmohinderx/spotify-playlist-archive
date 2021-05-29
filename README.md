@@ -63,7 +63,7 @@ how the playlist evolves over time.
 - [All-Nighter](/playlists/pretty/All-Nighter.md)
 - [Always Perfect](/playlists/pretty/Always%20Perfect.md)
 - [Ambient Relaxation](/playlists/pretty/Ambient%20Relaxation.md)
-- [Anti Pop](/playlists/pretty/Anti%20Pop.md)
+- [anti pop](/playlists/pretty/anti%20pop.md)
 - [Apply Yourself](/playlists/pretty/Apply%20Yourself.md)
 - [Atmospheric Calm](/playlists/pretty/Atmospheric%20Calm.md)
 - [Barack Obama's 2021 Summer Playlist](/playlists/pretty/Barack%20Obama's%202021%20Summer%20Playlist.md)
