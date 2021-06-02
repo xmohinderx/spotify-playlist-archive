@@ -2,7 +2,7 @@
 
 ### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
 
-> Emo feels for the misunderstood. Featuring new music by 44phantom.
+> Emo feels for the misunderstood. Featuring new music by whiterosemoxie & Tom The Mail Man.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> music for the cool kids, by the cool kids. featuring new music by ericdoa.
+> featuring new music by ericdoa.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

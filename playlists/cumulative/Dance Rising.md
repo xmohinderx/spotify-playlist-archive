@@ -2,7 +2,7 @@
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Elohim & Big Freedia.
+> Tomorrow's <a href="spotify:genre:edm_dance">dance</a> hits, with Channel Tres.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,7 @@
 | [stop](https://open.spotify.com/track/6BM9s0Pqmj5mvHsrDvLozu) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [stop](https://open.spotify.com/album/4CbJbnUWtedRpgLGIgaEiw) | 3:18 | 2021-05-29 |  |
 | [Straight To The Morning - Dillon Francis vs. Hot Chip Remix](https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Straight To The Morning (Dillon Francis vs. Hot Chip Remix)](https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe) | 2:22 | 2020-12-12 | 2021-02-06 |
 | [Strangers](https://open.spotify.com/track/6hmKXBo2W4yYyfyryl3C0i) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [Mary Jensen](https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB) | [Strangers](https://open.spotify.com/album/3DZnCTvuhEpZuUDq8Z27sr) | 3:00 | 2021-02-12 | 2021-03-26 |
-| [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2021-05-08 |  |
+| [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2021-05-08 | 2021-06-02 |
 | [Suga - David Penn Remix](https://open.spotify.com/track/6zX8bI8XoOXcLB8puqHRiH) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Suga (David Penn Remix)](https://open.spotify.com/album/0ieKJxcwCRnc8h8WzgNxxH) | 3:03 | 2020-10-30 | 2021-01-01 |
 | [Sugar (feat. Domino)](https://open.spotify.com/track/0HOlkn6EDTdk8QXN7lIRIp) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Domino](https://open.spotify.com/artist/2zqeXK0XOiBRC2e6doSIrN) | [Sugar (feat. Domino)](https://open.spotify.com/album/4LbSWzyk2EEjvcG4ykIueI) | 2:32 | 2021-02-26 | 2021-04-30 |
 | [Summer 91 (Looking Back)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 (Looking Back)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2021-02-19 | 2021-03-06 |

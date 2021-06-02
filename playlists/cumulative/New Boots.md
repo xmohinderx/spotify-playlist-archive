@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Cover: Jordan Davis
+> New Music Discovery is what we're about.  Try it on for size. Cover: Kylie Morgan
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,7 @@
 | [Livin' My Best Life](https://open.spotify.com/track/23dyF3k9LfRnG7rRIWWYJs) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [Livin' My Best Life](https://open.spotify.com/album/1bMedaV2jpYzvDhnJ6PLFj) | 3:05 | 2019-10-12 | 2019-10-21 |
 | [Livin’ The Dream](https://open.spotify.com/track/2L4YgbxxwmwafMqLIjSx8q) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Livin’ The Dream](https://open.spotify.com/album/6HALwpatS8fPZ62DgZbttt) | 3:59 | 2020-11-21 | 2021-02-04 |
 | [London](https://open.spotify.com/track/69RZJGfxX65CyLcVQ7xQVT) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [London](https://open.spotify.com/album/3A09SZXn6zJbGlsd2fZvDj) | 2:43 | 2019-11-26 | 2020-02-23 |
-| [Lonely 101](https://open.spotify.com/track/1PEqWWVMi9TN659NjKBiay) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Lonely 101](https://open.spotify.com/album/0uioNOtxBoAD5L87i396vS) | 3:29 | 2021-03-27 |  |
+| [Lonely 101](https://open.spotify.com/track/1PEqWWVMi9TN659NjKBiay) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Lonely 101](https://open.spotify.com/album/0uioNOtxBoAD5L87i396vS) | 3:29 | 2021-03-27 | 2021-06-02 |
 | [Lonely If You Are](https://open.spotify.com/track/1Ut1A8UaNqGuwsHgWq75PW) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lonely If You Are](https://open.spotify.com/album/5oTMku8FuJiOES9xZ5Vvwb) | 2:55 | 2019-06-11 | 2019-06-30 |
 | [Long Comes a Girl](https://open.spotify.com/track/3x32B5N5uXD19LMICppOfw) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Long Comes a Girl](https://open.spotify.com/album/7jIR1gPW2p09D7v0rwWaTN) | 3:23 | 2019-12-12 | 2020-01-27 |
 | [Long Cool Woman (In a Black Dress)](https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:36 | 2020-04-12 | 2020-04-18 |
@@ -588,7 +588,7 @@
 | [Near Mrs.](https://open.spotify.com/track/0Rmi2Bxr4oDWhbcXeY806r) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Near Mrs.](https://open.spotify.com/album/2do2OaRughgCdOthfVeZTm) | 4:17 | 2021-02-27 | 2021-05-29 |
 | [Need a Bar Sometimes](https://open.spotify.com/track/05uSddJIkn7aCcGZOLe5VO) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Need a Bar Sometimes](https://open.spotify.com/album/2tH27uztfniQ1M9Ajhf1LQ) | 2:43 | 2020-08-16 |  |
 | [Need This](https://open.spotify.com/track/6xuKOMw53c8FlU7lDvCfJN) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Need This / Warrior / Leaving Love Behind / Someone I Used to Know](https://open.spotify.com/album/71PXAEM5Oj3vsUVS6xrslz) | 2:38 | 2019-08-25 | 2019-08-31 |
-| [Need To Not](https://open.spotify.com/track/4Ls9R1CiOmiBe8A3U2WFNR) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Need To Not](https://open.spotify.com/album/7EpUZf3Ke5aEpn4CJct3O8) | 3:02 | 2021-03-27 |  |
+| [Need To Not](https://open.spotify.com/track/4Ls9R1CiOmiBe8A3U2WFNR) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Need To Not](https://open.spotify.com/album/7EpUZf3Ke5aEpn4CJct3O8) | 3:02 | 2021-03-27 | 2021-06-02 |
 | [Neon](https://open.spotify.com/track/0FquiTwfBE2LynvTqQ7ONW) | [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [Neon](https://open.spotify.com/album/17IKQmrHQlbhtCeodOWot0) | 2:57 | 2019-08-11 | 2019-08-19 |
 | [Neon Diamonds](https://open.spotify.com/track/4zpJzzGxKAqKojQoO68KXb) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Neon Diamonds](https://open.spotify.com/album/65LXcpHPc6gJ9sFaKJbNsH) | 3:06 | 2021-01-23 | 2021-02-20 |
 | [Neon Fools](https://open.spotify.com/track/1C0mdTiVLxRfsBrIhlPQQC) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Neon Fools](https://open.spotify.com/album/5upZpszGKEezR0FT1xicc3) | 3:15 | 2020-01-14 | 2020-04-04 |
@@ -665,7 +665,7 @@
 | [Platonic](https://open.spotify.com/track/4qbfKWLMnYXdhhQ8Q3uRXn) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Platonic - EP](https://open.spotify.com/album/5PTYUWCgYe6GlmctKST07R) | 2:31 | 2019-09-22 | 2019-11-09 |
 | [Poor Me](https://open.spotify.com/track/3ImJV8rivYg7v5WShbvveG) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Poor Me](https://open.spotify.com/album/0cSvpIDp6SbThNmeSFpNLP) | 2:41 | 2020-03-02 | 2020-05-16 |
 | [Pour Decisions](https://open.spotify.com/track/0fUWoEYp3vBY2Un1vNKNpj) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Pour Decisions](https://open.spotify.com/album/7l1PRxzRrJEzKtskyh7VV9) | 2:26 | 2019-10-26 | 2019-11-18 |
-| [Practice Swing](https://open.spotify.com/track/07sDtrQOyt8825uhxIXhgF) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 3:41 | 2021-02-06 |  |
+| [Practice Swing](https://open.spotify.com/track/07sDtrQOyt8825uhxIXhgF) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 3:41 | 2021-02-06 | 2021-06-02 |
 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 | 2019-08-31 | 2020-10-24 |
 | [Pretty Wild](https://open.spotify.com/track/0hCJD2Is5wQXh7dbUp26y8) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Pretty Wild EP](https://open.spotify.com/album/4aVTlgQTaEagr130NbKdUO) | 2:53 | 2021-03-06 |  |
 | [Proofs in the Bourbon](https://open.spotify.com/track/5qzrzKnTWKJTN6idumDn3F) | [Darrell Rae](https://open.spotify.com/artist/5TvKDiFVilbhywmcNNELbY) | [Proofs in the Bourbon](https://open.spotify.com/album/2vGC8rqiScWpmcxl3Bgc44) | 3:27 | 2019-06-11 | 2019-07-28 |
@@ -928,7 +928,7 @@
 | [Whatever You Do](https://open.spotify.com/track/355tAo2nEqL74FFvTlwXAR) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Finally](https://open.spotify.com/album/0HeTHWLmcrCShhRz79CKUe) | 2:55 | 2021-01-16 | 2021-05-22 |
 | [What’s Your Country Song](https://open.spotify.com/track/7Cw3yXDA8Uui37SI5FFaA7) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [What's Your Country Song](https://open.spotify.com/album/0WbfaztYJGyHiW3W9qe5Xw) | 2:50 | 2020-11-11 | 2021-01-09 |
 | [when was it over? (feat. Sam Hunt)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? (feat. Sam Hunt)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-05-15 |  |
-| [Where Have You Gone](https://open.spotify.com/track/1BdqRVyZeZrCWnbR5zsUz5) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Have You Gone](https://open.spotify.com/album/2VK5OGhlI6yJUSvQ1VMb6J) | 4:46 | 2021-05-15 |  |
+| [Where Have You Gone](https://open.spotify.com/track/1BdqRVyZeZrCWnbR5zsUz5) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Have You Gone](https://open.spotify.com/album/2VK5OGhlI6yJUSvQ1VMb6J) | 4:46 | 2021-05-15 | 2021-06-02 |
 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 | 2021-05-15 |  |
 | [Where I'm From](https://open.spotify.com/track/0ldnY8eAOx1ah889no0QzA) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Where I'm From](https://open.spotify.com/album/06yvfDxJtCqLIADxaQHtvH) | 3:31 | 2020-04-25 | 2020-07-19 |
 | [Where the Neon Lies (with Ronnie Dunn)](https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Where the Neon Lies (with Ronnie Dunn)](https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy) | 4:02 | 2021-03-14 |  |
