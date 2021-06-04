@@ -2,7 +2,7 @@
 
 ### [Lo-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
-> Slacker jams. Cover: spookyghostboy
+> Slacker jams. Cover: bb sway
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Attention](https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN) | 2:46 | 2021-05-21 |  |
 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2021-05-22 |  |
 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 | 2021-02-26 |  |
+| [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-04 |  |
 | [Better Than Heaven](https://open.spotify.com/track/1vv1iEw58OHt0juBWVgoTJ) | [Jhana Boy](https://open.spotify.com/artist/2Vlf1v1k5FzSmOVBsVRT2F) | [Better Than Heaven](https://open.spotify.com/album/4TD3lHUlqgOGL6ikKTYtmG) | 3:18 | 2020-10-27 |  |
 | [Big Nothing](https://open.spotify.com/track/5z8uTILTDLsjfeQot1NA7t) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 2:22 | 2020-10-27 |  |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-10-27 | 2020-10-30 |
@@ -49,7 +50,7 @@
 | [goblin](https://open.spotify.com/track/6wlZnTt9jfkR31dXabQ6tO) | [Kiko](https://open.spotify.com/artist/5J2LdEGghBCwRFc4pPbDJM) | [goblin](https://open.spotify.com/album/6nvfcbpAqQ1S9pBgrNDr5D) | 1:59 | 2021-01-12 |  |
 | [Going Going](https://open.spotify.com/track/0dldlUYSn1gQTTU6aY6L7U) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [About Today](https://open.spotify.com/album/2UN2slTOxJlWQiTGtcenLD) | 4:18 | 2020-10-27 | 2020-10-30 |
 | [Good For You](https://open.spotify.com/track/3FVQzQWwaOKYXnBFnXB6iZ) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Good For You](https://open.spotify.com/album/4UYS4jArAYYuBTTpCTPKwg) | 3:35 | 2020-10-27 |  |
-| [GROWING PAINS](https://open.spotify.com/track/0nw3cNi3s5v3TxvNT9FixR) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [QUEEN CITY](https://open.spotify.com/album/6nbZGbIT56fqbXmcw5sKQB) | 3:34 | 2021-05-21 |  |
+| [GROWING PAINS](https://open.spotify.com/track/0nw3cNi3s5v3TxvNT9FixR) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [QUEEN CITY](https://open.spotify.com/album/6nbZGbIT56fqbXmcw5sKQB) | 3:34 | 2021-05-21 | 2021-06-04 |
 | [Gush](https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2020-10-27 |  |
 | [Half Eaten](https://open.spotify.com/track/2KYbp21U0bz5KwyIU5SG3K) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Half Eaten](https://open.spotify.com/album/2rOJ8d7nmnJVr2ALnPC85j) | 3:18 | 2020-11-12 |  |
 | [Helium Balloon](https://open.spotify.com/track/2jFRgw5CTWcTZgqbaBOFSO) | [Jellyfish in Space](https://open.spotify.com/artist/7ozJQZmUWsjGabAMzVMzPq) | [Helium Balloon](https://open.spotify.com/album/4Cid4viMxaUZnZW0tWdFY4) | 3:11 | 2020-10-27 |  |
@@ -109,7 +110,7 @@
 | [Rotten Teeth](https://open.spotify.com/track/7dJwJZtmdqq0yg4DAWOMKJ) | [Mollie Coddled](https://open.spotify.com/artist/6lWMJ1gvO93kPnIN9UnLQQ) | [Rotten Teeth](https://open.spotify.com/album/4rzA98S9bASyIOLXRngQRY) | 3:49 | 2020-10-27 | 2021-01-12 |
 | [Rumours](https://open.spotify.com/track/4APYDLFFtwzlTsvyy9NZwA) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Rumours](https://open.spotify.com/album/1naEA1H0TUZ21r1JQWHQ0S) | 3:27 | 2020-10-27 | 2021-03-06 |
 | [Same as You](https://open.spotify.com/track/7mwEqaU0jRjS3sGvIxFhps) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Sept ~ Dec](https://open.spotify.com/album/6tYUyBo0cIL8dCSBsBjKnx) | 2:30 | 2020-10-27 | 2021-03-06 |
-| [Sarah Tonin](https://open.spotify.com/track/5EWQt0frtOwKK0o3jMohhX) | [Damien Burbank](https://open.spotify.com/artist/6whPKF98aagD2j5A0J4tOT), [Lo'fi Boy](https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz) | [Sarah Tonin](https://open.spotify.com/album/3FGUEacNwLDjbbnMaT58kX) | 2:34 | 2021-04-29 | 2021-06-03 |
+| [Sarah Tonin](https://open.spotify.com/track/5EWQt0frtOwKK0o3jMohhX) | [Damien Burbank](https://open.spotify.com/artist/6whPKF98aagD2j5A0J4tOT), [Lo'fi Boy](https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz) | [Sarah Tonin](https://open.spotify.com/album/3FGUEacNwLDjbbnMaT58kX) | 2:34 | 2021-04-29 |  |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-05-21 |  |
 | [Self Aware](https://open.spotify.com/track/4D7eFxcPYWqHQ7iyD2oiDp) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Self Aware](https://open.spotify.com/album/1sMcnA8gffc6mlU2Ez7ynd) | 4:46 | 2020-10-27 | 2020-10-30 |
 | [Semolina](https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Semolina](https://open.spotify.com/album/6nX8TqbKoYgrjWui1j6QEx) | 3:28 | 2020-10-27 |  |
@@ -127,10 +128,10 @@
 | [Sorry - Alternate Edit](https://open.spotify.com/track/3W9JY6DsyYtm2GPYsiOiDc) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sorry](https://open.spotify.com/album/72z8TgeBPwFyjoKk78HYHM) | 3:17 | 2020-10-27 | 2021-01-12 |
 | [Summer Something](https://open.spotify.com/track/707q7i5koucX2YSs6vR5pk) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [Summer Something](https://open.spotify.com/album/7HYvEPOj7atMKoEBQgVtbj) | 3:14 | 2020-10-30 |  |
 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 | 2020-10-30 |  |
-| [System](https://open.spotify.com/track/5MkrRoxmtqXc5OMDLIpF2J) | [Kat Duma](https://open.spotify.com/artist/4mq9h5EXNKgL4aPDBTFMGa) | [System](https://open.spotify.com/album/0HZcxaugJgSGBMTbjtNNXC) | 3:49 | 2021-04-29 |  |
+| [System](https://open.spotify.com/track/5MkrRoxmtqXc5OMDLIpF2J) | [Kat Duma](https://open.spotify.com/artist/4mq9h5EXNKgL4aPDBTFMGa) | [System](https://open.spotify.com/album/0HZcxaugJgSGBMTbjtNNXC) | 3:49 | 2021-04-29 | 2021-06-04 |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-04-29 |  |
-| [Tell Me, Laurel](https://open.spotify.com/track/1p361c2De6f2tVGmYLZESy) | [Carter Reeves](https://open.spotify.com/artist/2Zi2TRTblDexUBSTiYOqW6) | [Tell Me, Laurel](https://open.spotify.com/album/5PzGmxMV3yKNKIg7MS2ptG) | 2:29 | 2021-05-21 | 2021-05-28 |
-| [Thank You, Will Shortz](https://open.spotify.com/track/3DJiFuwt5t3yYwmn395vvU) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Thank You, Will Shortz](https://open.spotify.com/album/2qtWs4cHFZKUGzsCQ2jaoR) | 4:05 | 2021-04-29 |  |
+| [Tell Me, Laurel](https://open.spotify.com/track/1p361c2De6f2tVGmYLZESy) | [Carter Reeves](https://open.spotify.com/artist/2Zi2TRTblDexUBSTiYOqW6) | [Tell Me, Laurel](https://open.spotify.com/album/5PzGmxMV3yKNKIg7MS2ptG) | 2:29 | 2021-05-21 |  |
+| [Thank You, Will Shortz](https://open.spotify.com/track/3DJiFuwt5t3yYwmn395vvU) | [Spang Sisters](https://open.spotify.com/artist/55LV0taR11yxOICTZORibT) | [Thank You, Will Shortz](https://open.spotify.com/album/2qtWs4cHFZKUGzsCQ2jaoR) | 4:05 | 2021-04-29 | 2021-06-04 |
 | [The Weekend](https://open.spotify.com/track/6Hto6dZBGoP0Xsf1ZUydnQ) | [COOL BOY](https://open.spotify.com/artist/77c3dsWSmQRci2HAdaFFeT) | [The Weekend](https://open.spotify.com/album/68AV9Y7Z6eZZlFBmcOwNqt) | 3:19 | 2021-04-02 | 2021-06-03 |
 | [Things That Make It Warm](https://open.spotify.com/track/72g8JEkbyut7eAzILgBxDd) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Things That Make It Warm](https://open.spotify.com/album/1Cz7AaZHxk77OR2vDQnqEi) | 3:05 | 2020-10-27 | 2021-01-12 |
 | [to be alone](https://open.spotify.com/track/6YOOZvhKdHooWw0X6CmKeM) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [to be alone](https://open.spotify.com/album/1F9U2i7Aw40vtjj2njXlq3) | 2:24 | 2020-11-13 | 2021-03-16 |
