@@ -2,7 +2,7 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The finest in UK rap. Cover: MS Banks & K-Trap
+> The finest in UK rap. Cover: Pa Salieu & Slowthai
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [Seen It All (feat. Krept & Konan)](https://open.spotify.com/track/5FsURC9XbKrEAxHlmeY5d0) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Product of My Environment](https://open.spotify.com/album/6WuTbQyWtwt8pacwwJZorq) | 3:18 | 2020-12-04 | 2021-02-27 |
 | [Segregation](https://open.spotify.com/track/3nc374lq4X7iQYTCx5F3tb) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Dutch From The 5th](https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b) | 2:26 | 2020-11-06 | 2021-01-08 |
 | [Serious 2020](https://open.spotify.com/track/2U9g1MRlCzXLUL0LhRkYyl) | [Against All Odds](https://open.spotify.com/artist/7wKJMVDPPLr2BhEvyeRloB), [Maxwell D](https://open.spotify.com/artist/5LPAxQ1kOdRFs96mqODcX9), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [So Large](https://open.spotify.com/artist/3pUYAntYMysYuE21iwekJ1), [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [Serious 2020](https://open.spotify.com/album/01LlyrmddUcbRLMGEBtI1g) | 3:17 | 2020-10-24 | 2020-11-13 |
+| [She Like (feat. Blanco)](https://open.spotify.com/track/1oCbDWh54GvaE2lRlmJZcK) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [She Like (feat. Blanco)](https://open.spotify.com/album/3tBzwRA9tDK27VQR9jkNIQ) | 2:54 | 2021-06-08 |  |
 | [Shell Up](https://open.spotify.com/track/788mvF7knVXWaE2ZkuovOt) | [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Shell Up](https://open.spotify.com/album/6tJkmkW9nIphywykN49RPN) | 3:02 | 2021-03-20 | 2021-04-02 |
 | [Shippūden](https://open.spotify.com/track/6fGEfSUTyHgQZTiIbRoffC) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Shippūden](https://open.spotify.com/album/461qPAmmmkQD1GgIMYmC9F) | 2:59 | 2020-05-22 | 2020-05-30 |
 | [Shivers](https://open.spotify.com/track/4H3WOS82hXoKzHdPPApR2t) | [K-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Shivers](https://open.spotify.com/album/1aCeONYwhA5AFENEzxJmv7) | 3:29 | 2020-06-29 | 2020-08-07 |

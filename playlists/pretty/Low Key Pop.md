@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/Low%20Key%20Pop.md) - [plain](/playl
 
 ### [Low Key Pop](https://open.spotify.com/playlist/3pxwKjnmDg4kwTc5nItYcx)
 
-> Let your mind float away with these down-tempo low key tracks. Cover: Maisie Peters &amp; James Bay
+> Let your mind float away with these down-tempo low key tracks. Cover: Sara Kays
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shoulda Coulda](https://open.spotify.com/track/16gwQCz3zlj6u9NOMDB9wI) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Budjerah](https://open.spotify.com/album/5oG8dofJtCly2McfPlL445) | 2:56 |
-| 2 | [Chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:20 |
-| 3 | [Funeral (feat. James Bay)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral (feat. James Bay)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 |
-| 4 | [Parasite](https://open.spotify.com/track/4pRVh4JXhDiwkOMRNJuRju) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61) | [Parasite](https://open.spotify.com/album/2GVR00cBAHHzBKQs4UYY7G) | 3:06 |
-| 5 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
-| 6 | [Sunset Dream](https://open.spotify.com/track/0L1FtaRjfRZTIrenNbsFIa) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Sunset Dream](https://open.spotify.com/album/0zP5kga1QrhHeXNIRfmdpR) | 3:26 |
-| 7 | [Love Again](https://open.spotify.com/track/1imMjt1YGNebtrtTAprKV7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 4:18 |
-| 8 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
-| 9 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 |
-| 10 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 |
-| 11 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 |
+| 2 | [Love Again](https://open.spotify.com/track/1imMjt1YGNebtrtTAprKV7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 4:18 |
+| 3 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 |
+| 4 | [Chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:20 |
+| 5 | [Parasite](https://open.spotify.com/track/4pRVh4JXhDiwkOMRNJuRju) | [Sloan Peterson](https://open.spotify.com/artist/6opB1rIN0KzlWbK5ZlHz61) | [Parasite](https://open.spotify.com/album/2GVR00cBAHHzBKQs4UYY7G) | 3:06 |
+| 6 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
+| 7 | [Sunset Dream](https://open.spotify.com/track/0L1FtaRjfRZTIrenNbsFIa) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Sunset Dream](https://open.spotify.com/album/0zP5kga1QrhHeXNIRfmdpR) | 3:26 |
+| 8 | [Funeral (feat. James Bay)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral (feat. James Bay)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 |
+| 9 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
+| 10 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 |
+| 11 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 |
 | 12 | [Higher](https://open.spotify.com/track/7MUhRZD1UNEYk4PPq2wSw3) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Higher](https://open.spotify.com/album/5bNltaFAuWA5gyTTCamcve) | 3:14 |
 | 13 | [Handful of Water - Sofía x Ta-ku Remix](https://open.spotify.com/track/4FpRKvQ53N7i21MxZyRPW8) | [Ta-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura (Extended)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 3:18 |
 | 14 | [She Said](https://open.spotify.com/track/5Ls5KXyiXXMWvROXKdXeFY) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [She Said](https://open.spotify.com/album/0EJObfwR6dyCwNUVPQDhk4) | 3:20 |
