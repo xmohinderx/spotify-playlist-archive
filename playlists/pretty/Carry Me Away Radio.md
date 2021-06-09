@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Carry%20Me%20Away%20Radio.md) - [pla
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Hozier, Ray LaMontagne, Julia Michaels and more
+> With John Mayer, James Bay, Andy Grammer, Hollow Coves and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

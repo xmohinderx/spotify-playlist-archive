@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Grimes%20Radio.md) - [plain](/playli
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Shygirl, Rezz, James K and more
+> With Phantogram, Crystal Castles, Kim Petras and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

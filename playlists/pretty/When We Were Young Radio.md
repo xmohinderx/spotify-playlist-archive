@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/When%20We%20Were%20Young%20Radio.md)
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Maroon 5, Ed Sheeran, Jason Mraz and more
+> With Adele, Sam Smith, Bradley Cooper, Demi Lovato and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
