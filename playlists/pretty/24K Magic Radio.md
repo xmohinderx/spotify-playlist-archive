@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/p
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Ty Dolla $ign, Ariana Grande, Demi Lovato and more
+> With Bruno Mars, DJ Snake, Fifth Harmony, Jason Derulo and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
