@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Lil Baby, Lil Durk and Roddy Ricch.
+> Music from Lil Baby, Lil Durk, Roddy Ricch and Nicki Minaj. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Apollo](https://open.spotify.com/track/0VPmIETYsw3JBnyh4iDjVv) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Apollo](https://open.spotify.com/album/45lKgjsHIE2vz79l8EydQv) | 3:28 | 2020-03-06 | 2020-05-01 |
 | [Are U Live](https://open.spotify.com/track/1jThIYb5bqVnsAXlBnVwjj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI) | [Are U Live](https://open.spotify.com/album/0cjc4cqqrmfuP1SLmvi0vi) | 3:40 | 2020-12-04 | 2020-12-11 |
 | [Audacity (feat. Headie One)](https://open.spotify.com/track/3WcGdhN6wvGplwVyixNgfI) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Audacity (feat. Headie One)](https://open.spotify.com/album/6C28KhpoiFAUsJr4ZwBsry) | 4:05 | 2019-12-13 | 2019-12-20 |
+| [Avalanche](https://open.spotify.com/track/0ah0s08IdRiaxC4wHmN2MD) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Avalanche](https://open.spotify.com/album/5v2hivxcXtjcPyHXgQa1GH) | 3:26 | 2021-06-11 |  |
 | [B*tch From Da Souf (Remix)](https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV) | [Mulatto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [B*tch From Da Souf (Remix)](https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy) | 3:44 | 2020-07-10 | 2020-07-31 |
 | [B*tch From Da Souf](https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ) | [Mulatto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [B*tch From Da Souf](https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw) | 2:24 | 2019-10-11 | 2019-11-01 |
 | [B.B. King Freestyle (with Drake)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 | 2020-12-01 | 2020-12-09 |
@@ -238,7 +239,7 @@
 | [Finesse Out The Gang Way (feat. Lil Baby)](https://open.spotify.com/track/15bnyEOUVRkwWlxR4F7xzF) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Voice (Deluxe)](https://open.spotify.com/album/47kzblYQZC439seeROq90P) | 3:06 | 2021-01-29 | 2021-04-24 |
 | [First Class](https://open.spotify.com/track/4MUkRNmCgbcoAVu5BuNVgp) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [First Class](https://open.spotify.com/album/4mExpZsm6TkXyE8jXfmNEq) | 3:11 | 2019-10-18 | 2019-10-25 |
 | [First Place](https://open.spotify.com/track/5rSVQzJQ5nMUcFJDkJMfzL) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [First Place](https://open.spotify.com/album/3IUuhdkjrVNZQZK9V1rB3q) | 3:19 | 2020-01-17 | 2020-02-14 |
-| [Flamerz Flow](https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Flamerz Flow](https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl) | 1:40 | 2021-06-05 |  |
+| [Flamerz Flow](https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Flamerz Flow](https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl) | 1:40 | 2021-06-05 | 2021-06-11 |
 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 | 2020-06-20 | 2020-06-29 |
 | [Flex (feat. Juice WRLD)](https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:43 | 2020-05-19 | 2020-09-18 |
 | [Flex Up (feat. Future & Playboi Carti)](https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lil Boat 3.5](https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo) | 2:50 | 2020-11-27 | 2021-01-21 |
