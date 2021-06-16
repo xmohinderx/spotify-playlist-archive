@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: EVERGLOW
+> Future K-Pop hits! Cover: BamBam
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Broken Me](https://open.spotify.com/track/6PiOBvjLSb1UD9wtqwplUG) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Broken Me](https://open.spotify.com/album/26iymt2wG3Bw53mmX5AbvB) | 3:24 | 2021-06-11 |  |
 | [BUMP BUMP](https://open.spotify.com/track/3DuDC17OWfngzNa0dyK4Nj) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [WOOPS!](https://open.spotify.com/album/34PBDKuurgUDpAudAbOt9C) | 3:02 | 2020-11-17 | 2021-03-19 |
 | [Burn It](https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 5th Mini Album [YES.]](https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi) | 3:29 | 2021-01-25 | 2021-03-02 |
+| [BYE BYE BYE](https://open.spotify.com/track/69Nn4yZnYo1nw4mfQvNbfU) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : Action](https://open.spotify.com/album/7nvcGJpVJBTOtYKGTEtCmr) | 3:25 | 2021-06-16 |  |
 | [CARDIGAN (feat. Wonstein)](https://open.spotify.com/track/2ZEJPpvO2j1KDx9UxShxID) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ROSES](https://open.spotify.com/album/0Q5HDqny1SbvWqXCByWIql) | 3:14 | 2021-06-04 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-01-27 | 2021-03-01 |
 | [Christmassy!](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'Christmassy!'](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) | 3:25 | 2020-12-08 | 2021-02-15 |
@@ -144,6 +145,7 @@
 | [Like a Movie](https://open.spotify.com/track/6dPzi41DQDgzsPJDFffbJO) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Origine](https://open.spotify.com/album/5VzMQgh8F9GOgNPu7LcZUs) | 3:33 | 2020-10-19 | 2021-01-18 |
 | [Like It Hot](https://open.spotify.com/track/0sZ0QRe8BFNPOJ2k80adu1) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE OTHER SIDE OF THE MOON](https://open.spotify.com/album/4W9vkO9c1K2oVvLTNsjWv7) | 3:22 | 2021-05-28 |  |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-25 |  |
+| [Lock Down](https://open.spotify.com/track/3SCxTtLDtZ6HsQrytAoyLV) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Bipolar Pt.1 Prelude of Anxiety](https://open.spotify.com/album/7vmtkwSVS1bKSvRbQ0ALvY) | 3:27 | 2021-06-16 |  |
 | [Lonely Night](https://open.spotify.com/track/0QMoGqv6sik2E0YEXd72tk) | [YOON DU JUN](https://open.spotify.com/artist/0bjyZMw6TzPhXSp2PoKXx7) | [Daybreak](https://open.spotify.com/album/233QLBM9p2grpC7GMpMK6X) | 3:27 | 2020-10-13 | 2020-10-22 |
 | [Losing You](https://open.spotify.com/track/4OJJ48xIvpbP3lHaCkEIbA) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Losing You](https://open.spotify.com/album/2pA5upussFvf8eQoMUATmI) | 2:58 | 2020-10-13 | 2020-11-11 |
 | [LOVE% (feat. DAWN)](https://open.spotify.com/track/2bR7KFQESL278uZAc1vb4U) | [DEMIAN](https://open.spotify.com/artist/6DNTezBmjBm68oYPCENCcA), [DAWN](https://open.spotify.com/artist/6lbtolx1LYsaMrTs8wh7b4) | [A Blue not Blues](https://open.spotify.com/album/1sonSzv8w0K8IMdasvLxKp) | 3:33 | 2021-03-06 | 2021-03-11 |
@@ -198,6 +200,7 @@
 | [Purple](https://open.spotify.com/track/1vTnqL5pQuOkT6smX8ntCP) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | ["WISH"](https://open.spotify.com/album/0D6cvNG4C3o2Yxyf7iQnoA) | 2:56 | 2021-06-09 |  |
 | [Ready Or Not](https://open.spotify.com/track/0Sp0RwhaE0CdJE8ctmXk4U) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Ready Or Not](https://open.spotify.com/album/6uFRDoLaMdhTSDOOp5xW1z) | 3:20 | 2020-11-17 | 2021-04-22 |
 | [Revolution](https://open.spotify.com/track/59jcTRUaGUbKAjjmguiINC) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [DECOHERENCE](https://open.spotify.com/album/5xobv4mIR1C2BiSts7WDxL) | 3:09 | 2020-10-22 | 2021-01-18 |
+| [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam (GOT7)](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2021-06-16 |  |
 | [RIDE](https://open.spotify.com/track/4bWza2UuXLn2d21YFi1XXj) | [KNK](https://open.spotify.com/artist/5zx2slDKDXNn1e6779RzPd) | [KNK AIRLINE](https://open.spotify.com/album/67o91ctnyaMxfi8OSokpcS) | 3:33 | 2020-10-13 | 2020-11-16 |
 | [Ring Ring](https://open.spotify.com/track/1LmAeYKwK2BA2FFUMyTXD2) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [Ring Ring](https://open.spotify.com/album/1IFwB37JXLhIh53bSBBMbI) | 3:02 | 2021-05-18 |  |
 | [Rosario (Feat. CL, ZICO)](https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Epik High Is Here 上 (Part 1)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:50 | 2021-01-18 | 2021-01-19 |
@@ -243,6 +246,7 @@
 | [U MAD](https://open.spotify.com/track/2qR0mMrgwO099ONpl2B0II) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 2:50 | 2021-01-25 | 2021-05-11 |
 | [Ugly Dance](https://open.spotify.com/track/42M4c2TDlaJgNz08vsEoYD) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [CITY OF ONF](https://open.spotify.com/album/63O0HEANLojQMAIM4czm3P) | 3:18 | 2021-05-05 |  |
 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 | 2021-04-08 |  |
+| [Vanilla](https://open.spotify.com/track/3MJtE5VkJHHTV74E6KIDIv) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Vanilla](https://open.spotify.com/album/77w56C1tECJwOgVEhNbI5x) | 3:24 | 2021-06-16 |  |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2020-10-13 | 2021-01-18 |
 | [Warning (Feat. lIlBOI)](https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:28 | 2021-04-06 | 2021-06-09 |
 | [water color](https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Redd](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) | 3:09 | 2021-04-14 |  |
