@@ -2,7 +2,7 @@
 
 ### [Date Night At Home](https://open.spotify.com/playlist/1MmXcTuWbvBApvUMIgxDhV)
 
-> A playlist to feel the love
+> 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,11 @@
 | [Everytime She Falls in Love](https://open.spotify.com/track/3i3x94XSzYHzzN6Dt8jhh7) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Everytime She Falls in Love](https://open.spotify.com/album/44O4J8YOMSFojpKonyIsrP) | 3:24 | 2021-05-14 |  |
 | [Feel The Need](https://open.spotify.com/track/6Wxm950nfluMnIt3YsF2RT) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [a tree planted by water](https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB) | 3:48 | 2021-01-27 |  |
 | [Finally Know What Love Is](https://open.spotify.com/track/2ktMi2pYT5FrTSCH79cDqB) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Together](https://open.spotify.com/album/27WlKV7GJogM9zRwKk5JeA) | 3:21 | 2021-01-27 |  |
+| [fire](https://open.spotify.com/track/5PT88kzZEjOlIQqXtdxfq3) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Love? Songs](https://open.spotify.com/album/0UVHZWTkF9nlZBYWb4WVM0) | 3:09 | 2021-06-18 |  |
 | [For Life (Take You out, Treat You Right)](https://open.spotify.com/track/1dulvrK6yMIbklTAwYX95q) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Guess I’m Grown Now](https://open.spotify.com/album/76BxrqfWvYqkx5LKgunLPc) | 3:16 | 2021-01-27 |  |
 | [Go](https://open.spotify.com/track/3D8coaxE1f0mxna8K5y4M4) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/1gH1fXGLT3cTgVJPLoiPxY) | 3:14 | 2021-01-27 |  |
 | [Good Day for Marrying You](https://open.spotify.com/track/6vlYWXOfSSUGnO6N2ldLcu) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Hymns for Her](https://open.spotify.com/album/4qVzelNhCSGVGBTARNAG1c) | 2:42 | 2021-05-14 |  |
+| [Hey Lady](https://open.spotify.com/track/005GaX6hvgeTFnR9FvejTE) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Undergrad Romance and the Moses in Me](https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb) | 3:50 | 2021-06-18 |  |
 | [Hocus Pocus](https://open.spotify.com/track/23TL1H9YRub4jpMs552fak) | [Clark Beckham](https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK) | [Year One](https://open.spotify.com/album/6as5QIUlyIgEYjerecf786) | 3:38 | 2021-01-27 |  |
 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 | 2021-01-27 |  |
 | [How Bad We Need Each Other](https://open.spotify.com/track/0gWcJrbC41WK5qsKowO0tz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out Of Style](https://open.spotify.com/album/2PbLPXxJ8Hh5PWVrcwgM5T) | 3:13 | 2021-01-27 |  |
@@ -45,6 +47,7 @@
 | [I Will Always Be Yours](https://open.spotify.com/track/4m1lB7qJ78VPYsQy7RoBcU) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq) | 3:46 | 2021-01-27 |  |
 | [It Would Be You](https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It Would Be You](https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV) | 3:39 | 2021-01-27 |  |
 | [It's Not Living (If It's Not With You)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 | 2021-01-27 |  |
+| [June](https://open.spotify.com/track/3nlE0lXdkLubW5WdsJdbqZ) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [June](https://open.spotify.com/album/7vC9T0W2ltfX60luKrvrkH) | 3:21 | 2021-06-18 |  |
 | [Love Like This](https://open.spotify.com/track/06JmNnH3iXKENNRKifqu0v) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq) | 3:34 | 2021-03-30 |  |
 | [Love Somebody (Josh Kerr Remix)](https://open.spotify.com/track/2PsyGAPBFFrMhqn2ugK5bv) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Love Somebody (Josh Kerr Remix)](https://open.spotify.com/album/4gwycSls0kA3gOSp8cz7yk) | 3:38 | 2021-01-27 |  |
 | [Love Somebody](https://open.spotify.com/track/3ZygXpVJazldl1UbMP1yGM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:57 | 2021-01-27 |  |
@@ -66,6 +69,7 @@
 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 | 2021-01-27 |  |
 | [take me on](https://open.spotify.com/track/70hvCk6sUutFjKA1Y4W1mc) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [take me on](https://open.spotify.com/album/0bFDNLvbE7GTHfUasrLy7p) | 3:30 | 2021-01-27 |  |
 | [The Good Life](https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:05 | 2021-01-27 |  |
+| [The Lord Ain't Let Me Down Lately](https://open.spotify.com/track/5Z9lSh0fbNsNpgMvg2y2Hc) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [The Lord Ain't Let Me Down Lately](https://open.spotify.com/album/62V2XMSZ2xjaBMbk3clYoZ) | 3:32 | 2021-06-18 |  |
 | [The Luckiest](https://open.spotify.com/track/1fujSajijBpJlr5mRGKHJN) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [Rockin' The Suburbs](https://open.spotify.com/album/4FtOLTQqwnxpaABrJWYdBy) | 4:25 | 2021-01-27 |  |
 | [The Wine We Drink](https://open.spotify.com/track/1suAGMS1XkcEbvZwV6CuMv) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Good Light](https://open.spotify.com/album/4WXwjwVrr6TFi0HpE5QXq4) | 3:09 | 2021-01-27 |  |
 | [Want Me Back](https://open.spotify.com/track/64zfaCPwuuPkEtoNt1jzFx) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dynamo](https://open.spotify.com/artist/111nt9iSSDDF16KPSSLC5g) | [08.26.18](https://open.spotify.com/album/4C9AD9aNoNs0wXmQT7bbIv) | 4:03 | 2021-01-27 |  |
