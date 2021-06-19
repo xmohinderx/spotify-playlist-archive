@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> is it just us or is music thriving rn  cover: Cavetown
+> is it just us or is music thriving rn  cover: Tkay Maidza
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -727,6 +727,7 @@
 | [Over-the-Ocean Call](https://open.spotify.com/track/6Kd3udS3G5mQq4Nt51mCKh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Over-the-Ocean Call](https://open.spotify.com/album/70OpmX87dKDQK5sq8xh5rq) | 4:04 | 2020-07-18 | 2020-09-17 |
 | [Overdose (with HONNE)](https://open.spotify.com/track/14SdFsC2m6kl7buXWJb0n3) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 4:07 | 2019-07-30 | 2019-10-10 |
 | [Overdrive](https://open.spotify.com/track/5zexuTIZGttwZbj5PM1ztp) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Overdrive](https://open.spotify.com/album/45JxkluYypAMbmM2nH94C6) | 3:16 | 2021-02-19 | 2021-05-12 |
+| [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-06-19 |  |
 | [Painting (Masterpiece)](https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Painting (Masterpiece)](https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC) | 4:03 | 2019-07-30 | 2019-08-02 |
 | [Palms (with Channel Tres)](https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Palms (with Channel Tres)](https://open.spotify.com/album/4dh0Z5pwqLY6cRvFtGC6ox) | 4:00 | 2021-04-08 |  |
 | [Palms](https://open.spotify.com/track/0fUFpbQsTXojtPfKasNfXZ) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:00 | 2020-09-19 | 2020-10-24 |

@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Lainey Wilson
+> Today's top country hits of the week, worldwide! Cover: Jimmie Allen
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Last Time I Say Sorry](https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Last Time I Say Sorry](https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs) | 3:14 | 2020-03-28 | 2020-05-09 |
 | [Leave Her Wild](https://open.spotify.com/track/5cuYa1jn3hohHZJCGC0B7d) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Leave Her Wild](https://open.spotify.com/album/0Gt8v6wbQ7YXyd0IfdrFlJ) | 3:19 | 2019-06-15 | 2019-09-08 |
 | [Life Rolls On](https://open.spotify.com/track/72xDxwWk5h3XfGXcCWJASo) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [6-Pack](https://open.spotify.com/album/0aJHugDCe9xhy5kwqGsMh5) | 3:21 | 2021-01-16 | 2021-04-10 |
+| [Like A Lady](https://open.spotify.com/track/76djDZcj6Og5HcVAaRjQHu) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Like A Lady](https://open.spotify.com/album/6wRC37A3ZrIxGZpk5ZHTqN) | 3:01 | 2021-06-19 |  |
 | [Like I Knew You Would](https://open.spotify.com/track/0p16vTKfS8UpdZJqfaKMCB) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Payton Smith](https://open.spotify.com/album/2lYVYh6DuhtTikIZKM1zGs) | 3:02 | 2019-11-25 | 2020-09-11 |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-04-17 |  |
 | [Living](https://open.spotify.com/track/54K7AZoGpQklpygKrxZlKN) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:42 | 2019-05-26 | 2019-12-14 |
