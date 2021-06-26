@@ -2,7 +2,7 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe (◡ ‿ ◡ ✿) cover: Jelani Aryeh
+> it's a vibe (◡ ‿ ◡ ✿) cover: beabadoobee
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Clay Pigeon](https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Clay Pigeon](https://open.spotify.com/album/1ACZGErPeFAM92avUZMvZZ) | 2:29 | 2021-05-22 |  |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2021-01-16 | 2021-02-27 |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2021-04-03 | 2021-04-24 |
+| [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-06-26 |  |
 | [Color Palette](https://open.spotify.com/track/0BD07BDyj2yzdo2TeITJNH) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Color Palette](https://open.spotify.com/album/6Oamn4DFP3vMzADj1ksWAa) | 3:33 | 2021-01-09 | 2021-02-19 |
 | [Colorado](https://open.spotify.com/track/41WtQo9j7WR72VuAgN0LNb) | [Caro](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [The Longest Year: Part One](https://open.spotify.com/album/386y4A9x4YzDEUODlsNix9) | 1:58 | 2020-10-29 | 2020-11-07 |
 | [Colorado](https://open.spotify.com/track/41WtQo9j7WR72VuAgN0LNb) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [The Longest Year: Part One](https://open.spotify.com/album/386y4A9x4YzDEUODlsNix9) | 1:58 | 2020-11-07 | 2020-11-14 |

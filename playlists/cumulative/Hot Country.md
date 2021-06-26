@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Jimmie Allen
+> Today's top country hits of the week, worldwide! Cover: Lady A
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Compassion](https://open.spotify.com/track/6Hr1oAF1r1YsgBb8QEi545) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Compassion](https://open.spotify.com/album/0VPb1qcRGAjJhr0rh1d25D) | 3:56 | 2021-01-27 | 2021-03-27 |
 | [Cool Again](https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Cool Again](https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9) | 2:44 | 2020-04-24 | 2020-11-03 |
 | [Cool Anymore](https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cool Anymore](https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL) | 3:20 | 2020-01-26 | 2020-06-29 |
+| [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 | 2021-06-26 |  |
 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again (Side A)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 | 2021-04-24 |  |
 | [Dance with Me (feat. Thomas Rhett & Young Thug)](https://open.spotify.com/track/6AoHQqGnuwFk9ygWhzLRws) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley Chapter 1: Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:50 | 2020-06-14 | 2020-10-18 |
 | [Dear Hate (feat. Vince Gill)](https://open.spotify.com/track/7zOoHxDt1duHL8czY7o7ab) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Dear Hate (feat. Vince Gill)](https://open.spotify.com/album/26mCA3BoItiaZyhxmmvPRl) | 3:40 | 2020-06-02 | 2020-06-03 |
@@ -260,7 +261,7 @@
 | [No I in Beer](https://open.spotify.com/track/5UMjPT47GpOwkUo6e99R3s) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [No I in Beer](https://open.spotify.com/album/2qTiPM68z9kbAcDPVqNyoG) | 3:36 | 2020-08-05 | 2020-10-10 |
 | [No One Like You](https://open.spotify.com/track/4yLToNshTGzYP9BGGmnLm3) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [No One Like You](https://open.spotify.com/album/267Q2vf1kVWpqpToJ2tBVt) | 3:00 | 2020-02-08 | 2020-03-07 |
 | [Nobody](https://open.spotify.com/track/2SHbF9xWleu30pAHfOZaEn) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nobody](https://open.spotify.com/album/7zbGssKdxVpFJJg2TQCntk) | 2:40 | 2019-05-26 | 2020-01-18 |
-| [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 | 2021-03-27 |  |
+| [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 | 2021-03-27 | 2021-06-26 |
 | [Nobody But You (Duet with Gwen Stefani)](https://open.spotify.com/track/5M8goiFYynmNxhueYW6grR) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Fully Loaded: God's Country](https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT) | 3:14 | 2020-01-13 | 2020-06-21 |
 | [Not Yet](https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Not Yet](https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ) | 2:54 | 2021-04-30 |  |
 | [Nothing Like You](https://open.spotify.com/track/38gbVnKWI8xEd7AnqS9aiZ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:16 | 2020-01-18 | 2020-06-21 |
