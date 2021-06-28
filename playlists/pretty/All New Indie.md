@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/All%20New%20Indie.md) - [plain](/pla
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new tracks every week. Cover: Yves Tumor
+> The best new tracks every week. Cover: Lucy Dacus
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
