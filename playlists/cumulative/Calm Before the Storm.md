@@ -2,7 +2,7 @@
 
 ### [Calm Before the Storm](https://open.spotify.com/playlist/37i9dQZF1DWWTdxbiocWOL)
 
-> Improve your concentration with aerial post-rock sounds...
+> Aerial post-rock sounds to take you somewhere else.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Anything You Synthesize - Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2020-10-20 |  |
 | [Aura Phase](https://open.spotify.com/track/0VjApV6NEpnFPDNbOAhbIP) | [L'Effondras](https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y) | [Anabasis](https://open.spotify.com/album/6d4GLYbbpS40ZljBpSPPq5) | 4:48 | 2021-06-09 |  |
 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 | 2020-10-20 |  |
-| [Bells Bleed & Bloom](https://open.spotify.com/track/2kL584Ddb8dVjAbga456kZ) | [ef](https://open.spotify.com/artist/4K7elTMrmeEYTE9w1zGP5e) | [Ceremonies](https://open.spotify.com/album/1QxZ4EvWHLFlvfiyhMG5kN) | 8:36 | 2020-10-20 |  |
+| [Bells Bleed & Bloom](https://open.spotify.com/track/2kL584Ddb8dVjAbga456kZ) | [ef](https://open.spotify.com/artist/4K7elTMrmeEYTE9w1zGP5e) | [Ceremonies](https://open.spotify.com/album/1QxZ4EvWHLFlvfiyhMG5kN) | 8:36 | 2020-10-20 | 2021-07-02 |
 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 | 2020-10-20 |  |
 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 | 2020-10-20 |  |
 | [Coolverine](https://open.spotify.com/track/0h0smRHEjrkSFUhNWQh8SR) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Coolverine](https://open.spotify.com/album/4VbkhUhlZDvaxqXadIdtjk) | 6:16 | 2020-10-20 | 2021-02-19 |
@@ -50,6 +50,7 @@
 | [The First Fire](https://open.spotify.com/track/0glEvaWrhIP0boU56o5Q9U) | [If These Trees Could Talk](https://open.spotify.com/artist/2GVzsXcXyU95u2EahzwqN7) | [Red Forest](https://open.spotify.com/album/0i1vP6JtYq4kE3oygILHzk) | 6:30 | 2020-10-20 |  |
 | [The Landlord Is Dead](https://open.spotify.com/track/5FWLAjPd8HIoJxYfRkHqwT) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Goodbye Enemy Airship The Landlord Is Dead](https://open.spotify.com/album/1SH23Q59wEm5Dyxw2afsm4) | 5:39 | 2021-06-09 |  |
 | [The Last March](https://open.spotify.com/track/0CpibaJlmN4ZU5MhovLQf7) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Origins](https://open.spotify.com/album/0JWFe9UkBvkDQdkooJdbOi) | 4:43 | 2020-10-20 |  |
+| [The Longest Journey](https://open.spotify.com/track/2rTLrieV0wgvqoMIE6p23B) | [Walls of Ashes](https://open.spotify.com/artist/5ibjknpzKnUR5s8bidwfCn) | [The Longest Journey](https://open.spotify.com/album/7AckSB2G0cAqKMHjhlRCuy) | 4:40 | 2021-07-02 |  |
 | [The World Is Our ___](https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 7:12 | 2020-10-20 |  |
 | [They Move on Tracks of Never-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 6:56 | 2021-06-09 |  |
 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 | 2020-10-20 |  |
