@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/POLLEN.md) - [plain](/playlists/plai
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Tyler, The Creator
+> Genre-less. Quality first always. Cover: Brent Faiyaz
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/POLLEN.md) - [plain](/playlists/plai
 | 25 | [Find It](https://open.spotify.com/track/2z2akz47l8Eeri9gmFx46d) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Fatigue](https://open.spotify.com/album/1L9yCNvMeREkOXyLPzxP0b) | 6:17 |
 | 26 | [Avenue Of The Fireflies](https://open.spotify.com/track/4sFLrUl0Omp65zLQEJZcNB) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Daymaker](https://open.spotify.com/album/61H3cb9u9WlaajR64UWu7c) | 3:39 |
 | 27 | [Pelota (Cut a Rug Mix)](https://open.spotify.com/track/380cW88WvjXFmX3wzK1NOf) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Pelota (Cut a Rug Mix)](https://open.spotify.com/album/2cvz3KTomD5JNGIBnCfiGD) | 5:01 |
-| 28 | [Gutter (feat. Wara)](https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm) | [Grip](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [WARA](https://open.spotify.com/artist/2Ht07O62G5N6LTqguC92qG) | [Gutter (feat. Wara)](https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve) | 2:56 |
+| 28 | [Gutter (feat. WARA)](https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [WARA](https://open.spotify.com/artist/2Ht07O62G5N6LTqguC92qG) | [Gutter (feat. WARA)](https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve) | 2:56 |
 | 29 | [hey! - Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! - Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 |
 | 30 | [Midnight Charm](https://open.spotify.com/track/4KvwFkvB19nL2hWM096blY) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Midnight Charm](https://open.spotify.com/album/7IKdNQ7VckGnLhnp0y2eL2) | 2:58 |
 | 31 | [LUMBERJACK](https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [LUMBERJACK](https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e) | 2:18 |

@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> is it just us or is music thriving rn  cover: Tkay Maidza
+> crushing on the breakup bops this week, u? 💘 cover: Claire Rosinkranz
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Flames (feat. Ruel)](https://open.spotify.com/track/0D1ZKHo1jI0gzOWZGhlyv3) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Flames](https://open.spotify.com/album/4IK6iEL3DSjo5xMDlaBBeH) | 3:36 | 2019-07-30 | 2019-10-29 |
 | [Florida Kilos](https://open.spotify.com/track/0iQPnK3bi7O27c5T2HBTdr) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence (Deluxe)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 | 2019-07-30 | 2019-08-08 |
 | [Flow Now](https://open.spotify.com/track/4xoF9Pzc1oIAEq8Hyx1Q5F) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Flow Now](https://open.spotify.com/album/3GXVmms3IuurjeS1Suje61) | 2:23 | 2020-05-20 | 2020-07-29 |
+| [FMRN](https://open.spotify.com/track/08hB2ERJV6A1Ntu3OHgzjh) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [FMRN](https://open.spotify.com/album/4jfJVKmrG63Cp8DPYDOHCD) | 2:02 | 2021-07-04 |  |
 | [Focus](https://open.spotify.com/track/7hNFR8i6QnIDLb9bK8aa4S) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Focus](https://open.spotify.com/album/0YmESLUlmgzR9wTZ4d6yPQ) | 3:19 | 2020-07-24 | 2021-06-11 |
 | [FOOD](https://open.spotify.com/track/1fL3oiFKzuo7Yic2i9CGIj) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [FOOD](https://open.spotify.com/album/0FS1f3ZouJx2uMKsrHpu6W) | 3:04 | 2020-11-20 | 2020-12-04 |
 | [Fool](https://open.spotify.com/track/6iGWH4PRPDwtN9NydaHK8b) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/2dJhTwaouxbcL2xjdw0zjK) | 3:53 | 2019-07-30 | 2019-11-14 |
@@ -395,6 +396,7 @@
 | [go off the deep end, pt. 2](https://open.spotify.com/track/3VOTpciO78esvk2bb2X6E0) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [go off the deep end, pt. 2](https://open.spotify.com/album/5Cvzq1B3oOXbb8WalZLZy7) | 1:41 | 2020-07-31 | 2020-08-21 |
 | [Go Wrong](https://open.spotify.com/track/75dIKJQLp0iV4q99dxxyVF) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Go Wrong](https://open.spotify.com/album/6p9iOHrUmFLFZgD1yE5EqB) | 2:23 | 2021-02-24 | 2021-04-16 |
 | [God in Jeans](https://open.spotify.com/track/1pu4luiWwVAcJRoCuqJfWg) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 2:52 | 2020-08-21 | 2020-12-04 |
+| [going](https://open.spotify.com/track/0Y2ow0ukZdDNDzYHD54Pjj) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [going/freedom](https://open.spotify.com/album/7tQCihUfSWH7v5VEBI1EQO) | 2:55 | 2021-07-04 |  |
 | [going out](https://open.spotify.com/track/4fVRuWru6EQ8fGMeCPP431) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [going out](https://open.spotify.com/album/39Mp4A7ReulwbpCW73BhK9) | 2:54 | 2020-10-08 | 2021-01-12 |
 | [Going Thru](https://open.spotify.com/track/1G1zhTPT7ZlgZHsyjelcQg) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Summer '17](https://open.spotify.com/album/25yeAS4H5ndooKc4yV4zEg) | 5:13 | 2019-07-30 | 2019-08-02 |
 | [Gold](https://open.spotify.com/track/1I6bPYYk5jQL6EXAozh6FJ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Gold](https://open.spotify.com/album/1LuxQutCoGUjNXVHKFiVnA) | 3:19 | 2020-10-13 | 2021-01-12 |
@@ -578,6 +580,7 @@
 | [Light Year (feat. Lennon Stella)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year (feat. Lennon Stella)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-05-03 | 2021-06-05 |
 | [Lightning (feat. Nana Lourdes)](https://open.spotify.com/track/3aAKeyBdBRwWEOdFwkGXFx) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ), [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Lightning (feat. Nana Lourdes)](https://open.spotify.com/album/78J8kbGoQHu0SNmm5A0tl4) | 2:49 | 2020-08-30 | 2020-09-12 |
 | [Lights Up](https://open.spotify.com/track/2plLJpUcYPFrl1sW2pMG63) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Lights Up](https://open.spotify.com/album/4Aag1alBrdk2TFnATVmn8D) | 2:52 | 2019-10-11 | 2020-04-02 |
+| [Like You](https://open.spotify.com/track/4yiMS4JDFR8XgfZqhxtTwg) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Like You](https://open.spotify.com/album/2slsA4jAJCwrkGp5GnJval) | 3:04 | 2021-07-04 |  |
 | [Limbo](https://open.spotify.com/track/6d66HsFvNfEst2AFR55l3E) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Limbo](https://open.spotify.com/album/4hUDdGdus1plA7usHM3x0Q) | 3:17 | 2020-07-18 | 2020-07-31 |
 | [Listerine](https://open.spotify.com/track/5LEVjmo2QweDHc7k19aFcp) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:35 | 2020-01-10 | 2020-03-27 |
 | [Little](https://open.spotify.com/track/2fozfsVzd6kCYp5OA3sOUJ) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Little](https://open.spotify.com/album/6Vr5O6l6WpEMfAXS1AB9iv) | 2:37 | 2020-05-15 |  |
@@ -882,6 +885,7 @@
 | [Soft Spot](https://open.spotify.com/track/6kyxHSJZBPSihkK3YwbVXg) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Soft Spot](https://open.spotify.com/album/7mf5SwQGjqFoxg02oHryFh) | 3:08 | 2020-12-03 | 2021-04-02 |
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2019-08-02 | 2021-04-16 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-11 |  |
+| [Solo](https://open.spotify.com/track/2chyIj1EahRcg0J7aalS5f) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Solo](https://open.spotify.com/album/6sa4IOjkUs5ppR6PTxvjR1) | 3:26 | 2021-07-04 |  |
 | [Somebody Else](https://open.spotify.com/track/0yyz1ebvy6ye4bh41apO6D) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Somebody Else](https://open.spotify.com/album/72IJG5WNH2onZIf06yIVLf) | 4:24 | 2020-08-21 | 2020-09-17 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2019-07-30 | 2019-10-29 |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-21 |  |
@@ -1052,6 +1056,7 @@
 | [Way You Move](https://open.spotify.com/track/2Ag5V54YBuSbSZtBzN7I0w) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Way You Move](https://open.spotify.com/album/5FBUu5EuGfzHuSeSTO1ql8) | 2:16 | 2020-01-24 | 2020-02-20 |
 | [we fell in love in october](https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / forget her](https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu) | 3:04 | 2019-07-30 | 2020-12-29 |
 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 | 2019-07-30 | 2019-10-10 |
+| [Weather (feat. Spill Tab)](https://open.spotify.com/track/37gqLs74suBBjQf4nPv5UV) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Weather (feat. Spill Tab)](https://open.spotify.com/album/6d0IKj81ve9Pj76Aw1wn6B) | 2:23 | 2021-07-04 |  |
 | [Weedman](https://open.spotify.com/track/1sQeLo71tyRhY7TqHRiSQ9) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Weedman](https://open.spotify.com/album/43kOtF27RadDQ5xn3EAJ3d) | 2:49 | 2020-04-20 | 2020-04-22 |
 | [Weekend](https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Weekend](https://open.spotify.com/album/5vREvSe0O7QJeXhT3OaTLS) | 3:08 | 2020-05-14 | 2021-05-22 |
 | [Westside](https://open.spotify.com/track/0ruinuAziEcCvPZlnM2MXQ) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [Westside](https://open.spotify.com/album/0l1NDJoXdDy8vETVMjuXXx) | 3:00 | 2021-01-29 |  |

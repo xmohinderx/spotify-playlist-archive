@@ -139,7 +139,7 @@ how the playlist evolves over time.
 - [Late Night Jazz](/playlists/pretty/Late%20Night%20Jazz.md)
 - [License To Chill](/playlists/pretty/License%20To%20Chill.md)
 - [Lo-fi Indie](/playlists/pretty/Lo-fi%20Indie.md)
-- [Lofi Beats](/playlists/pretty/Lofi%20Beats.md)
+- [lofi beats](/playlists/pretty/lofi%20beats.md)
 - [Lorem](/playlists/pretty/Lorem.md)
 - [Lounge - Soft House](/playlists/pretty/Lounge%20-%20Soft%20House.md)
 - [Love Pop](/playlists/pretty/Love%20Pop.md)

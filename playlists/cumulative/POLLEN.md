@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Tyler, The Creator
+> Genre-less. Quality first always. Cover: Brent Faiyaz
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [gucci slides (feat. Smino)](https://open.spotify.com/track/1iZoBnjg3p9ugz5xZGCK5d) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Pulp (Director’s Cut)](https://open.spotify.com/album/1z9iRcG0mLkqp2hY2GXDPZ) | 3:23 | 2020-08-01 | 2020-10-03 |
 | [Guilty Conscience - Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience (Tame Impala Remix)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 | 2020-07-24 | 2020-11-13 |
 | [Guilty Conscience](https://open.spotify.com/track/50aTwBKhPD3D3BW04UtjmA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Guilty Conscience](https://open.spotify.com/album/7atL3NBAVjqASdyz6Pcw5V) | 3:33 | 2020-01-10 | 2020-04-24 |
-| [Gutter (feat. Wara)](https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm) | [Grip](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [WARA](https://open.spotify.com/artist/2Ht07O62G5N6LTqguC92qG) | [Gutter (feat. Wara)](https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve) | 2:56 | 2021-07-02 |  |
+| [Gutter (feat. WARA)](https://open.spotify.com/track/61n83joQqg4x2cXXWi9jkm) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [WARA](https://open.spotify.com/artist/2Ht07O62G5N6LTqguC92qG) | [Gutter (feat. WARA)](https://open.spotify.com/album/6owqbAiaZ8txCMgYqWu8ve) | 2:56 | 2021-07-02 |  |
 | [H34T RISES](https://open.spotify.com/track/3RyYEO5TEyTUP4t8fFDMzk) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [H34T RISES](https://open.spotify.com/album/236UmP2YMSjpGVRSJNl9Ce) | 2:50 | 2019-10-11 | 2020-01-28 |
 | [Hair Down (feat. Kendrick Lamar)](https://open.spotify.com/track/6sq5mqtS3jwJjvBHALknJH) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Hair Down (feat. Kendrick Lamar)](https://open.spotify.com/album/5w27XydFTwAPV5GjsWya37) | 3:37 | 2019-08-09 | 2020-07-10 |
 | [Half Love](https://open.spotify.com/track/6CKkYFual8CkFy0MkWfFTF) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Half Love](https://open.spotify.com/album/7fxRNsGP3TjnVq6NCxTFOk) | 3:12 | 2019-07-30 | 2019-08-01 |
