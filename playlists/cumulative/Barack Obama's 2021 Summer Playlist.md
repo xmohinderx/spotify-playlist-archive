@@ -2,7 +2,7 @@
 
 ### [Barack Obama's 2021 Summer Playlist](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> With summer winding down, here’s a sampling of what Michelle and Barack have been listening to — some new, some old, some fast, some slow. Hope you enjoy.
+> With summer winding down, here’s a tribute to Barack&#x27;s excellent taste in music.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Bohemian Rhapsody](https://open.spotify.com/track/1XzJrnQz8Hzv6abTC5qn8U) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Bohemian Rhapsody](https://open.spotify.com/album/02XnINSvZFOlFYUWbtURex) | 4:05 | 2021-02-08 | 2021-02-21 |
 | [Boo'd Up](https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 4:16 | 2019-09-29 | 2020-08-21 |
 | [Boost Your Day](https://open.spotify.com/track/5JYp61ZAJC43DMPWxbcqzy) | [ProFresh](https://open.spotify.com/artist/5m12qXigvAFKGPGaaCuT5U) | [Boost Your Day](https://open.spotify.com/album/7iFqwv1c1omXtGXyO79TXV) | 1:56 | 2019-10-30 | 2019-11-16 |
+| [Boujee](https://open.spotify.com/track/30TzMOZcEhoXsiuGYJcsyL) | [Autumn Jeannette](https://open.spotify.com/artist/33gynXNzaLs9NSR9FJEWpB) | [Boujee](https://open.spotify.com/album/0U5rXP5qSdUaBmsC5QkvAN) | 2:47 | 2021-07-09 |  |
 | [Brand New Start](https://open.spotify.com/track/36qZCrxI7CeFTHSpqDlUi5) | [Kahnin](https://open.spotify.com/artist/7DCknTbREZ6aG4DGihWUdL) | [Brand New Start](https://open.spotify.com/album/6DwgdTYj8TJUcaOFjjPLYR) | 3:28 | 2019-11-24 | 2019-12-11 |
 | [Brass Knucklez](https://open.spotify.com/track/6ox5IgDFvwIhug8JROnKpv) | [Ultra Light Blazer](https://open.spotify.com/artist/7bqtCbbA1wh6fiCLKumVA2), [June Milo](https://open.spotify.com/artist/0x2e59oCxDZK2thnIEC1Ua), [Anthony Jambon](https://open.spotify.com/artist/3ZCNKeJLeNO59d5Q27VNQi) | [Brass Knucklez](https://open.spotify.com/album/1LdaKAhLwuBnVJk7w2OVNK) | 6:02 | 2021-04-17 | 2021-05-03 |
 | [Break It Down](https://open.spotify.com/track/6bhTt1KoguY5Ys7LWTh3q0) | [ODILLIA](https://open.spotify.com/artist/3VNAuq8DCfvmhXNIYhrSEj), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Break It Down](https://open.spotify.com/album/6dK0HCwoMuPTEPrB3b5fMD) | 2:53 | 2020-12-17 | 2021-01-02 |
