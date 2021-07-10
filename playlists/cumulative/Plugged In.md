@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Coldplay
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Shihad
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Never Ending Game](https://open.spotify.com/track/6vs9JxGlmVZb2OKMpKTkMc) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 2:47 | 2021-02-25 |  |
 | [nightmare](https://open.spotify.com/track/6xMTyQjHmwrufXT6W7VyCr) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [nightmare](https://open.spotify.com/album/5b0b5rlf8IaXxGuUrxiFn2) | 2:54 | 2020-10-10 | 2021-05-13 |
 | [No Eyes](https://open.spotify.com/track/32ABbnhfN5EYv24raxYXBg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 3:33 | 2021-06-12 |  |
+| [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-07-10 |  |
 | [No Plans](https://open.spotify.com/track/4CZHbzrzXSNDagymnv99TB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [No Plans](https://open.spotify.com/album/7AHkP6mbv9D3qpHVwqJl3n) | 3:21 | 2020-10-10 | 2021-05-13 |
 | [North Of No South - Edit](https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [North Of No South (Edit)](https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb) | 3:36 | 2021-02-25 |  |
 | [Now That I've Found You](https://open.spotify.com/track/4QSxcUAwEx5sFitOKZfQDN) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Why Me? Why Not. (Deluxe Edition)](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | 3:20 | 2020-10-10 | 2021-02-25 |
@@ -170,6 +171,7 @@
 | [Strangers](https://open.spotify.com/track/07wX6N12kg4zZ2gI8IrB1y) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Strangers / History of Violence](https://open.spotify.com/album/0cQzfaeCuMomU3OfhzPEW7) | 3:25 | 2020-10-10 | 2021-02-25 |
 | [Stupid Is As Stupid Does (feat. K.Flay)](https://open.spotify.com/track/7gpftvWH71HcwbYPe4CgMB) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Hurry Up And Wait](https://open.spotify.com/album/42pD3Dn7Oa7L3XLEzWYvDz) | 3:00 | 2020-10-10 | 2021-05-13 |
 | [Sugar Shack](https://open.spotify.com/track/2znRvlKPf9UWTLM6H3N0JQ) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Sugar Shack](https://open.spotify.com/album/0TUHKmsD9J2d0vVepO3jqP) | 3:58 | 2020-10-10 | 2021-02-25 |
+| [Tear Down Those Names](https://open.spotify.com/track/4Lv7rmfqali1QauyCqBPUa) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Tear Down Those Names](https://open.spotify.com/album/1lGKcjy727WZ4KEoJb6nB6) | 4:01 | 2021-07-10 |  |
 | [Teenage Seance](https://open.spotify.com/track/3e9s7jHAy2m1EDYVklVD9D) | [Regionals](https://open.spotify.com/artist/0qy3ehXiSt9DNvvFu3Sf9k) | [Teenage Seance](https://open.spotify.com/album/014VB7XdeRPXraQ2ZHX0jC) | 4:11 | 2020-10-10 | 2021-05-13 |
 | [TGIF (feat. Tom Morello)](https://open.spotify.com/track/7MxfzO0meZnMOrrmDkQb4W) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [TGIF (feat. Tom Morello)](https://open.spotify.com/album/6iJUFzxgiJKvrReWU0THNa) | 3:19 | 2021-05-22 |  |
 | [The Big Come Down](https://open.spotify.com/track/3cl42VFcRop14wAduvSeaH) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 4:12 | 2020-10-10 | 2021-02-25 |

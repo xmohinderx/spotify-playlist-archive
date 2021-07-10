@@ -2,7 +2,7 @@
 
 ### [Top Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here. Cover- Badshah
+> Hottest Hindi music served here. Cover- Akshay Kumar & Nupur Sanon 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
