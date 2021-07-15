@@ -2,7 +2,7 @@
 
 ### [Barack Obama's 2021 Summer Playlist](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> With so many folks getting together with family and friends, there’s a lot to celebrate this summer. Here’s a playlist of songs I’ve been listening to lately—it&#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between.
+> With so many folks getting together with family and friends, there’s a lot to celebrate this summer. Here’s a playlist of songs I’ve been listening to lately—it&#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between. (Includes 2019 &amp; 2020 editions).
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Pull Me Under](https://open.spotify.com/track/0zn3fYJWDNQSeczvT8YdIp) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Pull Me Under](https://open.spotify.com/album/1GCQ1N8wLN4zgo8sntuBFR) | 5:59 | 2020-05-22 | 2020-06-01 |
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2020-03-11 | 2020-04-09 |
 | [Purple Lights](https://open.spotify.com/track/27LbOnQDsuVCj45XTcfnGZ) | [Ellee Ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Purple Lights](https://open.spotify.com/album/58nnWXMNP6rMVyN4EazeFR) | 3:25 | 2019-12-03 | 2019-12-11 |
+| [Queen of the Silver City](https://open.spotify.com/track/41Wh5NHkKf0PonuFngDlhF) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [Queen of the Silver City](https://open.spotify.com/album/4hIgrphSGvn0RU2ZFpYidU) | 3:20 | 2021-07-15 |  |
 | [Rain](https://open.spotify.com/track/3T7Bx1R4vzbOafgxQukup6) | [Cocomofo](https://open.spotify.com/artist/03Era84Mwxyq2lrmuyHE2M) | [Rain](https://open.spotify.com/album/52rGC0EJ7xIsnlqjmA04x3) | 4:28 | 2021-05-08 | 2021-05-23 |
 | [Raindrops](https://open.spotify.com/track/17pQ35KqM5GM7mVJv0bUcR) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR), [MC Fan](https://open.spotify.com/artist/523V0EXtFzduBoAahGNXB8) | [Blue Moon](https://open.spotify.com/album/0BGAOAZSjt7Tpvce83eckL) | 4:28 | 2021-06-19 | 2021-07-04 |
 | [Rainin' in LA](https://open.spotify.com/track/2tYZV7fzHvD7k2yqyc1C7z) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Rainin' in LA](https://open.spotify.com/album/6t2FnvqUACAHlR7A2UQOKL) | 4:57 | 2019-10-25 | 2019-11-16 |
