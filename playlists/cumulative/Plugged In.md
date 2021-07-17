@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Shihad
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Iron Maiden
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 | 2020-10-10 | 2021-02-25 |
 | [The Runaround](https://open.spotify.com/track/4UT9eu8tFiRyi7wVz0vVcZ) | [Joshua Speers](https://open.spotify.com/artist/7KlIBAc2EPCSzwvrLftuch) | [The Runaround](https://open.spotify.com/album/6sKafsuY83tNWqqqnL4k9n) | 3:43 | 2021-02-26 |  |
 | [The Runner](https://open.spotify.com/track/0AWYvdcS6N463VlsbrzijH) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [The Runner](https://open.spotify.com/album/7CwnnH6mZCAKwKLgwrLWRU) | 4:21 | 2020-10-10 | 2021-05-13 |
+| [The Writing On The Wall](https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing On The Wall](https://open.spotify.com/album/36ZBN6U0ENDWl6MsfBFdxN) | 6:13 | 2021-07-17 |  |
 | [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-06-04 |  |
 | [Tiny Indoor Fireworks](https://open.spotify.com/track/5SvlfB8HuBSYpAIpCkRC3L) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Tiny Indoor Fireworks](https://open.spotify.com/album/15JQPwn3EouyzXeZ8gMQF5) | 3:15 | 2020-10-10 | 2021-02-25 |
 | [To the Ground](https://open.spotify.com/track/6MdbEX55Ks1oqGVwRb3nyX) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [To the Ground](https://open.spotify.com/album/5e1Bnbm0LjuYmKTyabOJEw) | 5:15 | 2020-10-10 | 2021-02-25 |
@@ -206,3 +207,4 @@
 | [World Keeps Spinning](https://open.spotify.com/track/1Ekjbbbg6kWy0ITBPQSVhB) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [World Keeps Spinning / Say Nothing / Strangers / History of Violence](https://open.spotify.com/album/5H6tcLBsm1RpqWCoIC4F40) | 3:34 | 2020-10-10 | 2021-05-13 |
 | [Worship](https://open.spotify.com/track/5R0L4WPC4QTrd1Z87tWoa1) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:56 | 2020-10-10 | 2021-02-25 |
 | [You n Me Sellin' Weed](https://open.spotify.com/track/3vbiHwFRUuoIU9oa01dwmx) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [You n Me Sellin' Weed](https://open.spotify.com/album/3v7rmNsFfuUSmIOdPMslld) | 4:56 | 2020-10-10 | 2021-05-13 |
+| [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 | 2021-07-17 |  |

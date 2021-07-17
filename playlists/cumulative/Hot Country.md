@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Ryan Hurd and Maren Morris
+> Today's top country hits of the week, worldwide! Cover: Carly Pearce
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2019-05-26 | 2019-07-06 |
 | [Fall in Love](https://open.spotify.com/track/5fdzJmExgTptv36KpfKFI4) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Fall in Love](https://open.spotify.com/album/1ernqkpykh9fnUvNgWqwCP) | 2:49 | 2020-08-08 | 2020-09-05 |
 | [Famous](https://open.spotify.com/track/6HBhMdKR4HRfQ3fuGUFbzE) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Famous](https://open.spotify.com/album/5lFCULlNTvKxZ7wBaU0wcP) | 3:06 | 2019-05-26 | 2019-10-26 |
-| [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 | 2020-11-22 |  |
+| [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 | 2020-11-22 | 2021-07-17 |
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-07-04 |  |
 | [Fight (feat. Florida Georgia Line)](https://open.spotify.com/track/7A6UIxi15awyiEbYbMF06V) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Fight (feat. Florida Georgia Line)](https://open.spotify.com/album/1gaAEfy9L4TIl3lrIVGe5h) | 3:17 | 2019-12-14 | 2020-02-01 |
 | [Fill Them Boots](https://open.spotify.com/track/4RBcYEl3yD9gYQE94LxFmE) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Fill Them Boots](https://open.spotify.com/album/1rhBNy4oRZFuh5CVME8snu) | 2:42 | 2021-04-30 |  |
@@ -238,7 +238,7 @@
 | [Man Made](https://open.spotify.com/track/1WHUSiJSNgGxi9YGS1J4xe) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Things, Vol. 2](https://open.spotify.com/album/18pN6ovdqBSdM3R8SVnlTe) | 3:13 | 2020-11-27 | 2020-12-06 |
 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 | 2020-11-10 | 2021-01-16 |
 | [Me About Me](https://open.spotify.com/track/7F0fPQWt7E2jjreRSZOdna) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Me About Me](https://open.spotify.com/album/7c4rtMfqOp3DV8wvEhPRRT) | 2:46 | 2020-07-25 | 2020-11-22 |
-| [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2020-11-07 |  |
+| [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2020-11-07 | 2021-07-17 |
 | [Mercury Rising](https://open.spotify.com/track/00Onz80bx3KFwXcAcwZfH4) | [Tezza](https://open.spotify.com/artist/6T3zoiBS7q6g0H7rSnKvRd) | [Mercury Rising](https://open.spotify.com/album/6GQGzl8XsvWfPgr0KL22I5) | 2:41 | 2020-10-24 | 2020-11-22 |
 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 | 2021-01-16 |  |
 | [Miss Me More - Summer Mix](https://open.spotify.com/track/3ECMpJCiC78O0w5gpmTVVk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Miss Me More (Summer Mix)](https://open.spotify.com/album/5a5N5WxiYJBHf0zU9wSqi7) | 3:05 | 2019-06-22 | 2019-06-30 |

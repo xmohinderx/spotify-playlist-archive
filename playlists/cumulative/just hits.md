@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music. Cover: Ed Sheeran 
+> Current favorites and exciting new music. Cover: Måneskin
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,8 @@
 | [I’m Here for You](https://open.spotify.com/track/6qyPimk15pulIffKWUmEf7) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [I’m Here for You](https://open.spotify.com/album/54MmocNCchoMEor4lVo9ld) | 3:18 | 2020-10-13 | 2020-10-23 |
 | [Jalebi Baby (Tesher x Jason Derulo)](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jalebi Baby (Tesher x Jason Derulo)](https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd) | 2:49 | 2021-05-29 |  |
 | [Jerusalema (feat. Nomcebo Zikode)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 | 2020-10-13 | 2020-11-20 |
+| [Just A Mess](https://open.spotify.com/track/24RCh9nhADnz72QwspioB6) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse (Deluxe)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:51 | 2021-07-17 |  |
+| [KESI - Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI (Remix)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2021-07-17 |  |
 | [Kids Again](https://open.spotify.com/track/1ABS9lKaZ1uXkXCqr9zFO7) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/0mXuESYo2Gd1quvVflixyi) | 3:27 | 2020-10-30 | 2021-01-15 |
 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 | 2020-10-13 | 2020-11-13 |
 | [Kiss Me More (feat. SZA)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More (feat. SZA)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-10 |  |
@@ -374,7 +376,7 @@
 | [Wired](https://open.spotify.com/track/7k3uKOLzMCvYM00E3QZTSq) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Wired](https://open.spotify.com/album/0M1hM6jkl3oUJL8MjOo1oF) | 3:22 | 2020-10-13 | 2020-10-14 |
 | [WITHOUT YOU (with Miley Cyrus)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU (with Miley Cyrus)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 | 2021-04-30 |  |
 | [Without You](https://open.spotify.com/track/1HPJpgceRg6KPO11nMhWlt) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Without You](https://open.spotify.com/album/5S6h6XDEW1U2kC1fjOhdrB) | 2:31 | 2021-05-15 |  |
-| [Won't Sleep](https://open.spotify.com/track/3DBT2ar4v5DW6Dg1sLVb3Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Won't Sleep](https://open.spotify.com/album/1ca9Xo8Wl7zjHcBtjQ4Ugc) | 3:17 | 2021-05-15 |  |
+| [Won't Sleep](https://open.spotify.com/track/3DBT2ar4v5DW6Dg1sLVb3Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Won't Sleep](https://open.spotify.com/album/1ca9Xo8Wl7zjHcBtjQ4Ugc) | 3:17 | 2021-05-15 | 2021-07-17 |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2020-10-13 | 2020-11-13 |
 | [working](https://open.spotify.com/track/31sSFHIe4NaxltVFOEIcTa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [working](https://open.spotify.com/album/4iCcsBlzVQVZoJzxBvhuyS) | 3:30 | 2021-06-19 |  |
 | [WOW (with Emma Steinbakken)](https://open.spotify.com/track/0N4lXR2IB0bVwQjNQzDPKy) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [WOW (with Emma Steinbakken)](https://open.spotify.com/album/7xvJpDH6p1Iox9wOwT4ZfR) | 3:13 | 2020-10-23 | 2020-11-20 |
