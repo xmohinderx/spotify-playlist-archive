@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [#RihannaMove](https://open.spotify.com/track/6qtKg3ZVcEgfsdDaHRBzXu) | [Shevy O'shea](https://open.spotify.com/artist/3BOPBYb0mEmjMwEoFH9jNZ) | [#RihannaMove](https://open.spotify.com/album/4DXvWE5WtSf3JoJQktuYvZ) | 1:52 | 2021-05-20 |  |
+| [#RihannaMove](https://open.spotify.com/track/6qtKg3ZVcEgfsdDaHRBzXu) | [Shevy O'shea](https://open.spotify.com/artist/3BOPBYb0mEmjMwEoFH9jNZ) | [#RihannaMove](https://open.spotify.com/album/4DXvWE5WtSf3JoJQktuYvZ) | 1:52 | 2021-05-20 | 2021-07-20 |
 | [1 0 0 . m i l ‘ (with Bas)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-17 |
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-05-21 | 2021-06-23 |
 | [9 5 . s o u t h](https://open.spotify.com/track/4GSBObGq3DuiKFlytKBbEw) | [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off-Season](https://open.spotify.com/album/7amgMBFiedsknMot03NgQ4) | 3:16 | 2021-05-16 | 2021-05-17 |
@@ -199,7 +199,7 @@
 | [RUSSIAN WOMAN](https://open.spotify.com/track/6Dz383ZHSKzWh5ZTL7aRra) | [Manizha](https://open.spotify.com/artist/1Y53ZUhXBydAzILo4Qa0s1) | [RUSSIAN WOMAN](https://open.spotify.com/album/6e5G83EOP9tEfklabpOhRp) | 2:56 | 2021-05-21 | 2021-06-18 |
 | [Savaip](https://open.spotify.com/track/3QssxZWm3suKZ9djf2gSt5) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [Savaip](https://open.spotify.com/album/6s5Wdlelo183imhnb7pi7f) | 2:27 | 2021-04-04 | 2021-04-22 |
 | [Save Your Tears (with Ariana Grande) (Remix)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears (Remix)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 |  |
-| [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27 | 2021-07-16 |
+| [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27 |  |
 | [Savęs](https://open.spotify.com/track/0R6ikR6rBn1x5a80dkXfLN) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Tavęs Manęs Savęs](https://open.spotify.com/album/1E9P0F1EhWIO4QbBYSkqNL) | 3:06 | 2021-03-30 | 2021-04-01 |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-21 | 2021-06-01 |
 | [Sex Sells](https://open.spotify.com/track/6ShHxD0hoJSXajmcpQ5Ri8) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 4:06 | 2021-05-13 | 2021-05-16 |

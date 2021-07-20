@@ -7,7 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10K Summer Nights](https://open.spotify.com/track/2FTTz19ql2XzrwnCBM0dP7) | [Eighty Ninety](https://open.spotify.com/artist/3Fg3y3Gx6hwdzb9sEOWHEW) | [10K Summer Nights](https://open.spotify.com/album/3ZOqum5A04o9fMcS8QfzZe) | 3:08 | 2020-10-13 | 2021-06-19 |
-| [123](https://open.spotify.com/track/7dcYzQESWxba1b2Y794gYI) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [123](https://open.spotify.com/album/0HPec1mbtwFvsoBBUX2UbY) | 2:36 | 2021-07-04 |  |
+| [123](https://open.spotify.com/track/7dcYzQESWxba1b2Y794gYI) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [123](https://open.spotify.com/album/0HPec1mbtwFvsoBBUX2UbY) | 2:36 | 2021-07-04 | 2021-07-20 |
 | [7UP](https://open.spotify.com/track/4cB00WOFuQFLoDpnydcx8c) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [7UP](https://open.spotify.com/album/6V20HAISdYkgTpoa51Z95P) | 3:23 | 2020-10-13 | 2021-06-26 |
 | [8 Letters](https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2020-10-13 |  |
 | [A Little Longer](https://open.spotify.com/track/2JDBB0Uvj2uwmhZMWBLUcF) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN), [Sam Will](https://open.spotify.com/artist/3BPZfXz2Urd2vKUJu5Ptux) | [A Little Longer](https://open.spotify.com/album/2Or0ueZwkbkyzxML7bqgkZ) | 3:08 | 2020-11-18 | 2021-07-17 |
@@ -188,6 +188,7 @@
 | [too much](https://open.spotify.com/track/6hDxf753cNz33rKFE4Nmiv) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [too much](https://open.spotify.com/album/1JmCP78ceHPTehcxcRYFPY) | 2:56 | 2021-06-26 |  |
 | [Traitor](https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Traitor](https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7) | 2:57 | 2021-06-26 |  |
 | [Twenty Something](https://open.spotify.com/track/6tn96Btxy5ysJADC6cXGz8) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something](https://open.spotify.com/album/51WevfxIZpP81UzN8t3h72) | 4:36 | 2020-10-13 |  |
+| [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 |  |
 | [Want Me Back](https://open.spotify.com/track/62ThvHsujqV9sMr1V7yAJr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Want Me Back](https://open.spotify.com/album/1Wjga5d8cmSnBaHwBodxVv) | 3:54 | 2020-10-13 | 2021-02-19 |
 | [Warm on a Cold Night](https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night (Deluxe)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:21 | 2021-06-19 | 2021-07-17 |
 | [WESTWORLD](https://open.spotify.com/track/6ZP2iPx7t4epRBAKWvRPt1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [WESTWORLD](https://open.spotify.com/album/1y8qDhdUaUKxlvDLJ2tHgC) | 3:29 | 2021-07-10 |  |
