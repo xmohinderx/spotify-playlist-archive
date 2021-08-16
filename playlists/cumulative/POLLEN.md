@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre-less. Quality first always. Cover: Isaiah Rashad
+> Genre-less. Quality first always. Cover: Still Woozy
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
