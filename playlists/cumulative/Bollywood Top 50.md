@@ -2,7 +2,7 @@
 
 ### [Bollywood Top 50](https://open.spotify.com/playlist/4nNVfQ9eWidZXkBKZN5li4)
 
-> Get on top of Bollywood's newest and all time best hit songs - Shayad,  Garmi, Illegal Weapon and more ft. Arijit Singh, Neha Kakkar, Badshah and more. 
+> Get on top of Bollywood's newest and all time best songs - Raataan Lambiyan, Ranjha, Param Sundari, Shayad,  Channa Mereya and more ft. AR Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
