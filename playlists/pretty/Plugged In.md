@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/Plugged%20In.md) - [plain](/playlist
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Iron Maiden
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Coldplay
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Writing On The Wall](https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing On The Wall](https://open.spotify.com/album/36ZBN6U0ENDWl6MsfBFdxN) | 6:13 |
+| 1 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
 | 2 | [Little Demons](https://open.spotify.com/track/68GgyKHv3CTtdYgKxKTkdu) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [Little Demons](https://open.spotify.com/album/5lsG2cfL2jOjRVpEVosSvB) | 4:01 |
-| 3 | [Idiot](https://open.spotify.com/track/51Xr9Jt4ohvCxm5G9BJGfQ) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Idiot](https://open.spotify.com/album/0NmyFWum8tIYpvebBNd2JS) | 2:22 |
-| 4 | [PMA (feat. Pale Waves)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA (feat. Pale Waves)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
-| 5 | [Cold Water](https://open.spotify.com/track/0Bi5NIXkCVSQtZl3vFNMQI) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [Cold Water](https://open.spotify.com/album/7M5CjLdBzbAi9BytyXNQqC) | 3:40 |
-| 6 | [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 |
-| 7 | [Bounce](https://open.spotify.com/track/1IKFjq1kUtSFDeAwW5b9Mq) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Bounce](https://open.spotify.com/album/1F6Bpt1LHmOBepi4yhA1PJ) | 3:02 |
-| 8 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 |
-| 9 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
+| 3 | [The Writing On The Wall](https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing On The Wall](https://open.spotify.com/album/36ZBN6U0ENDWl6MsfBFdxN) | 6:13 |
+| 4 | [Idiot](https://open.spotify.com/track/51Xr9Jt4ohvCxm5G9BJGfQ) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Idiot](https://open.spotify.com/album/0NmyFWum8tIYpvebBNd2JS) | 2:22 |
+| 5 | [PMA (feat. Pale Waves)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA (feat. Pale Waves)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
+| 6 | [Cold Water](https://open.spotify.com/track/0Bi5NIXkCVSQtZl3vFNMQI) | [Moaning Lisa](https://open.spotify.com/artist/1WXcSHJO5BPd3oxAfsUDQo) | [Cold Water](https://open.spotify.com/album/7M5CjLdBzbAi9BytyXNQqC) | 3:40 |
+| 7 | [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 |
+| 8 | [Bounce](https://open.spotify.com/track/1IKFjq1kUtSFDeAwW5b9Mq) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Bounce](https://open.spotify.com/album/1F6Bpt1LHmOBepi4yhA1PJ) | 3:02 |
+| 9 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 |
 | 10 | [Behave](https://open.spotify.com/track/6nzyBGYk6Env11uSGAlY5e) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Behave](https://open.spotify.com/album/4zZd900I8mnvrDouSXk8GH) | 3:24 |
 | 11 | [Brighter Days (Are Before Us)](https://open.spotify.com/track/6X6CxZ2XbfayOg2ldlBEJV) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Brighter Days (Are Before Us)](https://open.spotify.com/album/0RBkf8XXUW5Mihn42NiOUW) | 3:03 |
 | 12 | [WANNA BE (feat. Machine Gun Kelly)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 |
