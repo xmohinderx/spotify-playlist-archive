@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Dan + Shay
+> Today's top country hits of the week, worldwide! Cover: Kane Brown
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [GIRL](https://open.spotify.com/track/0u3zalSKQIUJ0foEGILmxe) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/2gTENOPxvxQmQswzVQ8v1u) | 4:10 | 2019-05-26 | 2019-11-09 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/5nra2uQhiaYKKpemgiDNC3) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [GIVE HEAVEN SOME HELL](https://open.spotify.com/album/0GAm85q4EIBAVs27M5hh0J) | 3:37 | 2020-09-05 | 2020-11-22 |
 | [Giving You Up](https://open.spotify.com/track/6ymvTpjleCEqFFXZBghwKI) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/78JnUpxEE1rPwMn4GO4tXs) | 3:50 | 2019-11-02 | 2020-06-29 |
-| [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 |  |
+| [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 | 2021-08-21 |
 | [God Whispered Your Name](https://open.spotify.com/track/7Ce11Oh1kConF6UlkBWnaZ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [God Whispered Your Name](https://open.spotify.com/album/6AZ3VDmcFGG0rZfJPgUCVp) | 3:52 | 2020-02-28 | 2020-10-18 |
 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 | 2019-05-26 | 2019-08-31 |
 | [Gold To Glitter](https://open.spotify.com/track/3cxO7LSsDe8gwqdzSTxdON) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [Gold To Glitter](https://open.spotify.com/album/2ViuhDrDB4Ve9w0LbrGouV) | 3:50 | 2019-11-09 | 2020-01-26 |
@@ -254,6 +254,7 @@
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2019-12-08 | 2020-03-28 |
 | [More Than My Hometown](https://open.spotify.com/track/6FniJZn4agmDtPx1pKZQsa) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [More Than My Hometown](https://open.spotify.com/album/3YxTy8m1OZ3oNSdxYprbIg) | 3:36 | 2020-05-09 | 2021-02-03 |
 | [Mr. Lonely](https://open.spotify.com/track/3sEa95MTLJ8JcoP5A97bWl) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Mr. Lonely](https://open.spotify.com/album/3UIccz6UJbRSikhYrzMqy5) | 2:59 | 2019-08-25 | 2019-09-15 |
+| [My Boy](https://open.spotify.com/track/0PjXFoTUNltAvf4IN0N3Xx) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [My Boy](https://open.spotify.com/album/1KMNV3TwzyaD0ongzMHjVQ) | 3:23 | 2021-08-21 |  |
 | [My Love](https://open.spotify.com/track/1GGY3gxsdIfEGua4hZFwXN) | [Clare Dunn](https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw) | [My Love](https://open.spotify.com/album/3lBrd6we9l3uEg4yBPObO5) | 3:15 | 2019-06-05 | 2019-07-27 |
 | [My Miracle](https://open.spotify.com/track/3yNuWBImT0geeISSCMbE3p) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [My Miracle](https://open.spotify.com/album/0CkY1OmLa5NdAyrsKNZ2vi) | 4:10 | 2019-05-26 | 2019-07-27 |
 | [My Truck (feat. Sam Hunt) - Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 | 2020-06-02 | 2020-06-21 |
@@ -269,6 +270,7 @@
 | [Nightfall](https://open.spotify.com/track/6GTgbEtWBuP27uRcK6ryQm) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:21 | 2020-01-18 | 2020-01-26 |
 | [No I in Beer](https://open.spotify.com/track/5UMjPT47GpOwkUo6e99R3s) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [No I in Beer](https://open.spotify.com/album/2qTiPM68z9kbAcDPVqNyoG) | 3:36 | 2020-08-05 | 2020-10-10 |
 | [No One Like You](https://open.spotify.com/track/4yLToNshTGzYP9BGGmnLm3) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [No One Like You](https://open.spotify.com/album/267Q2vf1kVWpqpToJ2tBVt) | 3:00 | 2020-02-08 | 2020-03-07 |
+| [NO SAD SONGS](https://open.spotify.com/track/58J6FWRdf7PSUIDe9rbqdi) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [NO SAD SONGS](https://open.spotify.com/album/0A0XLrwzkiXewwPPdEoWOA) | 2:52 | 2021-08-21 |  |
 | [Nobody](https://open.spotify.com/track/2SHbF9xWleu30pAHfOZaEn) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nobody](https://open.spotify.com/album/7zbGssKdxVpFJJg2TQCntk) | 2:40 | 2019-05-26 | 2020-01-18 |
 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 | 2021-03-27 | 2021-06-26 |
 | [Nobody But You (Duet with Gwen Stefani)](https://open.spotify.com/track/5M8goiFYynmNxhueYW6grR) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Fully Loaded: God's Country](https://open.spotify.com/album/4Kd33JPxTOcjTM29FrKoyT) | 3:14 | 2020-01-13 | 2020-06-21 |
@@ -286,6 +288,7 @@
 | [One Heart To Another](https://open.spotify.com/track/1OxdfwY8faL2y35bCUn3kK) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [One Heart To Another](https://open.spotify.com/album/5SGkWkCxDBxdiMZZ92ToFn) | 3:38 | 2019-06-09 | 2019-07-13 |
 | [One Man Band](https://open.spotify.com/track/3ksmU0DaEUMEVzx5V6cc3z) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/55uC8u8BqPgA4LGWALnOK3) | 3:06 | 2019-05-26 | 2020-05-02 |
 | [One Margarita](https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [One Margarita](https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw) | 3:13 | 2020-04-12 | 2020-09-26 |
+| [One Mississippi](https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [One Mississippi](https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl) | 3:33 | 2021-08-21 |  |
 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 | 2020-06-29 | 2020-09-17 |
 | [One Night Standards](https://open.spotify.com/track/5WyqIlRObmErasLN8MAXFS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [One Night Standards](https://open.spotify.com/album/6pstNT0Xn7z9V38dhD48KL) | 3:10 | 2020-04-08 | 2020-06-29 |
 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 | 2020-05-09 | 2020-12-12 |
@@ -404,6 +407,7 @@
 | [Whole Lotta Love](https://open.spotify.com/track/3i2jedSUrOgRrkkX5HjjvS) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Whole Lotta Love](https://open.spotify.com/album/33ff1Qxm13QVMOo5IIZDY0) | 2:58 | 2019-10-19 | 2019-11-09 |
 | [Why Should We](https://open.spotify.com/track/0h6qJZXkVGNUIoM4q8CrFH) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Why Should We](https://open.spotify.com/album/506ax7XUl3ogqAfdnxc3Ad) | 2:52 | 2021-02-27 | 2021-08-14 |
 | [Why We Drink](https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:31 | 2020-06-14 | 2020-09-05 |
+| [Wilder Days](https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD) | 4:11 | 2021-08-21 |  |
 | [Wildfire](https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire](https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd) | 3:10 | 2020-08-08 | 2020-11-22 |
 | [Wine, Beer, Whiskey](https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:16 | 2021-05-29 | 2021-08-07 |
 | [Wishful Drinking (with Sam Hunt)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking (with Sam Hunt)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-08-07 |  |
