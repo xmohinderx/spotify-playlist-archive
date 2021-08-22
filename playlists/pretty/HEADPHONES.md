@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/HEADPHONES.md) - [plain](/playlists/
 |---|---|---|---|---|
 | 1 | [Who Are You Kidding?](https://open.spotify.com/track/0MNRFOV4FnArjHK6Elx5uj) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Who Are You Kidding?](https://open.spotify.com/album/5Jn4Ph14KfaiKLSaAtY6SK) | 3:27 |
 | 2 | [Video Games](https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Video Games](https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ) | 3:40 |
-| 3 | [Lose Control](https://open.spotify.com/track/1RQdhi8ghpTFMHGn7LWgz4) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Lose Control](https://open.spotify.com/album/2ssWaAmcsj3bU9b2sVKpfI) | 3:22 |
+| 3 | [Lose Control](https://open.spotify.com/track/1RQdhi8ghpTFMHGn7LWgz4) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Lose Control](https://open.spotify.com/album/2ssWaAmcsj3bU9b2sVKpfI) | 3:19 |
 | 4 | [mini fridge](https://open.spotify.com/track/7ruLGK8sA4RS5x1Moayj66) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [mini fridge](https://open.spotify.com/album/0edkRml3yUMWIMQC9mNfQM) | 3:13 |
 | 5 | [Moving On](https://open.spotify.com/track/5uoZefZJDMIujYoKObfZMC) | [Sametime](https://open.spotify.com/artist/42rWfryHDfUU1jBggl9yja) | [Moving On](https://open.spotify.com/album/4Mtd7pEJhdZvQfomiRszFO) | 3:00 |
 | 6 | [Week On Repeat](https://open.spotify.com/track/0yjLQat6i4CAGUIEf08ya5) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Week On Repeat](https://open.spotify.com/album/5jt1rVun61zCsSixVx2j7n) | 2:26 |
