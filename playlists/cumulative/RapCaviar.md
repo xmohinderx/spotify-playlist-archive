@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Trippie Redd, Lil Tecca and Meek Mill. 
+> New music from Kanye West, Lil Tecca and Meek Mill. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [INTRO](https://open.spotify.com/track/05WepN8vrMLJG5r8XRdLeL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [INTRO](https://open.spotify.com/album/3HzUH9fh5DExUQXfIAt9wI) | 2:52 | 2019-09-20 | 2019-09-27 |
 | [Intro](https://open.spotify.com/track/7tbyiwnLhtKYXNMjCZ60BT) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Intro](https://open.spotify.com/album/1y1l71S4ZveVZQRuqcZk0u) | 3:35 | 2019-08-02 | 2019-08-16 |
 | [Isis](https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Isis](https://open.spotify.com/album/361T1uXWyuak02E2W6tBs8) | 3:56 | 2019-05-26 | 2019-07-12 |
+| [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 |  |
 | [Jane](https://open.spotify.com/track/7g43YzKWtb1NMRcwD896ww) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:22 | 2021-06-12 | 2021-06-16 |
 | [Jerry Sprunger (with T-Pain)](https://open.spotify.com/track/0mTKJnVf6GcujyDr1PZn0Q) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [T-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jerry Sprunger (with T-Pain)](https://open.spotify.com/album/6F8mOzZgINIIQDjCaegXH4) | 3:53 | 2019-11-15 | 2019-12-01 |
 | [Jesse Owens (feat. NAV)](https://open.spotify.com/track/4iDCuTlmGNbpuUILTsJ9vf) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Jesse Owens (feat. NAV)](https://open.spotify.com/album/7aiS7MdJhZ0wCXT9o2fCTY) | 3:05 | 2021-02-12 | 2021-03-06 |
@@ -640,7 +641,7 @@
 | [PTSD](https://open.spotify.com/track/3jT2LKH0RSbQ8jIUNFzXm5) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [PTSD](https://open.spotify.com/album/0jH6iWykjOuyW7Y8zNKMBk) | 3:52 | 2020-03-05 | 2020-04-25 |
 | [PTSD](https://open.spotify.com/track/3jT2LKH0RSbQ8jIUNFzXm5) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/0jH6iWykjOuyW7Y8zNKMBk) | 3:52 | 2020-04-25 | 2020-05-29 |
 | [Puerto Rico Luv](https://open.spotify.com/track/3VCVtQ90AHHHKhRBU3muSl) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Only The Generals Part II](https://open.spotify.com/album/5hXRwN61ccZHJSdmsH3oAm) | 3:24 | 2021-02-19 | 2021-02-26 |
-| [Pure Souls](https://open.spotify.com/track/7up5MwPUHQdv4DkzQRHRWP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:58 | 2021-08-30 |  |
+| [Pure Souls](https://open.spotify.com/track/7up5MwPUHQdv4DkzQRHRWP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:58 | 2021-08-30 | 2021-08-31 |
 | [Pure Water (with Migos)](https://open.spotify.com/track/63cd4JkwGgYJrbOizbfmsp) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Pure Water (with Migos)](https://open.spotify.com/album/1ypNy6o0C2ZbuuPPYkavVl) | 3:14 | 2019-05-26 | 2019-06-21 |
 | [Purple Emoji (feat. J. Cole)](https://open.spotify.com/track/3OJ4LEE50iFELaHiZ09zif) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Purple Emoji (feat. J. Cole)](https://open.spotify.com/album/5tcLbrane4ipoQy0liSuNH) | 2:43 | 2019-06-07 | 2019-06-22 |
 | [Push It](https://open.spotify.com/track/1wTpghlkEyQwCKSEb6688P) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Return Of The Mack / Push It](https://open.spotify.com/album/1uaZVgPVhRbVrXDKbAnMZx) | 3:00 | 2019-08-02 | 2019-08-09 |
