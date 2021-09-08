@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20&%20Chill.md) - [plain](/pla
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Clinton Kane guest curates Fresh & Chill, picking some of his favorites. 
+> Discover your favorite new chill pop songs. Cover: Clinton Kane
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
