@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Gabrielle Aplin, Jesse & Joy, Jessie J and more
+> With Adele, 5 Seconds of Summer, Jessie J, Zac Efron and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

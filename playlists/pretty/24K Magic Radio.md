@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/p
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, R3HAB, Hailee Steinfeld, Lil Jon and more
+> With Bruno Mars, Nick Jonas, Zara Larsson, DNCE and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

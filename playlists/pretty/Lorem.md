@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> omg lorde, troye, frank, liv, kim petras, elliot page, amanda gorman, billie, chloe x halle, grimes. but where is zendaya!!!!
+> melodic gems u can send to friends. ft girl in red's take on "stay"
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -203,6 +203,7 @@ how the playlist evolves over time.
 - [Synthwave - Retro - 80s Vaporwave](/playlists/pretty/Synthwave%20-%20Retro%20-%2080s%20Vaporwave.md)
 - [tear drop](/playlists/pretty/tear%20drop.md)
 - [Techno Bunker](/playlists/pretty/Techno%20Bunker.md)
+- [The Glow Up](/playlists/pretty/The%20Glow%20Up.md)
 - [The Good Cup](/playlists/pretty/The%20Good%20Cup.md)
 - [The Other List](/playlists/pretty/The%20Other%20List.md)
 - [The Piano Bar](/playlists/pretty/The%20Piano%20Bar.md)
