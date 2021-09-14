@@ -2,7 +2,7 @@
 
 ### [Morning Workout](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Kickstart your morning workout with upbeat workout tracks!
+> Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
