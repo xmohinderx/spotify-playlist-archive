@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> melodic gems u can send to friends. ft girl in red's take on "stay"
+> tonight @9pET: DL the greenroom app and join glaive, ericdoa, dev lemons, & max motley on the new lorem show
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1219,6 +1219,7 @@
 | [Yellow Hearts (feat. Audrey Mika)](https://open.spotify.com/track/3oVGjguICRU4UVS1ZPwH2D) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Yellow Hearts (feat. Audrey Mika)](https://open.spotify.com/album/2xLH4V0PyKfETrIpkDsI2m) | 3:00 | 2020-02-15 | 2020-03-13 |
 | [Yellow Hearts](https://open.spotify.com/track/20JtELGPfOAMq7FpUt8eSM) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Yellow Hearts](https://open.spotify.com/album/0ahjnylJzSIfobrUbMZnmL) | 3:43 | 2019-11-02 | 2020-01-28 |
 | [Yellow Lines](https://open.spotify.com/track/2TzIlrArlqtw2lx2mZ0e7F) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Yellow Lines](https://open.spotify.com/album/66TIQWW43Cbf0DYjdkvtbY) | 2:06 | 2021-01-15 |  |
+| [you and me together is a problem](https://open.spotify.com/track/3h6YM4RZxLScJA2WernKFL) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [you and me together is a problem](https://open.spotify.com/album/7yPCzWYprWlTY5GviKlHme) | 3:20 | 2021-09-16 |  |
 | [You Belong With Me (Taylor’s Version)](https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless (Taylor's Version)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:51 | 2021-04-10 | 2021-04-20 |
 | [You Sad](https://open.spotify.com/track/7yqyEsd851dkG58lBcNrUS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol. 2](https://open.spotify.com/album/3iMht1oZf6aXQhHZscLXdF) | 2:37 | 2020-09-15 | 2020-12-04 |
 | [You Seemed so Happy](https://open.spotify.com/track/0NuIfPuBhUAt4aA4HP0rUu) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 2:42 | 2021-06-05 | 2021-06-11 |
