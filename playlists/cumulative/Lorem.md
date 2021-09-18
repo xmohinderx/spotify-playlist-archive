@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> lorem show ln was rly fun, and now we're listening to central cee. cover: girl in red
+> melodic gems u can send to friends. cover: girl in red
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Friends (feat. Powfu)](https://open.spotify.com/track/7pJSpYDtskHUajG1HDlkhf) | [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Friends (feat. Powfu)](https://open.spotify.com/album/6fe1vzOHhDRvukYnSrunvp) | 2:35 | 2020-05-01 | 2020-07-01 |
 | [FRIENDS](https://open.spotify.com/track/3usbnvDFtOhY09cRNar8Zg) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 4:26 | 2020-03-20 | 2020-07-29 |
 | [Friends](https://open.spotify.com/track/3iiWwDhLYI3St1oBLwrcvF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:06 | 2020-10-24 | 2020-12-04 |
+| [friendship](https://open.spotify.com/track/3JvXtgeeIfN4MQaew28CLV) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [soap water](https://open.spotify.com/album/0bI3nqxr56BoHJLZ3Li906) | 2:52 | 2021-09-18 |  |
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2021-05-15 |  |
 | [Frío](https://open.spotify.com/track/2R7ZNlng7Kjdo0Pp4TWNXa) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Frío](https://open.spotify.com/album/7oHG4YB2YjfpnfEPeUtS72) | 2:05 | 2019-10-31 | 2019-11-14 |
 | [fuck, i luv my friends](https://open.spotify.com/track/4hk4plGoAmg3naYTq8EUul) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [fuck, i luv my friends](https://open.spotify.com/album/4r4S1Vthv9l5CSJdTee4S6) | 2:43 | 2020-07-18 | 2020-08-20 |
