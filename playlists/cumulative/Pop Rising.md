@@ -2,7 +2,7 @@
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> The hits of tomorrow are on Spotify today. Cover: Chloë 
+> The hits of tomorrow are on Spotify today. Cover: Chlöe 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
