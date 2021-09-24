@@ -2,7 +2,8 @@ pretty - [cumulative](/playlists/cumulative/Lorem.md) - [plain](/playlists/plain
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> melodic gems u can send to friends. cover: girl in red
+> girl in red <3 
+
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
