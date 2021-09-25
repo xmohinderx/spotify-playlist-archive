@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Plugged%20In.md) - [plain](/playlist
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Coldplay
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Ben Lee
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

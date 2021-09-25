@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Jameson Rodgers
+> Today's top country hits of the week, worldwide! Cover: Mickey Guyton
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Head Over Heels](https://open.spotify.com/track/4uSGKYoqdlqXYAr8SwhnFl) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Head Over Heels](https://open.spotify.com/album/0LTNBwbMq7nP2PSNL6bI86) | 3:09 | 2019-06-22 | 2019-11-09 |
 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 | 2021-04-24 |  |
 | [Heart Shut (feat. Tenille Townes)](https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Six Strings](https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk) | 3:21 | 2021-03-31 | 2021-07-31 |
-| [Heart's In Your Head](https://open.spotify.com/track/712aP3QwYnSpuCYHScgbGn) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Heart's In Your Head](https://open.spotify.com/album/5ymEWtBYleaSuToTcWmasf) | 3:07 | 2021-05-15 |  |
+| [Heart's In Your Head](https://open.spotify.com/track/712aP3QwYnSpuCYHScgbGn) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Heart's In Your Head](https://open.spotify.com/album/5ymEWtBYleaSuToTcWmasf) | 3:07 | 2021-05-15 | 2021-09-25 |
 | [Heartache Medication](https://open.spotify.com/track/6ZvAXIWw3rw8WR0Xlmifri) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication](https://open.spotify.com/album/0JzXywsekILWEm0mBPKKhC) | 3:29 | 2019-09-29 | 2020-02-08 |
 | [Heartless (feat. Morgan Wallen)](https://open.spotify.com/track/5mTL8ZHcB2LJdlrR78xJYr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Do Si Do](https://open.spotify.com/album/5ztLxyZw32EKfv0Kw5ZLRj) | 2:49 | 2020-06-14 | 2020-08-22 |
 | [Heartless (feat. Morgan Wallen)](https://open.spotify.com/track/0rFQ5cKYJ9WtHSKp9sxVYt) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Heartless (feat. Morgan Wallen)](https://open.spotify.com/album/4YEes0AZtUChqtLBwaQLzh) | 2:49 | 2019-08-31 | 2020-06-14 |
@@ -272,7 +272,7 @@
 | [Neon Fools](https://open.spotify.com/track/1C0mdTiVLxRfsBrIhlPQQC) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Neon Fools](https://open.spotify.com/album/5upZpszGKEezR0FT1xicc3) | 3:15 | 2020-02-15 | 2020-06-12 |
 | [Never Be Sorry](https://open.spotify.com/track/1sE1zYYMBsHd7iR6nPN16p) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Never Be Sorry](https://open.spotify.com/album/3lefhQbcxYWU4pdUgcWWiG) | 3:27 | 2019-10-26 | 2019-12-14 |
 | [Never Be Sorry](https://open.spotify.com/track/1TP0hha5wan1xwKjGcNSCv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:23 | 2020-11-10 | 2021-02-20 |
-| [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 | 2020-09-05 |  |
+| [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 | 2020-09-05 | 2021-09-25 |
 | [Next To You](https://open.spotify.com/track/4drTFbY9KJIvllrqVcJvLi) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 4:06 | 2020-01-18 | 2020-02-08 |
 | [Night Lights](https://open.spotify.com/track/1jgD0qqYoZJX6ajbejN9sg) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Night Lights](https://open.spotify.com/album/0dKYIBiFsEftQiLahvzDkh) | 2:43 | 2019-06-14 | 2019-06-30 |
 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 | 2019-05-26 | 2019-06-22 |
