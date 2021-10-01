@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Fresh%20Finds%20-%20Pop.md) - [plain
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Say You're in Love](https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Say You're in Love](https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL) | 4:00 |
+| 1 | [Say You're In Love](https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Say You're In Love](https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL) | 4:00 |
 | 2 | [Somebody I Fucked Once](https://open.spotify.com/track/1TLgTsRiX4P55KUOOGjYHu) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel (Deluxe)](https://open.spotify.com/album/7JpzGCHmVPWG9zvBdexIqd) | 3:04 |
 | 3 | [EASTSIDE](https://open.spotify.com/track/7CSHeLzcZ2UlmyqtWNaVRU) | [CHYLD](https://open.spotify.com/artist/7CCDzcz8u2Cs5c8Az35Gud), [ANOU](https://open.spotify.com/artist/6oaikwZAsCzY95X5K14MdW) | [EASTSIDE](https://open.spotify.com/album/3aynZ4Bt5in256XfJ2hfZ1) | 2:56 |
 | 4 | [songs about you](https://open.spotify.com/track/0HrrOhWRCMsPwRN8jKv4ZS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [songs about you](https://open.spotify.com/album/1InJqJj8fQTPNXbdH4E18j) | 3:09 |
