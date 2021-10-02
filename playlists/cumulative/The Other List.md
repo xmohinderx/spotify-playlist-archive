@@ -2,7 +2,7 @@
 
 ### [The Other List](https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E)
 
-> The home of the best new alternative music. Cover: Lets Eat Grandma
+> The home of the best new alternative music. Cover: Tirzah
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Good While It Lasted](https://open.spotify.com/track/4GjzTwHiTbRBGbAzvOTtRu) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 3:02 | 2021-01-15 | 2021-02-12 |
 | [Got Me](https://open.spotify.com/track/3mghKdqAomZMZKShUppmae) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Got Me](https://open.spotify.com/album/7s073AT8XNarGOBLruWghZ) | 3:26 | 2021-05-14 | 2021-07-09 |
 | [Gotta Switch It On](https://open.spotify.com/track/1E2j3VmNCwxB2tzCkMHMYY) | [CHERRYZ](https://open.spotify.com/artist/1tHcFo4N4wSw7KwJdO1ByV) | [PunkZ](https://open.spotify.com/album/5NSZvAoDqvWYVc3WBuA1Vt) | 3:17 | 2020-11-27 | 2020-12-18 |
-| [Gravity](https://open.spotify.com/track/5VJKXMbWvfbpbOh3A90hXU) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Gravity](https://open.spotify.com/album/0le137ADahjpogaci3kC3o) | 5:25 | 2021-08-20 |  |
+| [Gravity](https://open.spotify.com/track/5VJKXMbWvfbpbOh3A90hXU) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Gravity](https://open.spotify.com/album/0le137ADahjpogaci3kC3o) | 5:25 | 2021-08-20 | 2021-10-02 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 | 2020-12-04 |
 | [green screen](https://open.spotify.com/track/3STqBDcv6ldZ70NALhm886) | [Cathy Jain](https://open.spotify.com/artist/3b05F8mzcRrH8jIdBNJHHQ) | [green screen](https://open.spotify.com/album/3Dg7ksvps3kS1KvmJNX3Kv) | 3:34 | 2021-09-10 |  |
 | [Grit](https://open.spotify.com/track/07q0ELHSgh3sDkKElU5KOR) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [I Can’t Cry for You](https://open.spotify.com/album/3ZK9CNx5MIrZAfO3V1nJaP) | 3:26 | 2020-12-04 | 2021-02-19 |
@@ -332,6 +332,7 @@
 | [Lost In LA](https://open.spotify.com/track/4ATfV3KCT2fWsP9reU6NPN) | [A Month Of Sundays](https://open.spotify.com/artist/2j7j3vl2Fmt9yreOlOcbnD), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Lost In LA / Nginothando Lwakhe](https://open.spotify.com/album/7sWrK5ncNPiKcvkdlJGipv) | 4:07 | 2021-06-25 | 2021-09-03 |
 | [Lost in Translation](https://open.spotify.com/track/5TUZhrb8UaaA76NhzZax2Z) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:10 | 2020-09-29 | 2020-10-23 |
 | [Lovefool](https://open.spotify.com/track/7rCqnuoSNr25qTcl5WOgtl) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Lovefool](https://open.spotify.com/album/2wkMjAppwIgYT6dgQYGHNS) | 3:22 | 2021-07-16 | 2021-09-17 |
+| [Lover (Don't Let Me Down)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover (Don’t Let Me Down)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 | 2021-10-02 |  |
 | [Lovers](https://open.spotify.com/track/4S1QkFND7Z71lBlLX8puGi) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Lovers](https://open.spotify.com/album/7j1FS3UHc54XEqjLYtnbMS) | 3:23 | 2021-02-12 | 2021-04-16 |
 | [Lovin’ Me (feat. Phoebe Bridgers)](https://open.spotify.com/track/3JdwGk8j7lHN5qdzJZklam) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:45 | 2020-12-11 | 2021-04-02 |
 | [Luv U Do](https://open.spotify.com/track/4QPFQgKBwvUARsuWfI8P3o) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Luv U Do](https://open.spotify.com/album/4QjKUO5qLoLK6GZ99d8lhU) | 2:56 | 2021-07-16 | 2021-08-27 |
