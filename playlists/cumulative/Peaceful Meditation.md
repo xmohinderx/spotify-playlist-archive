@@ -7,6 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bed Of Clouds](https://open.spotify.com/track/2OaKSdtWgdSndVQCXlVgSr) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [A Bed Of Clouds](https://open.spotify.com/album/0DdObrz1wrIBCC5kye8bQM) | 4:00 | 2020-09-30 |  |
+| [A Fair Wind](https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [A Fair Wind](https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4) | 3:00 | 2021-10-06 |  |
 | [Abditory](https://open.spotify.com/track/0sHAK04QYBqPdPL5BUP4aS) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Abditory](https://open.spotify.com/album/1g8cPZhYVIx3srH6kEduj4) | 2:27 | 2021-09-21 |  |
 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 | 2021-07-23 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2021-07-01 |  |
@@ -165,6 +166,7 @@
 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 | 2020-09-30 |  |
 | [Monita](https://open.spotify.com/track/2kYi4RwuTernByCJR6D4e1) | [Vincent Brahn](https://open.spotify.com/artist/4hHUuocKrz925cz7rAhoju) | [Lake Navis](https://open.spotify.com/album/45SgBkBj04nt7ZxfTsfpuh) | 3:16 | 2020-09-30 | 2021-07-14 |
 | [Morgensonne](https://open.spotify.com/track/7lP59sloyWgX1c3xA2ZTve) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Zauberer](https://open.spotify.com/album/12DWmZRocdbO2edqiokY8M) | 3:47 | 2020-09-30 | 2021-09-14 |
+| [Morze Bałtyckie](https://open.spotify.com/track/1cpOnZ05SwPJ2uy2vIAqy4) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Morze Bałtyckie](https://open.spotify.com/album/0BBQJZf1gXSob0ie1QzSr8) | 3:01 | 2021-10-06 |  |
 | [Moving Silence](https://open.spotify.com/track/08Mk6wrJu3giNbV2oy6Vv8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW) | 2:05 | 2020-09-30 |  |
 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 | 2020-12-24 |  |
 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 | 2020-09-30 |  |
