@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> melodic gems you can send to friends (unless it's the squid game theme song). cover: carwarsh
+> Listen in to <a href="https://spotifygr.link/loremlife">Lorem Live w/ Max & Dev</a> tonight at 9pm EST on Spotify Greenroom. Cover: carwarsh
 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
@@ -49,6 +49,7 @@
 | [All In](https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [All In](https://open.spotify.com/album/0DBucS5ZFsVwx4yAzEgybN) | 2:50 | 2021-03-26 | 2021-06-05 |
 | [All in My Head](https://open.spotify.com/track/0gdqvwROKAGMlCVdFqYR1H) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [All in My Head](https://open.spotify.com/album/61nkyHzxKFadX0xkFNF71Y) | 2:41 | 2021-07-17 |  |
 | [All My Dogs](https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 2:52 | 2020-05-20 | 2021-06-11 |
+| [All My Time Is Wasted](https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [All My Time Is Wasted](https://open.spotify.com/album/3RVFlen5Oj1NdRjW1ELxOM) | 3:20 | 2021-10-07 |  |
 | [Altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-17 |  |
 | [Always](https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:17 | 2019-11-14 | 2020-03-25 |
 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 | 2020-09-15 | 2020-10-13 |
@@ -441,6 +442,7 @@
 | [go off the deep end, pt. 2](https://open.spotify.com/track/3VOTpciO78esvk2bb2X6E0) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [go off the deep end, pt. 2](https://open.spotify.com/album/5Cvzq1B3oOXbb8WalZLZy7) | 1:41 | 2020-07-31 | 2020-08-21 |
 | [Go Wrong](https://open.spotify.com/track/75dIKJQLp0iV4q99dxxyVF) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Go Wrong](https://open.spotify.com/album/6p9iOHrUmFLFZgD1yE5EqB) | 2:23 | 2021-02-24 | 2021-04-16 |
 | [God in Jeans](https://open.spotify.com/track/1pu4luiWwVAcJRoCuqJfWg) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 2:52 | 2020-08-21 | 2020-12-04 |
+| [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-07 |  |
 | [going](https://open.spotify.com/track/0Y2ow0ukZdDNDzYHD54Pjj) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [going/freedom](https://open.spotify.com/album/7tQCihUfSWH7v5VEBI1EQO) | 2:55 | 2021-07-04 |  |
 | [going out](https://open.spotify.com/track/4fVRuWru6EQ8fGMeCPP431) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [going out](https://open.spotify.com/album/39Mp4A7ReulwbpCW73BhK9) | 2:54 | 2020-10-08 | 2021-01-12 |
 | [Going Thru](https://open.spotify.com/track/1G1zhTPT7ZlgZHsyjelcQg) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Summer '17](https://open.spotify.com/album/25yeAS4H5ndooKc4yV4zEg) | 5:13 | 2019-07-30 | 2019-08-02 |
@@ -558,6 +560,7 @@
 | [I Love All My Friends](https://open.spotify.com/track/5cMt4oV1AUS1JNomILulP4) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [I Love All My Friends](https://open.spotify.com/album/32s3XB6VgcLt0YnhfPVVmO) | 2:22 | 2020-07-23 | 2020-08-20 |
 | [I Miss My Mum](https://open.spotify.com/track/3dhR3sGrkj2G2TDY7frVzT) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [I Miss My Mum](https://open.spotify.com/album/4baMBoCI5dRYi1hvkXShY0) | 2:57 | 2020-03-20 | 2020-04-09 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/1tF7RL54zjHSy0N2qEQLDY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I miss you, I’m sorry](https://open.spotify.com/album/0JYxafLuoAFXB2CZ9JVI2k) | 2:47 | 2020-04-09 | 2020-08-20 |
+| [I must apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 | 2021-10-07 |  |
 | [I Must Be In Love](https://open.spotify.com/track/1P9KM0iwzW8e900blTRJWJ) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [I Must Be In Love](https://open.spotify.com/album/5bLirccCgo7ntxBaZ8VxCI) | 2:46 | 2021-06-24 |  |
 | [I Really Loved You](https://open.spotify.com/track/5ITa9AzlEG9b7gdY6LHvYU) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [My Life As A Teenage Robot](https://open.spotify.com/album/4at3Tbo8bXjoqO52EtrWUO) | 3:28 | 2019-10-25 | 2020-05-29 |
 | [i think i wanna be alone](https://open.spotify.com/track/1md2KOmyjGwQxuy5W39Lsz) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [i think i wanna be alone](https://open.spotify.com/album/0QhJHjBtJmNy8sfdQU7XoJ) | 1:42 | 2020-07-18 | 2021-03-06 |
