@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Carry%20Me%20Away%20Radio.md) - [pla
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Wild Rivers, Juke Ross, Nathaniel Rateliff and more
+> With John Mayer, Local Natives, Jack Johnson, Marc E. Bassy and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -297,3 +297,4 @@ how the playlist evolves over time.
 - [young & free](/playlists/pretty/young%20&%20free.md)
 - [Young, Wild & Free](/playlists/pretty/Young,%20Wild%20&%20Free.md)
 - [Your Favorite Coffeehouse](/playlists/pretty/Your%20Favorite%20Coffeehouse.md)
+- [キラキラポップ：ジャパン](/playlists/pretty/キラキラポップ：ジャパン.md)

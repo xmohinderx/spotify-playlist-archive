@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Paloma Faith, Alex & Sierra, P!nk and more
+> With Adele, Ellie Goulding, Shawn Mendes, Alicia Keys and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

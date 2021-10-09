@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/HEADPHONES.md) - [plain](/playlists/
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TYPECAST](https://open.spotify.com/track/39NdK7zzz5K38Tvj7Gd0CC) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [TYPECAST](https://open.spotify.com/album/5gnvphhpnrwFzKGobgwg2d) | 2:17 |
-| 2 | [Beggin'](https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [Giana](https://open.spotify.com/artist/4WuIqG9P1U4bN058wjrBCg) | [Beggin'](https://open.spotify.com/album/6EVl8VLlaaOq3MmXCSzZww) | 3:27 |
+| 2 | [Beggin'](https://open.spotify.com/track/7zKaYgEl0ywPF3zUOw2BKg) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [Giana](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Beggin'](https://open.spotify.com/album/6EVl8VLlaaOq3MmXCSzZww) | 3:27 |
 | 3 | [Do No Wrong](https://open.spotify.com/track/0htzz3Kd2jSX1X9msVnCdE) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Do No Wrong](https://open.spotify.com/album/1QYN4nbt5S3b4jCrhQI4JD) | 3:21 |
 | 4 | [ruin my day](https://open.spotify.com/track/5GvX5m5GX9du0ThWzzwBd9) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [ruin my day](https://open.spotify.com/album/4VLZ4NGIPqZyrHcrsaIDmi) | 2:48 |
 | 5 | [Reach Out](https://open.spotify.com/track/1J8hzisGJohDGZH6zvNoSi) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [Reach Out](https://open.spotify.com/album/7cfOvs638QNhwsWi0RvnlT) | 3:00 |

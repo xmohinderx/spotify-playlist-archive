@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/p
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Philip Lawrence, Flo Rida, Tinashe and more
+> With Bruno Mars, The King's Men, Cambridge, Skip Marley, Verdine White and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
