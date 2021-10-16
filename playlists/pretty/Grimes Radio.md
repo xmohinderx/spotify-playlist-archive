@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Grimes%20Radio.md) - [plain](/playli
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Phantogram, Toro y Moi, Purity Ring and more
+> With Perfume Genius, Toro y Moi, Eartheater and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

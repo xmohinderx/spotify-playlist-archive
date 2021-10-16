@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Matt Nathanson, Donovan Woods, Tenille Townes and more
+> With John Mayer, Juke Ross, Leon Bridges, Allen Stone and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

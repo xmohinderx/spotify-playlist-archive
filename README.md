@@ -143,6 +143,7 @@ how the playlist evolves over time.
 - [lofi beats](/playlists/pretty/lofi%20beats.md)
 - [Lorem](/playlists/pretty/Lorem.md)
 - [Lounge - Soft House](/playlists/pretty/Lounge%20-%20Soft%20House.md)
+- [Love Ballads](/playlists/pretty/Love%20Ballads.md)
 - [Love Pop](/playlists/pretty/Love%20Pop.md)
 - [Low Key Pop](/playlists/pretty/Low%20Key%20Pop.md)
 - [Lowkey Tech](/playlists/pretty/Lowkey%20Tech.md)
