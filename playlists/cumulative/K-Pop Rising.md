@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: TRI.BE
+> Future K-Pop hits! Cover: Nam Woo-hyun
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Butterfly](https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, (Original Drama Soundtrack, Pt. 4)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 | 2021-08-11 |  |
 | [BYE BYE BYE](https://open.spotify.com/track/69Nn4yZnYo1nw4mfQvNbfU) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : Action](https://open.spotify.com/album/7nvcGJpVJBTOtYKGTEtCmr) | 3:25 | 2021-06-16 | 2021-09-07 |
 | [California Love (feat. JENO of NCT)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2021-10-16 |  |
+| [Calm & Passion](https://open.spotify.com/track/2Tnh9ZwCtdR1Zd21RNDGVX) | [Nam Woo-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [With](https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7) | 3:29 | 2021-10-21 |  |
 | [Carabiner (Prod. GroovyRoom)](https://open.spotify.com/track/0utN0m9bi6E5oqZz7cK4QD) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [Carabiner](https://open.spotify.com/album/5aaApDk27rQCrgGotit7wC) | 3:31 | 2021-07-17 | 2021-08-25 |
 | [Carabiner (Prod. GroovyRoom)](https://open.spotify.com/track/0utN0m9bi6E5oqZz7cK4QD) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [Carabiner (Prod. GroovyRoom)](https://open.spotify.com/album/5aaApDk27rQCrgGotit7wC) | 3:31 | 2021-07-15 | 2021-07-17 |
 | [CARDIGAN (feat. Wonstein)](https://open.spotify.com/track/2ZEJPpvO2j1KDx9UxShxID) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ROSES](https://open.spotify.com/album/0Q5HDqny1SbvWqXCByWIql) | 3:14 | 2021-06-04 | 2021-07-01 |
@@ -104,7 +105,8 @@
 | [Down (feat. Grey)](https://open.spotify.com/track/0hCN8CN4XwpnVxCUvUuRu7) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Down](https://open.spotify.com/album/7kgyAWZE9JuzFLa93O8mgg) | 3:13 | 2021-04-22 | 2021-07-28 |
 | [Drink It](https://open.spotify.com/track/56URBnyl71PPaebwimqwQD) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Drink It](https://open.spotify.com/album/6gstlIojQWTAcrsRqBQxLR) | 3:26 | 2021-07-15 | 2021-09-18 |
 | [Drunk-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-04-30 | 2021-09-07 |
-| [DUMB DUMB](https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3) | [SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T) | 2:29 | 2021-08-03 |  |
+| [DUMB DUMB](https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T) | 2:29 | 2021-10-21 |  |
+| [DUMB DUMB](https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3) | [SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T) | 2:29 | 2021-08-03 | 2021-10-21 |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-13 | 2021-01-25 |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [SOYEON of (G)I-DLE](https://open.spotify.com/artist/7bhzw1KVooq7vvGR0r0SXf) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-15 | 2020-10-23 |
 | [Dun Dun Dance](https://open.spotify.com/track/1TJUl8dh8AaKyDt91Kz87n) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/02tASSJqgrHueEUw97lnRm) | 3:40 | 2021-05-11 | 2021-07-30 |
@@ -327,6 +329,7 @@
 | [Sticker](https://open.spotify.com/track/1iGQpclvzonFNzy7Ko89V7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker - The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:47 | 2021-09-18 |  |
 | [Still Dream](https://open.spotify.com/track/2EZaAECwCUCppTkoWNUxWC) | [KIM WOOJIN](https://open.spotify.com/artist/2jAhpp38AMZvTHud2OJbvM) | [Still Dream](https://open.spotify.com/album/3SXbKU8gFk7gn6Pgz7lw8h) | 3:32 | 2021-07-13 | 2021-09-18 |
 | [Strawberry Gum](https://open.spotify.com/track/2QUwkd0f6XcqwOuYpNUuBD) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Select Shop](https://open.spotify.com/album/1KkaVtzH9oQd7I1LSp1xRv) | 3:30 | 2021-08-11 | 2021-10-13 |
+| [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-10-21 |  |
 | [Sugar](https://open.spotify.com/track/4Tu4zn23F50xF0vq5FGzhW) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [2ND DESIRE [TASTY]](https://open.spotify.com/album/6kTFUtFLUxFQidclj616It) | 3:03 | 2021-02-10 | 2021-03-01 |
 | [Sukhumvit Swimming](https://open.spotify.com/track/1qPSuxDxEWzLoi6WlLN7N1) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPIN OFF](https://open.spotify.com/album/6EcAokZ4I8tjPwy6sDq8di) | 3:04 | 2020-10-13 | 2021-01-11 |
 | [Summer day summer night](https://open.spotify.com/track/7C9JbPpqtVK1tjMbDQR5EE) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 2:59 | 2020-10-13 | 2020-11-05 |
