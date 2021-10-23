@@ -127,6 +127,7 @@ playlist evolves over time.
 - [hyperpop](/playlists/pretty/hyperpop.md)
 - [Indie Chillout](/playlists/pretty/Indie%20Chillout.md)
 - [Indie Favourites](/playlists/pretty/Indie%20Favourites.md)
+- [Indie Gaming](/playlists/pretty/Indie%20Gaming.md)
 - [indie pop & chill](/playlists/pretty/indie%20pop%20&%20chill.md)
 - [Indie Pop](/playlists/pretty/Indie%20Pop.md)
 - [Indie Rock Road Trip](/playlists/pretty/Indie%20Rock%20Road%20Trip.md)
