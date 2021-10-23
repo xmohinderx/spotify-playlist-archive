@@ -22,7 +22,7 @@ Since Spotify won't take snapshots of our favorite playlists, let's do it oursel
 1. To view the current version of a playlist, click on its name [below](https://github.com/mackorone/spotify-playlist-archive#playlists)
 1. To see all songs that ever belonged to a playlist, click "cumulative"
 1. To determine which songs were added or removed from a playlist, click "githistory"
-1. To add a playlist to the archive, simply `touch playlists/plain/<playlist_id>` and make a pull request
+1. To add a playlist to the archive, simply `touch playlists/aliases/<playlist_id>` and make a pull request
 
 ## How it works
 
@@ -34,13 +34,13 @@ whenever the scraping or formatting logic changes, or when new playlists are
 added - cool!
 
 The script determines which playlists to scrape by looking at the file names in
-`playlists/plain`. Files get regenerated as follows: a pretty version of each
+`playlists/aliases`. Files get regenerated as follows: a pretty version of each
 playlist gets dumped in `playlists/pretty`, new tracks are added to the
 files in `playlists/cumulative`, and a plaintext version of each playlist is
-written back to `playlists/plain`. The plain version is sorted alphabetically,
-rather than by track number, so that it only changes when tracks are added or
-removed, making [Git History](https://githistory.xyz/) a nice way to visualize
-how the playlist evolves over time.
+written to `playlists/plain`. The plain version is sorted alphabetically, rather
+than by track number, so that it only changes when tracks are added or removed,
+making [Git History](https://githistory.xyz/) a nice way to visualize how the
+playlist evolves over time.
 
 ## Playlists
 
