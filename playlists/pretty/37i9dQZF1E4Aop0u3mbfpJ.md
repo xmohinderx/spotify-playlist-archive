@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Selena Gomez & The Scene, Kanye West, Kelly Clarkson and more
+> With Selena Gomez & The Scene, Lorde, Timbaland and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Miley Cyrus, Fifth Harmony, The Weeknd and more
+> With Bruno Mars, Big Sean, The Weeknd, Justin Bieber and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

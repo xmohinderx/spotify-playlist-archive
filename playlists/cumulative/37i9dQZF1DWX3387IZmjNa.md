@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX3387IZmjNa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX3387IZmjNa) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX3387IZmjNa))
 
-### [B.A.E](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
+### [B.A.E.](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
 
 > Hip-Hop + R&B: Before. Anything. Else. Cover: Drake
 
