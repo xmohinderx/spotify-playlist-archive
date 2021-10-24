@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Rock%20This.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcF6B6QPhFDv) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcF6B6QPhFDv))
+[pretty](/playlists/pretty/37i9dQZF1DXcF6B6QPhFDv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcF6B6QPhFDv) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcF6B6QPhFDv))
 
 ### [Rock This](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 

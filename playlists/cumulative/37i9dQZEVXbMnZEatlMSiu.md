@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20Taiwan.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMnZEatlMSiu) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMnZEatlMSiu))
+[pretty](/playlists/pretty/37i9dQZEVXbMnZEatlMSiu.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMnZEatlMSiu) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMnZEatlMSiu))
 
 ### [Top 50 - Taiwan](https://open.spotify.com/playlist/37i9dQZEVXbMnZEatlMSiu)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20New%20Zealand.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbM8SIrkERIYl) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbM8SIrkERIYl))
+[pretty](/playlists/pretty/37i9dQZEVXbM8SIrkERIYl.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbM8SIrkERIYl) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbM8SIrkERIYl))
 
 ### [Top 50 - New Zealand](https://open.spotify.com/playlist/37i9dQZEVXbM8SIrkERIYl)
 

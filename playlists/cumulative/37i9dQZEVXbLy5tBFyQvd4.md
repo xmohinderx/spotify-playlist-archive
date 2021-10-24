@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20Guatemala.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLy5tBFyQvd4) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLy5tBFyQvd4))
+[pretty](/playlists/pretty/37i9dQZEVXbLy5tBFyQvd4.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLy5tBFyQvd4) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLy5tBFyQvd4))
 
 ### [Top 50 - Guatemala](https://open.spotify.com/playlist/37i9dQZEVXbLy5tBFyQvd4)
 

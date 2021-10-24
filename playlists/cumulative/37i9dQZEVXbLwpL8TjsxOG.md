@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20Hong%20Kong.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLwpL8TjsxOG) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLwpL8TjsxOG))
+[pretty](/playlists/pretty/37i9dQZEVXbLwpL8TjsxOG.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLwpL8TjsxOG) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLwpL8TjsxOG))
 
 ### [Top 50 - Hong Kong](https://open.spotify.com/playlist/37i9dQZEVXbLwpL8TjsxOG)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20Denmark.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbL3J0k32lWnN) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbL3J0k32lWnN))
+[pretty](/playlists/pretty/37i9dQZEVXbL3J0k32lWnN.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbL3J0k32lWnN) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbL3J0k32lWnN))
 
 ### [Top 50 - Denmark](https://open.spotify.com/playlist/37i9dQZEVXbL3J0k32lWnN)
 

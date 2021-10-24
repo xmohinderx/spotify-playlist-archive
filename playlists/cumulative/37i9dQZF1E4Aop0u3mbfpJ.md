@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/Lady%20Gaga%20Radio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ))
+[pretty](/playlists/pretty/37i9dQZF1E4Aop0u3mbfpJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ))
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Britney Spears, Saweetie, Elton John and more
+> With Selena Gomez & The Scene, Kanye West, Kelly Clarkson and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

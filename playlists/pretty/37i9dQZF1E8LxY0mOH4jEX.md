@@ -1,8 +1,8 @@
-pretty - [cumulative](/playlists/cumulative/24K%20Magic%20Radio.md) - [plain](/playlists/plain/37i9dQZF1E8LxY0mOH4jEX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8LxY0mOH4jEX))
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain](/playlists/plain/37i9dQZF1E8LxY0mOH4jEX) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8LxY0mOH4jEX))
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Flo Rida, Chris Brown, Big Sean and more
+> With Bruno Mars, Miley Cyrus, Fifth Harmony, The Weeknd and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

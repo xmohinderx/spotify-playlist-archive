@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Pop%20Rising.md) - [plain](/playlists/plain/37i9dQZF1DWUa8ZRTfalHk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUa8ZRTfalHk))
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain](/playlists/plain/37i9dQZF1DWUa8ZRTfalHk) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUa8ZRTfalHk))
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 

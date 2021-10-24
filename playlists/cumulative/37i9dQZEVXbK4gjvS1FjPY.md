@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20Singapore.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbK4gjvS1FjPY) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbK4gjvS1FjPY))
+[pretty](/playlists/pretty/37i9dQZEVXbK4gjvS1FjPY.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbK4gjvS1FjPY) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbK4gjvS1FjPY))
 
 ### [Top 50 - Singapore](https://open.spotify.com/playlist/37i9dQZEVXbK4gjvS1FjPY)
 

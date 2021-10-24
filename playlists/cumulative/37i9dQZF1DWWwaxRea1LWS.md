@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Throwback%20Thursday.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWwaxRea1LWS) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWwaxRea1LWS))
+[pretty](/playlists/pretty/37i9dQZF1DWWwaxRea1LWS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWwaxRea1LWS) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWwaxRea1LWS))
 
 ### [Throwback Thursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
 

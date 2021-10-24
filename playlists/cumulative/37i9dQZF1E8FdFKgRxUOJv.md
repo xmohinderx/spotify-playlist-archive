@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/Carry%20Me%20Away%20Radio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E8FdFKgRxUOJv) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8FdFKgRxUOJv))
+[pretty](/playlists/pretty/37i9dQZF1E8FdFKgRxUOJv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E8FdFKgRxUOJv) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8FdFKgRxUOJv))
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Parachute, Johnnyswim, Adam Melchor and more
+> With John Mayer, Juke Ross, Johnnyswim, Patrick Droney and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/When%20We%20Were%20Young%20Radio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E8LEwyPvT2AXf) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8LEwyPvT2AXf))
+[pretty](/playlists/pretty/37i9dQZF1E8LEwyPvT2AXf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E8LEwyPvT2AXf) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8LEwyPvT2AXf))
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Ed Sheeran, Jasmine Thompson, Niall Horan and more
+> With Adele, Paloma Faith, Calum Scott, Kelly Clarkson and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

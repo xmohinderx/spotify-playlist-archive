@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20Uruguay.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMJJi3wgRbAy) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMJJi3wgRbAy))
+[pretty](/playlists/pretty/37i9dQZEVXbMJJi3wgRbAy.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMJJi3wgRbAy) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMJJi3wgRbAy))
 
 ### [Top 50 - Uruguay](https://open.spotify.com/playlist/37i9dQZEVXbMJJi3wgRbAy)
 

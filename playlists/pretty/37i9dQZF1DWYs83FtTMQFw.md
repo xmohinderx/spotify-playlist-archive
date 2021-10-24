@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Hot%20Rhythmic.md) - [plain](/playlists/plain/37i9dQZF1DWYs83FtTMQFw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYs83FtTMQFw))
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain](/playlists/plain/37i9dQZF1DWYs83FtTMQFw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYs83FtTMQFw))
 
 ### [Hot Rhythmic](https://open.spotify.com/playlist/37i9dQZF1DWYs83FtTMQFw)
 

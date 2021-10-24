@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Top%2050%20-%20Colombia.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbOa2lmxNORXQ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbOa2lmxNORXQ))
+[pretty](/playlists/pretty/37i9dQZEVXbOa2lmxNORXQ.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbOa2lmxNORXQ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbOa2lmxNORXQ))
 
 ### [Top 50 - Colombia](https://open.spotify.com/playlist/37i9dQZEVXbOa2lmxNORXQ)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Early%20Alternative.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdTCdwCKzXwo) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTCdwCKzXwo))
+[pretty](/playlists/pretty/37i9dQZF1DXdTCdwCKzXwo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdTCdwCKzXwo) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTCdwCKzXwo))
 
 ### [Early Alternative](https://open.spotify.com/playlist/37i9dQZF1DXdTCdwCKzXwo)
 
@@ -19,7 +19,7 @@
 | [Blister In The Sun](https://open.spotify.com/track/4PXH3g9qGgMqDlC52dJw07) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes: Deluxe Edition](https://open.spotify.com/album/645pkwf8FAE9eYY2vx7TiO) | 2:24 | 2021-03-19 |  |
 | [Blue Monday](https://open.spotify.com/track/6gv02BqPCsOQz5QQ4jnNOY) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power, Corruption & Lies [Collector's Edition]](https://open.spotify.com/album/28gHGrHg6dFHRzG6n2L9J6) | 7:25 | 2021-03-19 |  |
 | [Buena](https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:19 | 2021-03-19 |  |
-| [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 | 2021-03-29 |  |
+| [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 | 2021-03-29 | 2021-10-24 |
 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 | 2021-04-30 | 2021-05-12 |
 | [Cannonball](https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx) | 3:33 | 2021-03-19 |  |
 | [Carry the Zero](https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 5:43 | 2021-03-19 |  |
@@ -70,7 +70,7 @@
 | [only shallow](https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:16 | 2021-03-19 |  |
 | [Ooh La La - 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 | 2021-06-04 |  |
 | [Ooh La La - 2015 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 | 2021-03-19 | 2021-06-04 |
-| [Oscillations](https://open.spotify.com/track/1r5Sio50UmqBG42gt2EKYx) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/1N8ULL9Xd4zapZMgxIT98U) | 2:47 | 2021-03-23 | 2021-10-16 |
+| [Oscillations](https://open.spotify.com/track/1r5Sio50UmqBG42gt2EKYx) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/1N8ULL9Xd4zapZMgxIT98U) | 2:47 | 2021-03-23 |  |
 | [Paris 1919](https://open.spotify.com/track/7sF2KOkDLXNDAiUXpWP8aR) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Paris 1919](https://open.spotify.com/album/4KdEMeJZeYMVDoEvJSnwuj) | 4:06 | 2021-03-19 |  |
 | [People Are Strange - New Stereo Mix](https://open.spotify.com/track/6chyadaFmcdgpfSDW31KVj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Future Starts Here: The Essential Doors Hits](https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp) | 2:10 | 2021-03-19 |  |
 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:45 | 2021-03-19 |  |

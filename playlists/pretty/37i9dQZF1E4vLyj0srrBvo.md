@@ -1,8 +1,8 @@
-pretty - [cumulative](/playlists/cumulative/Grimes%20Radio.md) - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo))
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo))
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Warpaint, Tennis, Washed Out and more
+> With Ariel Pink, Perfume Genius, Phantogram and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Red%20Vox%20Recent%20Favorites.md) - cumulative - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC))
+[pretty](/playlists/pretty/5l8NqdrXc4JHxSu1arjWgC.md) - cumulative - [plain](/playlists/plain/5l8NqdrXc4JHxSu1arjWgC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5l8NqdrXc4JHxSu1arjWgC))
 
 ### [Red Vox Recent Favorites](https://open.spotify.com/playlist/5l8NqdrXc4JHxSu1arjWgC)
 

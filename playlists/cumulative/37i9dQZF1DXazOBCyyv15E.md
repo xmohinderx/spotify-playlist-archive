@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/The%20Other%20List.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXazOBCyyv15E) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXazOBCyyv15E))
+[pretty](/playlists/pretty/37i9dQZF1DXazOBCyyv15E.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXazOBCyyv15E) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXazOBCyyv15E))
 
 ### [The Other List](https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E)
 
