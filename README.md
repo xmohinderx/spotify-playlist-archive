@@ -46,6 +46,7 @@ playlist evolves over time.
 
 - [2010s Hits ](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md)
 - [24K Magic Radio](/playlists/pretty/37i9dQZF1E8LxY0mOH4jEX.md)
+- [8 Bit Hits](/playlists/pretty/37i9dQZF1DWVr03NrIUlx5.md)
 - [88 Keys](/playlists/pretty/37i9dQZF1DX561TxkFttR4.md)
 - [A.M. Commute](/playlists/pretty/1UQo7foKwUUMjb9KnaBE3S.md)
 - [Acoustic Concentration](/playlists/pretty/37i9dQZF1DXcLDm348RRYK.md)

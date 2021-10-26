@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Amanda Seyfried, Gavin James, Becky Hill and more
+> With Adele, Amanda Seyfried, Jessie J, Lady Gaga and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

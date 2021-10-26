@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Gucci Mane, John Ryan, Lauren Bennett and more
+> With Bruno Mars, Mark Ronson, Clean Bandit, Rihanna and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
