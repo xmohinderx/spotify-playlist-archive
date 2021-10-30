@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> glad u made it here. enjoy the music. cover: Remi Wolf
+> glad u made it here. enjoy the music. cover: Christian Leave
 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
@@ -92,6 +92,7 @@
 | [Back to the Start](https://open.spotify.com/track/1ErY5BBTlfFVnewSQ4rwKY) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Back to the Start](https://open.spotify.com/album/1CyBZOTLfg7xpqI72HbGS9) | 3:23 | 2020-11-13 | 2021-04-16 |
 | [Back To Your House](https://open.spotify.com/track/2eK0u7az7XDR6UQ8lSmc9h) | [Solomonophonic](https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU) | [Back To Your House](https://open.spotify.com/album/4DOPTgAQYsdF1iGUvH7r8y) | 2:28 | 2020-11-20 | 2021-01-12 |
 | [Backseat](https://open.spotify.com/track/1bm6MSwBgSeXp2UPJ0nqCl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Benton Way / Backseat](https://open.spotify.com/album/6QKkWcdvZrQEyIoR1SAjtK) | 3:03 | 2019-12-14 | 2020-05-07 |
+| [backseat](https://open.spotify.com/track/2ivpTUIMtk6YUWmEGEfbpN) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [backseat](https://open.spotify.com/album/7nYjwblIZN4P6q597kmjNO) | 3:17 | 2021-10-30 |  |
 | [Backwards](https://open.spotify.com/track/3HL4n8vCeCyYLxogqkUxup) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ) | [Backwards](https://open.spotify.com/album/67buolBsDm0XkJikkqZRxv) | 2:53 | 2020-08-21 | 2021-03-31 |
 | [Backyard Boy](https://open.spotify.com/track/0y9fkzOaaQy4Up22BGUbIp) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [BeVerly Hills BoYfRiEnd](https://open.spotify.com/album/49iY1LaAv4G5dXAs6eyeml) | 2:09 | 2020-07-23 | 2020-12-18 |
 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 | 2019-09-06 | 2019-09-27 |
@@ -144,6 +145,7 @@
 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 | 2021-03-26 | 2021-06-05 |
 | [BOYFREN](https://open.spotify.com/track/2YJ7tTicU1vUmUjYNJROrv) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [BOYFREN](https://open.spotify.com/album/3PgIavzkrgnFmiIcurJ7EI) | 2:16 | 2019-12-05 | 2020-06-09 |
 | [boyfriend, girlfriend](https://open.spotify.com/track/4IK173MxzuvTXczWL6OHZn) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [boyfriend, girlfriend](https://open.spotify.com/album/4ev0j2IRSJy2fBt09qu8SM) | 3:30 | 2021-07-17 |  |
+| [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-10-30 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/4Y0LgsejwefIM90Ad6eptO) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [Boys Don't Cry](https://open.spotify.com/album/6SkTnZH8QDp0Kh0PSSwe7R) | 2:07 | 2020-06-05 | 2020-07-01 |
 | [Boys Like You](https://open.spotify.com/track/73yR3kAdE531RRYUdFLWad) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Boys Like You](https://open.spotify.com/album/2Bx4wirLMd21SZ3cR1WkBF) | 3:00 | 2019-09-27 | 2019-10-11 |
 | [Brainstorm](https://open.spotify.com/track/3VcFoOwKYurSedLtz9nFJC) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Brainstorm](https://open.spotify.com/album/56UlaGuVe8Mpr37CfEk0ZN) | 3:06 | 2020-10-16 | 2021-01-12 |
@@ -277,6 +279,7 @@
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-08-12 |  |
 | [Darling](https://open.spotify.com/track/47o0JpUemOGkFRY3gEUwxA) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Milksop / Darling](https://open.spotify.com/album/75qzX7cNsdU6k6HUAlsgNe) | 2:45 | 2019-07-30 | 2019-11-14 |
 | [Dart Hill](https://open.spotify.com/track/0YpUVgGuf05PIlIY7HVWRY) | [Natalie Green](https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T) | [So Far, So Good](https://open.spotify.com/album/3PY0pKbleUj9YhoozzTXpn) | 3:28 | 2019-12-21 | 2020-02-20 |
+| [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-10-30 |  |
 | [daytime](https://open.spotify.com/track/4FpqxunRt0nwV5mBesjZ2H) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:39 | 2021-07-10 |  |
 | [Dead Celebrities](https://open.spotify.com/track/2V6dyeFrTmIrdXFoMcZHO9) | [Easy Life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [Dead Celebrities](https://open.spotify.com/album/7zI35ceEWXUJ581slrLfx4) | 3:16 | 2020-01-10 | 2020-02-20 |
 | [dead end](https://open.spotify.com/track/2r6Z8DzXopRlfPfFPHSLes) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [dead end](https://open.spotify.com/album/5q9MyQau8ZpBMOwtg00IZu) | 2:20 | 2021-04-28 | 2021-06-05 |
@@ -646,6 +649,7 @@
 | [Kyoto - Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 | 2021-03-14 | 2021-03-19 |
 | [Kyoto](https://open.spotify.com/track/49UDOG8DoBajXTJSTqfRMg) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:04 | 2021-06-05 | 2021-06-11 |
 | [La Girl](https://open.spotify.com/track/4dv526VBLbxcV6bg315lcb) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Booyah](https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR) | 2:31 | 2020-01-10 | 2020-02-05 |
+| [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-10-30 |  |
 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 | 2020-09-10 | 2021-06-05 |
 | [Larabar](https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Larabar](https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4) | 2:55 | 2021-08-05 |  |
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-03-25 | 2021-06-24 |

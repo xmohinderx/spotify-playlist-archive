@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Ben Lee
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Mastodon
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beautiful James](https://open.spotify.com/track/1ntKR7JwE12hKJNjupLzhG) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/6JCSXagVYDarxrUZ18dw6b) | 4:08 | 2021-09-18 |  |
 | [Behave](https://open.spotify.com/track/6nzyBGYk6Env11uSGAlY5e) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Behave](https://open.spotify.com/album/4zZd900I8mnvrDouSXk8GH) | 3:24 | 2021-07-31 |  |
 | [Berrara](https://open.spotify.com/track/30N0hxlLlqc7DR6lqbcXUC) | [TOTTY](https://open.spotify.com/artist/5tOshqnaM41LBDj4eqANGf) | [Berrara](https://open.spotify.com/album/4FxznnLU3L7sjFH2K4eqOX) | 3:04 | 2020-11-03 |  |
+| [Better](https://open.spotify.com/track/4JUMmZMufX0kLRMzRPi4Qv) | [Pandamic](https://open.spotify.com/artist/6Pz9ks8oUASukNF4ZzMWKX) | [How To Be Happy](https://open.spotify.com/album/0BuV0XxIG1VOQQYkc7ksZz) | 4:15 | 2021-10-30 |  |
 | [Big Legged Woman](https://open.spotify.com/track/6Z56jgvXSif8xOjqsSdlaR) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black to Blues, Vol. 2](https://open.spotify.com/album/20b2c8edlkYwXezzTl96Vn) | 4:39 | 2020-10-10 | 2021-02-25 |
 | [Black Bull](https://open.spotify.com/track/14PVSmvbws1BrJynbTCJB7) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Black Bull](https://open.spotify.com/album/5jnW68gaF2SWL27bRIkq0I) | 3:07 | 2020-10-10 | 2021-02-25 |
 | [Black Chandelier](https://open.spotify.com/track/1Lilehka5GXo4nt7LrH0Ae) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites](https://open.spotify.com/album/3oGG66OOobRoldGzZjI31P) | 4:04 | 2020-10-10 | 2021-02-25 |
@@ -177,6 +178,7 @@
 | [Remote Control](https://open.spotify.com/track/5IsB2kShsBfmHZcXqcFB7Y) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Remote Control](https://open.spotify.com/album/4DuPTIodLTC82Llh8k3Cwg) | 2:41 | 2021-02-26 |  |
 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 | 2021-02-25 |  |
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-22 |  |
+| [Savage Lands](https://open.spotify.com/track/5nDrnOSq8NuwHJpwH6Zv0y) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 4:24 | 2021-10-30 |  |
 | [Scumbag (feat. blink-182)](https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Scumbag (feat. blink-182)](https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6) | 3:30 | 2020-10-10 | 2021-05-13 |
 | [Shadowland](https://open.spotify.com/track/1l3elIbQWyMArfxbIXM6uB) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Shadowland](https://open.spotify.com/album/5scdC0iQINKXXSwqwHTyVi) | 5:21 | 2020-10-16 |  |
 | [She Couldn't](https://open.spotify.com/track/11LguGpEjOklkNQr70nrHQ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [She Couldn't](https://open.spotify.com/album/43tjeef8lVwnRffkZY0uQp) | 5:05 | 2020-10-10 |  |
