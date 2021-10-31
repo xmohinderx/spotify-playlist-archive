@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, James Corden, Katy Perry, Maroon 5 and more
+> With Bruno Mars, Fifth Harmony, Aino Jawo, Whitney Houston and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

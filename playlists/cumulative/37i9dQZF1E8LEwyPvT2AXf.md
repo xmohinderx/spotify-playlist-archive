@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Amanda Seyfried, Paloma Faith, Shawn Mendes and more
+> With Adele, Alessia Cara, Niall Horan, James Bay and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

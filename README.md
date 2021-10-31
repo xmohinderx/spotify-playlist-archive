@@ -183,6 +183,7 @@ playlist evolves over time.
 - [Pop Rising](/playlists/pretty/37i9dQZF1DWUa8ZRTfalHk.md)
 - [Pop Sauce](/playlists/pretty/37i9dQZF1DXaPCIWxzZwR1.md)
 - [Power Hour](/playlists/pretty/37i9dQZF1DX32NsLKyzScr.md)
+- [Raga Rocks](/playlists/pretty/37i9dQZF1DX8pmtpgsUtwS.md)
 - [Rap UK](/playlists/pretty/37i9dQZF1DX6PKX5dyBKeq.md)
 - [RapCaviar](/playlists/pretty/37i9dQZF1DX0XUsuxWHRQd.md)
 - [Red Vox Recent Favorites](/playlists/pretty/5l8NqdrXc4JHxSu1arjWgC.md)
