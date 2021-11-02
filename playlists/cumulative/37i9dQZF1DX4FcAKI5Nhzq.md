@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: BOL4
+> Future K-Pop hits! Cover: THE BOYZ
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Make it](https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [MUST](https://open.spotify.com/album/1dbp3aJzOuyRfGHLUJZqT1) | 2:59 | 2021-07-01 | 2021-09-07 |
 | [Maniac (Sung by DOYOUNG, HAECHAN) (Prod. RYAN JHUN)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2021-08-25 | 2021-10-13 |
 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 | 2020-10-13 | 2020-10-22 |
+| [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album [MAVERICK]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2021-11-02 |  |
 | [Maybe](https://open.spotify.com/track/6xP3oKbamE0eyGqzA0sL7x) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Maybe](https://open.spotify.com/album/1DpIvLgqOYqLcVrewneImP) | 2:46 | 2021-10-16 |  |
 | [ME ME WE (feat. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini)](https://open.spotify.com/track/08Oq0ODihIEHHU9Y0JRi0W) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [RAVI](https://open.spotify.com/artist/7yShzYF38ECglcRTgIIt1E), [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW), [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [PAAM](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP), [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ME ME WE (feat. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini)](https://open.spotify.com/album/4PrWleaxfuvZ3plIJJxm8J) | 3:24 | 2020-10-13 | 2020-11-05 |
 | [Meet Me When The Sun Goes Down (From "Midnight Sun" Original Musical Soundtrack, Pt. 1)](https://open.spotify.com/track/4AaQHFtHzcj9qAI2vPoXih) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Meet Me When The Sun Goes Down (From "Midnight Sun" Original Musical Soundtrack, Pt. 1)](https://open.spotify.com/album/49ePyMlTA6mOwNv7cVHgTk) | 3:25 | 2021-04-16 | 2021-06-03 |

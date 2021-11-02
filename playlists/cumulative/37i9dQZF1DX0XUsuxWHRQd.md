@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Big Sean & Hit-Boy, A$AP Rocky and A$AP Ferg. 
+> New music from Big Sean & Hit-Boy, A$AP Rocky and Megan Thee Stallion.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
