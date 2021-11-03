@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Matt Nathanson, Juke Ross, Jordy Searcy and more
+> With John Mayer, Tenille Townes, Mat Kearney, Wrabel and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

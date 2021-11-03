@@ -113,6 +113,7 @@ playlist evolves over time.
 - [Fresh Finds: Experimental](/playlists/pretty/37i9dQZF1DX8C585qnMYHP.md)
 - [Fresh Finds: Pop](/playlists/pretty/37i9dQZF1DX3u9TSHqpdJC.md)
 - [Friday Cratediggers](/playlists/pretty/37i9dQZF1DXa41CMuUARjl.md)
+- [Get Turnt](/playlists/pretty/37i9dQZF1DWY4xHQp97fN6.md)
 - [Girl Krush](/playlists/pretty/37i9dQZF1DXbSWYCNwaARB.md)
 - [Good Vibes](/playlists/pretty/37i9dQZF1DWYBO1MoTDhZI.md)
 - [Got Djent?](/playlists/pretty/37i9dQZF1DX6GRSnGELn7L.md)

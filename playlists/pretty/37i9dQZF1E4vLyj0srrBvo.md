@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Washed Out, Ariel Pink, Phantogram and more
+> With Ariel Pink, Alice Glass, Chromatics and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
