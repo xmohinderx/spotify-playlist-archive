@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, DJ Snake, Charlie Puth, Jessie J and more
+> With Bruno Mars, Frankie J, Rihanna, Katy Perry and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Ellie Goulding, Zendaya, Demi Lovato and more
+> With Adele, Amanda Seyfried, Benson Boone, Lady A and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

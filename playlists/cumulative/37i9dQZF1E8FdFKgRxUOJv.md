@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Patrick Droney, Donovan Woods, Amos Lee and more
+> With John Mayer, Matt Nathanson, Juke Ross, Jordy Searcy and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
