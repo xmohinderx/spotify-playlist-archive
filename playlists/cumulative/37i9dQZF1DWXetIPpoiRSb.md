@@ -2,7 +2,7 @@
 
 ### [New Pop Revolution](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> Pop is the best that it's ever been. Need proof? Just press play. Cover: Conan Gray
+> Pop is the best that it's ever been. Need proof? Just press play. Cover: Sam Fischer
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Carried Away (with Madison Beer)](https://open.spotify.com/track/4IvuPZogXbY7LODs7qzr0W) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Carried Away (with Madison Beer)](https://open.spotify.com/album/57LmwffyQvnFHRHzbitsEO) | 3:02 | 2021-02-13 | 2021-05-03 |
 | [Carry On](https://open.spotify.com/track/0Hoskrj7OlnvcHdJ7kg405) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [The Close / Le Réveil](https://open.spotify.com/album/0tRHsSpwQFDMrGrnH7625o) | 2:55 | 2021-03-27 | 2021-06-05 |
 | [Casanova](https://open.spotify.com/track/07E34p59doB7zhxtcNQLqK) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Casanova](https://open.spotify.com/album/5ryxQvi2WP0hXoH92zgMnp) | 3:01 | 2021-08-07 |  |
-| [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-07 |  |
+| [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-07 | 2021-11-06 |
 | [Central Station](https://open.spotify.com/track/4kFjX9QnXdM37PSpRuOoDS) | [MAY-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Central Station](https://open.spotify.com/album/2aaguzNBrq7vhdyrivrzLP) | 3:28 | 2021-08-07 | 2021-10-23 |
 | [Champagne Butterflies](https://open.spotify.com/track/62lF2bafMX9NkXjAoc0nuR) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Champagne Butterflies](https://open.spotify.com/album/7nJWSA8RiN6kr4wias3Had) | 3:13 | 2021-01-16 | 2021-04-03 |
 | [Chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:20 | 2021-06-05 | 2021-07-17 |
@@ -112,6 +112,7 @@
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2021-10-02 |  |
 | [Cure For Me](https://open.spotify.com/track/7kEva2rxsNMn07fyfZMRRn) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Cure For Me](https://open.spotify.com/album/0wmk4PJg0PWWaADQeAVO6N) | 3:21 | 2021-07-10 | 2021-10-02 |
 | [Cut Deep](https://open.spotify.com/track/4O5Z3boSWzrscOFmmEPwLn) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Control](https://open.spotify.com/album/0tPkRDh3pJd9Z1OiVXQwQH) | 3:39 | 2021-05-03 | 2021-06-26 |
+| [Dadada](https://open.spotify.com/track/4SRkixF643LgySLh8owTkJ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Dadada](https://open.spotify.com/album/0UUBtEMsxJwMQkoYKiFdjK) | 2:11 | 2021-11-06 |  |
 | [Dance For The Hell Of It](https://open.spotify.com/track/4dogRj7ByfvFBgVsYJcwA4) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown-ish](https://open.spotify.com/album/6xpbC5OEQZxIt922KKd12q) | 3:15 | 2021-01-23 | 2021-04-17 |
 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 | 2020-12-05 | 2021-03-14 |
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-26 | 2021-09-04 |
@@ -269,6 +270,7 @@
 | [Less Is More](https://open.spotify.com/track/3Lz4BmnyOwSQysWSHuAhNO) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:13 | 2020-10-17 | 2020-11-14 |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-06-26 | 2021-09-04 |
 | [Let Me Move You - From the Netflix film Work It](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You (From the Netflix film Work It)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 | 2020-10-13 | 2020-10-17 |
+| [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2021-11-06 |  |
 | [Lie](https://open.spotify.com/track/04NMWz4ctkuILV6mUR2iWp) | [Sasha Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Lie](https://open.spotify.com/album/6w0e4iHPyMH9yc30NwlV7b) | 3:29 | 2020-10-13 | 2020-10-24 |
 | [Lie Like This](https://open.spotify.com/track/5yCXLEi384DHGRXYMXgjBR) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie Like This](https://open.spotify.com/album/75IXv7KKvxMlIrjsrK8CRt) | 3:38 | 2020-10-13 | 2021-02-13 |
 | [Lifetime](https://open.spotify.com/track/6UcQPAH459nMfAXAvV9Udc) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/4aymv3MZSQ5GEb1jS6NVSa) | 3:17 | 2020-10-13 | 2021-01-09 |
@@ -514,7 +516,7 @@
 | [When A Girl](https://open.spotify.com/track/7jpcFYI4AEimC0kkFwMiJX) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [To Anyone Like Me](https://open.spotify.com/album/7G9XvrcExrKTwxMwGLa3W0) | 3:32 | 2020-10-13 | 2021-02-06 |
 | [when was it over? (feat. Sam Hunt)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? (feat. Sam Hunt)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-04-24 | 2021-06-19 |
 | [Whenever You Call](https://open.spotify.com/track/4itdOvg6V8hjTOQUeaGHWt) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [Whenever You Call](https://open.spotify.com/album/4Y4eYUnKpW6dgBIqqZD7cP) | 3:13 | 2020-10-13 | 2020-11-14 |
-| [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-07-31 |  |
+| [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-07-31 | 2021-11-06 |
 | [Why Not?](https://open.spotify.com/track/6yGQ86UppYULzTCxAWgwVN) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [[12:00]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 3:25 | 2020-10-24 | 2020-12-05 |
 | [Wild Side](https://open.spotify.com/track/1Wm2Oqbd0aZRDtClkVdgJJ) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [LIMBO CHERRY](https://open.spotify.com/album/0n3j7D1PuFO4poIRSm60f2) | 3:43 | 2021-06-26 | 2021-09-04 |
 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 | 2021-01-30 | 2021-04-24 |
