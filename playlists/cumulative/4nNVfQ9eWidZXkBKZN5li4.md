@@ -2,7 +2,7 @@
 
 ### [Bollywood Top 50](https://open.spotify.com/playlist/4nNVfQ9eWidZXkBKZN5li4)
 
-> Get on top of Bollywood's newest and all time best songs - Raataan Lambiyan, Ranjha, Param Sundari, Shayad,  Channa Mereya and more ft. AR Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more. 
+> Get on top of Bollywood's newest and all time hits - Raataan Lambiyan and Ranjha from Shershaah, Param Sundari, Shayad,  Channa Mereya and more ft. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more. Listen to Bollywood's best only on this playlist!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Channa Mereya](https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:49 | 2021-08-11 |  |
 | [Chhal Gaya Chhalaa (From "The Girl On The Train")](https://open.spotify.com/track/0ZRUImSMefoTamFB5vMplb) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sunny Inder](https://open.spotify.com/artist/2cEw7L2gI182OBneTIHBIu) | [Chhal Gaya Chhalaa (From "The Girl On The Train")](https://open.spotify.com/album/654sOMTKmhHplFKCgandQt) | 4:10 | 2021-02-19 |  |
 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 | 2021-03-25 |  |
+| [Chitta](https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Shiddat](https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9) | 3:48 | 2021-11-10 |  |
 | [Clash](https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 2:56 | 2021-01-25 |  |
 | [Coca Cola (From "Luka Chuppi")](https://open.spotify.com/track/352wEkChkiClswqwDoM0nj) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Young Desi](https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Coca Cola (From "Luka Chuppi")](https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc) | 2:59 | 2021-01-25 |  |
 | [Crazy Lady](https://open.spotify.com/track/0DX4hRvTxwb6tSluWEDeOV) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Crazy Lady](https://open.spotify.com/album/11V3stYpA7z6Pan6tWSAre) | 2:12 | 2021-01-25 | 2021-09-17 |

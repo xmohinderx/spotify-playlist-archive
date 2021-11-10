@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Best of Bollywood dance music from last 5 years. Cover- Tanishk Bagchi
+> Best of Bollywood dance music from last 5 years. Cover- Akshay Kumar & Katrina Kaif
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
