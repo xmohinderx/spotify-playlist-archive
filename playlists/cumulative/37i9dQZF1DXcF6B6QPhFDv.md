@@ -2,7 +2,7 @@
 
 ### [Rock This](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> The newest music from Simple Plan, along with the top Rock songs you need to know.
+> The newest music from Avril Lavigne, along with the top Rock songs you need to know.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10,7 +10,8 @@
 | [Adrenaline](https://open.spotify.com/track/3QSVzVODWkWzGeDOGHZW0F) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Adrenaline](https://open.spotify.com/album/1YcMKSPZJmSf89tiRrYR4V) | 3:24 | 2021-10-20 |  |
 | [Anarchy](https://open.spotify.com/track/0osszNZH6LSuk4AzVNh7KC) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:54 | 2021-10-20 |  |
 | [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | 3:29 | 2021-10-20 |  |
-| [Barnacle](https://open.spotify.com/track/5DlvocrKUdERmdV6kldCph) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 1:55 | 2021-10-31 |  |
+| [Barnacle](https://open.spotify.com/track/5DlvocrKUdERmdV6kldCph) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 1:55 | 2021-10-31 | 2021-11-11 |
+| [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-11-11 |  |
 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 | 2021-10-20 | 2021-10-31 |
 | [Dead Butterflies](https://open.spotify.com/track/740eZizATBkHBPSuFKaGvF) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Dead Butterflies](https://open.spotify.com/album/06HQ3Ea3WmoV7uZdanr87B) | 4:02 | 2021-10-20 | 2021-11-06 |
 | [deathwish (feat. nothing,nowhere.)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish (feat. nothing,nowhere.)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 | 2021-10-20 |  |

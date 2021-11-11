@@ -6,8 +6,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
-| 2 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
+| 1 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
+| 2 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
 | 3 | [Bad Life (feat. Kali Uchis)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life (feat. Kali Uchis)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 |
 | 4 | [Anybody Can Be in Love](https://open.spotify.com/track/1Dy7WyZck9iu20W9cRyw24) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Anybody Can Be in Love](https://open.spotify.com/album/0jURdSjUunbLWrvySwmoSD) | 2:57 |
 | 5 | [Fearmonger (feat. Daoud)](https://open.spotify.com/track/3orm4i9NmMXd1TgTxaW2zD) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Daoud](https://open.spotify.com/artist/3IjXTlY32rk1WyTrmC1Tod) | [Fearmonger (feat. Daoud)](https://open.spotify.com/album/0JbVdMR0ZFKjwyobLRPPXW) | 3:41 |
