@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> Your daily dose of soul-infused music! Cover: SABRI
+> Your daily dose of soul-infused music! Cover: Silk Sonic
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
