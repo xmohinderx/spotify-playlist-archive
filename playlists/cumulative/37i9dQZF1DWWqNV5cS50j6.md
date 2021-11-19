@@ -2,7 +2,7 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> helloooo this is <a href="https://www.tiktok.com/@aries">aries</a> . and im taking over anti pop !!! ☀️
+> not not pop. featuring new music by aldn.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2021-05-22 |  |
 | [GML](https://open.spotify.com/track/2KtOdyy1demXgavVpzs5ca) | [Ehmji](https://open.spotify.com/artist/06OPSor1piYJUyL1xO7dgR), [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz) | [GML](https://open.spotify.com/album/4Toe6mECGN4Fa2tEMqyEdz) | 2:51 | 2021-06-19 | 2021-10-16 |
 | [Go Again](https://open.spotify.com/track/4pJHOKnhaj53aTQwM0Vigb) | [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Go Again](https://open.spotify.com/album/78egLdqpviDIASDHbQg79i) | 2:25 | 2021-07-31 | 2021-10-11 |
+| [go away (feat. midwxst)](https://open.spotify.com/track/2EYwH5PIbRLH2kyP5Shf8N) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:57 | 2021-11-19 |  |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-07 |  |
 | [Gone](https://open.spotify.com/track/3nABZ8ghzScBhzBBBDSbhA) | [Baby Boys](https://open.spotify.com/artist/5h1aEtZ8g7GdavtgSg633u) | [Gone](https://open.spotify.com/album/1oscYVRauLi0oteM02Zm5y) | 2:50 | 2021-02-13 | 2021-06-05 |
 | [Good Enough](https://open.spotify.com/track/0SXL6pp8pxlbw1PajxGdKd) | [Jim-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Good Enough](https://open.spotify.com/album/3RAdBcSg942oIQg7WUhWCq) | 2:22 | 2021-09-11 |  |
@@ -349,6 +350,7 @@
 | [Low](https://open.spotify.com/track/4bEghJHwz3GaFtY9OY4Bnr) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Low](https://open.spotify.com/album/1Qcys5TrMsduwYSkV1D0xw) | 2:22 | 2020-12-05 | 2021-10-09 |
 | [Lullabies](https://open.spotify.com/track/7fvAIIqAH1TzC5ohdv0w2m) | [Prettyboyworldwyde](https://open.spotify.com/artist/4ij8hiJFbjYUq3n0Dw06gw) | [Lullabies](https://open.spotify.com/album/642lvfkfMbNRdvZJbpOYR2) | 3:06 | 2021-03-26 | 2021-06-16 |
 | [Luv U Do](https://open.spotify.com/track/4QPFQgKBwvUARsuWfI8P3o) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Luv U Do](https://open.spotify.com/album/4QjKUO5qLoLK6GZ99d8lhU) | 2:56 | 2021-07-18 | 2021-10-12 |
+| [m box](https://open.spotify.com/track/2iZf5y9Ce6smoZiGkC0aAg) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl) | 2:32 | 2021-11-19 |  |
 | [MAC & CHEESE](https://open.spotify.com/track/1Jo3yW1tWC4JSjGS2s2DPy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [MAC & CHEESE](https://open.spotify.com/album/72q53fTM3p9OhbJ1frSxWF) | 2:15 | 2020-10-13 | 2021-02-13 |
 | [Mad World](https://open.spotify.com/track/6RH4zDb9P3qETE3dBMaFO3) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Mad World](https://open.spotify.com/album/5Nl0vxJ3Ptt9cfecRMUHDu) | 2:22 | 2020-10-13 | 2020-11-03 |
 | [Made For Silence](https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Made For Silence](https://open.spotify.com/album/4RT10f0M4YO3Ps7ds49vWS) | 2:50 | 2021-07-24 | 2021-10-13 |
