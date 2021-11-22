@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Meryl Streep, Birdy, Zara Larsson and more
+> With Adele, Lady Gaga, Sleeping At Last, Halsey and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
