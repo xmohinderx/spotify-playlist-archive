@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Lady Gaga, Sleeping At Last, Halsey and more
+> With Adele, Nathan Sykes, Meghan Trainor, John Legend and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

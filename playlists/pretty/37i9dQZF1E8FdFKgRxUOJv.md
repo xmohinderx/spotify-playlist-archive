@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Wild Rivers, The Teskey Brothers, Maren Morris and more
+> With John Mayer, Sara Bareilles, Yoke Lore, James TW and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

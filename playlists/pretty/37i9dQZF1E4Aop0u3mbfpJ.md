@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Elton John, Fifth Harmony, P!nk and more
+> With Carly Rae Jepsen, Ellie Goulding, Elton John and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

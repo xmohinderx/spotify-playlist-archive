@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Shawn Mendes, Young Thug, Justin Bieber and more
+> With Bruno Mars, Brody Brown, Shawn Mendes, Justin Bieber and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
