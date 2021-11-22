@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Mat Kearney, Parachute, O.A.R. and more
+> With John Mayer, Judah & the Lion, Corinne Bailey Rae, Maren Morris and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
