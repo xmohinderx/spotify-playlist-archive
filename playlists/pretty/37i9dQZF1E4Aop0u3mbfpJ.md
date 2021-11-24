@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Willow Sage Hart, Britney Spears, LSD and more
+> With Kesha, Ellie Goulding, Colby O'Donis and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

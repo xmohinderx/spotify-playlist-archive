@@ -19,81 +19,6 @@
     },
     {
       "album": {
-        "name": "Ghost Myself",
-        "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
-      },
-      "artists": [
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ghost Myself",
-      "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
-    },
-    {
-      "album": {
-        "name": "Ugly Fucker",
-        "url": "https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6"
-      },
-      "artists": [
-        {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Ugly Fucker",
-      "url": "https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs"
-    },
-    {
-      "album": {
-        "name": "Entertain You",
-        "url": "https://open.spotify.com/album/5fE1zz1xFy9wRLmruEo9A3"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 211045,
-      "name": "Entertain You",
-      "url": "https://open.spotify.com/track/70HVKogWbgiA4XaXa2GowH"
-    },
-    {
-      "album": {
-        "name": "Archangel",
-        "url": "https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Archangel",
-      "url": "https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1"
-    },
-    {
-      "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
-    },
-    {
-      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -113,6 +38,51 @@
     },
     {
       "album": {
+        "name": "Entertain You",
+        "url": "https://open.spotify.com/album/5fE1zz1xFy9wRLmruEo9A3"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 211045,
+      "name": "Entertain You",
+      "url": "https://open.spotify.com/track/70HVKogWbgiA4XaXa2GowH"
+    },
+    {
+      "album": {
+        "name": "Sleeping with the Enemy",
+        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 212927,
+      "name": "Sleeping with the Enemy",
+      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
+    },
+    {
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/3nwMvp5aCT0IUYXNATk4b2"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Archangel",
+      "url": "https://open.spotify.com/track/28aQT80RVsVsD1X98WCew1"
+    },
+    {
+      "album": {
         "name": "Deadly Diminuendo",
         "url": "https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl"
       },
@@ -128,18 +98,18 @@
     },
     {
       "album": {
-        "name": "Diamonds and Dark",
-        "url": "https://open.spotify.com/album/0REvlMPAOWsiNrjin4bmdw"
+        "name": "Ghost Myself",
+        "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
       },
       "artists": [
         {
-          "name": "Phantom Elite",
-          "url": "https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX"
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
         }
       ],
-      "duration_ms": 289226,
-      "name": "Diamonds and Dark",
-      "url": "https://open.spotify.com/track/1fNO2fYTMVnadgqF5Aqui7"
+      "duration_ms": 192000,
+      "name": "Ghost Myself",
+      "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
     },
     {
       "album": {
@@ -158,18 +128,18 @@
     },
     {
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/2zx6YAkUgWJDY1EyLF28Jc"
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
       },
       "artists": [
         {
-          "name": "Sumo Cyco",
-          "url": "https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 189946,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1glkXrrq1qC6lhcNijksWb"
+      "duration_ms": 340281,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
     },
     {
       "album": {
@@ -203,6 +173,36 @@
     },
     {
       "album": {
+        "name": "See You in Hell",
+        "url": "https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD"
+      },
+      "artists": [
+        {
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "See You in Hell",
+      "url": "https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc"
+    },
+    {
+      "album": {
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
+    },
+    {
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/5wOeEqQPVbXisrwRKmxLBc"
       },
@@ -222,198 +222,18 @@
     },
     {
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+        "name": "Ugly Fucker",
+        "url": "https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6"
       },
       "artists": [
         {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
-    },
-    {
-      "album": {
-        "name": "Ava of Death",
-        "url": "https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 246880,
-      "name": "Ava of Death",
-      "url": "https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq"
-    },
-    {
-      "album": {
-        "name": "Selkie",
-        "url": "https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 263799,
-      "name": "Selkie",
-      "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
-    },
-    {
-      "album": {
-        "name": "As Above, So Below / Hunting Grounds / The In-Between",
-        "url": "https://open.spotify.com/album/2pQDdTHDG50tBGQvF58RuK"
-      },
-      "artists": [
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/0CxrhLohV65mdYOlGX4Zw4"
-    },
-    {
-      "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/7FgdN0xNj5EfXUo0falBTN"
-      },
-      "artists": [
-        {
-          "name": "Unleash The Archers",
-          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
-        }
-      ],
-      "duration_ms": 404093,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/6dGSXCf230k3YsEGOvXNAy"
-    },
-    {
-      "album": {
-        "name": "Bring It On",
-        "url": "https://open.spotify.com/album/5ORHVTkHbZgXHVpOFQS7z8"
-      },
-      "artists": [
-        {
-          "name": "Memoremains",
-          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
-        }
-      ],
-      "duration_ms": 188388,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/4ALKHYGCjaRs9NuKVcUeON"
-    },
-    {
-      "album": {
-        "name": "Abyss of Time - Countdown to Singularity -",
-        "url": "https://open.spotify.com/album/1eHGtp7HwxcYq6JGcDEbed"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 320283,
-      "name": "Abyss of Time - Countdown to Singularity -",
-      "url": "https://open.spotify.com/track/6H7dnpIpKtGAzV2BenMBvD"
-    },
-    {
-      "album": {
-        "name": "Yeah Right",
-        "url": "https://open.spotify.com/album/4Iz5ekk3xTAlml2xuo406P"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 210518,
-      "name": "Yeah Right",
-      "url": "https://open.spotify.com/track/0UY45tlfKBdZhhku10TBEc"
-    },
-    {
-      "album": {
-        "name": "Memoriam",
-        "url": "https://open.spotify.com/album/61dUMU9JXCrHEHhXgu3yFC"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 375186,
-      "name": "Memoriam",
-      "url": "https://open.spotify.com/track/0Le2T1wm78Ycrtj7vdrCwG"
-    },
-    {
-      "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A"
-      },
-      "artists": [
-        {
-          "name": "Reliqa",
-          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
-        }
-      ],
-      "duration_ms": 264219,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG"
-    },
-    {
-      "album": {
-        "name": "Bottom of a Bottle",
-        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
-    },
-    {
-      "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/6gOIHf3Y3W7uTe8ERFYzex"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 340281,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/2a3sZJP4uTrNQbj0EdiUuV"
-    },
-    {
-      "album": {
-        "name": "See You in Hell",
-        "url": "https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD"
-      },
-      "artists": [
-        {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "See You in Hell",
-      "url": "https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc"
+      "duration_ms": 194000,
+      "name": "Ugly Fucker",
+      "url": "https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs"
     },
     {
       "album": {
@@ -432,6 +252,111 @@
     },
     {
       "album": {
+        "name": "Diamonds and Dark",
+        "url": "https://open.spotify.com/album/0REvlMPAOWsiNrjin4bmdw"
+      },
+      "artists": [
+        {
+          "name": "Phantom Elite",
+          "url": "https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX"
+        }
+      ],
+      "duration_ms": 289226,
+      "name": "Diamonds and Dark",
+      "url": "https://open.spotify.com/track/1fNO2fYTMVnadgqF5Aqui7"
+    },
+    {
+      "album": {
+        "name": "Ava of Death",
+        "url": "https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 246880,
+      "name": "Ava of Death",
+      "url": "https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ"
+      },
+      "artists": [
+        {
+          "name": "Skarlett Riot",
+          "url": "https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z"
+        }
+      ],
+      "duration_ms": 227478,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD"
+    },
+    {
+      "album": {
+        "name": "The Rabbit of the Moon",
+        "url": "https://open.spotify.com/album/6q6cX2WLPycQTPKUV79KKS"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "The Rabbit of the Moon",
+      "url": "https://open.spotify.com/track/7wZtgKnzj7Deq3VWznDQr4"
+    },
+    {
+      "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A"
+      },
+      "artists": [
+        {
+          "name": "Reliqa",
+          "url": "https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK"
+        }
+      ],
+      "duration_ms": 264219,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+    },
+    {
+      "album": {
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/5ORHVTkHbZgXHVpOFQS7z8"
+      },
+      "artists": [
+        {
+          "name": "Memoremains",
+          "url": "https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1"
+        }
+      ],
+      "duration_ms": 188388,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/4ALKHYGCjaRs9NuKVcUeON"
+    },
+    {
+      "album": {
         "name": "Peacekeepers",
         "url": "https://open.spotify.com/album/6n6NSUl6ACzrurerNthgHh"
       },
@@ -447,18 +372,108 @@
     },
     {
       "album": {
-        "name": "Mere Shadow",
-        "url": "https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P"
+        "name": "Memoriam",
+        "url": "https://open.spotify.com/album/61dUMU9JXCrHEHhXgu3yFC"
       },
       "artists": [
         {
-          "name": "Semblant",
-          "url": "https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO"
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
         }
       ],
-      "duration_ms": 303600,
-      "name": "Mere Shadow",
-      "url": "https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ"
+      "duration_ms": 375186,
+      "name": "Memoriam",
+      "url": "https://open.spotify.com/track/0Le2T1wm78Ycrtj7vdrCwG"
+    },
+    {
+      "album": {
+        "name": "Abyss of Time - Countdown to Singularity -",
+        "url": "https://open.spotify.com/album/1eHGtp7HwxcYq6JGcDEbed"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 320283,
+      "name": "Abyss of Time - Countdown to Singularity -",
+      "url": "https://open.spotify.com/track/6H7dnpIpKtGAzV2BenMBvD"
+    },
+    {
+      "album": {
+        "name": "Selkie",
+        "url": "https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 263799,
+      "name": "Selkie",
+      "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
+    },
+    {
+      "album": {
+        "name": "Yeah Right",
+        "url": "https://open.spotify.com/album/4Iz5ekk3xTAlml2xuo406P"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 210518,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/0UY45tlfKBdZhhku10TBEc"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/2zx6YAkUgWJDY1EyLF28Jc"
+      },
+      "artists": [
+        {
+          "name": "Sumo Cyco",
+          "url": "https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4"
+        }
+      ],
+      "duration_ms": 189946,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1glkXrrq1qC6lhcNijksWb"
+    },
+    {
+      "album": {
+        "name": "Dark Love Empress",
+        "url": "https://open.spotify.com/album/1dRkb4FLPAg8vWCu0k6TJW"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "duration_ms": 283567,
+      "name": "Dark Love Empress",
+      "url": "https://open.spotify.com/track/7o3eiEmgW9j7vOotdBcUxY"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "My Demon",
+      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
     },
     {
       "album": {
@@ -492,33 +507,108 @@
     },
     {
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
+        "name": "As Above, So Below / Hunting Grounds / The In-Between",
+        "url": "https://open.spotify.com/album/2pQDdTHDG50tBGQvF58RuK"
       },
       "artists": [
         {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/0CxrhLohV65mdYOlGX4Zw4"
     },
     {
       "album": {
-        "name": "Lay All Your Love on Me",
-        "url": "https://open.spotify.com/album/5vNkP3tfQItCM7PLz52ZAm"
+        "name": "Freedom - The Wolves Within",
+        "url": "https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9"
       },
       "artists": [
         {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
         }
       ],
-      "duration_ms": 233472,
-      "name": "Lay All Your Love on Me",
-      "url": "https://open.spotify.com/track/7pQkSNKRQgaN9HdlMvf2NP"
+      "duration_ms": 337058,
+      "name": "Freedom - The Wolves Within-",
+      "url": "https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1"
+    },
+    {
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/7FgdN0xNj5EfXUo0falBTN"
+      },
+      "artists": [
+        {
+          "name": "Unleash The Archers",
+          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+        }
+      ],
+      "duration_ms": 404093,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/6dGSXCf230k3YsEGOvXNAy"
+    },
+    {
+      "album": {
+        "name": "Jinnslammer",
+        "url": "https://open.spotify.com/album/6W3LQ5tl5c3srkHOjfG7N9"
+      },
+      "artists": [
+        {
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+        }
+      ],
+      "duration_ms": 279692,
+      "name": "Jinnslammer",
+      "url": "https://open.spotify.com/track/2AjEKcRXkntPkujLXp6hGD"
+    },
+    {
+      "album": {
+        "name": "Stigmata Itch",
+        "url": "https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7"
+      },
+      "artists": [
+        {
+          "name": "Rave The Reqviem",
+          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Colossvs",
+      "url": "https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX"
+    },
+    {
+      "album": {
+        "name": "Amorphous",
+        "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Brittle",
+      "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
+    },
+    {
+      "album": {
+        "name": "Mere Shadow",
+        "url": "https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P"
+      },
+      "artists": [
+        {
+          "name": "Semblant",
+          "url": "https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "Mere Shadow",
+      "url": "https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ"
     },
     {
       "album": {
@@ -541,6 +631,141 @@
     },
     {
       "album": {
+        "name": "Wake The Dead",
+        "url": "https://open.spotify.com/album/73Pgfi0hoibHQyesMK8x2R"
+      },
+      "artists": [
+        {
+          "name": "September Mourning",
+          "url": "https://open.spotify.com/artist/3u6jopsj6GeZAHJAmfUxk1"
+        }
+      ],
+      "duration_ms": 206823,
+      "name": "Wake The Dead",
+      "url": "https://open.spotify.com/track/2Jvrhhgjyy5Tu8S8Is8sFb"
+    },
+    {
+      "album": {
+        "name": "Eternal Wheel Of Time And Space",
+        "url": "https://open.spotify.com/album/6zXIyHCsYlwXrL3WL5ZKgz"
+      },
+      "artists": [
+        {
+          "name": "Noora Louhimo Experience",
+          "url": "https://open.spotify.com/artist/3GN2WYCDZUjOFlHMwZjcCA"
+        }
+      ],
+      "duration_ms": 404320,
+      "name": "Eternal Wheel Of Time And Space",
+      "url": "https://open.spotify.com/track/5iIcD91VQtDPPXRzyUKg1m"
+    },
+    {
+      "album": {
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47"
+      },
+      "artists": [
+        {
+          "name": "Fate DeStroyed",
+          "url": "https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA"
+        }
+      ],
+      "duration_ms": 216450,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc"
+    },
+    {
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/1s8KGU1y8BOYCMAIClPPAE"
+      },
+      "artists": [
+        {
+          "name": "Dark Horse White Horse",
+          "url": "https://open.spotify.com/artist/2DJSYNDdVr8jRgPHlfvWCc"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/1OK1Rv7LfOy8MXJbqMqKdq"
+    },
+    {
+      "album": {
+        "name": "H\u00f8riz\u00f8ns (Japan Edition)",
+        "url": "https://open.spotify.com/album/0VwikXNNIS52z30sDyuMBK"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 309266,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/55oKgX5jQ5dKoDaFgdKKWj"
+    },
+    {
+      "album": {
+        "name": "Addiction No. 1",
+        "url": "https://open.spotify.com/album/1rjWeeoLm4mC2atxEbLwXC"
+      },
+      "artists": [
+        {
+          "name": "Sirenia",
+          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+        }
+      ],
+      "duration_ms": 243030,
+      "name": "Addiction No. 1",
+      "url": "https://open.spotify.com/track/07vsyfznDCcwRlxUxciSUT"
+    },
+    {
+      "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/2H7PzKyqWvWLR1eSETDQ2J"
+      },
+      "artists": [
+        {
+          "name": "Dark Sarah",
+          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
+        }
+      ],
+      "duration_ms": 249747,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/5JPgkThibvLJiFTBdfS7Bn"
+    },
+    {
+      "album": {
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/421Nn2bUhsnMxP1oiV9Q2F"
+      },
+      "artists": [
+        {
+          "name": "Phantom Elite",
+          "url": "https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/6lKyAAxp5Rl7HHoU39AQfS"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op"
+    },
+    {
+      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -556,48 +781,33 @@
     },
     {
       "album": {
-        "name": "Dark Love Empress",
-        "url": "https://open.spotify.com/album/1dRkb4FLPAg8vWCu0k6TJW"
+        "name": "Songs the Night Sings",
+        "url": "https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr"
       },
       "artists": [
         {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+          "name": "The Dark Element",
+          "url": "https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f"
         }
       ],
-      "duration_ms": 283567,
-      "name": "Dark Love Empress",
-      "url": "https://open.spotify.com/track/7o3eiEmgW9j7vOotdBcUxY"
+      "duration_ms": 309826,
+      "name": "Songs the Night Sings",
+      "url": "https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu"
     },
     {
       "album": {
-        "name": "Amorphous",
-        "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
+        "name": "Lay All Your Love on Me",
+        "url": "https://open.spotify.com/album/5vNkP3tfQItCM7PLz52ZAm"
       },
       "artists": [
         {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Brittle",
-      "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
-    },
-    {
-      "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
-      },
-      "artists": [
-        {
-          "name": "Stitched Up Heart",
-          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "My Demon",
-      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
+      "duration_ms": 233472,
+      "name": "Lay All Your Love on Me",
+      "url": "https://open.spotify.com/track/7pQkSNKRQgaN9HdlMvf2NP"
     },
     {
       "album": {
@@ -620,93 +830,18 @@
     },
     {
       "album": {
-        "name": "Crave",
-        "url": "https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47"
+        "name": "Hurt You",
+        "url": "https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW"
       },
       "artists": [
         {
-          "name": "Fate DeStroyed",
-          "url": "https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 216450,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc"
-    },
-    {
-      "album": {
-        "name": "Freedom - The Wolves Within",
-        "url": "https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 337058,
-      "name": "Freedom - The Wolves Within-",
-      "url": "https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1"
-    },
-    {
-      "album": {
-        "name": "Songs the Night Sings",
-        "url": "https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr"
-      },
-      "artists": [
-        {
-          "name": "The Dark Element",
-          "url": "https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Songs the Night Sings",
-      "url": "https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu"
-    },
-    {
-      "album": {
-        "name": "The Game Is Over",
-        "url": "https://open.spotify.com/album/4OWpobECNo3zO0S9HHxzmW"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 261528,
-      "name": "The Game Is Over",
-      "url": "https://open.spotify.com/track/3mACHKoDo7dA8DChTRnp4p"
-    },
-    {
-      "album": {
-        "name": "Wake The Dead",
-        "url": "https://open.spotify.com/album/73Pgfi0hoibHQyesMK8x2R"
-      },
-      "artists": [
-        {
-          "name": "September Mourning",
-          "url": "https://open.spotify.com/artist/3u6jopsj6GeZAHJAmfUxk1"
-        }
-      ],
-      "duration_ms": 206823,
-      "name": "Wake The Dead",
-      "url": "https://open.spotify.com/track/2Jvrhhgjyy5Tu8S8Is8sFb"
-    },
-    {
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2WBcy59E3bZDlLXTrZK0AZ"
-      },
-      "artists": [
-        {
-          "name": "Skarlett Riot",
-          "url": "https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z"
-        }
-      ],
-      "duration_ms": 227478,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5p8MkAxGr7LkiVvtuduiCD"
+      "duration_ms": 226186,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV"
     },
     {
       "album": {
@@ -722,111 +857,6 @@
       "duration_ms": 213688,
       "name": "Drive It Like You Stole It",
       "url": "https://open.spotify.com/track/74qhamOhw3kR1BCgpCnsiW"
-    },
-    {
-      "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/3psICZrRJ4DyfrMhzXSStd"
-      },
-      "artists": [
-        {
-          "name": "ODC",
-          "url": "https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj"
-        }
-      ],
-      "duration_ms": 221987,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/0038p5duwZ3euoTDxmizmF"
-    },
-    {
-      "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/2H7PzKyqWvWLR1eSETDQ2J"
-      },
-      "artists": [
-        {
-          "name": "Dark Sarah",
-          "url": "https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk"
-        }
-      ],
-      "duration_ms": 249747,
-      "name": "Illuminate",
-      "url": "https://open.spotify.com/track/5JPgkThibvLJiFTBdfS7Bn"
-    },
-    {
-      "album": {
-        "name": "The Rabbit of the Moon",
-        "url": "https://open.spotify.com/album/6q6cX2WLPycQTPKUV79KKS"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "The Rabbit of the Moon",
-      "url": "https://open.spotify.com/track/7wZtgKnzj7Deq3VWznDQr4"
-    },
-    {
-      "album": {
-        "name": "Jinnslammer",
-        "url": "https://open.spotify.com/album/6W3LQ5tl5c3srkHOjfG7N9"
-      },
-      "artists": [
-        {
-          "name": "Ignea",
-          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
-        }
-      ],
-      "duration_ms": 279692,
-      "name": "Jinnslammer",
-      "url": "https://open.spotify.com/track/2AjEKcRXkntPkujLXp6hGD"
-    },
-    {
-      "album": {
-        "name": "Chain of the Golden Horn",
-        "url": "https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 240130,
-      "name": "Chain of the Golden Horn",
-      "url": "https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV"
-    },
-    {
-      "album": {
-        "name": "Stigmata Itch",
-        "url": "https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7"
-      },
-      "artists": [
-        {
-          "name": "Rave The Reqviem",
-          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Colossvs",
-      "url": "https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX"
-    },
-    {
-      "album": {
-        "name": "H\u00f8riz\u00f8ns (Japan Edition)",
-        "url": "https://open.spotify.com/album/0VwikXNNIS52z30sDyuMBK"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 309266,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/55oKgX5jQ5dKoDaFgdKKWj"
     },
     {
       "album": {
@@ -853,93 +883,48 @@
     },
     {
       "album": {
-        "name": "Addiction No. 1",
-        "url": "https://open.spotify.com/album/1rjWeeoLm4mC2atxEbLwXC"
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/3psICZrRJ4DyfrMhzXSStd"
       },
       "artists": [
         {
-          "name": "Sirenia",
-          "url": "https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE"
+          "name": "ODC",
+          "url": "https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj"
         }
       ],
-      "duration_ms": 243030,
-      "name": "Addiction No. 1",
-      "url": "https://open.spotify.com/track/07vsyfznDCcwRlxUxciSUT"
+      "duration_ms": 221987,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/0038p5duwZ3euoTDxmizmF"
     },
     {
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/0KFP8PnNDxR1UHqRGfaztl"
+        "name": "The Game Is Over",
+        "url": "https://open.spotify.com/album/4OWpobECNo3zO0S9HHxzmW"
       },
       "artists": [
         {
-          "name": "Volturian",
-          "url": "https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/0KpIAcKc7fhgZwr29Svk7t"
+      "duration_ms": 261528,
+      "name": "The Game Is Over",
+      "url": "https://open.spotify.com/track/3mACHKoDo7dA8DChTRnp4p"
     },
     {
       "album": {
-        "name": "Eternal Wheel Of Time And Space",
-        "url": "https://open.spotify.com/album/6zXIyHCsYlwXrL3WL5ZKgz"
+        "name": "Chain of the Golden Horn",
+        "url": "https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj"
       },
       "artists": [
         {
-          "name": "Noora Louhimo Experience",
-          "url": "https://open.spotify.com/artist/3GN2WYCDZUjOFlHMwZjcCA"
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
         }
       ],
-      "duration_ms": 404320,
-      "name": "Eternal Wheel Of Time And Space",
-      "url": "https://open.spotify.com/track/5iIcD91VQtDPPXRzyUKg1m"
-    },
-    {
-      "album": {
-        "name": "Take Me There",
-        "url": "https://open.spotify.com/album/0PeRbqxikpHskrlkQqCvhj"
-      },
-      "artists": [
-        {
-          "name": "As Everything Unfolds",
-          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
-        }
-      ],
-      "duration_ms": 221855,
-      "name": "Take Me There",
-      "url": "https://open.spotify.com/track/5kDqzfhwhntiCOoJqHKhN5"
-    },
-    {
-      "album": {
-        "name": "The Witch of the North",
-        "url": "https://open.spotify.com/album/6SQ4rGkdF2xqaBfLWj78Nn"
-      },
-      "artists": [
-        {
-          "name": "Burning Witches",
-          "url": "https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8"
-        }
-      ],
-      "duration_ms": 329872,
-      "name": "The Witch of the North",
-      "url": "https://open.spotify.com/track/4Bsaetsm0Ov8D7RvmFckVy"
-    },
-    {
-      "album": {
-        "name": "The Pallbearer Walks Alone",
-        "url": "https://open.spotify.com/album/79SHmZSz5FBsx2TAtv4PcC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Element",
-          "url": "https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f"
-        }
-      ],
-      "duration_ms": 339946,
-      "name": "The Pallbearer Walks Alone",
-      "url": "https://open.spotify.com/track/4fGxMI4p6dOxXCutg1vrRx"
+      "duration_ms": 240130,
+      "name": "Chain of the Golden Horn",
+      "url": "https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV"
     },
     {
       "album": {
@@ -958,36 +943,6 @@
     },
     {
       "album": {
-        "name": "I Love Myself For Hating You",
-        "url": "https://open.spotify.com/album/5RuAoYEfSDHtCGOaf28LUB"
-      },
-      "artists": [
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        }
-      ],
-      "duration_ms": 183173,
-      "name": "I Love Myself For Hating You",
-      "url": "https://open.spotify.com/track/10Qt5VgwKIRXK7hZSu9pmX"
-    },
-    {
-      "album": {
-        "name": "Fear of Dying",
-        "url": "https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Fear of Dying",
-      "url": "https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e"
-    },
-    {
-      "album": {
         "name": "A Return to the Earth Below",
         "url": "https://open.spotify.com/album/2vH9KhmMLvlH4DlPtdbB7z"
       },
@@ -1003,93 +958,33 @@
     },
     {
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/1s8KGU1y8BOYCMAIClPPAE"
+        "name": "I Love Myself For Hating You",
+        "url": "https://open.spotify.com/album/5RuAoYEfSDHtCGOaf28LUB"
       },
       "artists": [
         {
-          "name": "Dark Horse White Horse",
-          "url": "https://open.spotify.com/artist/2DJSYNDdVr8jRgPHlfvWCc"
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
         }
       ],
-      "duration_ms": 240960,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/1OK1Rv7LfOy8MXJbqMqKdq"
+      "duration_ms": 183173,
+      "name": "I Love Myself For Hating You",
+      "url": "https://open.spotify.com/track/10Qt5VgwKIRXK7hZSu9pmX"
     },
     {
       "album": {
-        "name": "Hurt You",
-        "url": "https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW"
+        "name": "The Witch of the North",
+        "url": "https://open.spotify.com/album/6SQ4rGkdF2xqaBfLWj78Nn"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Burning Witches",
+          "url": "https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV"
-    },
-    {
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU"
-      },
-      "artists": [
-        {
-          "name": "Clio Cadence",
-          "url": "https://open.spotify.com/artist/7ptBJGsem3xogV261ZUhtq"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT"
-    },
-    {
-      "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/421Nn2bUhsnMxP1oiV9Q2F"
-      },
-      "artists": [
-        {
-          "name": "Phantom Elite",
-          "url": "https://open.spotify.com/artist/4PJpzyQV2oBuVew8BXjBnX"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/6lKyAAxp5Rl7HHoU39AQfS"
-    },
-    {
-      "album": {
-        "name": "Ghost Chapter",
-        "url": "https://open.spotify.com/album/4WKQe4glk7azHIj5Bfgm8y"
-      },
-      "artists": [
-        {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
-        }
-      ],
-      "duration_ms": 263203,
-      "name": "Ghost Chapter",
-      "url": "https://open.spotify.com/track/4MP1Cd8JF42yF7zFUUxmrj"
-    },
-    {
-      "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/25PoIyxB5owLh2UUp5LyR4"
-      },
-      "artists": [
-        {
-          "name": "A Light Divided",
-          "url": "https://open.spotify.com/artist/5xnKKbSzhpsKoPiAjD2yvV"
-        }
-      ],
-      "duration_ms": 188134,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/57ptt4wnK1PjkPCiRrwKYL"
+      "duration_ms": 329872,
+      "name": "The Witch of the North",
+      "url": "https://open.spotify.com/track/4Bsaetsm0Ov8D7RvmFckVy"
     },
     {
       "album": {
@@ -1105,6 +1000,81 @@
       "duration_ms": 220413,
       "name": "Essence of Creation",
       "url": "https://open.spotify.com/track/3bBNyJyFq8URxkT4HEH0CV"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/0KFP8PnNDxR1UHqRGfaztl"
+      },
+      "artists": [
+        {
+          "name": "Volturian",
+          "url": "https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/0KpIAcKc7fhgZwr29Svk7t"
+    },
+    {
+      "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/0PeRbqxikpHskrlkQqCvhj"
+      },
+      "artists": [
+        {
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+        }
+      ],
+      "duration_ms": 221855,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/5kDqzfhwhntiCOoJqHKhN5"
+    },
+    {
+      "album": {
+        "name": "The Pallbearer Walks Alone",
+        "url": "https://open.spotify.com/album/79SHmZSz5FBsx2TAtv4PcC"
+      },
+      "artists": [
+        {
+          "name": "The Dark Element",
+          "url": "https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f"
+        }
+      ],
+      "duration_ms": 339946,
+      "name": "The Pallbearer Walks Alone",
+      "url": "https://open.spotify.com/track/4fGxMI4p6dOxXCutg1vrRx"
+    },
+    {
+      "album": {
+        "name": "We Bring You the Stars",
+        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "We Bring You the Stars",
+      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
+    },
+    {
+      "album": {
+        "name": "Ghost Chapter",
+        "url": "https://open.spotify.com/album/4WKQe4glk7azHIj5Bfgm8y"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "duration_ms": 263203,
+      "name": "Ghost Chapter",
+      "url": "https://open.spotify.com/track/4MP1Cd8JF42yF7zFUUxmrj"
     },
     {
       "album": {
@@ -1138,57 +1108,38 @@
     },
     {
       "album": {
-        "name": "A Villain's Monologue",
-        "url": "https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU"
+        "name": "Cure 4 Psycho",
+        "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
       },
       "artists": [
         {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
         }
       ],
-      "duration_ms": 210000,
-      "name": "A Villain's Monologue",
-      "url": "https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP"
+      "duration_ms": 157749,
+      "name": "Cure 4 Psycho",
+      "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
     },
     {
       "album": {
-        "name": "Secret Garden",
-        "url": "https://open.spotify.com/album/1tWbfY8SUwLBt8g5VuvatE"
+        "name": "Lies' Device (New Version 2021)",
+        "url": "https://open.spotify.com/album/3tVQsBnb2stVCvWzM7aXgB"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Kalidia",
+          "url": "https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA"
         }
       ],
-      "duration_ms": 219280,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/2SKbTx3bPi2aPu5GRz59Dz"
+      "duration_ms": 249230,
+      "name": "In Black and White - New Version 2021",
+      "url": "https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB"
     },
     {
       "album": {
-        "name": "Moot",
-        "url": "https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ"
-      },
-      "artists": [
-        {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
-        },
-        {
-          "name": "Morgan Lander",
-          "url": "https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5"
-        }
-      ],
-      "duration_ms": 245664,
-      "name": "Moot",
-      "url": "https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe"
-    },
-    {
-      "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD"
+        "name": "Fear of Dying",
+        "url": "https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt"
       },
       "artists": [
         {
@@ -1196,24 +1147,54 @@
           "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 300647,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7"
+      "duration_ms": 163062,
+      "name": "Fear of Dying",
+      "url": "https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e"
     },
     {
       "album": {
-        "name": "We Bring You the Stars",
-        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
+        "name": "Grayscale",
+        "url": "https://open.spotify.com/album/2nklray2e6vk84ASC20FsK"
       },
       "artists": [
         {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
         }
       ],
-      "duration_ms": 180373,
-      "name": "We Bring You the Stars",
-      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
+      "duration_ms": 216210,
+      "name": "Grayscale",
+      "url": "https://open.spotify.com/track/0Y3pzMEX6ZF40dp1RAOrZk"
+    },
+    {
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/226OTt4h9VumNc6CTsz5dl"
+      },
+      "artists": [
+        {
+          "name": "Evereal",
+          "url": "https://open.spotify.com/artist/17mUVDdPEzybiGUGJ0zmBI"
+        }
+      ],
+      "duration_ms": 247750,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/67ytcy7Sg1PTLPNkGn92qZ"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/6fdWJnMaCRzCvsHhTvrXGU"
+      },
+      "artists": [
+        {
+          "name": "Clio Cadence",
+          "url": "https://open.spotify.com/artist/7ptBJGsem3xogV261ZUhtq"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1D27ysHw4QbNyGfEe4yljT"
     },
     {
       "album": {
@@ -1229,6 +1210,21 @@
       "duration_ms": 246554,
       "name": "Sinners Hymn",
       "url": "https://open.spotify.com/track/7dUaX05uxCNK5lC3329O0E"
+    },
+    {
+      "album": {
+        "name": "A Villain's Monologue",
+        "url": "https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "A Villain's Monologue",
+      "url": "https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E"

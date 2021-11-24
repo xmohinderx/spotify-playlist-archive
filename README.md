@@ -69,6 +69,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [All Out 90s](/playlists/pretty/37i9dQZF1DXbTxeAdrVG2l.md)
 - [All The Feels](/playlists/pretty/37i9dQZF1DX7gIoKXt0gmx.md)
 - [All-Nighter](/playlists/pretty/37i9dQZF1DX692WcMwL2yW.md)
+- [Altar](/playlists/pretty/37i9dQZF1DXa71eg5j9dKZ.md)
 - [Always Perfect](/playlists/pretty/37i9dQZF1DX8ZxAQJCANsW.md)
 - [Ambient Relaxation](/playlists/pretty/37i9dQZF1DX3Ogo9pFvBkY.md)
 - [anti pop](/playlists/pretty/37i9dQZF1DWWqNV5cS50j6.md)

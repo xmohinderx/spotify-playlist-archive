@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Purity Ring, Alice Glass, Phantogram and more
+> With Caroline Polachek, Shygirl, Perfume Genius and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
