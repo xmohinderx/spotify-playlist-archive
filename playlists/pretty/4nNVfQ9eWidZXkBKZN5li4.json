@@ -114,6 +114,21 @@
     },
     {
       "album": {
+        "name": "Young Shahrukh (Slowed)",
+        "url": "https://open.spotify.com/album/5EmstK4k43eAwEOw0w0FG1"
+      },
+      "artists": [
+        {
+          "name": "DarkMode",
+          "url": "https://open.spotify.com/artist/3adHo2mQl0i6oATmotIjRE"
+        }
+      ],
+      "duration_ms": 185074,
+      "name": "Young Shahrukh - Slowed",
+      "url": "https://open.spotify.com/track/5ODOP1eIQKjtaFBYFSLWaG"
+    },
+    {
+      "album": {
         "name": "Sakhiyan2.0 - BellBottom",
         "url": "https://open.spotify.com/album/5iXTBxq6U8TlbjRIDEDItN"
       },
@@ -2393,25 +2408,6 @@
       "duration_ms": 231562,
       "name": "Cutiepie (From \"Ae Dil Hai Mushkil\")",
       "url": "https://open.spotify.com/track/1YOW5pnfikVa6BcCBIOQUU"
-    },
-    {
-      "album": {
-        "name": "Shershaah (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5BLwx5IlfoWOrjJJ3i7gbK"
-      },
-      "artists": [
-        {
-          "name": "Javed-Mohsin",
-          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
-        },
-        {
-          "name": "Palak Muchhal",
-          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
-        }
-      ],
-      "duration_ms": 218478,
-      "name": "Kabhii Tumhhe - Female Version",
-      "url": "https://open.spotify.com/track/330joCgJHJGHFLOgJCvNEM"
     }
   ],
   "url": "https://open.spotify.com/playlist/4nNVfQ9eWidZXkBKZN5li4"

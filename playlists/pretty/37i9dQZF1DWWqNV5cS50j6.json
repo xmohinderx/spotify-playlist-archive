@@ -4,6 +4,21 @@
   "tracks": [
     {
       "album": {
+        "name": "The One And Lonely",
+        "url": "https://open.spotify.com/album/0GcPEqXEQrcsAOetTkyrNX"
+      },
+      "artists": [
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "The One And Lonely",
+      "url": "https://open.spotify.com/track/6XRcsUKJJm1HWYYj1Rbxea"
+    },
+    {
+      "album": {
         "name": "predictable",
         "url": "https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl"
       },
@@ -216,29 +231,6 @@
       "duration_ms": 189329,
       "name": "Stoked",
       "url": "https://open.spotify.com/track/6nef0wHkelfKqNVHAtzJbR"
-    },
-    {
-      "album": {
-        "name": "Real Nice (H.C.T.F.)",
-        "url": "https://open.spotify.com/album/1J8pqICACP8NoLgHxUPUMR"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Nerve",
-          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
-        }
-      ],
-      "duration_ms": 160816,
-      "name": "Real Nice (H.C.T.F.) (feat. Nerve)",
-      "url": "https://open.spotify.com/track/7IcfiG6VRJYZMvRxRYlYGp"
     },
     {
       "album": {

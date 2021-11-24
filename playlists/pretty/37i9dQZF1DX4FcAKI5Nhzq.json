@@ -1,7 +1,37 @@
 {
-  "description": "Future K-Pop hits! Cover: B1A4",
+  "description": "Future K-Pop hits! Cover: Gaho",
   "name": "K-Pop Rising",
   "tracks": [
+    {
+      "album": {
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/78Wj5wgjcagJSHoePF5Wc4"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 220075,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/5bsCLjbCjUN4Jr64D6axKW"
+    },
+    {
+      "album": {
+        "name": "RUMINATION",
+        "url": "https://open.spotify.com/album/23F2thvLl5vJvxD5fG4yRm"
+      },
+      "artists": [
+        {
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/1kvcWkI3m8L6F7EFheV8lM"
+    },
     {
       "album": {
         "name": "Jirisan (Original Television Soundtrack) Pt. 4",
@@ -481,21 +511,6 @@
     },
     {
       "album": {
-        "name": "strawberry moon",
-        "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "strawberry moon",
-      "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
-    },
-    {
-      "album": {
         "name": "Close to Me",
         "url": "https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt"
       },
@@ -523,21 +538,6 @@
       "duration_ms": 158253,
       "name": "PING PONG",
       "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
-    },
-    {
-      "album": {
-        "name": "Jessica & Krystal - US Road Trip (Original Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki"
-      },
-      "artists": [
-        {
-          "name": "Jessica",
-          "url": "https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "SNAPSHOT",
-      "url": "https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ"
     },
     {
       "album": {
@@ -613,21 +613,6 @@
       "duration_ms": 197733,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2ffVhWaUuu5IRaoogJOGFz"
-    },
-    {
-      "album": {
-        "name": "GLASSY",
-        "url": "https://open.spotify.com/album/2WCMmZ8vXBnkVp97PzLeoA"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "GLASSY",
-      "url": "https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D"
     },
     {
       "album": {
@@ -744,40 +729,6 @@
     },
     {
       "album": {
-        "name": "California Love",
-        "url": "https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV"
-      },
-      "artists": [
-        {
-          "name": "DONGHAE",
-          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
-        },
-        {
-          "name": "JENO",
-          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "California Love (feat. JENO of NCT)",
-      "url": "https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW"
-    },
-    {
-      "album": {
-        "name": "COLORS from Ars",
-        "url": "https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 202035,
-      "name": "Vibin",
-      "url": "https://open.spotify.com/track/3nbTkTlILrKTGpjF6X8pEN"
-    },
-    {
-      "album": {
         "name": "Belief",
         "url": "https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw"
       },
@@ -793,81 +744,6 @@
     },
     {
       "album": {
-        "name": "MO\u2019 COMPLETE",
-        "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 210535,
-      "name": "CHERRY",
-      "url": "https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto"
-    },
-    {
-      "album": {
-        "name": "TURBULENCE",
-        "url": "https://open.spotify.com/album/2rayiXZYDNBWeFrzmAvIV7"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5e8JEJ9p9X62ktvppYMiPV"
-    },
-    {
-      "album": {
-        "name": "YUMI's Cells, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3UK9qJdiuyXvhf7nNBWe2o"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 240932,
-      "name": "Like a Star",
-      "url": "https://open.spotify.com/track/4KtYxw90PrXeB6SyrEQJT2"
-    },
-    {
-      "album": {
-        "name": "Lovers of the Red Sky OST Part.1",
-        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Is it me?",
-      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
-    },
-    {
-      "album": {
-        "name": "Beautiful Sunshine",
-        "url": "https://open.spotify.com/album/2CkaMF14e5e1g02pqXkdts"
-      },
-      "artists": [
-        {
-          "name": "Lee Eun Sang",
-          "url": "https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ"
-        }
-      ],
-      "duration_ms": 193577,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/7J2DJVB6R6c13oywavsmMG"
-    },
-    {
-      "album": {
         "name": "Hometown, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7B7whF7sfWLeuCngNAiEu0"
       },
@@ -880,44 +756,6 @@
       "duration_ms": 211999,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2MO6sxfNbVBkGvZRPJCPbe"
-    },
-    {
-      "album": {
-        "name": "Dive with you (feat. eaJ)",
-        "url": "https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "Eaj",
-          "url": "https://open.spotify.com/artist/2jgMsjXdb2NFsAlQQQ3hOv"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Dive with you (feat. eaJ)",
-      "url": "https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6"
-    },
-    {
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
     },
     {
       "album": {
