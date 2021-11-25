@@ -79,6 +79,21 @@
     },
     {
       "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Never, Never Gonna Give Ya Up",
+      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
+    },
+    {
+      "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
       },
@@ -91,6 +106,21 @@
       "duration_ms": 209906,
       "name": "You See The Trouble With Me",
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
+    },
+    {
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "What Am I Gonna Do With You",
+      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
     },
     {
       "album": {
@@ -139,18 +169,22 @@
     },
     {
       "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
       },
       "artists": [
         {
           "name": "Barry White",
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
         }
       ],
-      "duration_ms": 305600,
-      "name": "If You Know, Won't You Tell Me",
-      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
+      "duration_ms": 294066,
+      "name": "Dark And Lovely (You Over There)",
+      "url": "https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I"
     },
     {
       "album": {
@@ -199,25 +233,6 @@
     },
     {
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
-        }
-      ],
-      "duration_ms": 294066,
-      "name": "Dark And Lovely (You Over There)",
-      "url": "https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I"
-    },
-    {
-      "album": {
         "name": "The 20th Century Records Albums (1973-1979)",
         "url": "https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi"
       },
@@ -230,6 +245,21 @@
       "duration_ms": 352960,
       "name": "I've Found Someone",
       "url": "https://open.spotify.com/track/1mHCbApKGwPuD2n3rtCuwu"
+    },
+    {
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 305600,
+      "name": "If You Know, Won't You Tell Me",
+      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
     },
     {
       "album": {
@@ -248,8 +278,8 @@
     },
     {
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
       "artists": [
         {
@@ -257,9 +287,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 620760,
-      "name": "Let Me Live My Life Lovin' You Babe",
-      "url": "https://open.spotify.com/track/3s3iVUIrJHHiHlRXEw4cxb"
+      "duration_ms": 184466,
+      "name": "More Than Anything, You're My Everything",
+      "url": "https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG"
     },
     {
       "album": {
@@ -290,81 +320,6 @@
       "duration_ms": 261133,
       "name": "I Won't Settle For Less Than The Best (For You Baby)",
       "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
-    },
-    {
-      "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Oh What A Night For Dancing",
-      "url": "https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh"
-    },
-    {
-      "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "More Than Anything, You're My Everything",
-      "url": "https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG"
-    },
-    {
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Oh Love, Well We Finally Made It",
-      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
-    },
-    {
-      "album": {
-        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
-        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "September When I First Met You - Single Version",
-      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
-    },
-    {
-      "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 467640,
-      "name": "You Turned My Whole World Around",
-      "url": "https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82"
     },
     {
       "album": {
@@ -399,6 +354,21 @@
     },
     {
       "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Oh What A Night For Dancing",
+      "url": "https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh"
+    },
+    {
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -411,6 +381,51 @@
       "duration_ms": 299226,
       "name": "I Love You More Than Anything (In This World Girl)",
       "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
+    },
+    {
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 620760,
+      "name": "Let Me Live My Life Lovin' You Babe",
+      "url": "https://open.spotify.com/track/3s3iVUIrJHHiHlRXEw4cxb"
+    },
+    {
+      "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "September When I First Met You - Single Version",
+      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 467640,
+      "name": "You Turned My Whole World Around",
+      "url": "https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82"
     },
     {
       "album": {
@@ -429,21 +444,6 @@
     },
     {
       "album": {
-        "name": "I Love To Sing The Songs I Sing",
-        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "I Love To Sing The Songs I Sing",
-      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
-    },
-    {
-      "album": {
         "name": "Put Me In Your Mix",
         "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
       },
@@ -459,21 +459,6 @@
     },
     {
       "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Just Not Enough",
-      "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
-    },
-    {
-      "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
@@ -486,6 +471,21 @@
       "duration_ms": 316440,
       "name": "I've Got So Much To Give",
       "url": "https://open.spotify.com/track/4HtzL8uhKcQpzBI9LQqAcX"
+    },
+    {
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Just Not Enough",
+      "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
     },
     {
       "album": {
@@ -519,6 +519,21 @@
     },
     {
       "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Baby We Better Try To Get It Together",
+      "url": "https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh"
+    },
+    {
+      "album": {
         "name": "The Complete 20th Century Records Singles (1973-1979)",
         "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
@@ -534,8 +549,8 @@
     },
     {
       "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
       },
       "artists": [
         {
@@ -543,9 +558,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 265506,
-      "name": "Baby We Better Try To Get It Together",
-      "url": "https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh"
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "album": {
@@ -579,8 +594,8 @@
     },
     {
       "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
       "artists": [
         {
@@ -588,9 +603,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 433226,
-      "name": "Playing Your Game, Baby",
-      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
+      "duration_ms": 234000,
+      "name": "Oh Love, Well We Finally Made It",
+      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
     },
     {
       "album": {
@@ -624,8 +639,8 @@
     },
     {
       "album": {
-        "name": "The 20th Century Records Albums (1973-1979)",
-        "url": "https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi"
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
       "artists": [
         {
@@ -633,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 299466,
-      "name": "Heavenly, That's What You Are To Me",
-      "url": "https://open.spotify.com/track/6QtcHrzhtQD7b623E269Ni"
+      "duration_ms": 179200,
+      "name": "Honey Please, Can't Ya See - Alternate Version",
+      "url": "https://open.spotify.com/track/5HUqK2g43gAWGaOP5e2ru9"
     },
     {
       "album": {
@@ -654,8 +669,8 @@
     },
     {
       "album": {
-        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
-        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
       },
       "artists": [
         {
@@ -663,9 +678,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 196053,
-      "name": "Don't Make Me Wait Too Long",
-      "url": "https://open.spotify.com/track/5dxTO5UAB46lddMQQRGYNu"
+      "duration_ms": 433226,
+      "name": "Playing Your Game, Baby",
+      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
     },
     {
       "album": {
@@ -684,22 +699,18 @@
     },
     {
       "album": {
-        "name": "Barry & Glodean",
-        "url": "https://open.spotify.com/album/2wNo6VTSh8F5HDtDr3jwSH"
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
       "artists": [
         {
           "name": "Barry White",
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Glodean White",
-          "url": "https://open.spotify.com/artist/4m9wDNaF13va1vTfvwDyVN"
         }
       ],
-      "duration_ms": 305773,
-      "name": "You're The Only One For Me",
-      "url": "https://open.spotify.com/track/78gPci8zOswLUCA1sBI0Vf"
+      "duration_ms": 196053,
+      "name": "Don't Make Me Wait Too Long",
+      "url": "https://open.spotify.com/track/5dxTO5UAB46lddMQQRGYNu"
     },
     {
       "album": {
@@ -718,8 +729,8 @@
     },
     {
       "album": {
-        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
-        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+        "name": "The 20th Century Records Albums (1973-1979)",
+        "url": "https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi"
       },
       "artists": [
         {
@@ -727,9 +738,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Honey Please, Can't Ya See - Alternate Version",
-      "url": "https://open.spotify.com/track/5HUqK2g43gAWGaOP5e2ru9"
+      "duration_ms": 299466,
+      "name": "Heavenly, That's What You Are To Me",
+      "url": "https://open.spotify.com/track/6QtcHrzhtQD7b623E269Ni"
     },
     {
       "album": {
@@ -760,25 +771,6 @@
       "duration_ms": 349506,
       "name": "Come On",
       "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
-    },
-    {
-      "album": {
-        "name": "Wildest Dreams (Expanded Version)",
-        "url": "https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "In Your Wildest Dreams (feat. Barry White) - Radio Edit",
-      "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY"

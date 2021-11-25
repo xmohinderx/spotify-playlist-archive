@@ -576,6 +576,21 @@
     },
     {
       "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/4yuj3HTE9wo6uq9TViyRWK"
+      },
+      "artists": [
+        {
+          "name": "Qasim",
+          "url": "https://open.spotify.com/artist/611DiraGc9sy6b10CKFOIW"
+        }
+      ],
+      "duration_ms": 180470,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/2N4Fs1jeggmilxMi0cyrRu"
+    },
+    {
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },

@@ -99,6 +99,25 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 226738,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/2wvHFdSUM3Q6Dtu7dowYpf"
       },
@@ -286,6 +305,21 @@
       "duration_ms": 174100,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/64vx3cUb97lQGlgt8zozWL"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg"
     },
     {
       "album": {
@@ -982,25 +1016,6 @@
     },
     {
       "album": {
-        "name": "Way Back Home (feat. Kyra Mastro)",
-        "url": "https://open.spotify.com/album/5WzpEhm6xOfn6e47lFtpr2"
-      },
-      "artists": [
-        {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 166582,
-      "name": "Way Back Home (feat. Kyra Mastro)",
-      "url": "https://open.spotify.com/track/5ZdAikqsPUJaPs9Ioqhlqp"
-    },
-    {
-      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/1wZ8FVTvRXubQlYnrRNF5B"
       },
@@ -1013,25 +1028,6 @@
       "duration_ms": 162318,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ"
-    },
-    {
-      "album": {
-        "name": "Don't Go Yet (Major Lazer Remix)",
-        "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        }
-      ],
-      "duration_ms": 171265,
-      "name": "Don't Go Yet - Major Lazer Remix",
-      "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
     },
     {
       "album": {
@@ -1074,29 +1070,6 @@
       "duration_ms": 164166,
       "name": "Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty"
-    },
-    {
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/6R6Q9qbwHVHTtS7J3jQSa6"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/60STJ5y9RdFsbFBVwsLpEP"
     },
     {
       "album": {

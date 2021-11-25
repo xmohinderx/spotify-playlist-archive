@@ -80,6 +80,25 @@
     },
     {
       "album": {
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+    },
+    {
+      "album": {
         "name": "love nwantiti (feat. Dj Yo! & AX'EL) [Remix]",
         "url": "https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9"
       },
@@ -103,44 +122,6 @@
     },
     {
       "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "album": {
         "name": "Najaa (From \"Sooryavanshi\")",
         "url": "https://open.spotify.com/album/5zP4OuD73f42dogIjNid68"
       },
@@ -161,6 +142,25 @@
       "duration_ms": 191239,
       "name": "Najaa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v"
+    },
+    {
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
       "album": {
@@ -209,21 +209,6 @@
     },
     {
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "album": {
         "name": "The Lifestyle",
         "url": "https://open.spotify.com/album/1zIvQYNdDnl4f7iF2s6HHj"
       },
@@ -236,6 +221,21 @@
       "duration_ms": 216026,
       "name": "Kina Chir",
       "url": "https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl"
+    },
+    {
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
       "album": {
@@ -263,6 +263,29 @@
       "duration_ms": 230185,
       "name": "Barbaadiyan",
       "url": "https://open.spotify.com/track/6qZyM6JV8ohLC4S2EL5sFh"
+    },
+    {
+      "album": {
+        "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
+        "url": "https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        },
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        }
+      ],
+      "duration_ms": 195616,
+      "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
+      "url": "https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F"
     },
     {
       "album": {
@@ -361,8 +384,8 @@
     },
     {
       "album": {
-        "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
-        "url": "https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9"
+        "name": "Tip Tip (From \"Sooryavanshi\")",
+        "url": "https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y"
       },
       "artists": [
         {
@@ -370,17 +393,17 @@
           "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         },
         {
-          "name": "Zahrah S Khan",
-          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         },
         {
-          "name": "Dev Negi",
-          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         }
       ],
-      "duration_ms": 195616,
-      "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
-      "url": "https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F"
+      "duration_ms": 250287,
+      "name": "Tip Tip (From \"Sooryavanshi\")",
+      "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"
     },
     {
       "album": {
@@ -404,29 +427,6 @@
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
-    },
-    {
-      "album": {
-        "name": "Tip Tip (From \"Sooryavanshi\")",
-        "url": "https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 250287,
-      "name": "Tip Tip (From \"Sooryavanshi\")",
-      "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"
     },
     {
       "album": {
@@ -479,21 +479,6 @@
     },
     {
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
-    },
-    {
-      "album": {
         "name": "Sakhiyan2.0 (From \"BellBottom\") - Single",
         "url": "https://open.spotify.com/album/3T7z9uyd25hw8zLcxkS5Yc"
       },
@@ -517,6 +502,21 @@
     },
     {
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "album": {
         "name": "Mimi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
       },
@@ -533,21 +533,6 @@
       "duration_ms": 200218,
       "name": "Param Sundari",
       "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
-    },
-    {
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "album": {
@@ -590,6 +575,21 @@
       "duration_ms": 199174,
       "name": "Jug Jug Jeeve",
       "url": "https://open.spotify.com/track/0tjnLIbuF8mwLUKq3CNIdH"
+    },
+    {
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "album": {
@@ -692,6 +692,21 @@
     },
     {
       "album": {
+        "name": "Waalian",
+        "url": "https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Waalian",
+      "url": "https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB"
+    },
+    {
+      "album": {
         "name": "Dil Galti Kar Baitha Hai",
         "url": "https://open.spotify.com/album/3IVKZaNM28VJVl74XDSKpR"
       },
@@ -730,36 +745,6 @@
     },
     {
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"
-    },
-    {
-      "album": {
-        "name": "Waalian",
-        "url": "https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb"
-      },
-      "artists": [
-        {
-          "name": "Harnoor",
-          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Waalian",
-      "url": "https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB"
-    },
-    {
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -791,6 +776,40 @@
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+    },
+    {
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"
+    },
+    {
+      "album": {
+        "name": "Distance Love",
+        "url": "https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY"
+      },
+      "artists": [
+        {
+          "name": "Grewal",
+          "url": "https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6"
+        },
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        }
+      ],
+      "duration_ms": 210681,
+      "name": "Distance Love",
+      "url": "https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX"
     },
     {
       "album": {
@@ -867,22 +886,68 @@
     },
     {
       "album": {
-        "name": "Distance Love",
-        "url": "https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY"
+        "name": "Tum Tum (From \"Enemy - Telugu\")",
+        "url": "https://open.spotify.com/album/3FWClYm0zGYcDt4GLeaPVO"
       },
       "artists": [
         {
-          "name": "Grewal",
-          "url": "https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Zehr Vibe",
-          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+          "name": "Harini Ivaturi",
+          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
+        },
+        {
+          "name": "Sahiti Chaganti",
+          "url": "https://open.spotify.com/artist/4GXf6R5VxI7qItahm0QuTD"
         }
       ],
-      "duration_ms": 210681,
-      "name": "Distance Love",
-      "url": "https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX"
+      "duration_ms": 228567,
+      "name": "Tum Tum (From \"Enemy - Telugu\")",
+      "url": "https://open.spotify.com/track/4dPx6DcxbkhijIdzfZjaTb"
+    },
+    {
+      "album": {
+        "name": "Thoda Thoda Pyaar",
+        "url": "https://open.spotify.com/album/5UXmAl22CAOQCxk19q1xjG"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Nilesh Ahuja",
+          "url": "https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 244724,
+      "name": "Thoda Thoda Pyaar",
+      "url": "https://open.spotify.com/track/5nsET7aVWXu017lsQjRFCV"
+    },
+    {
+      "album": {
+        "name": "Mad Love The Prequel",
+        "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221176,
+      "name": "No Lie",
+      "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
     },
     {
       "album": {
@@ -910,71 +975,6 @@
       "duration_ms": 124498,
       "name": "SPACESHIP",
       "url": "https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d"
-    },
-    {
-      "album": {
-        "name": "Thoda Thoda Pyaar",
-        "url": "https://open.spotify.com/album/5UXmAl22CAOQCxk19q1xjG"
-      },
-      "artists": [
-        {
-          "name": "Stebin Ben",
-          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
-        },
-        {
-          "name": "Nilesh Ahuja",
-          "url": "https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 244724,
-      "name": "Thoda Thoda Pyaar",
-      "url": "https://open.spotify.com/track/5nsET7aVWXu017lsQjRFCV"
-    },
-    {
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Srivalli",
-      "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
-    },
-    {
-      "album": {
-        "name": "Tum Tum (From \"Enemy - Telugu\")",
-        "url": "https://open.spotify.com/album/3FWClYm0zGYcDt4GLeaPVO"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Harini Ivaturi",
-          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
-        },
-        {
-          "name": "Sahiti Chaganti",
-          "url": "https://open.spotify.com/artist/4GXf6R5VxI7qItahm0QuTD"
-        }
-      ],
-      "duration_ms": 228567,
-      "name": "Tum Tum (From \"Enemy - Telugu\")",
-      "url": "https://open.spotify.com/track/4dPx6DcxbkhijIdzfZjaTb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg"
