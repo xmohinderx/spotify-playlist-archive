@@ -109,6 +109,51 @@
     },
     {
       "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48"
+      },
+      "artists": [
+        {
+          "name": "River Hall",
+          "url": "https://open.spotify.com/artist/2fuR3LZlCAFO9u0DlORUag"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Essentials",
+      "url": "https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk"
+    },
+    {
+      "album": {
+        "name": "Metric",
+        "url": "https://open.spotify.com/album/3mRR2xufUTCLv6ZVqJgwJY"
+      },
+      "artists": [
+        {
+          "name": "Ervin Alba",
+          "url": "https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ"
+        }
+      ],
+      "duration_ms": 144782,
+      "name": "Metric",
+      "url": "https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta"
+    },
+    {
+      "album": {
+        "name": "Carpe Noctem",
+        "url": "https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ"
+      },
+      "artists": [
+        {
+          "name": "Franke Williums",
+          "url": "https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR"
+        }
+      ],
+      "duration_ms": 183036,
+      "name": "Carpe Noctem",
+      "url": "https://open.spotify.com/track/027030DBi749hu0tVBAFgX"
+    },
+    {
+      "album": {
         "name": "Sleep Odyssey",
         "url": "https://open.spotify.com/album/148nvIMcvVwONRTeWfp3R2"
       },
@@ -1159,21 +1204,6 @@
     },
     {
       "album": {
-        "name": "Fungipedia",
-        "url": "https://open.spotify.com/album/0PxR7nUAhAVcaMLfbshIBO"
-      },
-      "artists": [
-        {
-          "name": "Azulina",
-          "url": "https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Inocybe",
-      "url": "https://open.spotify.com/track/0yHW5bqjYuHYppJr4V59lc"
-    },
-    {
-      "album": {
         "name": "Spatsmanium",
         "url": "https://open.spotify.com/album/5sEk9boEfqnmH7i4h3DxEx"
       },
@@ -1504,21 +1534,6 @@
     },
     {
       "album": {
-        "name": "Ambi Tape",
-        "url": "https://open.spotify.com/album/6YDFGELHVUWkvGjeLkoPZa"
-      },
-      "artists": [
-        {
-          "name": "Corey Gordon",
-          "url": "https://open.spotify.com/artist/0L1ETgZO2x7XAJSwXWTdN5"
-        }
-      ],
-      "duration_ms": 224492,
-      "name": "Ambi 25",
-      "url": "https://open.spotify.com/track/30K3SahVaJUAZcePyleRgH"
-    },
-    {
-      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/7hbgiDa3wDX1v4Dh8I90h4"
       },
@@ -1531,21 +1546,6 @@
       "duration_ms": 247750,
       "name": "Encounters",
       "url": "https://open.spotify.com/track/1nY1hifiacx4skYuAgVPMd"
-    },
-    {
-      "album": {
-        "name": "Resonatic",
-        "url": "https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy"
-      },
-      "artists": [
-        {
-          "name": "Inverse Gradient",
-          "url": "https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "Resonatic",
-      "url": "https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj"
     },
     {
       "album": {
@@ -1759,21 +1759,6 @@
     },
     {
       "album": {
-        "name": "In the Waiting",
-        "url": "https://open.spotify.com/album/7tky9E0PLGbIFkgPzV5W1t"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 182655,
-      "name": "Immersed",
-      "url": "https://open.spotify.com/track/1HZa1EjZeJDzQ7r6NwX6jW"
-    },
-    {
-      "album": {
         "name": "Orbital",
         "url": "https://open.spotify.com/album/6Ucppogbkw43FxZQs4dF3g"
       },
@@ -1879,21 +1864,6 @@
     },
     {
       "album": {
-        "name": "Trace",
-        "url": "https://open.spotify.com/album/6Vfof63wDXpmWEVW12Ag80"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Rhey",
-          "url": "https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Trace",
-      "url": "https://open.spotify.com/track/6sauZJqeqUy4426Qj6joFe"
-    },
-    {
-      "album": {
         "name": "Opolnoc\u030ci",
         "url": "https://open.spotify.com/album/7v69wRHr3qEcbJCCfMl0bS"
       },
@@ -1966,21 +1936,6 @@
       "duration_ms": 191000,
       "name": "Voronezh Violin",
       "url": "https://open.spotify.com/track/6lkDLWCYpmVActgK7ZkLwZ"
-    },
-    {
-      "album": {
-        "name": "Elba",
-        "url": "https://open.spotify.com/album/2dQuhg8RoRK4tq1kRnlzQp"
-      },
-      "artists": [
-        {
-          "name": "Smith/Hill",
-          "url": "https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS"
-        }
-      ],
-      "duration_ms": 177150,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6ScSd377nO1MNw4217toss"
     },
     {
       "album": {
@@ -2284,21 +2239,6 @@
     },
     {
       "album": {
-        "name": "A New Age",
-        "url": "https://open.spotify.com/album/6Wj2S29YRCBUqb4YDQhMP6"
-      },
-      "artists": [
-        {
-          "name": "Leyenda",
-          "url": "https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB"
-        }
-      ],
-      "duration_ms": 215185,
-      "name": "A New Age",
-      "url": "https://open.spotify.com/track/4IjvliE2kI9CcAvnNVYEiI"
-    },
-    {
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK"
       },
@@ -2491,21 +2431,6 @@
       "duration_ms": 195428,
       "name": "Wandering",
       "url": "https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P"
-    },
-    {
-      "album": {
-        "name": "Whisper of the Pines",
-        "url": "https://open.spotify.com/album/4s6a8srmUVV3FBbhNIdqTj"
-      },
-      "artists": [
-        {
-          "name": "Howard Harper-Barnes",
-          "url": "https://open.spotify.com/artist/447ceX8wMVdX94yevKZFDe"
-        }
-      ],
-      "duration_ms": 157681,
-      "name": "Interpretations",
-      "url": "https://open.spotify.com/track/6PIbpT7ray6ixif2v6RIIa"
     },
     {
       "album": {
@@ -2914,21 +2839,6 @@
     },
     {
       "album": {
-        "name": "In a Lifetime (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0QAzm4rHWMErZyYqRPa93s"
-      },
-      "artists": [
-        {
-          "name": "Shy Monster",
-          "url": "https://open.spotify.com/artist/3G7szd2i3DMHa4ZhbWRRj8"
-        }
-      ],
-      "duration_ms": 88490,
-      "name": "In a Lifetime",
-      "url": "https://open.spotify.com/track/2ABewFysEqaZ7PNDXc2ISD"
-    },
-    {
-      "album": {
         "name": "Rooftops",
         "url": "https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa"
       },
@@ -2941,21 +2851,6 @@
       "duration_ms": 152879,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/7m9s5U1FjcFDLorvn1TD4l"
-    },
-    {
-      "album": {
-        "name": "Ananda",
-        "url": "https://open.spotify.com/album/7f69MPwVjlQCBj7Pv00Gu2"
-      },
-      "artists": [
-        {
-          "name": "Light Garden",
-          "url": "https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF"
-        }
-      ],
-      "duration_ms": 142641,
-      "name": "Ananda",
-      "url": "https://open.spotify.com/track/5cUE9WfhOMXemLX0stj0XT"
     },
     {
       "album": {
@@ -3545,21 +3440,6 @@
       "duration_ms": 114048,
       "name": "Llegan a Piscina",
       "url": "https://open.spotify.com/track/43s3yCJpcXkpnEkx5oz4o1"
-    },
-    {
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 165920,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
     },
     {
       "album": {

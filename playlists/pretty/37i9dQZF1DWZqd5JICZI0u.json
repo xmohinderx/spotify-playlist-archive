@@ -154,6 +154,21 @@
     },
     {
       "album": {
+        "name": "Le Doux",
+        "url": "https://open.spotify.com/album/16x9see46svEoEgyGrnhnp"
+      },
+      "artists": [
+        {
+          "name": "Somnia Terra",
+          "url": "https://open.spotify.com/artist/1ik9VBhOvg5HDwhLjLB3B1"
+        }
+      ],
+      "duration_ms": 189714,
+      "name": "Le Doux",
+      "url": "https://open.spotify.com/track/7pMX0cXGVn2zhWUm2UM8SY"
+    },
+    {
+      "album": {
         "name": "Humility",
         "url": "https://open.spotify.com/album/0sUwuNy0E8I5xVWKXLy3XI"
       },
@@ -424,6 +439,21 @@
     },
     {
       "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48"
+      },
+      "artists": [
+        {
+          "name": "River Hall",
+          "url": "https://open.spotify.com/artist/2fuR3LZlCAFO9u0DlORUag"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Essentials",
+      "url": "https://open.spotify.com/track/1GJb1W2u1XOC4NnTprGsGk"
+    },
+    {
+      "album": {
         "name": "What's Best For You",
         "url": "https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86"
       },
@@ -646,21 +676,6 @@
       "duration_ms": 144562,
       "name": "Connection",
       "url": "https://open.spotify.com/track/5BDIKKycvDRRpJGG76cg0n"
-    },
-    {
-      "album": {
-        "name": "Voordat Je Gaat",
-        "url": "https://open.spotify.com/album/35gk0IOuEfg0d2pmuiZoN8"
-      },
-      "artists": [
-        {
-          "name": "Ebba Dekker",
-          "url": "https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg"
-        }
-      ],
-      "duration_ms": 188673,
-      "name": "Voordat Je Gaat",
-      "url": "https://open.spotify.com/track/7pRq9fPCrfEGbjPE5ENqWw"
     },
     {
       "album": {
@@ -1130,6 +1145,21 @@
       "duration_ms": 222291,
       "name": "Day One",
       "url": "https://open.spotify.com/track/4ahkHICHrJKitc3ki96AAY"
+    },
+    {
+      "album": {
+        "name": "Metric",
+        "url": "https://open.spotify.com/album/3mRR2xufUTCLv6ZVqJgwJY"
+      },
+      "artists": [
+        {
+          "name": "Ervin Alba",
+          "url": "https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ"
+        }
+      ],
+      "duration_ms": 144782,
+      "name": "Metric",
+      "url": "https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta"
     },
     {
       "album": {

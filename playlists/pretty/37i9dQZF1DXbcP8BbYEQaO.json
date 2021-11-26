@@ -124,21 +124,6 @@
     },
     {
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 243090,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
-    },
-    {
-      "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
@@ -151,36 +136,6 @@
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
-    },
-    {
-      "album": {
-        "name": "Remember That Night?",
-        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Remember That Night?",
-      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
-    },
-    {
-      "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 191983,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
     },
     {
       "album": {
@@ -199,21 +154,6 @@
     },
     {
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
-    },
-    {
-      "album": {
         "name": "The Band CAMINO",
         "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
       },
@@ -226,6 +166,21 @@
       "duration_ms": 182658,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
+    },
+    {
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 243090,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
     },
     {
       "album": {
@@ -267,33 +222,18 @@
     },
     {
       "album": {
-        "name": "girls girls girls",
-        "url": "https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1"
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/7vCoYIACUHhZM6LsSa0caG"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 161247,
-      "name": "girls girls girls",
-      "url": "https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV"
-    },
-    {
-      "album": {
-        "name": "The Way You Felt",
-        "url": "https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 182810,
-      "name": "The Way You Felt",
-      "url": "https://open.spotify.com/track/6XdHZr9iXdqc4Q76wtgbqr"
+      "duration_ms": 191983,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/2em9RcCS4mlJFHQ2Xw82T9"
     },
     {
       "album": {
@@ -312,6 +252,66 @@
     },
     {
       "album": {
+        "name": "Remember That Night?",
+        "url": "https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Remember That Night?",
+      "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
+    },
+    {
+      "album": {
+        "name": "girls girls girls",
+        "url": "https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 161247,
+      "name": "girls girls girls",
+      "url": "https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV"
+    },
+    {
+      "album": {
+        "name": "Bubble",
+        "url": "https://open.spotify.com/album/7iBpoxvtEN2wVV4bOh4yoc"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 225770,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/4vb7jSp8SjP6dHVZ1m3Yhv"
+    },
+    {
+      "album": {
         "name": "folklore (deluxe version)",
         "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
@@ -324,6 +324,108 @@
       "duration_ms": 294520,
       "name": "betty",
       "url": "https://open.spotify.com/track/3IhtE4fkytdrtEfV34UzkD"
+    },
+    {
+      "album": {
+        "name": "The Way You Felt",
+        "url": "https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 182810,
+      "name": "The Way You Felt",
+      "url": "https://open.spotify.com/track/6XdHZr9iXdqc4Q76wtgbqr"
+    },
+    {
+      "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 207667,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
+    },
+    {
+      "album": {
+        "name": "Steal My Clothes (feat. Bea Miller)",
+        "url": "https://open.spotify.com/album/6Xss8KphZhnWr2bq2tvEr4"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 129947,
+      "name": "Steal My Clothes (feat. Bea Miller)",
+      "url": "https://open.spotify.com/track/5VvUxoP2bKyps8sroie6T1"
+    },
+    {
+      "album": {
+        "name": "slow summer",
+        "url": "https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D"
+      },
+      "artists": [
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
+        }
+      ],
+      "duration_ms": 168782,
+      "name": "slow summer",
+      "url": "https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6"
+    },
+    {
+      "album": {
+        "name": "ARE YOU LETTING GO? (feat. BENEE)",
+        "url": "https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Boy",
+          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 205927,
+      "name": "ARE YOU LETTING GO? (feat. BENEE)",
+      "url": "https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps"
+    },
+    {
+      "album": {
+        "name": "You Signed Up For This",
+        "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 216493,
+      "name": "John Hughes Movie",
+      "url": "https://open.spotify.com/track/1rY5sQ6hjIWP6juaRCs455"
     },
     {
       "album": {
@@ -361,153 +463,6 @@
     },
     {
       "album": {
-        "name": "Steal My Clothes (feat. Bea Miller)",
-        "url": "https://open.spotify.com/album/6Xss8KphZhnWr2bq2tvEr4"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 129947,
-      "name": "Steal My Clothes (feat. Bea Miller)",
-      "url": "https://open.spotify.com/track/5VvUxoP2bKyps8sroie6T1"
-    },
-    {
-      "album": {
-        "name": "You Signed Up For This",
-        "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "John Hughes Movie",
-      "url": "https://open.spotify.com/track/1rY5sQ6hjIWP6juaRCs455"
-    },
-    {
-      "album": {
-        "name": "Bubble",
-        "url": "https://open.spotify.com/album/7iBpoxvtEN2wVV4bOh4yoc"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 225770,
-      "name": "Bubble",
-      "url": "https://open.spotify.com/track/4vb7jSp8SjP6dHVZ1m3Yhv"
-    },
-    {
-      "album": {
-        "name": "slow summer",
-        "url": "https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D"
-      },
-      "artists": [
-        {
-          "name": "Zachary Knowles",
-          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
-        }
-      ],
-      "duration_ms": 168782,
-      "name": "slow summer",
-      "url": "https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6"
-    },
-    {
-      "album": {
-        "name": "Scarlett",
-        "url": "https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Scarlett",
-      "url": "https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk"
-    },
-    {
-      "album": {
-        "name": "ARE YOU LETTING GO? (feat. BENEE)",
-        "url": "https://open.spotify.com/album/4XbYHifFUBdVizgBN4wSmI"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Boy",
-          "url": "https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 205927,
-      "name": "ARE YOU LETTING GO? (feat. BENEE)",
-      "url": "https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps"
-    },
-    {
-      "album": {
-        "name": "I Don't Know Why",
-        "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 207667,
-      "name": "I Don't Know Why",
-      "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
-    },
-    {
-      "album": {
-        "name": "Be My Own Boyfriend",
-        "url": "https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Be My Own Boyfriend",
-      "url": "https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG"
-    },
-    {
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 214102,
-      "name": "Sad Song",
-      "url": "https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ"
-    },
-    {
-      "album": {
         "name": "Window Shopping",
         "url": "https://open.spotify.com/album/6NXFgZ3pHn8ftXaaT03Trs"
       },
@@ -527,81 +482,6 @@
     },
     {
       "album": {
-        "name": "THE S(EX) TAPES",
-        "url": "https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 213786,
-      "name": "If I Hated You",
-      "url": "https://open.spotify.com/track/5YQ0CPa9i7g40fzkDJK3Vo"
-    },
-    {
-      "album": {
-        "name": "Coping Mechanisms",
-        "url": "https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo"
-      },
-      "artists": [
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "Dance Alone",
-      "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
-    },
-    {
-      "album": {
-        "name": "The Subway Song",
-        "url": "https://open.spotify.com/album/1duvX5yMywtvx6k1JAC3iX"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        }
-      ],
-      "duration_ms": 241853,
-      "name": "The Subway Song",
-      "url": "https://open.spotify.com/track/3MIMKvXfK4bqkJ2wteG5Jq"
-    },
-    {
-      "album": {
-        "name": "that friend",
-        "url": "https://open.spotify.com/album/33BfwbhA9EgZZfDCZEj7Bh"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 180903,
-      "name": "that friend",
-      "url": "https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL"
-    },
-    {
-      "album": {
-        "name": "Not Sad Anymore",
-        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 195563,
-      "name": "Not Sad Anymore",
-      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
-    },
-    {
-      "album": {
         "name": "Smile Like That",
         "url": "https://open.spotify.com/album/5VhMGVRPeCwJ77aekYl7Gq"
       },
@@ -614,175 +494,6 @@
       "duration_ms": 204600,
       "name": "Smile Like That",
       "url": "https://open.spotify.com/track/7es6sHK04L7Frp8bnnRPvl"
-    },
-    {
-      "album": {
-        "name": "Traffic Lights",
-        "url": "https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 204877,
-      "name": "Traffic Lights",
-      "url": "https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN"
-    },
-    {
-      "album": {
-        "name": "AWOOO!",
-        "url": "https://open.spotify.com/album/6dQgJv3DYQAtE9OmOaEqXl"
-      },
-      "artists": [
-        {
-          "name": "Rence",
-          "url": "https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb"
-        }
-      ],
-      "duration_ms": 221392,
-      "name": "AWOOO!",
-      "url": "https://open.spotify.com/track/33C1sEVNSwk1P5nTzQ2Wky"
-    },
-    {
-      "album": {
-        "name": "Lonely City",
-        "url": "https://open.spotify.com/album/4lqzfpAcP353PitY2PAH0M"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "Lonely City",
-      "url": "https://open.spotify.com/track/2r7gAghIWiDqpZE6t4ah0K"
-    },
-    {
-      "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/2B4T4FLP3NgcdoPOCOk5hx"
-      },
-      "artists": [
-        {
-          "name": "Conventioner",
-          "url": "https://open.spotify.com/artist/2DdKYZ2hIsoUTUV54Q0k1y"
-        }
-      ],
-      "duration_ms": 173676,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/5Wok14DtMdF9y57EnofNWO"
-    },
-    {
-      "album": {
-        "name": "Ruthless",
-        "url": "https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 205312,
-      "name": "Ruthless",
-      "url": "https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M"
-    },
-    {
-      "album": {
-        "name": "Unfortunately the Response Has Been Less Than Enthusiastic",
-        "url": "https://open.spotify.com/album/7BGRsZGGdw34ThqGU1keZo"
-      },
-      "artists": [
-        {
-          "name": "The Greys",
-          "url": "https://open.spotify.com/artist/0a0MZlZx2q8XnvljZxRlDx"
-        }
-      ],
-      "duration_ms": 186063,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/2cp6teLsYgSg4IOrZIc4vd"
-    },
-    {
-      "album": {
-        "name": "Soaked",
-        "url": "https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 212262,
-      "name": "Soaked",
-      "url": "https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC"
-    },
-    {
-      "album": {
-        "name": "Throwaway (with Clairo)",
-        "url": "https://open.spotify.com/album/3VZK2BUptZDwTdOlogvFlk"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Throwaway (with Clairo)",
-      "url": "https://open.spotify.com/track/3TTWpDAiJfyoJDd5v2F8C3"
-    },
-    {
-      "album": {
-        "name": "Giving In To The Love",
-        "url": "https://open.spotify.com/album/5K0nBsDX1pO2OakhRPpsIJ"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Giving In To The Love",
-      "url": "https://open.spotify.com/track/6pVGigBjIqGgGscGcKGqSi"
-    },
-    {
-      "album": {
-        "name": "Temper",
-        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Temper",
-      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
-    },
-    {
-      "album": {
-        "name": "WESTWORLD",
-        "url": "https://open.spotify.com/album/1y8qDhdUaUKxlvDLJ2tHgC"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 209223,
-      "name": "WESTWORLD",
-      "url": "https://open.spotify.com/track/6ZP2iPx7t4epRBAKWvRPt1"
     },
     {
       "album": {
@@ -801,97 +512,18 @@
     },
     {
       "album": {
-        "name": "Please Don't Suck",
-        "url": "https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E"
+        "name": "Traffic Lights",
+        "url": "https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z"
       },
       "artists": [
         {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 175493,
-      "name": "Please Don't Suck",
-      "url": "https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck"
-    },
-    {
-      "album": {
-        "name": "Sitting at the Kids Table",
-        "url": "https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb"
-      },
-      "artists": [
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "last time",
-      "url": "https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I"
-    },
-    {
-      "album": {
-        "name": "Say You're In Love",
-        "url": "https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL"
-      },
-      "artists": [
-        {
-          "name": "The Yves",
-          "url": "https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL"
-        }
-      ],
-      "duration_ms": 240707,
-      "name": "Say You're In Love",
-      "url": "https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y"
-    },
-    {
-      "album": {
-        "name": "Your Shirt",
-        "url": "https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Your Shirt",
-      "url": "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"
-    },
-    {
-      "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/4XJe4kQT1oSkYUpUPWljFi"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Terror Jr",
-          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Tongue Tied (feat. Terror Jr)",
-      "url": "https://open.spotify.com/track/50piv7yyFzysKQW18Q2z7s"
-    },
-    {
-      "album": {
-        "name": "Blue Escape",
-        "url": "https://open.spotify.com/album/0RsioaII4X4rhcDGtpdM45"
-      },
-      "artists": [
-        {
-          "name": "BEA",
-          "url": "https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M"
-        }
-      ],
-      "duration_ms": 232614,
-      "name": "Blue Escape",
-      "url": "https://open.spotify.com/track/2HdJ8CcFR52iKnvoUm2I7I"
+      "duration_ms": 204877,
+      "name": "Traffic Lights",
+      "url": "https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN"
     },
     {
       "album": {
@@ -910,153 +542,228 @@
     },
     {
       "album": {
-        "name": "Traitor",
-        "url": "https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7"
+        "name": "Be My Own Boyfriend",
+        "url": "https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 177506,
-      "name": "Traitor",
-      "url": "https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV"
+      "duration_ms": 207960,
+      "name": "Be My Own Boyfriend",
+      "url": "https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG"
     },
     {
       "album": {
-        "name": "STELLA & STEVE",
-        "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
+        "name": "Not Sad Anymore",
+        "url": "https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN"
       },
       "artists": [
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Find an Island",
-      "url": "https://open.spotify.com/track/4Ve0Jx7MXjU4aPrFHJRZK7"
+      "duration_ms": 195563,
+      "name": "Not Sad Anymore",
+      "url": "https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1"
     },
     {
       "album": {
-        "name": "Home Tapes",
-        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
+        "name": "Say You're In Love",
+        "url": "https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL"
       },
       "artists": [
         {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+          "name": "The Yves",
+          "url": "https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Oceansize",
-      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
+      "duration_ms": 240707,
+      "name": "Say You're In Love",
+      "url": "https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y"
     },
     {
       "album": {
-        "name": "Hysterical Us",
-        "url": "https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX"
+        "name": "The Subway Song",
+        "url": "https://open.spotify.com/album/1duvX5yMywtvx6k1JAC3iX"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
         }
       ],
-      "duration_ms": 235565,
-      "name": "Hysterical Us",
-      "url": "https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy"
+      "duration_ms": 241853,
+      "name": "The Subway Song",
+      "url": "https://open.spotify.com/track/3MIMKvXfK4bqkJ2wteG5Jq"
     },
     {
       "album": {
-        "name": "i don't miss u",
-        "url": "https://open.spotify.com/album/0C4Uc7mEx0bbtnLbm13erX"
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/2B4T4FLP3NgcdoPOCOk5hx"
       },
       "artists": [
         {
-          "name": "carobae",
-          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
+          "name": "Conventioner",
+          "url": "https://open.spotify.com/artist/2DdKYZ2hIsoUTUV54Q0k1y"
         }
       ],
-      "duration_ms": 178895,
-      "name": "i don't miss u",
-      "url": "https://open.spotify.com/track/5CxgoUsj1XQjlW5b2BvOnW"
+      "duration_ms": 173676,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/5Wok14DtMdF9y57EnofNWO"
     },
     {
       "album": {
-        "name": "ASYLUM",
-        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
+        "name": "Coping Mechanisms",
+        "url": "https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
         }
       ],
-      "duration_ms": 182667,
-      "name": "Nostalgic",
-      "url": "https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4"
+      "duration_ms": 153026,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
     },
     {
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/0s2LAkNYxMlMgjTsLWUNoE"
+        "name": "AWOOO!",
+        "url": "https://open.spotify.com/album/6dQgJv3DYQAtE9OmOaEqXl"
       },
       "artists": [
         {
-          "name": "Fauness",
-          "url": "https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip"
+          "name": "Rence",
+          "url": "https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb"
         }
       ],
-      "duration_ms": 199202,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/1hjAmj9H76OpPHs02Fbb5g"
+      "duration_ms": 221392,
+      "name": "AWOOO!",
+      "url": "https://open.spotify.com/track/33C1sEVNSwk1P5nTzQ2Wky"
     },
     {
       "album": {
-        "name": "Silver Lining II",
-        "url": "https://open.spotify.com/album/1XXSATOgeCXLaDRLDGfs6Y"
+        "name": "Scarlett",
+        "url": "https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh"
       },
       "artists": [
         {
-          "name": "Jake Miller",
-          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 187125,
-      "name": "Click",
-      "url": "https://open.spotify.com/track/7cAFrpq9c6nJJcnF04ah39"
+      "duration_ms": 196226,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk"
     },
     {
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/7ucPVCRtolBzcgcGW3WD5g"
+        "name": "WESTWORLD",
+        "url": "https://open.spotify.com/album/1y8qDhdUaUKxlvDLJ2tHgC"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
         }
       ],
-      "duration_ms": 168826,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/7ugxl0JmzLzfKQwzcdyWcr"
+      "duration_ms": 209223,
+      "name": "WESTWORLD",
+      "url": "https://open.spotify.com/track/6ZP2iPx7t4epRBAKWvRPt1"
     },
     {
       "album": {
-        "name": "Scorpio Season",
-        "url": "https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi"
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
       },
       "artists": [
         {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
         }
       ],
-      "duration_ms": 185213,
-      "name": "Scorpio Season",
-      "url": "https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7"
+      "duration_ms": 206666,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
+    },
+    {
+      "album": {
+        "name": "Dance You Out My System",
+        "url": "https://open.spotify.com/album/7eY0rRkvRajYE7CFV5As0J"
+      },
+      "artists": [
+        {
+          "name": "Micky Blue",
+          "url": "https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF"
+        }
+      ],
+      "duration_ms": 203859,
+      "name": "Dance You Out My System",
+      "url": "https://open.spotify.com/track/0FCwYfrKiNvGcfm3iD0DGv"
+    },
+    {
+      "album": {
+        "name": "Lonely City",
+        "url": "https://open.spotify.com/album/4lqzfpAcP353PitY2PAH0M"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "Lonely City",
+      "url": "https://open.spotify.com/track/2r7gAghIWiDqpZE6t4ah0K"
+    },
+    {
+      "album": {
+        "name": "Unfortunately the Response Has Been Less Than Enthusiastic",
+        "url": "https://open.spotify.com/album/7BGRsZGGdw34ThqGU1keZo"
+      },
+      "artists": [
+        {
+          "name": "The Greys",
+          "url": "https://open.spotify.com/artist/0a0MZlZx2q8XnvljZxRlDx"
+        }
+      ],
+      "duration_ms": 186063,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2cp6teLsYgSg4IOrZIc4vd"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 214102,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ"
+    },
+    {
+      "album": {
+        "name": "THE S(EX) TAPES",
+        "url": "https://open.spotify.com/album/1cppTra3p7ByUGqNsv3Qla"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 213786,
+      "name": "If I Hated You",
+      "url": "https://open.spotify.com/track/5YQ0CPa9i7g40fzkDJK3Vo"
     },
     {
       "album": {
@@ -1079,6 +786,179 @@
     },
     {
       "album": {
+        "name": "Please Don't Suck",
+        "url": "https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Please Don't Suck",
+      "url": "https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck"
+    },
+    {
+      "album": {
+        "name": "Your Shirt",
+        "url": "https://open.spotify.com/album/4uP2XlSUEX4VmW2nIcEgVb"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Your Shirt",
+      "url": "https://open.spotify.com/track/6zdg9ovHEPx9EblJcc7FGf"
+    },
+    {
+      "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 205312,
+      "name": "Ruthless",
+      "url": "https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M"
+    },
+    {
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/2Yilbq95tQfn2Yzn14YH73"
+      },
+      "artists": [
+        {
+          "name": "Emilie Kahn",
+          "url": "https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO"
+        }
+      ],
+      "duration_ms": 213521,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/7lIGWqCphjoLeSXjT71MMC"
+    },
+    {
+      "album": {
+        "name": "Sitting at the Kids Table",
+        "url": "https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb"
+      },
+      "artists": [
+        {
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "last time",
+      "url": "https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I"
+    },
+    {
+      "album": {
+        "name": "Blue Escape",
+        "url": "https://open.spotify.com/album/0RsioaII4X4rhcDGtpdM45"
+      },
+      "artists": [
+        {
+          "name": "BEA",
+          "url": "https://open.spotify.com/artist/3Z3GDBp8qms6GCTWZlBA3M"
+        }
+      ],
+      "duration_ms": 232614,
+      "name": "Blue Escape",
+      "url": "https://open.spotify.com/track/2HdJ8CcFR52iKnvoUm2I7I"
+    },
+    {
+      "album": {
+        "name": "Silver Lining II",
+        "url": "https://open.spotify.com/album/1XXSATOgeCXLaDRLDGfs6Y"
+      },
+      "artists": [
+        {
+          "name": "Jake Miller",
+          "url": "https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Click",
+      "url": "https://open.spotify.com/track/7cAFrpq9c6nJJcnF04ah39"
+    },
+    {
+      "album": {
+        "name": "Throwaway (with Clairo)",
+        "url": "https://open.spotify.com/album/3VZK2BUptZDwTdOlogvFlk"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Throwaway (with Clairo)",
+      "url": "https://open.spotify.com/track/3TTWpDAiJfyoJDd5v2F8C3"
+    },
+    {
+      "album": {
+        "name": "Hysterical Us",
+        "url": "https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 235565,
+      "name": "Hysterical Us",
+      "url": "https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy"
+    },
+    {
+      "album": {
+        "name": "Traitor",
+        "url": "https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 177506,
+      "name": "Traitor",
+      "url": "https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV"
+    },
+    {
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/4XJe4kQT1oSkYUpUPWljFi"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Terror Jr",
+          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Tongue Tied (feat. Terror Jr)",
+      "url": "https://open.spotify.com/track/50piv7yyFzysKQW18Q2z7s"
+    },
+    {
+      "album": {
         "name": "Off",
         "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
@@ -1091,6 +971,36 @@
       "duration_ms": 165604,
       "name": "Off",
       "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
+    },
+    {
+      "album": {
+        "name": "Scorpio Season",
+        "url": "https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "Scorpio Season",
+      "url": "https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7"
+    },
+    {
+      "album": {
+        "name": "that friend",
+        "url": "https://open.spotify.com/album/33BfwbhA9EgZZfDCZEj7Bh"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 180903,
+      "name": "that friend",
+      "url": "https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL"
     },
     {
       "album": {
@@ -1113,33 +1023,63 @@
     },
     {
       "album": {
-        "name": "Scooter",
-        "url": "https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV"
+        "name": "ASYLUM",
+        "url": "https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL"
       },
       "artists": [
         {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 128770,
-      "name": "Scooter",
-      "url": "https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl"
+      "duration_ms": 182667,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4"
     },
     {
       "album": {
-        "name": "Thoughts",
-        "url": "https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten"
+        "name": "Home Tapes",
+        "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
       "artists": [
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 185712,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH"
+      "duration_ms": 223160,
+      "name": "Oceansize",
+      "url": "https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W"
+    },
+    {
+      "album": {
+        "name": "i don't miss u",
+        "url": "https://open.spotify.com/album/0C4Uc7mEx0bbtnLbm13erX"
+      },
+      "artists": [
+        {
+          "name": "carobae",
+          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
+        }
+      ],
+      "duration_ms": 178895,
+      "name": "i don't miss u",
+      "url": "https://open.spotify.com/track/5CxgoUsj1XQjlW5b2BvOnW"
+    },
+    {
+      "album": {
+        "name": "Clich\u00e9 of Falling In Love",
+        "url": "https://open.spotify.com/album/0ND3WDNs8xIyh9DZqiHVPt"
+      },
+      "artists": [
+        {
+          "name": "Madison Olds",
+          "url": "https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Clich\u00e9 of Falling In Love",
+      "url": "https://open.spotify.com/track/7vUf0tIiZTd92SrkK2IGDY"
     },
     {
       "album": {
@@ -1158,18 +1098,78 @@
     },
     {
       "album": {
-        "name": "Clich\u00e9 of Falling In Love",
-        "url": "https://open.spotify.com/album/0ND3WDNs8xIyh9DZqiHVPt"
+        "name": "Soaked",
+        "url": "https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz"
       },
       "artists": [
         {
-          "name": "Madison Olds",
-          "url": "https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 188917,
-      "name": "Clich\u00e9 of Falling In Love",
-      "url": "https://open.spotify.com/track/7vUf0tIiZTd92SrkK2IGDY"
+      "duration_ms": 212262,
+      "name": "Soaked",
+      "url": "https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC"
+    },
+    {
+      "album": {
+        "name": "Scooter",
+        "url": "https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 128770,
+      "name": "Scooter",
+      "url": "https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl"
+    },
+    {
+      "album": {
+        "name": "Giving In To The Love",
+        "url": "https://open.spotify.com/album/5K0nBsDX1pO2OakhRPpsIJ"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Giving In To The Love",
+      "url": "https://open.spotify.com/track/6pVGigBjIqGgGscGcKGqSi"
+    },
+    {
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/0s2LAkNYxMlMgjTsLWUNoE"
+      },
+      "artists": [
+        {
+          "name": "Fauness",
+          "url": "https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip"
+        }
+      ],
+      "duration_ms": 199202,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/1hjAmj9H76OpPHs02Fbb5g"
+    },
+    {
+      "album": {
+        "name": "It's Not Too Late",
+        "url": "https://open.spotify.com/album/36dPlvameEj5Phyt66juR5"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "It's Not Too Late",
+      "url": "https://open.spotify.com/track/3GF1jfgwS68YwAdeO92oIA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbcP8BbYEQaO"

@@ -1,29 +1,21 @@
 {
-  "description": "The home of the best new alternative music. Cover: Kero Kero Bonito",
+  "description": "The home of the best new alternative music. Cover: April",
   "name": "The Other List",
   "tracks": [
     {
       "album": {
-        "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
-        "url": "https://open.spotify.com/album/3oFHBiIriBPXysgMbeaUVY"
+        "name": "2gether",
+        "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         }
       ],
-      "duration_ms": 200687,
-      "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
-      "url": "https://open.spotify.com/track/2JvWoj5bTklsb6fPzRfZ3x"
+      "duration_ms": 191074,
+      "name": "2gether",
+      "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
     },
     {
       "album": {
@@ -42,18 +34,63 @@
     },
     {
       "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/7LKvzKPsswrEApW8rFi1xq"
+        "name": "LONDON'S BURNING",
+        "url": "https://open.spotify.com/album/5hSzfexfzQXo84kK4iGlX2"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
         }
       ],
-      "duration_ms": 351293,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc"
+      "duration_ms": 168486,
+      "name": "LONDON'S BURNING",
+      "url": "https://open.spotify.com/track/0XnAfkZNXFJ1C4d91r5isB"
+    },
+    {
+      "album": {
+        "name": "Someone That I Made",
+        "url": "https://open.spotify.com/album/7BlawvCQuBwe2DNUiFaY32"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "Someone That I Made",
+      "url": "https://open.spotify.com/track/7y20JvJ0PuFUInF3dYuPcE"
+    },
+    {
+      "album": {
+        "name": "The Sneaker Dance",
+        "url": "https://open.spotify.com/album/2IcgVYCAg9WAmWOYJmwHqc"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 192057,
+      "name": "The Sneaker Dance",
+      "url": "https://open.spotify.com/track/2TDNm30iOmYTE9uiGSr2D8"
+    },
+    {
+      "album": {
+        "name": "Tiptoeing",
+        "url": "https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "Tiptoeing",
+      "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
     },
     {
       "album": {
@@ -72,18 +109,33 @@
     },
     {
       "album": {
-        "name": "The Sneaker Dance",
-        "url": "https://open.spotify.com/album/2IcgVYCAg9WAmWOYJmwHqc"
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/7LKvzKPsswrEApW8rFi1xq"
       },
       "artists": [
         {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 192057,
-      "name": "The Sneaker Dance",
-      "url": "https://open.spotify.com/track/2TDNm30iOmYTE9uiGSr2D8"
+      "duration_ms": 351293,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc"
+    },
+    {
+      "album": {
+        "name": "Bigger",
+        "url": "https://open.spotify.com/album/0Wt5pNo6es8RBwXUPIreWl"
+      },
+      "artists": [
+        {
+          "name": "Orlando Weeks",
+          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Bigger",
+      "url": "https://open.spotify.com/track/1UfGrmZa1bUQ6nsfDdSiNU"
     },
     {
       "album": {
@@ -129,6 +181,29 @@
       "duration_ms": 225133,
       "name": "You Forever",
       "url": "https://open.spotify.com/track/22TbnNQfy6oExwnkdaIkgj"
+    },
+    {
+      "album": {
+        "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
+        "url": "https://open.spotify.com/album/3oFHBiIriBPXysgMbeaUVY"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 200687,
+      "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
+      "url": "https://open.spotify.com/track/2JvWoj5bTklsb6fPzRfZ3x"
     },
     {
       "album": {
@@ -245,6 +320,21 @@
     },
     {
       "album": {
+        "name": "The Universal Deluge",
+        "url": "https://open.spotify.com/album/1yyCuCxqZ4kV2L7ZFja5Wq"
+      },
+      "artists": [
+        {
+          "name": "Ethan P. Flynn",
+          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
+        }
+      ],
+      "duration_ms": 170226,
+      "name": "The Universal Deluge",
+      "url": "https://open.spotify.com/track/5GvqHj68ON3PIZEAbFcV4b"
+    },
+    {
+      "album": {
         "name": "Blue Banisters",
         "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
       },
@@ -272,21 +362,6 @@
       "duration_ms": 217858,
       "name": "If I Don\u2019t Hear From You Tonight",
       "url": "https://open.spotify.com/track/661gsg4lHFXpeOGA6SUHNu"
-    },
-    {
-      "album": {
-        "name": "Tiptoeing",
-        "url": "https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 155680,
-      "name": "Tiptoeing",
-      "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
     },
     {
       "album": {
@@ -445,21 +520,6 @@
       "duration_ms": 242760,
       "name": "Beautiful Life - Edit",
       "url": "https://open.spotify.com/track/5j5RHCFkS5TFLbQRUJ65HH"
-    },
-    {
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/6aIWbyEHrxBdWqloqYJ2y5"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 237717,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0L4o44xUXwJgWhgsoFde8X"
     },
     {
       "album": {
@@ -628,21 +688,6 @@
     },
     {
       "album": {
-        "name": "Can't Stop",
-        "url": "https://open.spotify.com/album/4hFrhP1tQt2paCODVFyU9F"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 156597,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/2tvwKkNtHc2P4FYE8QycDk"
-    },
-    {
-      "album": {
         "name": "Year to Year / 29",
         "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
@@ -734,36 +779,6 @@
       "duration_ms": 235565,
       "name": "Hysterical Us",
       "url": "https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy"
-    },
-    {
-      "album": {
-        "name": "1013",
-        "url": "https://open.spotify.com/album/4SQKEa9QHTVXgEXWuKxaD7"
-      },
-      "artists": [
-        {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
-        }
-      ],
-      "duration_ms": 154833,
-      "name": "1013",
-      "url": "https://open.spotify.com/track/3oyBAaIYPangSdBZKzR4oh"
-    },
-    {
-      "album": {
-        "name": "Hall of Mirrors",
-        "url": "https://open.spotify.com/album/65DVASR9f9ufqnU0dQq9vB"
-      },
-      "artists": [
-        {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
-        }
-      ],
-      "duration_ms": 311560,
-      "name": "Hall of Mirrors",
-      "url": "https://open.spotify.com/track/7qG1zVGlcYD4yzYgTeQTfs"
     },
     {
       "album": {
@@ -1167,21 +1182,6 @@
       "duration_ms": 255517,
       "name": "lived to love",
       "url": "https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj"
-    },
-    {
-      "album": {
-        "name": "Many Times",
-        "url": "https://open.spotify.com/album/6TkIUGYXfH2UQe6IQq218Q"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 126905,
-      "name": "Many Times",
-      "url": "https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G"
     },
     {
       "album": {
