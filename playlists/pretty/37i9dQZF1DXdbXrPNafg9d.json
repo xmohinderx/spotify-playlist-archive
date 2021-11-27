@@ -1,7 +1,237 @@
 {
-  "description": "The best new tracks every week. Cover: carpetgarden",
+  "description": "The best new tracks every week. Cover: Mura Masa",
   "name": "All New Indie",
   "tracks": [
+    {
+      "album": {
+        "name": "Destroy Myself Just For You",
+        "url": "https://open.spotify.com/album/3cQmOITwkOtQIk9NcyoZ2g"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/7vMDFGBs0CTEkENk2dyCnc"
+    },
+    {
+      "album": {
+        "name": "2gether",
+        "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 191074,
+      "name": "2gether",
+      "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
+    },
+    {
+      "album": {
+        "name": "Traps",
+        "url": "https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 174581,
+      "name": "Traps",
+      "url": "https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX"
+    },
+    {
+      "album": {
+        "name": "Look What We Do",
+        "url": "https://open.spotify.com/album/4dsEkDY13FykvUBCyVnq1Q"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 168944,
+      "name": "Look What We Do",
+      "url": "https://open.spotify.com/track/63RWcevgfeFOhSQK9yXiY7"
+    },
+    {
+      "album": {
+        "name": "Ricardo",
+        "url": "https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 176277,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/71AHzuaLWkVxt5UrCmLvOB"
+    },
+    {
+      "album": {
+        "name": "finding rhythm",
+        "url": "https://open.spotify.com/album/7thqwj3Pm1u50w4v3mIMIx"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "GRAE",
+          "url": "https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU"
+        }
+      ],
+      "duration_ms": 227775,
+      "name": "finding rhythm",
+      "url": "https://open.spotify.com/track/4Y5xx6F2NhaxJ0D5fzgKXB"
+    },
+    {
+      "album": {
+        "name": "Perfect Blue",
+        "url": "https://open.spotify.com/album/5460Bl2lDmmkDvVS8YitfQ"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 205222,
+      "name": "Perfect Blue",
+      "url": "https://open.spotify.com/track/26I0qPVgn8afCccReUkSi4"
+    },
+    {
+      "album": {
+        "name": "What's Not To Like",
+        "url": "https://open.spotify.com/album/7698pJ6xSZAQ8oRUR5Gr1F"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "What's Not To Like",
+      "url": "https://open.spotify.com/track/5HJtZ0LgiKvvJAyfBf8MsF"
+    },
+    {
+      "album": {
+        "name": "IDC",
+        "url": "https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "IDC",
+      "url": "https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t"
+    },
+    {
+      "album": {
+        "name": "Someone That I Made",
+        "url": "https://open.spotify.com/album/7BlawvCQuBwe2DNUiFaY32"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "Someone That I Made",
+      "url": "https://open.spotify.com/track/7y20JvJ0PuFUInF3dYuPcE"
+    },
+    {
+      "album": {
+        "name": "Where The Viaduct Looms",
+        "url": "https://open.spotify.com/album/2EG2v4spiRrWdRhbWVfgGi"
+      },
+      "artists": [
+        {
+          "name": "Nell Smith",
+          "url": "https://open.spotify.com/artist/5mBQSEWN9Dl17Ts8d9FnLP"
+        },
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 241907,
+      "name": "No More Shall We Part",
+      "url": "https://open.spotify.com/track/1nibbLsCDOSvyLZ2HrVLO4"
+    },
+    {
+      "album": {
+        "name": "Games / I'm On (Remixes)",
+        "url": "https://open.spotify.com/album/2OEpiCIyomjqkuve6oCZGD"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        },
+        {
+          "name": "Redinho",
+          "url": "https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB"
+        }
+      ],
+      "duration_ms": 180364,
+      "name": "Games - Redinho Remix",
+      "url": "https://open.spotify.com/track/5SvhOhBTcx3ZdxvBnfYG5i"
+    },
+    {
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/4BFNEXOaBut41Ck9RbO8iU"
+      },
+      "artists": [
+        {
+          "name": "rosi",
+          "url": "https://open.spotify.com/artist/0fPzadE1XVPbRVP5qzes6r"
+        }
+      ],
+      "duration_ms": 206343,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/08PBBh7rPrqlFqeoNgHy2A"
+    },
+    {
+      "album": {
+        "name": "Zenosyne",
+        "url": "https://open.spotify.com/album/3oRSz5iZDJgORNsiy0uIzp"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loveglow",
+          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
+        }
+      ],
+      "duration_ms": 206857,
+      "name": "Zenosyne",
+      "url": "https://open.spotify.com/track/3VY4cCdIP8gVi8hjZqZhtw"
+    },
     {
       "album": {
         "name": "Wisdom Tooth",

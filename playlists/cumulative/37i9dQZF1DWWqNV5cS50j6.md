@@ -2,7 +2,7 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> not not pop. featuring new music by aldn.
+> not not pop. featuring new music by Kurtis Wells.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [For You](https://open.spotify.com/track/2B2jI2PdBMhUkG17F0lor2) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [For You](https://open.spotify.com/album/4c2GXEVeTy83c1Bd2xT92y) | 2:18 | 2021-09-11 | 2021-10-16 |
 | [FORCE OF HABIT](https://open.spotify.com/track/41fJZ1doa6iEWbL3CNS7pQ) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [FORCE OF HABIT](https://open.spotify.com/album/3wtstkWpUdfiBNE5MISvJd) | 4:04 | 2021-04-17 | 2021-10-16 |
 | [Ford vs Ferrari](https://open.spotify.com/track/2TKWpKRtRJvZiXKos601XO) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Ford vs Ferrari](https://open.spotify.com/album/4U5nbO37g0JQb0a5iZ74nP) | 3:24 | 2021-10-02 |  |
+| [Forever Young](https://open.spotify.com/track/71AHzuaLWkVxt5UrCmLvOB) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Ricardo](https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK) | 2:56 | 2021-11-27 |  |
 | [Freak (feat. REI AMI)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2020-10-13 | 2020-11-03 |
 | [Freckles](https://open.spotify.com/track/4eePXbF5P9C65DdlAzBwnD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Freckles](https://open.spotify.com/album/4E0Gtoyrc4RQxkXbc0tae9) | 2:38 | 2020-10-13 | 2021-02-27 |
 | [Freckles](https://open.spotify.com/track/1uGHLISx2ACSIYbQbKdwEg) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Pity Party](https://open.spotify.com/album/6f5E0fgEQox4MmTJqxOnrD) | 2:38 | 2021-01-23 | 2021-05-29 |

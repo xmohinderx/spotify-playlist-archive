@@ -4,6 +4,21 @@
   "tracks": [
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/7z6BoDe1YgiZUl5h8GlR3I"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 241397,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2wmZFiWL7MKt2vQe6DPanz"
+    },
+    {
+      "album": {
         "name": "Black Illuminati (feat. Jadakiss)",
         "url": "https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI"
       },
@@ -42,6 +57,21 @@
     },
     {
       "album": {
+        "name": "The House Is Burning",
+        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 158050,
+      "name": "RIP Young",
+      "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs"
+    },
+    {
+      "album": {
         "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
         "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
       },
@@ -62,6 +92,25 @@
       "duration_ms": 289826,
       "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
       "url": "https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53"
+    },
+    {
+      "album": {
+        "name": "Friday Activities",
+        "url": "https://open.spotify.com/album/6g5Ztk1usaEbRPNoW4kGDO"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Friday Activities",
+      "url": "https://open.spotify.com/track/4QxTfL8i7rAou5zZqyOWVE"
     },
     {
       "album": {
@@ -95,21 +144,6 @@
     },
     {
       "album": {
-        "name": "The House Is Burning",
-        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 158050,
-      "name": "RIP Young",
-      "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs"
-    },
-    {
-      "album": {
         "name": "2010",
         "url": "https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3"
       },
@@ -122,21 +156,6 @@
       "duration_ms": 148027,
       "name": "2010",
       "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
-    },
-    {
-      "album": {
-        "name": "Show You",
-        "url": "https://open.spotify.com/album/23nI961Qgp4InnRf13n1ES"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Show You",
-      "url": "https://open.spotify.com/track/6q22MMzXPNnw3mCvxCJYUK"
     },
     {
       "album": {
@@ -170,22 +189,18 @@
     },
     {
       "album": {
-        "name": "Friday Activities",
-        "url": "https://open.spotify.com/album/6g5Ztk1usaEbRPNoW4kGDO"
+        "name": "Show You",
+        "url": "https://open.spotify.com/album/23nI961Qgp4InnRf13n1ES"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx"
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 191460,
-      "name": "Friday Activities",
-      "url": "https://open.spotify.com/track/4QxTfL8i7rAou5zZqyOWVE"
+      "duration_ms": 203572,
+      "name": "Show You",
+      "url": "https://open.spotify.com/track/6q22MMzXPNnw3mCvxCJYUK"
     },
     {
       "album": {
@@ -1673,25 +1688,6 @@
       "duration_ms": 281250,
       "name": "State of the Union",
       "url": "https://open.spotify.com/track/6AsqnQBAB2OsieFEOg4WuZ"
-    },
-    {
-      "album": {
-        "name": "Don't Wait Up",
-        "url": "https://open.spotify.com/album/6qrxPKzWSaT9OtFHIGp7AL"
-      },
-      "artists": [
-        {
-          "name": "Taylor Bennett",
-          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
-        },
-        {
-          "name": "Mr Hudson",
-          "url": "https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn"
-        }
-      ],
-      "duration_ms": 222420,
-      "name": "Don't Wait Up (feat. Mr Hudson)",
-      "url": "https://open.spotify.com/track/3oOnBtFaXDovahuV8A4xvq"
     },
     {
       "album": {

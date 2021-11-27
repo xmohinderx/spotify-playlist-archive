@@ -1,66 +1,21 @@
 {
-  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Battle Beast",
+  "description": "Epic and melodic metal, for the dragonslayer in you! Cover: Rhapsody Of Fire",
   "name": "Epic & Melodic",
   "tracks": [
     {
       "album": {
-        "name": "False Idols",
-        "url": "https://open.spotify.com/album/1xHJrHbDBYNdjXDUIMMHB8"
+        "name": "Diamanti",
+        "url": "https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs"
       },
       "artists": [
         {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+          "name": "Temperance",
+          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
         }
       ],
-      "duration_ms": 257372,
-      "name": "False Idols",
-      "url": "https://open.spotify.com/track/2bPSlJGUoRJMBIe5dCphXa"
-    },
-    {
-      "album": {
-        "name": "V (Praeparatus Supervivet)",
-        "url": "https://open.spotify.com/album/6DjBQrACipS0vKlBIqUgzI"
-      },
-      "artists": [
-        {
-          "name": "Insania",
-          "url": "https://open.spotify.com/artist/5PgpbJGDEilZcBglUPMMPl"
-        }
-      ],
-      "duration_ms": 456968,
-      "name": "The Last Hymn to Life",
-      "url": "https://open.spotify.com/track/2m1SoDCpZAE0oRs6gGCCXe"
-    },
-    {
-      "album": {
-        "name": "Advent",
-        "url": "https://open.spotify.com/album/5pkkoGxMIafuUbK2eEW8BU"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Advent",
-      "url": "https://open.spotify.com/track/2zwdGnjdIaocRWsAkqr7qt"
-    },
-    {
-      "album": {
-        "name": "Bound to You",
-        "url": "https://open.spotify.com/album/4LBRpVSwm4DKouQRuj9xJg"
-      },
-      "artists": [
-        {
-          "name": "Lords of Black",
-          "url": "https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z"
-        }
-      ],
-      "duration_ms": 320638,
-      "name": "Bound to You",
-      "url": "https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf"
+      "duration_ms": 271533,
+      "name": "Diamanti",
+      "url": "https://open.spotify.com/track/47uPFOpLZMwu2ke4hyhbyW"
     },
     {
       "album": {
@@ -79,18 +34,93 @@
     },
     {
       "album": {
-        "name": "Diamanti",
-        "url": "https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs"
+        "name": "Bound to You",
+        "url": "https://open.spotify.com/album/4LBRpVSwm4DKouQRuj9xJg"
       },
       "artists": [
         {
-          "name": "Temperance",
-          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
+          "name": "Lords of Black",
+          "url": "https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Diamanti",
-      "url": "https://open.spotify.com/track/47uPFOpLZMwu2ke4hyhbyW"
+      "duration_ms": 320638,
+      "name": "Bound to You",
+      "url": "https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf"
+    },
+    {
+      "album": {
+        "name": "Glory for Salvation",
+        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "Son of Vengeance",
+      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "album": {
+        "name": "Advent",
+        "url": "https://open.spotify.com/album/5pkkoGxMIafuUbK2eEW8BU"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Advent",
+      "url": "https://open.spotify.com/track/2zwdGnjdIaocRWsAkqr7qt"
+    },
+    {
+      "album": {
+        "name": "False Idols",
+        "url": "https://open.spotify.com/album/1xHJrHbDBYNdjXDUIMMHB8"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "False Idols",
+      "url": "https://open.spotify.com/track/2bPSlJGUoRJMBIe5dCphXa"
+    },
+    {
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 266338,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg"
+    },
+    {
+      "album": {
+        "name": "V (Praeparatus Supervivet)",
+        "url": "https://open.spotify.com/album/6DjBQrACipS0vKlBIqUgzI"
+      },
+      "artists": [
+        {
+          "name": "Insania",
+          "url": "https://open.spotify.com/artist/5PgpbJGDEilZcBglUPMMPl"
+        }
+      ],
+      "duration_ms": 456968,
+      "name": "The Last Hymn to Life",
+      "url": "https://open.spotify.com/track/2m1SoDCpZAE0oRs6gGCCXe"
     },
     {
       "album": {
@@ -136,6 +166,21 @@
       "duration_ms": 220000,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/7xuexpYLiBxemw2EA0qQi2"
+    },
+    {
+      "album": {
+        "name": "Nemesis",
+        "url": "https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1"
+      },
+      "artists": [
+        {
+          "name": "Mono Inc.",
+          "url": "https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Nemesis - Single Edit",
+      "url": "https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh"
     },
     {
       "album": {
@@ -203,6 +248,21 @@
     },
     {
       "album": {
+        "name": "The Last Rays of the Sun",
+        "url": "https://open.spotify.com/album/4vOgylNHYI8EGze0sJGWOg"
+      },
+      "artists": [
+        {
+          "name": "Her Alone",
+          "url": "https://open.spotify.com/artist/2dnG7Q4xgIcfNpItnAwLAv"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "The Last Rays of the Sun",
+      "url": "https://open.spotify.com/track/5RAVYLt6qwE6qAJISplSud"
+    },
+    {
+      "album": {
         "name": "Echo Chamber",
         "url": "https://open.spotify.com/album/1s8WAKE6VnNPW5Mdud6nQF"
       },
@@ -215,21 +275,6 @@
       "duration_ms": 227893,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/60f16377jccKJsVAwmnyiR"
-    },
-    {
-      "album": {
-        "name": "Master of Illusion",
-        "url": "https://open.spotify.com/album/5I1kV6kix3FshspHbkC48G"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 248359,
-      "name": "Master of Illusion",
-      "url": "https://open.spotify.com/track/6Op6N8JQWZTV47SmYkGVsM"
     },
     {
       "album": {
@@ -275,6 +320,25 @@
       "duration_ms": 231396,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6OH0OWVVHryjQxQfEnv4Fc"
+    },
+    {
+      "album": {
+        "name": "Dragonwings",
+        "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
+      },
+      "artists": [
+        {
+          "name": "Andri from Pagefire",
+          "url": "https://open.spotify.com/artist/2G9wqkzaH0KfttTIbqTqMC"
+        },
+        {
+          "name": "Craig Cairns",
+          "url": "https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK"
+        }
+      ],
+      "duration_ms": 243529,
+      "name": "Dragonwings",
+      "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
     },
     {
       "album": {
@@ -353,21 +417,6 @@
     },
     {
       "album": {
-        "name": "Terial the Hawk",
-        "url": "https://open.spotify.com/album/0njaRtKvDSwT5zvW1HBiJf"
-      },
-      "artists": [
-        {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "Terial the Hawk",
-      "url": "https://open.spotify.com/track/2LmpC836unPeiSTnkiaRm5"
-    },
-    {
-      "album": {
         "name": "Metal United",
         "url": "https://open.spotify.com/album/0GVawmsGBiJTnKcY0rpIDX"
       },
@@ -380,6 +429,25 @@
       "duration_ms": 218000,
       "name": "Metal United",
       "url": "https://open.spotify.com/track/2J39E5ALx4hS1WkhWl6qXu"
+    },
+    {
+      "album": {
+        "name": "A Dance With Tragedy",
+        "url": "https://open.spotify.com/album/465YfKnLh7MrCXh3qPnsld"
+      },
+      "artists": [
+        {
+          "name": "Solarus",
+          "url": "https://open.spotify.com/artist/1uyqmZqACSHV00vIFCsALU"
+        },
+        {
+          "name": "Vicky Psarakis",
+          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "A Dance With Tragedy",
+      "url": "https://open.spotify.com/track/4qonQWDhvdW7SmrjRcDz7j"
     },
     {
       "album": {
@@ -725,21 +793,6 @@
     },
     {
       "album": {
-        "name": "Roses are Red",
-        "url": "https://open.spotify.com/album/1wWLr6ARYUHTnkUJQpWHWo"
-      },
-      "artists": [
-        {
-          "name": "Andri from Pagefire",
-          "url": "https://open.spotify.com/artist/2G9wqkzaH0KfttTIbqTqMC"
-        }
-      ],
-      "duration_ms": 241285,
-      "name": "Roses are Red",
-      "url": "https://open.spotify.com/track/5DMB16A7PKrJGdaGflGmz7"
-    },
-    {
-      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/07hUtl2HsFlRcEb5KeBbbP"
       },
@@ -864,21 +917,6 @@
     },
     {
       "album": {
-        "name": "Stigmata Itch",
-        "url": "https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7"
-      },
-      "artists": [
-        {
-          "name": "Rave The Reqviem",
-          "url": "https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Colossvs",
-      "url": "https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX"
-    },
-    {
-      "album": {
         "name": "Dangerous Game",
         "url": "https://open.spotify.com/album/64HaMN4s0RNSjdBILXv2VX"
       },
@@ -947,21 +985,6 @@
     },
     {
       "album": {
-        "name": "Dancing in Hell",
-        "url": "https://open.spotify.com/album/0T4ce8P9dnNoA1Nud6Krbq"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 355880,
-      "name": "Where Your Rotting Corpse Lie (W.Y.R.C.L.)",
-      "url": "https://open.spotify.com/track/4FwwRLbH09s1v0vJT782mg"
-    },
-    {
-      "album": {
         "name": "Spread Your Fire",
         "url": "https://open.spotify.com/album/13jqlOkG4w0y7To7pqAyTL"
       },
@@ -989,21 +1012,6 @@
       "duration_ms": 180600,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/3aiqdK6P4HrbMuKEm81wm4"
-    },
-    {
-      "album": {
-        "name": "Chain of the Golden Horn",
-        "url": "https://open.spotify.com/album/7vGhZpOO230V2JKMNYcWXj"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 240130,
-      "name": "Chain of the Golden Horn",
-      "url": "https://open.spotify.com/track/2Fn6YAHjuM0Th4L0QCvwUV"
     },
     {
       "album": {

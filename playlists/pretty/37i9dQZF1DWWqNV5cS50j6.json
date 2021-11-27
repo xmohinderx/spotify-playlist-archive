@@ -1,7 +1,22 @@
 {
-  "description": "not not pop. featuring new music by aldn.",
+  "description": "not not pop. featuring new music by Kurtis Wells.",
   "name": "anti pop",
   "tracks": [
+    {
+      "album": {
+        "name": "Ricardo",
+        "url": "https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 176277,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/71AHzuaLWkVxt5UrCmLvOB"
+    },
     {
       "album": {
         "name": "The One And Lonely",
