@@ -72,6 +72,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Altar](/playlists/pretty/37i9dQZF1DXa71eg5j9dKZ.md)
 - [Always Perfect](/playlists/pretty/37i9dQZF1DX8ZxAQJCANsW.md)
 - [Ambient Relaxation](/playlists/pretty/37i9dQZF1DX3Ogo9pFvBkY.md)
+- [An-Ten-Nae - Weekly Medicine (DEEP BASS - DUBSTEP - VIBES)](/playlists/pretty/4ugml2yTfIJzuEpytnzJYP.md)
 - [anti pop](/playlists/pretty/37i9dQZF1DWWqNV5cS50j6.md)
 - [Apply Yourself](/playlists/pretty/37i9dQZF1DXe1cC3XInKct.md)
 - [Atmospheric Calm](/playlists/pretty/37i9dQZF1DX4TnpT6vw5rE.md)

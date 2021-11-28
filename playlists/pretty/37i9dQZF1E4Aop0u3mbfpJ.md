@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Christina Aguilera, Nicki Nicole, Halsey and more
+> With Carly Rae Jepsen, Kelly Clarkson, Nelly Furtado and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
