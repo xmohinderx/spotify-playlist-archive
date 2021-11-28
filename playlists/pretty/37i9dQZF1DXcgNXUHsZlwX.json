@@ -19,21 +19,6 @@
     },
     {
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
-      },
-      "artists": [
-        {
-          "name": "Aliocha",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
-    },
-    {
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/6qSUzYOIB8TQglbqn3efU6"
       },
@@ -46,6 +31,21 @@
       "duration_ms": 162106,
       "name": "Grow Into Love",
       "url": "https://open.spotify.com/track/2NPfTvXSDHjt0e33ulBk5M"
+    },
+    {
+      "album": {
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+      },
+      "artists": [
+        {
+          "name": "Aliocha",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "album": {
@@ -79,21 +79,6 @@
     },
     {
       "album": {
-        "name": "Old Love",
-        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 205769,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
-    },
-    {
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -109,6 +94,36 @@
     },
     {
       "album": {
+        "name": "Espoir",
+        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 210177,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
+    },
+    {
+      "album": {
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+    },
+    {
+      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -121,21 +136,6 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "album": {
-        "name": "Antigone",
-        "url": "https://open.spotify.com/album/72vqXDeb3HzWgbG7Dbx5Pb"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 216009,
-      "name": "Antigone",
-      "url": "https://open.spotify.com/track/0UQJ65R4FUj1QEo89YSyBB"
     },
     {
       "album": {
@@ -163,9 +163,9 @@
           "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Closely",
-      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
     },
     {
       "album": {
@@ -184,48 +184,18 @@
     },
     {
       "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+        "name": "INSCAPE",
+        "url": "https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "album": {
-        "name": "Bo\u00eete aux lettres",
-        "url": "https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e"
-      },
-      "artists": [
-        {
-          "name": "Les Hay Babies",
-          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "Fontaine \u00e0 v\u0153ux",
-      "url": "https://open.spotify.com/track/4S9LrQt71r4XcUQylmgyGM"
-    },
-    {
-      "album": {
-        "name": "Tatouage",
-        "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Tatouage",
-      "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
+      "duration_ms": 173785,
+      "name": "Par la fen\u00eatre de Th\u00e9o",
+      "url": "https://open.spotify.com/track/58bpRXFmtHlY1PKdQV9avJ"
     },
     {
       "album": {
@@ -248,48 +218,18 @@
     },
     {
       "album": {
-        "name": "L'\u00eele \u00e0 vingt-cinq sous",
-        "url": "https://open.spotify.com/album/4CMheRrzMJZI0bp7HBaBpB"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 213760,
-      "name": "L'\u00eele \u00e0 vingt-cinq sous",
-      "url": "https://open.spotify.com/track/3MnFHWYVWEZjkfU58VgZrz"
-    },
-    {
-      "album": {
-        "name": "T'aimer est si beau",
-        "url": "https://open.spotify.com/album/4TTXE3ooJbF4BucR3bCaet"
-      },
-      "artists": [
-        {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
-        }
-      ],
-      "duration_ms": 453431,
-      "name": "T'aimer est si beau",
-      "url": "https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD"
-    },
-    {
-      "album": {
-        "name": "Espoir",
-        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 210177,
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "album": {
@@ -308,21 +248,6 @@
     },
     {
       "album": {
-        "name": "INSCAPE",
-        "url": "https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 173785,
-      "name": "Par la fen\u00eatre de Th\u00e9o",
-      "url": "https://open.spotify.com/track/58bpRXFmtHlY1PKdQV9avJ"
-    },
-    {
-      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
@@ -332,9 +257,133 @@
           "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+      "duration_ms": 219760,
+      "name": "Closely",
+      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
+    },
+    {
+      "album": {
+        "name": "Antigone",
+        "url": "https://open.spotify.com/album/72vqXDeb3HzWgbG7Dbx5Pb"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 216009,
+      "name": "Antigone",
+      "url": "https://open.spotify.com/track/0UQJ65R4FUj1QEo89YSyBB"
+    },
+    {
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "album": {
+        "name": "Bo\u00eete aux lettres",
+        "url": "https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e"
+      },
+      "artists": [
+        {
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "Fontaine \u00e0 v\u0153ux",
+      "url": "https://open.spotify.com/track/4S9LrQt71r4XcUQylmgyGM"
+    },
+    {
+      "album": {
+        "name": "L'\u00eele \u00e0 vingt-cinq sous",
+        "url": "https://open.spotify.com/album/4CMheRrzMJZI0bp7HBaBpB"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "L'\u00eele \u00e0 vingt-cinq sous",
+      "url": "https://open.spotify.com/track/3MnFHWYVWEZjkfU58VgZrz"
+    },
+    {
+      "album": {
+        "name": "Tu ne seras jamais l\u00e0",
+        "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Tu ne seras jamais l\u00e0",
+      "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
+    },
+    {
+      "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "La mort des \u00e9toiles",
+      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
+    },
+    {
+      "album": {
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 205769,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
+    },
+    {
+      "album": {
+        "name": "Tatouage",
+        "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Tatouage",
+      "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
     },
     {
       "album": {
@@ -350,6 +399,171 @@
       "duration_ms": 235800,
       "name": "J'aurai les cheveux longs",
       "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
+    },
+    {
+      "album": {
+        "name": "Le jardin se meurt",
+        "url": "https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8"
+      },
+      "artists": [
+        {
+          "name": "Vincent Valli\u00e8res",
+          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
+        }
+      ],
+      "duration_ms": 347533,
+      "name": "Le jardin se meurt",
+      "url": "https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu"
+    },
+    {
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
+    },
+    {
+      "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
+    },
+    {
+      "album": {
+        "name": "Les vents aimants",
+        "url": "https://open.spotify.com/album/5DJaV9O0iPbyFgueY0WgV8"
+      },
+      "artists": [
+        {
+          "name": "Catherine Durand",
+          "url": "https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD"
+        }
+      ],
+      "duration_ms": 141360,
+      "name": "Les vents aimants",
+      "url": "https://open.spotify.com/track/7hknXKrXWA2l4DKO1L9W31"
+    },
+    {
+      "album": {
+        "name": "Au-del\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
+        "url": "https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa"
+      },
+      "artists": [
+        {
+          "name": "Amylie",
+          "url": "https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5"
+        }
+      ],
+      "duration_ms": 247513,
+      "name": "Au-del\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
+      "url": "https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN"
+    },
+    {
+      "album": {
+        "name": "Les pommiers envahis",
+        "url": "https://open.spotify.com/album/6lJg8jJu2VKZOqAFTzQ4Ux"
+      },
+      "artists": [
+        {
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+        }
+      ],
+      "duration_ms": 299647,
+      "name": "Les pommiers envahis",
+      "url": "https://open.spotify.com/track/2NKZj5P2qpPZAH98ERdWc8"
+    },
+    {
+      "album": {
+        "name": "Diapason",
+        "url": "https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 146506,
+      "name": "Diapason",
+      "url": "https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R"
+    },
+    {
+      "album": {
+        "name": "Ruche de mouches",
+        "url": "https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8"
+      },
+      "artists": [
+        {
+          "name": "Larynx",
+          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
+        }
+      ],
+      "duration_ms": 197728,
+      "name": "Lubie",
+      "url": "https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
+      },
+      "artists": [
+        {
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+        }
+      ],
+      "duration_ms": 299560,
+      "name": "Qtv",
+      "url": "https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS"
+    },
+    {
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "album": {
+        "name": "There Will Be Stars",
+        "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 318880,
+      "name": "Moi, Elsie",
+      "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
     },
     {
       "album": {
@@ -383,130 +597,6 @@
     },
     {
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
-    },
-    {
-      "album": {
-        "name": "Tu ne seras jamais l\u00e0",
-        "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Tu ne seras jamais l\u00e0",
-      "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
-    },
-    {
-      "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
-    },
-    {
-      "album": {
-        "name": "Prendre soin du beau",
-        "url": "https://open.spotify.com/album/1Zag6vMrmoYYqHuGsmyRoy"
-      },
-      "artists": [
-        {
-          "name": "Jessica Charlie",
-          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Prendre soin du beau",
-      "url": "https://open.spotify.com/track/5x1VyIiwZSY1yTj82IrFQf"
-    },
-    {
-      "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "La mort des \u00e9toiles",
-      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
-    },
-    {
-      "album": {
-        "name": "Les pommiers envahis",
-        "url": "https://open.spotify.com/album/6lJg8jJu2VKZOqAFTzQ4Ux"
-      },
-      "artists": [
-        {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
-        }
-      ],
-      "duration_ms": 299647,
-      "name": "Les pommiers envahis",
-      "url": "https://open.spotify.com/track/2NKZj5P2qpPZAH98ERdWc8"
-    },
-    {
-      "album": {
-        "name": "Le jardin se meurt",
-        "url": "https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8"
-      },
-      "artists": [
-        {
-          "name": "Vincent Valli\u00e8res",
-          "url": "https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen"
-        }
-      ],
-      "duration_ms": 347533,
-      "name": "Le jardin se meurt",
-      "url": "https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu"
-    },
-    {
-      "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
       },
@@ -522,93 +612,18 @@
     },
     {
       "album": {
-        "name": "La vraie nature - EP",
-        "url": "https://open.spotify.com/album/2R4siDISDRZfVRCoOTWzDG"
+        "name": "Apr\u00e8s l'hiver",
+        "url": "https://open.spotify.com/album/3USD6naxmACbrfRGb76QKS"
       },
       "artists": [
         {
-          "name": "Pilou",
-          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
+          "name": "V\u00e9ronique Trudel",
+          "url": "https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK"
         }
       ],
-      "duration_ms": 231346,
-      "name": "Passagers",
-      "url": "https://open.spotify.com/track/0Rli17YJQI1D7qraciHcKA"
-    },
-    {
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi"
-      },
-      "artists": [
-        {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Solitudes",
-      "url": "https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR"
-    },
-    {
-      "album": {
-        "name": "Pers\u00e9ides",
-        "url": "https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Lost River",
-      "url": "https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY"
-    },
-    {
-      "album": {
-        "name": "Au-del\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
-        "url": "https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa"
-      },
-      "artists": [
-        {
-          "name": "Amylie",
-          "url": "https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5"
-        }
-      ],
-      "duration_ms": 247513,
-      "name": "Au-del\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
-      "url": "https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN"
-    },
-    {
-      "album": {
-        "name": "Ceci est une esp\u00e8ce aim\u00e9e",
-        "url": "https://open.spotify.com/album/1zEmqQmj5Fw1ICjE8uYBwn"
-      },
-      "artists": [
-        {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
-        }
-      ],
-      "duration_ms": 299320,
-      "name": "Morceaux",
-      "url": "https://open.spotify.com/track/0zEcIEPHJj4MsE021bP11Y"
-    },
-    {
-      "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/6iqqCwefofdlbqRmMjTzuT"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Couvre-feu",
-      "url": "https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6"
+      "duration_ms": 225500,
+      "name": "Apr\u00e8s l'hiver",
+      "url": "https://open.spotify.com/track/4qhO29pgBSBxOwZSpO5RQC"
     },
     {
       "album": {
@@ -627,51 +642,6 @@
     },
     {
       "album": {
-        "name": "Diapason",
-        "url": "https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        }
-      ],
-      "duration_ms": 146506,
-      "name": "Diapason",
-      "url": "https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R"
-    },
-    {
-      "album": {
-        "name": "En attendant l'aube",
-        "url": "https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ra M\u00e9nard",
-          "url": "https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "En attendant l'aube",
-      "url": "https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF"
-    },
-    {
-      "album": {
-        "name": "Martine",
-        "url": "https://open.spotify.com/album/0SgdKJsbN49Uxxptds7axE"
-      },
-      "artists": [
-        {
-          "name": "Camaromance",
-          "url": "https://open.spotify.com/artist/6MiaQkFU6CoconRyRYko7X"
-        }
-      ],
-      "duration_ms": 243231,
-      "name": "Martine",
-      "url": "https://open.spotify.com/track/0K4u23NQWXl8MWFzkal13R"
-    },
-    {
-      "album": {
         "name": "Eleven Songs",
         "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
@@ -687,51 +657,6 @@
     },
     {
       "album": {
-        "name": "Les vents aimants",
-        "url": "https://open.spotify.com/album/5DJaV9O0iPbyFgueY0WgV8"
-      },
-      "artists": [
-        {
-          "name": "Catherine Durand",
-          "url": "https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "Les vents aimants",
-      "url": "https://open.spotify.com/track/7hknXKrXWA2l4DKO1L9W31"
-    },
-    {
-      "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "album": {
-        "name": "There Will Be Stars",
-        "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 318880,
-      "name": "Moi, Elsie",
-      "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
-    },
-    {
-      "album": {
         "name": "Mirador",
         "url": "https://open.spotify.com/album/51fwq1pDme4wmvmp97VSnc"
       },
@@ -744,6 +669,51 @@
       "duration_ms": 249443,
       "name": "Mirador",
       "url": "https://open.spotify.com/track/28G4d150k0L97C2rEBlafm"
+    },
+    {
+      "album": {
+        "name": "La nuit est une panth\u00e8re",
+        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 177116,
+      "name": "Platane",
+      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
+    },
+    {
+      "album": {
+        "name": "Prendre soin du beau",
+        "url": "https://open.spotify.com/album/1Zag6vMrmoYYqHuGsmyRoy"
+      },
+      "artists": [
+        {
+          "name": "Jessica Charlie",
+          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Prendre soin du beau",
+      "url": "https://open.spotify.com/track/5x1VyIiwZSY1yTj82IrFQf"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "Rosier-douleur",
+      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
     },
     {
       "album": {
@@ -777,138 +747,93 @@
     },
     {
       "album": {
-        "name": "La nuit est une panth\u00e8re",
-        "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
+        "name": "T'aimer est si beau",
+        "url": "https://open.spotify.com/album/4TTXE3ooJbF4BucR3bCaet"
       },
       "artists": [
         {
-          "name": "Les Louanges",
-          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
         }
       ],
-      "duration_ms": 177116,
-      "name": "Platane",
-      "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
+      "duration_ms": 453431,
+      "name": "T'aimer est si beau",
+      "url": "https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD"
     },
     {
       "album": {
-        "name": "Sara Dufour",
-        "url": "https://open.spotify.com/album/673UcnNWlDRtKZYzd8gR4C"
+        "name": "Kil",
+        "url": "https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K"
       },
       "artists": [
         {
-          "name": "Sara Dufour",
-          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+          "name": "Kahtolin",
+          "url": "https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd"
         }
       ],
-      "duration_ms": 182128,
-      "name": "Parce qu'on s'aime",
-      "url": "https://open.spotify.com/track/1GydoUDvF2vWHibzqhe3D4"
+      "duration_ms": 244893,
+      "name": "Kil",
+      "url": "https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD"
     },
     {
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
       },
       "artists": [
         {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+          "name": "Clerel",
+          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
         }
       ],
-      "duration_ms": 138026,
-      "name": "Rosier-douleur",
-      "url": "https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM"
+      "duration_ms": 200005,
+      "name": "Le Tour",
+      "url": "https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4"
     },
     {
       "album": {
-        "name": "Rien de plus grand",
-        "url": "https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a"
+        "name": "Pers\u00e9ides",
+        "url": "https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
         }
       ],
-      "duration_ms": 276586,
-      "name": "Rien de plus grand",
-      "url": "https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi"
+      "duration_ms": 175746,
+      "name": "Lost River",
+      "url": "https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY"
     },
     {
       "album": {
-        "name": "Comme June aime Johnny",
-        "url": "https://open.spotify.com/album/1j5nc7LO1tQnImfo45Cekn"
+        "name": "En attendant l'aube",
+        "url": "https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd"
       },
       "artists": [
         {
-          "name": "Alicia Desch\u00eanes",
-          "url": "https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu"
+          "name": "H\u00e9ra M\u00e9nard",
+          "url": "https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO"
         }
       ],
-      "duration_ms": 206386,
-      "name": "J'trouve \u00e7a beau",
-      "url": "https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ"
+      "duration_ms": 222186,
+      "name": "En attendant l'aube",
+      "url": "https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF"
     },
     {
       "album": {
-        "name": "Shangri-La",
-        "url": "https://open.spotify.com/album/244hbTwCOMYTK077ZUXq7z"
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi"
       },
       "artists": [
         {
-          "name": "Audrey Emery",
-          "url": "https://open.spotify.com/artist/2Ffn40Clz80XZSQS8Tylr6"
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
         }
       ],
-      "duration_ms": 307297,
-      "name": "Mon \u00eele",
-      "url": "https://open.spotify.com/track/27sfdhX5ndVTQoscsB50LY"
-    },
-    {
-      "album": {
-        "name": "les failles",
-        "url": "https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 248693,
-      "name": "une minute",
-      "url": "https://open.spotify.com/track/4SKr92Xfu1wUKoU9pC9FcP"
-    },
-    {
-      "album": {
-        "name": "La flamme",
-        "url": "https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS"
-      },
-      "artists": [
-        {
-          "name": "David Fleury",
-          "url": "https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy"
-        }
-      ],
-      "duration_ms": 234593,
-      "name": "La flamme",
-      "url": "https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl"
-    },
-    {
-      "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+      "duration_ms": 248306,
+      "name": "Solitudes",
+      "url": "https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR"
     },
     {
       "album": {
@@ -927,18 +852,18 @@
     },
     {
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
+        "name": "This Time I See It",
+        "url": "https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O"
       },
       "artists": [
         {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 299560,
-      "name": "Qtv",
-      "url": "https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS"
+      "duration_ms": 220213,
+      "name": "Understand It",
+      "url": "https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z"
     },
     {
       "album": {
@@ -957,23 +882,53 @@
     },
     {
       "album": {
-        "name": "Chanson d'automne",
-        "url": "https://open.spotify.com/album/3U9WFrewtJlnallEoNuAq9"
+        "name": "La flamme",
+        "url": "https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS"
       },
       "artists": [
         {
-          "name": "Mauvais Amis",
-          "url": "https://open.spotify.com/artist/0fQ1GquXLsW7jOodJZHwn3"
+          "name": "David Fleury",
+          "url": "https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy"
         }
       ],
-      "duration_ms": 102741,
-      "name": "Chanson d'automne",
-      "url": "https://open.spotify.com/track/6TnV9y0Rt6f0U4nGqDwhC4"
+      "duration_ms": 234593,
+      "name": "La flamme",
+      "url": "https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl"
     },
     {
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Sessions de mai",
+        "url": "https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 143399,
+      "name": "Quatre nuages",
+      "url": "https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz"
+    },
+    {
+      "album": {
+        "name": "Shangri-La",
+        "url": "https://open.spotify.com/album/244hbTwCOMYTK077ZUXq7z"
+      },
+      "artists": [
+        {
+          "name": "Audrey Emery",
+          "url": "https://open.spotify.com/artist/2Ffn40Clz80XZSQS8Tylr6"
+        }
+      ],
+      "duration_ms": 307297,
+      "name": "Mon \u00eele",
+      "url": "https://open.spotify.com/track/27sfdhX5ndVTQoscsB50LY"
+    },
+    {
+      "album": {
+        "name": "Rien de plus grand",
+        "url": "https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a"
       },
       "artists": [
         {
@@ -981,9 +936,39 @@
           "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+      "duration_ms": 276586,
+      "name": "Rien de plus grand",
+      "url": "https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi"
+    },
+    {
+      "album": {
+        "name": "Ramenez-moi",
+        "url": "https://open.spotify.com/album/1m9GgPn0v6d9X0504FKYa5"
+      },
+      "artists": [
+        {
+          "name": "Belle Grand Fille",
+          "url": "https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2"
+        }
+      ],
+      "duration_ms": 193951,
+      "name": "Ramenez-moi",
+      "url": "https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "album": {
@@ -996,9 +981,24 @@
           "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
         }
       ],
-      "duration_ms": 220607,
-      "name": "Feu de for\u00eat",
-      "url": "https://open.spotify.com/track/2NSe87osMF90QPPQIErhdC"
+      "duration_ms": 200358,
+      "name": "Vigiles",
+      "url": "https://open.spotify.com/track/7mV63vY1vlPhDh41veyTHl"
+    },
+    {
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/0SK0vnAQgT3rxaGGZy8QUn"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Piton",
+          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6aZcUYdATtxi9Xx7J8AwmU"
     },
     {
       "album": {
@@ -1017,18 +1017,108 @@
     },
     {
       "album": {
-        "name": "Petite plage",
-        "url": "https://open.spotify.com/album/2YH5Fvzzf55VORIDHcTqmc"
+        "name": "Chanson d'automne",
+        "url": "https://open.spotify.com/album/3U9WFrewtJlnallEoNuAq9"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Mauvais Amis",
+          "url": "https://open.spotify.com/artist/0fQ1GquXLsW7jOodJZHwn3"
         }
       ],
-      "duration_ms": 158480,
-      "name": "Les \u00e9pousailles",
-      "url": "https://open.spotify.com/track/3YBtUOXgW8FwxkAzphFAzx"
+      "duration_ms": 102741,
+      "name": "Chanson d'automne",
+      "url": "https://open.spotify.com/track/6TnV9y0Rt6f0U4nGqDwhC4"
+    },
+    {
+      "album": {
+        "name": "La vraie nature - EP",
+        "url": "https://open.spotify.com/album/2R4siDISDRZfVRCoOTWzDG"
+      },
+      "artists": [
+        {
+          "name": "Pilou",
+          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Passagers",
+      "url": "https://open.spotify.com/track/0Rli17YJQI1D7qraciHcKA"
+    },
+    {
+      "album": {
+        "name": "Close to Paradise",
+        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
+    },
+    {
+      "album": {
+        "name": "Maison ouverte",
+        "url": "https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif"
+      },
+      "artists": [
+        {
+          "name": "Simon Kearney",
+          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "Maison ouverte",
+      "url": "https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr"
+    },
+    {
+      "album": {
+        "name": "Insensible",
+        "url": "https://open.spotify.com/album/6QNrE7t6uU8QqlVpNaduIH"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ"
+    },
+    {
+      "album": {
+        "name": "les failles",
+        "url": "https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 248693,
+      "name": "une minute",
+      "url": "https://open.spotify.com/track/4SKr92Xfu1wUKoU9pC9FcP"
+    },
+    {
+      "album": {
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
     },
     {
       "album": {
@@ -1047,67 +1137,127 @@
     },
     {
       "album": {
-        "name": "This Time I See It",
-        "url": "https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O"
+        "name": "Partir en mer",
+        "url": "https://open.spotify.com/album/2Tqhja095stUqvs3bgQ0DE"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Roy Davis",
+          "url": "https://open.spotify.com/artist/2hY7DEOREACP4sNFGFpTWm"
         }
       ],
-      "duration_ms": 220213,
-      "name": "Understand It",
-      "url": "https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z"
+      "duration_ms": 224312,
+      "name": "Partir en mer",
+      "url": "https://open.spotify.com/track/5YKJV6k3PKiXGYW0mda6X0"
     },
     {
       "album": {
-        "name": "Apr\u00e8s l'hiver",
-        "url": "https://open.spotify.com/album/3USD6naxmACbrfRGb76QKS"
+        "name": "Chicout",
+        "url": "https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo"
       },
       "artists": [
         {
-          "name": "V\u00e9ronique Trudel",
-          "url": "https://open.spotify.com/artist/2dvQpxQTzPdgMrs8CJdMBK"
+          "name": "Chassepareil",
+          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
         }
       ],
-      "duration_ms": 225500,
-      "name": "Apr\u00e8s l'hiver",
-      "url": "https://open.spotify.com/track/4qhO29pgBSBxOwZSpO5RQC"
+      "duration_ms": 220607,
+      "name": "Feu de for\u00eat",
+      "url": "https://open.spotify.com/track/2NSe87osMF90QPPQIErhdC"
     },
     {
       "album": {
-        "name": "Sitka",
-        "url": "https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK"
+        "name": "Feu de shed",
+        "url": "https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf"
       },
       "artists": [
         {
-          "name": "Andr\u00e9anne A. Malette",
-          "url": "https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB"
+          "name": "Patrick Pr\u00e9vost",
+          "url": "https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Le jour",
-      "url": "https://open.spotify.com/track/2FCGlkyYXNxnoPhio8eNfL"
+      "duration_ms": 244214,
+      "name": "Sagesse",
+      "url": "https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq"
     },
     {
       "album": {
-        "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
-        "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
+        "name": "M\u00e9lancolie",
+        "url": "https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA"
       },
       "artists": [
         {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         },
         {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
-      "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+      "duration_ms": 162286,
+      "name": "M\u00e9lancolie",
+      "url": "https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t"
+    },
+    {
+      "album": {
+        "name": "PLS",
+        "url": "https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 183736,
+      "name": "PLS - sunrise version",
+      "url": "https://open.spotify.com/track/3ldCCZdvhLEVr1zBwFpPd2"
+    },
+    {
+      "album": {
+        "name": "Broderie",
+        "url": "https://open.spotify.com/album/0qF05npfcAreX5hsnmrlLU"
+      },
+      "artists": [
+        {
+          "name": "Olivier B\u00e9lisle",
+          "url": "https://open.spotify.com/artist/5r7VNBLnEVQaEvhaJLkMpR"
+        }
+      ],
+      "duration_ms": 168403,
+      "name": "Paysage",
+      "url": "https://open.spotify.com/track/26HZllKgd2e7k9EIUbdgZ8"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/6iqqCwefofdlbqRmMjTzuT"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Couvre-feu",
+      "url": "https://open.spotify.com/track/1eapCpP1Qb0pNrTaxTiFW6"
+    },
+    {
+      "album": {
+        "name": "Madeleine",
+        "url": "https://open.spotify.com/album/4Y5VwNTQ6Ww4FK88DpvihT"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Lacasse",
+          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Madeleine",
+      "url": "https://open.spotify.com/track/7DQ2KNEBrVb9W2QosU8GbL"
     },
     {
       "album": {
@@ -1130,186 +1280,6 @@
     },
     {
       "album": {
-        "name": "Foisy.",
-        "url": "https://open.spotify.com/album/4Ocw79Km6guKmt6suN8AyW"
-      },
-      "artists": [
-        {
-          "name": "Foisy",
-          "url": "https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Comme \u00e0 tous les hivers",
-      "url": "https://open.spotify.com/track/6ZaMggVJMXNUJ2mkKjeWon"
-    },
-    {
-      "album": {
-        "name": "Les salades de l'amour",
-        "url": "https://open.spotify.com/album/2uZv8Yba51eLH2sP4a8WoG"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        }
-      ],
-      "duration_ms": 200866,
-      "name": "Les salades de l'amour",
-      "url": "https://open.spotify.com/track/1CuzE9zBtKzfsDvxR4moPf"
-    },
-    {
-      "album": {
-        "name": "Antoine Lachance",
-        "url": "https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP"
-      },
-      "artists": [
-        {
-          "name": "Antoine Lachance",
-          "url": "https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq"
-        }
-      ],
-      "duration_ms": 218642,
-      "name": "Feu sacr\u00e9",
-      "url": "https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp"
-    },
-    {
-      "album": {
-        "name": "\u00c0 l'aube de nous",
-        "url": "https://open.spotify.com/album/2IRh7BduO3bjEehDT5g6jq"
-      },
-      "artists": [
-        {
-          "name": "Amelie Mandeville",
-          "url": "https://open.spotify.com/artist/4yvYNGWWLPkqEnP4d9gNk0"
-        }
-      ],
-      "duration_ms": 193784,
-      "name": "\u00c0 l'aube de nous",
-      "url": "https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD"
-    },
-    {
-      "album": {
-        "name": "Mona Lisa - Single",
-        "url": "https://open.spotify.com/album/3u8WgVkDhQJDVaX6o9IL78"
-      },
-      "artists": [
-        {
-          "name": "Soul & Sister",
-          "url": "https://open.spotify.com/artist/6FKmH1yrlnresuuvHdY2lh"
-        }
-      ],
-      "duration_ms": 170219,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/3lmVvm0lBpxirgDHfLCLRR"
-    },
-    {
-      "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
-    },
-    {
-      "album": {
-        "name": "Hiboux",
-        "url": "https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3"
-      },
-      "artists": [
-        {
-          "name": "Nicolas G\u00e9mus",
-          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Derri\u00e8re le bruit",
-      "url": "https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a"
-    },
-    {
-      "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 175644,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
-    },
-    {
-      "album": {
-        "name": "La myopie du coeur - Single",
-        "url": "https://open.spotify.com/album/587yESFa8dOQfYV0YaBv8Y"
-      },
-      "artists": [
-        {
-          "name": "vice E roi",
-          "url": "https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz"
-        }
-      ],
-      "duration_ms": 185778,
-      "name": "La myopie du coeur",
-      "url": "https://open.spotify.com/track/0JvG23hQr8r5jK8sRDV56D"
-    },
-    {
-      "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
-      },
-      "artists": [
-        {
-          "name": "Mimi O'Bonsawin",
-          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
-        }
-      ],
-      "duration_ms": 149015,
-      "name": "Elle danse",
-      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
-    },
-    {
-      "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/0jgFMFLNU4fgV2KtqpER9A"
-      },
-      "artists": [
-        {
-          "name": "Lucill",
-          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
-        }
-      ],
-      "duration_ms": 225366,
-      "name": "Et je cours",
-      "url": "https://open.spotify.com/track/5g2x5jFdQMJxbpYAbCTK4W"
-    },
-    {
-      "album": {
-        "name": "Maison ouverte",
-        "url": "https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif"
-      },
-      "artists": [
-        {
-          "name": "Simon Kearney",
-          "url": "https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "Maison ouverte",
-      "url": "https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr"
-    },
-    {
-      "album": {
         "name": "Essai de danse sans gravit\u00e9",
         "url": "https://open.spotify.com/album/0ARc8KE40XTNMXG7Qkdsta"
       },
@@ -1322,126 +1292,6 @@
       "duration_ms": 153860,
       "name": "Dormance",
       "url": "https://open.spotify.com/track/0ah1tf7hgCCPoj78OSZB9E"
-    },
-    {
-      "album": {
-        "name": "C'qui nous reste du Texas",
-        "url": "https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm"
-      },
-      "artists": [
-        {
-          "name": "Bernard Adamus",
-          "url": "https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE"
-        }
-      ],
-      "duration_ms": 270848,
-      "name": "Fuck you mon amour",
-      "url": "https://open.spotify.com/track/5yAibZYjXyGkFPZvQLAdiM"
-    },
-    {
-      "album": {
-        "name": "PLS",
-        "url": "https://open.spotify.com/album/2cfg8Kin7uYBJEsQBdyjdS"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 183736,
-      "name": "PLS - sunrise version",
-      "url": "https://open.spotify.com/track/3ldCCZdvhLEVr1zBwFpPd2"
-    },
-    {
-      "album": {
-        "name": "La vraie nature - Chansons par Pilou",
-        "url": "https://open.spotify.com/album/5QwW6pRRmXneSFUjDFFkDt"
-      },
-      "artists": [
-        {
-          "name": "Pilou",
-          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/6dstnzUD4KT1IJeHQI6PK7"
-    },
-    {
-      "album": {
-        "name": "Bo\u00eete aux lettres",
-        "url": "https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e"
-      },
-      "artists": [
-        {
-          "name": "Les Hay Babies",
-          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "Entre deux montagnes",
-      "url": "https://open.spotify.com/track/7CmCroVZ8z3c2UtwK2XiXi"
-    },
-    {
-      "album": {
-        "name": "Insensible",
-        "url": "https://open.spotify.com/album/6QNrE7t6uU8QqlVpNaduIH"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/2DrmNQXCBchAPlraQe6szZ"
-    },
-    {
-      "album": {
-        "name": "Ruche de mouches",
-        "url": "https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8"
-      },
-      "artists": [
-        {
-          "name": "Larynx",
-          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
-        }
-      ],
-      "duration_ms": 197728,
-      "name": "Lubie",
-      "url": "https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE"
-    },
-    {
-      "album": {
-        "name": "Le sens de la d\u00e9rive",
-        "url": "https://open.spotify.com/album/7mZATbXPGxVWhXROjmvIa6"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Raph",
-          "url": "https://open.spotify.com/artist/3tCGkAQa2Q8ukkefsgrrYw"
-        }
-      ],
-      "duration_ms": 205515,
-      "name": "Km Z\u00e9ro",
-      "url": "https://open.spotify.com/track/5i5Ukdzaq3UoXXhuinnWAi"
-    },
-    {
-      "album": {
-        "name": "Dans le noir",
-        "url": "https://open.spotify.com/album/6acP1CsAciv95uGVTNfNe7"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Dagues",
-      "url": "https://open.spotify.com/track/6UzLLH6dYuOvpjnavhDQS0"
     },
     {
       "album": {
@@ -1460,18 +1310,138 @@
     },
     {
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/0SK0vnAQgT3rxaGGZy8QUn"
+        "name": "C'qui nous reste du Texas",
+        "url": "https://open.spotify.com/album/11NpZmKnX39yEMSxwiURpm"
       },
       "artists": [
         {
-          "name": "Jeffrey Piton",
-          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+          "name": "Bernard Adamus",
+          "url": "https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE"
         }
       ],
-      "duration_ms": 231693,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6aZcUYdATtxi9Xx7J8AwmU"
+      "duration_ms": 270848,
+      "name": "Fuck you mon amour",
+      "url": "https://open.spotify.com/track/5yAibZYjXyGkFPZvQLAdiM"
+    },
+    {
+      "album": {
+        "name": "Comme June aime Johnny",
+        "url": "https://open.spotify.com/album/1j5nc7LO1tQnImfo45Cekn"
+      },
+      "artists": [
+        {
+          "name": "Alicia Desch\u00eanes",
+          "url": "https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "J'trouve \u00e7a beau",
+      "url": "https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ"
+    },
+    {
+      "album": {
+        "name": "J'esp\u00e8re",
+        "url": "https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 150453,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"
+    },
+    {
+      "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+      },
+      "artists": [
+        {
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+        }
+      ],
+      "duration_ms": 149015,
+      "name": "Elle danse",
+      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "album": {
+        "name": "Martine",
+        "url": "https://open.spotify.com/album/0SgdKJsbN49Uxxptds7axE"
+      },
+      "artists": [
+        {
+          "name": "Camaromance",
+          "url": "https://open.spotify.com/artist/6MiaQkFU6CoconRyRYko7X"
+        }
+      ],
+      "duration_ms": 243231,
+      "name": "Martine",
+      "url": "https://open.spotify.com/track/0K4u23NQWXl8MWFzkal13R"
+    },
+    {
+      "album": {
+        "name": "Ceci est une esp\u00e8ce aim\u00e9e",
+        "url": "https://open.spotify.com/album/1zEmqQmj5Fw1ICjE8uYBwn"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "duration_ms": 299320,
+      "name": "Morceaux",
+      "url": "https://open.spotify.com/track/0zEcIEPHJj4MsE021bP11Y"
+    },
+    {
+      "album": {
+        "name": "Hiboux",
+        "url": "https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3"
+      },
+      "artists": [
+        {
+          "name": "Nicolas G\u00e9mus",
+          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Derri\u00e8re le bruit",
+      "url": "https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a"
+    },
+    {
+      "album": {
+        "name": "Multicolore",
+        "url": "https://open.spotify.com/album/5ATljXNpfLwVJEEbFjLYh9"
+      },
+      "artists": [
+        {
+          "name": "Marie-Eve Roy",
+          "url": "https://open.spotify.com/artist/6C5VPdM8WtyVyFLABlosbH"
+        }
+      ],
+      "duration_ms": 226172,
+      "name": "Reste",
+      "url": "https://open.spotify.com/track/4WeVwfij7xULEKzgSIgVai"
+    },
+    {
+      "album": {
+        "name": "Les salades de l'amour",
+        "url": "https://open.spotify.com/album/2uZv8Yba51eLH2sP4a8WoG"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        }
+      ],
+      "duration_ms": 200866,
+      "name": "Les salades de l'amour",
+      "url": "https://open.spotify.com/track/1CuzE9zBtKzfsDvxR4moPf"
     },
     {
       "album": {
@@ -1490,33 +1460,63 @@
     },
     {
       "album": {
-        "name": "Madeleine",
-        "url": "https://open.spotify.com/album/4Y5VwNTQ6Ww4FK88DpvihT"
+        "name": "Pixels",
+        "url": "https://open.spotify.com/album/160lLNQ7uEPxrhosSwa5pk"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 Lacasse",
-          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
+          "name": "Lauma",
+          "url": "https://open.spotify.com/artist/7cHW7ZcuXJbucvesjvD4GK"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Madeleine",
-      "url": "https://open.spotify.com/track/7DQ2KNEBrVb9W2QosU8GbL"
+      "duration_ms": 302442,
+      "name": "Ma belle Clodie",
+      "url": "https://open.spotify.com/track/6dIDM0vzyZqsqjODV3JK2a"
     },
     {
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
+        "name": "Sara Dufour",
+        "url": "https://open.spotify.com/album/673UcnNWlDRtKZYzd8gR4C"
       },
       "artists": [
         {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
         }
       ],
-      "duration_ms": 200005,
-      "name": "Le Tour",
-      "url": "https://open.spotify.com/track/2bstLxHshzom3DVgB5j8m4"
+      "duration_ms": 182128,
+      "name": "Parce qu'on s'aime",
+      "url": "https://open.spotify.com/track/1GydoUDvF2vWHibzqhe3D4"
+    },
+    {
+      "album": {
+        "name": "Et si j'\u00e9tais \u00e0 des ann\u00e9es-lumi\u00e8re",
+        "url": "https://open.spotify.com/album/3yLlXDAx1AuwUjL9GnL1ad"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9drik St-Onge",
+          "url": "https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "L'astronaute",
+      "url": "https://open.spotify.com/track/1Tb15nJ6x06nh6S2p6n1k1"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'aube de nous",
+        "url": "https://open.spotify.com/album/2IRh7BduO3bjEehDT5g6jq"
+      },
+      "artists": [
+        {
+          "name": "Amelie Mandeville",
+          "url": "https://open.spotify.com/artist/4yvYNGWWLPkqEnP4d9gNk0"
+        }
+      ],
+      "duration_ms": 193784,
+      "name": "\u00c0 l'aube de nous",
+      "url": "https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX"

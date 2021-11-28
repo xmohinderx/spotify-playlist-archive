@@ -38,25 +38,6 @@
     },
     {
       "album": {
-        "name": "BOCA",
-        "url": "https://open.spotify.com/album/07FmA5muQi3BGdQMzEf1Et"
-      },
-      "artists": [
-        {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "duration_ms": 180394,
-      "name": "BOCA",
-      "url": "https://open.spotify.com/track/1VrIIMCxDWrBJuJgBzKpYc"
-    },
-    {
-      "album": {
         "name": "Rackattack (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5T6qUQtVUyNagAK4955FV1"
       },
@@ -133,6 +114,25 @@
     },
     {
       "album": {
+        "name": "BOCA",
+        "url": "https://open.spotify.com/album/07FmA5muQi3BGdQMzEf1Et"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 180394,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/1VrIIMCxDWrBJuJgBzKpYc"
+    },
+    {
+      "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/6I05KXZobddEIzbUaVPAOa"
       },
@@ -175,22 +175,45 @@
     },
     {
       "album": {
-        "name": "Dominicana Latina",
-        "url": "https://open.spotify.com/album/3XXNUaxNESTxl6xooP479z"
+        "name": "Full Press",
+        "url": "https://open.spotify.com/album/5LFKGqyuMkDN76IfLCHBJY"
       },
       "artists": [
         {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
         },
         {
-          "name": "SALVA",
-          "url": "https://open.spotify.com/artist/4uxKjHpF1AVuoZoDqp4whz"
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
         }
       ],
-      "duration_ms": 182771,
-      "name": "Dominicana Latina",
-      "url": "https://open.spotify.com/track/2OHRc3BN8NDZ6j2sCleBp4"
+      "duration_ms": 285308,
+      "name": "Full Press",
+      "url": "https://open.spotify.com/track/1AJrznrjCng2wX8dy4LGXk"
+    },
+    {
+      "album": {
+        "name": "XCM (Xapiacocomayro)",
+        "url": "https://open.spotify.com/album/6KqooRfAKrYbP91iZXyMMY"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "duration_ms": 210842,
+      "name": "XCM (Xapiacocomayro)",
+      "url": "https://open.spotify.com/track/1n5p8hMkO5RJsePA9NFi9x"
     },
     {
       "album": {
@@ -221,33 +244,41 @@
     },
     {
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "Dominicana Latina",
+        "url": "https://open.spotify.com/album/3XXNUaxNESTxl6xooP479z"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "SALVA",
+          "url": "https://open.spotify.com/artist/4uxKjHpF1AVuoZoDqp4whz"
         }
       ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+      "duration_ms": 182771,
+      "name": "Dominicana Latina",
+      "url": "https://open.spotify.com/track/2OHRc3BN8NDZ6j2sCleBp4"
     },
     {
       "album": {
-        "name": "Timima",
-        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
+        "name": "Filakes",
+        "url": "https://open.spotify.com/album/5tR5vecLqsa8PqbHBUjsHK"
       },
       "artists": [
         {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
         }
       ],
-      "duration_ms": 237926,
-      "name": "Risko",
-      "url": "https://open.spotify.com/track/7hj318e237PHNa6RoacNrr"
+      "duration_ms": 216901,
+      "name": "Filakes",
+      "url": "https://open.spotify.com/track/0omM3mkVfjt8MhDKinkhcn"
     },
     {
       "album": {
@@ -270,59 +301,6 @@
     },
     {
       "album": {
-        "name": "Prometheus",
-        "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
-      },
-      "artists": [
-        {
-          "name": "Immune",
-          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
-        },
-        {
-          "name": "Chico Beatz",
-          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
-        }
-      ],
-      "duration_ms": 233090,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/6LxUxssRORxjir61cJadlt"
-    },
-    {
-      "album": {
-        "name": "Timima",
-        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        },
-        {
-          "name": "Trouf",
-          "url": "https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl"
-        }
-      ],
-      "duration_ms": 195609,
-      "name": "Klasiko",
-      "url": "https://open.spotify.com/track/6Z355SHsrSax7zTHGR90Rz"
-    },
-    {
-      "album": {
-        "name": "Pes Tou",
-        "url": "https://open.spotify.com/album/4etJ2ld3OxZElllOgYq4c3"
-      },
-      "artists": [
-        {
-          "name": "Dirty Harry",
-          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
-        }
-      ],
-      "duration_ms": 116504,
-      "name": "Pes Tou",
-      "url": "https://open.spotify.com/track/0v8TxNTZhQlctTUNX9PpRO"
-    },
-    {
-      "album": {
         "name": "Ku Je Ti",
         "url": "https://open.spotify.com/album/1YfMzzOjhD5IBDtapwEIvx"
       },
@@ -342,6 +320,89 @@
     },
     {
       "album": {
+        "name": "Pes Tou",
+        "url": "https://open.spotify.com/album/4etJ2ld3OxZElllOgYq4c3"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        }
+      ],
+      "duration_ms": 116504,
+      "name": "Pes Tou",
+      "url": "https://open.spotify.com/track/0v8TxNTZhQlctTUNX9PpRO"
+    },
+    {
+      "album": {
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "duration_ms": 233090,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/6LxUxssRORxjir61cJadlt"
+    },
+    {
+      "album": {
+        "name": "COCO",
+        "url": "https://open.spotify.com/album/3XtVh6cdgqy3bGYLeCmRRk"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "COCO",
+      "url": "https://open.spotify.com/track/6yOg1Tt1ELOWseyPg2vEos"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "album": {
+        "name": "Immortale",
+        "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 265565,
+      "name": "Cc",
+      "url": "https://open.spotify.com/track/07qyw1D9R324YyFNZGUUdl"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -358,6 +419,25 @@
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "album": {
+        "name": "22:22",
+        "url": "https://open.spotify.com/album/2CASbkwxK2zM1vBmFRi9iN"
+      },
+      "artists": [
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "duration_ms": 178090,
+      "name": "Leyla",
+      "url": "https://open.spotify.com/track/3xcSTAxSTwfx0A4Ly68dfW"
     },
     {
       "album": {
@@ -385,100 +465,28 @@
           "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
         }
       ],
-      "duration_ms": 261584,
-      "name": "Perithorio",
-      "url": "https://open.spotify.com/track/3QDGh4CIZeMAe9KTf64mPb"
+      "duration_ms": 237926,
+      "name": "Risko",
+      "url": "https://open.spotify.com/track/7hj318e237PHNa6RoacNrr"
     },
     {
       "album": {
-        "name": "COCO",
-        "url": "https://open.spotify.com/album/3XtVh6cdgqy3bGYLeCmRRk"
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/1Ir91nN1hecPp4pfaLTkWt"
       },
       "artists": [
         {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
         },
         {
-          "name": "Stanley",
-          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
         }
       ],
-      "duration_ms": 144500,
-      "name": "COCO",
-      "url": "https://open.spotify.com/track/6yOg1Tt1ELOWseyPg2vEos"
-    },
-    {
-      "album": {
-        "name": "22:22",
-        "url": "https://open.spotify.com/album/2CASbkwxK2zM1vBmFRi9iN"
-      },
-      "artists": [
-        {
-          "name": "DJ.Silence",
-          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
-        },
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        }
-      ],
-      "duration_ms": 178090,
-      "name": "Leyla",
-      "url": "https://open.spotify.com/track/3xcSTAxSTwfx0A4Ly68dfW"
-    },
-    {
-      "album": {
-        "name": "XCM (Xapiacocomayro)",
-        "url": "https://open.spotify.com/album/6KqooRfAKrYbP91iZXyMMY"
-      },
-      "artists": [
-        {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
-        },
-        {
-          "name": "Chico Beatz",
-          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
-        }
-      ],
-      "duration_ms": 210842,
-      "name": "XCM (Xapiacocomayro)",
-      "url": "https://open.spotify.com/track/1n5p8hMkO5RJsePA9NFi9x"
-    },
-    {
-      "album": {
-        "name": "Telika",
-        "url": "https://open.spotify.com/album/7KZT0JODVGwQQmkudtO3ij"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
-        },
-        {
-          "name": "Rack",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        }
-      ],
-      "duration_ms": 261397,
-      "name": "Telika",
-      "url": "https://open.spotify.com/track/4CZiBLERDxvMQaieIlUklq"
-    },
-    {
-      "album": {
-        "name": "Immortale",
-        "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 265565,
-      "name": "Cc",
-      "url": "https://open.spotify.com/track/07qyw1D9R324YyFNZGUUdl"
+      "duration_ms": 168000,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/1nNIj9EJmlbSuDBfwIwE0Y"
     },
     {
       "album": {
@@ -505,72 +513,18 @@
     },
     {
       "album": {
-        "name": "Rackattack",
-        "url": "https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3"
+        "name": "LUPIN",
+        "url": "https://open.spotify.com/album/5rSxchvGOgyZFHVRbgVmYZ"
       },
       "artists": [
         {
-          "name": "Rack",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "LILA",
-          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "MG",
+          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
         }
       ],
-      "duration_ms": 178757,
-      "name": "Prestige",
-      "url": "https://open.spotify.com/track/4gFO7c2q8Iku8bjylseQzT"
-    },
-    {
-      "album": {
-        "name": "Filakes",
-        "url": "https://open.spotify.com/album/5tR5vecLqsa8PqbHBUjsHK"
-      },
-      "artists": [
-        {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
-        },
-        {
-          "name": "Mad Clip",
-          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
-        }
-      ],
-      "duration_ms": 216901,
-      "name": "Filakes",
-      "url": "https://open.spotify.com/track/0omM3mkVfjt8MhDKinkhcn"
-    },
-    {
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+      "duration_ms": 170000,
+      "name": "LUPIN",
+      "url": "https://open.spotify.com/track/0RPaZVssxMLeWsFUcet8W7"
     },
     {
       "album": {
@@ -594,55 +548,6 @@
       "duration_ms": 162000,
       "name": "Checks",
       "url": "https://open.spotify.com/track/4x4io9GDTPPetji4i06L6c"
-    },
-    {
-      "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/1Ir91nN1hecPp4pfaLTkWt"
-      },
-      "artists": [
-        {
-          "name": "Mente Fuerte",
-          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/1nNIj9EJmlbSuDBfwIwE0Y"
-    },
-    {
-      "album": {
-        "name": "Timima",
-        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        }
-      ],
-      "duration_ms": 191951,
-      "name": "Terma",
-      "url": "https://open.spotify.com/track/2Ge8G7EpWxyGApQSxKifaw"
-    },
-    {
-      "album": {
-        "name": "LUPIN",
-        "url": "https://open.spotify.com/album/5rSxchvGOgyZFHVRbgVmYZ"
-      },
-      "artists": [
-        {
-          "name": "MG",
-          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "LUPIN",
-      "url": "https://open.spotify.com/track/0RPaZVssxMLeWsFUcet8W7"
     },
     {
       "album": {
@@ -673,6 +578,48 @@
     },
     {
       "album": {
+        "name": "Telika",
+        "url": "https://open.spotify.com/album/7KZT0JODVGwQQmkudtO3ij"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "duration_ms": 261397,
+      "name": "Telika",
+      "url": "https://open.spotify.com/track/4CZiBLERDxvMQaieIlUklq"
+    },
+    {
+      "album": {
+        "name": "Rackattack",
+        "url": "https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3"
+      },
+      "artists": [
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 178757,
+      "name": "Prestige",
+      "url": "https://open.spotify.com/track/4gFO7c2q8Iku8bjylseQzT"
+    },
+    {
+      "album": {
         "name": "Funky",
         "url": "https://open.spotify.com/album/469ap8yEmPY7sRdzZjSuJ8"
       },
@@ -699,26 +646,15 @@
         {
           "name": "Bloody Hawk",
           "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        }
-      ],
-      "duration_ms": 226219,
-      "name": "Favori",
-      "url": "https://open.spotify.com/track/31LeU0W2AL3zLpdtgWniOv"
-    },
-    {
-      "album": {
-        "name": "Immortale",
-        "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
-      },
-      "artists": [
+        },
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "Trouf",
+          "url": "https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl"
         }
       ],
-      "duration_ms": 164374,
-      "name": "Woo Walk",
-      "url": "https://open.spotify.com/track/7zWzNwjF8nsGnQq3mJiG13"
+      "duration_ms": 195609,
+      "name": "Klasiko",
+      "url": "https://open.spotify.com/track/6Z355SHsrSax7zTHGR90Rz"
     },
     {
       "album": {
@@ -745,37 +681,75 @@
     },
     {
       "album": {
-        "name": "Aeraki (To Thiliko)",
-        "url": "https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv"
+        "name": "Timima",
+        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
       },
       "artists": [
         {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
         }
       ],
-      "duration_ms": 191356,
-      "name": "Aeraki - To Thiliko",
-      "url": "https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc"
+      "duration_ms": 261584,
+      "name": "Perithorio",
+      "url": "https://open.spotify.com/track/3QDGh4CIZeMAe9KTf64mPb"
     },
     {
       "album": {
-        "name": "Tsin Tsan Tson",
-        "url": "https://open.spotify.com/album/4CgGb9ruCwiwPDJVcc2QGd"
+        "name": "Immortale",
+        "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
       },
       "artists": [
         {
-          "name": "Lil PoP",
-          "url": "https://open.spotify.com/artist/6Z53MNjWyTH16xE6hXwttS"
-        },
-        {
-          "name": "Fy",
-          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Tsin Tsan Tson",
-      "url": "https://open.spotify.com/track/71kc0jVPtf1C9zxMe2YKAx"
+      "duration_ms": 164374,
+      "name": "Woo Walk",
+      "url": "https://open.spotify.com/track/7zWzNwjF8nsGnQq3mJiG13"
+    },
+    {
+      "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "album": {
+        "name": "Kokaina",
+        "url": "https://open.spotify.com/album/5l2Q7rWD2eBdcjRNLKUcrC"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "duration_ms": 150918,
+      "name": "Kokaina",
+      "url": "https://open.spotify.com/track/0mBpzm8OfmBouihZ54biML"
     },
     {
       "album": {
@@ -791,6 +765,116 @@
       "duration_ms": 213437,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/5sCiSMu4nWKgKQlHVyEaQq"
+    },
+    {
+      "album": {
+        "name": "Super Trapper II",
+        "url": "https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV"
+      },
+      "artists": [
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "duration_ms": 216158,
+      "name": "Elpida",
+      "url": "https://open.spotify.com/track/1JaBJC3gj7jSsNxsnYTzhj"
+    },
+    {
+      "album": {
+        "name": "Demon",
+        "url": "https://open.spotify.com/album/7J2fS3WzJpc8QS8e7dDL0q"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Demon",
+      "url": "https://open.spotify.com/track/4z9inVEJzwLMPpdLhFjb51"
+    },
+    {
+      "album": {
+        "name": "Aeraki (To Thiliko)",
+        "url": "https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 191356,
+      "name": "Aeraki - To Thiliko",
+      "url": "https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc"
+    },
+    {
+      "album": {
+        "name": "Super Trapper II",
+        "url": "https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV"
+      },
+      "artists": [
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Areti",
+      "url": "https://open.spotify.com/track/2rbSs3LMmRjqvE8OkjHlu9"
+    },
+    {
+      "album": {
+        "name": "Timima",
+        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "duration_ms": 191951,
+      "name": "Terma",
+      "url": "https://open.spotify.com/track/2Ge8G7EpWxyGApQSxKifaw"
+    },
+    {
+      "album": {
+        "name": "Aliteia",
+        "url": "https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY"
+      },
+      "artists": [
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Mia Zoi",
+      "url": "https://open.spotify.com/track/0iP2NME41Inz2Hb2tS6sKJ"
     },
     {
       "album": {
@@ -817,6 +901,40 @@
     },
     {
       "album": {
+        "name": "33:22",
+        "url": "https://open.spotify.com/album/3Gsx4TDvO8KoZADPJxFEMO"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        }
+      ],
+      "duration_ms": 163556,
+      "name": "BAM BAM",
+      "url": "https://open.spotify.com/track/3zpX9ccXEHY4TPJk6eZzaO"
+    },
+    {
+      "album": {
+        "name": "Timima",
+        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "duration_ms": 226219,
+      "name": "Favori",
+      "url": "https://open.spotify.com/track/31LeU0W2AL3zLpdtgWniOv"
+    },
+    {
+      "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
@@ -833,104 +951,6 @@
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
-    },
-    {
-      "album": {
-        "name": "Full Press",
-        "url": "https://open.spotify.com/album/5LFKGqyuMkDN76IfLCHBJY"
-      },
-      "artists": [
-        {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
-        },
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "Full Press",
-      "url": "https://open.spotify.com/track/1AJrznrjCng2wX8dy4LGXk"
-    },
-    {
-      "album": {
-        "name": "Kokaina",
-        "url": "https://open.spotify.com/album/5l2Q7rWD2eBdcjRNLKUcrC"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 150918,
-      "name": "Kokaina",
-      "url": "https://open.spotify.com/track/0mBpzm8OfmBouihZ54biML"
-    },
-    {
-      "album": {
-        "name": "Super Trapper II",
-        "url": "https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV"
-      },
-      "artists": [
-        {
-          "name": "Mad Clip",
-          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
-        }
-      ],
-      "duration_ms": 216158,
-      "name": "Elpida",
-      "url": "https://open.spotify.com/track/1JaBJC3gj7jSsNxsnYTzhj"
-    },
-    {
-      "album": {
-        "name": "Timima",
-        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        }
-      ],
-      "duration_ms": 207073,
-      "name": "Tameio",
-      "url": "https://open.spotify.com/track/5OPQQfeFTdMJIxPdFcUDGq"
-    },
-    {
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "album": {
-        "name": "Timima",
-        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        }
-      ],
-      "duration_ms": 207926,
-      "name": "Proseuxi",
-      "url": "https://open.spotify.com/track/4W1zxKEcYEC9a87mX3jaQ2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJqdarpmTJDL"
