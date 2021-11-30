@@ -83,21 +83,6 @@
     },
     {
       "album": {
-        "name": "Sisa Rasa",
-        "url": "https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 254863,
-      "name": "Sisa Rasa",
-      "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
-    },
-    {
-      "album": {
         "name": "Takut",
         "url": "https://open.spotify.com/album/7EDGBbCqiZ8X9ecuGAnziL"
       },
@@ -110,6 +95,21 @@
       "duration_ms": 319700,
       "name": "Takut",
       "url": "https://open.spotify.com/track/1qHddOZ7pwtmOsw0RmlKFx"
+    },
+    {
+      "album": {
+        "name": "Sisa Rasa",
+        "url": "https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 254863,
+      "name": "Sisa Rasa",
+      "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
     },
     {
       "album": {
@@ -128,21 +128,6 @@
     },
     {
       "album": {
-        "name": "Here's Your Perfect",
-        "url": "https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 158594,
-      "name": "Here's Your Perfect",
-      "url": "https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P"
-    },
-    {
-      "album": {
         "name": "Flying Solo",
         "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
       },
@@ -158,18 +143,18 @@
     },
     {
       "album": {
-        "name": "Duka",
-        "url": "https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q"
+        "name": "Here's Your Perfect",
+        "url": "https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w"
       },
       "artists": [
         {
-          "name": "Last Child",
-          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 325147,
-      "name": "Duka",
-      "url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC"
+      "duration_ms": 158594,
+      "name": "Here's Your Perfect",
+      "url": "https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P"
     },
     {
       "album": {
@@ -185,6 +170,21 @@
       "duration_ms": 240906,
       "name": "ONLY",
       "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
+    },
+    {
+      "album": {
+        "name": "Duka",
+        "url": "https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q"
+      },
+      "artists": [
+        {
+          "name": "Last Child",
+          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
+        }
+      ],
+      "duration_ms": 325147,
+      "name": "Duka",
+      "url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC"
     },
     {
       "album": {
@@ -252,18 +252,18 @@
     },
     {
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+      "duration_ms": 211483,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
     },
     {
       "album": {
@@ -286,18 +286,18 @@
     },
     {
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 211483,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "album": {
@@ -316,6 +316,21 @@
     },
     {
       "album": {
+        "name": "Every Summertime",
+        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 215686,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
+    },
+    {
+      "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
       },
@@ -328,21 +343,6 @@
       "duration_ms": 233720,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
-    },
-    {
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "album": {
@@ -361,37 +361,18 @@
     },
     {
       "album": {
-        "name": "Every Summertime",
-        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 215686,
-      "name": "Every Summertime",
-      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
-    },
-    {
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "album": {
@@ -429,18 +410,22 @@
     },
     {
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
       "album": {
@@ -459,22 +444,18 @@
     },
     {
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
       "album": {
@@ -523,6 +504,25 @@
     },
     {
       "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "album": {
         "name": "Terlukis Indah",
         "url": "https://open.spotify.com/album/5Qk3VFJJ4CKS3zcBNp2YRs"
       },
@@ -542,18 +542,22 @@
     },
     {
       "album": {
-        "name": "Cheating on You",
-        "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
+        "name": "if u could see me cryin' in my room",
+        "url": "https://open.spotify.com/album/1cxbID0RUggPVvxjvlORFR"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        },
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 196606,
-      "name": "Cheating on You",
-      "url": "https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq"
+      "duration_ms": 256867,
+      "name": "if u could see me cryin' in my room",
+      "url": "https://open.spotify.com/track/2yynRDKYqTLVTcP7FqoyVE"
     },
     {
       "album": {
@@ -572,6 +576,21 @@
     },
     {
       "album": {
+        "name": "Cheating on You",
+        "url": "https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 196606,
+      "name": "Cheating on You",
+      "url": "https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq"
+    },
+    {
+      "album": {
         "name": "Rapsodi",
         "url": "https://open.spotify.com/album/02ECGWaPjemLbarmHlPoge"
       },
@@ -584,25 +603,6 @@
       "duration_ms": 238672,
       "name": "Rapsodi",
       "url": "https://open.spotify.com/track/0WwLkbYBjwPYoEKegzOYVu"
-    },
-    {
-      "album": {
-        "name": "if u could see me cryin' in my room",
-        "url": "https://open.spotify.com/album/1cxbID0RUggPVvxjvlORFR"
-      },
-      "artists": [
-        {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
-        },
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 256867,
-      "name": "if u could see me cryin' in my room",
-      "url": "https://open.spotify.com/track/2yynRDKYqTLVTcP7FqoyVE"
     },
     {
       "album": {
@@ -681,6 +681,36 @@
     },
     {
       "album": {
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 262734,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "You're Gonna Live Forever in Me",
+      "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"
+    },
+    {
+      "album": {
         "name": "C.H.R.I.S.Y.E.",
         "url": "https://open.spotify.com/album/3CVNmMgqfF8Rr3tiOqFvkH"
       },
@@ -704,25 +734,6 @@
     },
     {
       "album": {
-        "name": "New Hope Club",
-        "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
-      },
-      "artists": [
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Know Me Too Well (with Danna Paola)",
-      "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
-    },
-    {
-      "album": {
         "name": "Berakhir Sama",
         "url": "https://open.spotify.com/album/4rl5wPXYNeOstk2aqxoKNp"
       },
@@ -742,33 +753,22 @@
     },
     {
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "New Hope Club",
+        "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        },
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 190013,
-      "name": "You're Gonna Live Forever in Me",
-      "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"
+      "duration_ms": 200600,
+      "name": "Know Me Too Well (with Danna Paola)",
+      "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
     },
     {
       "album": {
@@ -787,18 +787,18 @@
     },
     {
       "album": {
-        "name": "Mesin Waktu",
-        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 262734,
-      "name": "Mesin Waktu",
-      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbObFQZ3JLcXt"

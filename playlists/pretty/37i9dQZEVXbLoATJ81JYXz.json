@@ -34,21 +34,6 @@
     },
     {
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "album": {
         "name": "T\u00e4nd ett ljus",
         "url": "https://open.spotify.com/album/77F4Y9nEDz9AR4ib7aC7lw"
       },
@@ -91,36 +76,6 @@
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
-    },
-    {
-      "album": {
-        "name": "SOM DOM",
-        "url": "https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN"
-      },
-      "artists": [
-        {
-          "name": "Sarettii",
-          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "SOM DOM",
-      "url": "https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11"
-    },
-    {
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "album": {
@@ -173,44 +128,6 @@
     },
     {
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
-    },
-    {
-      "album": {
         "name": "Mer jul",
         "url": "https://open.spotify.com/album/4K5JVMha8JLkSlwvMitE6o"
       },
@@ -223,104 +140,6 @@
       "duration_ms": 236200,
       "name": "Mer jul - Klassisk Version",
       "url": "https://open.spotify.com/track/69S0Qwm02otD5zV1snmOG5"
-    },
-    {
-      "album": {
-        "name": "V\u00e4lkommen hem",
-        "url": "https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe"
-      },
-      "artists": [
-        {
-          "name": "E.M.D.",
-          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "V\u00e4lkommen hem",
-      "url": "https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD"
-    },
-    {
-      "album": {
-        "name": "Dirty Kalle",
-        "url": "https://open.spotify.com/album/6MdszrRxSJKK4yP2D1xiOU"
-      },
-      "artists": [
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        },
-        {
-          "name": "takenoelz",
-          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Dirty Kalle",
-      "url": "https://open.spotify.com/track/2kGlp16MjSJRPbFShyTjXb"
-    },
-    {
-      "album": {
-        "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
-        "url": "https://open.spotify.com/album/1XkpttQ0sG0O1C1ASKurDO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
-      "url": "https://open.spotify.com/track/4SLYrBfzgbLmiEdoKajyHL"
-    },
-    {
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "album": {
-        "name": "Hey Ho",
-        "url": "https://open.spotify.com/album/15gVgcNqgJvMN3xaVHRbcx"
-      },
-      "artists": [
-        {
-          "name": "Freddy Kalas",
-          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Hey Ho",
-      "url": "https://open.spotify.com/track/0eekaX32hUmJgcinPCL1iZ"
-    },
-    {
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
       "album": {
@@ -339,33 +158,33 @@
     },
     {
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "V\u00e4lkommen hem",
+        "url": "https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "E.M.D.",
+          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+      "duration_ms": 208480,
+      "name": "V\u00e4lkommen hem",
+      "url": "https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD"
     },
     {
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
       "album": {
@@ -388,135 +207,18 @@
     },
     {
       "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
-    },
-    {
-      "album": {
-        "name": "L\u00e4mna honom",
-        "url": "https://open.spotify.com/album/7veo0FwLrcfOOPVverDM4t"
-      },
-      "artists": [
-        {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
-        }
-      ],
-      "duration_ms": 182067,
-      "name": "L\u00e4mna honom",
-      "url": "https://open.spotify.com/track/5enkfv6k90BZuipWvzwcP5"
-    },
-    {
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-      "album": {
-        "name": "If I Should Fall from Grace with God (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
-      },
-      "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Fairytale of New York (feat. Kirsty MacColl)",
-      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
-    },
-    {
-      "album": {
-        "name": "Do They Know It's Christmas?",
-        "url": "https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5"
-      },
-      "artists": [
-        {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Do They Know It's Christmas? - 1984 Version",
-      "url": "https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf"
-    },
-    {
-      "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Happy Xmas (War Is Over) - Remastered 2010",
-      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
       "album": {
@@ -543,41 +245,131 @@
     },
     {
       "album": {
-        "name": "DANSA",
-        "url": "https://open.spotify.com/album/5pe5edaldK4cwvH2Crjgiw"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 167500,
-      "name": "DANSA",
-      "url": "https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT"
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
       "album": {
-        "name": "Moth To A Flame",
-        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "album": {
+        "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
+        "url": "https://open.spotify.com/album/1XkpttQ0sG0O1C1ASKurDO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
+      "url": "https://open.spotify.com/track/4SLYrBfzgbLmiEdoKajyHL"
+    },
+    {
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "album": {
+        "name": "Hey Ho",
+        "url": "https://open.spotify.com/album/15gVgcNqgJvMN3xaVHRbcx"
+      },
+      "artists": [
+        {
+          "name": "Freddy Kalas",
+          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Hey Ho",
+      "url": "https://open.spotify.com/track/0eekaX32hUmJgcinPCL1iZ"
+    },
+    {
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "album": {
+        "name": "Do They Know It's Christmas?",
+        "url": "https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf"
     },
     {
       "album": {
@@ -611,36 +403,6 @@
     },
     {
       "album": {
-        "name": "Vinterviken",
-        "url": "https://open.spotify.com/album/4bza1f2XnAhCSRYMhqQJmr"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 179460,
-      "name": "Eld & l\u00e5gor",
-      "url": "https://open.spotify.com/track/5etlUg6yiQ8565mdyrWUiP"
-    },
-    {
-      "album": {
-        "name": "08 ZOO",
-        "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 110163,
-      "name": "Trapper Of The Year (Intro) - Bonus Track",
-      "url": "https://open.spotify.com/track/5cKilVQ9iZamOzodVcYQZ2"
-    },
-    {
-      "album": {
         "name": "Juligen",
         "url": "https://open.spotify.com/album/0b86vMKRy4gCr66BAMEtrz"
       },
@@ -653,6 +415,119 @@
       "duration_ms": 168280,
       "name": "Juligen",
       "url": "https://open.spotify.com/track/1MMeScdLmniNyO4WMuoIxb"
+    },
+    {
+      "album": {
+        "name": "Skotth\u00e5l",
+        "url": "https://open.spotify.com/album/2KKbBDhF9V2kOP7ft7teK5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
+        }
+      ],
+      "duration_ms": 254126,
+      "name": "Skotth\u00e5l",
+      "url": "https://open.spotify.com/track/4SsT3j8JYrTbGUJrlIHJda"
+    },
+    {
+      "album": {
+        "name": "SOM DOM",
+        "url": "https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "duration_ms": 141360,
+      "name": "SOM DOM",
+      "url": "https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11"
+    },
+    {
+      "album": {
+        "name": "Tomten, jag vill ha en riktig jul",
+        "url": "https://open.spotify.com/album/6iKsg4UHcr2e8w1qNu6Msq"
+      },
+      "artists": [
+        {
+          "name": "Judit",
+          "url": "https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF"
+        },
+        {
+          "name": "Barnens jul",
+          "url": "https://open.spotify.com/artist/4fa39DDfkx8Z3gupRvfD78"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Tomten, jag vill ha en riktig jul",
+      "url": "https://open.spotify.com/track/520Jrg250xi0QXIKxFqK4n"
+    },
+    {
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "album": {
+        "name": "Den vintertid nu kommer",
+        "url": "https://open.spotify.com/album/2qNHigOx9qajdbrE6vyD4x"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 199344,
+      "name": "Den vintertid nu kommer",
+      "url": "https://open.spotify.com/track/0hSBZP9SodLCOLWmfgK9MK"
+    },
+    {
+      "album": {
+        "name": "Dirty Kalle",
+        "url": "https://open.spotify.com/album/6MdszrRxSJKK4yP2D1xiOU"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Dirty Kalle",
+      "url": "https://open.spotify.com/track/2kGlp16MjSJRPbFShyTjXb"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "album": {
@@ -671,140 +546,8 @@
     },
     {
       "album": {
-        "name": "AREA 36",
-        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 140893,
-      "name": "BLOCK",
-      "url": "https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW"
-    },
-    {
-      "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 210384,
-      "name": "Can I Get It",
-      "url": "https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN"
-    },
-    {
-      "album": {
-        "name": "TOPP",
-        "url": "https://open.spotify.com/album/0Gdq76sRxchoJchHllaFTX"
-      },
-      "artists": [
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        }
-      ],
-      "duration_ms": 152581,
-      "name": "TOPP",
-      "url": "https://open.spotify.com/track/3oF1ZBHm7qDn3bOxIrDEjy"
-    },
-    {
-      "album": {
-        "name": "Du kommer sakna mig mindre och mindre",
-        "url": "https://open.spotify.com/album/01wwtASy9mJ3BHK2UmTo5u"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Du kommer sakna mig mindre och mindre",
-      "url": "https://open.spotify.com/track/6nuAthwJbgk5V0utRqiASr"
-    },
-    {
-      "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
-    },
-    {
-      "album": {
-        "name": "One Right Now",
-        "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "One Right Now (with The Weeknd)",
-      "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
-    },
-    {
-      "album": {
-        "name": "Lova ingenting",
-        "url": "https://open.spotify.com/album/0YLkX04CphurAEYymWZAEA"
+        "name": "L\u00e4mna honom",
+        "url": "https://open.spotify.com/album/7veo0FwLrcfOOPVverDM4t"
       },
       "artists": [
         {
@@ -812,9 +555,254 @@
           "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
         }
       ],
-      "duration_ms": 176036,
-      "name": "Lova ingenting",
-      "url": "https://open.spotify.com/track/5AhYO6smgzU6ZXUwfg5QHB"
+      "duration_ms": 182067,
+      "name": "L\u00e4mna honom",
+      "url": "https://open.spotify.com/track/5enkfv6k90BZuipWvzwcP5"
+    },
+    {
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
+    },
+    {
+      "album": {
+        "name": "Carolas jul",
+        "url": "https://open.spotify.com/album/0X8bz9mbT7vwMnH8wGbID5"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Nu t\u00e4ndas tusen juleljus",
+      "url": "https://open.spotify.com/track/08D5bPhVLw01WdNchYxsqg"
+    },
+    {
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "album": {
+        "name": "Dum av dig",
+        "url": "https://open.spotify.com/album/5TaOOxNoZ5kUE3ahrNUd7g"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Dum av dig",
+      "url": "https://open.spotify.com/track/7Bar2zXeoRdjMuGLRaN1dU"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "album": {
+        "name": "Come Whatever, Come What May",
+        "url": "https://open.spotify.com/album/48I5yrMUYUbaMRVx88TsVj"
+      },
+      "artists": [
+        {
+          "name": "My Marianne",
+          "url": "https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn"
+        },
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 219051,
+      "name": "Come Whatever, Come What May",
+      "url": "https://open.spotify.com/track/7h6dAktpx3MeQMfqN84JBW"
+    },
+    {
+      "album": {
+        "name": "TILL_____FR\u00c5N_____",
+        "url": "https://open.spotify.com/album/12YzGnrZZ99j2C5eQciaTK"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 223395,
+      "name": "Fira jul med mig",
+      "url": "https://open.spotify.com/track/0V4WjLiC3Kg7pkGHN5O2cU"
+    },
+    {
+      "album": {
+        "name": "Tommy K\u00f6rberg - Julen \u00e4r h\u00e4r",
+        "url": "https://open.spotify.com/album/3sR4PxmOUhyEJ05g03O1A3"
+      },
+      "artists": [
+        {
+          "name": "Tommy K\u00f6rberg",
+          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
+        }
+      ],
+      "duration_ms": 251826,
+      "name": "O helga natt",
+      "url": "https://open.spotify.com/track/0XoGiZY2XtBW5qXB3ZzZOX"
+    },
+    {
+      "album": {
+        "name": "08 ZOO",
+        "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 110163,
+      "name": "Trapper Of The Year (Intro) - Bonus Track",
+      "url": "https://open.spotify.com/track/5cKilVQ9iZamOzodVcYQZ2"
+    },
+    {
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "album": {
+        "name": "Jag kommer hem igen till jul",
+        "url": "https://open.spotify.com/album/7CKtVeB9uIO6clD9N7qCLl"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "duration_ms": 366360,
+      "name": "Decembernatt (Halleluja)",
+      "url": "https://open.spotify.com/track/3b6mt8vlFS89uRx7kgKhkb"
+    },
+    {
+      "album": {
+        "name": "Tomten har \u00e5kt hem",
+        "url": "https://open.spotify.com/album/4gEn6W7pfZvA8tUd6ukHnD"
+      },
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "url": "https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS"
+        },
+        {
+          "name": "Helen Sj\u00f6holm",
+          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+        }
+      ],
+      "duration_ms": 148493,
+      "name": "Nu t\u00e4ndas tusen juleljus",
+      "url": "https://open.spotify.com/track/5PB7EuGxRLK1GQJjYJGhTD"
+    },
+    {
+      "album": {
+        "name": "\u00c4r",
+        "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
+      },
+      "artists": [
+        {
+          "name": "Tommy K\u00f6rberg",
+          "url": "https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Stad i ljus",
+      "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLoATJ81JYXz"
