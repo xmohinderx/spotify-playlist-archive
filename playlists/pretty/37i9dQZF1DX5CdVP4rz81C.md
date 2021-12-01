@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs. Cover: Montell Fish
+> Discover your favorite new chill pop songs. Cover: Bruno Major
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -224,16 +224,16 @@
       },
       "artists": [
         {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        },
-        {
           "name": "Rowdy Rebel",
           "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
         }
       ],
       "duration_ms": 205973,
-      "name": "Differences (feat. Rowdy Rebel)",
+      "name": "Differences",
       "url": "https://open.spotify.com/track/6tFcwSh4nygzReGqAqax7c"
     },
     {

@@ -42,63 +42,6 @@
     },
     {
       "album": {
-        "name": "Amea\u00e7a",
-        "url": "https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w"
-      },
-      "artists": [
-        {
-          "name": "Paulo Pires",
-          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
-        },
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
-        },
-        {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
-        }
-      ],
-      "duration_ms": 188096,
-      "name": "Amea\u00e7a",
-      "url": "https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP"
-    },
-    {
-      "album": {
-        "name": "Arranh\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 153409,
-      "name": "Arranh\u00e3o - Live - Palmas / 2021",
-      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
-    },
-    {
-      "album": {
-        "name": "Cora\u00e7\u00e3o Cachorro",
-        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
-      },
-      "artists": [
-        {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 150802,
-      "name": "Cora\u00e7\u00e3o Cachorro",
-      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
-    },
-    {
-      "album": {
         "name": "Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
       },
@@ -152,6 +95,44 @@
     },
     {
       "album": {
+        "name": "Arranh\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 153409,
+      "name": "Arranh\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
+    },
+    {
+      "album": {
+        "name": "Amea\u00e7a",
+        "url": "https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w"
+      },
+      "artists": [
+        {
+          "name": "Paulo Pires",
+          "url": "https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "duration_ms": 188096,
+      "name": "Amea\u00e7a",
+      "url": "https://open.spotify.com/track/4fSHADbZbhpZCT9oJpxwbP"
+    },
+    {
+      "album": {
         "name": "Toma Toma Vapo Vapo",
         "url": "https://open.spotify.com/album/4rRER0lWzXFbuYFvxQBEen"
       },
@@ -168,6 +149,25 @@
       "duration_ms": 156760,
       "name": "Toma Toma Vapo Vapo",
       "url": "https://open.spotify.com/track/5VTjBl3ddZEiG2LrH4VzyR"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cachorro",
+        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 150802,
+      "name": "Cora\u00e7\u00e3o Cachorro",
+      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
     },
     {
       "album": {
@@ -195,6 +195,21 @@
       "duration_ms": 235206,
       "name": "Ela me Falou Que Quer Rave",
       "url": "https://open.spotify.com/track/0JdkDCdrhMOaeXjIZdeBXN"
+    },
+    {
+      "album": {
+        "name": "De Primeira",
+        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186698,
+      "name": "Por Supuesto",
+      "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
     },
     {
       "album": {
@@ -232,21 +247,6 @@
     },
     {
       "album": {
-        "name": "Nota de Rep\u00fadio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 164949,
-      "name": "Nota de Rep\u00fadio - Ao Vivo",
-      "url": "https://open.spotify.com/track/3agFBAMPiIvzfTh7a9Udm6"
-    },
-    {
-      "album": {
         "name": "A Maior Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5t3C6hF6FRHj0kHJOT9vKW"
       },
@@ -257,7 +257,7 @@
         }
       ],
       "duration_ms": 190161,
-      "name": "A Maior Saudade - Live - Palmas / 2021",
+      "name": "A Maior Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/5Q0ZnQjk4lQpScX7ujswun"
     },
     {
@@ -289,52 +289,18 @@
     },
     {
       "album": {
-        "name": "Putariazinha",
-        "url": "https://open.spotify.com/album/6e6ytT287uBWcf6jz4qEIt"
+        "name": "Nota de Rep\u00fadio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0"
       },
       "artists": [
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 162461,
-      "name": "Putariazinha",
-      "url": "https://open.spotify.com/track/2jwrYBGz7osKI31v50bS7b"
-    },
-    {
-      "album": {
-        "name": "Eu Tenho a Senha",
-        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 157175,
-      "name": "Meu Peda\u00e7o de Pecado",
-      "url": "https://open.spotify.com/track/2kJRlOyrxsy7Ot3c5TZ8Q6"
-    },
-    {
-      "album": {
-        "name": "Parada Louca",
-        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "Parada Louca",
-      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
+      "duration_ms": 164949,
+      "name": "Nota de Rep\u00fadio - Ao Vivo",
+      "url": "https://open.spotify.com/track/3agFBAMPiIvzfTh7a9Udm6"
     },
     {
       "album": {
@@ -361,18 +327,37 @@
     },
     {
       "album": {
-        "name": "Chaaama",
-        "url": "https://open.spotify.com/album/7c3OrNevQnYSjGRFAjz5C1"
+        "name": "Putariazinha",
+        "url": "https://open.spotify.com/album/6e6ytT287uBWcf6jz4qEIt"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 154662,
-      "name": "Voc\u00ea Beberia Ou N\u00e3o Beberia?",
-      "url": "https://open.spotify.com/track/2ixi9HWJw5lnLDmRMsiCS5"
+      "duration_ms": 162461,
+      "name": "Putariazinha",
+      "url": "https://open.spotify.com/track/2jwrYBGz7osKI31v50bS7b"
+    },
+    {
+      "album": {
+        "name": "Parada Louca",
+        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Parada Louca",
+      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
     },
     {
       "album": {
@@ -388,6 +373,21 @@
       "duration_ms": 163324,
       "name": "Expectativa x Realidade",
       "url": "https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu"
+    },
+    {
+      "album": {
+        "name": "Eu Tenho a Senha",
+        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 157175,
+      "name": "Meu Peda\u00e7o de Pecado",
+      "url": "https://open.spotify.com/track/2kJRlOyrxsy7Ot3c5TZ8Q6"
     },
     {
       "album": {
@@ -410,37 +410,45 @@
     },
     {
       "album": {
-        "name": "Na Praia, Pt. 1",
-        "url": "https://open.spotify.com/album/2cHhUDgLaoPig2zlWJEMt2"
+        "name": "Chaaama",
+        "url": "https://open.spotify.com/album/7c3OrNevQnYSjGRFAjz5C1"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 225671,
-      "name": "Baby Me Atende",
-      "url": "https://open.spotify.com/track/1bWBG6IkMnDr3qvCKSvQT7"
+      "duration_ms": 154662,
+      "name": "Voc\u00ea Beberia Ou N\u00e3o Beberia?",
+      "url": "https://open.spotify.com/track/2ixi9HWJw5lnLDmRMsiCS5"
     },
     {
       "album": {
-        "name": "De Primeira",
-        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 186698,
-      "name": "Por Supuesto",
-      "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
       "album": {
@@ -467,37 +475,18 @@
     },
     {
       "album": {
-        "name": "Buteco in Boston, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK"
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 168689,
-      "name": "Bloqueado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a"
-    },
-    {
-      "album": {
-        "name": "Rol\u00ea",
-        "url": "https://open.spotify.com/album/29KnTFADlqksb1ol2HMhwK"
-      },
-      "artists": [
-        {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
-        },
-        {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
-        }
-      ],
-      "duration_ms": 174937,
-      "name": "Rol\u00ea",
-      "url": "https://open.spotify.com/track/50gPsfGHy5OnPauA9455DM"
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
       "album": {
@@ -520,23 +509,42 @@
     },
     {
       "album": {
-        "name": "Buteco in Boston, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs"
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 159750,
-      "name": "N\u00e3o Me Arranha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22"
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
     },
     {
       "album": {
-        "name": "Falando de Amor, Vol. 1",
-        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
+        "name": "Na Praia, Pt. 1",
+        "url": "https://open.spotify.com/album/2cHhUDgLaoPig2zlWJEMt2"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 225671,
+      "name": "Baby Me Atende",
+      "url": "https://open.spotify.com/track/1bWBG6IkMnDr3qvCKSvQT7"
+    },
+    {
+      "album": {
+        "name": "Buteco in Boston, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK"
       },
       "artists": [
         {
@@ -544,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 192725,
-      "name": "Ficha Limpa",
-      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
+      "duration_ms": 168689,
+      "name": "Bloqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a"
     },
     {
       "album": {
@@ -569,59 +577,6 @@
     },
     {
       "album": {
-        "name": "Localiza A\u00ed BB",
-        "url": "https://open.spotify.com/album/31UJICytrUt0Y9NqSxnwHI"
-      },
-      "artists": [
-        {
-          "name": "Vitor e Luan",
-          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 145308,
-      "name": "Localiza A\u00ed BB",
-      "url": "https://open.spotify.com/track/6fe5D0ivKnpXFMAnoSRjah"
-    },
-    {
-      "album": {
-        "name": "Brabo dos Pared\u00f5es",
-        "url": "https://open.spotify.com/album/6fnrD6gb7XwFCZMj7o44mN"
-      },
-      "artists": [
-        {
-          "name": "Jap\u00e3ozin",
-          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Carinha de Nen\u00e9m",
-      "url": "https://open.spotify.com/track/6T6SDJszPbuMCBpSm3aS3G"
-    },
-    {
-      "album": {
-        "name": "Senta Danada",
-        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 172621,
-      "name": "Senta Danada",
-      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
-    },
-    {
-      "album": {
         "name": "Bota a M\u00e3o no Ch\u00e3o",
         "url": "https://open.spotify.com/album/6SMo6kzL8OXwpQaKFSOFDX"
       },
@@ -641,21 +596,6 @@
     },
     {
       "album": {
-        "name": "MORENA",
-        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 193221,
-      "name": "MORENA",
-      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
-    },
-    {
-      "album": {
         "name": "Mete a Louca",
         "url": "https://open.spotify.com/album/2UUL0vRiQqdnFWBq32DihK"
       },
@@ -671,142 +611,22 @@
     },
     {
       "album": {
-        "name": "Chega E Senta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eziIhq1gZZXL7sfS5E1aS"
+        "name": "Localiza A\u00ed BB",
+        "url": "https://open.spotify.com/album/31UJICytrUt0Y9NqSxnwHI"
       },
       "artists": [
         {
-          "name": "John Amplificado",
-          "url": "https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy"
-        }
-      ],
-      "duration_ms": 153739,
-      "name": "Chega E Senta - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ookQf9qP2qiBuNFnNXyfl"
-    },
-    {
-      "album": {
-        "name": "Eu Tenho a Senha",
-        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Vitor e Luan",
+          "url": "https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac"
         },
-        {
-          "name": "Vitor Fernandes",
-          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
-        }
-      ],
-      "duration_ms": 239928,
-      "name": "Se For Amor",
-      "url": "https://open.spotify.com/track/5F2xRvRFkxDvqdFtUNAEyw"
-    },
-    {
-      "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
-    },
-    {
-      "album": {
-        "name": "Equil\u00edbrio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "Desbloqueado - Ao Vivo",
-      "url": "https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF"
-    },
-    {
-      "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
-    },
-    {
-      "album": {
-        "name": "Tudo Em Paz",
-        "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 174081,
-      "name": "Namorando Com Saudade",
-      "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
-    },
-    {
-      "album": {
-        "name": "Eu Tenho a Senha",
-        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 147072,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/0FqVtQxRD3HsPltldG5v5M"
-    },
-    {
-      "album": {
-        "name": "Acordo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm"
-      },
-      "artists": [
         {
           "name": "Henrique & Juliano",
           "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 169771,
-      "name": "Acordo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw"
-    },
-    {
-      "album": {
-        "name": "Troca de Cal\u00e7ada",
-        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 203158,
-      "name": "Troca de Cal\u00e7ada",
-      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
+      "duration_ms": 145308,
+      "name": "Localiza A\u00ed BB",
+      "url": "https://open.spotify.com/track/6fe5D0ivKnpXFMAnoSRjah"
     },
     {
       "album": {
@@ -865,60 +685,248 @@
     },
     {
       "album": {
-        "name": "Oi Deus",
-        "url": "https://open.spotify.com/album/5XUwW9ZpJjdqZnZw4cGnnR"
+        "name": "MORENA",
+        "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
       },
       "artists": [
         {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 211016,
-      "name": "Oi Deus",
-      "url": "https://open.spotify.com/track/6JIIejoN31NIn6BJsVS3cu"
+      "duration_ms": 193221,
+      "name": "MORENA",
+      "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
     },
     {
       "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+        "name": "Rol\u00ea",
+        "url": "https://open.spotify.com/album/29KnTFADlqksb1ol2HMhwK"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
         }
       ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+      "duration_ms": 174937,
+      "name": "Rol\u00ea",
+      "url": "https://open.spotify.com/track/50gPsfGHy5OnPauA9455DM"
     },
     {
       "album": {
-        "name": "Vestido Coladinho / Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1tC5NEn1dOizQjd42aA1RA"
+        "name": "Falando de Amor, Vol. 1",
+        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
       },
       "artists": [
         {
-          "name": "Max e Luan",
-          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 144516,
-      "name": "Vestido Coladinho",
-      "url": "https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1"
+      "duration_ms": 192725,
+      "name": "Ficha Limpa",
+      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
+    },
+    {
+      "album": {
+        "name": "Buteco in Boston, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "N\u00e3o Me Arranha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22"
+    },
+    {
+      "album": {
+        "name": "Brabo dos Pared\u00f5es",
+        "url": "https://open.spotify.com/album/6fnrD6gb7XwFCZMj7o44mN"
+      },
+      "artists": [
+        {
+          "name": "Jap\u00e3ozin",
+          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Carinha de Nen\u00e9m",
+      "url": "https://open.spotify.com/track/6T6SDJszPbuMCBpSm3aS3G"
+    },
+    {
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "album": {
+        "name": "Atg Tape",
+        "url": "https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Offlei Sounds",
+          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs"
+    },
+    {
+      "album": {
+        "name": "Senta Danada",
+        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 172621,
+      "name": "Senta Danada",
+      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
+    },
+    {
+      "album": {
+        "name": "Chega E Senta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eziIhq1gZZXL7sfS5E1aS"
+      },
+      "artists": [
+        {
+          "name": "John Amplificado",
+          "url": "https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy"
+        }
+      ],
+      "duration_ms": 153739,
+      "name": "Chega E Senta - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ookQf9qP2qiBuNFnNXyfl"
+    },
+    {
+      "album": {
+        "name": "Troca de Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 203158,
+      "name": "Troca de Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
+    },
+    {
+      "album": {
+        "name": "Equil\u00edbrio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "Desbloqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF"
+    },
+    {
+      "album": {
+        "name": "Eu Tenho a Senha",
+        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Vitor Fernandes",
+          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
+        }
+      ],
+      "duration_ms": 239928,
+      "name": "Se For Amor",
+      "url": "https://open.spotify.com/track/5F2xRvRFkxDvqdFtUNAEyw"
+    },
+    {
+      "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "Tudo Em Paz",
+        "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 174081,
+      "name": "Namorando Com Saudade",
+      "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
+    },
+    {
+      "album": {
+        "name": "Acordo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 169771,
+      "name": "Acordo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMXbN3EUUhlg"
