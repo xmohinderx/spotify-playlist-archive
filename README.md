@@ -227,6 +227,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Techno Bunker](/playlists/pretty/37i9dQZF1DX6J5NfMJS675.md)
 - [The Glow Up](/playlists/pretty/37i9dQZF1DWZ0Y50OtuhLO.md)
 - [The Good Cup](/playlists/pretty/37i9dQZF1DWUEbH7oMQunS.md)
+- [The Midnight Radio](/playlists/pretty/37i9dQZF1E4Dmnn4U23IpI.md)
 - [The Other List](/playlists/pretty/37i9dQZF1DXazOBCyyv15E.md)
 - [The Piano Bar](/playlists/pretty/37i9dQZF1DWVvXA824aCbn.md)
 - [The Sound of Medieval](/playlists/pretty/6ckHBekHAoozIV6ISOmvq1.md)

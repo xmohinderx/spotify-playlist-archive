@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Nicki Minaj, Frankie J, Snoop Dogg and more
+> With Bruno Mars, Nicki Minaj, Ty Dolla $ign, Drake and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

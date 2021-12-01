@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LOYALS, La Bouquet, The Ivy and more
+> With LOYALS, Handsome Ghost, Jet Black Alley Cat and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
