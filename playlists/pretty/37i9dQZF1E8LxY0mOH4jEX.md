@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Kendrick Lamar, Frankie J, Justin Bieber and more
+> With Bruno Mars, Train, Calvin Harris, Jonas Blue and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

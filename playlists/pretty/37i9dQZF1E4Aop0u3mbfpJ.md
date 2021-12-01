@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With John Legend, Ava Max, Katy Perry and more
+> With Carly Rae Jepsen, MARINA, Little Mix and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

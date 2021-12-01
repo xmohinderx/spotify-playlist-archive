@@ -1,7 +1,22 @@
 {
-  "description": "New Music Discovery is what we're about.  Try it on for size. Cover: Elvie Shane",
+  "description": "New Music Discovery is what we're about.  Try it on for size. Cover: Gabby Barrett",
   "name": "New Boots",
   "tracks": [
+    {
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
+    },
     {
       "album": {
         "name": "Backslider",
@@ -61,21 +76,6 @@
       "duration_ms": 174133,
       "name": "You Won't",
       "url": "https://open.spotify.com/track/5T7tAeTKV5AfW6u9ZJeCg0"
-    },
-    {
-      "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
     },
     {
       "album": {
