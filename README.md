@@ -182,6 +182,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [New Music Friday](/playlists/pretty/37i9dQZF1DX4JAvHpjipBk.md)
 - [New Pop Revolution](/playlists/pretty/37i9dQZF1DWXetIPpoiRSb.md)
 - [Night Pop](/playlists/pretty/37i9dQZF1DXbcP8BbYEQaO.md)
+- [NIGHT TRAVELER Radio](/playlists/pretty/37i9dQZF1E4kTD46HZNyiq.md)
 - [Not Quite Classical](/playlists/pretty/37i9dQZF1DWSw8liJZcPOI.md)
 - [Now Loading](/playlists/pretty/37i9dQZF1DX8GjsySWIS1x.md)
 - [Orgánica](/playlists/pretty/37i9dQZF1DX2pprEpa9URZ.md)

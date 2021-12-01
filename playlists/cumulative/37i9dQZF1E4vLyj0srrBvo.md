@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With FKA twigs, Purity Ring, Warpaint and more
+> With Weyes Blood, Kero Kero Bonito, Caroline Polachek and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

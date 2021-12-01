@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Mat Kearney, Kina Grannis, Leon Bridges and more
+> With John Mayer, Jordy Searcy, Adam Melchor, Juke Ross and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
