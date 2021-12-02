@@ -42,6 +42,21 @@
     },
     {
       "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
+    },
+    {
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1"
       },
@@ -138,6 +153,21 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+    },
+    {
+      "album": {
+        "name": "WE ARE (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 177422,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/4qBuY6UbPKReY424xbbt8k"
     },
     {
       "album": {
@@ -360,21 +390,6 @@
       "duration_ms": 289653,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa"
-    },
-    {
-      "album": {
-        "name": "I Still Believe",
-        "url": "https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 218459,
-      "name": "I Still Believe",
-      "url": "https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g"
     },
     {
       "album": {
@@ -1530,25 +1545,6 @@
       "duration_ms": 144013,
       "name": "Stunnin'",
       "url": "https://open.spotify.com/track/2LUdpPCiiza6UQugipjMeS"
-    },
-    {
-      "album": {
-        "name": "High Dive",
-        "url": "https://open.spotify.com/album/6XflHpjVENQ2zmbA2D97x3"
-      },
-      "artists": [
-        {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
-        },
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "High Dive",
-      "url": "https://open.spotify.com/track/7K8vj9DAMdbaZdP8I5b6r8"
     },
     {
       "album": {

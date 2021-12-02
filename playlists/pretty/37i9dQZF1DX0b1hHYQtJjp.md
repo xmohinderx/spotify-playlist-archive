@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Ease into these recent hits and new songs from your favorite artists. Cover: OneRepublic
+> Ease into these recent hits and new songs from your favorite artists. Cover: Adele
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
