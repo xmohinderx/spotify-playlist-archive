@@ -51,6 +51,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 
 ## Playlists
 
+- [#ThrowbackThursday](/playlists/pretty/37i9dQZF1DWWwaxRea1LWS.md)
 - [2010s Hits ](/playlists/pretty/1tPWTwuxOLsE2Do1JQSUxA.md)
 - [24K Magic Radio](/playlists/pretty/37i9dQZF1E8LxY0mOH4jEX.md)
 - [8 Bit Hits](/playlists/pretty/37i9dQZF1DWVr03NrIUlx5.md)
@@ -235,7 +236,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Grimes](/playlists/pretty/37i9dQZF1DWY6vYEZez2Jm.md)
 - [This Is Lady Gaga](/playlists/pretty/37i9dQZF1DXc7FZ2VBjaeT.md)
 - [This Is Tiësto](/playlists/pretty/37i9dQZF1DX1nSIVoqxfC0.md)
-- [Throwback Thursday](/playlists/pretty/37i9dQZF1DWWwaxRea1LWS.md)
 - [Today's Top Hits](/playlists/pretty/37i9dQZF1DXcBWIGoYBM5M.md)
 - [Top 50 - Argentina](/playlists/pretty/37i9dQZEVXbMMy2roB9myp.md)
 - [Top 50 - Australia](/playlists/pretty/37i9dQZEVXbJPcfkRz0wJ0.md)

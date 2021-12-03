@@ -1,7 +1,22 @@
 {
-  "description": "The home of the best new alternative music. Cover: April",
+  "description": "The home of the best new alternative music. Cover: Bakar",
   "name": "The Other List",
   "tracks": [
+    {
+      "album": {
+        "name": "Player Of Games",
+        "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 245542,
+      "name": "Player Of Games",
+      "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
+    },
     {
       "album": {
         "name": "2gether",
@@ -19,18 +34,18 @@
     },
     {
       "album": {
-        "name": "The Only Heartbreaker",
-        "url": "https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY"
+        "name": "Build Me a Way",
+        "url": "https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 184549,
-      "name": "The Only Heartbreaker",
-      "url": "https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0"
+      "duration_ms": 141932,
+      "name": "Build Me a Way - Single Version",
+      "url": "https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1"
     },
     {
       "album": {
@@ -76,6 +91,21 @@
       "duration_ms": 192057,
       "name": "The Sneaker Dance",
       "url": "https://open.spotify.com/track/2TDNm30iOmYTE9uiGSr2D8"
+    },
+    {
+      "album": {
+        "name": "It's All Smiles",
+        "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Remember November / Bitcrush*Yr*Life",
+      "url": "https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n"
     },
     {
       "album": {
@@ -169,6 +199,21 @@
     },
     {
       "album": {
+        "name": "Concorde",
+        "url": "https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 363773,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
+    },
+    {
+      "album": {
         "name": "Prioritise Pleasure",
         "url": "https://open.spotify.com/album/6Q4b8zTe5hFiDaUxNOiBih"
       },
@@ -181,6 +226,36 @@
       "duration_ms": 225133,
       "name": "You Forever",
       "url": "https://open.spotify.com/track/22TbnNQfy6oExwnkdaIkgj"
+    },
+    {
+      "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/34j8YJsJeNk0w40zly0bIg"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/07hOzKVyZJpMG2bzt2Lyfh"
+    },
+    {
+      "album": {
+        "name": "The Only Heartbreaker",
+        "url": "https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 184549,
+      "name": "The Only Heartbreaker",
+      "url": "https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0"
     },
     {
       "album": {
@@ -298,6 +373,21 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/3mx9EbDkSUHiwn6ifsgwf8"
+    },
+    {
+      "album": {
+        "name": "Don't Wake Me",
+        "url": "https://open.spotify.com/album/1FIS1FhCwX2pUkwOfcX4YV"
+      },
+      "artists": [
+        {
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+        }
+      ],
+      "duration_ms": 207382,
+      "name": "Don't Wake Me",
+      "url": "https://open.spotify.com/track/4U4KDzehDSENYOeCWZOUeN"
     },
     {
       "album": {
@@ -1167,96 +1257,6 @@
       "duration_ms": 163546,
       "name": "Look Who's Talking Now",
       "url": "https://open.spotify.com/track/7pBrxcdFVknOlSxbr1Zs0j"
-    },
-    {
-      "album": {
-        "name": "lived to love",
-        "url": "https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk"
-      },
-      "artists": [
-        {
-          "name": "808vic",
-          "url": "https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM"
-        }
-      ],
-      "duration_ms": 255517,
-      "name": "lived to love",
-      "url": "https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj"
-    },
-    {
-      "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/3P4xycP0wCQBxFGHWUVmud"
-      },
-      "artists": [
-        {
-          "name": "Evan Torrente",
-          "url": "https://open.spotify.com/artist/4DVUPd8bfkx2b1TvHKFVVF"
-        }
-      ],
-      "duration_ms": 181061,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/030CNJwkkIkLedZhBlLReh"
-    },
-    {
-      "album": {
-        "name": "Supertext",
-        "url": "https://open.spotify.com/album/6eaSsNcZcsEvhYr2mF9rqX"
-      },
-      "artists": [
-        {
-          "name": "Salmon Cat",
-          "url": "https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs"
-        }
-      ],
-      "duration_ms": 106153,
-      "name": "Frankie Intoleratoriano",
-      "url": "https://open.spotify.com/track/47V2Zavu8Prbz4cPi3C3V0"
-    },
-    {
-      "album": {
-        "name": "Jimothy's House Party Package 2",
-        "url": "https://open.spotify.com/album/2Cq5Gdeb4C0li2Iq1kHb3K"
-      },
-      "artists": [
-        {
-          "name": "Jimothy Lacoste",
-          "url": "https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Describe Hampstead Heath",
-      "url": "https://open.spotify.com/track/27ZKnDhZ2ilRTe20qXHGCN"
-    },
-    {
-      "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/5XkY8YeCIuLFSzWrbqxZRy"
-      },
-      "artists": [
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 154699,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/1PY6byCQf1GOZ5BYW6voXu"
-    },
-    {
-      "album": {
-        "name": "Vanities",
-        "url": "https://open.spotify.com/album/0DFLso9WkeXaxg2CCmo4Sy"
-      },
-      "artists": [
-        {
-          "name": "W. H. Lung",
-          "url": "https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM"
-        }
-      ],
-      "duration_ms": 277520,
-      "name": "Somebody Like",
-      "url": "https://open.spotify.com/track/0TDKZodMns33c214lU3dSD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E"

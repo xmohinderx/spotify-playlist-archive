@@ -821,6 +821,21 @@
     },
     {
       "album": {
+        "name": "Factory",
+        "url": "https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "duration_ms": 198540,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX"
+    },
+    {
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1"
       },
