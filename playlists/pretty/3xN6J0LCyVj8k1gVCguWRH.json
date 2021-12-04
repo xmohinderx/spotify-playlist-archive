@@ -791,6 +791,21 @@
     },
     {
       "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/75MBmrvD6Qxn8npPxQsE6D"
+      },
+      "artists": [
+        {
+          "name": "Sofi Gev",
+          "url": "https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd"
+        }
+      ],
+      "duration_ms": 218731,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/5LPOEyQk3KLN1gPBWgC8iR"
+    },
+    {
+      "album": {
         "name": "Caught In A Twilight Zone",
         "url": "https://open.spotify.com/album/2rMsaTVc3ilQAO2dfIkWeZ"
       },
@@ -965,6 +980,21 @@
       "duration_ms": 223120,
       "name": "Love You For A Long Time",
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
+    },
+    {
+      "album": {
+        "name": "Fool's Gold",
+        "url": "https://open.spotify.com/album/6HlgxuyeOCJRLvhe3DSimo"
+      },
+      "artists": [
+        {
+          "name": "DALE",
+          "url": "https://open.spotify.com/artist/06wUJg0I0A4Eda5TxDqxvF"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/4DlZJSsJ2uVsiyBAYLp46z"
     },
     {
       "album": {
@@ -1900,6 +1930,21 @@
     },
     {
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/413I3mYIaTTK77clzYge2o"
+      },
+      "artists": [
+        {
+          "name": "Superjava",
+          "url": "https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp"
+        }
+      ],
+      "duration_ms": 235393,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5cvV0HNm9vSZeKZbK3Avjr"
+    },
+    {
+      "album": {
         "name": "Life She Don't Lie",
         "url": "https://open.spotify.com/album/2NkE0EbSOSxluLlF2dD1MC"
       },
@@ -1912,6 +1957,36 @@
       "duration_ms": 204405,
       "name": "Life She Don't Lie",
       "url": "https://open.spotify.com/track/0yRX4OIvoWfzobLpTB4958"
+    },
+    {
+      "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/1Ase5h8AqY2Yjqvkx4PDn4"
+      },
+      "artists": [
+        {
+          "name": "Asher Knight",
+          "url": "https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/0EU7sKieoK2lI9LJC3VH7n"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0YnR8And3GQKesjdB3v7J6"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/45aFWypKufk1VnRCeWXMPi"
     },
     {
       "album": {
@@ -1945,6 +2020,36 @@
     },
     {
       "album": {
+        "name": "curve me",
+        "url": "https://open.spotify.com/album/0ep7mJ4EqYeHitmGUDevJs"
+      },
+      "artists": [
+        {
+          "name": "clide",
+          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
+        }
+      ],
+      "duration_ms": 166795,
+      "name": "curve me",
+      "url": "https://open.spotify.com/track/5wEEsLCDkK17pSIgFYnapU"
+    },
+    {
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/08MkaEmLn6GsAcjFQ8OUfg"
+      },
+      "artists": [
+        {
+          "name": "dezabel",
+          "url": "https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ"
+        }
+      ],
+      "duration_ms": 185838,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/5zN8t1TBag3LO7d8KBFcCt"
+    },
+    {
+      "album": {
         "name": "Music Is My Way Of Life (JKriv Remix)",
         "url": "https://open.spotify.com/album/4SPyd2Z0wZNort5bJnDPyO"
       },
@@ -1965,6 +2070,21 @@
       "duration_ms": 352000,
       "name": "Music Is My Way Of Life - JKriv Remix",
       "url": "https://open.spotify.com/track/5DLEESU416w0XuJwr4ceux"
+    },
+    {
+      "album": {
+        "name": "I Will Love You",
+        "url": "https://open.spotify.com/album/7156y5FwxdQXXCGnlvAQhr"
+      },
+      "artists": [
+        {
+          "name": "The Mailman",
+          "url": "https://open.spotify.com/artist/0F7XjXIIqrMS2lRxUJ2QOO"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "I Will Love You",
+      "url": "https://open.spotify.com/track/4CfIgZkL9ba7JswYmMCUFb"
     },
     {
       "album": {

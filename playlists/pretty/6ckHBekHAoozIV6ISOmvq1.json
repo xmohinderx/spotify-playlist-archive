@@ -1,5 +1,5 @@
 {
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:5Mk2p8ZkgMpR8d2v2VdSfs\">2020</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2\">2021</a>; or the Sounds of <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a> or <a href=\"spotify:playlist:1RatTJrho9K5z9OVCqeU7Z\">American Early Music</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -880,29 +880,6 @@
     },
     {
       "album": {
-        "name": "Adam De La Halle: Jeu De Robin Et De Marion (Le)",
-        "url": "https://open.spotify.com/album/7dmIdo5biRHkicdEusfaTW"
-      },
-      "artists": [
-        {
-          "name": "Adam de la Halle",
-          "url": "https://open.spotify.com/artist/5subEsI7oTDLALzsVZ6Fvw"
-        },
-        {
-          "name": "Tonus Peregrinus",
-          "url": "https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8"
-        },
-        {
-          "name": "Antony Pitts",
-          "url": "https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "Le jeu de Robin et de Marion (The Play of Robin and Marion): Scene 1: Marion is happily minding her own business\u2026Robins m'aime (Marion)",
-      "url": "https://open.spotify.com/track/3GyPYmwzX1nQcJA8w0wIP1"
-    },
-    {
-      "album": {
         "name": "Medieval Music (The Cross of Red - Music of Love and War From the Time of the Crusades)(New Orleans Musica Da Camera)",
         "url": "https://open.spotify.com/album/6EegVugkPEUROWKfqzjq16"
       },
@@ -946,6 +923,29 @@
       "duration_ms": 727733,
       "name": "Tant m'abellis l'amoros pessamens",
       "url": "https://open.spotify.com/track/20TugFDXiSjgHRQMLLKfNm"
+    },
+    {
+      "album": {
+        "name": "Adam De La Halle: Jeu De Robin Et De Marion (Le)",
+        "url": "https://open.spotify.com/album/7dmIdo5biRHkicdEusfaTW"
+      },
+      "artists": [
+        {
+          "name": "Adam de la Halle",
+          "url": "https://open.spotify.com/artist/5subEsI7oTDLALzsVZ6Fvw"
+        },
+        {
+          "name": "Tonus Peregrinus",
+          "url": "https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8"
+        },
+        {
+          "name": "Antony Pitts",
+          "url": "https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "Le jeu de Robin et de Marion (The Play of Robin and Marion): Scene 1: Marion is happily minding her own business\u2026Robins m'aime (Marion)",
+      "url": "https://open.spotify.com/track/3GyPYmwzX1nQcJA8w0wIP1"
     },
     {
       "album": {
@@ -1029,6 +1029,25 @@
     },
     {
       "album": {
+        "name": "The Art of Courtly Love",
+        "url": "https://open.spotify.com/album/70KRmPaErTPC0sUTPWpE7U"
+      },
+      "artists": [
+        {
+          "name": "Borlet",
+          "url": "https://open.spotify.com/artist/3xcj6rvnpBwpAtRqIxzEjP"
+        },
+        {
+          "name": "David Munrow",
+          "url": "https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Borlet: He, tres doulz roussignoi / Ma tredol roussignoi",
+      "url": "https://open.spotify.com/track/6jjsjiIXyeNtktp6KRTIb3"
+    },
+    {
+      "album": {
         "name": "Dante & Troubadours",
         "url": "https://open.spotify.com/album/1sd7qeCDtPPy28UyFchlAU"
       },
@@ -1056,22 +1075,22 @@
     },
     {
       "album": {
-        "name": "The Art of Courtly Love",
-        "url": "https://open.spotify.com/album/70KRmPaErTPC0sUTPWpE7U"
+        "name": "The Second Circle - Love Songs of Francesco Landini",
+        "url": "https://open.spotify.com/album/2AzN7JVvVU0N8jaHTwQilQ"
       },
       "artists": [
         {
-          "name": "Borlet",
-          "url": "https://open.spotify.com/artist/3xcj6rvnpBwpAtRqIxzEjP"
+          "name": "Francesco Landini",
+          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
         },
         {
-          "name": "David Munrow",
-          "url": "https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz"
+          "name": "Anonymous 4",
+          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
         }
       ],
-      "duration_ms": 310360,
-      "name": "Borlet: He, tres doulz roussignoi / Ma tredol roussignoi",
-      "url": "https://open.spotify.com/track/6jjsjiIXyeNtktp6KRTIb3"
+      "duration_ms": 225266,
+      "name": "Nella partita",
+      "url": "https://open.spotify.com/track/1OOjjMEXPmRnXzsv9dFK9V"
     },
     {
       "album": {
@@ -1095,25 +1114,6 @@
       "duration_ms": 257546,
       "name": "Aspire refus contre doulce priere",
       "url": "https://open.spotify.com/track/2ERC147YmociX27DagDhqC"
-    },
-    {
-      "album": {
-        "name": "The Second Circle - Love Songs of Francesco Landini",
-        "url": "https://open.spotify.com/album/2AzN7JVvVU0N8jaHTwQilQ"
-      },
-      "artists": [
-        {
-          "name": "Francesco Landini",
-          "url": "https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI"
-        },
-        {
-          "name": "Anonymous 4",
-          "url": "https://open.spotify.com/artist/2fsxWaUlPGliEYa0nnnTtd"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Nella partita",
-      "url": "https://open.spotify.com/track/1OOjjMEXPmRnXzsv9dFK9V"
     },
     {
       "album": {
@@ -1518,6 +1518,29 @@
     },
     {
       "album": {
+        "name": "Dreams of Andalusia",
+        "url": "https://open.spotify.com/album/5y8NjlsYiQv36lJoLlEZjd"
+      },
+      "artists": [
+        {
+          "name": "Unknown",
+          "url": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57"
+        },
+        {
+          "name": "Joglaresa",
+          "url": "https://open.spotify.com/artist/7bZdwLmNj3n0tbXzP0ypkC"
+        },
+        {
+          "name": "Belinda Sykes",
+          "url": "https://open.spotify.com/artist/6LKtUfzTJhuvG7A7plchmn"
+        }
+      ],
+      "duration_ms": 419373,
+      "name": "Al Pasar por Casablanca",
+      "url": "https://open.spotify.com/track/3iNaGI3Y6XtDQdUtbGCaYV"
+    },
+    {
+      "album": {
         "name": "Translations",
         "url": "https://open.spotify.com/album/3HaB13KWjLuyTiaIU39083"
       },
@@ -1550,29 +1573,6 @@
       "duration_ms": 217546,
       "name": "O salutaris hostia",
       "url": "https://open.spotify.com/track/4aUhHjaW2S0eBrPRWNY5N7"
-    },
-    {
-      "album": {
-        "name": "Dreams of Andalusia",
-        "url": "https://open.spotify.com/album/5y8NjlsYiQv36lJoLlEZjd"
-      },
-      "artists": [
-        {
-          "name": "Unknown",
-          "url": "https://open.spotify.com/artist/2MpxaqGTQeft5RU4wvwm57"
-        },
-        {
-          "name": "Joglaresa",
-          "url": "https://open.spotify.com/artist/7bZdwLmNj3n0tbXzP0ypkC"
-        },
-        {
-          "name": "Belinda Sykes",
-          "url": "https://open.spotify.com/artist/6LKtUfzTJhuvG7A7plchmn"
-        }
-      ],
-      "duration_ms": 419373,
-      "name": "Al Pasar por Casablanca",
-      "url": "https://open.spotify.com/track/3iNaGI3Y6XtDQdUtbGCaYV"
     },
     {
       "album": {
@@ -1639,9 +1639,9 @@
           "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
         }
       ],
-      "duration_ms": 269226,
-      "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
-      "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
+      "duration_ms": 515466,
+      "name": "Cantigas de Santa Maria: Madre de Deus",
+      "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
     },
     {
       "album": {
@@ -1703,22 +1703,22 @@
     },
     {
       "album": {
-        "name": "Alfonso X: Cantiga No. 109 / Bernger Von Horheim: Nu Enbeiz Ich Doch Des Trankes Nie / Vaqueiras, R.: Kalenda Maya (Codex Manesse) (I Ciarlatani)",
-        "url": "https://open.spotify.com/album/6SWNUlJtwyfOvBJDYxvBt3"
+        "name": "A L'Estampida - Medieval Dance Music",
+        "url": "https://open.spotify.com/album/5hibeupDKUDQXs0N4Jbzeh"
       },
       "artists": [
         {
-          "name": "Dietmar Von Aist",
-          "url": "https://open.spotify.com/artist/388uf12dUIRfwI0GFdJ4rG"
+          "name": "French 13th Cent.",
+          "url": "https://open.spotify.com/artist/1JJCpGoS1vMefQUupm7ZEj"
         },
         {
-          "name": "Ciarlatani, I",
-          "url": "https://open.spotify.com/artist/7pRsGFHLKgrNgtOrltHfio"
+          "name": "The Dufay Collective",
+          "url": "https://open.spotify.com/artist/1x40zidU6Q8RGgtpzcdFzS"
         }
       ],
-      "duration_ms": 322906,
-      "name": "Der winter were mir ein zit",
-      "url": "https://open.spotify.com/track/0jTs4jgwoBO3P5eYhmPgHf"
+      "duration_ms": 207346,
+      "name": "Estampie Real: La Seste",
+      "url": "https://open.spotify.com/track/0O7ppHNGGXYrs5Uq7uSlYf"
     },
     {
       "album": {
@@ -1745,22 +1745,22 @@
     },
     {
       "album": {
-        "name": "Machaut: Messe de Nostre Dame & L'amour courtois",
-        "url": "https://open.spotify.com/album/78k7AI4vSjb33audM3hOTO"
+        "name": "Alfonso X: Cantiga No. 109 / Bernger Von Horheim: Nu Enbeiz Ich Doch Des Trankes Nie / Vaqueiras, R.: Kalenda Maya (Codex Manesse) (I Ciarlatani)",
+        "url": "https://open.spotify.com/album/6SWNUlJtwyfOvBJDYxvBt3"
       },
       "artists": [
         {
-          "name": "Guillaume de Machaut",
-          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
+          "name": "Dietmar Von Aist",
+          "url": "https://open.spotify.com/artist/388uf12dUIRfwI0GFdJ4rG"
         },
         {
-          "name": "Ars Antiqua de Paris",
-          "url": "https://open.spotify.com/artist/2VQVek9nrK6orkE73Ip7oB"
+          "name": "Ciarlatani, I",
+          "url": "https://open.spotify.com/artist/7pRsGFHLKgrNgtOrltHfio"
         }
       ],
-      "duration_ms": 413826,
-      "name": "Messe de Nostre Dame: Kyrie I, Christe, Kyrie II, Kyrie III",
-      "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
+      "duration_ms": 322906,
+      "name": "Der winter were mir ein zit",
+      "url": "https://open.spotify.com/track/0jTs4jgwoBO3P5eYhmPgHf"
     },
     {
       "album": {
@@ -1791,6 +1791,25 @@
     },
     {
       "album": {
+        "name": "Machaut: Messe de Nostre Dame & L'amour courtois",
+        "url": "https://open.spotify.com/album/78k7AI4vSjb33audM3hOTO"
+      },
+      "artists": [
+        {
+          "name": "Guillaume de Machaut",
+          "url": "https://open.spotify.com/artist/26CZyrNgtF9nzfUE8C8LFd"
+        },
+        {
+          "name": "Ars Antiqua de Paris",
+          "url": "https://open.spotify.com/artist/2VQVek9nrK6orkE73Ip7oB"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Messe de Nostre Dame: Kyrie I, Christe, Kyrie II, Kyrie III",
+      "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
+    },
+    {
+      "album": {
         "name": "The Unicorn (Apex)",
         "url": "https://open.spotify.com/album/4QayNb0zF8KZRUr57GK49a"
       },
@@ -1810,25 +1829,6 @@
     },
     {
       "album": {
-        "name": "A L'Estampida - Medieval Dance Music",
-        "url": "https://open.spotify.com/album/5hibeupDKUDQXs0N4Jbzeh"
-      },
-      "artists": [
-        {
-          "name": "French 13th Cent.",
-          "url": "https://open.spotify.com/artist/1JJCpGoS1vMefQUupm7ZEj"
-        },
-        {
-          "name": "The Dufay Collective",
-          "url": "https://open.spotify.com/artist/1x40zidU6Q8RGgtpzcdFzS"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Estampie Real: La Seste",
-      "url": "https://open.spotify.com/track/0O7ppHNGGXYrs5Uq7uSlYf"
-    },
-    {
-      "album": {
         "name": "Danze Strumentali Medievali Italiane, Vol. 1",
         "url": "https://open.spotify.com/album/5x4JOm3YZnFW9UbjMRH0ag"
       },
@@ -1845,25 +1845,6 @@
       "duration_ms": 407666,
       "name": "Chominciamento di Gioia",
       "url": "https://open.spotify.com/track/070SFuEvw0zrfnB2kF2Jfh"
-    },
-    {
-      "album": {
-        "name": "The Cantigas of Santa Maria of Alfonso X",
-        "url": "https://open.spotify.com/album/0shYPUy5PjhvDyHv2krtzW"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Martin Best Ensemble",
-          "url": "https://open.spotify.com/artist/07vXqjdaQ0h9gf4feUmZUV"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "He who wishes to praise a good lady",
-      "url": "https://open.spotify.com/track/6dozczwNmPQeHney5UmsFd"
     },
     {
       "album": {
@@ -1911,6 +1892,25 @@
       "duration_ms": 366533,
       "name": "Un pellegrin uccel",
       "url": "https://open.spotify.com/track/24AfAK9A9l2Sycx8uMODIP"
+    },
+    {
+      "album": {
+        "name": "The Cantigas of Santa Maria of Alfonso X",
+        "url": "https://open.spotify.com/album/0shYPUy5PjhvDyHv2krtzW"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Martin Best Ensemble",
+          "url": "https://open.spotify.com/artist/07vXqjdaQ0h9gf4feUmZUV"
+        }
+      ],
+      "duration_ms": 291493,
+      "name": "A Knight's Hawk",
+      "url": "https://open.spotify.com/track/446dXplcK51CB7NjjFQWrb"
     },
     {
       "album": {
@@ -1997,9 +1997,9 @@
           "url": "https://open.spotify.com/artist/4hlB0I7n79Gc9gMK5imte9"
         }
       ],
-      "duration_ms": 244800,
-      "name": "La Manfredina - La Rotta della Manfredina [Italian, 14th Century]",
-      "url": "https://open.spotify.com/track/7FBoVn0jbFHHBSvCMm1Fyq"
+      "duration_ms": 382533,
+      "name": "Tre fontane [Italian, 14th Century]",
+      "url": "https://open.spotify.com/track/7lDMYWjNGZeIURAXQIYzim"
     },
     {
       "album": {
@@ -2439,8 +2439,8 @@
     },
     {
       "album": {
-        "name": "Troubadours",
-        "url": "https://open.spotify.com/album/78SZrtwYwqiZbc95jeRCYW"
+        "name": "Nuits occitanes: Troubadours' Songs",
+        "url": "https://open.spotify.com/album/6BZVATSU6DRrXNNGWg6YsJ"
       },
       "artists": [
         {
@@ -2448,17 +2448,21 @@
           "url": "https://open.spotify.com/artist/478YvKazAcdkUNVK0RcKi5"
         },
         {
-          "name": "Clemencic Consort",
-          "url": "https://open.spotify.com/artist/7IU1mejEjVK8cebFCnGmlX"
+          "name": "Ensemble Celadon",
+          "url": "https://open.spotify.com/artist/3ha9slqgoQKxJWpjCjQT9T"
         },
         {
-          "name": "Rene Clemencic",
-          "url": "https://open.spotify.com/artist/5sfK9WFJ7Jxq44RRs8blv5"
+          "name": "Paulin Bundgen",
+          "url": "https://open.spotify.com/artist/5yeDYqucWsOWVATNbcNjQi"
+        },
+        {
+          "name": "Clara Coutouly",
+          "url": "https://open.spotify.com/artist/1BqjzkEuQ8PcKvCVA7BmYP"
         }
       ],
-      "duration_ms": 876013,
-      "name": "A Chantar",
-      "url": "https://open.spotify.com/track/53IDumFHPm0UcQbT1uSc0B"
+      "duration_ms": 560306,
+      "name": "A chantar m'er",
+      "url": "https://open.spotify.com/track/61y6i0JxuBDvnF4vb2qFVd"
     },
     {
       "album": {
@@ -3334,29 +3338,6 @@
     },
     {
       "album": {
-        "name": "Les Musiciens de Provence : Musique des trouv\u00e8res et des troubadours",
-        "url": "https://open.spotify.com/album/656xYZHMYvIfmNmW6iUcyq"
-      },
-      "artists": [
-        {
-          "name": "Adam de la Halle",
-          "url": "https://open.spotify.com/artist/5subEsI7oTDLALzsVZ6Fvw"
-        },
-        {
-          "name": "Les musiciens de Provence",
-          "url": "https://open.spotify.com/artist/4xCymQHbXPP0uJbYzL5Sll"
-        },
-        {
-          "name": "Maurice Guis",
-          "url": "https://open.spotify.com/artist/3TlLQp8m8DWTLPMdHVBfFR"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Trai-ri deluriau, Robin m'aime",
-      "url": "https://open.spotify.com/track/6ajlhguNohurx8cV1HYlvZ"
-    },
-    {
-      "album": {
         "name": "Early Music Masterpieces",
         "url": "https://open.spotify.com/album/6SgGP6pwcv0Q5cH3crRIEf"
       },
@@ -3377,6 +3358,29 @@
       "duration_ms": 673053,
       "name": "Sitot me soi (The Art of the Troubadours, Southern France, 11th & 12th c.): Sitot me soi (The Art of the Troubadours, Southern France, 11th & 12th c.)",
       "url": "https://open.spotify.com/track/5tEG2FB13pmKzLtUhDxrUk"
+    },
+    {
+      "album": {
+        "name": "Les Musiciens de Provence : Musique des trouv\u00e8res et des troubadours",
+        "url": "https://open.spotify.com/album/656xYZHMYvIfmNmW6iUcyq"
+      },
+      "artists": [
+        {
+          "name": "Adam de la Halle",
+          "url": "https://open.spotify.com/artist/5subEsI7oTDLALzsVZ6Fvw"
+        },
+        {
+          "name": "Les musiciens de Provence",
+          "url": "https://open.spotify.com/artist/4xCymQHbXPP0uJbYzL5Sll"
+        },
+        {
+          "name": "Maurice Guis",
+          "url": "https://open.spotify.com/artist/3TlLQp8m8DWTLPMdHVBfFR"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Trai-ri deluriau, Robin m'aime",
+      "url": "https://open.spotify.com/track/6ajlhguNohurx8cV1HYlvZ"
     },
     {
       "album": {
@@ -3804,8 +3808,8 @@
       },
       "artists": [
         {
-          "name": "Trebor",
-          "url": "https://open.spotify.com/artist/4PZoWmd11sAwUqyS25mhYx"
+          "name": "Gacian Reyneau",
+          "url": "https://open.spotify.com/artist/1gM5NmdcwyXRWfM4lhuAHE"
         },
         {
           "name": "Ferrara Ensemble",
@@ -3816,9 +3820,9 @@
           "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
         }
       ],
-      "duration_ms": 365226,
-      "name": "Helas piti\u00e9 envers moy dort si fort",
-      "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
+      "duration_ms": 256893,
+      "name": "Va t\u2019en, mon cuer, aveuc mes yeux",
+      "url": "https://open.spotify.com/track/3XQ9Y10raUREOEF12e0dfl"
     },
     {
       "album": {
@@ -3958,9 +3962,9 @@
           "url": "https://open.spotify.com/artist/5Arudeor8oDwHj9D3ma9dG"
         }
       ],
-      "duration_ms": 515466,
-      "name": "Cantigas de Santa Maria: Madre de Deus",
-      "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
+      "duration_ms": 269226,
+      "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
+      "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
     },
     {
       "album": {
@@ -4094,8 +4098,8 @@
     },
     {
       "album": {
-        "name": "Songs of Angels",
-        "url": "https://open.spotify.com/album/0PNdnnvCZXXBr316pUo54Z"
+        "name": "Miracles of Notre-Dame",
+        "url": "https://open.spotify.com/album/3Dmm0Pzx5KbF4PylK8hUMm"
       },
       "artists": [
         {
@@ -4103,17 +4107,17 @@
           "url": "https://open.spotify.com/artist/1apioneBDK1h426SIIjTab"
         },
         {
-          "name": "New London Consort",
-          "url": "https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB"
+          "name": "Andrew Lawrence-King",
+          "url": "https://open.spotify.com/artist/3IaOjT4uvherNQzpFMKiEu"
         },
         {
-          "name": "Philip Pickett",
-          "url": "https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt"
+          "name": "The Harp Consort",
+          "url": "https://open.spotify.com/artist/3CEB3ot8CDIWKFzBRJvJ4n"
         }
       ],
-      "duration_ms": 723506,
-      "name": "Amours qui biens ses enchanter",
-      "url": "https://open.spotify.com/track/4gHqdwqlZXoSSb0dwcIjct"
+      "duration_ms": 502466,
+      "name": "Hui matin a l'ajournee",
+      "url": "https://open.spotify.com/track/45ZLKMFCPepLjGvGnllB7T"
     },
     {
       "album": {
@@ -4191,10 +4195,6 @@
           "url": "https://open.spotify.com/artist/6y2lu6ZXpmyOo4ERwGiGhv"
         },
         {
-          "name": "Anonyme",
-          "url": "https://open.spotify.com/artist/7zcwtgxeHkX3wMn7kygxFY"
-        },
-        {
           "name": "Ensemble Syntagma",
           "url": "https://open.spotify.com/artist/3ToTgFj2iZjuFj7mKUpejU"
         },
@@ -4223,9 +4223,9 @@
           "url": "https://open.spotify.com/artist/3gtHGk0ptgNk9dVZ26CjTj"
         }
       ],
-      "duration_ms": 289800,
-      "name": "Renverdie",
-      "url": "https://open.spotify.com/track/6ZhiwvzK2VkKRtw426VMlC"
+      "duration_ms": 220173,
+      "name": "Dex, comme m'ont mort...",
+      "url": "https://open.spotify.com/track/52Op7NvxQIJICHiLNF5bVA"
     },
     {
       "album": {
@@ -4411,9 +4411,9 @@
           "url": "https://open.spotify.com/artist/1gQX84r2BTuCaK8ipf6x40"
         }
       ],
-      "duration_ms": 258466,
-      "name": "I Edessa",
-      "url": "https://open.spotify.com/track/4lT21aEzK7RLcFboU7bTGa"
+      "duration_ms": 229786,
+      "name": "I en polles amarties (The Fallen Woman)",
+      "url": "https://open.spotify.com/track/6rxXbssQZVZ3eG6GTaWU4i"
     },
     {
       "album": {
@@ -4605,8 +4605,8 @@
     },
     {
       "album": {
-        "name": "Progetto Ars Nova",
-        "url": "https://open.spotify.com/album/3YZHykjZDupeRi7JWpHqZK"
+        "name": "De Perugia: Chansons",
+        "url": "https://open.spotify.com/album/1Wn0Cw3426YGjUYxpUnekW"
       },
       "artists": [
         {
@@ -4614,25 +4614,13 @@
           "url": "https://open.spotify.com/artist/4SkBP6kMUXCL01R0R7c0Vz"
         },
         {
-          "name": "Tullio Ricci",
-          "url": "https://open.spotify.com/artist/3nr6MMofL1IUqxWTyyPheO"
-        },
-        {
-          "name": "Michele Franzini",
-          "url": "https://open.spotify.com/artist/3TbtDYZcyDM9BnsQA1MfEF"
-        },
-        {
-          "name": "Roberto Mattei",
-          "url": "https://open.spotify.com/artist/2Yvoh5IYm5WVfb561hmB0m"
-        },
-        {
-          "name": "Massimiliano Salina",
-          "url": "https://open.spotify.com/artist/3rPq3MdhkPIZd3hldEfTEj"
+          "name": "Tetraktys",
+          "url": "https://open.spotify.com/artist/58LZ1hCFww56TTbmD9XDwT"
         }
       ],
-      "duration_ms": 222213,
-      "name": "Helas avril",
-      "url": "https://open.spotify.com/track/1gkeNsaicHgvfsnn7p0PxB"
+      "duration_ms": 199663,
+      "name": "Le Firmament (C\u00e9saris?) [Ballade - Fn 26, 15r-15v]",
+      "url": "https://open.spotify.com/track/6FXGIcWtU0fPO5hdoBQdte"
     },
     {
       "album": {
@@ -4857,29 +4845,6 @@
       "duration_ms": 350533,
       "name": "Una panthera in compagnia de Marte",
       "url": "https://open.spotify.com/track/79fkdQYBsEYsnoES1D8fa3"
-    },
-    {
-      "album": {
-        "name": "Vocal Music (Medieval) - Bodel, J. / Bretel, J. / Adam De La Halle / Moniot D'Arras (The Songs of Arras) (New Orleans Musica Da Camera)",
-        "url": "https://open.spotify.com/album/6HlJCHYK8MpYhfQJkr2O75"
-      },
-      "artists": [
-        {
-          "name": "Adam de la Halle",
-          "url": "https://open.spotify.com/artist/5subEsI7oTDLALzsVZ6Fvw"
-        },
-        {
-          "name": "Jehan Bretel",
-          "url": "https://open.spotify.com/artist/45YVbpZoHnXiePI3OPSjxb"
-        },
-        {
-          "name": "New Orleans Musica da Camera",
-          "url": "https://open.spotify.com/artist/24Px16JbGfbLbz2DMFJAUb"
-        }
-      ],
-      "duration_ms": 369613,
-      "name": "Adan, vauries vous manoir",
-      "url": "https://open.spotify.com/track/4YUDooWfszNlxoUQ5WJiUC"
     }
   ],
   "url": "https://open.spotify.com/playlist/6ckHBekHAoozIV6ISOmvq1"

@@ -4,6 +4,40 @@
   "tracks": [
     {
       "album": {
+        "name": "Lose My Cool",
+        "url": "https://open.spotify.com/album/0R8UQCG358KD07cX4zbOdB"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 190507,
+      "name": "Lose My Cool (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/31UJNSt6tUbROThjfaAZfT"
+    },
+    {
+      "album": {
+        "name": "Build Me a Way",
+        "url": "https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 141932,
+      "name": "Build Me a Way - Single Version",
+      "url": "https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1"
+    },
+    {
+      "album": {
         "name": "Ricardo",
         "url": "https://open.spotify.com/album/2qEk2JLTZzuFwxmWfrkOWK"
       },
@@ -16,21 +50,6 @@
       "duration_ms": 176277,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/71AHzuaLWkVxt5UrCmLvOB"
-    },
-    {
-      "album": {
-        "name": "Who Knows",
-        "url": "https://open.spotify.com/album/4ePVajDN6Jjtq8sF9bc7il"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chahayed",
-          "url": "https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN"
-        }
-      ],
-      "duration_ms": 257147,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/5HZu1toEKuPx2Tuv6ABwdG"
     },
     {
       "album": {
@@ -49,6 +68,21 @@
     },
     {
       "album": {
+        "name": "Worry Bout Yourself",
+        "url": "https://open.spotify.com/album/7e5Gfrcr21LmwwI88FMf6C"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Worry Bout Yourself",
+      "url": "https://open.spotify.com/track/1ZyVOMmy5ZQILMha4JinSP"
+    },
+    {
+      "album": {
         "name": "predictable",
         "url": "https://open.spotify.com/album/7ozumavjZMi9QwMOD8qWVl"
       },
@@ -61,6 +95,21 @@
       "duration_ms": 152500,
       "name": "m box",
       "url": "https://open.spotify.com/track/2iZf5y9Ce6smoZiGkC0aAg"
+    },
+    {
+      "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 169583,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
     },
     {
       "album": {
@@ -79,18 +128,52 @@
     },
     {
       "album": {
-        "name": "Rolling Stone",
-        "url": "https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8"
+        "name": "It's All Smiles",
+        "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
       },
       "artists": [
         {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
         }
       ],
-      "duration_ms": 169583,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU"
+      "duration_ms": 188493,
+      "name": "Remember November / Bitcrush*Yr*Life",
+      "url": "https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n"
+    },
+    {
+      "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/0V9mAZKEd0gyIC2XQMt6qd"
+      },
+      "artists": [
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/7JHohbdSYNGyUwcycNi95q"
+    },
+    {
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/4sVSsVCgLh9mLyxiBzNDY2"
+      },
+      "artists": [
+        {
+          "name": "KAMI",
+          "url": "https://open.spotify.com/artist/3BhngrEjaGAD0a8OzzFWlC"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "duration_ms": 220693,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/3JHEK6yKjxuqMtGMV3zyM4"
     },
     {
       "album": {
@@ -139,18 +222,18 @@
     },
     {
       "album": {
-        "name": "TURN IT DOWN",
-        "url": "https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR"
+        "name": "Who Knows",
+        "url": "https://open.spotify.com/album/4ePVajDN6Jjtq8sF9bc7il"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "Andrea Chahayed",
+          "url": "https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN"
         }
       ],
-      "duration_ms": 154590,
-      "name": "TURN IT DOWN",
-      "url": "https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i"
+      "duration_ms": 257147,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/5HZu1toEKuPx2Tuv6ABwdG"
     },
     {
       "album": {

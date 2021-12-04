@@ -93,7 +93,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Carry Me Away Radio](/playlists/pretty/37i9dQZF1E8FdFKgRxUOJv.md)
 - [Chill Beats](/playlists/pretty/37i9dQZF1DWZa8CSUr0hCY.md)
 - [Chill Hits](/playlists/pretty/37i9dQZF1DX4WYpdgoIcn6.md)
-- [Chill House 2021](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md)
+- [Chill House 2022](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md)
 - [Chill Pop](/playlists/pretty/37i9dQZF1DX0MLFaUdXnjA.md)
 - [Chill Tracks](/playlists/pretty/37i9dQZF1DX6VdMW310YC7.md)
 - [chill/DnB](/playlists/pretty/3g1eliu8IsLV3pW4Otv0Te.md)

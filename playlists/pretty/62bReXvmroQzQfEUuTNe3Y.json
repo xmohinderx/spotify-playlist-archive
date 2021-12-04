@@ -1,6 +1,6 @@
 {
   "description": "Summer House to chill, vibe or travel to. Updated weekly. | \ud83c\udf08 <a href=\"https://www.instagram.com/selectedofficial\">Instagram</a>",
-  "name": "Chill House 2021",
+  "name": "Chill House 2022",
   "tracks": [
     {
       "album": {
@@ -35,6 +35,29 @@
       "duration_ms": 124655,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5gvEyl4OLhD6kJ3aZ43sd3"
+    },
+    {
+      "album": {
+        "name": "Change of Heart",
+        "url": "https://open.spotify.com/album/0fHNf3Ms5KaVq2dqDLoaPG"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Paul Schulze",
+          "url": "https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY"
+        },
+        {
+          "name": "Louise Harris",
+          "url": "https://open.spotify.com/artist/4QVYXgffO3RSW3aIVPHqJj"
+        }
+      ],
+      "duration_ms": 155148,
+      "name": "Change of Heart",
+      "url": "https://open.spotify.com/track/7fXupzi3jFgKVED9BUCmUc"
     },
     {
       "album": {
@@ -599,21 +622,6 @@
     },
     {
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/0xgsaF0tKFiACQO7xr86Vd"
-      },
-      "artists": [
-        {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        }
-      ],
-      "duration_ms": 207265,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4EeeRPXUAUQHkBxu3g1LxT"
-    },
-    {
-      "album": {
         "name": "Brightest Lights",
         "url": "https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL"
       },
@@ -1024,25 +1032,6 @@
     },
     {
       "album": {
-        "name": "Don't Wait Up (Chill Mix)",
-        "url": "https://open.spotify.com/album/5bBKlh5O9lr1TExIklpwo1"
-      },
-      "artists": [
-        {
-          "name": "Alyx Ander",
-          "url": "https://open.spotify.com/artist/4gxmaAX3cWO9PUVmEYVAhd"
-        },
-        {
-          "name": "Lena Leon",
-          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
-        }
-      ],
-      "duration_ms": 144827,
-      "name": "Don't Wait Up - Chill Mix",
-      "url": "https://open.spotify.com/track/4K8YAFs9Rfpy8zGFuPwGG0"
-    },
-    {
-      "album": {
         "name": "Body 2 Body (Remixes)",
         "url": "https://open.spotify.com/album/6aQ0edKuYRIOHUjfvwFkCt"
       },
@@ -1059,6 +1048,29 @@
       "duration_ms": 239617,
       "name": "Body 2 Body - 6am Remix",
       "url": "https://open.spotify.com/track/0TdPfmZ2ZJGwNXXembBO0T"
+    },
+    {
+      "album": {
+        "name": "How to Love",
+        "url": "https://open.spotify.com/album/5lIykcH2A1J8hmdSxm6e4K"
+      },
+      "artists": [
+        {
+          "name": "Matvey Emerson",
+          "url": "https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa"
+        },
+        {
+          "name": "Szanto Denis",
+          "url": "https://open.spotify.com/artist/6EJT3QfEhPP0qiVM8ZQL4q"
+        },
+        {
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "How to Love",
+      "url": "https://open.spotify.com/track/48tx5sEtRjT7MRL9XTZLVf"
     },
     {
       "album": {
@@ -1249,6 +1261,25 @@
       "duration_ms": 186690,
       "name": "Ice & Cold",
       "url": "https://open.spotify.com/track/3eKdMlPONnxz5quSb2VpKU"
+    },
+    {
+      "album": {
+        "name": "Still Be There (feat. Josh Tobias)",
+        "url": "https://open.spotify.com/album/6khyhgY2GMeTtIbAZ5pI5s"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/4WEMphmXl2F6iDiskozVez"
+        },
+        {
+          "name": "Josh Tobias",
+          "url": "https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "Still Be There (feat. Josh Tobias)",
+      "url": "https://open.spotify.com/track/4w6By5JzUpjc7IworHA5IB"
     },
     {
       "album": {

@@ -1,26 +1,7 @@
 {
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Don Toliver",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Wale",
   "name": "B.A.E.",
   "tracks": [
-    {
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 221979,
-      "name": "Girls Want Girls (with Lil Baby)",
-      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
-    },
     {
       "album": {
         "name": "Life of a DON",
@@ -35,6 +16,21 @@
       "duration_ms": 288852,
       "name": "Swangin\u2019 On Westheimer",
       "url": "https://open.spotify.com/track/0sze9rycXZswg5emYTFklv"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain: Reloaded",
+        "url": "https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 165772,
+      "name": "Scorpio",
+      "url": "https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6"
     },
     {
       "album": {
@@ -65,6 +61,25 @@
     },
     {
       "album": {
+        "name": "Angles (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Angles (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1rdTdOTRfGXjQ9Auwn1gzx"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -88,21 +103,6 @@
     },
     {
       "album": {
-        "name": "A Gangsta\u2019s Pain: Reloaded",
-        "url": "https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 165772,
-      "name": "Scorpio",
-      "url": "https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6"
-    },
-    {
-      "album": {
         "name": "What You Need",
         "url": "https://open.spotify.com/album/73woFqDhh7dKipDzYyHJwZ"
       },
@@ -115,6 +115,21 @@
       "duration_ms": 217609,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/6LcX2hBbXaJcK4AuefE936"
+    },
+    {
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 170702,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0"
     },
     {
       "album": {
@@ -164,6 +179,44 @@
       "duration_ms": 105377,
       "name": "GYALIS",
       "url": "https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF"
+    },
+    {
+      "album": {
+        "name": "UNTAMED",
+        "url": "https://open.spotify.com/album/1LM4qNXzxeL4ptfUOeUQwV"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 175489,
+      "name": "WHAT YOU NEED",
+      "url": "https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 221979,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
       "album": {
@@ -259,6 +312,25 @@
       "duration_ms": 156000,
       "name": "Woo Baby (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls Love Toosii",
+        "url": "https://open.spotify.com/album/68Bd8NriH6kXs9oedITPkq"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 174482,
+      "name": "Never Leave Her (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/3i9k5M8xkZZ7LFAeMZBT4m"
     },
     {
       "album": {
@@ -395,6 +467,21 @@
     },
     {
       "album": {
+        "name": "Counter",
+        "url": "https://open.spotify.com/album/35MFJBhiYKKm3Vsybpsk29"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Counter",
+      "url": "https://open.spotify.com/track/4W4lWW8HQITbAe96R0APIh"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -471,6 +558,21 @@
     },
     {
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/0TUe5E3BQ38hBXglAijbNx"
+      },
+      "artists": [
+        {
+          "name": "YXNG K.A",
+          "url": "https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE"
+    },
+    {
+      "album": {
         "name": "War & Wonders",
         "url": "https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN"
       },
@@ -510,25 +612,6 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
-    },
-    {
-      "album": {
-        "name": "Angles (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Angles (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1rdTdOTRfGXjQ9Auwn1gzx"
     },
     {
       "album": {
@@ -680,25 +763,6 @@
     },
     {
       "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 163416,
-      "name": "A Letter To You",
-      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
-    },
-    {
-      "album": {
         "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
         "url": "https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6"
       },
@@ -794,40 +858,6 @@
     },
     {
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 227755,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH"
-    },
-    {
-      "album": {
-        "name": "Love & War (feat. Queen Naija) [Remix]",
-        "url": "https://open.spotify.com/album/0ojs5aPDAULH8GMPDulOcU"
-      },
-      "artists": [
-        {
-          "name": "Lil Poppa",
-          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
-        },
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Love & War (feat. Queen Naija) - Remix",
-      "url": "https://open.spotify.com/track/0empuybajOILWSMGYGDoPF"
-    },
-    {
-      "album": {
         "name": "Back2Lyfe",
         "url": "https://open.spotify.com/album/1ReW4ETxA99F6gxzjjhnLS"
       },
@@ -897,29 +927,6 @@
       "duration_ms": 205036,
       "name": "Worth It (feat. DDG)",
       "url": "https://open.spotify.com/track/0MqqxjoRiDt3TCMMveEldb"
-    },
-    {
-      "album": {
-        "name": "Her Peace (feat. YK Osiris & Loui)",
-        "url": "https://open.spotify.com/album/5NhtA3dljOQxgXtW6XtfUW"
-      },
-      "artists": [
-        {
-          "name": "YungManny",
-          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "YK Osiris",
-          "url": "https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM"
-        }
-      ],
-      "duration_ms": 240039,
-      "name": "Her Peace (feat. YK Osiris & Loui)",
-      "url": "https://open.spotify.com/track/4sOO8Njp0KzZAreAg7e136"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa"

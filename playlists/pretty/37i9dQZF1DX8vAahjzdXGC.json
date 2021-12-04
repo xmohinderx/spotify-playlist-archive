@@ -132,7 +132,45 @@
     },
     {
       "album": {
-        "name": "Scenic Drive",
+        "name": "Wandered To LA (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 189727,
+      "name": "Wandered To LA (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
+    },
+    {
+      "album": {
+        "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
       "artists": [
@@ -249,6 +287,21 @@
     },
     {
       "album": {
+        "name": "Butter (Holiday Remix)",
+        "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 161894,
+      "name": "Butter (Holiday Remix)",
+      "url": "https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a"
+    },
+    {
+      "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
@@ -276,6 +329,21 @@
       "duration_ms": 164053,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
+    },
+    {
+      "album": {
+        "name": "Punya Harga Diri",
+        "url": "https://open.spotify.com/album/1VUV4NOPwm6r7mZiZ9XSVV"
+      },
+      "artists": [
+        {
+          "name": "Maysha Jhuan",
+          "url": "https://open.spotify.com/artist/3tzDCgDgX7JM12Kmaqrxxj"
+        }
+      ],
+      "duration_ms": 249677,
+      "name": "Punya Harga Diri",
+      "url": "https://open.spotify.com/track/1Sf83Hgf79SbEdzsqgAMYf"
     },
     {
       "album": {
@@ -498,6 +566,21 @@
       "duration_ms": 247000,
       "name": "Airport Goodbyes (Prod. The Black Skirts)",
       "url": "https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN"
+    },
+    {
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "album": {
@@ -738,6 +821,21 @@
     },
     {
       "album": {
+        "name": "3 Hours On",
+        "url": "https://open.spotify.com/album/4vSC3G4MWeVDpogaYgUev7"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "duration_ms": 211206,
+      "name": "3 Hours On",
+      "url": "https://open.spotify.com/track/7IK7XCIBkD8x3a7MtCVA8F"
+    },
+    {
+      "album": {
         "name": "Crisis / Secret / Set Me Free",
         "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
       },
@@ -780,6 +878,33 @@
       "duration_ms": 245901,
       "name": "Little Old Man",
       "url": "https://open.spotify.com/track/73h3vFe4esoxqj8UhQGU0V"
+    },
+    {
+      "album": {
+        "name": "Insecure: Music From The HBO Original Series, Season 5",
+        "url": "https://open.spotify.com/album/74jWOzgLNuKdJHSYOHySXN"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Genevieve Artadi",
+          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
+        }
+      ],
+      "duration_ms": 273378,
+      "name": "Satellite (feat. Louis Cole & Genevieve Artadi) [from Insecure: Music From The HBO Original Series, Season 5]",
+      "url": "https://open.spotify.com/track/0Um5dcYQxSTtzboALXL5qf"
     },
     {
       "album": {
@@ -1010,6 +1135,21 @@
       "duration_ms": 244160,
       "name": "Tunggu Aku",
       "url": "https://open.spotify.com/track/2OWnjQlAMLWWsD75uBGMxB"
+    },
+    {
+      "album": {
+        "name": "6TH MINI ALBUM [Goosebumps]",
+        "url": "https://open.spotify.com/album/3vVDoPJZvuNXuyiyKRnUsV"
+      },
+      "artists": [
+        {
+          "name": "ONF",
+          "url": "https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/2pePK7PBUDcnmjhrNk26Gp"
     },
     {
       "album": {
@@ -1296,6 +1436,25 @@
       "duration_ms": 228075,
       "name": "Bumi",
       "url": "https://open.spotify.com/track/1EgGBOZl5JTMQcVPOh8xVY"
+    },
+    {
+      "album": {
+        "name": "Sinister (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Sinister (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN"
     },
     {
       "album": {
@@ -1787,6 +1946,21 @@
       "duration_ms": 141473,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/3B7fiTGpR6ciXfJ097H6oa"
+    },
+    {
+      "album": {
+        "name": "summer",
+        "url": "https://open.spotify.com/album/6QR5IgAQYtTPKJwFBRlXs9"
+      },
+      "artists": [
+        {
+          "name": "lavndr",
+          "url": "https://open.spotify.com/artist/5HsrAgY0Oj9VgkcjVJdUnO"
+        }
+      ],
+      "duration_ms": 243034,
+      "name": "summer",
+      "url": "https://open.spotify.com/track/1xgKzczUEtsrLPjGYVUo9B"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC"

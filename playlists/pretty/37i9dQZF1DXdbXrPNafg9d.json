@@ -1,7 +1,503 @@
 {
-  "description": "The best new tracks every week. Cover: Mura Masa",
+  "description": "The best new tracks every week. Cover: Arca",
   "name": "All New Indie",
   "tracks": [
+    {
+      "album": {
+        "name": "Build Me a Way",
+        "url": "https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 141932,
+      "name": "Build Me a Way - Single Version",
+      "url": "https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1"
+    },
+    {
+      "album": {
+        "name": "It's All Smiles",
+        "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Remember November / Bitcrush*Yr*Life",
+      "url": "https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n"
+    },
+    {
+      "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+    },
+    {
+      "album": {
+        "name": "KicK iii",
+        "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 141364,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
+    },
+    {
+      "album": {
+        "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
+        "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Somebody Desperate - From ''Cyrano'' Soundtrack",
+      "url": "https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W"
+    },
+    {
+      "album": {
+        "name": "ALPHA (Deluxe)",
+        "url": "https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "Even is the Lie",
+      "url": "https://open.spotify.com/track/06ROgKWslcLeQaHUUnxMsE"
+    },
+    {
+      "album": {
+        "name": "Player Of Games",
+        "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 245542,
+      "name": "Player Of Games",
+      "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
+    },
+    {
+      "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/727TuBQgwg62XhwClV7GtK"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6yTbMlD00yPN4fcCmUM1DB"
+    },
+    {
+      "album": {
+        "name": "Too Late Now / Oh No",
+        "url": "https://open.spotify.com/album/0c1zD1xhhczlpTNzhuOtvS"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "Too Late Now",
+      "url": "https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR"
+    },
+    {
+      "album": {
+        "name": "Velcro (feat. Gus Dapperton)",
+        "url": "https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 192793,
+      "name": "Velcro (feat. Gus Dapperton)",
+      "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
+    },
+    {
+      "album": {
+        "name": "Love Letter From A Red Roof Inn",
+        "url": "https://open.spotify.com/album/4ngbwV8bQCWnmhY5pQszU6"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 228715,
+      "name": "Love Letter From A Red Roof Inn",
+      "url": "https://open.spotify.com/track/6vZ2FTyBiKS5DfGz2Qe79j"
+    },
+    {
+      "album": {
+        "name": "Semi Pro",
+        "url": "https://open.spotify.com/album/52lZvD8hEnCoYnnvVC6dbp"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 182475,
+      "name": "Semi Pro",
+      "url": "https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt"
+    },
+    {
+      "album": {
+        "name": "Beach Ball",
+        "url": "https://open.spotify.com/album/5jlJSbZAqWAbrLozJdeUag"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "duration_ms": 146706,
+      "name": "Beach Ball",
+      "url": "https://open.spotify.com/track/36D7BBgkHBtJCWq8B7bymO"
+    },
+    {
+      "album": {
+        "name": "Nino",
+        "url": "https://open.spotify.com/album/1SHFgXR5Lw4T2vGWXrL8NR"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 109601,
+      "name": "Nino",
+      "url": "https://open.spotify.com/track/0vRhAqPvF2yFCcRHWWTeJf"
+    },
+    {
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ"
+    },
+    {
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 272026,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2nQp0KpjjcjjAkzujfx0wx"
+    },
+    {
+      "album": {
+        "name": "Mind of Its Own",
+        "url": "https://open.spotify.com/album/0uXrDuj03d9mhUefCxEG3D"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Mind of Its Own",
+      "url": "https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD"
+    },
+    {
+      "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2q2yy8DwiAsLC2G02puine"
+      },
+      "artists": [
+        {
+          "name": "Godford",
+          "url": "https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu"
+        }
+      ],
+      "duration_ms": 240122,
+      "name": "The Hill",
+      "url": "https://open.spotify.com/track/2deS1gZIjmyBkHNqVjgDfE"
+    },
+    {
+      "album": {
+        "name": "Blind Missiles",
+        "url": "https://open.spotify.com/album/3ia3GpJPPwJPx1mvu1JCaR"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 201746,
+      "name": "Blind Missiles",
+      "url": "https://open.spotify.com/track/4iIoVlUgVqWmnJ85HoOD7J"
+    },
+    {
+      "album": {
+        "name": "In Need of Repair",
+        "url": "https://open.spotify.com/album/01JnSvaj1iA6nTZsmnwPiG"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "In Need of Repair",
+      "url": "https://open.spotify.com/track/2gvLhQi8nrGFcZB7OuLeZC"
+    },
+    {
+      "album": {
+        "name": "Changephobia Remixes: Part I + II",
+        "url": "https://open.spotify.com/album/52hx36jPOBdw8Olunoirf5"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "From the Back of a Cab - Ben B\u00f6hmer Remix",
+      "url": "https://open.spotify.com/track/6OrLovzoCKCwsiGYydDpKt"
+    },
+    {
+      "album": {
+        "name": "Smithereens",
+        "url": "https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 140026,
+      "name": "Smithereens",
+      "url": "https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk"
+    },
+    {
+      "album": {
+        "name": "boneyard aka fearmonger",
+        "url": "https://open.spotify.com/album/3zl3Qtgdt9tMVqiMa7RaK1"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 156695,
+      "name": "Tongue in cheek",
+      "url": "https://open.spotify.com/track/5PEaxIDwsHnncKTlBezBpP"
+    },
+    {
+      "album": {
+        "name": "Concorde",
+        "url": "https://open.spotify.com/album/0xDUwM9EVHyOmUhL9KGOwa"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 363773,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
+    },
+    {
+      "album": {
+        "name": "When I'm Alone / How Does It Feel?",
+        "url": "https://open.spotify.com/album/6oMoymBPqwsFLsimWYCckQ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 185944,
+      "name": "When I'm Alone",
+      "url": "https://open.spotify.com/track/1Ls0bZ0slPNAxuFMQPeBp6"
+    },
+    {
+      "album": {
+        "name": "Only Love (with Brijean)",
+        "url": "https://open.spotify.com/album/4mQFKiJlHZ2Y8wzzvTNwt4"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "Benjamin Gibbard",
+          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 255772,
+      "name": "Only Love (with Brijean)",
+      "url": "https://open.spotify.com/track/2ZwTxsb7hV27jVELUYHBoL"
+    },
+    {
+      "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/34j8YJsJeNk0w40zly0bIg"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/07hOzKVyZJpMG2bzt2Lyfh"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/3C7niCKrrO95XLqOsJtsYm"
+      },
+      "artists": [
+        {
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        }
+      ],
+      "duration_ms": 191447,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/2M9zd4HpNIQbQCN0r65lZW"
+    },
+    {
+      "album": {
+        "name": "Radiohead",
+        "url": "https://open.spotify.com/album/24B22VTnbGYjUh4eIRO2eR"
+      },
+      "artists": [
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "duration_ms": 197755,
+      "name": "Radiohead",
+      "url": "https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX"
+    },
+    {
+      "album": {
+        "name": "Siamese",
+        "url": "https://open.spotify.com/album/41UGbBMtAAlqrcGUGvw8tM"
+      },
+      "artists": [
+        {
+          "name": "Brahny",
+          "url": "https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX"
+        }
+      ],
+      "duration_ms": 145986,
+      "name": "Siamese",
+      "url": "https://open.spotify.com/track/5An220qZmv5fNeKJmaahWJ"
+    },
+    {
+      "album": {
+        "name": "the sum of all our sirens",
+        "url": "https://open.spotify.com/album/70b4xjbrZPpjcxwXMpQjpr"
+      },
+      "artists": [
+        {
+          "name": "nelward",
+          "url": "https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb"
+        }
+      ],
+      "duration_ms": 345639,
+      "name": "the sum of all our sirens",
+      "url": "https://open.spotify.com/track/1ujEMa9fW8cdNEqmNVF6VA"
+    },
+    {
+      "album": {
+        "name": "last minute cycle",
+        "url": "https://open.spotify.com/album/377wkeA1wwdQSapEBYaTar"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "duration_ms": 179998,
+      "name": "last minute cycle",
+      "url": "https://open.spotify.com/track/3rG0jYwXZ66Mz7sp0SB9fz"
+    },
     {
       "album": {
         "name": "Destroy Myself Just For You",

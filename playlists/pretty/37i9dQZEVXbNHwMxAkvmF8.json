@@ -4,6 +4,21 @@
   "tracks": [
     {
       "album": {
+        "name": "Nincsen gond",
+        "url": "https://open.spotify.com/album/4WpJJ356yggkcJeRqi8nuZ"
+      },
+      "artists": [
+        {
+          "name": "ALEE",
+          "url": "https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT"
+        }
+      ],
+      "duration_ms": 149719,
+      "name": "Nincsen gond",
+      "url": "https://open.spotify.com/track/5FTvlhyTm3PZb0x33oCxDS"
+    },
+    {
+      "album": {
         "name": "Rossz est\u00e9k",
         "url": "https://open.spotify.com/album/6KG8xtkCbi3uTb5INTqbmu"
       },
@@ -20,21 +35,6 @@
       "duration_ms": 204285,
       "name": "Rossz est\u00e9k",
       "url": "https://open.spotify.com/track/3Xourl4xRz7cfHMznl0PlR"
-    },
-    {
-      "album": {
-        "name": "Nincsen gond",
-        "url": "https://open.spotify.com/album/4WpJJ356yggkcJeRqi8nuZ"
-      },
-      "artists": [
-        {
-          "name": "ALEE",
-          "url": "https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT"
-        }
-      ],
-      "duration_ms": 149719,
-      "name": "Nincsen gond",
-      "url": "https://open.spotify.com/track/5FTvlhyTm3PZb0x33oCxDS"
     },
     {
       "album": {
@@ -65,25 +65,6 @@
     },
     {
       "album": {
-        "name": "Menned kell",
-        "url": "https://open.spotify.com/album/6OvRauKlO50l5X28a1jg9s"
-      },
-      "artists": [
-        {
-          "name": "ALEE",
-          "url": "https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT"
-        },
-        {
-          "name": "APU",
-          "url": "https://open.spotify.com/artist/3631P73c0HmNeHWmDlUoTM"
-        }
-      ],
-      "duration_ms": 138486,
-      "name": "Menned kell",
-      "url": "https://open.spotify.com/track/5UbQELG0jlDX9nMrLk2Nx6"
-    },
-    {
-      "album": {
         "name": "Mind1",
         "url": "https://open.spotify.com/album/6WjneBV2BQdpZckZ1FUM9j"
       },
@@ -100,6 +81,25 @@
       "duration_ms": 191538,
       "name": "Mind1",
       "url": "https://open.spotify.com/track/0urTgP4nVlcZuiMVAUepCQ"
+    },
+    {
+      "album": {
+        "name": "Menned kell",
+        "url": "https://open.spotify.com/album/6OvRauKlO50l5X28a1jg9s"
+      },
+      "artists": [
+        {
+          "name": "ALEE",
+          "url": "https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT"
+        },
+        {
+          "name": "APU",
+          "url": "https://open.spotify.com/artist/3631P73c0HmNeHWmDlUoTM"
+        }
+      ],
+      "duration_ms": 138486,
+      "name": "Menned kell",
+      "url": "https://open.spotify.com/track/5UbQELG0jlDX9nMrLk2Nx6"
     },
     {
       "album": {
@@ -152,21 +152,6 @@
     },
     {
       "album": {
-        "name": "Aj\u00e1nd\u00e9k",
-        "url": "https://open.spotify.com/album/1c6Hyw9aK1imHiTewfPvKK"
-      },
-      "artists": [
-        {
-          "name": "Paulina",
-          "url": "https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx"
-        }
-      ],
-      "duration_ms": 206125,
-      "name": "Aj\u00e1nd\u00e9k",
-      "url": "https://open.spotify.com/track/33xrhC6KmGnt4pemTc2yiv"
-    },
-    {
-      "album": {
         "name": "Hullik",
         "url": "https://open.spotify.com/album/4PEbsLojFXnWSG9HEva5MM"
       },
@@ -186,22 +171,18 @@
     },
     {
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "album": {
@@ -239,18 +220,71 @@
     },
     {
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "Aj\u00e1nd\u00e9k",
+        "url": "https://open.spotify.com/album/1c6Hyw9aK1imHiTewfPvKK"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+      "duration_ms": 206125,
+      "name": "Aj\u00e1nd\u00e9k",
+      "url": "https://open.spotify.com/track/33xrhC6KmGnt4pemTc2yiv"
+    },
+    {
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "album": {
+        "name": "R\u00c9T",
+        "url": "https://open.spotify.com/album/2a9vtUOCvapcSy7dWrWfij"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/5NydObjtRsTiElOzm5vmgs"
+        }
+      ],
+      "duration_ms": 190975,
+      "name": "R\u00c9T",
+      "url": "https://open.spotify.com/track/7EQq2RCCbFOR7XnN5J1vTv"
+    },
+    {
+      "album": {
+        "name": "N\u00e9ztek",
+        "url": "https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Andi",
+          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
+        }
+      ],
+      "duration_ms": 147164,
+      "name": "N\u00e9ztek",
+      "url": "https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2"
     },
     {
       "album": {
@@ -311,21 +345,6 @@
     },
     {
       "album": {
-        "name": "Irigyeim",
-        "url": "https://open.spotify.com/album/2GqsuE4Vs5aJliKzzYvDM8"
-      },
-      "artists": [
-        {
-          "name": "ALEE",
-          "url": "https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Irigyeim",
-      "url": "https://open.spotify.com/track/03B7Ujs2bW9cZps99wuPeA"
-    },
-    {
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -338,21 +357,6 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "album": {
-        "name": "N\u00e9ztek",
-        "url": "https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3th Andi",
-          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
-        }
-      ],
-      "duration_ms": 147164,
-      "name": "N\u00e9ztek",
-      "url": "https://open.spotify.com/track/2RvZC77XsiE9x434T6o1S2"
     },
     {
       "album": {
@@ -386,104 +390,6 @@
     },
     {
       "album": {
-        "name": "R\u00c9T",
-        "url": "https://open.spotify.com/album/2a9vtUOCvapcSy7dWrWfij"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/5NydObjtRsTiElOzm5vmgs"
-        }
-      ],
-      "duration_ms": 190975,
-      "name": "R\u00c9T",
-      "url": "https://open.spotify.com/track/7EQq2RCCbFOR7XnN5J1vTv"
-    },
-    {
-      "album": {
-        "name": "Gyere Velem",
-        "url": "https://open.spotify.com/album/7lVPjtejDmQ4y7hm006ULK"
-      },
-      "artists": [
-        {
-          "name": "AKC Kretta",
-          "url": "https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz"
-        },
-        {
-          "name": "AKC Misi",
-          "url": "https://open.spotify.com/artist/6PZxcNw0oSU4bp1kIbM6mZ"
-        }
-      ],
-      "duration_ms": 200679,
-      "name": "Gyere Velem",
-      "url": "https://open.spotify.com/track/10wMZu2Y9o55ylw6mRSiKB"
-    },
-    {
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "album": {
-        "name": "Rampampam",
-        "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        }
-      ],
-      "duration_ms": 200211,
-      "name": "Rampampam",
-      "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
-    },
-    {
-      "album": {
-        "name": "K\u00e9s\u0151 m\u00e1r",
-        "url": "https://open.spotify.com/album/1qT0n9ADqn8uQh03ruCnq5"
-      },
-      "artists": [
-        {
-          "name": "Mehringer Marci",
-          "url": "https://open.spotify.com/artist/5F3j6uAy19mqLhQy50x1At"
-        }
-      ],
-      "duration_ms": 133235,
-      "name": "K\u00e9s\u0151 m\u00e1r",
-      "url": "https://open.spotify.com/track/3FuvMgmA7axMw9sps0JM4x"
-    },
-    {
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
-    },
-    {
-      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -499,18 +405,18 @@
     },
     {
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "album": {
@@ -533,41 +439,37 @@
     },
     {
       "album": {
-        "name": "Kik Lehetn\u00e9nk Mi?",
-        "url": "https://open.spotify.com/album/4sttHTZXp2qSP3fqf8e1pv"
+        "name": "Irigyeim",
+        "url": "https://open.spotify.com/album/2GqsuE4Vs5aJliKzzYvDM8"
       },
       "artists": [
         {
-          "name": "Paulina",
-          "url": "https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx"
+          "name": "ALEE",
+          "url": "https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Kik Lehetn\u00e9nk Mi?",
-      "url": "https://open.spotify.com/track/1rxDPdLThry1tMvaPnvUQI"
+      "duration_ms": 129229,
+      "name": "Irigyeim",
+      "url": "https://open.spotify.com/track/03B7Ujs2bW9cZps99wuPeA"
     },
     {
       "album": {
-        "name": "\u00c1lmatlan est\u00e9k",
-        "url": "https://open.spotify.com/album/7N0Ft1YrxAf52HZXfrdgho"
+        "name": "Gyere Velem",
+        "url": "https://open.spotify.com/album/7lVPjtejDmQ4y7hm006ULK"
       },
       "artists": [
         {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+          "name": "AKC Kretta",
+          "url": "https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz"
         },
         {
-          "name": "Nemazal\u00e1ny",
-          "url": "https://open.spotify.com/artist/474u1cnCRF41ym7ZNBddcc"
-        },
-        {
-          "name": "Sofi",
-          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+          "name": "AKC Misi",
+          "url": "https://open.spotify.com/artist/6PZxcNw0oSU4bp1kIbM6mZ"
         }
       ],
-      "duration_ms": 183686,
-      "name": "\u00c1lmatlan est\u00e9k",
-      "url": "https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of"
+      "duration_ms": 200679,
+      "name": "Gyere Velem",
+      "url": "https://open.spotify.com/track/10wMZu2Y9o55ylw6mRSiKB"
     },
     {
       "album": {
@@ -586,18 +488,48 @@
     },
     {
       "album": {
-        "name": "Sz\u00edv",
-        "url": "https://open.spotify.com/album/784Na2iyszGVq9oETcoU1A"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 530690,
-      "name": "Sz\u00edv",
-      "url": "https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP"
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "album": {
+        "name": "Rampampam",
+        "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "duration_ms": 200211,
+      "name": "Rampampam",
+      "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
     },
     {
       "album": {
@@ -617,6 +549,112 @@
       "duration_ms": 178714,
       "name": "El Barto",
       "url": "https://open.spotify.com/track/5HiMjc8jz0OeTnUQgp15FP"
+    },
+    {
+      "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "album": {
+        "name": "\u00c9get a nap",
+        "url": "https://open.spotify.com/album/2g6EW3GB1zeDuGVs5TJGX4"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 150277,
+      "name": "\u00c9get a nap",
+      "url": "https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt"
+    },
+    {
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "album": {
+        "name": "K\u00e9s\u0151 m\u00e1r",
+        "url": "https://open.spotify.com/album/1qT0n9ADqn8uQh03ruCnq5"
+      },
+      "artists": [
+        {
+          "name": "Mehringer Marci",
+          "url": "https://open.spotify.com/artist/5F3j6uAy19mqLhQy50x1At"
+        }
+      ],
+      "duration_ms": 133235,
+      "name": "K\u00e9s\u0151 m\u00e1r",
+      "url": "https://open.spotify.com/track/3FuvMgmA7axMw9sps0JM4x"
     },
     {
       "album": {
@@ -650,6 +688,78 @@
     },
     {
       "album": {
+        "name": "Polizei",
+        "url": "https://open.spotify.com/album/4e5GU7Yf7cAuaQpthdqPwe"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Polizei",
+      "url": "https://open.spotify.com/track/2WDRZdUzRYiv3JkdaMXU9p"
+    },
+    {
+      "album": {
+        "name": "\u00c1lmatlan est\u00e9k",
+        "url": "https://open.spotify.com/album/7N0Ft1YrxAf52HZXfrdgho"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "Nemazal\u00e1ny",
+          "url": "https://open.spotify.com/artist/474u1cnCRF41ym7ZNBddcc"
+        },
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "duration_ms": 183686,
+      "name": "\u00c1lmatlan est\u00e9k",
+      "url": "https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of"
+    },
+    {
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "album": {
+        "name": "Rehab",
+        "url": "https://open.spotify.com/album/6KpYONO2biHJxvvG7aZrxP"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 160440,
+      "name": "Eml\u00e9kszem (Vagy...)",
+      "url": "https://open.spotify.com/track/7LcRPdAyuhZRGudo4MKCSd"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
@@ -680,173 +790,67 @@
     },
     {
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "album": {
-        "name": "\u00c9get a nap",
-        "url": "https://open.spotify.com/album/2g6EW3GB1zeDuGVs5TJGX4"
+        "name": "Kik Lehetn\u00e9nk Mi?",
+        "url": "https://open.spotify.com/album/4sttHTZXp2qSP3fqf8e1pv"
       },
       "artists": [
         {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        },
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+          "name": "Paulina",
+          "url": "https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx"
         }
       ],
-      "duration_ms": 150277,
-      "name": "\u00c9get a nap",
-      "url": "https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt"
+      "duration_ms": 165333,
+      "name": "Kik Lehetn\u00e9nk Mi?",
+      "url": "https://open.spotify.com/track/1rxDPdLThry1tMvaPnvUQI"
     },
     {
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Sz\u00edv",
+        "url": "https://open.spotify.com/album/784Na2iyszGVq9oETcoU1A"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 530690,
+      "name": "Sz\u00edv",
+      "url": "https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP"
     },
     {
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "Kuk\u00e1saut\u00f3",
+        "url": "https://open.spotify.com/album/0dWFWOCIiKkaDmjMrF09sq"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "album": {
-        "name": "Rehab",
-        "url": "https://open.spotify.com/album/6KpYONO2biHJxvvG7aZrxP"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "Eml\u00e9kszem (Vagy...)",
-      "url": "https://open.spotify.com/track/7LcRPdAyuhZRGudo4MKCSd"
-    },
-    {
-      "album": {
-        "name": "Pillanatk\u00e9p",
-        "url": "https://open.spotify.com/album/5cLvJseQTTP97IMewSRLKG"
-      },
-      "artists": [
-        {
-          "name": "ALEE",
-          "url": "https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT"
-        }
-      ],
-      "duration_ms": 174355,
-      "name": "Pillanatk\u00e9p",
-      "url": "https://open.spotify.com/track/7B2TXcHTTUZSVMIfig5xWB"
-    },
-    {
-      "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
-    },
-    {
-      "album": {
-        "name": "Polizei",
-        "url": "https://open.spotify.com/album/4e5GU7Yf7cAuaQpthdqPwe"
-      },
-      "artists": [
-        {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Polizei",
-      "url": "https://open.spotify.com/track/2WDRZdUzRYiv3JkdaMXU9p"
-    },
-    {
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "album": {
-        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
-        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Nightcrawlers",
-          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
-        },
-        {
-          "name": "Mufasa & Hypeman",
-          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
-        },
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
-        }
-      ],
-      "duration_ms": 169153,
-      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
-      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+      "duration_ms": 195697,
+      "name": "Kuk\u00e1saut\u00f3",
+      "url": "https://open.spotify.com/track/0D6Aewbxit6kZYncgVohxU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNHwMxAkvmF8"

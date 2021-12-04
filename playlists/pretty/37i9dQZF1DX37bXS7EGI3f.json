@@ -4,6 +4,51 @@
   "tracks": [
     {
       "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 266338,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg"
+    },
+    {
+      "album": {
+        "name": "Glory for Salvation",
+        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
+      },
+      "artists": [
+        {
+          "name": "Rhapsody Of Fire",
+          "url": "https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "Son of Vengeance",
+      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "album": {
+        "name": "Deliver Us From Evil",
+        "url": "https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 321520,
+      "name": "Deliver Us From Evil",
+      "url": "https://open.spotify.com/track/4Cb1AimuiTJ5szNlCcf895"
+    },
+    {
+      "album": {
         "name": "Diamanti",
         "url": "https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs"
       },
@@ -49,33 +94,18 @@
     },
     {
       "album": {
-        "name": "Glory for Salvation",
-        "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
+        "name": "Forsaken (The Aftermath)",
+        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
       "artists": [
         {
-          "name": "Rhapsody Of Fire",
-          "url": "https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 346053,
-      "name": "Son of Vengeance",
-      "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
-    },
-    {
-      "album": {
-        "name": "Advent",
-        "url": "https://open.spotify.com/album/5pkkoGxMIafuUbK2eEW8BU"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Advent",
-      "url": "https://open.spotify.com/track/2zwdGnjdIaocRWsAkqr7qt"
+      "duration_ms": 298634,
+      "name": "Forsaken - The Aftermath",
+      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
     },
     {
       "album": {
@@ -94,18 +124,18 @@
     },
     {
       "album": {
-        "name": "Eye of the Storm",
-        "url": "https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb"
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
       },
       "artists": [
         {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
         }
       ],
-      "duration_ms": 266338,
-      "name": "Eye of the Storm",
-      "url": "https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg"
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
     },
     {
       "album": {
@@ -985,21 +1015,6 @@
     },
     {
       "album": {
-        "name": "Spread Your Fire",
-        "url": "https://open.spotify.com/album/13jqlOkG4w0y7To7pqAyTL"
-      },
-      "artists": [
-        {
-          "name": "Soulspell",
-          "url": "https://open.spotify.com/artist/4YmdAxENgEABrxFj8zRSsA"
-        }
-      ],
-      "duration_ms": 264556,
-      "name": "Spread Your Fire",
-      "url": "https://open.spotify.com/track/1IHtKY8OuspZ4PTLWSZYHr"
-    },
-    {
-      "album": {
         "name": "Alaiho",
         "url": "https://open.spotify.com/album/2FyeVxOQLQyZeHbm7cRjQq"
       },
@@ -1027,21 +1042,6 @@
       "duration_ms": 227626,
       "name": "I'm Here to Save You",
       "url": "https://open.spotify.com/track/4wn234gZXihakdPl1rmjsi"
-    },
-    {
-      "album": {
-        "name": "Let the Fire Rain",
-        "url": "https://open.spotify.com/album/7IUt3b9v6otoNjqG6WdLbc"
-      },
-      "artists": [
-        {
-          "name": "Orden Ogan",
-          "url": "https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Let the Fire Rain",
-      "url": "https://open.spotify.com/track/4e1sizUvzt4tOquIcEmDpm"
     },
     {
       "album": {

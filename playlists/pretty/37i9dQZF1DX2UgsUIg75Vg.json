@@ -4,6 +4,85 @@
   "tracks": [
     {
       "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "album": {
+        "name": "WFM",
+        "url": "https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "WFM",
+      "url": "https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj"
+    },
+    {
+      "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/3V0PZAGyWeByeF4rVPP8L1"
+      },
+      "artists": [
+        {
+          "name": "Joyia",
+          "url": "https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/5RkrgkGhcjxvK5zLypLsDB"
+    },
+    {
+      "album": {
+        "name": "Good Morning Gorgeous",
+        "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 174728,
+      "name": "Good Morning Gorgeous",
+      "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
+    },
+    {
+      "album": {
+        "name": "Fun (from Insecure: Music From The HBO Original Series, Season 5)",
+        "url": "https://open.spotify.com/album/4bSL02GT6gKhmsMjOvB6mG"
+      },
+      "artists": [
+        {
+          "name": "Nnena",
+          "url": "https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "duration_ms": 166855,
+      "name": "Fun (from Insecure: Music From The HBO Original Series, Season 5)",
+      "url": "https://open.spotify.com/track/4Fwhq6uhu6nNw379PnJXPH"
+    },
+    {
+      "album": {
         "name": "Land Of Nothing Real 2",
         "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
       },
@@ -57,36 +136,6 @@
     },
     {
       "album": {
-        "name": "WFM",
-        "url": "https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj"
-    },
-    {
-      "album": {
-        "name": "Meu Amor",
-        "url": "https://open.spotify.com/album/3V0PZAGyWeByeF4rVPP8L1"
-      },
-      "artists": [
-        {
-          "name": "Joyia",
-          "url": "https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "Meu Amor",
-      "url": "https://open.spotify.com/track/5RkrgkGhcjxvK5zLypLsDB"
-    },
-    {
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/3PmtVhKChNrW23rI6ADGyx"
       },
@@ -99,25 +148,6 @@
       "duration_ms": 173760,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu"
-    },
-    {
-      "album": {
-        "name": "Fun (from Insecure: Music From The HBO Original Series, Season 5)",
-        "url": "https://open.spotify.com/album/4bSL02GT6gKhmsMjOvB6mG"
-      },
-      "artists": [
-        {
-          "name": "Nnena",
-          "url": "https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj"
-        },
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        }
-      ],
-      "duration_ms": 166855,
-      "name": "Fun (from Insecure: Music From The HBO Original Series, Season 5)",
-      "url": "https://open.spotify.com/track/4Fwhq6uhu6nNw379PnJXPH"
     },
     {
       "album": {
@@ -248,6 +278,21 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl"
+    },
+    {
+      "album": {
+        "name": "Love Letterz",
+        "url": "https://open.spotify.com/album/2rJYtSD3t1FOgLcOKcNptT"
+      },
+      "artists": [
+        {
+          "name": "Marzz",
+          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6lVVFYHrq1761LNmUhnVuz"
     },
     {
       "album": {
@@ -742,21 +787,6 @@
     },
     {
       "album": {
-        "name": "Love Letterz",
-        "url": "https://open.spotify.com/album/2rJYtSD3t1FOgLcOKcNptT"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6lVVFYHrq1761LNmUhnVuz"
-    },
-    {
-      "album": {
         "name": "Uh Huh Okay",
         "url": "https://open.spotify.com/album/4LTplgZ6b7eYgrUbaAKz3c"
       },
@@ -837,40 +867,6 @@
       "duration_ms": 202840,
       "name": "You Made A Fool Of Me",
       "url": "https://open.spotify.com/track/0zh3RhUmTQXU6MNU7ehP7m"
-    },
-    {
-      "album": {
-        "name": "gold fronts (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 235978,
-      "name": "gold fronts (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
-    },
-    {
-      "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/0KuZNI2beyOTVDZBsTu2A6"
-      },
-      "artists": [
-        {
-          "name": "Asiahn",
-          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
-        }
-      ],
-      "duration_ms": 156634,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/3BG5gqXSxHElhciH75rRZi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg"

@@ -1,40 +1,48 @@
 {
-  "description": "Chillout hip-hop vibes. Cover: Smino",
+  "description": "Chillout hip-hop vibes. Cover: Rick Ross",
   "name": "Mellow Bars",
   "tracks": [
     {
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/7z6BoDe1YgiZUl5h8GlR3I"
+        "name": "Little Havana (feat. Willie Falcon & The-Dream)",
+        "url": "https://open.spotify.com/album/6h0EXy9vhZMUVHsgzLRJQm"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "name": "Willie Falcon",
+          "url": "https://open.spotify.com/artist/195wBoVV5j58vsy7r9hXDU"
         }
       ],
-      "duration_ms": 241397,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/2wmZFiWL7MKt2vQe6DPanz"
+      "duration_ms": 226072,
+      "name": "Little Havana (feat. Willie Falcon & The-Dream)",
+      "url": "https://open.spotify.com/track/3gndNki9XASWs43xZbbVlG"
     },
     {
       "album": {
-        "name": "Black Illuminati (feat. Jadakiss)",
-        "url": "https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI"
+        "name": "Sinister (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         },
         {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Black Illuminati (feat. Jadakiss)",
-      "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
+      "duration_ms": 148459,
+      "name": "Sinister (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN"
     },
     {
       "album": {
@@ -69,6 +77,25 @@
       "duration_ms": 158050,
       "name": "RIP Young",
       "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs"
+    },
+    {
+      "album": {
+        "name": "Black Illuminati (feat. Jadakiss)",
+        "url": "https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Black Illuminati (feat. Jadakiss)",
+      "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
     },
     {
       "album": {
@@ -114,8 +141,8 @@
     },
     {
       "album": {
-        "name": "Face It",
-        "url": "https://open.spotify.com/album/568W7PktRYaxj5xsVylE3s"
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/7z6BoDe1YgiZUl5h8GlR3I"
       },
       "artists": [
         {
@@ -123,9 +150,9 @@
           "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
         }
       ],
-      "duration_ms": 233116,
-      "name": "Face It",
-      "url": "https://open.spotify.com/track/3k2siE5234rEIV52ltcIYY"
+      "duration_ms": 241397,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2wmZFiWL7MKt2vQe6DPanz"
     },
     {
       "album": {
@@ -156,6 +183,37 @@
       "duration_ms": 148027,
       "name": "2010",
       "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
+    },
+    {
+      "album": {
+        "name": "GOTTI",
+        "url": "https://open.spotify.com/album/37y72XuNwuPyzfB9kk2uIc"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Kevin Cossom",
+          "url": "https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504"
+        }
+      ],
+      "duration_ms": 255875,
+      "name": "Too Many Goats (feat. Rick Ross, Nas & Kevin Cossom)",
+      "url": "https://open.spotify.com/track/6swN1b1cTmneA1HKcn1NR9"
     },
     {
       "album": {
@@ -288,6 +346,21 @@
       "duration_ms": 191250,
       "name": "PACE",
       "url": "https://open.spotify.com/track/0lEsjWwGYNLvaimecHyWWE"
+    },
+    {
+      "album": {
+        "name": "Face It",
+        "url": "https://open.spotify.com/album/568W7PktRYaxj5xsVylE3s"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Face It",
+      "url": "https://open.spotify.com/track/3k2siE5234rEIV52ltcIYY"
     },
     {
       "album": {
@@ -973,21 +1046,6 @@
       "duration_ms": 105984,
       "name": "Ain't Talking Bout Much",
       "url": "https://open.spotify.com/track/5GFbdE94mXEPrpQpsLPiNF"
-    },
-    {
-      "album": {
-        "name": "Chicken N Dumplins",
-        "url": "https://open.spotify.com/album/3eJJmcOAr0FVxGgQM5nUJi"
-      },
-      "artists": [
-        {
-          "name": "GRIP",
-          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Chicken N Dumplins",
-      "url": "https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY"
     },
     {
       "album": {
@@ -1703,44 +1761,6 @@
       "duration_ms": 148498,
       "name": "Middle School",
       "url": "https://open.spotify.com/track/2d4UOvvcPXJNeOUEi61vLN"
-    },
-    {
-      "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 207796,
-      "name": "Baxter Avenue",
-      "url": "https://open.spotify.com/track/0Gvl1luZaeTgCbVSI2z23D"
-    },
-    {
-      "album": {
-        "name": "Vibe Theory",
-        "url": "https://open.spotify.com/album/2v66MEVeEprsxeXACVebXf"
-      },
-      "artists": [
-        {
-          "name": "Strangers of Necessity",
-          "url": "https://open.spotify.com/artist/6nucIQfqlpcEg3BamEDvHW"
-        },
-        {
-          "name": "CoryaYo",
-          "url": "https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4"
-        },
-        {
-          "name": "Fooch the MC",
-          "url": "https://open.spotify.com/artist/5cCX1TeFXcExS8WJSuvPw1"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Fundamental",
-      "url": "https://open.spotify.com/track/4DDyktt6vtpXU2Y5HOyCGl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61"

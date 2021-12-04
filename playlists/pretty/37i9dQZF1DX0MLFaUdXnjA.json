@@ -4,6 +4,40 @@
   "tracks": [
     {
       "album": {
+        "name": "CLOUDS",
+        "url": "https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 178726,
+      "name": "CLOUDS",
+      "url": "https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT"
+    },
+    {
+      "album": {
+        "name": "suffocate (feat. Lauren Sanderson)",
+        "url": "https://open.spotify.com/album/5012v7N4uMq87PbJIh0xtx"
+      },
+      "artists": [
+        {
+          "name": "Miki Ratsula",
+          "url": "https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30"
+        },
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 184588,
+      "name": "suffocate (feat. Lauren Sanderson)",
+      "url": "https://open.spotify.com/track/6iQpU4GaHXHXJ0PeCbPbRy"
+    },
+    {
+      "album": {
         "name": "Subject To Change",
         "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
       },
@@ -16,6 +50,21 @@
       "duration_ms": 197786,
       "name": "Out Of Excuses",
       "url": "https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj"
+    },
+    {
+      "album": {
+        "name": "It's All Smiles",
+        "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Remember November / Bitcrush*Yr*Life",
+      "url": "https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n"
     },
     {
       "album": {
@@ -38,6 +87,25 @@
     },
     {
       "album": {
+        "name": "Friends (feat. Kiana Lede)",
+        "url": "https://open.spotify.com/album/50wbrnbjFqDsBRg4DkfoW5"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 158944,
+      "name": "Friends (feat. Kiana Lede)",
+      "url": "https://open.spotify.com/track/5DzG4l0RdEQIre7B7Vxj1x"
+    },
+    {
+      "album": {
         "name": "SOMEBODY",
         "url": "https://open.spotify.com/album/5aGeJx3pPmu3uAiX3tP5D5"
       },
@@ -50,6 +118,21 @@
       "duration_ms": 164662,
       "name": "SOMEBODY",
       "url": "https://open.spotify.com/track/0HeiYo9WwMT8ujirrWzarf"
+    },
+    {
+      "album": {
+        "name": "Fade Into A Dream",
+        "url": "https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 171901,
+      "name": "Fade Into A Dream",
+      "url": "https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l"
     },
     {
       "album": {
@@ -98,6 +181,21 @@
     },
     {
       "album": {
+        "name": "Kinda Hate U Kinda Love U",
+        "url": "https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y"
+      },
+      "artists": [
+        {
+          "name": "Alex Sloane",
+          "url": "https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha"
+        }
+      ],
+      "duration_ms": 193894,
+      "name": "Kinda Hate U Kinda Love U",
+      "url": "https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo"
+    },
+    {
+      "album": {
         "name": "Pacifico",
         "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
       },
@@ -114,6 +212,21 @@
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6GrrIAJtxjw5ZObE7ycNSY"
+      },
+      "artists": [
+        {
+          "name": "Araya",
+          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/193bPH6VVqnEde43kRbn1W"
     },
     {
       "album": {
@@ -144,21 +257,6 @@
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
-    },
-    {
-      "album": {
-        "name": "Kinda Hate U Kinda Love U",
-        "url": "https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y"
-      },
-      "artists": [
-        {
-          "name": "Alex Sloane",
-          "url": "https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha"
-        }
-      ],
-      "duration_ms": 193894,
-      "name": "Kinda Hate U Kinda Love U",
-      "url": "https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo"
     },
     {
       "album": {
@@ -1100,21 +1198,6 @@
     },
     {
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
-    },
-    {
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -1127,21 +1210,6 @@
       "duration_ms": 167120,
       "name": "simple times",
       "url": "https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC"
-    },
-    {
-      "album": {
-        "name": "Icee Pop",
-        "url": "https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 147555,
-      "name": "Icee Pop",
-      "url": "https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE"
     },
     {
       "album": {
@@ -1191,21 +1259,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "album": {
-        "name": "Therapist",
-        "url": "https://open.spotify.com/album/3n1G8Im1rMMgDB0cpFYd4g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 154013,
-      "name": "Therapist",
-      "url": "https://open.spotify.com/track/2dcyI31Pk3a9vfVABFsHzG"
     },
     {
       "album": {
@@ -1378,21 +1431,6 @@
     },
     {
       "album": {
-        "name": "I want you",
-        "url": "https://open.spotify.com/album/4Sh7d7YsQQ6sYrPkSmYjNs"
-      },
-      "artists": [
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "I want you",
-      "url": "https://open.spotify.com/track/6m13V1xtRrdsWBnCSaoqJC"
-    },
-    {
-      "album": {
         "name": "Wish You Did",
         "url": "https://open.spotify.com/album/71T6Aaz3gVFGg1fHjCnC7K"
       },
@@ -1555,70 +1593,6 @@
       "duration_ms": 156617,
       "name": "sometimes",
       "url": "https://open.spotify.com/track/6McnQuTA2dpArD3QTrD8A7"
-    },
-    {
-      "album": {
-        "name": "Sad Sad Sad",
-        "url": "https://open.spotify.com/album/4wDEYOS2vH4j3T7SOdJKAq"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 181624,
-      "name": "Sad Sad Sad",
-      "url": "https://open.spotify.com/track/3WBrVcz2iXxnQpEso12Wnw"
-    },
-    {
-      "album": {
-        "name": "COMING HOME (feat. NIKI)",
-        "url": "https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 210019,
-      "name": "COMING HOME (feat. NIKI)",
-      "url": "https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG"
-    },
-    {
-      "album": {
-        "name": "Unlearn Me",
-        "url": "https://open.spotify.com/album/0pqdXRfIjj482R79H1j8JF"
-      },
-      "artists": [
-        {
-          "name": "Carol Ades",
-          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
-        }
-      ],
-      "duration_ms": 192540,
-      "name": "Unlearn Me",
-      "url": "https://open.spotify.com/track/1ggxGBvVtvTS00MClULnMI"
-    },
-    {
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/3vwIJMoTuSDV8CfwRBoy3G"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 219554,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6IP8DMuxscj75wxTErFXoh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA"
