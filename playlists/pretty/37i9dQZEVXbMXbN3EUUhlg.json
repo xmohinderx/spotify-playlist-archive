@@ -95,21 +95,6 @@
     },
     {
       "album": {
-        "name": "GALOPA",
-        "url": "https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "GALOPA",
-      "url": "https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J"
-    },
-    {
-      "album": {
         "name": "Amea\u00e7a",
         "url": "https://open.spotify.com/album/5a0unzg1MHZYoeI4mtqQ4w"
       },
@@ -149,6 +134,21 @@
       "duration_ms": 156760,
       "name": "Toma Toma Vapo Vapo",
       "url": "https://open.spotify.com/track/5VTjBl3ddZEiG2LrH4VzyR"
+    },
+    {
+      "album": {
+        "name": "GALOPA",
+        "url": "https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "GALOPA",
+      "url": "https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J"
     },
     {
       "album": {
@@ -228,6 +228,25 @@
     },
     {
       "album": {
+        "name": "Parada Louca",
+        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Parada Louca",
+      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
+    },
+    {
+      "album": {
         "name": "Revoada No Colch\u00e3o",
         "url": "https://open.spotify.com/album/7hzvwdgrY4xuqKehIntS3o"
       },
@@ -262,37 +281,18 @@
     },
     {
       "album": {
-        "name": "Parada Louca",
-        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
+        "name": "Buteco in Boston, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        },
-        {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 179031,
-      "name": "Parada Louca",
-      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
-    },
-    {
-      "album": {
-        "name": "De Primeira",
-        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186698,
-      "name": "Por Supuesto",
-      "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
+      "duration_ms": 168689,
+      "name": "Bloqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a"
     },
     {
       "album": {
@@ -334,6 +334,21 @@
     },
     {
       "album": {
+        "name": "De Primeira",
+        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186698,
+      "name": "Por Supuesto",
+      "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
+    },
+    {
+      "album": {
         "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
         "url": "https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ"
       },
@@ -361,18 +376,18 @@
     },
     {
       "album": {
-        "name": "Buteco in Boston, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7j9x6yqb1XSNsyxEh3q3QK"
+        "name": "Chaaama",
+        "url": "https://open.spotify.com/album/7c3OrNevQnYSjGRFAjz5C1"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 168689,
-      "name": "Bloqueado - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MLCxrDoxcTRg1u3QAGE5a"
+      "duration_ms": 154662,
+      "name": "Voc\u00ea Beberia Ou N\u00e3o Beberia?",
+      "url": "https://open.spotify.com/track/2ixi9HWJw5lnLDmRMsiCS5"
     },
     {
       "album": {
@@ -406,55 +421,6 @@
     },
     {
       "album": {
-        "name": "Chaaama",
-        "url": "https://open.spotify.com/album/7c3OrNevQnYSjGRFAjz5C1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 154662,
-      "name": "Voc\u00ea Beberia Ou N\u00e3o Beberia?",
-      "url": "https://open.spotify.com/track/2ixi9HWJw5lnLDmRMsiCS5"
-    },
-    {
-      "album": {
-        "name": "Na Praia, Pt. 1",
-        "url": "https://open.spotify.com/album/2cHhUDgLaoPig2zlWJEMt2"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 225671,
-      "name": "Baby Me Atende",
-      "url": "https://open.spotify.com/track/1bWBG6IkMnDr3qvCKSvQT7"
-    },
-    {
-      "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
-    },
-    {
-      "album": {
         "name": "C\u00ea T\u00e1 Preparada (Ao Vivo)",
         "url": "https://open.spotify.com/album/0SKpoFXvWGulci9ZGmWKCy"
       },
@@ -474,22 +440,22 @@
     },
     {
       "album": {
-        "name": "Patroas 35%",
-        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
+        "name": "Na Praia, Pt. 1",
+        "url": "https://open.spotify.com/album/2cHhUDgLaoPig2zlWJEMt2"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
         },
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 170866,
-      "name": "Motel Afrodite",
-      "url": "https://open.spotify.com/track/6WxpU2F5gwTzwYsAalI6nI"
+      "duration_ms": 225671,
+      "name": "Baby Me Atende",
+      "url": "https://open.spotify.com/track/1bWBG6IkMnDr3qvCKSvQT7"
     },
     {
       "album": {
@@ -513,6 +479,21 @@
       "duration_ms": 131067,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/4XiFqfUXyTwOChvMLKKi0T"
+    },
+    {
+      "album": {
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
       "album": {
@@ -544,36 +525,28 @@
           "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 169586,
-      "name": "N\u00e3o Sei o Que L\u00e1",
-      "url": "https://open.spotify.com/track/28m65cMH7QXHzFnZSTtNHY"
+      "duration_ms": 170866,
+      "name": "Motel Afrodite",
+      "url": "https://open.spotify.com/track/6WxpU2F5gwTzwYsAalI6nI"
     },
     {
       "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+        "name": "Patroas 35%",
+        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         },
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+      "duration_ms": 169586,
+      "name": "N\u00e3o Sei o Que L\u00e1",
+      "url": "https://open.spotify.com/track/28m65cMH7QXHzFnZSTtNHY"
     },
     {
       "album": {
@@ -592,37 +565,18 @@
     },
     {
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "Mete a Louca",
+        "url": "https://open.spotify.com/album/2UUL0vRiQqdnFWBq32DihK"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+      "duration_ms": 179893,
+      "name": "Mete a Louca",
+      "url": "https://open.spotify.com/track/62d4BfCTUHdOsARRETHLDz"
     },
     {
       "album": {
@@ -664,18 +618,52 @@
     },
     {
       "album": {
-        "name": "Mete a Louca",
-        "url": "https://open.spotify.com/album/2UUL0vRiQqdnFWBq32DihK"
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
       "artists": [
         {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Mete a Louca",
-      "url": "https://open.spotify.com/track/62d4BfCTUHdOsARRETHLDz"
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+    },
+    {
+      "album": {
+        "name": "Bota a M\u00e3o no Ch\u00e3o",
+        "url": "https://open.spotify.com/album/6SMo6kzL8OXwpQaKFSOFDX"
+      },
+      "artists": [
+        {
+          "name": "Felipe Cardoso DJ",
+          "url": "https://open.spotify.com/artist/0MkyYYm0OKY2rZohgy750o"
+        },
+        {
+          "name": "Mc Fopi",
+          "url": "https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR"
+        }
+      ],
+      "duration_ms": 118629,
+      "name": "Bota a M\u00e3o no Ch\u00e3o",
+      "url": "https://open.spotify.com/track/3Lw41pfko5XMrsHRtlbo2k"
+    },
+    {
+      "album": {
+        "name": "Brabo dos Pared\u00f5es",
+        "url": "https://open.spotify.com/album/6fnrD6gb7XwFCZMj7o44mN"
+      },
+      "artists": [
+        {
+          "name": "Jap\u00e3ozin",
+          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Carinha de Nen\u00e9m",
+      "url": "https://open.spotify.com/track/6T6SDJszPbuMCBpSm3aS3G"
     },
     {
       "album": {
@@ -734,52 +722,30 @@
     },
     {
       "album": {
-        "name": "Troca de Cal\u00e7ada",
-        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 203158,
-      "name": "Troca de Cal\u00e7ada",
-      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
-    },
-    {
-      "album": {
-        "name": "Bota a M\u00e3o no Ch\u00e3o",
-        "url": "https://open.spotify.com/album/6SMo6kzL8OXwpQaKFSOFDX"
-      },
-      "artists": [
-        {
-          "name": "Felipe Cardoso DJ",
-          "url": "https://open.spotify.com/artist/0MkyYYm0OKY2rZohgy750o"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         },
         {
-          "name": "Mc Fopi",
-          "url": "https://open.spotify.com/artist/07BaHE7dzguDOawZRVWCsR"
-        }
-      ],
-      "duration_ms": 118629,
-      "name": "Bota a M\u00e3o no Ch\u00e3o",
-      "url": "https://open.spotify.com/track/3Lw41pfko5XMrsHRtlbo2k"
-    },
-    {
-      "album": {
-        "name": "Brabo dos Pared\u00f5es",
-        "url": "https://open.spotify.com/album/6fnrD6gb7XwFCZMj7o44mN"
-      },
-      "artists": [
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
         {
-          "name": "Jap\u00e3ozin",
-          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 140624,
-      "name": "Carinha de Nen\u00e9m",
-      "url": "https://open.spotify.com/track/6T6SDJszPbuMCBpSm3aS3G"
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
       "album": {
@@ -798,52 +764,37 @@
     },
     {
       "album": {
-        "name": "Atg Tape",
-        "url": "https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         },
         {
-          "name": "Offlei Sounds",
-          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Tiffany",
-      "url": "https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs"
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
       "album": {
-        "name": "Buteco in Boston, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs"
+        "name": "Troca de Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 159750,
-      "name": "N\u00e3o Me Arranha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22"
-    },
-    {
-      "album": {
-        "name": "Chega E Senta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eziIhq1gZZXL7sfS5E1aS"
-      },
-      "artists": [
-        {
-          "name": "John Amplificado",
-          "url": "https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy"
-        }
-      ],
-      "duration_ms": 153739,
-      "name": "Chega E Senta - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ookQf9qP2qiBuNFnNXyfl"
+      "duration_ms": 203158,
+      "name": "Troca de Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
     },
     {
       "album": {
@@ -859,6 +810,21 @@
       "duration_ms": 174081,
       "name": "Namorando Com Saudade",
       "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
+    },
+    {
+      "album": {
+        "name": "Eu Tenho a Senha",
+        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 147072,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/0FqVtQxRD3HsPltldG5v5M"
     },
     {
       "album": {
@@ -881,37 +847,18 @@
     },
     {
       "album": {
-        "name": "Eu Tenho a Senha",
-        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
+        "name": "Buteco in Boston, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6kqV2ortasb6HOA7pupoKs"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Vitor Fernandes",
-          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 239928,
-      "name": "Se For Amor",
-      "url": "https://open.spotify.com/track/5F2xRvRFkxDvqdFtUNAEyw"
-    },
-    {
-      "album": {
-        "name": "Eu Tenho a Senha",
-        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 147072,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/0FqVtQxRD3HsPltldG5v5M"
+      "duration_ms": 159750,
+      "name": "N\u00e3o Me Arranha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eq6zwPwN5SAw0rZxNHI22"
     },
     {
       "album": {
@@ -927,6 +874,55 @@
       "duration_ms": 169771,
       "name": "Acordo - Ao Vivo",
       "url": "https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw"
+    },
+    {
+      "album": {
+        "name": "Chega E Senta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eziIhq1gZZXL7sfS5E1aS"
+      },
+      "artists": [
+        {
+          "name": "John Amplificado",
+          "url": "https://open.spotify.com/artist/2zjdf1M6DGPcBFnvEYmydy"
+        }
+      ],
+      "duration_ms": 153739,
+      "name": "Chega E Senta - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ookQf9qP2qiBuNFnNXyfl"
+    },
+    {
+      "album": {
+        "name": "Atg Tape",
+        "url": "https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Offlei Sounds",
+          "url": "https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs"
+    },
+    {
+      "album": {
+        "name": "Vestido Coladinho / Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1tC5NEn1dOizQjd42aA1RA"
+      },
+      "artists": [
+        {
+          "name": "Max e Luan",
+          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
+        }
+      ],
+      "duration_ms": 144516,
+      "name": "Vestido Coladinho",
+      "url": "https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMXbN3EUUhlg"
