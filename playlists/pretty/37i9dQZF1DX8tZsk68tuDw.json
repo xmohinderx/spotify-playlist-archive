@@ -1,22 +1,7 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Qrion.",
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Joshwa.",
   "name": "Dance Rising",
   "tracks": [
-    {
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 249984,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX"
-    },
     {
       "album": {
         "name": "Fuck U Love U",
@@ -31,21 +16,6 @@
       "duration_ms": 198102,
       "name": "Fuck U Love U",
       "url": "https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm"
-    },
-    {
-      "album": {
-        "name": "It Ain't Right",
-        "url": "https://open.spotify.com/album/02eBFjibJmBwmNahLyYX31"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        }
-      ],
-      "duration_ms": 208083,
-      "name": "It Ain't Right",
-      "url": "https://open.spotify.com/track/0lrctx5G3InbHwNO5JyFfL"
     },
     {
       "album": {
@@ -65,6 +35,36 @@
       "duration_ms": 157968,
       "name": "Off Limits",
       "url": "https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77"
+    },
+    {
+      "album": {
+        "name": "It Ain't Right",
+        "url": "https://open.spotify.com/album/02eBFjibJmBwmNahLyYX31"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        }
+      ],
+      "duration_ms": 208083,
+      "name": "It Ain't Right",
+      "url": "https://open.spotify.com/track/0lrctx5G3InbHwNO5JyFfL"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 249984,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX"
     },
     {
       "album": {
