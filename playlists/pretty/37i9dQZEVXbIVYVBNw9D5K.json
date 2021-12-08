@@ -72,6 +72,21 @@
     },
     {
       "album": {
+        "name": "Ar\u0131yorum",
+        "url": "https://open.spotify.com/album/13SQLlpjrblc3zRrdBvr7E"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Ar\u0131yorum",
+      "url": "https://open.spotify.com/track/1jWXlhsOpwVGXtYUcI96tV"
+    },
+    {
+      "album": {
         "name": "Seni Dert Etmeler",
         "url": "https://open.spotify.com/album/6fpzQNhureiJ6bOS2g2gYj"
       },
@@ -84,6 +99,21 @@
       "duration_ms": 188500,
       "name": "Seni Dert Etmeler",
       "url": "https://open.spotify.com/track/10n66m41IGjA2ZulKPK7Ew"
+    },
+    {
+      "album": {
+        "name": "Bilmem Mi?",
+        "url": "https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Bilmem Mi?",
+      "url": "https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi"
     },
     {
       "album": {
@@ -102,18 +132,33 @@
     },
     {
       "album": {
-        "name": "Bilmem Mi?",
-        "url": "https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI"
+        "name": "CINDY",
+        "url": "https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv"
       },
       "artists": [
         {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Bilmem Mi?",
-      "url": "https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi"
+      "duration_ms": 119206,
+      "name": "CINDY",
+      "url": "https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N"
+    },
+    {
+      "album": {
+        "name": "Uzunlar",
+        "url": "https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo"
+      },
+      "artists": [
+        {
+          "name": "Evdeki Saat",
+          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
+        }
+      ],
+      "duration_ms": 282352,
+      "name": "Uzunlar - V1",
+      "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a"
     },
     {
       "album": {
@@ -136,36 +181,6 @@
     },
     {
       "album": {
-        "name": "Ar\u0131yorum",
-        "url": "https://open.spotify.com/album/13SQLlpjrblc3zRrdBvr7E"
-      },
-      "artists": [
-        {
-          "name": "EDIS",
-          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Ar\u0131yorum",
-      "url": "https://open.spotify.com/track/1jWXlhsOpwVGXtYUcI96tV"
-    },
-    {
-      "album": {
-        "name": "CINDY",
-        "url": "https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        }
-      ],
-      "duration_ms": 119206,
-      "name": "CINDY",
-      "url": "https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N"
-    },
-    {
-      "album": {
         "name": "Kan",
         "url": "https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv"
       },
@@ -178,21 +193,6 @@
       "duration_ms": 185458,
       "name": "Umrumda De\u011fil",
       "url": "https://open.spotify.com/track/72t3CRd8YEFrlc3x0OVaob"
-    },
-    {
-      "album": {
-        "name": "Uzunlar",
-        "url": "https://open.spotify.com/album/39fSB986BtwaS4x5vXbiuo"
-      },
-      "artists": [
-        {
-          "name": "Evdeki Saat",
-          "url": "https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P"
-        }
-      ],
-      "duration_ms": 282352,
-      "name": "Uzunlar - V1",
-      "url": "https://open.spotify.com/track/1vLkBVAy8ZWrqcQjYTPP3a"
     },
     {
       "album": {
@@ -215,18 +215,18 @@
     },
     {
       "album": {
-        "name": "L\u00fctfen",
-        "url": "https://open.spotify.com/album/7gi0OwYp8uU4WKK3L5nZBY"
+        "name": "Sen Vars\u0131n Diye",
+        "url": "https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc"
       },
       "artists": [
         {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
+          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
         }
       ],
-      "duration_ms": 147839,
-      "name": "L\u00fctfen",
-      "url": "https://open.spotify.com/track/18yBnbSt7VvEVV3Hkm9xwV"
+      "duration_ms": 226306,
+      "name": "Sen Vars\u0131n Diye",
+      "url": "https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw"
     },
     {
       "album": {
@@ -242,21 +242,6 @@
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "album": {
-        "name": "Sen Vars\u0131n Diye",
-        "url": "https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc"
-      },
-      "artists": [
-        {
-          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
-          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Sen Vars\u0131n Diye",
-      "url": "https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw"
     },
     {
       "album": {
@@ -279,18 +264,33 @@
     },
     {
       "album": {
-        "name": "Duman 1",
-        "url": "https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C"
+        "name": "L\u00fctfen",
+        "url": "https://open.spotify.com/album/7gi0OwYp8uU4WKK3L5nZBY"
       },
       "artists": [
         {
-          "name": "Duman",
-          "url": "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh"
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Dibine Kadar",
-      "url": "https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4"
+      "duration_ms": 147839,
+      "name": "L\u00fctfen",
+      "url": "https://open.spotify.com/track/18yBnbSt7VvEVV3Hkm9xwV"
+    },
+    {
+      "album": {
+        "name": "Kor",
+        "url": "https://open.spotify.com/album/4Wi0MXyj8KygoHTj9EeWei"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Kor",
+      "url": "https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX"
     },
     {
       "album": {
@@ -306,6 +306,21 @@
       "duration_ms": 154173,
       "name": "Bul Beni",
       "url": "https://open.spotify.com/track/1riBwVUqVsk5RGJ9iLN8cG"
+    },
+    {
+      "album": {
+        "name": "A\u015fk\u0131n Mevsimi",
+        "url": "https://open.spotify.com/album/203bUdZtsey2yU4IMm07TX"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "duration_ms": 164690,
+      "name": "A\u015fk\u0131n Mevsimi",
+      "url": "https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u"
     },
     {
       "album": {
@@ -325,6 +340,21 @@
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
+    },
+    {
+      "album": {
+        "name": "Duman 1",
+        "url": "https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C"
+      },
+      "artists": [
+        {
+          "name": "Duman",
+          "url": "https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Dibine Kadar",
+      "url": "https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4"
     },
     {
       "album": {
@@ -362,21 +392,6 @@
     },
     {
       "album": {
-        "name": "Kor",
-        "url": "https://open.spotify.com/album/4Wi0MXyj8KygoHTj9EeWei"
-      },
-      "artists": [
-        {
-          "name": "Emir Can \u0130\u011frek",
-          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "Kor",
-      "url": "https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX"
-    },
-    {
-      "album": {
         "name": "BEGEFEND\u0130",
         "url": "https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744"
       },
@@ -389,21 +404,6 @@
       "duration_ms": 157220,
       "name": "GECELER\u0130N DERD\u0130",
       "url": "https://open.spotify.com/track/5L9oweGjkwBg0Mt9ZU9OhW"
-    },
-    {
-      "album": {
-        "name": "A\u015fk\u0131n Mevsimi",
-        "url": "https://open.spotify.com/album/203bUdZtsey2yU4IMm07TX"
-      },
-      "artists": [
-        {
-          "name": "O\u011fuzhan Ko\u00e7",
-          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
-        }
-      ],
-      "duration_ms": 164690,
-      "name": "A\u015fk\u0131n Mevsimi",
-      "url": "https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u"
     },
     {
       "album": {
@@ -441,18 +441,18 @@
     },
     {
       "album": {
-        "name": "Di\u011fer Masallar",
-        "url": "https://open.spotify.com/album/1Z6QLsfqXdU78LQWIP9akr"
+        "name": "Pare",
+        "url": "https://open.spotify.com/album/1aK2P7TMEkl5P12tl2RujI"
       },
       "artists": [
         {
-          "name": "Model",
-          "url": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
         }
       ],
-      "duration_ms": 255346,
-      "name": "Pembe Mezarl\u0131k",
-      "url": "https://open.spotify.com/track/2q2uKIUC8wycTQt0183M40"
+      "duration_ms": 174622,
+      "name": "Pare",
+      "url": "https://open.spotify.com/track/1qv3dJD70eC9mnIZnofWwP"
     },
     {
       "album": {
@@ -475,36 +475,6 @@
     },
     {
       "album": {
-        "name": "Pare",
-        "url": "https://open.spotify.com/album/1aK2P7TMEkl5P12tl2RujI"
-      },
-      "artists": [
-        {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Pare",
-      "url": "https://open.spotify.com/track/1qv3dJD70eC9mnIZnofWwP"
-    },
-    {
-      "album": {
-        "name": "Aynen \u00d6yle",
-        "url": "https://open.spotify.com/album/1Lp0ckfAeugrkLWr3zde68"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Aynen \u00d6yle",
-      "url": "https://open.spotify.com/track/2AwLtOEK3qqZlYTPdBFhke"
-    },
-    {
-      "album": {
         "name": "Kan",
         "url": "https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv"
       },
@@ -520,33 +490,18 @@
     },
     {
       "album": {
-        "name": "Akustik Travma",
-        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
+        "name": "Di\u011fer Masallar",
+        "url": "https://open.spotify.com/album/1Z6QLsfqXdU78LQWIP9akr"
       },
       "artists": [
         {
-          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
-          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+          "name": "Model",
+          "url": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
         }
       ],
-      "duration_ms": 144906,
-      "name": "Dinle Beni Bi'",
-      "url": "https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ"
-    },
-    {
-      "album": {
-        "name": "A\u011f\u0131r Roman",
-        "url": "https://open.spotify.com/album/2sXpdxb6xQ1t3lOX072al6"
-      },
-      "artists": [
-        {
-          "name": "Emir Can \u0130\u011frek",
-          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
-        }
-      ],
-      "duration_ms": 215488,
-      "name": "Beyaz Skandal\u0131m",
-      "url": "https://open.spotify.com/track/1gLCVATJt0IT6aRuqZvrKt"
+      "duration_ms": 255346,
+      "name": "Pembe Mezarl\u0131k",
+      "url": "https://open.spotify.com/track/2q2uKIUC8wycTQt0183M40"
     },
     {
       "album": {
@@ -565,18 +520,63 @@
     },
     {
       "album": {
-        "name": "Bu Son Olsun",
-        "url": "https://open.spotify.com/album/30oGctq0ESNTuT5zX5SYfp"
+        "name": "A\u011f\u0131r Roman",
+        "url": "https://open.spotify.com/album/2sXpdxb6xQ1t3lOX072al6"
       },
       "artists": [
         {
-          "name": "Cem Karaca",
-          "url": "https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI"
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Bu Son Olsun",
-      "url": "https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs"
+      "duration_ms": 215488,
+      "name": "Beyaz Skandal\u0131m",
+      "url": "https://open.spotify.com/track/1gLCVATJt0IT6aRuqZvrKt"
+    },
+    {
+      "album": {
+        "name": "Aynen \u00d6yle",
+        "url": "https://open.spotify.com/album/1Lp0ckfAeugrkLWr3zde68"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Aynen \u00d6yle",
+      "url": "https://open.spotify.com/track/2AwLtOEK3qqZlYTPdBFhke"
+    },
+    {
+      "album": {
+        "name": "Akustik Travma",
+        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
+          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+        }
+      ],
+      "duration_ms": 144906,
+      "name": "Dinle Beni Bi'",
+      "url": "https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ"
+    },
+    {
+      "album": {
+        "name": "Mart\u0131lar",
+        "url": "https://open.spotify.com/album/4wmJjtcDQLpfL4Bs0LV58v"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        }
+      ],
+      "duration_ms": 157439,
+      "name": "Mart\u0131lar",
+      "url": "https://open.spotify.com/track/5KfEZIfXixRmVadOEMfzum"
     },
     {
       "album": {
@@ -592,21 +592,6 @@
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "album": {
-        "name": "Dibe \u0130niyorum (Demo)",
-        "url": "https://open.spotify.com/album/0rFC7uGCJIBQFnEBP5W2jd"
-      },
-      "artists": [
-        {
-          "name": "Rei 6",
-          "url": "https://open.spotify.com/artist/2hiKZUSxd7c4Ab57KAQ3SW"
-        }
-      ],
-      "duration_ms": 190055,
-      "name": "Ah Can\u0131m Sevgilim - Demo",
-      "url": "https://open.spotify.com/track/5kpkEb0M49YM516trGUSWS"
     },
     {
       "album": {
@@ -637,74 +622,6 @@
     },
     {
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "album": {
-        "name": "\u00d6lebilirim",
-        "url": "https://open.spotify.com/album/0P3wjoDhm36wToI7e2riWK"
-      },
-      "artists": [
-        {
-          "name": "Bedo",
-          "url": "https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si"
-        },
-        {
-          "name": "Patron",
-          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
-        }
-      ],
-      "duration_ms": 229421,
-      "name": "\u00d6lebilirim",
-      "url": "https://open.spotify.com/track/5jtqm1ZWbtyaUfhX9zc0ls"
-    },
-    {
-      "album": {
-        "name": "Mart\u0131lar",
-        "url": "https://open.spotify.com/album/4wmJjtcDQLpfL4Bs0LV58v"
-      },
-      "artists": [
-        {
-          "name": "EDIS",
-          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
-        }
-      ],
-      "duration_ms": 157439,
-      "name": "Mart\u0131lar",
-      "url": "https://open.spotify.com/track/5KfEZIfXixRmVadOEMfzum"
-    },
-    {
-      "album": {
-        "name": "Y\u0131ld\u0131zlar\u0131n Alt\u0131nda",
-        "url": "https://open.spotify.com/album/7iBnGObSriC4GOdsA2SVVg"
-      },
-      "artists": [
-        {
-          "name": "Kargo",
-          "url": "https://open.spotify.com/artist/3eedpDhV8pocvTvTHLGq9R"
-        }
-      ],
-      "duration_ms": 177580,
-      "name": "Y\u0131ld\u0131zlar\u0131n Alt\u0131nda",
-      "url": "https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf"
-    },
-    {
-      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -732,6 +649,55 @@
     },
     {
       "album": {
+        "name": "\u00d6lebilirim",
+        "url": "https://open.spotify.com/album/0P3wjoDhm36wToI7e2riWK"
+      },
+      "artists": [
+        {
+          "name": "Bedo",
+          "url": "https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si"
+        },
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "duration_ms": 229421,
+      "name": "\u00d6lebilirim",
+      "url": "https://open.spotify.com/track/5jtqm1ZWbtyaUfhX9zc0ls"
+    },
+    {
+      "album": {
+        "name": "Dibe \u0130niyorum (Demo)",
+        "url": "https://open.spotify.com/album/0rFC7uGCJIBQFnEBP5W2jd"
+      },
+      "artists": [
+        {
+          "name": "Rei 6",
+          "url": "https://open.spotify.com/artist/2hiKZUSxd7c4Ab57KAQ3SW"
+        }
+      ],
+      "duration_ms": 190055,
+      "name": "Ah Can\u0131m Sevgilim - Demo",
+      "url": "https://open.spotify.com/track/5kpkEb0M49YM516trGUSWS"
+    },
+    {
+      "album": {
+        "name": "Bu Son Olsun",
+        "url": "https://open.spotify.com/album/30oGctq0ESNTuT5zX5SYfp"
+      },
+      "artists": [
+        {
+          "name": "Cem Karaca",
+          "url": "https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Bu Son Olsun",
+      "url": "https://open.spotify.com/track/5QfhqYAS8wmNnvFuOgLNRs"
+    },
+    {
+      "album": {
         "name": "Hakim Bey",
         "url": "https://open.spotify.com/album/5yErDnoFeok5zSOTBzxcOJ"
       },
@@ -744,21 +710,6 @@
       "duration_ms": 167500,
       "name": "Hakim Bey",
       "url": "https://open.spotify.com/track/1U162pMcwl6Ssq5kk1Sso3"
-    },
-    {
-      "album": {
-        "name": "Akiyor Zaman",
-        "url": "https://open.spotify.com/album/5t6JANuspt8XBIFDlbZYYq"
-      },
-      "artists": [
-        {
-          "name": "Seksend\u00f6rt",
-          "url": "https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Kendime Yalan S\u00f6yledim",
-      "url": "https://open.spotify.com/track/5hYb9RIvqvk8J6mjMNL4pc"
     },
     {
       "album": {
@@ -777,18 +728,37 @@
     },
     {
       "album": {
-        "name": "Kusura Bakma",
-        "url": "https://open.spotify.com/album/2wQTy5lZxRCArc6UScs8zt"
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
       "artists": [
         {
-          "name": "Tu\u011fkan",
-          "url": "https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Kusura Bakma",
-      "url": "https://open.spotify.com/track/7ng3MkDXpSUVFQEhN6vtqG"
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "album": {
+        "name": "Y\u0131ld\u0131zlar\u0131n Alt\u0131nda",
+        "url": "https://open.spotify.com/album/7iBnGObSriC4GOdsA2SVVg"
+      },
+      "artists": [
+        {
+          "name": "Kargo",
+          "url": "https://open.spotify.com/artist/3eedpDhV8pocvTvTHLGq9R"
+        }
+      ],
+      "duration_ms": 177580,
+      "name": "Y\u0131ld\u0131zlar\u0131n Alt\u0131nda",
+      "url": "https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf"
     },
     {
       "album": {
@@ -807,22 +777,52 @@
     },
     {
       "album": {
-        "name": "Eskisi Gibi",
-        "url": "https://open.spotify.com/album/3wn6SfgDifkgzusYoiH5Eg"
+        "name": "K\u00fcl",
+        "url": "https://open.spotify.com/album/1cwzjSTuLXEf2L0XcutndQ"
       },
       "artists": [
         {
-          "name": "Lil Zey",
-          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+          "name": "Cem Adrian",
+          "url": "https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj"
         },
         {
-          "name": "Kozmos",
-          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
+          "name": "Mark Eliyahu",
+          "url": "https://open.spotify.com/artist/7k6KVFItaU7pcBvL6poIi9"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Eskisi Gibi",
-      "url": "https://open.spotify.com/track/44a3EWRqHiOJEGzWgaX8dd"
+      "duration_ms": 294532,
+      "name": "K\u00fcl",
+      "url": "https://open.spotify.com/track/5NPg92vbjaGk4q9mh7MMEM"
+    },
+    {
+      "album": {
+        "name": "Kusura Bakma",
+        "url": "https://open.spotify.com/album/2wQTy5lZxRCArc6UScs8zt"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011fkan",
+          "url": "https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Kusura Bakma",
+      "url": "https://open.spotify.com/track/7ng3MkDXpSUVFQEhN6vtqG"
+    },
+    {
+      "album": {
+        "name": "Akiyor Zaman",
+        "url": "https://open.spotify.com/album/5t6JANuspt8XBIFDlbZYYq"
+      },
+      "artists": [
+        {
+          "name": "Seksend\u00f6rt",
+          "url": "https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Kendime Yalan S\u00f6yledim",
+      "url": "https://open.spotify.com/track/5hYb9RIvqvk8J6mjMNL4pc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbIVYVBNw9D5K"

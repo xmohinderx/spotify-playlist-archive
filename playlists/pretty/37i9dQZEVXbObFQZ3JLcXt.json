@@ -53,21 +53,6 @@
     },
     {
       "album": {
-        "name": "Takut",
-        "url": "https://open.spotify.com/album/7EDGBbCqiZ8X9ecuGAnziL"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 319700,
-      "name": "Takut",
-      "url": "https://open.spotify.com/track/1qHddOZ7pwtmOsw0RmlKFx"
-    },
-    {
-      "album": {
         "name": "It's Only Me (Studio Version)",
         "url": "https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4"
       },
@@ -80,6 +65,21 @@
       "duration_ms": 203075,
       "name": "It's Only Me - Studio Version",
       "url": "https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5"
+    },
+    {
+      "album": {
+        "name": "Takut",
+        "url": "https://open.spotify.com/album/7EDGBbCqiZ8X9ecuGAnziL"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 319700,
+      "name": "Takut",
+      "url": "https://open.spotify.com/track/1qHddOZ7pwtmOsw0RmlKFx"
     },
     {
       "album": {
@@ -143,6 +143,36 @@
     },
     {
       "album": {
+        "name": "Melawan Restu",
+        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 219896,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
+    },
+    {
+      "album": {
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 211483,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
@@ -162,21 +192,6 @@
     },
     {
       "album": {
-        "name": "Melawan Restu",
-        "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 219896,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
-    },
-    {
-      "album": {
         "name": "4 ONLY",
         "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
       },
@@ -192,18 +207,18 @@
     },
     {
       "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
+        "name": "Every Summertime",
+        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
       },
       "artists": [
         {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 211483,
-      "name": "Blue Jeans",
-      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
+      "duration_ms": 215686,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
     },
     {
       "album": {
@@ -237,21 +252,6 @@
     },
     {
       "album": {
-        "name": "Every Summertime",
-        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 215686,
-      "name": "Every Summertime",
-      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
-    },
-    {
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -282,21 +282,6 @@
     },
     {
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
-    },
-    {
-      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -312,6 +297,21 @@
     },
     {
       "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -324,6 +324,21 @@
       "duration_ms": 613026,
       "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "album": {
@@ -343,21 +358,6 @@
       "duration_ms": 260000,
       "name": "Bahaya",
       "url": "https://open.spotify.com/track/7Df6aulkKFTjt1s84joBQW"
-    },
-    {
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "album": {
@@ -391,6 +391,21 @@
     },
     {
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -406,18 +421,18 @@
     },
     {
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+        "name": "double take",
+        "url": "https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
     },
     {
       "album": {
@@ -440,37 +455,18 @@
     },
     {
       "album": {
-        "name": "double take",
-        "url": "https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q"
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
       "artists": [
         {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
-    },
-    {
-      "album": {
-        "name": "CECE",
-        "url": "https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1"
-      },
-      "artists": [
-        {
-          "name": "Celina Sharma",
-          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
-        },
-        {
-          "name": "Harris J.",
-          "url": "https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE"
-        }
-      ],
-      "duration_ms": 184478,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/304uzYXYjPulJpLRJzuesX"
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
       "album": {
@@ -486,40 +482,6 @@
       "duration_ms": 234204,
       "name": "Lantas",
       "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
-    },
-    {
-      "album": {
-        "name": "Aku Bukan Jodohnya",
-        "url": "https://open.spotify.com/album/4QOfOq221iUZ9m9q24zuY5"
-      },
-      "artists": [
-        {
-          "name": "Tri Suaka",
-          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
-        }
-      ],
-      "duration_ms": 244650,
-      "name": "Aku Bukan Jodohnya",
-      "url": "https://open.spotify.com/track/4YuzrUzwpTR8aRqLqepiFo"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
       "album": {
@@ -542,18 +504,37 @@
     },
     {
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+        "name": "Aku Bukan Jodohnya",
+        "url": "https://open.spotify.com/album/4QOfOq221iUZ9m9q24zuY5"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Tri Suaka",
+          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
         }
       ],
-      "duration_ms": 180018,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa"
+      "duration_ms": 244650,
+      "name": "Aku Bukan Jodohnya",
+      "url": "https://open.spotify.com/track/4YuzrUzwpTR8aRqLqepiFo"
+    },
+    {
+      "album": {
+        "name": "CECE",
+        "url": "https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1"
+      },
+      "artists": [
+        {
+          "name": "Celina Sharma",
+          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
+        },
+        {
+          "name": "Harris J.",
+          "url": "https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE"
+        }
+      ],
+      "duration_ms": 184478,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/304uzYXYjPulJpLRJzuesX"
     },
     {
       "album": {
@@ -569,6 +550,40 @@
       "duration_ms": 238672,
       "name": "Rapsodi",
       "url": "https://open.spotify.com/track/0WwLkbYBjwPYoEKegzOYVu"
+    },
+    {
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa"
     },
     {
       "album": {
@@ -588,36 +603,6 @@
       "duration_ms": 227595,
       "name": "Terlukis Indah",
       "url": "https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa"
-    },
-    {
-      "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
-    },
-    {
-      "album": {
-        "name": "Mesin Waktu",
-        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 262734,
-      "name": "Mesin Waktu",
-      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
     },
     {
       "album": {
@@ -648,6 +633,21 @@
       "duration_ms": 198107,
       "name": "Kota",
       "url": "https://open.spotify.com/track/0SeBJ2sAl8CV58kBfpd5va"
+    },
+    {
+      "album": {
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 262734,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
     },
     {
       "album": {
@@ -685,6 +685,29 @@
     },
     {
       "album": {
+        "name": "C.H.R.I.S.Y.E.",
+        "url": "https://open.spotify.com/album/3CVNmMgqfF8Rr3tiOqFvkH"
+      },
+      "artists": [
+        {
+          "name": "Diskoria",
+          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
+        },
+        {
+          "name": "Laleilmanino",
+          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+        },
+        {
+          "name": "Eva Celia",
+          "url": "https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY"
+        }
+      ],
+      "duration_ms": 310812,
+      "name": "C.H.R.I.S.Y.E.",
+      "url": "https://open.spotify.com/track/42si4ikg5dh732gPuQ0xHb"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -712,29 +735,6 @@
       "duration_ms": 258049,
       "name": "Now I Know",
       "url": "https://open.spotify.com/track/6HGcSuP89aoRvqLIAjcT8B"
-    },
-    {
-      "album": {
-        "name": "C.H.R.I.S.Y.E.",
-        "url": "https://open.spotify.com/album/3CVNmMgqfF8Rr3tiOqFvkH"
-      },
-      "artists": [
-        {
-          "name": "Diskoria",
-          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
-        },
-        {
-          "name": "Laleilmanino",
-          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
-        },
-        {
-          "name": "Eva Celia",
-          "url": "https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY"
-        }
-      ],
-      "duration_ms": 310812,
-      "name": "C.H.R.I.S.Y.E.",
-      "url": "https://open.spotify.com/track/42si4ikg5dh732gPuQ0xHb"
     },
     {
       "album": {
@@ -772,21 +772,6 @@
     },
     {
       "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "You're Gonna Live Forever in Me",
-      "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"
-    },
-    {
-      "album": {
         "name": "365",
         "url": "https://open.spotify.com/album/66ATAuPBpHYXytPUXzCCwi"
       },
@@ -799,6 +784,21 @@
       "duration_ms": 199638,
       "name": "365",
       "url": "https://open.spotify.com/track/7j01rdHvXniCA8f1x0NTUG"
+    },
+    {
+      "album": {
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "You're Gonna Live Forever in Me",
+      "url": "https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbObFQZ3JLcXt"

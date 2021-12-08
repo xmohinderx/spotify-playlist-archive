@@ -19,6 +19,21 @@
     },
     {
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "album": {
         "name": "WELCOME TO THE GLOW UP",
         "url": "https://open.spotify.com/album/0JyvBDN61cKnJfGrlbAxQZ"
       },
@@ -167,6 +182,29 @@
       "duration_ms": 207242,
       "name": "Talk (feat. MAY-A)",
       "url": "https://open.spotify.com/track/2jY1ttXBDyw1NRZgkU3yQ8"
+    },
+    {
+      "album": {
+        "name": "Chances Are",
+        "url": "https://open.spotify.com/album/6YegMkVMKI8lJIOk7ynY6h"
+      },
+      "artists": [
+        {
+          "name": "Forenzics",
+          "url": "https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3"
+        },
+        {
+          "name": "Split Enz",
+          "url": "https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL"
+        },
+        {
+          "name": "Tim Finn",
+          "url": "https://open.spotify.com/artist/6OIoPLnbAe0U4k1NFjqIyN"
+        }
+      ],
+      "duration_ms": 199912,
+      "name": "Chances Are",
+      "url": "https://open.spotify.com/track/73vlVDlp4rSd8SaiccnbtN"
     },
     {
       "album": {

@@ -106,6 +106,21 @@
     },
     {
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -121,18 +136,18 @@
     },
     {
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
       "album": {
@@ -166,21 +181,6 @@
     },
     {
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -211,6 +211,33 @@
     },
     {
       "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
         "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
       },
@@ -223,6 +250,59 @@
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
+    },
+    {
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "album": {
+        "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
+        "url": "https://open.spotify.com/album/2KS3eItXsWb5mrgzG7yfA8"
+      },
+      "artists": [
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        },
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05e1\u05d0\u05d5\u05dc",
+          "url": "https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE"
+        }
+      ],
+      "duration_ms": 187352,
+      "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/6SuC1LItQ9V9SjET2EvvtD"
+    },
+    {
+      "album": {
+        "name": "\u05d1\u05d9\u05d7\u05d3",
+        "url": "https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0"
+      },
+      "artists": [
+        {
+          "name": "Marina Maximilian",
+          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
+        },
+        {
+          "name": "Guy Mentesh",
+          "url": "https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "\u05d1\u05d9\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
     },
     {
       "album": {
@@ -260,71 +340,6 @@
     },
     {
       "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "album": {
-        "name": "\u05d1\u05d9\u05d7\u05d3",
-        "url": "https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0"
-      },
-      "artists": [
-        {
-          "name": "Marina Maximilian",
-          "url": "https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp"
-        },
-        {
-          "name": "Guy Mentesh",
-          "url": "https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "\u05d1\u05d9\u05d7\u05d3",
-      "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
-    },
-    {
-      "album": {
-        "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
-        "url": "https://open.spotify.com/album/2KS3eItXsWb5mrgzG7yfA8"
-      },
-      "artists": [
-        {
-          "name": "Agam Buhbut",
-          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
-        },
-        {
-          "name": "\u05e9\u05d7\u05e8 \u05e1\u05d0\u05d5\u05dc",
-          "url": "https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE"
-        }
-      ],
-      "duration_ms": 187352,
-      "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
-      "url": "https://open.spotify.com/track/6SuC1LItQ9V9SjET2EvvtD"
-    },
-    {
-      "album": {
         "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
         "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
       },
@@ -337,21 +352,6 @@
       "duration_ms": 197499,
       "name": "\u05d2\u05d3\u05dc \u05dc\u05d9 \u05e7\u05e6\u05ea \u05d6\u05e7\u05df",
       "url": "https://open.spotify.com/track/4abB8WdkswrxWxcV2e56x9"
-    },
-    {
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "album": {
@@ -378,21 +378,6 @@
     },
     {
       "album": {
-        "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T"
-      },
-      "artists": [
-        {
-          "name": "Raviv Kaner",
-          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
-        }
-      ],
-      "duration_ms": 201190,
-      "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj"
-    },
-    {
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -405,21 +390,6 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "album": {
-        "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3"
-      },
-      "artists": [
-        {
-          "name": "Ishay Ribo",
-          "url": "https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj"
-        }
-      ],
-      "duration_ms": 199710,
-      "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv"
     },
     {
       "album": {
@@ -442,6 +412,21 @@
     },
     {
       "album": {
+        "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T"
+      },
+      "artists": [
+        {
+          "name": "Raviv Kaner",
+          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
+        }
+      ],
+      "duration_ms": 201190,
+      "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -454,6 +439,36 @@
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3"
+      },
+      "artists": [
+        {
+          "name": "Ishay Ribo",
+          "url": "https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj"
+        }
+      ],
+      "duration_ms": 199710,
+      "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
+        "url": "https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh"
+      },
+      "artists": [
+        {
+          "name": "Itay Levi",
+          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
+        }
+      ],
+      "duration_ms": 161485,
+      "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
+      "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
     },
     {
       "album": {
@@ -487,21 +502,6 @@
     },
     {
       "album": {
-        "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
-        "url": "https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh"
-      },
-      "artists": [
-        {
-          "name": "Itay Levi",
-          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
-        }
-      ],
-      "duration_ms": 161485,
-      "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
-      "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
-    },
-    {
-      "album": {
         "name": "\u05dc\u05d0 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3",
         "url": "https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR"
       },
@@ -532,21 +532,6 @@
     },
     {
       "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 186896,
-      "name": "\u05de\u05d1\u05d8\u05d9\u05d7",
-      "url": "https://open.spotify.com/track/10Hl2j6T952VAUSQHGLQ04"
-    },
-    {
-      "album": {
         "name": "\u05d8\u05e8\u05d9\u05dc\u05d9\u05dc\u05d9 \u05d8\u05e8\u05dc\u05dc\u05d4",
         "url": "https://open.spotify.com/album/22CJZ4LX8d7fI0Kqk6c1hk"
       },
@@ -566,33 +551,18 @@
     },
     {
       "album": {
-        "name": "\u05d6\u05d5\u05d2\u05d5\u05ea \u05db\u05d0\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/244Rb7ISEMuJ4yWbOd2ZCs"
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
       },
       "artists": [
         {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
         }
       ],
-      "duration_ms": 200000,
-      "name": "\u05d6\u05d5\u05d2\u05d5\u05ea \u05db\u05d0\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/2e33MYvTvmpUPTgOZJbRHf"
-    },
-    {
-      "album": {
-        "name": "\u05d7\u05e0\u05d5\u05db\u05d4",
-        "url": "https://open.spotify.com/album/6teleymeiKKchMbvIKodcQ"
-      },
-      "artists": [
-        {
-          "name": "Static & Ben El",
-          "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
-        }
-      ],
-      "duration_ms": 181350,
-      "name": "\u05d7\u05e0\u05d5\u05db\u05d4",
-      "url": "https://open.spotify.com/track/4VDrcf17m0AE6CMekgvCAA"
+      "duration_ms": 186896,
+      "name": "\u05de\u05d1\u05d8\u05d9\u05d7",
+      "url": "https://open.spotify.com/track/10Hl2j6T952VAUSQHGLQ04"
     },
     {
       "album": {
@@ -615,6 +585,36 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d7\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/5QIPFeYDdNDVoU7j24YavX"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 204982,
+      "name": "\u05de\u05d7\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/1XuxoHDc7mFeyhaDcgjYST"
+    },
+    {
+      "album": {
+        "name": "\u05d6\u05d5\u05d2\u05d5\u05ea \u05db\u05d0\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/244Rb7ISEMuJ4yWbOd2ZCs"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "\u05d6\u05d5\u05d2\u05d5\u05ea \u05db\u05d0\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/2e33MYvTvmpUPTgOZJbRHf"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
       },
@@ -627,6 +627,78 @@
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "album": {
+        "name": "\u05e4\u05d9\u05dc\u05d8\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0uqfFF7ulAju4K9JKP3rnW"
+      },
+      "artists": [
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        },
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 182578,
+      "name": "\u05e4\u05d9\u05dc\u05d8\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4F5i9rkN4DBMysvhzzEHoh"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 197442,
+      "name": "Smokin Out The Window",
+      "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05de\u05ea\u05e7",
+        "url": "https://open.spotify.com/album/6VXePLdJNPBL3O2ehqXkxL"
+      },
+      "artists": [
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "\u05de\u05de\u05ea\u05e7",
+      "url": "https://open.spotify.com/track/39R36zC5ysSRIrneGDGhYa"
     },
     {
       "album": {
@@ -654,6 +726,21 @@
       "duration_ms": 181204,
       "name": "\u05d4\u05e9\u05de\u05d9\u05d9\u05dd \u05e0\u05e2\u05d5\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/52N2FDUfL0mPyAFfxRWheT"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05de\u05e9",
+        "url": "https://open.spotify.com/album/2UdGTuj5xeeRTGyTULrY4U"
+      },
+      "artists": [
+        {
+          "name": "Hanan Ben Ari",
+          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
+        }
+      ],
+      "duration_ms": 238089,
+      "name": "\u05e9\u05de\u05e9",
+      "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"
     },
     {
       "album": {
@@ -687,36 +774,6 @@
     },
     {
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "album": {
-        "name": "\u05de\u05de\u05ea\u05e7",
-        "url": "https://open.spotify.com/album/6VXePLdJNPBL3O2ehqXkxL"
-      },
-      "artists": [
-        {
-          "name": "Eden Ben Zaken",
-          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "\u05de\u05de\u05ea\u05e7",
-      "url": "https://open.spotify.com/track/39R36zC5ysSRIrneGDGhYa"
-    },
-    {
-      "album": {
         "name": "Dale Mami",
         "url": "https://open.spotify.com/album/2wCD7VE13g6P5akpPMuFJk"
       },
@@ -736,21 +793,6 @@
     },
     {
       "album": {
-        "name": "\u05de\u05d7\u05d9\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/5QIPFeYDdNDVoU7j24YavX"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 204982,
-      "name": "\u05de\u05d7\u05d9\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/1XuxoHDc7mFeyhaDcgjYST"
-    },
-    {
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -763,21 +805,6 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "album": {
-        "name": "\u05e9\u05de\u05e9",
-        "url": "https://open.spotify.com/album/2UdGTuj5xeeRTGyTULrY4U"
-      },
-      "artists": [
-        {
-          "name": "Hanan Ben Ari",
-          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
-        }
-      ],
-      "duration_ms": 238089,
-      "name": "\u05e9\u05de\u05e9",
-      "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"
     },
     {
       "album": {
@@ -796,41 +823,18 @@
     },
     {
       "album": {
-        "name": "\u05d0\u05dc\u05d5\u05e3 \u05d4\u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/1FL8eqJMxg14Uhs4f4BVSe"
+        "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2"
       },
       "artists": [
         {
-          "name": "Hanan Ben Ari",
-          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
         }
       ],
-      "duration_ms": 215625,
-      "name": "\u05d0\u05dc\u05d5\u05e3 \u05d4\u05e2\u05d5\u05dc\u05dd",
-      "url": "https://open.spotify.com/track/3Y4G4E7EVomTWTFSFS0Sn5"
-    },
-    {
-      "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 197442,
-      "name": "Smokin Out The Window",
-      "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
+      "duration_ms": 196480,
+      "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJ6IpvItkve3"

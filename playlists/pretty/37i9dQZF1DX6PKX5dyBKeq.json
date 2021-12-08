@@ -1,25 +1,172 @@
 {
-  "description": "The finest in UK rap. Cover: SL",
+  "description": "The finest in UK rap. Cover: Morrisson",
   "name": "Rap UK",
   "tracks": [
     {
       "album": {
-        "name": "Coming for You (feat. A1 x J1)",
-        "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
+        "name": "6:30",
+        "url": "https://open.spotify.com/album/6UmdJvqfSVC1MHWz95IAR3"
       },
       "artists": [
         {
-          "name": "SwitchOTR",
-          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
-        },
-        {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Coming for You (feat. A1 x J1)",
-      "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
+      "duration_ms": 137077,
+      "name": "6:30",
+      "url": "https://open.spotify.com/track/0KzvY1XHsfvZ5p5sUcdHSN"
+    },
+    {
+      "album": {
+        "name": "Home Alone 2",
+        "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 221441,
+      "name": "Overseas",
+      "url": "https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"
+    },
+    {
+      "album": {
+        "name": "Brucky 2.0",
+        "url": "https://open.spotify.com/album/5QgRStArslDU2io9EU0xt0"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "Brucky 2.0",
+      "url": "https://open.spotify.com/track/7tTcleU0z0VpBaGWlBdIko"
+    },
+    {
+      "album": {
+        "name": "Live by the Gun",
+        "url": "https://open.spotify.com/album/2Jorkd2XJ1vVvm3eIQV91e"
+      },
+      "artists": [
+        {
+          "name": "Morrisson",
+          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
+        }
+      ],
+      "duration_ms": 245117,
+      "name": "Live by the Gun",
+      "url": "https://open.spotify.com/track/6nsfPWRo2j5EHgTeQeVUGs"
+    },
+    {
+      "album": {
+        "name": "Home Alone 2",
+        "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Lil Pino",
+          "url": "https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "Kevin McCallister",
+      "url": "https://open.spotify.com/track/6XYw65P3tKQZKk5fzdxjvG"
+    },
+    {
+      "album": {
+        "name": "Two Years Clear",
+        "url": "https://open.spotify.com/album/3zuZlK5ZyVobKnA5m0KFcX"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Two Years Clear",
+      "url": "https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV"
+    },
+    {
+      "album": {
+        "name": "Snap It",
+        "url": "https://open.spotify.com/album/4Dsn1FD0v8z1PgdoOeQL3g"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Snap It",
+      "url": "https://open.spotify.com/track/7k9bJIyRTECJwjYjE1dfml"
+    },
+    {
+      "album": {
+        "name": "Wid It",
+        "url": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 181058,
+      "name": "Wid It",
+      "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
+    },
+    {
+      "album": {
+        "name": "Differences / Innocent",
+        "url": "https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/6tFcwSh4nygzReGqAqax7c"
+    },
+    {
+      "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP"
     },
     {
       "album": {
@@ -53,89 +200,6 @@
     },
     {
       "album": {
-        "name": "Differences / Innocent",
-        "url": "https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq"
-      },
-      "artists": [
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 167137,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/4ZyFlO3nB9F7TxV5qHJNXW"
-    },
-    {
-      "album": {
-        "name": "Independence Day",
-        "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Sus",
-          "url": "https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD"
-        }
-      ],
-      "duration_ms": 171150,
-      "name": "Double Tap (feat. Sus)",
-      "url": "https://open.spotify.com/track/7pQ5nfrBV8SD6u0aH3DKTj"
-    },
-    {
-      "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP"
-    },
-    {
-      "album": {
-        "name": "Roberto C (feat. Unknown T)",
-        "url": "https://open.spotify.com/album/3QQuKzcpDFS6RTVJNvVQCe"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Roberto C (feat. Unknown T)",
-      "url": "https://open.spotify.com/track/35uEOfCn8GbfqzVwlrgwDI"
-    },
-    {
-      "album": {
-        "name": "Obsessed With You",
-        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Obsessed With You",
-      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
-    },
-    {
-      "album": {
         "name": "Clash (feat. Stormzy)",
         "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
       },
@@ -155,648 +219,37 @@
     },
     {
       "album": {
-        "name": "Brucky 2.0",
-        "url": "https://open.spotify.com/album/5QgRStArslDU2io9EU0xt0"
+        "name": "Coming for You (feat. A1 x J1)",
+        "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
       },
       "artists": [
         {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Brucky 2.0",
-      "url": "https://open.spotify.com/track/7tTcleU0z0VpBaGWlBdIko"
-    },
-    {
-      "album": {
-        "name": "Two Years Clear",
-        "url": "https://open.spotify.com/album/3zuZlK5ZyVobKnA5m0KFcX"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Two Years Clear",
-      "url": "https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV"
-    },
-    {
-      "album": {
-        "name": "Wildest",
-        "url": "https://open.spotify.com/album/10WKwwnW9AIGgUKfjEfTBN"
-      },
-      "artists": [
-        {
-          "name": "Horrid1",
-          "url": "https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ"
+          "name": "SwitchOTR",
+          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
         },
         {
-          "name": "Sav'o",
-          "url": "https://open.spotify.com/artist/1VeNLxolTVovUG1ROeumVp"
+          "name": "A1 x J1",
+          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
         }
       ],
-      "duration_ms": 177534,
-      "name": "Wildest",
-      "url": "https://open.spotify.com/track/4TFumJif4oyWpVyHOMkoK4"
+      "duration_ms": 178285,
+      "name": "Coming for You (feat. A1 x J1)",
+      "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
     },
     {
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
+        "name": "Murk With A Mouth",
+        "url": "https://open.spotify.com/album/1JB6fnwSLrP8YJ10XWWQk6"
       },
       "artists": [
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "V9",
+          "url": "https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v"
         }
       ],
-      "duration_ms": 173571,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
-    },
-    {
-      "album": {
-        "name": "Differences / Innocent",
-        "url": "https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq"
-      },
-      "artists": [
-        {
-          "name": "Rowdy Rebel",
-          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/6tFcwSh4nygzReGqAqax7c"
-    },
-    {
-      "album": {
-        "name": "G's Only (feat. Chip)",
-        "url": "https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J"
-      },
-      "artists": [
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        },
-        {
-          "name": "Chip",
-          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "D Double E (feat. Chip)",
-      "url": "https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD"
-    },
-    {
-      "album": {
-        "name": "Big Shark",
-        "url": "https://open.spotify.com/album/4wtkVYb3pTptewYBch9kTM"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Big Shark",
-      "url": "https://open.spotify.com/track/6Yjj0HEBFdOtNjhbhiOiah"
-    },
-    {
-      "album": {
-        "name": "Practice Makes Perfect",
-        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Practice Makes Perfect",
-      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
-    },
-    {
-      "album": {
-        "name": "Live by the Gun",
-        "url": "https://open.spotify.com/album/2Jorkd2XJ1vVvm3eIQV91e"
-      },
-      "artists": [
-        {
-          "name": "Morrisson",
-          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
-        }
-      ],
-      "duration_ms": 245117,
-      "name": "Live by the Gun",
-      "url": "https://open.spotify.com/track/6nsfPWRo2j5EHgTeQeVUGs"
-    },
-    {
-      "album": {
-        "name": "Thrill",
-        "url": "https://open.spotify.com/album/1WklF96514rmVnxIDYI5UT"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Thrill",
-      "url": "https://open.spotify.com/track/1rIfxUG9VNJQVwICfppLnS"
-    },
-    {
-      "album": {
-        "name": "Snap It",
-        "url": "https://open.spotify.com/album/4Dsn1FD0v8z1PgdoOeQL3g"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Snap It",
-      "url": "https://open.spotify.com/track/7k9bJIyRTECJwjYjE1dfml"
-    },
-    {
-      "album": {
-        "name": "Little Bit of This",
-        "url": "https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 180581,
-      "name": "Little Bit of This",
-      "url": "https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2"
-    },
-    {
-      "album": {
-        "name": "Censored",
-        "url": "https://open.spotify.com/album/2q7OEIMA2lIr3mvb6piX45"
-      },
-      "artists": [
-        {
-          "name": "Loski",
-          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Rolling Dice",
-      "url": "https://open.spotify.com/track/4yuao7v700N6tOJNTH7vK4"
-    },
-    {
-      "album": {
-        "name": "Uptown",
-        "url": "https://open.spotify.com/album/2VxCRcqsTMe8IqWJm9Y7ql"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "Uptown",
-      "url": "https://open.spotify.com/track/22PC5q1uB3WutWJSfVsoWm"
-    },
-    {
-      "album": {
-        "name": "N.F.T.R",
-        "url": "https://open.spotify.com/album/0I4ySUkczJPRivqT2ZQOfH"
-      },
-      "artists": [
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        }
-      ],
-      "duration_ms": 147793,
-      "name": "N.F.T.R",
-      "url": "https://open.spotify.com/track/09Z93D06xMy1q0x09dknsY"
-    },
-    {
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/0OUMQ70DNqNLCW3UIITM8b"
-      },
-      "artists": [
-        {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
-        }
-      ],
-      "duration_ms": 181049,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/63ZJ1O6WA44R6ifMT9z2Ye"
-    },
-    {
-      "album": {
-        "name": "Bak2Bak",
-        "url": "https://open.spotify.com/album/0cgAanczQdqR7QleTREU48"
-      },
-      "artists": [
-        {
-          "name": "Akz",
-          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
-        },
-        {
-          "name": "Double Lz",
-          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Bak2Bak",
-      "url": "https://open.spotify.com/track/2FkBDvvNzPXxFdNiEM2CSe"
-    },
-    {
-      "album": {
-        "name": "6:30",
-        "url": "https://open.spotify.com/album/6UmdJvqfSVC1MHWz95IAR3"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "duration_ms": 137077,
-      "name": "6:30",
-      "url": "https://open.spotify.com/track/0KzvY1XHsfvZ5p5sUcdHSN"
-    },
-    {
-      "album": {
-        "name": "2k17",
-        "url": "https://open.spotify.com/album/1qFTMW0nLumPJNhelB1uWo"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "2k17",
-      "url": "https://open.spotify.com/track/1uzRV0C8fuXoO3oe5veC5C"
-    },
-    {
-      "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 182285,
-      "name": "Verdansk",
-      "url": "https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5"
-    },
-    {
-      "album": {
-        "name": "Home Alone 2",
-        "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
-      },
-      "artists": [
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 221441,
-      "name": "Overseas",
-      "url": "https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"
-    },
-    {
-      "album": {
-        "name": "OT",
-        "url": "https://open.spotify.com/album/7bB808PXQ5X33QEqPiyEXL"
-      },
-      "artists": [
-        {
-          "name": "TeeZandos",
-          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
-        }
-      ],
-      "duration_ms": 135944,
-      "name": "OT",
-      "url": "https://open.spotify.com/track/72Ygf54e183dVuRD3fu2as"
-    },
-    {
-      "album": {
-        "name": "Jetski Wave 3",
-        "url": "https://open.spotify.com/album/0lIwPQkDm31ETXMctrDBd9"
-      },
-      "artists": [
-        {
-          "name": "Sneakbo",
-          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
-        },
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        },
-        {
-          "name": "Stickz",
-          "url": "https://open.spotify.com/artist/4XElpHwKLubHxfXQwWyyEY"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "I Get That (feat. M24 & Stickz)",
-      "url": "https://open.spotify.com/track/48PIbnVeeI869MuJ2Yyt3k"
-    },
-    {
-      "album": {
-        "name": "Really",
-        "url": "https://open.spotify.com/album/21C2sBWDs7k0vy4UZcTTWj"
-      },
-      "artists": [
-        {
-          "name": "Sneakbo",
-          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
-        },
-        {
-          "name": "J Boy",
-          "url": "https://open.spotify.com/artist/6dkEqDJxqJxtlgU8g3dUlb"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "Really",
-      "url": "https://open.spotify.com/track/4JWlEcJh01me0EWhbtnkD8"
-    },
-    {
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/0TVIICdInY6IypDbLsb6MB"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/32pPek0KsHsMSSFogNu49f"
-    },
-    {
-      "album": {
-        "name": "Money On My Head",
-        "url": "https://open.spotify.com/album/5OZ0QA6Ft7GttbKuwPJHP0"
-      },
-      "artists": [
-        {
-          "name": "KO",
-          "url": "https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN"
-        }
-      ],
-      "duration_ms": 154784,
-      "name": "Money On My Head",
-      "url": "https://open.spotify.com/track/5T5Zelda9vm4PGo2pXGqlW"
-    },
-    {
-      "album": {
-        "name": "Back In Blood",
-        "url": "https://open.spotify.com/album/2y27yWhhQKER6WpYQBgb9s"
-      },
-      "artists": [
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "Back In Blood",
-      "url": "https://open.spotify.com/track/2lqFZ1vSoo1kp0SAGTnIIu"
-    },
-    {
-      "album": {
-        "name": "100 Bags Freestyle",
-        "url": "https://open.spotify.com/album/3hvY5dIMHDPIKvPRCBLyn4"
-      },
-      "artists": [
-        {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "100 Bags Freestyle",
-      "url": "https://open.spotify.com/track/76kAtA4XBWaFGQDvBDVYEl"
-    },
-    {
-      "album": {
-        "name": "Too Loyal for My Own Good",
-        "url": "https://open.spotify.com/album/39SJXfvhdYT3pWyfKqLO83"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 226027,
-      "name": "Too Loyal...",
-      "url": "https://open.spotify.com/track/4gb3UzQB5BhsQU2lUrSKBP"
-    },
-    {
-      "album": {
-        "name": "Independence Day",
-        "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        }
-      ],
-      "duration_ms": 198793,
-      "name": "Flowers and the Snow",
-      "url": "https://open.spotify.com/track/02L35AUJSHvIOeKERcWUdj"
-    },
-    {
-      "album": {
-        "name": "Breadwinner",
-        "url": "https://open.spotify.com/album/2XUf9fQUZ4PXBnnae0hAW8"
-      },
-      "artists": [
-        {
-          "name": "M Huncho",
-          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
-        }
-      ],
-      "duration_ms": 146181,
-      "name": "Breadwinner",
-      "url": "https://open.spotify.com/track/46vvEPQ6w8g1Vwhp63xcOo"
-    },
-    {
-      "album": {
-        "name": "Antigua",
-        "url": "https://open.spotify.com/album/19MQeiNDE4GzrUHIRLF1q6"
-      },
-      "artists": [
-        {
-          "name": "Dappy",
-          "url": "https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        },
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Antigua",
-      "url": "https://open.spotify.com/track/0AK0oPLSmmzmjVURnWWXTu"
-    },
-    {
-      "album": {
-        "name": "Goals",
-        "url": "https://open.spotify.com/album/0g1E1HoPJGjJWNPaLmgbD4"
-      },
-      "artists": [
-        {
-          "name": "Teeway",
-          "url": "https://open.spotify.com/artist/0kpblC0svNiiNNli00y7J9"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Goals",
-      "url": "https://open.spotify.com/track/0egBKZ1ldRbw5QdlIsSEjo"
-    },
-    {
-      "album": {
-        "name": "Double Tap",
-        "url": "https://open.spotify.com/album/31t5ON8FfP5TEbmcQA2lMS"
-      },
-      "artists": [
-        {
-          "name": "Abra Cadabra",
-          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
-        },
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "Double Tap",
-      "url": "https://open.spotify.com/track/1kzJ786jktCryP59bq4wij"
-    },
-    {
-      "album": {
-        "name": "Shoot Like Curry",
-        "url": "https://open.spotify.com/album/6Hs1CRMHKI4rdLIqCALdu1"
-      },
-      "artists": [
-        {
-          "name": "Fizzler",
-          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
-        }
-      ],
-      "duration_ms": 192052,
-      "name": "Shoot Like Curry",
-      "url": "https://open.spotify.com/track/1Vpedr1TGNcY3rSSTMxZAe"
-    },
-    {
-      "album": {
-        "name": "Be the Best",
-        "url": "https://open.spotify.com/album/3uyXIO261wZQvgrTBx0QIM"
-      },
-      "artists": [
-        {
-          "name": "Eyez",
-          "url": "https://open.spotify.com/artist/3lbE4VUYGYUusBmdfPbtJV"
-        }
-      ],
-      "duration_ms": 134166,
-      "name": "Be the Best",
-      "url": "https://open.spotify.com/track/264Fy3vM9I4Jq1oxkvsstX"
-    },
-    {
-      "album": {
-        "name": "Wid It",
-        "url": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 181058,
-      "name": "Wid It",
-      "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
-    },
-    {
-      "album": {
-        "name": "More Money",
-        "url": "https://open.spotify.com/album/0ReVzIHDsM725fdFGlIZ4v"
-      },
-      "artists": [
-        {
-          "name": "Meekz",
-          "url": "https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "More Money",
-      "url": "https://open.spotify.com/track/0ZLhqWBAhobSU4bTvKdM2K"
-    },
-    {
-      "album": {
-        "name": "Wollan",
-        "url": "https://open.spotify.com/album/0GIweXN9DpKbSos21PvMfs"
-      },
-      "artists": [
-        {
-          "name": "Bermuda Music",
-          "url": "https://open.spotify.com/artist/4nZPsE22Q1maa358GzSLZD"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 214525,
-      "name": "Wollan",
-      "url": "https://open.spotify.com/track/6kMHnJZ8QgRR0NV4LmdNpA"
+      "duration_ms": 207644,
+      "name": "Sweeper",
+      "url": "https://open.spotify.com/track/1u3LPiyYcaWUzePmUX8uHK"
     },
     {
       "album": {
@@ -827,52 +280,146 @@
     },
     {
       "album": {
-        "name": "Skepta x Fumez The Engineer - Plugged In",
-        "url": "https://open.spotify.com/album/6vXEYRxUnIeTt6wIdL844B"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/0OUMQ70DNqNLCW3UIITM8b"
       },
       "artists": [
         {
-          "name": "Fumez The Engineer",
-          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        }
+      ],
+      "duration_ms": 181049,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/63ZJ1O6WA44R6ifMT9z2Ye"
+    },
+    {
+      "album": {
+        "name": "The Drama",
+        "url": "https://open.spotify.com/album/4NtAJs2anuTTQztS6wc8xB"
+      },
+      "artists": [
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 158333,
-      "name": "Skepta x Fumez The Engineer - Plugged In",
-      "url": "https://open.spotify.com/track/77LDURvNd8YwpQdynKs7oI"
+      "duration_ms": 192074,
+      "name": "Ops",
+      "url": "https://open.spotify.com/track/1Um0ouKAafZVarvHbVKgFZ"
     },
     {
       "album": {
-        "name": "NHF (No Hard Feelings)",
-        "url": "https://open.spotify.com/album/5ztN6ER74wVx6alzsI7KLQ"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "Nito NB",
-          "url": "https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 175000,
-      "name": "NHF (No Hard Feelings)",
-      "url": "https://open.spotify.com/track/1qO8r8Ar3nKGdRwvCtcgWp"
+      "duration_ms": 182285,
+      "name": "Verdansk",
+      "url": "https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5"
     },
     {
       "album": {
-        "name": "1HUNNA",
-        "url": "https://open.spotify.com/album/6nxQptk9JVU7q1tISRkBVh"
+        "name": "Back In Blood",
+        "url": "https://open.spotify.com/album/2y27yWhhQKER6WpYQBgb9s"
       },
       "artists": [
         {
-          "name": "Ard Adz",
-          "url": "https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu"
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
         }
       ],
-      "duration_ms": 174602,
-      "name": "1HUNNA",
-      "url": "https://open.spotify.com/track/2gSW8XO3OR3YDpFitDSlCR"
+      "duration_ms": 175375,
+      "name": "Back In Blood",
+      "url": "https://open.spotify.com/track/2lqFZ1vSoo1kp0SAGTnIIu"
+    },
+    {
+      "album": {
+        "name": "More Money",
+        "url": "https://open.spotify.com/album/0ReVzIHDsM725fdFGlIZ4v"
+      },
+      "artists": [
+        {
+          "name": "Meekz",
+          "url": "https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "More Money",
+      "url": "https://open.spotify.com/track/0ZLhqWBAhobSU4bTvKdM2K"
+    },
+    {
+      "album": {
+        "name": "Censored",
+        "url": "https://open.spotify.com/album/2q7OEIMA2lIr3mvb6piX45"
+      },
+      "artists": [
+        {
+          "name": "Loski",
+          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Rolling Dice",
+      "url": "https://open.spotify.com/track/4yuao7v700N6tOJNTH7vK4"
+    },
+    {
+      "album": {
+        "name": "Differences / Innocent",
+        "url": "https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 167137,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/4ZyFlO3nB9F7TxV5qHJNXW"
+    },
+    {
+      "album": {
+        "name": "Lock Your Doors",
+        "url": "https://open.spotify.com/album/7Cr74qBOQGKH0BYEozFwO1"
+      },
+      "artists": [
+        {
+          "name": "Desperado",
+          "url": "https://open.spotify.com/artist/5FYCXDLeDeWkSdO2CllN4l"
+        },
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
+        }
+      ],
+      "duration_ms": 178580,
+      "name": "Lock Your Doors",
+      "url": "https://open.spotify.com/track/25u2HgkzAmtVLBY8UZlEJI"
+    },
+    {
+      "album": {
+        "name": "Obsessed With You",
+        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Obsessed With You",
+      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
     },
     {
       "album": {
@@ -891,56 +438,37 @@
     },
     {
       "album": {
-        "name": "Swerve Off",
-        "url": "https://open.spotify.com/album/3pBVG3KwmVnYit5rACySqd"
+        "name": "Drippers",
+        "url": "https://open.spotify.com/album/4UARlJ8YCDCUqruzqfPxIs"
       },
       "artists": [
         {
-          "name": "Mowgs",
-          "url": "https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9"
-        },
-        {
-          "name": "MIST",
-          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+          "name": "Country Dons",
+          "url": "https://open.spotify.com/artist/76IdLCK81jcB44BTCgR7Vx"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Swerve Off",
-      "url": "https://open.spotify.com/track/5i7OKZh0fGgs5erYD0Wybx"
+      "duration_ms": 217263,
+      "name": "Drippers",
+      "url": "https://open.spotify.com/track/5gh2Xu60OurDQfNmy0zA0X"
     },
     {
       "album": {
-        "name": "Hiatus (Freestyle)",
-        "url": "https://open.spotify.com/album/4Oagn67o2aL0ccK7IItOxh"
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/0TVIICdInY6IypDbLsb6MB"
       },
       "artists": [
         {
-          "name": "M Huncho",
-          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Hiatus - Freestyle",
-      "url": "https://open.spotify.com/track/2XpX9aywhu0U2avraTSpUj"
-    },
-    {
-      "album": {
-        "name": "Jurgen",
-        "url": "https://open.spotify.com/album/7E5O9KYPjyLpIcSGPKyWWY"
-      },
-      "artists": [
-        {
-          "name": "Scorcher",
-          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         },
         {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
         }
       ],
-      "duration_ms": 193191,
-      "name": "Jurgen",
-      "url": "https://open.spotify.com/track/2NYTdL0Cb15Bcr3PZcUd9L"
+      "duration_ms": 174545,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/32pPek0KsHsMSSFogNu49f"
     },
     {
       "album": {
@@ -959,18 +487,105 @@
     },
     {
       "album": {
-        "name": "MiLL$",
-        "url": "https://open.spotify.com/album/1MYpjXEQDqgrSdRWCYn9mr"
+        "name": "Wollan",
+        "url": "https://open.spotify.com/album/0GIweXN9DpKbSos21PvMfs"
       },
       "artists": [
         {
-          "name": "Queen Millz",
-          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+          "name": "Bermuda Music",
+          "url": "https://open.spotify.com/artist/4nZPsE22Q1maa358GzSLZD"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
         }
       ],
-      "duration_ms": 132905,
-      "name": "MiLL$",
-      "url": "https://open.spotify.com/track/74dE6cUA7VU4JZXkLk84oT"
+      "duration_ms": 214525,
+      "name": "Wollan",
+      "url": "https://open.spotify.com/track/6kMHnJZ8QgRR0NV4LmdNpA"
+    },
+    {
+      "album": {
+        "name": "Independence Day",
+        "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Sus",
+          "url": "https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD"
+        }
+      ],
+      "duration_ms": 171150,
+      "name": "Double Tap (feat. Sus)",
+      "url": "https://open.spotify.com/track/7pQ5nfrBV8SD6u0aH3DKTj"
+    },
+    {
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/22XG1iczPMOMG1UeJ246la"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4UrFC81E6GFds7A2WVhYTZ"
+    },
+    {
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
+    },
+    {
+      "album": {
+        "name": "N.F.T.R",
+        "url": "https://open.spotify.com/album/0I4ySUkczJPRivqT2ZQOfH"
+      },
+      "artists": [
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "duration_ms": 147793,
+      "name": "N.F.T.R",
+      "url": "https://open.spotify.com/track/09Z93D06xMy1q0x09dknsY"
+    },
+    {
+      "album": {
+        "name": "NHF (No Hard Feelings)",
+        "url": "https://open.spotify.com/album/5ztN6ER74wVx6alzsI7KLQ"
+      },
+      "artists": [
+        {
+          "name": "Nito NB",
+          "url": "https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "NHF (No Hard Feelings)",
+      "url": "https://open.spotify.com/track/1qO8r8Ar3nKGdRwvCtcgWp"
     },
     {
       "album": {
@@ -993,18 +608,41 @@
     },
     {
       "album": {
-        "name": "Murk With A Mouth",
-        "url": "https://open.spotify.com/album/1JB6fnwSLrP8YJ10XWWQk6"
+        "name": "Little Bit of This",
+        "url": "https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN"
       },
       "artists": [
         {
-          "name": "V9",
-          "url": "https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 207644,
-      "name": "Sweeper",
-      "url": "https://open.spotify.com/track/1u3LPiyYcaWUzePmUX8uHK"
+      "duration_ms": 180581,
+      "name": "Little Bit of This",
+      "url": "https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2"
+    },
+    {
+      "album": {
+        "name": "Antigua",
+        "url": "https://open.spotify.com/album/19MQeiNDE4GzrUHIRLF1q6"
+      },
+      "artists": [
+        {
+          "name": "Dappy",
+          "url": "https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Antigua",
+      "url": "https://open.spotify.com/track/0AK0oPLSmmzmjVURnWWXTu"
     },
     {
       "album": {
@@ -1023,48 +661,233 @@
     },
     {
       "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/22XG1iczPMOMG1UeJ246la"
+        "name": "Really",
+        "url": "https://open.spotify.com/album/21C2sBWDs7k0vy4UZcTTWj"
       },
       "artists": [
         {
-          "name": "Clavish",
-          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        },
+        {
+          "name": "J Boy",
+          "url": "https://open.spotify.com/artist/6dkEqDJxqJxtlgU8g3dUlb"
         }
       ],
-      "duration_ms": 190253,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4UrFC81E6GFds7A2WVhYTZ"
+      "duration_ms": 162324,
+      "name": "Really",
+      "url": "https://open.spotify.com/track/4JWlEcJh01me0EWhbtnkD8"
     },
     {
       "album": {
-        "name": "Return of the Immigrant",
-        "url": "https://open.spotify.com/album/4gEtWWdmA8kPjrpMaUzYsq"
+        "name": "Double Tap",
+        "url": "https://open.spotify.com/album/31t5ON8FfP5TEbmcQA2lMS"
       },
       "artists": [
         {
-          "name": "Cashh",
-          "url": "https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua"
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
         }
       ],
-      "duration_ms": 221500,
-      "name": "Life of a Immigrant",
-      "url": "https://open.spotify.com/track/7wTQB9Xs09KJj4j2Z7Pkfc"
+      "duration_ms": 192853,
+      "name": "Double Tap",
+      "url": "https://open.spotify.com/track/1kzJ786jktCryP59bq4wij"
     },
     {
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/4aKGX3kexucFfeBoNBxQcr"
+        "name": "2k17",
+        "url": "https://open.spotify.com/album/1qFTMW0nLumPJNhelB1uWo"
       },
       "artists": [
         {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         }
       ],
-      "duration_ms": 145711,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU"
+      "duration_ms": 206250,
+      "name": "2k17",
+      "url": "https://open.spotify.com/track/1uzRV0C8fuXoO3oe5veC5C"
+    },
+    {
+      "album": {
+        "name": "Wildest",
+        "url": "https://open.spotify.com/album/10WKwwnW9AIGgUKfjEfTBN"
+      },
+      "artists": [
+        {
+          "name": "Horrid1",
+          "url": "https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ"
+        },
+        {
+          "name": "Sav'o",
+          "url": "https://open.spotify.com/artist/1VeNLxolTVovUG1ROeumVp"
+        }
+      ],
+      "duration_ms": 177534,
+      "name": "Wildest",
+      "url": "https://open.spotify.com/track/4TFumJif4oyWpVyHOMkoK4"
+    },
+    {
+      "album": {
+        "name": "Jetski Wave 3",
+        "url": "https://open.spotify.com/album/0lIwPQkDm31ETXMctrDBd9"
+      },
+      "artists": [
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        },
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        },
+        {
+          "name": "Stickz",
+          "url": "https://open.spotify.com/artist/4XElpHwKLubHxfXQwWyyEY"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "I Get That (feat. M24 & Stickz)",
+      "url": "https://open.spotify.com/track/48PIbnVeeI869MuJ2Yyt3k"
+    },
+    {
+      "album": {
+        "name": "Practice Makes Perfect",
+        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Practice Makes Perfect",
+      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/22LBZzwGOiw7zU2Z4SoKFe"
+      },
+      "artists": [
+        {
+          "name": "Akz",
+          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/2j86wxB1hcP6rU4HbhYjXC"
+    },
+    {
+      "album": {
+        "name": "Too Loyal for My Own Good",
+        "url": "https://open.spotify.com/album/39SJXfvhdYT3pWyfKqLO83"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 226027,
+      "name": "Too Loyal...",
+      "url": "https://open.spotify.com/track/4gb3UzQB5BhsQU2lUrSKBP"
+    },
+    {
+      "album": {
+        "name": "100 Bags Freestyle",
+        "url": "https://open.spotify.com/album/3hvY5dIMHDPIKvPRCBLyn4"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "100 Bags Freestyle",
+      "url": "https://open.spotify.com/track/76kAtA4XBWaFGQDvBDVYEl"
+    },
+    {
+      "album": {
+        "name": "Shoot Like Curry",
+        "url": "https://open.spotify.com/album/6Hs1CRMHKI4rdLIqCALdu1"
+      },
+      "artists": [
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "Shoot Like Curry",
+      "url": "https://open.spotify.com/track/1Vpedr1TGNcY3rSSTMxZAe"
+    },
+    {
+      "album": {
+        "name": "Goals",
+        "url": "https://open.spotify.com/album/0g1E1HoPJGjJWNPaLmgbD4"
+      },
+      "artists": [
+        {
+          "name": "Teeway",
+          "url": "https://open.spotify.com/artist/0kpblC0svNiiNNli00y7J9"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/0egBKZ1ldRbw5QdlIsSEjo"
+    },
+    {
+      "album": {
+        "name": "Independence Day",
+        "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "duration_ms": 198793,
+      "name": "Flowers and the Snow",
+      "url": "https://open.spotify.com/track/02L35AUJSHvIOeKERcWUdj"
+    },
+    {
+      "album": {
+        "name": "Thrill",
+        "url": "https://open.spotify.com/album/1WklF96514rmVnxIDYI5UT"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/1rIfxUG9VNJQVwICfppLnS"
+    },
+    {
+      "album": {
+        "name": "1HUNNA",
+        "url": "https://open.spotify.com/album/6nxQptk9JVU7q1tISRkBVh"
+      },
+      "artists": [
+        {
+          "name": "Ard Adz",
+          "url": "https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu"
+        }
+      ],
+      "duration_ms": 174602,
+      "name": "1HUNNA",
+      "url": "https://open.spotify.com/track/2gSW8XO3OR3YDpFitDSlCR"
     },
     {
       "album": {
@@ -1087,18 +910,37 @@
     },
     {
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/22LBZzwGOiw7zU2Z4SoKFe"
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/4aKGX3kexucFfeBoNBxQcr"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 145711,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU"
+    },
+    {
+      "album": {
+        "name": "Bak2Bak",
+        "url": "https://open.spotify.com/album/0cgAanczQdqR7QleTREU48"
       },
       "artists": [
         {
           "name": "Akz",
           "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
+        },
+        {
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/2j86wxB1hcP6rU4HbhYjXC"
+      "duration_ms": 180500,
+      "name": "Bak2Bak",
+      "url": "https://open.spotify.com/track/2FkBDvvNzPXxFdNiEM2CSe"
     },
     {
       "album": {
@@ -1125,18 +967,37 @@
     },
     {
       "album": {
-        "name": "Glory Days Deluxe Mixtape",
-        "url": "https://open.spotify.com/album/7zgEcp2PvFgpyuiPaDda8J"
+        "name": "Swerve Off",
+        "url": "https://open.spotify.com/album/3pBVG3KwmVnYit5rACySqd"
       },
       "artists": [
         {
-          "name": "Vic Santoro",
-          "url": "https://open.spotify.com/artist/35KDE2KSa0OKt1iyWG3azS"
+          "name": "Mowgs",
+          "url": "https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
         }
       ],
-      "duration_ms": 243080,
-      "name": "Waiti Di Happen",
-      "url": "https://open.spotify.com/track/3MhCEqO4toGi66fQ0XED07"
+      "duration_ms": 183529,
+      "name": "Swerve Off",
+      "url": "https://open.spotify.com/track/5i7OKZh0fGgs5erYD0Wybx"
+    },
+    {
+      "album": {
+        "name": "Breadwinner",
+        "url": "https://open.spotify.com/album/2XUf9fQUZ4PXBnnae0hAW8"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "duration_ms": 146181,
+      "name": "Breadwinner",
+      "url": "https://open.spotify.com/track/46vvEPQ6w8g1Vwhp63xcOo"
     },
     {
       "album": {
@@ -1163,37 +1024,101 @@
     },
     {
       "album": {
-        "name": "Just B'Coz",
-        "url": "https://open.spotify.com/album/1bREq9tpZ3SSMfvEcLVmGw"
+        "name": "Uptown",
+        "url": "https://open.spotify.com/album/2VxCRcqsTMe8IqWJm9Y7ql"
       },
       "artists": [
         {
-          "name": "Lavida Loca",
-          "url": "https://open.spotify.com/artist/415327ME0IFxW10IRFonr8"
-        },
-        {
-          "name": "Loski",
-          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
         }
       ],
-      "duration_ms": 169014,
-      "name": "Rusty",
-      "url": "https://open.spotify.com/track/2UrCwKQVDqjiBuo54mTxXi"
+      "duration_ms": 170232,
+      "name": "Uptown",
+      "url": "https://open.spotify.com/track/22PC5q1uB3WutWJSfVsoWm"
     },
     {
       "album": {
-        "name": "Boys Will Be Boys",
-        "url": "https://open.spotify.com/album/6ZKvHFEAc2YGpzT7g37tVr"
+        "name": "Money On My Head",
+        "url": "https://open.spotify.com/album/5OZ0QA6Ft7GttbKuwPJHP0"
       },
       "artists": [
         {
-          "name": "CASISDEAD",
-          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
+          "name": "KO",
+          "url": "https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN"
         }
       ],
-      "duration_ms": 249998,
-      "name": "Boys Will Be Boys",
-      "url": "https://open.spotify.com/track/6xRJ8TVgtW2WsQAIXBkMiq"
+      "duration_ms": 154784,
+      "name": "Money On My Head",
+      "url": "https://open.spotify.com/track/5T5Zelda9vm4PGo2pXGqlW"
+    },
+    {
+      "album": {
+        "name": "Roberto C (feat. Unknown T)",
+        "url": "https://open.spotify.com/album/3QQuKzcpDFS6RTVJNvVQCe"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Roberto C (feat. Unknown T)",
+      "url": "https://open.spotify.com/track/35uEOfCn8GbfqzVwlrgwDI"
+    },
+    {
+      "album": {
+        "name": "OT",
+        "url": "https://open.spotify.com/album/7bB808PXQ5X33QEqPiyEXL"
+      },
+      "artists": [
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "duration_ms": 135944,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/72Ygf54e183dVuRD3fu2as"
+    },
+    {
+      "album": {
+        "name": "MiLL$",
+        "url": "https://open.spotify.com/album/1MYpjXEQDqgrSdRWCYn9mr"
+      },
+      "artists": [
+        {
+          "name": "Queen Millz",
+          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+        }
+      ],
+      "duration_ms": 132905,
+      "name": "MiLL$",
+      "url": "https://open.spotify.com/track/74dE6cUA7VU4JZXkLk84oT"
+    },
+    {
+      "album": {
+        "name": "G's Only (feat. Chip)",
+        "url": "https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "D Double E (feat. Chip)",
+      "url": "https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq"
