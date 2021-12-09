@@ -2,7 +2,7 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Ease into these recent hits and new songs from your favorite artists. Cover: OneRepublic
+> Ease into these recent hits and new songs from your favorite artists. Cover: Adele
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [24 Hours](https://open.spotify.com/track/7dDtjTlMhLhkuugxXrcJz1) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/5UNe2eNrwKNHeczcVpgRZi) | 3:18 | 2021-08-21 | 2021-09-25 |
 | [24/5](https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [24/5](https://open.spotify.com/album/263g4l4u6u115I2ISnMkQP) | 2:38 | 2021-09-11 | 2021-10-23 |
 | [2Drunk](https://open.spotify.com/track/33o0xXMPY41CWwDTnxyM5Z) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Spaceman](https://open.spotify.com/album/3FTjOu2zQLWcl1NVos4eAq) | 3:12 | 2021-03-14 | 2021-05-22 |
+| [30/90 (from "tick, tick... BOOM!" Soundtrack from the Netflix Film)](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig) | [tick, tick... BOOM! (Soundtrack from the Netflix Film)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2021-12-09 |  |
 | [7UP](https://open.spotify.com/track/4cB00WOFuQFLoDpnydcx8c) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [7UP](https://open.spotify.com/album/6V20HAISdYkgTpoa51Z95P) | 3:23 | 2019-07-12 | 2019-10-04 |
 | [865](https://open.spotify.com/track/0sKEilrw1GrBlG6qsTCrP4) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:10 | 2021-01-08 | 2021-02-03 |
 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 | 2020-09-04 | 2021-05-08 |
@@ -580,7 +581,7 @@
 | [Still the Same (feat. Boy In Space)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same (feat. Boy In Space)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 | 2020-02-28 | 2020-06-12 |
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-09-18 | 2021-10-16 |
 | [Stop](https://open.spotify.com/track/3XJV73RAVIVfLKLV7eevuG) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Stop](https://open.spotify.com/album/3PmOimRwikYLeYyBQUNxQ5) | 3:10 | 2020-08-14 | 2020-10-18 |
-| [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse (Deluxe)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-09-18 |  |
+| [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse (Deluxe)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-09-18 | 2021-12-09 |
 | [stranger to me](https://open.spotify.com/track/4mvy1Y1k5ICIZjCUoM87tW) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [stranger to me](https://open.spotify.com/album/0V7x1MESYbiouaWZC8vM5r) | 2:15 | 2021-06-26 | 2021-08-21 |
 | [Struck By Lightning (feat. Cavetown)](https://open.spotify.com/track/3tAQPcaksoaVhCEMoPxZEJ) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning (feat. Cavetown)](https://open.spotify.com/album/1WAwuDACzHQWEef9ULmE4C) | 2:34 | 2021-08-07 | 2021-09-18 |
 | [Stupid Deep](https://open.spotify.com/track/7cK7hDrE7vAesPf8xd5zmb) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 2:58 | 2019-05-26 | 2019-06-15 |

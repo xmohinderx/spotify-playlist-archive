@@ -139,6 +139,21 @@
     },
     {
       "album": {
+        "name": "Diamond Dust",
+        "url": "https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4alwurSGuv4U63w9549o1s"
+    },
+    {
+      "album": {
         "name": "Ulayaw",
         "url": "https://open.spotify.com/album/2qoEb7DazQiYwE5zsGtiDd"
       },
@@ -211,6 +226,21 @@
       "duration_ms": 169754,
       "name": "Light Rest",
       "url": "https://open.spotify.com/track/58QLCa2HJxU4U2MnpNopLj"
+    },
+    {
+      "album": {
+        "name": "Lasai",
+        "url": "https://open.spotify.com/album/7kYXPNnP4j96kO0FzCfYjb"
+      },
+      "artists": [
+        {
+          "name": "Darcie Roman",
+          "url": "https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Lasai",
+      "url": "https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH"
     },
     {
       "album": {

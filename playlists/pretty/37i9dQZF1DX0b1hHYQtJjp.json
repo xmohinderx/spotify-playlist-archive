@@ -1,5 +1,5 @@
 {
-  "description": "Ease into these recent hits and new songs from your favorite artists. Cover: OneRepublic",
+  "description": "Ease into these recent hits and new songs from your favorite artists. Cover: Adele",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -19,22 +19,38 @@
     },
     {
       "album": {
-        "name": "Just Look Up (From Don\u2019t Look Up)",
-        "url": "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4"
+        "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Andrew Garfield",
+          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        },
+        {
+          "name": "Robin de Jesus",
+          "url": "https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32"
+        },
+        {
+          "name": "Alexandra Shipp",
+          "url": "https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF"
+        },
+        {
+          "name": "MJ Rodriguez",
+          "url": "https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig"
         }
       ],
-      "duration_ms": 201667,
-      "name": "Just Look Up (From Don\u2019t Look Up)",
-      "url": "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F"
+      "duration_ms": 262505,
+      "name": "30/90 (from \"tick, tick... BOOM!\" Soundtrack from the Netflix Film)",
+      "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
     },
     {
       "album": {
@@ -84,6 +100,25 @@
       "duration_ms": 211010,
       "name": "Life's Too Short",
       "url": "https://open.spotify.com/track/326yOKaTPs91elL1KW794F"
+    },
+    {
+      "album": {
+        "name": "Just Look Up (From Don\u2019t Look Up)",
+        "url": "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 201667,
+      "name": "Just Look Up (From Don\u2019t Look Up)",
+      "url": "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F"
     },
     {
       "album": {
@@ -1429,21 +1464,6 @@
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
-    },
-    {
-      "album": {
-        "name": "Not Your Muse (Deluxe)",
-        "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
     },
     {
       "album": {
