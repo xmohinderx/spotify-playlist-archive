@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about.  Try it on for size. Cover: Gabby Barrett
+> Love Music, help St. Jude stop cancer at musicgives.org. Cover: Maddie & Tae
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -76,6 +76,25 @@
     },
     {
       "album": {
+        "name": "Nothing Compares",
+        "url": "https://open.spotify.com/album/2nVYXhKU2ivwctV3TULWLC"
+      },
+      "artists": [
+        {
+          "name": "Mark F. Angelo",
+          "url": "https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g"
+        },
+        {
+          "name": "Thomas Sykes",
+          "url": "https://open.spotify.com/artist/5YMczOrhIIwKHbOVV6VpNf"
+        }
+      ],
+      "duration_ms": 160455,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/5uK5imfy8JK9LNRLax5hwT"
+    },
+    {
+      "album": {
         "name": "Invincible EP",
         "url": "https://open.spotify.com/album/78ROcR5rkK56FnSYxBo40L"
       },

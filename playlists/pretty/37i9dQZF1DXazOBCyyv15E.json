@@ -1,21 +1,36 @@
 {
-  "description": "The home of the best new alternative music. Cover: Bakar",
+  "description": "The home of the best new alternative music. Cover: Tame Impala",
   "name": "The Other List",
   "tracks": [
     {
       "album": {
-        "name": "Player Of Games",
-        "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
+        "name": "No Choice",
+        "url": "https://open.spotify.com/album/61hEtv7eRNxChNrsbpGXSC"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 245542,
-      "name": "Player Of Games",
-      "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
+      "duration_ms": 221826,
+      "name": "No Choice",
+      "url": "https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY"
+    },
+    {
+      "album": {
+        "name": "Don't Look Up (Soundtrack From the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 242149,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
     },
     {
       "album": {
@@ -34,6 +49,40 @@
     },
     {
       "album": {
+        "name": "B-Side",
+        "url": "https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
+    },
+    {
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "New Romance",
+      "url": "https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq"
+    },
+    {
+      "album": {
         "name": "Build Me a Way",
         "url": "https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4"
       },
@@ -46,6 +95,36 @@
       "duration_ms": 141932,
       "name": "Build Me a Way - Single Version",
       "url": "https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1"
+    },
+    {
+      "album": {
+        "name": "Player Of Games",
+        "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 245542,
+      "name": "Player Of Games",
+      "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
+    },
+    {
+      "album": {
+        "name": "Heat Lightning",
+        "url": "https://open.spotify.com/album/45wp7GoaC2IVvTC8w70Hwx"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 171931,
+      "name": "Heat Lightning",
+      "url": "https://open.spotify.com/track/6q2siYjkPyHLD9GqXRJWQR"
     },
     {
       "album": {
@@ -64,21 +143,6 @@
     },
     {
       "album": {
-        "name": "Someone That I Made",
-        "url": "https://open.spotify.com/album/7BlawvCQuBwe2DNUiFaY32"
-      },
-      "artists": [
-        {
-          "name": "April",
-          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
-        }
-      ],
-      "duration_ms": 174856,
-      "name": "Someone That I Made",
-      "url": "https://open.spotify.com/track/7y20JvJ0PuFUInF3dYuPcE"
-    },
-    {
-      "album": {
         "name": "The Sneaker Dance",
         "url": "https://open.spotify.com/album/2IcgVYCAg9WAmWOYJmwHqc"
       },
@@ -91,36 +155,6 @@
       "duration_ms": 192057,
       "name": "The Sneaker Dance",
       "url": "https://open.spotify.com/track/2TDNm30iOmYTE9uiGSr2D8"
-    },
-    {
-      "album": {
-        "name": "It's All Smiles",
-        "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Remember November / Bitcrush*Yr*Life",
-      "url": "https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n"
-    },
-    {
-      "album": {
-        "name": "Tiptoeing",
-        "url": "https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 155680,
-      "name": "Tiptoeing",
-      "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
     },
     {
       "album": {
@@ -139,6 +173,21 @@
     },
     {
       "album": {
+        "name": "It's All Smiles",
+        "url": "https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Remember November / Bitcrush*Yr*Life",
+      "url": "https://open.spotify.com/track/6GQnAjlwkyqoDE7xBJSc2n"
+    },
+    {
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/7LKvzKPsswrEApW8rFi1xq"
       },
@@ -151,6 +200,36 @@
       "duration_ms": 351293,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc"
+    },
+    {
+      "album": {
+        "name": "Someone That I Made",
+        "url": "https://open.spotify.com/album/7BlawvCQuBwe2DNUiFaY32"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 174856,
+      "name": "Someone That I Made",
+      "url": "https://open.spotify.com/track/7y20JvJ0PuFUInF3dYuPcE"
+    },
+    {
+      "album": {
+        "name": "Tiptoeing",
+        "url": "https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "Tiptoeing",
+      "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
     },
     {
       "album": {
@@ -244,21 +323,6 @@
     },
     {
       "album": {
-        "name": "The Only Heartbreaker",
-        "url": "https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 184549,
-      "name": "The Only Heartbreaker",
-      "url": "https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0"
-    },
-    {
-      "album": {
         "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
         "url": "https://open.spotify.com/album/3oFHBiIriBPXysgMbeaUVY"
       },
@@ -279,21 +343,6 @@
       "duration_ms": 200687,
       "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
       "url": "https://open.spotify.com/track/2JvWoj5bTklsb6fPzRfZ3x"
-    },
-    {
-      "album": {
-        "name": "I Want U",
-        "url": "https://open.spotify.com/album/0AuX0J4cRITW4Xzejp1e8d"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        }
-      ],
-      "duration_ms": 213501,
-      "name": "I Want U",
-      "url": "https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm"
     },
     {
       "album": {
@@ -470,6 +519,21 @@
     },
     {
       "album": {
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/5fMeN4GDympJrP0XRuy2NS"
+      },
+      "artists": [
+        {
+          "name": "Local Boy",
+          "url": "https://open.spotify.com/artist/34Ze0nb54KG3gietZGFZIj"
+        }
+      ],
+      "duration_ms": 197735,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/4UouUPNprfX62HM4iP06bh"
+    },
+    {
+      "album": {
         "name": "Be Honest",
         "url": "https://open.spotify.com/album/0W0dcjY0MWM2Hgno9Lbd3E"
       },
@@ -500,6 +564,21 @@
     },
     {
       "album": {
+        "name": "FREEZE",
+        "url": "https://open.spotify.com/album/5OrqVEvsnjvcFC6OvkcXnY"
+      },
+      "artists": [
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "FREEZE",
+      "url": "https://open.spotify.com/track/7cxJa9oiHeAwl4fkxVjBYC"
+    },
+    {
+      "album": {
         "name": "Crutch",
         "url": "https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi"
       },
@@ -512,21 +591,6 @@
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA"
-    },
-    {
-      "album": {
-        "name": "When She Comes Around",
-        "url": "https://open.spotify.com/album/04kUfqvx7cfOvf2wgwqp4H"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "When She Comes Around",
-      "url": "https://open.spotify.com/track/7EJVLdcpC2lqg8Y9T5NnX8"
     },
     {
       "album": {
@@ -625,21 +689,6 @@
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
-    },
-    {
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/5BiqyOQwMQTgKpyp9pKEMH"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 343169,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/3JdUjaEiK06hCdznN6uoV9"
     },
     {
       "album": {
@@ -1200,21 +1249,6 @@
     },
     {
       "album": {
-        "name": "Royal Morning Blue",
-        "url": "https://open.spotify.com/album/7KV5IU1kITYQkySptDrk2R"
-      },
-      "artists": [
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Royal Morning Blue - Edit",
-      "url": "https://open.spotify.com/track/3PkntoEMclM5Xxiy3744Il"
-    },
-    {
-      "album": {
         "name": "No Love (Mr Shady)",
         "url": "https://open.spotify.com/album/7pL9Rt65BZ5OEhpQlYwW1j"
       },
@@ -1227,36 +1261,6 @@
       "duration_ms": 221545,
       "name": "No Love (Mr Shady)",
       "url": "https://open.spotify.com/track/0ecKmeunqlJFWe5f3D4FwH"
-    },
-    {
-      "album": {
-        "name": "Headcase",
-        "url": "https://open.spotify.com/album/7El82WcUCLfUBRXEg8lJvs"
-      },
-      "artists": [
-        {
-          "name": "Matthew Young",
-          "url": "https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q"
-        }
-      ],
-      "duration_ms": 186787,
-      "name": "Headcase",
-      "url": "https://open.spotify.com/track/4puDMkZIGlRQ4m8ht5AIEh"
-    },
-    {
-      "album": {
-        "name": "Look Who's Talking Now",
-        "url": "https://open.spotify.com/album/21jKIcNUVKLZCfNNK5hUcZ"
-      },
-      "artists": [
-        {
-          "name": "Orlando Weeks",
-          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Look Who's Talking Now",
-      "url": "https://open.spotify.com/track/7pBrxcdFVknOlSxbr1Zs0j"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E"

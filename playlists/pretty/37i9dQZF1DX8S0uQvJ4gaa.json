@@ -1,21 +1,21 @@
 {
-  "description": "New Music Discovery is what we're about.  Try it on for size. Cover: Gabby Barrett",
+  "description": "Love Music, help\u00a0St.\u00a0Jude\u00a0stop cancer at\u00a0musicgives.org. Cover: Maddie & Tae",
   "name": "New Boots",
   "tracks": [
     {
       "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/1vRyPVAXSmoetQ3HysW46B"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
         }
       ],
-      "duration_ms": 169440,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
+      "duration_ms": 205178,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/77aohFCZBpaYI4fQrCayIZ"
     },
     {
       "album": {
@@ -148,6 +148,21 @@
       "duration_ms": 178433,
       "name": "Get That All The Time (feat. Mitchell Tenpenny)",
       "url": "https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e"
+    },
+    {
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
     },
     {
       "album": {
@@ -1719,21 +1734,6 @@
       "duration_ms": 214133,
       "name": "Ride the Lightning",
       "url": "https://open.spotify.com/track/2f5Ae2EsE7IqVoOzmDOowD"
-    },
-    {
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/1vRyPVAXSmoetQ3HysW46B"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 205178,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/77aohFCZBpaYI4fQrCayIZ"
     },
     {
       "album": {

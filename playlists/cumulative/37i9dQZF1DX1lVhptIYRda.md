@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Dustin Lynch and MacKenzie Porter
+> Love Music, help St. Jude stop cancer at musicgives.org. Cover: Kane Brown
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
