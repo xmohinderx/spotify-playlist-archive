@@ -130,6 +130,29 @@
     },
     {
       "album": {
+        "name": "Soch Liya (From \"Radhe Shyam\")",
+        "url": "https://open.spotify.com/album/0WtqXJA0EiOtn2fEVOQAxq"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 283260,
+      "name": "Soch Liya (From \"Radhe Shyam\")",
+      "url": "https://open.spotify.com/track/3gc2Rho0Tn8i4LBgf6f2O5"
+    },
+    {
+      "album": {
         "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
         "url": "https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9"
       },

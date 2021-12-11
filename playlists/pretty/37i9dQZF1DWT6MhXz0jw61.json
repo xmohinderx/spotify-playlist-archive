@@ -4,98 +4,18 @@
   "tracks": [
     {
       "album": {
-        "name": "Little Havana (feat. Willie Falcon & The-Dream)",
-        "url": "https://open.spotify.com/album/6h0EXy9vhZMUVHsgzLRJQm"
+        "name": "American Horror Story",
+        "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
-        },
-        {
-          "name": "Willie Falcon",
-          "url": "https://open.spotify.com/artist/195wBoVV5j58vsy7r9hXDU"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 226072,
-      "name": "Little Havana (feat. Willie Falcon & The-Dream)",
-      "url": "https://open.spotify.com/track/3gndNki9XASWs43xZbbVlG"
-    },
-    {
-      "album": {
-        "name": "Sinister (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 148459,
-      "name": "Sinister (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN"
-    },
-    {
-      "album": {
-        "name": "I Deserve (w/ NOS.)",
-        "url": "https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "NOS.",
-          "url": "https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB"
-        }
-      ],
-      "duration_ms": 162858,
-      "name": "I Deserve (w/ NOS.)",
-      "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
-    },
-    {
-      "album": {
-        "name": "The House Is Burning",
-        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        }
-      ],
-      "duration_ms": 158050,
-      "name": "RIP Young",
-      "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs"
-    },
-    {
-      "album": {
-        "name": "Black Illuminati (feat. Jadakiss)",
-        "url": "https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Black Illuminati (feat. Jadakiss)",
-      "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
+      "duration_ms": 309570,
+      "name": "American Horror Story",
+      "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
     },
     {
       "album": {
@@ -122,6 +42,82 @@
     },
     {
       "album": {
+        "name": "The House Is Burning",
+        "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 158050,
+      "name": "RIP Young",
+      "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs"
+    },
+    {
+      "album": {
+        "name": "I Deserve (w/ NOS.)",
+        "url": "https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "NOS.",
+          "url": "https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB"
+        }
+      ],
+      "duration_ms": 162858,
+      "name": "I Deserve (w/ NOS.)",
+      "url": "https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl"
+    },
+    {
+      "album": {
+        "name": "Sinister (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 148459,
+      "name": "Sinister (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN"
+    },
+    {
+      "album": {
+        "name": "Wiz Got Wings",
+        "url": "https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        },
+        {
+          "name": "Sledgren",
+          "url": "https://open.spotify.com/artist/4BU9oJUTOxoPchpcPSlUvR"
+        }
+      ],
+      "duration_ms": 163499,
+      "name": "Blacc Tarantino",
+      "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
+    },
+    {
+      "album": {
         "name": "Friday Activities",
         "url": "https://open.spotify.com/album/6g5Ztk1usaEbRPNoW4kGDO"
       },
@@ -141,18 +137,22 @@
     },
     {
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/7z6BoDe1YgiZUl5h8GlR3I"
+        "name": "Mortgage Free (feat. 2 Chainz)",
+        "url": "https://open.spotify.com/album/3O83kLKjolZCfPKyNr4mpW"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 241397,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/2wmZFiWL7MKt2vQe6DPanz"
+      "duration_ms": 195933,
+      "name": "Mortgage Free (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/6VEHKvuIAB7LcTwl1XqnBi"
     },
     {
       "album": {
@@ -171,18 +171,22 @@
     },
     {
       "album": {
-        "name": "2010",
-        "url": "https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3"
+        "name": "Black Illuminati (feat. Jadakiss)",
+        "url": "https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
         }
       ],
-      "duration_ms": 148027,
-      "name": "2010",
-      "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
+      "duration_ms": 229333,
+      "name": "Black Illuminati (feat. Jadakiss)",
+      "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
     },
     {
       "album": {
@@ -229,6 +233,56 @@
       "duration_ms": 184000,
       "name": "Gang Activity",
       "url": "https://open.spotify.com/track/6cThqIAHAIk7WEqvnNU2CI"
+    },
+    {
+      "album": {
+        "name": "Little Havana (feat. Willie Falcon & The-Dream)",
+        "url": "https://open.spotify.com/album/6h0EXy9vhZMUVHsgzLRJQm"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "name": "Willie Falcon",
+          "url": "https://open.spotify.com/artist/195wBoVV5j58vsy7r9hXDU"
+        }
+      ],
+      "duration_ms": 226072,
+      "name": "Little Havana (feat. Willie Falcon & The-Dream)",
+      "url": "https://open.spotify.com/track/3gndNki9XASWs43xZbbVlG"
+    },
+    {
+      "album": {
+        "name": "Wiz Got Wings",
+        "url": "https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Cardo",
+          "url": "https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p"
+        },
+        {
+          "name": "Sledgren",
+          "url": "https://open.spotify.com/artist/4BU9oJUTOxoPchpcPSlUvR"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 198848,
+      "name": "Know Better",
+      "url": "https://open.spotify.com/track/6Jpzn0Bu4JGzEA0yoE0ElD"
     },
     {
       "album": {
@@ -308,6 +362,36 @@
       "duration_ms": 129835,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1EXHfM9lHxzwb3lbJ4XU0J"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/7z6BoDe1YgiZUl5h8GlR3I"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 241397,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2wmZFiWL7MKt2vQe6DPanz"
+    },
+    {
+      "album": {
+        "name": "2010",
+        "url": "https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 148027,
+      "name": "2010",
+      "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
     },
     {
       "album": {
@@ -399,21 +483,6 @@
       "duration_ms": 383036,
       "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
-    },
-    {
-      "album": {
-        "name": "Good Vibes (Za)",
-        "url": "https://open.spotify.com/album/06YE65M5LigPw3GvuWfeuW"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 172030,
-      "name": "Good Vibes (Za)",
-      "url": "https://open.spotify.com/track/0Yoat9aoKcCogReAE6swRM"
     },
     {
       "album": {
@@ -1227,25 +1296,6 @@
     },
     {
       "album": {
-        "name": "From The Heart, Vol. 2",
-        "url": "https://open.spotify.com/album/13kC9g01ww9PY6bdZY3n0J"
-      },
-      "artists": [
-        {
-          "name": "Chris Patrick",
-          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
-        },
-        {
-          "name": "Deante' Hitchcock",
-          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "Typical Shit",
-      "url": "https://open.spotify.com/track/2ZLT6qmIYHvp1kvd41Z6lH"
-    },
-    {
-      "album": {
         "name": "Skegee",
         "url": "https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL"
       },
@@ -1368,21 +1418,6 @@
       "duration_ms": 154180,
       "name": "Cocktail",
       "url": "https://open.spotify.com/track/0BefCZNc7saiEFnEBXzoir"
-    },
-    {
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4DEBKvrM10SocqyACeW5wF"
-      },
-      "artists": [
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 187669,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4NpGQqfAGuIkMVRgVD5VRX"
     },
     {
       "album": {
@@ -1716,21 +1751,6 @@
       "duration_ms": 146751,
       "name": "TV Boy",
       "url": "https://open.spotify.com/track/3JRFhq8N3N8sBlm6Y8upPm"
-    },
-    {
-      "album": {
-        "name": "Come Again",
-        "url": "https://open.spotify.com/album/4iyP2Q2KjuDsy3rIgmk88i"
-      },
-      "artists": [
-        {
-          "name": "Bizzy Crook",
-          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Come Again",
-      "url": "https://open.spotify.com/track/5BNyRwXsEJgSAXyswF9TRE"
     },
     {
       "album": {

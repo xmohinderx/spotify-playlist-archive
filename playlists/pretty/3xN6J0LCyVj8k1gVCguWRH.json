@@ -283,21 +283,6 @@
     },
     {
       "album": {
-        "name": "for a minute",
-        "url": "https://open.spotify.com/album/5OCyynWAD251PMaICcI6UL"
-      },
-      "artists": [
-        {
-          "name": "ilselena",
-          "url": "https://open.spotify.com/artist/4080n5KoGfdo3p93orsGIo"
-        }
-      ],
-      "duration_ms": 267672,
-      "name": "for a minute",
-      "url": "https://open.spotify.com/track/1aInpA0MK66NqNEG4kPvlW"
-    },
-    {
-      "album": {
         "name": "The Black Album",
         "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
       },
@@ -419,6 +404,21 @@
       "duration_ms": 152907,
       "name": "Text You Back (feat. Bryce Vine)",
       "url": "https://open.spotify.com/track/23ER2vJTvdU9FNWdhYzETY"
+    },
+    {
+      "album": {
+        "name": "Beautiful Cynical",
+        "url": "https://open.spotify.com/album/0UwQzahQaaCxzDECkAK3AW"
+      },
+      "artists": [
+        {
+          "name": "Boy Willows",
+          "url": "https://open.spotify.com/artist/41JVKMtlK9ecoACJu1xWca"
+        }
+      ],
+      "duration_ms": 221298,
+      "name": "Beautiful Cynical",
+      "url": "https://open.spotify.com/track/0sAtYj5UW5tXesC3JOHG6Q"
     },
     {
       "album": {
@@ -1851,6 +1851,36 @@
     },
     {
       "album": {
+        "name": "Pretty Picture (Side A)",
+        "url": "https://open.spotify.com/album/1LsXiKY65aIDClJXI6wno3"
+      },
+      "artists": [
+        {
+          "name": "Troy Ogletree",
+          "url": "https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt"
+        }
+      ],
+      "duration_ms": 196981,
+      "name": "Sober Brain",
+      "url": "https://open.spotify.com/track/1pFLOatIscuyzEtHLueLIz"
+    },
+    {
+      "album": {
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/1CnpFEKbcV3nY7ODlqmHCS"
+      },
+      "artists": [
+        {
+          "name": "Rude Nala",
+          "url": "https://open.spotify.com/artist/7v5dJSII3N53hZHrqN50jd"
+        }
+      ],
+      "duration_ms": 166683,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/6uIhiWsucUZpfuyNkBB0RF"
+    },
+    {
+      "album": {
         "name": "A Little More",
         "url": "https://open.spotify.com/album/08MkaEmLn6GsAcjFQ8OUfg"
       },
@@ -1863,6 +1893,126 @@
       "duration_ms": 185838,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/5zN8t1TBag3LO7d8KBFcCt"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/3frYwgbA1Ib6qt6WMQexa5"
+      },
+      "artists": [
+        {
+          "name": "Firebug",
+          "url": "https://open.spotify.com/artist/0DZBIpEF3llmi60d0a2IKi"
+        }
+      ],
+      "duration_ms": 326640,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1Y8cdKtu0MdKBouHZRtCGH"
+    },
+    {
+      "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/7E4xarHovJ7zjVBrlyMJLu"
+      },
+      "artists": [
+        {
+          "name": "Ken Norton",
+          "url": "https://open.spotify.com/artist/36UPwl8VFSHwng6c2ysgDS"
+        }
+      ],
+      "duration_ms": 137077,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/7mnuBuSAUe1UUErw1dTgrM"
+    },
+    {
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1vgctdOYu7WFvi7UUzHSF9"
+      },
+      "artists": [
+        {
+          "name": "Bleary",
+          "url": "https://open.spotify.com/artist/4rthkb9PaygrlQWGlbLaZm"
+        }
+      ],
+      "duration_ms": 264229,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/5OGbLGjP2u4Z8VaUiZMdr7"
+    },
+    {
+      "album": {
+        "name": "Made In RD",
+        "url": "https://open.spotify.com/album/2Wh4d6YCoxKhIYby2Ub5e6"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        }
+      ],
+      "duration_ms": 218629,
+      "name": "A Pasito Lento",
+      "url": "https://open.spotify.com/track/60mDUs3cKj5SvCRw3Fp0ys"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/2dQMOs2fbniaT9roOMJ1PM"
+      },
+      "artists": [
+        {
+          "name": "BoyCaro",
+          "url": "https://open.spotify.com/artist/4TyhSSi5hBeK9WTo6qSmBc"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3Z6llVBscKwFd5SojQuFOA"
+    },
+    {
+      "album": {
+        "name": "Sweet Girls Singin",
+        "url": "https://open.spotify.com/album/5UOsQBRzxjLpVLeodYhtT2"
+      },
+      "artists": [
+        {
+          "name": "Intergalactic C",
+          "url": "https://open.spotify.com/artist/2qqvQRHFMPXZas3dFoMOm1"
+        }
+      ],
+      "duration_ms": 237049,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1qap3tXCmqgx979Osjy7ln"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/47dlnosjBAqW7fvA0BeScE"
+      },
+      "artists": [
+        {
+          "name": "OLI",
+          "url": "https://open.spotify.com/artist/4aVGCycBaldIruvN75WWpl"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "Happy - Radio Edit",
+      "url": "https://open.spotify.com/track/5gTpqiIkb3qeyc9PNdlkpB"
+    },
+    {
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/04pzmOKrIW6uL3mxeg9gMO"
+      },
+      "artists": [
+        {
+          "name": "OLI",
+          "url": "https://open.spotify.com/artist/4aVGCycBaldIruvN75WWpl"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/5Q5J2pLvqgNRzABbDET8Vo"
     },
     {
       "album": {

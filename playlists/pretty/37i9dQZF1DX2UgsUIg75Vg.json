@@ -4,21 +4,6 @@
   "tracks": [
     {
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "album": {
         "name": "WFM",
         "url": "https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl"
       },
@@ -31,6 +16,85 @@
       "duration_ms": 136000,
       "name": "WFM",
       "url": "https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj"
+    },
+    {
+      "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "album": {
+        "name": "Big Femme Energy Volume 1",
+        "url": "https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB"
+      },
+      "artists": [
+        {
+          "name": "Femme It Forward",
+          "url": "https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 175702,
+      "name": "What You Deserve",
+      "url": "https://open.spotify.com/track/1y5G5QFWuUmEF7O2CSck9v"
+    },
+    {
+      "album": {
+        "name": "Candy Drip",
+        "url": "https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 279326,
+      "name": "Candy Drip",
+      "url": "https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO"
+    },
+    {
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/3PmtVhKChNrW23rI6ADGyx"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu"
+    },
+    {
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "album": {
@@ -99,55 +163,6 @@
       "duration_ms": 198670,
       "name": "CUFFIN (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
-    },
-    {
-      "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "album": {
-        "name": "Big Femme Energy Volume 1",
-        "url": "https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB"
-      },
-      "artists": [
-        {
-          "name": "Femme It Forward",
-          "url": "https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 175702,
-      "name": "What You Deserve",
-      "url": "https://open.spotify.com/track/1y5G5QFWuUmEF7O2CSck9v"
-    },
-    {
-      "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/3PmtVhKChNrW23rI6ADGyx"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu"
     },
     {
       "album": {
@@ -852,21 +867,6 @@
       "duration_ms": 196032,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/6PpvvZ4peEt9tHfrxSCnzW"
-    },
-    {
-      "album": {
-        "name": "You Made A Fool Of Me",
-        "url": "https://open.spotify.com/album/4IQy1wMdio3OMwe9lGVEjl"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "You Made A Fool Of Me",
-      "url": "https://open.spotify.com/track/0zh3RhUmTQXU6MNU7ehP7m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg"

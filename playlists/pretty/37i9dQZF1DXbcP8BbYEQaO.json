@@ -4,6 +4,21 @@
   "tracks": [
     {
       "album": {
+        "name": "The Afterlove",
+        "url": "https://open.spotify.com/album/2ws38qKDWwSpghCht5ojMV"
+      },
+      "artists": [
+        {
+          "name": "Emily Blue",
+          "url": "https://open.spotify.com/artist/31rxF8WiC0tz6yNzgVP5Tf"
+        }
+      ],
+      "duration_ms": 209389,
+      "name": "The Afterlove",
+      "url": "https://open.spotify.com/track/3sdrR0EFMVYweJi7lZPjez"
+    },
+    {
+      "album": {
         "name": "CLOUDS",
         "url": "https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l"
       },

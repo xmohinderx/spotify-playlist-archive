@@ -4,6 +4,21 @@
   "tracks": [
     {
       "album": {
+        "name": "Diamanti",
+        "url": "https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs"
+      },
+      "artists": [
+        {
+          "name": "Temperance",
+          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Diamanti",
+      "url": "https://open.spotify.com/track/47uPFOpLZMwu2ke4hyhbyW"
+    },
+    {
+      "album": {
         "name": "Eye of the Storm",
         "url": "https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb"
       },
@@ -16,6 +31,21 @@
       "duration_ms": 266338,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg"
+    },
+    {
+      "album": {
+        "name": "Fairy of the Bog",
+        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 276705,
+      "name": "Fairy of the Bog",
+      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
     },
     {
       "album": {
@@ -34,6 +64,29 @@
     },
     {
       "album": {
+        "name": "The Bell",
+        "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
+      },
+      "artists": [
+        {
+          "name": "Eye of Melian",
+          "url": "https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G"
+        },
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        },
+        {
+          "name": "Johanna Kurkela",
+          "url": "https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A"
+        }
+      ],
+      "duration_ms": 271486,
+      "name": "The Bell",
+      "url": "https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71"
+    },
+    {
+      "album": {
         "name": "Deliver Us From Evil",
         "url": "https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO"
       },
@@ -49,18 +102,18 @@
     },
     {
       "album": {
-        "name": "Diamanti",
-        "url": "https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs"
+        "name": "Animus",
+        "url": "https://open.spotify.com/album/5JfBsDpyXTktCmS491h0wV"
       },
       "artists": [
         {
-          "name": "Temperance",
-          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Diamanti",
-      "url": "https://open.spotify.com/track/47uPFOpLZMwu2ke4hyhbyW"
+      "duration_ms": 221720,
+      "name": "Animus",
+      "url": "https://open.spotify.com/track/6rXmDc9alRzssAwtuupzAU"
     },
     {
       "album": {
@@ -109,18 +162,26 @@
     },
     {
       "album": {
-        "name": "False Idols",
-        "url": "https://open.spotify.com/album/1xHJrHbDBYNdjXDUIMMHB8"
+        "name": "Coming from the Sky",
+        "url": "https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc"
       },
       "artists": [
         {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+          "name": "Heavenly",
+          "url": "https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd"
+        },
+        {
+          "name": "Kai Hansen",
+          "url": "https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch"
+        },
+        {
+          "name": "Piet Sielck",
+          "url": "https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu"
         }
       ],
-      "duration_ms": 257372,
-      "name": "False Idols",
-      "url": "https://open.spotify.com/track/2bPSlJGUoRJMBIe5dCphXa"
+      "duration_ms": 426160,
+      "name": "Time Machine (feat. Kai Hansen & Piet Sielck)",
+      "url": "https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY"
     },
     {
       "album": {
@@ -154,6 +215,25 @@
     },
     {
       "album": {
+        "name": "My Demons and I",
+        "url": "https://open.spotify.com/album/1h30AxSI16qbIZqPQX3tZh"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Brittney Slayes",
+          "url": "https://open.spotify.com/artist/1Ea0u6DNv731liS6GfD7aK"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "My Demons and I",
+      "url": "https://open.spotify.com/track/5KWXj0NY74p7Pqctwk79jU"
+    },
+    {
+      "album": {
         "name": "PvP",
         "url": "https://open.spotify.com/album/2NmhrfbIE0otcLsX7rgmJ5"
       },
@@ -184,6 +264,25 @@
     },
     {
       "album": {
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/4cU87N38MRPUJDSIgCl2LQ"
       },
@@ -211,6 +310,21 @@
       "duration_ms": 238666,
       "name": "Nemesis - Single Edit",
       "url": "https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh"
+    },
+    {
+      "album": {
+        "name": "Kraven The Hunter",
+        "url": "https://open.spotify.com/album/39Zzf3eP7dTiDPlbCZrTma"
+      },
+      "artists": [
+        {
+          "name": "Power Paladin",
+          "url": "https://open.spotify.com/artist/2jkaoO6BDX0QvewdjxRSvB"
+        }
+      ],
+      "duration_ms": 282972,
+      "name": "Kraven the Hunter - Single Edit",
+      "url": "https://open.spotify.com/track/3skZ9npI1llyAOivyBCC7y"
     },
     {
       "album": {
@@ -256,25 +370,6 @@
       "duration_ms": 255200,
       "name": "New Found Power",
       "url": "https://open.spotify.com/track/0KKDXtEugnwp8lyNPo0YxK"
-    },
-    {
-      "album": {
-        "name": "Devastation Bound",
-        "url": "https://open.spotify.com/album/6XohTB5NLzOslQIAfTZEYw"
-      },
-      "artists": [
-        {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Melissa Bonny",
-          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Devastation Bound",
-      "url": "https://open.spotify.com/track/0w42qcf4CoLHVsCcVG9LfL"
     },
     {
       "album": {
@@ -676,25 +771,6 @@
     },
     {
       "album": {
-        "name": "Shed My Skin",
-        "url": "https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 270479,
-      "name": "Shed My Skin (feat. Annisokay)",
-      "url": "https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O"
-    },
-    {
-      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/3gJM0RarrJzMbwbVQH87WY"
       },
@@ -722,21 +798,6 @@
       "duration_ms": 215466,
       "name": "We Are the Fire",
       "url": "https://open.spotify.com/track/04I8CtevYCYmQeTrre9CZC"
-    },
-    {
-      "album": {
-        "name": "Deadly Diminuendo",
-        "url": "https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 300579,
-      "name": "Deadly Diminuendo",
-      "url": "https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD"
     },
     {
       "album": {
@@ -996,40 +1057,6 @@
     },
     {
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4GryeT2FdvAcyWjui8nlOW"
-      },
-      "artists": [
-        {
-          "name": "Oceans",
-          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
-        },
-        {
-          "name": "Lena Scissorhands",
-          "url": "https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD"
-        }
-      ],
-      "duration_ms": 249750,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/0n8FH9ZymLlSJyY6bvd0xE"
-    },
-    {
-      "album": {
-        "name": "Alaiho",
-        "url": "https://open.spotify.com/album/2FyeVxOQLQyZeHbm7cRjQq"
-      },
-      "artists": [
-        {
-          "name": "Thaehan",
-          "url": "https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/3aiqdK6P4HrbMuKEm81wm4"
-    },
-    {
-      "album": {
         "name": "Vultures Die Alone",
         "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
@@ -1136,21 +1163,6 @@
       "duration_ms": 283877,
       "name": "The Longing",
       "url": "https://open.spotify.com/track/6nLAVYh5wKwASkNoYVNSNi"
-    },
-    {
-      "album": {
-        "name": "Hungarian Hangover",
-        "url": "https://open.spotify.com/album/5D7CfGe50M8uA8hBUXg6tI"
-      },
-      "artists": [
-        {
-          "name": "Trick or Treat",
-          "url": "https://open.spotify.com/artist/2mj5rXb8mYaRoF7oOHfgqI"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Hungarian Hangover",
-      "url": "https://open.spotify.com/track/4nZ4ZQ16W9dlD79We6FeuD"
     },
     {
       "album": {

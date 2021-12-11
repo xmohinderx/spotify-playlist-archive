@@ -38,6 +38,21 @@
     },
     {
       "album": {
+        "name": "nostalgic nightmares",
+        "url": "https://open.spotify.com/album/0VLJpXLiUj0ICUFRAUQ8Pi"
+      },
+      "artists": [
+        {
+          "name": "One Hope",
+          "url": "https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "i still hate us",
+      "url": "https://open.spotify.com/track/5qKGh3c0sS7XMJIJreMNmS"
+    },
+    {
+      "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
       },
@@ -61,22 +76,131 @@
     },
     {
       "album": {
-        "name": "philadelphia",
-        "url": "https://open.spotify.com/album/5P19jHuYj8fcWH9sc8HqPH"
+        "name": "Liz",
+        "url": "https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC"
       },
       "artists": [
         {
-          "name": "jungle bobby",
-          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
-        },
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 200000,
-      "name": "philadelphia",
-      "url": "https://open.spotify.com/track/7n1SLI92zzCUvAdBx6flyU"
+      "duration_ms": 175866,
+      "name": "Liz",
+      "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
+    },
+    {
+      "album": {
+        "name": "Losers",
+        "url": "https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "duration_ms": 177908,
+      "name": "Losers",
+      "url": "https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC"
+    },
+    {
+      "album": {
+        "name": "Failed English",
+        "url": "https://open.spotify.com/album/1BVE4R2Ze79EwSJ55Ha5hW"
+      },
+      "artists": [
+        {
+          "name": "AVIV",
+          "url": "https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo"
+        }
+      ],
+      "duration_ms": 163420,
+      "name": "Failed English",
+      "url": "https://open.spotify.com/track/7kj0SRhn9ovQ8N5dBtCPna"
+    },
+    {
+      "album": {
+        "name": "Hole",
+        "url": "https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 174862,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK"
+    },
+    {
+      "album": {
+        "name": "Stoned Nights",
+        "url": "https://open.spotify.com/album/63dmsjTvTlAgBRjXlDznF2"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "duration_ms": 205473,
+      "name": "Stoned Nights",
+      "url": "https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ"
+    },
+    {
+      "album": {
+        "name": "Bitches In The Bathroom",
+        "url": "https://open.spotify.com/album/1Z1IjE7xIGuH1jjFBsUOrJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "duration_ms": 179167,
+      "name": "Bitches In The Bathroom",
+      "url": "https://open.spotify.com/track/4jelQlTVvMmt3z0zxq9bUk"
+    },
+    {
+      "album": {
+        "name": "My Sunny Day",
+        "url": "https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ"
+      },
+      "artists": [
+        {
+          "name": "Ted Fresco",
+          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
+        },
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 129641,
+      "name": "My Sunny Day",
+      "url": "https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx"
+    },
+    {
+      "album": {
+        "name": "Alienated",
+        "url": "https://open.spotify.com/album/4WxVgfa6HW5YWyj5I4yURT"
+      },
+      "artists": [
+        {
+          "name": "sleep.ing",
+          "url": "https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct"
+        },
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Alienated",
+      "url": "https://open.spotify.com/track/0AdVA0pizR4KoZyu2XSJQp"
     },
     {
       "album": {
@@ -103,82 +227,37 @@
     },
     {
       "album": {
-        "name": "Liz",
-        "url": "https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC"
+        "name": "philadelphia",
+        "url": "https://open.spotify.com/album/5P19jHuYj8fcWH9sc8HqPH"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Liz",
-      "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
-    },
-    {
-      "album": {
-        "name": "Alienated",
-        "url": "https://open.spotify.com/album/4WxVgfa6HW5YWyj5I4yURT"
-      },
-      "artists": [
-        {
-          "name": "sleep.ing",
-          "url": "https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct"
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
         },
         {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
         }
       ],
-      "duration_ms": 139130,
-      "name": "Alienated",
-      "url": "https://open.spotify.com/track/0AdVA0pizR4KoZyu2XSJQp"
+      "duration_ms": 200000,
+      "name": "philadelphia",
+      "url": "https://open.spotify.com/track/7n1SLI92zzCUvAdBx6flyU"
     },
     {
       "album": {
-        "name": "Bitches In The Bathroom",
-        "url": "https://open.spotify.com/album/1Z1IjE7xIGuH1jjFBsUOrJ"
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5"
       },
       "artists": [
         {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
         }
       ],
-      "duration_ms": 179167,
-      "name": "Bitches In The Bathroom",
-      "url": "https://open.spotify.com/track/4jelQlTVvMmt3z0zxq9bUk"
-    },
-    {
-      "album": {
-        "name": "Hole",
-        "url": "https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 174862,
-      "name": "Hole",
-      "url": "https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK"
-    },
-    {
-      "album": {
-        "name": "Losers",
-        "url": "https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 177908,
-      "name": "Losers",
-      "url": "https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC"
+      "duration_ms": 211663,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz"
     },
     {
       "album": {
@@ -212,6 +291,21 @@
     },
     {
       "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/3gXgcspF6qBTJe9diFXCTV"
+      },
+      "artists": [
+        {
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "space",
+      "url": "https://open.spotify.com/track/069GJA2jMuhubyFsaQcRtd"
+    },
+    {
+      "album": {
         "name": "green felt",
         "url": "https://open.spotify.com/album/5EbBAnE0T18sQKoBTLn2jk"
       },
@@ -224,21 +318,6 @@
       "duration_ms": 140997,
       "name": "green felt",
       "url": "https://open.spotify.com/track/3oN4POrCHruPnGHlzn3WQC"
-    },
-    {
-      "album": {
-        "name": "Failed English",
-        "url": "https://open.spotify.com/album/1BVE4R2Ze79EwSJ55Ha5hW"
-      },
-      "artists": [
-        {
-          "name": "AVIV",
-          "url": "https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo"
-        }
-      ],
-      "duration_ms": 163420,
-      "name": "Failed English",
-      "url": "https://open.spotify.com/track/7kj0SRhn9ovQ8N5dBtCPna"
     },
     {
       "album": {
@@ -273,6 +352,21 @@
       "duration_ms": 154285,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/3fVGXrjmPhAWZyLa0XA4Wp"
+    },
+    {
+      "album": {
+        "name": "Subject To Change",
+        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 138586,
+      "name": "Year From Now",
+      "url": "https://open.spotify.com/track/2XbHQSvl64ZzEkzV91j1WC"
     },
     {
       "album": {
@@ -321,18 +415,18 @@
     },
     {
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
+        "name": "places i\u2019ve lived",
+        "url": "https://open.spotify.com/album/5upABJYpPbI6bGWI4UlaEM"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Bestfriend",
+          "url": "https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ"
         }
       ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
+      "duration_ms": 244829,
+      "name": "You Want Everyone To Love You",
+      "url": "https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk"
     },
     {
       "album": {
@@ -378,6 +472,21 @@
       "duration_ms": 175652,
       "name": "i think i saw a ghost",
       "url": "https://open.spotify.com/track/29XWWxrDuVcKVPfCaGDGXT"
+    },
+    {
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
     },
     {
       "album": {
@@ -472,21 +581,6 @@
       "duration_ms": 214468,
       "name": "erase me (feat. Jacob Collier)",
       "url": "https://open.spotify.com/track/0In3u56vbH2at3bViAzzwq"
-    },
-    {
-      "album": {
-        "name": "Subject To Change",
-        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 138586,
-      "name": "Year From Now",
-      "url": "https://open.spotify.com/track/2XbHQSvl64ZzEkzV91j1WC"
     },
     {
       "album": {
@@ -622,21 +716,6 @@
       "duration_ms": 198000,
       "name": "Lovestruck Energy",
       "url": "https://open.spotify.com/track/3svuWRYyn2xd8GhswXA4RG"
-    },
-    {
-      "album": {
-        "name": "Born With A Broken Heart",
-        "url": "https://open.spotify.com/album/65d2MQ4LBrpWBwK6GdYWus"
-      },
-      "artists": [
-        {
-          "name": "Babygirl",
-          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
-        }
-      ],
-      "duration_ms": 230058,
-      "name": "Born With A Broken Heart",
-      "url": "https://open.spotify.com/track/3quB6M8hbdv8pBPQfNINjb"
     },
     {
       "album": {
@@ -1139,21 +1218,6 @@
     },
     {
       "album": {
-        "name": "Do It Over",
-        "url": "https://open.spotify.com/album/38lfw021YLO2OWKwHcvZUb"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 197307,
-      "name": "Do It Over",
-      "url": "https://open.spotify.com/track/2lEGr8w1XYJ2cyRoKrGui7"
-    },
-    {
-      "album": {
         "name": "Juno",
         "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
       },
@@ -1316,21 +1380,6 @@
     },
     {
       "album": {
-        "name": "SYNCOPATE",
-        "url": "https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 118168,
-      "name": "SYNCOPATE",
-      "url": "https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI"
-    },
-    {
-      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/0z90jVPCmX75274NuNx0RL"
       },
@@ -1377,21 +1426,6 @@
       "duration_ms": 139336,
       "name": "Sometime",
       "url": "https://open.spotify.com/track/600nfkPMLq6JpNEvas08Qp"
-    },
-    {
-      "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/2P40voWuU97H7NJGckbEOF"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        }
-      ],
-      "duration_ms": 165871,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/0Qih8wH7Smf780cwH2Pqxk"
     },
     {
       "album": {
@@ -1523,21 +1557,6 @@
     },
     {
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/5DYJOrXI0vwA50AW5PAjfW"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 251269,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/7pJAND8bggxN2rEVYGpPfA"
-    },
-    {
-      "album": {
         "name": "You Got The Part",
         "url": "https://open.spotify.com/album/5rPdSuEALEZAj2DmyCneop"
       },
@@ -1610,21 +1629,6 @@
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
-    },
-    {
-      "album": {
-        "name": "Hannah in the City",
-        "url": "https://open.spotify.com/album/4a6VSKgvPsMOIEHw0iZ0bg"
-      },
-      "artists": [
-        {
-          "name": "Bestfriend",
-          "url": "https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ"
-        }
-      ],
-      "duration_ms": 228816,
-      "name": "Hannah in the City",
-      "url": "https://open.spotify.com/track/6zzNgRhlsGdwPpXd77S59i"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz"
