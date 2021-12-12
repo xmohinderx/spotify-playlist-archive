@@ -195,36 +195,6 @@
     },
     {
       "album": {
-        "name": "The Carnival",
-        "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Tu Aake Dekhle",
-      "url": "https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA"
-    },
-    {
-      "album": {
-        "name": "We Rollin",
-        "url": "https://open.spotify.com/album/7FdUhWYHba3PgF8tB9ELXo"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 199205,
-      "name": "We Rollin",
-      "url": "https://open.spotify.com/track/7xeE24WnWUXDwgqGiaeshi"
-    },
-    {
-      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3"
       },
@@ -252,6 +222,21 @@
     },
     {
       "album": {
+        "name": "The Carnival",
+        "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Tu Aake Dekhle",
+      "url": "https://open.spotify.com/track/0yCWDaAgOtg6TKlNCg9rwA"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -267,18 +252,18 @@
     },
     {
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "We Rollin",
+        "url": "https://open.spotify.com/album/7FdUhWYHba3PgF8tB9ELXo"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 199205,
+      "name": "We Rollin",
+      "url": "https://open.spotify.com/track/7xeE24WnWUXDwgqGiaeshi"
     },
     {
       "album": {
@@ -294,6 +279,21 @@
       "duration_ms": 216026,
       "name": "Kina Chir",
       "url": "https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl"
+    },
+    {
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "album": {
@@ -438,6 +438,44 @@
     },
     {
       "album": {
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
+    },
+    {
+      "album": {
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226149,
+      "name": "Girl Of My Dreams (with SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR"
+    },
+    {
+      "album": {
         "name": "Kusu Kusu (From \"Satyameva Jayate 2\")",
         "url": "https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9"
       },
@@ -461,37 +499,18 @@
     },
     {
       "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
       "artists": [
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
-    },
-    {
-      "album": {
-        "name": "Aashiqui Aa Gayi (From \"Radhe Shyam\")",
-        "url": "https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd"
-      },
-      "artists": [
-        {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Aashiqui Aa Gayi(From \"Radhe Shyam\")",
-      "url": "https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4"
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
       "album": {
@@ -518,37 +537,26 @@
     },
     {
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
       },
       "artists": [
         {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "album": {
-        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
         }
       ],
-      "duration_ms": 247941,
-      "name": "Shayad",
-      "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
+      "duration_ms": 176232,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
     },
     {
       "album": {
@@ -583,8 +591,69 @@
     },
     {
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9"
+        "name": "Aashiqui Aa Gayi (From \"Radhe Shyam\")",
+        "url": "https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Aashiqui Aa Gayi(From \"Radhe Shyam\")",
+      "url": "https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4"
+    },
+    {
+      "album": {
+        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "Shayad",
+      "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
+    },
+    {
+      "album": {
+        "name": "Soch Liya (From \"Radhe Shyam\")",
+        "url": "https://open.spotify.com/album/0WtqXJA0EiOtn2fEVOQAxq"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 283260,
+      "name": "Soch Liya (From \"Radhe Shyam\")",
+      "url": "https://open.spotify.com/track/3gc2Rho0Tn8i4LBgf6f2O5"
+    },
+    {
+      "album": {
+        "name": "Ma Belle",
+        "url": "https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA"
       },
       "artists": [
         {
@@ -592,17 +661,36 @@
           "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         },
         {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+          "name": "Amari",
+          "url": "https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u"
         }
       ],
-      "duration_ms": 176232,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
+      "duration_ms": 160824,
+      "name": "Ma Belle",
+      "url": "https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor"
+    },
+    {
+      "album": {
+        "name": "Atrangi Re",
+        "url": "https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "duration_ms": 291462,
+      "name": "Rait Zara Si",
+      "url": "https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j"
     },
     {
       "album": {
@@ -633,63 +721,6 @@
     },
     {
       "album": {
-        "name": "Atrangi Re",
-        "url": "https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shashaa Tirupati",
-          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
-        }
-      ],
-      "duration_ms": 291462,
-      "name": "Rait Zara Si",
-      "url": "https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j"
-    },
-    {
-      "album": {
-        "name": "Ma Belle",
-        "url": "https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Amari",
-          "url": "https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u"
-        }
-      ],
-      "duration_ms": 160824,
-      "name": "Ma Belle",
-      "url": "https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor"
-    },
-    {
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "album": {
         "name": "Waalian",
         "url": "https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb"
       },
@@ -705,48 +736,18 @@
     },
     {
       "album": {
-        "name": "Shiddat",
-        "url": "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Manan Bhardwaj",
-          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 228189,
-      "name": "Chitta",
-      "url": "https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8"
-    },
-    {
-      "album": {
-        "name": "Shiddat Title Track (From \"Shiddat\")",
-        "url": "https://open.spotify.com/album/5qHliLDYAZ91Xmt4pgqZt9"
-      },
-      "artists": [
-        {
-          "name": "Manan Bhardwaj",
-          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
-        }
-      ],
-      "duration_ms": 230875,
-      "name": "Shiddat Title Track (From \"Shiddat\")",
-      "url": "https://open.spotify.com/track/6CTN8S2qzPwZdwwp0Nugvy"
-    },
-    {
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "album": {
@@ -808,26 +809,48 @@
     },
     {
       "album": {
+        "name": "Shiddat Title Track (From \"Shiddat\")",
+        "url": "https://open.spotify.com/album/5qHliLDYAZ91Xmt4pgqZt9"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        }
+      ],
+      "duration_ms": 230875,
+      "name": "Shiddat Title Track (From \"Shiddat\")",
+      "url": "https://open.spotify.com/track/6CTN8S2qzPwZdwwp0Nugvy"
+    },
+    {
+      "album": {
         "name": "Shiddat",
         "url": "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
       },
       "artists": [
         {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
         }
       ],
-      "duration_ms": 199174,
-      "name": "Jug Jug Jeeve",
-      "url": "https://open.spotify.com/track/0tjnLIbuF8mwLUKq3CNIdH"
+      "duration_ms": 228189,
+      "name": "Chitta",
+      "url": "https://open.spotify.com/track/6JUQViD0hLXlvWXCV4uUF8"
+    },
+    {
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
       "album": {
@@ -855,6 +878,67 @@
       "duration_ms": 124498,
       "name": "SPACESHIP",
       "url": "https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d"
+    },
+    {
+      "album": {
+        "name": "Mimi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 200218,
+      "name": "Param Sundari",
+      "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
+    },
+    {
+      "album": {
+        "name": "Shiddat",
+        "url": "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "duration_ms": 199174,
+      "name": "Jug Jug Jeeve",
+      "url": "https://open.spotify.com/track/0tjnLIbuF8mwLUKq3CNIdH"
+    },
+    {
+      "album": {
+        "name": "Mumbai Saga",
+        "url": "https://open.spotify.com/album/1A6zSLiNekSSlyPuJmka71"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Emraan Hashmi",
+          "url": "https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb"
+        }
+      ],
+      "duration_ms": 228031,
+      "name": "Lut Gaye",
+      "url": "https://open.spotify.com/track/2rU33n6Fhd6G1MzYhUj6C5"
     },
     {
       "album": {
@@ -888,44 +972,6 @@
     },
     {
       "album": {
-        "name": "Mumbai Saga",
-        "url": "https://open.spotify.com/album/1A6zSLiNekSSlyPuJmka71"
-      },
-      "artists": [
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Emraan Hashmi",
-          "url": "https://open.spotify.com/artist/44oMI9xI4kcCub3qbpYPdb"
-        }
-      ],
-      "duration_ms": 228031,
-      "name": "Lut Gaye",
-      "url": "https://open.spotify.com/track/2rU33n6Fhd6G1MzYhUj6C5"
-    },
-    {
-      "album": {
-        "name": "Mimi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 200218,
-      "name": "Param Sundari",
-      "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
-    },
-    {
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -938,25 +984,6 @@
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "album": {
-        "name": "Kabhii Tumhhe (From \"Shershaah\")",
-        "url": "https://open.spotify.com/album/71mBRICN73Ogw71kSbyKqd"
-      },
-      "artists": [
-        {
-          "name": "Javed-Mohsin",
-          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 230103,
-      "name": "Kabhii Tumhhe (From \"Shershaah\")",
-      "url": "https://open.spotify.com/track/6R6BpMBFQrF7n2uEOxYmss"
     },
     {
       "album": {
@@ -976,29 +1003,6 @@
       "duration_ms": 254516,
       "name": "Pal Pal Dil Ke Paas- Title Track",
       "url": "https://open.spotify.com/track/7lGhrfren1Zpwh0ds0zuUg"
-    },
-    {
-      "album": {
-        "name": "Soch Liya (From \"Radhe Shyam\")",
-        "url": "https://open.spotify.com/album/0WtqXJA0EiOtn2fEVOQAxq"
-      },
-      "artists": [
-        {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
-        }
-      ],
-      "duration_ms": 283260,
-      "name": "Soch Liya (From \"Radhe Shyam\")",
-      "url": "https://open.spotify.com/track/3gc2Rho0Tn8i4LBgf6f2O5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg"

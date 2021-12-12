@@ -83,6 +83,21 @@
     },
     {
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -95,6 +110,21 @@
       "duration_ms": 228922,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
+    },
+    {
+      "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 211663,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz"
     },
     {
       "album": {

@@ -34,6 +34,21 @@
     },
     {
       "album": {
+        "name": "koptereid",
+        "url": "https://open.spotify.com/album/5itzPFYzlvPdenlpN1DP8D"
+      },
+      "artists": [
+        {
+          "name": "5MIINUST",
+          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+        }
+      ],
+      "duration_ms": 250084,
+      "name": "koptereid",
+      "url": "https://open.spotify.com/track/4QWbJNAWatPr3j065e3N7H"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
@@ -49,18 +64,22 @@
     },
     {
       "album": {
-        "name": "koptereid",
-        "url": "https://open.spotify.com/album/5itzPFYzlvPdenlpN1DP8D"
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
       "artists": [
         {
-          "name": "5MIINUST",
-          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
         }
       ],
-      "duration_ms": 250084,
-      "name": "koptereid",
-      "url": "https://open.spotify.com/track/4QWbJNAWatPr3j065e3N7H"
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "album": {
@@ -102,6 +121,21 @@
     },
     {
       "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -129,22 +163,18 @@
     },
     {
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
       "album": {
@@ -182,36 +212,6 @@
     },
     {
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
       },
@@ -231,18 +231,18 @@
     },
     {
       "album": {
-        "name": "k\u00f5ik on s\u00fc\u00fcdi",
-        "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "5MIINUST",
-          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 169805,
-      "name": "j\u00e4\u00e4tis",
-      "url": "https://open.spotify.com/track/65bVldI1hXRHzm6gXkqEr0"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
       "album": {
@@ -261,36 +261,6 @@
     },
     {
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -306,6 +276,25 @@
     },
     {
       "album": {
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 188833,
+      "name": "Wandered To LA (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/1cA4wEmLkKlttS6N89LbJh"
+    },
+    {
+      "album": {
         "name": "k\u00f5ik on s\u00fc\u00fcdi",
         "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
       },
@@ -315,9 +304,24 @@
           "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
         }
       ],
-      "duration_ms": 225293,
-      "name": "dispositsioon",
-      "url": "https://open.spotify.com/track/6fAfPKd1MKvn8kN9Yu1UOg"
+      "duration_ms": 169805,
+      "name": "j\u00e4\u00e4tis",
+      "url": "https://open.spotify.com/track/65bVldI1hXRHzm6gXkqEr0"
+    },
+    {
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "album": {
@@ -333,6 +337,44 @@
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226149,
+      "name": "Girl Of My Dreams (with SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR"
+    },
+    {
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "album": {
@@ -355,6 +397,36 @@
     },
     {
       "album": {
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 217222,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0QwKxajohg1rAMMmv1AWe1"
+    },
+    {
+      "album": {
+        "name": "k\u00f5ik on s\u00fc\u00fcdi",
+        "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
+      },
+      "artists": [
+        {
+          "name": "5MIINUST",
+          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "dispositsioon",
+      "url": "https://open.spotify.com/track/6fAfPKd1MKvn8kN9Yu1UOg"
+    },
+    {
+      "album": {
         "name": "k\u00f5ik on s\u00fc\u00fcdi",
         "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
       },
@@ -367,21 +439,6 @@
       "duration_ms": 188949,
       "name": "e95",
       "url": "https://open.spotify.com/track/68p5qnyXJwY9Cu66oa0Q5g"
-    },
-    {
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "album": {
@@ -400,36 +457,6 @@
     },
     {
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 156056,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3"
-    },
-    {
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -442,6 +469,21 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "album": {
@@ -479,6 +521,21 @@
     },
     {
       "album": {
+        "name": "\u0414\u043e\u043c\u043e\u0439",
+        "url": "https://open.spotify.com/album/57NDWrCgxTDXI0RNYN9uQs"
+      },
+      "artists": [
+        {
+          "name": "MORGENSHTERN",
+          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "\u0414\u043e\u043c\u043e\u0439",
+      "url": "https://open.spotify.com/track/5bA2HBafCfregvLZV4idXb"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -491,21 +548,6 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "album": {
@@ -528,78 +570,86 @@
     },
     {
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/5O4lpm2rHbk3JVZgGMPxmI"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 156056,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/6UjeFOCGYgMpBUtqKg1Je3"
     },
     {
       "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+      "duration_ms": 212203,
+      "name": "Feline (with Polo G & Trippie Redd)",
+      "url": "https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26"
     },
     {
       "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
       "artists": [
         {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+      "duration_ms": 180750,
+      "name": "Rockstar In His Prime",
+      "url": "https://open.spotify.com/track/0v36cov6Z6aEV5ZgIlqZMk"
     },
     {
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+      "duration_ms": 134688,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/7FAND3cHMvepHjpBp8gOZ9"
     },
     {
       "album": {
@@ -618,18 +668,108 @@
     },
     {
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "album": {
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 231220,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2quVkyLSVr5wX2QIhnexUt"
+    },
+    {
+      "album": {
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 170791,
+      "name": "You Wouldn't Understand",
+      "url": "https://open.spotify.com/track/2W1Aq2c6PUSHBC0golgHLK"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "album": {
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "Doom",
+      "url": "https://open.spotify.com/track/38Vh0iUlilcvnBNWS4saSD"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
       "album": {
@@ -648,40 +788,6 @@
     },
     {
       "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
-    },
-    {
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
-    },
-    {
-      "album": {
         "name": "Sleigh Ride",
         "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
       },
@@ -694,21 +800,6 @@
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
-    },
-    {
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
       "album": {
@@ -728,81 +819,6 @@
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
-    },
-    {
-      "album": {
-        "name": "u.",
-        "url": "https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS"
-      },
-      "artists": [
-        {
-          "name": "niteboi",
-          "url": "https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "u.",
-      "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"
-    },
-    {
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
-    },
-    {
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 298899,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
-    },
-    {
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "ZITTI E BUONI",
-      "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLesry2Qw2xS"

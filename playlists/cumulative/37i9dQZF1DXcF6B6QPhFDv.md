@@ -7,7 +7,8 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Hunger In Your Haunt](https://open.spotify.com/track/6fO5kCic9UU6AFPet7jFBn) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Hunger In Your Haunt](https://open.spotify.com/album/6KbmzvqXq3IxqjhJOFEKPh) | 3:49 | 2021-10-20 | 2021-12-11 |
-| [abcdefu - angrier](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu (angrier)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2021-12-04 |  |
+| [abcdefu (angrier)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu (angrier)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2021-12-12 |  |
+| [abcdefu - angrier](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu (angrier)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2021-12-04 | 2021-12-12 |
 | [Adrenaline](https://open.spotify.com/track/3QSVzVODWkWzGeDOGHZW0F) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Adrenaline](https://open.spotify.com/album/1YcMKSPZJmSf89tiRrYR4V) | 3:24 | 2021-10-20 | 2021-11-27 |
 | [Anarchy](https://open.spotify.com/track/0osszNZH6LSuk4AzVNh7KC) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:54 | 2021-10-20 |  |
 | [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | 3:29 | 2021-10-20 | 2021-12-04 |

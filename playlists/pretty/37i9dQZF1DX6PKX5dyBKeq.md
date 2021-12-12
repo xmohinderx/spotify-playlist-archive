@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [6:30](https://open.spotify.com/track/0KzvY1XHsfvZ5p5sUcdHSN) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [6:30](https://open.spotify.com/album/6UmdJvqfSVC1MHWz95IAR3) | 2:17 |
-| 2 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:41 |
+| 2 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 |
 | 3 | [Brucky 2.0](https://open.spotify.com/track/7tTcleU0z0VpBaGWlBdIko) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Brucky 2.0](https://open.spotify.com/album/5QgRStArslDU2io9EU0xt0) | 3:05 |
 | 4 | [Live by the Gun](https://open.spotify.com/track/6nsfPWRo2j5EHgTeQeVUGs) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Live by the Gun](https://open.spotify.com/album/2Jorkd2XJ1vVvm3eIQV91e) | 4:05 |
 | 5 | [Kevin McCallister](https://open.spotify.com/track/6XYw65P3tKQZKk5fzdxjvG) | [D-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Lil Pino](https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 |

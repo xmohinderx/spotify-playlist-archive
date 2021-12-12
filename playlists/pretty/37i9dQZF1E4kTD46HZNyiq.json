@@ -1,5 +1,5 @@
 {
-  "description": "With VICTORS, Kalax, Digital Farm Animals and more",
+  "description": "With R.LUM.R, Jemima Coulter, Kalax and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -19,6 +19,21 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/20ZbfrkLWVXaInsslOqd8m"
+      },
+      "artists": [
+        {
+          "name": "Young in the City",
+          "url": "https://open.spotify.com/artist/6Hi6gu0v6GKi2CnXomGAHg"
+        }
+      ],
+      "duration_ms": 265280,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/7ebOfMtf3soOxRTcmEghH8"
+    },
+    {
+      "album": {
         "name": "Loyals",
         "url": "https://open.spotify.com/album/0PRElfsd3x46AlQcV949s8"
       },
@@ -34,8 +49,8 @@
     },
     {
       "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/5VaCnUX81FIABubwY9Zu4z"
+        "name": "Thanks in Advance",
+        "url": "https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe"
       },
       "artists": [
         {
@@ -43,118 +58,9 @@
           "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
         }
       ],
-      "duration_ms": 251329,
-      "name": "Juliette",
-      "url": "https://open.spotify.com/track/3Qaq3lUUawG3MEWvRcNBcx"
-    },
-    {
-      "album": {
-        "name": "Sad People Dancing",
-        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
-      },
-      "artists": [
-        {
-          "name": "La Bouquet",
-          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Loser Baby",
-      "url": "https://open.spotify.com/track/6RNz5iOe7SzpAq4JV3Yn4w"
-    },
-    {
-      "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/3XSUldXDCUgZrs2bGqkVEB"
-      },
-      "artists": [
-        {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Once In A Lifetime - Single Version",
-      "url": "https://open.spotify.com/track/6cLYgEHXAcgTR5PLE5MeVc"
-    },
-    {
-      "album": {
-        "name": "Dreams You Don't Forget",
-        "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 308266,
-      "name": "I Still Love You",
-      "url": "https://open.spotify.com/track/3qbQjQotCtzQJqHZd0j4fK"
-    },
-    {
-      "album": {
-        "name": "I've Been Missing You",
-        "url": "https://open.spotify.com/album/1CgCqWOsZIQKKD5QhyRZkO"
-      },
-      "artists": [
-        {
-          "name": "VICTORS",
-          "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
-        },
-        {
-          "name": "Pippa",
-          "url": "https://open.spotify.com/artist/5dMWZJfIS79ZUHfXoofN5s"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "I've Been Missing You",
-      "url": "https://open.spotify.com/track/0YTsLRIJvjy7jQVZNNKXrx"
-    },
-    {
-      "album": {
-        "name": "carry me home",
-        "url": "https://open.spotify.com/album/4ke8K2swZPB7RpIIhDV5Hi"
-      },
-      "artists": [
-        {
-          "name": "s\u00f8d ven",
-          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "carry me home",
-      "url": "https://open.spotify.com/track/32iCUAAgF1AqshcB3Tqhyt"
-    },
-    {
-      "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/2hPqdN5XlPG6fbQaeUq1e3"
-      },
-      "artists": [
-        {
-          "name": "The Ivy",
-          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
-        }
-      ],
-      "duration_ms": 229320,
-      "name": "I Don't Wanna",
-      "url": "https://open.spotify.com/track/2HmvDlBGFjCl90aqdQRdLD"
-    },
-    {
-      "album": {
-        "name": "Sad People Dancing",
-        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
-      },
-      "artists": [
-        {
-          "name": "La Bouquet",
-          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/6lSujJn0GaRfr1Jtlhgqe4"
+      "duration_ms": 287811,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/60emI1GBoT3BiY5QM3hapN"
     },
     {
       "album": {
@@ -177,198 +83,6 @@
     },
     {
       "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/0cTVzoITYEAIWUCNPB76y0"
-    },
-    {
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4tteTazT567N7srYWOwTG2"
-      },
-      "artists": [
-        {
-          "name": "Kalax",
-          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
-        },
-        {
-          "name": "PYXIS",
-          "url": "https://open.spotify.com/artist/4ckOxQj4C9eMY3SP39ixaS"
-        },
-        {
-          "name": "Jay Diggs",
-          "url": "https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1"
-        }
-      ],
-      "duration_ms": 295221,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/4O6pSwn4xxx8FdBBdqeEin"
-    },
-    {
-      "album": {
-        "name": "Your Love Is My Home",
-        "url": "https://open.spotify.com/album/6Ob1k2aLT42mGs8EKMmHY7"
-      },
-      "artists": [
-        {
-          "name": "The Light the Heat",
-          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
-        }
-      ],
-      "duration_ms": 245247,
-      "name": "Your Love Is My Home",
-      "url": "https://open.spotify.com/track/5u0KFF5qTfpB91ToEo8RHK"
-    },
-    {
-      "album": {
-        "name": "Other Summer",
-        "url": "https://open.spotify.com/album/6cnTeVjzrbD71Yyoy6K0OK"
-      },
-      "artists": [
-        {
-          "name": "The True Blue",
-          "url": "https://open.spotify.com/artist/1mVhWJe3qmfTXM7ByuoryV"
-        }
-      ],
-      "duration_ms": 246242,
-      "name": "O.O.C.",
-      "url": "https://open.spotify.com/track/69MRj4E8bEbIHVXASMWneS"
-    },
-    {
-      "album": {
-        "name": "You're the One for Me",
-        "url": "https://open.spotify.com/album/1Xg3cGm0qUBrcC6ULP0Uck"
-      },
-      "artists": [
-        {
-          "name": "Great Good Fine Ok",
-          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        }
-      ],
-      "duration_ms": 269999,
-      "name": "You're the One for Me - Digital Farm Animals Remix",
-      "url": "https://open.spotify.com/track/5T2iobXGYEI9TdrJ4Du6QN"
-    },
-    {
-      "album": {
-        "name": "Reckless Lover (Acoustic)",
-        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
-      },
-      "artists": [
-        {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
-        }
-      ],
-      "duration_ms": 240579,
-      "name": "Reckless Lover - Acoustic",
-      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
-    },
-    {
-      "album": {
-        "name": "Dreams You Don't Forget",
-        "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 322080,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/3hcPwxqzGiAHQVqnDhkzVZ"
-    },
-    {
-      "album": {
-        "name": "Faint of Heart",
-        "url": "https://open.spotify.com/album/3Sm362TyQy9CmZ1DVhmlYF"
-      },
-      "artists": [
-        {
-          "name": "The Strike",
-          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Ghosts of my Hometown",
-      "url": "https://open.spotify.com/track/0pKYQ2U4RnhIKS2gz2KFi3"
-    },
-    {
-      "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B"
-      },
-      "artists": [
-        {
-          "name": "Perlo",
-          "url": "https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ"
-        }
-      ],
-      "duration_ms": 204556,
-      "name": "Call Me a Fool",
-      "url": "https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj"
-    },
-    {
-      "album": {
-        "name": "Minute Of Your Love",
-        "url": "https://open.spotify.com/album/1jOAzcYT3AksjypjQehmb1"
-      },
-      "artists": [
-        {
-          "name": "Ed Patrick",
-          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
-        }
-      ],
-      "duration_ms": 136859,
-      "name": "Minute Of Your Love",
-      "url": "https://open.spotify.com/track/63uWX9R9I8NA4RcPMxh38V"
-    },
-    {
-      "album": {
-        "name": "The Night Game",
-        "url": "https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN"
-      },
-      "artists": [
-        {
-          "name": "The Night Game",
-          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "The Outfield",
-      "url": "https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC"
-    },
-    {
-      "album": {
-        "name": "Steps",
-        "url": "https://open.spotify.com/album/0BQTqxUrvue8rxw7VUAOdo"
-      },
-      "artists": [
-        {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Steps",
-      "url": "https://open.spotify.com/track/3YR1CSEZrjaCXdvyR1Uj8h"
-    },
-    {
-      "album": {
         "name": "Dreams You Don't Forget",
         "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
       },
@@ -384,247 +98,63 @@
     },
     {
       "album": {
-        "name": "Superheroes",
-        "url": "https://open.spotify.com/album/0KtWvkv5MHPbHfxbcUK43V"
+        "name": "Chapter Three",
+        "url": "https://open.spotify.com/album/0xd7R8bVAPOV3b5dXuIgDe"
       },
       "artists": [
         {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+          "name": "CHPTRS",
+          "url": "https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI"
         }
       ],
-      "duration_ms": 230520,
-      "name": "Heroes / Dying",
-      "url": "https://open.spotify.com/track/5dXkJaRsnCtg7qKU5lgZzg"
+      "duration_ms": 295367,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/4XfApF1jJqLN1R7cPC0wZy"
     },
     {
       "album": {
-        "name": "It's Our Time",
-        "url": "https://open.spotify.com/album/7aDzuJfczRC5jZSB6iVq1m"
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/5gtiEqlLHdxt8PVP5nxqw6"
       },
       "artists": [
         {
-          "name": "The Light the Heat",
-          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
         }
       ],
-      "duration_ms": 221979,
-      "name": "It's Our Time",
-      "url": "https://open.spotify.com/track/0pXtYSikSPFSn9oMQob0By"
+      "duration_ms": 298628,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/16f5E3dIfXjeprDyIt1cjq"
     },
     {
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7heBUz2kwgoidiFcaplSqF"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6W7ekW1v9CXxa33uhb1xp2"
       },
       "artists": [
         {
-          "name": "Ed Patrick",
-          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+          "name": "By The Coast",
+          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
         }
       ],
-      "duration_ms": 215413,
-      "name": "Man Overboard",
-      "url": "https://open.spotify.com/track/2WMF5i6ClS9GEeM34MHEji"
+      "duration_ms": 218733,
+      "name": "I'll Get You Home",
+      "url": "https://open.spotify.com/track/6KktID56invz2PcbzFW9CQ"
     },
     {
       "album": {
-        "name": "Sad People Dancing",
-        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
+        "name": "The Night Game",
+        "url": "https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN"
       },
       "artists": [
         {
-          "name": "La Bouquet",
-          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
         }
       ],
-      "duration_ms": 265080,
-      "name": "Sad People Dancing",
-      "url": "https://open.spotify.com/track/3tTjbUTjqHYBhrsGtF6YFA"
-    },
-    {
-      "album": {
-        "name": "Thanks in Advance",
-        "url": "https://open.spotify.com/album/1JiuJah80m8o5kiMExJKUe"
-      },
-      "artists": [
-        {
-          "name": "Ollie Wride",
-          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
-        }
-      ],
-      "duration_ms": 287811,
-      "name": "Back to Life",
-      "url": "https://open.spotify.com/track/60emI1GBoT3BiY5QM3hapN"
-    },
-    {
-      "album": {
-        "name": "Dreams You Don't Forget",
-        "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Dreams You Don't Forget",
-      "url": "https://open.spotify.com/track/69um92IRGAexB6vy79VINc"
-    },
-    {
-      "album": {
-        "name": "state of mind",
-        "url": "https://open.spotify.com/album/1eIj6yerF2hy73PcZhzaIT"
-      },
-      "artists": [
-        {
-          "name": "s\u00f8d ven",
-          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
-        }
-      ],
-      "duration_ms": 198251,
-      "name": "state of mind",
-      "url": "https://open.spotify.com/track/5eTF0lnEnvoNAFtJG3CXd1"
-    },
-    {
-      "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/20ZbfrkLWVXaInsslOqd8m"
-      },
-      "artists": [
-        {
-          "name": "Young in the City",
-          "url": "https://open.spotify.com/artist/6Hi6gu0v6GKi2CnXomGAHg"
-        }
-      ],
-      "duration_ms": 265280,
-      "name": "Annie",
-      "url": "https://open.spotify.com/track/7ebOfMtf3soOxRTcmEghH8"
-    },
-    {
-      "album": {
-        "name": "Kalax",
-        "url": "https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS"
-      },
-      "artists": [
-        {
-          "name": "Kalax",
-          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
-        }
-      ],
-      "duration_ms": 261935,
-      "name": "The Ride (Into the Midnight)",
-      "url": "https://open.spotify.com/track/414ljYjctNtquEeNmRGVw9"
-    },
-    {
-      "album": {
-        "name": "FELT",
-        "url": "https://open.spotify.com/album/01ncI2Fftcla2D0p7xhhvj"
-      },
-      "artists": [
-        {
-          "name": "The Chain Gang Of 1974",
-          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
-        }
-      ],
-      "duration_ms": 235573,
-      "name": "Wallflowers",
-      "url": "https://open.spotify.com/track/1jlYZtPqHOb8zueJ6X9QEO"
-    },
-    {
-      "album": {
-        "name": "Heavy Sunshine",
-        "url": "https://open.spotify.com/album/3JRMAxyr1L8YEACfr9nQ34"
-      },
-      "artists": [
-        {
-          "name": "La Bouquet",
-          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Kiss Me, Kill Me",
-      "url": "https://open.spotify.com/track/3qNUnRoxy02gAbBaQQUsEN"
-    },
-    {
-      "album": {
-        "name": "Night Traveler, Vol. 1",
-        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
-      },
-      "artists": [
-        {
-          "name": "NIGHT TRAVELER",
-          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
-        }
-      ],
-      "duration_ms": 316733,
-      "name": "Portland",
-      "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
-    },
-    {
-      "album": {
-        "name": "pLAyed Out",
-        "url": "https://open.spotify.com/album/50W579OvxH4kPFZ3X4pd87"
-      },
-      "artists": [
-        {
-          "name": "The True Blue",
-          "url": "https://open.spotify.com/artist/1mVhWJe3qmfTXM7ByuoryV"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "pLAyed Out",
-      "url": "https://open.spotify.com/track/4PUAuPFSIAbyQiXpPbfoOT"
-    },
-    {
-      "album": {
-        "name": "Dialtone",
-        "url": "https://open.spotify.com/album/0fBvgPPG4ivVersSP7GvoR"
-      },
-      "artists": [
-        {
-          "name": "Hotel Apache",
-          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Dialtone",
-      "url": "https://open.spotify.com/track/0IsB9kYyUfWVxFP85bFAmX"
-    },
-    {
-      "album": {
-        "name": "Young Mister",
-        "url": "https://open.spotify.com/album/0S5aw61RjWIoRCeeDuPdp4"
-      },
-      "artists": [
-        {
-          "name": "Young Mister",
-          "url": "https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx"
-        }
-      ],
-      "duration_ms": 226445,
-      "name": "Pasadena",
-      "url": "https://open.spotify.com/track/5565AiKjInrEUBrsb9yf1I"
-    },
-    {
-      "album": {
-        "name": "Again & Again",
-        "url": "https://open.spotify.com/album/5ctwJQS6cTwdb7y5QPWoQU"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        },
-        {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Again & Again",
-      "url": "https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ"
+      "duration_ms": 232306,
+      "name": "The Outfield",
+      "url": "https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC"
     },
     {
       "album": {
@@ -658,52 +188,48 @@
     },
     {
       "album": {
-        "name": "Heart Baby",
-        "url": "https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq"
+        "name": "Chapter Five",
+        "url": "https://open.spotify.com/album/6mYwvs2MxJpyZyDwp92jjA"
       },
       "artists": [
         {
-          "name": "Recent Rumors",
-          "url": "https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn"
+          "name": "CHPTRS",
+          "url": "https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI"
         }
       ],
-      "duration_ms": 198461,
-      "name": "Boulangerie",
-      "url": "https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM"
+      "duration_ms": 357841,
+      "name": "Let the New Begin",
+      "url": "https://open.spotify.com/track/5UqUuK9rchr0QOkxMifXsC"
     },
     {
       "album": {
-        "name": "LIVE2CHANGE",
-        "url": "https://open.spotify.com/album/1DbI4enozeCCtC7wCgr6uK"
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B"
       },
       "artists": [
         {
-          "name": "Hotel Apache",
-          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
+          "name": "Perlo",
+          "url": "https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ"
         }
       ],
-      "duration_ms": 215882,
-      "name": "LIVE2CHANGE",
-      "url": "https://open.spotify.com/track/63l63dMJH0aPxQzg03ThXA"
+      "duration_ms": 204556,
+      "name": "Call Me a Fool",
+      "url": "https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj"
     },
     {
       "album": {
-        "name": "Get in My Arms",
-        "url": "https://open.spotify.com/album/2RAeZ4l4q0phX0OLz8bb85"
+        "name": "What You See",
+        "url": "https://open.spotify.com/album/6s6D18Om2CjshWlyfKy4bz"
       },
       "artists": [
         {
-          "name": "Phangs",
-          "url": "https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi"
-        },
-        {
-          "name": "R.LUM.R",
-          "url": "https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y"
+          "name": "Ed Patrick",
+          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
         }
       ],
-      "duration_ms": 183460,
-      "name": "Always Been U",
-      "url": "https://open.spotify.com/track/35jQAfJWI7FlOo0MP1CV0W"
+      "duration_ms": 187773,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/7JmAmtToAPb0utPIF2l0aT"
     },
     {
       "album": {
@@ -726,6 +252,292 @@
     },
     {
       "album": {
+        "name": "Sad People Dancing",
+        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
+      },
+      "artists": [
+        {
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/6lSujJn0GaRfr1Jtlhgqe4"
+    },
+    {
+      "album": {
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 316733,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK"
+    },
+    {
+      "album": {
+        "name": "I'll Explain Later",
+        "url": "https://open.spotify.com/album/4cWNuV3nsNGtOpBnX8LvFH"
+      },
+      "artists": [
+        {
+          "name": "Hotel Apache",
+          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
+        }
+      ],
+      "duration_ms": 230138,
+      "name": "Maybe, One Day",
+      "url": "https://open.spotify.com/track/3FQquWL1AHJ8pO75e0MFkk"
+    },
+    {
+      "album": {
+        "name": "Get in My Arms",
+        "url": "https://open.spotify.com/album/2RAeZ4l4q0phX0OLz8bb85"
+      },
+      "artists": [
+        {
+          "name": "Phangs",
+          "url": "https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi"
+        },
+        {
+          "name": "R.LUM.R",
+          "url": "https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Always Been U",
+      "url": "https://open.spotify.com/track/35jQAfJWI7FlOo0MP1CV0W"
+    },
+    {
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe"
+      },
+      "artists": [
+        {
+          "name": "Ed Patrick",
+          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Addicted To You",
+      "url": "https://open.spotify.com/track/1UNoqAFBHyhZcJyzVW2l0i"
+    },
+    {
+      "album": {
+        "name": "Steps",
+        "url": "https://open.spotify.com/album/0BQTqxUrvue8rxw7VUAOdo"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/3YR1CSEZrjaCXdvyR1Uj8h"
+    },
+    {
+      "album": {
+        "name": "Holding",
+        "url": "https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh"
+      },
+      "artists": [
+        {
+          "name": "Hailaker",
+          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        },
+        {
+          "name": "Jemima Coulter",
+          "url": "https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc"
+        }
+      ],
+      "duration_ms": 197460,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh"
+    },
+    {
+      "album": {
+        "name": "Dreams You Don't Forget",
+        "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 308266,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/3qbQjQotCtzQJqHZd0j4fK"
+    },
+    {
+      "album": {
+        "name": "Kalax",
+        "url": "https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS"
+      },
+      "artists": [
+        {
+          "name": "Kalax",
+          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
+        }
+      ],
+      "duration_ms": 259834,
+      "name": "Time Lapse",
+      "url": "https://open.spotify.com/track/7oMI71Jb3USQX5ILk5lp6x"
+    },
+    {
+      "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/5tFoieEkDjaAss8jJC5OI6"
+      },
+      "artists": [
+        {
+          "name": "Jet Black Alley Cat",
+          "url": "https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ"
+        }
+      ],
+      "duration_ms": 265090,
+      "name": "She's Alright",
+      "url": "https://open.spotify.com/track/58pEXZXzDnsnpGWT3XofaF"
+    },
+    {
+      "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/2hPqdN5XlPG6fbQaeUq1e3"
+      },
+      "artists": [
+        {
+          "name": "The Ivy",
+          "url": "https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "I Don't Wanna",
+      "url": "https://open.spotify.com/track/2HmvDlBGFjCl90aqdQRdLD"
+    },
+    {
+      "album": {
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/27PWE1Iu1njLcflbD8mfbw"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 247879,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1"
+    },
+    {
+      "album": {
+        "name": "You're the One for Me",
+        "url": "https://open.spotify.com/album/1Xg3cGm0qUBrcC6ULP0Uck"
+      },
+      "artists": [
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        }
+      ],
+      "duration_ms": 269999,
+      "name": "You're the One for Me - Digital Farm Animals Remix",
+      "url": "https://open.spotify.com/track/5T2iobXGYEI9TdrJ4Du6QN"
+    },
+    {
+      "album": {
+        "name": "Dreams You Don't Forget",
+        "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/4glRuGLzYN6uT7NC56tQ18"
+    },
+    {
+      "album": {
+        "name": "carry me home",
+        "url": "https://open.spotify.com/album/4ke8K2swZPB7RpIIhDV5Hi"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "carry me home",
+      "url": "https://open.spotify.com/track/32iCUAAgF1AqshcB3Tqhyt"
+    },
+    {
+      "album": {
+        "name": "Outlands",
+        "url": "https://open.spotify.com/album/7HUgBPyMHGsRjjTUAOacF0"
+      },
+      "artists": [
+        {
+          "name": "Kalax",
+          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "Outlands",
+      "url": "https://open.spotify.com/track/7sma3rc5a8q7hVsoFjp24L"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6FceMT138EsJYtSzstQ1tl"
+      },
+      "artists": [
+        {
+          "name": "The Light the Heat",
+          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "Rest of Our Lives",
+      "url": "https://open.spotify.com/track/4KofzqnNotdmsl4qhmlRal"
+    },
+    {
+      "album": {
+        "name": "Reckless Lover (Acoustic)",
+        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 240579,
+      "name": "Reckless Lover - Acoustic",
+      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
+    },
+    {
+      "album": {
         "name": "Hailaker",
         "url": "https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q"
       },
@@ -743,9 +555,201 @@
           "url": "https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc"
         }
       ],
-      "duration_ms": 253666,
-      "name": "Not Much",
-      "url": "https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV"
+      "duration_ms": 267493,
+      "name": "Coma / Smoke",
+      "url": "https://open.spotify.com/track/1oM6lNCuv3ymSZ9VwcqmyW"
+    },
+    {
+      "album": {
+        "name": "Dreams You Don't Forget",
+        "url": "https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/2RAebgzUvz3Uv9zmGE2egG"
+    },
+    {
+      "album": {
+        "name": "Twist of Fate",
+        "url": "https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY"
+      },
+      "artists": [
+        {
+          "name": "By The Coast",
+          "url": "https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm"
+        }
+      ],
+      "duration_ms": 266202,
+      "name": "I Want You Close",
+      "url": "https://open.spotify.com/track/1u55xtADWRwoOLzMZx0vTx"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4tteTazT567N7srYWOwTG2"
+      },
+      "artists": [
+        {
+          "name": "Kalax",
+          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
+        },
+        {
+          "name": "Frankmusik",
+          "url": "https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/6SJ0cNfpnl2kJLWlXnMbRb"
+    },
+    {
+      "album": {
+        "name": "Thundering Hopes",
+        "url": "https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Karaoke",
+      "url": "https://open.spotify.com/track/5e6sklOXEsNqSrEPDR1T3Z"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/1yuVbqSZGDRGypi9LfBzNm"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "No Vacancy",
+      "url": "https://open.spotify.com/track/7vO0kj8IiweKoPDorOz1ii"
+    },
+    {
+      "album": {
+        "name": "Heavy Sunshine",
+        "url": "https://open.spotify.com/album/3JRMAxyr1L8YEACfr9nQ34"
+      },
+      "artists": [
+        {
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Kiss Me, Kill Me",
+      "url": "https://open.spotify.com/track/3qNUnRoxy02gAbBaQQUsEN"
+    },
+    {
+      "album": {
+        "name": "Night Traveler, Vol. 1",
+        "url": "https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7zh456XsP582pVEoq6Nf6m"
+    },
+    {
+      "album": {
+        "name": "I'll Explain Later",
+        "url": "https://open.spotify.com/album/4cWNuV3nsNGtOpBnX8LvFH"
+      },
+      "artists": [
+        {
+          "name": "Hotel Apache",
+          "url": "https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y"
+        }
+      ],
+      "duration_ms": 206111,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/6p6Mjbm1pgMUvuRezkm5DG"
+    },
+    {
+      "album": {
+        "name": "Nothing Personal",
+        "url": "https://open.spotify.com/album/72VSJGK7bbTaLpr4BajenS"
+      },
+      "artists": [
+        {
+          "name": "Ed Patrick",
+          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+        }
+      ],
+      "duration_ms": 147031,
+      "name": "Nothing Personal",
+      "url": "https://open.spotify.com/track/74j1zzYiEeDgaCh37XqaAI"
+    },
+    {
+      "album": {
+        "name": "petrichor",
+        "url": "https://open.spotify.com/album/6pfWucHFIt3I6LFRVBwh1l"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "duration_ms": 207656,
+      "name": "catacombs",
+      "url": "https://open.spotify.com/track/4r91oYlL2FwIAqWW0VCebC"
+    },
+    {
+      "album": {
+        "name": "Wavepool",
+        "url": "https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL"
+      },
+      "artists": [
+        {
+          "name": "Hailaker",
+          "url": "https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy"
+        },
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+        }
+      ],
+      "duration_ms": 218810,
+      "name": "Wavepool",
+      "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
+    },
+    {
+      "album": {
+        "name": "Sad People Dancing",
+        "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
+      },
+      "artists": [
+        {
+          "name": "La Bouquet",
+          "url": "https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Loser Baby",
+      "url": "https://open.spotify.com/track/6RNz5iOe7SzpAq4JV3Yn4w"
     },
     {
       "album": {
@@ -764,37 +768,33 @@
     },
     {
       "album": {
-        "name": "Stranger Love",
-        "url": "https://open.spotify.com/album/0s0HwzmVUrc1wau3dZmY7L"
+        "name": "High School",
+        "url": "https://open.spotify.com/album/2oDQfsKmIBMesRkJOQWhHY"
       },
       "artists": [
         {
-          "name": "Ollie Wride",
-          "url": "https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea"
-        },
-        {
-          "name": "Sunglasses Kid",
-          "url": "https://open.spotify.com/artist/0jn6ofLtVkXpuH2mmV8J82"
+          "name": "90's Kids",
+          "url": "https://open.spotify.com/artist/6vPr4VCSFC3nJMw0mEBsn0"
         }
       ],
-      "duration_ms": 349043,
-      "name": "Stranger Love",
-      "url": "https://open.spotify.com/track/5TwUyeC78le23W2PM13B8c"
+      "duration_ms": 180935,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/5LpcRat8db3T8rMGVqiK5N"
     },
     {
       "album": {
-        "name": "Craving (Stripped)",
-        "url": "https://open.spotify.com/album/7uG3SBqzM4mZlStF8jCKWI"
+        "name": "Chapter Three (Alternate Versions)",
+        "url": "https://open.spotify.com/album/22jyycIyfXWZRPE0Y2et2S"
       },
       "artists": [
         {
-          "name": "VICTORS",
-          "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
+          "name": "CHPTRS",
+          "url": "https://open.spotify.com/artist/3BWtALtalPxptLllZwZ4QI"
         }
       ],
-      "duration_ms": 262055,
-      "name": "Craving (Stripped)",
-      "url": "https://open.spotify.com/track/0MOlS6Jpajh17ELBSD0WEf"
+      "duration_ms": 351176,
+      "name": "Last Chance (Alternate Version)",
+      "url": "https://open.spotify.com/track/4fiy79vmGnL4PCzUPMdX3h"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq"

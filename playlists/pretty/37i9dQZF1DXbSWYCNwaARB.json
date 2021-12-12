@@ -79,21 +79,6 @@
     },
     {
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
-    },
-    {
-      "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
       },
@@ -109,33 +94,18 @@
     },
     {
       "album": {
-        "name": "\u56de:Walpurgis Night",
-        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
       },
       "artists": [
         {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 199133,
-      "name": "MAGO",
-      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
-    },
-    {
-      "album": {
-        "name": "Cold Blooded",
-        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
       "album": {
@@ -154,6 +124,21 @@
     },
     {
       "album": {
+        "name": "Cold Blooded",
+        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
+    },
+    {
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
       },
@@ -166,6 +151,21 @@
       "duration_ms": 207650,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
+    },
+    {
+      "album": {
+        "name": "CRY FOR ME",
+        "url": "https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 204167,
+      "name": "CRY FOR ME",
+      "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
     },
     {
       "album": {
@@ -218,18 +218,18 @@
     },
     {
       "album": {
-        "name": "CRY FOR ME",
-        "url": "https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87"
+        "name": "\u56de:Walpurgis Night",
+        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
         }
       ],
-      "duration_ms": 204167,
-      "name": "CRY FOR ME",
-      "url": "https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq"
+      "duration_ms": 199133,
+      "name": "MAGO",
+      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
     },
     {
       "album": {
@@ -248,21 +248,6 @@
     },
     {
       "album": {
-        "name": "Monster - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet - IRENE & SEULGI",
-          "url": "https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl"
-        }
-      ],
-      "duration_ms": 178413,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK"
-    },
-    {
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -275,6 +260,21 @@
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "album": {
+        "name": "Monster - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet - IRENE & SEULGI",
+          "url": "https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl"
+        }
+      ],
+      "duration_ms": 178413,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK"
     },
     {
       "album": {
@@ -308,18 +308,18 @@
     },
     {
       "album": {
-        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
-        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
+        "name": "I burn",
+        "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 210817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+      "duration_ms": 197320,
+      "name": "HWAA",
+      "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
     },
     {
       "album": {
@@ -338,18 +338,18 @@
     },
     {
       "album": {
-        "name": "Flourishing",
-        "url": "https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh"
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 213164,
-      "name": "Snapping",
-      "url": "https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q"
+      "duration_ms": 217760,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/71vPAjlG1x606483GTJNhY"
     },
     {
       "album": {
@@ -368,63 +368,18 @@
     },
     {
       "album": {
-        "name": "-77.82x-78.29",
-        "url": "https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989"
+        "name": "New Start",
+        "url": "https://open.spotify.com/album/79I7ijWthvkwe4xOW0zzQh"
       },
       "artists": [
         {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+          "name": "HINAPIA",
+          "url": "https://open.spotify.com/artist/6bWaRj4L4PyJ4uv2wN47Ny"
         }
       ],
-      "duration_ms": 210893,
-      "name": "LA DI DA",
-      "url": "https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL"
-    },
-    {
-      "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/71vPAjlG1x606483GTJNhY"
-    },
-    {
-      "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 172358,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
-    },
-    {
-      "album": {
-        "name": "Uh-Oh",
-        "url": "https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Uh-Oh",
-      "url": "https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL"
+      "duration_ms": 200465,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/1UThkKR8w3WnA6lWCRhOJn"
     },
     {
       "album": {
@@ -443,83 +398,8 @@
     },
     {
       "album": {
-        "name": "\u2018The ReVe Festival\u2019 Day 1",
-        "url": "https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 190859,
-      "name": "Zimzalabim",
-      "url": "https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB"
-    },
-    {
-      "album": {
-        "name": "BE!",
-        "url": "https://open.spotify.com/album/6DX33GTGhfTLpQWzmHHgHA"
-      },
-      "artists": [
-        {
-          "name": "BVNDIT",
-          "url": "https://open.spotify.com/artist/5dEBuZjTtE68uDgCs23Kuv"
-        }
-      ],
-      "duration_ms": 190903,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/1PNb8pRsZGa8XN1m5nJe70"
-    },
-    {
-      "album": {
-        "name": "1/6",
-        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 197413,
-      "name": "You can't sit with us",
-      "url": "https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH"
-    },
-    {
-      "album": {
-        "name": "FLOWER SHOWER",
-        "url": "https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR"
-      },
-      "artists": [
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "FLOWER SHOWER",
-      "url": "https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC"
-    },
-    {
-      "album": {
-        "name": "reminiscence",
-        "url": "https://open.spotify.com/album/5ByQ39IHGxrddAwQcnxvoj"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 192280,
-      "name": "DUN DUN",
-      "url": "https://open.spotify.com/track/3CyCjgTHFzqucmECajq8QA"
-    },
-    {
-      "album": {
-        "name": "Not Shy",
-        "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
       },
       "artists": [
         {
@@ -527,39 +407,39 @@
           "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 177728,
-      "name": "Not Shy",
-      "url": "https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU"
+      "duration_ms": 172358,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
     },
     {
       "album": {
-        "name": "Nun Nu Nan Na",
-        "url": "https://open.spotify.com/album/7p3NTiZoaZRzgPmwlGMHtM"
+        "name": "-77.82x-78.29",
+        "url": "https://open.spotify.com/album/1F2CtDmTEiyJRv2bCf6989"
       },
       "artists": [
         {
-          "name": "cignature",
-          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
         }
       ],
-      "duration_ms": 208040,
-      "name": "Nun Nu Nan Na",
-      "url": "https://open.spotify.com/track/7ladzyHoK60op9Zq7wy9UN"
+      "duration_ms": 210893,
+      "name": "LA DI DA",
+      "url": "https://open.spotify.com/track/60M8FSYZP8MA0Wy2huOADL"
     },
     {
       "album": {
-        "name": "SQUARE UP",
-        "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
+        "name": "NONSTOP",
+        "url": "https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
         }
       ],
-      "duration_ms": 209355,
-      "name": "DDU-DU DDU-DU",
-      "url": "https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB"
+      "duration_ms": 202760,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL"
     },
     {
       "album": {
@@ -578,18 +458,138 @@
     },
     {
       "album": {
-        "name": "NONSTOP",
-        "url": "https://open.spotify.com/album/7J8Kp48L7RdLkpjSVrO5PY"
+        "name": "LALALAY \ub0a0\ub77c\ub9ac",
+        "url": "https://open.spotify.com/album/1hgIt7Jq6m1zVfT1TzUQzs"
       },
       "artists": [
         {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 202760,
-      "name": "Nonstop",
-      "url": "https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL"
+      "duration_ms": 174880,
+      "name": "LALALAY \ub0a0\ub77c\ub9ac",
+      "url": "https://open.spotify.com/track/6sWd8ZAH5bWWyjwb7ZV2Zb"
+    },
+    {
+      "album": {
+        "name": "Oneiric Diary",
+        "url": "https://open.spotify.com/album/0Feph4xWbYik7e0oLR08sN"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Secret Story of the Swan",
+      "url": "https://open.spotify.com/track/3FARQP8fA49bSsTWjNyWmY"
+    },
+    {
+      "album": {
+        "name": "CONTRAST",
+        "url": "https://open.spotify.com/album/7ivQIfOWxgSAg3OSDsbrch"
+      },
+      "artists": [
+        {
+          "name": "Bling Bling",
+          "url": "https://open.spotify.com/artist/6xS3dyQKA8RajjorUSVrvi"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Oh MAMA",
+      "url": "https://open.spotify.com/track/3usVtuGqnWOy2zp8CMO0PB"
+    },
+    {
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 209355,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU"
+    },
+    {
+      "album": {
+        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+    },
+    {
+      "album": {
+        "name": "1/6",
+        "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 197413,
+      "name": "You can't sit with us",
+      "url": "https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH"
+    },
+    {
+      "album": {
+        "name": "reminiscence",
+        "url": "https://open.spotify.com/album/5ByQ39IHGxrddAwQcnxvoj"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "duration_ms": 192280,
+      "name": "DUN DUN",
+      "url": "https://open.spotify.com/track/3CyCjgTHFzqucmECajq8QA"
+    },
+    {
+      "album": {
+        "name": "Gleam",
+        "url": "https://open.spotify.com/album/1HWezHtB1jFWZ96uy4cRq9"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Gleam",
+      "url": "https://open.spotify.com/track/4dOrfL6qgxnjCMSmkekFhB"
     },
     {
       "album": {

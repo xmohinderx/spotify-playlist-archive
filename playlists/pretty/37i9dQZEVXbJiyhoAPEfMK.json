@@ -4,6 +4,36 @@
   "tracks": [
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -34,18 +64,33 @@
     },
     {
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
       "album": {
@@ -79,18 +124,48 @@
     },
     {
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
       "album": {
@@ -109,18 +184,18 @@
     },
     {
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
       "album": {
@@ -181,18 +256,18 @@
     },
     {
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+        "name": "Draufg\u00e4ngerjunge",
+        "url": "https://open.spotify.com/album/3VOBglFSFzfzezAzuqCun6"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
         }
       ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+      "duration_ms": 188889,
+      "name": "Draufg\u00e4ngerjunge",
+      "url": "https://open.spotify.com/track/79bRx0B6z0TQJR2maFxBrk"
     },
     {
       "album": {
@@ -219,18 +294,78 @@
     },
     {
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "My Name Is Jos\u00e9 Feliciano",
+        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+      "duration_ms": 182306,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+    },
+    {
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
       "album": {
@@ -253,36 +388,6 @@
     },
     {
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -298,48 +403,52 @@
     },
     {
       "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
     },
     {
       "album": {
-        "name": "Mercury - Act 1",
-        "url": "https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 244004,
-      "name": "Wrecked",
-      "url": "https://open.spotify.com/track/149BxWeweaCqmsyedkNiiE"
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
       "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+        "name": "= (Christmas Edition)",
+        "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
     },
     {
       "album": {
@@ -370,48 +479,112 @@
     },
     {
       "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
         }
       ],
-      "duration_ms": 187027,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
     },
     {
       "album": {
-        "name": "My Name Is Jos\u00e9 Feliciano",
-        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
+        "name": "I Ke Harru",
+        "url": "https://open.spotify.com/album/2VxZPaBsIFn6qqYxQVY4x2"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+      "duration_ms": 173217,
+      "name": "I Ke Harru",
+      "url": "https://open.spotify.com/track/6KKEjDiimNHEHRixna4Dtt"
     },
     {
       "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+    },
+    {
+      "album": {
+        "name": "Mercury - Act 1",
+        "url": "https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 244004,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/149BxWeweaCqmsyedkNiiE"
+    },
+    {
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+    },
+    {
+      "album": {
+        "name": "90er Berlin",
+        "url": "https://open.spotify.com/album/5bwgOUZdynA5mQ7eBx5kiv"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "90er Berlin",
+      "url": "https://open.spotify.com/track/7A6fVgfo67mZkVAzEC3MRo"
+    },
+    {
+      "album": {
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 188833,
+      "name": "Wandered To LA (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/1cA4wEmLkKlttS6N89LbJh"
     },
     {
       "album": {
@@ -430,37 +603,22 @@
     },
     {
       "album": {
-        "name": "= (Christmas Edition)",
-        "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         },
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
         }
       ],
-      "duration_ms": 208546,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
-    },
-    {
-      "album": {
-        "name": "SUVs",
-        "url": "https://open.spotify.com/album/6dYHhV1ES2wfdoxvWXI5Ld"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 162026,
-      "name": "SUVs",
-      "url": "https://open.spotify.com/track/01I8aPBUJIMzCtHsCVvmq5"
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
       "album": {
@@ -479,33 +637,82 @@
     },
     {
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+      "duration_ms": 187027,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
+    },
+    {
+      "album": {
+        "name": "SUVs",
+        "url": "https://open.spotify.com/album/6dYHhV1ES2wfdoxvWXI5Ld"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "SUVs",
+      "url": "https://open.spotify.com/track/01I8aPBUJIMzCtHsCVvmq5"
+    },
+    {
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 272393,
+      "name": "Step Into Christmas",
+      "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
     },
     {
       "album": {
@@ -525,85 +732,6 @@
       "duration_ms": 171722,
       "name": "DER LETZTE SONG (ALLES WIRD GUT) (feat. Fred Rabe)",
       "url": "https://open.spotify.com/track/2FQRZLR31e3423Nmrgv0Pv"
-    },
-    {
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
-    },
-    {
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "V\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX"
-    },
-    {
-      "album": {
-        "name": "Nonante-Cinq",
-        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 251670,
-      "name": "D\u00e9mons",
-      "url": "https://open.spotify.com/track/3gAEAmxdP1GIjgQ3Zud2mE"
-    },
-    {
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
       "album": {
@@ -630,63 +758,60 @@
     },
     {
       "album": {
-        "name": "Merry Christmas Everyone",
-        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
       "artists": [
         {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
         }
       ],
-      "duration_ms": 220160,
-      "name": "Merry Christmas Everyone",
-      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
+        "name": "Do They Know It's Christmas?",
+        "url": "https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5"
       },
       "artists": [
         {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
         }
       ],
-      "duration_ms": 168020,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf"
     },
     {
       "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+        "name": "Fighting Demons",
+        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+      "duration_ms": 217222,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0QwKxajohg1rAMMmv1AWe1"
     },
     {
       "album": {
@@ -702,115 +827,6 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
-    },
-    {
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Arme de poing",
-      "url": "https://open.spotify.com/track/2WYpG3Kv1xRTqMSNXVOpAN"
-    },
-    {
-      "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
-    },
-    {
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 169068,
-      "name": "Sky Priority",
-      "url": "https://open.spotify.com/track/6ItXr7qOXzK6KlhTbUu6hp"
-    },
-    {
-      "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJiyhoAPEfMK"

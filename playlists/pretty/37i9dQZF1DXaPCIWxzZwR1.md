@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 |---|---|---|---|---|
 | 1 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
 | 2 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 |
-| 3 | [GROWING UP IS ____](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS ____](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
+| 3 | [GROWING UP IS _____](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS _____](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 4 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 |
 | 5 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
 | 6 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 |
