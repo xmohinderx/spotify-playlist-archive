@@ -4,21 +4,6 @@
   "tracks": [
     {
       "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
-      },
-      "artists": [
-        {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
-        }
-      ],
-      "duration_ms": 196221,
-      "name": "\u010eal\u0161ia vlna",
-      "url": "https://open.spotify.com/track/2Q61UcssSrHuCEpwmwj9ZB"
-    },
-    {
-      "album": {
         "name": "Reklama na Rap",
         "url": "https://open.spotify.com/album/2RhZ7OSajwcq3xAwRSgrzS"
       },
@@ -41,6 +26,21 @@
         {
           "name": "DMS",
           "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
+      "duration_ms": 196221,
+      "name": "\u010eal\u0161ia vlna",
+      "url": "https://open.spotify.com/track/2Q61UcssSrHuCEpwmwj9ZB"
+    },
+    {
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
         },
         {
           "name": "Kuky Band",
@@ -50,40 +50,6 @@
       "duration_ms": 240588,
       "name": "\u010calam\u00e1da",
       "url": "https://open.spotify.com/track/7cztzISDJriiWfFrSpNyv1"
-    },
-    {
-      "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
-      },
-      "artists": [
-        {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
-        }
-      ],
-      "duration_ms": 205863,
-      "name": "Nie",
-      "url": "https://open.spotify.com/track/5GAJtxlAJsTlyzHDVzipzA"
-    },
-    {
-      "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
-      },
-      "artists": [
-        {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
-        },
-        {
-          "name": "Richard Muller",
-          "url": "https://open.spotify.com/artist/2jldyAonkBDiBG0cNtLgZz"
-        }
-      ],
-      "duration_ms": 207835,
-      "name": "\u00c1no",
-      "url": "https://open.spotify.com/track/3c7QjOTva2gxTD96xLN5pe"
     },
     {
       "album": {
@@ -126,6 +92,21 @@
           "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
         }
       ],
+      "duration_ms": 205863,
+      "name": "Nie",
+      "url": "https://open.spotify.com/track/5GAJtxlAJsTlyzHDVzipzA"
+    },
+    {
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
       "duration_ms": 247955,
       "name": "Instaklam",
       "url": "https://open.spotify.com/track/4BkbccWm1JYbV0G2BQCTT4"
@@ -144,6 +125,36 @@
       "duration_ms": 226268,
       "name": "Fu",
       "url": "https://open.spotify.com/track/2O5oR2Qs2NAfIsEZSF8UvX"
+    },
+    {
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
+      "duration_ms": 220787,
+      "name": "UOU",
+      "url": "https://open.spotify.com/track/2Jh2xFTzFp2U8xqDv31xjh"
     },
     {
       "album": {
@@ -169,26 +180,15 @@
         {
           "name": "DMS",
           "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
-        }
-      ],
-      "duration_ms": 220787,
-      "name": "UOU",
-      "url": "https://open.spotify.com/track/2Jh2xFTzFp2U8xqDv31xjh"
-    },
-    {
-      "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
-      },
-      "artists": [
+        },
         {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+          "name": "Richard Muller",
+          "url": "https://open.spotify.com/artist/2jldyAonkBDiBG0cNtLgZz"
         }
       ],
-      "duration_ms": 241739,
-      "name": "Hviezdy",
-      "url": "https://open.spotify.com/track/12ZZPnOuiKQ1eTabDltfEH"
+      "duration_ms": 207835,
+      "name": "\u00c1no",
+      "url": "https://open.spotify.com/track/3c7QjOTva2gxTD96xLN5pe"
     },
     {
       "album": {
@@ -216,58 +216,9 @@
           "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
         }
       ],
-      "duration_ms": 247902,
-      "name": "M&M's",
-      "url": "https://open.spotify.com/track/3WPI8LIFcoaMnZfOtqBoUz"
-    },
-    {
-      "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
-      },
-      "artists": [
-        {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
-        },
-        {
-          "name": "Hork\u00fd\u017ee Sl\u00ed\u017ee",
-          "url": "https://open.spotify.com/artist/1Vokrr21dze8HRk1oeWq9o"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Rampa",
-      "url": "https://open.spotify.com/track/0N0ZJUbAR04XjQQYUwKg6D"
-    },
-    {
-      "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
-      },
-      "artists": [
-        {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Dopam\u00edn",
-      "url": "https://open.spotify.com/track/4NmvfydJqm7Nr4u0MwwVgv"
-    },
-    {
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 241739,
+      "name": "Hviezdy",
+      "url": "https://open.spotify.com/track/12ZZPnOuiKQ1eTabDltfEH"
     },
     {
       "album": {
@@ -293,11 +244,15 @@
         {
           "name": "DMS",
           "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        },
+        {
+          "name": "Hork\u00fd\u017ee Sl\u00ed\u017ee",
+          "url": "https://open.spotify.com/artist/1Vokrr21dze8HRk1oeWq9o"
         }
       ],
-      "duration_ms": 38097,
-      "name": "Kung - Skit",
-      "url": "https://open.spotify.com/track/3c1CEYlvcQJKJOVYtaBreJ"
+      "duration_ms": 214285,
+      "name": "Rampa",
+      "url": "https://open.spotify.com/track/0N0ZJUbAR04XjQQYUwKg6D"
     },
     {
       "album": {
@@ -313,6 +268,81 @@
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
+      "duration_ms": 247902,
+      "name": "M&M's",
+      "url": "https://open.spotify.com/track/3WPI8LIFcoaMnZfOtqBoUz"
+    },
+    {
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Dopam\u00edn",
+      "url": "https://open.spotify.com/track/4NmvfydJqm7Nr4u0MwwVgv"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
+      "duration_ms": 38097,
+      "name": "Kung - Skit",
+      "url": "https://open.spotify.com/track/3c1CEYlvcQJKJOVYtaBreJ"
     },
     {
       "album": {
@@ -343,6 +373,51 @@
     },
     {
       "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -358,33 +433,33 @@
     },
     {
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "hiSTORY",
+        "url": "https://open.spotify.com/album/45GYZLb0L7kl8Fiwq7Gblh"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "I.M.T. Smile",
+          "url": "https://open.spotify.com/artist/5RWHGrgwCmIrv1EJlYGIIl"
         }
       ],
-      "duration_ms": 165906,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 183040,
+      "name": "Najkraj\u0161ie Vianoce",
+      "url": "https://open.spotify.com/track/6FNtYbye5zc3u15hex7H5V"
     },
     {
       "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+        "name": "My Name Is Jos\u00e9 Feliciano",
+        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+      "duration_ms": 182306,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
     },
     {
       "album": {
@@ -403,18 +478,18 @@
     },
     {
       "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+        "name": "Lojzo IV",
+        "url": "https://open.spotify.com/album/2Lw7vRoNDLaRrMC13DzkUn"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "Lojzo",
+          "url": "https://open.spotify.com/artist/0F2Rp11bhMEtedfjoMh90L"
         }
       ],
-      "duration_ms": 172540,
-      "name": "St\u00edny",
-      "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
+      "duration_ms": 267533,
+      "name": "Ka\u017ed\u00fd de\u0148 bud\u00fa vraj Vianoce",
+      "url": "https://open.spotify.com/track/6dlkr04x93THYt2Cklv91b"
     },
     {
       "album": {
@@ -437,18 +512,48 @@
     },
     {
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "St\u00edny",
+      "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
+    },
+    {
+      "album": {
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
     },
     {
       "album": {
@@ -471,21 +576,6 @@
     },
     {
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
-    },
-    {
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -505,48 +595,67 @@
     },
     {
       "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
       "album": {
-        "name": "My Name Is Jos\u00e9 Feliciano",
-        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
+        "name": "Dobr\u00fd \u010casy",
+        "url": "https://open.spotify.com/album/4qbUWnbj76iuu7ginVhEX6"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "V\u00e1clav Neck\u00e1\u0159",
+          "url": "https://open.spotify.com/artist/2pexGBYCYZadfQvlrmvjGt"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+      "duration_ms": 303893,
+      "name": "P\u016flno\u010dn\u00ed",
+      "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
     },
     {
       "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
       "artists": [
         {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
         }
       ],
-      "duration_ms": 52109,
-      "name": "HUHU chant",
-      "url": "https://open.spotify.com/track/2JVF89LmgteAnjRCuuvJRk"
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
     },
     {
       "album": {
@@ -565,56 +674,52 @@
     },
     {
       "album": {
-        "name": "Anarchia",
-        "url": "https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW"
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
       },
       "artists": [
         {
-          "name": "Samey",
-          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         },
         {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        },
-        {
-          "name": "Natalia Hulejova",
-          "url": "https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5"
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
         }
       ],
-      "duration_ms": 186993,
-      "name": "breeze",
-      "url": "https://open.spotify.com/track/1dkTyDuDkpgfTyti3REUVE"
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
       "album": {
-        "name": "Jedna Dva",
-        "url": "https://open.spotify.com/album/5qFSNi35OpvQiIod7SvaJZ"
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
       },
       "artists": [
         {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Jedna Dva",
-      "url": "https://open.spotify.com/track/1OhoBH61cFascRCK9pWTaT"
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
     },
     {
       "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
       "album": {
@@ -641,18 +746,26 @@
     },
     {
       "album": {
-        "name": "hiSTORY",
-        "url": "https://open.spotify.com/album/45GYZLb0L7kl8Fiwq7Gblh"
+        "name": "Anarchia",
+        "url": "https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW"
       },
       "artists": [
         {
-          "name": "I.M.T. Smile",
-          "url": "https://open.spotify.com/artist/5RWHGrgwCmIrv1EJlYGIIl"
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "Natalia Hulejova",
+          "url": "https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Najkraj\u0161ie Vianoce",
-      "url": "https://open.spotify.com/track/6FNtYbye5zc3u15hex7H5V"
+      "duration_ms": 186993,
+      "name": "breeze",
+      "url": "https://open.spotify.com/track/1dkTyDuDkpgfTyti3REUVE"
     },
     {
       "album": {
@@ -671,6 +784,21 @@
     },
     {
       "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -683,146 +811,6 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "album": {
-        "name": "Stroj",
-        "url": "https://open.spotify.com/album/4SURCK2TTJebqJoCqh9adH"
-      },
-      "artists": [
-        {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
-        },
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
-        }
-      ],
-      "duration_ms": 210245,
-      "name": "Stroj",
-      "url": "https://open.spotify.com/track/7sqLWtFToGysW2iGJC2IDA"
-    },
-    {
-      "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
-    },
-    {
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
-    },
-    {
-      "album": {
-        "name": "Lojzo IV",
-        "url": "https://open.spotify.com/album/2Lw7vRoNDLaRrMC13DzkUn"
-      },
-      "artists": [
-        {
-          "name": "Lojzo",
-          "url": "https://open.spotify.com/artist/0F2Rp11bhMEtedfjoMh90L"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Ka\u017ed\u00fd de\u0148 bud\u00fa vraj Vianoce",
-      "url": "https://open.spotify.com/track/6dlkr04x93THYt2Cklv91b"
-    },
-    {
-      "album": {
-        "name": "Hey G!",
-        "url": "https://open.spotify.com/album/0H9fj2sXY25zApEdjbHgX9"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        },
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Hey G!",
-      "url": "https://open.spotify.com/track/1i6Q39TzaIp6EkJL9k51qd"
-    },
-    {
-      "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Happy Xmas (War Is Over) - Remastered 2010",
-      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
-    },
-    {
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKIVTPX9a2Sb"

@@ -53,21 +53,6 @@
     },
     {
       "album": {
-        "name": "I Love You So",
-        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160239,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
-    },
-    {
-      "album": {
         "name": "Sisa Rasa",
         "url": "https://open.spotify.com/album/1HWELX1pBJxEArEKKoepuJ"
       },
@@ -80,6 +65,21 @@
       "duration_ms": 254863,
       "name": "Sisa Rasa",
       "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
+    },
+    {
+      "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
       "album": {
@@ -113,21 +113,6 @@
     },
     {
       "album": {
-        "name": "Flying Solo",
-        "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 344571,
-      "name": "To the Bone",
-      "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
-    },
-    {
-      "album": {
         "name": "Melawan Restu",
         "url": "https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0"
       },
@@ -140,6 +125,21 @@
       "duration_ms": 219896,
       "name": "Melawan Restu",
       "url": "https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL"
+    },
+    {
+      "album": {
+        "name": "Flying Solo",
+        "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 344571,
+      "name": "To the Bone",
+      "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
     },
     {
       "album": {
@@ -207,36 +207,6 @@
     },
     {
       "album": {
-        "name": "Every Summertime",
-        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 215686,
-      "name": "Every Summertime",
-      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
-    },
-    {
-      "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
-    },
-    {
-      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI"
       },
@@ -252,18 +222,18 @@
     },
     {
       "album": {
-        "name": "W.H.U.T",
-        "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
+        "name": "Every Summertime",
+        "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
       },
       "artists": [
         {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 174000,
-      "name": "W.H.U.T",
-      "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+      "duration_ms": 215686,
+      "name": "Every Summertime",
+      "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
     },
     {
       "album": {
@@ -282,21 +252,6 @@
     },
     {
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 298899,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
-    },
-    {
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -312,18 +267,33 @@
     },
     {
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Aku Bukan Jodohnya",
+        "url": "https://open.spotify.com/album/4QOfOq221iUZ9m9q24zuY5"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Tri Suaka",
+          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
         }
       ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+      "duration_ms": 244650,
+      "name": "Aku Bukan Jodohnya",
+      "url": "https://open.spotify.com/track/4YuzrUzwpTR8aRqLqepiFo"
+    },
+    {
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
     },
     {
       "album": {
@@ -342,18 +312,18 @@
     },
     {
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
       "album": {
@@ -372,18 +342,33 @@
     },
     {
       "album": {
-        "name": "Aku Bukan Jodohnya",
-        "url": "https://open.spotify.com/album/4QOfOq221iUZ9m9q24zuY5"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Tri Suaka",
-          "url": "https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 244650,
-      "name": "Aku Bukan Jodohnya",
-      "url": "https://open.spotify.com/track/4YuzrUzwpTR8aRqLqepiFo"
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
       "album": {
@@ -406,6 +391,36 @@
     },
     {
       "album": {
+        "name": "W.H.U.T",
+        "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "W.H.U.T",
+      "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+    },
+    {
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+    },
+    {
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -425,18 +440,18 @@
     },
     {
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "album": {
@@ -455,21 +470,6 @@
     },
     {
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "album": {
         "name": "double take",
         "url": "https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q"
       },
@@ -482,36 +482,6 @@
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
-    },
-    {
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 613026,
-      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
-    },
-    {
-      "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 234204,
-      "name": "Lantas",
-      "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
     },
     {
       "album": {
@@ -531,6 +501,21 @@
       "duration_ms": 227595,
       "name": "Terlukis Indah",
       "url": "https://open.spotify.com/track/5S8TtEVuFPY9XEjg2hNWHa"
+    },
+    {
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 234204,
+      "name": "Lantas",
+      "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
     },
     {
       "album": {
@@ -572,18 +557,18 @@
     },
     {
       "album": {
-        "name": "Rapsodi",
-        "url": "https://open.spotify.com/album/02ECGWaPjemLbarmHlPoge"
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
       "artists": [
         {
-          "name": "JKT48",
-          "url": "https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 238672,
-      "name": "Rapsodi",
-      "url": "https://open.spotify.com/track/0WwLkbYBjwPYoEKegzOYVu"
+      "duration_ms": 613026,
+      "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
     },
     {
       "album": {
@@ -617,6 +602,36 @@
     },
     {
       "album": {
+        "name": "Rapsodi",
+        "url": "https://open.spotify.com/album/02ECGWaPjemLbarmHlPoge"
+      },
+      "artists": [
+        {
+          "name": "JKT48",
+          "url": "https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk"
+        }
+      ],
+      "duration_ms": 238672,
+      "name": "Rapsodi",
+      "url": "https://open.spotify.com/track/0WwLkbYBjwPYoEKegzOYVu"
+    },
+    {
+      "album": {
+        "name": "Kota",
+        "url": "https://open.spotify.com/album/6kn7hqy1xP6XsYD6rSIhZW"
+      },
+      "artists": [
+        {
+          "name": "Dere",
+          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
+        }
+      ],
+      "duration_ms": 198107,
+      "name": "Kota",
+      "url": "https://open.spotify.com/track/0SeBJ2sAl8CV58kBfpd5va"
+    },
+    {
+      "album": {
         "name": "if u could see me cryin' in my room",
         "url": "https://open.spotify.com/album/1cxbID0RUggPVvxjvlORFR"
       },
@@ -633,21 +648,6 @@
       "duration_ms": 256867,
       "name": "if u could see me cryin' in my room",
       "url": "https://open.spotify.com/track/2yynRDKYqTLVTcP7FqoyVE"
-    },
-    {
-      "album": {
-        "name": "Kota",
-        "url": "https://open.spotify.com/album/6kn7hqy1xP6XsYD6rSIhZW"
-      },
-      "artists": [
-        {
-          "name": "Dere",
-          "url": "https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP"
-        }
-      ],
-      "duration_ms": 198107,
-      "name": "Kota",
-      "url": "https://open.spotify.com/track/0SeBJ2sAl8CV58kBfpd5va"
     },
     {
       "album": {
@@ -696,21 +696,6 @@
     },
     {
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 214567,
-      "name": "Monokrom",
-      "url": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL"
-    },
-    {
-      "album": {
         "name": "Berakhir Sama",
         "url": "https://open.spotify.com/album/4rl5wPXYNeOstk2aqxoKNp"
       },
@@ -727,6 +712,21 @@
       "duration_ms": 190167,
       "name": "Berakhir Sama",
       "url": "https://open.spotify.com/track/056yJ4VyffHDRN3fTOWBQQ"
+    },
+    {
+      "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 214567,
+      "name": "Monokrom",
+      "url": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL"
     },
     {
       "album": {
@@ -753,6 +753,21 @@
     },
     {
       "album": {
+        "name": "Mendung Tanpo Udan",
+        "url": "https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "Mendung Tanpo Udan",
+      "url": "https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb"
+    },
+    {
+      "album": {
         "name": "New Hope Club",
         "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
       },
@@ -772,33 +787,18 @@
     },
     {
       "album": {
-        "name": "Mendung Tanpo Udan",
-        "url": "https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE"
+        "name": "Menari Dengan Bayangan",
+        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },
       "artists": [
         {
-          "name": "Ndarboy Genk",
-          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
         }
       ],
-      "duration_ms": 305213,
-      "name": "Mendung Tanpo Udan",
-      "url": "https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb"
-    },
-    {
-      "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/31JsMFJBIT6uC8TpNnSGpX"
-      },
-      "artists": [
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
-        }
-      ],
-      "duration_ms": 258049,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/6HGcSuP89aoRvqLIAjcT8B"
+      "duration_ms": 277457,
+      "name": "Rumah Ke Rumah",
+      "url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbObFQZ3JLcXt"
