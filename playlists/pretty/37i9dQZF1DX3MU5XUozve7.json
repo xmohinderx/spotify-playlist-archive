@@ -4,6 +4,21 @@
   "tracks": [
     {
       "album": {
+        "name": "They Came from the Shadows",
+        "url": "https://open.spotify.com/album/21hHTrVvbzGDVynkfFvxtm"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Skate Or Die",
+      "url": "https://open.spotify.com/track/174t68Pnn9wb1UgM7fCRmY"
+    },
+    {
+      "album": {
         "name": "Cynical Serene",
         "url": "https://open.spotify.com/album/2yn5UTwxCoFaF2aQqYHy5m"
       },
@@ -19,18 +34,18 @@
     },
     {
       "album": {
-        "name": "The War On Errorism",
-        "url": "https://open.spotify.com/album/0D6YPfv9u2JHdp1kiieR25"
+        "name": "Too Old to Die Young",
+        "url": "https://open.spotify.com/album/29V93o7nwMxHHxKMAP02qZ"
       },
       "artists": [
         {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/5knnDYKq8qxrEmdbE4u8r2"
         }
       ],
-      "duration_ms": 189733,
-      "name": "The Separation Of Church And Skate",
-      "url": "https://open.spotify.com/track/7iLXUeM0nqctdCsfun2Ahx"
+      "duration_ms": 164445,
+      "name": "Canned from the Food Drive",
+      "url": "https://open.spotify.com/track/6doNgNQ4HFnm5SXDveYz4t"
     },
     {
       "album": {
@@ -49,66 +64,6 @@
     },
     {
       "album": {
-        "name": "Thrash Metal Cassette",
-        "url": "https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Thrash Metal Cassette",
-      "url": "https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h"
-    },
-    {
-      "album": {
-        "name": "Hey Boff!",
-        "url": "https://open.spotify.com/album/0PFb7N8ieO7B38JRfdo9Rv"
-      },
-      "artists": [
-        {
-          "name": "Snuff",
-          "url": "https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Hey Boff!",
-      "url": "https://open.spotify.com/track/1UyNBbOqRNjzvGeXXtqwfx"
-    },
-    {
-      "album": {
-        "name": "They Came from the Shadows",
-        "url": "https://open.spotify.com/album/21hHTrVvbzGDVynkfFvxtm"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
-        }
-      ],
-      "duration_ms": 110826,
-      "name": "Skate Or Die",
-      "url": "https://open.spotify.com/track/174t68Pnn9wb1UgM7fCRmY"
-    },
-    {
-      "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
-    },
-    {
-      "album": {
         "name": "Cool To Be You",
         "url": "https://open.spotify.com/album/0hhEEW2g9DAaoKNK45tnIb"
       },
@@ -121,81 +76,6 @@
       "duration_ms": 111200,
       "name": "'Merican",
       "url": "https://open.spotify.com/track/4UZutjK0kmuGpsTJddEGwd"
-    },
-    {
-      "album": {
-        "name": "Graveyard Island",
-        "url": "https://open.spotify.com/album/3ynyUxxxyWe2XWyFxA3FXh"
-      },
-      "artists": [
-        {
-          "name": "Grade 2",
-          "url": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b"
-        }
-      ],
-      "duration_ms": 152801,
-      "name": "Graveyard Island",
-      "url": "https://open.spotify.com/track/7EGoQETczr03bJdSRZDFIe"
-    },
-    {
-      "album": {
-        "name": "Sitting Army",
-        "url": "https://open.spotify.com/album/06XizyvLh1GN1Cr237MtQl"
-      },
-      "artists": [
-        {
-          "name": "Cobra Skulls",
-          "url": "https://open.spotify.com/artist/3uXqKijByMgBlaqhMoaZRa"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Cobra Skullifornia",
-      "url": "https://open.spotify.com/track/4bF05KJHbr9sXJjgDiIQyq"
-    },
-    {
-      "album": {
-        "name": "To The Confusion Of Our Enemies",
-        "url": "https://open.spotify.com/album/511Crb2ieF1Zglt4IhxhqU"
-      },
-      "artists": [
-        {
-          "name": "Riverboat Gamblers",
-          "url": "https://open.spotify.com/artist/70IS631hJba0OuAbmhZNOq"
-        }
-      ],
-      "duration_ms": 166733,
-      "name": "I'm Still Not Dead",
-      "url": "https://open.spotify.com/track/3cB9nNtcPWNOfteWjsmDlH"
-    },
-    {
-      "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "All My Friends Are Nobodies",
-      "url": "https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG"
-    },
-    {
-      "album": {
-        "name": "Dippy Egg",
-        "url": "https://open.spotify.com/album/0CfC3uT4MA7yuzv0P6YvRv"
-      },
-      "artists": [
-        {
-          "name": "Snuff",
-          "url": "https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "Dippy Egg",
-      "url": "https://open.spotify.com/track/5ApJ6uoCkLVRDHYu4RoMpW"
     },
     {
       "album": {
@@ -214,36 +94,6 @@
     },
     {
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
-    },
-    {
-      "album": {
-        "name": "White Crosses/Black Crosses",
-        "url": "https://open.spotify.com/album/7jSQ5u9v6mbfD0PHgRnRPV"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "I Was a Teenage Anarchist",
-      "url": "https://open.spotify.com/track/52olXkCzKWjG0Lrmse0VT4"
-    },
-    {
-      "album": {
         "name": "What Are We Standing For",
         "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
       },
@@ -256,6 +106,36 @@
       "duration_ms": 173600,
       "name": "What Are We Standing For",
       "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
+    },
+    {
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
+    },
+    {
+      "album": {
+        "name": "To The Confusion Of Our Enemies",
+        "url": "https://open.spotify.com/album/511Crb2ieF1Zglt4IhxhqU"
+      },
+      "artists": [
+        {
+          "name": "Riverboat Gamblers",
+          "url": "https://open.spotify.com/artist/70IS631hJba0OuAbmhZNOq"
+        }
+      ],
+      "duration_ms": 166733,
+      "name": "I'm Still Not Dead",
+      "url": "https://open.spotify.com/track/3cB9nNtcPWNOfteWjsmDlH"
     },
     {
       "album": {
@@ -274,111 +154,6 @@
     },
     {
       "album": {
-        "name": "Never Look Back",
-        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 145074,
-      "name": "Infinite",
-      "url": "https://open.spotify.com/track/753Vq51xoF1V1pkoBKkVPI"
-    },
-    {
-      "album": {
-        "name": "Death By Television",
-        "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
-      },
-      "artists": [
-        {
-          "name": "The Lillingtons",
-          "url": "https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Black Hole In My Mind",
-      "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
-    },
-    {
-      "album": {
-        "name": "American Psycho",
-        "url": "https://open.spotify.com/album/3HJcuW4PqFGNhM9TkCMkfC"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Dig Up Her Bones",
-      "url": "https://open.spotify.com/track/16MPZDpM5JTtIBs3pOMSWx"
-    },
-    {
-      "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Live While You Can",
-      "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
-    },
-    {
-      "album": {
-        "name": "The Restoration Of Chaos & Order",
-        "url": "https://open.spotify.com/album/4xiQhTIvE0MqnzbE5wNHja"
-      },
-      "artists": [
-        {
-          "name": "Against All Authority",
-          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "War Machine Breakdown",
-      "url": "https://open.spotify.com/track/0ciJhEzq04b8at8PyKR1Hu"
-    },
-    {
-      "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 183282,
-      "name": "When Both Sides Suck, We're All Winners",
-      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
-    },
-    {
-      "album": {
-        "name": "The Best Of Goldfinger",
-        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
-    },
-    {
-      "album": {
         "name": "Rented World",
         "url": "https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW"
       },
@@ -394,158 +169,8 @@
     },
     {
       "album": {
-        "name": "Broken Dreams, Inc.",
-        "url": "https://open.spotify.com/album/6PpXNkijHaoYuteJkC7Ni9"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 231938,
-      "name": "Broken Dreams, Inc.",
-      "url": "https://open.spotify.com/track/6jjsvz1cxRDU1rlW9Kkv5Z"
-    },
-    {
-      "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
-    },
-    {
-      "album": {
-        "name": "Death in Venice Beach",
-        "url": "https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p"
-      },
-      "artists": [
-        {
-          "name": "The Bombpops",
-          "url": "https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke"
-        }
-      ],
-      "duration_ms": 153016,
-      "name": "Notre Dame",
-      "url": "https://open.spotify.com/track/1QT3Is0dh27Avn6aRtGOZ8"
-    },
-    {
-      "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Thrash Unreal",
-      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
-    },
-    {
-      "album": {
-        "name": "When Your Heart Stops Beating",
-        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
-      },
-      "artists": [
-        {
-          "name": "+44",
-          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "When Your Heart Stops Beating",
-      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
-    },
-    {
-      "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/6LWdXy1pzaQYnNizOzetiq"
-      },
-      "artists": [
-        {
-          "name": "Frank Carter & The Rattlesnakes",
-          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
-        }
-      ],
-      "duration_ms": 154133,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/0dFMIHgtUpFsMgeYyYOJwG"
-    },
-    {
-      "album": {
-        "name": "The Living End",
-        "url": "https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7"
-      },
-      "artists": [
-        {
-          "name": "The Living End",
-          "url": "https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Prisoner of Society",
-      "url": "https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3"
-    },
-    {
-      "album": {
-        "name": "After The Eulogy",
-        "url": "https://open.spotify.com/album/65aFkblR9fIeqO6aOFSrfq"
-      },
-      "artists": [
-        {
-          "name": "Boysetsfire",
-          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Rookie",
-      "url": "https://open.spotify.com/track/7IWy06GHpq6drrrQfyXMNF"
-    },
-    {
-      "album": {
-        "name": "Face to Face (Remastered)",
-        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
-      },
-      "artists": [
-        {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "I Won't Lie Down",
-      "url": "https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb"
-    },
-    {
-      "album": {
-        "name": "I Wanna Die in Los Angeles",
-        "url": "https://open.spotify.com/album/3tZP5QqVyH5C9u053EtZu7"
-      },
-      "artists": [
-        {
-          "name": "Dead To Me",
-          "url": "https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "I Wanna Die in Los Angeles",
-      "url": "https://open.spotify.com/track/58AIwZRlAhN0FHe0Vd6NF2"
-    },
-    {
-      "album": {
-        "name": "First Ditch Effort",
-        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+        "name": "The War On Errorism",
+        "url": "https://open.spotify.com/album/0D6YPfv9u2JHdp1kiieR25"
       },
       "artists": [
         {
@@ -553,39 +178,54 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 92106,
-      "name": "Six Years on Dope",
-      "url": "https://open.spotify.com/track/2eKVo1JrBjEM7fiR6JPiU7"
+      "duration_ms": 189733,
+      "name": "The Separation Of Church And Skate",
+      "url": "https://open.spotify.com/track/7iLXUeM0nqctdCsfun2Ahx"
     },
     {
       "album": {
-        "name": "Heart Beats Pacific",
-        "url": "https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7"
+        "name": "Sitting Army",
+        "url": "https://open.spotify.com/album/06XizyvLh1GN1Cr237MtQl"
       },
       "artists": [
         {
-          "name": "Banner Pilot",
-          "url": "https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj"
+          "name": "Cobra Skulls",
+          "url": "https://open.spotify.com/artist/3uXqKijByMgBlaqhMoaZRa"
         }
       ],
-      "duration_ms": 134706,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ"
+      "duration_ms": 185160,
+      "name": "Cobra Skullifornia",
+      "url": "https://open.spotify.com/track/4bF05KJHbr9sXJjgDiIQyq"
     },
     {
       "album": {
-        "name": "Anarchist Wedding",
-        "url": "https://open.spotify.com/album/1ghjESs35sI4QD3UvJO2Do"
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
       "artists": [
         {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
         }
       ],
-      "duration_ms": 97837,
-      "name": "Anarchist Wedding",
-      "url": "https://open.spotify.com/track/55kEuymUAIg09tm6h2nAaE"
+      "duration_ms": 145074,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/753Vq51xoF1V1pkoBKkVPI"
+    },
+    {
+      "album": {
+        "name": "White Crosses/Black Crosses",
+        "url": "https://open.spotify.com/album/7jSQ5u9v6mbfD0PHgRnRPV"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "I Was a Teenage Anarchist",
+      "url": "https://open.spotify.com/track/52olXkCzKWjG0Lrmse0VT4"
     },
     {
       "album": {
@@ -604,18 +244,348 @@
     },
     {
       "album": {
-        "name": "Graveyard Island",
-        "url": "https://open.spotify.com/album/4jqKanjC03bISvAld3ZSDG"
+        "name": "Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/3gqiTbYCXF9p10eUbfqRLj"
       },
       "artists": [
         {
-          "name": "Grade 2",
-          "url": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 185604,
-      "name": "Bowling Green Lane",
-      "url": "https://open.spotify.com/track/4ajqgnEPdUqAeRqP2EtdQj"
+      "duration_ms": 222453,
+      "name": "Re-Education (Through Labor)",
+      "url": "https://open.spotify.com/track/2TJqTvzycPZiHcTSgih4d9"
+    },
+    {
+      "album": {
+        "name": "When Your Heart Stops Beating",
+        "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
+      },
+      "artists": [
+        {
+          "name": "+44",
+          "url": "https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "When Your Heart Stops Beating",
+      "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "All My Friends Are Nobodies",
+      "url": "https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
+    },
+    {
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
+    },
+    {
+      "album": {
+        "name": "Broken Dreams, Inc.",
+        "url": "https://open.spotify.com/album/6PpXNkijHaoYuteJkC7Ni9"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 231938,
+      "name": "Broken Dreams, Inc.",
+      "url": "https://open.spotify.com/track/6jjsvz1cxRDU1rlW9Kkv5Z"
+    },
+    {
+      "album": {
+        "name": "The Best Of Goldfinger",
+        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+    },
+    {
+      "album": {
+        "name": "Thrash Metal Cassette",
+        "url": "https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Thrash Metal Cassette",
+      "url": "https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h"
+    },
+    {
+      "album": {
+        "name": "Heart Beats Pacific",
+        "url": "https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7"
+      },
+      "artists": [
+        {
+          "name": "Banner Pilot",
+          "url": "https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj"
+        }
+      ],
+      "duration_ms": 134706,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ"
+    },
+    {
+      "album": {
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8"
+    },
+    {
+      "album": {
+        "name": "After The Eulogy",
+        "url": "https://open.spotify.com/album/65aFkblR9fIeqO6aOFSrfq"
+      },
+      "artists": [
+        {
+          "name": "Boysetsfire",
+          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/7IWy06GHpq6drrrQfyXMNF"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 183282,
+      "name": "When Both Sides Suck, We're All Winners",
+      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
+    },
+    {
+      "album": {
+        "name": "Death By Television",
+        "url": "https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r"
+      },
+      "artists": [
+        {
+          "name": "The Lillingtons",
+          "url": "https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Black Hole In My Mind",
+      "url": "https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4"
+    },
+    {
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/5ObFhkkmj1GpxGtXYo6wcn"
+      },
+      "artists": [
+        {
+          "name": "Hightime",
+          "url": "https://open.spotify.com/artist/1GiIq908SYolpwfzfodiB0"
+        }
+      ],
+      "duration_ms": 162380,
+      "name": "The Next Move",
+      "url": "https://open.spotify.com/track/0qoCMgWiycVM9uYanMX9D3"
+    },
+    {
+      "album": {
+        "name": "Eat the One Percent",
+        "url": "https://open.spotify.com/album/6OeLKNsnTNoT5pJ0RP1lRJ"
+      },
+      "artists": [
+        {
+          "name": "Rehasher",
+          "url": "https://open.spotify.com/artist/3JegvPNbAf7Pt3zrKsgXWu"
+        }
+      ],
+      "duration_ms": 124013,
+      "name": "Eat the One Percent",
+      "url": "https://open.spotify.com/track/5S5JRTGniOUEoQVDt48Uht"
+    },
+    {
+      "album": {
+        "name": "The Shape Of Punk To Come (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
+      },
+      "artists": [
+        {
+          "name": "Refused",
+          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "New Noise",
+      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
+    },
+    {
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/6LWdXy1pzaQYnNizOzetiq"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        }
+      ],
+      "duration_ms": 154133,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/0dFMIHgtUpFsMgeYyYOJwG"
+    },
+    {
+      "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/3HJcuW4PqFGNhM9TkCMkfC"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Dig Up Her Bones",
+      "url": "https://open.spotify.com/track/16MPZDpM5JTtIBs3pOMSWx"
+    },
+    {
+      "album": {
+        "name": "Undertaker, Undertake",
+        "url": "https://open.spotify.com/album/1xtj0cvO4iVe3s8Z7lMoL3"
+      },
+      "artists": [
+        {
+          "name": "Swingin' Utters",
+          "url": "https://open.spotify.com/artist/6zXHaJc2ZqAmSyxT606ccM"
+        }
+      ],
+      "duration_ms": 117044,
+      "name": "Undertaker, Undertake",
+      "url": "https://open.spotify.com/track/36vSPsdFIrihqXu2Jj6Of2"
+    },
+    {
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 127533,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
+    },
+    {
+      "album": {
+        "name": "Surviving California",
+        "url": "https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA"
+      },
+      "artists": [
+        {
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+        }
+      ],
+      "duration_ms": 170875,
+      "name": "Surviving California",
+      "url": "https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 92106,
+      "name": "Six Years on Dope",
+      "url": "https://open.spotify.com/track/2eKVo1JrBjEM7fiR6JPiU7"
+    },
+    {
+      "album": {
+        "name": "Say It Out Loud",
+        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "On A Turntable",
+      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
     },
     {
       "album": {
@@ -631,6 +601,126 @@
       "duration_ms": 201920,
       "name": "96 Quite Bitter Beings",
       "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
+    },
+    {
+      "album": {
+        "name": "The Perfect Crime",
+        "url": "https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "The Perfect Crime",
+      "url": "https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9"
+    },
+    {
+      "album": {
+        "name": "New Wave (U.S. Version)",
+        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Thrash Unreal",
+      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
+    },
+    {
+      "album": {
+        "name": "Some Freaks Of Atavism",
+        "url": "https://open.spotify.com/album/57OucSQfWFUBLa0XZBJHnZ"
+      },
+      "artists": [
+        {
+          "name": "Screeching Weasel",
+          "url": "https://open.spotify.com/artist/671sBQXQM2vHSu0AGvpfDs"
+        }
+      ],
+      "duration_ms": 119600,
+      "name": "Back of Your Head",
+      "url": "https://open.spotify.com/track/1LWCv9GUT0Ls8v1Dlm6fEi"
+    },
+    {
+      "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+    },
+    {
+      "album": {
+        "name": "Victory Lap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
+      },
+      "artists": [
+        {
+          "name": "Propagandhi",
+          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
+    },
+    {
+      "album": {
+        "name": "Death in Venice Beach",
+        "url": "https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p"
+      },
+      "artists": [
+        {
+          "name": "The Bombpops",
+          "url": "https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke"
+        }
+      ],
+      "duration_ms": 153016,
+      "name": "Notre Dame",
+      "url": "https://open.spotify.com/track/1QT3Is0dh27Avn6aRtGOZ8"
+    },
+    {
+      "album": {
+        "name": "The Living End",
+        "url": "https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7"
+      },
+      "artists": [
+        {
+          "name": "The Living End",
+          "url": "https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Prisoner of Society",
+      "url": "https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/044kRla2LtI6pjfU8OPRWa"
+      },
+      "artists": [
+        {
+          "name": "Satanic Surfers",
+          "url": "https://open.spotify.com/artist/3A000QRgQB2uCaOtWkafuS"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4Lpgi1g31hK3r3LB82LZbh"
     },
     {
       "album": {
@@ -653,183 +743,33 @@
     },
     {
       "album": {
-        "name": "How It Works",
-        "url": "https://open.spotify.com/album/5rEB2viPLrknVVc1OMtEM4"
+        "name": "Party Animals",
+        "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
       },
       "artists": [
         {
-          "name": "Bodyjar",
-          "url": "https://open.spotify.com/artist/2LyXoG111QdqfI0HLYQgvS"
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Not The Same",
-      "url": "https://open.spotify.com/track/2dap4hYk1G7f7mxCpeRkDD"
+      "duration_ms": 158426,
+      "name": "All My Friends Are Dead",
+      "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
     },
     {
       "album": {
-        "name": "Being Them",
-        "url": "https://open.spotify.com/album/1ikJImDTgr0WACja4gGpTq"
+        "name": "Change Is A Sound",
+        "url": "https://open.spotify.com/album/6idenDZFGxyQLsVM7z9zuD"
       },
       "artists": [
         {
-          "name": "Fake Names",
-          "url": "https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx"
+          "name": "Strike Anywhere",
+          "url": "https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8"
         }
       ],
-      "duration_ms": 183338,
-      "name": "Being Them",
-      "url": "https://open.spotify.com/track/5hZKpmANy7iEAIwdTGSVTg"
-    },
-    {
-      "album": {
-        "name": "Destroy To Create",
-        "url": "https://open.spotify.com/album/0pWHvqmpQ3thuQb9Bif5AB"
-      },
-      "artists": [
-        {
-          "name": "The Flatliners",
-          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "Fred's Got Slacks",
-      "url": "https://open.spotify.com/track/5GPrVZItFl0cxKNeRPDcPp"
-    },
-    {
-      "album": {
-        "name": "Street Dogs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC"
-      },
-      "artists": [
-        {
-          "name": "Street Dogs",
-          "url": "https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Punk Rock And Roll",
-      "url": "https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm"
-    },
-    {
-      "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
-      },
-      "artists": [
-        {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "My Own Worst Enemy",
-      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
-    },
-    {
-      "album": {
-        "name": "Say It Out Loud",
-        "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 158573,
-      "name": "On A Turntable",
-      "url": "https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe"
-    },
-    {
-      "album": {
-        "name": "The Shape Of Punk To Come (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
-      },
-      "artists": [
-        {
-          "name": "Refused",
-          "url": "https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "New Noise",
-      "url": "https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH"
-    },
-    {
-      "album": {
-        "name": "Eat the One Percent",
-        "url": "https://open.spotify.com/album/6OeLKNsnTNoT5pJ0RP1lRJ"
-      },
-      "artists": [
-        {
-          "name": "Rehasher",
-          "url": "https://open.spotify.com/artist/3JegvPNbAf7Pt3zrKsgXWu"
-        }
-      ],
-      "duration_ms": 124013,
-      "name": "Eat the One Percent",
-      "url": "https://open.spotify.com/track/5S5JRTGniOUEoQVDt48Uht"
-    },
-    {
-      "album": {
-        "name": "Some Freaks Of Atavism",
-        "url": "https://open.spotify.com/album/57OucSQfWFUBLa0XZBJHnZ"
-      },
-      "artists": [
-        {
-          "name": "Screeching Weasel",
-          "url": "https://open.spotify.com/artist/671sBQXQM2vHSu0AGvpfDs"
-        }
-      ],
-      "duration_ms": 119600,
-      "name": "Back of Your Head",
-      "url": "https://open.spotify.com/track/1LWCv9GUT0Ls8v1Dlm6fEi"
-    },
-    {
-      "album": {
-        "name": "Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/3gqiTbYCXF9p10eUbfqRLj"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Re-Education (Through Labor)",
-      "url": "https://open.spotify.com/track/2TJqTvzycPZiHcTSgih4d9"
-    },
-    {
-      "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8"
-    },
-    {
-      "album": {
-        "name": "Huck It",
-        "url": "https://open.spotify.com/album/0pD6AqGHXYYaolUbJPzcCL"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Huck It",
-      "url": "https://open.spotify.com/track/4Nlu8kaDCY6j2xdkOJ5HjW"
+      "duration_ms": 161680,
+      "name": "Refusal",
+      "url": "https://open.spotify.com/track/1nDAlB9sVAeJfMt2rGM0Hi"
     },
     {
       "album": {
@@ -848,96 +788,6 @@
     },
     {
       "album": {
-        "name": "Too Old to Die Young",
-        "url": "https://open.spotify.com/album/29V93o7nwMxHHxKMAP02qZ"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/5knnDYKq8qxrEmdbE4u8r2"
-        }
-      ],
-      "duration_ms": 164445,
-      "name": "Canned from the Food Drive",
-      "url": "https://open.spotify.com/track/6doNgNQ4HFnm5SXDveYz4t"
-    },
-    {
-      "album": {
-        "name": "Dancing with the Curse",
-        "url": "https://open.spotify.com/album/2BrabzWJSr7bSlZQ6sc0R2"
-      },
-      "artists": [
-        {
-          "name": "Get Dead",
-          "url": "https://open.spotify.com/artist/3V70UC5ftw2Rt78ctlaQdz"
-        }
-      ],
-      "duration_ms": 148522,
-      "name": "Fire Sale",
-      "url": "https://open.spotify.com/track/735IKyZVYEZhZ17mId6mzQ"
-    },
-    {
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/6ufDvmaTYSPrIFJnMYB0fV"
-      },
-      "artists": [
-        {
-          "name": "Red City Radio",
-          "url": "https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL"
-        }
-      ],
-      "duration_ms": 339089,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5eDg6k43PlEoK9YNZrq4Ph"
-    },
-    {
-      "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/3a4lEembOySQkSVaij1gxk"
-      },
-      "artists": [
-        {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
-        }
-      ],
-      "duration_ms": 150546,
-      "name": "Bent but Not Broken",
-      "url": "https://open.spotify.com/track/4bTGlWwlZfpqT1MK4SHizy"
-    },
-    {
-      "album": {
-        "name": "Bark Like A Dog",
-        "url": "https://open.spotify.com/album/0hE34WNRU6Y3LoFvW1bhdq"
-      },
-      "artists": [
-        {
-          "name": "Screeching Weasel",
-          "url": "https://open.spotify.com/artist/671sBQXQM2vHSu0AGvpfDs"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Cool Kids",
-      "url": "https://open.spotify.com/track/4SdM8S3g7MZjEnbtU6eyXP"
-    },
-    {
-      "album": {
-        "name": "After The Party",
-        "url": "https://open.spotify.com/album/1nzDVfQopF9YBkpPAfUck3"
-      },
-      "artists": [
-        {
-          "name": "The Menzingers",
-          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "After the Party",
-      "url": "https://open.spotify.com/track/3cnD0uH9C0AY4oxmb84gpc"
-    },
-    {
-      "album": {
         "name": "Exile in Oblivion",
         "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
       },
@@ -953,127 +803,33 @@
     },
     {
       "album": {
-        "name": "Surviving California",
-        "url": "https://open.spotify.com/album/57r9TrEDkvF3mWy7b81wKA"
+        "name": "Death in Venice Beach",
+        "url": "https://open.spotify.com/album/0DD6b1BSi5eWrccJKsX86p"
       },
       "artists": [
         {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+          "name": "The Bombpops",
+          "url": "https://open.spotify.com/artist/6ZNVzBbI6yffAp1GYfNSke"
         }
       ],
-      "duration_ms": 170875,
-      "name": "Surviving California",
-      "url": "https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM"
+      "duration_ms": 145528,
+      "name": "Double Arrows Down",
+      "url": "https://open.spotify.com/track/5hu0I0RQ1Lbj7lhG3FATIu"
     },
     {
       "album": {
-        "name": "This Will Be The Death Of Us",
-        "url": "https://open.spotify.com/album/2uoWNN3KTYISWUYI4wlCDs"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
         {
-          "name": "Set Your Goals",
-          "url": "https://open.spotify.com/artist/2Ivw6FhAZpa7kiAXWztCq5"
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 201120,
-      "name": "the few that remain",
-      "url": "https://open.spotify.com/track/73VWNMYtM7sn2JIC4FsT2V"
-    },
-    {
-      "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe"
-      },
-      "artists": [
-        {
-          "name": "Driveways",
-          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Skeletons",
-      "url": "https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY"
-    },
-    {
-      "album": {
-        "name": "Linewleum (feat. Avenged Sevenfold)",
-        "url": "https://open.spotify.com/album/0XixcspdWhVct4m4ss2S3Z"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        },
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 199781,
-      "name": "Linewleum (feat. Avenged Sevenfold)",
-      "url": "https://open.spotify.com/track/6qXSX0SdYxtSU8jbLiLdNA"
-    },
-    {
-      "album": {
-        "name": "State Of Discontent",
-        "url": "https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS"
-      },
-      "artists": [
-        {
-          "name": "The Unseen",
-          "url": "https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z"
-        }
-      ],
-      "duration_ms": 171375,
-      "name": "Scream Out",
-      "url": "https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ"
-    },
-    {
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/044kRla2LtI6pjfU8OPRWa"
-      },
-      "artists": [
-        {
-          "name": "Satanic Surfers",
-          "url": "https://open.spotify.com/artist/3A000QRgQB2uCaOtWkafuS"
-        }
-      ],
-      "duration_ms": 179583,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4Lpgi1g31hK3r3LB82LZbh"
-    },
-    {
-      "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "album": {
-        "name": "Victory Lap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
-      },
-      "artists": [
-        {
-          "name": "Propagandhi",
-          "url": "https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
+      "duration_ms": 157653,
+      "name": "Live While You Can",
+      "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
     },
     {
       "album": {
@@ -1092,81 +848,6 @@
     },
     {
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Ruby Soho",
-      "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"
-    },
-    {
-      "album": {
-        "name": "Undertaker, Undertake",
-        "url": "https://open.spotify.com/album/1xtj0cvO4iVe3s8Z7lMoL3"
-      },
-      "artists": [
-        {
-          "name": "Swingin' Utters",
-          "url": "https://open.spotify.com/artist/6zXHaJc2ZqAmSyxT606ccM"
-        }
-      ],
-      "duration_ms": 117044,
-      "name": "Undertaker, Undertake",
-      "url": "https://open.spotify.com/track/36vSPsdFIrihqXu2Jj6Of2"
-    },
-    {
-      "album": {
-        "name": "Black Tape",
-        "url": "https://open.spotify.com/album/6fKI9LW1GQ3jXesSPb74yh"
-      },
-      "artists": [
-        {
-          "name": "The Explosion",
-          "url": "https://open.spotify.com/artist/7n6XZV14NcegGvyBFBU62z"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/30QcBbuGx1K2B4OymiNWNa"
-    },
-    {
-      "album": {
-        "name": "The Perfect Crime",
-        "url": "https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "The Perfect Crime",
-      "url": "https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9"
-    },
-    {
-      "album": {
-        "name": "Covered With Ants",
-        "url": "https://open.spotify.com/album/1cl1Pu41aa8RlTQdHfRT3M"
-      },
-      "artists": [
-        {
-          "name": "Guttermouth",
-          "url": "https://open.spotify.com/artist/2zIenWuthqTgWumViRZCZV"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "She's Got The Look",
-      "url": "https://open.spotify.com/track/7uTMPr7BovvaDZRkruaTff"
-    },
-    {
-      "album": {
         "name": "Christian Nationalist",
         "url": "https://open.spotify.com/album/4EJugzlTJTESS9pHJnFGdj"
       },
@@ -1179,6 +860,51 @@
       "duration_ms": 164333,
       "name": "Christian Nationalist",
       "url": "https://open.spotify.com/track/65CdHKGQBBkktAKgciMcCX"
+    },
+    {
+      "album": {
+        "name": "State Of Discontent",
+        "url": "https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS"
+      },
+      "artists": [
+        {
+          "name": "The Unseen",
+          "url": "https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Scream Out",
+      "url": "https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ"
+    },
+    {
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe"
+      },
+      "artists": [
+        {
+          "name": "Driveways",
+          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY"
+    },
+    {
+      "album": {
+        "name": "Dippy Egg",
+        "url": "https://open.spotify.com/album/0CfC3uT4MA7yuzv0P6YvRv"
+      },
+      "artists": [
+        {
+          "name": "Snuff",
+          "url": "https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3"
+        }
+      ],
+      "duration_ms": 152369,
+      "name": "Dippy Egg",
+      "url": "https://open.spotify.com/track/5ApJ6uoCkLVRDHYu4RoMpW"
     },
     {
       "album": {
@@ -1197,123 +923,168 @@
     },
     {
       "album": {
-        "name": "In Desolation",
-        "url": "https://open.spotify.com/album/2vc58taiB1ZmDDXS6CtENW"
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
       "artists": [
         {
-          "name": "Off With Their Heads",
-          "url": "https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv"
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Clear The Air",
-      "url": "https://open.spotify.com/track/7dNsLDM4BflWv392VYzr7n"
+      "duration_ms": 157533,
+      "name": "Ruby Soho",
+      "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"
     },
     {
       "album": {
-        "name": "Nature/Nurture",
-        "url": "https://open.spotify.com/album/0fRg4WnrY1zcqCPrglnSzO"
+        "name": "Anarchist Wedding",
+        "url": "https://open.spotify.com/album/1ghjESs35sI4QD3UvJO2Do"
       },
       "artists": [
         {
-          "name": "Clowns",
-          "url": "https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn"
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
         }
       ],
-      "duration_ms": 107440,
-      "name": "Bland Is The New Black",
-      "url": "https://open.spotify.com/track/2L74jTvqQv8vJJesWuwft3"
+      "duration_ms": 97837,
+      "name": "Anarchist Wedding",
+      "url": "https://open.spotify.com/track/55kEuymUAIg09tm6h2nAaE"
     },
     {
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
       "artists": [
         {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 187515,
-      "name": "Gave You Everything",
-      "url": "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
+      "duration_ms": 105826,
+      "name": "Do The Paranoid Style",
+      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
     },
     {
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/0DCImzCQ4wJvkgpvmA1S2x"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
       "artists": [
         {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3a2J13Qj9knU0sl4lyWjyF"
+      "duration_ms": 169026,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
     },
     {
       "album": {
-        "name": "Sing Sing Death House",
-        "url": "https://open.spotify.com/album/0MQhAuIfU4XA2ujWwcYJqh"
+        "name": "The Bronx (I)",
+        "url": "https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4"
       },
       "artists": [
         {
-          "name": "The Distillers",
-          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+          "name": "The Bronx",
+          "url": "https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4"
         }
       ],
-      "duration_ms": 209626,
-      "name": "City Of Angels",
-      "url": "https://open.spotify.com/track/4D7sweC53ikn2HrABdrvdm"
+      "duration_ms": 171093,
+      "name": "Heart Attack American",
+      "url": "https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p"
     },
     {
       "album": {
-        "name": "Have a Ball",
-        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
+        "name": "PEARS",
+        "url": "https://open.spotify.com/album/6Kz9nN5nMe0z0hP8xfIe7o"
       },
       "artists": [
         {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+          "name": "PEARS",
+          "url": "https://open.spotify.com/artist/1shBZ1oJHJaZaxq1Y6jyzY"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Rocket Man",
-      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
+      "duration_ms": 84399,
+      "name": "Zero Wheels",
+      "url": "https://open.spotify.com/track/2mIGHGmiFWJSFrQry6t63e"
     },
     {
       "album": {
-        "name": "Lifestyles of the Rich and Famous",
-        "url": "https://open.spotify.com/album/5GJ8p1gxpYpIlxHAKHxqPx"
+        "name": "Black Tape",
+        "url": "https://open.spotify.com/album/6fKI9LW1GQ3jXesSPb74yh"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "The Explosion",
+          "url": "https://open.spotify.com/artist/7n6XZV14NcegGvyBFBU62z"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Lifestyles of the Rich & Famous",
-      "url": "https://open.spotify.com/track/1DUnypzbJM62r6UOoHm6Qi"
+      "duration_ms": 167000,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/30QcBbuGx1K2B4OymiNWNa"
     },
     {
       "album": {
-        "name": "Transplants",
-        "url": "https://open.spotify.com/album/4SLzlWrGhjxq3HOV8xImJG"
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/3a4lEembOySQkSVaij1gxk"
       },
       "artists": [
         {
-          "name": "Transplants",
-          "url": "https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q"
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
         }
       ],
-      "duration_ms": 241908,
-      "name": "Diamonds And Guns",
-      "url": "https://open.spotify.com/track/5njSPpv1nzVOBhDoHiibQA"
+      "duration_ms": 150546,
+      "name": "Bent but Not Broken",
+      "url": "https://open.spotify.com/track/4bTGlWwlZfpqT1MK4SHizy"
+    },
+    {
+      "album": {
+        "name": "Hey Boff!",
+        "url": "https://open.spotify.com/album/0PFb7N8ieO7B38JRfdo9Rv"
+      },
+      "artists": [
+        {
+          "name": "Snuff",
+          "url": "https://open.spotify.com/artist/39Yw8FPJXDJyf5L4vK7TD3"
+        }
+      ],
+      "duration_ms": 177562,
+      "name": "Hey Boff!",
+      "url": "https://open.spotify.com/track/1UyNBbOqRNjzvGeXXtqwfx"
+    },
+    {
+      "album": {
+        "name": "Graveyard Island",
+        "url": "https://open.spotify.com/album/4jqKanjC03bISvAld3ZSDG"
+      },
+      "artists": [
+        {
+          "name": "Grade 2",
+          "url": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b"
+        }
+      ],
+      "duration_ms": 185604,
+      "name": "Bowling Green Lane",
+      "url": "https://open.spotify.com/track/4ajqgnEPdUqAeRqP2EtdQj"
+    },
+    {
+      "album": {
+        "name": "Dead Language",
+        "url": "https://open.spotify.com/album/5H0EmJ1sN9faiYGzl1kKvH"
+      },
+      "artists": [
+        {
+          "name": "The Flatliners",
+          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
+        }
+      ],
+      "duration_ms": 202786,
+      "name": "Resuscitation Of The Year",
+      "url": "https://open.spotify.com/track/2xSzRDX9zsJOr62mFgNU7u"
     },
     {
       "album": {
@@ -1332,33 +1103,78 @@
     },
     {
       "album": {
-        "name": "California Addiction",
-        "url": "https://open.spotify.com/album/6lrwLXh7AkDeL7UKA2Sutl"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/0DCImzCQ4wJvkgpvmA1S2x"
       },
       "artists": [
         {
-          "name": "Death By Stereo",
-          "url": "https://open.spotify.com/artist/6ZnqizbzAJTqXgRTje6IcF"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 158771,
-      "name": "California Addiction",
-      "url": "https://open.spotify.com/track/1qYw4sfjBvvkxNkbxF7dy5"
+      "duration_ms": 201800,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3a2J13Qj9knU0sl4lyWjyF"
     },
     {
       "album": {
-        "name": "Seize",
-        "url": "https://open.spotify.com/album/6sdivkA0kDc6GfYwISbyh8"
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
       "artists": [
         {
-          "name": "Radkey",
-          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
         }
       ],
-      "duration_ms": 159287,
-      "name": "Seize",
-      "url": "https://open.spotify.com/track/6En9VwVKoyOEbsBDLgu2b5"
+      "duration_ms": 187515,
+      "name": "Gave You Everything",
+      "url": "https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5"
+    },
+    {
+      "album": {
+        "name": "Five Lessons Learned",
+        "url": "https://open.spotify.com/album/1vZwwQAKzMsC4O1uCt6I3i"
+      },
+      "artists": [
+        {
+          "name": "Swingin' Utters",
+          "url": "https://open.spotify.com/artist/6zXHaJc2ZqAmSyxT606ccM"
+        }
+      ],
+      "duration_ms": 115906,
+      "name": "Five Lessons Learned",
+      "url": "https://open.spotify.com/track/333q5dd9z9xMZldO8604eP"
+    },
+    {
+      "album": {
+        "name": "Andiamo (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM"
+    },
+    {
+      "album": {
+        "name": "Worries",
+        "url": "https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Worries",
+      "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"
     },
     {
       "album": {
@@ -1377,8 +1193,23 @@
     },
     {
       "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+        "name": "I Wanna Die in Los Angeles",
+        "url": "https://open.spotify.com/album/3tZP5QqVyH5C9u053EtZu7"
+      },
+      "artists": [
+        {
+          "name": "Dead To Me",
+          "url": "https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "I Wanna Die in Los Angeles",
+      "url": "https://open.spotify.com/track/58AIwZRlAhN0FHe0Vd6NF2"
+    },
+    {
+      "album": {
+        "name": "Quarantine",
+        "url": "https://open.spotify.com/album/3E5dV3odSZ3V6kqrp6zYlC"
       },
       "artists": [
         {
@@ -1386,69 +1217,54 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 171533,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+      "duration_ms": 122609,
+      "name": "Quarantine",
+      "url": "https://open.spotify.com/track/7cpCYJ7oiUMhgalxSZmNdf"
     },
     {
       "album": {
-        "name": "Die for the Government",
-        "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
+        "name": "Sick Sesh!",
+        "url": "https://open.spotify.com/album/6USeCXA9aSX7EUNUJOVLvN"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
         }
       ],
-      "duration_ms": 219773,
-      "name": "Die for the Government",
-      "url": "https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9"
+      "duration_ms": 185668,
+      "name": "You're Never Going out of Style",
+      "url": "https://open.spotify.com/track/1dVYKVVQibbEST6Pearm5L"
     },
     {
       "album": {
-        "name": "Devil's Kind",
-        "url": "https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps"
+        "name": "Comfortably Dumb",
+        "url": "https://open.spotify.com/album/29iPD2kXm1wFvgORKJQ0ya"
       },
       "artists": [
         {
-          "name": "The Longshot",
-          "url": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O"
+          "name": "PEARS",
+          "url": "https://open.spotify.com/artist/1shBZ1oJHJaZaxq1Y6jyzY"
         }
       ],
-      "duration_ms": 181224,
-      "name": "Devil's Kind",
-      "url": "https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS"
+      "duration_ms": 144326,
+      "name": "Comfortably Dumb",
+      "url": "https://open.spotify.com/track/68JdZkDzR1LRF2iabKlr4u"
     },
     {
       "album": {
-        "name": "The Missing Man",
-        "url": "https://open.spotify.com/album/6vvN8noC5dToR8W9WZPyRO"
+        "name": "Handwritten (Special Edition)",
+        "url": "https://open.spotify.com/album/3r72jse8ygMisgT7LHPTPX"
       },
       "artists": [
         {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
         }
       ],
-      "duration_ms": 127625,
-      "name": "Trash Bat",
-      "url": "https://open.spotify.com/track/77S5QQdlLJmr3HT8gMuWS9"
-    },
-    {
-      "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 127533,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
+      "duration_ms": 207546,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/4t6TpdXtVh5pmwU6qHvSh3"
     },
     {
       "album": {
@@ -1467,18 +1283,123 @@
     },
     {
       "album": {
-        "name": "Coral Fang (Alternate Cover PA Version)",
-        "url": "https://open.spotify.com/album/1c4fH0GPGQJs4RxfmBLxia"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6ufDvmaTYSPrIFJnMYB0fV"
       },
       "artists": [
         {
-          "name": "The Distillers",
-          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+          "name": "Red City Radio",
+          "url": "https://open.spotify.com/artist/6SSXfZGnJaNajWRPGHq4JL"
         }
       ],
-      "duration_ms": 169056,
-      "name": "Beat Your Heart Out",
-      "url": "https://open.spotify.com/track/4ut0TJ2w4uBoiIdX1uzVTB"
+      "duration_ms": 339089,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5eDg6k43PlEoK9YNZrq4Ph"
+    },
+    {
+      "album": {
+        "name": "Return of the Arsonist",
+        "url": "https://open.spotify.com/album/3OFVZtzifpQJ9Q5FUnlq8F"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 128053,
+      "name": "No Thank You, I'm More in to Fake Grindcore",
+      "url": "https://open.spotify.com/track/7I1B5OGVSbGzOeSF5mHN0l"
+    },
+    {
+      "album": {
+        "name": "Exiled",
+        "url": "https://open.spotify.com/album/5cxAod8dqvxgPhhyVxDhml"
+      },
+      "artists": [
+        {
+          "name": "Drones",
+          "url": "https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB"
+        }
+      ],
+      "duration_ms": 198876,
+      "name": "Anchors",
+      "url": "https://open.spotify.com/track/4AcMNYIPU7Y043UjVudzR2"
+    },
+    {
+      "album": {
+        "name": "Have a Ball",
+        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
+    },
+    {
+      "album": {
+        "name": "The Restoration Of Chaos & Order",
+        "url": "https://open.spotify.com/album/4xiQhTIvE0MqnzbE5wNHja"
+      },
+      "artists": [
+        {
+          "name": "Against All Authority",
+          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Silence Is Golden But Duct Tape Is Silver",
+      "url": "https://open.spotify.com/track/2CLmqGqTk9okK3N4hthCiw"
+    },
+    {
+      "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/0p8fUOBfWtGcaKGiD9drgJ"
+    },
+    {
+      "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v"
+    },
+    {
+      "album": {
+        "name": "No Strange Cats",
+        "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
+      },
+      "artists": [
+        {
+          "name": "Radkey",
+          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
+        }
+      ],
+      "duration_ms": 160677,
+      "name": "P.A.W",
+      "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
     },
     {
       "album": {
@@ -1494,6 +1415,81 @@
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/0DCImzCQ4wJvkgpvmA1S2x"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/2T3blUc9Jnui2a0ZhuNOag"
+    },
+    {
+      "album": {
+        "name": "Lifestyles of the Rich and Famous",
+        "url": "https://open.spotify.com/album/5GJ8p1gxpYpIlxHAKHxqPx"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Lifestyles of the Rich & Famous",
+      "url": "https://open.spotify.com/track/1DUnypzbJM62r6UOoHm6Qi"
+    },
+    {
+      "album": {
+        "name": "California Addiction",
+        "url": "https://open.spotify.com/album/6lrwLXh7AkDeL7UKA2Sutl"
+      },
+      "artists": [
+        {
+          "name": "Death By Stereo",
+          "url": "https://open.spotify.com/artist/6ZnqizbzAJTqXgRTje6IcF"
+        }
+      ],
+      "duration_ms": 158771,
+      "name": "California Addiction",
+      "url": "https://open.spotify.com/track/1qYw4sfjBvvkxNkbxF7dy5"
+    },
+    {
+      "album": {
+        "name": "Body Of War: Songs That Inspired An Iraq War Veteran",
+        "url": "https://open.spotify.com/album/6zjzOSeUEaU6vSUCr89u4A"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "White People for Peace",
+      "url": "https://open.spotify.com/track/6hfODX7cwTX4k1CApv0G4v"
+    },
+    {
+      "album": {
+        "name": "Big Daddy Multitude",
+        "url": "https://open.spotify.com/album/2uvJMoMuk7mxOqHaU5PTEN"
+      },
+      "artists": [
+        {
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "Mr. Smiley",
+      "url": "https://open.spotify.com/track/4pCZhwsn1mbN8fDYe42Hl5"
     },
     {
       "album": {

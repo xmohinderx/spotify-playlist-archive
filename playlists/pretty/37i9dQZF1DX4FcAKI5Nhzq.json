@@ -1,36 +1,25 @@
 {
-  "description": "Future K-Pop hits! Cover: EVERGLOW",
+  "description": "Future K-Pop hits! Cover: Moon Byul, Mirani",
   "name": "K-Pop Rising",
   "tracks": [
     {
       "album": {
-        "name": "\"TO INFINITY.\"",
-        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+        "name": "G999 (Feat. Mirani)",
+        "url": "https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "TANG!\u2661",
-      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
-    },
-    {
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
         }
       ],
-      "duration_ms": 144946,
-      "name": "Natural - Korean Version",
-      "url": "https://open.spotify.com/track/1mwq0SGUEV4owQf1vVP18V"
+      "duration_ms": 184813,
+      "name": "G999 (Feat. Mirani)",
+      "url": "https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP"
     },
     {
       "album": {
@@ -49,6 +38,21 @@
     },
     {
       "album": {
+        "name": "Universe (Let's Play Ball)",
+        "url": "https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "Universe (Let's Play Ball)",
+      "url": "https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS"
+    },
+    {
+      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -64,18 +68,33 @@
     },
     {
       "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+        "name": "ZERO : FEVER EPILOGUE",
+        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
       },
       "artists": [
         {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+      "duration_ms": 210051,
+      "name": "The Real - Heung Version",
+      "url": "https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU"
+    },
+    {
+      "album": {
+        "name": "The Dreaming",
+        "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "You Problem",
+      "url": "https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH"
     },
     {
       "album": {
@@ -94,6 +113,36 @@
     },
     {
       "album": {
+        "name": "Need U",
+        "url": "https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR-D&E",
+          "url": "https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly"
+    },
+    {
+      "album": {
+        "name": "Christmas EveL",
+        "url": "https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 178529,
+      "name": "Christmas EveL",
+      "url": "https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg"
+    },
+    {
+      "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
@@ -106,6 +155,25 @@
       "duration_ms": 198080,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
+    },
+    {
+      "album": {
+        "name": "Genre",
+        "url": "https://open.spotify.com/album/4Y3sawhAYuYvYvARXpsdCy"
+      },
+      "artists": [
+        {
+          "name": "Woosung",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE"
+        }
+      ],
+      "duration_ms": 210705,
+      "name": "CWS",
+      "url": "https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe"
     },
     {
       "album": {
@@ -124,18 +192,116 @@
     },
     {
       "album": {
-        "name": "Christmas EveL",
-        "url": "https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi"
+        "name": "ANI(feat.SOYEON ((G)I-DLE))",
+        "url": "https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "RAVI",
+          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
         }
       ],
-      "duration_ms": 178529,
-      "name": "Christmas EveL",
-      "url": "https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg"
+      "duration_ms": 181280,
+      "name": "ANI(feat.SOYEON ((G)I-DLE))",
+      "url": "https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs"
+    },
+    {
+      "album": {
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
+    },
+    {
+      "album": {
+        "name": "LOCK UP",
+        "url": "https://open.spotify.com/album/4CbmJDPP4CuPnjUHaxUiju"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 187106,
+      "name": "Unthinkable",
+      "url": "https://open.spotify.com/track/0MQa8iD2fcVSnBzAGbdLeX"
+    },
+    {
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "TANG!\u2661",
+      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
+    },
+    {
+      "album": {
+        "name": "Way - SM STATION",
+        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+    },
+    {
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Rolling Rolling",
+      "url": "https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ"
+    },
+    {
+      "album": {
+        "name": "the Billage of perception : chapter one",
+        "url": "https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "RING X RING",
+      "url": "https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv"
     },
     {
       "album": {
@@ -304,21 +470,6 @@
     },
     {
       "album": {
-        "name": "the Billage of perception : chapter one",
-        "url": "https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "RING X RING",
-      "url": "https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv"
-    },
-    {
-      "album": {
         "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC"
       },
@@ -473,21 +624,6 @@
     },
     {
       "album": {
-        "name": "I'm Still Here",
-        "url": "https://open.spotify.com/album/6rK6woUcQOXxJQWBWhMlUt"
-      },
-      "artists": [
-        {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/0KZZD2YdkvaIsGpMEVVKVD"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/2lATsh8Vw1NzPkcJFYAjDL"
-    },
-    {
-      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -504,21 +640,6 @@
       "duration_ms": 167661,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
-    },
-    {
-      "album": {
-        "name": "COUNTDOWN - The 1st Album",
-        "url": "https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR-D&E",
-          "url": "https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ"
     },
     {
       "album": {
@@ -552,25 +673,6 @@
     },
     {
       "album": {
-        "name": "ONION",
-        "url": "https://open.spotify.com/album/2OqY8Ykt2djgjzszye4ahM"
-      },
-      "artists": [
-        {
-          "name": "MIN",
-          "url": "https://open.spotify.com/artist/7bQyiBFr2PtSTJ6WFBJCOe"
-        },
-        {
-          "name": "Suk Hoon Chang",
-          "url": "https://open.spotify.com/artist/3kR0K5YzUmjDHQbh3W8zaW"
-        }
-      ],
-      "duration_ms": 222306,
-      "name": "ONION (feat. Suk Hoon Chang)",
-      "url": "https://open.spotify.com/track/3Ivg8dodsNmteJwA8hyQge"
-    },
-    {
-      "album": {
         "name": "2nd EP Album \u2018Bipolar Pt.2 Prelude of Love\u2019",
         "url": "https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL"
       },
@@ -598,21 +700,6 @@
       "duration_ms": 201786,
       "name": "Fire Saturday",
       "url": "https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq"
-    },
-    {
-      "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/7dwTOsTBJwg9QdoJiPWHsT"
-      },
-      "artists": [
-        {
-          "name": "LEE MINHYUK (HUTA)",
-          "url": "https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/1IfL8E8yZN2DvtLXiybkQu"
     },
     {
       "album": {
@@ -646,21 +733,6 @@
     },
     {
       "album": {
-        "name": "Beautiful Breakup",
-        "url": "https://open.spotify.com/album/3g4zzjFwMgwkRZjiosqlDI"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/24czKkgx0KoQ239m9tvDyk"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "Beautiful Breakup",
-      "url": "https://open.spotify.com/track/2NlTJ3Jf6skIJfTD0oJatY"
-    },
-    {
-      "album": {
         "name": "I Don't Know You Anymore",
         "url": "https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP"
       },
@@ -673,21 +745,6 @@
       "duration_ms": 166323,
       "name": "I Don't Know You Anymore",
       "url": "https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj"
-    },
-    {
-      "album": {
-        "name": "With",
-        "url": "https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7"
-      },
-      "artists": [
-        {
-          "name": "Nam Woo-hyun",
-          "url": "https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Calm & Passion",
-      "url": "https://open.spotify.com/track/2Tnh9ZwCtdR1Zd21RNDGVX"
     },
     {
       "album": {
@@ -706,21 +763,6 @@
     },
     {
       "album": {
-        "name": "Close to Me",
-        "url": "https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt"
-      },
-      "artists": [
-        {
-          "name": "BLACKSWAN",
-          "url": "https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/1wzP4k1w8nprsfb6n8wpoz"
-    },
-    {
-      "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"
       },
@@ -733,111 +775,6 @@
       "duration_ms": 158253,
       "name": "PING PONG",
       "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
-    },
-    {
-      "album": {
-        "name": "4 ONLY",
-        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "ONLY",
-      "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
-    },
-    {
-      "album": {
-        "name": "History Of Kingdom: Pt. III. Ivan",
-        "url": "https://open.spotify.com/album/3fViCo8Y9npRg9TjSpOiCo"
-      },
-      "artists": [
-        {
-          "name": "KINGDOM",
-          "url": "https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Black Crown",
-      "url": "https://open.spotify.com/track/1cSmtCnzmOXKu0pRwQRAZz"
-    },
-    {
-      "album": {
-        "name": "Light a Wish",
-        "url": "https://open.spotify.com/album/4rweatsYVwajSONjLE5Qi9"
-      },
-      "artists": [
-        {
-          "name": "LIGHTSUM",
-          "url": "https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "VIVACE",
-      "url": "https://open.spotify.com/track/4t2A9XnGWrIqzKOYKYfPTr"
-    },
-    {
-      "album": {
-        "name": "ZERO : FEVER Part.3",
-        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
-    },
-    {
-      "album": {
-        "name": "HIDE & SEEK",
-        "url": "https://open.spotify.com/album/1Oh6STLhW6dxRAkvOUBHl8"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5zTp64MsWOTdAWWXK7zEPK"
-    },
-    {
-      "album": {
-        "name": "STEREOTYPE",
-        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 191695,
-      "name": "STEREOTYPE",
-      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
-    },
-    {
-      "album": {
-        "name": "ONLY LOVERS LEFT",
-        "url": "https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "WAITING",
-      "url": "https://open.spotify.com/track/4TMVuENexY9u0083CqMphE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq"

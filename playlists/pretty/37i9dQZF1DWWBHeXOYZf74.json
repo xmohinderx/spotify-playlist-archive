@@ -4,21 +4,6 @@
   "tracks": [
     {
       "album": {
-        "name": "American Horror Story",
-        "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 309570,
-      "name": "American Horror Story",
-      "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
-    },
-    {
-      "album": {
         "name": "B-Side",
         "url": "https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo"
       },
@@ -35,6 +20,55 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
+    },
+    {
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "album": {
+        "name": "American Horror Story",
+        "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 309570,
+      "name": "American Horror Story",
+      "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
+    },
+    {
+      "album": {
+        "name": "Destroy Myself Just For You",
+        "url": "https://open.spotify.com/album/3cQmOITwkOtQIk9NcyoZ2g"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/7vMDFGBs0CTEkENk2dyCnc"
     },
     {
       "album": {
@@ -80,25 +114,6 @@
     },
     {
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "album": {
         "name": "Cantares",
         "url": "https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO"
       },
@@ -111,21 +126,6 @@
       "duration_ms": 175440,
       "name": "Cantares",
       "url": "https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl"
-    },
-    {
-      "album": {
-        "name": "Destroy Myself Just For You",
-        "url": "https://open.spotify.com/album/3cQmOITwkOtQIk9NcyoZ2g"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Destroy Myself Just For You",
-      "url": "https://open.spotify.com/track/7vMDFGBs0CTEkENk2dyCnc"
     },
     {
       "album": {
