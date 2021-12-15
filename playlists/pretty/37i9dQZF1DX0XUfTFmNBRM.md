@@ -2,12 +2,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 ### [Top Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
 
-> Hottest Hindi music served here. Cover- Akshay Kumar & Nupur Sanon 
+> Hottest Hindi music served here. Cover- Badshah & Akanksha Sharma 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Raataan Lambiyan (From "Shershaah")](https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Raataan Lambiyan (From "Shershaah")](https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj) | 3:50 |
-| 2 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 |
+| 1 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 |
+| 2 | [Raataan Lambiyan (From "Shershaah")](https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Raataan Lambiyan (From "Shershaah")](https://open.spotify.com/album/2DKSZvMj7Da6rzNVPMgREj) | 3:50 |
 | 3 | [Aashiqui Aa Gayi(From "Radhe Shyam")](https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui Aa Gayi (From "Radhe Shyam")](https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd) | 4:20 |
 | 4 | [Rait Zara Si (From "Atrangi Re")](https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi) | [A.R. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Rait Zara Si (From "Atrangi Re")](https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK) | 4:51 |
 | 5 | [Najaa (From "Sooryavanshi")](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa (From "Sooryavanshi")](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 |

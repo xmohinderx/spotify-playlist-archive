@@ -558,29 +558,6 @@
     },
     {
       "album": {
-        "name": "Stylems, Italian Music from the \"Trecento\"",
-        "url": "https://open.spotify.com/album/6MBieZ3u5sK2f2cXEEsE5O"
-      },
-      "artists": [
-        {
-          "name": "Bartolino da Padova",
-          "url": "https://open.spotify.com/artist/1ziI4TT1t8OcM3GM6FIxuU"
-        },
-        {
-          "name": "Ensemble Syntagma",
-          "url": "https://open.spotify.com/artist/3ToTgFj2iZjuFj7mKUpejU"
-        },
-        {
-          "name": "Alexandre Danilevski",
-          "url": "https://open.spotify.com/artist/0jNPn5o1jz1EmhVf0pY0dX"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Qual Lege Move",
-      "url": "https://open.spotify.com/track/7cvVJEiYabiPpOZULbcxM7"
-    },
-    {
-      "album": {
         "name": "Monastic Song - 12th Century Monophonic Chant",
         "url": "https://open.spotify.com/album/7n07ShJqqbwleoZnAZdCo3"
       },
@@ -601,6 +578,29 @@
       "duration_ms": 372333,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: O quanta qualia",
       "url": "https://open.spotify.com/track/1kpbqlaqA1uwL8h7G1KEjb"
+    },
+    {
+      "album": {
+        "name": "Stylems, Italian Music from the \"Trecento\"",
+        "url": "https://open.spotify.com/album/6MBieZ3u5sK2f2cXEEsE5O"
+      },
+      "artists": [
+        {
+          "name": "Bartolino da Padova",
+          "url": "https://open.spotify.com/artist/1ziI4TT1t8OcM3GM6FIxuU"
+        },
+        {
+          "name": "Ensemble Syntagma",
+          "url": "https://open.spotify.com/artist/3ToTgFj2iZjuFj7mKUpejU"
+        },
+        {
+          "name": "Alexandre Danilevski",
+          "url": "https://open.spotify.com/artist/0jNPn5o1jz1EmhVf0pY0dX"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Qual Lege Move",
+      "url": "https://open.spotify.com/track/7cvVJEiYabiPpOZULbcxM7"
     },
     {
       "album": {
@@ -1406,6 +1406,29 @@
     },
     {
       "album": {
+        "name": "Monastic Chant - 12th & 13th Century European Sacred Music",
+        "url": "https://open.spotify.com/album/2hm5P00Tydev5ViF7JkpUy"
+      },
+      "artists": [
+        {
+          "name": "Albertus Parisiensis",
+          "url": "https://open.spotify.com/artist/55rEg9pP9NWYdjIMsxOFI9"
+        },
+        {
+          "name": "Theatre Of Voices",
+          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Congaudeant catholici",
+      "url": "https://open.spotify.com/track/5NXA7v4gGaUpM2nzqGG35P"
+    },
+    {
+      "album": {
         "name": "Oswald von Wolkenstein - Reflektionen",
         "url": "https://open.spotify.com/album/5NFL8EHoEBkE0bwTHeaumg"
       },
@@ -1430,29 +1453,6 @@
       "duration_ms": 194573,
       "name": "La plus jolie",
       "url": "https://open.spotify.com/track/6B9v1vflKg2rosKL08S0GP"
-    },
-    {
-      "album": {
-        "name": "Monastic Chant - 12th & 13th Century European Sacred Music",
-        "url": "https://open.spotify.com/album/2hm5P00Tydev5ViF7JkpUy"
-      },
-      "artists": [
-        {
-          "name": "Albertus Parisiensis",
-          "url": "https://open.spotify.com/artist/55rEg9pP9NWYdjIMsxOFI9"
-        },
-        {
-          "name": "Theatre Of Voices",
-          "url": "https://open.spotify.com/artist/4XFASxAPCD5LZ6omKGJI56"
-        },
-        {
-          "name": "Paul Hillier",
-          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Congaudeant catholici",
-      "url": "https://open.spotify.com/track/5NXA7v4gGaUpM2nzqGG35P"
     },
     {
       "album": {
@@ -2266,30 +2266,22 @@
     },
     {
       "album": {
-        "name": "Century Classics I: 1000-1400",
-        "url": "https://open.spotify.com/album/2JbuhKjdFUnmhX419I05q2"
+        "name": "Troubadours & trouv\u00e8res",
+        "url": "https://open.spotify.com/album/4lJqokqbHflqKRe0Oy0ClQ"
       },
       "artists": [
         {
-          "name": "Magister Albertus Parisiensis",
-          "url": "https://open.spotify.com/artist/2p9BUsy0e0JcuNjBZFlNLv"
+          "name": "Etienne de Meaux",
+          "url": "https://open.spotify.com/artist/7stLB0nwV7m0YVs0B9pOoP"
         },
         {
-          "name": "Sequentia",
-          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
-        },
-        {
-          "name": "Barbara Thornton",
-          "url": "https://open.spotify.com/artist/4P50YH9GHjydDBKdNVbPy4"
-        },
-        {
-          "name": "Benjamin Bagby",
-          "url": "https://open.spotify.com/artist/2Ltb7aYsFI8hLa0esqiMxD"
+          "name": "Thomas Binkley",
+          "url": "https://open.spotify.com/artist/4UX4twmKz2tGEpKLOjdPcm"
         }
       ],
-      "duration_ms": 342666,
-      "name": "Congaudeant catholici - Music for St. James the Apostle from Codex Calixtinus, Santiago de Compostela, 12th Century",
-      "url": "https://open.spotify.com/track/3gxVrSpZZHmXOD3w36Beli"
+      "duration_ms": 288959,
+      "name": "\u00c9tienne de Meaux: Trop est mes maris jalos",
+      "url": "https://open.spotify.com/track/6jPkdYIckdsdgU9i0r4nD7"
     },
     {
       "album": {
@@ -2316,22 +2308,30 @@
     },
     {
       "album": {
-        "name": "Troubadours & trouv\u00e8res",
-        "url": "https://open.spotify.com/album/4lJqokqbHflqKRe0Oy0ClQ"
+        "name": "Century Classics I: 1000-1400",
+        "url": "https://open.spotify.com/album/2JbuhKjdFUnmhX419I05q2"
       },
       "artists": [
         {
-          "name": "Etienne de Meaux",
-          "url": "https://open.spotify.com/artist/7stLB0nwV7m0YVs0B9pOoP"
+          "name": "Magister Albertus Parisiensis",
+          "url": "https://open.spotify.com/artist/2p9BUsy0e0JcuNjBZFlNLv"
         },
         {
-          "name": "Thomas Binkley",
-          "url": "https://open.spotify.com/artist/4UX4twmKz2tGEpKLOjdPcm"
+          "name": "Sequentia",
+          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
+        },
+        {
+          "name": "Barbara Thornton",
+          "url": "https://open.spotify.com/artist/4P50YH9GHjydDBKdNVbPy4"
+        },
+        {
+          "name": "Benjamin Bagby",
+          "url": "https://open.spotify.com/artist/2Ltb7aYsFI8hLa0esqiMxD"
         }
       ],
-      "duration_ms": 288959,
-      "name": "\u00c9tienne de Meaux: Trop est mes maris jalos",
-      "url": "https://open.spotify.com/track/6jPkdYIckdsdgU9i0r4nD7"
+      "duration_ms": 342666,
+      "name": "Congaudeant catholici - Music for St. James the Apostle from Codex Calixtinus, Santiago de Compostela, 12th Century",
+      "url": "https://open.spotify.com/track/3gxVrSpZZHmXOD3w36Beli"
     },
     {
       "album": {
@@ -3729,33 +3729,6 @@
     },
     {
       "album": {
-        "name": "Triste plaisir (Guillaume Du Fay and Burgundian Music)",
-        "url": "https://open.spotify.com/album/76T8mYCaQnf3eF0YnHzH4p"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Grenon",
-          "url": "https://open.spotify.com/artist/5AtTxL6ypYFM9o8QC3ieal"
-        },
-        {
-          "name": "Lena Susanne Norin",
-          "url": "https://open.spotify.com/artist/76MNv5eL3yqPHcroQtLUiz"
-        },
-        {
-          "name": "Susanne Ansorg",
-          "url": "https://open.spotify.com/artist/69pyioRGqjbQgwI5wfAi5P"
-        },
-        {
-          "name": "Randall Cook",
-          "url": "https://open.spotify.com/artist/6MF4F02XGwScN4ujsctMb0"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "La plus belle et doulce figure",
-      "url": "https://open.spotify.com/track/4L87NkwEcQXsVhGIBcJlDb"
-    },
-    {
-      "album": {
         "name": "The Road to Compostela",
         "url": "https://open.spotify.com/album/1tkPZKu1kuP0pqD8QOHPd3"
       },
@@ -3784,6 +3757,33 @@
       "duration_ms": 334000,
       "name": "Congaudeant Catholici",
       "url": "https://open.spotify.com/track/01YOa7rRyzkzuisqmvbwri"
+    },
+    {
+      "album": {
+        "name": "Triste plaisir (Guillaume Du Fay and Burgundian Music)",
+        "url": "https://open.spotify.com/album/76T8mYCaQnf3eF0YnHzH4p"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Grenon",
+          "url": "https://open.spotify.com/artist/5AtTxL6ypYFM9o8QC3ieal"
+        },
+        {
+          "name": "Lena Susanne Norin",
+          "url": "https://open.spotify.com/artist/76MNv5eL3yqPHcroQtLUiz"
+        },
+        {
+          "name": "Susanne Ansorg",
+          "url": "https://open.spotify.com/artist/69pyioRGqjbQgwI5wfAi5P"
+        },
+        {
+          "name": "Randall Cook",
+          "url": "https://open.spotify.com/artist/6MF4F02XGwScN4ujsctMb0"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "La plus belle et doulce figure",
+      "url": "https://open.spotify.com/track/4L87NkwEcQXsVhGIBcJlDb"
     },
     {
       "album": {
@@ -3952,6 +3952,25 @@
     },
     {
       "album": {
+        "name": "Danze Strumentali Medievali Italiane, Vol. 1",
+        "url": "https://open.spotify.com/album/5x4JOm3YZnFW9UbjMRH0ag"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Anima Mundi Consort",
+          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
+        }
+      ],
+      "duration_ms": 461333,
+      "name": "Bel fiore danca",
+      "url": "https://open.spotify.com/track/0aeApNfTM4P03vP7CWw8i7"
+    },
+    {
+      "album": {
         "name": "Nuits occitanes: Troubadours' Songs",
         "url": "https://open.spotify.com/album/6BZVATSU6DRrXNNGWg6YsJ"
       },
@@ -3976,25 +3995,6 @@
       "duration_ms": 472306,
       "name": "S'anc fui bela ni prezada",
       "url": "https://open.spotify.com/track/0iJdJY43C0Ey3QsOL4S8gp"
-    },
-    {
-      "album": {
-        "name": "Danze Strumentali Medievali Italiane, Vol. 1",
-        "url": "https://open.spotify.com/album/5x4JOm3YZnFW9UbjMRH0ag"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Anima Mundi Consort",
-          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
-        }
-      ],
-      "duration_ms": 461333,
-      "name": "Bel fiore danca",
-      "url": "https://open.spotify.com/track/0aeApNfTM4P03vP7CWw8i7"
     },
     {
       "album": {

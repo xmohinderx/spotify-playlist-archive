@@ -1,7 +1,26 @@
 {
-  "description": "Hottest Hindi music served here. Cover- Akshay Kumar & Nupur Sanon ",
+  "description": "Hottest Hindi music served here. Cover- Badshah & Akanksha Sharma ",
   "name": "Top Hits Hindi",
   "tracks": [
+    {
+      "album": {
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
+    },
     {
       "album": {
         "name": "Raataan Lambiyan (From \"Shershaah\")",
@@ -24,25 +43,6 @@
       "duration_ms": 230292,
       "name": "Raataan Lambiyan (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
-    },
-    {
-      "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "album": {
