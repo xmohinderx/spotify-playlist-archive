@@ -139,21 +139,6 @@
     },
     {
       "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/7cqPPWhhwZyQdxIUTQhWC8"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184534,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4m32ZYmSYgGziMwx3cJxS7"
-    },
-    {
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
@@ -181,6 +166,21 @@
       "duration_ms": 188720,
       "name": "Astrovan",
       "url": "https://open.spotify.com/track/6AWrqrKpeBXiPFgmFuMPXR"
+    },
+    {
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/7cqPPWhhwZyQdxIUTQhWC8"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 184534,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4m32ZYmSYgGziMwx3cJxS7"
     },
     {
       "album": {
@@ -259,6 +259,21 @@
     },
     {
       "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Sheep",
+      "url": "https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV"
+    },
+    {
+      "album": {
         "name": "circle the drain",
         "url": "https://open.spotify.com/album/728chZ1Mu69fH291jrctJ5"
       },
@@ -316,21 +331,6 @@
       "duration_ms": 190469,
       "name": "Lancaster Nights",
       "url": "https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4"
-    },
-    {
-      "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Sheep",
-      "url": "https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV"
     },
     {
       "album": {
@@ -1134,21 +1134,6 @@
     },
     {
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/0j0elxqaiOhRDJVpC9IZay"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/6WzAjOZfTwFBtyX7apVMUN"
-    },
-    {
-      "album": {
         "name": "Living Room",
         "url": "https://open.spotify.com/album/2mWvsZ54QOniV2kWpDkUBQ"
       },
@@ -1161,6 +1146,21 @@
       "duration_ms": 185451,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/1Rg572m24H2cjrbzSYhW2g"
+    },
+    {
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/0j0elxqaiOhRDJVpC9IZay"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/6WzAjOZfTwFBtyX7apVMUN"
     },
     {
       "album": {

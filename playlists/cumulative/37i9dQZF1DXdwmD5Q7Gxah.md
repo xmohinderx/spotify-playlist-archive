@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> revisiting the best songs of the year, and new favorites. cover: Dora Jar
+> Listen in to <a href="https://spotifygr.link/loremlife">Lorem Live w/ Max & Dev</a> tonight ft SPILL TAB, MARINELLI, & MAZIE at 9pm EST on Spotify Greenroom.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [Polly](https://open.spotify.com/track/1OHYh4ycNpSczDFaf5PkJ9) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Polly](https://open.spotify.com/album/43VnVc6hkCYOjFPgzWPgyt) | 2:42 | 2021-05-27 | 2021-11-13 |
 | [Poor Boy](https://open.spotify.com/track/6Wvi3W1wCzyLzVSD8g7JTQ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Poor Boy](https://open.spotify.com/album/3vqeCysvSQsTrwIEaEZns6) | 2:44 | 2021-01-15 | 2021-03-06 |
 | [Poor Fake](https://open.spotify.com/track/0X1VFWzml1YdSOOkxzOK0G) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:41 | 2019-08-02 | 2019-08-21 |
+| [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-16 |  |
 | [Post Humorous](https://open.spotify.com/track/59BJgnWKzFnh5TGkhHfmod) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Post Humorous](https://open.spotify.com/album/3Gk3QuFFF4zi4RdyYhBkpy) | 4:39 | 2020-07-02 | 2020-12-04 |
 | [Post Mates (feat. Cautious Clay)](https://open.spotify.com/track/4JclCBySJNsUApnATXnhNS) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Post Mates (feat. Cautious Clay)](https://open.spotify.com/album/7js7SzuPMf0qIJqnoLUoDz) | 2:35 | 2019-07-30 | 2020-02-20 |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2021-09-30 |  |

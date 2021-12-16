@@ -57,6 +57,21 @@
     },
     {
       "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz"
+    },
+    {
+      "album": {
         "name": "DANDELION",
         "url": "https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc"
       },
@@ -69,6 +84,25 @@
       "duration_ms": 201974,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto"
+    },
+    {
+      "album": {
+        "name": "Tales From The Telescope Chapter 2: Internal Shine",
+        "url": "https://open.spotify.com/album/08MjfVgkdqINsqCeY67xaG"
+      },
+      "artists": [
+        {
+          "name": "Lance Skiiiwalker",
+          "url": "https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 190838,
+      "name": "Peso",
+      "url": "https://open.spotify.com/track/6oqRowe5lMSV62jZwar1VO"
     },
     {
       "album": {

@@ -199,6 +199,21 @@
     },
     {
       "album": {
+        "name": "Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/3gqiTbYCXF9p10eUbfqRLj"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "Re-Education (Through Labor)",
+      "url": "https://open.spotify.com/track/2TJqTvzycPZiHcTSgih4d9"
+    },
+    {
+      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6"
       },
@@ -244,21 +259,6 @@
     },
     {
       "album": {
-        "name": "Endgame / Appeal To Reason / Siren Song Of The Counter Culture / The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/3gqiTbYCXF9p10eUbfqRLj"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Re-Education (Through Labor)",
-      "url": "https://open.spotify.com/track/2TJqTvzycPZiHcTSgih4d9"
-    },
-    {
-      "album": {
         "name": "When Your Heart Stops Beating",
         "url": "https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA"
       },
@@ -271,6 +271,21 @@
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
+    },
+    {
+      "album": {
+        "name": "Broken Dreams, Inc.",
+        "url": "https://open.spotify.com/album/6PpXNkijHaoYuteJkC7Ni9"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 231938,
+      "name": "Broken Dreams, Inc.",
+      "url": "https://open.spotify.com/track/6jjsvz1cxRDU1rlW9Kkv5Z"
     },
     {
       "album": {
@@ -304,36 +319,6 @@
     },
     {
       "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
-    },
-    {
-      "album": {
-        "name": "Broken Dreams, Inc.",
-        "url": "https://open.spotify.com/album/6PpXNkijHaoYuteJkC7Ni9"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 231938,
-      "name": "Broken Dreams, Inc.",
-      "url": "https://open.spotify.com/track/6jjsvz1cxRDU1rlW9Kkv5Z"
-    },
-    {
-      "album": {
         "name": "The Best Of Goldfinger",
         "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
       },
@@ -346,6 +331,21 @@
       "duration_ms": 185600,
       "name": "Superman",
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+    },
+    {
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "album": {

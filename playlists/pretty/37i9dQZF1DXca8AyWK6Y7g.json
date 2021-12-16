@@ -298,6 +298,25 @@
     },
     {
       "album": {
+        "name": "Heat Waves (with iann dior)",
+        "url": "https://open.spotify.com/album/5DytspFb0BRnjtToyLzU2m"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 175301,
+      "name": "Heat Waves (with iann dior)",
+      "url": "https://open.spotify.com/track/3pXVWgkWybiGchdKGYDgdl"
+    },
+    {
+      "album": {
         "name": "Summer Vibe",
         "url": "https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO"
       },
@@ -344,40 +363,6 @@
       "duration_ms": 180204,
       "name": "Awaken (Feel Alive)",
       "url": "https://open.spotify.com/track/1p6AQlMFpnH4hmhrSfoQ3k"
-    },
-    {
-      "album": {
-        "name": "Heat Waves (with iann dior)",
-        "url": "https://open.spotify.com/album/5DytspFb0BRnjtToyLzU2m"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 175301,
-      "name": "Heat Waves (with iann dior)",
-      "url": "https://open.spotify.com/track/3pXVWgkWybiGchdKGYDgdl"
-    },
-    {
-      "album": {
-        "name": "A-O-K",
-        "url": "https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "A-O-K",
-      "url": "https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR"
     },
     {
       "album": {
@@ -445,6 +430,21 @@
     },
     {
       "album": {
+        "name": "A-O-K",
+        "url": "https://open.spotify.com/album/3A8u7ZzojDwy7GlCJphBQR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "A-O-K",
+      "url": "https://open.spotify.com/track/4CbrNGvwVjneG8Nk9YQqMR"
+    },
+    {
+      "album": {
         "name": "Blossom Hill",
         "url": "https://open.spotify.com/album/7AQdWze3UwjOCjbNowRpx7"
       },
@@ -509,21 +509,6 @@
     },
     {
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "i deserve 2 b alone",
-      "url": "https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD"
-    },
-    {
-      "album": {
         "name": "god of the sunsets",
         "url": "https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms"
       },
@@ -554,21 +539,6 @@
     },
     {
       "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 137307,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
-    },
-    {
-      "album": {
         "name": "Only When I Look into Your Eyes",
         "url": "https://open.spotify.com/album/76uDKBLiSHVMTvHBHQ668X"
       },
@@ -581,6 +551,36 @@
       "duration_ms": 199166,
       "name": "Only When I Look into Your Eyes",
       "url": "https://open.spotify.com/track/44kiDYXBx8Iju8iQPyldmO"
+    },
+    {
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "i deserve 2 b alone",
+      "url": "https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD"
+    },
+    {
+      "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 137307,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
     },
     {
       "album": {
@@ -645,6 +645,21 @@
       "duration_ms": 181249,
       "name": "Be Around Me (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/1sAJUJmcOsNInG1ieWfke5"
+    },
+    {
+      "album": {
+        "name": "It Takes Two",
+        "url": "https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 159012,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead"
     },
     {
       "album": {
@@ -731,21 +746,6 @@
     },
     {
       "album": {
-        "name": "It Takes Two",
-        "url": "https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT"
-      },
-      "artists": [
-        {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
-        }
-      ],
-      "duration_ms": 159012,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead"
-    },
-    {
-      "album": {
         "name": "Cherry (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
       },
@@ -795,6 +795,21 @@
     },
     {
       "album": {
+        "name": "BS",
+        "url": "https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 133986,
+      "name": "BS",
+      "url": "https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/1PYCwyi5YM95iL8IlVHDOm"
       },
@@ -822,21 +837,6 @@
       "duration_ms": 180488,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
-    },
-    {
-      "album": {
-        "name": "BS",
-        "url": "https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 133986,
-      "name": "BS",
-      "url": "https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b"
     },
     {
       "album": {
@@ -1145,21 +1145,6 @@
     },
     {
       "album": {
-        "name": "either way",
-        "url": "https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr"
-      },
-      "artists": [
-        {
-          "name": "Arden Jones",
-          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
-        }
-      ],
-      "duration_ms": 180714,
-      "name": "either way",
-      "url": "https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf"
-    },
-    {
-      "album": {
         "name": "Someday I'll Be Happy",
         "url": "https://open.spotify.com/album/06afLAH01L7XTw2VzK2uDS"
       },
@@ -1172,6 +1157,21 @@
       "duration_ms": 165680,
       "name": "Someday I'll Be Happy",
       "url": "https://open.spotify.com/track/36abeitRdTDdUxYahI6tMU"
+    },
+    {
+      "album": {
+        "name": "either way",
+        "url": "https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 180714,
+      "name": "either way",
+      "url": "https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf"
     },
     {
       "album": {
@@ -1962,21 +1962,6 @@
     },
     {
       "album": {
-        "name": "i remember",
-        "url": "https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "i remember",
-      "url": "https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ"
-    },
-    {
-      "album": {
         "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
         "url": "https://open.spotify.com/album/3oFHBiIriBPXysgMbeaUVY"
       },
@@ -1997,6 +1982,21 @@
       "duration_ms": 200687,
       "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
       "url": "https://open.spotify.com/track/2JvWoj5bTklsb6fPzRfZ3x"
+    },
+    {
+      "album": {
+        "name": "i remember",
+        "url": "https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "i remember",
+      "url": "https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ"
     },
     {
       "album": {
@@ -2353,21 +2353,6 @@
     },
     {
       "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7"
-      },
-      "artists": [
-        {
-          "name": "Lila Drew",
-          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
-        }
-      ],
-      "duration_ms": 215997,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb"
-    },
-    {
-      "album": {
         "name": "Loving Is Easy",
         "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
       },
@@ -2384,6 +2369,21 @@
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
+    },
+    {
+      "album": {
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7"
+      },
+      "artists": [
+        {
+          "name": "Lila Drew",
+          "url": "https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F"
+        }
+      ],
+      "duration_ms": 215997,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g"

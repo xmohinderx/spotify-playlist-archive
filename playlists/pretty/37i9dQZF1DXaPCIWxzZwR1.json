@@ -324,22 +324,18 @@
     },
     {
       "album": {
-        "name": "Wandered To LA (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/16ou1Elgll2ElsdnU4LNzn"
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/3QdA3ygxHkyPdGrFvN9mVj"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Robert Grace",
+          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
         }
       ],
-      "duration_ms": 189727,
-      "name": "Wandered To LA (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4"
+      "duration_ms": 171421,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/08rB2a7jEmObJSsq0e41tg"
     },
     {
       "album": {
@@ -388,6 +384,21 @@
     },
     {
       "album": {
+        "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "duration_ms": 129698,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP"
+    },
+    {
+      "album": {
         "name": "let you",
         "url": "https://open.spotify.com/album/34GdjbBv0ZQYwmoYrfVM2O"
       },
@@ -418,21 +429,6 @@
     },
     {
       "album": {
-        "name": "Hate Me",
-        "url": "https://open.spotify.com/album/3QdA3ygxHkyPdGrFvN9mVj"
-      },
-      "artists": [
-        {
-          "name": "Robert Grace",
-          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
-        }
-      ],
-      "duration_ms": 171421,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/08rB2a7jEmObJSsq0e41tg"
-    },
-    {
-      "album": {
         "name": "what it means to be a girl / this is how i learn to say no",
         "url": "https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA"
       },
@@ -445,6 +441,25 @@
       "duration_ms": 168266,
       "name": "what it means to be a girl",
       "url": "https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z"
+    },
+    {
+      "album": {
+        "name": "Wandered To LA (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/16ou1Elgll2ElsdnU4LNzn"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 189727,
+      "name": "Wandered To LA (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4"
     },
     {
       "album": {

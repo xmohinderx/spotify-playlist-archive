@@ -4,70 +4,6 @@
   "tracks": [
     {
       "album": {
-        "name": "Bluffing",
-        "url": "https://open.spotify.com/album/6i7t2CdHTVigw9owQqnN2P"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 126829,
-      "name": "Bluffing",
-      "url": "https://open.spotify.com/track/1NNJMmLuZuUvqhaB9PC4tz"
-    },
-    {
-      "album": {
-        "name": "CUM",
-        "url": "https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx"
-      },
-      "artists": [
-        {
-          "name": "WHOKILLEDXIX",
-          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "CUM",
-      "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
-    },
-    {
-      "album": {
-        "name": "boneyard aka fearmonger",
-        "url": "https://open.spotify.com/album/3zl3Qtgdt9tMVqiMa7RaK1"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 118593,
-      "name": "Heck",
-      "url": "https://open.spotify.com/track/5gORN9xZl1Qz450cgu0ksL"
-    },
-    {
-      "album": {
-        "name": "Fat Lip",
-        "url": "https://open.spotify.com/album/1PJrYQWFtxTgNRuWiMOhWJ"
-      },
-      "artists": [
-        {
-          "name": "Big Kill",
-          "url": "https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB"
-        },
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 117733,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KY5HkCPZKa57sCZZk8yiG"
-    },
-    {
-      "album": {
         "name": "mememe",
         "url": "https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36"
       },
@@ -80,25 +16,6 @@
       "duration_ms": 166003,
       "name": "mememe",
       "url": "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
-    },
-    {
-      "album": {
-        "name": "FALLING UP",
-        "url": "https://open.spotify.com/album/6TEHMXuZyxySr5oltVlnfB"
-      },
-      "artists": [
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 303945,
-      "name": "FALLING UP",
-      "url": "https://open.spotify.com/track/48T8if6xg1qnKVeDV4Mhqo"
     },
     {
       "album": {
@@ -122,6 +39,85 @@
       "duration_ms": 179340,
       "name": "WEIRDO",
       "url": "https://open.spotify.com/track/5ZUskZBh1yXhibGgBaiTTG"
+    },
+    {
+      "album": {
+        "name": "Bluffing",
+        "url": "https://open.spotify.com/album/6i7t2CdHTVigw9owQqnN2P"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 126829,
+      "name": "Bluffing",
+      "url": "https://open.spotify.com/track/1NNJMmLuZuUvqhaB9PC4tz"
+    },
+    {
+      "album": {
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
+    },
+    {
+      "album": {
+        "name": "boneyard aka fearmonger",
+        "url": "https://open.spotify.com/album/3zl3Qtgdt9tMVqiMa7RaK1"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 118593,
+      "name": "Heck",
+      "url": "https://open.spotify.com/track/5gORN9xZl1Qz450cgu0ksL"
+    },
+    {
+      "album": {
+        "name": "CUM",
+        "url": "https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "CUM",
+      "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
+    },
+    {
+      "album": {
+        "name": "FALLING UP",
+        "url": "https://open.spotify.com/album/6TEHMXuZyxySr5oltVlnfB"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 303945,
+      "name": "FALLING UP",
+      "url": "https://open.spotify.com/track/48T8if6xg1qnKVeDV4Mhqo"
     },
     {
       "album": {
@@ -228,6 +224,25 @@
       "duration_ms": 151415,
       "name": "all I want is you",
       "url": "https://open.spotify.com/track/6qYmLmMTMpLPi80Mh0EbGb"
+    },
+    {
+      "album": {
+        "name": "Fat Lip",
+        "url": "https://open.spotify.com/album/1PJrYQWFtxTgNRuWiMOhWJ"
+      },
+      "artists": [
+        {
+          "name": "Big Kill",
+          "url": "https://open.spotify.com/artist/2F50OlzwdK2eRTnGCDVuIB"
+        },
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 117733,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KY5HkCPZKa57sCZZk8yiG"
     },
     {
       "album": {
@@ -432,6 +447,21 @@
       "duration_ms": 147000,
       "name": "space coaster",
       "url": "https://open.spotify.com/track/1YZYpXsFmmeJiUEHOrxu85"
+    },
+    {
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 120754,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
     },
     {
       "album": {
@@ -3705,21 +3735,6 @@
       "duration_ms": 147204,
       "name": "pins&needles",
       "url": "https://open.spotify.com/track/4SHtYSGREhKHfQISRgBVVq"
-    },
-    {
-      "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "album": {

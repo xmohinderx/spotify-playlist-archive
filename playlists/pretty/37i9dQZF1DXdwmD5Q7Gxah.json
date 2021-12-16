@@ -1,5 +1,5 @@
 {
-  "description": "revisiting the best songs of the year, and new favorites. cover: Dora Jar",
+  "description": "Listen in to <a href=\"https://spotifygr.link/loremlife\">Lorem Live w/ Max & Dev</a> tonight ft SPILL TAB, MARINELLI, & MAZIE at 9pm EST on Spotify Greenroom.",
   "name": "Lorem",
   "tracks": [
     {
@@ -68,21 +68,6 @@
     },
     {
       "album": {
-        "name": "Adore You",
-        "url": "https://open.spotify.com/album/2LdHQ2qDEVMexB8vJINNYK"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5"
-    },
-    {
-      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -95,6 +80,36 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "album": {
+        "name": "SALES LP",
+        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Pope Is a Rockstar",
+      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+    },
+    {
+      "album": {
+        "name": "Adore You",
+        "url": "https://open.spotify.com/album/2LdHQ2qDEVMexB8vJINNYK"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5"
     },
     {
       "album": {

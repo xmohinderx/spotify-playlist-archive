@@ -229,21 +229,6 @@
     },
     {
       "album": {
-        "name": "Vancouver",
-        "url": "https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo"
-      },
-      "artists": [
-        {
-          "name": "Adam Fincher",
-          "url": "https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6"
-        }
-      ],
-      "duration_ms": 211628,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM"
-    },
-    {
-      "album": {
         "name": "Piano 1 (Extended)",
         "url": "https://open.spotify.com/album/2HdTrxH48hXXj5kMxZDoWP"
       },
@@ -256,6 +241,21 @@
       "duration_ms": 100167,
       "name": "A Busy Day",
       "url": "https://open.spotify.com/track/1BIB1xG9pSf8bDX5c2Jo9d"
+    },
+    {
+      "album": {
+        "name": "Vancouver",
+        "url": "https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo"
+      },
+      "artists": [
+        {
+          "name": "Adam Fincher",
+          "url": "https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6"
+        }
+      ],
+      "duration_ms": 211628,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM"
     },
     {
       "album": {
