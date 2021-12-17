@@ -408,21 +408,6 @@
     },
     {
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I"
-    },
-    {
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -439,6 +424,21 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+    },
+    {
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I"
     },
     {
       "album": {
@@ -488,21 +488,6 @@
     },
     {
       "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "120",
-      "url": "https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l"
-    },
-    {
-      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -519,6 +504,21 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "120",
+      "url": "https://open.spotify.com/track/3KJ3opyV29269SXkPrc19l"
     },
     {
       "album": {
@@ -557,64 +557,6 @@
       "duration_ms": 217360,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
-    },
-    {
-      "album": {
-        "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
-        "url": "https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Patrick Muniz",
-          "url": "https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu"
-        },
-        {
-          "name": "Dj Olliver",
-          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        },
-        {
-          "name": "Mc Rennan",
-          "url": "https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS"
-        }
-      ],
-      "duration_ms": 214270,
-      "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
-      "url": "https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h"
-    },
-    {
-      "album": {
-        "name": "Turraka (Remix)",
-        "url": "https://open.spotify.com/album/50Apdeuj9XSYzEMyIcxunV"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "Ecko",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "Blunted Vato",
-          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
-        },
-        {
-          "name": "Bruno LC",
-          "url": "https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR"
-        }
-      ],
-      "duration_ms": 210352,
-      "name": "Turraka - Remix",
-      "url": "https://open.spotify.com/track/2Qv0DF1us4LhzLj0Cx9cSn"
     },
     {
       "album": {
@@ -661,6 +603,64 @@
       "duration_ms": 208631,
       "name": "911 - Remix",
       "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
+    },
+    {
+      "album": {
+        "name": "Turraka (Remix)",
+        "url": "https://open.spotify.com/album/50Apdeuj9XSYzEMyIcxunV"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Bruno LC",
+          "url": "https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR"
+        }
+      ],
+      "duration_ms": 210352,
+      "name": "Turraka - Remix",
+      "url": "https://open.spotify.com/track/2Qv0DF1us4LhzLj0Cx9cSn"
+    },
+    {
+      "album": {
+        "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
+        "url": "https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Patrick Muniz",
+          "url": "https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu"
+        },
+        {
+          "name": "Dj Olliver",
+          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        },
+        {
+          "name": "Mc Rennan",
+          "url": "https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS"
+        }
+      ],
+      "duration_ms": 214270,
+      "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
+      "url": "https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h"
     },
     {
       "album": {
@@ -729,25 +729,6 @@
     },
     {
       "album": {
-        "name": "Como Si No Importara",
-        "url": "https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "Como Si No Importara",
-      "url": "https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j"
-    },
-    {
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -782,22 +763,22 @@
     },
     {
       "album": {
-        "name": "Rol\u00ea",
-        "url": "https://open.spotify.com/album/29KnTFADlqksb1ol2HMhwK"
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
       "artists": [
         {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 174937,
-      "name": "Rol\u00ea",
-      "url": "https://open.spotify.com/track/50gPsfGHy5OnPauA9455DM"
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "album": {
@@ -816,22 +797,41 @@
     },
     {
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+        "name": "Como Si No Importara",
+        "url": "https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+      "duration_ms": 173052,
+      "name": "Como Si No Importara",
+      "url": "https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j"
+    },
+    {
+      "album": {
+        "name": "Rol\u00ea",
+        "url": "https://open.spotify.com/album/29KnTFADlqksb1ol2HMhwK"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "duration_ms": 174937,
+      "name": "Rol\u00ea",
+      "url": "https://open.spotify.com/track/50gPsfGHy5OnPauA9455DM"
     },
     {
       "album": {
@@ -912,6 +912,48 @@
     },
     {
       "album": {
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Una Nota",
+      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
+    },
+    {
+      "album": {
         "name": "ALMAS GEMELAS",
         "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
       },
@@ -946,25 +988,6 @@
     },
     {
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Una Nota",
-      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -985,29 +1008,6 @@
       "duration_ms": 231708,
       "name": "2:50 Remix",
       "url": "https://open.spotify.com/track/5eyO0n1HiiSWdGaaSoK731"
-    },
-    {
-      "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "album": {

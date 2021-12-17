@@ -1,26 +1,7 @@
 {
-  "description": "The home for alternative electronic music. Cover: Bonobo",
+  "description": "The home for alternative electronic music. Cover: Shygirl",
   "name": "Altar",
   "tracks": [
-    {
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
-    },
     {
       "album": {
         "name": "Blackpool Boulevard",
@@ -42,6 +23,25 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "album": {
         "name": "Forbidden Feelingz",
         "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
       },
@@ -54,21 +54,6 @@
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
-    },
-    {
-      "album": {
-        "name": "Back Tae Ayr",
-        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 332931,
-      "name": "Back Tae Ayr",
-      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
     },
     {
       "album": {
@@ -87,6 +72,21 @@
     },
     {
       "album": {
+        "name": "Back Tae Ayr",
+        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 332931,
+      "name": "Back Tae Ayr",
+      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
+    },
+    {
+      "album": {
         "name": "In The Sweetness of You",
         "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
@@ -99,36 +99,6 @@
       "duration_ms": 233253,
       "name": "21",
       "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
-    },
-    {
-      "album": {
-        "name": "100 dollar bill",
-        "url": "https://open.spotify.com/album/1ypuMUFmHI8rB97dBaLMLC"
-      },
-      "artists": [
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 239950,
-      "name": "100 dollar bill",
-      "url": "https://open.spotify.com/track/6qIyMGqZ0VAaVr5WF7PZcC"
-    },
-    {
-      "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/20uKxxvwArcDBwXpZr7MlL"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "This Time",
-      "url": "https://open.spotify.com/track/21KH3KOkTjqPM0lCoba0UC"
     },
     {
       "album": {
@@ -147,18 +117,33 @@
     },
     {
       "album": {
-        "name": "Rave Science Vol. 2",
-        "url": "https://open.spotify.com/album/6N34SARO7TlWBdBBfTKS1K"
+        "name": "Cleo",
+        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
       },
       "artists": [
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 326819,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/0kcaKKnAbjtjWreExi0YtB"
+      "duration_ms": 189370,
+      "name": "Cleo - Edit",
+      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
+    },
+    {
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/20uKxxvwArcDBwXpZr7MlL"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/21KH3KOkTjqPM0lCoba0UC"
     },
     {
       "album": {
@@ -181,6 +166,36 @@
     },
     {
       "album": {
+        "name": "100 dollar bill",
+        "url": "https://open.spotify.com/album/1ypuMUFmHI8rB97dBaLMLC"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "duration_ms": 239950,
+      "name": "100 dollar bill",
+      "url": "https://open.spotify.com/track/6qIyMGqZ0VAaVr5WF7PZcC"
+    },
+    {
+      "album": {
+        "name": "Rave Science Vol. 2",
+        "url": "https://open.spotify.com/album/6N34SARO7TlWBdBBfTKS1K"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 326819,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/0kcaKKnAbjtjWreExi0YtB"
+    },
+    {
+      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/7AIDly3OWiTU5O4YKTvZ2g"
       },
@@ -197,6 +212,21 @@
       "duration_ms": 225333,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/0wVRGzdbEwKGomyficzJV7"
+    },
+    {
+      "album": {
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 226620,
+      "name": "Everything Is Going To Be Alright",
+      "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
     },
     {
       "album": {
@@ -264,6 +294,21 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20sS6wKU6D5dQfps6dGh41"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/5oiTnaEHK3OFDZIL8AIYwu"
+    },
+    {
+      "album": {
         "name": "Faisal (Envelops Me)",
         "url": "https://open.spotify.com/album/4ypZdBrZq9WRWbEkpqUA4D"
       },
@@ -294,21 +339,6 @@
     },
     {
       "album": {
-        "name": "Cleo",
-        "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 189370,
-      "name": "Cleo - Edit",
-      "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
-    },
-    {
-      "album": {
         "name": "burning (feat. just lil)",
         "url": "https://open.spotify.com/album/1xusQdAD0SSLGvXqpHFGKS"
       },
@@ -325,21 +355,6 @@
       "duration_ms": 246453,
       "name": "burning (feat. just lil)",
       "url": "https://open.spotify.com/track/2DFA2QYJrgbUVMNgiavKEl"
-    },
-    {
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/20sS6wKU6D5dQfps6dGh41"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/5oiTnaEHK3OFDZIL8AIYwu"
     },
     {
       "album": {
@@ -524,6 +539,21 @@
     },
     {
       "album": {
+        "name": "Swift",
+        "url": "https://open.spotify.com/album/69IqHAds5i0w75QYrILATK"
+      },
+      "artists": [
+        {
+          "name": "SUCHI",
+          "url": "https://open.spotify.com/artist/1O9dpGFcvuAU0tuAUpYg3N"
+        }
+      ],
+      "duration_ms": 354465,
+      "name": "Danshaug",
+      "url": "https://open.spotify.com/track/06lJUqEd1IUkJUm0TIdaqh"
+    },
+    {
+      "album": {
         "name": "All About Love",
         "url": "https://open.spotify.com/album/6E1oO7l6NAQYVXk1cJyCk7"
       },
@@ -623,6 +653,21 @@
       "duration_ms": 216000,
       "name": "Kahan (Last Year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
       "album": {
@@ -1219,21 +1264,6 @@
     },
     {
       "album": {
-        "name": "Steel City Dance Discs Volume 23",
-        "url": "https://open.spotify.com/album/6MeFVWynvM4JCnlYVuoxNZ"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 454646,
-      "name": "Doolally",
-      "url": "https://open.spotify.com/track/6iOE2GLHKBQbx4JdhT6RI8"
-    },
-    {
-      "album": {
         "name": "BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1",
         "url": "https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G"
       },
@@ -1374,21 +1404,6 @@
       "duration_ms": 267084,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4t77cSxZdEtp6omykJw51C"
-    },
-    {
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/6f8IGK0k5JTPGxFmSJy2X5"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 209296,
-      "name": "Ultraviolet - Edit",
-      "url": "https://open.spotify.com/track/3ieIlUTXT44fXme5HmxwSP"
     },
     {
       "album": {
@@ -1615,21 +1630,6 @@
       "duration_ms": 231111,
       "name": "Rabbit Hole - Edit",
       "url": "https://open.spotify.com/track/5JeLRgcUQ1TJkXv4xFklmt"
-    },
-    {
-      "album": {
-        "name": "Canvas",
-        "url": "https://open.spotify.com/album/3FMEGUPP5mSEXlNS6JN1d4"
-      },
-      "artists": [
-        {
-          "name": "Kilig",
-          "url": "https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX"
-        }
-      ],
-      "duration_ms": 271162,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2Z7amFYcnroyrAS8ZNVSDa"
     },
     {
       "album": {

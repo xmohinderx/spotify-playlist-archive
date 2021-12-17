@@ -4,6 +4,21 @@
   "tracks": [
     {
       "album": {
+        "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
+        "url": "https://open.spotify.com/album/2ZTFKvqSIVXTTenjnIPkOO"
+      },
+      "artists": [
+        {
+          "name": "Narkis",
+          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
+      "url": "https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05d1\u05e2\u05d4 \u05d9\u05e8\u05d7\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY"
       },
@@ -20,21 +35,6 @@
       "duration_ms": 200142,
       "name": "\u05d0\u05e4\u05e1 \u05de\u05d0\u05de\u05e5",
       "url": "https://open.spotify.com/track/2liUMhNvpAxRNVAGnz8jNJ"
-    },
-    {
-      "album": {
-        "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
-        "url": "https://open.spotify.com/album/2ZTFKvqSIVXTTenjnIPkOO"
-      },
-      "artists": [
-        {
-          "name": "Narkis",
-          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
-      "url": "https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN"
     },
     {
       "album": {
@@ -106,21 +106,6 @@
     },
     {
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
-    },
-    {
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -151,18 +136,18 @@
     },
     {
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "3",
+        "url": "https://open.spotify.com/album/5MhbWal97Bbh3Ho7xodWli"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 177874,
+      "name": "\u05d7\u05e6\u05d9 \u05d3\u05e4\u05d5\u05e7",
+      "url": "https://open.spotify.com/track/6jMCb4UpIBjmiKf6EwVK8u"
     },
     {
       "album": {
@@ -178,6 +163,36 @@
       "duration_ms": 204520,
       "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
       "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
+    },
+    {
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "album": {
@@ -208,18 +223,22 @@
     },
     {
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5MhbWal97Bbh3Ho7xodWli"
+        "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
+        "url": "https://open.spotify.com/album/2KS3eItXsWb5mrgzG7yfA8"
       },
       "artists": [
         {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        },
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05e1\u05d0\u05d5\u05dc",
+          "url": "https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE"
         }
       ],
-      "duration_ms": 177874,
-      "name": "\u05d7\u05e6\u05d9 \u05d3\u05e4\u05d5\u05e7",
-      "url": "https://open.spotify.com/track/6jMCb4UpIBjmiKf6EwVK8u"
+      "duration_ms": 187352,
+      "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/6SuC1LItQ9V9SjET2EvvtD"
     },
     {
       "album": {
@@ -254,25 +273,6 @@
       "duration_ms": 182578,
       "name": "\u05e4\u05d9\u05dc\u05d8\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4F5i9rkN4DBMysvhzzEHoh"
-    },
-    {
-      "album": {
-        "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
-        "url": "https://open.spotify.com/album/2KS3eItXsWb5mrgzG7yfA8"
-      },
-      "artists": [
-        {
-          "name": "Agam Buhbut",
-          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
-        },
-        {
-          "name": "\u05e9\u05d7\u05e8 \u05e1\u05d0\u05d5\u05dc",
-          "url": "https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE"
-        }
-      ],
-      "duration_ms": 187352,
-      "name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d4\u05e6\u05d9\u05dc \u05d0\u05d5\u05ea\u05da",
-      "url": "https://open.spotify.com/track/6SuC1LItQ9V9SjET2EvvtD"
     },
     {
       "album": {
@@ -329,21 +329,6 @@
     },
     {
       "album": {
-        "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
-    },
-    {
-      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
@@ -367,157 +352,18 @@
     },
     {
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "album": {
-        "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR"
-      },
-      "artists": [
-        {
-          "name": "Ran Danker",
-          "url": "https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo"
-        }
-      ],
-      "duration_ms": 169848,
-      "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT"
-    },
-    {
-      "album": {
-        "name": "\u05e1\u05d7\u05e8\u05d7\u05d5\u05e8\u05ea & \u05d1\u05d3\u05d3",
-        "url": "https://open.spotify.com/album/0C18PN7xHyX9IVbn49CDKz"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        },
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 361978,
-      "name": "\u05e1\u05d7\u05e8\u05d7\u05d5\u05e8\u05ea & \u05d1\u05d3\u05d3",
-      "url": "https://open.spotify.com/track/7lwBfnN8IVlP6WW702pGH0"
-    },
-    {
-      "album": {
-        "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T"
-      },
-      "artists": [
-        {
-          "name": "Raviv Kaner",
-          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
-        }
-      ],
-      "duration_ms": 201190,
-      "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj"
-    },
-    {
-      "album": {
-        "name": "\u05dc\u05d0 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3",
-        "url": "https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR"
-      },
-      "artists": [
-        {
-          "name": "Mergui",
-          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u05dc\u05d0 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3",
-      "url": "https://open.spotify.com/track/16tcNezkJ5VETVDVC4m7gj"
-    },
-    {
-      "album": {
-        "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
-        "url": "https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh"
-      },
-      "artists": [
-        {
-          "name": "Itay Levi",
-          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
-        }
-      ],
-      "duration_ms": 161485,
-      "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
-      "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
-    },
-    {
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "album": {
-        "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI"
-    },
-    {
-      "album": {
-        "name": "\u05d0\u05d9\u05df \u05de\u05d0\u05d5\u05e9\u05e8 \u05de\u05de\u05e0\u05d9",
-        "url": "https://open.spotify.com/album/6qSsJvGlN8Yupe9M3PnRiT"
-      },
-      "artists": [
-        {
-          "name": "Eliad",
-          "url": "https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw"
-        }
-      ],
-      "duration_ms": 172394,
-      "name": "\u05d0\u05d9\u05df \u05de\u05d0\u05d5\u05e9\u05e8 \u05de\u05de\u05e0\u05d9",
-      "url": "https://open.spotify.com/track/1TroPJnGcLa8GB7cxHA841"
-    },
-    {
-      "album": {
-        "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3"
-      },
-      "artists": [
-        {
-          "name": "Ishay Ribo",
-          "url": "https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj"
-        }
-      ],
-      "duration_ms": 199710,
-      "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv"
+      "duration_ms": 196480,
+      "name": "\u05d9\u05d7\u05e4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT"
     },
     {
       "album": {
@@ -540,6 +386,130 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR"
+      },
+      "artists": [
+        {
+          "name": "Ran Danker",
+          "url": "https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo"
+        }
+      ],
+      "duration_ms": 169848,
+      "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT"
+    },
+    {
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "album": {
+        "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T"
+      },
+      "artists": [
+        {
+          "name": "Raviv Kaner",
+          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
+        }
+      ],
+      "duration_ms": 201190,
+      "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05d7\u05e8\u05d7\u05d5\u05e8\u05ea & \u05d1\u05d3\u05d3",
+        "url": "https://open.spotify.com/album/0C18PN7xHyX9IVbn49CDKz"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 361978,
+      "name": "\u05e1\u05d7\u05e8\u05d7\u05d5\u05e8\u05ea & \u05d1\u05d3\u05d3",
+      "url": "https://open.spotify.com/track/7lwBfnN8IVlP6WW702pGH0"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/7ASExNRuCOLSdRhZukGhl3"
+      },
+      "artists": [
+        {
+          "name": "Ishay Ribo",
+          "url": "https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj"
+        }
+      ],
+      "duration_ms": 199710,
+      "name": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6sADtPKtORAMZP3GQhOsHv"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
+        "url": "https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh"
+      },
+      "artists": [
+        {
+          "name": "Itay Levi",
+          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
+        }
+      ],
+      "duration_ms": 161485,
+      "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
+      "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d0 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3",
+        "url": "https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u05dc\u05d0 \u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3",
+      "url": "https://open.spotify.com/track/16tcNezkJ5VETVDVC4m7gj"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d9\u05df \u05de\u05d0\u05d5\u05e9\u05e8 \u05de\u05de\u05e0\u05d9",
+        "url": "https://open.spotify.com/album/6qSsJvGlN8Yupe9M3PnRiT"
+      },
+      "artists": [
+        {
+          "name": "Eliad",
+          "url": "https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw"
+        }
+      ],
+      "duration_ms": 172394,
+      "name": "\u05d0\u05d9\u05df \u05de\u05d0\u05d5\u05e9\u05e8 \u05de\u05de\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/1TroPJnGcLa8GB7cxHA841"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
         "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
       },
@@ -552,6 +522,66 @@
       "duration_ms": 212963,
       "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
       "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
+    },
+    {
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW"
+      },
+      "artists": [
+        {
+          "name": "Avraham Tal",
+          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+        }
+      ],
+      "duration_ms": 151442,
+      "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05e9\u05de\u05dc\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4 \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/7MWnnnirr0o9KspAcOMPzG"
+      },
+      "artists": [
+        {
+          "name": "Ran Danker",
+          "url": "https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo"
+        }
+      ],
+      "duration_ms": 172024,
+      "name": "\u05d4\u05e9\u05de\u05dc\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4 \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/0Cq5UOSrvfzJN5pUWx8Prb"
     },
     {
       "album": {
@@ -585,36 +615,6 @@
     },
     {
       "album": {
-        "name": "\u05d4\u05e9\u05de\u05dc\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4 \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/7MWnnnirr0o9KspAcOMPzG"
-      },
-      "artists": [
-        {
-          "name": "Ran Danker",
-          "url": "https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo"
-        }
-      ],
-      "duration_ms": 172024,
-      "name": "\u05d4\u05e9\u05de\u05dc\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4 \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/0Cq5UOSrvfzJN5pUWx8Prb"
-    },
-    {
-      "album": {
-        "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW"
-      },
-      "artists": [
-        {
-          "name": "Avraham Tal",
-          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
-        }
-      ],
-      "duration_ms": 151442,
-      "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
-    },
-    {
-      "album": {
         "name": "\u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9 \u05e6\u05e8\u05d9\u05db\u05d4",
         "url": "https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm"
       },
@@ -630,63 +630,18 @@
     },
     {
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/0pgYmDRVswjq8DdKYzJdY7"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Raviv Kaner",
+          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
         }
       ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "album": {
-        "name": "Bad Little Thing",
-        "url": "https://open.spotify.com/album/4BSIzDQVYki1Muj0QiwHJW"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 143004,
-      "name": "Bad Little Thing",
-      "url": "https://open.spotify.com/track/1i722InMCT8ltWSn1M5fYE"
-    },
-    {
-      "album": {
-        "name": "\u05de\u05e7\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/2i3x2eTK3K6sKrIFJw2KL5"
-      },
-      "artists": [
-        {
-          "name": "Hanan Ben Ari",
-          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "\u05de\u05e7\u05d5\u05dd",
-      "url": "https://open.spotify.com/track/5M3wrPnFySwFhzRL4NXZQ6"
+      "duration_ms": 179860,
+      "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
+      "url": "https://open.spotify.com/track/3WMH1bPflGgzFjfuI4FYe2"
     },
     {
       "album": {
@@ -702,21 +657,6 @@
       "duration_ms": 197499,
       "name": "\u05d2\u05d3\u05dc \u05dc\u05d9 \u05e7\u05e6\u05ea \u05d6\u05e7\u05df",
       "url": "https://open.spotify.com/track/4abB8WdkswrxWxcV2e56x9"
-    },
-    {
-      "album": {
-        "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 139875,
-      "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG"
     },
     {
       "album": {
@@ -766,6 +706,21 @@
     },
     {
       "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05de\u05e9",
         "url": "https://open.spotify.com/album/2UdGTuj5xeeRTGyTULrY4U"
       },
@@ -781,44 +736,6 @@
     },
     {
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 197442,
-      "name": "Smokin Out The Window",
-      "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
-    },
-    {
-      "album": {
-        "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
-        "url": "https://open.spotify.com/album/0pgYmDRVswjq8DdKYzJdY7"
-      },
-      "artists": [
-        {
-          "name": "Raviv Kaner",
-          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
-        }
-      ],
-      "duration_ms": 179860,
-      "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
-      "url": "https://open.spotify.com/track/3WMH1bPflGgzFjfuI4FYe2"
-    },
-    {
-      "album": {
         "name": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
         "url": "https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR"
       },
@@ -831,6 +748,85 @@
       "duration_ms": 208681,
       "name": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
       "url": "https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e7\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/2i3x2eTK3K6sKrIFJw2KL5"
+      },
+      "artists": [
+        {
+          "name": "Hanan Ben Ari",
+          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "\u05de\u05e7\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/5M3wrPnFySwFhzRL4NXZQ6"
+    },
+    {
+      "album": {
+        "name": "Bad Little Thing",
+        "url": "https://open.spotify.com/album/4BSIzDQVYki1Muj0QiwHJW"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "duration_ms": 143004,
+      "name": "Bad Little Thing",
+      "url": "https://open.spotify.com/track/1i722InMCT8ltWSn1M5fYE"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/42gtw83raWKkGy94UDpLLe"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 139875,
+      "name": "\u05de\u05d4 \u05e4\u05e1\u05e4\u05e1\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/2SxcL0eba2ILQpJPuBBHsG"
+    },
+    {
+      "album": {
+        "name": "\u05d2\u05e0\u05d2\u05e1\u05d8\u05e8\u05d9\u05dd \u05e2\u05dc \u05d0\u05de\u05ea",
+        "url": "https://open.spotify.com/album/1G9CB4gjIIjEI8tKx49FGt"
+      },
+      "artists": [
+        {
+          "name": "Amir Ve Ben",
+          "url": "https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE"
+        },
+        {
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+        }
+      ],
+      "duration_ms": 221235,
+      "name": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d6\u05d4 \u05d0\u05e0\u05d9 \u05d5\u05d0\u05ea",
+      "url": "https://open.spotify.com/track/406GxF9gnDjRwsy5wqLpOh"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJ6IpvItkve3"

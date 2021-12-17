@@ -152,25 +152,6 @@
     },
     {
       "album": {
-        "name": "NO CH\u00c3O NOVINHA",
-        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "NO CH\u00c3O NOVINHA",
-      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
-    },
-    {
-      "album": {
         "name": "Manifesto Musical (Ao Vivo / Vol. 1)",
         "url": "https://open.spotify.com/album/3qL1ZV5aLsA2U0lVdIadau"
       },
@@ -202,6 +183,25 @@
       "duration_ms": 150802,
       "name": "Cora\u00e7\u00e3o Cachorro",
       "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
+    },
+    {
+      "album": {
+        "name": "NO CH\u00c3O NOVINHA",
+        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 136901,
+      "name": "NO CH\u00c3O NOVINHA",
+      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
       "album": {
@@ -327,21 +327,6 @@
     },
     {
       "album": {
-        "name": "De Primeira",
-        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186698,
-      "name": "Por Supuesto",
-      "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
-    },
-    {
-      "album": {
         "name": "Nota de Rep\u00fadio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4SuhgccvYOKxul2PraUze0"
       },
@@ -357,18 +342,33 @@
     },
     {
       "album": {
-        "name": "Eu Tenho a Senha",
-        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
+        "name": "De Primeira",
+        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 157175,
-      "name": "Meu Peda\u00e7o de Pecado",
-      "url": "https://open.spotify.com/track/2kJRlOyrxsy7Ot3c5TZ8Q6"
+      "duration_ms": 186698,
+      "name": "Por Supuesto",
+      "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
+    },
+    {
+      "album": {
+        "name": "Expectativa x Realidade",
+        "url": "https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Expectativa x Realidade",
+      "url": "https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu"
     },
     {
       "album": {
@@ -395,33 +395,18 @@
     },
     {
       "album": {
-        "name": "Putariazinha",
-        "url": "https://open.spotify.com/album/6e6ytT287uBWcf6jz4qEIt"
+        "name": "Eu Tenho a Senha",
+        "url": "https://open.spotify.com/album/5y08Ec8KBmVFcvS5NcNuaZ"
       },
       "artists": [
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 162461,
-      "name": "Putariazinha",
-      "url": "https://open.spotify.com/track/2jwrYBGz7osKI31v50bS7b"
-    },
-    {
-      "album": {
-        "name": "Expectativa x Realidade",
-        "url": "https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 163324,
-      "name": "Expectativa x Realidade",
-      "url": "https://open.spotify.com/track/1wdhj1r7aeWVDUl9d18YKu"
+      "duration_ms": 157175,
+      "name": "Meu Peda\u00e7o de Pecado",
+      "url": "https://open.spotify.com/track/2kJRlOyrxsy7Ot3c5TZ8Q6"
     },
     {
       "album": {
@@ -459,6 +444,36 @@
     },
     {
       "album": {
+        "name": "Putariazinha",
+        "url": "https://open.spotify.com/album/6e6ytT287uBWcf6jz4qEIt"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Putariazinha",
+      "url": "https://open.spotify.com/track/2jwrYBGz7osKI31v50bS7b"
+    },
+    {
+      "album": {
+        "name": "Molhando o Volante",
+        "url": "https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 162538,
+      "name": "Molhando o Volante",
+      "url": "https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P"
+    },
+    {
+      "album": {
         "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
         "url": "https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ"
       },
@@ -486,21 +501,6 @@
     },
     {
       "album": {
-        "name": "Quer Voar",
-        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Quer Voar",
-      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
-    },
-    {
-      "album": {
         "name": "Na Praia, Pt. 1",
         "url": "https://open.spotify.com/album/2cHhUDgLaoPig2zlWJEMt2"
       },
@@ -520,18 +520,18 @@
     },
     {
       "album": {
-        "name": "Molhando o Volante",
-        "url": "https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l"
+        "name": "Quer Voar",
+        "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 162538,
-      "name": "Molhando o Volante",
-      "url": "https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P"
+      "duration_ms": 187636,
+      "name": "Quer Voar",
+      "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
     },
     {
       "album": {
@@ -562,18 +562,18 @@
     },
     {
       "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
+        "name": "Falando de Amor, Vol. 1",
+        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
+      "duration_ms": 192725,
+      "name": "Ficha Limpa",
+      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
     },
     {
       "album": {
@@ -632,21 +632,6 @@
     },
     {
       "album": {
-        "name": "Falando de Amor, Vol. 1",
-        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 192725,
-      "name": "Ficha Limpa",
-      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
-    },
-    {
-      "album": {
         "name": "MORENA",
         "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
       },
@@ -662,18 +647,18 @@
     },
     {
       "album": {
-        "name": "Mete a Louca",
-        "url": "https://open.spotify.com/album/2UUL0vRiQqdnFWBq32DihK"
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
       "artists": [
         {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 179893,
-      "name": "Mete a Louca",
-      "url": "https://open.spotify.com/track/62d4BfCTUHdOsARRETHLDz"
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
     },
     {
       "album": {
@@ -711,6 +696,21 @@
     },
     {
       "album": {
+        "name": "Mete a Louca",
+        "url": "https://open.spotify.com/album/2UUL0vRiQqdnFWBq32DihK"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Mete a Louca",
+      "url": "https://open.spotify.com/track/62d4BfCTUHdOsARRETHLDz"
+    },
+    {
+      "album": {
         "name": "Patroas 35%",
         "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
       },
@@ -727,6 +727,40 @@
       "duration_ms": 169586,
       "name": "N\u00e3o Sei o Que L\u00e1",
       "url": "https://open.spotify.com/track/28m65cMH7QXHzFnZSTtNHY"
+    },
+    {
+      "album": {
+        "name": "Vestido Coladinho / Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1tC5NEn1dOizQjd42aA1RA"
+      },
+      "artists": [
+        {
+          "name": "Max e Luan",
+          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
+        }
+      ],
+      "duration_ms": 144516,
+      "name": "Vestido Coladinho",
+      "url": "https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1"
+    },
+    {
+      "album": {
+        "name": "Patroas 35%",
+        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Motel Afrodite",
+      "url": "https://open.spotify.com/track/6WxpU2F5gwTzwYsAalI6nI"
     },
     {
       "album": {
@@ -757,22 +791,18 @@
     },
     {
       "album": {
-        "name": "Patroas 35%",
-        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
+        "name": "Brabo dos Pared\u00f5es",
+        "url": "https://open.spotify.com/album/6fnrD6gb7XwFCZMj7o44mN"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Jap\u00e3ozin",
+          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
         }
       ],
-      "duration_ms": 170866,
-      "name": "Motel Afrodite",
-      "url": "https://open.spotify.com/track/6WxpU2F5gwTzwYsAalI6nI"
+      "duration_ms": 140624,
+      "name": "Carinha de Nen\u00e9m",
+      "url": "https://open.spotify.com/track/6T6SDJszPbuMCBpSm3aS3G"
     },
     {
       "album": {
@@ -795,21 +825,6 @@
     },
     {
       "album": {
-        "name": "Brabo dos Pared\u00f5es",
-        "url": "https://open.spotify.com/album/6fnrD6gb7XwFCZMj7o44mN"
-      },
-      "artists": [
-        {
-          "name": "Jap\u00e3ozin",
-          "url": "https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Carinha de Nen\u00e9m",
-      "url": "https://open.spotify.com/track/6T6SDJszPbuMCBpSm3aS3G"
-    },
-    {
-      "album": {
         "name": "Rol\u00ea",
         "url": "https://open.spotify.com/album/29KnTFADlqksb1ol2HMhwK"
       },
@@ -829,18 +844,18 @@
     },
     {
       "album": {
-        "name": "Vestido Coladinho / Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1tC5NEn1dOizQjd42aA1RA"
+        "name": "Equil\u00edbrio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4"
       },
       "artists": [
         {
-          "name": "Max e Luan",
-          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 144516,
-      "name": "Vestido Coladinho",
-      "url": "https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1"
+      "duration_ms": 188671,
+      "name": "Desbloqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF"
     },
     {
       "album": {
@@ -867,18 +882,37 @@
     },
     {
       "album": {
-        "name": "Equil\u00edbrio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4"
+        "name": "Senta Danada",
+        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         }
       ],
-      "duration_ms": 188671,
-      "name": "Desbloqueado - Ao Vivo",
-      "url": "https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF"
+      "duration_ms": 172621,
+      "name": "Senta Danada",
+      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
+    },
+    {
+      "album": {
+        "name": "Troca de Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 203158,
+      "name": "Troca de Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
     },
     {
       "album": {
@@ -898,40 +932,6 @@
       "duration_ms": 118629,
       "name": "Bota a M\u00e3o no Ch\u00e3o",
       "url": "https://open.spotify.com/track/3Lw41pfko5XMrsHRtlbo2k"
-    },
-    {
-      "album": {
-        "name": "Troca de Cal\u00e7ada",
-        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 203158,
-      "name": "Troca de Cal\u00e7ada",
-      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
-    },
-    {
-      "album": {
-        "name": "Senta Danada",
-        "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 172621,
-      "name": "Senta Danada",
-      "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
     },
     {
       "album": {

@@ -53,21 +53,6 @@
     },
     {
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "album": {
         "name": "MORENA",
         "url": "https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv"
       },
@@ -80,6 +65,21 @@
       "duration_ms": 193221,
       "name": "MORENA",
       "url": "https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
       "album": {
@@ -235,6 +235,29 @@
     },
     {
       "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
@@ -266,29 +289,6 @@
       "duration_ms": 136901,
       "name": "NO CH\u00c3O NOVINHA",
       "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
-    },
-    {
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
       "album": {
@@ -326,6 +326,21 @@
     },
     {
       "album": {
+        "name": "Pode Tentar",
+        "url": "https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS"
+      },
+      "artists": [
+        {
+          "name": "Maninho",
+          "url": "https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "Pode Tentar",
+      "url": "https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -341,18 +356,18 @@
     },
     {
       "album": {
-        "name": "Pode Tentar",
-        "url": "https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Maninho",
-          "url": "https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 155307,
-      "name": "Pode Tentar",
-      "url": "https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
       "album": {
@@ -401,36 +416,6 @@
     },
     {
       "album": {
-        "name": "E Agora Como \u00c9 Que \u00c9",
-        "url": "https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ"
-      },
-      "artists": [
-        {
-          "name": "Chico da Tina",
-          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Ronaldo",
-      "url": "https://open.spotify.com/track/1O3ehXYHBBK0dYben12YVM"
-    },
-    {
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "album": {
         "name": "N\u00e3o Nasceu pra Namorar",
         "url": "https://open.spotify.com/album/17id6KvXhh7BXEKPfetHTQ"
       },
@@ -447,40 +432,6 @@
       "duration_ms": 140307,
       "name": "N\u00e3o Nasceu pra Namorar",
       "url": "https://open.spotify.com/track/6pQKUKBpwr6GhfhcFFFozo"
-    },
-    {
-      "album": {
-        "name": "Patroas 35%",
-        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 169058,
-      "name": "Esque\u00e7a-Me Se For Capaz",
-      "url": "https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC"
-    },
-    {
-      "album": {
-        "name": "Portas do Sol",
-        "url": "https://open.spotify.com/album/0Ik78gbm575dclbfvP4y9T"
-      },
-      "artists": [
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
-        }
-      ],
-      "duration_ms": 228502,
-      "name": "Portas do Sol",
-      "url": "https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4"
     },
     {
       "album": {
@@ -507,6 +458,40 @@
     },
     {
       "album": {
+        "name": "Patroas 35%",
+        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 169058,
+      "name": "Esque\u00e7a-Me Se For Capaz",
+      "url": "https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC"
+    },
+    {
+      "album": {
+        "name": "E Agora Como \u00c9 Que \u00c9",
+        "url": "https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Ronaldo",
+      "url": "https://open.spotify.com/track/1O3ehXYHBBK0dYben12YVM"
+    },
+    {
+      "album": {
         "name": "Bala Love",
         "url": "https://open.spotify.com/album/1Hr2BJE35v4OYirOAe0hA3"
       },
@@ -527,6 +512,21 @@
       "duration_ms": 221538,
       "name": "Bala Love",
       "url": "https://open.spotify.com/track/48Ll1C6qAnP2UjnopQDh4a"
+    },
+    {
+      "album": {
+        "name": "Portas do Sol",
+        "url": "https://open.spotify.com/album/0Ik78gbm575dclbfvP4y9T"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB"
+        }
+      ],
+      "duration_ms": 228502,
+      "name": "Portas do Sol",
+      "url": "https://open.spotify.com/track/1iL2qN1fpyE9MxUhUUu0O4"
     },
     {
       "album": {
@@ -609,48 +609,6 @@
     },
     {
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Bipolar",
-      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
-    },
-    {
-      "album": {
-        "name": "Moth To A Flame",
-        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
-    },
-    {
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -674,18 +632,45 @@
     },
     {
       "album": {
-        "name": "Borboletas",
-        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
       },
       "artists": [
         {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 204281,
-      "name": "Borboletas",
-      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
+    },
+    {
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x"
     },
     {
       "album": {
@@ -701,6 +686,55 @@
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "album": {
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+    },
+    {
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF"
     },
     {
       "album": {
@@ -738,55 +772,6 @@
     },
     {
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF"
-    },
-    {
-      "album": {
-        "name": "A QUEDA",
-        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "A QUEDA",
-      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
-    },
-    {
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -802,37 +787,18 @@
     },
     {
       "album": {
-        "name": "Patroas 35%",
-        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
+        "name": "A QUEDA",
+        "url": "https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 196209,
-      "name": "Presepada",
-      "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
-    },
-    {
-      "album": {
-        "name": "Melhor de Mim",
-        "url": "https://open.spotify.com/album/3Q0bfOJ7tzT9xMivui4WfU"
-      },
-      "artists": [
-        {
-          "name": "Lupambo",
-          "url": "https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA"
-        }
-      ],
-      "duration_ms": 222628,
-      "name": "Melhor de Mim",
-      "url": "https://open.spotify.com/track/08PxO0Ip7jChiYQHmOEyjq"
+      "duration_ms": 172500,
+      "name": "A QUEDA",
+      "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
     },
     {
       "album": {
@@ -867,6 +833,40 @@
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "album": {
+        "name": "Patroas 35%",
+        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 196209,
+      "name": "Presepada",
+      "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
+    },
+    {
+      "album": {
+        "name": "Melhor de Mim",
+        "url": "https://open.spotify.com/album/3Q0bfOJ7tzT9xMivui4WfU"
+      },
+      "artists": [
+        {
+          "name": "Lupambo",
+          "url": "https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA"
+        }
+      ],
+      "duration_ms": 222628,
+      "name": "Melhor de Mim",
+      "url": "https://open.spotify.com/track/08PxO0Ip7jChiYQHmOEyjq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKyJS56d1pgi"

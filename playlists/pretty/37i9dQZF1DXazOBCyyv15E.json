@@ -1,5 +1,5 @@
 {
-  "description": "The home of the best new alternative music. Cover: Tame Impala",
+  "description": "The home of the best new alternative music. Cover: CHAI",
   "name": "The Other List",
   "tracks": [
     {
@@ -16,6 +16,44 @@
       "duration_ms": 221826,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY"
+    },
+    {
+      "album": {
+        "name": "B-Side",
+        "url": "https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
+    },
+    {
+      "album": {
+        "name": "ACTION (with ZAZEN BOYS)",
+        "url": "https://open.spotify.com/album/5QRUsGmtOn9N1yK7ePtUpE"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        },
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "duration_ms": 215404,
+      "name": "ACTION (with ZAZEN BOYS)",
+      "url": "https://open.spotify.com/track/0j1tohMEOzh6xf8qh5NWT9"
     },
     {
       "album": {
@@ -46,25 +84,6 @@
       "duration_ms": 191074,
       "name": "2gether",
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
-    },
-    {
-      "album": {
-        "name": "B-Side",
-        "url": "https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
     },
     {
       "album": {
@@ -125,6 +144,29 @@
       "duration_ms": 171931,
       "name": "Heat Lightning",
       "url": "https://open.spotify.com/track/6q2siYjkPyHLD9GqXRJWQR"
+    },
+    {
+      "album": {
+        "name": "Popular (feat. Matthew Caws of Nada Surf)",
+        "url": "https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo"
+      },
+      "artists": [
+        {
+          "name": "Pom Pom Squad",
+          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+        },
+        {
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
+        },
+        {
+          "name": "Matthew Caws",
+          "url": "https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z"
+        }
+      ],
+      "duration_ms": 206744,
+      "name": "Popular (feat. Matthew Caws of Nada Surf)",
+      "url": "https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57"
     },
     {
       "album": {
@@ -200,6 +242,21 @@
       "duration_ms": 351293,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/2lZrHFgxAdZrL0j8JvYhkc"
+    },
+    {
+      "album": {
+        "name": "Crush Style",
+        "url": "https://open.spotify.com/album/4iF42sLoBZy1xqC0Ssgvah"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "duration_ms": 172972,
+      "name": "Crush Style",
+      "url": "https://open.spotify.com/track/5t4Y3IWiYiguDDPe7zW02z"
     },
     {
       "album": {
@@ -305,6 +362,21 @@
       "duration_ms": 225133,
       "name": "You Forever",
       "url": "https://open.spotify.com/track/22TbnNQfy6oExwnkdaIkgj"
+    },
+    {
+      "album": {
+        "name": "deathbound",
+        "url": "https://open.spotify.com/album/5muwkbr09PnED5FvxA15bo"
+      },
+      "artists": [
+        {
+          "name": "Sepha.",
+          "url": "https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "deathbound",
+      "url": "https://open.spotify.com/track/75c8IAKvGrKPs4yV8b5EJN"
     },
     {
       "album": {
@@ -1159,6 +1231,21 @@
     },
     {
       "album": {
+        "name": "Gen Z Baby",
+        "url": "https://open.spotify.com/album/6MYS4E03V0rHrV7mueXk1f"
+      },
+      "artists": [
+        {
+          "name": "Baby Dave",
+          "url": "https://open.spotify.com/artist/0vsByTdAyygALhiGzUGVab"
+        }
+      ],
+      "duration_ms": 175351,
+      "name": "Gen Z Baby",
+      "url": "https://open.spotify.com/track/3S5uXPMmzewWB8PuDAqnfP"
+    },
+    {
+      "album": {
         "name": "Silent Fan",
         "url": "https://open.spotify.com/album/4kPidDkyw6qvXbIIInSE4z"
       },
@@ -1186,81 +1273,6 @@
       "duration_ms": 282377,
       "name": "Port",
       "url": "https://open.spotify.com/track/5TnhWeSJAkolB4y8eY3P2T"
-    },
-    {
-      "album": {
-        "name": "Side B",
-        "url": "https://open.spotify.com/album/4qcwNTTANkWd9z7yO7ufgP"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Visions of You",
-      "url": "https://open.spotify.com/track/7v1SM98Gag9U97p5etkf2G"
-    },
-    {
-      "album": {
-        "name": "BERLIN",
-        "url": "https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6"
-      },
-      "artists": [
-        {
-          "name": "Cody Frost",
-          "url": "https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "BERLIN",
-      "url": "https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr"
-    },
-    {
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/02tbUpuNkxVGq9XwsV9Rar"
-      },
-      "artists": [
-        {
-          "name": "Jordan Stephens",
-          "url": "https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/4TBDAGEEVD82psJrlGJmUX"
-    },
-    {
-      "album": {
-        "name": "Modern Job",
-        "url": "https://open.spotify.com/album/0o9ihh6as2nRsaAbrtDyFO"
-      },
-      "artists": [
-        {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Modern Job",
-      "url": "https://open.spotify.com/track/0Bz4RD9u6sEJT29N7b4iRy"
-    },
-    {
-      "album": {
-        "name": "No Love (Mr Shady)",
-        "url": "https://open.spotify.com/album/7pL9Rt65BZ5OEhpQlYwW1j"
-      },
-      "artists": [
-        {
-          "name": "Max Pope",
-          "url": "https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i"
-        }
-      ],
-      "duration_ms": 221545,
-      "name": "No Love (Mr Shady)",
-      "url": "https://open.spotify.com/track/0ecKmeunqlJFWe5f3D4FwH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E"

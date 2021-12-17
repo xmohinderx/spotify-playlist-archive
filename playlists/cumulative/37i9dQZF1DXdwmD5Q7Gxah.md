@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> Listen in to <a href="https://spotifygr.link/loremlife">Lorem Live w/ Max & Dev</a> tonight ft SPILL TAB, MARINELLI, & MAZIE at 9pm EST on Spotify Greenroom.
+> ft best tracks of the year + new favorites. cover: MICHELLE MICHELLE MICHELLE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [A World Alone](https://open.spotify.com/track/55N0YHhO55Q1lWsc4dDPcI) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:54 | 2021-04-15 | 2021-05-19 |
 | [Abusey Junction](https://open.spotify.com/track/2A6INS0orQsnuoo1ROw3Cx) | [KOKOROKO](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/26SuSJ98UkLzEmEsHhiz2S) | 7:04 | 2021-01-15 | 2021-01-23 |
 | [ACTING NORMAL](https://open.spotify.com/track/5Hgo2lILGYTqUhUknOLc60) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [ACTING NORMAL](https://open.spotify.com/album/62RygmXoOBnexHbaAcJEvD) | 3:01 | 2020-10-20 | 2020-11-20 |
+| [ACTION (with ZAZEN BOYS)](https://open.spotify.com/track/0j1tohMEOzh6xf8qh5NWT9) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [ACTION (with ZAZEN BOYS)](https://open.spotify.com/album/5QRUsGmtOn9N1yK7ePtUpE) | 3:35 | 2021-12-17 |  |
 | [Adam's Song](https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8) | [blink-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 4:09 | 2021-05-15 | 2021-05-22 |
 | [Adore You](https://open.spotify.com/track/1M4qEo4HE3PRaCOM7EXNJq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Adore You](https://open.spotify.com/album/5SL9nXZYZZl68bHwaM8uLa) | 3:27 | 2019-12-07 | 2020-04-09 |
 | [Adore You](https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz (Deluxe Version)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:38 | 2019-07-30 | 2019-08-02 |
@@ -238,6 +239,7 @@
 | [Cold Little Heart - Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart (Radio Edit)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2020-08-20 | 2020-08-21 |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2019-07-30 | 2020-07-29 |
 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 | 2021-06-26 |  |
+| [Come Back Baby - Slowed](https://open.spotify.com/track/5RGwpAcEZDLDCNXYCMv6ao) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [The Love Umbrella (Slowed)](https://open.spotify.com/album/2jUR6Rr0MPOzoA428VVNtm) | 3:28 | 2021-12-17 |  |
 | [Come Over](https://open.spotify.com/track/3GSEZewTr5OeI9LnWovr5x) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI) | [Come Over](https://open.spotify.com/album/5jCH9BuLpbf2fH9rOBo746) | 2:08 | 2019-10-11 | 2019-11-09 |
 | [Come Over](https://open.spotify.com/track/3GSEZewTr5OeI9LnWovr5x) | [Nolie](https://open.spotify.com/artist/78c9TyMXvVbqO19cEO0OsI), [Christofi](https://open.spotify.com/artist/2wx1SwH78waV7t1dVM2SWS) | [Come Over](https://open.spotify.com/album/5jCH9BuLpbf2fH9rOBo746) | 2:08 | 2019-11-09 | 2020-05-28 |
 | [Come Over](https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol. 1](https://open.spotify.com/album/1AQvLVWkgAxzSa8zJbYkdW) | 2:15 | 2020-11-20 | 2020-12-23 |

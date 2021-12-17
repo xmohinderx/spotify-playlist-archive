@@ -418,6 +418,25 @@
     },
     {
       "album": {
+        "name": "Suburban Sociopath",
+        "url": "https://open.spotify.com/album/4gglL5UEFKSEnYR7vaErSW"
+      },
+      "artists": [
+        {
+          "name": "Afourteen",
+          "url": "https://open.spotify.com/artist/1yfmP9tNARpez6v4p31zqg"
+        },
+        {
+          "name": "Teenage Disaster",
+          "url": "https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep"
+        }
+      ],
+      "duration_ms": 234794,
+      "name": "Suburban Sociopath",
+      "url": "https://open.spotify.com/track/0iiNKiK5BeNGMzxGi6ap0A"
+    },
+    {
+      "album": {
         "name": "Worry Bout Yourself",
         "url": "https://open.spotify.com/album/7e5Gfrcr21LmwwI88FMf6C"
       },
