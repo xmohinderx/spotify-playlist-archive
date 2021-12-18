@@ -308,7 +308,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Top 50 - Vietnam](/playlists/pretty/37i9dQZEVXbLdGSmz6xilI.md)
 - [Top Hits Hindi](/playlists/pretty/37i9dQZF1DX0XUfTFmNBRM.md)
 - [Totally Stress Free](/playlists/pretty/37i9dQZF1DWT7XSlwvR1ar.md)
-- [Twenty One Pilots Radio](/playlists/pretty/3nzuNdNvf20WDcbz0a3Prt.md)
 - [Ultimate Indie](/playlists/pretty/37i9dQZF1DX2Nc3B70tvx0.md)
 - [Unwind 00s](/playlists/pretty/37i9dQZF1DX07vKD9l5Yfi.md)
 - [Warm Fuzzy Feeling](/playlists/pretty/37i9dQZF1DX5IDTimEWoTd.md)
