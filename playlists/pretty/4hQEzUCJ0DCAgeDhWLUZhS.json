@@ -1,7 +1,22 @@
 {
-  "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Mastodon",
+  "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: The Amity Affliction",
   "name": "Plugged In",
   "tracks": [
+    {
+      "album": {
+        "name": "Somewhere Beyond The Blue",
+        "url": "https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 269398,
+      "name": "Death Is All Around",
+      "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
+    },
     {
       "album": {
         "name": "Wake Me Up",

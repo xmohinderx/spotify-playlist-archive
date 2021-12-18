@@ -1,7 +1,22 @@
 {
-  "description": "Keep it low-key with all of today's chill pop. Cover: MAX & FLETCHER",
+  "description": "Keep it low-key with all of today's chill pop. Cover: Catie Turner",
   "name": "Chill Pop",
   "tracks": [
+    {
+      "album": {
+        "name": "God Must Hate Me",
+        "url": "https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "duration_ms": 149802,
+      "name": "God Must Hate Me",
+      "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
+    },
     {
       "album": {
         "name": "Butterflies (feat. FLETCHER)",
@@ -20,6 +35,40 @@
       "duration_ms": 191250,
       "name": "Butterflies (feat. FLETCHER)",
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "album": {
+        "name": "For Tonight",
+        "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "For Tonight",
+      "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
+    },
+    {
+      "album": {
+        "name": "suffocate (feat. Lauren Sanderson)",
+        "url": "https://open.spotify.com/album/5012v7N4uMq87PbJIh0xtx"
+      },
+      "artists": [
+        {
+          "name": "Miki Ratsula",
+          "url": "https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30"
+        },
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 184588,
+      "name": "suffocate (feat. Lauren Sanderson)",
+      "url": "https://open.spotify.com/track/6iQpU4GaHXHXJ0PeCbPbRy"
     },
     {
       "album": {
@@ -117,25 +166,6 @@
     },
     {
       "album": {
-        "name": "suffocate (feat. Lauren Sanderson)",
-        "url": "https://open.spotify.com/album/5012v7N4uMq87PbJIh0xtx"
-      },
-      "artists": [
-        {
-          "name": "Miki Ratsula",
-          "url": "https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30"
-        },
-        {
-          "name": "Lauren Sanderson",
-          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
-        }
-      ],
-      "duration_ms": 184588,
-      "name": "suffocate (feat. Lauren Sanderson)",
-      "url": "https://open.spotify.com/track/6iQpU4GaHXHXJ0PeCbPbRy"
-    },
-    {
-      "album": {
         "name": "Fade Into A Dream",
         "url": "https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as"
       },
@@ -178,21 +208,6 @@
       "duration_ms": 182076,
       "name": "Every Second",
       "url": "https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3"
-    },
-    {
-      "album": {
-        "name": "For Tonight",
-        "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "For Tonight",
-      "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
     },
     {
       "album": {
@@ -329,21 +344,6 @@
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
-    },
-    {
-      "album": {
-        "name": "God Must Hate Me",
-        "url": "https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 149802,
-      "name": "God Must Hate Me",
-      "url": "https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK"
     },
     {
       "album": {

@@ -184,6 +184,21 @@
     },
     {
       "album": {
+        "name": "Just In View",
+        "url": "https://open.spotify.com/album/4e52GFe6T8POxpBMXqbTG7"
+      },
+      "artists": [
+        {
+          "name": "Euloria",
+          "url": "https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq"
+        }
+      ],
+      "duration_ms": 209750,
+      "name": "Just In View",
+      "url": "https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv"
+    },
+    {
+      "album": {
         "name": "Reticence",
         "url": "https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox"
       },
@@ -766,21 +781,6 @@
       "duration_ms": 361411,
       "name": "Beautiful And Forgotten",
       "url": "https://open.spotify.com/track/24bIHvdxjF97SjZOhjgh3I"
-    },
-    {
-      "album": {
-        "name": "Counting Sheep",
-        "url": "https://open.spotify.com/album/2e0oxaz5R2xkHcvyCy9eEH"
-      },
-      "artists": [
-        {
-          "name": "EON NOIRE",
-          "url": "https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/1CnxuoUdFLe5owHXJjJVQw"
     },
     {
       "album": {

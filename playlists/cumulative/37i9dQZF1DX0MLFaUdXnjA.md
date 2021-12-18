@@ -2,7 +2,7 @@
 
 ### [Chill Pop](https://open.spotify.com/playlist/37i9dQZF1DX0MLFaUdXnjA)
 
-> Keep it low-key with all of today's chill pop. Cover: MAX & FLETCHER
+> Keep it low-key with all of today's chill pop. Cover: Catie Turner
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

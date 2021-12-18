@@ -1,7 +1,22 @@
 {
-  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f) cover: spill tab, Gus Dapperton",
+  "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f) cover: Yot Club",
   "name": "indie pop & chill",
   "tracks": [
+    {
+      "album": {
+        "name": "Deer Island",
+        "url": "https://open.spotify.com/album/5DUmX6Jvvr0OulQMgZhj6k"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 190574,
+      "name": "Deer Island",
+      "url": "https://open.spotify.com/track/7IQhSyhmcQvGAjL9G7FpwS"
+    },
     {
       "album": {
         "name": "Velcro (feat. Gus Dapperton)",
@@ -91,21 +106,6 @@
     },
     {
       "album": {
-        "name": "Losers",
-        "url": "https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 177908,
-      "name": "Losers",
-      "url": "https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC"
-    },
-    {
-      "album": {
         "name": "Failed English",
         "url": "https://open.spotify.com/album/1BVE4R2Ze79EwSJ55Ha5hW"
       },
@@ -121,18 +121,48 @@
     },
     {
       "album": {
-        "name": "Hole",
-        "url": "https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8"
+        "name": "Losers",
+        "url": "https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf"
       },
       "artists": [
         {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
         }
       ],
-      "duration_ms": 174862,
-      "name": "Hole",
-      "url": "https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK"
+      "duration_ms": 177908,
+      "name": "Losers",
+      "url": "https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC"
+    },
+    {
+      "album": {
+        "name": "Bitches In The Bathroom",
+        "url": "https://open.spotify.com/album/1Z1IjE7xIGuH1jjFBsUOrJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "duration_ms": 179167,
+      "name": "Bitches In The Bathroom",
+      "url": "https://open.spotify.com/track/4jelQlTVvMmt3z0zxq9bUk"
+    },
+    {
+      "album": {
+        "name": "tell me what you want",
+        "url": "https://open.spotify.com/album/7t9jJ7fwYfrflEOdN1cVvW"
+      },
+      "artists": [
+        {
+          "name": "dacelynn",
+          "url": "https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh"
+        }
+      ],
+      "duration_ms": 154503,
+      "name": "tell me what you want",
+      "url": "https://open.spotify.com/track/5o8UqnjiKWDo7OzwFz1k1g"
     },
     {
       "album": {
@@ -151,18 +181,18 @@
     },
     {
       "album": {
-        "name": "Bitches In The Bathroom",
-        "url": "https://open.spotify.com/album/1Z1IjE7xIGuH1jjFBsUOrJ"
+        "name": "crashing down",
+        "url": "https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf"
       },
       "artists": [
         {
-          "name": "Charlie Houston",
-          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+          "name": "Arlie",
+          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
         }
       ],
-      "duration_ms": 179167,
-      "name": "Bitches In The Bathroom",
-      "url": "https://open.spotify.com/track/4jelQlTVvMmt3z0zxq9bUk"
+      "duration_ms": 139600,
+      "name": "crashing down",
+      "url": "https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx"
     },
     {
       "album": {
@@ -201,6 +231,21 @@
       "duration_ms": 139130,
       "name": "Alienated",
       "url": "https://open.spotify.com/track/0AdVA0pizR4KoZyu2XSJQp"
+    },
+    {
+      "album": {
+        "name": "space",
+        "url": "https://open.spotify.com/album/3gXgcspF6qBTJe9diFXCTV"
+      },
+      "artists": [
+        {
+          "name": "Jades Goudreault",
+          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "space",
+      "url": "https://open.spotify.com/track/069GJA2jMuhubyFsaQcRtd"
     },
     {
       "album": {
@@ -246,21 +291,6 @@
     },
     {
       "album": {
-        "name": "The Door",
-        "url": "https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5"
-      },
-      "artists": [
-        {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
-        }
-      ],
-      "duration_ms": 211663,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz"
-    },
-    {
-      "album": {
         "name": "\u200emads \u200emikkelsen",
         "url": "https://open.spotify.com/album/19k2kASG30g8HoZ5evWCzb"
       },
@@ -273,6 +303,25 @@
       "duration_ms": 228322,
       "name": "\u200emads \u200emikkelsen",
       "url": "https://open.spotify.com/track/4DgLYnXVObPYoCInL4GO70"
+    },
+    {
+      "album": {
+        "name": "from me, to you",
+        "url": "https://open.spotify.com/album/7khtsm8rte85jV3WfhypDB"
+      },
+      "artists": [
+        {
+          "name": "Marina Lin",
+          "url": "https://open.spotify.com/artist/56z9WF9quDfA4U6kcQrfQh"
+        },
+        {
+          "name": "Jon Caryl",
+          "url": "https://open.spotify.com/artist/0TffQbBN7iT1M1HFMvBSJp"
+        }
+      ],
+      "duration_ms": 218479,
+      "name": "fall apart",
+      "url": "https://open.spotify.com/track/05yRqiUA762bwTNqFUY88V"
     },
     {
       "album": {
@@ -291,18 +340,18 @@
     },
     {
       "album": {
-        "name": "space",
-        "url": "https://open.spotify.com/album/3gXgcspF6qBTJe9diFXCTV"
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5"
       },
       "artists": [
         {
-          "name": "Jades Goudreault",
-          "url": "https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN"
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
         }
       ],
-      "duration_ms": 242520,
-      "name": "space",
-      "url": "https://open.spotify.com/track/069GJA2jMuhubyFsaQcRtd"
+      "duration_ms": 211663,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz"
     },
     {
       "album": {
@@ -487,6 +536,21 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
+    },
+    {
+      "album": {
+        "name": "Hole",
+        "url": "https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 174862,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK"
     },
     {
       "album": {
@@ -1346,21 +1410,6 @@
     },
     {
       "album": {
-        "name": "i remember",
-        "url": "https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "i remember",
-      "url": "https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ"
-    },
-    {
-      "album": {
         "name": "you and me together is a problem",
         "url": "https://open.spotify.com/album/7yPCzWYprWlTY5GviKlHme"
       },
@@ -1557,21 +1606,6 @@
     },
     {
       "album": {
-        "name": "You Got The Part",
-        "url": "https://open.spotify.com/album/5rPdSuEALEZAj2DmyCneop"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "You Got The Part",
-      "url": "https://open.spotify.com/track/2wG3vRFT68jYXaXZ9kB6qM"
-    },
-    {
-      "album": {
         "name": "Funky",
         "url": "https://open.spotify.com/album/58p2sAkz9RGgnpDXiJqO7I"
       },
@@ -1587,21 +1621,6 @@
     },
     {
       "album": {
-        "name": "Harmony House",
-        "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL"
-    },
-    {
-      "album": {
         "name": "my life is boring",
         "url": "https://open.spotify.com/album/0tEIZbCGdcGATBeSO6rT8i"
       },
@@ -1614,21 +1633,6 @@
       "duration_ms": 139302,
       "name": "my life is boring",
       "url": "https://open.spotify.com/track/5OstHpGQNqun8D10ToLuzM"
-    },
-    {
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 157616,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz"

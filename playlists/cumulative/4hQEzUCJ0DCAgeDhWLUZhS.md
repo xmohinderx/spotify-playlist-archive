@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
 
-> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Mastodon
+> GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: The Amity Affliction
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2021-09-04 |  |
 | [DEADALIVE](https://open.spotify.com/track/5dPr6Q3SDvS4R1tVcwnlpA) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [DEADALIVE](https://open.spotify.com/album/3vpcguFzIwFSJQMZ4LKbDT) | 3:27 | 2020-10-23 |  |
 | [Deadline](https://open.spotify.com/track/76pUPMbmu0ENmuAiaTPvIq) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [This Is This](https://open.spotify.com/album/4VhsCxjH2URMz5tmiFB4oz) | 3:38 | 2021-03-16 |  |
+| [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 | 2021-12-18 |  |
 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 | 2020-10-10 | 2021-02-25 |
 | [Deleter](https://open.spotify.com/track/1r8e3HtZOP65v2uiWd17dF) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Deleter](https://open.spotify.com/album/4daspdXy4FtNb0GkxtdV3A) | 3:54 | 2020-10-10 | 2021-05-13 |
 | [DESTRUCTION](https://open.spotify.com/track/2PUdwSaySDli3XLtHpnuBj) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Destruction](https://open.spotify.com/album/4P3PkLlYaGzBdpbCX8O0vS) | 2:40 | 2020-10-10 | 2021-02-25 |

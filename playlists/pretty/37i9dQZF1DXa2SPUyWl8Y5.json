@@ -4,6 +4,175 @@
   "tracks": [
     {
       "album": {
+        "name": "Finja",
+        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Finja",
+      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
+    },
+    {
+      "album": {
+        "name": "Borealis",
+        "url": "https://open.spotify.com/album/4uC2fFEwq3cb0JdC0EgPwW"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 152769,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/6W8T0RkhPgCNZXHvKDYB1V"
+    },
+    {
+      "album": {
+        "name": "Goliath",
+        "url": "https://open.spotify.com/album/6otJvL5Xlxmejx5LtNiLnN"
+      },
+      "artists": [
+        {
+          "name": "Boss Axis",
+          "url": "https://open.spotify.com/artist/0LbAebKs7ZKbgtOnIizXLk"
+        }
+      ],
+      "duration_ms": 488881,
+      "name": "Goliath",
+      "url": "https://open.spotify.com/track/2yfxLmjLcNYSjdMSJbMZYJ"
+    },
+    {
+      "album": {
+        "name": "Speicher 114",
+        "url": "https://open.spotify.com/album/4A4ZhRVnKN29mfXWMxMrdE"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "duration_ms": 548040,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/7mBP9fo0krV2spidfoWI8V"
+    },
+    {
+      "album": {
+        "name": "Pyrolized",
+        "url": "https://open.spotify.com/album/6QW0H2YwMm6HgiNz1ehJbV"
+      },
+      "artists": [
+        {
+          "name": "Sascha Kloeber",
+          "url": "https://open.spotify.com/artist/1Rle6CpNbJy2S3nJVTjpNU"
+        },
+        {
+          "name": "Just Karl",
+          "url": "https://open.spotify.com/artist/51XqQUyiOiyss4sSRZrlPR"
+        }
+      ],
+      "duration_ms": 421832,
+      "name": "Pyrolized",
+      "url": "https://open.spotify.com/track/0yRwA3x5IhrUsxYVGtCqUb"
+    },
+    {
+      "album": {
+        "name": "10 Years URSL - Reframed Future",
+        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+      },
+      "artists": [
+        {
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+        }
+      ],
+      "duration_ms": 425437,
+      "name": "Reframed Future",
+      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+    },
+    {
+      "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+      },
+      "artists": [
+        {
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+        }
+      ],
+      "duration_ms": 269153,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+    },
+    {
+      "album": {
+        "name": "Allegri",
+        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 322640,
+      "name": "Allegri",
+      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
+    },
+    {
+      "album": {
+        "name": "Odyssee",
+        "url": "https://open.spotify.com/album/6ln3Zv73tCbjWMyuNnTMJO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "duration_ms": 460179,
+      "name": "Odyssee",
+      "url": "https://open.spotify.com/track/2PimOJBhxyKvvgrWKgBpAH"
+    },
+    {
+      "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/2R3CmmMoY8XCfUYamJ7Xsg"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR_C",
+          "url": "https://open.spotify.com/artist/5SWLgQ6dVvJSNXWN4dMEC6"
+        }
+      ],
+      "duration_ms": 485965,
+      "name": "Hate: Love",
+      "url": "https://open.spotify.com/track/4CTlENI5cxPQR57ZptMVMw"
+    },
+    {
+      "album": {
+        "name": "Euch die Uhren uns die Zeit",
+        "url": "https://open.spotify.com/album/47c58ulJOzSaw2iLkSWfI9"
+      },
+      "artists": [
+        {
+          "name": "Dirty Doering",
+          "url": "https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea"
+        }
+      ],
+      "duration_ms": 424309,
+      "name": "High Level Road",
+      "url": "https://open.spotify.com/track/7srg6KjuMcf1dSjXYt2Lsj"
+    },
+    {
+      "album": {
         "name": "Finding Atlantis",
         "url": "https://open.spotify.com/album/7wUQhwrYn9mUrYBUKzNW5v"
       },
@@ -19,37 +188,18 @@
     },
     {
       "album": {
-        "name": "Crossing",
-        "url": "https://open.spotify.com/album/5XuCKnhO815k8InduVnMeS"
+        "name": "Azamutha",
+        "url": "https://open.spotify.com/album/1EbVJzHrV2U39bpTglI7Xr"
       },
       "artists": [
         {
-          "name": "UOAK",
-          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
-        },
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
         }
       ],
-      "duration_ms": 334156,
-      "name": "Crossing",
-      "url": "https://open.spotify.com/track/1Lko0eAz8inPzFDSbEVS4Y"
-    },
-    {
-      "album": {
-        "name": "Spaziergang im All",
-        "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
-      },
-      "artists": [
-        {
-          "name": "Deorbiting",
-          "url": "https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr"
-        }
-      ],
-      "duration_ms": 498670,
-      "name": "Spaziergang im All",
-      "url": "https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd"
+      "duration_ms": 515666,
+      "name": "Azamutha",
+      "url": "https://open.spotify.com/track/5sKH7kVaLM58UjdGXMZjco"
     },
     {
       "album": {
@@ -72,575 +222,56 @@
     },
     {
       "album": {
-        "name": "The Dawn",
-        "url": "https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT"
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
       },
       "artists": [
         {
-          "name": "Alex Dovo",
-          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
-        }
-      ],
-      "duration_ms": 463563,
-      "name": "Free Colombia",
-      "url": "https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN"
-    },
-    {
-      "album": {
-        "name": "Second Sun",
-        "url": "https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 224332,
-      "name": "Second Sun",
-      "url": "https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg"
-    },
-    {
-      "album": {
-        "name": "All Equal",
-        "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        },
-        {
-          "name": "Faodail",
-          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
-        }
-      ],
-      "duration_ms": 222992,
-      "name": "All Equal",
-      "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
-    },
-    {
-      "album": {
-        "name": "Piano & Electronic Ensemble Op. 1",
-        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
-      },
-      "artists": [
-        {
-          "name": "Schlindwein",
-          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
-        }
-      ],
-      "duration_ms": 375483,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
-    },
-    {
-      "album": {
-        "name": "Dea Dia",
-        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 530979,
-      "name": "Dea Dia",
-      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
-    },
-    {
-      "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW"
-      },
-      "artists": [
-        {
-          "name": "Carlo Whale",
-          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a"
-    },
-    {
-      "album": {
-        "name": "Finja",
-        "url": "https://open.spotify.com/album/7KQZuMrMi3pg1Wt49OH4Gg"
-      },
-      "artists": [
-        {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
-        }
-      ],
-      "duration_ms": 218226,
-      "name": "Finja",
-      "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
-    },
-    {
-      "album": {
-        "name": "Postquam",
-        "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 498419,
-      "name": "Postquam",
-      "url": "https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b"
-    },
-    {
-      "album": {
-        "name": "Borealis",
-        "url": "https://open.spotify.com/album/4uC2fFEwq3cb0JdC0EgPwW"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 152769,
-      "name": "Borealis",
-      "url": "https://open.spotify.com/track/6W8T0RkhPgCNZXHvKDYB1V"
-    },
-    {
-      "album": {
-        "name": "Purple Days & Purple Nights",
-        "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
-      },
-      "artists": [
-        {
-          "name": "KlangTherapeuten",
-          "url": "https://open.spotify.com/artist/0QcOjrywD2cdYAZfbmeVCe"
-        },
-        {
-          "name": "Max Manie",
-          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
-        }
-      ],
-      "duration_ms": 269531,
-      "name": "Purple Days",
-      "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
-    },
-    {
-      "album": {
-        "name": "Traum EP",
-        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Deep in My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
-    },
-    {
-      "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 380039,
-      "name": "Black Ice",
-      "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
-    },
-    {
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR"
-      },
-      "artists": [
-        {
-          "name": "Another Mind",
-          "url": "https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4"
-        }
-      ],
-      "duration_ms": 476129,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz"
-    },
-    {
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5rUrltKgAPbdGtKP7WATUL"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/4dSH4QOSnQa6PutN1rDHOG"
-    },
-    {
-      "album": {
-        "name": "Suvi",
-        "url": "https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Suvi",
-      "url": "https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL"
-    },
-    {
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
-      },
-      "artists": [
-        {
-          "name": "Haddadi Von Engst",
-          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
-    },
-    {
-      "album": {
-        "name": "Pure Love EP",
-        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        }
-      ],
-      "duration_ms": 393495,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "album": {
-        "name": "Panslinger",
-        "url": "https://open.spotify.com/album/4oPjm0PzlCpDDJLKopTZcM"
-      },
-      "artists": [
-        {
-          "name": "Starkato",
-          "url": "https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z"
-        },
-        {
-          "name": "Intaktogene",
-          "url": "https://open.spotify.com/artist/4Xb3F7RouTER6Dckc2PCG0"
-        }
-      ],
-      "duration_ms": 437479,
-      "name": "Panama",
-      "url": "https://open.spotify.com/track/6t5ZrF85M2199GUyPm4P3k"
-    },
-    {
-      "album": {
-        "name": "Fader",
-        "url": "https://open.spotify.com/album/62KwnbwuZHGrefZAc2dlAU"
-      },
-      "artists": [
-        {
-          "name": "Casper Cole",
-          "url": "https://open.spotify.com/artist/6cDNuaBrX01wpytv0fLTmV"
-        }
-      ],
-      "duration_ms": 373875,
-      "name": "Fader",
-      "url": "https://open.spotify.com/track/0nXB7YWrra82OKeTa6PVWq"
-    },
-    {
-      "album": {
-        "name": "Multi",
-        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 177243,
-      "name": "Multi",
-      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
-    },
-    {
-      "album": {
-        "name": "Fallin",
-        "url": "https://open.spotify.com/album/3Hkx4TJYtfUeQ07qnlD2yo"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 379386,
-      "name": "Fr\u00e4ulein Smilla",
-      "url": "https://open.spotify.com/track/2VhMVewJnu96AG9QxyeJLo"
-    },
-    {
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
-      },
-      "artists": [
         {
           "name": "Galexis",
           "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
         }
       ],
-      "duration_ms": 413658,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+      "duration_ms": 192016,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
     },
     {
       "album": {
-        "name": "Cliff (Einmusik Remix)",
-        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
+        "name": "Valencia EP",
+        "url": "https://open.spotify.com/album/28ABRHxfn3iy0fHlrSH2Xm"
       },
       "artists": [
         {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+          "name": "Qplex",
+          "url": "https://open.spotify.com/artist/6jzKbs2y3hrAeiM5frPVbY"
+        }
+      ],
+      "duration_ms": 486112,
+      "name": "Valencia",
+      "url": "https://open.spotify.com/track/2z8f7v10JqUq4zXokDn2c3"
+    },
+    {
+      "album": {
+        "name": "La Napoule (Nathan Micay's Life in Every Breath Remix)",
+        "url": "https://open.spotify.com/album/1IhIyCKQM9SIxc2CONztlE"
+      },
+      "artists": [
+        {
+          "name": "Toh Imago",
+          "url": "https://open.spotify.com/artist/5u9DNVFl4Or5RhHPQFoiac"
         },
         {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+          "name": "Nathan Micay",
+          "url": "https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC"
         }
       ],
-      "duration_ms": 444816,
-      "name": "Cliff - Einmusik Remix",
-      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
-    },
-    {
-      "album": {
-        "name": "Allegri",
-        "url": "https://open.spotify.com/album/0hZ5pbRtDrgthadiEITkSh"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 322640,
-      "name": "Allegri",
-      "url": "https://open.spotify.com/track/2ajYUTjVoBuRxc0zIBvWxh"
-    },
-    {
-      "album": {
-        "name": "Flight Into the Void EP",
-        "url": "https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU"
-      },
-      "artists": [
-        {
-          "name": "Remcord",
-          "url": "https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Flight Into the Void",
-      "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
-    },
-    {
-      "album": {
-        "name": "Luscious Rain",
-        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
-    },
-    {
-      "album": {
-        "name": "Meertraum",
-        "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
-      },
-      "artists": [
-        {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        }
-      ],
-      "duration_ms": 394418,
-      "name": "Meertraum",
-      "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
-    },
-    {
-      "album": {
-        "name": "Exoplanet",
-        "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
-      },
-      "artists": [
-        {
-          "name": "Third Person",
-          "url": "https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc"
-        },
-        {
-          "name": "Intara",
-          "url": "https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy"
-        }
-      ],
-      "duration_ms": 501290,
-      "name": "Exoplanet",
-      "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
-    },
-    {
-      "album": {
-        "name": "Absent Minded in Berlin",
-        "url": "https://open.spotify.com/album/3h3q4NDyH1VGvmy4TEkimk"
-      },
-      "artists": [
-        {
-          "name": "Cook & Stans",
-          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
-        }
-      ],
-      "duration_ms": 311613,
-      "name": "Absent Minded in Berlin",
-      "url": "https://open.spotify.com/track/5FZsLt0wUHvmoVdDjdRvBA"
-    },
-    {
-      "album": {
-        "name": "June (Mees Salom\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
-      },
-      "artists": [
-        {
-          "name": "Amy Root",
-          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
-        },
-        {
-          "name": "Mees Salom\u00e9",
-          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
-        }
-      ],
-      "duration_ms": 448770,
-      "name": "June - Mees Salom\u00e9 Remix",
-      "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
-    },
-    {
-      "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
-        }
-      ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
-    },
-    {
-      "album": {
-        "name": "Last Storm",
-        "url": "https://open.spotify.com/album/1rxYS0QgwUnSqbLnIPoes1"
-      },
-      "artists": [
-        {
-          "name": "Johan Mila",
-          "url": "https://open.spotify.com/artist/2pRosGbLxjNNeijcRGKYli"
-        }
-      ],
-      "duration_ms": 401834,
-      "name": "Last Storm",
-      "url": "https://open.spotify.com/track/3mN0xBvHnDlSheEUdkdObs"
-    },
-    {
-      "album": {
-        "name": "Amantes amentes",
-        "url": "https://open.spotify.com/album/5YHrmNOofPTzVx4st7Bkn7"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 448684,
-      "name": "Amantes amentes",
-      "url": "https://open.spotify.com/track/4LKS7ed36wRifpsBjXzTbz"
-    },
-    {
-      "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 414053,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU"
+      "duration_ms": 447201,
+      "name": "La Napoule - Nathan Micay's Life in Every Breath Remix",
+      "url": "https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW"
     },
     {
       "album": {
@@ -674,417 +305,82 @@
     },
     {
       "album": {
-        "name": "From Desolate Places and Forgotten Times",
-        "url": "https://open.spotify.com/album/2o8Ggk3Fbgje1iIAw3hB1l"
+        "name": "Suvi",
+        "url": "https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds"
       },
       "artists": [
         {
-          "name": "Sainte Vie",
-          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 595837,
-      "name": "High Seas",
-      "url": "https://open.spotify.com/track/3vIN77NsPlbqUOYC0DZBvo"
+      "duration_ms": 191612,
+      "name": "Suvi",
+      "url": "https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL"
     },
     {
       "album": {
-        "name": "La Napoule (Nathan Micay's Life in Every Breath Remix)",
-        "url": "https://open.spotify.com/album/1IhIyCKQM9SIxc2CONztlE"
+        "name": "Flight Into the Void EP",
+        "url": "https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU"
       },
       "artists": [
         {
-          "name": "Toh Imago",
-          "url": "https://open.spotify.com/artist/5u9DNVFl4Or5RhHPQFoiac"
+          "name": "Remcord",
+          "url": "https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB"
+        }
+      ],
+      "duration_ms": 406000,
+      "name": "Flight Into the Void",
+      "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
+    },
+    {
+      "album": {
+        "name": "Cliff (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
         },
         {
-          "name": "Nathan Micay",
-          "url": "https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC"
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 447201,
-      "name": "La Napoule - Nathan Micay's Life in Every Breath Remix",
-      "url": "https://open.spotify.com/track/26BnoECfbkfmgw05VNMFGW"
+      "duration_ms": 444816,
+      "name": "Cliff - Einmusik Remix",
+      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
     },
     {
       "album": {
-        "name": "Seige",
-        "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1yscDOLlUdkTSMtbYt8VwX"
       },
       "artists": [
         {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+          "name": "Oma Nata",
+          "url": "https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo"
         }
       ],
-      "duration_ms": 433564,
-      "name": "Seige",
-      "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
+      "duration_ms": 382194,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3XI5xmqIiDqdHF7vLZUnfL"
     },
     {
       "album": {
-        "name": "Eagles (Aalson Remix)",
-        "url": "https://open.spotify.com/album/1KC8G5Zg5fRmq3lSv2dvxe"
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR"
       },
       "artists": [
         {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        },
-        {
-          "name": "Aalson",
-          "url": "https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY"
+          "name": "Another Mind",
+          "url": "https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4"
         }
       ],
-      "duration_ms": 499834,
-      "name": "Eagles - Aalson Remix",
-      "url": "https://open.spotify.com/track/7lLjt2Hdnn3Q0EqRgmvBAG"
-    },
-    {
-      "album": {
-        "name": "X'Omega EP",
-        "url": "https://open.spotify.com/album/1QCWsrOZCBbHPj4gRPzmLA"
-      },
-      "artists": [
-        {
-          "name": "Mangudai",
-          "url": "https://open.spotify.com/artist/5Fvj88agzCEmQj5GPrApNi"
-        }
-      ],
-      "duration_ms": 432203,
-      "name": "X'Omega",
-      "url": "https://open.spotify.com/track/15JHrKDQWx5X4IkFeVUxyq"
-    },
-    {
-      "album": {
-        "name": "Breaking The Clouds",
-        "url": "https://open.spotify.com/album/1nlhSNR420AabaXSCI2j5R"
-      },
-      "artists": [
-        {
-          "name": "Dapayk solo",
-          "url": "https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp"
-        }
-      ],
-      "duration_ms": 521097,
-      "name": "Breaking The Clouds",
-      "url": "https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC"
-    },
-    {
-      "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        }
-      ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
-    },
-    {
-      "album": {
-        "name": "Nikki & Entrudo Remixes",
-        "url": "https://open.spotify.com/album/0NUun0yAHQJbWvHlBlVjGS"
-      },
-      "artists": [
-        {
-          "name": "Worakls",
-          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 412500,
-      "name": "Entrudo - Booka Shade Remix",
-      "url": "https://open.spotify.com/track/2sYMIOU4lJd70MGwVfrGKZ"
-    },
-    {
-      "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/0HrDrQPhOBR04RKmY7DCJj"
-      },
-      "artists": [
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        }
-      ],
-      "duration_ms": 547914,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/4umLzOBGXqKqNVAuYJqAGi"
-    },
-    {
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
-      },
-      "artists": [
-        {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
-        }
-      ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
-    },
-    {
-      "album": {
-        "name": "Lu | Sal Amander | Tesseract",
-        "url": "https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm"
-      },
-      "artists": [
-        {
-          "name": "Nors Kode",
-          "url": "https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY"
-        }
-      ],
-      "duration_ms": 397377,
-      "name": "Tesseract",
-      "url": "https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM"
-    },
-    {
-      "album": {
-        "name": "Bird EP",
-        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
-      },
-      "artists": [
-        {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
-        }
-      ],
-      "duration_ms": 350047,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
-    },
-    {
-      "album": {
-        "name": "Zero One Lotus",
-        "url": "https://open.spotify.com/album/37FVEqPQb6u4tYK3MejEb5"
-      },
-      "artists": [
-        {
-          "name": "Sam Goku",
-          "url": "https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l"
-        }
-      ],
-      "duration_ms": 450627,
-      "name": "Zero One Lotus",
-      "url": "https://open.spotify.com/track/5PCI2qhaJ9O4CojCKPjIPG"
-    },
-    {
-      "album": {
-        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
-        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 528959,
-      "name": "Chaos",
-      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
-    },
-    {
-      "album": {
-        "name": "Prelusion",
-        "url": "https://open.spotify.com/album/3N6cm4FyrEgbMUKahWiatI"
-      },
-      "artists": [
-        {
-          "name": "Mark Tarmonea",
-          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
-        },
-        {
-          "name": "Yannek Maunz",
-          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
-        }
-      ],
-      "duration_ms": 377919,
-      "name": "Prelusion",
-      "url": "https://open.spotify.com/track/6YJ9z4IInxfJWsjc6ADtV2"
-    },
-    {
-      "album": {
-        "name": "10 Years URSL - Reframed Future",
-        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
-      },
-      "artists": [
-        {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
-        }
-      ],
-      "duration_ms": 425437,
-      "name": "Reframed Future",
-      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
-    },
-    {
-      "album": {
-        "name": "Hailstorm (Ann Clue Remix)",
-        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        },
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 382486,
-      "name": "Hailstorm - Ann Clue Remix",
-      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
-    },
-    {
-      "album": {
-        "name": "Resurrect EP",
-        "url": "https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck"
-      },
-      "artists": [
-        {
-          "name": "Forgotten Notes",
-          "url": "https://open.spotify.com/artist/0UoDyIWlKQdUukk9f7snZx"
-        }
-      ],
-      "duration_ms": 450595,
-      "name": "Resurrect",
-      "url": "https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D"
-    },
-    {
-      "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
-    },
-    {
-      "album": {
-        "name": "Days Of Change",
-        "url": "https://open.spotify.com/album/5mFEKLT0INqNsAXwsjJahE"
-      },
-      "artists": [
-        {
-          "name": "Modeplex",
-          "url": "https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU"
-        }
-      ],
-      "duration_ms": 474679,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/5ZrT1f69ISeELuHAHdYste"
-    },
-    {
-      "album": {
-        "name": "Symbiotic Nature",
-        "url": "https://open.spotify.com/album/6mWG3m1bPkfF60InOJvQ1l"
-      },
-      "artists": [
-        {
-          "name": "Brendon Moeller",
-          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
-        }
-      ],
-      "duration_ms": 374250,
-      "name": "Symbiotic Nature",
-      "url": "https://open.spotify.com/track/0FUUkCK8Mw51Bgq4in85Qp"
-    },
-    {
-      "album": {
-        "name": "Ombre",
-        "url": "https://open.spotify.com/album/7nJUgp3R2K9osYWNxm3k4D"
-      },
-      "artists": [
-        {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
-        }
-      ],
-      "duration_ms": 354098,
-      "name": "Ombre",
-      "url": "https://open.spotify.com/track/5SW8SlaKiBYh4qBpomiL61"
-    },
-    {
-      "album": {
-        "name": "Loss/Bow To The Rain",
-        "url": "https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV"
-      },
-      "artists": [
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "Less Hate",
-          "url": "https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Loss",
-      "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
-    },
-    {
-      "album": {
-        "name": "Odyssee",
-        "url": "https://open.spotify.com/album/6ln3Zv73tCbjWMyuNnTMJO"
-      },
-      "artists": [
-        {
-          "name": "Hidden Empire",
-          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
-        }
-      ],
-      "duration_ms": 460179,
-      "name": "Odyssee",
-      "url": "https://open.spotify.com/track/2PimOJBhxyKvvgrWKgBpAH"
-    },
-    {
-      "album": {
-        "name": "Curve | The Arc",
-        "url": "https://open.spotify.com/album/7Cv8pKOfpX7oBQPMRQU0Qd"
-      },
-      "artists": [
-        {
-          "name": "Microtrauma",
-          "url": "https://open.spotify.com/artist/4abBidW4ScsxlRcISTeKkB"
-        }
-      ],
-      "duration_ms": 515111,
-      "name": "Curve",
-      "url": "https://open.spotify.com/track/5J0id4CmRP4rC89UmwVFYd"
-    },
-    {
-      "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 257903,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
+      "duration_ms": 476129,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz"
     },
     {
       "album": {
@@ -1107,101 +403,18 @@
     },
     {
       "album": {
-        "name": "Spacemodulation",
-        "url": "https://open.spotify.com/album/56DI79LnAjbuiwP9GgGc6u"
+        "name": "The Dawn",
+        "url": "https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT"
       },
       "artists": [
         {
-          "name": "Flug 8",
-          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
+          "name": "Alex Dovo",
+          "url": "https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL"
         }
       ],
-      "duration_ms": 428160,
-      "name": "Spacemodulation",
-      "url": "https://open.spotify.com/track/6g8QDiZ1zAwucNXgKnVIrW"
-    },
-    {
-      "album": {
-        "name": "Sora",
-        "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
-      },
-      "artists": [
-        {
-          "name": "Milkwish",
-          "url": "https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv"
-        },
-        {
-          "name": "9hearts",
-          "url": "https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt"
-        }
-      ],
-      "duration_ms": 212849,
-      "name": "Sora",
-      "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
-    },
-    {
-      "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/6qyxTZq9Wxe1HNW47TTins"
-      },
-      "artists": [
-        {
-          "name": "GNTN",
-          "url": "https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu"
-        }
-      ],
-      "duration_ms": 426666,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1QjPFkuEZPnD7uc34cikuD"
-    },
-    {
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
-    },
-    {
-      "album": {
-        "name": "Tesseract",
-        "url": "https://open.spotify.com/album/5qX92Y0v7VF5W8ZwhS8tdW"
-      },
-      "artists": [
-        {
-          "name": "Mark Tarmonea",
-          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
-        },
-        {
-          "name": "Yannek Maunz",
-          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
-        }
-      ],
-      "duration_ms": 386303,
-      "name": "Tesseract - Original Mix",
-      "url": "https://open.spotify.com/track/37s2WyJ33fi2EIsSrSETV6"
-    },
-    {
-      "album": {
-        "name": "Silver Goat",
-        "url": "https://open.spotify.com/album/1Y903pCu66Txu6e1iOiudi"
-      },
-      "artists": [
-        {
-          "name": "Lake Avalon",
-          "url": "https://open.spotify.com/artist/2GgwB2XT8sTzoBVddjJ2Vd"
-        }
-      ],
-      "duration_ms": 471391,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/1AgUrCsgXQZ9IRmT1lEoH8"
+      "duration_ms": 463563,
+      "name": "Free Colombia",
+      "url": "https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN"
     },
     {
       "album": {
@@ -1224,67 +437,870 @@
     },
     {
       "album": {
-        "name": "Asiri",
-        "url": "https://open.spotify.com/album/77PSTw3UsjsWTcxfgnDw72"
+        "name": "Tesseract",
+        "url": "https://open.spotify.com/album/5qX92Y0v7VF5W8ZwhS8tdW"
       },
       "artists": [
         {
-          "name": "Joep Mencke",
-          "url": "https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm"
-        }
-      ],
-      "duration_ms": 578929,
-      "name": "Asiri",
-      "url": "https://open.spotify.com/track/4bdbWkbYxmGDOA7jLq5DdA"
-    },
-    {
-      "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "Mark Tarmonea",
+          "url": "https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn"
         },
         {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+          "name": "Yannek Maunz",
+          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
         }
       ],
-      "duration_ms": 192016,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
+      "duration_ms": 386303,
+      "name": "Tesseract - Original Mix",
+      "url": "https://open.spotify.com/track/37s2WyJ33fi2EIsSrSETV6"
     },
     {
       "album": {
-        "name": "Mdogo",
-        "url": "https://open.spotify.com/album/6jN5dvadtyOB8p1rdFB4D9"
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW"
       },
       "artists": [
         {
-          "name": "KYONGPAUL",
-          "url": "https://open.spotify.com/artist/4zy5g7xdWMP1adk6zGHeVx"
+          "name": "Carlo Whale",
+          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
         }
       ],
-      "duration_ms": 427658,
-      "name": "Mdogo",
-      "url": "https://open.spotify.com/track/4D05ikAdhRGPUn5coE8DKl"
+      "duration_ms": 378000,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a"
     },
     {
       "album": {
-        "name": "Serenade",
-        "url": "https://open.spotify.com/album/5iRJm5uxTDkkEu0EmQf1jR"
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/3NIhhiNLa8eirGzZRF1PvO"
       },
       "artists": [
         {
-          "name": "Stil & Bense",
-          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        },
+        {
+          "name": "Circle of Life",
+          "url": "https://open.spotify.com/artist/42RQg877YIAzBlaGWWGEPs"
         }
       ],
-      "duration_ms": 411400,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/6JGDoTtGLaaikBdyLExPZ8"
+      "duration_ms": 405853,
+      "name": "Kosmos",
+      "url": "https://open.spotify.com/track/7KTjB28PA4fG1XrdMvcQwK"
+    },
+    {
+      "album": {
+        "name": "Fishing Box V",
+        "url": "https://open.spotify.com/album/7hsAFlOCmGn9xCsMIn9tkn"
+      },
+      "artists": [
+        {
+          "name": "Joe Fisher",
+          "url": "https://open.spotify.com/artist/2Xb3eFPBkGd3W7GnwKPE4g"
+        },
+        {
+          "name": "Aves Volare",
+          "url": "https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq"
+        }
+      ],
+      "duration_ms": 453540,
+      "name": "Human Failure - Aves Volare Remix",
+      "url": "https://open.spotify.com/track/42DrQ0vbP0U4CZWBgJhefw"
+    },
+    {
+      "album": {
+        "name": "Luscious Rain",
+        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Luscious Rain",
+      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
+    },
+    {
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/4WSLwYXMZIfbDOit8Qisq3"
+      },
+      "artists": [
+        {
+          "name": "Soul Button",
+          "url": "https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm"
+        }
+      ],
+      "duration_ms": 475570,
+      "name": "Insurgence",
+      "url": "https://open.spotify.com/track/2ZIfoWjvGK3ABgIFjrhQBY"
+    },
+    {
+      "album": {
+        "name": "Symbiotic Nature",
+        "url": "https://open.spotify.com/album/6mWG3m1bPkfF60InOJvQ1l"
+      },
+      "artists": [
+        {
+          "name": "Brendon Moeller",
+          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
+        }
+      ],
+      "duration_ms": 374250,
+      "name": "Symbiotic Nature",
+      "url": "https://open.spotify.com/track/0FUUkCK8Mw51Bgq4in85Qp"
+    },
+    {
+      "album": {
+        "name": "Dea Dia",
+        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 530979,
+      "name": "Dea Dia",
+      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+    },
+    {
+      "album": {
+        "name": "Tarcu",
+        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 238537,
+      "name": "Tarcu",
+      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+    },
+    {
+      "album": {
+        "name": "Summer Sampler 2018",
+        "url": "https://open.spotify.com/album/1Wa0vMSFwBIRDI8rz58F03"
+      },
+      "artists": [
+        {
+          "name": "Facundo Mohrr",
+          "url": "https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF"
+        },
+        {
+          "name": "Valdovinos",
+          "url": "https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L"
+        }
+      ],
+      "duration_ms": 565818,
+      "name": "November - Original Mix",
+      "url": "https://open.spotify.com/track/6ESO1632vmHeFXpq5N4bfr"
+    },
+    {
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 257903,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7jw452od74FzquMBqkUXiY"
+    },
+    {
+      "album": {
+        "name": "Ombre",
+        "url": "https://open.spotify.com/album/7nJUgp3R2K9osYWNxm3k4D"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 354098,
+      "name": "Ombre",
+      "url": "https://open.spotify.com/track/5SW8SlaKiBYh4qBpomiL61"
+    },
+    {
+      "album": {
+        "name": "Eskapist Volume 1",
+        "url": "https://open.spotify.com/album/1M6zocvmR17rKTW6Gx2e9k"
+      },
+      "artists": [
+        {
+          "name": "Eskapist",
+          "url": "https://open.spotify.com/artist/4D4ONdG2ayEm75hvXHWDnI"
+        }
+      ],
+      "duration_ms": 451005,
+      "name": "Loggbight",
+      "url": "https://open.spotify.com/track/7ihqDGoKAtGRfX65Kfnp9G"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/5KsK6bcTOtDlGqFUT2DBsH"
+      },
+      "artists": [
+        {
+          "name": "Clawz SG",
+          "url": "https://open.spotify.com/artist/2Em0PWUcrHZFGLrpVv0xtb"
+        }
+      ],
+      "duration_ms": 484800,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4ycnTMhYe99RPxKgFDPw5p"
+    },
+    {
+      "album": {
+        "name": "Nova (Joseph Ray Remix)",
+        "url": "https://open.spotify.com/album/0cSLJPZXxYUaLmUtWZ2JaU"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 277498,
+      "name": "Nova - Joseph Ray Remix",
+      "url": "https://open.spotify.com/track/6LNsUBqtCA3aqN8fyLmisS"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/6qyxTZq9Wxe1HNW47TTins"
+      },
+      "artists": [
+        {
+          "name": "GNTN",
+          "url": "https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu"
+        }
+      ],
+      "duration_ms": 426666,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1QjPFkuEZPnD7uc34cikuD"
+    },
+    {
+      "album": {
+        "name": "Eagles (Aalson Remix)",
+        "url": "https://open.spotify.com/album/1KC8G5Zg5fRmq3lSv2dvxe"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        },
+        {
+          "name": "Aalson",
+          "url": "https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY"
+        }
+      ],
+      "duration_ms": 499834,
+      "name": "Eagles - Aalson Remix",
+      "url": "https://open.spotify.com/track/7lLjt2Hdnn3Q0EqRgmvBAG"
+    },
+    {
+      "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/3Hkx4TJYtfUeQ07qnlD2yo"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 379386,
+      "name": "Fr\u00e4ulein Smilla",
+      "url": "https://open.spotify.com/track/2VhMVewJnu96AG9QxyeJLo"
+    },
+    {
+      "album": {
+        "name": "House Of Lights EP",
+        "url": "https://open.spotify.com/album/2LHoUIWO6Q8SgnbkjzqYVF"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 516000,
+      "name": "House Of Lights",
+      "url": "https://open.spotify.com/track/26jkWXrQRsWHKPxEX2Ahg3"
+    },
+    {
+      "album": {
+        "name": "Kinetics",
+        "url": "https://open.spotify.com/album/40ACOK23jII7rDzgFxM9tn"
+      },
+      "artists": [
+        {
+          "name": "Matchy",
+          "url": "https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n"
+        },
+        {
+          "name": "Matthias Schuell",
+          "url": "https://open.spotify.com/artist/4JPG7E5xdfg4TIaRPRSFrk"
+        }
+      ],
+      "duration_ms": 348388,
+      "name": "Kinetics",
+      "url": "https://open.spotify.com/track/5WIOrOpTFKBRzGvleamhOF"
+    },
+    {
+      "album": {
+        "name": "Naive / Tristesse",
+        "url": "https://open.spotify.com/album/2IpZmLL2HPfft6I6kSStV0"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        }
+      ],
+      "duration_ms": 507540,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/4Qpc3gQZKV7kq22ETvM2DS"
+    },
+    {
+      "album": {
+        "name": "Space Chants",
+        "url": "https://open.spotify.com/album/0XQ8IM2Rye1ODNPJ93AepE"
+      },
+      "artists": [
+        {
+          "name": "Spieltape",
+          "url": "https://open.spotify.com/artist/6Et53z8rREv56kKxJi0an6"
+        },
+        {
+          "name": "Dave Pad",
+          "url": "https://open.spotify.com/artist/4wTXdJW4CabMRwP9aGXO42"
+        }
+      ],
+      "duration_ms": 417048,
+      "name": "Space Chants",
+      "url": "https://open.spotify.com/track/0ZykKpfjw56pAQnkvRIFZS"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/0pqXcCLbCvYkPb2da2xM8k"
+      },
+      "artists": [
+        {
+          "name": "Sobek",
+          "url": "https://open.spotify.com/artist/7id8eArvVd4finwH5fR2pL"
+        }
+      ],
+      "duration_ms": 394918,
+      "name": "Charmer",
+      "url": "https://open.spotify.com/track/1vCMQnSMA1ENkf01WbruXK"
+    },
+    {
+      "album": {
+        "name": "Rampart",
+        "url": "https://open.spotify.com/album/1qjiajJn3M2ykYBGNuKhQV"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "duration_ms": 418422,
+      "name": "Rampart",
+      "url": "https://open.spotify.com/track/70gaevd9hiDme65DptoXEN"
+    },
+    {
+      "album": {
+        "name": "All Equal",
+        "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        },
+        {
+          "name": "Faodail",
+          "url": "https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi"
+        }
+      ],
+      "duration_ms": 222992,
+      "name": "All Equal",
+      "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
+    },
+    {
+      "album": {
+        "name": "Seige",
+        "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 433564,
+      "name": "Seige",
+      "url": "https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2"
+    },
+    {
+      "album": {
+        "name": "Panslinger",
+        "url": "https://open.spotify.com/album/4oPjm0PzlCpDDJLKopTZcM"
+      },
+      "artists": [
+        {
+          "name": "Starkato",
+          "url": "https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z"
+        },
+        {
+          "name": "Intaktogene",
+          "url": "https://open.spotify.com/artist/4Xb3F7RouTER6Dckc2PCG0"
+        }
+      ],
+      "duration_ms": 437479,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/6t5ZrF85M2199GUyPm4P3k"
+    },
+    {
+      "album": {
+        "name": "Cosmic Manifest",
+        "url": "https://open.spotify.com/album/2kSkLhwIBo9DBalcqGRegN"
+      },
+      "artists": [
+        {
+          "name": "Binaryh",
+          "url": "https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So"
+        }
+      ],
+      "duration_ms": 428852,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/3SYD63ad3pRG3SMN21NRDr"
+    },
+    {
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 414053,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU"
+    },
+    {
+      "album": {
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
+    },
+    {
+      "album": {
+        "name": "Meander",
+        "url": "https://open.spotify.com/album/35expt7hRRvPJjgz0u3zgQ"
+      },
+      "artists": [
+        {
+          "name": "D-Nox",
+          "url": "https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT"
+        },
+        {
+          "name": "K.A.L.I.L.",
+          "url": "https://open.spotify.com/artist/6im40CIcqEb9GVJ7Mg4nbT"
+        }
+      ],
+      "duration_ms": 456774,
+      "name": "Meander",
+      "url": "https://open.spotify.com/track/4TN8SX6JHHF7POrXgTBhtX"
+    },
+    {
+      "album": {
+        "name": "Inner Reflections",
+        "url": "https://open.spotify.com/album/4IwGCosAPLkra3kdSW4vB5"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        },
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 437287,
+      "name": "Transparent",
+      "url": "https://open.spotify.com/track/1NAue8GrpyAmw2IKUL0EYX"
+    },
+    {
+      "album": {
+        "name": "Plexus 3AM (Nicole Moudaber Remix)",
+        "url": "https://open.spotify.com/album/6bIMJjahQvksudbYdYNKiz"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "duration_ms": 458000,
+      "name": "Plexus 3AM - Nicole Moudaber Remix",
+      "url": "https://open.spotify.com/track/2BvKeWYxJyIlKDXJLNPSKI"
+    },
+    {
+      "album": {
+        "name": "Bulgaria",
+        "url": "https://open.spotify.com/album/2xvZ1ID0mtazV02pfoDSqh"
+      },
+      "artists": [
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "duration_ms": 517619,
+      "name": "Bulgaria",
+      "url": "https://open.spotify.com/track/4ImAumIt8m1cVSTixIf4sA"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP"
+    },
+    {
+      "album": {
+        "name": "Pure Love EP",
+        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        }
+      ],
+      "duration_ms": 393495,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
+    },
+    {
+      "album": {
+        "name": "The Bright Message",
+        "url": "https://open.spotify.com/album/71l627Ln8HcFlHE74OF5pM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Koning",
+          "url": "https://open.spotify.com/artist/4Q6ALwgmAfh24FXtuIHeWs"
+        }
+      ],
+      "duration_ms": 405778,
+      "name": "Sternie Monday - Original Mix",
+      "url": "https://open.spotify.com/track/5FaE7xG3oLGRd2UOFa5GsF"
+    },
+    {
+      "album": {
+        "name": "Crossing",
+        "url": "https://open.spotify.com/album/5XuCKnhO815k8InduVnMeS"
+      },
+      "artists": [
+        {
+          "name": "UOAK",
+          "url": "https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk"
+        },
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 334156,
+      "name": "Crossing",
+      "url": "https://open.spotify.com/track/1Lko0eAz8inPzFDSbEVS4Y"
+    },
+    {
+      "album": {
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+    },
+    {
+      "album": {
+        "name": "From Desolate Places and Forgotten Times",
+        "url": "https://open.spotify.com/album/2o8Ggk3Fbgje1iIAw3hB1l"
+      },
+      "artists": [
+        {
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+        }
+      ],
+      "duration_ms": 595837,
+      "name": "High Seas",
+      "url": "https://open.spotify.com/track/3vIN77NsPlbqUOYC0DZBvo"
+    },
+    {
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 380039,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS"
+    },
+    {
+      "album": {
+        "name": "Second Sun",
+        "url": "https://open.spotify.com/album/0cHW1NaoS8qqe3aceCN22Z"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 224332,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/1CyFbvzMACv6su5ys5wbYg"
+    },
+    {
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/5u0MC9Oaw6oahrK8OYgKiM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bortz",
+          "url": "https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi"
+        }
+      ],
+      "duration_ms": 383750,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/1x6JcuNsTk2jv6CszQqyC9"
+    },
+    {
+      "album": {
+        "name": "Empty Supply EP",
+        "url": "https://open.spotify.com/album/2omw3ityk3KV0dj4VIg3GV"
+      },
+      "artists": [
+        {
+          "name": "Remcord",
+          "url": "https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB"
+        }
+      ],
+      "duration_ms": 426570,
+      "name": "Empty Supply - Original Mix",
+      "url": "https://open.spotify.com/track/76P0yHwCGNN1OC8Xp69hPu"
+    },
+    {
+      "album": {
+        "name": "Odyssee",
+        "url": "https://open.spotify.com/album/6ln3Zv73tCbjWMyuNnTMJO"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "duration_ms": 418902,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/6AHhqu7rJ3ZA7ijx99LuiX"
+    },
+    {
+      "album": {
+        "name": "Equilibrium",
+        "url": "https://open.spotify.com/album/3TzJCuo5XC3PQ5E4qs43HF"
+      },
+      "artists": [
+        {
+          "name": "Brigado Crew",
+          "url": "https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j"
+        },
+        {
+          "name": "Chrisstiano",
+          "url": "https://open.spotify.com/artist/0SwIzWKvC4zJ0zDSms2O4Z"
+        }
+      ],
+      "duration_ms": 406256,
+      "name": "On the Way",
+      "url": "https://open.spotify.com/track/2bTSW9sAaH6R2HmkUZWkcs"
+    },
+    {
+      "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+    },
+    {
+      "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+    },
+    {
+      "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
+      },
+      "artists": [
+        {
+          "name": "Rafael Osmo",
+          "url": "https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
+    },
+    {
+      "album": {
+        "name": "Resurrect EP",
+        "url": "https://open.spotify.com/album/2oPWTDFuxa9zguoGsPOYck"
+      },
+      "artists": [
+        {
+          "name": "Forgotten Notes",
+          "url": "https://open.spotify.com/artist/0UoDyIWlKQdUukk9f7snZx"
+        }
+      ],
+      "duration_ms": 450595,
+      "name": "Resurrect",
+      "url": "https://open.spotify.com/track/2lV0ovLujswvwAquxjXw4D"
+    },
+    {
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/0HrDrQPhOBR04RKmY7DCJj"
+      },
+      "artists": [
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        }
+      ],
+      "duration_ms": 547914,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/4umLzOBGXqKqNVAuYJqAGi"
+    },
+    {
+      "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
+      },
+      "artists": [
+        {
+          "name": "Haddadi Von Engst",
+          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa2SPUyWl8Y5"

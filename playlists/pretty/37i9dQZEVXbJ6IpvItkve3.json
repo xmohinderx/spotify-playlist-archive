@@ -4,21 +4,6 @@
   "tracks": [
     {
       "album": {
-        "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
-        "url": "https://open.spotify.com/album/2ZTFKvqSIVXTTenjnIPkOO"
-      },
-      "artists": [
-        {
-          "name": "Narkis",
-          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
-      "url": "https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN"
-    },
-    {
-      "album": {
         "name": "\u05e9\u05d1\u05e2\u05d4 \u05d9\u05e8\u05d7\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY"
       },
@@ -35,6 +20,21 @@
       "duration_ms": 200142,
       "name": "\u05d0\u05e4\u05e1 \u05de\u05d0\u05de\u05e5",
       "url": "https://open.spotify.com/track/2liUMhNvpAxRNVAGnz8jNJ"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
+        "url": "https://open.spotify.com/album/2ZTFKvqSIVXTTenjnIPkOO"
+      },
+      "artists": [
+        {
+          "name": "Narkis",
+          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "\u05d4\u05d5\u05dc\u05db\u05ea \u05d0\u05d9\u05ea\u05da",
+      "url": "https://open.spotify.com/track/26ffnwQVV4votOweWSwpeN"
     },
     {
       "album": {
@@ -91,21 +91,6 @@
     },
     {
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -121,18 +106,18 @@
     },
     {
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
         }
       ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+      "duration_ms": 204520,
+      "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
+      "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
     },
     {
       "album": {
@@ -151,18 +136,33 @@
     },
     {
       "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 204520,
-      "name": "\u05de\u05d3\u05dc\u05d9\u05e7\u05d4 \u05dc\u05d9 \u05d4\u05db\u05dc",
-      "url": "https://open.spotify.com/track/7rNA5Jwu23g7PaXcMwfLdq"
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
       "album": {
@@ -276,21 +276,6 @@
     },
     {
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "album": {
         "name": "\u05d1\u05d9\u05d7\u05d3",
         "url": "https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0"
       },
@@ -307,6 +292,21 @@
       "duration_ms": 151968,
       "name": "\u05d1\u05d9\u05d7\u05d3",
       "url": "https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M"
+    },
+    {
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "album": {
@@ -367,6 +367,21 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR"
+      },
+      "artists": [
+        {
+          "name": "Ran Danker",
+          "url": "https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo"
+        }
+      ],
+      "duration_ms": 169848,
+      "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT"
+    },
+    {
+      "album": {
         "name": "\u05e8\u05e2\u05e9\u05d9\u05dd",
         "url": "https://open.spotify.com/album/7620BHUxKd5j1KF8CVE6Kb"
       },
@@ -386,21 +401,6 @@
     },
     {
       "album": {
-        "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR"
-      },
-      "artists": [
-        {
-          "name": "Ran Danker",
-          "url": "https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo"
-        }
-      ],
-      "duration_ms": 169848,
-      "name": "\u05d1\u05d9\u05ea \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT"
-    },
-    {
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -413,21 +413,6 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "album": {
-        "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T"
-      },
-      "artists": [
-        {
-          "name": "Raviv Kaner",
-          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
-        }
-      ],
-      "duration_ms": 201190,
-      "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj"
     },
     {
       "album": {
@@ -465,18 +450,18 @@
     },
     {
       "album": {
-        "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
-        "url": "https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh"
+        "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/1VJTRr2sjWAUBN5vcfci6T"
       },
       "artists": [
         {
-          "name": "Itay Levi",
-          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
+          "name": "Raviv Kaner",
+          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
         }
       ],
-      "duration_ms": 161485,
-      "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
-      "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
+      "duration_ms": 201190,
+      "name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4qAHhdpiGcbzqwjqmwuXwj"
     },
     {
       "album": {
@@ -495,6 +480,21 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d9\u05df \u05de\u05d0\u05d5\u05e9\u05e8 \u05de\u05de\u05e0\u05d9",
         "url": "https://open.spotify.com/album/6qSsJvGlN8Yupe9M3PnRiT"
       },
@@ -507,21 +507,6 @@
       "duration_ms": 172394,
       "name": "\u05d0\u05d9\u05df \u05de\u05d0\u05d5\u05e9\u05e8 \u05de\u05de\u05e0\u05d9",
       "url": "https://open.spotify.com/track/1TroPJnGcLa8GB7cxHA841"
-    },
-    {
-      "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
     },
     {
       "album": {
@@ -540,33 +525,18 @@
     },
     {
       "album": {
-        "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW"
+        "name": "\u05d6\u05d5\u05d2\u05d5\u05ea \u05db\u05d0\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/244Rb7ISEMuJ4yWbOd2ZCs"
       },
       "artists": [
         {
-          "name": "Avraham Tal",
-          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
         }
       ],
-      "duration_ms": 151442,
-      "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
-    },
-    {
-      "album": {
-        "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/3bdYTqXYcqvOW36agrX804"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "\u05dc\u05d0 \u05de\u05e8\u05d2\u05d9\u05e9 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/686FdlEzrYCttdUAFByYhI"
+      "duration_ms": 200000,
+      "name": "\u05d6\u05d5\u05d2\u05d5\u05ea \u05db\u05d0\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/2e33MYvTvmpUPTgOZJbRHf"
     },
     {
       "album": {
@@ -585,33 +555,48 @@
     },
     {
       "album": {
-        "name": "\u05d6\u05d5\u05d2\u05d5\u05ea \u05db\u05d0\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/244Rb7ISEMuJ4yWbOd2ZCs"
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
       },
       "artists": [
         {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
         }
       ],
-      "duration_ms": 200000,
-      "name": "\u05d6\u05d5\u05d2\u05d5\u05ea \u05db\u05d0\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/2e33MYvTvmpUPTgOZJbRHf"
+      "duration_ms": 212963,
+      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
     },
     {
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
+        "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
+        "url": "https://open.spotify.com/album/2YJL5Mkl7CjjVCgG7dIuKh"
       },
       "artists": [
         {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+          "name": "Itay Levi",
+          "url": "https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg"
         }
       ],
-      "duration_ms": 168020,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
+      "duration_ms": 161485,
+      "name": "\u05d4\u05d8\u05e2\u05d5\u05ea \u05d4\u05db\u05d9 \u05d9\u05e4\u05d4",
+      "url": "https://open.spotify.com/track/3A9gSVar0MgHpO86WXeSW9"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW"
+      },
+      "artists": [
+        {
+          "name": "Avraham Tal",
+          "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+        }
+      ],
+      "duration_ms": 151442,
+      "name": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
     },
     {
       "album": {
@@ -630,33 +615,56 @@
     },
     {
       "album": {
-        "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
-        "url": "https://open.spotify.com/album/0pgYmDRVswjq8DdKYzJdY7"
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
       },
       "artists": [
         {
-          "name": "Raviv Kaner",
-          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
         }
       ],
-      "duration_ms": 179860,
-      "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
-      "url": "https://open.spotify.com/track/3WMH1bPflGgzFjfuI4FYe2"
+      "duration_ms": 168020,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
     },
     {
       "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+        "name": "\u05d2\u05e0\u05d2\u05e1\u05d8\u05e8\u05d9\u05dd \u05e2\u05dc \u05d0\u05de\u05ea",
+        "url": "https://open.spotify.com/album/1G9CB4gjIIjEI8tKx49FGt"
       },
       "artists": [
         {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+          "name": "Amir Ve Ben",
+          "url": "https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE"
+        },
+        {
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
         }
       ],
-      "duration_ms": 197499,
-      "name": "\u05d2\u05d3\u05dc \u05dc\u05d9 \u05e7\u05e6\u05ea \u05d6\u05e7\u05df",
-      "url": "https://open.spotify.com/track/4abB8WdkswrxWxcV2e56x9"
+      "duration_ms": 221235,
+      "name": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d6\u05d4 \u05d0\u05e0\u05d9 \u05d5\u05d0\u05ea",
+      "url": "https://open.spotify.com/track/406GxF9gnDjRwsy5wqLpOh"
+    },
+    {
+      "album": {
+        "name": "\u05d8\u05e8\u05d9\u05dc\u05d9\u05dc\u05d9 \u05d8\u05e8\u05dc\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/22CJZ4LX8d7fI0Kqk6c1hk"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        }
+      ],
+      "duration_ms": 203048,
+      "name": "\u05d8\u05e8\u05d9\u05dc\u05d9\u05dc\u05d9 \u05d8\u05e8\u05dc\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/7hYZJ0COHvJxMx6tBSJ1T6"
     },
     {
       "album": {
@@ -684,25 +692,6 @@
       "duration_ms": 181204,
       "name": "\u05d4\u05e9\u05de\u05d9\u05d9\u05dd \u05e0\u05e2\u05d5\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/52N2FDUfL0mPyAFfxRWheT"
-    },
-    {
-      "album": {
-        "name": "\u05d8\u05e8\u05d9\u05dc\u05d9\u05dc\u05d9 \u05d8\u05e8\u05dc\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/22CJZ4LX8d7fI0Kqk6c1hk"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "Ilan Peled",
-          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
-        }
-      ],
-      "duration_ms": 203048,
-      "name": "\u05d8\u05e8\u05d9\u05dc\u05d9\u05dc\u05d9 \u05d8\u05e8\u05dc\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/7hYZJ0COHvJxMx6tBSJ1T6"
     },
     {
       "album": {
@@ -736,8 +725,8 @@
     },
     {
       "album": {
-        "name": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR"
+        "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
+        "url": "https://open.spotify.com/album/0pgYmDRVswjq8DdKYzJdY7"
       },
       "artists": [
         {
@@ -745,9 +734,9 @@
           "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
         }
       ],
-      "duration_ms": 208681,
-      "name": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
-      "url": "https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA"
+      "duration_ms": 179860,
+      "name": "\u05e0\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05db\u05dc",
+      "url": "https://open.spotify.com/track/3WMH1bPflGgzFjfuI4FYe2"
     },
     {
       "album": {
@@ -766,18 +755,33 @@
     },
     {
       "album": {
-        "name": "Bad Little Thing",
-        "url": "https://open.spotify.com/album/4BSIzDQVYki1Muj0QiwHJW"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 143004,
-      "name": "Bad Little Thing",
-      "url": "https://open.spotify.com/track/1i722InMCT8ltWSn1M5fYE"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 197499,
+      "name": "\u05d2\u05d3\u05dc \u05dc\u05d9 \u05e7\u05e6\u05ea \u05d6\u05e7\u05df",
+      "url": "https://open.spotify.com/track/4abB8WdkswrxWxcV2e56x9"
     },
     {
       "album": {
@@ -796,37 +800,33 @@
     },
     {
       "album": {
-        "name": "\u05d2\u05e0\u05d2\u05e1\u05d8\u05e8\u05d9\u05dd \u05e2\u05dc \u05d0\u05de\u05ea",
-        "url": "https://open.spotify.com/album/1G9CB4gjIIjEI8tKx49FGt"
+        "name": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR"
       },
       "artists": [
         {
-          "name": "Amir Ve Ben",
-          "url": "https://open.spotify.com/artist/6UReeaqNcjIfzIH13kTHKE"
-        },
-        {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+          "name": "Raviv Kaner",
+          "url": "https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf"
         }
       ],
-      "duration_ms": 221235,
-      "name": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d6\u05d4 \u05d0\u05e0\u05d9 \u05d5\u05d0\u05ea",
-      "url": "https://open.spotify.com/track/406GxF9gnDjRwsy5wqLpOh"
+      "duration_ms": 208681,
+      "name": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA"
     },
     {
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "\u05d0\u05dc\u05d5\u05e3 \u05d4\u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/1FL8eqJMxg14Uhs4f4BVSe"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Hanan Ben Ari",
+          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 215625,
+      "name": "\u05d0\u05dc\u05d5\u05e3 \u05d4\u05e2\u05d5\u05dc\u05dd",
+      "url": "https://open.spotify.com/track/3Y4G4E7EVomTWTFSFS0Sn5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJ6IpvItkve3"
