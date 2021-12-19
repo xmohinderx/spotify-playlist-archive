@@ -359,7 +359,7 @@
     },
     {
       "album": {
-        "name": "Winter in New York",
+        "name": "Winter in New York City",
         "url": "https://open.spotify.com/album/35kZs9bouKM60ym7EDqOoF"
       },
       "artists": [
@@ -1566,6 +1566,10 @@
         {
           "name": "BLOND:ISH",
           "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Delaram Kamareh",
+          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
         }
       ],
       "duration_ms": 271351,
@@ -1615,7 +1619,7 @@
         }
       ],
       "duration_ms": 380312,
-      "name": "Shine Like Stars - Live",
+      "name": "Shine Like Stars - Live From Rehearsals",
       "url": "https://open.spotify.com/track/4ElvDloHe5RukqNYYjyasR"
     },
     {
