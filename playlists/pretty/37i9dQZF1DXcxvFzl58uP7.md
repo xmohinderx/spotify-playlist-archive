@@ -1,8 +1,8 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain](/playlists/plain/37i9dQZF1DXcxvFzl58uP7) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcxvFzl58uP7))
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain](/playlists/plain/37i9dQZF1DXcxvFzl58uP7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcxvFzl58uP7)
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy jams from the best bedroom producers. Cover: SALES
+> Dreamy jams from the best bedroom producers\. Cover: SALES
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 48 | [Homage](https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed) | 2:57 |
 | 49 | [Fool](https://open.spotify.com/track/6iGWH4PRPDwtN9NydaHK8b) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/2dJhTwaouxbcL2xjdw0zjK) | 3:53 |
 | 50 | [Tapioca Cheeks](https://open.spotify.com/track/7EMcNr05ag5jaDsDggc0MM) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Tapioca Cheeks](https://open.spotify.com/album/4mGejbMP3AOGXEfavrv0su) | 3:07 |
-| 51 | [Ma-Pa](https://open.spotify.com/track/1qpbCxo2Rr8mYYhEcu8bKK) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Ma-Pa](https://open.spotify.com/album/0KDRK3l2l0KswomYYA8Fpr) | 4:28 |
+| 51 | [Ma\-Pa](https://open.spotify.com/track/1qpbCxo2Rr8mYYhEcu8bKK) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Ma\-Pa](https://open.spotify.com/album/0KDRK3l2l0KswomYYA8Fpr) | 4:28 |
 | 52 | [Still Beating](https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:01 |
 | 53 | [Lover Is a Day](https://open.spotify.com/track/7saliZ9OxOgVZvac91pnHH) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Wannabewithu](https://open.spotify.com/album/6uOJGKQMmk2LyNeEwRewTe) | 7:36 |
 | 54 | [Love Me Tomorrow](https://open.spotify.com/track/01z82t6qbj6OAwBYIkX6oQ) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Love Me Tomorrow](https://open.spotify.com/album/1wz00k1xtRhp7qcEBTJ9Ky) | 3:00 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 70 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 |
 | 71 | [Plant!](https://open.spotify.com/track/53oZXP24LECwD6YBybecvG) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Plant!](https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N) | 2:11 |
 | 72 | [Loving Is Easy](https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Is Easy](https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg) | 2:35 |
-| 73 | [Maybe Chocolate Chips (feat. Ric Wilson)](https://open.spotify.com/track/0rDqIh1ugZmukdvkgYZb1X) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 2:53 |
+| 73 | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/track/0rDqIh1ugZmukdvkgYZb1X) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 2:53 |
 | 74 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 |
 | 75 | [80's High School](https://open.spotify.com/track/080QlT286ey4jbCK3A55LC) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [80's High School](https://open.spotify.com/album/06NGZRlyraYewLxiPIDbVw) | 3:22 |
 | 76 | [Baby Baby](https://open.spotify.com/track/5zdOAL1xFVSbSCKxBbuKxh) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Baby Baby](https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9) | 3:01 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 87 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 |
 | 88 | [THE BOTTOM](https://open.spotify.com/track/5q4fICuQraX0rP42UrTWop) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [HEATWAVE](https://open.spotify.com/album/2w2EaxZJZx4xXXBh813SRB) | 3:39 |
 | 89 | [Ugotme](https://open.spotify.com/track/3yV8tx2QY0t6st5LsLZhkF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ugotme](https://open.spotify.com/album/5ahJU6akdu3WxYEjSS9kU3) | 2:07 |
-| 90 | [Georgia Peach (Sketch)](https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Georgia Peach (Sketch)](https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA) | 2:15 |
+| 90 | [Georgia Peach \(Sketch\)](https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Georgia Peach \(Sketch\)](https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA) | 2:15 |
 | 91 | [I Won!](https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [I Won!](https://open.spotify.com/album/3j3lsfoCPCp93p1eUL1dbq) | 3:20 |
 | 92 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 |
 | 93 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 107 | [black & mild](https://open.spotify.com/track/2Act8nsW8aQI46PsLNgJJj) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [black & mild](https://open.spotify.com/album/0y5DaPOSdKruHy7iYUud12) | 2:16 |
 | 108 | [Drowned](https://open.spotify.com/track/3Vfs62mxMMLjvj8Gza9p7w) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Drowned](https://open.spotify.com/album/04lf1eeiS7uDo9NR6WbCB5) | 4:05 |
 | 109 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 |
-| 110 | [Let's Hold Hands (feat. Melanie Faye)](https://open.spotify.com/track/2Gi5XHbTxLbzwjQQHky749) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Let's Hold Hands (feat. Melanie Faye)](https://open.spotify.com/album/2xzmYeAFAzzru2hFUbgiBg) | 2:59 |
+| 110 | [Let's Hold Hands \(feat\. Melanie Faye\)](https://open.spotify.com/track/2Gi5XHbTxLbzwjQQHky749) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Let's Hold Hands \(feat\. Melanie Faye\)](https://open.spotify.com/album/2xzmYeAFAzzru2hFUbgiBg) | 2:59 |
 | 111 | [Heart on Your Sleeve](https://open.spotify.com/track/69KLDQUrj19vF0QVnyCcCF) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Heart on Your Sleeve](https://open.spotify.com/album/6HX8NP340aSSZYypwN7mjg) | 4:45 |
 | 112 | [Running](https://open.spotify.com/track/4pbZ4wFXjGa92CsOlrscDL) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Running](https://open.spotify.com/album/5PYHrR4SV1E7ZwTmhyQGw3) | 2:38 |
 | 113 | [Maple Syrup Tears](https://open.spotify.com/track/11mZeNMQTR2It49wtB4gTv) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Maple Syrup Tears](https://open.spotify.com/album/2gLuQKqj2zWasAEiDEVV8X) | 3:13 |

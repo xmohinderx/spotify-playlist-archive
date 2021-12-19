@@ -670,7 +670,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 184346,
       "name": "AU",
       "url": "https://open.spotify.com/track/080nnzzeeOts6GH9v4MsEt"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 225360,
       "name": "Blok",
       "url": "https://open.spotify.com/track/09rv2xotIve5jMa8ZqRQve"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/27gknDBOqYJmOFYyaOBAfa"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 109655,
       "name": "Deszcz",
       "url": "https://open.spotify.com/track/6M0piiE5fhZLnWZzbtuXak"
@@ -1822,6 +1822,24 @@
       "duration_ms": 219268,
       "name": "Disney",
       "url": "https://open.spotify.com/track/37xytNxwRuLRuZcJMFH8w7"
+    },
+    {
+      "album": {
+        "name": "Do They Know It's Christmas?",
+        "url": "https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "date_added": "2021-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf"
     },
     {
       "album": {
@@ -2016,6 +2034,24 @@
       "duration_ms": 144000,
       "name": "Dwutakt",
       "url": "https://open.spotify.com/track/2wMo0pUpFklPf5x47ZUR8I"
+    },
+    {
+      "album": {
+        "name": "Dzie\u0144 jeden w roku",
+        "url": "https://open.spotify.com/album/5fWXtZtTHHlIIUtV6ZD4Sr"
+      },
+      "artists": [
+        {
+          "name": "Czerwone Gitary",
+          "url": "https://open.spotify.com/artist/4wck1fvaBpmJNFaeDT1Laa"
+        }
+      ],
+      "date_added": "2021-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147781,
+      "name": "Dzie\u0144 jeden w roku",
+      "url": "https://open.spotify.com/track/5YeWMDlueFQ2727lVfGaIg"
     },
     {
       "album": {
@@ -2260,7 +2296,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-17",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -2678,7 +2714,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-15",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -3028,7 +3064,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-08",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -3358,7 +3394,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 160106,
       "name": "Jeszcze pi\u0119\u0107 minut",
       "url": "https://open.spotify.com/track/3xjPXRGIowUQ0OULFNyeHS"
@@ -4472,6 +4508,24 @@
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "album": {
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "date_added": "2021-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "album": {
@@ -6098,7 +6152,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 181840,
       "name": "Poezja ulic",
       "url": "https://open.spotify.com/track/4D8gDtDm6dYWLUjahYoYMA"
@@ -7148,7 +7202,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 147730,
       "name": "Stonerki",
       "url": "https://open.spotify.com/track/17WFj5Mbg9gP2NdmYgkCpd"
@@ -7651,6 +7705,24 @@
     },
     {
       "album": {
+        "name": "The Works (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261626,
+      "name": "Thank God It's Christmas - Non-Album Single",
+      "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
+    },
+    {
+      "album": {
         "name": "Skan My\u015bli",
         "url": "https://open.spotify.com/album/6wdo5dYDjgHFZ1q0nJauzr"
       },
@@ -7886,7 +7958,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 196437,
       "name": "TOXIC LUV",
       "url": "https://open.spotify.com/track/1JHpOPgFjg8LdK79lYRhug"
@@ -7962,7 +8034,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-15",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -8214,7 +8286,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-15",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

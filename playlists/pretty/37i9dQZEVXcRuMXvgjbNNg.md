@@ -1,8 +1,8 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain](/playlists/plain/37i9dQZEVXcRuMXvgjbNNg) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXcRuMXvgjbNNg))
+pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain](/playlists/plain/37i9dQZEVXcRuMXvgjbNNg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXcRuMXvgjbNNg)
 
-### [Discover Weekly (@mackorone)](https://open.spotify.com/playlist/37i9dQZEVXcRuMXvgjbNNg)
+### [Discover Weekly \(@mackorone\)](https://open.spotify.com/playlist/37i9dQZEVXcRuMXvgjbNNg)
 
-> Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.
+> Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -10,10 +10,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 2 | [Evergreen](https://open.spotify.com/track/74B1CvecHOCjw6lSbloyUd) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Evergreen](https://open.spotify.com/album/218JeUU4WD8ZbSX7a5Bdut) | 4:05 |
 | 3 | [Poetry](https://open.spotify.com/track/6F84CqAnWGg6CZiWFNDuQ9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [We Could Be Beautiful](https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf) | 4:09 |
 | 4 | [There's Still A Light In The House](https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE](https://open.spotify.com/album/2H1daV65dzHfSoYda0wqjB) | 3:23 |
-| 5 | [Light On - Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 |
+| 5 | [Light On \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 |
 | 6 | [Catch Fire](https://open.spotify.com/track/7limmC1iKsTfSTkYmUfJQv) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Catch Fire](https://open.spotify.com/album/52wsQsu1wDl0ng2MXCKT1W) | 3:46 |
 | 7 | [Sunny Day](https://open.spotify.com/track/4GefRmgVhqOBOUSe0Moczx) | [A Boy and His Kite](https://open.spotify.com/artist/5JkAsTexi8F7wk7jsqmgWZ) | [The Path Became A Ghost](https://open.spotify.com/album/6wcZb1MpwVC0K8o59zrQNn) | 3:20 |
-| 8 | [I Know A Place - Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
+| 8 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 9 | [Won't You Stay](https://open.spotify.com/track/0HcmmsPF51WiDBCgKfFdyl) | [heyboy](https://open.spotify.com/artist/5tmIY9i8K8wb2yaoIqF7Hy) | [Won't You Stay](https://open.spotify.com/album/3iPmT9c737tJzt9WsRcTPM) | 3:27 |
 | 10 | [Your Heart Fit Right In Mine](https://open.spotify.com/track/4gaj9YY8wOmtJVCavoGq9C) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt) | [Promise For All Days](https://open.spotify.com/album/1fykr6DXOaWXTh1tgDGAt2) | 4:48 |
 | 11 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 |
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 16 | [Nevada](https://open.spotify.com/track/29JRaD4qy6K0xIfwkFVoc9) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [Bjéar](https://open.spotify.com/album/7xaRByEJHQFex1OUqPTYq9) | 4:40 |
 | 17 | [Everything Is Alright](https://open.spotify.com/track/6lxfpVwMv4wIyaxrlZccJO) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Everything Is Alright](https://open.spotify.com/album/5BvxbR7CDYu8EmHgZXil5J) | 3:35 |
 | 18 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 |
-| 19 | [Yours (Alternate Version)](https://open.spotify.com/track/29yL7zwAPgdKi1WdmK1h8y) | [Robert Shirey Kelly](https://open.spotify.com/artist/0J5szBnIxlzWYAjYQeckrm) | [What Forever Feels Like](https://open.spotify.com/album/10vWUHENxb4tKzHbdMj4SC) | 4:52 |
-| 20 | [You Have My Heart (feat. Stephen Day)](https://open.spotify.com/track/7t2SOh9SGIvwqm3zV7HXsy) | [Emily Sage](https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Endless](https://open.spotify.com/album/05RrFOLmOhHdsNmke5tzFf) | 3:29 |
+| 19 | [Yours \(Alternate Version\)](https://open.spotify.com/track/29yL7zwAPgdKi1WdmK1h8y) | [Robert Shirey Kelly](https://open.spotify.com/artist/0J5szBnIxlzWYAjYQeckrm) | [What Forever Feels Like](https://open.spotify.com/album/10vWUHENxb4tKzHbdMj4SC) | 4:52 |
+| 20 | [You Have My Heart \(feat\. Stephen Day\)](https://open.spotify.com/track/7t2SOh9SGIvwqm3zV7HXsy) | [Emily Sage](https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL), [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Endless](https://open.spotify.com/album/05RrFOLmOhHdsNmke5tzFf) | 3:29 |
 | 21 | [You and I](https://open.spotify.com/track/3rINQgcxDjNmTnUb3nDugO) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Parallels + Meridians](https://open.spotify.com/album/1UO1tdhdtR575jGV7Msh5G) | 3:53 |
 | 22 | [Must Be Dreaming](https://open.spotify.com/track/5dvQSx4sgDQUV5xgCP5BEd) | [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A) | [Bien](https://open.spotify.com/album/78Q4ROBupKcehouWtYEuzT) | 4:05 |
 | 23 | [Still Blue](https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K) | [Cypress](https://open.spotify.com/artist/0J7CXD5MWLqn3pcTDoGEhu) | [A Fine Line](https://open.spotify.com/album/3yp0ICS4BC2ZizQ0k8yQCV) | 5:00 |
-| 24 | [Endless Summer (For Kimmy)](https://open.spotify.com/track/2BhiRZabrsZ7qcNHd2xtJw) | [Lovkn](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Endless Summer (For Kimmy)](https://open.spotify.com/album/6poxVI5jpGDxtdeuNlh9IS) | 6:01 |
+| 24 | [Endless Summer \(For Kimmy\)](https://open.spotify.com/track/2BhiRZabrsZ7qcNHd2xtJw) | [Lovkn](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Endless Summer \(For Kimmy\)](https://open.spotify.com/album/6poxVI5jpGDxtdeuNlh9IS) | 6:01 |
 | 25 | [Fire Goes Out](https://open.spotify.com/track/20X1KpOvJsBazHsZsrvcB1) | [Vacation Club](https://open.spotify.com/artist/64vZ6lXTypLN9etgdNxO7E) | [Fire Goes Out](https://open.spotify.com/album/40XMAyhfCsr9cD4uVVHZOJ) | 5:11 |
 | 26 | [Thumbs](https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr) | [Zander Hawley](https://open.spotify.com/artist/0lfHZCO5590Y3vuuNEXcwZ) | [Thumbs](https://open.spotify.com/album/4vlNZYQOuPR57SatL0VD54) | 4:33 |
 | 27 | [Still dreaming, backwards](https://open.spotify.com/track/62iXXPlKxCHKVpNm2jlVFx) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Still dreaming, backwards](https://open.spotify.com/album/3HHrNhXJujwkuTVwhKUOiz) | 3:10 |

@@ -138,7 +138,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 193135,
       "name": "210 Part 2",
       "url": "https://open.spotify.com/track/1dZbL5NSAHtLJ3sBJUfMv1"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 191356,
       "name": "Aeraki - To Thiliko",
       "url": "https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2021-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 182857,
       "name": "Ali Baba",
       "url": "https://open.spotify.com/track/5PxGyzDQPmd04WzZTyp4nW"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 131460,
       "name": "Diamanti",
       "url": "https://open.spotify.com/track/6qPU5i85Wh5UBy9MaaGIuJ"
@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-18",
+      "date_removed": null,
       "duration_ms": 208383,
       "name": "Guccci",
       "url": "https://open.spotify.com/track/4AcWoNZHJ6tLBcKWifiTbC"
@@ -6156,7 +6156,7 @@
       ],
       "date_added": "2021-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 231000,
       "name": "Mia Zoi",
       "url": "https://open.spotify.com/track/0iP2NME41Inz2Hb2tS6sKJ"
@@ -7423,6 +7423,24 @@
     },
     {
       "album": {
+        "name": "Pipila22",
+        "url": "https://open.spotify.com/album/0cPS3H8iVjqg8hMWojtaWm"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        }
+      ],
+      "date_added": "2021-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248616,
+      "name": "Pipila22",
+      "url": "https://open.spotify.com/track/1Q8OFjfQfvNHiRuvq93a78"
+    },
+    {
+      "album": {
         "name": "Pistoli",
         "url": "https://open.spotify.com/album/5bNR7gWeNzzMkMMOBdcMeb"
       },
@@ -7944,7 +7962,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-14",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"

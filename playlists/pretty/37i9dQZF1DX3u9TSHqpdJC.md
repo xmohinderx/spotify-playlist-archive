@@ -1,17 +1,16 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3u9TSHqpdJC))
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3u9TSHqpdJC)
 
 ### [Fresh Finds Pop: Best of 2021](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The top 50 tracks from Fresh Finds Pop in 2021. Cover: King Mala, Artwork: Paola Saliby
-
+> The top 50 tracks from Fresh Finds Pop in 2021\. Cover: King Mala, Artwork: Paola Saliby
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [she calls me daddy](https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [she calls me daddy](https://open.spotify.com/album/2fKXo7qmQYw5u0DOeKhQoU) | 3:03 |
-| 2 | [Somebody I Fucked Once](https://open.spotify.com/track/1TLgTsRiX4P55KUOOGjYHu) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel (Deluxe)](https://open.spotify.com/album/7JpzGCHmVPWG9zvBdexIqd) | 3:04 |
+| 2 | [Somebody I Fucked Once](https://open.spotify.com/track/1TLgTsRiX4P55KUOOGjYHu) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe\)](https://open.spotify.com/album/7JpzGCHmVPWG9zvBdexIqd) | 3:04 |
 | 3 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 |
 | 4 | [songs about you](https://open.spotify.com/track/0HrrOhWRCMsPwRN8jKv4ZS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [songs about you](https://open.spotify.com/album/1InJqJj8fQTPNXbdH4E18j) | 3:09 |
-| 5 | [see you later (ten years)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later (ten years)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 |
+| 5 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 |
 | 6 | [god sent me as karma](https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [god sent me as karma](https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp) | 3:06 |
 | 7 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 |
 | 8 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 |
@@ -20,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 11 | [ARE YOU FEELING IT TOO?](https://open.spotify.com/track/169RNEmX6dfiI9UKfju64E) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [ARE YOU FEELING IT TOO?](https://open.spotify.com/album/547273O0NpqHgHA6SnHQCq) | 3:32 |
 | 12 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 |
 | 13 | [Right Where You Like](https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Right Where You Like](https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d) | 2:52 |
-| 14 | [July](https://open.spotify.com/track/1WFPIHwKSbGukQJ3FqHfcN) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [The Art of Pretending (Deluxe)](https://open.spotify.com/album/5XNlS5njwAwHn2YQG3X0CG) | 3:16 |
+| 14 | [July](https://open.spotify.com/track/1WFPIHwKSbGukQJ3FqHfcN) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [The Art of Pretending \(Deluxe\)](https://open.spotify.com/album/5XNlS5njwAwHn2YQG3X0CG) | 3:16 |
 | 15 | [i'll do it again](https://open.spotify.com/track/1NVBzBSEMTvSfObaV3lwc8) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [i'll do it again](https://open.spotify.com/album/1zYIB46vubgwfoDDWg1qG9) | 1:49 |
 | 16 | [MANIAC](https://open.spotify.com/track/7yPw8hXDf2NDhYzz3r33v5) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [MANIAC](https://open.spotify.com/album/2HiEsKirbmToafVita0Z3Z) | 2:55 |
 | 17 | [Constellations](https://open.spotify.com/track/0htyzgIWrBoj9tdxwifIQ6) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/6zbpi0Hz0Sl8Mc7neSLGoL) | 3:20 |
@@ -34,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 25 | [Typical Lover](https://open.spotify.com/track/5ONMDfX8Ad6TirjLeoqD7j) | [Bekah Novi](https://open.spotify.com/artist/2VYX9FUjUVWqBae89t3RiO) | [Typical Lover](https://open.spotify.com/album/11K3QJkTVrjbU1FIbids0B) | 2:32 |
 | 26 | [I'm Not In Love](https://open.spotify.com/track/0fB64S7FNKUDQlyYXlacYi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/10VeT6WRqObxGPOirjcank) | 1:37 |
 | 27 | [sound off](https://open.spotify.com/track/2u1SB650JRnVqOvJzqnW35) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime, it's good for u](https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa) | 1:39 |
-| 28 | [Fool's Gold](https://open.spotify.com/track/2g7Ey0Cm30PLdrU6FbUX1f) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [QUEEN (Deluxe)](https://open.spotify.com/album/5MYDDv0VbQOu5NcwhGu47j) | 3:24 |
+| 28 | [Fool's Gold](https://open.spotify.com/track/2g7Ey0Cm30PLdrU6FbUX1f) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [QUEEN \(Deluxe\)](https://open.spotify.com/album/5MYDDv0VbQOu5NcwhGu47j) | 3:24 |
 | 29 | [Start](https://open.spotify.com/track/2v422MohjVSRkYCzWQ391k) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Songs for Sam](https://open.spotify.com/album/5fBL2q6h15hJHzBPuSiATd) | 2:44 |
 | 30 | [FTN](https://open.spotify.com/track/54eJ4Zkirs9FOyQAwsbpr3) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [FTN](https://open.spotify.com/album/4WskwdzH8P3TDiYYqwS1yQ) | 2:46 |
 | 31 | [Kind Of Bi](https://open.spotify.com/track/0oJ9sduYkIFoT36qsvY1OV) | [Genes](https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG) | [Super Single](https://open.spotify.com/album/6q5PpzD3Ljm7beMhYCmCMv) | 2:49 |

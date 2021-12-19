@@ -1,8 +1,8 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain](/playlists/plain/37i9dQZF1DX0CIO5EOSHeD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0CIO5EOSHeD))
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain](/playlists/plain/37i9dQZF1DX0CIO5EOSHeD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0CIO5EOSHeD)
 
-### [Lo-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
+### [Lo\-fi Indie](https://open.spotify.com/playlist/37i9dQZF1DX0CIO5EOSHeD)
 
-> Slacker jams. Cover: Sfven
+> Slacker jams\. Cover: Sfven
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 7 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 8 | [blurry nights](https://open.spotify.com/track/5rtdmhdlVvEU1NHyrH7tiD) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [blurry nights / on & on](https://open.spotify.com/album/2getyCWm5f6urnG3G3GxoV) | 3:00 |
 | 9 | [Karaoke](https://open.spotify.com/track/3XDlKHONraLh0a7TsWUxyn) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Karaoke](https://open.spotify.com/album/2e51oImIs1Ewu7vlAhI6md) | 5:15 |
-| 10 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
+| 10 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
 | 11 | [Raw](https://open.spotify.com/track/4Ot0dM7CB4gr9hVu6Hos3Z) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Raw](https://open.spotify.com/album/4AICfwXPPvRKBzEaUuO32e) | 3:37 |
 | 12 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 |
 | 13 | [Blue Atoll](https://open.spotify.com/track/2x9QWWxfuhc2p09sR56Eg5) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8) | [Blue Atoll](https://open.spotify.com/album/1TVq2LFdyn6KZHbNdy2veR) | 2:44 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 16 | [Sleep Well](https://open.spotify.com/track/3GWuPbPr5nT65fmew963zV) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Sleep Well](https://open.spotify.com/album/7vT3flPEcoHfHJrGGw1YFU) | 4:08 |
 | 17 | [Desire](https://open.spotify.com/track/1oIsme5EVsevPhgUPFMHxT) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/7wQxKtAeDiAnGlFXglzodc) | 3:43 |
 | 18 | [Brand New](https://open.spotify.com/track/4uePWT5W8elnUfP2a3xb4P) | [Fetch Tiger](https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts) | [Brand New](https://open.spotify.com/album/2EupJeogg1it8g0P0EGifE) | 3:25 |
-| 19 | [Pointing the Finger](https://open.spotify.com/track/67BEckciiEnrJ7s7zVamMO) | [T. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Pointing the Finger](https://open.spotify.com/album/0UJZlL4wUaA1EednWPufpv) | 4:18 |
+| 19 | [Pointing the Finger](https://open.spotify.com/track/67BEckciiEnrJ7s7zVamMO) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Pointing the Finger](https://open.spotify.com/album/0UJZlL4wUaA1EednWPufpv) | 4:18 |
 | 20 | [MOTH](https://open.spotify.com/track/3TOSmvd8z9ytPEuNidy2TL) | [Jacquard Looms](https://open.spotify.com/artist/7idhuWALyq1ZL4oeNS6wyy) | [MOTH](https://open.spotify.com/album/3fVUJzWc3x37XYwYBPCmDi) | 4:36 |
 | 21 | [Better Than Heaven](https://open.spotify.com/track/1vv1iEw58OHt0juBWVgoTJ) | [Jhana Boy](https://open.spotify.com/artist/2Vlf1v1k5FzSmOVBsVRT2F) | [Better Than Heaven](https://open.spotify.com/album/4TD3lHUlqgOGL6ikKTYtmG) | 3:18 |
 | 22 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 78 | [Half Eaten](https://open.spotify.com/track/2KYbp21U0bz5KwyIU5SG3K) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Half Eaten](https://open.spotify.com/album/2rOJ8d7nmnJVr2ALnPC85j) | 3:18 |
 | 79 | [by the way](https://open.spotify.com/track/4zWrWNH8wEgJoLQwqjhTJE) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [softcore mourn](https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR) | 3:44 |
 | 80 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 |
-| 81 | [Intersection](https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4-Track Singles Series, Vol. 3](https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh) | 3:53 |
+| 81 | [Intersection](https://open.spotify.com/track/4rNqlRwYCCcVUv37ZLmMTY) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/7HxyUjqGjryGDxX0aVyoEh) | 3:53 |
 | 82 | [Ribbon Blue](https://open.spotify.com/track/7A8a4VvIFOhwg8cezHeGwP) | [PANTōNE VU](https://open.spotify.com/artist/5luLFn9eaF12EIamzc4oK8) | [Ribbon Blue](https://open.spotify.com/album/4jDSIRfuFvN6sZTLmwKHV8) | 2:05 |
 | 83 | [New York, Paris and London](https://open.spotify.com/track/6eL2cAKDToQgycn5rHruom) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [New York, Paris and London](https://open.spotify.com/album/27hf9gYYN7sQ39oHHttwKB) | 3:26 |
 | 84 | [Sinking](https://open.spotify.com/track/4Z4dOZKs9rQuhuSSlLGY99) | [Lazy Days](https://open.spotify.com/artist/5FGn2Rme0MBoLoWvh6zKp7) | [Sinking](https://open.spotify.com/album/3jHCMgLxcachy9KxKabFSC) | 1:48 |
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 88 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
 | 89 | [Blindness](https://open.spotify.com/track/0ENVNAVahHrrPfroJ1XmXz) | [Maripool](https://open.spotify.com/artist/2Lmop7bq7RxW1Ue2GQsgSf) | [Blindness](https://open.spotify.com/album/5Aw5wKmzAaEJuZdHLKpKT3) | 3:32 |
 | 90 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
-| 91 | [Pocus](https://open.spotify.com/track/6dPxlPkJj08nNiG4V4sknI) | [T. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Pocus](https://open.spotify.com/album/3uzgZi6NdwqWv30h9U29BW) | 2:56 |
+| 91 | [Pocus](https://open.spotify.com/track/6dPxlPkJj08nNiG4V4sknI) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Pocus](https://open.spotify.com/album/3uzgZi6NdwqWv30h9U29BW) | 2:56 |
 | 92 | [just the way it is](https://open.spotify.com/track/0hLf3CBO9Oq7OAQx3r4XRR) | [latenitexeno](https://open.spotify.com/artist/4ILu2F4cEF1CiFEUT8XFqF), [Triple$ix](https://open.spotify.com/artist/2UQuceFmElR6ErvDnT54eM), [front room club](https://open.spotify.com/artist/1sSuSoA3Mzz8T9LBA0hT8t) | [just the way it is](https://open.spotify.com/album/7ce6J51paS5QUNBeIwpjf0) | 3:07 |
 | 93 | [GARDEN 2](https://open.spotify.com/track/232Y5lAjifWnc5NhUn34mz) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [GARDEN 2](https://open.spotify.com/album/3NgvBxs5xqp1OOtHKvdXYo) | 1:30 |
 | 94 | [Good For You](https://open.spotify.com/track/3FVQzQWwaOKYXnBFnXB6iZ) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Good For You](https://open.spotify.com/album/4UYS4jArAYYuBTTpCTPKwg) | 3:35 |
 | 95 | [4th of july](https://open.spotify.com/track/1jRhmp69z3clRhNjev6P6f) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [4th of july](https://open.spotify.com/album/45YbP2VEW69SUjcm27JV6O) | 2:56 |
 | 96 | [Obsessed](https://open.spotify.com/track/2OIIhZsJps4wpv1ob4AtDH) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Obsessed](https://open.spotify.com/album/3gCG7pVXTL4avBjoEOD41V) | 2:50 |
-| 97 | [Warning Sign - Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign (Alt Version)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
+| 97 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
 | 98 | [OH GOD](https://open.spotify.com/track/5jRsnHqasY3MPLsZq76KiO) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [OH GOD](https://open.spotify.com/album/7x4qNYyuYnLTNjuJgG0KJ5) | 2:12 |
 | 99 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
 | 100 | [Calling The Shots](https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX) | [Jamie B.](https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ) | [Calling The Shots](https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97) | 3:51 |

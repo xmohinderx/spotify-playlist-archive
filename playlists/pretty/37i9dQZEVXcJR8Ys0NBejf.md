@@ -1,28 +1,28 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain](/playlists/plain/37i9dQZEVXcJR8Ys0NBejf) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXcJR8Ys0NBejf))
+pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain](/playlists/plain/37i9dQZEVXcJR8Ys0NBejf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXcJR8Ys0NBejf)
 
-### [Discover Weekly (@catzs)](https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf)
+### [Discover Weekly \(@catzs\)](https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf)
 
-> Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.
+> Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Worth It for the Feeling](https://open.spotify.com/track/0dKCtdoAH23AWJ5FBVbMmH) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Worth It for the Feeling](https://open.spotify.com/album/6bp9aFE25PKWul9HTTPLbl) | 3:07 |
 | 2 | [If I Don't](https://open.spotify.com/track/3DnBdZ1jE89TvjqrkuLuFe) | [Ally Hills](https://open.spotify.com/artist/5Ev7qjDIU1wvhqt8nSsPrl) | [If I Don't](https://open.spotify.com/album/6ODo93Uyit8i4J58hh9trt) | 2:36 |
-| 3 | [Measure Of A Man (Cinematic)](https://open.spotify.com/track/7HJd5LrIX8cG4kz0GXO6zI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Measure of a Man (feat. Central Cee)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:31 |
+| 3 | [Measure Of A Man \(Cinematic\)](https://open.spotify.com/track/7HJd5LrIX8cG4kz0GXO6zI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:31 |
 | 4 | [Why Can’t I Let The Sun Set?](https://open.spotify.com/track/2IVkqHTRkzIgoW7bT6T1V0) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [Herald](https://open.spotify.com/album/0KMvDVy4mmkOByB24NBWbH) | 2:30 |
 | 5 | [Honey](https://open.spotify.com/track/4qJxYyfqrAc8yNPxpAKAt2) | [AFTERxCLASS](https://open.spotify.com/artist/2FeFouxpgHUc4ZUKjKJFry) | [Honey](https://open.spotify.com/album/7up9a8X6nOZOwYQoC0RV0C) | 3:04 |
 | 6 | [Hair Tie](https://open.spotify.com/track/1LZCl1U0lGTFxiEfzy62Oq) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [Hair Tie](https://open.spotify.com/album/0LJtm57k5uVtcGRkPU6hLm) | 2:52 |
 | 7 | [like you love me](https://open.spotify.com/track/0VAFzyN2Ucb7iu25CEpVwd) | [Luna Vexa](https://open.spotify.com/artist/53Fj6Z17pmtngqEU01R7JZ) | [King of Eve](https://open.spotify.com/album/6Ly8dhlz7kT6hfzZ0Jlgi1) | 2:43 |
 | 8 | [Confident](https://open.spotify.com/track/3HtbhF5FeneR2GUgED6WIQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [Confident](https://open.spotify.com/album/7mHI4T9BuC7UPYN9gUprKU) | 3:22 |
 | 9 | [AnDroGay](https://open.spotify.com/track/46vLUh7bJb96bGNvX01WOG) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Garden Spider](https://open.spotify.com/album/2Rce9iaorOTzyyPSRjJsz5) | 4:04 |
-| 10 | [I`m a B](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Guilty Pleasure](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) | 2:47 |
+| 10 | [I\`m a B](https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Guilty Pleasure](https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz) | 2:47 |
 | 11 | [10 Things](https://open.spotify.com/track/5FKl1YJ1uIbJxmugKjJxxP) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [10 Things](https://open.spotify.com/album/1tU0805bLcgAJccJBmN1O9) | 2:39 |
 | 12 | [I H8 U](https://open.spotify.com/track/0NcpoGD2IQUVOyeLEYOAVb) | [Melladaze](https://open.spotify.com/artist/5UsqCBkAPzvtOuCnENmdux) | [I H8 U](https://open.spotify.com/album/72sj2wK1Q7OUcsM5qYLV4g) | 2:52 |
 | 13 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 |
 | 14 | [San Frandiscothèque](https://open.spotify.com/track/08ke1gT4ktBBYfOhjlyISp) | [Wu Am I](https://open.spotify.com/artist/4EDxGYZZDNlYg4z7Y5HfyV), [Freddie](https://open.spotify.com/artist/6AiidoqL85n3AcQhXvrkoK) | [San Frandiscothèque](https://open.spotify.com/album/5yjijjmDH8REk56oT5WsCk) | 3:48 |
-| 15 | [WONDER (reimagined by PVRIS)](https://open.spotify.com/track/2TK73N6sjFlTqUHVbF9hSW) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER [reimagined]](https://open.spotify.com/album/0LtH1ybtOlMWZ9BLeXDLSQ) | 4:15 |
+| 15 | [WONDER \(reimagined by PVRIS\)](https://open.spotify.com/track/2TK73N6sjFlTqUHVbF9hSW) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \[reimagined\]](https://open.spotify.com/album/0LtH1ybtOlMWZ9BLeXDLSQ) | 4:15 |
 | 16 | [Jealous Girl](https://open.spotify.com/track/1Qg7RkvrZW7Q5sM52cMNux) | [Scarlett Rose](https://open.spotify.com/artist/1bCMlnbje6Gh6lbrSI8WpK) | [Jealous Girl](https://open.spotify.com/album/6Wx52M3yt7mYusJT668Q2v) | 3:07 |
-| 17 | [I Hate the Way You're Looking at Me (Lately).](https://open.spotify.com/track/5vHp6mwVhnzqOkZ4x8Yrmb) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [I Hate the Way You're Looking at Me (Lately).](https://open.spotify.com/album/4WTtUEg3sgFbrwiClc6g4p) | 3:29 |
+| 17 | [I Hate the Way You're Looking at Me \(Lately\).](https://open.spotify.com/track/5vHp6mwVhnzqOkZ4x8Yrmb) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [I Hate the Way You're Looking at Me \(Lately\).](https://open.spotify.com/album/4WTtUEg3sgFbrwiClc6g4p) | 3:29 |
 | 18 | [Burning Perception](https://open.spotify.com/track/7aKqU2kX1i2XcZ7XjxMUV8) | [Ayla D'lyla](https://open.spotify.com/artist/1gtS3u4J43CYspyLmJAJu5) | [Burning Perception](https://open.spotify.com/album/0PbfOdYLxcfOWkWsx66UVQ) | 3:11 |
 | 19 | [Starsign](https://open.spotify.com/track/0PdokHadYJ2sHNmrzudbQS) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Starsign](https://open.spotify.com/album/0QILqFxtdSSxGGXCgUzqA1) | 3:28 |
 | 20 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 23 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [Siouxxie](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 |
 | 24 | [Sad Girlz Luv Jiya Jale](https://open.spotify.com/track/4K16ETCNm514SPMMF47wxT) | [SANJ](https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4) | [Sad Girlz Luv Jiya Jale](https://open.spotify.com/album/3G857NnIuxLUc3yiWLQQyz) | 2:05 |
 | 25 | [I Wanna Know What It's Like](https://open.spotify.com/track/7524vjlVH6A709yeYy5o6A) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [I Wanna Know What It's Like](https://open.spotify.com/album/7uKDhKqfxYNzuSvvfmijpO) | 3:20 |
-| 26 | [Plans](https://open.spotify.com/track/686k2CNGWwMEokrnSaweKh) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Heavy, Pt. 1](https://open.spotify.com/album/7tCUNLJROD5M6rW82CEpFE) | 3:10 |
+| 26 | [Plans](https://open.spotify.com/track/686k2CNGWwMEokrnSaweKh) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Heavy, Pt\. 1](https://open.spotify.com/album/7tCUNLJROD5M6rW82CEpFE) | 3:10 |
 | 27 | [Attitude](https://open.spotify.com/track/35znXCAamuckhzFB4t7W9h) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Attitude](https://open.spotify.com/album/1kJJYGF5Ecigk6C9iTmVb0) | 1:31 |
 | 28 | [death wish](https://open.spotify.com/track/68kc71kxyfuWFLTheYyZlO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [death wish](https://open.spotify.com/album/3JflsWk7Mj8FVcwvGGkiPf) | 2:40 |
 | 29 | [Godless](https://open.spotify.com/track/1eTL8yocTmire9gpOn2H2g) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:10 |

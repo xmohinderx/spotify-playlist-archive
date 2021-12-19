@@ -1,14 +1,14 @@
-pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain](/playlists/plain/51txLi0Z6JdRmHNK98HitZ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/51txLi0Z6JdRmHNK98HitZ))
+pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain](/playlists/plain/51txLi0Z6JdRmHNK98HitZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/51txLi0Z6JdRmHNK98HitZ)
 
-### [Middle Kids - Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
+### [Middle Kids \- Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> Here is a playlist of all our songs released so far. Our new album 'Today We’re The Greatest' is out now!
+> Here is a playlist of all our songs released so far\. Our new album 'Today We’re The Greatest' is out now!
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Drivers License - triple j Like a Version](https://open.spotify.com/track/79z8mIUDwNYffZv2qy6Icj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Drivers License (triple j Like a Version)](https://open.spotify.com/album/7lEp6IiYhA8Z63g8Cl7Rr8) | 3:26 |
+| 1 | [Drivers License \- triple j Like a Version](https://open.spotify.com/track/79z8mIUDwNYffZv2qy6Icj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Drivers License \(triple j Like a Version\)](https://open.spotify.com/album/7lEp6IiYhA8Z63g8Cl7Rr8) | 3:26 |
 | 2 | [Bad Neighbours](https://open.spotify.com/track/7nn9F7GffyZdg1EeJxycvi) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:10 |
-| 3 | [Cellophane (Brain)](https://open.spotify.com/track/3VjgAcJMk7x1QRZrA5UJlw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:30 |
+| 3 | [Cellophane \(Brain\)](https://open.spotify.com/track/3VjgAcJMk7x1QRZrA5UJlw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:30 |
 | 4 | [R U 4 Me?](https://open.spotify.com/track/7Bw10B1o4WTeGlYgna3znd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 2:49 |
 | 5 | [Questions](https://open.spotify.com/track/1jRhZA2iBMhQBw9b70aKfx) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 2:53 |
 | 6 | [Lost In Los Angeles](https://open.spotify.com/track/1tYk7RaQ8emrGNTO9zMnxc) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:48 |

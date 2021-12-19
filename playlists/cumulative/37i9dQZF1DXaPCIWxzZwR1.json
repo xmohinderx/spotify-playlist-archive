@@ -1277,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "best friends",
+        "url": "https://open.spotify.com/album/2moiRsCEdQveKnCLL3EtYG"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "date_added": "2021-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "best friends",
+      "url": "https://open.spotify.com/track/2ZQLEuaDw9rxJ5u5YR0KEw"
+    },
+    {
+      "album": {
         "name": "Best Thing",
         "url": "https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs"
       },

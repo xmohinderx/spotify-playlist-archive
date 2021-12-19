@@ -1,8 +1,8 @@
-[pretty](/playlists/pretty/51txLi0Z6JdRmHNK98HitZ.md) - cumulative - [plain](/playlists/plain/51txLi0Z6JdRmHNK98HitZ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/51txLi0Z6JdRmHNK98HitZ))
+[pretty](/playlists/pretty/51txLi0Z6JdRmHNK98HitZ.md) - cumulative - [plain](/playlists/plain/51txLi0Z6JdRmHNK98HitZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/51txLi0Z6JdRmHNK98HitZ)
 
-### [Middle Kids - Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
+### [Middle Kids \- Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
 
-> Here is a playlist of all our songs released so far. Our new album 'Today We’re The Greatest' is out now!
+> Here is a playlist of all our songs released so far\. Our new album 'Today We’re The Greatest' is out now!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11,11 +11,11 @@
 | [Big Softy](https://open.spotify.com/track/1GJX41Wd13ndG9l7oh2ofU) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 3:59 | 2020-10-14 |  |
 | [Bought It](https://open.spotify.com/track/6MZLNniWXJC24zJznXUHv8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 4:02 | 2020-10-14 |  |
 | [Call Me Snowflake](https://open.spotify.com/track/4OOY9bqocmnCcsfW2Nukqu) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [New Songs For Old Problems](https://open.spotify.com/album/0VeJW8F3s8IJkCoduyHo4g) | 4:06 | 2020-10-14 |  |
-| [Cellophane (Brain)](https://open.spotify.com/track/3VjgAcJMk7x1QRZrA5UJlw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:30 | 2021-03-19 |  |
-| [Cellophane (Brain)](https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane (Brain)](https://open.spotify.com/album/6s2KPuyqgG5sZvKrQenE8U) | 3:30 | 2021-02-11 | 2021-03-19 |
+| [Cellophane \(Brain\)](https://open.spotify.com/track/3VjgAcJMk7x1QRZrA5UJlw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:30 | 2021-03-19 |  |
+| [Cellophane \(Brain\)](https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/6s2KPuyqgG5sZvKrQenE8U) | 3:30 | 2021-02-11 | 2021-03-19 |
 | [Doing It Right](https://open.spotify.com/track/0BJVbOwmNlHscHVR91L50B) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:07 | 2020-10-14 |  |
 | [Don’t Be Hiding](https://open.spotify.com/track/17S0GkAdznE2Ms4M2dY2h5) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:04 | 2020-10-14 |  |
-| [Drivers License - triple j Like a Version](https://open.spotify.com/track/79z8mIUDwNYffZv2qy6Icj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Drivers License (triple j Like a Version)](https://open.spotify.com/album/7lEp6IiYhA8Z63g8Cl7Rr8) | 3:26 | 2021-08-31 |  |
+| [Drivers License \- triple j Like a Version](https://open.spotify.com/track/79z8mIUDwNYffZv2qy6Icj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Drivers License \(triple j Like a Version\)](https://open.spotify.com/album/7lEp6IiYhA8Z63g8Cl7Rr8) | 3:26 | 2021-08-31 |  |
 | [Edge Of Town](https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:45 | 2020-10-14 |  |
 | [Fire In Your Eyes](https://open.spotify.com/track/1Ryfpj4slOvAacEra2uhK2) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:01 | 2020-10-14 |  |
 | [Golden Star](https://open.spotify.com/track/3NRdY5rosPh2A0QPjeP9BY) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:43 | 2021-03-19 |  |

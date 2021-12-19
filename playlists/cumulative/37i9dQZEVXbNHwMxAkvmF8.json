@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 157687,
       "name": "Aranyap\u00e1m",
       "url": "https://open.spotify.com/track/2b9OlSP0FG6xb6Ee49C0dm"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 167525,
       "name": "Lass\u00edtott Felv\u00e9tel",
       "url": "https://open.spotify.com/track/215ivkVJmNk338IEwN66qC"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-15",
+      "date_removed": null,
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -2896,6 +2896,24 @@
       "duration_ms": 193937,
       "name": "Mi\u00e9rt ne",
       "url": "https://open.spotify.com/track/6j8KIZyA2tM4Uo2oAK1naA"
+    },
+    {
+      "album": {
+        "name": "Mi\u00f3ta elhagyt\u00e1l (Nem vagyok \u00e1lmos)",
+        "url": "https://open.spotify.com/album/0qzqC2pHopiWRYPIKP34MI"
+      },
+      "artists": [
+        {
+          "name": "Bsw",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2021-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mi\u00f3ta elhagyt\u00e1l - Nem vagyok \u00e1lmos",
+      "url": "https://open.spotify.com/track/0cUfErGDquYKSOJ6q15Vul"
     },
     {
       "album": {
@@ -4288,7 +4306,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-15",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -4466,7 +4484,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 530690,
       "name": "Sz\u00edv",
       "url": "https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP"

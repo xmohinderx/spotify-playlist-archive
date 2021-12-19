@@ -1,6 +1,6 @@
 {
   "date_registered": "2021-12-01",
-  "description": "With Sunglasses Kid, Robert Parker, Volkor X and more",
+  "description": "With W O L F C L U B, Kalax, Primo and more",
   "name": "The Midnight Radio",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 278909,
       "name": "1987",
       "url": "https://open.spotify.com/track/580CcfTxe8eNCcXlTizmPr"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 334960,
       "name": "Berserker [Feat. Dave Lombardo]",
       "url": "https://open.spotify.com/track/0ZKsuaevoyzaBMBRNuINA7"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-17",
+      "date_removed": null,
       "duration_ms": 336413,
       "name": "Black Blood Red Kiss",
       "url": "https://open.spotify.com/track/3L5OGCMGh4Vhql02c2zHcW"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-15",
+      "date_removed": null,
       "duration_ms": 209606,
       "name": "Dangerous Desires",
       "url": "https://open.spotify.com/track/1CT5WeUsZkH2Etdb7HFC6N"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-17",
+      "date_removed": null,
       "duration_ms": 242142,
       "name": "Dangerous Dreams",
       "url": "https://open.spotify.com/track/1hFQfBk8Nl8YnfD6a2xGfB"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 327213,
       "name": "Dark All Day",
       "url": "https://open.spotify.com/track/4GBJomKlZNRnODfpL299pw"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 219885,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5kn6HVMCnEdfX9voOB1LMg"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 279170,
       "name": "Fly for Your Life",
       "url": "https://open.spotify.com/track/2eTHgWvYYunxgqYKqNOuZD"
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 296040,
       "name": "Human Love",
       "url": "https://open.spotify.com/track/5rAsoal3xkfsktpAcrBgC7"
@@ -1600,7 +1600,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 234120,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/7eVgS0wHZSRjNHObWO6vNg"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-16",
+      "date_removed": null,
       "duration_ms": 239339,
       "name": "Kitsune",
       "url": "https://open.spotify.com/track/6RlRl5irhdt6ZVnLvpp1K7"
@@ -1756,6 +1756,32 @@
       "duration_ms": 281379,
       "name": "Knightriders",
       "url": "https://open.spotify.com/track/4YyG15mMNRqjYCH3S7aBw0"
+    },
+    {
+      "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/14pe1Tf8aog64zyOIybMaa"
+      },
+      "artists": [
+        {
+          "name": "TOKYO ROSE",
+          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
+        },
+        {
+          "name": "ZABO",
+          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+        },
+        {
+          "name": "Aloma Steele",
+          "url": "https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX"
+        }
+      ],
+      "date_added": "2021-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205006,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/0a6zaYP3RvfTcdzQtaxZJT"
     },
     {
       "album": {
@@ -1788,7 +1814,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 267740,
       "name": "Let\u2019s Cruise",
       "url": "https://open.spotify.com/track/2ewvKapM7AtD3ADdj7TCaM"
@@ -1962,7 +1988,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-17",
+      "date_removed": null,
       "duration_ms": 303000,
       "name": "Meet Me at the Dance",
       "url": "https://open.spotify.com/track/5NDoe2gbMEfwSD2gKsQlEI"
@@ -2136,7 +2162,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-16",
+      "date_removed": null,
       "duration_ms": 310153,
       "name": "New Tomorrow",
       "url": "https://open.spotify.com/track/5QYlmR9WamVNeOWBdKcOTu"
@@ -2262,7 +2288,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 257816,
       "name": "Odyssey Point",
       "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
@@ -2382,7 +2408,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 249836,
       "name": "Outrun This!",
       "url": "https://open.spotify.com/track/02fSxVKwfRglhkXt03wVJg"
@@ -2508,7 +2534,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 247645,
       "name": "Revel in Your Time",
       "url": "https://open.spotify.com/track/1upZuFHbOUzhH5P8wnDAbI"
@@ -2758,7 +2784,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 293509,
       "name": "Static",
       "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
@@ -2888,7 +2914,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-18",
+      "date_removed": null,
       "duration_ms": 273472,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/7Hp4SrtQicQtSgPLxKB574"
@@ -2968,7 +2994,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 281080,
       "name": "The Drone Racing League",
       "url": "https://open.spotify.com/track/3TjBuYxZqsO5jirM0rujRO"
@@ -3076,7 +3102,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 261935,
       "name": "The Ride (Into the Midnight)",
       "url": "https://open.spotify.com/track/414ljYjctNtquEeNmRGVw9"
@@ -3206,7 +3232,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 314174,
       "name": "Ultralove",
       "url": "https://open.spotify.com/track/0iwTcS6DjSxY1QRriShCWT"
@@ -3264,7 +3290,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 268403,
       "name": "Wanting More",
       "url": "https://open.spotify.com/track/5aAEK6raY3K0S02HeKtCsO"
@@ -3372,7 +3398,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-19",
       "duration_ms": 349506,
       "name": "When You Grow Up, Your Heart Dies",
       "url": "https://open.spotify.com/track/0d3O2HCMzSblmSsWd9Lgh2"
@@ -3416,7 +3442,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-17",
+      "date_removed": null,
       "duration_ms": 206418,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/7HnMWRC2qmuiMzaJ1FKxCh"

@@ -117,22 +117,6 @@
     {
       "added_at": "2021-12-07 12:57:29",
       "album": {
-        "name": "Naoko",
-        "url": "https://open.spotify.com/album/6DiCLO32Rf6Lksf2pw2wKH"
-      },
-      "artists": [
-        {
-          "name": "Lucas Forch",
-          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
-        }
-      ],
-      "duration_ms": 184543,
-      "name": "Naoko",
-      "url": "https://open.spotify.com/track/4uImsVwiffjf75VY8NStFN"
-    },
-    {
-      "added_at": "2021-12-07 12:57:29",
-      "album": {
         "name": "In This Moment",
         "url": "https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud"
       },
@@ -193,6 +177,22 @@
       "duration_ms": 133441,
       "name": "Weaving",
       "url": "https://open.spotify.com/track/2HZqH4rqLWKZDZheQK0EUz"
+    },
+    {
+      "added_at": "2021-12-07 12:57:29",
+      "album": {
+        "name": "Naoko",
+        "url": "https://open.spotify.com/album/6DiCLO32Rf6Lksf2pw2wKH"
+      },
+      "artists": [
+        {
+          "name": "Lucas Forch",
+          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
+        }
+      ],
+      "duration_ms": 184543,
+      "name": "Naoko",
+      "url": "https://open.spotify.com/track/4uImsVwiffjf75VY8NStFN"
     },
     {
       "added_at": "2021-12-07 12:57:29",
