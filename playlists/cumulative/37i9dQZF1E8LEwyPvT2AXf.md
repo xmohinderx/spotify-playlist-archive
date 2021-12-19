@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Paloma Faith, Clinton Kane, Labrinth and more
+> With Adele, Meryl Streep, Amanda Seyfried, Emeli Sandé and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

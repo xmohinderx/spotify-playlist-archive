@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Arcade High, Timecop1983, Volkor X and more
+> With Nightstop, Billy Mays Band, SEAWAVES and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Brawl](https://open.spotify.com/track/3AlajV0n2kqydfIJP0zFXD) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0), [McRocklin](https://open.spotify.com/artist/3ajU0FztvIxRclcrrq3LR5) | [Brawl](https://open.spotify.com/album/0eXhTN81ZKK3kKh8b3A0s2) | 3:53 | 2021-12-07 | 2021-12-18 |
 | [Brooklyn](https://open.spotify.com/track/1Mk77ZCLBBMquaupM9kndp) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 4:14 | 2021-12-04 | 2021-12-17 |
 | [Call Me](https://open.spotify.com/track/2Ju2HjAJvh87jmFV5rPJ7k) | [LeBrock](https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ) | [Action & Romance (Remastered)](https://open.spotify.com/album/0xpMKiD0WGBHBGQfYRPubw) | 4:01 | 2021-12-02 | 2021-12-16 |
-| [Calling](https://open.spotify.com/track/6SJ0cNfpnl2kJLWlXnMbRb) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY), [Frankmusik](https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi) | [III](https://open.spotify.com/album/4tteTazT567N7srYWOwTG2) | 4:58 | 2021-12-03 | 2021-12-16 |
+| [Calling](https://open.spotify.com/track/6SJ0cNfpnl2kJLWlXnMbRb) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY), [Frankmusik](https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi) | [III](https://open.spotify.com/album/4tteTazT567N7srYWOwTG2) | 4:58 | 2021-12-03 |  |
 | [Can't Stop Falling in Love](https://open.spotify.com/track/7If0Y9si7R6TQWRUa96m1S) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX) | [Infinity](https://open.spotify.com/album/4ZZvoPh5Qk1ynqclUbl8G4) | 3:14 | 2021-12-06 |  |
 | [Celestial Breakdown](https://open.spotify.com/track/1VPKBvFizu4bV9oV4dzgtE) | [Tonebox](https://open.spotify.com/artist/3r5rHoyzqZHGJkU8fGZtNO) | [Nocturn](https://open.spotify.com/album/4pZRg3gdstKlGTLKR0FsxT) | 3:35 | 2021-12-04 |  |
 | [CHAINZ](https://open.spotify.com/track/6FIBbSZZDQkxUYr4Q3MaA2) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw) | [CHAINZ](https://open.spotify.com/album/4I8if3q8lwdBO2CIJ3Rve1) | 3:31 | 2021-12-02 | 2021-12-14 |
@@ -100,7 +100,7 @@
 | [Last Train](https://open.spotify.com/track/2rSgzj1Yk2QSgPHuWb5Nh0) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 4:22 | 2021-12-01 | 2021-12-19 |
 | [Let’s Cruise](https://open.spotify.com/track/2ewvKapM7AtD3ADdj7TCaM) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A) | [Timelines](https://open.spotify.com/album/35M8rkuO19ui9XB8xnJMiL) | 4:27 | 2021-12-05 | 2021-12-19 |
 | [Light Years](https://open.spotify.com/track/0rnsCkei7qBWm9NNJNXVHo) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw), [Nikki Flores](https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB) | [Nocturnal](https://open.spotify.com/album/42sLDZoNRGO3YnTgpAbk9o) | 5:21 | 2021-12-03 | 2021-12-07 |
-| [Locke](https://open.spotify.com/track/09MiUxWgWtsR2ITVEbZsOh) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Shadowtask](https://open.spotify.com/album/1wads7lyvAA6Vp17adgQLt) | 5:25 | 2021-12-15 |  |
+| [Locke](https://open.spotify.com/track/09MiUxWgWtsR2ITVEbZsOh) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Shadowtask](https://open.spotify.com/album/1wads7lyvAA6Vp17adgQLt) | 5:25 | 2021-12-15 | 2021-12-19 |
 | [Lonely City](https://open.spotify.com/track/0ZUwlo0moIZ9FsRHJMA4g1) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 5:14 | 2021-12-07 | 2021-12-08 |
 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 | 2021-12-01 |  |
 | [Lost & Found](https://open.spotify.com/track/18QnuOfBATMFLDxfYwSqbX) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Lost & Found](https://open.spotify.com/album/6vTjBvaHqYA32A6KtG0mh4) | 5:50 | 2021-12-01 | 2021-12-19 |
