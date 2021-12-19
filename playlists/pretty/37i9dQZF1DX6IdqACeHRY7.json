@@ -1657,6 +1657,38 @@
     {
       "added_at": "2021-12-09 23:01:00",
       "album": {
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/4N9AuVTmDL04boSPuWksI9"
+      },
+      "artists": [
+        {
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+        }
+      ],
+      "duration_ms": 190072,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/76vWvM44jeCgBKryBaLcqe"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
+        "name": "Don't Hold Me",
+        "url": "https://open.spotify.com/album/6k6IyVU6HbVdYLRkOQXjMP"
+      },
+      "artists": [
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 170673,
+      "name": "Don't Hold Me",
+      "url": "https://open.spotify.com/track/0tLIHRIPpTrauBK0O1XmtR"
+    },
+    {
+      "added_at": "2021-12-09 23:01:00",
+      "album": {
         "name": "Until The Morning Light",
         "url": "https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG"
       },
@@ -1805,22 +1837,6 @@
     {
       "added_at": "2021-12-09 23:01:00",
       "album": {
-        "name": "Fin Regn",
-        "url": "https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 201079,
-      "name": "Fin Regn",
-      "url": "https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
         "name": "Lost Sparks",
         "url": "https://open.spotify.com/album/1GDrq6I76KWXJCDKAlYXes"
       },
@@ -1869,26 +1885,6 @@
       "duration_ms": 171826,
       "name": "I Should Probably Go To Bed",
       "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
-    },
-    {
-      "added_at": "2021-12-09 23:01:00",
-      "album": {
-        "name": "They Told Me",
-        "url": "https://open.spotify.com/album/0s8cuApDirOCHXdb5Atv2F"
-      },
-      "artists": [
-        {
-          "name": "Palm Trees",
-          "url": "https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392"
-        },
-        {
-          "name": "Sophia Ayana",
-          "url": "https://open.spotify.com/artist/0Tags4oElQqYRXkUyzGPzg"
-        }
-      ],
-      "duration_ms": 181822,
-      "name": "They Told Me",
-      "url": "https://open.spotify.com/track/1uHfCC9qFChGhiSarUWq1B"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6IdqACeHRY7"

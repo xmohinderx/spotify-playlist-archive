@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The True Blue, Ollie Wride, Pippa and more
+> With La Bouquet, R.LUM.R, Ollie Wride and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Rhys Lewis, Wrabel, Surfaces and more
+> With John Mayer, Blake Rose, Matt Nathanson, James TW and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

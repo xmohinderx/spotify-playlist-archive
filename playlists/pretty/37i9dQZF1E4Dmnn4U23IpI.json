@@ -1,5 +1,5 @@
 {
-  "description": "With Nightstop, Billy Mays Band, SEAWAVES and more",
+  "description": "With Sunglasses Kid, Robert Parker, Volkor X and more",
   "name": "The Midnight Radio",
   "tracks": [
     {
@@ -457,18 +457,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/7nTkU9kVq3OAwW5ckjqd8d"
+        "name": "Illumination (NUTRONIC Remix)",
+        "url": "https://open.spotify.com/album/613SzaisWcspVFe2d2FwuZ"
       },
       "artists": [
         {
-          "name": "PYLOT",
-          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
+          "name": "Fury Weekend",
+          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
+        },
+        {
+          "name": "The Anix",
+          "url": "https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51"
+        },
+        {
+          "name": "NUTRONIC",
+          "url": "https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr"
         }
       ],
-      "duration_ms": 262105,
-      "name": "The Return",
-      "url": "https://open.spotify.com/track/3UD1b1KZFiMaGS9cuQTicv"
+      "duration_ms": 262450,
+      "name": "Illumination - NUTRONIC Remix",
+      "url": "https://open.spotify.com/track/3EYYB5cwJO9OqUtwJRO6sZ"
     },
     {
       "added_at": null,
@@ -521,26 +529,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination (NUTRONIC Remix)",
-        "url": "https://open.spotify.com/album/613SzaisWcspVFe2d2FwuZ"
+        "name": "Magnatron",
+        "url": "https://open.spotify.com/album/7LFFQrgPPbPzS6Q61Y3o4F"
       },
       "artists": [
         {
-          "name": "Fury Weekend",
-          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
-        },
-        {
-          "name": "The Anix",
-          "url": "https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51"
-        },
-        {
-          "name": "NUTRONIC",
-          "url": "https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr"
+          "name": "TOKYO ROSE",
+          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
         }
       ],
-      "duration_ms": 262450,
-      "name": "Illumination - NUTRONIC Remix",
-      "url": "https://open.spotify.com/track/3EYYB5cwJO9OqUtwJRO6sZ"
+      "duration_ms": 183191,
+      "name": "The Wraith",
+      "url": "https://open.spotify.com/track/1u32OSzm05naBciIjAxpwk"
     },
     {
       "added_at": null,
@@ -637,22 +637,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magnatron",
-        "url": "https://open.spotify.com/album/7LFFQrgPPbPzS6Q61Y3o4F"
-      },
-      "artists": [
-        {
-          "name": "TOKYO ROSE",
-          "url": "https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N"
-        }
-      ],
-      "duration_ms": 183191,
-      "name": "The Wraith",
-      "url": "https://open.spotify.com/track/1u32OSzm05naBciIjAxpwk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Another Brick In The Wall",
         "url": "https://open.spotify.com/album/2icXHiTENAMMCI1IRbPjC4"
       },
@@ -681,6 +665,22 @@
       "duration_ms": 219885,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5kn6HVMCnEdfX9voOB1LMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1987 EP",
+        "url": "https://open.spotify.com/album/3UDVuWPt71dyZxu1eAUDSI"
+      },
+      "artists": [
+        {
+          "name": "Lucy In Disguise",
+          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
+        }
+      ],
+      "duration_ms": 278909,
+      "name": "1987",
+      "url": "https://open.spotify.com/track/580CcfTxe8eNCcXlTizmPr"
     },
     {
       "added_at": null,
@@ -737,22 +737,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1987 EP",
-        "url": "https://open.spotify.com/album/3UDVuWPt71dyZxu1eAUDSI"
-      },
-      "artists": [
-        {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
-        }
-      ],
-      "duration_ms": 278909,
-      "name": "1987",
-      "url": "https://open.spotify.com/track/580CcfTxe8eNCcXlTizmPr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Love",
         "url": "https://open.spotify.com/album/6ArO8OSYgqbs5irEBqhLsb"
       },
@@ -785,6 +769,22 @@
       "duration_ms": 320701,
       "name": "Nuclear",
       "url": "https://open.spotify.com/track/1KjU0Elja36cJ7n8JE7s00"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Thing (Remastered)",
+        "url": "https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0"
+      },
+      "artists": [
+        {
+          "name": "LeBrock",
+          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
+        }
+      ],
+      "duration_ms": 232846,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx"
     },
     {
       "added_at": null,
@@ -841,22 +841,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Thing (Remastered)",
-        "url": "https://open.spotify.com/album/4S3jQEdof1oA2ONsd8ROS0"
-      },
-      "artists": [
-        {
-          "name": "LeBrock",
-          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
-        }
-      ],
-      "duration_ms": 232846,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3lS99gJJAWuxKxQfXArvvx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/4tteTazT567N7srYWOwTG2"
       },
@@ -873,6 +857,22 @@
       "duration_ms": 298666,
       "name": "Calling",
       "url": "https://open.spotify.com/track/6SJ0cNfpnl2kJLWlXnMbRb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturdaze",
+        "url": "https://open.spotify.com/album/2s793dkklgAgVqra7Ax1fg"
+      },
+      "artists": [
+        {
+          "name": "Starcadian",
+          "url": "https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg"
+        }
+      ],
+      "duration_ms": 314174,
+      "name": "Ultralove",
+      "url": "https://open.spotify.com/track/0iwTcS6DjSxY1QRriShCWT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI"
