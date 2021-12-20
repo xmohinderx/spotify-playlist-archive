@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 98 | [White People for Peace](https://open.spotify.com/track/6hfODX7cwTX4k1CApv0G4v) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [Body Of War: Songs That Inspired An Iraq War Veteran](https://open.spotify.com/album/6zjzOSeUEaU6vSUCr89u4A) | 3:31 |
 | 99 | [Mr\. Smiley](https://open.spotify.com/track/4pCZhwsn1mbN8fDYe42Hl5) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude](https://open.spotify.com/album/2uvJMoMuk7mxOqHaU5PTEN) | 2:46 |
 | 100 | [Rescue Me](https://open.spotify.com/track/77ZScCO741T2SAvsXcwga2) | [Nothing Serious](https://open.spotify.com/artist/1rOAHaTjrL6vMCxnq7k6FO), [Sundown Superhero](https://open.spotify.com/artist/3gZyCE7ifVFcvZ12TEKvsA) | [Rescue Me](https://open.spotify.com/album/777RRe1mp4kKhUCdZWodL3) | 2:17 |
+
+Snapshot ID: `MTY0MDA0NDAxNywwMDAwMDAwMDUwYzJhMWExN2RmN2NmMGNjMjg2OTQyMzg2MjM5Y2Jm`

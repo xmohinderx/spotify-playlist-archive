@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 98 | [Ways to Go](https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Ways to Go](https://open.spotify.com/album/095aG2k7hsvjQevGuvtl0G) | 2:07 |
 | 99 | [F Minor Birds](https://open.spotify.com/track/7irKYWkMDKQr0TqlEjoHZS) | [Isiwara Manthrirathna](https://open.spotify.com/artist/0BowjcXnBcdGFtR0tJ3IjI), [Slicky](https://open.spotify.com/artist/6rC0jcsuIB9lJtHyV1vIXW) | [Beach Memories](https://open.spotify.com/album/2DqvWVyaxCTxhcfmVT4twv) | 3:00 |
 | 100 | [everything i wanted](https://open.spotify.com/track/1wv5JHXkjjtAm7CwADyOot) | [Thom Southern](https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ) | [everything i wanted](https://open.spotify.com/album/3fkykLpZgpkeKHFE3XrZHm) | 4:20 |
+
+Snapshot ID: `MTY0MDA0NDAzNSwwMDAwMDAwMGY4ODc2NGFlZjZjOTdjODY1ZjE2M2EyYjYzNTVmNGNj`

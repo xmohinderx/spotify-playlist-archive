@@ -56,3 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 48 | [Saturday](https://open.spotify.com/track/7DaqmSwW9Q8nAgW3ioU8Cl) | [Ódú](https://open.spotify.com/artist/5J0S0VMJPab8FUbu3vJ2ds) | [Saturday](https://open.spotify.com/album/5Q3Pc7s0hTSEMPzxJwp50m) | 3:35 |
 | 49 | [good guys](https://open.spotify.com/track/2BiRV6nrFB8gAZ3xUZBWHs) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [good guys](https://open.spotify.com/album/6JpqcGzhzemwJWTGyz5LNP) | 2:49 |
 | 50 | [i pick loneliness](https://open.spotify.com/track/4SdoXp42bZe2w5ZFynw8oo) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [i pick loneliness](https://open.spotify.com/album/4TSmJsTIr6I6WDQNwLF0KW) | 2:37 |
+
+Snapshot ID: `MTYzODQ1NDIzMiwwMDAwMDY4MTAwMDAwMTdkN2I3Yjg1NjYwMDAwMDE3ZDczMDViYTIy`

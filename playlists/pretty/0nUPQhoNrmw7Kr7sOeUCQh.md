@@ -48,3 +48,5 @@ pretty - [cumulative](/playlists/cumulative/0nUPQhoNrmw7Kr7sOeUCQh.md) - [plain]
 | 40 | [Day at Work](https://open.spotify.com/track/2nZeaBoYarVADvHyslB2zr) | [Nouveau Vélo](https://open.spotify.com/artist/2fHGph9uCiA0sBSfoumYQn) | [Day at Work](https://open.spotify.com/album/6fhWJS64hkoOB34BYzLCNK) | 3:16 |
 | 41 | [Move](https://open.spotify.com/track/4P8ANTO1EXeEhYVDa8Tcy7) | [Pacific Air](https://open.spotify.com/artist/3LedjkHgJTjLJfDTM5YgmD) | [Stop Talking \(Spotify Exclusive\)](https://open.spotify.com/album/2P4wXBq6Db5MiVgbhyxJte) | 3:55 |
 | 42 | [Alligator](https://open.spotify.com/track/6xwyKe7bGOJiX8EFbdoE41) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [KABOOM](https://open.spotify.com/album/59EH4eDAJDKr1uOQ9zn6RM) | 3:40 |
+
+Snapshot ID: `OTEsZmQ1YTY3YmE1YzlhYjk2YWM2OTBiMDIyZDIxM2FhY2NlNjg0YjgyMQ==`

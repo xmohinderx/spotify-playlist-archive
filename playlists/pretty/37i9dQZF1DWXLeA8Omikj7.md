@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 98 | [The Frontier \(High Desert Synthapella\)](https://open.spotify.com/track/2YHCMi1Jh6jeI5Y8jl4FZp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 006](https://open.spotify.com/album/65lnxFX6QyjxKTuBmnGP7P) | 2:21 |
 | 99 | [When Will I Learn](https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/5YXLWx2SHUt8AD1iOAFdaR) | 2:49 |
 | 100 | [Fatal Error](https://open.spotify.com/track/1uqpS2HZQJzlER6CsRtGM2) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Barclay Crenshaw](https://open.spotify.com/album/2p85APvTZpNNrpASUlCCsh) | 4:10 |
+
+Snapshot ID: `MTY0MDA0NDAwNCwwMDAwMDAwMDhlM2VlZDJlNzhhMjc4MDVhYzlmNWUxZmIwNTAyYTk2`

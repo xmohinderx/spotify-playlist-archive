@@ -86,3 +86,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 78 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
 | 79 | [Survival Of The Strongest](https://open.spotify.com/track/78xMNvfmAiTAtZsJLqSZ6v) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5) | [The Audition](https://open.spotify.com/album/6a7WtgHQTCUKXkoWKEzZBK) | 4:10 |
 | 80 | [Heretic Porcelain](https://open.spotify.com/track/1vKbvhNrBNgkPPOiIBcbyv) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Heretic Porcelain](https://open.spotify.com/album/2LxiqZJ4AgDxKT0R5sQf0K) | 4:45 |
+
+Snapshot ID: `MTY0MDA0NDAyNywwMDAwMDAwMDRlN2RmOGZjOTM3ZDhlNWY5YzA4ZWQ5NTgyYWQyZTJm`

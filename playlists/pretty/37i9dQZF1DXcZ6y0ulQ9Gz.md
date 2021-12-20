@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 98 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 |
 | 99 | [Fun Guy](https://open.spotify.com/track/2FZVsjLFw4ePzyYp4cYNst) | [Brad Sucks](https://open.spotify.com/artist/13yy1c4aDXIWu2zfvtvGLn) | [Fun Guy](https://open.spotify.com/album/5DKgXfHdjWqryDLVfmBjpk) | 4:26 |
 | 100 | [Music Sounds Better With You](https://open.spotify.com/track/0GL1ye91pT3nJIQzXwncG2) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better With You](https://open.spotify.com/album/143dMy2NJalRNn5AdOA8AI) | 3:18 |
+
+Snapshot ID: `MTY0MDA0NDAzOSwwMDAwMDAwMGE5YWNlNjdkZTJmYzc0MzIwZDFlNmQ0ZDYxZjMxNTQy`

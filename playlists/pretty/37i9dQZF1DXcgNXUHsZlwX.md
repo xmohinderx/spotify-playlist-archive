@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 98 | [Vol plané](https://open.spotify.com/track/1SaSWoU2n74qoGG4TXDWiz) | [Caterino](https://open.spotify.com/artist/3s0418td2b6GCfBhkJXTw5) | [Brume](https://open.spotify.com/album/2l58fr2QHImdt3Irw6UdlV) | 2:59 |
 | 99 | [C'est tout, c'est rien](https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq) | [Aliocha](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [C'est tout, c'est rien](https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7) | 2:53 |
 | 100 | [Morceaux](https://open.spotify.com/track/0zEcIEPHJj4MsE021bP11Y) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1zEmqQmj5Fw1ICjE8uYBwn) | 4:59 |
+
+Snapshot ID: `MTY0MDA0NDA4OSwwMDAwMDAwMDU2MzYwNDgwOTQ1NTM1YWNlNjY5NTVjY2EyM2ZjZDEz`

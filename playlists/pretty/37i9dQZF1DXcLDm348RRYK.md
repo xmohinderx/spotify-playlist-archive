@@ -68,3 +68,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 60 | [Altalenanze](https://open.spotify.com/track/5UpCLtzvTE8uNbDzTVSAnc) | [Stefano Barone](https://open.spotify.com/artist/3SkmDmTvx0USL6SaL8uDs6) | [Danze Altalenanze](https://open.spotify.com/album/60pGj9J2Z0vjn2d9kzZzsW) | 3:54 |
 | 61 | [Rylynn](https://open.spotify.com/track/5hN8B7iH9FsMgZFkyJtVcC) | [Don Ross](https://open.spotify.com/artist/3NQRIqPwnKZJ4KLKGSkl2Y), [Andy McKee](https://open.spotify.com/artist/0X73orYGQwzjF9lSYSE3Aj) | [The Thing That Came From Somewhere](https://open.spotify.com/album/4xrdRzR1WRxZjtLGxR1Pt0) | 5:54 |
 | 62 | [Blinded by Sunshine](https://open.spotify.com/track/2LdMVnYJrvDL2HGajCDzXa) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [Blinded by Sunshine](https://open.spotify.com/album/6fZrrNfreBmXblDjliOTB1) | 3:00 |
+
+Snapshot ID: `MTYxODU0NTY2MCwwMDAwMDAzMzAwMDAwMTc4ZDhkNmQwYzEwMDAwMDE2Y2Y2OGZlYjU0`

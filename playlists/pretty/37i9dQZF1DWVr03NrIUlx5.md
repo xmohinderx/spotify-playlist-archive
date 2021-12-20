@@ -151,3 +151,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 143 | [Dark Necessities](https://open.spotify.com/track/3FIac6oYC3hHFJdWUGcqfp) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Red Hot Chili Peppers](https://open.spotify.com/album/57UTpB82tkVuFfDi4jK93f) | 4:32 |
 | 144 | [Hymn for the Weekend](https://open.spotify.com/track/45S0auZgfisuHjQkZgCBl5) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Coldplay](https://open.spotify.com/album/0cmwnoLmkKQVqVVCyNdgqo) | 3:44 |
 | 145 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/1hxVVPSXOoy2REedjroKPi) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Pink Floyd](https://open.spotify.com/album/2JRn0Jkfl4kRd1UNyr9YQK) | 3:34 |
+
+Snapshot ID: `MTY0MDA0Mzk5MiwwMDAwMDAwMGZkYjI0YzkxOWQyOTYxMTg1N2JkMDA3YjU1Nzg3ZjE2`

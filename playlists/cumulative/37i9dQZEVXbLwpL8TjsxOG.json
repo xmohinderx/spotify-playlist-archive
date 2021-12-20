@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "album": {
         "name": "It\u2019s OK To Be Sad",
         "url": "https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9"
       },
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-20",
       "duration_ms": 277980,
       "name": "Sweet Sweet Christmas",
       "url": "https://open.spotify.com/track/2Uzjd7yEjikMPc0kYC4gaJ"
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 280822,
       "name": "\u4fcf\u90ce\u541b",
       "url": "https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol"
@@ -3610,7 +3628,7 @@
       ],
       "date_added": "2021-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-20",
       "duration_ms": 186200,
       "name": "\u641e\u4e0d\u61c2",
       "url": "https://open.spotify.com/track/4GAyYOUggQb4gxp3PGKcHc"

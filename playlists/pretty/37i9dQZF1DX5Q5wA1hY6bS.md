@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 98 | [Letter to Madeline](https://open.spotify.com/track/5dlRfWgS04e8n5oVbLJ7Q8) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Letter to Madeline](https://open.spotify.com/album/550t2pxvD1VEccBBhPS1YG) | 4:29 |
 | 99 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 |
 | 100 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
+
+Snapshot ID: `MTY0MDA0NDA0NCwwMDAwMDAwMDdlNjI0YTE1OWE3YWEzYjdjYTFiOGVkNmJmNmVlOWM2`

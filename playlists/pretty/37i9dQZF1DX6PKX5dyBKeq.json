@@ -1,237 +1,10 @@
 {
-  "description": "The finest in UK rap. Cover: Morrisson",
+  "description": "The finest in UK rap. Cover: SwitchOTR",
   "name": "Rap UK",
+  "snapshot_id": "MTY0MDAwNDQ1MSwwMDAwMDJmNzAwMDAwMTdkZDdlMWZiYmUwMDAwMDE3ZGQ3NDZkNTc3",
   "tracks": [
     {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "6:30",
-        "url": "https://open.spotify.com/album/6UmdJvqfSVC1MHWz95IAR3"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "duration_ms": 137077,
-      "name": "6:30",
-      "url": "https://open.spotify.com/track/0KzvY1XHsfvZ5p5sUcdHSN"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Home Alone 2",
-        "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
-      },
-      "artists": [
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 222154,
-      "name": "Overseas",
-      "url": "https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Brucky 2.0",
-        "url": "https://open.spotify.com/album/5QgRStArslDU2io9EU0xt0"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "Brucky 2.0",
-      "url": "https://open.spotify.com/track/7tTcleU0z0VpBaGWlBdIko"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Live by the Gun",
-        "url": "https://open.spotify.com/album/2Jorkd2XJ1vVvm3eIQV91e"
-      },
-      "artists": [
-        {
-          "name": "Morrisson",
-          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
-        }
-      ],
-      "duration_ms": 245117,
-      "name": "Live by the Gun",
-      "url": "https://open.spotify.com/track/6nsfPWRo2j5EHgTeQeVUGs"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Home Alone 2",
-        "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
-      },
-      "artists": [
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
-        {
-          "name": "Lil Pino",
-          "url": "https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Kevin McCallister",
-      "url": "https://open.spotify.com/track/6XYw65P3tKQZKk5fzdxjvG"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Two Years Clear",
-        "url": "https://open.spotify.com/album/3zuZlK5ZyVobKnA5m0KFcX"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Two Years Clear",
-      "url": "https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Snap It",
-        "url": "https://open.spotify.com/album/4Dsn1FD0v8z1PgdoOeQL3g"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Snap It",
-      "url": "https://open.spotify.com/track/7k9bJIyRTECJwjYjE1dfml"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Wid It",
-        "url": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 181058,
-      "name": "Wid It",
-      "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Differences / Innocent",
-        "url": "https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq"
-      },
-      "artists": [
-        {
-          "name": "Rowdy Rebel",
-          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/6tFcwSh4nygzReGqAqax7c"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb"
-      },
-      "artists": [
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Welcome To Brixton",
-        "url": "https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Welcome To Brixton",
-      "url": "https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Playtime",
-        "url": "https://open.spotify.com/album/6WQHQO4dtqONyFobfeFmCw"
-      },
-      "artists": [
-        {
-          "name": "SL",
-          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Playtime",
-      "url": "https://open.spotify.com/track/2M1KNTaSa6fMbHbPkDtMOs"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Clash (feat. Stormzy)",
-        "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Clash (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "Coming for You (feat. A1 x J1)",
         "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
@@ -251,23 +24,483 @@
       "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "Murk With A Mouth",
-        "url": "https://open.spotify.com/album/1JB6fnwSLrP8YJ10XWWQk6"
+        "name": "Brucky 2.0",
+        "url": "https://open.spotify.com/album/5QgRStArslDU2io9EU0xt0"
       },
       "artists": [
         {
-          "name": "V9",
-          "url": "https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v"
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
         }
       ],
-      "duration_ms": 207644,
-      "name": "Sweeper",
-      "url": "https://open.spotify.com/track/1u3LPiyYcaWUzePmUX8uHK"
+      "duration_ms": 185652,
+      "name": "Brucky 2.0",
+      "url": "https://open.spotify.com/track/7tTcleU0z0VpBaGWlBdIko"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Thrill",
+        "url": "https://open.spotify.com/album/1WklF96514rmVnxIDYI5UT"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/1rIfxUG9VNJQVwICfppLnS"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Lean Wit It",
+        "url": "https://open.spotify.com/album/2aUYBupuM5cKiejCxlzKHc"
+      },
+      "artists": [
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "duration_ms": 202199,
+      "name": "Lean Wit It",
+      "url": "https://open.spotify.com/track/1NFfmOAVWhY6rCnU8x8nqB"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Practice Makes Perfect",
+        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Practice Makes Perfect",
+      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Obsessed With You",
+        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Obsessed With You",
+      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/4OuHewbkXTDRQPLEGZRNpo"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/49TzGV4o7ERhFqSUTxV1LU"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Independence Day",
+        "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Sus",
+          "url": "https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD"
+        }
+      ],
+      "duration_ms": 171150,
+      "name": "Double Tap (feat. Sus)",
+      "url": "https://open.spotify.com/track/7pQ5nfrBV8SD6u0aH3DKTj"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Welcome To Brixton",
+        "url": "https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Welcome To Brixton",
+      "url": "https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Little Bit of This",
+        "url": "https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 180581,
+      "name": "Little Bit of This",
+      "url": "https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Bak2Bak",
+        "url": "https://open.spotify.com/album/0cgAanczQdqR7QleTREU48"
+      },
+      "artists": [
+        {
+          "name": "Akz",
+          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
+        },
+        {
+          "name": "Double Lz",
+          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Bak2Bak",
+      "url": "https://open.spotify.com/track/2FkBDvvNzPXxFdNiEM2CSe"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "N.F.T.R",
+        "url": "https://open.spotify.com/album/0I4ySUkczJPRivqT2ZQOfH"
+      },
+      "artists": [
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "duration_ms": 147793,
+      "name": "N.F.T.R",
+      "url": "https://open.spotify.com/track/09Z93D06xMy1q0x09dknsY"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Thanks For Waiting",
+        "url": "https://open.spotify.com/album/2IHcdrRhnzXoH8ilmhWujM"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        },
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "duration_ms": 222178,
+      "name": "Gangsteritus",
+      "url": "https://open.spotify.com/track/2Gg9UhRTym4rztR9vU0Pvu"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Wildest",
+        "url": "https://open.spotify.com/album/10WKwwnW9AIGgUKfjEfTBN"
+      },
+      "artists": [
+        {
+          "name": "Horrid1",
+          "url": "https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ"
+        },
+        {
+          "name": "Sav'o",
+          "url": "https://open.spotify.com/artist/1VeNLxolTVovUG1ROeumVp"
+        }
+      ],
+      "duration_ms": 177534,
+      "name": "Wildest",
+      "url": "https://open.spotify.com/track/4TFumJif4oyWpVyHOMkoK4"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Home Alone 2",
+        "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 222154,
+      "name": "Overseas",
+      "url": "https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Snap It",
+        "url": "https://open.spotify.com/album/4Dsn1FD0v8z1PgdoOeQL3g"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Snap It",
+      "url": "https://open.spotify.com/track/7k9bJIyRTECJwjYjE1dfml"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Jetski Wave 3",
+        "url": "https://open.spotify.com/album/0lIwPQkDm31ETXMctrDBd9"
+      },
+      "artists": [
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        },
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        },
+        {
+          "name": "Stickz",
+          "url": "https://open.spotify.com/artist/4XElpHwKLubHxfXQwWyyEY"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "I Get That (feat. M24 & Stickz)",
+      "url": "https://open.spotify.com/track/48PIbnVeeI869MuJ2Yyt3k"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Independence Day",
+        "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "duration_ms": 198793,
+      "name": "Flowers and the Snow",
+      "url": "https://open.spotify.com/track/02L35AUJSHvIOeKERcWUdj"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Too Loyal for My Own Good",
+        "url": "https://open.spotify.com/album/39SJXfvhdYT3pWyfKqLO83"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 226027,
+      "name": "Too Loyal...",
+      "url": "https://open.spotify.com/track/4gb3UzQB5BhsQU2lUrSKBP"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "FRACTURE",
+        "url": "https://open.spotify.com/album/4mOfCa4qa9rl8hZPVzjVXV"
+      },
+      "artists": [
+        {
+          "name": "INFAMOUSIZAK",
+          "url": "https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1"
+        }
+      ],
+      "duration_ms": 213883,
+      "name": "PERSONAL USE",
+      "url": "https://open.spotify.com/track/65CZwDhfM2CBGpBiVX9UWx"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Antigua",
+        "url": "https://open.spotify.com/album/19MQeiNDE4GzrUHIRLF1q6"
+      },
+      "artists": [
+        {
+          "name": "Dappy",
+          "url": "https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        },
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Antigua",
+      "url": "https://open.spotify.com/track/0AK0oPLSmmzmjVURnWWXTu"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Breadwinner",
+        "url": "https://open.spotify.com/album/2XUf9fQUZ4PXBnnae0hAW8"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "duration_ms": 146181,
+      "name": "Breadwinner",
+      "url": "https://open.spotify.com/track/46vvEPQ6w8g1Vwhp63xcOo"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Two Years Clear",
+        "url": "https://open.spotify.com/album/3zuZlK5ZyVobKnA5m0KFcX"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Two Years Clear",
+      "url": "https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Censored",
+        "url": "https://open.spotify.com/album/2q7OEIMA2lIr3mvb6piX45"
+      },
+      "artists": [
+        {
+          "name": "Loski",
+          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Rolling Dice",
+      "url": "https://open.spotify.com/track/4yuao7v700N6tOJNTH7vK4"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Really",
+        "url": "https://open.spotify.com/album/21C2sBWDs7k0vy4UZcTTWj"
+      },
+      "artists": [
+        {
+          "name": "Sneakbo",
+          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
+        },
+        {
+          "name": "J Boy",
+          "url": "https://open.spotify.com/artist/6dkEqDJxqJxtlgU8g3dUlb"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "Really",
+      "url": "https://open.spotify.com/track/4JWlEcJh01me0EWhbtnkD8"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Clash (feat. Stormzy)",
+        "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Clash (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Uptown",
+        "url": "https://open.spotify.com/album/2VxCRcqsTMe8IqWJm9Y7ql"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "Uptown",
+      "url": "https://open.spotify.com/track/22PC5q1uB3WutWJSfVsoWm"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
         "url": "https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA"
@@ -295,214 +528,42 @@
       "url": "https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/0OUMQ70DNqNLCW3UIITM8b"
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/4aKGX3kexucFfeBoNBxQcr"
       },
       "artists": [
         {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
         }
       ],
-      "duration_ms": 181049,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/63ZJ1O6WA44R6ifMT9z2Ye"
+      "duration_ms": 145711,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "The Drama",
-        "url": "https://open.spotify.com/album/4NtAJs2anuTTQztS6wc8xB"
+        "name": "Goals",
+        "url": "https://open.spotify.com/album/0g1E1HoPJGjJWNPaLmgbD4"
       },
       "artists": [
         {
-          "name": "Scorcher",
-          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Teeway",
+          "url": "https://open.spotify.com/artist/0kpblC0svNiiNNli00y7J9"
         }
       ],
-      "duration_ms": 192074,
-      "name": "Ops",
-      "url": "https://open.spotify.com/track/1Um0ouKAafZVarvHbVKgFZ"
+      "duration_ms": 206666,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/0egBKZ1ldRbw5QdlIsSEjo"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 182285,
-      "name": "Verdansk",
-      "url": "https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Back In Blood",
-        "url": "https://open.spotify.com/album/2y27yWhhQKER6WpYQBgb9s"
-      },
-      "artists": [
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "Back In Blood",
-      "url": "https://open.spotify.com/track/2lqFZ1vSoo1kp0SAGTnIIu"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "More Money",
-        "url": "https://open.spotify.com/album/0ReVzIHDsM725fdFGlIZ4v"
-      },
-      "artists": [
-        {
-          "name": "Meekz",
-          "url": "https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "More Money",
-      "url": "https://open.spotify.com/track/0ZLhqWBAhobSU4bTvKdM2K"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Censored",
-        "url": "https://open.spotify.com/album/2q7OEIMA2lIr3mvb6piX45"
-      },
-      "artists": [
-        {
-          "name": "Loski",
-          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Rolling Dice",
-      "url": "https://open.spotify.com/track/4yuao7v700N6tOJNTH7vK4"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Differences / Innocent",
-        "url": "https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq"
-      },
-      "artists": [
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 167137,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/4ZyFlO3nB9F7TxV5qHJNXW"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Lock Your Doors",
-        "url": "https://open.spotify.com/album/7Cr74qBOQGKH0BYEozFwO1"
-      },
-      "artists": [
-        {
-          "name": "Desperado",
-          "url": "https://open.spotify.com/artist/5FYCXDLeDeWkSdO2CllN4l"
-        },
-        {
-          "name": "Fizzler",
-          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
-        }
-      ],
-      "duration_ms": 178580,
-      "name": "Lock Your Doors",
-      "url": "https://open.spotify.com/track/25u2HgkzAmtVLBY8UZlEJI"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Obsessed With You",
-        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Obsessed With You",
-      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "No Competition",
-        "url": "https://open.spotify.com/album/0n8TYY8xvl8rzN8Y7ua2fS"
-      },
-      "artists": [
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "No Competition",
-      "url": "https://open.spotify.com/track/4LGM8rLaSj0plQjVKd6YkK"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Drippers",
-        "url": "https://open.spotify.com/album/4UARlJ8YCDCUqruzqfPxIs"
-      },
-      "artists": [
-        {
-          "name": "Country Dons",
-          "url": "https://open.spotify.com/artist/76IdLCK81jcB44BTCgR7Vx"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Drippers",
-      "url": "https://open.spotify.com/track/5gh2Xu60OurDQfNmy0zA0X"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/0TVIICdInY6IypDbLsb6MB"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/32pPek0KsHsMSSFogNu49f"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Red Light Green Light",
-        "url": "https://open.spotify.com/album/4xAq8oDHn9K5lqNWyaye9V"
+        "name": "2k17",
+        "url": "https://open.spotify.com/album/1qFTMW0nLumPJNhelB1uWo"
       },
       "artists": [
         {
@@ -510,216 +571,12 @@
           "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         }
       ],
-      "duration_ms": 172657,
-      "name": "Red Light Green Light",
-      "url": "https://open.spotify.com/track/5Qq3zFalngksq1frZ7idHt"
+      "duration_ms": 206250,
+      "name": "2k17",
+      "url": "https://open.spotify.com/track/1uzRV0C8fuXoO3oe5veC5C"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Wollan",
-        "url": "https://open.spotify.com/album/0GIweXN9DpKbSos21PvMfs"
-      },
-      "artists": [
-        {
-          "name": "Bermuda Music",
-          "url": "https://open.spotify.com/artist/4nZPsE22Q1maa358GzSLZD"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 214525,
-      "name": "Wollan",
-      "url": "https://open.spotify.com/track/6kMHnJZ8QgRR0NV4LmdNpA"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Independence Day",
-        "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Sus",
-          "url": "https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD"
-        }
-      ],
-      "duration_ms": 171150,
-      "name": "Double Tap (feat. Sus)",
-      "url": "https://open.spotify.com/track/7pQ5nfrBV8SD6u0aH3DKTj"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/22XG1iczPMOMG1UeJ246la"
-      },
-      "artists": [
-        {
-          "name": "Clavish",
-          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4UrFC81E6GFds7A2WVhYTZ"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "N.F.T.R",
-        "url": "https://open.spotify.com/album/0I4ySUkczJPRivqT2ZQOfH"
-      },
-      "artists": [
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        }
-      ],
-      "duration_ms": 147793,
-      "name": "N.F.T.R",
-      "url": "https://open.spotify.com/track/09Z93D06xMy1q0x09dknsY"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "NHF (No Hard Feelings)",
-        "url": "https://open.spotify.com/album/5ztN6ER74wVx6alzsI7KLQ"
-      },
-      "artists": [
-        {
-          "name": "Nito NB",
-          "url": "https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "NHF (No Hard Feelings)",
-      "url": "https://open.spotify.com/track/1qO8r8Ar3nKGdRwvCtcgWp"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Scary",
-        "url": "https://open.spotify.com/album/1vIy8h2ftSDxKDaM35aO9M"
-      },
-      "artists": [
-        {
-          "name": "Stay Flee Get Lizzy",
-          "url": "https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh"
-        },
-        {
-          "name": "Kwengface",
-          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Scary",
-      "url": "https://open.spotify.com/track/2xjEyfPbxgsv3casBzRlvA"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Little Bit of This",
-        "url": "https://open.spotify.com/album/1bHjBmGf7FPGudZFhT83GN"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 180581,
-      "name": "Little Bit of This",
-      "url": "https://open.spotify.com/track/4lQ87x6SYGR9E8v28xqhh2"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Antigua",
-        "url": "https://open.spotify.com/album/19MQeiNDE4GzrUHIRLF1q6"
-      },
-      "artists": [
-        {
-          "name": "Dappy",
-          "url": "https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        },
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Antigua",
-      "url": "https://open.spotify.com/track/0AK0oPLSmmzmjVURnWWXTu"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Wid the Blicky",
-        "url": "https://open.spotify.com/album/4eYgJQHXWn6W4O2ickfuG6"
-      },
-      "artists": [
-        {
-          "name": "Fizzler",
-          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Wid the Blicky",
-      "url": "https://open.spotify.com/track/5F4dXnQYoBDQyXMNOoqgdo"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Really",
-        "url": "https://open.spotify.com/album/21C2sBWDs7k0vy4UZcTTWj"
-      },
-      "artists": [
-        {
-          "name": "Sneakbo",
-          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
-        },
-        {
-          "name": "J Boy",
-          "url": "https://open.spotify.com/artist/6dkEqDJxqJxtlgU8g3dUlb"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "Really",
-      "url": "https://open.spotify.com/track/4JWlEcJh01me0EWhbtnkD8"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "Double Tap",
         "url": "https://open.spotify.com/album/31t5ON8FfP5TEbmcQA2lMS"
@@ -739,131 +596,7 @@
       "url": "https://open.spotify.com/track/1kzJ786jktCryP59bq4wij"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "2k17",
-        "url": "https://open.spotify.com/album/1qFTMW0nLumPJNhelB1uWo"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "2k17",
-      "url": "https://open.spotify.com/track/1uzRV0C8fuXoO3oe5veC5C"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Wildest",
-        "url": "https://open.spotify.com/album/10WKwwnW9AIGgUKfjEfTBN"
-      },
-      "artists": [
-        {
-          "name": "Horrid1",
-          "url": "https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ"
-        },
-        {
-          "name": "Sav'o",
-          "url": "https://open.spotify.com/artist/1VeNLxolTVovUG1ROeumVp"
-        }
-      ],
-      "duration_ms": 177534,
-      "name": "Wildest",
-      "url": "https://open.spotify.com/track/4TFumJif4oyWpVyHOMkoK4"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Jetski Wave 3",
-        "url": "https://open.spotify.com/album/0lIwPQkDm31ETXMctrDBd9"
-      },
-      "artists": [
-        {
-          "name": "Sneakbo",
-          "url": "https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6"
-        },
-        {
-          "name": "M24",
-          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
-        },
-        {
-          "name": "Stickz",
-          "url": "https://open.spotify.com/artist/4XElpHwKLubHxfXQwWyyEY"
-        }
-      ],
-      "duration_ms": 199148,
-      "name": "I Get That (feat. M24 & Stickz)",
-      "url": "https://open.spotify.com/track/48PIbnVeeI869MuJ2Yyt3k"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Practice Makes Perfect",
-        "url": "https://open.spotify.com/album/6l0LCRHoG9F9EzQUYWnMAL"
-      },
-      "artists": [
-        {
-          "name": "SR",
-          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Practice Makes Perfect",
-      "url": "https://open.spotify.com/track/4Qpa0WH8hUHtOJKSNPrGV7"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/22LBZzwGOiw7zU2Z4SoKFe"
-      },
-      "artists": [
-        {
-          "name": "Akz",
-          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/2j86wxB1hcP6rU4HbhYjXC"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Too Loyal for My Own Good",
-        "url": "https://open.spotify.com/album/39SJXfvhdYT3pWyfKqLO83"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 226027,
-      "name": "Too Loyal...",
-      "url": "https://open.spotify.com/track/4gb3UzQB5BhsQU2lUrSKBP"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "100 Bags Freestyle",
-        "url": "https://open.spotify.com/album/3hvY5dIMHDPIKvPRCBLyn4"
-      },
-      "artists": [
-        {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "100 Bags Freestyle",
-      "url": "https://open.spotify.com/track/76kAtA4XBWaFGQDvBDVYEl"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "Shoot Like Curry",
         "url": "https://open.spotify.com/album/6Hs1CRMHKI4rdLIqCALdu1"
@@ -879,127 +612,43 @@
       "url": "https://open.spotify.com/track/1Vpedr1TGNcY3rSSTMxZAe"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "Goals",
-        "url": "https://open.spotify.com/album/0g1E1HoPJGjJWNPaLmgbD4"
+        "name": "100 Bags Freestyle",
+        "url": "https://open.spotify.com/album/3hvY5dIMHDPIKvPRCBLyn4"
       },
       "artists": [
         {
-          "name": "Teeway",
-          "url": "https://open.spotify.com/artist/0kpblC0svNiiNNli00y7J9"
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
         }
       ],
-      "duration_ms": 206666,
-      "name": "Goals",
-      "url": "https://open.spotify.com/track/0egBKZ1ldRbw5QdlIsSEjo"
+      "duration_ms": 162253,
+      "name": "100 Bags Freestyle",
+      "url": "https://open.spotify.com/track/76kAtA4XBWaFGQDvBDVYEl"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "Independence Day",
-        "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/0TVIICdInY6IypDbLsb6MB"
       },
       "artists": [
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        }
-      ],
-      "duration_ms": 198793,
-      "name": "Flowers and the Snow",
-      "url": "https://open.spotify.com/track/02L35AUJSHvIOeKERcWUdj"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Thrill",
-        "url": "https://open.spotify.com/album/1WklF96514rmVnxIDYI5UT"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Thrill",
-      "url": "https://open.spotify.com/track/1rIfxUG9VNJQVwICfppLnS"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "1HUNNA",
-        "url": "https://open.spotify.com/album/6nxQptk9JVU7q1tISRkBVh"
-      },
-      "artists": [
-        {
-          "name": "Ard Adz",
-          "url": "https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu"
-        }
-      ],
-      "duration_ms": 174602,
-      "name": "1HUNNA",
-      "url": "https://open.spotify.com/track/2gSW8XO3OR3YDpFitDSlCR"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Impressed",
-        "url": "https://open.spotify.com/album/2TDiGlAHnP3cweCbpFNiZO"
-      },
-      "artists": [
-        {
-          "name": "Dezzie",
-          "url": "https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q"
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
         },
         {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
         }
       ],
-      "duration_ms": 207428,
-      "name": "Impressed",
-      "url": "https://open.spotify.com/track/7btD01Fwbxgj6twkIqYofx"
+      "duration_ms": 174545,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/32pPek0KsHsMSSFogNu49f"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/4aKGX3kexucFfeBoNBxQcr"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 145711,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
-      "album": {
-        "name": "Bak2Bak",
-        "url": "https://open.spotify.com/album/0cgAanczQdqR7QleTREU48"
-      },
-      "artists": [
-        {
-          "name": "Akz",
-          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
-        },
-        {
-          "name": "Double Lz",
-          "url": "https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Bak2Bak",
-      "url": "https://open.spotify.com/track/2FkBDvvNzPXxFdNiEM2CSe"
-    },
-    {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "Pull Up (feat. Country Dons & Suspect OTB)",
         "url": "https://open.spotify.com/album/5ckcIG7WD0WOL5h0EVaewB"
@@ -1023,7 +672,175 @@
       "url": "https://open.spotify.com/track/5fnqKCQPBD0EtdryI25QFT"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb"
+      },
+      "artists": [
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/0OUMQ70DNqNLCW3UIITM8b"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        }
+      ],
+      "duration_ms": 181049,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/63ZJ1O6WA44R6ifMT9z2Ye"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "1HUNNA",
+        "url": "https://open.spotify.com/album/6nxQptk9JVU7q1tISRkBVh"
+      },
+      "artists": [
+        {
+          "name": "Ard Adz",
+          "url": "https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu"
+        }
+      ],
+      "duration_ms": 174602,
+      "name": "1HUNNA",
+      "url": "https://open.spotify.com/track/2gSW8XO3OR3YDpFitDSlCR"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Impressed",
+        "url": "https://open.spotify.com/album/2TDiGlAHnP3cweCbpFNiZO"
+      },
+      "artists": [
+        {
+          "name": "Dezzie",
+          "url": "https://open.spotify.com/artist/24Ws1EeobHSyqDxQKfie7Q"
+        },
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "Impressed",
+      "url": "https://open.spotify.com/track/7btD01Fwbxgj6twkIqYofx"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 182285,
+      "name": "Verdansk",
+      "url": "https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Wid It",
+        "url": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 181058,
+      "name": "Wid It",
+      "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Drippers",
+        "url": "https://open.spotify.com/album/4UARlJ8YCDCUqruzqfPxIs"
+      },
+      "artists": [
+        {
+          "name": "Country Dons",
+          "url": "https://open.spotify.com/artist/76IdLCK81jcB44BTCgR7Vx"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Drippers",
+      "url": "https://open.spotify.com/track/5gh2Xu60OurDQfNmy0zA0X"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "More Money",
+        "url": "https://open.spotify.com/album/0ReVzIHDsM725fdFGlIZ4v"
+      },
+      "artists": [
+        {
+          "name": "Meekz",
+          "url": "https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "More Money",
+      "url": "https://open.spotify.com/track/0ZLhqWBAhobSU4bTvKdM2K"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Playtime",
+        "url": "https://open.spotify.com/album/6WQHQO4dtqONyFobfeFmCw"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Playtime",
+      "url": "https://open.spotify.com/track/2M1KNTaSa6fMbHbPkDtMOs"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "6:30",
+        "url": "https://open.spotify.com/album/6UmdJvqfSVC1MHWz95IAR3"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "duration_ms": 137077,
+      "name": "6:30",
+      "url": "https://open.spotify.com/track/0KzvY1XHsfvZ5p5sUcdHSN"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "Swerve Off",
         "url": "https://open.spotify.com/album/3pBVG3KwmVnYit5rACySqd"
@@ -1043,23 +860,71 @@
       "url": "https://open.spotify.com/track/5i7OKZh0fGgs5erYD0Wybx"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "Breadwinner",
-        "url": "https://open.spotify.com/album/2XUf9fQUZ4PXBnnae0hAW8"
+        "name": "NHF (No Hard Feelings)",
+        "url": "https://open.spotify.com/album/5ztN6ER74wVx6alzsI7KLQ"
       },
       "artists": [
         {
-          "name": "M Huncho",
-          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+          "name": "Nito NB",
+          "url": "https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD"
         }
       ],
-      "duration_ms": 146181,
-      "name": "Breadwinner",
-      "url": "https://open.spotify.com/track/46vvEPQ6w8g1Vwhp63xcOo"
+      "duration_ms": 175000,
+      "name": "NHF (No Hard Feelings)",
+      "url": "https://open.spotify.com/track/1qO8r8Ar3nKGdRwvCtcgWp"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Money On My Head",
+        "url": "https://open.spotify.com/album/5OZ0QA6Ft7GttbKuwPJHP0"
+      },
+      "artists": [
+        {
+          "name": "KO",
+          "url": "https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN"
+        }
+      ],
+      "duration_ms": 154784,
+      "name": "Money On My Head",
+      "url": "https://open.spotify.com/track/5T5Zelda9vm4PGo2pXGqlW"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/22LBZzwGOiw7zU2Z4SoKFe"
+      },
+      "artists": [
+        {
+          "name": "Akz",
+          "url": "https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/2j86wxB1hcP6rU4HbhYjXC"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Live by the Gun",
+        "url": "https://open.spotify.com/album/2Jorkd2XJ1vVvm3eIQV91e"
+      },
+      "artists": [
+        {
+          "name": "Morrisson",
+          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
+        }
+      ],
+      "duration_ms": 245117,
+      "name": "Live by the Gun",
+      "url": "https://open.spotify.com/track/6nsfPWRo2j5EHgTeQeVUGs"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "Own Brand Freestyle",
         "url": "https://open.spotify.com/album/5xltzh5AOddBAoNZChGlE2"
@@ -1083,39 +948,39 @@
       "url": "https://open.spotify.com/track/1p2VYcXdvno7iVQOOmYkEs"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "Uptown",
-        "url": "https://open.spotify.com/album/2VxCRcqsTMe8IqWJm9Y7ql"
+        "name": "No Competition",
+        "url": "https://open.spotify.com/album/0n8TYY8xvl8rzN8Y7ua2fS"
       },
       "artists": [
         {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
         }
       ],
-      "duration_ms": 170232,
-      "name": "Uptown",
-      "url": "https://open.spotify.com/track/22PC5q1uB3WutWJSfVsoWm"
+      "duration_ms": 125454,
+      "name": "No Competition",
+      "url": "https://open.spotify.com/track/4LGM8rLaSj0plQjVKd6YkK"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "Money On My Head",
-        "url": "https://open.spotify.com/album/5OZ0QA6Ft7GttbKuwPJHP0"
+        "name": "Wid the Blicky",
+        "url": "https://open.spotify.com/album/4eYgJQHXWn6W4O2ickfuG6"
       },
       "artists": [
         {
-          "name": "KO",
-          "url": "https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN"
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
         }
       ],
-      "duration_ms": 154784,
-      "name": "Money On My Head",
-      "url": "https://open.spotify.com/track/5T5Zelda9vm4PGo2pXGqlW"
+      "duration_ms": 178285,
+      "name": "Wid the Blicky",
+      "url": "https://open.spotify.com/track/5F4dXnQYoBDQyXMNOoqgdo"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "Roberto C (feat. Unknown T)",
         "url": "https://open.spotify.com/album/3QQuKzcpDFS6RTVJNvVQCe"
@@ -1135,7 +1000,59 @@
       "url": "https://open.spotify.com/track/35uEOfCn8GbfqzVwlrgwDI"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Red Light Green Light",
+        "url": "https://open.spotify.com/album/4xAq8oDHn9K5lqNWyaye9V"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 172657,
+      "name": "Red Light Green Light",
+      "url": "https://open.spotify.com/track/5Qq3zFalngksq1frZ7idHt"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Home Alone 2",
+        "url": "https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Lil Pino",
+          "url": "https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "Kevin McCallister",
+      "url": "https://open.spotify.com/track/6XYw65P3tKQZKk5fzdxjvG"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Murk With A Mouth",
+        "url": "https://open.spotify.com/album/1JB6fnwSLrP8YJ10XWWQk6"
+      },
+      "artists": [
+        {
+          "name": "V9",
+          "url": "https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Sweeper",
+      "url": "https://open.spotify.com/track/1u3LPiyYcaWUzePmUX8uHK"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "OT",
         "url": "https://open.spotify.com/album/7bB808PXQ5X33QEqPiyEXL"
@@ -1151,23 +1068,47 @@
       "url": "https://open.spotify.com/track/72Ygf54e183dVuRD3fu2as"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
       "album": {
-        "name": "MiLL$",
-        "url": "https://open.spotify.com/album/1MYpjXEQDqgrSdRWCYn9mr"
+        "name": "Lock Your Doors",
+        "url": "https://open.spotify.com/album/7Cr74qBOQGKH0BYEozFwO1"
       },
       "artists": [
         {
-          "name": "Queen Millz",
-          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+          "name": "Desperado",
+          "url": "https://open.spotify.com/artist/5FYCXDLeDeWkSdO2CllN4l"
+        },
+        {
+          "name": "Fizzler",
+          "url": "https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV"
         }
       ],
-      "duration_ms": 132905,
-      "name": "MiLL$",
-      "url": "https://open.spotify.com/track/74dE6cUA7VU4JZXkLk84oT"
+      "duration_ms": 178580,
+      "name": "Lock Your Doors",
+      "url": "https://open.spotify.com/track/25u2HgkzAmtVLBY8UZlEJI"
     },
     {
-      "added_at": "2021-12-07 23:23:31",
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "The Drama",
+        "url": "https://open.spotify.com/album/4NtAJs2anuTTQztS6wc8xB"
+      },
+      "artists": [
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        }
+      ],
+      "duration_ms": 192074,
+      "name": "Ops",
+      "url": "https://open.spotify.com/track/1Um0ouKAafZVarvHbVKgFZ"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
       "album": {
         "name": "G's Only (feat. Chip)",
         "url": "https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J"
@@ -1185,6 +1126,42 @@
       "duration_ms": 222250,
       "name": "D Double E (feat. Chip)",
       "url": "https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Differences / Innocent",
+        "url": "https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq"
+      },
+      "artists": [
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/6tFcwSh4nygzReGqAqax7c"
+    },
+    {
+      "added_at": "2021-12-20 10:35:38",
+      "album": {
+        "name": "Differences / Innocent",
+        "url": "https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 167137,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/4ZyFlO3nB9F7TxV5qHJNXW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq"

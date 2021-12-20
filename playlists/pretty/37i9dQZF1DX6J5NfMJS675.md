@@ -66,3 +66,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 58 | [Experimental Evidence](https://open.spotify.com/track/4gneAAeKWfJVfYv3qXdGXY) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Experimental Evidence](https://open.spotify.com/album/6TBbQajTShHNJozU1s8Bnd) | 7:07 |
 | 59 | [Wrong or Right \- Acid Rain over Berlin Mix](https://open.spotify.com/track/65S7ET0jEWAUbVcxKvkJxn) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Wrong or Right \(Acid Rain over Berlin Mix\)](https://open.spotify.com/album/48gfUgvr5CWytneYBNV1ov) | 6:31 |
 | 60 | [Nightmare](https://open.spotify.com/track/2NQGvfgBl5jtkhHB9vVksa) | [Sebastian Groth](https://open.spotify.com/artist/0xlK07mheExxQrQZ1aNHcJ), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo), [Markus Weigelt](https://open.spotify.com/artist/2rMiCAbbUX2ywySQCSZRbI) | [Nightmare](https://open.spotify.com/album/5DclYvRURZ4Z8RAvDm0Rx3) | 5:50 |
+
+Snapshot ID: `MTYzOTc2NTY1MCwwMDAwMDBmMjAwMDAwMTdkYzlhNjJiNDMwMDAwMDE2ZTgzNDI0MjRm`

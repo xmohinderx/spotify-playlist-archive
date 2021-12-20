@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 98 | [Agreeable](https://open.spotify.com/track/0yeDzSWRH7HDeWMcXvgUaA) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Agreeable](https://open.spotify.com/album/42wXjVpz6KItN0kZUhq23d) | 2:14 |
 | 99 | [Night After Night](https://open.spotify.com/track/2U7vXey8ZBg5DY4L5Wff0G) | [Dana McCoy](https://open.spotify.com/artist/0K2IuCIyPu4SJCZdcgdt8X) | [Night After Night](https://open.spotify.com/album/4vqpRThbWhF38HfRQR4ovU) | 3:13 |
 | 100 | [Fearless](https://open.spotify.com/track/1BiO2H0lYkGwlqvqQGxrq3) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 4:09 |
+
+Snapshot ID: `MTY0MDA0NDA1NywwMDAwMDAwMGY5MzliMzliZGYzZjMzNzc1OGE1N2NmYWJkNTJkNDhk`

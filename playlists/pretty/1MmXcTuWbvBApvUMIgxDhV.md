@@ -84,3 +84,5 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 | 76 | [Dreaming in Electric Blue](https://open.spotify.com/track/2aX7dnPxhMp5kyV6bRD78t) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Dreaming in Electric Blue](https://open.spotify.com/album/1h7FuiTWs5IP88uQNLDfrr) | 3:12 |
 | 77 | [June](https://open.spotify.com/track/0o9YSdVpcQTPppyDwDeWY9) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 3:21 |
 | 78 | [Workin' on Lovin'](https://open.spotify.com/track/31FE5PNTIS51l1OR8Jb2cy) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Workin' on Lovin'](https://open.spotify.com/album/4GSCxebidDdcCIMgljn7gq) | 3:54 |
+
+Snapshot ID: `MjUyLGJlNTUyMTJkOThmZmZjODc1Zjk0MTc1ZTI3YzBmM2QyYzBhMjFlMWQ=`

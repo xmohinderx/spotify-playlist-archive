@@ -96,3 +96,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 88 | [Darling](https://open.spotify.com/track/0ExjUQBJz9GXbk5BI4t2IB) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/2smUD3MgTAgWjLjRe8wVnC) | 3:02 |
 | 89 | [how to live](https://open.spotify.com/track/1DiOSZ8PpnmwgriDH0RNQd) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [how to live](https://open.spotify.com/album/70CHFyAWpiJFddcr0425NF) | 2:26 |
 | 90 | [If You Lie Down With Me](https://open.spotify.com/track/1RPsOAaHaRu8JlVdeaciuL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:25 |
+
+Snapshot ID: `MTYzOTcxNzIwMCwwMDAwMDU2NTAwMDAwMTdkYzZjMmUxMzkwMDAwMDE3ZGJhYTdjNDQ1`

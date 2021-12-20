@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 157687,
       "name": "Aranyap\u00e1m",
       "url": "https://open.spotify.com/track/2b9OlSP0FG6xb6Ee49C0dm"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-20",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -1704,6 +1704,24 @@
       "duration_ms": 145301,
       "name": "Heaven and Hell",
       "url": "https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM"
+    },
+    {
+      "album": {
+        "name": "Hey l\u00e1ny",
+        "url": "https://open.spotify.com/album/3y80Cvcc2Jv3sTAwjI4n7x"
+      },
+      "artists": [
+        {
+          "name": "ALEE",
+          "url": "https://open.spotify.com/artist/0HtJHszzuucFjA33hHBJrT"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135762,
+      "name": "Hey l\u00e1ny",
+      "url": "https://open.spotify.com/track/7BLBDQOAVUtUpiWSsXQp16"
     },
     {
       "album": {
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-20",
       "duration_ms": 200211,
       "name": "Rampampam",
       "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
@@ -4618,7 +4636,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 190567,
       "name": "Tal\u00e1n",
       "url": "https://open.spotify.com/track/5uWUKvPNekWal505BdKgfD"
@@ -5257,6 +5275,24 @@
     },
     {
       "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
+    },
+    {
+      "album": {
         "name": "Wrecked",
         "url": "https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG"
       },
@@ -5454,7 +5490,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-20",
       "duration_ms": 183686,
       "name": "\u00c1lmatlan est\u00e9k",
       "url": "https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of"
@@ -5538,7 +5574,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-20",
       "duration_ms": 223712,
       "name": "\u00cdgy J\u00f3",
       "url": "https://open.spotify.com/track/2gmImsycwj59cL8lykXx0i"

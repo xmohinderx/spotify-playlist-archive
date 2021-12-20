@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 98 | [Fountain \(ars amatoria\)](https://open.spotify.com/track/0YfcUQ8oaZi4PaCXy3ycgg) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Vessel](https://open.spotify.com/artist/3CVP7vT9JUFGLj8MgiVKjY) | [Delta](https://open.spotify.com/album/7xTPmMHimoHFaMTmGoXTPl) | 7:27 |
 | 99 | [Chameleon](https://open.spotify.com/track/6WX84e2SacFICy3HoWjYaH) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 4:59 |
 | 100 | [Michi No Eki](https://open.spotify.com/track/1MigTeNm5QI9qEygoppr8k) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR), [Taigen Kawabe](https://open.spotify.com/artist/3YHhs0k1r71mDDjwqYAqm8) | [Yasuragi Land](https://open.spotify.com/album/11saLOyIsjX1NsXHIVcpFc) | 2:17 |
+
+Snapshot ID: `MTYzODM2NjQyMCwwMDAwMDBiNzAwMDAwMTdkNzYzZjljODIwMDAwMDE3ZDczNzIxYjNk`

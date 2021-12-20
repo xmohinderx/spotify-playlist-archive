@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 98 | [Impression E Minor](https://open.spotify.com/track/5eIUDdG5pFjmshH9CsJgTV) | [Krzysztof Kobylinski](https://open.spotify.com/artist/7yi2tj3EelAhQoyyN4hYOb), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [Give Me November](https://open.spotify.com/album/3hBYyrSwgLGzQzzxl8tZ10) | 3:42 |
 | 99 | [You Are](https://open.spotify.com/track/7cD7q524dd5KpU0GRdfB0I) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [You Are](https://open.spotify.com/album/7f6e8ciQxtsF26rpkeIRhx) | 6:13 |
 | 100 | [Emily](https://open.spotify.com/track/3gleUGWbYMuPc3RfUA1mKd) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 5:28 |
+
+Snapshot ID: `MTY0MDA0NDA5MCwwMDAwMDAwMGUzM2FmYzMwZTMzZDZlZjZjNWVkN2E4MTI3MDk5Njhl`

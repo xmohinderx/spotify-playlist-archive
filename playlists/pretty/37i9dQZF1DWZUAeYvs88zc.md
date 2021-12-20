@@ -86,3 +86,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 78 | [Sad Tonight](https://open.spotify.com/track/1X8mgsS7R6lcKLjDPeQWum) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/3vlDmQ83joVKRD13pq8GhP) | 2:59 |
 | 79 | [Happy Loner](https://open.spotify.com/track/3aVpNPYYhmnhFl61QS56tx) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Happy Loner](https://open.spotify.com/album/2LqEi8okydBj6gNTAVhOJq) | 3:13 |
 | 80 | [If You're Gonna Lie](https://open.spotify.com/track/4X2caEGywKxXKGImqNkBmt) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [If You're Gonna Lie](https://open.spotify.com/album/3HJzsf1y8Z3HX2qa1lcsa9) | 3:23 |
+
+Snapshot ID: `MTY0MDA0NDA2NSwwMDAwMDAwMDYyOGExNmQ0M2Y1OWE2NjBlZjA0MzQyYjkyNGY2ZTdh`

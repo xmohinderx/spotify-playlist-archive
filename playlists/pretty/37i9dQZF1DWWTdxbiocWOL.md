@@ -56,3 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 48 | [In Illusions Of Order](https://open.spotify.com/track/2wWQwx1ymkpCr4ItPUQ94g) | [Red Sparowes](https://open.spotify.com/artist/4MT9A89Dq8xRJ9hMvvPiJw) | [The Fear Is Excruciating, But Therein Lies The Answer](https://open.spotify.com/album/1mLisF7qgSwVDrQ4gklpcR) | 7:36 |
 | 49 | [Aura Phase](https://open.spotify.com/track/0VjApV6NEpnFPDNbOAhbIP) | [L'Effondras](https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y) | [Anabasis](https://open.spotify.com/album/6d4GLYbbpS40ZljBpSPPq5) | 4:48 |
 | 50 | [Mogwai Fear Satan](https://open.spotify.com/track/39q7Yyr5iD0ajA6ZFw91y7) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team \(Deluxe Edition\)](https://open.spotify.com/album/3sHB5AiFaJEOCAqh3taqGX) | 16:19 |
+
+Snapshot ID: `MTYzNTI1NTk5MSwwMDAwMDAyYzAwMDAwMTdjYmNkYTNiNzkwMDAwMDE2ZDAwYWNhMmMz`

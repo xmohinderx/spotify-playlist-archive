@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 98 | [Uncharted](https://open.spotify.com/track/17ZTjoAXGBEQQBKIf9n1L3) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Worlds Apart](https://open.spotify.com/album/1qKNenjTiNf72CXtCze4J3) | 4:52 |
 | 99 | [The Worst of Us](https://open.spotify.com/track/5B2p6lmbUGO9g0kKuXfejU) | [QuietKind](https://open.spotify.com/artist/6TldHVbpoDY8Ut8FAPtdbr) | [Shadow Play](https://open.spotify.com/album/1t9N7b0bbwH5csgeyxgBCe) | 4:39 |
 | 100 | [Monomyth](https://open.spotify.com/track/0WiLaIOpXOqfyMfCEuKUJ5) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Monomyth](https://open.spotify.com/album/4QpUgATVSx1YGHvq8nDwsl) | 3:26 |
+
+Snapshot ID: `MTY0MDA0NDA2MiwwMDAwMDAwMGZhNWZmOGIwZTI3MmYxZjY3OTczZDdjMmNkZGI3YTU1`

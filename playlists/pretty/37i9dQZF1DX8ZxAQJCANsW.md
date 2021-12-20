@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZxAQJCANsW.md) - [plain]
 | 98 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
 | 99 | [Steal My Kisses](https://open.spotify.com/track/4cIwg5VY8Lo1NYwq7llOth) | [Ben Harper And The Innocent Criminals](https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64) | [Burn To Shine](https://open.spotify.com/album/51B1RzotO05EShjth3xkOZ) | 4:05 |
 | 100 | [The Captain](https://open.spotify.com/track/1njWYdD28YORBUTF6vshxc) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:32 |
+
+Snapshot ID: `MTY0MDA0NDA3MywwMDAwMDAwMGQxMjIwMGMxODU3M2QxZDMyZGM0ZjYwMWM1ZWJiYTEw`

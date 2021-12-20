@@ -106,3 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 98 | [Slow Grenade](https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Slow Grenade](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) | 3:37 |
 | 99 | [My Way \(Steve Aoki & Aloe Blacc\)](https://open.spotify.com/track/0FJw1Pg9xXCxbcyQMI6GAe) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [My Way \(Steve Aoki & Aloe Blacc\)](https://open.spotify.com/album/51RVQ2kpX8huPWERdmpdy8) | 3:17 |
 | 100 | [No Tomorrow](https://open.spotify.com/track/2OB2aVCoMbtnRGDsfNslUu) | [iamsimon](https://open.spotify.com/artist/7pcSKgv5UuVxHPVU61q6do), [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [No Tomorrow](https://open.spotify.com/album/1E949sRA7qaNlXCJErr0FM) | 2:33 |
+
+Snapshot ID: `MTY0MDA0NDAwMSwwMDAwMDAwMGQwNmE2NjI3M2JhYjYzYmM2MzMyM2I1YWI4ODdlMTJk`
