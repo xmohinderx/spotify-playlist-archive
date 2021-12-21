@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Because the Night](https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Outside Society](https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv) | 3:22 |
 | 75 | [Indian Summer](https://open.spotify.com/track/0MPsh65qp5QJdcENUNBDZq) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Jamboree](https://open.spotify.com/album/467spL3Q9YifFybOjqQQGx) | 3:05 |
 
-Snapshot ID: `MTY0MDA0NDA4NywwMDAwMDAwMGRjYWQzMmQ5OTRhYTQ1MzY5OGM2NjM1N2FlZjFlMjMz`
+Snapshot ID: `MTY0MDA0NzEyOSwwMDAwMDAwMGRjYWQzMmQ5OTRhYTQ1MzY5OGM2NjM1N2FlZjFlMjMz`
