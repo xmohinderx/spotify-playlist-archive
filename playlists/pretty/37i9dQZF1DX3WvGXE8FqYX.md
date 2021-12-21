@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 69 | [Issues](https://open.spotify.com/track/1sXUWdKx03aP9Gmzft58rt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues](https://open.spotify.com/album/1FulpD9JiAPbqP2F31pmUP) | 2:56 |
 | 70 | [Good as Hell](https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good as Hell](https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq) | 2:39 |
 
-Snapshot ID: `MTY0MDA3Mzk3MiwwMDAwMDAwMDAwOGUzYTE0NGY3ZmE4MTA0YWM4NzU3YzU0NzdlZjBm`
+Snapshot ID: `MTY0MDA3NjI4NiwwMDAwMDAwMDAwOGUzYTE0NGY3ZmE4MTA0YWM4NzU3YzU0NzdlZjBm`

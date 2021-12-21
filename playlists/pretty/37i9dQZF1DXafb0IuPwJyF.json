@@ -1,0 +1,848 @@
+{
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: <a href=\"spotify:artist:58oPVy7oihAEXE0Ott6JOf\">Eve</a>",
+  "name": "Tokyo Super Hits!",
+  "snapshot_id": "MTY0MDA0MTE0NSwwMDAwMDJkZjAwMDAwMTdkZGExMWU0YTcwMDAwMDE3ZGNkOTIzMTlh",
+  "tracks": [
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u85cd\u624d",
+        "url": "https://open.spotify.com/album/7jVKn2OEHBIflIiBOFQ5O1"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 256212,
+      "name": "\u85cd\u624d",
+      "url": "https://open.spotify.com/track/7znz9Gm1qXs5wOXwOGQqZR"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u8e0a\u308a\u5b50",
+        "url": "https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 230109,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
+        "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 188060,
+      "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
+      "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "Doughnut",
+        "url": "https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "Doughnut",
+      "url": "https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30d9\u30c6\u30eb\u30ae\u30a6\u30b9",
+        "url": "https://open.spotify.com/album/25FWSs9iK7hQqyK2fdKvSV"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 230393,
+      "name": "\u30d9\u30c6\u30eb\u30ae\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u541b\u306b\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 257953,
+      "name": "\u541b\u306b\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/3C76PZshjG9naA7BQofuX0"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "One",
+      "url": "https://open.spotify.com/track/77eXIA0iOeNjkYyfVFeQPk"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "THE BOOK 2",
+        "url": "https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "\u3082\u3057\u3082\u547d\u304c\u63cf\u3051\u305f\u3089",
+      "url": "https://open.spotify.com/track/06Dyf27hoaHiVugKgL7K2Z"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u3042\u3041\u3001\u3082\u3046\u3002",
+        "url": "https://open.spotify.com/album/23lZ1iicD23SONnNdolPE5"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "duration_ms": 284330,
+      "name": "\u3042\u3041\u3001\u3082\u3046\u3002",
+      "url": "https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
+        "url": "https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 218751,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
+      "url": "https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u611b\u3057\u304d\u65e5\u3005\u306e\u771f\u3093\u4e2d\u3067",
+        "url": "https://open.spotify.com/album/3XgZuMvhqbj1yCTrG3MXHt"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 202049,
+      "name": "\u611b\u3057\u304d\u65e5\u3005\u306e\u771f\u3093\u4e2d\u3067",
+      "url": "https://open.spotify.com/track/5f0N60WTFye6mIxkIRPuBM"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u65b0\u547c\u5438",
+        "url": "https://open.spotify.com/album/6ZWyL8ksiCKbmtUkyIgnfy"
+      },
+      "artists": [
+        {
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "\u65b0\u547c\u5438",
+      "url": "https://open.spotify.com/track/6AQfpBDkerfo3AWJUMr7ND"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw"
+      },
+      "artists": [
+        {
+          "name": "Chippoke Ohashi",
+          "url": "https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "\u5e38\u7dd1",
+      "url": "https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
+        "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
+      },
+      "artists": [
+        {
+          "name": "GING NANG BOYZ",
+          "url": "https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
+      "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "Traveling Train",
+        "url": "https://open.spotify.com/album/06KKwUet0EDzEI6pUuOy84"
+      },
+      "artists": [
+        {
+          "name": "ReN",
+          "url": "https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus"
+        }
+      ],
+      "duration_ms": 183582,
+      "name": "Traveling Train",
+      "url": "https://open.spotify.com/track/0IRHUsIeu9OuaUolghTkDs"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u6c88\u4e01\u82b1",
+        "url": "https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS"
+      },
+      "artists": [
+        {
+          "name": "DISH//",
+          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
+        }
+      ],
+      "duration_ms": 231609,
+      "name": "\u6c88\u4e01\u82b1",
+      "url": "https://open.spotify.com/track/79TdseXlAiANFOTstIwejv"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30e9\u30b9\u30c8\u30b7\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/6v1gVuQqiFhyrko0dsj15x"
+      },
+      "artists": [
+        {
+          "name": "Masaki Suda",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "\u30e9\u30b9\u30c8\u30b7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/1YJhvLLaF3gyFQoFGrawoI"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30db\u30ef\u30a4\u30c8\u30ad\u30b9",
+        "url": "https://open.spotify.com/album/6cHRZiDktZjUR4LUT0q3jf"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u9234\u6728",
+          "url": "https://open.spotify.com/artist/76QUiw7IqXtPsy2dqmr2ev"
+        }
+      ],
+      "duration_ms": 274860,
+      "name": "\u30db\u30ef\u30a4\u30c8\u30ad\u30b9",
+      "url": "https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u66d6\u6627",
+        "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 221167,
+      "name": "\u66d6\u6627",
+      "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "PARADOX",
+        "url": "https://open.spotify.com/album/4e3wxS32d1955Ff27puwg4"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "PARADOX",
+      "url": "https://open.spotify.com/track/6V6ED9h3ps0gzcClRMxSKu"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "Editorial",
+        "url": "https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1"
+      },
+      "artists": [
+        {
+          "name": "Official HIGE DANdism",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/6wDntdm888mDo458RaYjGl"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "PEOPLE",
+        "url": "https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f"
+      },
+      "artists": [
+        {
+          "name": "PEOPLE 1",
+          "url": "https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "\u9b54\u6cd5\u306e\u6b4c",
+      "url": "https://open.spotify.com/track/1ahSmZww75M4DOKibyaYYp"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "Oz.",
+        "url": "https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 194273,
+      "name": "Oz.",
+      "url": "https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30cf\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u3053\u305f\u3048\u3042\u308f\u305b",
+        "url": "https://open.spotify.com/album/3G4KTtLghaKBEk5A7ibODi"
+      },
+      "artists": [
+        {
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "\u3053\u305f\u3048\u3042\u308f\u305b",
+      "url": "https://open.spotify.com/track/46AAVTHrvm4Dt9Kwk2uGKo"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "Chopstick",
+        "url": "https://open.spotify.com/album/3JZe3XL47MvVW571DbXN9S"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "Chopstick",
+      "url": "https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u732b\u30ea\u30bb\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/5UYCMMhY28GdZa56yEQGV9"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "duration_ms": 247100,
+      "name": "\u732b\u30ea\u30bb\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/68TwxeHi1pyFDRIKHxSArM"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30d5\u30ec\u30f3\u30c5",
+        "url": "https://open.spotify.com/album/5MeXkPPd4wYklmKNEGcq4f"
+      },
+      "artists": [
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "duration_ms": 172359,
+      "name": "\u30d5\u30ec\u30f3\u30c5",
+      "url": "https://open.spotify.com/track/2YdtxfndCrtPfIgxEOtRjJ"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/60Um9oNI6c3zWIa6dF93Q2"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+        }
+      ],
+      "duration_ms": 273192,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2tYs5Knxzt3TwuRjRWlKLR"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u5317\u6597\u4e03\u661f",
+        "url": "https://open.spotify.com/album/4sp1Czs2EWRdvyeZRcKSvV"
+      },
+      "artists": [
+        {
+          "name": "Vickeblanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "\u5317\u6597\u4e03\u661f",
+      "url": "https://open.spotify.com/track/2oPxMaCPeuNO6vNnqnvT7v"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30d7\u30e9\u30c8\u30fc",
+        "url": "https://open.spotify.com/album/41cvPKK46yW4nPUv1N9vb7"
+      },
+      "artists": [
+        {
+          "name": "Sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 263017,
+      "name": "\u30d7\u30e9\u30c8\u30fc",
+      "url": "https://open.spotify.com/track/5LPyVrjwXEvHE3mcjYrSoT"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u591c\u306b\u3057\u304c\u307f\u3064\u3044\u3066\u3001\u671d\u3067\u6eb6\u304b\u3057\u3066",
+        "url": "https://open.spotify.com/album/2xXBLrS026lOtokTttSEm8"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "\u30ca\u30a4\u30c8\u30aa\u30f3\u30b6\u30d7\u30e9\u30cd\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/41GHAXwcqJcmP3Y1U4CoiJ"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30ef\u30f3\u30eb\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/7CkrRPbmRr2zAgoSly512W"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "\u30ef\u30f3\u30eb\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/2sBfhWqWDvPtkVTn1C3sef"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "ATTRACTION (Japanese Remix)",
+        "url": "https://open.spotify.com/album/6w1bjcnTn4lTjRLUKA6ySI"
+      },
+      "artists": [
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        },
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "duration_ms": 210694,
+      "name": "ATTRACTION [Japanese Remix]",
+      "url": "https://open.spotify.com/track/5NJiQOeqz2WWGBZVKcP1oO"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "EVERBLUE",
+        "url": "https://open.spotify.com/album/2TWOBBZ8C8mqkNGerg2C5f"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "EVERBLUE",
+      "url": "https://open.spotify.com/track/5RmtuRIe8FJg9FRegwCqzW"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "Diary",
+        "url": "https://open.spotify.com/album/3AYy5886YMf41BzIt8ntMy"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "duration_ms": 242650,
+      "name": "Diary",
+      "url": "https://open.spotify.com/track/3zpQOYESpZj2mDPrgy3fRT"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "vanitas",
+        "url": "https://open.spotify.com/album/16XLHBZEggSq15PKsVG55t"
+      },
+      "artists": [
+        {
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "Jez Dior",
+          "url": "https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        }
+      ],
+      "duration_ms": 195857,
+      "name": "FLN",
+      "url": "https://open.spotify.com/track/6mBNGsS8tPt8IqRIev50lY"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/46xGJVWJusnDYoi6skhS4s"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "\u30cf\u30ec\u30f3\u30c1",
+      "url": "https://open.spotify.com/track/0e1k2ptLJEtnlM4Fy8QVo6"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30ab\u30ec\u30f3\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/1T18qFuxU67pmxaZWQRY3f"
+      },
+      "artists": [
+        {
+          "name": "Takaya Kawasaki",
+          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
+        }
+      ],
+      "duration_ms": 279280,
+      "name": "\u30ab\u30ec\u30f3\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/5hgqyx5zALVzkSzXadrX0m"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "duration_ms": 266158,
+      "name": "\u30a2\u30eb\u30c7\u30d0\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u90a6\u753b",
+        "url": "https://open.spotify.com/album/6GFIx1kaT0aD0qLSWCdtRc"
+      },
+      "artists": [
+        {
+          "name": "Indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "duration_ms": 197449,
+      "name": "\u90a6\u753b",
+      "url": "https://open.spotify.com/track/4zfsk7inEPq0PawGyU6oHi"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "ONE AND LAST",
+        "url": "https://open.spotify.com/album/5jc9kybeA4JeT6xucySNte"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 287453,
+      "name": "ONE AND LAST",
+      "url": "https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u5927\u597d\u7269",
+        "url": "https://open.spotify.com/album/6crN5g09Zh5aLpWuNxXUjx"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 248350,
+      "name": "\u5927\u597d\u7269",
+      "url": "https://open.spotify.com/track/3W4yKXVQ2BPWUZT8gsCf7W"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30ef\u30f3\u30b9\u30fb\u30a2\u30dd\u30f3\u30fb\u30a2\u30fb\u30ea\u30d0\u30a4\u30d0\u30eb",
+        "url": "https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        },
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 207796,
+      "name": "\u30b5\u30f3\u30bf\u30ac\u30fc\u30eb feat. \u306b\u3057\u306a",
+      "url": "https://open.spotify.com/track/3ILA858bkYyDznOeZfXSM1"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "ACTION (with ZAZEN BOYS)",
+        "url": "https://open.spotify.com/album/7FHSYBTV5QfpHUGAXzPhQw"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        },
+        {
+          "name": "ZAZEN BOYS",
+          "url": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM"
+        }
+      ],
+      "duration_ms": 215404,
+      "name": "ACTION (with ZAZEN BOYS)",
+      "url": "https://open.spotify.com/track/7KRwCd1TCyUtrpGXZNDiwA"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "\u30c0\u30fc\u30af\u30eb\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/0enb4QkhRZPSzNsH0immrH"
+      },
+      "artists": [
+        {
+          "name": "Dios",
+          "url": "https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu"
+        }
+      ],
+      "duration_ms": 175627,
+      "name": "\u30c0\u30fc\u30af\u30eb\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "FOREVER DAZE",
+        "url": "https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "SHIWAKUCHA",
+      "url": "https://open.spotify.com/track/3tRunVnKgrnK0fdNLEXMlq"
+    },
+    {
+      "added_at": "2021-12-19 15:00:00",
+      "album": {
+        "name": "Gifted.",
+        "url": "https://open.spotify.com/album/6F4ayC4AAasUiwt6oE0aTp"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Gifted.",
+      "url": "https://open.spotify.com/track/65AmrrbvmkhGCYWk9xfXPW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF"
+}

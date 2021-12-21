@@ -1,0 +1,888 @@
+{
+  "description": "Fancy belting out your favourite Korean songs?",
+  "name": "Sing Along K-Pop",
+  "snapshot_id": "MTYxNTQ3NzkxNiwwMDAwMDA3MTAwMDAwMTc4MjFmY2MzZTIwMDAwMDE2ZDE1NDdmYWQx",
+  "tracks": [
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Dynamite (DayTime Version)",
+        "url": "https://open.spotify.com/album/6K4chJALBBMYmXjwgvqahx"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "MORE & MORE",
+      "url": "https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "It'z Me",
+        "url": "https://open.spotify.com/album/2gertXS08whDTzBWfmewPO"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 191242,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 213885,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Kill This Love",
+        "url": "https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "Kill This Love",
+      "url": "https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/5efEhTY3yPlGU4Ofu2yi7F"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 206868,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/68GNh1ZjfSewE8uBCH3UnR"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 169566,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/2gHd5bCrj42s8nwwXBALd4"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 199873,
+      "name": "\ub2ec\ub77c\ub2ec\ub77c DALLA DALLA",
+      "url": "https://open.spotify.com/track/6G7DuXoSGeAf6BZivJdEjF"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/1q8h2HdED1cmgJVo8lEBME"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 220238,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/0QIRm9sUkGnezGznkWCqCo"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 209648,
+      "name": "LOVE SCENARIO",
+      "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Twicecoaster:lane1",
+        "url": "https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 212990,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/1nMbZ9OsVNSLEyijI80EST"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 209355,
+      "name": "DDU-DU DDU-DU",
+      "url": "https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "WANNA BE MYSELF",
+        "url": "https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "WANNA BE MYSELF",
+      "url": "https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "GREAT!",
+        "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "duration_ms": 208863,
+      "name": "BBoom BBoom",
+      "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "TWIT",
+        "url": "https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF"
+      },
+      "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 190785,
+      "name": "TWIT",
+      "url": "https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "I am",
+        "url": "https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 202772,
+      "name": "LATATA",
+      "url": "https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "I made",
+        "url": "https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 197616,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/0q6boCcLaWYPIy2vOsksFg"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0zlJOlDdsJ6Y14GnPoYGD8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 240848,
+      "name": "BOOMBAYAH",
+      "url": "https://open.spotify.com/track/0NeNAcCVtGqLAAmf4FhWWT"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "\ud654\uc591\uc5f0\ud654 The Most Beautiful Moment In Life, Pt. 1",
+        "url": "https://open.spotify.com/album/6yRUOoA0Z4jgr6qcKcFAbH"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "\uca54\uc5b4 DOPE",
+      "url": "https://open.spotify.com/track/0pGHou9D7JTMKbMfOLKy50"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 208238,
+      "name": "What is Love?",
+      "url": "https://open.spotify.com/track/7dZBVloiLpV350g0R6O3nP"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "SuperM - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ"
+      },
+      "artists": [
+        {
+          "name": "SuperM",
+          "url": "https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Jopping",
+      "url": "https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "SQUARE ONE",
+        "url": "https://open.spotify.com/album/0zlJOlDdsJ6Y14GnPoYGD8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 211696,
+      "name": "WHISTLE",
+      "url": "https://open.spotify.com/track/3hfN1wQSiLPa6b1RX5Kfbj"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "As If It's Your Last",
+        "url": "https://open.spotify.com/album/6IzQb2kLydYNfzmKXvmndX"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 213264,
+      "name": "As If It's Your Last",
+      "url": "https://open.spotify.com/track/1Zyd6zQnC6XIIzmg3hP7Ot"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/7GfqgsiW63VBNLRvIrhqLx"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 185796,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "EX'ACT - The 3rd Album",
+        "url": "https://open.spotify.com/album/5dB931yywXZg4VdZYeFRaD"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 221341,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6lM6yIDZ7kxFsgQCCfaLE2"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "The Story Begins",
+        "url": "https://open.spotify.com/album/2vsOT4A0aFm0HoLMfAZrng"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 215091,
+      "name": "Like Ooh-Ahh",
+      "url": "https://open.spotify.com/track/3i01M7jnvBYrhG6YnAqCdC"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "The 2nd Album \u2018EXODUS\u2019",
+        "url": "https://open.spotify.com/album/783a1YbiWvZkD6UVFn9mtH"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "CALL ME BABY",
+      "url": "https://open.spotify.com/track/4jdiqVbH1eUwc4MzDV7GMu"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 210817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Love Yourself \u627f 'Her'",
+        "url": "https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 223122,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5SE57ljOIUJ1ybL9U6CuBH"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "The 1st Mini Album \u2018Ice Cream Cake\u2019",
+        "url": "https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "Ice Cream Cake",
+      "url": "https://open.spotify.com/track/2oLLOxkJWJj9BbrsTc4Xql"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
+        "url": "https://open.spotify.com/album/2TpvJhw6RYTTn4eDrAb3eJ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 238726,
+      "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
+      "url": "https://open.spotify.com/track/7Ed6BkggCS2KaKY5YlINaF"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 260233,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/03iCbZaM4OkRR4We6wIzvx"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "COLOR*IZ",
+        "url": "https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 218993,
+      "name": "La Vie en Rose",
+      "url": "https://open.spotify.com/track/1fRaznZsAB2i63TtmYv2Hc"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Love Yourself \u8f49 'Tear'",
+        "url": "https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "FAKE LOVE",
+      "url": "https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/7eXi3jZrvfqIfW3dDSl9Jt"
+      },
+      "artists": [
+        {
+          "name": "EXID",
+          "url": "https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O"
+        }
+      ],
+      "duration_ms": 189883,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/5p1PL2Gz532ziKatpyjSNh"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 237685,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 189049,
+      "name": "Peek-A-Boo",
+      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "The 4th Album 'I GOT A BOY'",
+        "url": "https://open.spotify.com/album/3qpbuQ6XTxYfGx4fQZpZcA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 271325,
+      "name": "I GOT A BOY",
+      "url": "https://open.spotify.com/track/6QHScqygQdCvGowZCeGsC0"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "SQUARE UP",
+        "url": "https://open.spotify.com/album/1HwIUaaEuRsxsIyssqtGLH"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 237076,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/2naEVOadudtXHwtZNfjMDM"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "DON\u2019T MESS UP MY TEMPO \u2013 The 5th Album",
+        "url": "https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 224482,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4EjUFjzi4ErWjklOA3Aslu"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "\u2018The ReVe Festival\u2019 Day 1",
+        "url": "https://open.spotify.com/album/2nLEiP268mSFZHW5dajM4R"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 190859,
+      "name": "Zimzalabim",
+      "url": "https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "NCT 2018 EMPATHY",
+        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
+      },
+      "artists": [
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
+        },
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 210641,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "DEBUT HALF ALBUM 'WELCOME BACK'",
+        "url": "https://open.spotify.com/album/5CwTN4j1Ai5BfF5J9c8LHw"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 227030,
+      "name": "RHYTHM TA",
+      "url": "https://open.spotify.com/track/7czyJpFnAl18Bwye8wETky"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Lil' Touch - The 1st Single",
+        "url": "https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation-Oh!GG",
+          "url": "https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb"
+        }
+      ],
+      "duration_ms": 189846,
+      "name": "Lil\u2019 Touch",
+      "url": "https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/27XDcBXIllsjdrwMoOM5Wm"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 229989,
+      "name": "\ub208,\ucf54,\uc785(Eyes, Noes, Lips)",
+      "url": "https://open.spotify.com/track/2orE4MtP5Oy0ynoA1KkF3t"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "WHO DO U LOVE?",
+        "url": "https://open.spotify.com/album/68nS7mAzImPMJt94b0ZQza"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 189035,
+      "name": "WHO DO U LOVE?",
+      "url": "https://open.spotify.com/track/6YKCEtfZXXyionWJPtT5jb"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "NCT 2018 EMPATHY",
+        "url": "https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX"
+      },
+      "artists": [
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG"
+        },
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 183019,
+      "name": "Baby Don\u2019t Stop",
+      "url": "https://open.spotify.com/track/1EYSS9Lp7a9f20C3FaOVgI"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "Don\u2019t Need Your Love",
+        "url": "https://open.spotify.com/album/2e3TvxplnFh1HcFUcSe39u"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Don\u2019t Need Your Love",
+      "url": "https://open.spotify.com/track/7oEm5Q1virEUB9H0XjWZzF"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "6IXENSE",
+        "url": "https://open.spotify.com/album/0hyCfY4t7eGbYwjDqmQDO8"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "BLIND FOR LOVE",
+      "url": "https://open.spotify.com/track/4bUkJxCgAY9e9Tb0r4vOoy"
+    },
+    {
+      "added_at": "2021-03-11 15:51:56",
+      "album": {
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "duration_ms": 217823,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro"
+}

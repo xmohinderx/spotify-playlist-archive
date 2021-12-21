@@ -1,0 +1,892 @@
+{
+  "description": "Up and down I-95. Cover: Joyner Lucas",
+  "name": "State of Mind",
+  "snapshot_id": "MTYzOTcxNzIwMCwwMDAwMDRkMjAwMDAwMTdkYzZjMmUxMzIwMDAwMDE3ZDdkYTg0YTg5",
+  "tracks": [
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "My Escape",
+        "url": "https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 223030,
+      "name": "My Escape",
+      "url": "https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/09m8euGboz6XzRCjsf9ezz"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "duration_ms": 177463,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/2XR0Ou0pDaQ2bmVMsG90qe"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Shmoney (feat. Quavo & Rowdy Rebel)",
+        "url": "https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib"
+      },
+      "artists": [
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        }
+      ],
+      "duration_ms": 170711,
+      "name": "Shmoney (feat. Quavo & Rowdy Rebel)",
+      "url": "https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 215303,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Talk Nice",
+        "url": "https://open.spotify.com/album/4oPuSNNJzdQWn7Qf6UdlmE"
+      },
+      "artists": [
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        }
+      ],
+      "duration_ms": 111840,
+      "name": "Talk Nice",
+      "url": "https://open.spotify.com/track/1qo8LZ0OHfObYJpA8Zdfhl"
+    },
+    {
+      "added_at": "2021-11-19 05:15:10",
+      "album": {
+        "name": "Table For One",
+        "url": "https://open.spotify.com/album/2D8w8m8eFaU92yI1iXlHiC"
+      },
+      "artists": [
+        {
+          "name": "Flipp Dinero",
+          "url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "No Option",
+      "url": "https://open.spotify.com/track/2LNiTlYDSFntPkU3qvUc6Y"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Oh Shhh",
+        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "duration_ms": 93096,
+      "name": "Oh Shhh",
+      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "The D.O.A. Tape",
+        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/2A3x9LVRj0ZVFARllp3su5"
+        }
+      ],
+      "duration_ms": 234602,
+      "name": "Brotherly Love (feat. Dougie B & B-Lovee)",
+      "url": "https://open.spotify.com/track/34YnZOLkvAxH6K7ZXutHOo"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "The Book of Eli",
+        "url": "https://open.spotify.com/album/2JR2pvofQhv2ZEjocuH76a"
+      },
+      "artists": [
+        {
+          "name": "Eli Fross",
+          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 152223,
+      "name": "Steppas Freestyle (feat. Sleepy Hallow)",
+      "url": "https://open.spotify.com/track/2FHC2xTzANdprKYAwehB68"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 188486,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/35uYYHfPcA5zcl8IeVXxOb"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 134376,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Mr. Pyrex Man",
+        "url": "https://open.spotify.com/album/2aCzTCXssq4CuB8c4rPDy1"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "Mr. Pyrex Man",
+      "url": "https://open.spotify.com/track/2RekFRVuBcZmSnTtTuJuLM"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Robert Horry Freestyle",
+        "url": "https://open.spotify.com/album/1ZukfkXHBBLpQenz6MiWJC"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 91406,
+      "name": "Robert Horry Freestyle",
+      "url": "https://open.spotify.com/track/1YqWbETAgGG8sKS5yEFDHB"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Feeling Myself (feat. DJ Drama)",
+        "url": "https://open.spotify.com/album/78vPH1YGbwtqZuF0sFcFv7"
+      },
+      "artists": [
+        {
+          "name": "Poundside Pop",
+          "url": "https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "duration_ms": 143573,
+      "name": "Feeling Myself (feat. DJ Drama)",
+      "url": "https://open.spotify.com/track/4c9fF18rZHbsA8X8apjuRd"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "My Everything (Part II) (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/4x9WnqHIgPv8pk5Qmq4VI4"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 153051,
+      "name": "My Everything (Part II) (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/3JjO7Qtxgt8kzUM2sA7eZ4"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "2 Get You Thru The Rain",
+        "url": "https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "duration_ms": 178423,
+      "name": "Lost U 2 Da Game",
+      "url": "https://open.spotify.com/track/4PKOuKI8vn1gC6dXegpk3a"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "Rambo",
+        "url": "https://open.spotify.com/album/1Igno8iFQcVi2jWe94h4Lr"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Rambo",
+      "url": "https://open.spotify.com/track/0lihymBRdQmqdUFDTMyLRU"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "If I Go Down (from the film National Champions)",
+        "url": "https://open.spotify.com/album/2xAB6zJS3cySqeXVSY1kXg"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 212604,
+      "name": "If I Go Down - from the film National Champions",
+      "url": "https://open.spotify.com/track/5EiJy15UPO6iQSRDoerbv4"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/5vRzph0Ou5S6eUYvmjg4pB"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 161024,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/0r4a2v0RdpnOUc6Rjy9Zsb"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "ROLLIN N CONTROLLIN, Pt.2 (PICTURE ME)",
+        "url": "https://open.spotify.com/album/06do6YAfoBee0ULhdt4qe5"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "ROLLIN N CONTROLLIN, Pt.2 (PICTURE ME)",
+      "url": "https://open.spotify.com/track/5phjnA00QqNdF7oo8a6yu0"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Tiffany Nikes",
+      "url": "https://open.spotify.com/track/1yrg59BEI7zSxvAXRcu7YF"
+    },
+    {
+      "added_at": "2021-11-19 05:15:10",
+      "album": {
+        "name": "Table For One",
+        "url": "https://open.spotify.com/album/2D8w8m8eFaU92yI1iXlHiC"
+      },
+      "artists": [
+        {
+          "name": "Flipp Dinero",
+          "url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+        }
+      ],
+      "duration_ms": 233544,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0FoUK4tAVUfArhVMcCKhFn"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "UNTAMED",
+        "url": "https://open.spotify.com/album/1LM4qNXzxeL4ptfUOeUQwV"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 175489,
+      "name": "WHAT YOU NEED",
+      "url": "https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Being Honest",
+        "url": "https://open.spotify.com/album/6Mp175aGm3sE5zMxyG6KID"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        }
+      ],
+      "duration_ms": 153964,
+      "name": "Being Honest",
+      "url": "https://open.spotify.com/track/0fiHDOKTOFnAPekgXYGErK"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
+        "url": "https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        }
+      ],
+      "duration_ms": 150475,
+      "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
+      "url": "https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "UNTAMED",
+        "url": "https://open.spotify.com/album/1LM4qNXzxeL4ptfUOeUQwV"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "duration_ms": 189297,
+      "name": "ICED OUT",
+      "url": "https://open.spotify.com/track/2iOYqp2uNNDD5HCOlxlnIe"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Duck Duck Goose",
+        "url": "https://open.spotify.com/album/63hKh0W6ASqIYDAxd2FTN1"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 180868,
+      "name": "Duck Duck Goose",
+      "url": "https://open.spotify.com/track/3pnSl76sUiuy1kEBiftn36"
+    },
+    {
+      "added_at": "2021-11-19 05:15:10",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/0axOc2iyVVq7R5sFl5h6H5"
+      },
+      "artists": [
+        {
+          "name": "Slump6s",
+          "url": "https://open.spotify.com/artist/63ELR8SMfqu8EH9eXqCt9j"
+        }
+      ],
+      "duration_ms": 186488,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/2uy9NaLzl0wGILhoGVortZ"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "Sim Simma",
+        "url": "https://open.spotify.com/album/4y1JexJuRC9hzT2SHCYscg"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Sim Simma",
+      "url": "https://open.spotify.com/track/0LCpAqkpl7drtth6HWVnrx"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Taken For Granted",
+        "url": "https://open.spotify.com/album/1v9tdLs34CUDSItvFilRMD"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "Taken For Granted",
+      "url": "https://open.spotify.com/track/3CsdKcnQRUtuPO7hHjzJ1P"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/0TUe5E3BQ38hBXglAijbNx"
+      },
+      "artists": [
+        {
+          "name": "YXNG K.A",
+          "url": "https://open.spotify.com/artist/3BBujITyfgwyXTQliFzUNH"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2PxUUGpUBoHcDUrPKNstTE"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "Overseas",
+        "url": "https://open.spotify.com/album/04uP1i16kH1FXkf0YUYmxk"
+      },
+      "artists": [
+        {
+          "name": "Jay Bezzy",
+          "url": "https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 131116,
+      "name": "Overseas",
+      "url": "https://open.spotify.com/track/4vs8wFsbctZBuuzJxZnmPz"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Green Juice (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        }
+      ],
+      "duration_ms": 174136,
+      "name": "Green Juice (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Splash",
+        "url": "https://open.spotify.com/album/7hl3EAz28smU0peFwA4Lxp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "Splash",
+      "url": "https://open.spotify.com/track/0RgClWZ50CVGxKCNRYooBD"
+    },
+    {
+      "added_at": "2021-11-26 05:00:00",
+      "album": {
+        "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
+        "url": "https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bruised Soundtrack",
+          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+        }
+      ],
+      "duration_ms": 160130,
+      "name": "Bet It - from the \"Bruised\" Soundtrack",
+      "url": "https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9"
+    },
+    {
+      "added_at": "2021-11-29 16:28:40",
+      "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/796fmi9gkQZMxFYqUBLQ14"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "duration_ms": 134530,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II"
+    },
+    {
+      "added_at": "2021-11-19 05:15:10",
+      "album": {
+        "name": "NO FAVORS",
+        "url": "https://open.spotify.com/album/3NgUunvnoTlKgaTDwXrbGr"
+      },
+      "artists": [
+        {
+          "name": "KAS",
+          "url": "https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5"
+        },
+        {
+          "name": "Barii",
+          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
+        }
+      ],
+      "duration_ms": 149215,
+      "name": "PROTOCOL",
+      "url": "https://open.spotify.com/track/1yzxdkYR3hcw1fAENGQPAG"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Face It",
+        "url": "https://open.spotify.com/album/568W7PktRYaxj5xsVylE3s"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Face It",
+      "url": "https://open.spotify.com/track/3k2siE5234rEIV52ltcIYY"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Lethal Weapon",
+        "url": "https://open.spotify.com/album/2IM1YBUPe1aC4UawhmjVMg"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        }
+      ],
+      "duration_ms": 163778,
+      "name": "Lethal Weapon",
+      "url": "https://open.spotify.com/track/7JEaNZxtjDN8CfYKv6zpHu"
+    },
+    {
+      "added_at": "2021-11-19 05:15:10",
+      "album": {
+        "name": "They Got Amnesia",
+        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 161156,
+      "name": "Bag Season (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/28nUmOSSJQNIj7KJ9ux2QV"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "HYPERNOVA.",
+        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 136303,
+      "name": "Head$hot! (with Trippie Redd)",
+      "url": "https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "USEE4YOURSELF (Deluxe)",
+        "url": "https://open.spotify.com/album/34go0JAfH5nB2Ks15oek6e"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Dinner Date (feat. Trippie Redd) - bonus",
+      "url": "https://open.spotify.com/track/41KtwBtTPPlh77GPz01SDa"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Catch A Breeze",
+        "url": "https://open.spotify.com/album/6HjJtGNheDqJQRSmHOW353"
+      },
+      "artists": [
+        {
+          "name": "3Breezy",
+          "url": "https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/4icY6bYQhQJinijtkWXQAR"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "I Don't Really Care",
+        "url": "https://open.spotify.com/album/4QpszijvM9A6JfeitbD0Ba"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 160940,
+      "name": "I Don't Really Care",
+      "url": "https://open.spotify.com/track/7AFdKKY8VN6gijdxQJgQr4"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/0GQDQ69wAjCuWWre6M4pgA"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "DJ Luke Nasty",
+          "url": "https://open.spotify.com/artist/1yZwlOVsfrp4wb6d29KkGM"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/7cZxllNvqJrFaU4op9YvK6"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Play My Part",
+        "url": "https://open.spotify.com/album/7n5kmlDvoPYR7sAZfNvMq0"
+      },
+      "artists": [
+        {
+          "name": "Flipp Dinero",
+          "url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Play My Part",
+      "url": "https://open.spotify.com/track/5JSxZLQcD7WzmZjgD53UM5"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/4MbWetpBrqDjVz6L8TfD4Q"
+      },
+      "artists": [
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        }
+      ],
+      "duration_ms": 107780,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/22PUvmUMfQuj08xmmDhKbD"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Double Or Nothing",
+        "url": "https://open.spotify.com/album/0KQWR05DbuJE7h41HeYtvO"
+      },
+      "artists": [
+        {
+          "name": "Don Q",
+          "url": "https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee"
+        }
+      ],
+      "duration_ms": 154275,
+      "name": "Say That",
+      "url": "https://open.spotify.com/track/4N8YWfJZP6MaIk0RbEZmNF"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Retaliation",
+        "url": "https://open.spotify.com/album/5xb0FVh2rlQatP2IsagLN2"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "duration_ms": 148687,
+      "name": "Retaliation",
+      "url": "https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1YPTAhwehsC"
+}
