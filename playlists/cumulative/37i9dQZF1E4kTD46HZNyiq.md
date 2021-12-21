@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Millennial Club, Perlo, LOYALS and more
+> With The Bad Dreamers, La Bouquet, The Night Game and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

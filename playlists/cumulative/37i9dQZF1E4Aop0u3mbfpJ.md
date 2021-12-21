@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Ava Max, Bradley Cooper, MARINA and more
+> With Akon, MARINA, Nate Ruess and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

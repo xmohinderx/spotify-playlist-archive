@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Billy Mays Band, Timecop1983, Lucy In Disguise and more
+> With Nightstop, Gunship, Quixotic and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

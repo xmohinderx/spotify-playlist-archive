@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Into The Fire \- Acoustic Version](https://open.spotify.com/track/2Cee261lwgFVYq6TGd2g1P) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Into The Fire \(Acoustic Version\)](https://open.spotify.com/album/6jbTKyck3sf5vmvjSzvzYL) | 3:28 |
 | 50 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
 
-Snapshot ID: `MTY0MDA2Nzg0MywwMDAwMDAwMDk0MDA4MjNlMjQ3YTdjMDZmYTBkNjQ3N2RjNzI3ZGQ4`
+Snapshot ID: `MTY0MDA3Mzk2NCwwMDAwMDAwMDk0MDA4MjNlMjQ3YTdjMDZmYTBkNjQ3N2RjNzI3ZGQ4`
