@@ -32,7 +32,7 @@
 | [Please](https://open.spotify.com/track/5bAbdTLN4izHqoQPeHi0jf) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Lost Friends](https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG) | 3:20 | 2020-10-14 |  |
 | [Questions](https://open.spotify.com/track/1jRhZA2iBMhQBw9b70aKfx) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 2:53 | 2021-03-19 |  |
 | [Questions](https://open.spotify.com/track/4jmBJcu8Ee8CSrXQYSvmbv) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Questions](https://open.spotify.com/album/4FPVIk2FIX8MfCBZQrfqDi) | 2:53 | 2021-01-15 | 2021-03-19 |
-| [R U 4 Me?](https://open.spotify.com/track/3QJJTZCoOP5fmrfTUYSQnw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [R U 4 Me?](https://open.spotify.com/album/5rFGdgRHqyFJbukWGqEnmt) | 2:49 | 2020-11-03* | 2021-03-19 |
+| [R U 4 Me?](https://open.spotify.com/track/3QJJTZCoOP5fmrfTUYSQnw) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [R U 4 Me?](https://open.spotify.com/album/5rFGdgRHqyFJbukWGqEnmt) | 2:49 | 2020-11-03\* | 2021-03-19 |
 | [R U 4 Me?](https://open.spotify.com/track/7Bw10B1o4WTeGlYgna3znd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 2:49 | 2021-03-19 |  |
 | [Real Thing](https://open.spotify.com/track/78JRWJAGjPIYyPRQ4mb5uW) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Real Thing](https://open.spotify.com/album/1TKz6L8awXpHTRQGZcnJo8) | 3:10 | 2020-10-14 |  |
 | [Run With You](https://open.spotify.com/track/6TTAfH0KHjWDVM9IuGPtLr) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:25 | 2021-03-19 |  |
@@ -46,3 +46,5 @@
 | [Today We're The Greatest](https://open.spotify.com/track/022sOb3Gr0yg4YRyZ5xFVd) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/3yxsWKZW1R1emQFfwvN2lL) | 3:47 | 2021-03-17 |  |
 | [Today We're The Greatest](https://open.spotify.com/track/0zqJqiq9CIP7W77NrV1NpM) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Today We're The Greatest](https://open.spotify.com/album/7Lm0uVUdSwxuqx2LUdRmp4) | 3:47 | 2021-03-19 |  |
 | [Your Love](https://open.spotify.com/track/7lBYQn8KX8zxlW9oJkYOCL) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Middle Kids](https://open.spotify.com/album/6pDQs06Zcc2Q4GPkngmJbv) | 3:16 | 2020-10-14 |  |
+
+\*This playlist was first scraped on 2020-11-03. Prior content cannot be recovered.

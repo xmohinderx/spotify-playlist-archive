@@ -44,3 +44,5 @@
 | [We Appreciate Power](https://open.spotify.com/track/1RuWiwnl4QOjL1x2kJiOZG) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 5:35 | 2020-03-02 |  |
 | [World Princess Part II](https://open.spotify.com/track/7BSeKFoxuIBnkHEHsWscI9) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI) | 5:05 | 2020-03-02 |  |
 | [You'll miss me when I'm not around](https://open.spotify.com/track/5CCI3yvULsQRQacPgQ1NCO) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 2:41 | 2020-03-02 |  |
+
+\*This playlist was first scraped on 2020-10-16. Prior content cannot be recovered.

@@ -96,3 +96,5 @@
 | [When the Lights Come On \(Instrumental\)](https://open.spotify.com/track/51dbbhs2gcXJSIvILIYCbm) | [Mike Ault](https://open.spotify.com/artist/3ZaFdHfHYBoXwQuA5HY3ZQ), [Abandoned Carnival](https://open.spotify.com/artist/58vgTZbfDwj5CU1QZ6mdAi) | [Rocket League: Official Game Soundtrack, Vol\. 2](https://open.spotify.com/album/1gCyUyQvqDEJOjo18WdE5I) | 5:54 | 2020-01-17 |  |
 | [Whiplash](https://open.spotify.com/track/5UO4jjoVN7oqc52W4JjSfI) | [Hollywood Principle](https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9) | [Rocket League \(Official Game Soundtrack\)](https://open.spotify.com/album/6XL0i4TCp2D1zDT4EbCCOO) | 7:17 | 2020-01-17 |  |
 | [Wishes](https://open.spotify.com/track/4H1FdAyWZBNzwcHFQYeGy6) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Wishes](https://open.spotify.com/album/0y58xcvf2s44yo7ETPyfpa) | 4:01 | 2020-01-17 |  |
+
+\*This playlist was first scraped on 2020-01-22. Prior content cannot be recovered.

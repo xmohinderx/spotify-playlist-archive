@@ -81,3 +81,5 @@
 | [Work B\*\*ch](https://open.spotify.com/track/2vTPWWm2Lgc6kI6a3Z3uXY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Work B\*\*ch](https://open.spotify.com/album/06AlYcg5fmk7sfjTpLStnc) | 4:07 | 2013-12-31 |  |
 | [Wrecking Ball](https://open.spotify.com/track/6oDPg7fXW3Ug3KmbafrXzA) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/1aUeYy0hXu0KBuJ5To0hS0) | 3:43 | 2013-12-31 |  |
 | [You Make Me](https://open.spotify.com/track/0aSXBXVQVh2b34jF3DYXAT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [You Make Me](https://open.spotify.com/album/2ZE1w0y27hxMhblmE9WzDr) | 3:52 | 2013-12-31 |  |
+
+\*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

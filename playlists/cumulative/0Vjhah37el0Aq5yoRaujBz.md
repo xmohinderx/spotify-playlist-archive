@@ -312,3 +312,5 @@
 | [You Got to Love Me](https://open.spotify.com/track/7uRRcR7qb7nJSaLfSQlWiL) | [DAVID AUGUST](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA) | [You Got to Love Me](https://open.spotify.com/album/3VWIgWSGr1eUgjO2ulXRlz) | 5:59 | 2017-10-12 |  |
 | [Young \- Midnight Kids Remix](https://open.spotify.com/track/2g1dcVwh2fbCKzbxX2RgwZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [Young \(Midnight Kids Remix\)](https://open.spotify.com/album/3nppJI9iGBBlqtO4qY6nuc) | 3:48 | 2017-09-29 |  |
 | [Young Gods](https://open.spotify.com/track/6vV0Pkalmc9IVgD7PeBe6A) | [Total Ape](https://open.spotify.com/artist/6pUYaWjHnY2HdN6RC6ELml) | [Young Gods](https://open.spotify.com/album/3MpR3bVY4U3zqQUPM6Zk1d) | 3:05 | 2016-12-02 |  |
+
+\*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

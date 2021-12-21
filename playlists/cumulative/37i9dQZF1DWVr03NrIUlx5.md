@@ -151,3 +151,5 @@
 | [Work \(8 Bit Version\)](https://open.spotify.com/track/74nycYALrzO62YQfdvuA2d) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [8 Bit Universe, Vol\. 34](https://open.spotify.com/album/2T4vr90C09bH8UZLak7aXj) | 3:42 | 2020-06-11 |  |
 | [Wow.](https://open.spotify.com/track/3us0g0sYBo8a8IvttIO8cj) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Hits 2019](https://open.spotify.com/album/2774nezMDeDedsz4kZkTdu) | 2:43 | 2020-06-11 |  |
 | [Yikes \- 8\-Bit Version](https://open.spotify.com/track/32GaPXh1ABED0Kw2RLsL7a) | [8\-Bit Trap God](https://open.spotify.com/artist/4BdGC1RuOTKncid54T1kID) | [Yikes \(8\-Bit Version\)](https://open.spotify.com/album/7qzJJAp5JrSPIcd2yGbwUk) | 2:22 | 2020-06-11 |  |
+
+\*This playlist was first scraped on 2021-10-26. Prior content cannot be recovered.

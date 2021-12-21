@@ -663,3 +663,5 @@
 | [Zum Zum](https://open.spotify.com/track/7lEhOiFtcLXY4P7cuTKuQ8) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Zum Zum](https://open.spotify.com/album/126REka6HCyui9eyfn3i9j) | 3:55 | 2020-09-15 |  |
 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/2zkVH2daHyjS51g7PRJFDn) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [¿Qué Ha Pasao'?](https://open.spotify.com/album/2KSuEqdiRePWkHU15Q9KH6) | 3:18 | 2019-10-10 |  |
 | [Árabe](https://open.spotify.com/track/58qmrrvUkA09szrox83VDp) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Árabe](https://open.spotify.com/album/0K0tY5rT2eaWWWFXb4oNJv) | 3:07 | 2018-11-23 |  |
+
+\*This playlist was first scraped on 2020-08-20. Prior content cannot be recovered.

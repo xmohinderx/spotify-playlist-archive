@@ -105,3 +105,5 @@
 | [Written On The Sky](https://open.spotify.com/track/5f1RCJIecw4J6xc442kPpn) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks](https://open.spotify.com/album/2Zlgv1oosng3OWHzdcTk9a) | 1:40 | 2019-04-17 |  |
 | [Zomer](https://open.spotify.com/track/0tAZ85I92Jq9R67fFlBIjB) | [Kate Moore](https://open.spotify.com/artist/4KBzgyUaq9VTIpRCMcFhL7), [Saskia Lankhoorn](https://open.spotify.com/artist/54aTNERT1OlKhqtOz8pP4j) | [Kate Moore: Dances And Canons](https://open.spotify.com/album/1gvWUgtDjlNVDnSNR3PrLg) | 4:01 | 2019-04-17 |  |
 | [Études: No\. 5](https://open.spotify.com/track/5JvrByzyTI9lfwHWunaXkx) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Philip Glass: Piano Works](https://open.spotify.com/album/4WMVFHCPiUEurlsWDF1Deq) | 8:55 | 2019-04-17 |  |
+
+\*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

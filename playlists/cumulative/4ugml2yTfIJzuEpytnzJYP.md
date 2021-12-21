@@ -40,3 +40,5 @@
 | [Utopia](https://open.spotify.com/track/6hFx04XsHt99HQdO51w28Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Utopia](https://open.spotify.com/album/4TVo5m16Nw2x5B2uzHuuwh) | 3:29 | 2021-09-17 |  |
 | [Windhorse](https://open.spotify.com/track/60ERpJRWMWexY91Jw67wqP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [The Tale of Elegos](https://open.spotify.com/album/6KAma26Kpo2Ro79hLzGIuU) | 3:54 | 2021-10-28 |  |
 | [Windhorse](https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [Windhorse](https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu) | 3:54 | 2021-10-07 |  |
+
+\*This playlist was first scraped on 2021-11-28. Prior content cannot be recovered.

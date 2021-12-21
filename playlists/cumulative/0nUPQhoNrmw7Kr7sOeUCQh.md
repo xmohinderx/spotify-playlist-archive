@@ -48,3 +48,5 @@
 | [West Queen West](https://open.spotify.com/track/0gWs9LnzIJWMsKI3uVGVEu) | [Norwegian Arms](https://open.spotify.com/artist/4JPWUAgHP1qOC2YfXj6kxn) | [Girard Freeloader](https://open.spotify.com/album/7lZhlV18B0M4Zr0UzUzYRd) | 3:44 | 2017-04-30 |  |
 | [What's That Perfume That You Wear?](https://open.spotify.com/track/2a4tgiJPFIsuwaxHmG1uzF) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx) | [Life Will See You Now](https://open.spotify.com/album/1hXSxD7wpxEHXiLkk69EaQ) | 3:30 | 2017-04-29 |  |
 | [Which Way](https://open.spotify.com/track/4EbSHBJFqzvWzObqkJ5LvK) | [Deidre & the Dark](https://open.spotify.com/artist/2ZmWXEdwo0gqPRNIVRIhEj) | [Which Way](https://open.spotify.com/album/3Nyp9kgXqApIOsSnbdtFMA) | 3:01 | 2017-04-30 |  |
+
+\*This playlist was first scraped on 2019-05-26. Prior content cannot be recovered.

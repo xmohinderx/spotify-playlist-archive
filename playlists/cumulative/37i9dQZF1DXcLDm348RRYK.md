@@ -68,3 +68,5 @@
 | [Yellow](https://open.spotify.com/track/43v2xg67VkZVCIDZsKZSPh) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA) | [Yellow](https://open.spotify.com/album/0TrzZEQ2vFrpRwysBPqxxb) | 4:42 | 2020-10-02 |  |
 | [You](https://open.spotify.com/track/26VOWQqmxwoAY7kTOyo5wx) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [You](https://open.spotify.com/album/4iubyhplcdpgDPLms7VNr5) | 4:17 | 2020-10-02 |  |
 | [微笑的眼淚](https://open.spotify.com/track/3yOotSlJ7KN8jlz6tRK6yq) | [許綺娟](https://open.spotify.com/artist/1zbCaVmzGxATlqpo1Nvlot) | [微笑旅途](https://open.spotify.com/album/0zliRmuEr0mVzO78u0SPBa) | 4:49 | 2020-10-02 |  |
+
+\*This playlist was first scraped on 2020-11-03. Prior content cannot be recovered.

@@ -637,3 +637,5 @@
 | [You're Either On Something](https://open.spotify.com/track/0FDsyW1vBUhJJ0o1LIL01E) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Hot Motion](https://open.spotify.com/album/5tDadlHuGJOt224mS61m8E) | 3:47 | 2019-10-13 |  |
 | [Zero \- Remastered 2012](https://open.spotify.com/track/4YFcGTdgmEuw8xTO4XrxbB) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 2:40 | 2019-07-14 |  |
 | [Ännu en låt i H\-moll](https://open.spotify.com/track/3626c75RApYVHqLcogFbje) | [Björn Olsson](https://open.spotify.com/artist/522M1OdbnnJ3c1Bjxy69tb) | [The Lobster](https://open.spotify.com/album/5DYkS8EE5hklbCJcWO9OKp) | 1:34 | 2018-11-14 |  |
+
+\*This playlist was first scraped on 2020-10-12. Prior content cannot be recovered.
