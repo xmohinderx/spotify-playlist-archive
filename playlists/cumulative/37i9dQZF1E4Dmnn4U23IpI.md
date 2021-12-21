@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Absolute Valentine, Nightstop, Timecop1983 and more
+> With Billy Mays Band, Timecop1983, Lucy In Disguise and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

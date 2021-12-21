@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 99 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 |
 | 100 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 |
 
-Snapshot ID: `MTY0MDA2NjYwNCwwMDAwMDAwMDcyZWRjNjljZWRiNDQ0Nzg4MjQ5MDgzYjM0NTQwMzA1`
+Snapshot ID: `MTY0MDA2Nzg1MSwwMDAwMDAwMDcyZWRjNjljZWRiNDQ0Nzg4MjQ5MDgzYjM0NTQwMzA1`

@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Janelle Monáe, Crystal Castles, Rina Sawayama and more
+> With Alice Glass, Slayyyter, Blood Diamonds and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

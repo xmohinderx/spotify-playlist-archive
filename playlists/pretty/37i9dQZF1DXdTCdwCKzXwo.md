@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Pretty in Pink](https://open.spotify.com/track/1Cl1J4Ai7NkuhLdaDHthTh) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [The Psychedelic Furs Superhits](https://open.spotify.com/album/4sdhLZRcO9DQmrs889H0tl) | 3:59 |
 | 75 | [Deceptacon](https://open.spotify.com/track/3PVRSOQ57O3LO6HCAPkbfY) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/3N4rp7pLbDlWo2EvtONFMG) | 3:04 |
 
-Snapshot ID: `MTY0MDA2NjU4NywwMDAwMDAwMGM5MDYxNDQzOTM5M2NkZjhkOTExZGFlMDE0ZGJhYTM4`
+Snapshot ID: `MTY0MDA2NzkwNSwwMDAwMDAwMGM5MDYxNDQzOTM5M2NkZjhkOTExZGFlMDE0ZGJhYTM4`

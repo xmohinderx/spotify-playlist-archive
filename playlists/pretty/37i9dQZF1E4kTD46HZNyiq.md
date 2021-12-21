@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Millennial Club, Perlo, Jet Black Alley Cat and more
+> With The Millennial Club, Perlo, LOYALS and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Everything Has Its Place](https://open.spotify.com/track/3P23teua73GJGmG8vKTv2Q) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Young Mister](https://open.spotify.com/album/0S5aw61RjWIoRCeeDuPdp4) | 4:12 |
 | 50 | [Careless](https://open.spotify.com/track/6H725KQnIbXVkRPrapOTXZ) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/6OULq1kw253Md9qTBy2f4W) | 3:15 |
 
-Snapshot ID: `MTY0MDA2NjU5MiwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MDA2Nzg3NCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
