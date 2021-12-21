@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 231 | [Waiting For Love \- Prinston & Astrid S Acoustic Version](https://open.spotify.com/track/6jMcnR3U9NDwtziD5fmSYY) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Jens Siverstedt](https://open.spotify.com/artist/7J2MiNrvu4hfaZ3U0lXBQI) | [Waiting For Love \(Remixes\)](https://open.spotify.com/album/4yjiauN4w1HUe5dmv7An24) | 3:21 |
 | 232 | [Rolling In The Deep](https://open.spotify.com/track/0yUZKJxwo9xAT1jcJacZ8u) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 2](https://open.spotify.com/album/3aq3323aUMaRXL7WuJcT3b) | 4:20 |
 
-Snapshot ID: `MTY0MDA3NjIwMCwwMDAwMDAwMDQ0NzgyOTdhNjY2NWQ2NWViNmIzMjgzOGU3Y2IwMjc1`
+Snapshot ID: `MTY0MDA3NzM3NywwMDAwMDAwMDQ0NzgyOTdhNjY2NWQ2NWViNmIzMjgzOGU3Y2IwMjc1`

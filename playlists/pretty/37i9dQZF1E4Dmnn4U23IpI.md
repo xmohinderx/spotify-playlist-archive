@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With W O L F C L U B, TOKYO ROSE, Primo and more
+> With Quixotic, Tim Cappello, John Carpenter and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Fahrenheit](https://open.spotify.com/track/29J0OTJNBsJlbLGjVagx6I) | [Neon Nox](https://open.spotify.com/artist/4hePFF9hQhzhZ1ZHELHYa5) | [Syndicate Shadow](https://open.spotify.com/album/016dMPf9Jjpu8unSQMl4by) | 5:23 |
 | 50 | [Wild Ones](https://open.spotify.com/track/03FPFGGmCFCFX9X7vNB3JW) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:28 |
 
-Snapshot ID: `MTY0MDA3NjQ0NSwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`
+Snapshot ID: `MTY0MDA3NzYyNiwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`

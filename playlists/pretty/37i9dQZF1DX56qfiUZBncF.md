@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Confidence \(feat\. Jon Waltz\)](https://open.spotify.com/track/6cMKaS2ZRD8GDgdTdufanl) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J) | [Nothing Gold Can Stay](https://open.spotify.com/album/4bdojHk9PdqHImi61mEaHJ) | 4:20 |
 | 100 | [Dancing](https://open.spotify.com/track/5WuP4r3XELVbdkYyZgtwwH) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [Age of Experience](https://open.spotify.com/album/5he0TqGD4981oGGjqCvRUq) | 3:52 |
 
-Snapshot ID: `MTY0MDA3NjMxNSwwMDAwMDAwMDdhNTQ3YWM4NjdhYzE4MzE1MWViZmVjNGM5NzczYTI2`
+Snapshot ID: `MTY0MDA3NzQ5MywwMDAwMDAwMDdhNTQ3YWM4NjdhYzE4MzE1MWViZmVjNGM5NzczYTI2`

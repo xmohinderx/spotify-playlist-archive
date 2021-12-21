@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 59 | [Miss You Love](https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB) | 4:00 |
 | 60 | [When Bad Does Good](https://open.spotify.com/track/00SzIFHBVTpRonBTHnHuok) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 4:25 |
 
-Snapshot ID: `MTY0MDA3NjI3MiwwMDAwMDAwMDNjYWVkZGU3OTc4MDM2YzQ0Njc5NTcwZjhlZjE0ZDYz`
+Snapshot ID: `MTY0MDA3NzQ1MSwwMDAwMDAwMDNjYWVkZGU3OTc4MDM2YzQ0Njc5NTcwZjhlZjE0ZDYz`

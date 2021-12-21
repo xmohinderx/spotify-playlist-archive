@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Rule \#1 \(feat\. Lil Yachty\)](https://open.spotify.com/track/4apWaVWfqRac78ec6L5bJn) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rule \#1 \(feat\. Lil Yachty\)](https://open.spotify.com/album/6Nmuh0ibN1OBMJPcv8zsyx) | 2:34 |
 | 100 | [Red](https://open.spotify.com/track/1xkjDgAeD0aNxGrS36W0Fn) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Red](https://open.spotify.com/album/676VcdOBUSv6CcS9SHYhrb) | 2:09 |
 
-Snapshot ID: `MTY0MDA3NjE0NSwwMDAwMDAwMDY3ODc5NDdjMjNhMDdiZDhjZDA0ZjgwMjJkMDhiYTJm`
+Snapshot ID: `MTY0MDA3NzMxOCwwMDAwMDAwMDY3ODc5NDdjMjNhMDdiZDhjZDA0ZjgwMjJkMDhiYTJm`

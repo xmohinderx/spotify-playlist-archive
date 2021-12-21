@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [Shout](https://open.spotify.com/track/5Z7KwQdJTg1y5nRiIdHZdZ) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [100 Essential Hits \- 60s](https://open.spotify.com/album/6Bnuhn1Qo1JGQqmPOyEyON) | 2:54 |
 | 80 | [Don't Go](https://open.spotify.com/track/1Yqr3NjVHEZGoRPGa5K26l) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [The Greatest 80s Party!](https://open.spotify.com/album/1zOYTdsiKFIpw9YhkY9iMq) | 3:01 |
 
-Snapshot ID: `MTY0MDA3NjI0NCwwMDAwMDAwMDBlNzFmMWNjZjkzYjZhOTcyMjNkYmNlODMzYTFmMjNh`
+Snapshot ID: `MTY0MDA3NzQyMSwwMDAwMDAwMDBlNzFmMWNjZjkzYjZhOTcyMjNkYmNlODMzYTFmMjNh`

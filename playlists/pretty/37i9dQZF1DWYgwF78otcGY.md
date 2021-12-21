@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Shout It Out](https://open.spotify.com/track/1FzbswEKtDxxvpx6S5tnQ4) | [David Lindgren](https://open.spotify.com/artist/7qWB1MNQHOkDdSVGjBtvMX) | [Get Started](https://open.spotify.com/album/1AElgWL3RUmcvhhYPfgYWT) | 3:03 |
 | 52 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
 
-Snapshot ID: `MTY0MDA3NjIxNSwwMDAwMDAwMDg3OThmMTg3MThlNWQ2YjI3MDJlNWY5ODRiMTJiNjFm`
+Snapshot ID: `MTY0MDA3NzM5MiwwMDAwMDAwMDg3OThmMTg3MThlNWQ2YjI3MDJlNWY5ODRiMTJiNjFm`

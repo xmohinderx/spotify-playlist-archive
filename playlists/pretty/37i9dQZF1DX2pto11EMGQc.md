@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 79 | [Paradise City](https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:45 |
 | 80 | [Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:51 |
 
-Snapshot ID: `MTY0MDA3NjI3NiwwMDAwMDAwMGJmOTkzMmI3YThkOGEyYWM1MmE1MzUyNGI4Nzc3YTY2`
+Snapshot ID: `MTY0MDA3NzQ1NSwwMDAwMDAwMGJmOTkzMmI3YThkOGEyYWM1MmE1MzUyNGI4Nzc3YTY2`

@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 79 | [Let's Dance \- 1999 Remaster](https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 7:37 |
 | 80 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
 
-Snapshot ID: `MTY0MDA3NjIzNCwwMDAwMDAwMGE2YzI0MGMzZTkxYjQ3NmMzOTU0ODYxZGZlNWM5OTU5`
+Snapshot ID: `MTY0MDA3NzQxMiwwMDAwMDAwMGE2YzI0MGMzZTkxYjQ3NmMzOTU0ODYxZGZlNWM5OTU5`

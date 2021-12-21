@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 79 | [Stand \- Remastered](https://open.spotify.com/track/5xQS3BaNZDrltmswg7B8YD) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/6QVNm3lwNzeVmnic41sZM3) | 3:12 |
 | 80 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 
-Snapshot ID: `MTY0MDA3NjI2MCwwMDAwMDAwMDNkZTAwMWM5ZWU5OWZmYjA3NTY5MzdmZDQxOTRmZGI2`
+Snapshot ID: `MTY0MDA3NzQzOCwwMDAwMDAwMDNkZTAwMWM5ZWU5OWZmYjA3NTY5MzdmZDQxOTRmZGI2`

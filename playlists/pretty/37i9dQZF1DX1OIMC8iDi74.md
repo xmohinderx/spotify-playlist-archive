@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [U Nasty](https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [U Nasty](https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a) | 3:11 |
 | 100 | [Chicken Wang \(feat\. Diplo, Snappy Jit\)](https://open.spotify.com/track/0cl5BEHLkh9BmJG2ElaUPK) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [Chicken Wang \(feat\. Diplo, Snappy Jit\)](https://open.spotify.com/album/4YoITx9kq8TA5c64Henhc4) | 1:58 |
 
-Snapshot ID: `MTY0MDA3NjI1MiwwMDAwMDAwMGY3MDlkNTU3N2M5YTlkNzVkYzMzOTkyNGQyOTk0ZmVk`
+Snapshot ID: `MTY0MDA3NzQzMCwwMDAwMDAwMGY3MDlkNTU3N2M5YTlkNzVkYzMzOTkyNGQyOTk0ZmVk`

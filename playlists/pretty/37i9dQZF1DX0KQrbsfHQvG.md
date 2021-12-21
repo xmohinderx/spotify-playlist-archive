@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 75 | [Mirrors](https://open.spotify.com/track/4oFyfXZgrirMQCwjhXGnj6) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/4fu1vGlLFL0UVFnqZh6OB1) | 3:06 |
 
-Snapshot ID: `MTY0MDA3NjIzNiwwMDAwMDAwMGUyYjU0OWE2NTA2MDJiNmZiNTcxN2EyMDJiN2UyNmI1`
+Snapshot ID: `MTY0MDA3NzQxNCwwMDAwMDAwMGUyYjU0OWE2NTA2MDJiNmZiNTcxN2EyMDJiN2UyNmI1`

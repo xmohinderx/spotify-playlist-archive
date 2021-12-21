@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 49 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
 | 50 | [TV Party](https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 3:31 |
 
-Snapshot ID: `MTY0MDA3NjI4NCwwMDAwMDAwMGU4NTIwMmQ2ZTkzNGM2ZGQ3ZDUwM2JmNzc0NzI2ODhi`
+Snapshot ID: `MTY0MDA3NzQ2MywwMDAwMDAwMGU4NTIwMmQ2ZTkzNGM2ZGQ3ZDUwM2JmNzc0NzI2ODhi`

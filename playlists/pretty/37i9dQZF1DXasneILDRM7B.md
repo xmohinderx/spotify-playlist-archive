@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [I've Been Dead All Day](https://open.spotify.com/track/55RUp308pgoV1T7yUGjw6D) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Vacancy](https://open.spotify.com/album/67rOh6Ndflg99VO0wgZUIF) | 3:14 |
 | 100 | [American Idiot](https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 2:54 |
 
-Snapshot ID: `MTY0MDA3NjQwMSwwMDAwMDAwMDIxMjgzMTI2ZGRmZTMwMDRiNTM2ZjA1MzIzOGJiNjA3`
+Snapshot ID: `MTY0MDA3NzU4MiwwMDAwMDAwMDIxMjgzMTI2ZGRmZTMwMDRiNTM2ZjA1MzIzOGJiNjA3`

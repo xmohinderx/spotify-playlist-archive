@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 99 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:51 |
 | 100 | [Stranglehold](https://open.spotify.com/track/2f0P7iELCvAlV8j6Z3rGDE) | [Ted Nugent](https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG) | [Ted Nugent](https://open.spotify.com/album/71SdSYZuuy7fCWbx0iqtac) | 8:23 |
 
-Snapshot ID: `MTY0MDA3NjE5MywwMDAwMDAwMGIzZGEyNGE1NjM3MWRjOWQyODkwZmY5YTc4MzcyNGU1`
+Snapshot ID: `MTY0MDA3NzM2OSwwMDAwMDAwMGIzZGEyNGE1NjM3MWRjOWQyODkwZmY5YTc4MzcyNGU1`

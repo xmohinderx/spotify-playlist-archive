@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 |
 | 100 | [Don't Wanna Be Right \(Acoustic\)](https://open.spotify.com/track/1E2q2ZFaXpqxXZlztdn2iV) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Don't Wanna Be Right \(Acoustic\)](https://open.spotify.com/album/5rqdfjfPA1jQEul1BebYuS) | 3:12 |
 
-Snapshot ID: `MTY0MDA3NjMxOSwwMDAwMDAwMDhkODRkOTdkYjFhMWY1ODljMThkNWE5ZmRjNTc4YWFl`
+Snapshot ID: `MTY0MDA3NzQ5NywwMDAwMDAwMDhkODRkOTdkYjFhMWY1ODljMThkNWE5ZmRjNTc4YWFl`

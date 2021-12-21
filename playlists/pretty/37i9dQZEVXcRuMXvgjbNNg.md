@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Better](https://open.spotify.com/track/0kCC7DZchQVMcteq2VrPyo) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me](https://open.spotify.com/album/1tCMwl24Q5idWGH75J9Cln) | 4:13 |
 | 30 | [Guys](https://open.spotify.com/track/0dGyrOsSR0TOAxY4UBojmV) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:29 |
 
-Snapshot ID: `MCwwMDAwMDAwMDg1ZWFkNmYwOWExYTBjNmMwYWRiYjFlZTQ0ZmU4ZDBj`
+Snapshot ID: `MCwwMDAwMDAwMGRhYzJmZWYxYmYyZDI5MWQzOTZlMzgwMzJjMzZjZGQ5`

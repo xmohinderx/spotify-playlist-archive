@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Cool \(Jayda G Remix\)](https://open.spotify.com/track/08Z670x6tSSxElJkhpv5wa) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Cool \(Jayda G Remix\)](https://open.spotify.com/album/3awo0PmF50cVRzWHfdHegI) | 4:06 |
 | 100 | [Rasputin \- Majestic Club VIP Remix](https://open.spotify.com/track/6FO4K7MrMoYkc5BlpX5LNV) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin \(Remixes\)](https://open.spotify.com/album/19TzoU9GkP6UpHGMgZaUdJ) | 5:45 |
 
-Snapshot ID: `MTY0MDA3NjQyMywwMDAwMDAwMGU1YWFkNDNjNDExNTc2NjQyOGFiMzlhNjIzMTk5MjBm`
+Snapshot ID: `MTY0MDA3NzYwNCwwMDAwMDAwMGU1YWFkNDNjNDExNTc2NjQyOGFiMzlhNjIzMTk5MjBm`

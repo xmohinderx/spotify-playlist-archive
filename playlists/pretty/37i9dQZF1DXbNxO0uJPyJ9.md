@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [People from Ibiza](https://open.spotify.com/track/0OcAaaQfHvawA7F0n6Wha6) | [Sandy Marton](https://open.spotify.com/artist/1D33JhHkXxj78Y8oiyg41L) | [Greatest Hits](https://open.spotify.com/album/6tIKpHIFQhGXodg4nigpGP) | 5:06 |
 | 80 | [Situation \(US 12 Inch Mix\)](https://open.spotify.com/track/3Ac5PgwByH0Ptr3hnqbKAz) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Only Yazoo \- The Best of Yazoo](https://open.spotify.com/album/4Vxu0Y9hYrveIxzUrhxOae) | 5:46 |
 
-Snapshot ID: `MTY0MDA3NjQwOCwwMDAwMDAwMGYwMDM4NDZhYmEwOGZhNTBkZDRjMDRjMmU1NTdhZjlm`
+Snapshot ID: `MTY0MDA3NzU4OSwwMDAwMDAwMGYwMDM4NDZhYmEwOGZhNTBkZDRjMDRjMmU1NTdhZjlm`

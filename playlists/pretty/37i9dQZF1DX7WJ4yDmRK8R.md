@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [No One Said It Was Easy](https://open.spotify.com/track/6Vfu17e3R2xoKP1aXmMxlS) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [No One Said It Was Easy](https://open.spotify.com/album/3UKUSqQYspQheeMi6wDXbS) | 3:20 |
 | 100 | [Future Version](https://open.spotify.com/track/03VKi7ZYa1pvUKeZ8TfrOP) | [Nana Grizol](https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM) | [Future Version](https://open.spotify.com/album/6R8uEFFgmYorZhQaY8neuP) | 1:35 |
 
-Snapshot ID: `MTY0MDA3NjM1NCwwMDAwMDAwMGYxYmQ2MTY3NzJlZTZhYmNhYzc0NjJlMmRlZDVhOWU1`
+Snapshot ID: `MTY0MDA3NzUzNiwwMDAwMDAwMGYxYmQ2MTY3NzJlZTZhYmNhYzc0NjJlMmRlZDVhOWU1`

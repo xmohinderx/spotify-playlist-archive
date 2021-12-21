@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Mark of the Devil](https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH) | [The Other](https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W) | [Haunted](https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5) | 3:58 |
 | 50 | [Drinking from the Skull of My Favourite Enemy](https://open.spotify.com/track/1AgqItQXKJAFF4nas6J1Gr) | [Blue Jinns](https://open.spotify.com/artist/1LaP2GqFdQQonRmYdn7dqE) | [Drinking from the Skull of My Favourite Enemy](https://open.spotify.com/album/7KLNDKuRDiiayZJwJakLFK) | 2:38 |
 
-Snapshot ID: `MTY0MDA3NjQwMywwMDAwMDAwMDFiNjNkYmE3MDY1MDUyNWE2NDlmYzM3YzY5NGQ3MTk0`
+Snapshot ID: `MTY0MDA3NzU4NCwwMDAwMDAwMDFiNjNkYmE3MDY1MDUyNWE2NDlmYzM3YzY5NGQ3MTk0`

@@ -818,6 +818,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [New Metal Tracks](/playlists/pretty/37i9dQZF1DX5J7FIl4q56G.md)
 - [New Music Friday Indonesia](/playlists/pretty/37i9dQZF1DX8vAahjzdXGC.md)
 - [New Music Friday Sweden](/playlists/pretty/37i9dQZF1DXcecv7ESbOPu.md)
+- [New Music Friday: The Popjustice Edit](/playlists/pretty/5s7cNVeGfehrRfCatNN43P.md)
 - [New Music Friday](/playlists/pretty/37i9dQZF1DX4JAvHpjipBk.md)
 - [New Noise](/playlists/pretty/37i9dQZF1DWT2jS7NwYPVI.md)
 - [New Orleans Brass](/playlists/pretty/37i9dQZF1DXbLsFIeybF20.md)

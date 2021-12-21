@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [November \- Original Mix](https://open.spotify.com/track/6ESO1632vmHeFXpq5N4bfr) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF), [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L) | [Summer Sampler 2018](https://open.spotify.com/album/1Wa0vMSFwBIRDI8rz58F03) | 9:25 |
 | 80 | [Pyrolized](https://open.spotify.com/track/0yRwA3x5IhrUsxYVGtCqUb) | [Sascha Kloeber](https://open.spotify.com/artist/1Rle6CpNbJy2S3nJVTjpNU), [Just Karl](https://open.spotify.com/artist/51XqQUyiOiyss4sSRZrlPR) | [Pyrolized](https://open.spotify.com/album/6QW0H2YwMm6HgiNz1ehJbV) | 7:01 |
 
-Snapshot ID: `MTY0MDA3NjM4OCwwMDAwMDAwMGQxOWE5MTE1NjBmMDg5NDQ3YzNhN2RiMWQwZTg2OGVm`
+Snapshot ID: `MTY0MDA3NzU2OSwwMDAwMDAwMGQxOWE5MTE1NjBmMDg5NDQ3YzNhN2RiMWQwZTg2OGVm`

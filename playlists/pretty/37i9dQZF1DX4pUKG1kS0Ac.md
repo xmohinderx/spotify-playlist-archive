@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pUKG1kS0Ac.md) - [plain]
 | 150 | [Hey Jealousy](https://open.spotify.com/track/4o7ZPI2fmEi3piRe0Hrfpy) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [New Miserable Experience](https://open.spotify.com/album/484pzryEPqn6KSMLtP2c4f) | 3:56 |
 | 151 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 
-Snapshot ID: `MTY0MDA3NjMxMCwwMDAwMDAwMGU5MmUwMGNkODMzNzU0MjgyODI1YjVkZDA4MGZmNDFi`
+Snapshot ID: `MTY0MDA3NzQ4OCwwMDAwMDAwMGU5MmUwMGNkODMzNzU0MjgyODI1YjVkZDA4MGZmNDFi`

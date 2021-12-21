@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Burning Season](https://open.spotify.com/track/5wWmLdIYzxdh3mlkHwBVog) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [For Those Who Were Crucified](https://open.spotify.com/album/14szCHGSO6q7uVAwG13krS) | 1:56 |
 | 50 | [Blindfold](https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq) | [Indecision](https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM) | [Unorthodox](https://open.spotify.com/album/43x6i9LnpamFuzgOguORon) | 1:48 |
 
-Snapshot ID: `MTY0MDA3NjM5MiwwMDAwMDAwMDY2ODM3OTc2ZDc3MjI4ZjA3ZGMzNTg4MjljNzhlYjEy`
+Snapshot ID: `MTY0MDA3NzU3MywwMDAwMDAwMDY2ODM3OTc2ZDc3MjI4ZjA3ZGMzNTg4MjljNzhlYjEy`

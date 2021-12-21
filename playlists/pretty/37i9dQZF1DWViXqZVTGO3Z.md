@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 99 | [Heart and Soul of Christmas](https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Heart and Soul of Christmas](https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q) | 3:36 |
 | 100 | [Away In a Manger](https://open.spotify.com/track/1lXmhrsTDe9QT7G5QYEnLr) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 3:35 |
 
-Snapshot ID: `MTY0MDA3NjE3NCwwMDAwMDAwMDI4OGE2NjY5OTA0MDY5Y2UwMDIwOTdjYmQ5M2ExODRj`
+Snapshot ID: `MTY0MDA3NzM0OCwwMDAwMDAwMDI4OGE2NjY5OTA0MDY5Y2UwMDIwOTdjYmQ5M2ExODRj`

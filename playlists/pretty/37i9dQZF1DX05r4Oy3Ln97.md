@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [One More Night](https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [One More Night](https://open.spotify.com/album/437pHGBe6cnnxyEdZrbMvo) | 2:37 |
 | 60 | [Ever After](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:47 |
 
-Snapshot ID: `MTY0MDA3NjIzMCwwMDAwMDAwMGEyYWM2ZjI0YjcwMTAzNDE5NzhkYWIzNzI1MTg5MGY1`
+Snapshot ID: `MTY0MDA3NzQwOCwwMDAwMDAwMGEyYWM2ZjI0YjcwMTAzNDE5NzhkYWIzNzI1MTg5MGY1`
