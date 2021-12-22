@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Colourblind",
+        "url": "https://open.spotify.com/album/2nX6yifTLWANuDNVK8VJ2P"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "St. Lundi",
+          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158493,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/08AK8kZVQIt5XRjgbbW4c3"
+    },
+    {
+      "album": {
         "name": "Dancing In The Lightning",
         "url": "https://open.spotify.com/album/4waeLd4X9r12a6yahjynsQ"
       },
@@ -413,6 +435,50 @@
     },
     {
       "album": {
+        "name": "Halfway (feat. Twan Ray)",
+        "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158416,
+      "name": "Halfway (feat. Twan Ray)",
+      "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+    },
+    {
+      "album": {
+        "name": "Heartbeats",
+        "url": "https://open.spotify.com/album/6qezpDuS7jCwJTl19a6gv8"
+      },
+      "artists": [
+        {
+          "name": "KYDS",
+          "url": "https://open.spotify.com/artist/7qZUlT9qGTM05VsbBkBuWi"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/7soMS7pyMKrEsfpOFyuYL9"
+    },
+    {
+      "album": {
         "name": "Heaven Is a Place on Earth",
         "url": "https://open.spotify.com/album/5mVMcDiv3to6jduunb9OTM"
       },
@@ -450,6 +516,24 @@
       "duration_ms": 171692,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/5BAgpDvIFoatAbV9Zcxaw3"
+    },
+    {
+      "album": {
+        "name": "Hey There Delilah",
+        "url": "https://open.spotify.com/album/4vlml2SlfKGKGzg6b8LOu0"
+      },
+      "artists": [
+        {
+          "name": "Andrelli",
+          "url": "https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182559,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/791KAnfU7LweoRARjI5mTd"
     },
     {
       "album": {
@@ -534,10 +618,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 247102,
       "name": "I See Blue",
       "url": "https://open.spotify.com/track/7McmRLT362Fss7WAUk670c"
+    },
+    {
+      "album": {
+        "name": "I Should Go Home (feat. Philip Rustad)",
+        "url": "https://open.spotify.com/album/37Gm8Ovojuc443hvViW9mu"
+      },
+      "artists": [
+        {
+          "name": "Davai",
+          "url": "https://open.spotify.com/artist/0xZvYTiM5QT94j1abOm0nC"
+        },
+        {
+          "name": "Philip Rustad",
+          "url": "https://open.spotify.com/artist/5U5Wgc7sVVNuUlLckaYMGr"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175624,
+      "name": "I Should Go Home (feat. Philip Rustad)",
+      "url": "https://open.spotify.com/track/2IH2C9uhbhvfMnUbfvdHlL"
     },
     {
       "album": {
@@ -556,6 +662,24 @@
       "duration_ms": 129600,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+    },
+    {
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/44O6Lmy2iJtJMNxar2nnlo"
+      },
+      "artists": [
+        {
+          "name": "Coffee Cub",
+          "url": "https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145833,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv"
     },
     {
       "album": {
@@ -636,7 +760,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -661,6 +785,32 @@
     },
     {
       "album": {
+        "name": "Last Train Home",
+        "url": "https://open.spotify.com/album/3oVtkHPjBWhnPSCSOJQZ4J"
+      },
+      "artists": [
+        {
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        },
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        },
+        {
+          "name": "S\u00f8nlille",
+          "url": "https://open.spotify.com/artist/1vyEXTgG15rVyYkb9LyegZ"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119217,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr"
+    },
+    {
+      "album": {
         "name": "Let You Know (Summer Edit)",
         "url": "https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm"
       },
@@ -672,7 +822,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 149400,
       "name": "Let You Know - Summer Edit",
       "url": "https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C"
@@ -712,7 +862,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 151101,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2LWFPBG7hlEpMy2b2LUu5A"
@@ -748,7 +898,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 289463,
       "name": "Midnight Waves",
       "url": "https://open.spotify.com/track/6C9ZOJVzjZAQ9Hk7URLRqO"
@@ -774,6 +924,32 @@
       "duration_ms": 242000,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb"
+    },
+    {
+      "album": {
+        "name": "My Alibi",
+        "url": "https://open.spotify.com/album/0GI1UvUaqBHYxqN2tljV53"
+      },
+      "artists": [
+        {
+          "name": "Nervz",
+          "url": "https://open.spotify.com/artist/3EaSGNhCzrL0bAnlgwAfQj"
+        },
+        {
+          "name": "Alex Bleiziffer",
+          "url": "https://open.spotify.com/artist/4m4oCILPIc9FPM01PcsE5J"
+        },
+        {
+          "name": "Hoop Records",
+          "url": "https://open.spotify.com/artist/47Ad2VIyZw89AWmkM9QtSc"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "My Alibi",
+      "url": "https://open.spotify.com/track/7qouDrj5jN3SuW8QwRpZad"
     },
     {
       "album": {
@@ -858,7 +1034,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 157141,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU"
@@ -986,10 +1162,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 146017,
       "name": "Safe To Say",
       "url": "https://open.spotify.com/track/5S9uRQ803fJlDnW2GCeuCK"
+    },
+    {
+      "album": {
+        "name": "Seesaw",
+        "url": "https://open.spotify.com/album/773FV5ISYaBCOnlbdQZVYU"
+      },
+      "artists": [
+        {
+          "name": "Hellberg",
+          "url": "https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5"
+        },
+        {
+          "name": "Rose Rae",
+          "url": "https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/1uAj4hDjBtWly8NmC4zZoX"
     },
     {
       "album": {
@@ -1052,7 +1250,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 185000,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo"
@@ -1092,6 +1290,28 @@
       "duration_ms": 207230,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2fYLHOOmAn4rTO6zLYx0wj"
+    },
+    {
+      "album": {
+        "name": "Teenage Heart",
+        "url": "https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "Teenage Heart",
+      "url": "https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD"
     },
     {
       "album": {
@@ -1204,7 +1424,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 324063,
       "name": "Tschaka",
       "url": "https://open.spotify.com/track/7c5pAtAI2doDnsDD4SqMHG"
@@ -1222,7 +1442,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 134005,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C"
@@ -1270,10 +1490,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 167875,
       "name": "What They Call Love",
       "url": "https://open.spotify.com/track/3G954hH4NT5HmtGInACyi9"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/02pvKFIo0HyaDcAGzmB9Cn"
+      },
+      "artists": [
+        {
+          "name": "TwoWorldsApart",
+          "url": "https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149618,
+      "name": "X",
+      "url": "https://open.spotify.com/track/2zXz2wCmzBqt3NwMArhd82"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX05r4Oy3Ln97"

@@ -1,7 +1,7 @@
 {
   "description": "hyperpop is a simulation. Cover: midwxst",
   "name": "hyperpop",
-  "snapshot_id": "MTY0MDAxOTQxNiwwMDAwMDEwZDAwMDAwMTdkZDhjNjU2YjIwMDAwMDE3ZGEwYTk4YmYz",
+  "snapshot_id": "MTY0MDA5OTE2MCwwMDAwMDEwZTAwMDAwMTdkZGQ4NzIyY2EwMDAwMDE3ZGEwYTk4YmYz",
   "tracks": [
     {
       "added_at": "2021-12-17 08:26:00",
@@ -42,22 +42,6 @@
       "duration_ms": 254976,
       "name": "over u - Himera Remix",
       "url": "https://open.spotify.com/track/0p2AvPSoGhHdDnmY9Ed8Y2"
-    },
-    {
-      "added_at": "2021-12-17 08:26:00",
-      "album": {
-        "name": "brain freeze",
-        "url": "https://open.spotify.com/album/2saaXllYXNtYF3U0xOQzma"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "brain freeze",
-      "url": "https://open.spotify.com/track/6IkMKxiQnJ5nwT9vDcTj8e"
     },
     {
       "added_at": "2021-12-17 08:26:00",
@@ -120,62 +104,6 @@
       "url": "https://open.spotify.com/track/5ZUskZBh1yXhibGgBaiTTG"
     },
     {
-      "added_at": "2021-12-17 08:26:00",
-      "album": {
-        "name": "Renegade Lullaby",
-        "url": "https://open.spotify.com/album/4fQphKV6ae83l1CaTwr2JX"
-      },
-      "artists": [
-        {
-          "name": "Yung Skrrt",
-          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
-        }
-      ],
-      "duration_ms": 137368,
-      "name": "Yr Lullaby",
-      "url": "https://open.spotify.com/track/50ZOlJaeOVk4QCqiIUf7cW"
-    },
-    {
-      "added_at": "2021-07-16 05:32:00",
-      "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
-    },
-    {
-      "added_at": "2021-12-17 08:26:00",
-      "album": {
-        "name": "Soldier, Like Me",
-        "url": "https://open.spotify.com/album/3hbHZNptje66rX1kWn3aeU"
-      },
-      "artists": [
-        {
-          "name": "Pritty",
-          "url": "https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v"
-        },
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
-        }
-      ],
-      "duration_ms": 106004,
-      "name": "Soldier, Like Me",
-      "url": "https://open.spotify.com/track/108WfZxkd6nSVKJ3z3F8SR"
-    },
-    {
       "added_at": "2021-12-03 06:44:00",
       "album": {
         "name": "boneyard aka fearmonger",
@@ -208,6 +136,22 @@
       "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
     },
     {
+      "added_at": "2021-12-17 08:26:00",
+      "album": {
+        "name": "brain freeze",
+        "url": "https://open.spotify.com/album/2saaXllYXNtYF3U0xOQzma"
+      },
+      "artists": [
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "brain freeze",
+      "url": "https://open.spotify.com/track/6IkMKxiQnJ5nwT9vDcTj8e"
+    },
+    {
       "added_at": "2021-12-10 06:56:00",
       "album": {
         "name": "Bluffing",
@@ -222,26 +166,6 @@
       "duration_ms": 126829,
       "name": "Bluffing",
       "url": "https://open.spotify.com/track/1NNJMmLuZuUvqhaB9PC4tz"
-    },
-    {
-      "added_at": "2021-12-03 06:44:00",
-      "album": {
-        "name": "FALLING UP",
-        "url": "https://open.spotify.com/album/6TEHMXuZyxySr5oltVlnfB"
-      },
-      "artists": [
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 303945,
-      "name": "FALLING UP",
-      "url": "https://open.spotify.com/track/48T8if6xg1qnKVeDV4Mhqo"
     },
     {
       "added_at": "2021-12-10 06:56:00",
@@ -264,22 +188,6 @@
       "url": "https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ"
     },
     {
-      "added_at": "2021-11-17 21:31:37",
-      "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
-      },
-      "artists": [
-        {
-          "name": "Siouxxie",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
-    },
-    {
       "added_at": "2021-11-29 15:25:00",
       "album": {
         "name": "hate",
@@ -294,6 +202,134 @@
       "duration_ms": 105183,
       "name": "hate",
       "url": "https://open.spotify.com/track/3Jlch5AQC4NS7dS5GO7lYk"
+    },
+    {
+      "added_at": "2021-12-21 15:06:00",
+      "album": {
+        "name": "bitter",
+        "url": "https://open.spotify.com/album/2c86CPDBePhbDWVuFhF3OB"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Payday",
+          "url": "https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0"
+        }
+      ],
+      "duration_ms": 215727,
+      "name": "bitter",
+      "url": "https://open.spotify.com/track/1nO2Q6aTVKQ7x3yhdzZfMS"
+    },
+    {
+      "added_at": "2021-12-17 08:26:00",
+      "album": {
+        "name": "Just for me",
+        "url": "https://open.spotify.com/album/3j2m4CvN4dphBLAv7e2tUt"
+      },
+      "artists": [
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+        }
+      ],
+      "duration_ms": 143586,
+      "name": "Just for me",
+      "url": "https://open.spotify.com/track/67lOnPna7dewLKizrVu31v"
+    },
+    {
+      "added_at": "2021-12-10 06:56:00",
+      "album": {
+        "name": "THE COPS",
+        "url": "https://open.spotify.com/album/1ADM95xAD5hIHNvfmQ2zru"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 102327,
+      "name": "THE COPS",
+      "url": "https://open.spotify.com/track/2COHO8K4VuIKSFy7Lhjetx"
+    },
+    {
+      "added_at": "2021-12-17 08:26:00",
+      "album": {
+        "name": "Renegade Lullaby",
+        "url": "https://open.spotify.com/album/4fQphKV6ae83l1CaTwr2JX"
+      },
+      "artists": [
+        {
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
+        }
+      ],
+      "duration_ms": 137368,
+      "name": "Yr Lullaby",
+      "url": "https://open.spotify.com/track/50ZOlJaeOVk4QCqiIUf7cW"
+    },
+    {
+      "added_at": "2021-12-17 08:26:00",
+      "album": {
+        "name": "Soldier, Like Me",
+        "url": "https://open.spotify.com/album/3hbHZNptje66rX1kWn3aeU"
+      },
+      "artists": [
+        {
+          "name": "Pritty",
+          "url": "https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v"
+        },
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "duration_ms": 106004,
+      "name": "Soldier, Like Me",
+      "url": "https://open.spotify.com/track/108WfZxkd6nSVKJ3z3F8SR"
+    },
+    {
+      "added_at": "2021-12-03 06:44:00",
+      "album": {
+        "name": "FALLING UP",
+        "url": "https://open.spotify.com/album/6TEHMXuZyxySr5oltVlnfB"
+      },
+      "artists": [
+        {
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+        }
+      ],
+      "duration_ms": 303945,
+      "name": "FALLING UP",
+      "url": "https://open.spotify.com/track/48T8if6xg1qnKVeDV4Mhqo"
+    },
+    {
+      "added_at": "2021-11-17 21:31:37",
+      "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx"
+      },
+      "artists": [
+        {
+          "name": "Siouxxie",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct"
     },
     {
       "added_at": "2021-11-24 16:30:27",
@@ -322,22 +358,6 @@
     {
       "added_at": "2021-12-17 08:26:00",
       "album": {
-        "name": "Just for me",
-        "url": "https://open.spotify.com/album/3j2m4CvN4dphBLAv7e2tUt"
-      },
-      "artists": [
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
-        }
-      ],
-      "duration_ms": 143586,
-      "name": "Just for me",
-      "url": "https://open.spotify.com/track/67lOnPna7dewLKizrVu31v"
-    },
-    {
-      "added_at": "2021-12-17 08:26:00",
-      "album": {
         "name": "who knows?",
         "url": "https://open.spotify.com/album/2hVJENMG6mzSe7TMDNr6x5"
       },
@@ -350,22 +370,6 @@
       "duration_ms": 95403,
       "name": "who knows?",
       "url": "https://open.spotify.com/track/1REKc0AbUNi4iwJDo4RJhO"
-    },
-    {
-      "added_at": "2021-12-10 06:56:00",
-      "album": {
-        "name": "THE COPS",
-        "url": "https://open.spotify.com/album/1ADM95xAD5hIHNvfmQ2zru"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 102327,
-      "name": "THE COPS",
-      "url": "https://open.spotify.com/track/2COHO8K4VuIKSFy7Lhjetx"
     },
     {
       "added_at": "2021-12-17 08:26:00",
@@ -660,22 +664,6 @@
       "url": "https://open.spotify.com/track/1YZYpXsFmmeJiUEHOrxu85"
     },
     {
-      "added_at": "2021-12-15 02:48:17",
-      "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 120754,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS"
-    },
-    {
       "added_at": "2021-12-03 06:44:00",
       "album": {
         "name": "FREEZE",
@@ -930,30 +918,6 @@
       "duration_ms": 116310,
       "name": "100 Boyfriends",
       "url": "https://open.spotify.com/track/4bIYlBqq2HGHTvLqV9E1f8"
-    },
-    {
-      "added_at": "2021-11-24 16:30:27",
-      "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 143663,
-      "name": "ringtone",
-      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
     },
     {
       "added_at": "2021-10-20 16:18:10",
@@ -1562,26 +1526,6 @@
       "duration_ms": 115875,
       "name": "fuck this town",
       "url": "https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077"
-    },
-    {
-      "added_at": "2021-07-16 05:32:00",
-      "album": {
-        "name": "happy ever after",
-        "url": "https://open.spotify.com/album/6AljQDSzpfYrvEbq4rmXeh"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 211685,
-      "name": "happy ever after",
-      "url": "https://open.spotify.com/track/3AZrJ9TIVqXOs00Ygy9KJF"
     },
     {
       "added_at": "2021-07-23 04:24:00",
@@ -2462,34 +2406,6 @@
     {
       "added_at": "2021-07-16 05:32:00",
       "album": {
-        "name": "Black Rum",
-        "url": "https://open.spotify.com/album/13sl174XbnxhrLdCIwPPdg"
-      },
-      "artists": [
-        {
-          "name": "Cake Pop",
-          "url": "https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        },
-        {
-          "name": "Ravenna Golden",
-          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
-        },
-        {
-          "name": "Lewis Grant",
-          "url": "https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj"
-        }
-      ],
-      "duration_ms": 146946,
-      "name": "Black Rum",
-      "url": "https://open.spotify.com/track/0jvAU48GbRMFL68yenByaz"
-    },
-    {
-      "added_at": "2021-07-16 05:32:00",
-      "album": {
         "name": "eel",
         "url": "https://open.spotify.com/album/1fkJ9Yao0dni5qrMiZdsDN"
       },
@@ -2502,22 +2418,6 @@
       "duration_ms": 134457,
       "name": "acetone",
       "url": "https://open.spotify.com/track/148hxuEJsmKnmztsPj0NgE"
-    },
-    {
-      "added_at": "2021-07-16 05:32:00",
-      "album": {
-        "name": "Second hand embarrassment",
-        "url": "https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Second hand embarrassment",
-      "url": "https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j"
     },
     {
       "added_at": "2021-08-11 05:00:00",

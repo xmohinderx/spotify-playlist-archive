@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 165545,
       "name": "Abittipsy",
       "url": "https://open.spotify.com/track/1pU5SijPp89lNrZHJL0166"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 202266,
       "name": "After We Ride",
       "url": "https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv"
@@ -154,6 +154,24 @@
       "duration_ms": 210573,
       "name": "Alcohol-Free",
       "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/24lTLXt5W0ZVtsqJhAfUPZ"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/4zzzZIHr6AHXsivUku2WwU"
     },
     {
       "album": {
@@ -240,7 +258,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 221369,
       "name": "BETTER (with MINO)",
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
@@ -341,6 +359,28 @@
     },
     {
       "album": {
+        "name": "Chicken Noodle Soup (feat. Becky G)",
+        "url": "https://open.spotify.com/album/76IRLp7YzBVLKsat6Ro9ae"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235497,
+      "name": "Chicken Noodle Soup (feat. Becky G)",
+      "url": "https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo"
+    },
+    {
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -406,7 +446,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 188240,
       "name": "DO or NOT",
       "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
@@ -485,6 +525,24 @@
     },
     {
       "album": {
+        "name": "DUMDi DUMDi",
+        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "DUMDi DUMDi",
+      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
+    },
+    {
+      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -514,10 +572,40 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 242333,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo"
+    },
+    {
+      "album": {
+        "name": "Family (feat. JAMIE, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/6PrmJEdYDfeCzdJgCphIUp"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158994,
+      "name": "Family (feat. JAMIE, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/3c1QGMu5S3KdlMDwfRXhfj"
     },
     {
       "album": {
@@ -590,6 +678,24 @@
       "duration_ms": 212280,
       "name": "FIRST",
       "url": "https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic"
+    },
+    {
+      "album": {
+        "name": "GET IT OUT",
+        "url": "https://open.spotify.com/album/7GJYlGZQBxVjgXk1TCq9xk"
+      },
+      "artists": [
+        {
+          "name": "APOKI",
+          "url": "https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217229,
+      "name": "GET IT OUT",
+      "url": "https://open.spotify.com/track/4OCwwHsLQ0tNzC0PzTi47I"
     },
     {
       "album": {
@@ -709,6 +815,24 @@
     },
     {
       "album": {
+        "name": "\ud654\uc591\uc5f0\ud654 The Most Beautiful Moment In Life, Pt. 1",
+        "url": "https://open.spotify.com/album/6yRUOoA0Z4jgr6qcKcFAbH"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210986,
+      "name": "I NEED U",
+      "url": "https://open.spotify.com/track/2ySKRXKN58cbIlY1cxd80y"
+    },
+    {
+      "album": {
         "name": "I'm Not Cool",
         "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
       },
@@ -738,7 +862,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 176160,
       "name": "ICON",
       "url": "https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB"
@@ -778,6 +902,28 @@
       "duration_ms": 197306,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
+    },
+    {
+      "album": {
+        "name": "Love Right Back - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV"
+      },
+      "artists": [
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        },
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202253,
+      "name": "It Wasn't Me (feat. CHOI YOOJUNG (Weki Meki))",
+      "url": "https://open.spotify.com/track/1dbpOaHN2Jkrl98BqqKMBs"
     },
     {
       "album": {
@@ -907,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Love Is The Answer",
+        "url": "https://open.spotify.com/album/47KfofKRLYHhqtFnCvmECp"
+      },
+      "artists": [
+        {
+          "name": "Hailey",
+          "url": "https://open.spotify.com/artist/20PanKbJuxWBaa547o9Qi7"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194783,
+      "name": "Love Is The Answer",
+      "url": "https://open.spotify.com/track/1UkM6U6lbhA8rMJjwqpXfU"
+    },
+    {
+      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -925,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Lovin' your scene",
+        "url": "https://open.spotify.com/album/0OmNivFkztMCrqsEhMjPqN"
+      },
+      "artists": [
+        {
+          "name": "divin\u2019",
+          "url": "https://open.spotify.com/artist/5ewYTRNVNIrOclhsz84UkH"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189930,
+      "name": "Lovin' your scene",
+      "url": "https://open.spotify.com/track/4W1VrYNHZBiaonutVabi8m"
+    },
+    {
+      "album": {
         "name": "MADE FOR TWO",
         "url": "https://open.spotify.com/album/78MNrJUp3uHLX9DWS7YEjU"
       },
@@ -936,7 +1118,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 213232,
       "name": "MADE FOR TWO",
       "url": "https://open.spotify.com/track/7LcCJJqGAsjIRebidgbjJz"
@@ -972,7 +1154,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 179706,
       "name": "Make it",
       "url": "https://open.spotify.com/track/1sHEEu15zcW0654NkXGyaZ"
@@ -1156,7 +1338,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 195004,
       "name": "Oh My!",
       "url": "https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS"
@@ -1210,7 +1392,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 206840,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1cnGF3udnO8fscbBYY6k1X"
@@ -1495,6 +1677,46 @@
     },
     {
       "album": {
+        "name": "Summer or Summer",
+        "url": "https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV"
+      },
+      "artists": [
+        {
+          "name": "Hyolyn",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        },
+        {
+          "name": "DASOM",
+          "url": "https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Summer or Summer",
+      "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
+    },
+    {
+      "album": {
+        "name": "SUMMERIDE",
+        "url": "https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "SUMMERIDE",
+      "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
+    },
+    {
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/4NrnglBZ27dnRl3VCTpG3B"
       },
@@ -1510,7 +1732,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 224466,
       "name": "Summertime (Feat. Keem Hyoeun)",
       "url": "https://open.spotify.com/track/7oK8KEekZqC9aHmFiKS1i9"
@@ -1532,6 +1754,24 @@
       "duration_ms": 155333,
       "name": "Swan",
       "url": "https://open.spotify.com/track/2BhHpVlqUoUOmo0Ph0G18X"
+    },
+    {
+      "album": {
+        "name": "Talk & Talk",
+        "url": "https://open.spotify.com/album/3GxaqNCf6F7KAs1aDBSLVe"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Talk & Talk",
+      "url": "https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu"
     },
     {
       "album": {
@@ -1580,7 +1820,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
@@ -1616,7 +1856,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 210051,
       "name": "The Real - Heung Version",
       "url": "https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU"
@@ -1656,6 +1896,24 @@
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n"
+    },
+    {
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190050,
+      "name": "Tie a Cherry",
+      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
     },
     {
       "album": {

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Vibe (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163853,
+      "name": "A Vibe (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV"
+    },
+    {
+      "album": {
         "name": "Black On Purpose",
         "url": "https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E"
       },
@@ -42,10 +64,32 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 238160,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/3xyC7nabfT7TgqrTiTcpve"
+    },
+    {
+      "album": {
+        "name": "Babylon Fallin",
+        "url": "https://open.spotify.com/album/1toCcJIyEHFFRYFPxuUOJc"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "One Time Music",
+          "url": "https://open.spotify.com/artist/33me5od0CPHlQtuzgHkF7h"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180016,
+      "name": "Babylon Fallin",
+      "url": "https://open.spotify.com/track/2FL8K44Q8e2ICbK3W9NoEo"
     },
     {
       "album": {
@@ -96,10 +140,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 226186,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/27FkRxzVuWHCrwYEt2K5j0"
+    },
+    {
+      "album": {
+        "name": "Delroy Wilson Anthology",
+        "url": "https://open.spotify.com/album/0Aa3KpdwjwMeiEpi4rAbsV"
+      },
+      "artists": [
+        {
+          "name": "Delroy Wilson",
+          "url": "https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163920,
+      "name": "Better Must Come",
+      "url": "https://open.spotify.com/track/0npA0d5jbB01k53LMRccKP"
     },
     {
       "album": {
@@ -158,6 +220,24 @@
       "duration_ms": 225333,
       "name": "Break Us Apart",
       "url": "https://open.spotify.com/track/6NvTJWYPQ5RnLgmOK4spzq"
+    },
+    {
+      "album": {
+        "name": "It All Comes Back To Love",
+        "url": "https://open.spotify.com/album/2oCao2K2hyaaC2IUKGqHjt"
+      },
+      "artists": [
+        {
+          "name": "Maxi Priest",
+          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217861,
+      "name": "Bridge You Burn",
+      "url": "https://open.spotify.com/track/2foT5sO6PbVTvpdMlauf1p"
     },
     {
       "album": {
@@ -248,7 +328,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 294000,
       "name": "Cocody Rock",
       "url": "https://open.spotify.com/track/7wimjp5W96jhlIMblyBJmq"
@@ -356,7 +436,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 237133,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi"
@@ -378,6 +458,24 @@
       "duration_ms": 267306,
       "name": "Could You Be Loved - Acoustic",
       "url": "https://open.spotify.com/track/5ONmWYosIGBFjAKPgozdO2"
+    },
+    {
+      "album": {
+        "name": "Cry Cry Blood",
+        "url": "https://open.spotify.com/album/4edF3F2lOg0H8ohjxfSAJC"
+      },
+      "artists": [
+        {
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Cry Cry Blood",
+      "url": "https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG"
     },
     {
       "album": {
@@ -432,7 +530,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 230106,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq"
@@ -472,6 +570,24 @@
       "duration_ms": 165893,
       "name": "Dream Land",
       "url": "https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of The Wailing Souls",
+        "url": "https://open.spotify.com/album/35JVHz9f0H9oIzSYNW7BAC"
+      },
+      "artists": [
+        {
+          "name": "Wailing Souls",
+          "url": "https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "Firehouse Rock",
+      "url": "https://open.spotify.com/track/2aEo5sPcclxVbA2vXFBi9M"
     },
     {
       "album": {
@@ -598,7 +714,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 182784,
       "name": "I Spy",
       "url": "https://open.spotify.com/track/0zfNtF8NXVJXqkSil15J0v"
@@ -642,7 +758,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 241762,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7"
@@ -668,6 +784,28 @@
       "duration_ms": 192322,
       "name": "It's Just You And I - Remastered",
       "url": "https://open.spotify.com/track/1I1XhYic51dkEK1f7dTiio"
+    },
+    {
+      "album": {
+        "name": "Jah Rule VIP",
+        "url": "https://open.spotify.com/album/2u0rLQrlqKeSqt8ImwQ5nc"
+      },
+      "artists": [
+        {
+          "name": "Ras Zacharri",
+          "url": "https://open.spotify.com/artist/7rmO0cgE7MUfQwc2o87Wlc"
+        },
+        {
+          "name": "Roommate",
+          "url": "https://open.spotify.com/artist/2ZgCfuNND0DEGo3sxQFUOq"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247649,
+      "name": "Jah Rule - Roommate VIP Remix",
+      "url": "https://open.spotify.com/track/7c1WZnehMzA5sBHEJTxadG"
     },
     {
       "album": {
@@ -740,7 +878,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 221077,
       "name": "La famille",
       "url": "https://open.spotify.com/track/7x5vP5y7h9Rwzcm5s6ZcZ5"
@@ -886,7 +1024,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 212961,
       "name": "Ma'at (Each Man)",
       "url": "https://open.spotify.com/track/1QqhHG1fdZUG5slcMT4CNm"
@@ -912,7 +1050,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 192284,
       "name": "Make Me Feel (feat. Rick Ross & Ari Lennox)",
       "url": "https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs"
@@ -930,7 +1068,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 200456,
       "name": "Masa",
       "url": "https://open.spotify.com/track/2MPHANK4pKwDFskGqirazp"
@@ -992,6 +1130,44 @@
       "duration_ms": 191322,
       "name": "Morning Is Coming (with Shaggy)",
       "url": "https://open.spotify.com/track/1vUBGvWcEiEFGeg94zl1Co"
+    },
+    {
+      "album": {
+        "name": "Morgan Heritage Family & Friends Volume . 1",
+        "url": "https://open.spotify.com/album/3IEBtojsY5zVjSX6zrFdmR"
+      },
+      "artists": [
+        {
+          "name": "Morgan Heritage",
+          "url": "https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
+        },
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        },
+        {
+          "name": "LMS",
+          "url": "https://open.spotify.com/artist/76wIvnnXZ9iAF8XTSmllZF"
+        },
+        {
+          "name": "Ras Shiloh",
+          "url": "https://open.spotify.com/artist/6kiEmNG2akSox9EPxiX36I"
+        },
+        {
+          "name": "Bushman",
+          "url": "https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357026,
+      "name": "Mount Zion Medley (ft. Capleton, Jah Cure, LMS, Ras Shiloh, Bushman)",
+      "url": "https://open.spotify.com/track/1NaBa0dIa7Nb031z5dMPDD"
     },
     {
       "album": {
@@ -1166,10 +1342,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 248693,
       "name": "Night Nurse",
       "url": "https://open.spotify.com/track/1PHlYnuoDNtuuq6yPXbSV6"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/1ZMPv2Waqc3wEcmdQR8PeC"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152009,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/32Pzy2VHvrV7NIzgDWfOwQ"
     },
     {
       "album": {
@@ -1184,7 +1378,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 245530,
       "name": "No winners",
       "url": "https://open.spotify.com/track/2LiweIh9adLp0xVZBAMVK2"
@@ -1210,6 +1404,24 @@
       "duration_ms": 244412,
       "name": "Note To Self (Okay) [feat. Chronixx]",
       "url": "https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA"
+    },
+    {
+      "album": {
+        "name": "Za Kongo",
+        "url": "https://open.spotify.com/album/1xXDB79W5Gu9XrMbCI2p3Y"
+      },
+      "artists": [
+        {
+          "name": "Jason Tamba",
+          "url": "https://open.spotify.com/artist/7gfuxIgr15DM6ZgZyFCd1N"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263289,
+      "name": "Nzola",
+      "url": "https://open.spotify.com/track/3kVhNdLKznwDBe2hFLkaD3"
     },
     {
       "album": {
@@ -1242,7 +1454,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 231773,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/0lzOFW7ELjXom0Jua03stq"
@@ -1328,7 +1540,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
@@ -1354,6 +1566,24 @@
       "duration_ms": 215966,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/2Jc3uDnDdgwsqr5R3ACbce"
+    },
+    {
+      "album": {
+        "name": "Reggae Hits, Vol. 24",
+        "url": "https://open.spotify.com/album/2y8VO6wKTRZWKOdMP6CWLR"
+      },
+      "artists": [
+        {
+          "name": "Glen Washington",
+          "url": "https://open.spotify.com/artist/6FIMr6j0L4adGGptnudPz1"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/2hkMWF9Ia7v6FW2HUE8mNd"
     },
     {
       "album": {
@@ -1415,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "Planters Paradise (with Collie Buddz)",
+        "url": "https://open.spotify.com/album/1aNcWSH9pxddvHx9bPHJOe"
+      },
+      "artists": [
+        {
+          "name": "Kamrun",
+          "url": "https://open.spotify.com/artist/3CBhIh0ajgoTA3NuLjUnX9"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142307,
+      "name": "Planters Paradise (with Collie Buddz)",
+      "url": "https://open.spotify.com/track/1LzeNuAVEpwx6vjHu5pedN"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/4aMCCyhZdPoXWh3yeAjQPB"
       },
@@ -1467,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Progress",
+        "url": "https://open.spotify.com/album/3tfW7LJFKzCMy7ak16tyuA"
+      },
+      "artists": [
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Progress",
+      "url": "https://open.spotify.com/track/6IsHlSkJ55lqNW40sEtPNJ"
+    },
+    {
+      "album": {
         "name": "Black On Purpose",
         "url": "https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E"
       },
@@ -1504,10 +1774,50 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 210283,
       "name": "Ready (feat. Jo Mersa Marley)",
       "url": "https://open.spotify.com/track/1vaGu8AiPZUQCb7gAeNXKG"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV"
+      },
+      "artists": [
+        {
+          "name": "Jah9",
+          "url": "https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340972,
+      "name": "Ready To Play (feat. Tarrus Riley)",
+      "url": "https://open.spotify.com/track/3FFmkoRR4SEn8XrqmtjL0q"
+    },
+    {
+      "album": {
+        "name": "King In My Castle",
+        "url": "https://open.spotify.com/album/6BGqUZVS25hlzfFLYCtvMd"
+      },
+      "artists": [
+        {
+          "name": "Anthony B",
+          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234837,
+      "name": "Reggae Soul Sister",
+      "url": "https://open.spotify.com/track/6vRRNrox2PQAGN33MO47hO"
     },
     {
       "album": {
@@ -1562,6 +1872,24 @@
       "duration_ms": 239200,
       "name": "Rock Away",
       "url": "https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta"
+    },
+    {
+      "album": {
+        "name": "The Wailing Souls",
+        "url": "https://open.spotify.com/album/3C760CClUcp62jdg2GQOZQ"
+      },
+      "artists": [
+        {
+          "name": "Wailing Souls",
+          "url": "https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323853,
+      "name": "Row Fisherman",
+      "url": "https://open.spotify.com/track/3GpgLptxcPrmMb5fI7LKDr"
     },
     {
       "album": {
@@ -1693,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173266,
+      "name": "Slave Driver - Jamaican Version",
+      "url": "https://open.spotify.com/track/3f6Rdsc0t4mufxpACj4Gzi"
+    },
+    {
+      "album": {
         "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
         "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
@@ -1734,10 +2080,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 195066,
       "name": "Slow Down (with H.E.R.)",
       "url": "https://open.spotify.com/track/73FDJgnjt6ZcxoiavN6XrS"
+    },
+    {
+      "album": {
+        "name": "Small Axe (The UK Upsetter Recordings, 1970 to 1972)",
+        "url": "https://open.spotify.com/album/34TmoGfIMeFeVnFGlaXagy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "Small Axe",
+      "url": "https://open.spotify.com/track/2dIXRjJMzqYlVIkbciNjOv"
     },
     {
       "album": {
@@ -1759,6 +2123,28 @@
     },
     {
       "album": {
+        "name": "So Dangerous (Dub Mix)",
+        "url": "https://open.spotify.com/album/44Wm08DGfg3mNz0iKXTfQ5"
+      },
+      "artists": [
+        {
+          "name": "Anthony B",
+          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+        },
+        {
+          "name": "Adrian Donsome Hanson",
+          "url": "https://open.spotify.com/artist/3Zg8larRbu6DfzBMS9dM7J"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "So Dangerous - Dub Mix",
+      "url": "https://open.spotify.com/track/7juk6oXn7OuLZofybwUJGe"
+    },
+    {
+      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/7udZj9fPCgX3uXcXr9PiDZ"
       },
@@ -1774,6 +2160,24 @@
       "duration_ms": 240333,
       "name": "So Much Trouble In The World",
       "url": "https://open.spotify.com/track/7mV9ia2PsTJ1yYmGNv9tEE"
+    },
+    {
+      "album": {
+        "name": "Overstanding",
+        "url": "https://open.spotify.com/album/5o3n0CijSmBbcNazD70WBv"
+      },
+      "artists": [
+        {
+          "name": "Sizzla",
+          "url": "https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266453,
+      "name": "Solid As A Rock",
+      "url": "https://open.spotify.com/track/0QXWfOuW9Nlk1DHuriQ47d"
     },
     {
       "album": {
@@ -1854,10 +2258,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 257343,
       "name": "Steamers a Bubble",
       "url": "https://open.spotify.com/track/16hOumjVFbwTmkZ0n7rDf3"
+    },
+    {
+      "album": {
+        "name": "The Universal Cure",
+        "url": "https://open.spotify.com/album/2dqWoTG0zlhoy2iY4ZGaGf"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209546,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4smyzd6JsDctqs5Fy104LL"
     },
     {
       "album": {
@@ -1894,7 +2316,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 279382,
       "name": "Tell Me What a Gwan",
       "url": "https://open.spotify.com/track/5l7O8Wh0hHlX6QxgJWJGiX"
@@ -1912,7 +2334,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 246453,
       "name": "That Day Will Come",
       "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
@@ -1945,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Too Long In Slavery",
+        "url": "https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ"
+      },
+      "artists": [
+        {
+          "name": "Culture",
+          "url": "https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "The International Herb",
+      "url": "https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te"
+    },
+    {
+      "album": {
         "name": "The Wicked",
         "url": "https://open.spotify.com/album/4Xf1QNMRBUa4f6SorC1Nsd"
       },
@@ -1974,7 +2414,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 194882,
       "name": "Think About You - Notion Mix",
       "url": "https://open.spotify.com/track/698qfbrci5r8U0EKceXhml"
@@ -2072,10 +2512,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 217689,
       "name": "Unprecedented Time",
       "url": "https://open.spotify.com/track/582O2zJTY28e3RsQUNJjtr"
+    },
+    {
+      "album": {
+        "name": "'Til Shiloh",
+        "url": "https://open.spotify.com/album/79eaSPL2oNUgWfEW4pfX70"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273426,
+      "name": "Untold Stories",
+      "url": "https://open.spotify.com/track/6Z0YMxE0W5mujDxXBNlGUN"
     },
     {
       "album": {
@@ -2094,7 +2552,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 215434,
       "name": "Victory",
       "url": "https://open.spotify.com/track/58N0J3qDBZm3FBoTMO1grn"

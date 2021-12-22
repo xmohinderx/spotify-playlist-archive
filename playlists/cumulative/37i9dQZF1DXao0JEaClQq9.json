@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "7G",
+        "url": "https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116142,
+      "name": "2021",
+      "url": "https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W"
+    },
+    {
+      "album": {
+        "name": "Soul Trash",
+        "url": "https://open.spotify.com/album/1xqK2XpJQx59bppV02Q9OZ"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162710,
+      "name": "7-21-17_substitute_hifi_v3",
+      "url": "https://open.spotify.com/track/6RbZyobWPlfFrkkZARi935"
+    },
+    {
+      "album": {
         "name": "8bit",
         "url": "https://open.spotify.com/album/2y4YzuTRDYHpzdtNW0lMfF"
       },
@@ -52,7 +88,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 167213,
       "name": "A Comma",
       "url": "https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg"
@@ -95,6 +131,42 @@
     },
     {
       "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/0CkXPeR6nuF5pgE2iNWMl2"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/2zSOKTYjqEFfJEsUrMkmKs"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -124,7 +196,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 242000,
       "name": "Angel On My Shoulder",
       "url": "https://open.spotify.com/track/3M3bHley5OpJLTqGSf7v22"
@@ -178,7 +250,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
@@ -196,7 +268,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 232000,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5J9y36dALxOozE4aZjAL1j"
@@ -239,6 +311,24 @@
     },
     {
       "album": {
+        "name": "BRUiiSE",
+        "url": "https://open.spotify.com/album/0UZ9wd9bHZmAr9dxOE2QGy"
+      },
+      "artists": [
+        {
+          "name": "BABii",
+          "url": "https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203421,
+      "name": "BRUiiSE",
+      "url": "https://open.spotify.com/track/09VPvD4ZZH18kczzJRaWbZ"
+    },
+    {
+      "album": {
         "name": "Bystanders (in space)",
         "url": "https://open.spotify.com/album/1fB3W1t6xcfojQHzUF42uu"
       },
@@ -250,7 +340,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 270306,
       "name": "Bystanders (in space)",
       "url": "https://open.spotify.com/track/0OUCDV4CjuCULrXar3KbAf"
@@ -276,6 +366,42 @@
       "duration_ms": 185000,
       "name": "CALL ME (Freestyle)",
       "url": "https://open.spotify.com/track/1awc3w3LUJOK8TwD17bQLZ"
+    },
+    {
+      "album": {
+        "name": "Pang",
+        "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212559,
+      "name": "Caroline Shut Up",
+      "url": "https://open.spotify.com/track/6uEBCC605XCODjtwzae93h"
+    },
+    {
+      "album": {
+        "name": "Pillowland",
+        "url": "https://open.spotify.com/album/52MzGGLFtSb4nHSRgOidHM"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Cartwheel",
+      "url": "https://open.spotify.com/track/0bL30VdNJH5M1HsJDxXzOU"
     },
     {
       "album": {
@@ -312,7 +438,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 204066,
       "name": "cellophane",
       "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
@@ -366,7 +492,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 356959,
       "name": "Chimera",
       "url": "https://open.spotify.com/track/6E9X8hu59nOVjGvElKj7cd"
@@ -384,7 +510,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 142184,
       "name": "Color of the Pool",
       "url": "https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U"
@@ -409,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Moth",
+        "url": "https://open.spotify.com/album/4j7QJ7DKZ0cBsNuD7GmJFx"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268986,
+      "name": "Crying in Public",
+      "url": "https://open.spotify.com/track/2yXfkGdRTSPgSFJfOGsLhk"
+    },
+    {
+      "album": {
         "name": "Delete Forever",
         "url": "https://open.spotify.com/album/5OKalQQmeRzxR9YIWsrbzL"
       },
@@ -420,7 +564,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 237493,
       "name": "Delete Forever",
       "url": "https://open.spotify.com/track/5B1qeFOEeUCMudPEVeasHp"
@@ -456,7 +600,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 199773,
       "name": "Die 4 Ur Love",
       "url": "https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK"
@@ -492,7 +636,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 145659,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2wlJPY7bMm0KVwblyPMl2c"
@@ -510,7 +654,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 192254,
       "name": "Don't Be So Hard on Your Own Beauty",
       "url": "https://open.spotify.com/track/2X2Qqr7oRqkRwNZfwFbcRL"
@@ -561,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Down By The Water",
+        "url": "https://open.spotify.com/album/09K0K3ZShZXtXguGpFLtjL"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167395,
+      "name": "Down By The Water",
+      "url": "https://open.spotify.com/track/3kllktLUTSTC1nnXdb21G1"
+    },
+    {
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/1udu7ftqiJGPFjMyUvetdq"
       },
@@ -572,7 +734,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 228817,
       "name": "Drama",
       "url": "https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv"
@@ -594,7 +756,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 283573,
       "name": "Empire Ants (feat. Little Dragon)",
       "url": "https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1"
@@ -659,6 +821,28 @@
     },
     {
       "album": {
+        "name": "fall / galore (A. G. Cook remixes)",
+        "url": "https://open.spotify.com/album/1Wf9pKZst7slr7Xpbf2oui"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157186,
+      "name": "fall - A. G. Cook remix",
+      "url": "https://open.spotify.com/track/44dDBvATJffxnqvdMNsfDQ"
+    },
+    {
+      "album": {
         "name": "WILLOW",
         "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
@@ -688,10 +872,28 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 258746,
       "name": "For Now",
       "url": "https://open.spotify.com/track/6qThvX4x0IT4D5WCdPxJZV"
+    },
+    {
+      "album": {
+        "name": "Found Out",
+        "url": "https://open.spotify.com/album/4HtiZ2cTwYgh1wGf8fw0RR"
+      },
+      "artists": [
+        {
+          "name": "Martha Skye Murphy",
+          "url": "https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284421,
+      "name": "Found Out",
+      "url": "https://open.spotify.com/track/6ZFMxafUQCxrqxDrdbwa1q"
     },
     {
       "album": {
@@ -742,7 +944,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
@@ -843,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Heaven Fell",
+        "url": "https://open.spotify.com/album/5b0BcHLVRtJ3xGPpV3AaYI"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Heaven Fell (Reprise)",
+      "url": "https://open.spotify.com/track/2pUarDBfmUqw328dcU5Ubq"
+    },
+    {
+      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -908,7 +1128,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 235565,
       "name": "Hysterical Us",
       "url": "https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy"
@@ -1009,6 +1229,42 @@
     },
     {
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "Is It Cold In The Water?",
+      "url": "https://open.spotify.com/track/292h0AOEEmddv9wIWnrDl4"
+    },
+    {
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230624,
+      "name": "It's Okay To Cry",
+      "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
+    },
+    {
+      "album": {
         "name": "Set My Heart On Fire Immediately",
         "url": "https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv"
       },
@@ -1086,6 +1342,24 @@
       "duration_ms": 305506,
       "name": "Kerosene!",
       "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
+    },
+    {
+      "album": {
+        "name": "Lalala (Want Somebody)",
+        "url": "https://open.spotify.com/album/31PEiPIyOFbv3mXxWsU1kl"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366045,
+      "name": "Lalala (Want Somebody)",
+      "url": "https://open.spotify.com/track/2qm98u5XB1QeETltWvnVaH"
     },
     {
       "album": {
@@ -1413,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "No Butterflies, No Nothing",
+        "url": "https://open.spotify.com/album/0lU40mXWleCp13QB6lf30L"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179802,
+      "name": "No Butterflies, No Nothing",
+      "url": "https://open.spotify.com/track/3ZILqwsgKxsjrBLBjrOaSF"
+    },
+    {
+      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo"
       },
@@ -1435,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "Nothing's Special",
+        "url": "https://open.spotify.com/album/2xBvgd6MJXlo98bWrxQRKk"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213179,
+      "name": "Nothing\u2019s Special",
+      "url": "https://open.spotify.com/track/2EsL4kfdrEZJTKRFhuMDbY"
+    },
+    {
+      "album": {
         "name": "Big Bunny",
         "url": "https://open.spotify.com/album/4qPgXUot2MEBriWhV0gO2N"
       },
@@ -1446,7 +1760,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 251578,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3pKqEiI7xEfnQQ2TsTz8s2"
@@ -1504,10 +1818,28 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 204753,
       "name": "On Your Side - Stud1nt Remix",
       "url": "https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv"
+    },
+    {
+      "album": {
+        "name": "Only Seeing God When I Come",
+        "url": "https://open.spotify.com/album/153LnNx4K13kgByWnP0yHK"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200501,
+      "name": "Only Seeing God When I Come",
+      "url": "https://open.spotify.com/track/246uGXcZCyt1LU51g4tF0h"
     },
     {
       "album": {
@@ -1522,7 +1854,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 203200,
       "name": "Party's Over",
       "url": "https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh"
@@ -1695,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Inner Song",
+        "url": "https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Re-Wild",
+      "url": "https://open.spotify.com/track/25NkJRs7J16XCfZg0OEFCL"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/19uWOx2aMKl7cdesfEyFms"
       },
@@ -1724,7 +2074,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 173506,
       "name": "Replay",
       "url": "https://open.spotify.com/track/6GXc2suLoUJxYfzghNva2K"
@@ -1811,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Scripture",
+        "url": "https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251217,
+      "name": "Scripture",
+      "url": "https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG"
+    },
+    {
+      "album": {
         "name": "Secrets (Your Fire)",
         "url": "https://open.spotify.com/album/3pBnAbc3sR4PSH8dfAJmgC"
       },
@@ -1894,7 +2262,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 373426,
       "name": "So Heavy I Fell Through the Earth - Art Mix",
       "url": "https://open.spotify.com/track/5pZf7ekhpd3kJbDJPIxYyT"
@@ -1916,6 +2284,24 @@
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
+    },
+    {
+      "album": {
+        "name": "Softer Side",
+        "url": "https://open.spotify.com/album/1IQwYEQjPzDLi291Mjpqoc"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240578,
+      "name": "Softer Side",
+      "url": "https://open.spotify.com/track/5ccvhjleGt1Q619acW9lbF"
     },
     {
       "album": {
@@ -1948,7 +2334,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 148955,
       "name": "Sour Switchblade",
       "url": "https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9"
@@ -1970,6 +2356,24 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "album": {
+        "name": "Devotion (Deluxe)",
+        "url": "https://open.spotify.com/album/24ZsoeEvWnCVZnmU7Ken97"
+      },
+      "artists": [
+        {
+          "name": "Planet 1999",
+          "url": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134640,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/2Fk0IKNmZagnuJFanPMkWC"
     },
     {
       "album": {
@@ -2002,7 +2406,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 247186,
       "name": "stardew",
       "url": "https://open.spotify.com/track/59VEyFtuiZnWCfCDc4hOU0"
@@ -2074,7 +2478,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 182907,
       "name": "Sword",
       "url": "https://open.spotify.com/track/1JD7KawV8TrUPz0aDUrTwA"
@@ -2099,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "album": {
         "name": "The Other Lover (Little Dragon & Moses Sumney)",
         "url": "https://open.spotify.com/album/5aCUZAQz1bDC3txTnqDm5N"
       },
@@ -2118,6 +2540,24 @@
       "duration_ms": 244883,
       "name": "The Other Lover (Little Dragon & Moses Sumney)",
       "url": "https://open.spotify.com/track/3U12nxwFolQ6hsG6zcyEqc"
+    },
+    {
+      "album": {
+        "name": "KiCk i",
+        "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165789,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3XdXixlx3MoVzfL7pu9hx6"
     },
     {
       "album": {
@@ -2226,7 +2666,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 247753,
       "name": "Valley song",
       "url": "https://open.spotify.com/track/70tVTFxfAPwoL9mg44meAg"
@@ -2248,10 +2688,28 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 220613,
       "name": "Violence",
       "url": "https://open.spotify.com/track/4qNI7psI4MfDEhk8V7eF3Y"
+    },
+    {
+      "album": {
+        "name": "Heart Ego",
+        "url": "https://open.spotify.com/album/3OBMJU0p7YKR46QkDnNLTC"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/36ODdTjOflEHu6vGHSpNYu"
     },
     {
       "album": {
@@ -2288,10 +2746,50 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 430751,
       "name": "Well Rested",
       "url": "https://open.spotify.com/track/2as0SjHe6BVgirrR7GMqzY"
+    },
+    {
+      "album": {
+        "name": "What About Us (oklou's cover)",
+        "url": "https://open.spotify.com/album/6oxHCbqVgudKCb2WsVWFPq"
+      },
+      "artists": [
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175120,
+      "name": "What About Us (oklou's cover)",
+      "url": "https://open.spotify.com/track/6MQLQMpuHyoNjeJFWGXdGU"
+    },
+    {
+      "album": {
+        "name": "What Does It Mean To Me?",
+        "url": "https://open.spotify.com/album/40IbEerrh6DeFhhedn5DQx"
+      },
+      "artists": [
+        {
+          "name": "Oberhofer",
+          "url": "https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166453,
+      "name": "What Does It Mean To Me?",
+      "url": "https://open.spotify.com/track/4kDqNIQiBwkqDs6jWWcHAM"
     },
     {
       "album": {
@@ -2310,6 +2808,28 @@
       "duration_ms": 229848,
       "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
       "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
+    },
+    {
+      "album": {
+        "name": "Windows (No Rome Remix)",
+        "url": "https://open.spotify.com/album/4WjVO6STzyMQ21tGnAqtO4"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        },
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128143,
+      "name": "Windows - No Rome Remix",
+      "url": "https://open.spotify.com/track/5q0Y1svWIHkmx4Q9uH0VxB"
     },
     {
       "album": {

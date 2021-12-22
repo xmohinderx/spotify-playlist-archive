@@ -1531,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Em G\u00e1i Qu\u00ea",
+        "url": "https://open.spotify.com/album/3oAOJhcqgDgsmnjS6rdp1Y"
+      },
+      "artists": [
+        {
+          "name": "K-ICM",
+          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Em G\u00e1i Qu\u00ea",
+      "url": "https://open.spotify.com/track/1MNEQ0PDQUzmstnzfL9Q02"
+    },
+    {
+      "album": {
         "name": "Em H\u00e1t Ai Nghe",
         "url": "https://open.spotify.com/album/484MnMltSafY73ocrCoKgv"
       },
@@ -1568,6 +1586,24 @@
       "duration_ms": 237419,
       "name": "Em Kh\u00f4ng Hi\u1ec3u",
       "url": "https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY"
+    },
+    {
+      "album": {
+        "name": "Em Trang Tr\u00ed",
+        "url": "https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdt",
+          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165976,
+      "name": "Em Trang Tr\u00ed",
+      "url": "https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO"
     },
     {
       "album": {
@@ -1652,7 +1688,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
@@ -2414,7 +2450,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 255157,
       "name": "Khi C\u00f4 \u0110\u01a1n Em Nh\u1edb Ai (Lofi) - From \"Chill With Vicky Nhung - Season 2: Memory\"",
       "url": "https://open.spotify.com/track/6hy9HCfQd8mISNWd6mnDoA"
@@ -2436,7 +2472,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 228094,
       "name": "Khi Em L\u1edbn",
       "url": "https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS"
@@ -2480,7 +2516,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -2582,7 +2618,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 215752,
       "name": "Lie",
       "url": "https://open.spotify.com/track/1nWB8isqs2tviWk20G5pow"
@@ -4560,7 +4596,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-20",
+      "date_removed": null,
       "duration_ms": 279857,
       "name": "Th\u00f3i Quen (25 M\u00e9t Vu\u00f4ng) [feat. Gducky]",
       "url": "https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY"

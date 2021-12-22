@@ -16,7 +16,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 165653,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/07j5RLJHwsm4cUb3GGoW3w"
@@ -132,7 +132,7 @@
     {
       "album": {
         "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5PI71sEmCdBM238mbnFQjq"
+        "url": "https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis"
       },
       "artists": [
         {
@@ -143,6 +143,24 @@
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193240,
+      "name": "Call Me In The Afternoon",
+      "url": "https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5PI71sEmCdBM238mbnFQjq"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-22",
       "duration_ms": 193244,
       "name": "Call Me In The Afternoon",
       "url": "https://open.spotify.com/track/5vVHhJr6OpVuHMt1TuHT35"
@@ -190,7 +208,7 @@
     {
       "album": {
         "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH"
+        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
       },
       "artists": [
         {
@@ -201,6 +219,24 @@
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi"
+    },
+    {
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/7buEcyw6fJF3WPgr06BomH"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-22",
       "duration_ms": 170840,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/4KmylOc7EVRfTfy6OImJPX"
@@ -272,7 +308,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 211986,
       "name": "Dive Bar Sweetheart",
       "url": "https://open.spotify.com/track/2szFs9met2afF0shZ80UX3"
@@ -290,10 +326,28 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/52duG8ozTHVfGR87UGuqUt"
+    },
+    {
+      "album": {
+        "name": "Good Grief (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5YUPhKtmR093OVGI4StTMx"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264040,
+      "name": "Dusty Trails",
+      "url": "https://open.spotify.com/track/6RjDBZC6xyTEbavDbFrYOE"
     },
     {
       "album": {
@@ -395,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Angeleno",
+        "url": "https://open.spotify.com/album/57XjKJkj7uM4QYFB8csFtI"
+      },
+      "artists": [
+        {
+          "name": "Sam Outlaw",
+          "url": "https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246670,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6qUGqE3cmrQ2AapgzYKVp3"
+    },
+    {
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -424,7 +496,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 258640,
       "name": "Goodbye Earl",
       "url": "https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM"
@@ -442,7 +514,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 232186,
       "name": "Hands on You",
       "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
@@ -503,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Housebroken Man",
+        "url": "https://open.spotify.com/album/7asKZ65yRtSIdDo0jFPfQt"
+      },
+      "artists": [
+        {
+          "name": "Quiet Life",
+          "url": "https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl"
+        },
+        {
+          "name": "Cary Ann Hearst",
+          "url": "https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Housebroken Man",
+      "url": "https://open.spotify.com/track/1LqsC52W6xIfohpYXYyhYA"
+    },
+    {
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -550,7 +644,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 252506,
       "name": "Hurtin' (On the Bottle)",
       "url": "https://open.spotify.com/track/5cTjO1vlSiN9Xs6xDxWOrI"
@@ -647,6 +741,24 @@
     },
     {
       "album": {
+        "name": "The Voyager",
+        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "Just One of the Guys",
+      "url": "https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb"
+    },
+    {
+      "album": {
         "name": "Metamodern Sounds in Country Music",
         "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
@@ -676,10 +788,46 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 259120,
       "name": "Lost In My Mind",
       "url": "https://open.spotify.com/track/6AQGlm2uDrOVXPVJE4hrNu"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/4sRUr5XaJYlc17t4jUrqYB"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/77hI6DJ12C9WohWk8XUhto"
+    },
+    {
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "album": {
@@ -748,10 +896,28 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/18ycL9Q5zLDeY9M2Lr3Ozw"
+    },
+    {
+      "album": {
+        "name": "First Collection 2006-2009",
+        "url": "https://open.spotify.com/album/62miIQWlOO88YmupzmUNGJ"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275306,
+      "name": "Mykonos",
+      "url": "https://open.spotify.com/track/4iaGeV4WFvP2ynbqCIyTpS"
     },
     {
       "album": {
@@ -788,6 +954,24 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO"
+    },
+    {
+      "album": {
+        "name": "Make Way for Love",
+        "url": "https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153548,
+      "name": "Party Boy",
+      "url": "https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og"
     },
     {
       "album": {
@@ -900,6 +1084,24 @@
       "duration_ms": 240253,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/5bAJhDTVCWVScr5Ev4LnB2"
+    },
+    {
+      "album": {
+        "name": "All Or Nothin'",
+        "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
     },
     {
       "album": {
@@ -1058,7 +1260,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 280320,
       "name": "Tennessee Song",
       "url": "https://open.spotify.com/track/1FEVjTvRUuDJn2HKtSrz1U"
@@ -1188,7 +1390,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 233921,
       "name": "Trinity Lane",
       "url": "https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4"
@@ -1210,6 +1412,24 @@
       "duration_ms": 186333,
       "name": "Two More Bottles of Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/3apWrinpISM6eNf9CjzfID"
+    },
+    {
+      "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142443,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4"
     },
     {
       "album": {

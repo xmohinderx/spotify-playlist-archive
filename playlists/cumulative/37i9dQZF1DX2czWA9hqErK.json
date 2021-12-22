@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 361586,
       "name": "A Better Place",
       "url": "https://open.spotify.com/track/2nntiOW25ByTmb0r944IqU"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 219858,
       "name": "Alone - Alternative Mix",
       "url": "https://open.spotify.com/track/1hIiWgqEAKLXyYAwWtGzZA"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 207960,
       "name": "Be My Own Boyfriend",
       "url": "https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG"
@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Crescent Moon",
+        "url": "https://open.spotify.com/album/0ihoGeFEM6roP7ZbiztIiH"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199041,
+      "name": "Crescent Moon",
+      "url": "https://open.spotify.com/track/3mx9EbDkSUHiwn6ifsgwf8"
+    },
+    {
+      "album": {
         "name": "Crisis / Secret / Set Me Free",
         "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
       },
@@ -337,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4zerSuxIYLWLemMPPC8Ivi"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0SXtIKwGuLlHJ7Q7gwo0Te"
+    },
+    {
+      "album": {
         "name": "Down Days",
         "url": "https://open.spotify.com/album/1YINHWS1JRUAxSHX6YrWUA"
       },
@@ -348,7 +388,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 172821,
       "name": "Down Days",
       "url": "https://open.spotify.com/track/7zbHLUYieIVy0Qb8ciRbmx"
@@ -481,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Happy Just To Know",
+        "url": "https://open.spotify.com/album/3iDEefcXTLkslAUAAC6ZfJ"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        },
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188443,
+      "name": "Happy Just To Know",
+      "url": "https://open.spotify.com/track/53qdE4yFweq6kbO2MQ44Ul"
+    },
+    {
+      "album": {
         "name": "Hate That I Fell In Love With You",
         "url": "https://open.spotify.com/album/09UX3iDUU7L9hHceGsECJ8"
       },
@@ -510,7 +572,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 201135,
       "name": "Highs And The Lows",
       "url": "https://open.spotify.com/track/57F4g2ejOTNNwOi096ygMw"
@@ -586,6 +648,28 @@
       "duration_ms": 179040,
       "name": "Hopeless Romantics",
       "url": "https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB"
+    },
+    {
+      "album": {
+        "name": "Hymn for Her",
+        "url": "https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        },
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "Hymn for Her (feat. Lydia Clowes)",
+      "url": "https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF"
     },
     {
       "album": {
@@ -708,7 +792,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 248880,
       "name": "July",
       "url": "https://open.spotify.com/track/7Bt8AKBl6B0LYw8KQW8taX"
@@ -766,7 +850,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 255255,
       "name": "Know Me Again (with Cate)",
       "url": "https://open.spotify.com/track/503vjbISPH5hJbGpYOFAcN"
@@ -784,7 +868,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 187309,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y"
@@ -806,6 +890,24 @@
       "duration_ms": 214942,
       "name": "Lost",
       "url": "https://open.spotify.com/track/0D9FOgEG9uZm8EsE5q2Y6F"
+    },
+    {
+      "album": {
+        "name": "Lost Keys",
+        "url": "https://open.spotify.com/album/4FfvStTyWnsVvDlRPzLMcQ"
+      },
+      "artists": [
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Lost Keys",
+      "url": "https://open.spotify.com/track/2UFnAnx5ZC0RgCqVSlA1Zj"
     },
     {
       "album": {
@@ -860,7 +962,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 220049,
       "name": "Magazines",
       "url": "https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz"
@@ -907,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5qoPZBCrT0JhireTBvDWik"
+      },
+      "artists": [
+        {
+          "name": "Lexi Berg",
+          "url": "https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275113,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5HzQDTbgRVfDgjxgwQ6lmt"
+    },
+    {
+      "album": {
         "name": "More of You",
         "url": "https://open.spotify.com/album/6otrwuXbuZ1ntS6AHWX0AT"
       },
@@ -922,6 +1042,24 @@
       "duration_ms": 154186,
       "name": "More of You",
       "url": "https://open.spotify.com/track/3KwddnMagr7xnFFZTb4t7Z"
+    },
+    {
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247289,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH"
     },
     {
       "album": {
@@ -1070,7 +1208,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 243464,
       "name": "R\u00f3is\u00edn",
       "url": "https://open.spotify.com/track/5efHoPUOCPywINwkok3U13"
@@ -1154,6 +1292,42 @@
       "duration_ms": 156963,
       "name": "Shade of Yellow",
       "url": "https://open.spotify.com/track/2vSq4chJ1DUBjHDrU024AO"
+    },
+    {
+      "album": {
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/5QcquR8hsv60H86QASguCE"
+      },
+      "artists": [
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239"
+    },
+    {
+      "album": {
+        "name": "Short Sighted",
+        "url": "https://open.spotify.com/album/1DWjS1BFUwomgoJErC02Bu"
+      },
+      "artists": [
+        {
+          "name": "Lewis Ross",
+          "url": "https://open.spotify.com/artist/7H1Mw1I4p9sTGTtbGCj8E3"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "Short Sighted",
+      "url": "https://open.spotify.com/track/25hKDHLSeH6M4J47pMXu9T"
     },
     {
       "album": {
@@ -1280,7 +1454,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 237780,
       "name": "Soul Mate",
       "url": "https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua"
@@ -1305,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2P5Az92OeqDGskWczy3OGD"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181900,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/424m0YnbIl5oLOS2SQiIXi"
+    },
+    {
+      "album": {
         "name": "Life By Misadventure",
         "url": "https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ"
       },
@@ -1316,7 +1508,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 239179,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/2SY4ep4NQaArath0ze4gTg"
@@ -1449,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "What Next",
+        "url": "https://open.spotify.com/album/2XoMPeRE5MuVrVrp5tptqu"
+      },
+      "artists": [
+        {
+          "name": "Cara Rose",
+          "url": "https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211836,
+      "name": "What Next",
+      "url": "https://open.spotify.com/track/65VklTwNc5HoOH46Y8dN5g"
+    },
+    {
+      "album": {
         "name": "Whole",
         "url": "https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW"
       },
@@ -1478,10 +1688,46 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 193881,
       "name": "You",
       "url": "https://open.spotify.com/track/5FgiHNFQZTX1rZIrmYhrPq"
+    },
+    {
+      "album": {
+        "name": "Everything's Waiting for You",
+        "url": "https://open.spotify.com/album/10NMiu5NIvM1s2vUv6hkEw"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3D22Pu7OtwnStfE2t2xFPN"
+    },
+    {
+      "album": {
+        "name": "Yours to Take",
+        "url": "https://open.spotify.com/album/0CbVkyoS8jNzWJ6lqwb9ev"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177413,
+      "name": "Yours to Take",
+      "url": "https://open.spotify.com/track/7wYuuXNttavkBwce6LBAI2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2czWA9hqErK"

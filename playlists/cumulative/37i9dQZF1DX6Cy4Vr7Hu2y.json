@@ -27,6 +27,60 @@
     },
     {
       "album": {
+        "name": "3 Months",
+        "url": "https://open.spotify.com/album/0OrVANe6ujovAiIjUgDB2I"
+      },
+      "artists": [
+        {
+          "name": "KASPER",
+          "url": "https://open.spotify.com/artist/6N8Wyy7G86YTHz3oIaJZjO"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182420,
+      "name": "3 Months",
+      "url": "https://open.spotify.com/track/2bm7HuBe4qhsVwwbm5rbWZ"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/4CzbvSXwAjr7Vs8mghPcbP"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "30",
+      "url": "https://open.spotify.com/track/2mF0a6QdJY5WDWar4THKyi"
+    },
+    {
+      "album": {
+        "name": "After The Rain \ube44\uac00 \uadf8\uce58\uace0 \ub098\uba74",
+        "url": "https://open.spotify.com/album/3KcaS52WFgBYfGenr0eAZ2"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254866,
+      "name": "After The Rain \ube44\uac00 \uadf8\uce58\uace0 \ub098\uba74",
+      "url": "https://open.spotify.com/track/6e6tVmCBpFAWopWgnclcqs"
+    },
+    {
+      "album": {
         "name": "Hotel Del Luna OST Part.3",
         "url": "https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR"
       },
@@ -74,10 +128,28 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 199640,
       "name": "Better",
       "url": "https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN"
+    },
+    {
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6tzNl7uTUZQnElYwtzZaGX"
+      },
+      "artists": [
+        {
+          "name": "YESEO",
+          "url": "https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200357,
+      "name": "Better Me",
+      "url": "https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5"
     },
     {
       "album": {
@@ -128,7 +200,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 212842,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3R8iyJpmhI9ABDmTpetV2D"
@@ -200,7 +272,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 192484,
       "name": "Chica",
       "url": "https://open.spotify.com/track/6wV0zmb3delVInoCiWdEdZ"
@@ -222,6 +294,24 @@
       "duration_ms": 231259,
       "name": "Could You Be My Song \uc0c8\ubcbd\u2606",
       "url": "https://open.spotify.com/track/2N1m67XDI7V3OQ6alngjRl"
+    },
+    {
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/74i7iW2GXbm50mQttVDHYy"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193177,
+      "name": "DIVE",
+      "url": "https://open.spotify.com/track/36UWU0wqIELSR6Azb3zcgD"
     },
     {
       "album": {
@@ -272,7 +362,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 195386,
       "name": "ELEVATOR",
       "url": "https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji"
@@ -402,10 +492,28 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 221000,
       "name": "Happy",
       "url": "https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM"
+    },
+    {
+      "album": {
+        "name": "Happy Now!",
+        "url": "https://open.spotify.com/album/4VfKsyu4Z5p09r42dKlAzn"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "Happy Now!",
+      "url": "https://open.spotify.com/track/6Qm4PXogHJW7JyPfG1Yrwj"
     },
     {
       "album": {
@@ -442,6 +550,24 @@
       "duration_ms": 176160,
       "name": "ICON",
       "url": "https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB"
+    },
+    {
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/3PeYKpKOgDELLCewGJErHX"
+      },
+      "artists": [
+        {
+          "name": "BIRA",
+          "url": "https://open.spotify.com/artist/6EYGOF6cZKxAyiBwATdvBp"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/0frFK9RPyxL8eJnMjqUm4t"
     },
     {
       "album": {
@@ -586,7 +712,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 149000,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/0vFKaaqXkeaaC2iGtKRGyt"
@@ -604,10 +730,28 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 197479,
       "name": "My Trouble",
       "url": "https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP"
+    },
+    {
+      "album": {
+        "name": "Need You (solo ver.)",
+        "url": "https://open.spotify.com/album/1iHezxzAqv60AEr6dwUDy1"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Need You - solo ver.",
+      "url": "https://open.spotify.com/track/4xzpDr5XZoorumaEv178Od"
     },
     {
       "album": {
@@ -647,6 +791,24 @@
     },
     {
       "album": {
+        "name": "I'm",
+        "url": "https://open.spotify.com/album/4AkitmQNFEc5iB0GrzYthy"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "One Day by Chance",
+      "url": "https://open.spotify.com/track/3mRtsueK0vTpDbij7FXVPQ"
+    },
+    {
+      "album": {
         "name": "Over the Sky",
         "url": "https://open.spotify.com/album/2HIt0M2VOzDrWL3W9tNcbu"
       },
@@ -658,7 +820,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 197739,
       "name": "Over the Sky",
       "url": "https://open.spotify.com/track/68K3uCXs4JeuZ2OZdOTQr7"
@@ -676,10 +838,32 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 166238,
       "name": "Piece Of Stars",
       "url": "https://open.spotify.com/track/7z2fpDv4PfwdtjIj1FxZGK"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199524,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk"
     },
     {
       "album": {
@@ -846,7 +1030,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 199469,
       "name": "Selfish Girl",
       "url": "https://open.spotify.com/track/6B1DMetKl9hr4HLojRFj1n"
@@ -882,7 +1066,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 217926,
       "name": "Spark",
       "url": "https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5"
@@ -907,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/0bIJnz9JqrGqOKr8DCN6N5"
+      },
+      "artists": [
+        {
+          "name": "Edge of Silence",
+          "url": "https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW"
+        },
+        {
+          "name": "Baeeori",
+          "url": "https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198451,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/0T1OJqhF2ihqavFfxbiOO8"
+    },
+    {
+      "album": {
         "name": "The Best Ending OST",
         "url": "https://open.spotify.com/album/4tcJcOrgd4qRPRXFHFslwT"
       },
@@ -918,7 +1124,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 176000,
       "name": "The Best Ending",
       "url": "https://open.spotify.com/track/2r8ndLpyDjYJo0q03AMo5s"
@@ -962,6 +1168,24 @@
       "duration_ms": 167661,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
+    },
+    {
+      "album": {
+        "name": "How we live",
+        "url": "https://open.spotify.com/album/76aU22K8j206jheLyKoowI"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "THINK",
+      "url": "https://open.spotify.com/track/7upOvB292V6qszi7M3QqD9"
     },
     {
       "album": {
@@ -1109,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "YOU AND I",
+        "url": "https://open.spotify.com/album/7GqIsor5wp03TSszitY5Ah"
+      },
+      "artists": [
+        {
+          "name": "Raon Lee",
+          "url": "https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199175,
+      "name": "YOU AND I",
+      "url": "https://open.spotify.com/track/5njElVEV4zsVdJpW9x4ujJ"
+    },
+    {
+      "album": {
         "name": "1/6",
         "url": "https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX"
       },
@@ -1138,7 +1380,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 218235,
       "name": "youknowbetter \ub2c8\uac00 \ub354 \uc798 \uc54c\uc796\uc544",
       "url": "https://open.spotify.com/track/1ej66Z3M6DfmoZeJCSrOxN"
@@ -1156,10 +1398,32 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 190859,
       "name": "Zimzalabim",
       "url": "https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB"
+    },
+    {
+      "album": {
+        "name": "zZ",
+        "url": "https://open.spotify.com/album/2gEpwi8neJlZxWz9LxhpPd"
+      },
+      "artists": [
+        {
+          "name": "YouSungYoon \uc720\uc131\uc724",
+          "url": "https://open.spotify.com/artist/6zZjlVlFWAXNSPcrbIvXbB"
+        },
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "zZ(Tired) zZ(\ud53c\uace4\ud574) (With Yebit)",
+      "url": "https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc"
     },
     {
       "album": {

@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 201496,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 151288,
       "name": "Beg",
       "url": "https://open.spotify.com/track/3s9oKWdvPOF7KMgtApYVE4"
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189373,
+      "name": "crushcrushcrush",
+      "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
+    },
+    {
+      "album": {
         "name": "Everything Is Temporary",
         "url": "https://open.spotify.com/album/0NKLs69ZZ4iduwaql8ygOD"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 191756,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
@@ -456,6 +474,24 @@
       "duration_ms": 237643,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0XuCUVcke1oKsdxuvqIk1O"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180082,
+      "name": "Drown In My Mind",
+      "url": "https://open.spotify.com/track/1i2t3VyIcsAonPhK6wjuJp"
     },
     {
       "album": {
@@ -622,7 +658,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 197800,
       "name": "Girl All the Bad Guys Want",
       "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
@@ -662,6 +698,24 @@
       "duration_ms": 191373,
       "name": "Grand Theft Autumn / Where Is Your Boy",
       "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
+    },
+    {
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "album": {
@@ -961,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3FwCsc5BM8WXQnJv3nbTOw"
+      },
+      "artists": [
+        {
+          "name": "Tiny Moving Parts",
+          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191294,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/77QGAIwpx3P0HRBpypNl4H"
+    },
+    {
+      "album": {
         "name": "Palm Trees and Power Lines",
         "url": "https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX"
       },
@@ -1160,10 +1232,28 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 219723,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/2ZMHNMMft1Yp6nLPjR4zM9"
+    },
+    {
+      "album": {
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
     },
     {
       "album": {
@@ -1236,7 +1326,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 202496,
       "name": "She Looks So Perfect",
       "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
@@ -1312,7 +1402,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 197986,
       "name": "Stacy's Mom",
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
@@ -1482,7 +1572,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 182953,
       "name": "THAT ONE SONG",
       "url": "https://open.spotify.com/track/1f8JpHrCJpqYUyT4DSzz20"
@@ -1615,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Reach For The Sun",
+        "url": "https://open.spotify.com/album/13Zqbq7TFA0zOHrK4ZLO9J"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203560,
+      "name": "The Permanent Rain",
+      "url": "https://open.spotify.com/track/3aTyz9Yur7YRSXXXlyjKUD"
+    },
+    {
+      "album": {
         "name": "Infinity On High (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03Og8YvbFYbe3hmr9MfZHT"
       },
@@ -1666,6 +1774,24 @@
       "duration_ms": 161978,
       "name": "Turbulent",
       "url": "https://open.spotify.com/track/2ZD4ORPQl85o5QPU3EsSXQ"
+    },
+    {
+      "album": {
+        "name": "Resurrection: Ascension",
+        "url": "https://open.spotify.com/album/1OhpXxtLqJJixASneGL6cE"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197225,
+      "name": "Vicious Love (feat. Hayley Williams)",
+      "url": "https://open.spotify.com/track/44BrW9G0DSu50xItRb1gFK"
     },
     {
       "album": {
@@ -1724,6 +1850,24 @@
       "duration_ms": 202573,
       "name": "Want You Bad",
       "url": "https://open.spotify.com/track/5EuWYcCiqOaf9jkWBauDFN"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/6POoZnVEetK6ha2zSp1ws1"
+      },
+      "artists": [
+        {
+          "name": "The Audition",
+          "url": "https://open.spotify.com/artist/7EE9Xq8yiJyO5FIVho6ibI"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212186,
+      "name": "Warm Me Up",
+      "url": "https://open.spotify.com/track/7qZdLKPA5TXDxpd10AGpf0"
     },
     {
       "album": {

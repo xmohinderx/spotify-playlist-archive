@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207722,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
+    },
+    {
+      "album": {
         "name": "California Wine",
         "url": "https://open.spotify.com/album/2ZAjVYVW1Yey2pe3ehYcSd"
       },
@@ -320,7 +338,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 181893,
       "name": "Downsize",
       "url": "https://open.spotify.com/track/3SvYs68Wn1Z4U845Cdi0jg"
@@ -480,6 +498,24 @@
       "duration_ms": 178289,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
+    },
+    {
+      "album": {
+        "name": "Fresh Roses",
+        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Fresh Roses",
+      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
     },
     {
       "album": {
@@ -1058,7 +1094,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 224638,
       "name": "Madison",
       "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
@@ -1221,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/1Yxdm1iJz3y3qo2Gv2QET0"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242773,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/6Wndl2xyawNa2fQNVYPVt8"
+    },
+    {
+      "album": {
         "name": "On Top of the World",
         "url": "https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj"
       },
@@ -1304,7 +1358,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/1Zi74xhSWk5R13oGceGsfm"
@@ -1573,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/0NRpX7UAG0LJVkqtx3jFze"
+      },
+      "artists": [
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234053,
+      "name": "Sugarcane",
+      "url": "https://open.spotify.com/track/7pzoOz4tiF2KA76FNM70ms"
+    },
+    {
+      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy"
       },
@@ -1714,7 +1786,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 248000,
       "name": "We're On Our Way Now",
       "url": "https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg"

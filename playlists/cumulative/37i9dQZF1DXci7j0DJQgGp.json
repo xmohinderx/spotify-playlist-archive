@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/1QChcUJsmg1rp3zL57iafO"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/55pp6iI1wvxZL93k25vzXn"
+    },
+    {
+      "album": {
         "name": "Call Me When You Land",
         "url": "https://open.spotify.com/album/30CoHXRDdptOwXzGvct7Cp"
       },
@@ -186,7 +204,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 187388,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu"
@@ -332,10 +350,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 185533,
       "name": "Different Kinds of Light",
       "url": "https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR"
+    },
+    {
+      "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190955,
+      "name": "Dog Has Its Day",
+      "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
     },
     {
       "album": {
@@ -408,7 +444,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 377898,
       "name": "False Alarms",
       "url": "https://open.spotify.com/track/1Dio4uOhZZ43ClTqe71n1t"
@@ -426,7 +462,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 217373,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7z7HuJQUzk93pSnP1qZkTp"
@@ -448,10 +484,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 225525,
       "name": "Follow the Water",
       "url": "https://open.spotify.com/track/7mDgRy36arEHxxsOOGPB2m"
+    },
+    {
+      "album": {
+        "name": "For the Sky",
+        "url": "https://open.spotify.com/album/6eQdIC478LBfqDGruaJivl"
+      },
+      "artists": [
+        {
+          "name": "HAERTS",
+          "url": "https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt"
+        },
+        {
+          "name": "Ed Droste",
+          "url": "https://open.spotify.com/artist/0XF81i7F5hTlfNMHlTNptl"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "For the Sky",
+      "url": "https://open.spotify.com/track/0x4y7ilgQ7cNQeGAhwd4FR"
     },
     {
       "album": {
@@ -581,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Heliotrope",
+        "url": "https://open.spotify.com/album/4rDUMiofrIdnkOEQOszfqc"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187498,
+      "name": "Heliotrope",
+      "url": "https://open.spotify.com/track/3o6sLYqZ6AH9yxsVpwVwju"
+    },
+    {
+      "album": {
         "name": "Help Me Down",
         "url": "https://open.spotify.com/album/43KXYPbQpUh82vVQVzrauv"
       },
@@ -610,10 +686,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 292191,
       "name": "Holy Rose",
       "url": "https://open.spotify.com/track/4RD0tyT7TfDyeLHJL0i420"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/09amDFagdn2HQ5jpfo1dr4"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
     },
     {
       "album": {
@@ -646,7 +740,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 216026,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
@@ -664,7 +758,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 192853,
       "name": "Hypochondriac",
       "url": "https://open.spotify.com/track/6st6akzmAJS2vYNRui5ezU"
@@ -860,7 +954,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/2TJDEIb71icDq3v0LXEGib"
@@ -878,7 +972,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/5MDUdi9T4Ee4Kv33SbewC3"
@@ -993,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "McKenzie",
+        "url": "https://open.spotify.com/album/5EK1qziAlurOZINUJC1yPe"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "McKenzie",
+      "url": "https://open.spotify.com/track/6r105oew3DqGLUEIYRMk9L"
+    },
+    {
+      "album": {
         "name": "Mighty Soul",
         "url": "https://open.spotify.com/album/6T7wqhIl7v7jj5yMIZXozN"
       },
@@ -1076,7 +1188,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 263300,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/4ZnELmHZptzdaANfo1eGbm"
@@ -1312,7 +1424,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 220377,
       "name": "Reason",
       "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
@@ -1348,7 +1460,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3"
@@ -1431,6 +1543,28 @@
     },
     {
       "album": {
+        "name": "Send My Regards",
+        "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
+      },
+      "artists": [
+        {
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247893,
+      "name": "Send My Regards",
+      "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+    },
+    {
+      "album": {
         "name": "Shane",
         "url": "https://open.spotify.com/album/1WaMYVxngDmjliUb3mcVka"
       },
@@ -1446,6 +1580,24 @@
       "duration_ms": 221326,
       "name": "Shane",
       "url": "https://open.spotify.com/track/35goAAwRgw83du1h0Ulare"
+    },
+    {
+      "album": {
+        "name": "Grew Inside the Water",
+        "url": "https://open.spotify.com/album/4x4rEzJrTGatmobZvTNbLB"
+      },
+      "artists": [
+        {
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284037,
+      "name": "Society's a Mansion",
+      "url": "https://open.spotify.com/track/6LIRg5qJdVZM1kYnxi9DOC"
     },
     {
       "album": {
@@ -1467,6 +1619,32 @@
     },
     {
       "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"
+    },
+    {
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/4gb0j034W6vgCDwRO2N88c"
       },
@@ -1478,7 +1656,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/3fDqdR9QqcsgFTRFqy14Ki"
@@ -1536,7 +1714,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
@@ -1558,6 +1736,24 @@
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS"
+    },
+    {
+      "album": {
+        "name": "Sugar Mama",
+        "url": "https://open.spotify.com/album/70l7cF7hcGVAr4PpX2yZOZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Symes",
+          "url": "https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Sugar Mama",
+      "url": "https://open.spotify.com/track/3KImvFzE4G4xg7GvPewvrw"
     },
     {
       "album": {
@@ -1620,6 +1816,60 @@
       "duration_ms": 250976,
       "name": "Sweet Lucy",
       "url": "https://open.spotify.com/track/567Df0jSPeshvSIpU5TEZ9"
+    },
+    {
+      "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158948,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
+    },
+    {
+      "album": {
+        "name": "The Man Who Sees Tomorrow / Lodarore",
+        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211733,
+      "name": "The Man Who Sees Tomorrow",
+      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i"
     },
     {
       "album": {
@@ -1706,7 +1956,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 186838,
       "name": "Tupperware",
       "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
@@ -1728,6 +1978,24 @@
       "duration_ms": 218320,
       "name": "Two",
       "url": "https://open.spotify.com/track/5tugARliRodpCjuotWjeZk"
+    },
+    {
+      "album": {
+        "name": "Unready",
+        "url": "https://open.spotify.com/album/2RG8vKpiO8wENNoZg7MVYq"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222716,
+      "name": "Unready",
+      "url": "https://open.spotify.com/track/4awSzedNPx67Io7cPe6D84"
     },
     {
       "album": {
@@ -1803,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+    },
+    {
+      "album": {
         "name": "What A Day",
         "url": "https://open.spotify.com/album/0VZ0uoAzPpYyTs6bcmc9SE"
       },
@@ -1818,6 +2104,24 @@
       "duration_ms": 257773,
       "name": "What A Day - Edit",
       "url": "https://open.spotify.com/track/7yWcDUgTm9RLNxjPPHXVxp"
+    },
+    {
+      "album": {
+        "name": "Where Did Summer Go",
+        "url": "https://open.spotify.com/album/1ike6Ye2hMBbBvMSFSH7jL"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250250,
+      "name": "Where Did Summer Go",
+      "url": "https://open.spotify.com/track/0c4d2OQIYrcDfLK3xzycbG"
     },
     {
       "album": {

@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
+    },
+    {
+      "album": {
         "name": "Daddy Issues (Remix) feat. Syd",
         "url": "https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS"
       },
@@ -978,10 +996,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 198556,
       "name": "Lust for Delirium",
       "url": "https://open.spotify.com/track/2orT8RBYk5i2ntDEokyhCV"
+    },
+    {
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "album": {
@@ -1014,7 +1050,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 240923,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/40j8TwX1bTSzGbnuXdf7gZ"
@@ -1275,6 +1311,28 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/7MWDbgk0WUzO5pg0g3H2cX"
+      },
+      "artists": [
+        {
+          "name": "YK Osiris",
+          "url": "https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "Ride (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/6FmnsSVdJJojBYzecDlpPO"
+    },
+    {
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -1337,6 +1395,28 @@
     },
     {
       "album": {
+        "name": "Show Me Love (feat. Miguel)",
+        "url": "https://open.spotify.com/album/0iHBfyXdfH9Fpeh8BPsVJP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194997,
+      "name": "Show Me Love (feat. Miguel)",
+      "url": "https://open.spotify.com/track/0XPlSuCVQ1nOhzTpFgnDSz"
+    },
+    {
+      "album": {
         "name": "Slippery (feat. DESTIN CONRAD)",
         "url": "https://open.spotify.com/album/7w7yKT2knVpraNDX4Wzb8J"
       },
@@ -1352,7 +1432,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 159000,
       "name": "Slippery (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/3kaSOupDw2AR0N4c4jtezL"
@@ -1638,7 +1718,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 225197,
       "name": "The Frequency of the Universe",
       "url": "https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5"

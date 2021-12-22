@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 137426,
       "name": "99 Problems",
       "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
@@ -38,6 +38,24 @@
       "duration_ms": 201535,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/33gHvO5eLnhxKHgGDu6xu9"
+    },
+    {
+      "album": {
+        "name": "Fantastic Negrito - EP",
+        "url": "https://open.spotify.com/album/6wSl4enVRjlcQ890pqfQqk"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244110,
+      "name": "An Honest Man",
+      "url": "https://open.spotify.com/track/37C9PC2PjE2oURNjOyzof4"
     },
     {
       "album": {
@@ -142,10 +160,28 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 184466,
       "name": "Barley",
       "url": "https://open.spotify.com/track/0cqetEMWwpwK2ssYu5iLu5"
+    },
+    {
+      "album": {
+        "name": "Real Midnight",
+        "url": "https://open.spotify.com/album/7mFltVGJpL7QSFfPAdWeMZ"
+      },
+      "artists": [
+        {
+          "name": "Birds of Chicago",
+          "url": "https://open.spotify.com/artist/2nyv8yYjMSkvUr9OwEQhVf"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Barley",
+      "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
     },
     {
       "album": {
@@ -160,7 +196,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 186453,
       "name": "Bartholomew",
       "url": "https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV"
@@ -178,7 +214,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 205773,
       "name": "Barton Hollow",
       "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
@@ -250,7 +286,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 457666,
       "name": "Blackland Farmer",
       "url": "https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm"
@@ -398,6 +434,24 @@
       "duration_ms": 196946,
       "name": "Conman Coming",
       "url": "https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq"
+    },
+    {
+      "album": {
+        "name": "A Mountain Is A Mouth",
+        "url": "https://open.spotify.com/album/454oCP8D6iiI4GHBUZXz4u"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156706,
+      "name": "Crabapples",
+      "url": "https://open.spotify.com/track/3tRg3SxzjV3NnDCbsKCzCv"
     },
     {
       "album": {
@@ -560,10 +614,28 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 214040,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111186,
+      "name": "Dreamcatchers",
+      "url": "https://open.spotify.com/track/7uXwbnpGfGRwlB7CWeC6Aw"
     },
     {
       "album": {
@@ -596,7 +668,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 166493,
       "name": "Far From Any Road",
       "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
@@ -704,7 +776,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 224226,
       "name": "Get Right Church",
       "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
@@ -798,6 +870,24 @@
       "duration_ms": 169254,
       "name": "Hammers and Nails",
       "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
+    },
+    {
+      "album": {
+        "name": "Heart Of My Own",
+        "url": "https://open.spotify.com/album/00VIGPygVKjYbWXfoOaqHa"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Heart Of My Own",
+      "url": "https://open.spotify.com/track/1mqk8DNti1zvdd1GY5quDS"
     },
     {
       "album": {
@@ -1205,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "For A Decade of Sin: 11 Years of Bloodshot Records",
+        "url": "https://open.spotify.com/album/5WC1jMjx18ysynP4gJPuLb"
+      },
+      "artists": [
+        {
+          "name": "Graham Lindsey",
+          "url": "https://open.spotify.com/artist/1hFvZy3pBf5pOSmJULL4sG"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "No Way Out But Down",
+      "url": "https://open.spotify.com/track/4QWnQIa20uqK8uR5RVSRoh"
+    },
+    {
+      "album": {
         "name": "Nothing But The Water",
         "url": "https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD"
       },
@@ -1216,10 +1324,32 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 164200,
       "name": "Nothing But The Water (I)",
       "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
+    },
+    {
+      "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "O Death (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
     },
     {
       "album": {
@@ -1256,6 +1386,24 @@
       "duration_ms": 234000,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
+    },
+    {
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Personal Jesus",
+      "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
     },
     {
       "album": {
@@ -1421,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0dsdTuvCLuEM51zmh7Wn1v"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/2tZnkENp13AjTK1OC02W5X"
+    },
+    {
+      "album": {
         "name": "The Threshingfloor",
         "url": "https://open.spotify.com/album/7A2lvdQz2ZiV4gGx0z4WDT"
       },
@@ -1548,6 +1714,24 @@
       "duration_ms": 187186,
       "name": "Stuck In The South",
       "url": "https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX"
+    },
+    {
+      "album": {
+        "name": "Fern Girl and Ice Man",
+        "url": "https://open.spotify.com/album/3FX9ygnFTCdOIOgCmC4wVt"
+      },
+      "artists": [
+        {
+          "name": "The Lowest Pair",
+          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183986,
+      "name": "Sweet Breath",
+      "url": "https://open.spotify.com/track/0j6DlCKhJgJNmwIUoTvgAr"
     },
     {
       "album": {
@@ -1685,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Singing Ax",
+        "url": "https://open.spotify.com/album/08rhF6Mv1QmubVxQTUHHEk"
+      },
+      "artists": [
+        {
+          "name": "J. Tillman",
+          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395525,
+      "name": "Three Sisters",
+      "url": "https://open.spotify.com/track/6Yz0WhXdqzH1jWVViV8MdU"
+    },
+    {
+      "album": {
         "name": "Folk Songs of the American Longhair",
         "url": "https://open.spotify.com/album/0eU0Ig4o4Asslx1t3nIPm2"
       },
@@ -1696,7 +1898,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 224053,
       "name": "Too Old to Die Young",
       "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"
@@ -1776,7 +1978,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 196890,
       "name": "Where the Enemy Sleeps (feat. Lucette)",
       "url": "https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k"

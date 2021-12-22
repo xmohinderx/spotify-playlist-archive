@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Alone but Not Alone",
+        "url": "https://open.spotify.com/album/5DZTIAEVTJvKIaOVreuvs5"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197786,
+      "name": "Alone but Not Alone",
+      "url": "https://open.spotify.com/track/5L4FNK53OR0qlZHcZBtosH"
+    },
+    {
+      "album": {
         "name": "Are You Listening?",
         "url": "https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O"
       },
@@ -110,6 +128,24 @@
       "duration_ms": 246800,
       "name": "Bad Moves",
       "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+    },
+    {
+      "album": {
+        "name": "Believer / Pretender",
+        "url": "https://open.spotify.com/album/36HWMDvsEnHhas677pJhJh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Bill",
+          "url": "https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Believer / Pretender",
+      "url": "https://open.spotify.com/track/6JpqZqiJrWCgSOusAARV2Q"
     },
     {
       "album": {
@@ -218,6 +254,24 @@
       "duration_ms": 222920,
       "name": "Cautionary Tale",
       "url": "https://open.spotify.com/track/51LJmGVbrbxPP04Kog24Ul"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
+      },
+      "artists": [
+        {
+          "name": "Boy Named Banjo",
+          "url": "https://open.spotify.com/artist/4muVBshUHExGQvQlNnKRW5"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215759,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
     },
     {
       "album": {
@@ -488,6 +542,24 @@
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
+    },
+    {
+      "album": {
+        "name": "Gamble for a Rose",
+        "url": "https://open.spotify.com/album/2m7HIJEYualrBm7WAvcmZA"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270853,
+      "name": "Gamble for a Rose",
+      "url": "https://open.spotify.com/track/3qhyaik3Koy3cvLk9h5L8G"
     },
     {
       "album": {
@@ -816,7 +888,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 277597,
       "name": "I Am a War Machine",
       "url": "https://open.spotify.com/track/6ux5Y3UFasNu0x3jgGY2Xe"
@@ -1022,6 +1094,24 @@
       "duration_ms": 282045,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5L9frRDeoMDVPdiUS0X7SC"
+    },
+    {
+      "album": {
+        "name": "Let It All Go",
+        "url": "https://open.spotify.com/album/4pQ1fd1sCuxwJ1m1T0GgCM"
+      },
+      "artists": [
+        {
+          "name": "Elenowen",
+          "url": "https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "Let It All Go",
+      "url": "https://open.spotify.com/track/7ijaLVa15Ml4kPRHZMMtWv"
     },
     {
       "album": {
@@ -1324,7 +1414,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 183786,
       "name": "Only Songs (Radio Edit)",
       "url": "https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB"
@@ -1360,7 +1450,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 184500,
       "name": "Outwit the Devil",
       "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
@@ -1382,6 +1472,24 @@
       "duration_ms": 175509,
       "name": "Over Me",
       "url": "https://open.spotify.com/track/6a4MQYjKSAdN34HEP9s8uM"
+    },
+    {
+      "album": {
+        "name": "Pain Shifter",
+        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
+      },
+      "artists": [
+        {
+          "name": "W. B. Wooten",
+          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Pain Shifter",
+      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
     },
     {
       "album": {
@@ -1458,7 +1566,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 197400,
       "name": "Proximity",
       "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
@@ -1962,7 +2070,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 176890,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/1yvcIA5Gv4079BWuaZfDvA"
@@ -1998,7 +2106,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 210113,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq"
@@ -2052,7 +2160,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 241920,
       "name": "Turn Your Love",
       "url": "https://open.spotify.com/track/3Pc3XKfkbcxvEcoirqkTyL"
@@ -2146,6 +2254,24 @@
       "duration_ms": 228040,
       "name": "Why You Gotta Be",
       "url": "https://open.spotify.com/track/4DRe9zhFiYvRzixDqsSiOC"
+    },
+    {
+      "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/2XP0xgThQjhcAeJGYCZO6c"
+      },
+      "artists": [
+        {
+          "name": "Ivan & Alyosha",
+          "url": "https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280573,
+      "name": "Wired",
+      "url": "https://open.spotify.com/track/4RjB5oKr2A1newpYSoweDd"
     },
     {
       "album": {

@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7"
+      },
+      "artists": [
+        {
+          "name": "Aari Kumar",
+          "url": "https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172090,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt"
+    },
+    {
+      "album": {
         "name": "Epsilon",
         "url": "https://open.spotify.com/album/2W03my6wDJdhrIoqiZXXnD"
       },
@@ -10328,6 +10346,24 @@
       "duration_ms": 160985,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/70R0IznDPoBZsH6dAXzUOJ"
+    },
+    {
+      "album": {
+        "name": "Upwards",
+        "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
+      },
+      "artists": [
+        {
+          "name": "Aiyden",
+          "url": "https://open.spotify.com/artist/59ieTikhHdyJM2qTN7HmYD"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Upwards",
+      "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
     },
     {
       "album": {

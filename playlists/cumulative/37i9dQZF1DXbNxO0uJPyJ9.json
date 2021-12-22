@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(I Wanna Give You) Devotion",
+        "url": "https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC"
+      },
+      "artists": [
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409466,
+      "name": "(I Wanna Give You) Devotion - Original Club Mix",
+      "url": "https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A"
+    },
+    {
+      "album": {
         "name": "80s 12'' Party",
         "url": "https://open.spotify.com/album/3lYh9EYOXTV2JxmpQ0nhV2"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 379266,
       "name": "1999",
       "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
@@ -110,6 +128,24 @@
       "duration_ms": 286160,
       "name": "Big In Japan - Original",
       "url": "https://open.spotify.com/track/1KtMazpCseJ2TjKPas4d7h"
+    },
+    {
+      "album": {
+        "name": "Best Remixes",
+        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427480,
+      "name": "Blue Monday ('88) - 12\" Version",
+      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
     },
     {
       "album": {
@@ -221,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Dance Vault Remixes",
+        "url": "https://open.spotify.com/album/2ixmiR5clA86tVD3pWVlyT"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473893,
+      "name": "Doctor! Doctor! (12\" Extended Mix) - Extended Version",
+      "url": "https://open.spotify.com/track/2baOM44WjfFGKTC1PecnDS"
+    },
+    {
+      "album": {
         "name": "ZYX Italo Disco Collection",
         "url": "https://open.spotify.com/album/6sbpamlKLWPBUVLCOwxvjk"
       },
@@ -268,7 +322,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 246960,
       "name": "Don't Go (Remix) [2008 - Remaster]",
       "url": "https://open.spotify.com/track/5lRik7QOEX2Fda2ZOEzZmP"
@@ -330,7 +384,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 493666,
       "name": "D\u00e9senchant\u00e9e - Remix Club",
       "url": "https://open.spotify.com/track/4Od7lFa9aSInsfUjYUxrCd"
@@ -384,7 +438,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 401813,
       "name": "Every 1's a Winner - 12\" Version",
       "url": "https://open.spotify.com/track/6Y47nQx3KqO6F1nLdfedio"
@@ -485,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Blondie Singles Collection: 1977-1982",
+        "url": "https://open.spotify.com/album/6hDo5Rj0Rc564d0duAaXP8"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350133,
+      "name": "Heart Of Glass - 12\" Version",
+      "url": "https://open.spotify.com/track/1ZhyS4b9gLOEpJ9pUIncva"
+    },
+    {
+      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -532,7 +604,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 348466,
       "name": "I Feel Love /Johnny Remember Me",
       "url": "https://open.spotify.com/track/6RXoP81io4PDxQx81so7Xs"
@@ -550,7 +622,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 458786,
       "name": "I Like Chopin - Extended Dance Version",
       "url": "https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5"
@@ -590,6 +662,24 @@
       "duration_ms": 343333,
       "name": "I'm So Excited (12\" Extended Mix)",
       "url": "https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR"
+    },
+    {
+      "album": {
+        "name": "Modern Eighties Long Versions",
+        "url": "https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m"
+      },
+      "artists": [
+        {
+          "name": "Sandra",
+          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318240,
+      "name": "In the Heat of the Night",
+      "url": "https://open.spotify.com/track/7cT0a9WMQg9nB9eolSW24k"
     },
     {
       "album": {
@@ -640,7 +730,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 384626,
       "name": "Jump (For My Love) - 12\" Long Version",
       "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
@@ -774,7 +864,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 488146,
       "name": "Loverboy - Extended Mix",
       "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
@@ -835,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Extended Dancefloor",
+        "url": "https://open.spotify.com/album/5ClYDP3cMxc3Li2OG8mYnJ"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324653,
+      "name": "Music And Lights - Extended Version",
+      "url": "https://open.spotify.com/track/5Ixg4mWzXK7wPkcC9rDTzf"
+    },
+    {
+      "album": {
         "name": "Never Ending Story",
         "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
       },
@@ -864,10 +972,28 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 296160,
       "name": "Never Let Me Down Again - Aggro Mix",
       "url": "https://open.spotify.com/track/0s7024HpwRg7dJjGy2gE3P"
+    },
+    {
+      "album": {
+        "name": "The Twelve Inch Mixes",
+        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385000,
+      "name": "Only When You Leave - 12\" Version",
+      "url": "https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw"
     },
     {
       "album": {
@@ -900,7 +1026,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 306360,
       "name": "People from Ibiza",
       "url": "https://open.spotify.com/track/0OcAaaQfHvawA7F0n6Wha6"
@@ -943,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Modern Eighties Long Versions",
+        "url": "https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m"
+      },
+      "artists": [
+        {
+          "name": "Fox the Fox",
+          "url": "https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310080,
+      "name": "Precious Little Diamond - 12\" Mix",
+      "url": "https://open.spotify.com/track/4dDedpTkRp1rekQjfeovwS"
+    },
+    {
+      "album": {
         "name": "Pump Up The Volume",
         "url": "https://open.spotify.com/album/4EbCRDmCGhf50z6J2PKjuV"
       },
@@ -972,7 +1116,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 400520,
       "name": "Raspberry Beret - Extended 12\" Version",
       "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
@@ -1044,7 +1188,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 536706,
       "name": "Say Hello, Wave Goodbye - Extended Version",
       "url": "https://open.spotify.com/track/65VecWWPnXspZRuy7Bafz3"
@@ -1106,7 +1250,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 346626,
       "name": "Situation (US 12 Inch Mix)",
       "url": "https://open.spotify.com/track/3Ac5PgwByH0Ptr3hnqbKAz"
@@ -1131,6 +1275,42 @@
     },
     {
       "album": {
+        "name": "So Many Men",
+        "url": "https://open.spotify.com/album/2UiwZJ51AAAmoy9OkBqUoX"
+      },
+      "artists": [
+        {
+          "name": "Miquel Brown",
+          "url": "https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494466,
+      "name": "So Many Men, So Little Time",
+      "url": "https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9"
+    },
+    {
+      "album": {
+        "name": "80s 12'' Summer",
+        "url": "https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn"
+      },
+      "artists": [
+        {
+          "name": "The Power Station",
+          "url": "https://open.spotify.com/artist/1EemADz12kjlGwkpY4EINv"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395040,
+      "name": "Some Like It Hot - Mix; 12\"",
+      "url": "https://open.spotify.com/track/3bXO5UP3l9jX8q3aK6dAru"
+    },
+    {
+      "album": {
         "name": "World Machine 2CD (Deluxe)",
         "url": "https://open.spotify.com/album/0WIixcEOzjULNoDRnErH42"
       },
@@ -1142,7 +1322,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 265013,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/3MgkCOLLBFvWjUr2fQ16jq"
@@ -1182,6 +1362,42 @@
       "duration_ms": 285360,
       "name": "Sounds Like A Melody",
       "url": "https://open.spotify.com/track/1QJxCwd1WqderUeSsvllft"
+    },
+    {
+      "album": {
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397533,
+      "name": "Sunshine Reggae - 12\" Version",
+      "url": "https://open.spotify.com/track/5t1IKim2yq7cZ3H4FPYly7"
+    },
+    {
+      "album": {
+        "name": "12\"ers",
+        "url": "https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395266,
+      "name": "Sussudio - Extended Remix",
+      "url": "https://open.spotify.com/track/4eZxIWW9JcaKo0xcKegItn"
     },
     {
       "album": {
@@ -1275,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "The Very Best Of Kajagoogoo",
+        "url": "https://open.spotify.com/album/18QlJWuxHQ1IGQ52qf8T1m"
+      },
+      "artists": [
+        {
+          "name": "Kajagoogoo",
+          "url": "https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327066,
+      "name": "Too Shy - Extended Version",
+      "url": "https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5"
+    },
+    {
+      "album": {
         "name": "True Disco (3 CD Set)",
         "url": "https://open.spotify.com/album/4KpgD16YgavSq0RQYiADD5"
       },
@@ -1286,7 +1520,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 245360,
       "name": "Trapped - Vocal Version",
       "url": "https://open.spotify.com/track/4QG75CfYI4tsyixze7gt7R"
@@ -1326,7 +1560,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 543440,
       "name": "True Faith - Shep Pettibone 12\" Remix",
       "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
@@ -1366,6 +1600,42 @@
       "duration_ms": 548000,
       "name": "Two Tribes - Annihilation",
       "url": "https://open.spotify.com/track/04HO96V1POrb0L0iZ8kfK0"
+    },
+    {
+      "album": {
+        "name": "45 RPM - The Singles Of The The",
+        "url": "https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599400,
+      "name": "Uncertain Smile - 12\" Remix",
+      "url": "https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV"
+    },
+    {
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501333,
+      "name": "Vogue - 12\" Version",
+      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
     },
     {
       "album": {
@@ -1438,6 +1708,24 @@
       "duration_ms": 411000,
       "name": "Wouldn't It Be Good - Extended 12\" Remix",
       "url": "https://open.spotify.com/track/4Higw00SKb2QInfrWsExET"
+    },
+    {
+      "album": {
+        "name": "That's The Way I Like It: The Best of Dead Or Alive",
+        "url": "https://open.spotify.com/album/1FhVoVBXXXJuZr3GwdOgPS"
+      },
+      "artists": [
+        {
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
+        }
+      ],
+      "date_added": "2020-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481013,
+      "name": "You Spin Me Round (Like a Record) - Murder Mix",
+      "url": "https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc"
     },
     {
       "album": {

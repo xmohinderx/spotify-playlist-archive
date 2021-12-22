@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Until",
+        "url": "https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317026,
+      "name": "Bell Under Water",
+      "url": "https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2"
+    },
+    {
+      "album": {
         "name": "Calling You Out",
         "url": "https://open.spotify.com/album/0M67HzRPHDy2ChuFjrRHnV"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 256346,
       "name": "Calling You Out",
       "url": "https://open.spotify.com/track/0RaWPCQLbjDWPVaL7KY8RA"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s"
@@ -569,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "Lines",
+      "url": "https://open.spotify.com/track/1g3XJKmd9JwCNc3LK0y62k"
+    },
+    {
+      "album": {
         "name": "Cascades",
         "url": "https://open.spotify.com/album/4s6PyoeYJIq5RdY29YPN38"
       },
@@ -652,7 +688,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
@@ -912,6 +948,24 @@
       "duration_ms": 221760,
       "name": "Standing in the Rain",
       "url": "https://open.spotify.com/track/5CSsYgf57W2MIj98kL1Ufs"
+    },
+    {
+      "album": {
+        "name": "In Darkened Rooms",
+        "url": "https://open.spotify.com/album/6JfAojXzbUT88dpgIjANAG"
+      },
+      "artists": [
+        {
+          "name": "Sam Airey",
+          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322680,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4JUYaHt43h8SZQ4lYGsGJP"
     },
     {
       "album": {

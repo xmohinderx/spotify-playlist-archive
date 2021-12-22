@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 150000,
       "name": "Always Watching Over You",
       "url": "https://open.spotify.com/track/3g3Ff3nRjNXQlXsYgTM8GT"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 189536,
       "name": "Am Arbersee",
       "url": "https://open.spotify.com/track/7LekCZ7Sx5an6lZnM5gnCw"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 192409,
       "name": "Amaprinces Bend",
       "url": "https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 124750,
       "name": "Be free now",
       "url": "https://open.spotify.com/track/2NQib98D1zn6r43H4k95lZ"
@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Charming Spring",
+        "url": "https://open.spotify.com/album/5ehVzPu5IAoqa2b37chyOx"
+      },
+      "artists": [
+        {
+          "name": "Hector Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128624,
+      "name": "Charming Spring",
+      "url": "https://open.spotify.com/track/3HLqkcMhbDNLW56o1CpuUA"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/5I1UPuEInRdfp2rpP9lFam"
       },
@@ -1230,6 +1248,24 @@
       "duration_ms": 148658,
       "name": "Corn\u00e9lis",
       "url": "https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ"
+    },
+    {
+      "album": {
+        "name": "Coulee Vert",
+        "url": "https://open.spotify.com/album/7CClClD5IkyrZFjqBRd3Xr"
+      },
+      "artists": [
+        {
+          "name": "Projet Calmant",
+          "url": "https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "Coulee Vert",
+      "url": "https://open.spotify.com/track/5CocdKvyw8gpwdwOaZeVAw"
     },
     {
       "album": {
@@ -1647,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Ebbe",
+        "url": "https://open.spotify.com/album/3ZP0FpVQ6OAJM2Gns4lfOE"
+      },
+      "artists": [
+        {
+          "name": "Kia Leonharts",
+          "url": "https://open.spotify.com/artist/6EEGgdrklC8HMkuZRXkfTx"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "Ebbe",
+      "url": "https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS"
+    },
+    {
+      "album": {
         "name": "Eclectism",
         "url": "https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ"
       },
@@ -1694,7 +1748,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 139026,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/2XtkXvXNsqpTBddG6W4dkA"
@@ -1752,6 +1806,24 @@
       "duration_ms": 190632,
       "name": "Erinnerungen",
       "url": "https://open.spotify.com/track/0mXVKfTSOA5wdLx1COKyLc"
+    },
+    {
+      "album": {
+        "name": "Estebania",
+        "url": "https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K"
+      },
+      "artists": [
+        {
+          "name": "David Sato",
+          "url": "https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171827,
+      "name": "Estebania",
+      "url": "https://open.spotify.com/track/7JovgYye2faHH2pvnV0EY4"
     },
     {
       "album": {
@@ -1842,6 +1914,24 @@
       "duration_ms": 164500,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7"
+    },
+    {
+      "album": {
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh"
+      },
+      "artists": [
+        {
+          "name": "Phileas Galle",
+          "url": "https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169783,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr"
     },
     {
       "album": {
@@ -2098,6 +2188,24 @@
       "duration_ms": 195000,
       "name": "Fractions",
       "url": "https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu"
+    },
+    {
+      "album": {
+        "name": "Franklin",
+        "url": "https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf"
+      },
+      "artists": [
+        {
+          "name": "Chris Donner",
+          "url": "https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209124,
+      "name": "Franklin",
+      "url": "https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg"
     },
     {
       "album": {
@@ -2742,7 +2850,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 144500,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/2n07NKEPbQ1ABTvhTGJcYj"
@@ -2886,7 +2994,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 155923,
       "name": "Inner Axis",
       "url": "https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7"
@@ -3066,7 +3174,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 212918,
       "name": "Knots",
       "url": "https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8"
@@ -3120,7 +3228,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 194000,
       "name": "La Cosa Migliore Che So",
       "url": "https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF"
@@ -3487,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Lifting",
+        "url": "https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk"
+      },
+      "artists": [
+        {
+          "name": "Reynard Hodges",
+          "url": "https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Lifting",
+      "url": "https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf"
+    },
+    {
+      "album": {
         "name": "Light Heart",
         "url": "https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9"
       },
@@ -3631,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Longues Plages",
+        "url": "https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ"
+      },
+      "artists": [
+        {
+          "name": "Danette Allard",
+          "url": "https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Longues Plages",
+      "url": "https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj"
+    },
+    {
+      "album": {
         "name": "Looking Back",
         "url": "https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY"
       },
@@ -3664,6 +3808,24 @@
       "duration_ms": 167000,
       "name": "Lost For Words",
       "url": "https://open.spotify.com/track/5NH7f7qokbw0GmEbztG9qv"
+    },
+    {
+      "album": {
+        "name": "Lost Nights",
+        "url": "https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP"
+      },
+      "artists": [
+        {
+          "name": "Dana Leccia",
+          "url": "https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154680,
+      "name": "Lost Nights",
+      "url": "https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb"
     },
     {
       "album": {
@@ -3847,6 +4009,24 @@
     },
     {
       "album": {
+        "name": "Melopedie",
+        "url": "https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR"
+      },
+      "artists": [
+        {
+          "name": "Petit Lilou",
+          "url": "https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176187,
+      "name": "Melopedie",
+      "url": "https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT"
+    },
+    {
+      "album": {
         "name": "Parterre",
         "url": "https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv"
       },
@@ -3876,7 +4056,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 121500,
       "name": "Memoria",
       "url": "https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4"
@@ -4074,7 +4254,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 154000,
       "name": "Musing",
       "url": "https://open.spotify.com/track/05NMGDbC92aC738Rd0vYkX"
@@ -4182,10 +4362,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 115374,
       "name": "M\u00e9lange",
       "url": "https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z"
+    },
+    {
+      "album": {
+        "name": "Naoko",
+        "url": "https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE"
+      },
+      "artists": [
+        {
+          "name": "Emilija Grey",
+          "url": "https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147222,
+      "name": "Naoko",
+      "url": "https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU"
     },
     {
       "album": {
@@ -4657,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "Placid",
+        "url": "https://open.spotify.com/album/3W1xO9Ba7QCJ8vXCsaoE63"
+      },
+      "artists": [
+        {
+          "name": "Anoire",
+          "url": "https://open.spotify.com/artist/3g7pYrMzsYgKrNPyMKNf7K"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Placid",
+      "url": "https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q"
+    },
+    {
+      "album": {
         "name": "Postcards",
         "url": "https://open.spotify.com/album/3eEKFsABkKbQ4nlOZzmG0M"
       },
@@ -4834,6 +5050,24 @@
       "duration_ms": 123500,
       "name": "Prozat\u00edm",
       "url": "https://open.spotify.com/track/3dS8RW1e5gd5rbSmNjDAPe"
+    },
+    {
+      "album": {
+        "name": "Pura Vida",
+        "url": "https://open.spotify.com/album/5hePnJTBTjrdMc0sxLeKyO"
+      },
+      "artists": [
+        {
+          "name": "Purple Kees",
+          "url": "https://open.spotify.com/artist/1DJk5phajqhPpEq84bJzjz"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137774,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/00QanQTFk1Ge3apIBahSGw"
     },
     {
       "album": {
@@ -5082,7 +5316,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 147750,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr"
@@ -5262,7 +5496,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 121000,
       "name": "Rursee",
       "url": "https://open.spotify.com/track/37ov3WCGKkLizp4ahPHKNR"
@@ -5320,6 +5554,24 @@
       "duration_ms": 128922,
       "name": "Sail",
       "url": "https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly"
+    },
+    {
+      "album": {
+        "name": "Salt Skin",
+        "url": "https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40"
+      },
+      "artists": [
+        {
+          "name": "Galen Rise",
+          "url": "https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175152,
+      "name": "Salt Skin",
+      "url": "https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU"
     },
     {
       "album": {
@@ -5975,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Rhyan Zorn",
+        "url": "https://open.spotify.com/album/4HdvF8BeHiKut35IcPsDu4"
+      },
+      "artists": [
+        {
+          "name": "Rhyan Zorn",
+          "url": "https://open.spotify.com/artist/1TD7bf1cP0VzpRtt8CT45Y"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189875,
+      "name": "Talawanda",
+      "url": "https://open.spotify.com/track/0y3yFju7xqGgYx6TD0ygau"
+    },
+    {
+      "album": {
         "name": "Waltzes from Paris",
         "url": "https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x"
       },
@@ -6245,6 +6515,24 @@
     },
     {
       "album": {
+        "name": "There and Then",
+        "url": "https://open.spotify.com/album/1dqZlgnGdPTw0JxSXSUBPF"
+      },
+      "artists": [
+        {
+          "name": "Yelena Delarosa",
+          "url": "https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117000,
+      "name": "There and Then",
+      "url": "https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg"
+    },
+    {
+      "album": {
         "name": "Walking Home",
         "url": "https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM"
       },
@@ -6274,7 +6562,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 126000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/2aJlNzyFDh3j6GTBSDXdXZ"
@@ -6620,7 +6908,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 188638,
       "name": "Unspoken Declarations",
       "url": "https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC"
@@ -7023,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "Whisper Trail",
+        "url": "https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU"
+      },
+      "artists": [
+        {
+          "name": "Peter Mandel",
+          "url": "https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155660,
+      "name": "Whisper Trail",
+      "url": "https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB"
+    },
+    {
+      "album": {
         "name": "heart pieces",
         "url": "https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY"
       },
@@ -7149,6 +7455,24 @@
     },
     {
       "album": {
+        "name": "You Are That",
+        "url": "https://open.spotify.com/album/47MXSKI7ymjqPcRrlSWJSi"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Deval",
+          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172874,
+      "name": "You Are That",
+      "url": "https://open.spotify.com/track/6Rm2rBWk3flMMGPdxASdaU"
+    },
+    {
+      "album": {
         "name": "Your Heart Will Mend",
         "url": "https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG"
       },
@@ -7178,7 +7502,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 158000,
       "name": "Y\u014dsei",
       "url": "https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH"
@@ -7196,7 +7520,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 198373,
       "name": "Zeit der Stille",
       "url": "https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid"

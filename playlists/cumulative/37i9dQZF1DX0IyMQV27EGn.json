@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 235997,
       "name": "Beside Myself",
       "url": "https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI"
@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232242,
+      "name": "How Much Does Your Love Cost?",
+      "url": "https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ"
+    },
+    {
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/5ddYMcPHMnlbboexXJLNP7"
       },
@@ -798,7 +816,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 208257,
       "name": "No Witness",
       "url": "https://open.spotify.com/track/0hJJeoT5Rmi5IF3ZhC7TIZ"
@@ -1170,6 +1188,24 @@
       "duration_ms": 182381,
       "name": "Touched (Live)",
       "url": "https://open.spotify.com/track/6WMqm7SOuCGgIBqXifY67N"
+    },
+    {
+      "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170810,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
     },
     {
       "album": {

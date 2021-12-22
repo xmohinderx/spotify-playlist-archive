@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Black Car (feat. ALMA) [Acoustic]",
+        "url": "https://open.spotify.com/album/69sad8MZUsNa9b6F6BGgZe"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216830,
+      "name": "Black Car (feat. ALMA) - Acoustic",
+      "url": "https://open.spotify.com/track/7dKtLzhDKZ2aKDqoyZYdEw"
+    },
+    {
+      "album": {
         "name": "Body Back (feat. Maia Wright) [Acoustic]",
         "url": "https://open.spotify.com/album/0qVzs84aveFRnx0lRxkSRc"
       },
@@ -636,7 +658,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 211200,
       "name": "fever dream - acoustic",
       "url": "https://open.spotify.com/track/6wGQdHqW4u9GfLYO7dHLi3"
@@ -694,7 +716,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 242581,
       "name": "Girl I Wish I Didn't Know (Acoustic)",
       "url": "https://open.spotify.com/track/4t9tRQlHXNb4sYYdypDFdL"
@@ -734,6 +756,28 @@
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "album": {
+        "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
+        "url": "https://open.spotify.com/album/0Re517YSoO235oK01cWnJI"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208437,
+      "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
+      "url": "https://open.spotify.com/track/4siZLgCKM0IKnD1ek6Bt4d"
     },
     {
       "album": {
@@ -972,6 +1016,24 @@
       "duration_ms": 249150,
       "name": "if you weren't you",
       "url": "https://open.spotify.com/track/0Orpd7icIIR6tp5cmJcHsu"
+    },
+    {
+      "album": {
+        "name": "Joke's On You (Acoustic)",
+        "url": "https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189729,
+      "name": "Joke's On You - Acoustic",
+      "url": "https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy"
     },
     {
       "album": {
@@ -1470,7 +1532,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 105547,
       "name": "Rumors - Acoustic",
       "url": "https://open.spotify.com/track/65Yuc4cz9ozKZKj40dfFcg"
@@ -1742,7 +1804,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 166562,
       "name": "Thinking About You (with Winona Oak) - Acoustic",
       "url": "https://open.spotify.com/track/00IPZgU8xFEGwUCssQK4q0"
@@ -1854,6 +1916,32 @@
       "duration_ms": 174267,
       "name": "Wait & See",
       "url": "https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79"
+    },
+    {
+      "album": {
+        "name": "We Do (Acoustic)",
+        "url": "https://open.spotify.com/album/0ACxMWRXttIid0KyoEJ61t"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Noah Neiman",
+          "url": "https://open.spotify.com/artist/2ojEZEmcQVC3vLNpcoo9rJ"
+        },
+        {
+          "name": "Miranda Glory",
+          "url": "https://open.spotify.com/artist/3LU5ho1MrktZxpRBGYPISK"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149166,
+      "name": "We Do - Acoustic",
+      "url": "https://open.spotify.com/track/4If0j5i6fSA992aS9lOMPK"
     },
     {
       "album": {

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Acceptance",
+        "url": "https://open.spotify.com/album/3fktCq03viuUu3pFwQqArW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399219,
+      "name": "Acceptance",
+      "url": "https://open.spotify.com/track/2lXdClPLTHf6feWj03uEKH"
+    },
+    {
+      "album": {
         "name": "All I Want (feat. Goatchy)",
         "url": "https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv"
       },
@@ -236,7 +258,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 341419,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
@@ -258,7 +280,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 297435,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/4mM8UJEAUHyPb6wa129GRf"
@@ -320,7 +342,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -437,6 +459,32 @@
     },
     {
       "album": {
+        "name": "Downtown EP",
+        "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
+      },
+      "artists": [
+        {
+          "name": "Literatura",
+          "url": "https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc"
+        },
+        {
+          "name": "Stereo MC's",
+          "url": "https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8"
+        },
+        {
+          "name": "Junket",
+          "url": "https://open.spotify.com/artist/1D6t7Vh4lVCDlFNxqiwCkJ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464628,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"
+    },
+    {
+      "album": {
         "name": "Easy on You",
         "url": "https://open.spotify.com/album/0irWZNe7kJgU49Z7t7J6B4"
       },
@@ -495,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Fir",
+        "url": "https://open.spotify.com/album/1HsQkcWuDhtL77QDNozm0D"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "Fir",
+      "url": "https://open.spotify.com/track/1EGAeOf7KRUj8VyzDh2TlJ"
+    },
+    {
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/5ykxif5R3sQBPkivkopHaY"
       },
@@ -510,6 +576,24 @@
       "duration_ms": 257279,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/5pLV5CcIcHRkiyk7XFl8Uy"
+    },
+    {
+      "album": {
+        "name": "Firefly (Radio Edit)",
+        "url": "https://open.spotify.com/album/7wI7g1dZMf86tMrEhgceA3"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264098,
+      "name": "Firefly - Radio-Edit",
+      "url": "https://open.spotify.com/track/0VjngxuoccDjTDb0NfEZAq"
     },
     {
       "album": {
@@ -546,7 +630,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 222096,
       "name": "Found You",
       "url": "https://open.spotify.com/track/35bMwOR3deD75uDxK6i9Nc"
@@ -677,6 +761,24 @@
     },
     {
       "album": {
+        "name": "The Pictures",
+        "url": "https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1"
+      },
+      "artists": [
+        {
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448590,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn"
+    },
+    {
+      "album": {
         "name": "Hujan",
         "url": "https://open.spotify.com/album/6pdcYvI6izBIT7bn4c40oS"
       },
@@ -714,7 +816,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 483276,
       "name": "I hear you",
       "url": "https://open.spotify.com/track/3c7hLN3vJlB8lGP3b4qMGo"
@@ -783,6 +885,42 @@
     },
     {
       "album": {
+        "name": "43 Katzen tanzen auf'm Tisch - Acidbogen (Pt. 1)",
+        "url": "https://open.spotify.com/album/0mECGpBWS51eKu15I49xd0"
+      },
+      "artists": [
+        {
+          "name": "Niki Sadeki",
+          "url": "https://open.spotify.com/artist/6EPDGWtjFjPHUYlOYsoj14"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420981,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/6zAP78CJq1MV7rFV49gSoU"
+    },
+    {
+      "album": {
+        "name": "KayCee",
+        "url": "https://open.spotify.com/album/1QtaRf7p4nPjhke9wFZORf"
+      },
+      "artists": [
+        {
+          "name": "Nico Pusch",
+          "url": "https://open.spotify.com/artist/6mbgZyWRlDKMVMALyV28sl"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342295,
+      "name": "KayCee",
+      "url": "https://open.spotify.com/track/1kaVJgf1xCcoDHYGqa1vZv"
+    },
+    {
+      "album": {
         "name": "Kilian",
         "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
@@ -841,6 +979,54 @@
     },
     {
       "album": {
+        "name": "Lamiz\u00e8 Pa Dous (Henrik Schwarz Remix)",
+        "url": "https://open.spotify.com/album/4CqLbd2FDPm0nfr0ktk1lh"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284896,
+      "name": "Lamiz\u00e8 Pa Dous - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/3txAnW0hspM1X6D3trUxku"
+    },
+    {
+      "album": {
+        "name": "Permanent Vacation 7",
+        "url": "https://open.spotify.com/album/4M0De1Ew8Vi380QSLXG1lO"
+      },
+      "artists": [
+        {
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
+        },
+        {
+          "name": "Alinka",
+          "url": "https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271745,
+      "name": "Little Friends",
+      "url": "https://open.spotify.com/track/6IA0e1P8bT0d6nGUR7UFvz"
+    },
+    {
+      "album": {
         "name": "Lolita Express",
         "url": "https://open.spotify.com/album/0pEnOKDH8bM9KQlU3qK6sM"
       },
@@ -870,7 +1056,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 238186,
       "name": "Lore",
       "url": "https://open.spotify.com/track/0QswOQrUWKn93eOYBh6wWC"
@@ -918,7 +1104,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 198250,
       "name": "Love You Or Don't",
       "url": "https://open.spotify.com/track/2ihfWFRqpsebImMvBlzc84"
@@ -936,7 +1122,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 229470,
       "name": "Lunaire",
       "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
@@ -958,7 +1144,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 280806,
       "name": "megapunk - TSHA Remix",
       "url": "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
@@ -1056,10 +1242,50 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 455915,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/1kaTtElKK0jIKTdwg9ASLp"
+    },
+    {
+      "album": {
+        "name": "Nava",
+        "url": "https://open.spotify.com/album/1gbgfNvIvcxN0EZtJblxaV"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477597,
+      "name": "Nava",
+      "url": "https://open.spotify.com/track/6OYMeegZZ6kri1gWtY3nWZ"
+    },
+    {
+      "album": {
+        "name": "Nefertari",
+        "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241160,
+      "name": "Nefertari",
+      "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
     },
     {
       "album": {
@@ -1103,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "Woods, Tales & Friends (Part One)",
+        "url": "https://open.spotify.com/album/6nX8CFmSYfg79D8PpWP0iV"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        },
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286717,
+      "name": "No Silence",
+      "url": "https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO"
+    },
+    {
+      "album": {
         "name": "Noso",
         "url": "https://open.spotify.com/album/3dlsgQpKfWqdYBAKUvm70Y"
       },
@@ -1122,7 +1370,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
@@ -1147,6 +1395,46 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/0amP3zIJObFU8PIHvCdgS0"
+      },
+      "artists": [
+        {
+          "name": "Peer Kusiv",
+          "url": "https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5"
+        },
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326715,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/7rtkDhmjlt2CMWfMnQDi9i"
+    },
+    {
+      "album": {
+        "name": "Bella Mar 08",
+        "url": "https://open.spotify.com/album/5yiTh9hbFRyF4jp7bAiZQn"
+      },
+      "artists": [
+        {
+          "name": "Stil & Bense",
+          "url": "https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383872,
+      "name": "One Trick Pony",
+      "url": "https://open.spotify.com/track/5mPdbkpDQTlqt56HPptRhe"
+    },
+    {
+      "album": {
         "name": "Opals (Andhim Remix)",
         "url": "https://open.spotify.com/album/1atoggP4BI4xcCtvxpNMrA"
       },
@@ -1162,7 +1450,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 274754,
       "name": "Opals - Andhim Remix",
       "url": "https://open.spotify.com/track/0DYcIUuFTEA6Eh7YaUZaIS"
@@ -1289,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Human Nature (Night)",
+        "url": "https://open.spotify.com/album/6HqvZTY7Gmp0pIub9JfkXi"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374828,
+      "name": "Rio Secreto",
+      "url": "https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh"
+    },
+    {
+      "album": {
         "name": "Route",
         "url": "https://open.spotify.com/album/2P8s5zruKe6It0wFtDXev1"
       },
@@ -1300,7 +1606,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 222459,
       "name": "Route",
       "url": "https://open.spotify.com/track/2yz4C04AMcaF9E0eqOcpzm"
@@ -1329,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Shinsetsu",
+        "url": "https://open.spotify.com/album/6UqkzKbzEYtSYUtcA0Z2ED"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483962,
+      "name": "Shinsetsu",
+      "url": "https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV"
+    },
+    {
+      "album": {
         "name": "Signs Of A Swarm",
         "url": "https://open.spotify.com/album/7cyPp6CjWCZZVZJF6xvS91"
       },
@@ -1340,7 +1664,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 423520,
       "name": "Signs Of A Swarm",
       "url": "https://open.spotify.com/track/4PJ1fHvANi7GC7JLsQNPmo"
@@ -1362,7 +1686,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 271274,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO"
@@ -1380,7 +1704,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 448524,
       "name": "Stellar Hearts",
       "url": "https://open.spotify.com/track/4hETDMTvvuvP9IgOnhkOVS"
@@ -1416,10 +1740,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 484645,
       "name": "Sun Salutations",
       "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
+    },
+    {
+      "album": {
+        "name": "Svanur",
+        "url": "https://open.spotify.com/album/3g9O3lDO7O4AfW0CuCPKKa"
+      },
+      "artists": [
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        },
+        {
+          "name": "R\u00f6kkurr\u00f3",
+          "url": "https://open.spotify.com/artist/3H5JhEkJ3IKuNT1elqCxQ4"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296585,
+      "name": "Svanur (feat. R\u00f6kkurr\u00f3)",
+      "url": "https://open.spotify.com/track/2rnONdiE5CpLdmtNspVnTx"
     },
     {
       "album": {
@@ -1496,7 +1842,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 172809,
       "name": "Torn - Mat.Joe Remix",
       "url": "https://open.spotify.com/track/5faV7DcMghEwYC0rp6HHEG"
@@ -1543,6 +1889,42 @@
     },
     {
       "album": {
+        "name": "East of the Sun / Walk in the Wild",
+        "url": "https://open.spotify.com/album/5hX8459qQGHccPX29y2iRr"
+      },
+      "artists": [
+        {
+          "name": "Mark Reeve",
+          "url": "https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399888,
+      "name": "Walk in the Wild",
+      "url": "https://open.spotify.com/track/5DBoyXGI3NH05wNYPK0Mpq"
+    },
+    {
+      "album": {
+        "name": "Walking Away",
+        "url": "https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425906,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi"
+    },
+    {
+      "album": {
         "name": "Weightless (jamesjamesjames Remix)",
         "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
       },
@@ -1584,7 +1966,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 336212,
       "name": "What Did You Do?",
       "url": "https://open.spotify.com/track/4GCjjTHiH5QEYnmxkX837H"
@@ -1620,7 +2002,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 154605,
       "name": "Wired",
       "url": "https://open.spotify.com/track/7bmxbmer7iYIvla8exrgnv"
@@ -1642,6 +2024,24 @@
       "duration_ms": 418985,
       "name": "You",
       "url": "https://open.spotify.com/track/6hFgrBH45e3SljvIHNLRq8"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/4f1j7UnTbxiA6PUUjpQwTe"
+      },
+      "artists": [
+        {
+          "name": "Rich Vom Dorf",
+          "url": "https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294206,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/4YRv0AhALPCF7t7nnFVzXT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5xiztvBdlUf"

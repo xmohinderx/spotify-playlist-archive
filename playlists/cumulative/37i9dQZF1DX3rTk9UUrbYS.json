@@ -163,6 +163,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5bAJnyJWlko8oH37pimRlH"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 619226,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/2GaaMfyaIL0QM9hI40Hrj3"
+    },
+    {
+      "album": {
         "name": "Zebulon",
         "url": "https://open.spotify.com/album/1fnzZglampHKANe3S2MT4l"
       },
@@ -339,6 +357,52 @@
     },
     {
       "album": {
+        "name": "Captain Black",
+        "url": "https://open.spotify.com/album/6Y9L6mLq2dhTWWDx9CNEGX"
+      },
+      "artists": [
+        {
+          "name": "Orrin Evans",
+          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+        },
+        {
+          "name": "Ralph Bowen",
+          "url": "https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX"
+        },
+        {
+          "name": "Tim Warfield",
+          "url": "https://open.spotify.com/artist/6HliM51Oq8IMwZKXQbJr7v"
+        },
+        {
+          "name": "Antonio Hart",
+          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
+        },
+        {
+          "name": "Sam Newsome",
+          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
+        },
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Rodney Whitaker",
+          "url": "https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv"
+        },
+        {
+          "name": "Ralph Peterson",
+          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468600,
+      "name": "Explain It To Me",
+      "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
+    },
+    {
+      "album": {
         "name": "Fast Forward",
         "url": "https://open.spotify.com/album/5MhCwKx1MxwS7W0zhjWAfd"
       },
@@ -362,7 +426,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 399882,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/0ssTZCjpOLSJuGfDj7a9SV"
@@ -380,7 +444,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 214201,
       "name": "Fiasco : In the Moment",
       "url": "https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG"
@@ -398,10 +462,28 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 760558,
       "name": "Fractured Gatherings",
       "url": "https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI"
+    },
+    {
+      "album": {
+        "name": "Creative Jazz 101",
+        "url": "https://open.spotify.com/album/3QvXwS7tpdWuz9ZC2GqvOR"
+      },
+      "artists": [
+        {
+          "name": "Anthony Williams",
+          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411466,
+      "name": "From Before",
+      "url": "https://open.spotify.com/track/5xNLSDTG2TL62XufqAnvWN"
     },
     {
       "album": {
@@ -464,7 +546,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 335256,
       "name": "Haie d'eau II",
       "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
@@ -667,6 +749,24 @@
     },
     {
       "album": {
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/6wvhtrGBFbkS8l0IMYLqZJ"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Maps - Instrumental",
+      "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
+    },
+    {
+      "album": {
         "name": "Melt All the Guns",
         "url": "https://open.spotify.com/album/6Bpgr7virRwtyK3stIIb4R"
       },
@@ -845,6 +945,42 @@
     },
     {
       "album": {
+        "name": "The Ideal Bread",
+        "url": "https://open.spotify.com/album/6Th3T8v8Le7OHX9pKkqnce"
+      },
+      "artists": [
+        {
+          "name": "Ideal Bread",
+          "url": "https://open.spotify.com/artist/1H2L6E9sQ38VlIxstIGBW4"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401866,
+      "name": "Quirks",
+      "url": "https://open.spotify.com/track/1s6nin660S2ETTGJSGEnA6"
+    },
+    {
+      "album": {
+        "name": "New York Is Now",
+        "url": "https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378666,
+      "name": "Round Trip",
+      "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
+    },
+    {
+      "album": {
         "name": "Arms & Hands",
         "url": "https://open.spotify.com/album/0Z0dUTd0016S6bI132kL50"
       },
@@ -882,7 +1018,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 297195,
       "name": "Song for the Snake Man",
       "url": "https://open.spotify.com/track/1PyppsTQBbIkefIUGyyI9O"
@@ -907,6 +1043,32 @@
     },
     {
       "album": {
+        "name": "Live at the 55 Bar",
+        "url": "https://open.spotify.com/album/1ee4YOkRpLaauwDd7Ai8VH"
+      },
+      "artists": [
+        {
+          "name": "Ben Monder",
+          "url": "https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7"
+        },
+        {
+          "name": "Tony Malaby",
+          "url": "https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0"
+        },
+        {
+          "name": "Tom Rainey",
+          "url": "https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO"
+        }
+      ],
+      "date_added": "2021-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1013476,
+      "name": "Suite 3320, Pt. I - Live",
+      "url": "https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI"
+    },
+    {
+      "album": {
         "name": "The Dorothy Wallace Suite",
         "url": "https://open.spotify.com/album/2xbXh227nPXhYKRTk1XDyL"
       },
@@ -922,7 +1084,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 284333,
       "name": "Symphony in Green",
       "url": "https://open.spotify.com/track/2vNuKZig6013siPnsYXB8h"
@@ -962,7 +1124,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 258333,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
@@ -1006,6 +1168,24 @@
       "duration_ms": 295680,
       "name": "Third Planet",
       "url": "https://open.spotify.com/track/1P8fo6JhHVnAsoVI8JHjz2"
+    },
+    {
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl"
+      },
+      "artists": [
+        {
+          "name": "Rob Mazurek",
+          "url": "https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563400,
+      "name": "Twombly at New Church",
+      "url": "https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5"
     },
     {
       "album": {
@@ -1054,10 +1234,28 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 292373,
       "name": "Water Babies",
       "url": "https://open.spotify.com/track/097f4XZHrS0oMDBIm1DQpC"
+    },
+    {
+      "album": {
+        "name": "Winns Win",
+        "url": "https://open.spotify.com/album/0E9mxK9RuUzjHFkKmBnQlb"
+      },
+      "artists": [
+        {
+          "name": "Evan Parker",
+          "url": "https://open.spotify.com/artist/42WVIJPKijZYsOWhNqnAke"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200570,
+      "name": "WW1",
+      "url": "https://open.spotify.com/track/4SG33WjhoWeytudIUA6vMn"
     },
     {
       "album": {
@@ -1072,7 +1270,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 105358,
       "name": "WW5",
       "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"

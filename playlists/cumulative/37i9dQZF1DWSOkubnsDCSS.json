@@ -193,6 +193,48 @@
     },
     {
       "album": {
+        "name": "One Uncle",
+        "url": "https://open.spotify.com/album/5vYN6RFtLjdFlsuACO4rpl"
+      },
+      "artists": [
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/5s55TVffEjZbMXd6pwqo8V"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/2gmRiyPxHYhaarcL0Bbm60"
+        },
+        {
+          "name": "Hitman Hyper",
+          "url": "https://open.spotify.com/artist/6PslRVjsbOsT9rnxIgWb5D"
+        },
+        {
+          "name": "Swarvo",
+          "url": "https://open.spotify.com/artist/2nYrYpPjADYSXLKFL8pDro"
+        },
+        {
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+        },
+        {
+          "name": "Discarda",
+          "url": "https://open.spotify.com/artist/71ljhlH3Q8SvoAyN6NfEcS"
+        },
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223267,
+      "name": "Bongo",
+      "url": "https://open.spotify.com/track/0etdWLl7RNJclZq28dY02I"
+    },
+    {
+      "album": {
         "name": "Bout Dis",
         "url": "https://open.spotify.com/album/6qc3p8JJZmvxciKnXVvQPi"
       },
@@ -242,6 +284,24 @@
       "duration_ms": 158678,
       "name": "Boxing Bars (Remix feat. Big Zuu & Grim Sickers)",
       "url": "https://open.spotify.com/track/7lMeAOB0F0qAUE3128KOWx"
+    },
+    {
+      "album": {
+        "name": "Boys on the Block",
+        "url": "https://open.spotify.com/album/1Ye8wIISfMzJUqcQFPrtH5"
+      },
+      "artists": [
+        {
+          "name": "Nasty Jack",
+          "url": "https://open.spotify.com/artist/2wPzo3ejtdLHhbhWq7y63R"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Boys on the Block",
+      "url": "https://open.spotify.com/track/2yemLqJDs4N8iJJRbI4gRf"
     },
     {
       "album": {
@@ -395,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Glow in the Dark",
+        "url": "https://open.spotify.com/album/34kuOC2Aw0ns2at0yuNoez"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "Lewi B.",
+          "url": "https://open.spotify.com/artist/4DedTBbPVMtOiIxPIdqA5Z"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "DFKM",
+      "url": "https://open.spotify.com/track/1uCyxo7OivhyURv4SvsxZE"
+    },
+    {
+      "album": {
         "name": "Don",
         "url": "https://open.spotify.com/album/2tGK7RMSxamEDszAudslu9"
       },
@@ -439,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Don't Just Sit There. Do Something.",
+        "url": "https://open.spotify.com/album/40gCaBWI8GGdaL7EIZHF5U"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "Lewi B.",
+          "url": "https://open.spotify.com/artist/4DedTBbPVMtOiIxPIdqA5Z"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Don't Just Sit There. Do Something.",
+      "url": "https://open.spotify.com/track/2t5qgXNuZUakwzkPIHmQ1i"
+    },
+    {
+      "album": {
         "name": "Don't Sleep",
         "url": "https://open.spotify.com/album/5rQlv7bqYV1s4g6y6KcKP4"
       },
@@ -472,7 +576,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 239565,
       "name": "Don\u2019t Get Emotional",
       "url": "https://open.spotify.com/track/2i1xRBsUXQuFbxwY7JQ97E"
@@ -578,7 +682,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 248208,
       "name": "Family Tree",
       "url": "https://open.spotify.com/track/1JOCfN5bxdlFekB1v2w7Y8"
@@ -666,7 +770,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 210056,
       "name": "Grinding Away",
       "url": "https://open.spotify.com/track/16TH6cEXzRpLcZQSC1BIpl"
@@ -823,6 +927,36 @@
     },
     {
       "album": {
+        "name": "You Can Achieve Anything",
+        "url": "https://open.spotify.com/album/4pbvI1ZeZ3lbCmagEemFvV"
+      },
+      "artists": [
+        {
+          "name": "M.I.C (The Master of Inane Conversation)",
+          "url": "https://open.spotify.com/artist/0lBHYtYr2HFueTHY4CHnTF"
+        },
+        {
+          "name": "Nammy Wams",
+          "url": "https://open.spotify.com/artist/70qwGfn9vuuD517TnlPsgv"
+        },
+        {
+          "name": "Jawnino",
+          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "K*rn",
+      "url": "https://open.spotify.com/track/0ptWFGCXdksi9j9kDoJIgU"
+    },
+    {
+      "album": {
         "name": "Grime MC",
         "url": "https://open.spotify.com/album/5o5xRlwkhpipPC0jGi2Sm2"
       },
@@ -942,6 +1076,24 @@
       "duration_ms": 199111,
       "name": "London",
       "url": "https://open.spotify.com/track/2LnJh6Bp0Zh3Ai2OodKTrC"
+    },
+    {
+      "album": {
+        "name": "Madting",
+        "url": "https://open.spotify.com/album/7CgprlhavCY3nfIzGLmObC"
+      },
+      "artists": [
+        {
+          "name": "Keedz",
+          "url": "https://open.spotify.com/artist/3fuikpr1GudV4flXd3IbTj"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165217,
+      "name": "Madting",
+      "url": "https://open.spotify.com/track/03bBwosyRW1VGrBKG48p0Y"
     },
     {
       "album": {
@@ -1178,7 +1330,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 183200,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/3mB8V8lzAvSHEE3orw41F1"
@@ -1236,6 +1388,32 @@
       "duration_ms": 169000,
       "name": "PROPER",
       "url": "https://open.spotify.com/track/2j6jgbIAMXMDAFVdTXC5rp"
+    },
+    {
+      "album": {
+        "name": "Trkrz Fm",
+        "url": "https://open.spotify.com/album/2jIZMxUdeFVyr5COff4O45"
+      },
+      "artists": [
+        {
+          "name": "The Heavytrackerz",
+          "url": "https://open.spotify.com/artist/6aTCNF8JTH5TFs9rheknQB"
+        },
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Asher D",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Put the Word Out",
+      "url": "https://open.spotify.com/track/044n83TLJ3mFlxyUs5OlAT"
     },
     {
       "album": {
@@ -1310,7 +1488,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 163750,
       "name": "Safe N Sound",
       "url": "https://open.spotify.com/track/15JuctmKn9ifqcuByIbzhw"
@@ -1378,7 +1556,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 197616,
       "name": "Serious 2020",
       "url": "https://open.spotify.com/track/2U9g1MRlCzXLUL0LhRkYyl"
@@ -1686,7 +1864,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 150857,
       "name": "Top Boy Spitter (Never Been)",
       "url": "https://open.spotify.com/track/56bdSTAkeOIIuPLWTjwqPk"

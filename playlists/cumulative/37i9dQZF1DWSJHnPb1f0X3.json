@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 166413,
       "name": "All Night (feat. Ally Brooke)",
       "url": "https://open.spotify.com/track/0poEFjyV2iHKtxjdWFwjmS"
@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 176616,
       "name": "All the Time - Don Diablo Remix",
       "url": "https://open.spotify.com/track/1z1Hg7Vb0AhHDiEmnDE79l"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 208739,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/2wTDheT0TPUM7eNulUZwCl"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2nx0EIlIKMnMgWnj40O0HQ"
@@ -714,6 +714,28 @@
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
       "album": {
@@ -923,6 +945,28 @@
     },
     {
       "album": {
+        "name": "I Found You (Neptune)",
+        "url": "https://open.spotify.com/album/1bFtZQgnCKOqKcgRtNinln"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "Jess Ball",
+          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158735,
+      "name": "I Found You (Neptune)",
+      "url": "https://open.spotify.com/track/13zDJQuwV00GslorzFPksN"
+    },
+    {
+      "album": {
         "name": "i miss u (with Au/Ra)",
         "url": "https://open.spotify.com/album/64b6zt7clCjQQ6gyEFnM5n"
       },
@@ -1030,6 +1074,28 @@
       "duration_ms": 184390,
       "name": "If You Really Love Me (How Will I Know)",
       "url": "https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA"
+    },
+    {
+      "album": {
+        "name": "Imagining (feat. Gabrielle Aplin)",
+        "url": "https://open.spotify.com/album/1jAmbAfAQKW455zL9dZi8i"
+      },
+      "artists": [
+        {
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "Imagining (feat. Gabrielle Aplin)",
+      "url": "https://open.spotify.com/track/5o459PfDdkvptrq8lAGerD"
     },
     {
       "album": {
@@ -1457,6 +1523,32 @@
     },
     {
       "album": {
+        "name": "Paradise (Topic Remix)",
+        "url": "https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173709,
+      "name": "Paradise - Topic Remix",
+      "url": "https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j"
+    },
+    {
+      "album": {
         "name": "Piece Of Me (with LOVA)",
         "url": "https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb"
       },
@@ -1663,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "Safe With Me",
+        "url": "https://open.spotify.com/album/2UIzwfd7Fzclt3YbY5MxCf"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Drew Love",
+          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149279,
+      "name": "Safe With Me",
+      "url": "https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7"
+    },
+    {
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -1818,7 +1932,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 154031,
       "name": "Somebody To Use",
       "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
@@ -1984,10 +2098,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
+      "album": {
+        "name": "that way (Jonasu Remix)",
+        "url": "https://open.spotify.com/album/14OfY1xDQxV8Ax31LpVSHW"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "that way - Jonasu Remix",
+      "url": "https://open.spotify.com/track/6Asu7oyQxcmONn4HypXV7n"
     },
     {
       "album": {
@@ -2061,6 +2197,32 @@
     },
     {
       "album": {
+        "name": "Turning Me Up (Hadal Ahbek)",
+        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Turning Me Up (Hadal Ahbek)",
+      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
+    },
+    {
+      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/4FNKXpTgL0M2Tnkw5p5Q8M"
       },
@@ -2080,10 +2242,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 135507,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/3dg8q2ZoNMzTXVigUqkZql"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "WAV3POP",
+          "url": "https://open.spotify.com/artist/4xdLHkMBGSEsQq2VVftnWa"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5Q2lulGI9ZQbwf18skmtqw"
     },
     {
       "album": {
@@ -2109,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "We're Good (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/5WGdFx6zypKOC8JQRgGtdz"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186264,
+      "name": "We're Good - Dillon Francis Remix",
+      "url": "https://open.spotify.com/track/5Ja8ZlVexmTQKbWAQgZ3f0"
+    },
+    {
+      "album": {
         "name": "When You're Out (feat. Mae Muller)",
         "url": "https://open.spotify.com/album/5Y7oNnVhrPr1PccWjlvjGE"
       },
@@ -2124,7 +2330,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 151480,
       "name": "When You're Out (feat. Mae Muller)",
       "url": "https://open.spotify.com/track/4dsm0VbaMmnLHhrOKcDNSI"
@@ -2194,7 +2400,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 173778,
       "name": "Wish You Were Here (feat. Brandyn Burnette)",
       "url": "https://open.spotify.com/track/0GevQZGBPYjfPzK8e3jxzl"

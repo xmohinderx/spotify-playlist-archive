@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "3 2 4 3",
+        "url": "https://open.spotify.com/album/7kFjHLW3eG86u87pUzCFIr"
+      },
+      "artists": [
+        {
+          "name": "Ohmme",
+          "url": "https://open.spotify.com/artist/1lGRK7KK1IuflIyNSE9R3M"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245505,
+      "name": "3 2 4 3",
+      "url": "https://open.spotify.com/track/7andc0MirzCmIlkcCjjJmV"
+    },
+    {
+      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/76sAkYMfB4nu07luXtqMe1"
       },
@@ -23,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Thousand Words",
+        "url": "https://open.spotify.com/album/6M9ok7MDxoVgwddI71BbMY"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151553,
+      "name": "A Thousand Words",
+      "url": "https://open.spotify.com/track/19kwQlRCSD21rRDRIRxJ6k"
+    },
+    {
+      "album": {
         "name": "All My Time Is Wasted",
         "url": "https://open.spotify.com/album/3RVFlen5Oj1NdRjW1ELxOM"
       },
@@ -38,6 +74,24 @@
       "duration_ms": 200853,
       "name": "All My Time Is Wasted",
       "url": "https://open.spotify.com/track/22nUVnTCm4FlOpVgaTc9sC"
+    },
+    {
+      "album": {
+        "name": "Alone But Not Lonely",
+        "url": "https://open.spotify.com/album/2IORnkfSCkRnHGIKsN0r4w"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106026,
+      "name": "Alone But Not Lonely",
+      "url": "https://open.spotify.com/track/45b6AZg2JJFKqOgYL1Rne4"
     },
     {
       "album": {
@@ -222,7 +276,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 166053,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
@@ -240,10 +294,28 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 195000,
       "name": "C'mon Be Cool",
       "url": "https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC"
+    },
+    {
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/1T14htJZadDgBUgFNgEGbz"
     },
     {
       "album": {
@@ -334,6 +406,24 @@
       "duration_ms": 195626,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6"
+    },
+    {
+      "album": {
+        "name": "Wake UP!",
+        "url": "https://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228286,
+      "name": "Combat",
+      "url": "https://open.spotify.com/track/2oFcg1dEGotfeeEYFrWSqD"
     },
     {
       "album": {
@@ -463,6 +553,24 @@
     },
     {
       "album": {
+        "name": "The Lamb",
+        "url": "https://open.spotify.com/album/5GFULjIyZ5Yf02OE2sKrPJ"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192550,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/4V7NFI2JLLJcZnGgJpIYXQ"
+    },
+    {
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/5Kc1qSfhJMkL5EE4MBXwt6"
       },
@@ -492,7 +600,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 294573,
       "name": "Digger",
       "url": "https://open.spotify.com/track/6qEEi8NSpxJfORl3YRxzea"
@@ -514,7 +622,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 191281,
       "name": "Dino's",
       "url": "https://open.spotify.com/track/0TV90vpzReCSb4U6HiW0OY"
@@ -554,6 +662,24 @@
       "duration_ms": 228360,
       "name": "Donuts Mind If I Do",
       "url": "https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1rtDBUaEYqsCu2qIQGfbvI"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279232,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7"
     },
     {
       "album": {
@@ -622,7 +748,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 264815,
       "name": "Feel the Pain",
       "url": "https://open.spotify.com/track/5r2qy6NxfsLJukqllGueTa"
@@ -683,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Free to Live in Colour",
+        "url": "https://open.spotify.com/album/4luQOplfg3mJ2MnNy2rT5X"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194312,
+      "name": "Free to Live in Colour",
+      "url": "https://open.spotify.com/track/4LqnVwGQlJQ7HvW8tEA9vp"
+    },
+    {
+      "album": {
         "name": "Happy Birthday, Ratboy",
         "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
       },
@@ -694,10 +838,64 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 169066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2K2CrQx5sK9i6A5EeDpUDn"
+    },
+    {
+      "album": {
+        "name": "New Truth",
+        "url": "https://open.spotify.com/album/2LS3eg9v6U1KFpdvmqmuPE"
+      },
+      "artists": [
+        {
+          "name": "Jenny O.",
+          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181754,
+      "name": "God Knows Why",
+      "url": "https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8"
+    },
+    {
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252455,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX"
+    },
+    {
+      "album": {
+        "name": "So When You Gonna...",
+        "url": "https://open.spotify.com/album/0GhGbJ83FB1iR27bCFwmj5"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222214,
+      "name": "Hasta La Vista",
+      "url": "https://open.spotify.com/track/6YLzLfLo0Pn65NCcHUocvS"
     },
     {
       "album": {
@@ -748,7 +946,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 224121,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ"
@@ -892,7 +1090,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
@@ -954,6 +1152,24 @@
       "duration_ms": 312182,
       "name": "Jump Rope Gazers",
       "url": "https://open.spotify.com/track/2w2WcIt1pfpoDcFLf46lHN"
+    },
+    {
+      "album": {
+        "name": "Jupiter 4",
+        "url": "https://open.spotify.com/album/0UkCoXyPVWTtMy0V20cZVo"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314080,
+      "name": "Jupiter 4",
+      "url": "https://open.spotify.com/track/64BirkPW9F4XgzoLAiOBCP"
     },
     {
       "album": {
@@ -1048,7 +1264,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 219936,
       "name": "Lilys - HBO \u2018Made For Love\u2019 Cut",
       "url": "https://open.spotify.com/track/4oK4XJa92LlpMNAzx1TMlP"
@@ -1084,7 +1300,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 143493,
       "name": "Make Out",
       "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
@@ -1102,7 +1318,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 212080,
       "name": "Mess",
       "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
@@ -1145,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Moonlit and Devious",
+        "url": "https://open.spotify.com/album/16VqONF09bXFrTr1azAtmL"
+      },
+      "artists": [
+        {
+          "name": "Allie Crow Buckley",
+          "url": "https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303716,
+      "name": "Moonlit and Devious",
+      "url": "https://open.spotify.com/track/3SeyANJZBvx3DKcSi6gVbE"
+    },
+    {
+      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -1174,7 +1408,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
@@ -1192,7 +1426,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 161120,
       "name": "Open up the Heavens",
       "url": "https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36"
@@ -1232,10 +1466,28 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 203200,
       "name": "Party's Over",
       "url": "https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh"
+    },
+    {
+      "album": {
+        "name": "Perfect Wife",
+        "url": "https://open.spotify.com/album/0DZfn5TUMGAGKKjkDFJDzz"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218346,
+      "name": "Perfect Wife",
+      "url": "https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1"
     },
     {
       "album": {
@@ -1254,6 +1506,24 @@
       "duration_ms": 162400,
       "name": "Polly",
       "url": "https://open.spotify.com/track/1OHYh4ycNpSczDFaf5PkJ9"
+    },
+    {
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/4FPVIk2FIX8MfCBZQrfqDi"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/4jmBJcu8Ee8CSrXQYSvmbv"
     },
     {
       "album": {
@@ -1358,7 +1628,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 194760,
       "name": "Shark Smile - Edit",
       "url": "https://open.spotify.com/track/4rCrSoFxqRFmnHQyFGlkbA"
@@ -1464,7 +1734,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"
@@ -1536,7 +1806,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 334357,
       "name": "Sweetheart",
       "url": "https://open.spotify.com/track/4T7okh1A7MmqS7xXypO0wx"
@@ -1561,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "That's Life Honey",
+        "url": "https://open.spotify.com/album/0Dto3sJrxxHp4GEy12KAI1"
+      },
+      "artists": [
+        {
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/41EWCCqujOEoyQreiu9pt2"
+    },
+    {
+      "album": {
         "name": "The Last Man on Earth",
         "url": "https://open.spotify.com/album/339CvLlLSLcrQlMpedt47v"
       },
@@ -1572,7 +1860,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 261217,
       "name": "The Last Man on Earth",
       "url": "https://open.spotify.com/track/0X9YmbFHb2sPmml6J7DMK0"
@@ -1612,6 +1900,60 @@
       "duration_ms": 214305,
       "name": "The Starlight Lounge",
       "url": "https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i"
+    },
+    {
+      "album": {
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265440,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
+    },
+    {
+      "album": {
+        "name": "Thumbs Again",
+        "url": "https://open.spotify.com/album/0MdsiKIbnOMQfNpdbxv7Bv"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Thumbs Again",
+      "url": "https://open.spotify.com/track/7DuUnmiBp8C2bXY6V6QN0r"
     },
     {
       "album": {
@@ -1756,7 +2098,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 319739,
       "name": "We've Got a Good Thing Going",
       "url": "https://open.spotify.com/track/2KEfnqq0wATQc8S1mrFTcf"
@@ -1792,10 +2134,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 156208,
       "name": "Wisdom Tooth",
       "url": "https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/4aOPrkSRPB7HmDYmgrvZAa"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131630,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/51kze9dPhittQFgS6kc2wb"
     },
     {
       "album": {

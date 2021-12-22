@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 167522,
       "name": "Mysterium",
       "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 170344,
       "name": "Sonata Path\u00e9tique",
       "url": "https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A"
@@ -1638,6 +1638,24 @@
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
+    },
+    {
+      "album": {
+        "name": "Floating Hearts",
+        "url": "https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI"
+      },
+      "artists": [
+        {
+          "name": "Julyan Brynn",
+          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199831,
+      "name": "Svalbard",
+      "url": "https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r"
     },
     {
       "album": {
@@ -1800,6 +1818,24 @@
       "duration_ms": 205051,
       "name": "When It Was Just A Dream",
       "url": "https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc"
+    },
+    {
+      "album": {
+        "name": "Whispers",
+        "url": "https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9"
+      },
+      "artists": [
+        {
+          "name": "Tom Ellenhag",
+          "url": "https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188940,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr"
     },
     {
       "album": {

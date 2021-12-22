@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/7qnpbQkt7O7CVy7cgu1g6k"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111710,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx"
+    },
+    {
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -99,6 +117,28 @@
     },
     {
       "album": {
+        "name": "Butterflies (feat. Samuel Choi)",
+        "url": "https://open.spotify.com/album/3UrLkWRU3wZU48sPflva0Z"
+      },
+      "artists": [
+        {
+          "name": "Valerie Bonz",
+          "url": "https://open.spotify.com/artist/6PpwvCFzhzP9RUgxxcIfwl"
+        },
+        {
+          "name": "Samuel Choi",
+          "url": "https://open.spotify.com/artist/2eeYxgvPVsl1xuc9HtDQ4i"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Butterflies (feat. Samuel Choi)",
+      "url": "https://open.spotify.com/track/2KWUaIx78CzNbx6xR9VrLd"
+    },
+    {
+      "album": {
         "name": "Run Home Slow",
         "url": "https://open.spotify.com/album/3DBne1mcu8Glvx5au357Io"
       },
@@ -128,7 +168,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 217519,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/67abo3o0GemMBmypVt6A92"
@@ -186,6 +226,42 @@
       "duration_ms": 170434,
       "name": "Cross My Mind",
       "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3FESEE5NFGpl0bcMzaU9Bv"
+      },
+      "artists": [
+        {
+          "name": "Jay Valera",
+          "url": "https://open.spotify.com/artist/5ux7qJ1e8JF0RgygF6CTUD"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169482,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1ff9rutkkpHQACXlA3Foy0"
+    },
+    {
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Everything's Fine",
+      "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
     },
     {
       "album": {
@@ -334,7 +410,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 265070,
       "name": "Have It Your Way",
       "url": "https://open.spotify.com/track/7hGJ3EmVvVOrFciDx0P8vm"
@@ -450,6 +526,24 @@
       "duration_ms": 224546,
       "name": "I Found A Love",
       "url": "https://open.spotify.com/track/4X1pp61d0eFrOx07WHrRmx"
+    },
+    {
+      "album": {
+        "name": "I Love You More",
+        "url": "https://open.spotify.com/album/0EviMK1a9IrssnruybawEt"
+      },
+      "artists": [
+        {
+          "name": "Nick Wayne",
+          "url": "https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198679,
+      "name": "I Love You More",
+      "url": "https://open.spotify.com/track/37kIyAeNHhcDoLaNiGvmDO"
     },
     {
       "album": {
@@ -619,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Making Room",
+        "url": "https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt"
+      },
+      "artists": [
+        {
+          "name": "Kelly Schenk",
+          "url": "https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk"
+        }
+      ],
+      "date_added": "2021-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259851,
+      "name": "Making Room",
+      "url": "https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH"
+    },
+    {
+      "album": {
         "name": "MESS U MADE",
         "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
       },
@@ -742,7 +854,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 252853,
       "name": "My Life",
       "url": "https://open.spotify.com/track/2hPY2x0M6k8pQiBxeCzD5T"
@@ -760,7 +872,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
@@ -850,7 +962,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 205769,
       "name": "Old Love (Bonus)",
       "url": "https://open.spotify.com/track/6saFywPB1ofkLwuy95UQXc"
@@ -904,7 +1016,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 223602,
       "name": "Patty & Lucy",
       "url": "https://open.spotify.com/track/0tlTKEoa103da2FrJyBXcl"

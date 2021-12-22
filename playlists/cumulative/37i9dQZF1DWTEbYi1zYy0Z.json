@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 320900,
       "name": "Affirmation (feat. Tony Terry)",
       "url": "https://open.spotify.com/track/3rtX3etPKWkFttflEePOgY"
@@ -60,6 +60,46 @@
       "duration_ms": 277600,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/2ZNUhtOKwuwK7Ec138C9Dk"
+    },
+    {
+      "album": {
+        "name": "Amends",
+        "url": "https://open.spotify.com/album/0TZJiX50StX60yEIld5Qe2"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+        },
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Amends",
+      "url": "https://open.spotify.com/track/31vcUe5c32tadhtQuZI91w"
+    },
+    {
+      "album": {
+        "name": "Around the Block",
+        "url": "https://open.spotify.com/album/1k7IoQqTB7kKXv9LWZmoSO"
+      },
+      "artists": [
+        {
+          "name": "Under The Lake",
+          "url": "https://open.spotify.com/artist/6JZ499nu5Bh7V8ttxadnoj"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266944,
+      "name": "Around The Block",
+      "url": "https://open.spotify.com/track/4iLeV5ByJRp7KFL1yMHjcA"
     },
     {
       "album": {
@@ -85,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Back Together Again",
+        "url": "https://open.spotify.com/album/3vd6uv3pD75e9UaRmwocoD"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244658,
+      "name": "Back Together Again",
+      "url": "https://open.spotify.com/track/7vrrSnTU9faevmw0z7f3Ma"
+    },
+    {
+      "album": {
         "name": "Bado Boy!",
         "url": "https://open.spotify.com/album/5qr5HLIjVCmynsnnc9uEKc"
       },
@@ -100,6 +158,82 @@
       "duration_ms": 308339,
       "name": "Bado Boy!",
       "url": "https://open.spotify.com/track/3kRX7GtOlik8LeG62lekqb"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/19FsWLk3xJIVArsQlTuxNL"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220377,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/5YbkLLd2HizawqpBRDTDQX"
+    },
+    {
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213986,
+      "name": "Be Here",
+      "url": "https://open.spotify.com/track/4yGsW0sP0jcyxxxohnc6Y4"
+    },
+    {
+      "album": {
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291528,
+      "name": "Better Days Ahead",
+      "url": "https://open.spotify.com/track/6CqeUptmJGIeNdUp12wNOB"
+    },
+    {
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/7nl0iSPHwSEh0K2q27Ba15"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "BITTERSWEET",
+      "url": "https://open.spotify.com/track/052InjXqxERVP2cn518qpm"
     },
     {
       "album": {
@@ -150,7 +284,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 245000,
       "name": "Bridges - Radio Edit",
       "url": "https://open.spotify.com/track/1p3bQPaUzLAISJvj9I28QU"
@@ -179,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Captivate Me",
+        "url": "https://open.spotify.com/album/4kJBD2qAK1Z9HGjo5QuYmS"
+      },
+      "artists": [
+        {
+          "name": "Riley Richard",
+          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288371,
+      "name": "Captivate Me",
+      "url": "https://open.spotify.com/track/3nHdUHhCUlO1zUPT0lqhFV"
+    },
+    {
+      "album": {
         "name": "Chill@Will",
         "url": "https://open.spotify.com/album/6HZKfoekNmLbY2KuxQxTzD"
       },
@@ -194,7 +346,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 269320,
       "name": "Chill@Will",
       "url": "https://open.spotify.com/track/0rPQtEYEBPRzjdwqg9UIjH"
@@ -252,7 +404,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 259146,
       "name": "Cruising the Boulevard",
       "url": "https://open.spotify.com/track/3J876JF0XKXFSltuHMjD5r"
@@ -270,10 +422,28 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 257607,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/0VF3iclyEM4nKwdUVM3o3x"
+    },
+    {
+      "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/7D6Egi9qWYcpJy2OTfSJHa"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/3J18F04gGcur3hK3MJlGyc"
     },
     {
       "album": {
@@ -394,7 +564,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 241986,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/3N80JYpUbyZd90H5a4F9Zk"
@@ -412,10 +582,50 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 220493,
       "name": "Emeline",
       "url": "https://open.spotify.com/track/2K2gljzDjOevU44AWPKoNb"
+    },
+    {
+      "album": {
+        "name": "Evenin'",
+        "url": "https://open.spotify.com/album/6q074jUw32mni0dWflPXHl"
+      },
+      "artists": [
+        {
+          "name": "Mark Jaimes",
+          "url": "https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E"
+        },
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "date_added": "2021-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244480,
+      "name": "Evenin'",
+      "url": "https://open.spotify.com/track/56D07KIdzMm1qGRuCwnta6"
+    },
+    {
+      "album": {
+        "name": "Feel Like Making Love / Night Crawler",
+        "url": "https://open.spotify.com/album/3prD0xRzK9E4AGjtjC0gNU"
+      },
+      "artists": [
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556466,
+      "name": "Feel Like Making Love / Night Crawler",
+      "url": "https://open.spotify.com/track/1gqPg9GEtilsmtewS1fqTB"
     },
     {
       "album": {
@@ -448,7 +658,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 266062,
       "name": "Feels So Right - Radio Edit",
       "url": "https://open.spotify.com/track/2M1SQBEbGRpO16JmwWfD7d"
@@ -528,10 +738,28 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 271189,
       "name": "Free to Be",
       "url": "https://open.spotify.com/track/1o1v8l3TX3dX8WsoIWFZN9"
+    },
+    {
+      "album": {
+        "name": "Galaxy",
+        "url": "https://open.spotify.com/album/1p3tbkM2DoGdDVqUgelhef"
+      },
+      "artists": [
+        {
+          "name": "Zach Sanders",
+          "url": "https://open.spotify.com/artist/0jSvsAskhfvKwEzWQ07wCn"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197489,
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba"
     },
     {
       "album": {
@@ -616,7 +844,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 230524,
       "name": "I Can Let Go Now - Instrumental Version",
       "url": "https://open.spotify.com/track/24UVZM3ETZsEKCLfkQ5INR"
@@ -638,7 +866,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 238529,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
@@ -656,7 +884,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 271973,
       "name": "In the Pocket",
       "url": "https://open.spotify.com/track/6XXTyLsczWOfrmIQB2yJrN"
@@ -846,7 +1074,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 236706,
       "name": "Legacy [Feat. \"The Sound\u201d of Stan Getz]",
       "url": "https://open.spotify.com/track/5qerN3vnJd2zLapuo3F4Qr"
@@ -882,10 +1110,46 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 260746,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/0nUK8QO7du1cqA1KW3fzxg"
+    },
+    {
+      "album": {
+        "name": "Living Out Loud",
+        "url": "https://open.spotify.com/album/5XW3CWsPobrM7nItWAO2ym"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263560,
+      "name": "Living Out Loud",
+      "url": "https://open.spotify.com/track/1Q1nRtRd98S6tXW3IWkNB2"
+    },
+    {
+      "album": {
+        "name": "With Every Turn",
+        "url": "https://open.spotify.com/album/3ycJd6p1aJd3KebLEijD2G"
+      },
+      "artists": [
+        {
+          "name": "Roberto Restuccia",
+          "url": "https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Love Crazy",
+      "url": "https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O"
     },
     {
       "album": {
@@ -904,6 +1168,28 @@
       "duration_ms": 222693,
       "name": "Maybe You Think",
       "url": "https://open.spotify.com/track/48aJAU5dkO2CxaanBqhLoD"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/3zcz64J5R6sY8Mln7crKsI"
+      },
+      "artists": [
+        {
+          "name": "Vandell Andrew",
+          "url": "https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW"
+        },
+        {
+          "name": "J.Michael O'neal",
+          "url": "https://open.spotify.com/artist/1eQZjsM34F2TKTe9QusBOg"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240553,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/1ebtnoXkPEF1wIUythB6ee"
     },
     {
       "album": {
@@ -962,7 +1248,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 222253,
       "name": "Mystical Moment",
       "url": "https://open.spotify.com/track/2MZPzcULtHa17kQaM0OGmT"
@@ -1081,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "GroovySax",
+        "url": "https://open.spotify.com/album/5iq65xFLZsMa8GcjXN1UC3"
+      },
+      "artists": [
+        {
+          "name": "Dean James",
+          "url": "https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251621,
+      "name": "Planet Smooth",
+      "url": "https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z"
+    },
+    {
+      "album": {
         "name": "Play the Groove",
         "url": "https://open.spotify.com/album/0iVAQAJOgbwXHQSXnx50jq"
       },
@@ -1092,7 +1396,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 261000,
       "name": "Play the Groove",
       "url": "https://open.spotify.com/track/63wbDskogH4H0hjk3jvR3r"
@@ -1139,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6ecDlIabqvgoTIn90WUBYa"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285122,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/4TQRDpyL9qCEzEAjApeN7k"
+    },
+    {
+      "album": {
         "name": "Side by Side Radio Edit",
         "url": "https://open.spotify.com/album/74R005FKgC9qS7AniLVX0C"
       },
@@ -1176,7 +1498,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 338066,
       "name": "Smooth Talk",
       "url": "https://open.spotify.com/track/3DyEzqcRDZho9dTQEN7Qx4"
@@ -1201,6 +1523,42 @@
     },
     {
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258453,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
+    },
+    {
+      "album": {
+        "name": "Chapters of Love",
+        "url": "https://open.spotify.com/album/69P5UQaYeNKldN1gDHmbSP"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263982,
+      "name": "Someone To Love",
+      "url": "https://open.spotify.com/track/60FyOLlBYEemQuiIWvDCg2"
+    },
+    {
+      "album": {
         "name": "Soul Searchin'",
         "url": "https://open.spotify.com/album/1vfBqfZqfEaq6NInzf5rFh"
       },
@@ -1216,10 +1574,68 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 256372,
       "name": "Soul Searchin'",
       "url": "https://open.spotify.com/track/3LhJ5OcrLfQQ1igAXTuImg"
+    },
+    {
+      "album": {
+        "name": "Volume 2: The Winds of Change",
+        "url": "https://open.spotify.com/album/0d269yx7Lqw9QkncZ4EGL7"
+      },
+      "artists": [
+        {
+          "name": "The Groove Project",
+          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
+        },
+        {
+          "name": "Jordan Rudess",
+          "url": "https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225812,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/4MXaiJwuGAhZXpkQv80yJE"
+    },
+    {
+      "album": {
+        "name": "Stay Above the Fray",
+        "url": "https://open.spotify.com/album/1CgCxO55ob4oGZtAK5xthX"
+      },
+      "artists": [
+        {
+          "name": "Bob Baldwin",
+          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247250,
+      "name": "Stay Above the Fray - Radio",
+      "url": "https://open.spotify.com/track/7E3vISTOBBPeEylraGPU3t"
+    },
+    {
+      "album": {
+        "name": "Staycation",
+        "url": "https://open.spotify.com/album/4eCkaluFRTjSVobSvFgtYF"
+      },
+      "artists": [
+        {
+          "name": "Tony Craddock, Jr.",
+          "url": "https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Staycation",
+      "url": "https://open.spotify.com/track/3Q5OzOo58pfmgTxKMC09yr"
     },
     {
       "album": {
@@ -1238,7 +1654,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 258560,
       "name": "Step\u2019N Out (feat. Elan Trotman)",
       "url": "https://open.spotify.com/track/7jRLSooJCY7tM7cEttM6ZY"
@@ -1256,7 +1672,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 295156,
       "name": "Stockholm Summer",
       "url": "https://open.spotify.com/track/7nDChpaHBKx9ZCJmEcTdtX"
@@ -1274,10 +1690,32 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 242379,
       "name": "Straight to the Point",
       "url": "https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA"
+    },
+    {
+      "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/26iW490GVru2pH1WWU2Lln"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        },
+        {
+          "name": "Dr Derek Scott",
+          "url": "https://open.spotify.com/artist/2miOGhYr50EB1eY2Sm0uii"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Strasbourg / St. Denis (feat. Dr Derek Scott)",
+      "url": "https://open.spotify.com/track/0YD0deFXaCmwJEtZxgjUHf"
     },
     {
       "album": {
@@ -1292,7 +1730,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 280613,
       "name": "Stratosphere",
       "url": "https://open.spotify.com/track/2W540AXgdQY51tgniBvmIo"
@@ -1376,7 +1814,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 269076,
       "name": "Sway",
       "url": "https://open.spotify.com/track/3Wt1iQzO6S022vb5Sng71P"
@@ -1420,7 +1858,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 324480,
       "name": "That Cool Groovy Beatnik Jazz",
       "url": "https://open.spotify.com/track/1JmbkZAfYpjiKY9Ypf4NCC"
@@ -1456,10 +1894,32 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 326253,
       "name": "The Last Minute",
       "url": "https://open.spotify.com/track/3tzYgQTDUiJbJfbac2pvpH"
+    },
+    {
+      "album": {
+        "name": "The Sailor",
+        "url": "https://open.spotify.com/album/1N3Y4lr7CBNDDfjLLLmHA0"
+      },
+      "artists": [
+        {
+          "name": "The Groove Project",
+          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
+        },
+        {
+          "name": "Ed Roth",
+          "url": "https://open.spotify.com/artist/7EBeeH2oJR0OXd0mPSv6PD"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273181,
+      "name": "The Sailor",
+      "url": "https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl"
     },
     {
       "album": {
@@ -1474,10 +1934,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 239253,
       "name": "The Thrill of Rain",
       "url": "https://open.spotify.com/track/24dR9CKoNg8zZ5SMhedZB3"
+    },
+    {
+      "album": {
+        "name": "The Weekend",
+        "url": "https://open.spotify.com/album/1AuE8kvj5qqMFcV53Um7tw"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cole",
+          "url": "https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239780,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/4ZRJKcvq2NKpw1wHP5MwqS"
     },
     {
       "album": {
@@ -1496,7 +1974,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 215080,
       "name": "The Winds of Change",
       "url": "https://open.spotify.com/track/4BwFSH3jSwvqx5SOP9Fxhr"
@@ -1536,7 +2014,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 222956,
       "name": "Tried and True",
       "url": "https://open.spotify.com/track/2eQO1G2jfHGNgGxqkLZUX9"
@@ -1562,6 +2040,28 @@
       "duration_ms": 238706,
       "name": "Unified",
       "url": "https://open.spotify.com/track/522WY3LU3tn0apaPw7QMht"
+    },
+    {
+      "album": {
+        "name": "Up All Night (feat. Boney James)",
+        "url": "https://open.spotify.com/album/3MgeZPkZbPAN2cdTKiVzMs"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250074,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/4cayMK8FdWRvfVzZgsgElI"
     },
     {
       "album": {
@@ -1598,6 +2098,42 @@
       "duration_ms": 264186,
       "name": "When We Dance",
       "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
+    },
+    {
+      "album": {
+        "name": "Phillip Doc Martin",
+        "url": "https://open.spotify.com/album/58r40GhiWWH5oCZ29CWcD1"
+      },
+      "artists": [
+        {
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248617,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/4OxljjJyAU0FhvjincStMP"
+    },
+    {
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/6qSelofvvFp8RWrbyfLAcv"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253133,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/44VN2rjI4yzsHeQAKtjtRV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTEbYi1zYy0Z"

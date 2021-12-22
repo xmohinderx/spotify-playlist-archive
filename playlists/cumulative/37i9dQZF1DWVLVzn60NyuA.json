@@ -466,7 +466,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 189698,
       "name": "Bounce It (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/5NpET8pwPjwxU2XD1W4rT5"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 234650,
       "name": "Causing Trouble",
       "url": "https://open.spotify.com/track/60WTSBZYhVUNQ9ygOpHWiv"
@@ -676,6 +676,28 @@
       "duration_ms": 185134,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0doK21Rmhw77vsmLztg6r7"
+    },
+    {
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/1KH149rtrWNweZNShW0swb"
+      },
+      "artists": [
+        {
+          "name": "Valentino Ignoto",
+          "url": "https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin"
+        },
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/2cyt4htgCuEKXnUDPbnEm5"
     },
     {
       "album": {
@@ -1012,7 +1034,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 181413,
       "name": "Did You See",
       "url": "https://open.spotify.com/track/6DXEZzM4wBa3EOl0NCNSvz"
@@ -1056,7 +1078,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 183099,
       "name": "Distance",
       "url": "https://open.spotify.com/track/69f1steoIMhN1skPkBR6rB"
@@ -1078,6 +1100,28 @@
       "duration_ms": 142600,
       "name": "Django",
       "url": "https://open.spotify.com/track/1SVcH8GJs2QYLD4xQNWiBc"
+    },
+    {
+      "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
     },
     {
       "album": {
@@ -1592,7 +1636,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 233253,
       "name": "Hold You - Hold Yuh",
       "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
@@ -1728,7 +1772,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 224680,
       "name": "Iskaba",
       "url": "https://open.spotify.com/track/1qNz5rynw3I9LU8uQRETsO"
@@ -1999,6 +2043,42 @@
     },
     {
       "album": {
+        "name": "Life Is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/6vvcUJ4tlCObKG1PARtRpZ"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
+    },
+    {
+      "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/5mpcdRMQb57jWEX88aAaHV"
+      },
+      "artists": [
+        {
+          "name": "jahmiel",
+          "url": "https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/3bUnzltFofxPOlZB3PpA4j"
+    },
+    {
+      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6"
       },
@@ -2179,6 +2259,32 @@
     },
     {
       "album": {
+        "name": "Ma Play",
+        "url": "https://open.spotify.com/album/4qzc0y1T0cMgAus1kYB9nt"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "Ma Play",
+      "url": "https://open.spotify.com/track/3ijQFCjoldvRJjOn4AK4iS"
+    },
+    {
+      "album": {
         "name": "Mad over You Mashup",
         "url": "https://open.spotify.com/album/113Tc4vU82MI5wHlPW98dk"
       },
@@ -2194,6 +2300,32 @@
       "duration_ms": 201066,
       "name": "Mad over You Mashup",
       "url": "https://open.spotify.com/track/4rJZ1Ij2rNt8hyCZOhokqc"
+    },
+    {
+      "album": {
+        "name": "Higher Place (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6Ls6U4y9I6We3tXuilyEHX"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218089,
+      "name": "Make Me Feel (feat. Ari Lennox) - IzyBeats Dub Mix",
+      "url": "https://open.spotify.com/track/60H3vKDbEFREGqEmUdMWGu"
     },
     {
       "album": {
@@ -2387,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Tease Me",
+        "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Murder She Wrote",
+      "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+    },
+    {
+      "album": {
         "name": "My Touch (Dutch Remix)",
         "url": "https://open.spotify.com/album/3HLfgkzaDwQCwURps1jIZ5"
       },
@@ -2533,6 +2683,32 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145860,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
+    },
+    {
+      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
       },
@@ -2620,7 +2796,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
@@ -2743,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Pam Pam",
+        "url": "https://open.spotify.com/album/3NwwILNuIUnDBTCcAYXIZ3"
+      },
+      "artists": [
+        {
+          "name": "Ketchup",
+          "url": "https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/0onCpID636LlzqZ1OXJcRk"
+    },
+    {
+      "album": {
         "name": "Pamela",
         "url": "https://open.spotify.com/album/5AIExSdYDginy6AWai1uFE"
       },
@@ -2780,10 +2974,36 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 178864,
       "name": "Pandemia",
       "url": "https://open.spotify.com/track/0RVqLLQE5EdCL3xIQc0DWK"
+    },
+    {
+      "album": {
+        "name": "Victory Rock Riddim",
+        "url": "https://open.spotify.com/album/2ychB1n3vMLc8t2bOflZTu"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Gentleman",
+          "url": "https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7"
+        },
+        {
+          "name": "Christopher Martin",
+          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207324,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
     },
     {
       "album": {
@@ -3057,6 +3277,28 @@
     },
     {
       "album": {
+        "name": "Afrowave 3",
+        "url": "https://open.spotify.com/album/79dXMRWb9dGw08ud6M87GH"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Team Salut",
+          "url": "https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189596,
+      "name": "Shaku Shaku",
+      "url": "https://open.spotify.com/track/1TCMIBKmQGJ27Rm04bs7dI"
+    },
+    {
+      "album": {
         "name": "Silly Games",
         "url": "https://open.spotify.com/album/2EbfLEv2xLxdfKI42K4Pdg"
       },
@@ -3068,7 +3310,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 232952,
       "name": "Silly Games",
       "url": "https://open.spotify.com/track/6JiCJrN8tsjG1TLmIL2xRM"
@@ -3218,6 +3460,50 @@
       "duration_ms": 154374,
       "name": "Table For Two",
       "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
+    },
+    {
+      "album": {
+        "name": "Te Gusta",
+        "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
+      },
+      "artists": [
+        {
+          "name": "Young \"D\"",
+          "url": "https://open.spotify.com/artist/2ybfFlvm4VB8C56wI1yOQs"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Ayo Jay",
+          "url": "https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Te Gusta",
+      "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
+    },
+    {
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/1cHhAGNkqqKFgMDQIzrILi"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236460,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/7i0ACEM0ZTfVP2C5wIrIhD"
     },
     {
       "album": {
@@ -3480,7 +3766,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
@@ -3598,7 +3884,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 140500,
       "name": "Waist",
       "url": "https://open.spotify.com/track/09GxVTSERxrO6vWrVunG28"
@@ -3634,7 +3920,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 162000,
       "name": "Why",
       "url": "https://open.spotify.com/track/5JivNZTf3Oz2yy5KuSqvFm"
@@ -3768,7 +4054,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 199200,
       "name": "Yuh Know",
       "url": "https://open.spotify.com/track/5Ymzzusy4IzDkh9an3nOxW"

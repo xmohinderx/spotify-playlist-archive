@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 219253,
       "name": "Age of a Man",
       "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 294013,
       "name": "Ain't No Thing",
       "url": "https://open.spotify.com/track/72MfkLKyEXmFT8awGhlE5i"
@@ -208,6 +208,24 @@
       "duration_ms": 130199,
       "name": "Animal Tracks",
       "url": "https://open.spotify.com/track/34Yfp4CErILcXDkLty1EZa"
+    },
+    {
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/1dyDN4uEs4wES4R314WnLo"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154080,
+      "name": "Another Man Done Gone",
+      "url": "https://open.spotify.com/track/1up6mYFK1wmVgbaZlhWHSk"
     },
     {
       "album": {
@@ -580,6 +598,24 @@
     {
       "album": {
         "name": "Ani DiFranco",
+        "url": "https://open.spotify.com/album/0G6JEkNgzfTlve4XAiRlCk"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/3sQIESZGkkxYRn4NCq9B55"
+    },
+    {
+      "album": {
+        "name": "Ani DiFranco",
         "url": "https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw"
       },
       "artists": [
@@ -920,7 +956,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 163506,
       "name": "Coming Down From God",
       "url": "https://open.spotify.com/track/0eyDqW2A5Q1VqufW6sfJ1f"
@@ -956,7 +992,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 283456,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ"
@@ -1010,7 +1046,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 201560,
       "name": "Deep Dark Below",
       "url": "https://open.spotify.com/track/4UT2LGBeSW7dRIiUPyYyrd"
@@ -1064,7 +1100,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 286493,
       "name": "Diamonds And Rust",
       "url": "https://open.spotify.com/track/5lZ4Dm9BBGcCBVbfzxnyCX"
@@ -1234,7 +1270,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 186960,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2fVdmSZjhQr6hM8ACJhlXC"
@@ -1277,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
+    },
+    {
+      "album": {
         "name": "Clotho's Web",
         "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
       },
@@ -1306,7 +1360,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 159360,
       "name": "Follow Me - Remastered",
       "url": "https://open.spotify.com/track/4r45V7ZeTmjpX11lW5i6Xx"
@@ -1516,7 +1570,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 171533,
       "name": "Gunslinger (A Ballad For Adult Westerns)",
       "url": "https://open.spotify.com/track/4oFXW4wcrRQGGV85V18YSI"
@@ -1642,10 +1696,28 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 189365,
       "name": "Heaven's Gate",
       "url": "https://open.spotify.com/track/3gyaObPdirrFeFTz070Wti"
+    },
+    {
+      "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125293,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
     },
     {
       "album": {
@@ -1867,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Crowd Favorites",
+        "url": "https://open.spotify.com/album/7v0niSkEWiYUo1Jsm6IKVf"
+      },
+      "artists": [
+        {
+          "name": "Claire Lynch",
+          "url": "https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154706,
+      "name": "If Wishes Were Horses",
+      "url": "https://open.spotify.com/track/4x5gOf3f0asSRCZh0vQ6b0"
+    },
+    {
+      "album": {
         "name": "Mortal City",
         "url": "https://open.spotify.com/album/2JeEoqmUncDEd8ne7O5WqE"
       },
@@ -2029,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Left-Centred Weight",
+        "url": "https://open.spotify.com/album/1Fok53eLl1IUC9qwLIgN4N"
+      },
+      "artists": [
+        {
+          "name": "Chloe Foy",
+          "url": "https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243937,
+      "name": "Left-Centred Weight",
+      "url": "https://open.spotify.com/track/5cmDQ3eW1Oyv6KecErLNM2"
+    },
+    {
+      "album": {
         "name": "Living With Ghosts",
         "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
       },
@@ -2065,6 +2173,60 @@
     },
     {
       "album": {
+        "name": "Oil and Water",
+        "url": "https://open.spotify.com/album/6Cjo8BqWWgDeOHFf8Ezeei"
+      },
+      "artists": [
+        {
+          "name": "Lemoncello",
+          "url": "https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308210,
+      "name": "Libra",
+      "url": "https://open.spotify.com/track/7uHoNWpMZ8BdJo3I6h9oIk"
+    },
+    {
+      "album": {
+        "name": "Ear to the Ground",
+        "url": "https://open.spotify.com/album/3Sse6vFrnjwRIriJaxV38q"
+      },
+      "artists": [
+        {
+          "name": "Malvina Reynolds",
+          "url": "https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131440,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/0dRvjBVCStIlBxOqbhAQ3q"
+    },
+    {
+      "album": {
+        "name": "Anthology Of American Folk Songs / Livin' With The Blues",
+        "url": "https://open.spotify.com/album/5DlwDMXmLkMTHw0LRNfyWM"
+      },
+      "artists": [
+        {
+          "name": "Barbara Dane",
+          "url": "https://open.spotify.com/artist/7htyUKqAPLpbTA9nkEhGRf"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131120,
+      "name": "Little Maggie",
+      "url": "https://open.spotify.com/track/20CPlpdclfbBMlXRcy0JrC"
+    },
+    {
+      "album": {
         "name": "Molly Drake",
         "url": "https://open.spotify.com/album/2jTaqe39ZIt4Kt9rJVPfuz"
       },
@@ -2094,7 +2256,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 134246,
       "name": "Long Lonesome Road",
       "url": "https://open.spotify.com/track/3iJq2eR862uen5kyutkQYs"
@@ -2184,7 +2346,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 175466,
       "name": "Marjorie",
       "url": "https://open.spotify.com/track/5px0q4BOJoL26xBxeZCqoz"
@@ -2297,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "At The Royal Festival Hall",
+        "url": "https://open.spotify.com/album/42cLGbUdsFerpoxrc8UZTT"
+      },
+      "artists": [
+        {
+          "name": "Mary O'Hara",
+          "url": "https://open.spotify.com/artist/1KFfz9kGndyx6q0Zf1MdZv"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152933,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/1nkFZjphM5e4rYwElipV28"
+    },
+    {
+      "album": {
         "name": "Motel Bouquet",
         "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
       },
@@ -2330,6 +2510,24 @@
       "duration_ms": 346506,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/1torCG1rbtUN5ja5lnv7rX"
+    },
+    {
+      "album": {
+        "name": "Woman to Woman",
+        "url": "https://open.spotify.com/album/7kvhYaWajFQvsaVG3uvKV8"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9 Patterson",
+          "url": "https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "Never Chase a Man",
+      "url": "https://open.spotify.com/track/69KpdPLbYLx71n0eF25xyJ"
     },
     {
       "album": {
@@ -2384,7 +2582,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE"
@@ -2575,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "In The Magic Hour",
+        "url": "https://open.spotify.com/album/3ntBsLDs4YznKmxScj8K4f"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/3fUle3MRHVnEspDxGMrvNQ"
+    },
+    {
+      "album": {
         "name": "Old Country",
         "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
       },
@@ -2682,6 +2898,24 @@
       "duration_ms": 242854,
       "name": "Question It All",
       "url": "https://open.spotify.com/track/0ZPGSEOzB2G10PhogskHvx"
+    },
+    {
+      "album": {
+        "name": "The Little Red Box Of Protest Songs",
+        "url": "https://open.spotify.com/album/62U6vO55A3UCtHnNGL59xY"
+      },
+      "artists": [
+        {
+          "name": "Aunt Molly Jackson",
+          "url": "https://open.spotify.com/artist/5tsNTn6AGBVEhdjfGBtaAe"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174280,
+      "name": "Ragged Hungry Blues Pt. 2",
+      "url": "https://open.spotify.com/track/1bjYKGMt4UvDo8Jwy3z1NE"
     },
     {
       "album": {
@@ -2874,7 +3108,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 210920,
       "name": "Sleep With One Eye Open",
       "url": "https://open.spotify.com/track/2Rpgwoxsl5D8ckMWv5ZdlU"
@@ -2976,6 +3210,24 @@
       "duration_ms": 316506,
       "name": "Star Witness",
       "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
+    },
+    {
+      "album": {
+        "name": "Wood And Stone",
+        "url": "https://open.spotify.com/album/23fftVBbTNIKfjSOKubYH6"
+      },
+      "artists": [
+        {
+          "name": "Tara Nevins",
+          "url": "https://open.spotify.com/artist/5MqYvtRVsLFYIj4NzeIFoC"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176920,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/2ru1SGaG8UGD8HPPuaeCM3"
     },
     {
       "album": {
@@ -3085,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Bluegrass Banjo at its Best",
+        "url": "https://open.spotify.com/album/0bXQtYUmSKJOBFj6rYWqy0"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lamb",
+          "url": "https://open.spotify.com/artist/4KYqgUrjlxeVvLOBSrln3M"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Tennessee Breakdown",
+      "url": "https://open.spotify.com/track/4K3z84ENFol2LQFishwXMu"
+    },
+    {
+      "album": {
         "name": "Other Girls",
         "url": "https://open.spotify.com/album/158vIXOymv1hbHh1pCG2fD"
       },
@@ -3168,7 +3438,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 258231,
       "name": "The Choir",
       "url": "https://open.spotify.com/track/1OovfYNl59IG04EnlZOygS"
@@ -3211,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "The Still Life",
+        "url": "https://open.spotify.com/album/65HqI2CNr0Sg2FUMAyy6YV"
+      },
+      "artists": [
+        {
+          "name": "Alessi's Ark",
+          "url": "https://open.spotify.com/artist/6XfS2HuVcetcK1aN5QufKg"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88506,
+      "name": "The Good Song",
+      "url": "https://open.spotify.com/track/2SlxqvDsBSDd7iz3aEOEzi"
+    },
+    {
+      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -3244,7 +3532,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 193200,
       "name": "The One I Love Is Gone",
       "url": "https://open.spotify.com/track/1MPf9bmnd9DL1WEwgdD0Fn"
@@ -3262,7 +3550,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 271175,
       "name": "The Soft Apocalypse",
       "url": "https://open.spotify.com/track/5hDtB04aMDSqO0OCdFY51H"
@@ -3435,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Bluesgrass Fiddlers",
+        "url": "https://open.spotify.com/album/2IFljrQefbQE3iVnUT2HPx"
+      },
+      "artists": [
+        {
+          "name": "Kathy Kallick",
+          "url": "https://open.spotify.com/artist/6kHR8586E2UXrjSRNhZFZv"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175840,
+      "name": "Use a Napkin (Not Your Mom)",
+      "url": "https://open.spotify.com/track/1ZmTvUwqj8B44hMJasvDXB"
+    },
+    {
+      "album": {
         "name": "The Widow Knows E.P.",
         "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
       },
@@ -3450,6 +3756,24 @@
       "duration_ms": 252816,
       "name": "Used",
       "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "album": {
+        "name": "Sorrow Bound",
+        "url": "https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125360,
+      "name": "Valley Forge",
+      "url": "https://open.spotify.com/track/0YdGjKALJmizKhcWEmM3Cp"
     },
     {
       "album": {
@@ -3734,7 +4058,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 191756,
       "name": "YOU BELONG",
       "url": "https://open.spotify.com/track/2NDt0gNDXRXlkMOVPcQlla"

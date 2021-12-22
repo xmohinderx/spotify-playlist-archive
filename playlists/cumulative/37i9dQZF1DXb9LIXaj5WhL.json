@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "When Incubus Attacks, Vol. 1",
+        "url": "https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2020-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Stellar - Acoustic",
+      "url": "https://open.spotify.com/track/65QweyWLYg5kapDDE8teNn"
+    },
+    {
+      "album": {
         "name": "Central Reservation",
         "url": "https://open.spotify.com/album/6lijTrmA0yAucg4Axbj1up"
       },
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 279066,
       "name": "Untouchable Face",
       "url": "https://open.spotify.com/track/2E8AVQcuYSlXm12g112Kef"

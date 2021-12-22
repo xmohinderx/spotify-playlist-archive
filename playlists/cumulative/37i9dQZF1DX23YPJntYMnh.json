@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/7C2w3hUOkQ3Dn14cv6ILwA"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2020-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "A Certain Shade of Green",
+      "url": "https://open.spotify.com/track/6zU4ims9oVbprKkjpdGD5c"
+    },
+    {
+      "album": {
         "name": "311",
         "url": "https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 241680,
       "name": "Crack Killed Applejack - Gravy Booty Mix",
       "url": "https://open.spotify.com/track/2SrJ0Quef9Lkv0aIKPWEBY"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 247693,
       "name": "Fire",
       "url": "https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR"
@@ -506,6 +524,24 @@
       "duration_ms": 216733,
       "name": "John The Fisherman",
       "url": "https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN"
+    },
+    {
+      "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "date_added": "2020-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Little Miss Can't Be Wrong",
+      "url": "https://open.spotify.com/track/4mFIxFJg3Di1OIyVs7mcYh"
     },
     {
       "album": {
@@ -934,7 +970,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 260893,
       "name": "Thumb",
       "url": "https://open.spotify.com/track/7pt7AcxYHyVLOpthh9IxHZ"
@@ -1086,6 +1122,24 @@
       "duration_ms": 289893,
       "name": "What Time Is It?",
       "url": "https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA"
+    },
+    {
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2020-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136146,
+      "name": "Wrong Way",
+      "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX23YPJntYMnh"

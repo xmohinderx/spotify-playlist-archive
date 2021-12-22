@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/7ziMuGcC9aJh8HCHQltupF"
+      },
+      "artists": [
+        {
+          "name": "Flatbush Zombies",
+          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
+        },
+        {
+          "name": "Zombie Juice",
+          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194746,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/42dLRNmTqdwPZIiG0NRBWH"
+    },
+    {
+      "album": {
         "name": "Ballads (with Conway The Machine)",
         "url": "https://open.spotify.com/album/1bmhLM92D5f32wxbODaiT5"
       },
@@ -86,7 +112,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 148123,
       "name": "Best Rapper in the Fuckin World",
       "url": "https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ"
@@ -111,6 +137,28 @@
     },
     {
       "album": {
+        "name": "Bruuuh (with Denzel Curry) [Remix]",
+        "url": "https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206446,
+      "name": "Bruuuh (with Denzel Curry) - Remix",
+      "url": "https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK"
+    },
+    {
+      "album": {
         "name": "Burning Bush",
         "url": "https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB"
       },
@@ -126,7 +174,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 211848,
       "name": "Burning Bush",
       "url": "https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q"
@@ -239,6 +287,28 @@
     },
     {
       "album": {
+        "name": "UNLOCKED",
+        "url": "https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143733,
+      "name": "DIET_",
+      "url": "https://open.spotify.com/track/1AzqpMy3yLYNITSOUrnL8i"
+    },
+    {
+      "album": {
         "name": "Lamb Over Rice",
         "url": "https://open.spotify.com/album/3BPX4x5EQOd9vzpPC2rMrm"
       },
@@ -254,7 +324,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 274133,
       "name": "Dmtri",
       "url": "https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc"
@@ -284,7 +354,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 226800,
       "name": "Fake Flowers",
       "url": "https://open.spotify.com/track/6kdYgh9p7t8wlxljk8KGJg"
@@ -310,6 +380,28 @@
       "duration_ms": 213980,
       "name": "Fly With Me (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/1sgFFV3J62Q9NTqbxS1ShI"
+    },
+    {
+      "album": {
+        "name": "For Real (feat. Kemba)",
+        "url": "https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8"
+      },
+      "artists": [
+        {
+          "name": "Jharrel Jerome",
+          "url": "https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4"
+        },
+        {
+          "name": "Kemba",
+          "url": "https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "For Real (feat. Kemba)",
+      "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
     },
     {
       "album": {
@@ -346,10 +438,50 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 130666,
       "name": "genesis.",
       "url": "https://open.spotify.com/track/16KP30wHmKZvPE5hlTHCfI"
+    },
+    {
+      "album": {
+        "name": "Alfredo",
+        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "God Is Perfect",
+      "url": "https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl"
+    },
+    {
+      "album": {
+        "name": "God's Bathroom Floor",
+        "url": "https://open.spotify.com/album/64Z4NTJZWPJFh2PzeDuwsL"
+      },
+      "artists": [
+        {
+          "name": "Atmosphere",
+          "url": "https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "God's Bathroom Floor",
+      "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
     },
     {
       "album": {
@@ -364,7 +496,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 167693,
       "name": "Golden Eye",
       "url": "https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT"
@@ -390,7 +522,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 193660,
       "name": "Grey Poupon",
       "url": "https://open.spotify.com/track/5YiEYhr37soYqg6uImNfcK"
@@ -536,7 +668,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 133601,
       "name": "Let's Ride our Heelies to the Cosmos",
       "url": "https://open.spotify.com/track/1Gbwu9p6QFLCGBGKCGdKFr"
@@ -605,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/26bwkDvo9hJSK7O1SUELQ3"
+      },
+      "artists": [
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Memories Is 4eva",
+      "url": "https://open.spotify.com/track/2FkIrNpy8TFOsTe9MUmnIf"
+    },
+    {
+      "album": {
         "name": "Myself (feat. DEVN)",
         "url": "https://open.spotify.com/album/79Xrj6MlB0gQoXphSn8NFs"
       },
@@ -642,7 +792,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 204386,
       "name": "No Explanation",
       "url": "https://open.spotify.com/track/7FW4HUo39yRwGVxEoHqTa4"
@@ -660,10 +810,32 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 186000,
       "name": "No M\u00e1s!",
       "url": "https://open.spotify.com/track/3Sxd2zTEoWwMPAVbBJGwAC"
+    },
+    {
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/1xzYe93YZ35KNW6VzILAut"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182336,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/7bcOAQD3y9NpTQESuX5s5U"
     },
     {
       "album": {
@@ -678,7 +850,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 258666,
       "name": "No Resources",
       "url": "https://open.spotify.com/track/6fQFyukfb64v0OccdSf6XY"
@@ -858,10 +1030,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 187238,
       "name": "Scottie Pippens (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/19O7OqzwiT0U5DKec68WJR"
+    },
+    {
+      "album": {
+        "name": "Shame On You",
+        "url": "https://open.spotify.com/album/64baftC5M1GdUCl6q4CTyh"
+      },
+      "artists": [
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199803,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/0d33DG1uICHiennWuQUjzs"
     },
     {
       "album": {
@@ -901,6 +1091,58 @@
     },
     {
       "album": {
+        "name": "So.Incredible.pkg [Robert Glasper Version Feat. Smino]",
+        "url": "https://open.spotify.com/album/5FT1DfAMQ8ewLsCP6c8PtF"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195629,
+      "name": "So.Incredible.pkg [Robert Glasper Version Feat. Smino]",
+      "url": "https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz"
+    },
+    {
+      "album": {
+        "name": "Mrs. Whoever / Something in the Water",
+        "url": "https://open.spotify.com/album/5NPPBBqbTIeV7yrD8gPH2w"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198493,
+      "name": "Something in the Water",
+      "url": "https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO"
+    },
+    {
+      "album": {
         "name": "Sprague Street",
         "url": "https://open.spotify.com/album/63KIa8D5Lb7J9nivOZRWKM"
       },
@@ -916,7 +1158,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 257832,
       "name": "Sprague Street",
       "url": "https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx"
@@ -938,10 +1180,40 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 208211,
       "name": "Steak Um (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv"
+    },
+    {
+      "album": {
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/0hJGRu58lwZvj6SeZuiXNk"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Sunday Morning Drive (feat. Curren$y & Dom Kennedy)",
+      "url": "https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS"
     },
     {
       "album": {
@@ -956,10 +1228,58 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 186933,
       "name": "Super Deep Brother",
       "url": "https://open.spotify.com/track/4rpF2SBmTOw8zGCHAhkByI"
+    },
+    {
+      "album": {
+        "name": "The Plugs I Met 2",
+        "url": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162528,
+      "name": "Talkin' Back (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
+    },
+    {
+      "album": {
+        "name": "Thanksgiving",
+        "url": "https://open.spotify.com/album/6slT6nHyQrMQaUj2jMl52i"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150532,
+      "name": "Thanksgiving",
+      "url": "https://open.spotify.com/track/3nZD0cDcEiz8rqK48SYhgn"
     },
     {
       "album": {
@@ -1003,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116829,
+      "name": "Theme For The People",
+      "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
+    },
+    {
+      "album": {
         "name": "The Fraud Department",
         "url": "https://open.spotify.com/album/0gF7hWwicWPC4dm9VrXAmK"
       },
@@ -1022,7 +1360,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 155454,
       "name": "Three Cuts (feat. Maino)",
       "url": "https://open.spotify.com/track/35qdXRGCZj9isoXmae1gUy"
@@ -1062,6 +1400,28 @@
       "duration_ms": 124872,
       "name": "Weight",
       "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
+    },
+    {
+      "album": {
+        "name": "Young King",
+        "url": "https://open.spotify.com/album/5y9QMoOaXExN62vtUI4lTf"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "Young King",
+      "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia"

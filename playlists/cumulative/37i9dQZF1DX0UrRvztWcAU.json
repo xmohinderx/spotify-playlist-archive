@@ -23,6 +23,46 @@
     },
     {
       "album": {
+        "name": "Inner Monologue Part 2",
+        "url": "https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6"
+    },
+    {
+      "album": {
+        "name": "2 AM",
+        "url": "https://open.spotify.com/album/5p1LwekXHBNBqH3Hi4mPik"
+      },
+      "artists": [
+        {
+          "name": "KONO",
+          "url": "https://open.spotify.com/artist/7ItZtoe666YNPLyUx1AqIo"
+        },
+        {
+          "name": "The Fireflies",
+          "url": "https://open.spotify.com/artist/0CRSh7BVlQExWiqzoogJga"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190217,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/2v0gJT1kDcuZEWe3fFw2BM"
+    },
+    {
+      "album": {
         "name": "7 Minutes",
         "url": "https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar"
       },
@@ -336,7 +376,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -380,6 +420,32 @@
       "duration_ms": 208214,
       "name": "Brooklyn In The Summer",
       "url": "https://open.spotify.com/track/3umkzHosXJRxujeCjIhRmU"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/6vC1yotTRNAvQtHVOVr5ow"
+      },
+      "artists": [
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+        },
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Karlyn",
+          "url": "https://open.spotify.com/artist/7kMyDVBst44rpdogfXhUrk"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169157,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2i1e4VbiH770F8dD3sG3jH"
     },
     {
       "album": {
@@ -690,7 +756,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 270720,
       "name": "Dancing On The Ceiling",
       "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
@@ -752,6 +818,28 @@
       "duration_ms": 127826,
       "name": "Don\u2019t Give Up On Me Now",
       "url": "https://open.spotify.com/track/46W9iEjOg5nkMvb6lo4Jwz"
+    },
+    {
+      "album": {
+        "name": "Drink About",
+        "url": "https://open.spotify.com/album/4qwwcF4H82Pm1UGR8CVtUj"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182265,
+      "name": "Drink About",
+      "url": "https://open.spotify.com/track/2GGGm4MLQynB3I4E4ycIYC"
     },
     {
       "album": {
@@ -1047,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+    },
+    {
+      "album": {
         "name": "Politics of Living",
         "url": "https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC"
       },
@@ -1058,7 +1164,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 225920,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/1H33wNKihn8zcTexnwUoJ6"
@@ -1232,6 +1338,28 @@
       "duration_ms": 187200,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/1Boh2IpbQTkL7wLlnDZmdA"
+    },
+    {
+      "album": {
+        "name": "How Did I Find You",
+        "url": "https://open.spotify.com/album/5uewdfqhXDiJim7INFY0yh"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168823,
+      "name": "How Did I Find You",
+      "url": "https://open.spotify.com/track/7dhh5MGe898uMm7TrCUvwj"
     },
     {
       "album": {
@@ -1566,7 +1694,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 230746,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
@@ -1998,7 +2126,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 206040,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2"
@@ -2042,6 +2170,28 @@
       "duration_ms": 209047,
       "name": "Ready To Love You",
       "url": "https://open.spotify.com/track/2gJIL7h1fCpFh6NjCZUJyQ"
+    },
+    {
+      "album": {
+        "name": "Remind Me to Forget",
+        "url": "https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217286,
+      "name": "Remind Me to Forget",
+      "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
     },
     {
       "album": {
@@ -2424,7 +2574,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 194323,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/6DlxVlOMWDG71sNyaJtmTy"
@@ -2530,7 +2680,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 172341,
       "name": "Tati",
       "url": "https://open.spotify.com/track/3yALdAPY0OGbmR3CefDdYz"

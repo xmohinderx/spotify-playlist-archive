@@ -298,7 +298,7 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 227133,
       "name": "Again",
       "url": "https://open.spotify.com/track/0IaMMHVbpJ0LrRAeigWOXr"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2019-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 220160,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/1lZ4j5WBURBwZ0M5TT46wP"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-12",
+      "date_removed": null,
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2019-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 256026,
       "name": "Bills, Bills, Bills",
       "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2019-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 234813,
       "name": "Change the World - 2015 Remaster",
       "url": "https://open.spotify.com/track/5EVIK1ZxQF78Ryq4hiWj0F"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 235293,
       "name": "Could I Have This Kiss Forever",
       "url": "https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm"
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 351466,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
@@ -5535,6 +5535,24 @@
     },
     {
       "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456866,
+      "name": "It's All Coming Back to Me Now",
+      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
+    },
+    {
+      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
       },
@@ -5582,7 +5600,7 @@
       ],
       "date_added": "2020-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-07",
+      "date_removed": null,
       "duration_ms": 292400,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/3M5CUQzQ59GdpADOQiVW99"
@@ -6654,7 +6672,7 @@
       ],
       "date_added": "2019-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 219600,
       "name": "Mambo No. 5 (A Little Bit of...)",
       "url": "https://open.spotify.com/track/5lA6mFOvaiienokVbTZEQx"
@@ -6946,7 +6964,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 334040,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp"
@@ -8440,7 +8458,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 272146,
       "name": "Ride On Time",
       "url": "https://open.spotify.com/track/4YACgyR9xdAcyJMBV8H6oX"
@@ -8538,7 +8556,7 @@
       ],
       "date_added": "2019-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 265866,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
@@ -8992,7 +9010,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-14",
+      "date_removed": null,
       "duration_ms": 228613,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/5KaggKyCa9QZk25z93D4Zs"
@@ -9180,7 +9198,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 294986,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/3kenIsD2tMzxb8XtJlxi5J"
@@ -9418,7 +9436,7 @@
       ],
       "date_added": "2019-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
@@ -9436,7 +9454,7 @@
       ],
       "date_added": "2019-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 267293,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
@@ -11696,7 +11714,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 217973,
       "name": "Would I Lie To You?",
       "url": "https://open.spotify.com/track/3AGr9oU017BVQnT0zwkhyQ"
@@ -11732,7 +11750,7 @@
       ],
       "date_added": "2019-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 272983,
       "name": "You",
       "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"

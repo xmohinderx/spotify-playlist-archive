@@ -2106,7 +2106,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174653,
-      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation 18. Andante cantabile",
+      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
       "url": "https://open.spotify.com/track/419qlOGNXoyICx4jO0hqaj"
     },
     {
@@ -2702,7 +2702,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 294960,
-      "name": "Suite bergamasque, L. 75: 3. Clair de lune",
+      "name": "Suite bergamasque, L. 75: III. Clair de lune",
       "url": "https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB"
     },
     {
@@ -2971,6 +2971,32 @@
     },
     {
       "album": {
+        "name": "Schubert: Symphony No.8 \"Unfinished\"; Symphony No.9 \"Great\"",
+        "url": "https://open.spotify.com/album/2nFVSsVHVJtGAnw37l8hwC"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Josef Krips",
+          "url": "https://open.spotify.com/artist/55ZzUX5aeX7bKQyRMsQMbG"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 906000,
+      "name": "Symphony No. 8 In B Minor, D.759 - \"Unfinished\": 1. Allegro moderato",
+      "url": "https://open.spotify.com/track/52GmHO5DikTIKc3yBmTTT1"
+    },
+    {
+      "album": {
         "name": "Dvo\u0159\u00e1k: Symphony No. 9 \"From the New World\" (Live)",
         "url": "https://open.spotify.com/album/0IT7dlpnQAfmSjIAiSAboK"
       },
@@ -3072,32 +3098,6 @@
       "duration_ms": 482000,
       "name": "Symphony No.5 in E flat, Op.82: 3. Allegro molto",
       "url": "https://open.spotify.com/track/7xGcLLeK1de0I71lH28DeM"
-    },
-    {
-      "album": {
-        "name": "Schubert: Symphony No.8 \"Unfinished\"; Symphony No.9 \"Great\"",
-        "url": "https://open.spotify.com/album/2nFVSsVHVJtGAnw37l8hwC"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Josef Krips",
-          "url": "https://open.spotify.com/artist/55ZzUX5aeX7bKQyRMsQMbG"
-        }
-      ],
-      "date_added": "2021-09-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 906000,
-      "name": "Symphony No.8 in B minor, D.759 - \"Unfinished\": 1. Allegro moderato",
-      "url": "https://open.spotify.com/track/52GmHO5DikTIKc3yBmTTT1"
     },
     {
       "album": {

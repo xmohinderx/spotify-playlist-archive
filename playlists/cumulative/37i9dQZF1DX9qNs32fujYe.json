@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/7FgdN0xNj5EfXUo0falBTN"
+      },
+      "artists": [
+        {
+          "name": "Unleash The Archers",
+          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404093,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/6dGSXCf230k3YsEGOvXNAy"
+    },
+    {
+      "album": {
         "name": "When Sparks Ignite",
         "url": "https://open.spotify.com/album/42CN8XeBps5yftXwjsWH3w"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 328000,
       "name": "Angel In Disgrace",
       "url": "https://open.spotify.com/track/2yoCtR2C0sMFgII70RosuY"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 266014,
       "name": "Armed To The Teeth",
       "url": "https://open.spotify.com/track/4MbJlBkNTEXGJ0sL8U5ABN"
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 300152,
       "name": "Become The Firestorm",
       "url": "https://open.spotify.com/track/3EPgili2JS1ZR9LVMj05Rq"
@@ -182,7 +200,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 322226,
       "name": "Below Zero 2021",
       "url": "https://open.spotify.com/track/5Jxiq1W2r3Rs9K5dR9Nr2s"
@@ -229,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Bound to You",
+        "url": "https://open.spotify.com/album/4LBRpVSwm4DKouQRuj9xJg"
+      },
+      "artists": [
+        {
+          "name": "Lords of Black",
+          "url": "https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320638,
+      "name": "Bound to You",
+      "url": "https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf"
+    },
+    {
+      "album": {
         "name": "Firewind",
         "url": "https://open.spotify.com/album/0eABZjNzoxwU6UVDyPzg3y"
       },
@@ -240,10 +276,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 313400,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/6wtfIonPBuxMmgPZUCM0kj"
+    },
+    {
+      "album": {
+        "name": "Brother of the Storm",
+        "url": "https://open.spotify.com/album/3lLA3FMglcgPttcLCUEUuU"
+      },
+      "artists": [
+        {
+          "name": "Grand Magus",
+          "url": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Brother of the Storm",
+      "url": "https://open.spotify.com/track/16xgTpD2IK6HNxnYOhuAGn"
     },
     {
       "album": {
@@ -258,7 +312,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 388035,
       "name": "Catastrophist",
       "url": "https://open.spotify.com/track/32pOmdexX8M7me2PdINJYb"
@@ -294,7 +348,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 293750,
       "name": "Chernobyl 2.0",
       "url": "https://open.spotify.com/track/37kv4U7UWzP6ggS7ktima0"
@@ -319,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Conductor (Redux)",
+        "url": "https://open.spotify.com/album/0jaLIvRyOlq3dddmylT8rb"
+      },
+      "artists": [
+        {
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249094,
+      "name": "Conductor (Redux)",
+      "url": "https://open.spotify.com/track/6FPYB4S5wawOFERTxlVCA6"
+    },
+    {
+      "album": {
         "name": "Construction of Souls",
         "url": "https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk"
       },
@@ -337,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Creatures Of The Dark Realm (Japan Edition)",
+        "url": "https://open.spotify.com/album/1yETM7Cx0FFPiDAAcSOeAQ"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Creatures Of The Dark Realm",
+      "url": "https://open.spotify.com/track/3pKt0cqu9kyUzftP41AXXh"
+    },
+    {
+      "album": {
         "name": "Crossing the Blades",
         "url": "https://open.spotify.com/album/4FMF6kWNYex6Poy4GA8FQ3"
       },
@@ -348,10 +438,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 326586,
       "name": "Crossing the Blades",
       "url": "https://open.spotify.com/track/4diHw8YPlaaKbcqATN3WBd"
+    },
+    {
+      "album": {
+        "name": "Cybernetic Overload",
+        "url": "https://open.spotify.com/album/0JAJvtzHGsXelq34uUcj8R"
+      },
+      "artists": [
+        {
+          "name": "Kambrium",
+          "url": "https://open.spotify.com/artist/0rrHjjV4E5FY90raLsXUyh"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319880,
+      "name": "Cybernetic Overload",
+      "url": "https://open.spotify.com/track/4Hs6DfCznvZ6wVjfmt0Rbz"
+    },
+    {
+      "album": {
+        "name": "Dance with the Devil",
+        "url": "https://open.spotify.com/album/0prKZd93okYXYYIxrYTtzQ"
+      },
+      "artists": [
+        {
+          "name": "Burning Witches",
+          "url": "https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266466,
+      "name": "Dance with the Devil",
+      "url": "https://open.spotify.com/track/0x4rHQ1Syor8YChasHuRJg"
     },
     {
       "album": {
@@ -547,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Destroyer Paranoya",
+        "url": "https://open.spotify.com/album/2DZvbv14bdYqmoNcLv3O7F"
+      },
+      "artists": [
+        {
+          "name": "Mustasch",
+          "url": "https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191277,
+      "name": "Destroyer Paranoya",
+      "url": "https://open.spotify.com/track/6xroPcMinJRQliODVSe5zo"
+    },
+    {
+      "album": {
         "name": "Diabolic",
         "url": "https://open.spotify.com/album/0n3kyg04BzlX1kvoIh0Y2n"
       },
@@ -558,10 +702,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 481125,
       "name": "Diabolic",
       "url": "https://open.spotify.com/track/3QmT40QBlxr4n5AxhOSxkf"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Pearls",
+        "url": "https://open.spotify.com/album/2V1IqJtRDCmuHc7EmOtUMk"
+      },
+      "artists": [
+        {
+          "name": "Running Wild",
+          "url": "https://open.spotify.com/artist/7954VFaZClkL503srfV5PE"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285080,
+      "name": "Diamonds & Pearls",
+      "url": "https://open.spotify.com/track/7mWtTWEiqYOkKR5UDQroqR"
     },
     {
       "album": {
@@ -594,7 +756,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 225133,
       "name": "Disruptor",
       "url": "https://open.spotify.com/track/3NGhrDLVlVVB3fQuz447ZB"
@@ -619,6 +781,24 @@
     },
     {
       "album": {
+        "name": "Down and Out",
+        "url": "https://open.spotify.com/album/5oJdANHLwnB7wxDuoAkTOq"
+      },
+      "artists": [
+        {
+          "name": "Savage Messiah",
+          "url": "https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Down and Out",
+      "url": "https://open.spotify.com/track/2mjhf9C6pE6oUkxF7mRyd7"
+    },
+    {
+      "album": {
         "name": "The Gathering",
         "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
       },
@@ -634,6 +814,36 @@
       "duration_ms": 203680,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+    },
+    {
+      "album": {
+        "name": "Downright Dominate",
+        "url": "https://open.spotify.com/album/5mh49cSFUxTvGqpnJ48NDO"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        },
+        {
+          "name": "Stu Block",
+          "url": "https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl"
+        },
+        {
+          "name": "Dave Lombardo",
+          "url": "https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r"
+        },
+        {
+          "name": "Alexi Laiho",
+          "url": "https://open.spotify.com/artist/0i8lHryPufXEO5xnZYG7HC"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338053,
+      "name": "Downright Dominate",
+      "url": "https://open.spotify.com/track/1FOp9dG9z5ps8gYQrafzQN"
     },
     {
       "album": {
@@ -666,10 +876,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 271800,
       "name": "Drilled to Kill",
       "url": "https://open.spotify.com/track/16jJ0Od4C5K6IiOT0fVdxe"
+    },
+    {
+      "album": {
+        "name": "Winterbane (Japan Edition)",
+        "url": "https://open.spotify.com/album/7959qrdIZlcH6ETwW0N5u3"
+      },
+      "artists": [
+        {
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304973,
+      "name": "Embrace The Night",
+      "url": "https://open.spotify.com/track/4URwHwvDeDZobzIQvfV3Bb"
     },
     {
       "album": {
@@ -803,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "For No Reason",
+        "url": "https://open.spotify.com/album/6a2JPdIQjb9egT8EI492OO"
+      },
+      "artists": [
+        {
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284518,
+      "name": "For No Reason",
+      "url": "https://open.spotify.com/track/03vyanFcfUmZAwsZC5Ni1S"
+    },
+    {
+      "album": {
         "name": "Force Majeure",
         "url": "https://open.spotify.com/album/5eTz3POhcf7hVr2kh47dP0"
       },
@@ -872,10 +1118,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 202249,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
+    },
+    {
+      "album": {
+        "name": "Ghost of Marley",
+        "url": "https://open.spotify.com/album/6wENRoHkOij2hS1s8DKUOL"
+      },
+      "artists": [
+        {
+          "name": "Majestica",
+          "url": "https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Ghost of Marley",
+      "url": "https://open.spotify.com/track/7pczoeIkihynLe4VgWEQUx"
+    },
+    {
+      "album": {
+        "name": "Gods of War",
+        "url": "https://open.spotify.com/album/6txOvleyXD8QkecGiWl0Tz"
+      },
+      "artists": [
+        {
+          "name": "Dragony",
+          "url": "https://open.spotify.com/artist/4ZGFYwFpBWxq6FxqilvRJT"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Gods of War",
+      "url": "https://open.spotify.com/track/0HqpIE7Ssx9WIQNG4FNBJW"
     },
     {
       "album": {
@@ -1034,10 +1316,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 254386,
       "name": "Heavy Metal Never Dies",
       "url": "https://open.spotify.com/track/4mJmi9z3o1B6k2vry39Ufh"
+    },
+    {
+      "album": {
+        "name": "Hellbreaker",
+        "url": "https://open.spotify.com/album/4tN4z7UnYMD8ENTHX0z9ZW"
+      },
+      "artists": [
+        {
+          "name": "Motorjesus",
+          "url": "https://open.spotify.com/artist/5ZD2aRanslnMOZ7EO9Onde"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247746,
+      "name": "Hellbreaker",
+      "url": "https://open.spotify.com/track/2s79XUW9f2VTs3Jgs1tzJP"
+    },
+    {
+      "album": {
+        "name": "Hellfire Thunderbolt",
+        "url": "https://open.spotify.com/album/0uzXsHn4u4M052Ok4Vfz2u"
+      },
+      "artists": [
+        {
+          "name": "KK's Priest",
+          "url": "https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229901,
+      "name": "Hellfire Thunderbolt",
+      "url": "https://open.spotify.com/track/008eogHQPXUzUuIURJoZuJ"
     },
     {
       "album": {
@@ -1052,7 +1370,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 246546,
       "name": "Hephaistos",
       "url": "https://open.spotify.com/track/29pGGSryvaKUklXcCkpiBI"
@@ -1088,7 +1406,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 276653,
       "name": "Hungry and Angry",
       "url": "https://open.spotify.com/track/57PT761NIApIzfORTkmwWU"
@@ -1124,7 +1442,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 188769,
       "name": "I Got No Friends",
       "url": "https://open.spotify.com/track/40uoWwjCun3axkfsQSUa8Z"
@@ -1178,10 +1496,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 311083,
       "name": "Immortally Insane",
       "url": "https://open.spotify.com/track/2tbdpZIOkV8kK0pZDBxXRQ"
+    },
+    {
+      "album": {
+        "name": "Into the Black",
+        "url": "https://open.spotify.com/album/4b99g7dJp9C9tCOIT03JaF"
+      },
+      "artists": [
+        {
+          "name": "Lords of Black",
+          "url": "https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238017,
+      "name": "Into the Black",
+      "url": "https://open.spotify.com/track/69uGltZ3kbIqYmPDHp1p2E"
     },
     {
       "album": {
@@ -1236,6 +1572,24 @@
       "duration_ms": 279692,
       "name": "Jinnslammer",
       "url": "https://open.spotify.com/track/2AjEKcRXkntPkujLXp6hGD"
+    },
+    {
+      "album": {
+        "name": "Ambush",
+        "url": "https://open.spotify.com/album/4Lp11oj4GJEz5j4bXEfdZk"
+      },
+      "artists": [
+        {
+          "name": "Tygers Of Pan Tang",
+          "url": "https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328066,
+      "name": "Keeping Me Alive",
+      "url": "https://open.spotify.com/track/2BplVdP6wG9ZePdQW936OP"
     },
     {
       "album": {
@@ -1365,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Masquerade of Madness",
+        "url": "https://open.spotify.com/album/503TX3VuEPx0zSrKz0ZmNc"
+      },
+      "artists": [
+        {
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256538,
+      "name": "Masquerade of Madness",
+      "url": "https://open.spotify.com/track/0OV5HT4cXI78HHoYe2ioXa"
+    },
+    {
+      "album": {
         "name": "Master of Confusion",
         "url": "https://open.spotify.com/album/4zPOosENFJO2AI2MJXnN2n"
       },
@@ -1376,7 +1748,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 295280,
       "name": "Master of Confusion",
       "url": "https://open.spotify.com/track/5r1pLWSHgVAwmoDcSJ4ogL"
@@ -1430,7 +1802,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 348099,
       "name": "Memento Mori",
       "url": "https://open.spotify.com/track/6V1tb8rFw1nPeOXX4sccTC"
@@ -1466,10 +1838,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 292146,
       "name": "Metal Is For Everyone",
       "url": "https://open.spotify.com/track/4ZYiE0Y1FttXgTqgZek4Kf"
+    },
+    {
+      "album": {
+        "name": "Monster Truck",
+        "url": "https://open.spotify.com/album/0v4RSjqKmZn6lorB7HymsC"
+      },
+      "artists": [
+        {
+          "name": "Lillasyster",
+          "url": "https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175533,
+      "name": "Monster Truck",
+      "url": "https://open.spotify.com/track/5FH2JoAe00DL628PTwKPH9"
     },
     {
       "album": {
@@ -1502,7 +1892,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 189895,
       "name": "More Than Dreaming",
       "url": "https://open.spotify.com/track/5DoxBVVLzWlTrCmihusfSG"
@@ -1556,10 +1946,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 270746,
       "name": "New Colossal Hate",
       "url": "https://open.spotify.com/track/4lRvl2PMPqavdm4Q1qNV0M"
+    },
+    {
+      "album": {
+        "name": "Night Rider",
+        "url": "https://open.spotify.com/album/1BHqnv1grh8s1mXj8Oekf4"
+      },
+      "artists": [
+        {
+          "name": "Hellryder",
+          "url": "https://open.spotify.com/artist/26oAigbWdVRhrCEja6DB0W"
+        },
+        {
+          "name": "Grave Digger",
+          "url": "https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Night Rider",
+      "url": "https://open.spotify.com/track/0MGLlKw16k1qGlpb69xDZ1"
     },
     {
       "album": {
@@ -1650,7 +2062,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 296316,
       "name": "One Heart One Soul",
       "url": "https://open.spotify.com/track/0XJ91I6smUYRzRCGbU2N4b"
@@ -1686,7 +2098,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 197466,
       "name": "Out of My Life",
       "url": "https://open.spotify.com/track/4Zcl7dDFtMU5bLlzDDxkZ8"
@@ -1765,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Killing the Dragon",
+        "url": "https://open.spotify.com/album/2de1fHKLJ3o6bDkCjIwcJ6"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248960,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/4xD8Pb5UGURJwnn9vi2Igu"
+    },
+    {
+      "album": {
         "name": "PvP",
         "url": "https://open.spotify.com/album/2NmhrfbIE0otcLsX7rgmJ5"
       },
@@ -1812,10 +2242,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 263786,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
+    },
+    {
+      "album": {
+        "name": "Raise Your Horns",
+        "url": "https://open.spotify.com/album/1wRRAacioilsgRLpGRmVo6"
+      },
+      "artists": [
+        {
+          "name": "Van Canto",
+          "url": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265853,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/4qQHaZ2frLScRPi7todSz9"
     },
     {
       "album": {
@@ -1830,7 +2278,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 320613,
       "name": "Raven's Flight",
       "url": "https://open.spotify.com/track/0Ov6o6FSQLOlllOm10ESwQ"
@@ -1848,7 +2296,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 244760,
       "name": "Rebellion (The Clans Are Marching) - Remastered Version",
       "url": "https://open.spotify.com/track/1P5B3ARqjPkB9yCNPZq9jV"
@@ -1866,10 +2314,82 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 336332,
       "name": "Relentless Fury",
       "url": "https://open.spotify.com/track/1RGDlueHxiU2hXPdiS83ZE"
+    },
+    {
+      "album": {
+        "name": "Sermons of the Sinner",
+        "url": "https://open.spotify.com/album/2UsNPZEyu8sjbgo1Od1XWr"
+      },
+      "artists": [
+        {
+          "name": "KK's Priest",
+          "url": "https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539024,
+      "name": "Return of the Sentinel",
+      "url": "https://open.spotify.com/track/0QBSV8U9hl1GkdFilmQFNp"
+    },
+    {
+      "album": {
+        "name": "Reinventing The Steel - 20th Anniversary Deluxe Edition (Terry Date Mix)",
+        "url": "https://open.spotify.com/album/5t6KIM8JLS1NQ46PWPrPtR"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316128,
+      "name": "Revolution Is My Name - 2020 Terry Date Mix",
+      "url": "https://open.spotify.com/track/2ZDpLMQHTZPEN05gQMPbDs"
+    },
+    {
+      "album": {
+        "name": "Enlightened In Eternity",
+        "url": "https://open.spotify.com/album/2PRYdPB2jz4mC7rmIU4E1M"
+      },
+      "artists": [
+        {
+          "name": "Spirit Adrift",
+          "url": "https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282880,
+      "name": "Ride into the Light",
+      "url": "https://open.spotify.com/track/46wMCxSguASbKzxmcgPZB7"
+    },
+    {
+      "album": {
+        "name": "Rise Of The Dragon Empire",
+        "url": "https://open.spotify.com/album/2EfhdHrbnVo4zt4RnoHOdr"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "Rise Of The Dragon Empire",
+      "url": "https://open.spotify.com/track/1CfIgWmS5LuZMinBMjxuWc"
     },
     {
       "album": {
@@ -1909,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323933,
+      "name": "Sad But True",
+      "url": "https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb"
+    },
+    {
+      "album": {
         "name": "Saturday Night (Hallelujah)",
         "url": "https://open.spotify.com/album/12oWtJ1bV116awAv3DRWMK"
       },
@@ -1924,6 +2462,24 @@
       "duration_ms": 196549,
       "name": "Saturday Night (Hallelujah)",
       "url": "https://open.spotify.com/track/3cnHO8mFG1tqSNWChMI1zh"
+    },
+    {
+      "album": {
+        "name": "Sermons of the Sinner",
+        "url": "https://open.spotify.com/album/5M3iDNGrwaF8emK4COEgdM"
+      },
+      "artists": [
+        {
+          "name": "KK's Priest",
+          "url": "https://open.spotify.com/artist/0bDUXDIVbwZC0NVw26b4D3"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325455,
+      "name": "Sermons of the Sinner",
+      "url": "https://open.spotify.com/track/1t31VXgKUO3TvxXKz9OO8q"
     },
     {
       "album": {
@@ -1974,7 +2530,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 228856,
       "name": "Sneeztem of a Yawn",
       "url": "https://open.spotify.com/track/65maZKa3fnYC3GAXRrq7R8"
@@ -1992,7 +2548,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 296213,
       "name": "Souleater",
       "url": "https://open.spotify.com/track/7KWCzqPg2WrritNTlYuQ4t"
@@ -2010,7 +2566,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 263373,
       "name": "Stand Up And Fight",
       "url": "https://open.spotify.com/track/2NupQZzmVNeDtI3aNTykH8"
@@ -2050,7 +2606,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 246396,
       "name": "Steh auf - Live",
       "url": "https://open.spotify.com/track/4u03E7bxeXp4m2w1gAdoLq"
@@ -2122,7 +2678,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 320507,
       "name": "Teardrinker",
       "url": "https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt"
@@ -2140,7 +2696,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 434773,
       "name": "Tears of a Mandrake",
       "url": "https://open.spotify.com/track/3rjLNQoQltUK2IH9EHz5Wu"
@@ -2194,10 +2750,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 303640,
       "name": "The Final Sacrifice",
       "url": "https://open.spotify.com/track/4cScKIcfk0H7Awz0Yugsa2"
+    },
+    {
+      "album": {
+        "name": "The God Machine",
+        "url": "https://open.spotify.com/album/2OgISomK2lsnOSvyGP0Cpt"
+      },
+      "artists": [
+        {
+          "name": "Steel Prophet",
+          "url": "https://open.spotify.com/artist/4v1a1bQxKeJh5afZEJAzjg"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201719,
+      "name": "The God Machine",
+      "url": "https://open.spotify.com/track/0s9tecYETp3GUGQkVqOcwf"
     },
     {
       "album": {
@@ -2273,6 +2847,42 @@
     },
     {
       "album": {
+        "name": "Torn Arteries",
+        "url": "https://open.spotify.com/album/7gLYRl6OVQjgsceV95XuUR"
+      },
+      "artists": [
+        {
+          "name": "Carcass",
+          "url": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320680,
+      "name": "The Scythe's Remorseless Swing",
+      "url": "https://open.spotify.com/track/1lDusYqix25i6mR2eY6ltG"
+    },
+    {
+      "album": {
+        "name": "The Shellback",
+        "url": "https://open.spotify.com/album/4zo5sOsmEpY1hVvoG9oX5Z"
+      },
+      "artists": [
+        {
+          "name": "Running Wild",
+          "url": "https://open.spotify.com/artist/7954VFaZClkL503srfV5PE"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372626,
+      "name": "The Shellback",
+      "url": "https://open.spotify.com/track/5bh6QfHWuR1YdnKOdj8kYA"
+    },
+    {
+      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
       },
@@ -2306,6 +2916,24 @@
       "duration_ms": 338254,
       "name": "The Undertaker",
       "url": "https://open.spotify.com/track/3uBjEUnGmq3JOhCEjFzHw8"
+    },
+    {
+      "album": {
+        "name": "The Years of Death and Dying",
+        "url": "https://open.spotify.com/album/1rh3IaZg2O8txp2mSXirNH"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322680,
+      "name": "The Years of Death and Dying",
+      "url": "https://open.spotify.com/track/4dVudcK5JtTjsz2pjWfHni"
     },
     {
       "album": {
@@ -2356,7 +2984,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 228408,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/74ameKBF6bcaHN7O6Knmqw"
@@ -2374,10 +3002,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 277546,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/1IaQLINjiOCSv4INrrv0aS"
+    },
+    {
+      "album": {
+        "name": "Uranus (feat. Michael Starr)",
+        "url": "https://open.spotify.com/album/5KquqpCt18zTEVgakTfLYz"
+      },
+      "artists": [
+        {
+          "name": "NanowaR of Steel",
+          "url": "https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5"
+        },
+        {
+          "name": "Michael Starr",
+          "url": "https://open.spotify.com/artist/6tTXfeP8gXGYMxWOz1Epwe"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253389,
+      "name": "Uranus (feat. Michael Starr)",
+      "url": "https://open.spotify.com/track/6F5OGRRIQDc5hF60mcjSTx"
     },
     {
       "album": {
@@ -2471,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "We Are What We Are",
+        "url": "https://open.spotify.com/album/6TE3LXZkzsAHDPuTo8YRww"
+      },
+      "artists": [
+        {
+          "name": "Lion's Share",
+          "url": "https://open.spotify.com/artist/4yIytMmJ2tx30YdMAMkDSo"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252151,
+      "name": "We Are What We Are",
+      "url": "https://open.spotify.com/track/7xgeLOrFheKF2yPqiLmjU8"
+    },
+    {
+      "album": {
         "name": "The Witch of the North",
         "url": "https://open.spotify.com/album/1P6qVXbuLcqJrVZpwoPGkX"
       },
@@ -2482,7 +3150,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 311192,
       "name": "We Stand as One",
       "url": "https://open.spotify.com/track/3L8Bjiv40wAcxxmRrXUOwq"
@@ -2500,7 +3168,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 204750,
       "name": "We Will Rise",
       "url": "https://open.spotify.com/track/4DqG8CRMKIVHQ8SonkH6eH"
@@ -2525,6 +3193,78 @@
     },
     {
       "album": {
+        "name": "Where Ravens Fly",
+        "url": "https://open.spotify.com/album/3CMeu6p3d9IaDmxLEo1Svd"
+      },
+      "artists": [
+        {
+          "name": "Brainstorm",
+          "url": "https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255595,
+      "name": "Where Ravens Fly",
+      "url": "https://open.spotify.com/track/7qCKEovFm1LavsV0BeN8Ty"
+    },
+    {
+      "album": {
+        "name": "Wings of Steel",
+        "url": "https://open.spotify.com/album/5X16ADkFIiyA3cJsQbMXAy"
+      },
+      "artists": [
+        {
+          "name": "Burning Witches",
+          "url": "https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273638,
+      "name": "Wings of Steel",
+      "url": "https://open.spotify.com/track/01PlEMEsHPNmGEzUGYXo7y"
+    },
+    {
+      "album": {
+        "name": "Wolf God",
+        "url": "https://open.spotify.com/album/0WPCnrgLMpR6dpdo2C83Tw"
+      },
+      "artists": [
+        {
+          "name": "Grand Magus",
+          "url": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229070,
+      "name": "Wolf God",
+      "url": "https://open.spotify.com/track/3pmLj6LC9eYGYFi4gqlH03"
+    },
+    {
+      "album": {
+        "name": "Wolves At The Door",
+        "url": "https://open.spotify.com/album/0MVixPgkMXEeGQRMiNcuKR"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354653,
+      "name": "Wolves At The Door",
+      "url": "https://open.spotify.com/track/4xcyvmg5RAdxdQRzvApaUN"
+    },
+    {
+      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9"
       },
@@ -2536,7 +3276,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 282500,
       "name": "Worship",
       "url": "https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ"

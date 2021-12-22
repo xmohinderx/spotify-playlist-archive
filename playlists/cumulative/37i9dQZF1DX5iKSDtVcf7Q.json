@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Girl Going Nowhere",
+        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209080,
+      "name": "A Little Dive Bar in Dahlonega",
+      "url": "https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c"
+    },
+    {
+      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -568,7 +586,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 240266,
       "name": "Don't Forget to Remember Me",
       "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
@@ -1313,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Moonshine in the Trunk",
+        "url": "https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "River Bank",
+      "url": "https://open.spotify.com/track/0U6uTxVPeoXFcxlXMIWgAR"
+    },
+    {
+      "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
       },
@@ -1378,7 +1414,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 246453,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
@@ -1702,7 +1738,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 184186,
       "name": "U.S. Stronger",
       "url": "https://open.spotify.com/track/4I8cuwbwWfU8e2iDrubxEs"
@@ -1908,6 +1944,24 @@
       "duration_ms": 167906,
       "name": "XXX's And OOO's (An American Girl)",
       "url": "https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Tour + You and the Radio",
+        "url": "https://open.spotify.com/album/6cReHCMwEQndsiAmNH9cd6"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "You and the Radio",
+      "url": "https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh"
     },
     {
       "album": {

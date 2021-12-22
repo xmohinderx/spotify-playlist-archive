@@ -90,7 +90,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 159629,
       "name": "All This Life",
       "url": "https://open.spotify.com/track/1hjcNJETMy5NYuQkRtsKpC"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 237579,
       "name": "Borders",
       "url": "https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 210119,
       "name": "Bravado",
       "url": "https://open.spotify.com/track/0r7hyq2nRub3Swcodfi3pR"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2020-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 138000,
       "name": "Cauliflower",
       "url": "https://open.spotify.com/track/4Vp0zrHb37MuYWmzsbXQWa"
@@ -386,6 +386,60 @@
       "duration_ms": 218156,
       "name": "Citrus",
       "url": "https://open.spotify.com/track/1q6vmLQcqhMfvzWmQYxl1K"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/3lwy2PkY9ySC5xj0teYHiH"
+      },
+      "artists": [
+        {
+          "name": "Brother Zulu",
+          "url": "https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v"
+    },
+    {
+      "album": {
+        "name": "Coffee Bean",
+        "url": "https://open.spotify.com/album/74rQ5m43jTqx4GTbQkjiMd"
+      },
+      "artists": [
+        {
+          "name": "Zaniah",
+          "url": "https://open.spotify.com/artist/20ffkBo6mbfR82Lvt6HjvH"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Coffee Bean",
+      "url": "https://open.spotify.com/track/5vELlkkfUGP2OJ32wqrMKa"
+    },
+    {
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/07yfD6iFop3fOAH5zV5mje"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165978,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/3SlKn22we9mXaoRY6t78i6"
     },
     {
       "album": {
@@ -448,7 +502,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 217064,
       "name": "Design",
       "url": "https://open.spotify.com/track/1pX8oB4YvglQZEkLJBMkRv"
@@ -492,7 +546,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 166857,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/1CfTuOvVnBDEE9ox8yYDrv"
@@ -518,7 +572,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 176250,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr"
@@ -543,6 +597,24 @@
     },
     {
       "album": {
+        "name": "First Breath",
+        "url": "https://open.spotify.com/album/6nBODeU8XdMPUPrGJw0fIg"
+      },
+      "artists": [
+        {
+          "name": "Tash Hills",
+          "url": "https://open.spotify.com/artist/3k8wWuTNjJa3Y5BZBiPN0s"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "First Breath",
+      "url": "https://open.spotify.com/track/4okrW2ffnVzzAJ7jEIDd74"
+    },
+    {
+      "album": {
         "name": "Float up (feat. Anjelika Jelly Joseph)",
         "url": "https://open.spotify.com/album/17ehr8zuWyp5c58DQLMICe"
       },
@@ -554,10 +626,32 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 179285,
       "name": "Float up (feat. Anjelika Jelly Joseph)",
       "url": "https://open.spotify.com/track/0PQXuc6js4XuJ3dW9qVvcL"
+    },
+    {
+      "album": {
+        "name": "Free Facts",
+        "url": "https://open.spotify.com/album/0xvhuqgYf63DzyjNSCDFtt"
+      },
+      "artists": [
+        {
+          "name": "Branjae",
+          "url": "https://open.spotify.com/artist/4kiGM3V7D2uMFT5g484jLw"
+        },
+        {
+          "name": "Nathan Wright",
+          "url": "https://open.spotify.com/artist/5EBD6QODAHNIfE0772MvAj"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160462,
+      "name": "Free Facts",
+      "url": "https://open.spotify.com/track/0gE1msPgOERcj1PHEfy0QV"
     },
     {
       "album": {
@@ -638,7 +732,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 241253,
       "name": "Good People",
       "url": "https://open.spotify.com/track/7M7wlgmhKhfZq7UN4U8wmC"
@@ -787,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Keepin' Me Under",
+        "url": "https://open.spotify.com/album/4HnrcjFmT4V7MzB1YiscPt"
+      },
+      "artists": [
+        {
+          "name": "Rayowa",
+          "url": "https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238624,
+      "name": "Keepin' Me Under",
+      "url": "https://open.spotify.com/track/4OvTmsRwU5YH9dRqC6rojB"
+    },
+    {
+      "album": {
         "name": "Kind of Freak",
         "url": "https://open.spotify.com/album/48zZsra0i4FCVPAbTRAEkg"
       },
@@ -894,7 +1006,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 185733,
       "name": "Macaroni Salad",
       "url": "https://open.spotify.com/track/5p8RR3x2fsDLxBhPAvi5Qh"
@@ -1019,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Now We're Cooking",
+        "url": "https://open.spotify.com/album/6BM83Q7baNXxiiLAUEGGFb"
+      },
+      "artists": [
+        {
+          "name": "Duke & The Dry Cleaners",
+          "url": "https://open.spotify.com/artist/4EYbEpiFV6S1ox4cWHvjlf"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213101,
+      "name": "Now We're Cooking",
+      "url": "https://open.spotify.com/track/5B9kAjQ1JEdaQvhLsBVxjk"
+    },
+    {
+      "album": {
         "name": "Orange Tracksuit",
         "url": "https://open.spotify.com/album/2neGSz63k9Gn9sOIZHIv8s"
       },
@@ -1034,6 +1164,24 @@
       "duration_ms": 163263,
       "name": "Orange Tracksuit",
       "url": "https://open.spotify.com/track/7iy5y0YQX7MoFmP8G9Dyvg"
+    },
+    {
+      "album": {
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/2xfOOS2fMm3BQSpnSHKESw"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204210,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/2WwxprzPDdUqmUF8dcHGSI"
     },
     {
       "album": {
@@ -1092,6 +1240,24 @@
       "duration_ms": 160096,
       "name": "Peach",
       "url": "https://open.spotify.com/track/0gM8QGo4unf0k2nSptufIz"
+    },
+    {
+      "album": {
+        "name": "Peacockin'",
+        "url": "https://open.spotify.com/album/6WnZDT94BC6W89jE552qoN"
+      },
+      "artists": [
+        {
+          "name": "Xperience",
+          "url": "https://open.spotify.com/artist/0I9ypY8cPMh1a3N3Yra40T"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217710,
+      "name": "Peacockin'",
+      "url": "https://open.spotify.com/track/5AewSgNZjt2ZrLcmKfS0PR"
     },
     {
       "album": {
@@ -1194,7 +1360,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 253745,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/7qArNkBYimMqrrRvVtzuPI"
@@ -1278,10 +1444,54 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 243920,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/2QhNFaJB5OWywH55GG1hNQ"
+    },
+    {
+      "album": {
+        "name": "Humphrey",
+        "url": "https://open.spotify.com/album/0x6A6RLnaqf1L5YPmldoEF"
+      },
+      "artists": [
+        {
+          "name": "Jak Lizard",
+          "url": "https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5"
+        },
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188468,
+      "name": "Somebody Like Me (feat. Brasstracks)",
+      "url": "https://open.spotify.com/track/0MiywregjNJedadEvRcVDU"
+    },
+    {
+      "album": {
+        "name": "Good Soul",
+        "url": "https://open.spotify.com/album/2bQ5Y3cltP19QjFBAb1rBT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Prewett",
+          "url": "https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj"
+        },
+        {
+          "name": "Alex Slay",
+          "url": "https://open.spotify.com/artist/3ln3LqQWM10v8nj3TC8G59"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190335,
+      "name": "Someone's Gotta Do It",
+      "url": "https://open.spotify.com/track/7JcvgejXVOux8USK59xL61"
     },
     {
       "album": {
@@ -1369,6 +1579,42 @@
     },
     {
       "album": {
+        "name": "Building Balance",
+        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190689,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/57sInFXtiUWZvj2oxtAf0A"
+    },
+    {
+      "album": {
+        "name": "Sure Don't Miss You",
+        "url": "https://open.spotify.com/album/4pRCXsCz9B7zkeNimzPyNE"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174520,
+      "name": "Sure Don't Miss You",
+      "url": "https://open.spotify.com/track/4afpgzmy9O1JB3Vovb3qb0"
+    },
+    {
+      "album": {
         "name": "Something to Say",
         "url": "https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx"
       },
@@ -1402,7 +1648,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
@@ -1464,7 +1710,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 115954,
       "name": "Thank You Master (For My Soul)",
       "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
@@ -1552,10 +1798,28 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 304218,
       "name": "Those Days Are Gone",
       "url": "https://open.spotify.com/track/3lca4MeFGxOtgePnb168n3"
+    },
+    {
+      "album": {
+        "name": "Goods the EP",
+        "url": "https://open.spotify.com/album/5KVRW2jFTfNdSvW3qPJiyi"
+      },
+      "artists": [
+        {
+          "name": "Shira Elias",
+          "url": "https://open.spotify.com/artist/7oFLqsm4xnhxx9IWS56rKQ"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261293,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7eKt06H4E9atyWYWmdo7x7"
     },
     {
       "album": {
@@ -1574,6 +1838,24 @@
       "duration_ms": 208603,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1bN0y9b42huS3Z5UjXXCYN"
+    },
+    {
+      "album": {
+        "name": "trouble",
+        "url": "https://open.spotify.com/album/2vJVkhXPsDQNXlnrMXPNNj"
+      },
+      "artists": [
+        {
+          "name": "Dylan Reese",
+          "url": "https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171232,
+      "name": "trouble",
+      "url": "https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD"
     },
     {
       "album": {
@@ -1624,10 +1906,28 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 242400,
       "name": "White Knuckles",
       "url": "https://open.spotify.com/track/4Oq4ZOVKOHkQdqQnR3WuH3"
+    },
+    {
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/0dyMYUDG6M9pLNYo3Oh0pB"
+      },
+      "artists": [
+        {
+          "name": "Garth.",
+          "url": "https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212065,
+      "name": "Wild (Golden Child) - Japan Bonus Track",
+      "url": "https://open.spotify.com/track/23XhwutrIEirC0lz1sAERf"
     },
     {
       "album": {
@@ -1664,10 +1964,46 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "album": {
+        "name": "Work Hard, REST",
+        "url": "https://open.spotify.com/album/3ldDoXff37lh0EKWdHXvfw"
+      },
+      "artists": [
+        {
+          "name": "Deep Aztec",
+          "url": "https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Work Hard, REST",
+      "url": "https://open.spotify.com/track/4JeYxdxqCONYZYrlm9nXtO"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/7qBrrDS8inczS103oA3pln"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "date_added": "2021-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185716,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez"
     },
     {
       "album": {

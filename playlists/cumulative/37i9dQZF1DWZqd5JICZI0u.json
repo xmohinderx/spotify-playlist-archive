@@ -5503,6 +5503,24 @@
     },
     {
       "album": {
+        "name": "Waiting for a while",
+        "url": "https://open.spotify.com/album/1kE9OGe88XxgNgXsNEU1Jd"
+      },
+      "artists": [
+        {
+          "name": "Velpo Sonols",
+          "url": "https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Waiting for a while",
+      "url": "https://open.spotify.com/track/2khTcCwX4XvH7Gr6MUWiDH"
+    },
+    {
+      "album": {
         "name": "Aphelion",
         "url": "https://open.spotify.com/album/02klELVwcPeTcA90xuW9G3"
       },

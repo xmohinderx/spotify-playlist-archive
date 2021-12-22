@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU"
+    },
+    {
+      "album": {
         "name": "Sunday Night Sessions",
         "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
       },
@@ -778,7 +796,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 159541,
       "name": "Here Comes Your Man",
       "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
@@ -857,6 +875,24 @@
     },
     {
       "album": {
+        "name": "I Melt With You",
+        "url": "https://open.spotify.com/album/3U5EtpqL7RLpfjAlkvV4OV"
+      },
+      "artists": [
+        {
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217344,
+      "name": "I Melt With You",
+      "url": "https://open.spotify.com/track/11Ftd4jfRnTeAcDYZgxnGx"
+    },
+    {
+      "album": {
         "name": "I Melt with You",
         "url": "https://open.spotify.com/album/2Mjpvo7XNEuQGrqpzUw1fs"
       },
@@ -868,7 +904,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 217344,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/3E8CvaJcwK13sf4lM6RoN4"
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 289185,
       "name": "Memphis Sessions: Stop Draggin' My Heart Around",
       "url": "https://open.spotify.com/track/7jRzholDH9k7zOYgz7BAjZ"
@@ -1493,6 +1529,28 @@
     },
     {
       "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192963,
+      "name": "Strangers - From \"Life In A Day\"",
+      "url": "https://open.spotify.com/track/1y8fNzfN7UiL02gUzvuTVw"
+    },
+    {
+      "album": {
         "name": "Strangers (From \"Life In A Day\")",
         "url": "https://open.spotify.com/album/5gZVsnYndVV84cOFYrJ8wX"
       },
@@ -1508,7 +1566,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 192963,
       "name": "Strangers - From \"Life In A Day\"",
       "url": "https://open.spotify.com/track/7yntS3BLfzBAKaHsIvYzjw"
@@ -2028,6 +2086,24 @@
       "duration_ms": 118476,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
+    },
+    {
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
     },
     {
       "album": {

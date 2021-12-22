@@ -57,6 +57,28 @@
     },
     {
       "album": {
+        "name": "Another Level (ft. Lovespeake)",
+        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145941,
+      "name": "Another Level (ft. Lovespeake)",
+      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "album": {
         "name": "Back In Time",
         "url": "https://open.spotify.com/album/6YVlmjo7Ljr4BBDYpLwnHW"
       },
@@ -72,7 +94,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 160877,
       "name": "Back In Time",
       "url": "https://open.spotify.com/track/7ak6KbxwwaGfkJ5B8SF6V2"
@@ -134,7 +156,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 185624,
       "name": "Banana Split (Just Do It)",
       "url": "https://open.spotify.com/track/3vqZ4crlAlJ7rsMsgqECzV"
@@ -160,6 +182,24 @@
       "duration_ms": 156635,
       "name": "BANG (with Helion)",
       "url": "https://open.spotify.com/track/4CNSKwiJTxrYCtFIOqVXGw"
+    },
+    {
+      "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/6cW8daKqCtKKQoFzORhACj"
+      },
+      "artists": [
+        {
+          "name": "Leris",
+          "url": "https://open.spotify.com/artist/0VdSeRT9CYjc7Z5394QTHI"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165424,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/5oYxTKVCBNxuhgKV9HvqL8"
     },
     {
       "album": {
@@ -270,7 +310,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 159000,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1PPmiQrg4MJOZnOl5s5aZx"
@@ -340,7 +380,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 174743,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2jLcPJdLkf2Kw5hEsAy6tZ"
@@ -362,7 +402,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 158000,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/08oSsAh7SdBmtpYg2gBbEm"
@@ -402,10 +442,50 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 188655,
       "name": "D\u00f6dade festen",
       "url": "https://open.spotify.com/track/4MpFl1Y2J6ZMG69oOGyXIs"
+    },
+    {
+      "album": {
+        "name": "E (Ventex)",
+        "url": "https://open.spotify.com/album/6JWyfAFOBkbSLpVFi5mYRg"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "Ture Brute",
+          "url": "https://open.spotify.com/artist/0qpUea90ifRlk1spr5hFbY"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "E (Ventex)",
+      "url": "https://open.spotify.com/track/0nZPJ83AFwWPNSMrS2Jr5J"
+    },
+    {
+      "album": {
+        "name": "Crash & Smile in Dada Land - September",
+        "url": "https://open.spotify.com/album/5XUPfaRR3yNpeiYboOxZGT"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288115,
+      "name": "Electronic Circus Weapon",
+      "url": "https://open.spotify.com/track/1nZmRc0XrxtQtpnwp5Upki"
     },
     {
       "album": {
@@ -498,7 +578,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -590,10 +670,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 161600,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/7EEJU3Qme2yzu8Q0OTtct6"
+    },
+    {
+      "album": {
+        "name": "Hardcore Vibes",
+        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Hardcore Vibes - Radio Edit",
+      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
     },
     {
       "album": {
@@ -668,10 +766,80 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 152109,
       "name": "i miss u - VIZE Remix",
       "url": "https://open.spotify.com/track/6c6C9mvbYNLspR9wA0Kxpd"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance with Somebody (feat. The High)",
+        "url": "https://open.spotify.com/album/6u2Y3tuGTCKgNxJWynj3qs"
+      },
+      "artists": [
+        {
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        },
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160480,
+      "name": "I Wanna Dance with Somebody (feat. The High)",
+      "url": "https://open.spotify.com/track/6wa9YlQMYlnur0kdTDgwl8"
+    },
+    {
+      "album": {
+        "name": "New Rave",
+        "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208095,
+      "name": "Kill Me Slow",
+      "url": "https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv"
+    },
+    {
+      "album": {
+        "name": "Kraken",
+        "url": "https://open.spotify.com/album/1JhYcDwdTDMr7jDfeRFkKT"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Popcorn!",
+          "url": "https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144079,
+      "name": "Kraken",
+      "url": "https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka"
     },
     {
       "album": {
@@ -748,7 +916,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 178560,
       "name": "LIAR",
       "url": "https://open.spotify.com/track/0tG6oBWS2CTH1sW1DKBbJC"
@@ -770,6 +938,28 @@
       "duration_ms": 153750,
       "name": "Life Speaks to Me",
       "url": "https://open.spotify.com/track/3OkgFUAW8yG3cA6WrZ7z8q"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/06MiUrnC08Fr34pSHUSNJN"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Ben Samama",
+          "url": "https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/6PJyds9wetrvAY5ymoY0yJ"
     },
     {
       "album": {
@@ -818,7 +1008,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 137213,
       "name": "Lovers Say Goodbye",
       "url": "https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8"
@@ -876,7 +1066,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 158000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89"
@@ -923,6 +1113,28 @@
     },
     {
       "album": {
+        "name": "Nordic Invasion",
+        "url": "https://open.spotify.com/album/4bi6Xn0pfLPxzF2b28dx85"
+      },
+      "artists": [
+        {
+          "name": "DJ RobaCo",
+          "url": "https://open.spotify.com/artist/3HsWQFdokV8W3LCNiz8rL6"
+        },
+        {
+          "name": "Dogge Doggelito",
+          "url": "https://open.spotify.com/artist/4nqYfDP6BoiVWj8mqzp2dw"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217740,
+      "name": "Nordic Invasion",
+      "url": "https://open.spotify.com/track/6tFZX0gaddiXIgj5MUPY3I"
+    },
+    {
+      "album": {
         "name": "Nostradamus",
         "url": "https://open.spotify.com/album/6XjgASEBXSPf32Vu2uYMID"
       },
@@ -964,10 +1176,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 145320,
       "name": "One More Dance (with Alida)",
       "url": "https://open.spotify.com/track/2aOK6TRYn4DneIBHJOAQ4r"
+    },
+    {
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/4QCTjdXTHmETSyuTJyq9qc"
+      },
+      "artists": [
+        {
+          "name": "Stagne",
+          "url": "https://open.spotify.com/artist/3YaykySJU2sEt65yb4mvy8"
+        },
+        {
+          "name": "Heynegaard",
+          "url": "https://open.spotify.com/artist/1bB0uLTQF5SdSf2wkocx9q"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135252,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4RAfngNknMly9wKqXtUA5h"
     },
     {
       "album": {
@@ -993,6 +1227,28 @@
     },
     {
       "album": {
+        "name": "Patience (feat. Kayla Rose)",
+        "url": "https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Kayla Rose",
+          "url": "https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220082,
+      "name": "Patience (feat. Kayla Rose)",
+      "url": "https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox"
+    },
+    {
+      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/76fUJrrJWxbtURfKeTHbVV"
       },
@@ -1008,6 +1264,24 @@
       "duration_ms": 147656,
       "name": "Peru",
       "url": "https://open.spotify.com/track/5GTboKbndutgM0oJOMpzTC"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2VQgaFiQpNz1xlZj1tTSLi"
+      },
+      "artists": [
+        {
+          "name": "DWELLO",
+          "url": "https://open.spotify.com/artist/26BzdbXkQr6eenU7j5ZDSR"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3u8T5pX80YQODtQz8bxR1f"
     },
     {
       "album": {
@@ -1048,7 +1322,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 154761,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5vD09qPYPhATeEF4GvGHVw"
@@ -1084,7 +1358,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 159640,
       "name": "Rampage (Free Fire Rampage Theme Song)",
       "url": "https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE"
@@ -1127,6 +1401,128 @@
     },
     {
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/13wCTAFQmBT53bMTK7R4oA"
+      },
+      "artists": [
+        {
+          "name": "Nora & Chris",
+          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
+        },
+        {
+          "name": "Drenchill",
+          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/7MrNIhgWoKht75AxhM0QlP"
+    },
+    {
+      "album": {
+        "name": "Remember the Summer (feat. Karra)",
+        "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        },
+        {
+          "name": "Frogmonster",
+          "url": "https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Remember the Summer (feat. Karra)",
+      "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "album": {
+        "name": "Ron Weesley Is Dead",
+        "url": "https://open.spotify.com/album/0updtDWTVcdAd4CBuL2BQj"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166948,
+      "name": "Ron Weesley Is Dead",
+      "url": "https://open.spotify.com/track/74iPP56k9Tur0GAIYKTn3q"
+    },
+    {
+      "album": {
+        "name": "Saint Tropez (feat. Irma)",
+        "url": "https://open.spotify.com/album/3vyzERUeAeLudiOul9IyOi"
+      },
+      "artists": [
+        {
+          "name": "Draze",
+          "url": "https://open.spotify.com/artist/64MGkui6smX2VENoeh6D3Q"
+        },
+        {
+          "name": "Michelle Collin",
+          "url": "https://open.spotify.com/artist/0JCIIVMatHevg7wqdpuNxg"
+        },
+        {
+          "name": "Hallasen",
+          "url": "https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C"
+        },
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/2VEpJ3EGI4R9VVUnmJTPl0"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144924,
+      "name": "Saint Tropez (feat. Irma)",
+      "url": "https://open.spotify.com/track/5vJNNukmV73WwAnGmsPht8"
+    },
+    {
+      "album": {
+        "name": "Save My Life (feat. Lovespeake)",
+        "url": "https://open.spotify.com/album/4tqrHaVlCyNSvhRD4RAvCQ"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Save My Life (feat. Lovespeake)",
+      "url": "https://open.spotify.com/track/1w8DxFHDDInmn5TovLKKrW"
+    },
+    {
+      "album": {
         "name": "Say Too Much",
         "url": "https://open.spotify.com/album/7M89BogvVDoQ7U5rOUNX8V"
       },
@@ -1146,7 +1542,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 150720,
       "name": "Say Too Much",
       "url": "https://open.spotify.com/track/2ULc68AwJcOUHwOydtsFII"
@@ -1259,6 +1655,28 @@
     },
     {
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4ovjS3yvn1WNjtrUQWwlnd"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
+    },
+    {
+      "album": {
         "name": "Sova n\u00e4r vi d\u00f6r",
         "url": "https://open.spotify.com/album/4em6rNBe95z9RM1JaWB6Eo"
       },
@@ -1292,7 +1710,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 157619,
       "name": "Spectrum (Say My Name)",
       "url": "https://open.spotify.com/track/2DRJ8zX1cHBr2DyVJNcQhu"
@@ -1318,6 +1736,28 @@
       "duration_ms": 168853,
       "name": "Stad i ljus (feat. Oscar Zia)",
       "url": "https://open.spotify.com/track/1k5qjbZeQXh2BSkvnQs44q"
+    },
+    {
+      "album": {
+        "name": "Stars Don't Shine (feat. Global Dan)",
+        "url": "https://open.spotify.com/album/4su0t3XDFmCCdQaQXd51no"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Global Dan",
+          "url": "https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221647,
+      "name": "Stars Don't Shine (feat. Global Dan)",
+      "url": "https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16"
     },
     {
       "album": {
@@ -1398,7 +1838,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 134233,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/4QqeGR3jNcS4cdPlPLbfbP"
@@ -1420,6 +1860,50 @@
       "duration_ms": 192214,
       "name": "Supa",
       "url": "https://open.spotify.com/track/6vFSpgqf12oqpvn2ABcbQZ"
+    },
+    {
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/1dKDZsigZ2AdSv54sKwTIC"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Paolo Pellegrino",
+          "url": "https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe"
+        },
+        {
+          "name": "Shibui",
+          "url": "https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136774,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4gdp8cuXyhkr0bgtL9kCkZ"
+    },
+    {
+      "album": {
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
     },
     {
       "album": {
@@ -1445,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/7ihIr7mrNqtqqqSUG5Ts7I"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F"
+    },
+    {
+      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/3e8s6snmelYIyW36UjyKfK"
       },
@@ -1460,7 +1966,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 136190,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/6kZBa2wVfTaGAdoLa3dVAP"
@@ -1478,7 +1984,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 161104,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/7hBE2hLEihxmVPYZhkNxgA"
@@ -1496,7 +2002,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 184888,
       "name": "Technodad",
       "url": "https://open.spotify.com/track/7HLGPZ6zE4Ooxy0eMVtzfe"
@@ -1562,10 +2068,50 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 159175,
       "name": "TIPSY",
       "url": "https://open.spotify.com/track/4V3ZraECwVSrNQsB5rTpLl"
+    },
+    {
+      "album": {
+        "name": "Tomorrow (feat. 433)",
+        "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "433",
+          "url": "https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Tomorrow (feat. 433)",
+      "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1FAG0GWOUkhCaQB7Pnvcwk"
+      },
+      "artists": [
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178810,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0Pebpt5NlciT4arOfAEgvB"
     },
     {
       "album": {
@@ -1636,7 +2182,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 159379,
       "name": "Watch You Die",
       "url": "https://open.spotify.com/track/0YPqcXgz1OZ4MwyPRYjff9"
@@ -1658,7 +2204,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 181896,
       "name": "We Are Here Now",
       "url": "https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4"
@@ -1688,7 +2234,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-22",
       "duration_ms": 147560,
       "name": "What Is Love (feat. Nito-Onna)",
       "url": "https://open.spotify.com/track/6vUIW5SQODOUwPzBoOrWQ2"
