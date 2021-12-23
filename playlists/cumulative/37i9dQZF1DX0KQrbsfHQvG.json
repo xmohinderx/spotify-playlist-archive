@@ -252,7 +252,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 216720,
       "name": "Blood / / Water",
       "url": "https://open.spotify.com/track/1rFAG22RkvaM6BlpWQoZ47"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 229666,
       "name": "Capital G",
       "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 248931,
       "name": "Election Year, Pt. 1",
       "url": "https://open.spotify.com/track/7epVTPb3PIFW56MqFkqHYK"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 178845,
       "name": "Feed the Pressure",
       "url": "https://open.spotify.com/track/4VeMp9BOspHpUEiD3SMww0"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 208949,
       "name": "Give In",
       "url": "https://open.spotify.com/track/1PnpENYXi7nYMRsJq6nU3k"
@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313573,
+      "name": "Killing In The Name",
+      "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "album": {
         "name": "21st Century Liability",
         "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
       },
@@ -786,6 +804,24 @@
       "duration_ms": 173326,
       "name": "Made An America",
       "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
+    },
+    {
+      "album": {
+        "name": "Marching on Ferguson",
+        "url": "https://open.spotify.com/album/4FEMJjyalJko1QFoX4C6b7"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175305,
+      "name": "Marching on Ferguson",
+      "url": "https://open.spotify.com/track/024ehhkqgITV2tDnIU0Teb"
     },
     {
       "album": {
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
@@ -1086,7 +1122,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 206373,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880"
@@ -1122,7 +1158,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 154961,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/6OpJmZltXIDFtdAroRWr0g"
@@ -1230,7 +1266,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 228520,
       "name": "Show Me A Leader - Radio Edit",
       "url": "https://open.spotify.com/track/46Li5B2A8xJ9cOYw5YEc2D"
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "The Culling",
       "url": "https://open.spotify.com/track/1yB4sUSgRGEeiSslaoRpYD"
@@ -1404,10 +1440,28 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 326983,
       "name": "This Is War",
       "url": "https://open.spotify.com/track/2D52zjCyqEIQa221lhw6uk"
+    },
+    {
+      "album": {
+        "name": "thoughts & prayers",
+        "url": "https://open.spotify.com/album/2oPgtJ1qOAi6ht4q4mTs6B"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "thoughts & prayers",
+      "url": "https://open.spotify.com/track/22yRdwQ4OXUlPrLGhF6ebu"
     },
     {
       "album": {
@@ -1494,7 +1548,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 171809,
       "name": "Walking In My Shoes",
       "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
@@ -1548,7 +1602,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 204613,
       "name": "We Fight",
       "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"

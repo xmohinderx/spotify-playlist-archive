@@ -228,7 +228,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 223267,
       "name": "Bongo",
       "url": "https://open.spotify.com/track/0etdWLl7RNJclZq28dY02I"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 152571,
       "name": "Don't Just Sit There. Do Something.",
       "url": "https://open.spotify.com/track/2t5qgXNuZUakwzkPIHmQ1i"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 141020,
       "name": "Don't Sleep",
       "url": "https://open.spotify.com/track/70dAhHaNpyVSpiIaikbo2p"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 239565,
       "name": "Don\u2019t Get Emotional",
       "url": "https://open.spotify.com/track/2i1xRBsUXQuFbxwY7JQ97E"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 248208,
       "name": "Family Tree",
       "url": "https://open.spotify.com/track/1JOCfN5bxdlFekB1v2w7Y8"
@@ -733,6 +733,32 @@
     },
     {
       "album": {
+        "name": "Get Dark",
+        "url": "https://open.spotify.com/album/1Wif0KNUca1il1zwOqq2MH"
+      },
+      "artists": [
+        {
+          "name": "Low End Activist",
+          "url": "https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg"
+        },
+        {
+          "name": "Razor",
+          "url": "https://open.spotify.com/artist/31yFxtPx2PS1EkbocfXVMi"
+        },
+        {
+          "name": "Silas",
+          "url": "https://open.spotify.com/artist/25smiq5eP95Hn9LKgLYBrO"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304142,
+      "name": "Get Dark - Silas Remix",
+      "url": "https://open.spotify.com/track/4TLKAvASUpIAh5mxPBZPeO"
+    },
+    {
+      "album": {
         "name": "GOD KNOWS",
         "url": "https://open.spotify.com/album/2lc2VYm7mforIYnectYNk4"
       },
@@ -770,7 +796,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 210056,
       "name": "Grinding Away",
       "url": "https://open.spotify.com/track/16TH6cEXzRpLcZQSC1BIpl"
@@ -1016,7 +1042,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 145352,
       "name": "Levels",
       "url": "https://open.spotify.com/track/735ygF8cN388FC1TjjuSDP"
@@ -1488,7 +1514,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 163750,
       "name": "Safe N Sound",
       "url": "https://open.spotify.com/track/15JuctmKn9ifqcuByIbzhw"
@@ -1556,7 +1582,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 197616,
       "name": "Serious 2020",
       "url": "https://open.spotify.com/track/2U9g1MRlCzXLUL0LhRkYyl"
@@ -1574,7 +1600,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 217000,
       "name": "Sezzin",
       "url": "https://open.spotify.com/track/2nAh4L1Hcrjpw9xqinWTjA"
@@ -1798,7 +1824,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 150831,
       "name": "THE ANTHEM",
       "url": "https://open.spotify.com/track/3KUymGuQtU6O46WNgy68gc"

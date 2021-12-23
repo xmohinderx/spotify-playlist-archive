@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 292307,
       "name": "Didn't He Ramble",
       "url": "https://open.spotify.com/track/6PDB3R8PZRZGnASz1E9BHE"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 270853,
       "name": "Gamble for a Rose",
       "url": "https://open.spotify.com/track/3qhyaik3Koy3cvLk9h5L8G"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 217633,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/4VeCmOb1rAEZQfH7Rlms9C"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 277597,
       "name": "I Am a War Machine",
       "url": "https://open.spotify.com/track/6ux5Y3UFasNu0x3jgGY2Xe"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 212760,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/7ijaLVa15Ml4kPRHZMMtWv"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 255253,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/5pBwNXW3vdbq7HHR6Jix71"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Proximity",
       "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH"
+      },
+      "artists": [
+        {
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291920,
+      "name": "The John Wayne",
+      "url": "https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V"
+    },
+    {
+      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 176890,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/1yvcIA5Gv4079BWuaZfDvA"
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 210113,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq"
@@ -2203,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/19HLhs8Ey6wysibfosbk0q"
+      },
+      "artists": [
+        {
+          "name": "The Lighthouse And The Whaler",
+          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258058,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
+    },
+    {
+      "album": {
         "name": "Whatever, Wherever",
         "url": "https://open.spotify.com/album/7FDQQSA96gHWwhHHgu8ZHG"
       },
@@ -2214,7 +2250,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 253573,
       "name": "Whatever, Wherever",
       "url": "https://open.spotify.com/track/2l70A11tCLtsC8fc3V4SWA"

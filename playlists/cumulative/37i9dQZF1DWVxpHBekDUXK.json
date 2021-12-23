@@ -88,7 +88,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 271729,
       "name": "Alix's Song",
       "url": "https://open.spotify.com/track/4mWBvP6cR0OG6nsZ9tJgik"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 181890,
       "name": "Forget Me Knots (feat. Dublin Gospel Choir)",
       "url": "https://open.spotify.com/track/6dAekyr74OO2duFWcbRLPN"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 411373,
       "name": "Goodnight, Travel Well",
       "url": "https://open.spotify.com/track/0HfMp4RGDgjvrWX3j0VZnJ"
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+    },
+    {
+      "album": {
         "name": "Hospital Hymns",
         "url": "https://open.spotify.com/album/1gULFYjDeEsMRAXwz04qZe"
       },
@@ -423,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4BDftZAnppbkKAA4O4APzn"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248253,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/0lVYRIVjK77Z6uG2GgM8Kl"
+    },
+    {
+      "album": {
         "name": "Have Guitar-Will Travel",
         "url": "https://open.spotify.com/album/1rh3XNgiGitdVbnXUu6Zn2"
       },
@@ -474,7 +510,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 340106,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/04NcQ27eqxzypjY2Mnv6xO"
@@ -546,10 +582,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 243013,
       "name": "Let It Be (Glee Cast Version)",
       "url": "https://open.spotify.com/track/3uJwEY12nSHFLpa6BuoMkX"
+    },
+    {
+      "album": {
+        "name": "Light Up The Sky",
+        "url": "https://open.spotify.com/album/0AZUAZASaKOVyLM3DxW5lJ"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "Light Up The Sky",
+      "url": "https://open.spotify.com/track/3bDGTEU1NeVnQdeQoR4hwh"
     },
     {
       "album": {
@@ -589,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Ringo 5.1",
+        "url": "https://open.spotify.com/album/7ocjnpmGFaFLlzaMdbY5PY"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "date_added": "2018-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323853,
+      "name": "Never Without You",
+      "url": "https://open.spotify.com/track/41ZnzVlD0Kxmv1mT9mYvfT"
+    },
+    {
+      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/09lZwjsn0t2T62XaGUqfwP"
       },
@@ -622,7 +694,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 280773,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/0BdvCREmD1gvgNjKMDQjlC"
@@ -694,7 +766,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 261026,
       "name": "Save A Place For Me",
       "url": "https://open.spotify.com/track/2yceAnNos9OwKioLFo5mTy"
@@ -788,7 +860,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 271760,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
@@ -908,7 +980,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 261413,
       "name": "Tortured Boy",
       "url": "https://open.spotify.com/track/4zKjdHoYHj0CEooWORisWQ"
@@ -926,7 +998,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"

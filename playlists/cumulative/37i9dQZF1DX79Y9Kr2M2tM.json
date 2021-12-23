@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 208031,
       "name": "All That You Know - Original Mix",
       "url": "https://open.spotify.com/track/5rqTitryvvtrGgH6iUXKiF"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 218333,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2avzCVT0Zo4dgkp2vBgHOJ"
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Cormorant Bird",
+        "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207441,
+      "name": "Cormorant Bird",
+      "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
+    },
+    {
+      "album": {
         "name": "Day by Day (Acoustic)",
         "url": "https://open.spotify.com/album/7vxcJ1BRA7yp804mS2TzQm"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 219283,
       "name": "Dead Man's Suit",
       "url": "https://open.spotify.com/track/3h21zgsmD8ncbYz3RSlAJI"
@@ -835,6 +853,24 @@
     },
     {
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -918,7 +954,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
@@ -1102,7 +1138,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 289970,
       "name": "Old Now",
       "url": "https://open.spotify.com/track/6mVndIOMk620iAtXeMi4kW"
@@ -1322,7 +1358,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 265840,
       "name": "Sense of Home",
       "url": "https://open.spotify.com/track/68wibJU4yMiqNX79IaLAsN"
@@ -1362,7 +1398,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 232613,
       "name": "Silvery",
       "url": "https://open.spotify.com/track/5NrXVZfQUjjGSnzrTbGblf"
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 275080,
       "name": "Super 8 Eyes",
       "url": "https://open.spotify.com/track/4bvtfm8XL26qmM2vliZfMP"

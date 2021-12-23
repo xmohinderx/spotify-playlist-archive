@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 201496,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 174320,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 189373,
       "name": "crushcrushcrush",
       "url": "https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 191756,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
@@ -532,6 +532,24 @@
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/0bgUPauRTvHds2ZciPSuoU"
+    },
+    {
+      "album": {
+        "name": "Fake Happy (Edit)",
+        "url": "https://open.spotify.com/album/0hTy1W59wxd9eQhgSCsSZ6"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196662,
+      "name": "Fake Happy - Edit",
+      "url": "https://open.spotify.com/track/3PPgJlgCbwTP14BvcsQjYR"
     },
     {
       "album": {
@@ -755,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Hit Like A Girl",
+        "url": "https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239237,
+      "name": "Hit Like A Girl",
+      "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
+    },
+    {
+      "album": {
         "name": "Folie \u00e0 Deux",
         "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
       },
@@ -936,7 +972,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 216689,
       "name": "Kids In The Dark",
       "url": "https://open.spotify.com/track/15IYFI3Mm58gOH7dLmKI3w"
@@ -990,7 +1026,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 200226,
       "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
       "url": "https://open.spotify.com/track/7wOmQJeVX6qjNXqqsKOkPx"
@@ -1250,7 +1286,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 185733,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
@@ -1348,7 +1384,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 182866,
       "name": "smoke break//",
       "url": "https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW"
@@ -1723,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "The Great Depression",
+        "url": "https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182280,
+      "name": "The Stigma (Boys Don\u2019t Cry)",
+      "url": "https://open.spotify.com/track/2DQ7V0O22CG2xIQ7WPAocr"
+    },
+    {
+      "album": {
         "name": "Infinity On High (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03Og8YvbFYbe3hmr9MfZHT"
       },
@@ -2002,6 +2056,24 @@
       "duration_ms": 193905,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/4fwOJjucGyAIIAMgl5heL1"
+    },
+    {
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXasneILDRM7B"

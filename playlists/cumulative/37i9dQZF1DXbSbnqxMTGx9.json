@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "The Best of Ken Boothe",
+        "url": "https://open.spotify.com/album/17iaBFo1jcO5B327FIoJb7"
+      },
+      "artists": [
+        {
+          "name": "Ken Boothe",
+          "url": "https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135120,
+      "name": "Artibella",
+      "url": "https://open.spotify.com/track/1Pi38NzwTfdbvmi46pJLSx"
+    },
+    {
+      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -258,6 +276,28 @@
       "duration_ms": 165893,
       "name": "Dream Land",
       "url": "https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5"
+    },
+    {
+      "album": {
+        "name": "The Treasure Isle Story",
+        "url": "https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI"
+      },
+      "artists": [
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        },
+        {
+          "name": "Hopeton Lewis",
+          "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121093,
+      "name": "Drive Her Home",
+      "url": "https://open.spotify.com/track/5Tx4LTzQIYIJFMdzONWjcJ"
     },
     {
       "album": {
@@ -496,7 +536,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 153320,
       "name": "It Mek",
       "url": "https://open.spotify.com/track/4UjAUBivCvCFc5La3N4FS2"
@@ -514,7 +554,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 204213,
       "name": "It Must Be True Love",
       "url": "https://open.spotify.com/track/4fs7A0HgWe9guaNh3jPBFz"
@@ -572,7 +612,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 191053,
       "name": "Jordan River",
       "url": "https://open.spotify.com/track/1AQOZVoqclh3pwaa7icqC1"
@@ -590,7 +630,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M"
@@ -608,7 +648,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 227480,
       "name": "La La Bam-Bam",
       "url": "https://open.spotify.com/track/7z9tKI5lpgMmvEsVpchGiz"
@@ -702,7 +742,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 219866,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/5kHSFEtrXMjXnqSrgdg4bx"
@@ -778,7 +818,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 153466,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/3b2x5F6wXua5A2zXq4RuAA"
@@ -814,7 +854,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 174960,
       "name": "Pressure Drop",
       "url": "https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN"
@@ -879,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Poor Man Style",
+        "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Sensimilea",
+      "url": "https://open.spotify.com/track/21BiCaMzG9Lfs0Pj5ItwX0"
+    },
+    {
+      "album": {
         "name": "Love Me Forever",
         "url": "https://open.spotify.com/album/5pZe1MUvBTOSeaFUwtXqrl"
       },
@@ -890,7 +948,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 156546,
       "name": "Sincerely Yours",
       "url": "https://open.spotify.com/track/5NiwRE4610tEMKZjtJwkyQ"
@@ -930,7 +988,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 179293,
       "name": "Stalag 17",
       "url": "https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl"
@@ -1092,7 +1150,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 161973,
       "name": "The Tide Is High - Stereo Version",
       "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
@@ -1128,7 +1186,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 181413,
       "name": "This Is Reggae Music",
       "url": "https://open.spotify.com/track/10McHNtBiND3fSJMuLqJql"
@@ -1146,7 +1204,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 200253,
       "name": "Till Then",
       "url": "https://open.spotify.com/track/4avroLEAQBpzWSKqx2xCme"
@@ -1200,7 +1258,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 196933,
       "name": "What Does It Take (To Win Your Love)",
       "url": "https://open.spotify.com/track/3CCm37PRX6o0SAzgzR2WiD"
@@ -1218,7 +1276,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 252466,
       "name": "Working On a Groovy Thing",
       "url": "https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH"

@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "After Fallen Leaves",
+        "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
+      },
+      "artists": [
+        {
+          "name": "Roscoe Mitchell",
+          "url": "https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov"
+        },
+        {
+          "name": "Brus Trio",
+          "url": "https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291066,
+      "name": "And Then There Was Peace",
+      "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
+    },
+    {
+      "album": {
         "name": "Argonautica",
         "url": "https://open.spotify.com/album/7FsJspq5NoVKFjFm8IFSej"
       },
@@ -67,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Hommage \u00c0 Bart\u00f2k",
+        "url": "https://open.spotify.com/album/3gHuZtGKNrYV5sOUvYouly"
+      },
+      "artists": [
+        {
+          "name": "Steve Swell",
+          "url": "https://open.spotify.com/artist/63mW3Dk3IOcppvvV3R5Hlo"
+        },
+        {
+          "name": "Kende Dreams",
+          "url": "https://open.spotify.com/artist/3UavYzlEiScQBO8Rsq8VVo"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492066,
+      "name": "Attack of the Mikrokosmos",
+      "url": "https://open.spotify.com/track/42wVyu4ZVkFLBMK2cqZEYB"
+    },
+    {
+      "album": {
         "name": "Now Playing Don Cherry",
         "url": "https://open.spotify.com/album/3fvpOLLX8Rhulm9ChxqX8O"
       },
@@ -78,7 +122,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 415840,
       "name": "Awake Nu (Remastered)",
       "url": "https://open.spotify.com/track/1YlTuLs7h8VxqxImc1mh2l"
@@ -104,7 +148,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 210440,
       "name": "Blue Threads",
       "url": "https://open.spotify.com/track/1Vs1wAPWPnLondVj2OTguz"
@@ -130,7 +174,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 763674,
       "name": "Boltzmann Brain",
       "url": "https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5"
@@ -156,7 +200,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 359466,
       "name": "Box Step",
       "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
@@ -174,7 +218,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 619226,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/2GaaMfyaIL0QM9hI40Hrj3"
@@ -214,6 +258,46 @@
       "duration_ms": 463330,
       "name": "Cancellation - Digital Remaster/2006",
       "url": "https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa"
+    },
+    {
+      "album": {
+        "name": "Supersense",
+        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
+      },
+      "artists": [
+        {
+          "name": "Steph Richards",
+          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
+    },
+    {
+      "album": {
+        "name": "How to Turn the Moon",
+        "url": "https://open.spotify.com/album/2Av1aOBp5UDgNH3RkryrN8"
+      },
+      "artists": [
+        {
+          "name": "Angelica Sanchez",
+          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
+        },
+        {
+          "name": "Marilyn Crispell",
+          "url": "https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490957,
+      "name": "Ceiba Portal",
+      "url": "https://open.spotify.com/track/6tVppbfMTjDEZtIyCTVc9z"
     },
     {
       "album": {
@@ -274,6 +358,24 @@
       "duration_ms": 375173,
       "name": "Cinema: entr'acte symphonique de Relache (arr. for chamber ensemble)",
       "url": "https://open.spotify.com/track/0dixluAn0piS3iY1JsoQI0"
+    },
+    {
+      "album": {
+        "name": "Visiting Texture",
+        "url": "https://open.spotify.com/album/4ZQzLMdMBdyfONnftLOzgN"
+      },
+      "artists": [
+        {
+          "name": "Trio 3",
+          "url": "https://open.spotify.com/artist/53psjKXqjEs7i8Xgw1xxNq"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399560,
+      "name": "Composite",
+      "url": "https://open.spotify.com/track/2IXxhyBkczi3kz6QRWuIsQ"
     },
     {
       "album": {
@@ -426,7 +528,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 399882,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/0ssTZCjpOLSJuGfDj7a9SV"
@@ -451,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Sonic Fiction",
+        "url": "https://open.spotify.com/album/60DNNisiBJAHC9aiFNx7Qo"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp Quartet",
+          "url": "https://open.spotify.com/artist/1iBj0pGFzWo1DPeudiGCuT"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204080,
+      "name": "First Step",
+      "url": "https://open.spotify.com/track/6prtfMlXq8ER0zknYsZCDw"
+    },
+    {
+      "album": {
         "name": "Jonah Rosenberg\u2019s Fabulous Trio - The Bulbous and The Budding",
         "url": "https://open.spotify.com/album/0On5P1MK3poldhDSaB2wBl"
       },
@@ -462,7 +582,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 760558,
       "name": "Fractured Gatherings",
       "url": "https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI"
@@ -480,7 +600,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 411466,
       "name": "From Before",
       "url": "https://open.spotify.com/track/5xNLSDTG2TL62XufqAnvWN"
@@ -498,7 +618,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 363413,
       "name": "Fuchsia Swing Song",
       "url": "https://open.spotify.com/track/1MrNi6XiF5JB3rucU0sDsO"
@@ -520,6 +640,32 @@
       "duration_ms": 165613,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5CWLhuuIGwTl96DQsVfeml"
+    },
+    {
+      "album": {
+        "name": "Past the Potatoes",
+        "url": "https://open.spotify.com/album/2Lw5qjRfuLw9S1beyYzhAa"
+      },
+      "artists": [
+        {
+          "name": "Blaise Siwula",
+          "url": "https://open.spotify.com/artist/7nYLrkvpbB4OYYKr4HLMVG"
+        },
+        {
+          "name": "John Loggia",
+          "url": "https://open.spotify.com/artist/5KMa2fgocQFk6IAIMVRmyZ"
+        },
+        {
+          "name": "Aron Namenwirth",
+          "url": "https://open.spotify.com/artist/1lGhUmYm7CSOMBrV7l1IpF"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408638,
+      "name": "Golden Calf",
+      "url": "https://open.spotify.com/track/3fPHc6SaoMLYoIv3YbUh0I"
     },
     {
       "album": {
@@ -546,7 +692,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 335256,
       "name": "Haie d'eau II",
       "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
@@ -576,7 +722,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 441973,
       "name": "Hemlock",
       "url": "https://open.spotify.com/track/0Ru8qoDCdYck8yELWqRUbO"
@@ -742,7 +888,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 312626,
       "name": "Love",
       "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
@@ -786,7 +932,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 271798,
       "name": "Melt All the Guns",
       "url": "https://open.spotify.com/track/4zpN6HASOz9T15MhpBvM4A"
@@ -804,7 +950,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 461626,
       "name": "Mr. Syms",
       "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
@@ -840,7 +986,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 427746,
       "name": "Nona's Blues",
       "url": "https://open.spotify.com/track/0yRHtnaA8A7F0G4L5xM443"
@@ -916,7 +1062,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 334762,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/1Rk7L0w2piutRt6onKrIdj"
@@ -938,7 +1084,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 353746,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/6AfsQO3JDAW1Gc8se9lJ4N"
@@ -974,7 +1120,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 378666,
       "name": "Round Trip",
       "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
@@ -992,10 +1138,36 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 153000,
       "name": "Safety Shoes",
       "url": "https://open.spotify.com/track/5z0fXBlI6jsmUVdgRg9yIg"
+    },
+    {
+      "album": {
+        "name": "In Cahoots",
+        "url": "https://open.spotify.com/album/0STbF1O34unFR85y3dX67B"
+      },
+      "artists": [
+        {
+          "name": "Ned Rothenberg",
+          "url": "https://open.spotify.com/artist/3iPiojms0LEjBg8RqKuChh"
+        },
+        {
+          "name": "Mark Feldman",
+          "url": "https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA"
+        },
+        {
+          "name": "Sylvie Courvoisier",
+          "url": "https://open.spotify.com/artist/3ApjZpZhqZNl21HprnmXW3"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227346,
+      "name": "Shudder to Think",
+      "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
     },
     {
       "album": {
@@ -1018,7 +1190,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 297195,
       "name": "Song for the Snake Man",
       "url": "https://open.spotify.com/track/1PyppsTQBbIkefIUGyyI9O"
@@ -1084,7 +1256,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 284333,
       "name": "Symphony in Green",
       "url": "https://open.spotify.com/track/2vNuKZig6013siPnsYXB8h"
@@ -1124,7 +1296,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 258333,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
@@ -1142,7 +1314,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 430053,
       "name": "The Unidentifiable",
       "url": "https://open.spotify.com/track/6dO9SCydkLhqwSz2ayKiEH"
@@ -1216,7 +1388,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 477533,
       "name": "Waitin",
       "url": "https://open.spotify.com/track/0GKkrixGZCTZyMSZPQcBiQ"
@@ -1234,10 +1406,28 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 292373,
       "name": "Water Babies",
       "url": "https://open.spotify.com/track/097f4XZHrS0oMDBIm1DQpC"
+    },
+    {
+      "album": {
+        "name": "Albert Mangelsdorff and His Friends",
+        "url": "https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k"
+      },
+      "artists": [
+        {
+          "name": "Albert Mangelsdorff",
+          "url": "https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw"
+        }
+      ],
+      "date_added": "2020-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347092,
+      "name": "Way Beyond Cave",
+      "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
     },
     {
       "album": {
@@ -1270,7 +1460,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 105358,
       "name": "WW5",
       "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"
@@ -1292,6 +1482,32 @@
       "duration_ms": 606160,
       "name": "You've Got To Have Freedom",
       "url": "https://open.spotify.com/track/1rD9sOqJSlzvLHtpuEW4El"
+    },
+    {
+      "album": {
+        "name": "We Met - and Then",
+        "url": "https://open.spotify.com/album/1kQGh6hvL2zXndbyZB5uAw"
+      },
+      "artists": [
+        {
+          "name": "Barre Phillips",
+          "url": "https://open.spotify.com/artist/7fYB8T3bHPQNqVGBJMRony"
+        },
+        {
+          "name": "John Butcher",
+          "url": "https://open.spotify.com/artist/0ci7QTOgaA15OkgT5GvZ7F"
+        },
+        {
+          "name": "St\u00e5le Liavik Solberg",
+          "url": "https://open.spotify.com/artist/78WjVQTuTL8OxmMqp9yM8c"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519041,
+      "name": "Zero Tolerance",
+      "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3rTk9UUrbYS"

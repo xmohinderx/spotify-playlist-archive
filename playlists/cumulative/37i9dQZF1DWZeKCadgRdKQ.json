@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 173255,
       "name": "Las Violetas",
       "url": "https://open.spotify.com/track/0e6hnhvUX5KpXdemJtdkuk"
@@ -4187,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Mount Soul",
+        "url": "https://open.spotify.com/album/2uH2pDawJtIGnS9A0nZC8W"
+      },
+      "artists": [
+        {
+          "name": "Nova Explora",
+          "url": "https://open.spotify.com/artist/4GRyo16j0MxwX8OrJ3k1bl"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Mount Soul",
+      "url": "https://open.spotify.com/track/5M2Tj8w6F5dYuCeakcwZ9D"
+    },
+    {
+      "album": {
         "name": "My World Is Changing",
         "url": "https://open.spotify.com/album/4cugHOMPDn5NlDijNiSXCf"
       },
@@ -4544,6 +4562,24 @@
       "duration_ms": 204827,
       "name": "Orbits",
       "url": "https://open.spotify.com/track/6jFX2sHOzh7tpIIOomlrqJ"
+    },
+    {
+      "album": {
+        "name": "ouma",
+        "url": "https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ"
+      },
+      "artists": [
+        {
+          "name": "Fall Ball",
+          "url": "https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177957,
+      "name": "ouma",
+      "url": "https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS"
     },
     {
       "album": {
@@ -6176,6 +6212,24 @@
       "duration_ms": 167386,
       "name": "The Light of Day",
       "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
+    },
+    {
+      "album": {
+        "name": "The Outlook",
+        "url": "https://open.spotify.com/album/4hoEgPCfFsv0fr9F5gkZ3t"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Martins",
+          "url": "https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "The Outlook",
+      "url": "https://open.spotify.com/track/58BB8I0IO8pxDkwuwWyEdw"
     },
     {
       "album": {

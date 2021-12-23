@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 96693,
       "name": "Ancient Futurism",
       "url": "https://open.spotify.com/track/2yhOvH2rS924c8bnPLCEbI"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 225491,
       "name": "Bill",
       "url": "https://open.spotify.com/track/55zTfwYJE8YZlzoHb0Y1Xz"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 382000,
       "name": "Blue to Red - Photay Remix",
       "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 196235,
       "name": "Bopatron",
       "url": "https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb"
@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Come Out and Play",
+        "url": "https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X"
+      },
+      "artists": [
+        {
+          "name": "Umziky",
+          "url": "https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187343,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
+    },
+    {
+      "album": {
         "name": "Everything Is Always a Process",
         "url": "https://open.spotify.com/album/29J7Z1vaQqGmfHzMYYyWdB"
       },
@@ -390,7 +408,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 88200,
       "name": "Complete",
       "url": "https://open.spotify.com/track/66UyVneJHbPxJtyMo59ywk"
@@ -473,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Aspects",
+        "url": "https://open.spotify.com/album/7hkJZ6OcdqRRFotfnz0fWt"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Dance Desire",
+      "url": "https://open.spotify.com/track/1kDLuI1oC6XSvaNpAqFGkv"
+    },
+    {
+      "album": {
         "name": "Dat It",
         "url": "https://open.spotify.com/album/5lbcjCoExqZKiaxXgO52Ti"
       },
@@ -546,7 +582,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 194204,
       "name": "EAV (Elia Bishara Remix)",
       "url": "https://open.spotify.com/track/6NEr5gRrW3lD2o5Oi1yigG"
@@ -608,7 +644,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 195500,
       "name": "Firstness Of Thirdness",
       "url": "https://open.spotify.com/track/0H2wXPNBzwhQZ2dl29oREL"
@@ -684,7 +720,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 310865,
       "name": "G Flex",
       "url": "https://open.spotify.com/track/7xVtleeM321K9OPhgytOZa"
@@ -782,7 +818,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 230240,
       "name": "Hidden Levels",
       "url": "https://open.spotify.com/track/2k5uXmRmaAgdixEAkhQZlM"
@@ -873,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/5JcbXHYVgOwXlToE9cCFCd"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211139,
+      "name": "Jubilee",
+      "url": "https://open.spotify.com/track/6JpTufiJvS7NkFOzNS3Dba"
+    },
+    {
+      "album": {
         "name": "Kick Snare Cat",
         "url": "https://open.spotify.com/album/66ThQxulYfynE5xRMoWtHH"
       },
@@ -910,6 +964,24 @@
       "duration_ms": 224971,
       "name": "Kountdown",
       "url": "https://open.spotify.com/track/1Cw4mgI7Li0WF1PreMDasy"
+    },
+    {
+      "album": {
+        "name": "Law of Attraction (Mike Casey Remix)",
+        "url": "https://open.spotify.com/album/6TebduQT3MJa99eaoNVnHE"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138227,
+      "name": "Law of Attraction (Mike Casey Remix)",
+      "url": "https://open.spotify.com/track/4dpIrddDRRJxBNURbrOQmi"
     },
     {
       "album": {
@@ -964,7 +1036,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 186410,
       "name": "Lower Brinstar Vibes",
       "url": "https://open.spotify.com/track/5mbORzorEBD2pxmIzeE1su"
@@ -1000,7 +1072,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 147828,
       "name": "Moments Notice",
       "url": "https://open.spotify.com/track/5G1eImf4Ad7ZchBQZ0qH8K"
@@ -1040,6 +1112,28 @@
       "duration_ms": 249589,
       "name": "Morning Insense",
       "url": "https://open.spotify.com/track/7BYeQannpqq7LYHBwaAVIg"
+    },
+    {
+      "album": {
+        "name": "Moves EP",
+        "url": "https://open.spotify.com/album/3ZkymHWkq4HgtD200354OI"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223537,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
     },
     {
       "album": {
@@ -1090,7 +1184,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 299492,
       "name": "No Late Fees",
       "url": "https://open.spotify.com/track/0BN4voQGMJOmDWfNeSHHhv"
@@ -1207,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "No Beats Lost",
+        "url": "https://open.spotify.com/album/2o4NZLU6XqKElwtljaCrky"
+      },
+      "artists": [
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258583,
+      "name": "Ode Nobunaga",
+      "url": "https://open.spotify.com/track/7zsXJ1OeeHsHyflXpqztY7"
+    },
+    {
+      "album": {
         "name": "On the Fly",
         "url": "https://open.spotify.com/album/1YLHsSg3sGQP98rTWIqnT7"
       },
@@ -1292,7 +1404,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 188000,
       "name": "Panspermia",
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
@@ -1310,7 +1422,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 114078,
       "name": "PPL -PingPongLounge-",
       "url": "https://open.spotify.com/track/6ACvAgc7FB9uBo3JKfnomk"
@@ -1398,7 +1510,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 191344,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao"
@@ -1464,7 +1576,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 177146,
       "name": "Saudade da Festa",
       "url": "https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE"
@@ -1482,7 +1594,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 144000,
       "name": "Shift (Mike Casey Remix)",
       "url": "https://open.spotify.com/track/5FeU23ci1PjYzwg2vC3vUG"
@@ -1516,7 +1628,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 217080,
       "name": "Side Street",
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
@@ -1600,7 +1712,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 75000,
       "name": "Space 3",
       "url": "https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc"
@@ -1644,7 +1756,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 299653,
       "name": "Speak No Evil (Night Dreamer)",
       "url": "https://open.spotify.com/track/27uch9EAZVr8BW6MmqprZy"
@@ -1680,7 +1792,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 294840,
       "name": "Stranger Than Fiction",
       "url": "https://open.spotify.com/track/26b7DkpsVvOSnHgFnHJ4RV"
@@ -1854,7 +1966,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 369585,
       "name": "The Message Continues - Mark de Clive-Lowe Remix",
       "url": "https://open.spotify.com/track/4kyzWwDs6Pumurfu3fIM01"
@@ -1890,7 +2002,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 313263,
       "name": "The Wad",
       "url": "https://open.spotify.com/track/5WVTUUFhOwOnVLdynmbM1a"
@@ -1938,7 +2050,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 105184,
       "name": "They & I",
       "url": "https://open.spotify.com/track/3FCZIGIb3Q966y3hHJpnCt"
@@ -1981,6 +2093,28 @@
     },
     {
       "album": {
+        "name": "Moving Cities",
+        "url": "https://open.spotify.com/album/6YoJBRhEFbqbLsQCm3LK2k"
+      },
+      "artists": [
+        {
+          "name": "Antoine Berjeaut",
+          "url": "https://open.spotify.com/artist/0xkHhnHO6QHTFUUrJpHM2G"
+        },
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369680,
+      "name": "Twelve Donkeys",
+      "url": "https://open.spotify.com/track/7KT0wjvsa5TOoU5TGiTwfs"
+    },
+    {
+      "album": {
         "name": "Typhoon",
         "url": "https://open.spotify.com/album/1ymrNMiHd7g6ehQHShettK"
       },
@@ -2008,6 +2142,24 @@
       "duration_ms": 223302,
       "name": "Typhoon",
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
+    },
+    {
+      "album": {
+        "name": "Law of Attraction: The Remixes",
+        "url": "https://open.spotify.com/album/2kYSW1wMRdIQWFram635Yf"
+      },
+      "artists": [
+        {
+          "name": "Mike Casey",
+          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Unforgettable (Mike Casey Remix)",
+      "url": "https://open.spotify.com/track/08NbsNUNHo6BIqNk4laZSJ"
     },
     {
       "album": {

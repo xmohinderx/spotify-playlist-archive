@@ -42,7 +42,7 @@
     {
       "album": {
         "name": "In Praise Of Dreams",
-        "url": "https://open.spotify.com/album/2zXOO2tVqEcBzEtFmYG9Ps"
+        "url": "https://open.spotify.com/album/7ucsX19objOe4AZhFH7G1L"
       },
       "artists": [
         {
@@ -53,6 +53,24 @@
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 279733,
+      "name": "A Tale Begun",
+      "url": "https://open.spotify.com/track/16X8iiFGnwZrwendrYuwNj"
+    },
+    {
+      "album": {
+        "name": "In Praise Of Dreams",
+        "url": "https://open.spotify.com/album/2zXOO2tVqEcBzEtFmYG9Ps"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-23",
       "duration_ms": 279733,
       "name": "A Tale Begun",
       "url": "https://open.spotify.com/track/7EARqOXQvRcvOscWRoC28S"
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 190666,
       "name": "Psalm",
       "url": "https://open.spotify.com/track/2VvQcH8wowZ1ik70hdUcfF"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 496693,
       "name": "Song Of Yearning",
       "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"

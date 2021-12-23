@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Always on My Mind",
+        "url": "https://open.spotify.com/album/4b9xfR6HcDZaRQ2booxhCT"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/31ogqmalNGYOuRtuT7fJKg"
+    },
+    {
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -236,7 +254,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 166973,
       "name": "club - ballerini album version",
       "url": "https://open.spotify.com/track/3nCoIIsNggk2iJ8YxleLXZ"
@@ -512,7 +530,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 263053,
       "name": "Fall On Me",
       "url": "https://open.spotify.com/track/3t7PAG8ByriTrDNWSDCP1x"
@@ -548,7 +566,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
@@ -732,7 +750,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 182701,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/5WyB2G0ecrM2qK3FJCkoUD"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 216080,
       "name": "If You Need Me",
       "url": "https://open.spotify.com/track/3dqcHUPGMQD5baOC5Ylp7L"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 231666,
       "name": "Made It Home",
       "url": "https://open.spotify.com/track/1Wz2Cy5cDNOKgExGdmejjI"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
@@ -1232,6 +1250,24 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
+    },
+    {
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1"
     },
     {
       "album": {
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 302880,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/0FqF6EXmup1hbfNItEIiaJ"
@@ -1550,7 +1586,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 224502,
       "name": "Save Myself",
       "url": "https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ"
@@ -1572,7 +1608,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 201198,
       "name": "Sing It With Me",
       "url": "https://open.spotify.com/track/60DwQiwwglVkTkTwDTTEId"
@@ -1792,7 +1828,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 206333,
       "name": "The Sapling",
       "url": "https://open.spotify.com/track/5LZcOXDFbkSWrhqrfVSXdz"
@@ -1817,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "The Subway Song",
+        "url": "https://open.spotify.com/album/1duvX5yMywtvx6k1JAC3iX"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241853,
+      "name": "The Subway Song",
+      "url": "https://open.spotify.com/track/3MIMKvXfK4bqkJ2wteG5Jq"
+    },
+    {
+      "album": {
         "name": "Black Coffee",
         "url": "https://open.spotify.com/album/7qDHwE0oZZwkCUdLfZnCdi"
       },
@@ -1828,7 +1882,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 241853,
       "name": "The Subway Song",
       "url": "https://open.spotify.com/track/3tGHqDvhpxcFtd3QXLf8nG"
@@ -1882,7 +1936,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"

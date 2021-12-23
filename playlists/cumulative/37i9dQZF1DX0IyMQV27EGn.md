@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Beside Myself](https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/6Tx3XBJwjJ44clD1dkoKm6) | 3:55 | 2021-06-04 | 2021-12-22 |
+| [Beside Myself](https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI) | [Hesta Prynn](https://open.spotify.com/artist/1Ng8y6ZAaf4gS3ywP851bV) | [We Could Fall In Love](https://open.spotify.com/album/6Tx3XBJwjJ44clD1dkoKm6) | 3:55 | 2021-06-04 |  |
 | [Bravado](https://open.spotify.com/track/1ywFWiTDPQcC8JfrX1l0gq) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/7JAjkBEu6WxQDhRY2ebi7w) | 3:41 | 2021-06-04 |  |
 | [Can't Call It Love](https://open.spotify.com/track/6BNL1Hv2I6v2EXGGkJTaiq) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Can't Call It Love](https://open.spotify.com/album/7vH3OhHp0SJ2N3Snw2Pt8Z) | 4:00 | 2021-06-04 |  |
 | [Cannonball \- Acoustic](https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Cannonball \(Acoustic\)](https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn) | 4:38 | 2021-06-04 |  |
@@ -56,7 +56,7 @@
 | [Not All Men](https://open.spotify.com/track/16HzLmAArSTpIUkgkizfOM) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Not All Men](https://open.spotify.com/album/7yuzurKlvq68HdLJj7l1lo) | 2:57 | 2021-06-04 |  |
 | [Occassionally](https://open.spotify.com/track/0bRaMWmkuaEzXmbuF46kdz) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Maybe in Time](https://open.spotify.com/album/0I45VxtzcvAN3wQZVmIoDO) | 3:14 | 2021-06-04 |  |
 | [One More Habit](https://open.spotify.com/track/2c2ZYcQjdWfDIxTxjfSB6Z) | [Kelsey Waters](https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT) | [One More Habit](https://open.spotify.com/album/1NQFrTSHt9aZNUuFLwSj3d) | 3:25 | 2021-06-04 |  |
-| [Over](https://open.spotify.com/track/0gnPyPBc2FcB79JGgpbstY) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) | [Over](https://open.spotify.com/album/26RgNvUsIac2qyEPxYiy2M) | 4:13 | 2021-06-04 |  |
+| [Over](https://open.spotify.com/track/0gnPyPBc2FcB79JGgpbstY) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) | [Over](https://open.spotify.com/album/26RgNvUsIac2qyEPxYiy2M) | 4:13 | 2021-06-04 | 2021-12-23 |
 | [Pain of Love](https://open.spotify.com/track/2QfXznx4Ex4btAsxNXYahZ) | [Whissell](https://open.spotify.com/artist/1JIc2FMsvtccdSllBI6vZh) | [Pain of Love](https://open.spotify.com/album/0sbDeWkNnMBLLNVSud5f26) | 3:31 | 2021-06-04 |  |
 | [Presence](https://open.spotify.com/track/2wntS3awxMEUUJOd3Py19o) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:51 | 2021-06-04 |  |
 | [Queen of Disaster](https://open.spotify.com/track/7GF3Ma5xB7u5D3Olkspcqf) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/7bQBWT8dd1KdmyqpYkmrK5) | 3:41 | 2021-08-24 |  |

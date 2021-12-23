@@ -77,6 +77,42 @@
     },
     {
       "album": {
+        "name": "Persona Non Grata",
+        "url": "https://open.spotify.com/album/0x8LMd14mtU8fLTcQfzvcI"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171902,
+      "name": "A Blind Eye",
+      "url": "https://open.spotify.com/track/28Uy1rMHQ6rZUauFHEgAiy"
+    },
+    {
+      "album": {
+        "name": "Upbeats & Beatdowns",
+        "url": "https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua"
+      },
+      "artists": [
+        {
+          "name": "Five Iron Frenzy",
+          "url": "https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "A Flowery Song",
+      "url": "https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby"
+    },
+    {
+      "album": {
         "name": "Beast From The East",
         "url": "https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh"
       },
@@ -164,7 +200,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 164880,
       "name": "Anything",
       "url": "https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9"
@@ -218,7 +254,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 305360,
       "name": "B.L.M",
       "url": "https://open.spotify.com/track/5jvVBreQOSEW2r78oC0CoZ"
@@ -384,7 +420,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 275360,
       "name": "Different People",
       "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
@@ -474,7 +510,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
@@ -550,7 +586,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 164092,
       "name": "Hello Again",
       "url": "https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA"
@@ -604,7 +640,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 229813,
       "name": "Hey Road",
       "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
@@ -658,7 +694,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 200470,
       "name": "I Don't Wanna Go",
       "url": "https://open.spotify.com/track/4zwvaQEyXRf2EZfEStlN0u"
@@ -676,7 +712,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 211511,
       "name": "I Think I've Had an Apostrophe",
       "url": "https://open.spotify.com/track/4xEzJmAo1s5VqW1iLW1kxf"
@@ -694,7 +730,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 124296,
       "name": "If I Could Only Listen to My Heart",
       "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
@@ -748,7 +784,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 185120,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/2e8yaFJOfZbsttpJhcTLcc"
@@ -838,7 +874,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 143630,
       "name": "Livin' the Apocalypse",
       "url": "https://open.spotify.com/track/78OHoxC6DGg05MVo5ly1wh"
@@ -874,7 +910,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 221400,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp"
@@ -946,7 +982,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
@@ -982,7 +1018,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 190333,
       "name": "Mirror In the Bathroom",
       "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 240186,
       "name": "No Place Like (Not Being) Home",
       "url": "https://open.spotify.com/track/2b8JJGU8BxKcxuk7HUHXqa"
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 291147,
       "name": "Ruby Cumulous",
       "url": "https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB"
@@ -1360,7 +1396,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 208587,
       "name": "Second Cities",
       "url": "https://open.spotify.com/track/13yAmRJ9Djttg27TgT2dC8"
@@ -1396,7 +1432,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 205585,
       "name": "Seven Seas",
       "url": "https://open.spotify.com/track/70Oq8tGYqDhgZiywEb16bS"
@@ -1475,6 +1511,46 @@
     },
     {
       "album": {
+        "name": "Social Drinker",
+        "url": "https://open.spotify.com/album/2w5O6Gvoz7g0MwST58zJk6"
+      },
+      "artists": [
+        {
+          "name": "The Expendables",
+          "url": "https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9"
+        },
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/3Z8YLZZUNZ6hgx5b5yHXII"
+    },
+    {
+      "album": {
+        "name": "Keep It Together",
+        "url": "https://open.spotify.com/album/66a2gbwWslXC9vvc1bIxEB"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186092,
+      "name": "Sorry I'm Not Sorry",
+      "url": "https://open.spotify.com/track/0Mw4u65T9yresmckoafAa6"
+    },
+    {
+      "album": {
         "name": "Arcade Perfect",
         "url": "https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9"
       },
@@ -1486,7 +1562,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 194640,
       "name": "Sound of a Revolution",
       "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
@@ -1898,7 +1974,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 159000,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/56SbrhQBAmYHEQWT5bNmxj"
@@ -2085,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "You Don't Know Anything About Me",
+      "url": "https://open.spotify.com/track/1GHBEny7Y5XkYC3qaHXYsO"
+    },
+    {
+      "album": {
         "name": "You Embarrassed Me in Front of Jamie Lenman",
         "url": "https://open.spotify.com/album/74SGcuNdEpU71iWwqrKFLR"
       },
@@ -2114,7 +2208,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 165418,
       "name": "Your Way, Your Time",
       "url": "https://open.spotify.com/track/3BS3XXGm0TJfSbwGzoYzN6"

@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 255157,
       "name": "Khi C\u00f4 \u0110\u01a1n Em Nh\u1edb Ai (Lofi) - From \"Chill With Vicky Nhung - Season 2: Memory\"",
       "url": "https://open.spotify.com/track/6hy9HCfQd8mISNWd6mnDoA"
@@ -3697,6 +3697,24 @@
     },
     {
       "album": {
+        "name": "Love Yourself \u627f 'Her'",
+        "url": "https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245620,
+      "name": "Pied Piper",
+      "url": "https://open.spotify.com/track/1ZPeaPDjQOOC8hw1mNjyjF"
+    },
+    {
+      "album": {
         "name": "THE ALBUM (JP Ver.)",
         "url": "https://open.spotify.com/album/5HZR4Ep8QsjDeVJTKCKv0W"
       },
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -4078,7 +4096,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"

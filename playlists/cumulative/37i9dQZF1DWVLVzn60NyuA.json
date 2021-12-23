@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244615,
+      "name": "Abena",
+      "url": "https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu"
+    },
+    {
+      "album": {
         "name": "All of This (Jorja Smith x GuiltyBeatz)",
         "url": "https://open.spotify.com/album/6uOlTbRJLSTYDIieRMzcs0"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 189698,
       "name": "Bounce It (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/5NpET8pwPjwxU2XD1W4rT5"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 215573,
       "name": "Check (with RAYE)",
       "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 180000,
       "name": "Controla (O.M.G.D.)",
       "url": "https://open.spotify.com/track/3KJL290jagnQ3fJqYprojG"
@@ -900,6 +918,24 @@
       "duration_ms": 208758,
       "name": "Cool Me Down (feat. Wizkid)",
       "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
+    },
+    {
+      "album": {
+        "name": "NAKAMURA",
+        "url": "https://open.spotify.com/album/1co4qjh6yQGXUnVM52yEYb"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "Copines",
+      "url": "https://open.spotify.com/track/65PsPkMG2QiFM8N5qnuv4B"
     },
     {
       "album": {
@@ -1016,7 +1052,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 139776,
       "name": "Dem Say Mi Selfish",
       "url": "https://open.spotify.com/track/5X224Y088NVd1h01nbiKFq"
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 183099,
       "name": "Distance",
       "url": "https://open.spotify.com/track/69f1steoIMhN1skPkBR6rB"
@@ -1414,7 +1450,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 261914,
       "name": "Freedom Fighter",
       "url": "https://open.spotify.com/track/4wCkYx8eZZUYXtlbvoQ6h8"
@@ -1563,6 +1599,46 @@
     },
     {
       "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX"
+      },
+      "artists": [
+        {
+          "name": "Tanya Stephens",
+          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6"
+    },
+    {
+      "album": {
+        "name": "Good Place",
+        "url": "https://open.spotify.com/album/7xLtXYJK4oYUoSsa4a7BSe"
+      },
+      "artists": [
+        {
+          "name": "DJ Moiz",
+          "url": "https://open.spotify.com/artist/5cjU6BX3PuLO7f510Fa65P"
+        },
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119541,
+      "name": "Good Place",
+      "url": "https://open.spotify.com/track/0xdSZzzOf3e15T4QgfBEI2"
+    },
+    {
+      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
@@ -1636,10 +1712,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 233253,
       "name": "Hold You - Hold Yuh",
       "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
+    },
+    {
+      "album": {
+        "name": "Hot Topicz",
+        "url": "https://open.spotify.com/album/2y9waElWWqJwciMg8gKMkF"
+      },
+      "artists": [
+        {
+          "name": "Shockman",
+          "url": "https://open.spotify.com/artist/1yqwpsovt61So9S0YfoEss"
+        },
+        {
+          "name": "Limitless",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149643,
+      "name": "Hot Topicz",
+      "url": "https://open.spotify.com/track/2pyLZLboSKOLKII3uacUsP"
     },
     {
       "album": {
@@ -1666,7 +1764,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 241024,
       "name": "Hurtin' Me - The Remix",
       "url": "https://open.spotify.com/track/3UMhetaB5d2Egu49pfpNQA"
@@ -1772,7 +1870,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 224680,
       "name": "Iskaba",
       "url": "https://open.spotify.com/track/1qNz5rynw3I9LU8uQRETsO"
@@ -1886,7 +1984,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 189201,
       "name": "Keep On Going",
       "url": "https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA"
@@ -2054,7 +2152,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
@@ -2252,7 +2350,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
@@ -2530,7 +2628,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 245000,
       "name": "Murder She Wrote",
       "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
@@ -2564,7 +2662,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 188000,
       "name": "My Touch - Dutch Remix",
       "url": "https://open.spotify.com/track/5SBy2tOnecAyebZwPD21YP"
@@ -2702,7 +2800,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
@@ -2720,7 +2818,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 222893,
       "name": "Nobody Has to Know",
       "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
@@ -2742,7 +2840,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 212482,
       "name": "Not Over It",
       "url": "https://open.spotify.com/track/5vYWYCPdD6BqOy5hDYuCAi"
@@ -2796,7 +2894,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
@@ -2930,7 +3028,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 190800,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/0onCpID636LlzqZ1OXJcRk"
@@ -2974,7 +3072,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 178864,
       "name": "Pandemia",
       "url": "https://open.spotify.com/track/0RVqLLQE5EdCL3xIQc0DWK"
@@ -3000,7 +3098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 207324,
       "name": "People",
       "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
@@ -3171,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Rum & Soca",
+        "url": "https://open.spotify.com/album/02bYRbLMW4j5s1UZdbRPrJ"
+      },
+      "artists": [
+        {
+          "name": "Freddy Rasta",
+          "url": "https://open.spotify.com/artist/2o3cQt2dbARtbMFhXlgQ6P"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163777,
+      "name": "Rum & Soca",
+      "url": "https://open.spotify.com/track/1DOPGpgJEv3vI228L66zqC"
+    },
+    {
+      "album": {
         "name": "Run Run",
         "url": "https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr"
       },
@@ -3230,10 +3346,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 153065,
       "name": "Searching For My Love - Remix",
       "url": "https://open.spotify.com/track/710k0B71hZCdMikQatmqSM"
+    },
+    {
+      "album": {
+        "name": "Cali Roots Riddim 2021",
+        "url": "https://open.spotify.com/album/47ngDCKILaUidvXeest7sz"
+      },
+      "artists": [
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165776,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB"
     },
     {
       "album": {
@@ -3299,6 +3437,46 @@
     },
     {
       "album": {
+        "name": "She Got It (with Rafa Pab\u00f6n)",
+        "url": "https://open.spotify.com/album/6t9SPVEh2WUu9UWDIjbPm6"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170103,
+      "name": "She Got It (with Rafa Pab\u00f6n)",
+      "url": "https://open.spotify.com/track/59MMi0CiK66DVzFo1aRRby"
+    },
+    {
+      "album": {
+        "name": "Show Them",
+        "url": "https://open.spotify.com/album/626DRnpftmOKOEIzVZ4dEK"
+      },
+      "artists": [
+        {
+          "name": "Sam Dutchy",
+          "url": "https://open.spotify.com/artist/4ZDwxw2U2vf0kGbgBF8QMP"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Show Them",
+      "url": "https://open.spotify.com/track/0F0gYhu89PlecJB3XUi5Jf"
+    },
+    {
+      "album": {
         "name": "Silly Games",
         "url": "https://open.spotify.com/album/2EbfLEv2xLxdfKI42K4Pdg"
       },
@@ -3310,7 +3488,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 232952,
       "name": "Silly Games",
       "url": "https://open.spotify.com/track/6JiCJrN8tsjG1TLmIL2xRM"
@@ -3346,7 +3524,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 155109,
       "name": "Slim Daddy",
       "url": "https://open.spotify.com/track/3AYiqkfWxAPkyan6XDZ6jL"
@@ -3445,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "Strictly The Best Vol. 45",
+        "url": "https://open.spotify.com/album/44J9e1B5poRr0yEprAGbbS"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0fQeh4MYcX7VvRwfeSjnwz"
+    },
+    {
+      "album": {
         "name": "Quarantime: The Lost Files",
         "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
       },
@@ -3482,7 +3678,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 206538,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
@@ -3504,6 +3700,28 @@
       "duration_ms": 236460,
       "name": "Temper",
       "url": "https://open.spotify.com/track/7i0ACEM0ZTfVP2C5wIrIhD"
+    },
+    {
+      "album": {
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205996,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
     },
     {
       "album": {
@@ -3580,7 +3798,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 172219,
       "name": "Tigini",
       "url": "https://open.spotify.com/track/7fvaNCAFYAx6ny6C5i5Hab"
@@ -3642,6 +3860,28 @@
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "album": {
+        "name": "Todo Pa' Ti",
+        "url": "https://open.spotify.com/album/7Mi7Doz68tmX7Ov4E43mCG"
+      },
+      "artists": [
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Todo Pa' Ti",
+      "url": "https://open.spotify.com/track/1KeQQmdN8gNmvMvw5yeU8A"
     },
     {
       "album": {

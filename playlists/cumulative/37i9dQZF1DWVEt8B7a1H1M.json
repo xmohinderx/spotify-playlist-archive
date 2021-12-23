@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Swedish Morning Birds",
+        "url": "https://open.spotify.com/album/4GGkrc2HZyOsZphGmvWRYF"
+      },
+      "artists": [
+        {
+          "name": "Swedish-Bird-Sounds",
+          "url": "https://open.spotify.com/artist/7r4MqLN5DpsHNTexMJPakD"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Rain Forest Birds",
+      "url": "https://open.spotify.com/track/2C9TaqPP3rgZriyjBxAlIT"
+    },
+    {
+      "album": {
         "name": "Singing Birds",
         "url": "https://open.spotify.com/album/5CZDUlLtKopRhg7lFaknDG"
       },
@@ -1432,6 +1450,24 @@
       "duration_ms": 133092,
       "name": "Spring Birds In The Afternoon",
       "url": "https://open.spotify.com/track/70ZhYH2joI9RCE45TG52sS"
+    },
+    {
+      "album": {
+        "name": "Calming Bird Sounds",
+        "url": "https://open.spotify.com/album/5ac2sp1AcWHGzhwrqHpZzJ"
+      },
+      "artists": [
+        {
+          "name": "Birds 3AM",
+          "url": "https://open.spotify.com/artist/3zLSiXVBvq7O77m2aarmYq"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180558,
+      "name": "Spring Birds In The Forest",
+      "url": "https://open.spotify.com/track/3DkJyqUOfk9eFg2f6Maqgw"
     },
     {
       "album": {

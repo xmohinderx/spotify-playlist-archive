@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 214760,
       "name": "Dare Ya",
       "url": "https://open.spotify.com/track/0lrcuzg1hXJ6xgcMm4yceu"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 272640,
       "name": "Holding On to You",
       "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "I Don't Dance",
       "url": "https://open.spotify.com/track/5aj0xPGiEUN3aI2oOYu14S"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 178293,
       "name": "I Think I Love You",
       "url": "https://open.spotify.com/track/4Bh6ODFBpZVJymboFj6HYr"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2021-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 172720,
       "name": "Kiss Her",
       "url": "https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 206840,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3qpQCkzCQHaOwy1g57AaD8"
@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/0nLAp17gWpv95J2yPdqSK9"
+      },
+      "artists": [
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        }
+      ],
+      "date_added": "2021-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/0AuyO2tufq60YvAFdVYhOn"
+    },
+    {
+      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/0jbizUOHY9uVKoWyjlmyg2"
       },
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 204604,
       "name": "You Did",
       "url": "https://open.spotify.com/track/2zObw9MePQ17Csq3IqWizy"
@@ -1596,6 +1614,24 @@
       "duration_ms": 200981,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/1NpSPbM86yviUBBfsYtvvy"
+    },
+    {
+      "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2021-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230826,
+      "name": "You Had Me from Hello",
+      "url": "https://open.spotify.com/track/3NJn7p1nrI3R8alivEMPwB"
     },
     {
       "album": {
@@ -1632,6 +1668,24 @@
       "duration_ms": 192026,
       "name": "You Time",
       "url": "https://open.spotify.com/track/0pJalGEYsRikSogLkXU6KV"
+    },
+    {
+      "album": {
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "date_added": "2021-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
     },
     {
       "album": {

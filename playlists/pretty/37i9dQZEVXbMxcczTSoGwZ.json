@@ -1,10 +1,10 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
   "name": "Top 50 - Finland",
-  "snapshot_id": "NjkzMzkzNjk1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NjkzNDgwMDUxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -20,7 +20,7 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -36,7 +36,7 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Joulun kanssas jaan (feat. Cantores Minores)",
         "url": "https://open.spotify.com/album/4hUrMPSpOYKLtDqdi8zlOS"
@@ -56,7 +56,7 @@
       "url": "https://open.spotify.com/track/3RCxl6HWK4ADOzMbY8FZCw"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -72,7 +72,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
@@ -88,7 +88,39 @@
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Tulkoon joulu",
+        "url": "https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP"
+      },
+      "artists": [
+        {
+          "name": "Suvi Ter\u00e4sniska",
+          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
+        }
+      ],
+      "duration_ms": 277493,
+      "name": "Tulkoon joulu",
+      "url": "https://open.spotify.com/track/1K0ZirzQ9KtHAKOLB5efXs"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -104,7 +136,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Samma gamla vanliga (Remix)",
         "url": "https://open.spotify.com/album/0o4iqHMhzZiqcNbZ9WYgGK"
@@ -132,71 +164,7 @@
       "url": "https://open.spotify.com/track/3EfMGeYXw69Saa14torWpK"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Tulkoon joulu",
-        "url": "https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP"
-      },
-      "artists": [
-        {
-          "name": "Suvi Ter\u00e4sniska",
-          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
-        }
-      ],
-      "duration_ms": 277493,
-      "name": "Tulkoon joulu",
-      "url": "https://open.spotify.com/track/1K0ZirzQ9KtHAKOLB5efXs"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Pohjola",
-        "url": "https://open.spotify.com/album/03WPFkiChY7RCBG2OpCSlo"
-      },
-      "artists": [
-        {
-          "name": "Olli Halonen",
-          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Pohjola",
-      "url": "https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
@@ -216,23 +184,23 @@
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Syd\u00e4meeni joulun teen",
-        "url": "https://open.spotify.com/album/22VOa9w3witxpYb1NqOY0b"
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
       "artists": [
         {
-          "name": "Vesa-Matti Loiri",
-          "url": "https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 198200,
-      "name": "Syd\u00e4meeni joulun teen",
-      "url": "https://open.spotify.com/track/2Kouu3rnDZ5ZVqWtPEAsGo"
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Hiljaisuudessa 2006",
         "url": "https://open.spotify.com/album/48xHPaOdIKHS8mAas29K5O"
@@ -248,7 +216,71 @@
       "url": "https://open.spotify.com/track/3QqsEc7mv1Kq9aWNpQgHsU"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Syd\u00e4meeni joulun teen",
+        "url": "https://open.spotify.com/album/22VOa9w3witxpYb1NqOY0b"
+      },
+      "artists": [
+        {
+          "name": "Vesa-Matti Loiri",
+          "url": "https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Syd\u00e4meeni joulun teen",
+      "url": "https://open.spotify.com/track/2Kouu3rnDZ5ZVqWtPEAsGo"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Pohjola",
+        "url": "https://open.spotify.com/album/03WPFkiChY7RCBG2OpCSlo"
+      },
+      "artists": [
+        {
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Pohjola",
+      "url": "https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Minun Jouluni",
+        "url": "https://open.spotify.com/album/7rVlIh4Z0nZbqZ6PRQpKNz"
+      },
+      "artists": [
+        {
+          "name": "Antti Tuisku",
+          "url": "https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "L\u00e4mmin lumi peitt\u00e4\u00e4 maan",
+      "url": "https://open.spotify.com/track/5T4wJfpwn3sEJdA4OovEfR"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Vauhti kiihtyy (feat. Matti ja Teppo)",
         "url": "https://open.spotify.com/album/7ei29h30DRPF2N4stUBU3g"
@@ -268,23 +300,59 @@
       "url": "https://open.spotify.com/track/4N84bVnNycTXiuoKZFEXrD"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Minun Jouluni",
-        "url": "https://open.spotify.com/album/7rVlIh4Z0nZbqZ6PRQpKNz"
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
       "artists": [
         {
-          "name": "Antti Tuisku",
-          "url": "https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 239466,
-      "name": "L\u00e4mmin lumi peitt\u00e4\u00e4 maan",
-      "url": "https://open.spotify.com/track/5T4wJfpwn3sEJdA4OovEfR"
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "eat ya veggies",
         "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
@@ -304,7 +372,7 @@
       "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -320,39 +388,7 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -368,7 +404,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -388,23 +424,39 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "Tulkoon joulu",
+        "url": "https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Suvi Ter\u00e4sniska",
+          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
         }
       ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+      "duration_ms": 198733,
+      "name": "Hei mummo",
+      "url": "https://open.spotify.com/track/1gWJ4zaBSkyICr7wTEygS9"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -432,75 +484,39 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Signature Box",
-        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+        "name": "My Only Wish (This Year)",
+        "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 214333,
-      "name": "Happy Xmas (War Is Over) - Remastered 2010",
-      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+      "duration_ms": 255400,
+      "name": "My Only Wish (This Year)",
+      "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -520,10 +536,90 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Tulkoon joulu",
-        "url": "https://open.spotify.com/album/0VDkoo0kc2g5TuTDSxDffP"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Joulu",
+        "url": "https://open.spotify.com/album/02Btk2BgBMY3KD7AnMkot9"
+      },
+      "artists": [
+        {
+          "name": "Rajaton",
+          "url": "https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Tonttu",
+      "url": "https://open.spotify.com/track/1rkqIAbd5OMS3tCL2QiTsH"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 170964,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Taivas syliss\u00e4ni",
+        "url": "https://open.spotify.com/album/5gNL5pSqihPYCAKtjwpdiK"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "duration_ms": 202454,
+      "name": "Taivas syliss\u00e4ni",
+      "url": "https://open.spotify.com/track/1LecaAoGYag5SGnVdj924O"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "T\u00e4m\u00e4 maailma tarvitsee joulun",
+        "url": "https://open.spotify.com/album/07Wtd3QPsDUBasBBIj1Fx2"
       },
       "artists": [
         {
@@ -531,28 +627,12 @@
           "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
         }
       ],
-      "duration_ms": 198733,
-      "name": "Hei mummo",
-      "url": "https://open.spotify.com/track/1gWJ4zaBSkyICr7wTEygS9"
+      "duration_ms": 232495,
+      "name": "T\u00e4m\u00e4 maailma tarvitsee rakkautta",
+      "url": "https://open.spotify.com/track/3gWNmys5QX3FpMcItGgjea"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "My Only Wish (This Year)",
-        "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "My Only Wish (This Year)",
-      "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -572,7 +652,23 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "My Name Is Jos\u00e9 Feliciano",
+        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -592,7 +688,55 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Maa on niin kaunis (Toivioretkell\u00e4)",
+        "url": "https://open.spotify.com/album/5kEK8E96DOxZ20SFxCxI1c"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "duration_ms": 140859,
+      "name": "Maa on niin kaunis (Toivioretkell\u00e4)",
+      "url": "https://open.spotify.com/track/5ePePcvp5FnkuzjxnQdQbf"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
+      "album": {
+        "name": "Hyv\u00e4uskoinen",
+        "url": "https://open.spotify.com/album/5ZRBzdTHMyEyAvb2WLg7Gk"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 206232,
+      "name": "Hyv\u00e4uskoinen",
+      "url": "https://open.spotify.com/track/08EMclZsu3ZwuQxlVcsAXI"
+    },
+    {
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "Matkustaja (feat. Aksel Kankaanranta)",
         "url": "https://open.spotify.com/album/780cND8LZdQMnu3GRWhK3r"
@@ -612,23 +756,23 @@
       "url": "https://open.spotify.com/track/357JgDad80qVDg23D2GI63"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Hyv\u00e4uskoinen",
-        "url": "https://open.spotify.com/album/5ZRBzdTHMyEyAvb2WLg7Gk"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 206232,
-      "name": "Hyv\u00e4uskoinen",
-      "url": "https://open.spotify.com/track/08EMclZsu3ZwuQxlVcsAXI"
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
         "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
@@ -644,111 +788,39 @@
       "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Joulu",
-        "url": "https://open.spotify.com/album/02Btk2BgBMY3KD7AnMkot9"
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/1dj8j4bYtVa6cuKw5ccll5"
       },
       "artists": [
         {
-          "name": "Rajaton",
-          "url": "https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR"
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Tonttu",
-      "url": "https://open.spotify.com/track/1rkqIAbd5OMS3tCL2QiTsH"
+      "duration_ms": 254466,
+      "name": "Tule meille jouluksi",
+      "url": "https://open.spotify.com/track/4WfcvoGZvyUysZBiO7DtAP"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+      "duration_ms": 212386,
+      "name": "Candy Cane Lane",
+      "url": "https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "My Name Is Jos\u00e9 Feliciano",
-        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 170964,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Parempaa (feat. JVG & william)",
-        "url": "https://open.spotify.com/album/5QhbE5iIAZK0UYONAgDW7x"
-      },
-      "artists": [
-        {
-          "name": "MD$",
-          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        },
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        }
-      ],
-      "duration_ms": 211328,
-      "name": "Parempaa (feat. JVG & william)",
-      "url": "https://open.spotify.com/track/7jBuT0vzeaCtRetMczX4EM"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -772,128 +844,44 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Taivas syliss\u00e4ni",
-        "url": "https://open.spotify.com/album/5gNL5pSqihPYCAKtjwpdiK"
+        "name": "Parempaa (feat. JVG & william)",
+        "url": "https://open.spotify.com/album/5QhbE5iIAZK0UYONAgDW7x"
       },
       "artists": [
         {
-          "name": "Ilta",
-          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
-        }
-      ],
-      "duration_ms": 202454,
-      "name": "Taivas syliss\u00e4ni",
-      "url": "https://open.spotify.com/track/1LecaAoGYag5SGnVdj924O"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Mik\u00e4-Mik\u00e4-Maa (feat. EME)",
-        "url": "https://open.spotify.com/album/1vXFTa1Qxp5pN5hDaswmZM"
-      },
-      "artists": [
-        {
-          "name": "Aste",
-          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+          "name": "MD$",
+          "url": "https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944"
         },
         {
-          "name": "EME",
-          "url": "https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5"
-        }
-      ],
-      "duration_ms": 182385,
-      "name": "Mik\u00e4-Mik\u00e4-Maa (feat. EME)",
-      "url": "https://open.spotify.com/track/63hKnwYYmoR9CxKzdthRHG"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "T\u00e4m\u00e4 maailma tarvitsee joulun",
-        "url": "https://open.spotify.com/album/07Wtd3QPsDUBasBBIj1Fx2"
-      },
-      "artists": [
-        {
-          "name": "Suvi Ter\u00e4sniska",
-          "url": "https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS"
-        }
-      ],
-      "duration_ms": 232495,
-      "name": "T\u00e4m\u00e4 maailma tarvitsee rakkautta",
-      "url": "https://open.spotify.com/track/3gWNmys5QX3FpMcItGgjea"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
         },
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
         }
       ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+      "duration_ms": 211328,
+      "name": "Parempaa (feat. JVG & william)",
+      "url": "https://open.spotify.com/track/7jBuT0vzeaCtRetMczX4EM"
     },
     {
-      "added_at": "2021-12-21 09:21:35",
+      "added_at": "2021-12-22 09:20:51",
       "album": {
-        "name": "Maa on niin kaunis (Toivioretkell\u00e4)",
-        "url": "https://open.spotify.com/album/5kEK8E96DOxZ20SFxCxI1c"
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
       },
       "artists": [
         {
-          "name": "Ellinoora",
-          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 140859,
-      "name": "Maa on niin kaunis (Toivioretkell\u00e4)",
-      "url": "https://open.spotify.com/track/5ePePcvp5FnkuzjxnQdQbf"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Never Going Home",
-        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
-    },
-    {
-      "added_at": "2021-12-21 09:21:35",
-      "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+      "duration_ms": 272393,
+      "name": "Step Into Christmas",
+      "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMxcczTSoGwZ"

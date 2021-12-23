@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 219253,
       "name": "Age of a Man",
       "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 294013,
       "name": "Ain't No Thing",
       "url": "https://open.spotify.com/track/72MfkLKyEXmFT8awGhlE5i"
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "After It's Gone",
+        "url": "https://open.spotify.com/album/3HxzaKoVfyT7dBBN2acIrS"
+      },
+      "artists": [
+        {
+          "name": "Ginny Hawker",
+          "url": "https://open.spotify.com/artist/3e3eLRGBRzHUq7wcI5hT54"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130479,
+      "name": "Blues In My Mind",
+      "url": "https://open.spotify.com/track/26Ve3SqyA3lgEMOU7lXiDX"
+    },
+    {
+      "album": {
         "name": "Little May",
         "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
       },
@@ -608,7 +626,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 215946,
       "name": "Both Hands",
       "url": "https://open.spotify.com/track/3sQIESZGkkxYRn4NCq9B55"
@@ -644,7 +662,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 284320,
       "name": "Boy from the North",
       "url": "https://open.spotify.com/track/517ubeor9CZCN27nif3Bev"
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 201560,
       "name": "Deep Dark Below",
       "url": "https://open.spotify.com/track/4UT2LGBeSW7dRIiUPyYyrd"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 231612,
       "name": "Gold Hills",
       "url": "https://open.spotify.com/track/2rBp6v1PkDP2GWg625RrCz"
@@ -1592,6 +1610,24 @@
       "duration_ms": 257094,
       "name": "Hands for the Harvest",
       "url": "https://open.spotify.com/track/7Dkw3j1rlDRf5qlQs1Qthw"
+    },
+    {
+      "album": {
+        "name": "Headlight",
+        "url": "https://open.spotify.com/album/47fmrhP9xMS9peVMCM3rg0"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Headlight",
+      "url": "https://open.spotify.com/track/2Dnh11uPLrW3eieWqc7d6p"
     },
     {
       "album": {
@@ -1721,6 +1757,28 @@
     },
     {
       "album": {
+        "name": "So Goes My Heart",
+        "url": "https://open.spotify.com/album/0PEDdjXSgkQs3zBUUXdzeb"
+      },
+      "artists": [
+        {
+          "name": "Ann Mayo Muir",
+          "url": "https://open.spotify.com/artist/0J8X1cpZhTLgqHNJbxnZTK"
+        },
+        {
+          "name": "Gordon Bok",
+          "url": "https://open.spotify.com/artist/3ADqA3QBx9iTf6nfre13tr"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Highland Widow's Lament",
+      "url": "https://open.spotify.com/track/2GQyo3KRbX35PHHchA4dDE"
+    },
+    {
+      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -1774,6 +1832,28 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "album": {
+        "name": "Hillbilly Goddess",
+        "url": "https://open.spotify.com/album/45GS31Lz65are3FWXkGy0f"
+      },
+      "artists": [
+        {
+          "name": "Alecia Nugent",
+          "url": "https://open.spotify.com/artist/0ufpo9lLFIrtE5J9HIXOHm"
+        },
+        {
+          "name": "J.D. Crowe",
+          "url": "https://open.spotify.com/artist/1CSyDCZKVQyFIW0Eo8CHDp"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191453,
+      "name": "Hillbilly Goddess",
+      "url": "https://open.spotify.com/track/0I8orHL8O59rqm8pxRAieh"
     },
     {
       "album": {
@@ -1842,7 +1922,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 203920,
       "name": "How Come You Never Go There",
       "url": "https://open.spotify.com/track/1T6ujnAPpCTz0r5ahuwhsH"
@@ -1950,7 +2030,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 154706,
       "name": "If Wishes Were Horses",
       "url": "https://open.spotify.com/track/4x5gOf3f0asSRCZh0vQ6b0"
@@ -2119,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Before July: Demos & Unreleased Songs",
+        "url": "https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL"
+      },
+      "artists": [
+        {
+          "name": "Marissa Nadler",
+          "url": "https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192998,
+      "name": "Leave the Light On - Demo",
+      "url": "https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI"
+    },
+    {
+      "album": {
         "name": "Left-Centred Weight",
         "url": "https://open.spotify.com/album/1Fok53eLl1IUC9qwLIgN4N"
       },
@@ -2173,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "Little Red Riding Hood",
+        "url": "https://open.spotify.com/album/1DbAardTwA6QE0NdEuHaHx"
+      },
+      "artists": [
+        {
+          "name": "Laura Gibson",
+          "url": "https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156885,
+      "name": "Li'l Red Riding Hood",
+      "url": "https://open.spotify.com/track/1XeTxXsXaWcoMbkctt2s25"
+    },
+    {
+      "album": {
         "name": "Oil and Water",
         "url": "https://open.spotify.com/album/6Cjo8BqWWgDeOHFf8Ezeei"
       },
@@ -2184,7 +2300,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 308210,
       "name": "Libra",
       "url": "https://open.spotify.com/track/7uHoNWpMZ8BdJo3I6h9oIk"
@@ -2220,7 +2336,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 131120,
       "name": "Little Maggie",
       "url": "https://open.spotify.com/track/20CPlpdclfbBMlXRcy0JrC"
@@ -2256,7 +2372,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 134246,
       "name": "Long Lonesome Road",
       "url": "https://open.spotify.com/track/3iJq2eR862uen5kyutkQYs"
@@ -2292,7 +2408,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 267080,
       "name": "Love Part Three",
       "url": "https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx"
@@ -2346,7 +2462,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 175466,
       "name": "Marjorie",
       "url": "https://open.spotify.com/track/5px0q4BOJoL26xBxeZCqoz"
@@ -2400,7 +2516,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 173231,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/10JRIlS2NWwUlEePtwaUhX"
@@ -2452,7 +2568,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 248986,
       "name": "More Heart, Less Attack",
       "url": "https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD"
@@ -2470,7 +2586,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 152933,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/1nkFZjphM5e4rYwElipV28"
@@ -2582,7 +2698,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/47dOtJjjwVkbKW244db2dE"
@@ -2618,7 +2734,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 237537,
       "name": "Oh Marie",
       "url": "https://open.spotify.com/track/0JQiWi1xu8joVkan6HBVvy"
@@ -2726,7 +2842,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 238453,
       "name": "People Look Around",
       "url": "https://open.spotify.com/track/6PK0gsO96dIrkf8p0gdms4"
@@ -2748,6 +2864,28 @@
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/2J2oWsC3KGoqdUMIwcMRMU"
+    },
+    {
+      "album": {
+        "name": "Playing Old Games",
+        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae and the Meanwhiles",
+          "url": "https://open.spotify.com/artist/1F6SXx16NcfbanBYeBfWdQ"
+        },
+        {
+          "name": "Pete Lindberg",
+          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209880,
+      "name": "Playing Old Games",
+      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
     },
     {
       "album": {
@@ -2952,7 +3090,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 180626,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/3QYvPLpoz1uoK34TxCybZQ"
@@ -2970,7 +3108,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 180666,
       "name": "Roseville Fair",
       "url": "https://open.spotify.com/track/2ErkQZvTUylJ2ptKaz9Ek3"
@@ -3108,7 +3246,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 210920,
       "name": "Sleep With One Eye Open",
       "url": "https://open.spotify.com/track/2Rpgwoxsl5D8ckMWv5ZdlU"
@@ -3192,6 +3330,24 @@
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "album": {
+        "name": "Stand In",
+        "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
+      },
+      "artists": [
+        {
+          "name": "Deva Mahal",
+          "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286388,
+      "name": "Stand In",
+      "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
     },
     {
       "album": {
@@ -3348,7 +3504,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 177693,
       "name": "Tennessee Breakdown",
       "url": "https://open.spotify.com/track/4K3z84ENFol2LQFishwXMu"
@@ -3438,7 +3594,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 258231,
       "name": "The Choir",
       "url": "https://open.spotify.com/track/1OovfYNl59IG04EnlZOygS"
@@ -3492,7 +3648,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 88506,
       "name": "The Good Song",
       "url": "https://open.spotify.com/track/2SlxqvDsBSDd7iz3aEOEzi"
@@ -3532,7 +3688,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 193200,
       "name": "The One I Love Is Gone",
       "url": "https://open.spotify.com/track/1MPf9bmnd9DL1WEwgdD0Fn"
@@ -3687,6 +3843,24 @@
     },
     {
       "album": {
+        "name": "Eagle Cries",
+        "url": "https://open.spotify.com/album/7AnB5seDxYTDwHtbffrb83"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shenandoah",
+          "url": "https://open.spotify.com/artist/1FrutbnuSr4cDQGGf63HDf"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Treaty",
+      "url": "https://open.spotify.com/track/3BoVC4v94xRXq5LUAb12V2"
+    },
+    {
+      "album": {
         "name": "The Very Best Of Judy Collins",
         "url": "https://open.spotify.com/album/2ey4NEI46WsFWtlyy2fglR"
       },
@@ -3734,7 +3908,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 175840,
       "name": "Use a Napkin (Not Your Mom)",
       "url": "https://open.spotify.com/track/1ZmTvUwqj8B44hMJasvDXB"

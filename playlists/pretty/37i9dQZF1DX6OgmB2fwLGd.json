@@ -1,7 +1,7 @@
 {
   "description": "The soundtrack to the Internet. Cover: yvngxchris",
   "name": "Internet People",
-  "snapshot_id": "MTY0MDAwOTQxNiwwMDAwMDI4NzAwMDAwMTdkZDgyZGJmNDUwMDAwMDE3ZGEwOWQ4NWM2",
+  "snapshot_id": "MTY0MDIwODMwNCwwMDAwMDI4ODAwMDAwMTdkZTQwODg4NzcwMDAwMDE3ZGEwOWQ4NWM2",
   "tracks": [
     {
       "added_at": "2021-12-17 05:00:00",
@@ -214,6 +214,26 @@
       "duration_ms": 213884,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj"
+    },
+    {
+      "added_at": "2021-12-22 21:25:04",
+      "album": {
+        "name": "ISHOWSPEED",
+        "url": "https://open.spotify.com/album/0A289AosxAJWEwIS8ILlqQ"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+        },
+        {
+          "name": "Aura The Scientist",
+          "url": "https://open.spotify.com/artist/6yhVRNHwPXfDwLbm1hourj"
+        }
+      ],
+      "duration_ms": 156792,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/18pZAkoz9eNXd6gpy48RQL"
     },
     {
       "added_at": "2021-12-17 14:45:31",

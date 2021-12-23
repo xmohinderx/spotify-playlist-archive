@@ -152,7 +152,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 150819,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4n93qqnMDU7n5LRj5O2wh7"
@@ -174,7 +174,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 144449,
       "name": "Bass Goes Down",
       "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 201428,
       "name": "Big Racks",
       "url": "https://open.spotify.com/track/3Hmsr9kGbncO4TQhsJaFV8"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 191904,
       "name": "Cum Check This",
       "url": "https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID"
@@ -468,6 +468,28 @@
       "duration_ms": 215390,
       "name": "Distance - Volac Remix",
       "url": "https://open.spotify.com/track/42BdPV3FB2HVsvdokaIDJt"
+    },
+    {
+      "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/2Xw3ZpFx2PD9KOLShZm7qO"
+      },
+      "artists": [
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Buzz Low",
+          "url": "https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158951,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/4zdaqhDpl2pXrwTsqbqRG8"
     },
     {
       "album": {
@@ -738,7 +760,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 194262,
       "name": "Fool for You",
       "url": "https://open.spotify.com/track/2tt4GTCzZdV3yP2PZQjrbr"
@@ -760,6 +782,32 @@
       "duration_ms": 173694,
       "name": "Forget It",
       "url": "https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G"
+    },
+    {
+      "album": {
+        "name": "Get Back (feat. TITUS)",
+        "url": "https://open.spotify.com/album/4qfVFlToM12oeuzk9nvuqO"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        },
+        {
+          "name": "TITUS",
+          "url": "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160476,
+      "name": "Get Back (feat. TITUS)",
+      "url": "https://open.spotify.com/track/2636BVOgTRI8QQ3f1GsA41"
     },
     {
       "album": {
@@ -792,10 +840,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 161951,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/6dGns7nbpxDipRomnj6mgC"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186239,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth"
     },
     {
       "album": {
@@ -887,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Gucci Fendi Prada (BYOR Remix)",
+        "url": "https://open.spotify.com/album/34qSP54lisomdVGxqaDy08"
+      },
+      "artists": [
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127680,
+      "name": "Gucci Fendi Prada - BYOR Remix",
+      "url": "https://open.spotify.com/track/7FYV4Nq4IW08XDssxctuyR"
+    },
+    {
+      "album": {
         "name": "Have Me All (feat. Jelita)",
         "url": "https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR"
       },
@@ -953,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1eU0In75IqjtKUSDEuiNXx"
+      },
+      "artists": [
+        {
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
+        },
+        {
+          "name": "Tom Breeze",
+          "url": "https://open.spotify.com/artist/63RVzApTkfArs5dRWfBIR8"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236540,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6piOGtdsulNYXIx8nOH0s4"
+    },
+    {
+      "album": {
         "name": "Hypno",
         "url": "https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8"
       },
@@ -986,7 +1096,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/3qloJH27eI7bk6QEf1SQLC"
@@ -1022,7 +1132,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 147584,
       "name": "IQ Doesn't Matter",
       "url": "https://open.spotify.com/track/1hvAkRZP9V3tGipGa5TWvc"
@@ -1120,7 +1230,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 170476,
       "name": "Lift",
       "url": "https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz"
@@ -1186,10 +1296,40 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 142400,
       "name": "Like This (feat. AMY MIY\u00da) - Carta Edit",
       "url": "https://open.spotify.com/track/3Ej9gFp9x29QEpU0TDUueh"
+    },
+    {
+      "album": {
+        "name": "Loca People",
+        "url": "https://open.spotify.com/album/68rTPtsV4Be5rmdMGiY6Fx"
+      },
+      "artists": [
+        {
+          "name": "NOBLEE",
+          "url": "https://open.spotify.com/artist/2veJiijF2YrWL7N0fyflRN"
+        },
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Gian Nobilee",
+          "url": "https://open.spotify.com/artist/0FYEsVCXEH5elLi0K5uNAS"
+        },
+        {
+          "name": "Scarlet",
+          "url": "https://open.spotify.com/artist/59APLaxReprkLuj2JBO0YD"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Loca People",
+      "url": "https://open.spotify.com/track/16Mkz5EQ6bPn3ZHDnEj1DP"
     },
     {
       "album": {
@@ -1226,7 +1366,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 151475,
       "name": "Loose",
       "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
@@ -1398,7 +1538,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 147840,
       "name": "No Ass",
       "url": "https://open.spotify.com/track/7pmmkWdaBxJwYwmVwQeSYa"
@@ -1420,7 +1560,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 156190,
       "name": "No Pain No Gain",
       "url": "https://open.spotify.com/track/7sXfnVRtIuohi0PQiyDVV8"
@@ -1537,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "Oh Lord",
+        "url": "https://open.spotify.com/album/6mUQJM02hQgWKI9HN5OBlC"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Deve",
+          "url": "https://open.spotify.com/artist/3xP2q5RQ3YnQIWofwQyXqo"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158300,
+      "name": "Oh Lord",
+      "url": "https://open.spotify.com/track/1Ti5Px7jctKkMuXbx4kTdA"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4Vl5A4SFNnw6BCjTWfWSQf"
       },
@@ -1644,7 +1806,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 209280,
       "name": "Pump Up The Jam (with MOTi)",
       "url": "https://open.spotify.com/track/1uNKDCkSaGNqIsMtvfsr2O"
@@ -1662,7 +1824,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 178080,
       "name": "Purification",
       "url": "https://open.spotify.com/track/0U9m269ExQq7LmZc6MTzee"
@@ -1846,7 +2008,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 171707,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/3koJjZ9jS8XlNjslusBH6A"
@@ -1950,7 +2112,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 156428,
       "name": "Sickness",
       "url": "https://open.spotify.com/track/0BwEzkVtELJI3suZINw6Yb"
@@ -2158,7 +2320,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 169523,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/6QrS4daQd2HhJWLnq3bs1q"
@@ -2344,7 +2506,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 178000,
       "name": "White House",
       "url": "https://open.spotify.com/track/45zkrrZ1JcJodTjeXiVECG"

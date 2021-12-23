@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 240000,
       "name": "12 AM Shuffle",
       "url": "https://open.spotify.com/track/0xAjCLCwfRUZQe6t2G2Ywe"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 147840,
       "name": "Back Again",
       "url": "https://open.spotify.com/track/0jbcpvTaI3wnaLqmlv5SsU"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 198980,
       "name": "Badman",
       "url": "https://open.spotify.com/track/7xrLwvKLrZfzLvoBOdoEUf"
@@ -258,10 +258,46 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 180850,
       "name": "Beat Like This",
       "url": "https://open.spotify.com/track/6zm3myLdhev6UuL8xOewow"
+    },
+    {
+      "album": {
+        "name": "Beautiful Monster",
+        "url": "https://open.spotify.com/album/7zTGK8FGxxGfbqzSyYZ9iy"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161932,
+      "name": "Beautiful Monster",
+      "url": "https://open.spotify.com/track/3BkTXfYbVgsvsnoPO73KNN"
+    },
+    {
+      "album": {
+        "name": "Big Bass",
+        "url": "https://open.spotify.com/album/33sw4PIhpTASRA9mIEI63j"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Big Bass",
+      "url": "https://open.spotify.com/track/0cZNioy7IGLvLrqqI2JW3z"
     },
     {
       "album": {
@@ -306,10 +342,50 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 201428,
       "name": "Big Racks",
       "url": "https://open.spotify.com/track/3Hmsr9kGbncO4TQhsJaFV8"
+    },
+    {
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/3PBWBOWJxmjdwZUuhiL32U"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263225,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/5m4RtoYq9DYg3lojdW5tqW"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/2mjYoaMqoYClRhzVHjTPcm"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "D'Aaron Anthony",
+          "url": "https://open.spotify.com/artist/2N9oU1WYKGpnSNEBNC3Sqf"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/0MQZi4FRmLn45J0wkjVE5J"
     },
     {
       "album": {
@@ -416,7 +492,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 193920,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1sykacKdaCW4KE0AtRglRu"
@@ -446,6 +522,24 @@
       "duration_ms": 243809,
       "name": "Bright Lights (feat. Lil Debbie)",
       "url": "https://open.spotify.com/track/5om2GqwzkfrvkzMmMPvmHD"
+    },
+    {
+      "album": {
+        "name": "Burn the House",
+        "url": "https://open.spotify.com/album/65lSyFP9MeZJ9LBiPQWvMo"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161932,
+      "name": "Burn the House",
+      "url": "https://open.spotify.com/track/0Qv962GVef5ssQboETsqvF"
     },
     {
       "album": {
@@ -486,6 +580,24 @@
       "duration_ms": 198750,
       "name": "Bust It",
       "url": "https://open.spotify.com/track/3jRf1CgbwS6KK8loU2P7sg"
+    },
+    {
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/2fvEeYWxMM3FHMriKdrKKZ"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/0WYJ11EFojH6SjUTi3xVXI"
     },
     {
       "album": {
@@ -530,6 +642,32 @@
       "duration_ms": 219047,
       "name": "Code Blue",
       "url": "https://open.spotify.com/track/1S7zKcXAnr3G65hGnUq4MY"
+    },
+    {
+      "album": {
+        "name": "Come Again (feat. Scrufizzer)",
+        "url": "https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Shahay",
+          "url": "https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256644,
+      "name": "Come Again (feat. Scrufizzer)",
+      "url": "https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N"
     },
     {
       "album": {
@@ -634,7 +772,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 222746,
       "name": "deeper",
       "url": "https://open.spotify.com/track/5Qb1L6fvkn9fLWKlyTvqiJ"
@@ -652,7 +790,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 181251,
       "name": "Do Me Right",
       "url": "https://open.spotify.com/track/6mLJ7zIYSd0UU4clzjKjMC"
@@ -678,10 +816,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 200625,
       "name": "Downstairs (feat. Jaquell) - AC Slater Remix",
       "url": "https://open.spotify.com/track/4mJE8x9qBYJXtsbgCabL4R"
+    },
+    {
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/3N7z1ezQEDSV94VAa6OcU4"
+      },
+      "artists": [
+        {
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/7p10Admejdbz7aU8Bd8nQh"
     },
     {
       "album": {
@@ -718,7 +874,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 137255,
       "name": "Famous Last Words",
       "url": "https://open.spotify.com/track/6poUGr8xrWtCxttBIbiS15"
@@ -798,7 +954,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 195000,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC"
@@ -882,7 +1038,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 163200,
       "name": "Gold On My Crown (feat. Born I)",
       "url": "https://open.spotify.com/track/19T0zMPlfewq1NL7FVuxii"
@@ -904,7 +1060,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 142857,
       "name": "Good Again",
       "url": "https://open.spotify.com/track/6jbdxYkwM7pf1pVujcoWyQ"
@@ -1024,7 +1180,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 194319,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5YT0stC917pjldKbdVzEo4"
@@ -1054,6 +1210,28 @@
       "duration_ms": 212459,
       "name": "Help - Habstrakt Remix",
       "url": "https://open.spotify.com/track/7vuRaD7q2ajQU3xLQupl9T"
+    },
+    {
+      "album": {
+        "name": "BLKMRKT Vol. 1",
+        "url": "https://open.spotify.com/album/1EXSFhzEK4yrgUQXVvjT1t"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Plaza",
+          "url": "https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142380,
+      "name": "Hold Up (feat. J. Plaza)",
+      "url": "https://open.spotify.com/track/6HkQZhtfy9VEl149aO3g6d"
     },
     {
       "album": {
@@ -1104,7 +1282,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 180495,
       "name": "I Am Ready",
       "url": "https://open.spotify.com/track/0ufeCauchfjHvwhCz0XiQL"
@@ -1158,7 +1336,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 173085,
       "name": "Jaw Drop",
       "url": "https://open.spotify.com/track/5mpJ8Rrt0JPPXFuIrySFXh"
@@ -1311,6 +1489,28 @@
     },
     {
       "album": {
+        "name": "Lose Control (feat. Purple Velvet Curtains)",
+        "url": "https://open.spotify.com/album/6DOLeLC5KNWml0o702y1MX"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "Purple Velvet Curtains",
+          "url": "https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Lose Control (feat. Purple Velvet Curtains)",
+      "url": "https://open.spotify.com/track/3mgIfqJfJrwMwMKVyd0H4Q"
+    },
+    {
+      "album": {
         "name": "Losing My Mind (with Elohim)",
         "url": "https://open.spotify.com/album/6cj8neZRFBV86kkyte2y0u"
       },
@@ -1344,7 +1544,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 183701,
       "name": "Love Is Coming Down",
       "url": "https://open.spotify.com/track/48dEIGE6vrPalLnkZH9KXI"
@@ -1460,7 +1660,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 173333,
       "name": "Mindfuck",
       "url": "https://open.spotify.com/track/3Ab83RolErGgia4RzGbczc"
@@ -1606,7 +1806,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 212584,
       "name": "No Trust",
       "url": "https://open.spotify.com/track/3aPo3XX7MglfqIZ8O7BEe4"
@@ -1628,7 +1828,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 223200,
       "name": "Old School",
       "url": "https://open.spotify.com/track/0RzusHyWJSvNh4NRjtOdOb"
@@ -1708,10 +1908,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Pina Colada",
       "url": "https://open.spotify.com/track/1uPwBcCxY6Hi7hzugbgwZ0"
+    },
+    {
+      "album": {
+        "name": "Please Stop",
+        "url": "https://open.spotify.com/album/10SpY89l5xZLQX97pYbgv2"
+      },
+      "artists": [
+        {
+          "name": "GIANT",
+          "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Please Stop",
+      "url": "https://open.spotify.com/track/7t7YUMHIEwS2zNflsWDKmx"
     },
     {
       "album": {
@@ -1726,7 +1944,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 296585,
       "name": "Pop Your Hip",
       "url": "https://open.spotify.com/track/1cC4bY52GHpEbBdE73UJu6"
@@ -1762,7 +1980,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 146671,
       "name": "Punch Box",
       "url": "https://open.spotify.com/track/3UQW9mvgLbCySmH1P5H5aK"
@@ -1916,7 +2134,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 144590,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6fp8ij0afP7qdZHlk7gyco"
@@ -2136,7 +2354,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 220645,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/4fA42eD8kLaTFipNqHPy7S"
@@ -2267,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "The Tempo",
+        "url": "https://open.spotify.com/album/6X242Cvjdeay2RQnFqCagy"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155884,
+      "name": "The Tempo",
+      "url": "https://open.spotify.com/track/3BYWIYlgpnW18iaMga2E0u"
+    },
+    {
+      "album": {
         "name": "Trippy (Kage VIP)",
         "url": "https://open.spotify.com/album/6Bg6GQuQ9ZiZ43Deuf5Air"
       },
@@ -2348,7 +2584,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 161280,
       "name": "Void",
       "url": "https://open.spotify.com/track/0bP2hNFQL5GPRe9p34F13Q"

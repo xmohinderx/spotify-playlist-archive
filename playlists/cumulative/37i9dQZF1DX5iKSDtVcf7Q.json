@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Wheelhouse",
+        "url": "https://open.spotify.com/album/5NQa6BB9H7oc0dNT7GqOq0"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2020-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281453,
+      "name": "Beat This Summer",
+      "url": "https://open.spotify.com/track/2EUHzmBZux7SSra71cGkIB"
+    },
+    {
+      "album": {
         "name": "Beer Never Broke My Heart",
         "url": "https://open.spotify.com/album/4NiEW0J6PCsvdxS2ocAqtd"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 193573,
       "name": "Runnin' Outta Moonlight",
       "url": "https://open.spotify.com/track/7CL6oaDC9d0QXFMQRkNBmy"
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 184186,
       "name": "U.S. Stronger",
       "url": "https://open.spotify.com/track/4I8cuwbwWfU8e2iDrubxEs"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 181034,
       "name": "You and the Radio",
       "url": "https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh"

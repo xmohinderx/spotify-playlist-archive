@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 212173,
       "name": "All-American Girl",
       "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 161306,
       "name": "Bits & Pieces",
       "url": "https://open.spotify.com/track/2muPf36lYJMIqGzI3h8JTQ"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 231333,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 217184,
       "name": "California",
       "url": "https://open.spotify.com/track/7nzqTlte0dXVzhCqYtFYCY"
@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Drag It Out",
+        "url": "https://open.spotify.com/album/6ceTf2NgXIrs3YY5espNDd"
+      },
+      "artists": [
+        {
+          "name": "Walker County",
+          "url": "https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199413,
+      "name": "Drag It Out",
+      "url": "https://open.spotify.com/track/06uF7nCt1WzRjZJrOhSMu8"
+    },
+    {
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 164701,
       "name": "Every Last Thing",
       "url": "https://open.spotify.com/track/5qQNPkFOoOPT4IAlmHX0yH"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 206623,
       "name": "Get My Shit Together",
       "url": "https://open.spotify.com/track/1QY5PMjs1fXc9hbgjJZ01R"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 206906,
       "name": "Growing Old Young",
       "url": "https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2"
@@ -648,7 +666,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 217813,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB"
@@ -706,7 +724,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 157760,
       "name": "I Bet You Wanna Know",
       "url": "https://open.spotify.com/track/0mOJz5X44w1RScid7BZ4Mq"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 214160,
       "name": "i don't lovE you",
       "url": "https://open.spotify.com/track/4zeKFHz1NrJE6MQzoXp92B"
@@ -861,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216518,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh"
+    },
+    {
+      "album": {
         "name": "Just About Over You (Radio Edit)",
         "url": "https://open.spotify.com/album/4dIQM906ytb1uhErDtkGJg"
       },
@@ -944,7 +980,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 186942,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/7qgHRxllAa0ZrHwFFJ9UIz"
@@ -1208,7 +1244,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 218581,
       "name": "Own Roses",
       "url": "https://open.spotify.com/track/0o9HKZ3WD6hxG0n9tI7Ma2"
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 166185,
       "name": "Shoulda",
       "url": "https://open.spotify.com/track/3eEPoXCE8euzeFobYQTK9M"
@@ -1406,7 +1442,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 187121,
       "name": "Sister",
       "url": "https://open.spotify.com/track/39O2sUSkGz1fxBjihGRlve"
@@ -1504,7 +1540,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 211499,
       "name": "Someone's Sometimes",
       "url": "https://open.spotify.com/track/4CRM33ZzLhuJzQGAnINTtp"
@@ -1578,7 +1614,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 319320,
       "name": "Strawberry Wine - 2021 Version",
       "url": "https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn"
@@ -1650,7 +1686,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 177857,
       "name": "Table For One Drinking For Two",
       "url": "https://open.spotify.com/track/6Qi5Bc5qDoYt7P9H2lTTiR"
@@ -1711,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "The Woman I've Become",
+        "url": "https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu"
+      },
+      "artists": [
+        {
+          "name": "Jessie James Decker",
+          "url": "https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "The Woman I've Become",
+      "url": "https://open.spotify.com/track/3Sov5oiUCNxw1SvljM31V9"
+    },
+    {
+      "album": {
         "name": "Drinkin' Songs: The Collection",
         "url": "https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq"
       },
@@ -1758,7 +1812,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 203384,
       "name": "Thirties",
       "url": "https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ"
@@ -1902,7 +1956,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 217871,
       "name": "We Were Rich - New Version",
       "url": "https://open.spotify.com/track/3Lp2u6JS7yK45JtGlHLLCJ"
@@ -2072,7 +2126,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 206826,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh"

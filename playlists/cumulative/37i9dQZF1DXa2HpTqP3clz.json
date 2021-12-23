@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 425360,
       "name": "All Ashore",
       "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
@@ -104,10 +104,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 174874,
       "name": "Always Another Mountain",
       "url": "https://open.spotify.com/track/0ZF26LzcX1qjK8ZsW87paI"
+    },
+    {
+      "album": {
+        "name": "Amarillo Blue",
+        "url": "https://open.spotify.com/album/5bT9ZtzDf424d7U7BPYHRS"
+      },
+      "artists": [
+        {
+          "name": "Songs From The Road Band",
+          "url": "https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183571,
+      "name": "Amarillo Blue",
+      "url": "https://open.spotify.com/track/01o9hUQTcGKOSd6i3qa5Ld"
     },
     {
       "album": {
@@ -144,7 +162,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 253058,
       "name": "Anna Marie (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
@@ -289,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Carolina Line",
+        "url": "https://open.spotify.com/album/1PZjU3sgRtI4d3lKVoa6zJ"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174446,
+      "name": "Carolina Line",
+      "url": "https://open.spotify.com/track/5vau2fRS2HubqiztPmXrUI"
+    },
+    {
+      "album": {
         "name": "Cattle in the Cane",
         "url": "https://open.spotify.com/album/0lh355GxjrO9zVZ7gHUdUb"
       },
@@ -304,6 +340,24 @@
       "duration_ms": 212164,
       "name": "Cattle in the Cane",
       "url": "https://open.spotify.com/track/0XcB1mqwPSIvmpAqXWcEFS"
+    },
+    {
+      "album": {
+        "name": "Charlie Pickle",
+        "url": "https://open.spotify.com/album/7fLDKHCfXK4lrnNeCDSoJ9"
+      },
+      "artists": [
+        {
+          "name": "Sad Daddy",
+          "url": "https://open.spotify.com/artist/4T5p62edz57S8617YLu3qV"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256506,
+      "name": "Charlie Pickle",
+      "url": "https://open.spotify.com/track/115TnBbSiS8Jxn6KQICZeQ"
     },
     {
       "album": {
@@ -351,6 +405,24 @@
     },
     {
       "album": {
+        "name": "City That Drowned",
+        "url": "https://open.spotify.com/album/5fpN7NYmZYu3uzDYZ88sMF"
+      },
+      "artists": [
+        {
+          "name": "Mile Twelve",
+          "url": "https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "City That Drowned",
+      "url": "https://open.spotify.com/track/55wECaiZiaTTW5OuTxpry4"
+    },
+    {
+      "album": {
         "name": "My Remedy",
         "url": "https://open.spotify.com/album/22sRGaHEabLIFZkcPHu3r0"
       },
@@ -366,6 +438,24 @@
       "duration_ms": 138946,
       "name": "Creeping Round My Cabin",
       "url": "https://open.spotify.com/track/4aKozQLYvFFBQ4PfaBxacs"
+    },
+    {
+      "album": {
+        "name": "Desert Flowers",
+        "url": "https://open.spotify.com/album/0kKvq0CejAOdMreoJSvsvV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Anne Platt & the Honeycutters",
+          "url": "https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309183,
+      "name": "Desert Flowers",
+      "url": "https://open.spotify.com/track/5X6ZqGQ4unZmm9uEAEwcLY"
     },
     {
       "album": {
@@ -398,7 +488,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN"
@@ -434,7 +524,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 200480,
       "name": "Empty Square",
       "url": "https://open.spotify.com/track/2JJAhyzA35yZa3wnwg6BQT"
@@ -492,6 +582,42 @@
       "duration_ms": 220688,
       "name": "Fun Having Fun",
       "url": "https://open.spotify.com/track/5O7BGrnVo6ujHWWwsbL2qW"
+    },
+    {
+      "album": {
+        "name": "Get Me Home",
+        "url": "https://open.spotify.com/album/46KMY0jta6wButycFuRQKw"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222074,
+      "name": "Get Me Home",
+      "url": "https://open.spotify.com/track/4CrGndV7IYAnJ1HBPcB4YB"
+    },
+    {
+      "album": {
+        "name": "Get On Board",
+        "url": "https://open.spotify.com/album/54ToTgFhPw6pqVDGxI5XPN"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179468,
+      "name": "Get On Board",
+      "url": "https://open.spotify.com/track/6ImWTo17mrxnY2kTqii3yt"
     },
     {
       "album": {
@@ -582,6 +708,24 @@
       "duration_ms": 420123,
       "name": "Grow Together",
       "url": "https://open.spotify.com/track/7idNyQ5OqevE4Z1d7I2YSH"
+    },
+    {
+      "album": {
+        "name": "Halls of the Eclipse",
+        "url": "https://open.spotify.com/album/2m1iiVLn9s6s6LVLgyyDyH"
+      },
+      "artists": [
+        {
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411000,
+      "name": "Halls of the Eclipse",
+      "url": "https://open.spotify.com/track/22eWj8Iob1aUWYGFobICm1"
     },
     {
       "album": {
@@ -978,7 +1122,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 162210,
       "name": "Little at a Time",
       "url": "https://open.spotify.com/track/2RuGWGr89HXJLCnr6dB7o4"
@@ -1036,10 +1180,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 185047,
       "name": "Love Along the Way",
       "url": "https://open.spotify.com/track/6nkEksqMHYkwLQWSduWNMa"
+    },
+    {
+      "album": {
+        "name": "Love, Oh Careless Love (Simply Bluegrass)",
+        "url": "https://open.spotify.com/album/6FNIOceWrC3UJH3cLAmOYu"
+      },
+      "artists": [
+        {
+          "name": "Doyle Lawson",
+          "url": "https://open.spotify.com/artist/53ODrbz9dJiAZ6ikXa8l3F"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209821,
+      "name": "Love, Oh Careless Love - Simply Bluegrass",
+      "url": "https://open.spotify.com/track/5mlS721XOhAFMJeFdNM4Q3"
     },
     {
       "album": {
@@ -1166,7 +1328,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 184466,
       "name": "Moonbeam",
       "url": "https://open.spotify.com/track/6HuOzBKgL1I9WDKjKxS7vp"
@@ -1184,7 +1346,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 214623,
       "name": "More Than I Am",
       "url": "https://open.spotify.com/track/2Ayvf4LEGkXWSRk429AzuO"
@@ -1220,10 +1382,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 203073,
       "name": "Mountains In Mississippi",
       "url": "https://open.spotify.com/track/2NwjxAXoM2CeFrHpMSXpJv"
+    },
+    {
+      "album": {
+        "name": "Man On Fire",
+        "url": "https://open.spotify.com/album/3AtOkjs6sAQrLC9Pt0hiEJ"
+      },
+      "artists": [
+        {
+          "name": "Danny Barnes",
+          "url": "https://open.spotify.com/artist/0DhucXNLPVQdnrfuKZva7h"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268573,
+      "name": "Mule",
+      "url": "https://open.spotify.com/track/3gDTqq3iQorFpb5Zi5wJM9"
     },
     {
       "album": {
@@ -1278,7 +1458,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 156500,
       "name": "Never Go Back Again",
       "url": "https://open.spotify.com/track/2WTyOJTKEOanVEsIRr6uRX"
@@ -1350,7 +1530,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 267800,
       "name": "No Mistakes",
       "url": "https://open.spotify.com/track/0cqTydaXk13w5CjFpUFN1E"
@@ -1451,6 +1631,28 @@
     },
     {
       "album": {
+        "name": "Open Water",
+        "url": "https://open.spotify.com/album/6h93IZ0qSC6vpaO6q7NnVt"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Open Water",
+      "url": "https://open.spotify.com/track/2URfv93mR97fnXOh0VXcNJ"
+    },
+    {
+      "album": {
         "name": "Orphan Annie",
         "url": "https://open.spotify.com/album/4wS4JNpGOxJksJ4UEsdVpv"
       },
@@ -1462,7 +1664,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 300676,
       "name": "Orphan Annie",
       "url": "https://open.spotify.com/track/2LLvjxMWgwbgjJURPayTE5"
@@ -1556,7 +1758,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
@@ -1600,6 +1802,28 @@
       "duration_ms": 272666,
       "name": "Right Side of the Dirt",
       "url": "https://open.spotify.com/track/1pDupWQjzygg1wE7QQFKEP"
+    },
+    {
+      "album": {
+        "name": "+ 1",
+        "url": "https://open.spotify.com/album/0WerA63tJFged7ZimsZGxZ"
+      },
+      "artists": [
+        {
+          "name": "Mike Barnett",
+          "url": "https://open.spotify.com/artist/3MUpz7uOj1I6iUuVkim4JA"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145349,
+      "name": "Righteous Bell (feat. Sarah Jarosz)",
+      "url": "https://open.spotify.com/track/5NmlmBN121Z8oMFwGBMd7J"
     },
     {
       "album": {
@@ -1688,6 +1912,24 @@
       "duration_ms": 190634,
       "name": "Run To Heaven",
       "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
+    },
+    {
+      "album": {
+        "name": "Say Your Mind",
+        "url": "https://open.spotify.com/album/1cLYkEy1YYNHAGRPIN2Vif"
+      },
+      "artists": [
+        {
+          "name": "Head for the Hills",
+          "url": "https://open.spotify.com/artist/7xKRWodRPGPamCMTGSQtBU"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242458,
+      "name": "Say Your Mind",
+      "url": "https://open.spotify.com/track/6DOTRLTpmkFhkZUVVjPJ4y"
     },
     {
       "album": {
@@ -1808,7 +2050,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 248712,
       "name": "Squirrel Hunters",
       "url": "https://open.spotify.com/track/5Tu8iwoMgiz3MQJui9OFt9"
@@ -1866,7 +2108,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 154564,
       "name": "Take the Long Way Home",
       "url": "https://open.spotify.com/track/3cg9WFT5K0zizQg51QTX1f"
@@ -1918,7 +2160,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 153968,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
@@ -2006,7 +2248,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 286720,
       "name": "The Barber's Fiddle",
       "url": "https://open.spotify.com/track/2KLi7lXAh2L7ksjTB4mpmF"
@@ -2096,7 +2338,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 246853,
       "name": "The More I Learn",
       "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
@@ -2206,7 +2448,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 206106,
       "name": "Town's End",
       "url": "https://open.spotify.com/track/4nobx1eDq4WEeZ9mvXqip7"
@@ -2224,7 +2466,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 163564,
       "name": "Traveling the Highway Home",
       "url": "https://open.spotify.com/track/4tDtaYKaHte0FzX3KH6Cgo"
@@ -2301,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Sidetrack My Engine",
+        "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165213,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
+    },
+    {
+      "album": {
         "name": "What's It Gonna Take",
         "url": "https://open.spotify.com/album/2KB4XKjxrDHZVR44CNkeJQ"
       },
@@ -2346,6 +2606,42 @@
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "album": {
+        "name": "Everyone A Song, Vol. 2",
+        "url": "https://open.spotify.com/album/4VjBvRsHWA0S2a53poAf6P"
+      },
+      "artists": [
+        {
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269464,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/5JT3ZBXUwNxdoWkeF2Ygv8"
     },
     {
       "album": {
@@ -2424,7 +2720,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 216906,
       "name": "Whittling Away",
       "url": "https://open.spotify.com/track/6ogRZAJ7Th8mS4Ax0lMoNd"
@@ -2442,7 +2738,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 223404,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
@@ -2478,7 +2774,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 207600,
       "name": "Winter's Gone",
       "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"

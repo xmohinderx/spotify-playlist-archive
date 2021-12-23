@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 164617,
       "name": "Alright (frick it!)",
       "url": "https://open.spotify.com/track/0guJsHG67oNPEtZCIHfMxm"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/1anwgwnvLAcrItcXMpc2Py"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 190386,
       "name": "Caught In The Middle",
       "url": "https://open.spotify.com/track/1SD2TWyBiComJuvPk6PfJm"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 227053,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/5NbyidjQ7pvTWdEVOUFcT3"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 172300,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/4KUvir7HcUGWZNNCjUckI5"
@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "LOVETAP!",
+        "url": "https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "date_added": "2021-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222760,
+      "name": "Killer Whales",
+      "url": "https://open.spotify.com/track/0qnOjNW04qpcgXqD9dwru2"
+    },
+    {
+      "album": {
         "name": "Kombucha",
         "url": "https://open.spotify.com/album/4STKNQMCHzs7k8sEUwdAzL"
       },
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 195093,
       "name": "Kombucha",
       "url": "https://open.spotify.com/track/7pGYQz0yMkm8rLdP6u1wZW"
@@ -1747,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/7MdLGxc28TjsXvOQe2ayln"
+      },
+      "artists": [
+        {
+          "name": "Mo Lowda & the Humble",
+          "url": "https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk"
+        }
+      ],
+      "date_added": "2021-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208401,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/7t91zpWtUO9xORfkwnKSQG"
+    },
+    {
+      "album": {
         "name": "Preach",
         "url": "https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe"
       },
@@ -1780,6 +1816,24 @@
       "duration_ms": 219389,
       "name": "Preacher Man",
       "url": "https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P"
+    },
+    {
+      "album": {
+        "name": "Pretty Way to Fight",
+        "url": "https://open.spotify.com/album/1kMQDvVlFdDjQZjy2b0vQ9"
+      },
+      "artists": [
+        {
+          "name": "Knox Hamilton",
+          "url": "https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9"
+        }
+      ],
+      "date_added": "2021-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Pretty Way to Fight",
+      "url": "https://open.spotify.com/track/1IqCYpT2uKyCEfH76Re2rr"
     },
     {
       "album": {
@@ -1983,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Stumblin' Home",
+        "url": "https://open.spotify.com/album/3vcxSBQfluGFgBjLtHHg0E"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        }
+      ],
+      "date_added": "2021-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179857,
+      "name": "Stumblin' Home",
+      "url": "https://open.spotify.com/track/01oyRIMjNlMSN00ETiVduQ"
+    },
+    {
+      "album": {
         "name": "Summer of Love",
         "url": "https://open.spotify.com/album/2xH5TLfWIg7D7ArqdRabrM"
       },
@@ -2012,7 +2084,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 231443,
       "name": "Summer Sound",
       "url": "https://open.spotify.com/track/0n5M23g9jUnTrNug9b7bC5"
@@ -2030,7 +2102,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 191186,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0xIg9RUSmGFF3PWpisGLIY"
@@ -2156,7 +2228,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 186374,
       "name": "Television",
       "url": "https://open.spotify.com/track/469PWHZlngcQyOJnGGAWzs"
@@ -2268,7 +2340,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 184435,
       "name": "Vowels (And the Importance of Being Me)",
       "url": "https://open.spotify.com/track/2jE3wqMD0Btzsf3cxr0FhO"

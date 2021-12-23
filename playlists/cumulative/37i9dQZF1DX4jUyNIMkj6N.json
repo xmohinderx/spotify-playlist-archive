@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Unknown/Running",
+        "url": "https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246316,
+      "name": "(It\u2019s not about) Running",
+      "url": "https://open.spotify.com/track/0Wv1pXBLzxUQsp7HImlyH0"
+    },
+    {
+      "album": {
         "name": "After My Time",
         "url": "https://open.spotify.com/album/1s68byNQbjggSvT9FCLnAL"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 176706,
       "name": "Aha-Aha",
       "url": "https://open.spotify.com/track/3sVPDzUFOlf0B9bKDlGA03"
@@ -299,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/2bZ5sNOSfy5NOOq69D1IIg"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lips",
+          "url": "https://open.spotify.com/artist/57wRcXzsm02wA9Vh0yeJkb"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289924,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3Ies4YqUvwKGY8TxKmxicZ"
+    },
+    {
+      "album": {
         "name": "The Lingering",
         "url": "https://open.spotify.com/album/5eq6sWxCUtIKSFZaLPmIO8"
       },
@@ -310,7 +346,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/2nfUcAyXnCs7VaedrWsbqI"
@@ -400,7 +436,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 266520,
       "name": "Ghost Mess",
       "url": "https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8"
@@ -418,7 +454,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 326233,
       "name": "Go Out Nowhere",
       "url": "https://open.spotify.com/track/22nH0JD1DcxEXHHOqCi0LH"
@@ -519,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Sumie",
+        "url": "https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr"
+      },
+      "artists": [
+        {
+          "name": "Sumie",
+          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195741,
+      "name": "Hunting Sky",
+      "url": "https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK"
+    },
+    {
+      "album": {
         "name": "The Green Stone",
         "url": "https://open.spotify.com/album/1Sxc4lT1ZIF56J4C3WkcjL"
       },
@@ -613,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW"
+      },
+      "artists": [
+        {
+          "name": "Sin Fang",
+          "url": "https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Look At The Light",
+      "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
+    },
+    {
+      "album": {
         "name": "Lou Lou",
         "url": "https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH"
       },
@@ -660,7 +732,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 293760,
       "name": "Modern Drift",
       "url": "https://open.spotify.com/track/2BFL0kBinCKVMCwJolJnKj"
@@ -772,10 +844,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 278095,
       "name": "Right as Rain",
       "url": "https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK"
+    },
+    {
+      "album": {
+        "name": "Live 2020",
+        "url": "https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258720,
+      "name": "River - Live",
+      "url": "https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq"
     },
     {
       "album": {
@@ -794,6 +884,24 @@
       "duration_ms": 241120,
       "name": "Signals",
       "url": "https://open.spotify.com/track/5WWL4PVYEgeYQ7QdtT5hIM"
+    },
+    {
+      "album": {
+        "name": "The One In The Sun",
+        "url": "https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v"
+      },
+      "artists": [
+        {
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324138,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/7KvtfHiJ6Egxz27DYaOO59"
     },
     {
       "album": {
@@ -880,7 +988,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 227760,
       "name": "The Ghost In Your Smile",
       "url": "https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe"
@@ -999,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Vega",
+        "url": "https://open.spotify.com/album/3vbNof55CDxh6favNsfI68"
+      },
+      "artists": [
+        {
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
+        {
+          "name": "Sindre Hotvedt",
+          "url": "https://open.spotify.com/artist/6UzXqmZCFu0Qq5v6NbyC14"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403911,
+      "name": "Vega",
+      "url": "https://open.spotify.com/track/2Vo7t22exoxAEqjCUJMpJk"
+    },
+    {
+      "album": {
         "name": "Veronica & Veronika",
         "url": "https://open.spotify.com/album/66DdGBAMdsopKPTdSYQXjv"
       },
@@ -1086,7 +1216,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 271280,
       "name": "What Hurts the Most (Is Knowing You Want to Leave)",
       "url": "https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s"
@@ -1140,7 +1270,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 257440,
       "name": "With Tomorrow/I'm On Fire",
       "url": "https://open.spotify.com/track/4fcQm79lQN2GJHRYq75sSO"

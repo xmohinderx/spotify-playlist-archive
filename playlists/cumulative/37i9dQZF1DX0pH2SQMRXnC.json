@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 188129,
       "name": "Above It All",
       "url": "https://open.spotify.com/track/0J3e3pldo7uAns4dpLxLR0"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 179200,
       "name": "Angels & Demons",
       "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
@@ -225,6 +225,32 @@
     },
     {
       "album": {
+        "name": "Bass Attack EP",
+        "url": "https://open.spotify.com/album/1tif57Eh4lU9m9gh7GVo3K"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Crude Intentions",
+          "url": "https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09"
+        },
+        {
+          "name": "MC Jeff",
+          "url": "https://open.spotify.com/artist/7zKk52i6Ad4So5HltHRPa9"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "Bass Attack",
+      "url": "https://open.spotify.com/track/3idlXH9t69kYKh6Y2KBOpx"
+    },
+    {
+      "album": {
         "name": "Beat Of The Drum",
         "url": "https://open.spotify.com/album/6AUQfrGH0q6Fk5j9WiEVUx"
       },
@@ -272,10 +298,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 178717,
       "name": "Bodyshock",
       "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
+    },
+    {
+      "album": {
+        "name": "Bolivia (G4H Blood Brothers Remix)",
+        "url": "https://open.spotify.com/album/6AaDjwSMKDhu2ulwjfJexH"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267870,
+      "name": "Bolivia - G4H Blood Brothers Remix",
+      "url": "https://open.spotify.com/track/3RUcYG9JQIF4YNYZWPsqeG"
     },
     {
       "album": {
@@ -378,7 +422,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 159200,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/5hShWhULwT3YUfIBQvh9VW"
@@ -521,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Coming Alive",
+        "url": "https://open.spotify.com/album/2n3kVRxgTd1EXZUwIPsWCy"
+      },
+      "artists": [
+        {
+          "name": "Clockartz",
+          "url": "https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253548,
+      "name": "Coming Alive",
+      "url": "https://open.spotify.com/track/7rwwZKaxMmKK9T1yXIokIv"
+    },
+    {
+      "album": {
         "name": "Coming Down",
         "url": "https://open.spotify.com/album/5Y88FtIAInXidoJcmOf1SE"
       },
@@ -602,7 +664,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 228800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw"
@@ -706,6 +768,72 @@
       "duration_ms": 183967,
       "name": "Deep End - Maxtreme Remix",
       "url": "https://open.spotify.com/track/3eKF84e3XvQjaKoPYMbBk1"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/4b8STLNNgp6prFuru4NnZF"
+      },
+      "artists": [
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/5V36Ex7BD1FIidVCKVSKdm"
+    },
+    {
+      "album": {
+        "name": "Dirty Money",
+        "url": "https://open.spotify.com/album/1zmpt4KQ7ePMwy1CQrX6Qq"
+      },
+      "artists": [
+        {
+          "name": "Dany Bpm",
+          "url": "https://open.spotify.com/artist/3E6p5In4n4lbmS6oVipW8R"
+        },
+        {
+          "name": "Haaradak",
+          "url": "https://open.spotify.com/artist/1xG49yuBUoOuJfuTOROGfr"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Dirty Money",
+      "url": "https://open.spotify.com/track/1I4jKdWVIbCGJKtJBva2fe"
+    },
+    {
+      "album": {
+        "name": "Discover",
+        "url": "https://open.spotify.com/album/5rFBMI5yQKf2LawlXBoZYt"
+      },
+      "artists": [
+        {
+          "name": "Averion",
+          "url": "https://open.spotify.com/artist/4VTEnHIcc06TeHoqeKvQEK"
+        },
+        {
+          "name": "Luxtreme",
+          "url": "https://open.spotify.com/artist/7Gs7ELP6TZK3IxiQunEtYf"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215504,
+      "name": "Discover",
+      "url": "https://open.spotify.com/track/6kAkda1mvbIr1J6gE5YMMy"
     },
     {
       "album": {
@@ -874,7 +1002,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 196896,
       "name": "Embracing The Madness",
       "url": "https://open.spotify.com/track/31zOoImZZMK5rlmiO4NiYL"
@@ -1166,7 +1294,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 182727,
       "name": "Fire And Ice - Radio Edit",
       "url": "https://open.spotify.com/track/4tQOschUTYTa8jWH6iFWhd"
@@ -1381,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/1WZz6GbvaWU1RX1t3RUJuR"
+      },
+      "artists": [
+        {
+          "name": "Necroformers",
+          "url": "https://open.spotify.com/artist/3zMzp2r0t2tmgQ2TlrFtur"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182908,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/1DAERWYDdlSiRLCOr7vq9t"
+    },
+    {
+      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/0CdsPSUAFyI58HXxgQFLax"
       },
@@ -1564,7 +1710,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 219142,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/7jPZ8CnQPpcbJp9ZiTvuMY"
@@ -1620,6 +1766,24 @@
       "duration_ms": 179500,
       "name": "High From It (Coone & Sephyx Remix)",
       "url": "https://open.spotify.com/track/3XussQ7yygu3uoAPEDlwhi"
+    },
+    {
+      "album": {
+        "name": "Hit 'Em",
+        "url": "https://open.spotify.com/album/5pZ7OHl8T2iycRLdBTwMvR"
+      },
+      "artists": [
+        {
+          "name": "Refract",
+          "url": "https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180761,
+      "name": "Hit 'Em",
+      "url": "https://open.spotify.com/track/06wgx2IGE8gme8tJpQQtVk"
     },
     {
       "album": {
@@ -1706,7 +1870,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 244133,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
@@ -1913,6 +2077,32 @@
     },
     {
       "album": {
+        "name": "Kunai",
+        "url": "https://open.spotify.com/album/6wZME1GkTiKvShtLnUHN8F"
+      },
+      "artists": [
+        {
+          "name": "GMAXX",
+          "url": "https://open.spotify.com/artist/08emtxxFRRK0vu6XE8nA74"
+        },
+        {
+          "name": "Detunne",
+          "url": "https://open.spotify.com/artist/0Q0o71MBUk0QI4kJ4Xq6YG"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144016,
+      "name": "Kunai",
+      "url": "https://open.spotify.com/track/6YNkhnU2trzwKIL7Dgcdlj"
+    },
+    {
+      "album": {
         "name": "kunterbunt",
         "url": "https://open.spotify.com/album/76JWwHeDCQYMUdj9dl1lBO"
       },
@@ -1968,7 +2158,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 192297,
       "name": "Left Of Us - Darren Styles Remix",
       "url": "https://open.spotify.com/track/5GBgpkLwGddjBhufgazZSH"
@@ -2146,7 +2336,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 186315,
       "name": "Make That Body Rock",
       "url": "https://open.spotify.com/track/7kgTsBAU2a4011YI83XZEB"
@@ -2406,7 +2596,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 190451,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/6AgG8WZqYsJZWb1yZjULE8"
@@ -2460,7 +2650,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 216000,
       "name": "Noon",
       "url": "https://open.spotify.com/track/3RxUBny41YbvA2zus4vWYA"
@@ -2482,7 +2672,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 234844,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/6qRZNvECX7DllIpLdlbUk6"
@@ -2863,6 +3053,28 @@
     },
     {
       "album": {
+        "name": "Reach For The Sky",
+        "url": "https://open.spotify.com/album/2ueVwToJCCNtaPUHOyEsE3"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        },
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167612,
+      "name": "Reach For The Sky",
+      "url": "https://open.spotify.com/track/48WMx4OjrRl5GnzlBTCD4C"
+    },
+    {
+      "album": {
         "name": "Ready to Rave (Bass Modulators Remix)",
         "url": "https://open.spotify.com/album/49pYmbBEyo37z9h2cExc1u"
       },
@@ -2882,7 +3094,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 201864,
       "name": "Ready to Rave (Bass Modulators Remix)",
       "url": "https://open.spotify.com/track/7xfQpFEwYH6ENl4fuMQqMJ"
@@ -2944,7 +3156,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 162557,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7i2mcD6FwfHFPRLvfAHbau"
@@ -3062,7 +3274,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 194520,
       "name": "Shady People",
       "url": "https://open.spotify.com/track/21WeEP1WFMO0wIzQRVzVd8"
@@ -3128,7 +3340,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 220903,
       "name": "Show It",
       "url": "https://open.spotify.com/track/349WqcWdoFn8SpuPqabADv"
@@ -3294,6 +3506,24 @@
       "duration_ms": 181224,
       "name": "Speaker Test - Pherato Remix",
       "url": "https://open.spotify.com/track/5GsJhXlbmAr6rSkAd9j2W9"
+    },
+    {
+      "album": {
+        "name": "The Outcry",
+        "url": "https://open.spotify.com/album/473T0ua6xeVzObt0IByXI9"
+      },
+      "artists": [
+        {
+          "name": "Lynx",
+          "url": "https://open.spotify.com/artist/0HwP4jjp6Wb1PuljkT8wJh"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156012,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/4rWoj8zjH5mv9FdserDATf"
     },
     {
       "album": {
@@ -3519,6 +3749,32 @@
     },
     {
       "album": {
+        "name": "Survivors (Mindblast & Ryan T. Remix)",
+        "url": "https://open.spotify.com/album/1u7wJrOU1V82CwQgygLjvw"
+      },
+      "artists": [
+        {
+          "name": "Damae",
+          "url": "https://open.spotify.com/artist/3QW9uznwQ9oFTraYvbK9cn"
+        },
+        {
+          "name": "Mindblast",
+          "url": "https://open.spotify.com/artist/1dc1mqf0iyyGnElrhMKUFU"
+        },
+        {
+          "name": "Ryan T",
+          "url": "https://open.spotify.com/artist/2E4rfccROlZIzUw66oznGl"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164197,
+      "name": "Survivors - Mindblast & Ryan T. Remix",
+      "url": "https://open.spotify.com/track/7kFqghx8g01qb83BDDv8E2"
+    },
+    {
+      "album": {
         "name": "Sweater Weather",
         "url": "https://open.spotify.com/album/49oEQTuxnqqiOw66AfI5zc"
       },
@@ -3563,6 +3819,28 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/4CAqHELfFOUdgpLJ9p8dxQ"
+      },
+      "artists": [
+        {
+          "name": "Unsenses",
+          "url": "https://open.spotify.com/artist/5ezp2WTBB8rewVCdTKGO1F"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179201,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/0BGDmwplApiVRFvhKlKBOr"
+    },
+    {
+      "album": {
         "name": "The Calling (Da Tweekaz Remix)",
         "url": "https://open.spotify.com/album/7LT1ZlmIgH54ntff4MbIls"
       },
@@ -3578,7 +3856,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 228285,
       "name": "The Calling (Da Tweekaz Remix)",
       "url": "https://open.spotify.com/track/4aRwjepcGUhXP5MLOncvdT"
@@ -3604,7 +3882,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 263800,
       "name": "The Elite",
       "url": "https://open.spotify.com/track/6RbtosFO5C2pMbPaFeMf9b"
@@ -3940,7 +4218,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 206225,
       "name": "Times Gettin' Hard (JNXD Remix)",
       "url": "https://open.spotify.com/track/1wsh0kiEkZLNTjvFryHAYA"
@@ -4064,7 +4342,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 192000,
       "name": "Twilight Zone - Edit",
       "url": "https://open.spotify.com/track/09BxJMIz6CkunwqTPgpEWV"
@@ -4476,7 +4754,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 195200,
       "name": "World Renowned",
       "url": "https://open.spotify.com/track/6LNfKW19l2ETXWiOlguLf7"

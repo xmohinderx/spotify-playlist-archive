@@ -324,7 +324,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 167272,
       "name": "Aomine Daiki",
       "url": "https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q"
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 220396,
       "name": "Happy Death Day",
       "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
@@ -6170,6 +6170,28 @@
       "duration_ms": 147310,
       "name": "\u0411\u0443\u0434\u044c\u0442\u0435 \u0437\u0434\u043e\u0440\u043e\u0432\u044b",
       "url": "https://open.spotify.com/track/0U5PB3WFNjXfNxGhTbKIXp"
+    },
+    {
+      "album": {
+        "name": "MONEY COUNTER MUSIC",
+        "url": "https://open.spotify.com/album/24rGjrXwGFJlkivFDwOMuq"
+      },
+      "artists": [
+        {
+          "name": "Scally Milano",
+          "url": "https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg"
+        },
+        {
+          "name": "LOVV66",
+          "url": "https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "\u0411\u0443\u043a\u0432\u0430 \u0425",
+      "url": "https://open.spotify.com/track/320b8n5Ew9RgzDP67tVIx1"
     },
     {
       "album": {
@@ -11016,7 +11038,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 174579,
       "name": "\u0421\u043e\u0436\u0436\u0435\u043d\u044b",
       "url": "https://open.spotify.com/track/5doOdgoCHUN9mV0uwlBaWe"
@@ -11230,7 +11252,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 255704,
       "name": "\u0422\u0430\u043a \u0438 \u0437\u043d\u0430\u043b",
       "url": "https://open.spotify.com/track/5aADAi4y2IOh2tKbv1jnMX"
@@ -11662,7 +11684,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 202812,
       "name": "\u0423\u043b\u0438\u0446\u044b \u0431\u0435\u0437 \u0444\u043e\u043d\u0430\u0440\u0435\u0439",
       "url": "https://open.spotify.com/track/63zZclNUcyodnySewFn5Pi"
@@ -11716,7 +11738,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
       "url": "https://open.spotify.com/track/1ghdJUMhmLEpUitNwyNMWH"

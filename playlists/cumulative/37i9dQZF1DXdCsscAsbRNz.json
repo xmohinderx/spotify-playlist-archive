@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Bocks",
+        "url": "https://open.spotify.com/album/5P5KYC3jZPN7F6lVMEZLCa"
+      },
+      "artists": [
+        {
+          "name": "Granite Stone",
+          "url": "https://open.spotify.com/artist/2IIgijC6z7dO3WTWEX79tv"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133502,
+      "name": "Bocks",
+      "url": "https://open.spotify.com/track/2uefuYyOh0LTfrMcuvl2ID"
+    },
+    {
+      "album": {
         "name": "Bo\u00f6tes",
         "url": "https://open.spotify.com/album/6lllSwLLJB19hH6jYb3e8i"
       },
@@ -2656,6 +2674,24 @@
       "duration_ms": 139650,
       "name": "Natti Natti",
       "url": "https://open.spotify.com/track/59ZXQmhrMnGJuywLKBgIQe"
+    },
+    {
+      "album": {
+        "name": "Nattljus",
+        "url": "https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX"
+      },
+      "artists": [
+        {
+          "name": "Pontus Josefsson",
+          "url": "https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Nattljus",
+      "url": "https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB"
     },
     {
       "album": {

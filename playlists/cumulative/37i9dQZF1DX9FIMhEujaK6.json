@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185168,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
+    },
+    {
+      "album": {
         "name": "Be Patient",
         "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 336885,
       "name": "Burnt Orange",
       "url": "https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 275641,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/5jvM6v9rRM982kij65puWN"
@@ -460,7 +478,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 299534,
       "name": "Idle",
       "url": "https://open.spotify.com/track/4nV7NfTgDupppPZf5ARmLY"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 277503,
       "name": "Memoria",
       "url": "https://open.spotify.com/track/71aAjtAtvLgTdmLOt5syln"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 472622,
       "name": "Milky Way",
       "url": "https://open.spotify.com/track/4E3A7qJWoSZWBGqTKw6iFC"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 229090,
       "name": "Notforyou (Jacana People Remix)",
       "url": "https://open.spotify.com/track/76vBiX6QGPQxB58FcC6OxW"
@@ -846,6 +864,42 @@
       "duration_ms": 333653,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM"
+    },
+    {
+      "album": {
+        "name": "Plunge",
+        "url": "https://open.spotify.com/album/2h11IZVnNBKTeFrofHvqeZ"
+      },
+      "artists": [
+        {
+          "name": "Verdance",
+          "url": "https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252803,
+      "name": "Pithy",
+      "url": "https://open.spotify.com/track/7uPiExBiGuH8ocfFezmWuM"
+    },
+    {
+      "album": {
+        "name": "Retina / Stay",
+        "url": "https://open.spotify.com/album/0fvdyiNRkHyE8OhCLvfB9s"
+      },
+      "artists": [
+        {
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234838,
+      "name": "Retina",
+      "url": "https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN"
     },
     {
       "album": {
@@ -1067,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "The House Vibe",
+        "url": "https://open.spotify.com/album/0iSkCpPYNMydhu67zTAvJb"
+      },
+      "artists": [
+        {
+          "name": "Swales",
+          "url": "https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390491,
+      "name": "Thinkin'",
+      "url": "https://open.spotify.com/track/6K7t4N9zurx5u0Wy19F4Mo"
+    },
+    {
+      "album": {
         "name": "Everything Will Grow Again",
         "url": "https://open.spotify.com/album/5PL3bssLg2p941ZdKHohsO"
       },
@@ -1078,7 +1150,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 351080,
       "name": "Together",
       "url": "https://open.spotify.com/track/0fMK1HCL3szYzYyIpIfn9E"
@@ -1096,7 +1168,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 250430,
       "name": "Tom's Bar",
       "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"

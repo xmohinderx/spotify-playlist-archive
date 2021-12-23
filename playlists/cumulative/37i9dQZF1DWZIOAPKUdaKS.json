@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 189536,
       "name": "Am Arbersee",
       "url": "https://open.spotify.com/track/7LekCZ7Sx5an6lZnM5gnCw"
@@ -1262,10 +1262,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 136750,
       "name": "Coulee Vert",
       "url": "https://open.spotify.com/track/5CocdKvyw8gpwdwOaZeVAw"
+    },
+    {
+      "album": {
+        "name": "Crisantemo",
+        "url": "https://open.spotify.com/album/1pzhxz46LJJeq8tDppNxEZ"
+      },
+      "artists": [
+        {
+          "name": "Darrell Vitagliano",
+          "url": "https://open.spotify.com/artist/6NlWjzoEit79rWPMDscYKO"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Crisantemo",
+      "url": "https://open.spotify.com/track/10voUgZZce2HxtJPzpfEz8"
     },
     {
       "album": {
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 129750,
       "name": "Feuilles d'automne",
       "url": "https://open.spotify.com/track/0C2q5FBAGtuFopEx96ayCf"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 144555,
       "name": "Howthian",
       "url": "https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M"
@@ -3066,7 +3084,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 212918,
       "name": "Knots",
       "url": "https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8"
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 150000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/60miRS7FrwzvkLRj0Jzlvi"
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 129750,
       "name": "Mon meilleur ami",
       "url": "https://open.spotify.com/track/6LRrvXTPDplQuKIuIsLZu9"
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 115374,
       "name": "M\u00e9lange",
       "url": "https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z"
@@ -4636,7 +4654,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-23",
       "duration_ms": 137083,
       "name": "Passing Time",
       "url": "https://open.spotify.com/track/4dVCVkwJFhuLlY3mNia5uk"
@@ -5324,6 +5342,24 @@
       "duration_ms": 146880,
       "name": "Round Corners",
       "url": "https://open.spotify.com/track/5Xihr5cDsWzZoAXDYXIyQT"
+    },
+    {
+      "album": {
+        "name": "s'effondrer",
+        "url": "https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY"
+      },
+      "artists": [
+        {
+          "name": "Liliane Lucy",
+          "url": "https://open.spotify.com/artist/1ICOz8tPrLAs5l5hYq12om"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183513,
+      "name": "s'effondrer",
+      "url": "https://open.spotify.com/track/3e8h3zJiIpod0eksz4QXZ4"
     },
     {
       "album": {
@@ -7258,6 +7294,24 @@
       "duration_ms": 158000,
       "name": "Y\u014dsei",
       "url": "https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH"
+    },
+    {
+      "album": {
+        "name": "Herbst Briese",
+        "url": "https://open.spotify.com/album/7ffWTDZHGBYKWnLrvAnyvZ"
+      },
+      "artists": [
+        {
+          "name": "Kal Daniels",
+          "url": "https://open.spotify.com/artist/7tSECjYISKAql7IRAqhhYB"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Zeit der Stille",
+      "url": "https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid"
     },
     {
       "album": {
