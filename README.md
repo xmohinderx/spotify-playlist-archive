@@ -14,6 +14,8 @@ Apparently, I'm not alone: see
 [here](https://community.spotify.com/t5/Closed-Ideas/Playlist-Versioning-History/idi-p/1133819),
 [here](https://community.spotify.com/t5/Closed-Ideas/Playlist-History-Versioning/idi-p/1346418),
 [here](https://community.spotify.com/t5/Closed-Ideas/Playlists-Playlist-History/idi-p/1816799),
+[here](https://community.spotify.com/t5/Archived-Chat/Viewing-Spotify-playlist-history/td-p/2369783),
+[here](https://community.spotify.com/t5/Content-Questions/POLLEN-Viewing-songs-that-have-been-taken-off-the-playlist/td-p/5085718),
 and [here](https://community.spotify.com/t5/Live-Ideas/Playlists-Edit-History/idi-p/4573743).
 Since Spotify won't take snapshots of our favorite playlists, let's do it ourselves!
 
