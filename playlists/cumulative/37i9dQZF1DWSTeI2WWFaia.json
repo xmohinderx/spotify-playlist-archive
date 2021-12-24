@@ -72,7 +72,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194604,
       "name": "Back At It",
       "url": "https://open.spotify.com/track/7CtseXl6vo5iKg4lJGdQfG"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 241005,
       "name": "Big Steppa",
       "url": "https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 226173,
       "name": "Chicken N Dumplins",
       "url": "https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208500,
       "name": "EAT",
       "url": "https://open.spotify.com/track/4PIFHcMwQrebdI6A2gS17t"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 226800,
       "name": "Fake Flowers",
       "url": "https://open.spotify.com/track/6kdYgh9p7t8wlxljk8KGJg"
@@ -570,10 +570,40 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 167693,
       "name": "Golden Eye",
       "url": "https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT"
+    },
+    {
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/4j4HCie37pZHJ0YtqKSHti"
+      },
+      "artists": [
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190501,
+      "name": "Good Morning (feat. Pusha T, Swizz Beatz & Killer Mike)",
+      "url": "https://open.spotify.com/track/7evTceKtCaBbxoLIqICIVh"
     },
     {
       "album": {
@@ -687,6 +717,36 @@
     },
     {
       "album": {
+        "name": "Keep It Moving",
+        "url": "https://open.spotify.com/album/14hGabBtdr3gLQaKyT50F0"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180686,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/3R4IFsTuDOR7XEt2Tl2iuR"
+    },
+    {
+      "album": {
         "name": "LAW OF AVERAGES",
         "url": "https://open.spotify.com/album/138cEdPW5rqGndgVYmYwet"
       },
@@ -720,7 +780,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196420,
       "name": "Lemon (feat. Method Man)",
       "url": "https://open.spotify.com/track/6NYfMOaLFdYDv5dfAdrpsZ"
@@ -746,7 +806,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
@@ -862,10 +922,32 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195367,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU"
+    },
+    {
+      "album": {
+        "name": "Mr. Miyagi",
+        "url": "https://open.spotify.com/album/6rErVqrK0NASHQsrQXgz0t"
+      },
+      "artists": [
+        {
+          "name": "Jayy Grams",
+          "url": "https://open.spotify.com/artist/6q8DZBLBYqEUdKZl54sqGd"
+        },
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185008,
+      "name": "Mr. Miyagi",
+      "url": "https://open.spotify.com/track/3kzsjnSBIQgWHrmdXpUQe2"
     },
     {
       "album": {
@@ -1074,7 +1156,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198275,
       "name": "Pissy Staircase",
       "url": "https://open.spotify.com/track/33Sm6eEycxZFfL28c2ST7G"
@@ -1092,10 +1174,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 239106,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1icmxr6OxT03H4dHGOiLFX"
+    },
+    {
+      "album": {
+        "name": "Red Lobster Biscuits",
+        "url": "https://open.spotify.com/album/0nsjXVsIaE6dwUexKHDLjW"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162380,
+      "name": "Red Lobster Biscuits",
+      "url": "https://open.spotify.com/track/7JcUYHmxHM6H9kjHOcTxuW"
     },
     {
       "album": {
@@ -1132,7 +1232,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -1184,7 +1284,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 187238,
       "name": "Scottie Pippens (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/19O7OqzwiT0U5DKec68WJR"
@@ -1202,7 +1302,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 199803,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/0d33DG1uICHiennWuQUjzs"
@@ -1224,6 +1324,28 @@
       "duration_ms": 235023,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz"
+    },
+    {
+      "album": {
+        "name": "Sink",
+        "url": "https://open.spotify.com/album/6e6elVmUC70lrRndssuAk5"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124931,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/6SGtzveb9eeXkSYqkyLk21"
     },
     {
       "album": {
@@ -1290,7 +1412,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 198493,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO"
@@ -1312,7 +1434,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 257832,
       "name": "Sprague Street",
       "url": "https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx"
@@ -1330,7 +1452,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178086,
       "name": "State Prisoner",
       "url": "https://open.spotify.com/track/2GOaOOc8ROBp9O1ob9AsCr"
@@ -1382,7 +1504,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 235500,
       "name": "Sunday Morning Drive (feat. Curren$y & Dom Kennedy)",
       "url": "https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS"
@@ -1426,10 +1548,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 162528,
       "name": "Talkin' Back (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
+    },
+    {
+      "album": {
+        "name": "Orange Print",
+        "url": "https://open.spotify.com/album/1TryWyc9xJqfL5htRsgr1F"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127031,
+      "name": "Tangible Assets",
+      "url": "https://open.spotify.com/track/13biO041eq28N49u710xIs"
     },
     {
       "album": {
@@ -1448,7 +1588,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 150532,
       "name": "Thanksgiving",
       "url": "https://open.spotify.com/track/3nZD0cDcEiz8rqK48SYhgn"
@@ -1470,6 +1610,36 @@
       "duration_ms": 164938,
       "name": "The Game",
       "url": "https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci"
+    },
+    {
+      "album": {
+        "name": "The Hurt Business (Remix) [feat. M V P]",
+        "url": "https://open.spotify.com/album/14uKBmlhvyd4EHRmQUwH6U"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "M V P",
+          "url": "https://open.spotify.com/artist/2LcnJ9L2cellRnmt2GibL5"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294825,
+      "name": "The Hurt Business (feat. M V P) - Remix",
+      "url": "https://open.spotify.com/track/4ssJnLgeWWCqNg9I6nQwxu"
     },
     {
       "album": {
@@ -1532,7 +1702,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 194652,
       "name": "The Stellar Ray Theory",
       "url": "https://open.spotify.com/track/52emBfS1l9frzMlxvaRSbE"
@@ -1594,7 +1764,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214137,
       "name": "Top of the Morning",
       "url": "https://open.spotify.com/track/7GDwVJttKCeqfeANTwe9y3"
@@ -1638,7 +1808,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
@@ -1678,7 +1848,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 241188,
       "name": "Whoop Tang Flow (feat. Raekwon)",
       "url": "https://open.spotify.com/track/091VDkLyQvQBS0YXC0nEtg"

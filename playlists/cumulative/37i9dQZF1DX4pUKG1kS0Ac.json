@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 281426,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/1TBIHWmr1r34J2s0eSfA7U"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 193826,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 340613,
       "name": "Graduation (Friends Forever)",
       "url": "https://open.spotify.com/track/45V4Mk7vZV2b9JfSWuUX9m"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 216066,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217653,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250360,
       "name": "I Knew I Loved You",
       "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 321973,
       "name": "I'd Do Anything for Love (But I Won't Do That) - Radio Edit",
       "url": "https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/4sUoWHVnJl8z3t4zdqf6xB"
@@ -1648,6 +1648,24 @@
       "duration_ms": 194120,
       "name": "Jessie's Girl",
       "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "album": {
+        "name": "Colour By Numbers",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
       "album": {
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Sk8er Boi",
       "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 204000,
       "name": "Sk8er Boi",
       "url": "https://open.spotify.com/track/4omisSlTk6Dsq2iQD7MA07"
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 286666,
       "name": "Y.M.C.A.",
       "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"

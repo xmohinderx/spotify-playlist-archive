@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "Black America Again",
+        "url": "https://open.spotify.com/album/3o5v0FFVTDpVYrub1lnz2m"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369173,
+      "name": "Black America Again",
+      "url": "https://open.spotify.com/track/2kDz1iMSOew9VSQkJNXXvV"
+    },
+    {
+      "album": {
         "name": "Let's Hear It for the Boy (Expanded Edition)",
         "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
       },
@@ -220,7 +242,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 282040,
       "name": "Black Man",
       "url": "https://open.spotify.com/track/1srvtCGacXBFhjJtXi1ORs"
@@ -318,6 +340,24 @@
       "duration_ms": 225404,
       "name": "Dangote",
       "url": "https://open.spotify.com/track/07XZZTucIfMyOSnkF0GPWJ"
+    },
+    {
+      "album": {
+        "name": "Dear Mr. President",
+        "url": "https://open.spotify.com/album/3mlLZTk6WbtK1exwMTfvBj"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291606,
+      "name": "Dear Mr. President",
+      "url": "https://open.spotify.com/track/4HYxdImJMiZ1pcpxwIRzEo"
     },
     {
       "album": {
@@ -420,7 +460,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 226640,
       "name": "FDT",
       "url": "https://open.spotify.com/track/6k0DJqW2v2e4809Z1zN0YU"
@@ -478,7 +518,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 162190,
       "name": "FTP",
       "url": "https://open.spotify.com/track/2RBsmtiaD90yNFtqkFjBVW"
@@ -674,7 +714,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 235185,
       "name": "Let Love Lead",
       "url": "https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD"
@@ -710,7 +750,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 232093,
       "name": "Little Ghetto Boy",
       "url": "https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd"
@@ -966,7 +1006,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 101773,
       "name": "Niggers vs. The Police",
       "url": "https://open.spotify.com/track/1Uf5QYb7Mo10eB5ozVmjOW"
@@ -1142,7 +1182,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 337893,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7"
@@ -1182,7 +1222,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 170893,
       "name": "Say It Loud - I'm Black And I'm Proud - Pt. 1",
       "url": "https://open.spotify.com/track/5HvVoij9zaVGoyspI2LlwU"
@@ -1266,7 +1306,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 463052,
       "name": "Sorrow Tears and Blood - Edit",
       "url": "https://open.spotify.com/track/55r3LnrYYQBZ2pkls4ZTnB"
@@ -1284,7 +1324,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 245243,
       "name": "Strange Stains",
       "url": "https://open.spotify.com/track/5lCjKaQeeaQgyEbRbSHkpg"
@@ -1342,7 +1382,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 183427,
       "name": "They Don't Care",
       "url": "https://open.spotify.com/track/4R9CKeS4mIiOz417aLtHUv"
@@ -1414,7 +1454,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250493,
       "name": "True To The Game",
       "url": "https://open.spotify.com/track/44xsa6cvJWeoWPm3dA1mdP"

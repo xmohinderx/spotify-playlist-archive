@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "A Place Where Mountains Hide",
+        "url": "https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS"
+      },
+      "artists": [
+        {
+          "name": "acloudyskye",
+          "url": "https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "A Drowning Cry",
+      "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
+    },
+    {
+      "album": {
         "name": "A Taste of Hope",
         "url": "https://open.spotify.com/album/3jz1d9Z24nYiD9dFuL5m4S"
       },
@@ -260,7 +278,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 176470,
       "name": "brief grip of creation",
       "url": "https://open.spotify.com/track/1Tc0j6uGzj6iCGqgTfy50T"
@@ -282,7 +300,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Brooklyn '95",
       "url": "https://open.spotify.com/track/1KxLWCQJG4RSeymZdHhDOV"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 154029,
       "name": "Chandelier (camoufly Remix)",
       "url": "https://open.spotify.com/track/6LIpZXwxDxR2iWiPYFBBnx"
@@ -468,7 +486,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 204470,
       "name": "Comb - Absent Chronicles Remix",
       "url": "https://open.spotify.com/track/12OtYMAKuPrBdXxEmEoanq"
@@ -486,7 +504,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Context",
       "url": "https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS"
@@ -616,7 +634,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 187294,
       "name": "Dodgeball",
       "url": "https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm"
@@ -656,7 +674,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 217904,
       "name": "Dummo Loop",
       "url": "https://open.spotify.com/track/6xpemzIGan5uOg7KGR0wfp"
@@ -823,6 +841,50 @@
     },
     {
       "album": {
+        "name": "Fluorescent",
+        "url": "https://open.spotify.com/album/4KiRQ2xo0RtzKy6ZOFQ6gz"
+      },
+      "artists": [
+        {
+          "name": "Fossa Beats",
+          "url": "https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt"
+        },
+        {
+          "name": "CLLLAPS",
+          "url": "https://open.spotify.com/artist/0jD8XI9pbjScAPdPF7F29Z"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215552,
+      "name": "Fluorescent",
+      "url": "https://open.spotify.com/track/4bQiPmKSrDHD048lUKr7Fu"
+    },
+    {
+      "album": {
+        "name": "Last Chance At Life",
+        "url": "https://open.spotify.com/album/7zLl6HZSKOUCqvVMVwvVwb"
+      },
+      "artists": [
+        {
+          "name": "HOUNDTRACK",
+          "url": "https://open.spotify.com/artist/3nw1z931Oc4JMbF4rGfz6O"
+        },
+        {
+          "name": "B-Dos",
+          "url": "https://open.spotify.com/artist/78XmtRqWV7RVWeYacvLJVx"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187506,
+      "name": "Frontier",
+      "url": "https://open.spotify.com/track/6yLEplXAX0k1mbqVAeNt9Z"
+    },
+    {
+      "album": {
         "name": "game point",
         "url": "https://open.spotify.com/album/4uQ7FC2FsJjv3RdQLKPhHZ"
       },
@@ -968,7 +1030,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 153502,
       "name": "High Like This (feat. Reo Cragun)",
       "url": "https://open.spotify.com/track/1HF9IpKHAqYgU4Kl1HseaS"
@@ -1008,7 +1070,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 194546,
       "name": "Home",
       "url": "https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y"
@@ -1114,7 +1176,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 160509,
       "name": "I Could Give It Up - Chuck Sutton Remix",
       "url": "https://open.spotify.com/track/5waNzvVH4PvgQlOTaNf5Sw"
@@ -1288,7 +1350,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 149760,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/0Hxg817iDRgOgizgY8G0j1"
@@ -1408,7 +1470,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 185600,
       "name": "let it go",
       "url": "https://open.spotify.com/track/1czCYuXfV3XtRTgxnVqyHY"
@@ -1426,7 +1488,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 139486,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/5dv1Yf3HwWuV6JuLNfOjmj"
@@ -1444,7 +1506,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Lost Someone",
       "url": "https://open.spotify.com/track/1ay9kjKoplo5f0FBCkVkTG"
@@ -1488,7 +1550,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192000,
       "name": "Make Me A Memory",
       "url": "https://open.spotify.com/track/6rbnauS7WjniN8vbV4tTkQ"
@@ -1528,7 +1590,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177947,
       "name": "Mind",
       "url": "https://open.spotify.com/track/05eeKZQ6HYn3tL5X7HXj36"
@@ -1728,7 +1790,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 211200,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/5e2QHek93FrcaKfH9znqZE"
@@ -1844,6 +1906,24 @@
       "duration_ms": 164819,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/3GC4bcTbJoOmg4VC187pkf"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/7qfpJ7a2HZpempfpBBkPmd"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174283,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4SGCk2NRPEueHeupJiIdy4"
     },
     {
       "album": {
@@ -2033,6 +2113,28 @@
     },
     {
       "album": {
+        "name": "Rushing Back",
+        "url": "https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231663,
+      "name": "Rushing Back",
+      "url": "https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY"
+    },
+    {
+      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV"
       },
@@ -2062,7 +2164,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 150857,
       "name": "Sakura VIP",
       "url": "https://open.spotify.com/track/4x0DXKcYYlI3bWxTf768D6"
@@ -2158,6 +2260,28 @@
       "duration_ms": 222831,
       "name": "Sleeptalking",
       "url": "https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i"
+    },
+    {
+      "album": {
+        "name": "SLIT",
+        "url": "https://open.spotify.com/album/1KQnrhiXdR7JhDEai0vz1b"
+      },
+      "artists": [
+        {
+          "name": "Herzeloyde",
+          "url": "https://open.spotify.com/artist/2AmAO3IlqP2zaCoh98msPC"
+        },
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199540,
+      "name": "SLIT",
+      "url": "https://open.spotify.com/track/1wHsT97qhIpq4UmTCGESVF"
     },
     {
       "album": {
@@ -2467,6 +2591,32 @@
     },
     {
       "album": {
+        "name": "tic tac toe",
+        "url": "https://open.spotify.com/album/08n4CTuQ8LVjfnHZ1IjmFs"
+      },
+      "artists": [
+        {
+          "name": "Tails",
+          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+        },
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        },
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "tic tac toe",
+      "url": "https://open.spotify.com/track/0ObiilKtl2cNkpiSscSVP6"
+    },
+    {
+      "album": {
         "name": "TIME + ENERGY",
         "url": "https://open.spotify.com/album/1Bgd2VZwTf6sPYtpwQKvgM"
       },
@@ -2518,7 +2668,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177103,
       "name": "Under the Same Stars - Sweater Beats Remix",
       "url": "https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF"
@@ -2562,7 +2712,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 232004,
       "name": "Vendetta For Cupid",
       "url": "https://open.spotify.com/track/1ZYw2g4nkNIFsysyEZxLgP"
@@ -2580,7 +2730,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 209299,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
@@ -2676,7 +2826,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 183652,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/0xjZJqMYwv7oNB4KsJiUUM"
@@ -2694,7 +2844,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220748,
       "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/3BRFlldhdNcUznlZVs6YOY"
@@ -2770,7 +2920,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198857,
       "name": "waves",
       "url": "https://open.spotify.com/track/2Prh6y8sogVP04PjwPI0To"
@@ -2902,7 +3052,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 269692,
       "name": "\u200emelodies \u200efrom \u200eheaven",
       "url": "https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F"

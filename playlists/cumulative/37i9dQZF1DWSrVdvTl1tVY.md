@@ -2,7 +2,7 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> Celebrating the biggest UK house bangers\. Updated regularly\. Cover: Anish Kumar, Barry Can't Swim
+> Celebrating the biggest UK house bangers\. Updated regularly\. Cover: Michael Bibi
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Papped \- Original Mix](https://open.spotify.com/track/0LuvHgMvXnGAqywivMEl0p) | [Cousn](https://open.spotify.com/artist/5Q13wCN8sU8MaboNCmBrbl) | [Papped](https://open.spotify.com/album/450aToqu3yrB55gotHDj7T) | 3:57 | 2021-12-17 |  |
 | [Places \- Radio Edit](https://open.spotify.com/track/5XuWlOYjmbkuc81ID30omh) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl) | [Places \(Radio Edit\)](https://open.spotify.com/album/77zHgcPdfsJH3r73Plubub) | 4:03 | 2021-12-17 |  |
 | [Push It](https://open.spotify.com/track/6oZnpPjdCWtWVmRJzphWUV) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Push It](https://open.spotify.com/album/6Knpdnev4wckEEEoJvPgTZ) | 3:55 | 2021-12-17 |  |
-| [Radiance](https://open.spotify.com/track/1zp8wyDOgJW2ZNcKMcvBIo) | [Super Drama](https://open.spotify.com/artist/6xcexIkV1t1eY6LJWsXZUN) | [Radiance](https://open.spotify.com/album/37rqfeC2k1PlNUlQbhHK3P) | 6:11 | 2021-12-17 |  |
+| [Radiance](https://open.spotify.com/track/1zp8wyDOgJW2ZNcKMcvBIo) | [Super Drama](https://open.spotify.com/artist/6xcexIkV1t1eY6LJWsXZUN) | [Radiance](https://open.spotify.com/album/37rqfeC2k1PlNUlQbhHK3P) | 6:11 | 2021-12-17 | 2021-12-24 |
 | [Rain](https://open.spotify.com/track/06GaggIrBExxcmkZoRVxdU) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Rain](https://open.spotify.com/album/1ie5YmzOVtbgIklhtmRyjE) | 3:30 | 2021-12-17 |  |
 | [Reach](https://open.spotify.com/track/2cGiwvkBmgpP08BRoPWRn2) | [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Reach](https://open.spotify.com/album/0wYLchktVoAIYVL0bOcIGJ) | 3:25 | 2021-12-17 |  |
 | [Roskill](https://open.spotify.com/track/0SaXnvFBhh9xbSH68xUxli) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Roskill](https://open.spotify.com/album/3Mj7BTnNRpcRQwUM0u1ugc) | 7:00 | 2021-12-17 |  |
@@ -76,6 +76,7 @@
 | [Searching](https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Searching](https://open.spotify.com/album/1WN5g5MtXHMiyUdUcclJ2l) | 3:30 | 2021-12-17 |  |
 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 | 2021-12-17 |  |
 | [Something Fresh](https://open.spotify.com/track/1KBPJUMJjKd95viVQGy5NK) | [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz), [Nicole Fiallo](https://open.spotify.com/artist/73UetSYlADQU9aDYjakZsc) | [Something Fresh](https://open.spotify.com/album/32SFNhZoeh2Tax77hAqWzr) | 2:52 | 2021-12-17 |  |
+| [Soul System](https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [ISOLAT003](https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh) | 3:43 | 2021-12-24 |  |
 | [Sweat](https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Sweat](https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E) | 2:56 | 2021-12-17 |  |
 | [Take Me High](https://open.spotify.com/track/3eQ2o9qHlzsMPdgIzeT63f) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [JOY](https://open.spotify.com/album/7k0sWYeRb1VDKDjdMOJBOp) | 4:26 | 2021-12-17 |  |
 | [The Lover That You Are](https://open.spotify.com/track/4B16mNWfuTPQ6aA72Vu3CL) | [APEXAPE](https://open.spotify.com/artist/5F9PcM3OP6dnHPGJ94t43L) | [The Lover That You Are](https://open.spotify.com/album/41oac0G3a2oqthosHQ3U1o) | 2:29 | 2021-12-17 |  |

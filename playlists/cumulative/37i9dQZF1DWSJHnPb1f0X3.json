@@ -318,7 +318,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 208739,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/2wTDheT0TPUM7eNulUZwCl"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 166743,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/2Y6n0NmvsedUoYGa4TdKTz"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 152195,
       "name": "Drunk Calling",
       "url": "https://open.spotify.com/track/3U6YCUCPJ5CxQWx1psJ4Ga"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2nx0EIlIKMnMgWnj40O0HQ"
@@ -915,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Hello Sunday",
+        "url": "https://open.spotify.com/album/7IDAmawI1FJX9wgrJ3DaCc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        },
+        {
+          "name": "Caitlyn Scarlett",
+          "url": "https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184767,
+      "name": "Hello Sunday",
+      "url": "https://open.spotify.com/track/2rLO0WXRwcxJJRYLHzRJpz"
+    },
+    {
+      "album": {
         "name": "Higher (feat. iann dior) [Nathan Dawe Remix]",
         "url": "https://open.spotify.com/album/58ydC3lQV6s7JW6p8zU1s1"
       },
@@ -985,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147139,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
+    },
+    {
+      "album": {
         "name": "I Found You (Neptune)",
         "url": "https://open.spotify.com/album/1bFtZQgnCKOqKcgRtNinln"
       },
@@ -1000,7 +1044,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 158735,
       "name": "I Found You (Neptune)",
       "url": "https://open.spotify.com/track/13zDJQuwV00GslorzFPksN"
@@ -1084,7 +1128,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 155365,
       "name": "If There is Love",
       "url": "https://open.spotify.com/track/5ngkOLKzDPNoYEXN0snzq3"
@@ -1132,7 +1176,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174193,
       "name": "Imagining (feat. Gabrielle Aplin)",
       "url": "https://open.spotify.com/track/5o459PfDdkvptrq8lAGerD"
@@ -1452,7 +1496,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 150768,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/4tN0srLJxs242iy3wpq5AD"
@@ -1474,7 +1518,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167222,
       "name": "No Chill (feat. Lil Xxel)",
       "url": "https://open.spotify.com/track/5oh6lXsQ3mhw5PvcsJqvXg"
@@ -1600,7 +1644,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 173709,
       "name": "Paradise - Topic Remix",
       "url": "https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j"
@@ -1644,7 +1688,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 183859,
       "name": "Psycho - Joel Corry Remix",
       "url": "https://open.spotify.com/track/3XPl3dGn1oWe7VmKoB8nhU"
@@ -1666,7 +1710,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
@@ -1788,7 +1832,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 136563,
       "name": "Running Out Of Roses",
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
@@ -1850,7 +1894,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 157477,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/002RM16TLYCpwElukqy8xq"
@@ -1994,7 +2038,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208570,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/3d5sy82qemYO5B5TljeoBs"
@@ -2344,7 +2388,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 135507,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6"
@@ -2410,7 +2454,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 186264,
       "name": "We're Good - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/5Ja8ZlVexmTQKbWAQgZ3f0"

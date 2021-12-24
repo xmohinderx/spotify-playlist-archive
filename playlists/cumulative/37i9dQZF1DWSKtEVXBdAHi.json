@@ -68,7 +68,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 228111,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 221000,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/75Z3oAM4SKovcaW1fdxAJf"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 130899,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214634,
       "name": "Body Back (feat. Maia Wright)",
       "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 160909,
       "name": "Bruised Not Broken (feat. MNEK & Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191750,
       "name": "Compass",
       "url": "https://open.spotify.com/track/54rZW5jkApNTZ5FOqU10bU"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178480,
       "name": "Don't Call Me Up",
       "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217687,
       "name": "Free To Go",
       "url": "https://open.spotify.com/track/172BxPrgDzSgLzFK6jfGpz"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 158830,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/4l8jRqFDsYk6s6LoeBKRS6"
@@ -848,6 +848,28 @@
       "duration_ms": 244506,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0X9nAa9wp8lxbOeBfYa3Ts"
+    },
+    {
+      "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/1dV8PchYCrayApPXkpsbya"
+      },
+      "artists": [
+        {
+          "name": "Joakim Molitor",
+          "url": "https://open.spotify.com/artist/4xlA0Bz40SuaMYlEwGC0lM"
+        },
+        {
+          "name": "Cazzi Opeia",
+          "url": "https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191409,
+      "name": "Garbage",
+      "url": "https://open.spotify.com/track/5vWr85wo04KjJe3PKEkyN4"
     },
     {
       "album": {
@@ -928,6 +950,32 @@
       "duration_ms": 170400,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4VO0xVGzhSuRxWfPyGhkj7"
+    },
+    {
+      "album": {
+        "name": "Hide & Seek (feat. Joe Housley)",
+        "url": "https://open.spotify.com/album/6JMnkPQtpRmMyk2yF7AKeo"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Joe Housley",
+          "url": "https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "Hide & Seek (feat. Joe Housley)",
+      "url": "https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar"
     },
     {
       "album": {
@@ -1012,7 +1060,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 143414,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7o9SNYNMZTLtWo5W0IH6PI"
@@ -1052,7 +1100,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202640,
       "name": "Hurts 2B Human (feat. Khalid)",
       "url": "https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL"
@@ -1078,7 +1126,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 192681,
       "name": "I Don't Care (with Justin Bieber) - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/1VYj8u5I4L5Xl21zQiQMx7"
@@ -1114,7 +1162,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 168946,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
@@ -1443,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Perfect Type",
+        "url": "https://open.spotify.com/album/1C0ikQzG1pznLNdjwmiOVl"
+      },
+      "artists": [
+        {
+          "name": "Hoved",
+          "url": "https://open.spotify.com/artist/6aH5wUamNyPqimXRBt67k1"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160878,
+      "name": "Perfect Type",
+      "url": "https://open.spotify.com/track/2YrKRo0hkkpV2JvWHKA7XD"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
       },
@@ -1740,7 +1806,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
@@ -1926,7 +1992,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191248,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/4XZxalvnG4Yo8YZLuiT1kV"
@@ -1948,7 +2014,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 159000,
       "name": "Walk Me Home - R3HAB Remix",
       "url": "https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL"
@@ -2035,6 +2101,28 @@
     },
     {
       "album": {
+        "name": "Whisper so Loud",
+        "url": "https://open.spotify.com/album/4V6Ou0Fy9pOdrg0oRfiJ1M"
+      },
+      "artists": [
+        {
+          "name": "nourii",
+          "url": "https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf"
+        },
+        {
+          "name": "Axel Ehnstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184081,
+      "name": "Whisper so Loud",
+      "url": "https://open.spotify.com/track/7Gdf6wkt8V3fjN2MNxLBru"
+    },
+    {
+      "album": {
         "name": "Why Boy",
         "url": "https://open.spotify.com/album/2POadj9PRm2V5QbVuVPDUo"
       },
@@ -2068,7 +2156,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206362,
       "name": "Wiser",
       "url": "https://open.spotify.com/track/71D2ZKAsHBEVrHl1b40pnY"
@@ -2086,7 +2174,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 137347,
       "name": "With You",
       "url": "https://open.spotify.com/track/35FIDQv0u26DSknDahmcdz"
@@ -2104,7 +2192,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 177066,
       "name": "Words",
       "url": "https://open.spotify.com/track/7rXItunV3hiEujnGmMyibA"

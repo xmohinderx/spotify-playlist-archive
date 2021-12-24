@@ -1,6 +1,6 @@
 {
   "date_initialized": "2021-10-20",
-  "description": "#Spotifytbt this week is made of 80s synth pop dreams. Cover: Eurythmics\n\n",
+  "description": "#SpotifyTBT has some cozy crooners to keep you warm. Cover: Frank Sinatra\n\n",
   "name": "Throwback Thursday",
   "tracks": [
     {
@@ -240,10 +240,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-22",
+      "date_removed": null,
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+    },
+    {
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "album": {
@@ -258,7 +276,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217693,
       "name": "A View to a Kill",
       "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
@@ -337,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Dino: The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144693,
+      "name": "Ain't That A Kick In The Head - 1997 - Remastered",
+      "url": "https://open.spotify.com/track/7coH7f2P7SiLxmo95b5QHX"
+    },
+    {
+      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -366,7 +402,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-22",
+      "date_removed": null,
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
@@ -510,7 +546,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 218933,
       "name": "Always Something There to Remind Me",
       "url": "https://open.spotify.com/track/0KlJjhnfwAnPacNd7EH45J"
@@ -622,6 +658,28 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "album": {
+        "name": "Ella & Friends",
+        "url": "https://open.spotify.com/album/5Yg69Xqv5HepYlX4HetiuL"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163706,
+      "name": "Baby It's Cold Outside",
+      "url": "https://open.spotify.com/track/6rnzj8FSsz6jWFokYPzqRv"
     },
     {
       "album": {
@@ -940,10 +998,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 224693,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu"
+    },
+    {
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172480,
+      "name": "Beyond the Sea",
+      "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
     },
     {
       "album": {
@@ -1030,7 +1106,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 263213,
       "name": "Bizarre Love Triangle",
       "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
@@ -1160,7 +1236,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 251973,
       "name": "Blue Monday '88 - 2015 Remaster",
       "url": "https://open.spotify.com/track/3PQEaRs2JEwtk79IqbQYt1"
@@ -1280,7 +1356,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 184480,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
@@ -1590,7 +1666,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-22",
+      "date_removed": null,
       "duration_ms": 182360,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
@@ -1770,7 +1846,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231573,
       "name": "Cities In Dust",
       "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
@@ -2070,7 +2146,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215326,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
@@ -2110,6 +2186,24 @@
       "duration_ms": 209800,
       "name": "Cry for You",
       "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao"
+    },
+    {
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM"
     },
     {
       "album": {
@@ -2439,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Ella Fitzgerald Sings Duke Ellington",
+        "url": "https://open.spotify.com/album/4rxiq47F0SurHQyIi5Jzmh"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461666,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/5M0GKMJiOhltO9NmkoNJoq"
+    },
+    {
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F"
       },
@@ -2522,7 +2634,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191306,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
@@ -2594,7 +2706,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 236920,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
@@ -2638,7 +2750,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-22",
+      "date_removed": null,
       "duration_ms": 187693,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/0KBvapFwuz8gPKu6Gw23WN"
@@ -2663,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Easy Living (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/3d3aPk50dBMA2YbA7lC92r"
+    },
+    {
+      "album": {
         "name": "Oh Canada!: Rock Hits",
         "url": "https://open.spotify.com/album/04c15XwztwFaHZchwcHSFP"
       },
@@ -2674,7 +2808,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214933,
       "name": "Echo Beach",
       "url": "https://open.spotify.com/track/2uUHKPZF6W0ayxmdi6HRxa"
@@ -2775,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Everybody Loves Somebody",
+        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "Everybody Loves Somebody",
+      "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
+    },
+    {
+      "album": {
         "name": "A Quiet Storm",
         "url": "https://open.spotify.com/album/3PNGhnRiWJnGEo69o28hag"
       },
@@ -2822,7 +2974,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 251480,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/40dJCw4xU6Bd5ie9rfagNo"
@@ -2858,7 +3010,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 261066,
       "name": "Everything Counts",
       "url": "https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw"
@@ -2948,7 +3100,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 299240,
       "name": "Eyes Without A Face",
       "url": "https://open.spotify.com/track/0A1QehwXuYOGcIoZHy7UTb"
@@ -2984,7 +3136,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229293,
       "name": "Fade To Grey",
       "url": "https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG"
@@ -3027,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
+    },
+    {
+      "album": {
         "name": "West Ryder Pauper Lunatic Asylum",
         "url": "https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6"
       },
@@ -3060,6 +3230,28 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+    },
+    {
+      "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau"
     },
     {
       "album": {
@@ -3146,7 +3338,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 334360,
       "name": "Genius of Love",
       "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
@@ -3258,7 +3450,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
@@ -3684,7 +3876,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
@@ -3836,7 +4028,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 294586,
       "name": "Here Comes the Rain Again - Remastered Version",
       "url": "https://open.spotify.com/track/78RIER8V6EhrqVPOBi2GYa"
@@ -4006,7 +4198,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 286666,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE"
@@ -4198,7 +4390,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 265320,
       "name": "Human",
       "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
@@ -4241,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201440,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
+    },
+    {
+      "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU"
       },
@@ -4252,7 +4462,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 343400,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
@@ -4317,6 +4527,28 @@
     },
     {
       "album": {
+        "name": "The Godfather",
+        "url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        },
+        {
+          "name": "Carlo Savina",
+          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "I Have But One Heart",
+      "url": "https://open.spotify.com/track/4rTozJf2UY14LNG6Q3E321"
+    },
+    {
+      "album": {
         "name": "In The Groove",
         "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
       },
@@ -4350,6 +4582,24 @@
       "duration_ms": 217973,
       "name": "I Knew You Were Trouble.",
       "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Very Best Of Tony Bennett",
+        "url": "https://open.spotify.com/album/02ZK1RGYnem9SZmT48l6I4"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "I Left My Heart In San Francisco",
+      "url": "https://open.spotify.com/track/3jmvOtD6SG0CAPl5kZhhbD"
     },
     {
       "album": {
@@ -4426,10 +4676,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-22",
+      "date_removed": null,
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/0NJwp4usn5T5PPURpwLDDD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/6GLPIERsI3GVegT1EBBrZo"
     },
     {
       "album": {
@@ -4595,6 +4863,42 @@
     },
     {
       "album": {
+        "name": "Tell Mama The Complete Muscle Shoals Sessions",
+        "url": "https://open.spotify.com/album/6EKXFcbBuv4U6ZZTGQhLyS"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/7keRsHHqmuFRv8agWvaYxE"
+    },
+    {
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
+    },
+    {
+      "album": {
         "name": "Chaka",
         "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
@@ -4624,10 +4928,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 241320,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
+    },
+    {
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149826,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
     },
     {
       "album": {
@@ -4757,6 +5079,24 @@
     },
     {
       "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
+    },
+    {
+      "album": {
         "name": "I AM...SASHA FIERCE - Platinum Edition",
         "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
       },
@@ -4822,7 +5162,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 269800,
       "name": "If You Leave - 2019 Remaster",
       "url": "https://open.spotify.com/track/38w6aqERgBYjyvWQsltcvs"
@@ -4840,7 +5180,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214613,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2LQ2cwH2A8ITNNPUwY1wve"
@@ -5009,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy"
+    },
+    {
+      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
       },
@@ -5024,6 +5382,24 @@
       "duration_ms": 258786,
       "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
       "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Best [The Frank Sinatra Collection]",
+        "url": "https://open.spotify.com/album/6ITelwNygYl8U9aihuHdzx"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266973,
+      "name": "It Was A Very Good Year - Remastered ) [The Frank Sinatra Collection]",
+      "url": "https://open.spotify.com/track/1jWVAVUjhZQvb39mwSQh4E"
     },
     {
       "album": {
@@ -5118,10 +5494,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "album": {
+        "name": "Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185880,
+      "name": "It's Not For Me To Say",
+      "url": "https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2"
     },
     {
       "album": {
@@ -5262,7 +5656,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
@@ -5316,7 +5710,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
@@ -5352,7 +5746,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 205533,
       "name": "Kids In America",
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
@@ -5432,6 +5826,42 @@
       "duration_ms": 250520,
       "name": "Knock On Wood",
       "url": "https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5"
+    },
+    {
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Decca Years Volume One: The Singer",
+        "url": "https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204400,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0"
     },
     {
       "album": {
@@ -5526,7 +5956,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 274466,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9"
@@ -5625,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -5636,7 +6084,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 457675,
       "name": "Let's Dance - 2018 Remaster",
       "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
@@ -5963,6 +6411,24 @@
     },
     {
       "album": {
+        "name": "Elvis 30 #1 Hits",
+        "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Love Me Tender",
+      "url": "https://open.spotify.com/track/7iBBcw61QVJxI3NDzlpX2E"
+    },
+    {
+      "album": {
         "name": "Forever Now",
         "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
       },
@@ -5974,7 +6440,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213973,
       "name": "Love My Way",
       "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
@@ -6136,7 +6602,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 301373,
       "name": "Major Tom - Coming Home",
       "url": "https://open.spotify.com/track/709ffFK4o4MtG1NKoLvOma"
@@ -6194,6 +6660,24 @@
       "duration_ms": 192213,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+    },
+    {
+      "album": {
+        "name": "Sarah Vaughan In Hi-Fi",
+        "url": "https://open.spotify.com/album/3atCVYmLjlC6j3duEB6XuN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Mean to Me",
+      "url": "https://open.spotify.com/track/6Q7U4bTozx5kfLjWT81u7P"
     },
     {
       "album": {
@@ -6305,6 +6789,24 @@
     },
     {
       "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+    },
+    {
+      "album": {
         "name": "Portamento",
         "url": "https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi"
       },
@@ -6323,6 +6825,24 @@
     },
     {
       "album": {
+        "name": "The Legendary Bobby Darin",
+        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145933,
+      "name": "More - Remastered 2004",
+      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
+    },
+    {
+      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -6334,7 +6854,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
@@ -6471,6 +6991,24 @@
     },
     {
       "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141133,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
+    },
+    {
+      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -6522,6 +7060,28 @@
       "duration_ms": 235200,
       "name": "My Old Piano",
       "url": "https://open.spotify.com/track/4wXmQhmCyPMauoDZZfpEyZ"
+    },
+    {
+      "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/2YOnS1CtT1A8MoKrRVWcAB"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295240,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/1HPPMBSejgCfRgcZfLJggw"
     },
     {
       "album": {
@@ -6876,10 +7436,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "album": {
+        "name": "A Bit Of Soul",
+        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
     },
     {
       "album": {
@@ -6923,6 +7501,24 @@
     },
     {
       "album": {
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+    },
+    {
+      "album": {
         "name": "Only Yazoo - The Best Of",
         "url": "https://open.spotify.com/album/2SXWfdXGHFj0boWOGASmbM"
       },
@@ -6934,7 +7530,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192293,
       "name": "Only You",
       "url": "https://open.spotify.com/track/62sTjrwZKzNjfeeBcG4nIv"
@@ -7193,6 +7789,24 @@
     },
     {
       "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
+    },
+    {
+      "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
       },
@@ -7352,7 +7966,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 236800,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
@@ -7626,7 +8240,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
@@ -7716,7 +8330,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215773,
       "name": "She Drives Me Crazy",
       "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
@@ -7738,6 +8352,24 @@
       "duration_ms": 201373,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+    },
+    {
+      "album": {
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "She's Got You - Single Version",
+      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
     },
     {
       "album": {
@@ -7950,7 +8582,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 303306,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4"
@@ -8170,7 +8802,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 262866,
       "name": "Steppin' Out",
       "url": "https://open.spotify.com/track/0tBTnrMcc91qKP9dHqhsS7"
@@ -8250,6 +8882,24 @@
       "duration_ms": 313684,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE"
+    },
+    {
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
     },
     {
       "album": {
@@ -8420,7 +9070,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - Remastered",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
@@ -8478,7 +9128,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
@@ -8496,7 +9146,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 153840,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM"
@@ -8604,7 +9254,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 225280,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
@@ -8647,6 +9297,24 @@
     },
     {
       "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
+    },
+    {
+      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -8676,7 +9344,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-22",
+      "date_removed": null,
       "duration_ms": 164560,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
@@ -8748,7 +9416,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-22",
+      "date_removed": null,
       "duration_ms": 187040,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
@@ -8964,7 +9632,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220960,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
@@ -9058,6 +9726,24 @@
       "duration_ms": 208693,
       "name": "The Taste of Ink",
       "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
+    },
+    {
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "album": {
@@ -9603,6 +10289,24 @@
     },
     {
       "album": {
+        "name": "Just Once In My Life",
+        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218013,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -9618,6 +10322,24 @@
       "duration_ms": 235546,
       "name": "Under Cover of Darkness",
       "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
+    },
+    {
+      "album": {
+        "name": "The Extraordinary",
+        "url": "https://open.spotify.com/album/02uBH1eZ0GQRYw9GoE9Oiu"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/4dK2eSj5S3wtHtHsEu9V1L"
     },
     {
       "album": {
@@ -9798,7 +10520,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 253800,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
@@ -9816,7 +10538,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 266600,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
@@ -10040,10 +10762,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 285733,
       "name": "West End Girls - 2001 Remaster",
       "url": "https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0"
+    },
+    {
+      "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151866,
+      "name": "What A Diff'rence A Day Made",
+      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
       "album": {
@@ -10213,6 +10953,24 @@
     },
     {
       "album": {
+        "name": "Snowfall - The Tony Bennett Christmas Album",
+        "url": "https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133866,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ"
+    },
+    {
+      "album": {
         "name": "Kleerup",
         "url": "https://open.spotify.com/album/1DNb4vAjHkxX4coDuV7L4Q"
       },
@@ -10343,6 +11101,24 @@
     },
     {
       "album": {
+        "name": "The Anthology: 1931 - 1968",
+        "url": "https://open.spotify.com/album/1ARsPQG5T4Nx1fght0cGbo"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "You Always Hurt The One You Love",
+      "url": "https://open.spotify.com/track/42og107RMzQPsQUIJBSUbD"
+    },
+    {
+      "album": {
         "name": "Lifehouse",
         "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
       },
@@ -10430,7 +11206,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195146,
       "name": "You Spin Me Round (Like a Record)",
       "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
@@ -10510,6 +11286,24 @@
       "duration_ms": 212560,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/7wCH9DbgRs7ujHeqNy6oAS"
+    },
+    {
+      "album": {
+        "name": "OOO Baby Baby: The Anthlogy",
+        "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
+      "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
     },
     {
       "album": {

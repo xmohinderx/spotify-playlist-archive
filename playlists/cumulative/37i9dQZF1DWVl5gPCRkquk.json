@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 221066,
       "name": "Birds",
       "url": "https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217275,
       "name": "Dissolving",
       "url": "https://open.spotify.com/track/5P3JJGeG536cS1ciDnJsCk"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Easy Rider",
+        "url": "https://open.spotify.com/album/0ttq5m5vbcZNkRm85wDXh7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229800,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/12AZ6nSJdq3bYgVeza8nSE"
+    },
+    {
+      "album": {
         "name": "Cautionary Tale",
         "url": "https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 279000,
       "name": "Easy Way Out",
       "url": "https://open.spotify.com/track/2V6DAmBQMKUkXFw5rcbRF2"
@@ -725,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Follow You / Sunfish",
+        "url": "https://open.spotify.com/album/3h8qLAWZIdhZYEprKJ6bER"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229586,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/0ukHQwbkc9Tikwus91vQVM"
+    },
+    {
+      "album": {
         "name": "Get Me Out of Here",
         "url": "https://open.spotify.com/album/3by6C0jQ7x8YyfZB3s8VCs"
       },
@@ -866,7 +902,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
@@ -946,6 +982,24 @@
       "duration_ms": 217400,
       "name": "Home Truths",
       "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "album": {
@@ -1184,7 +1238,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182746,
       "name": "Jah Werx",
       "url": "https://open.spotify.com/track/0V6qGMcs3HocgP1Cwk8SkI"
@@ -1260,7 +1314,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 269083,
       "name": "Letter to Madeline",
       "url": "https://open.spotify.com/track/5dlRfWgS04e8n5oVbLJ7Q8"
@@ -1296,7 +1350,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206480,
       "name": "Limb",
       "url": "https://open.spotify.com/track/2maREpp3D44pj1yCM3o0sq"
@@ -1408,6 +1462,24 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "album": {
+        "name": "After a Time",
+        "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
+      },
+      "artists": [
+        {
+          "name": "Holly Throsby",
+          "url": "https://open.spotify.com/artist/0ISl2YbBIgqW4IWbSJMn5g"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240012,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/61N0PRyi0aLJCaYmgIzH0J"
     },
     {
       "album": {
@@ -1664,7 +1736,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 222251,
       "name": "Prodigal Daughter",
       "url": "https://open.spotify.com/track/6oNmOMYzjES85AH0EJ786u"
@@ -1852,7 +1924,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 249560,
       "name": "Shenandoah Shakedown",
       "url": "https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR"
@@ -1910,6 +1982,24 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "album": {
+        "name": "Dark River",
+        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "Something to Say",
+      "url": "https://open.spotify.com/track/5DvEC80DSVY64U1X5L2dmz"
     },
     {
       "album": {
@@ -2274,7 +2364,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 255652,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/71iWjFGvH1mnBZiMziR6cu"

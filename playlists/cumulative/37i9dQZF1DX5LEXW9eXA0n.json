@@ -1,6 +1,6 @@
 {
   "date_initialized": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Jung Seung Hwan(\uc815\uc2b9\ud658)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: KangHyeWon(\uac15\ud61c\uc6d0)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "K-Pop Ballad Hits",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/0Z2dJ96Dei0wMA7Lz2dpgQ"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228313,
+      "name": "Confession Is Not Flashy",
+      "url": "https://open.spotify.com/track/0q58M70BS6kq2q82rpwxcz"
+    },
+    {
+      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/20YuFf31mUzKLlcKTAGEV5"
       },
@@ -247,6 +265,28 @@
     },
     {
       "album": {
+        "name": "Rewind : Blossom Side A",
+        "url": "https://open.spotify.com/album/4YZ9E6yT1aAJguVIi8KBN8"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271325,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/5bIn60Sg8MkELjJzCPlR7I"
+    },
+    {
+      "album": {
         "name": "Purpose - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs"
       },
@@ -258,7 +298,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 273293,
       "name": "Drawing Our Moments",
       "url": "https://open.spotify.com/track/0BiJCg7FLwWGTYLEsnaHcz"
@@ -280,7 +320,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
@@ -414,7 +454,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 280360,
       "name": "Give You My Heart",
       "url": "https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D"
@@ -574,7 +614,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 238640,
       "name": "I want to be happy",
       "url": "https://open.spotify.com/track/7228vjb4e06cqzLv8Fqffi"
@@ -592,7 +632,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219146,
       "name": "I will",
       "url": "https://open.spotify.com/track/1cwCsOMKxYrVmvTFT4Q7mY"
@@ -610,7 +650,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 259713,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/2BzHlLKQyUVuvREaJikvmm"
@@ -628,7 +668,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH"
@@ -689,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Lazy Me",
+        "url": "https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "Lazy Me",
+      "url": "https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ"
+    },
+    {
+      "album": {
         "name": "Linger On",
         "url": "https://open.spotify.com/album/5Y0hziji128L0bXg9Dvl6G"
       },
@@ -700,7 +758,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 229867,
       "name": "Linger On",
       "url": "https://open.spotify.com/track/6foDgrZtjOAJektiejSJI3"
@@ -718,7 +776,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 223644,
       "name": "Listen to this song",
       "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
@@ -812,7 +870,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 261720,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE"
@@ -888,7 +946,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227000,
       "name": "My Love (Duet Ver.)",
       "url": "https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1"
@@ -924,7 +982,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 244786,
       "name": "Never let you go",
       "url": "https://open.spotify.com/track/0rama9ojHvaOiQQ5cA0glu"
@@ -968,6 +1026,24 @@
       "duration_ms": 247986,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
+    },
+    {
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "Please Don't Cry",
+      "url": "https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE"
     },
     {
       "album": {
@@ -1062,7 +1138,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217253,
       "name": "Shiny Star(2020)",
       "url": "https://open.spotify.com/track/7MXtr93z4ltQzhfIxYnYWX"
@@ -1206,7 +1282,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 233040,
       "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
       "url": "https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5"
@@ -1250,7 +1326,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 288826,
       "name": "Things I didn't know (when in love with you) (Feat. DinDin)",
       "url": "https://open.spotify.com/track/62AzvF1D5Rrc4zpa2JwOii"
@@ -1358,10 +1434,46 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 254893,
       "name": "When We Were In Love",
       "url": "https://open.spotify.com/track/613Ixm4sbcHRZGKmGtLX9v"
+    },
+    {
+      "album": {
+        "name": "When We Were Us - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0iUESqGVBginzy7gCYMvt2"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR-K.R.Y.",
+          "url": "https://open.spotify.com/artist/5Kdp1Iq26eCz7XbPxOgt7F"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247520,
+      "name": "When We Were Us",
+      "url": "https://open.spotify.com/track/2f4o2u8yAANvg3hQ8BNm4Q"
+    },
+    {
+      "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/2xTWhqmw4ulmDTMgQC97Jc"
+      },
+      "artists": [
+        {
+          "name": "KangHyeWon",
+          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Winter Poem",
+      "url": "https://open.spotify.com/track/1WIoLsx3aZ83yAJn76vwLD"
     },
     {
       "album": {
@@ -1398,7 +1510,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 205312,
       "name": "You, Clouds, Rain",
       "url": "https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv"

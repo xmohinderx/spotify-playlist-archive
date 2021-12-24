@@ -136,7 +136,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 206066,
       "name": "Alors on danse - Radio Edit",
       "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203333,
       "name": "Bambol\u00e9o",
       "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196533,
       "name": "Barbra Streisand - Radio Edit",
       "url": "https://open.spotify.com/track/0XvjOhwCnXXFOSlBbV9jPN"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214200,
       "name": "Blame It on the Boogie",
       "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 193826,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 219372,
       "name": "Doo Wah Diddy",
       "url": "https://open.spotify.com/track/2sKT2Ocv4taKwFVO9IUVA9"
@@ -442,10 +442,32 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 202613,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
     },
     {
       "album": {
@@ -575,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Gonna Make You Sweat",
+        "url": "https://open.spotify.com/album/5obiQeM3NZ4NMsoeVxNDxw"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243693,
+      "name": "Gonna Make You Sweat (Everybody Dance Now)",
+      "url": "https://open.spotify.com/track/36rXHqN7D1ETFhyKXXKs4w"
+    },
+    {
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -586,7 +626,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 248133,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
@@ -724,7 +764,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 230760,
       "name": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
       "url": "https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW"
@@ -782,6 +822,24 @@
       "duration_ms": 198066,
       "name": "I Will Survive - Single Version",
       "url": "https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"
+    },
+    {
+      "album": {
+        "name": "Gold - '80s Soul",
+        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320986,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/66eYZZfUgBCulq7tsiBbXB"
     },
     {
       "album": {
@@ -1012,7 +1070,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 266560,
       "name": "Life Is A Highway",
       "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
@@ -1084,7 +1142,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 219600,
       "name": "Mambo No. 5 (A Little Bit of...)",
       "url": "https://open.spotify.com/track/5lA6mFOvaiienokVbTZEQx"
@@ -1138,7 +1196,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 257466,
       "name": "Mr. Vain - Original Radio Edit",
       "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
@@ -1178,7 +1236,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 230906,
       "name": "On The Floor - Radio Edit",
       "url": "https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW"
@@ -1196,7 +1254,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
@@ -1232,7 +1290,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214200,
       "name": "Real Wild Child (Wild One)",
       "url": "https://open.spotify.com/track/3EVRU1PspAYfPTQnIzM7VT"
@@ -1320,7 +1378,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
@@ -1414,7 +1472,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 156627,
       "name": "Soul Man - 45 Version",
       "url": "https://open.spotify.com/track/5JNfpFuU4ew1kq1oEc9OaX"
@@ -1450,7 +1508,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 92866,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
@@ -1562,7 +1620,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190546,
       "name": "Take Me Home, Country Roads (Original Version) [Remastered]",
       "url": "https://open.spotify.com/track/2zDPxQoIZbPAaBVaNzJflo"
@@ -1634,7 +1692,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 148626,
       "name": "The Loco-Motion - Single Version",
       "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
@@ -1790,7 +1848,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202626,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
@@ -1808,7 +1866,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
@@ -1880,10 +1938,50 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/7aHRctaQ7vjxVTVmY8OhAA"
+    },
+    {
+      "album": {
+        "name": "We No Speak Americano (Complete Remixes)",
+        "url": "https://open.spotify.com/album/5kZ5KxEXZJROh2isNg2awJ"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "DCup",
+          "url": "https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157438,
+      "name": "We No Speak Americano (JT Radio Edit)",
+      "url": "https://open.spotify.com/track/392zwJVuiuhDZC3ShNmLkD"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
     },
     {
       "album": {
@@ -1934,10 +2032,32 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 286800,
       "name": "YMCA - Original Version 1978",
       "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
+    },
+    {
+      "album": {
+        "name": "Grease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qgQnqu9JT9JYpi8GnJncK"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168466,
+      "name": "You're The One That I Want - From \"Grease\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3khUMqi9iGgOpgReFwjbZl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0nBLMN0XzSQ"

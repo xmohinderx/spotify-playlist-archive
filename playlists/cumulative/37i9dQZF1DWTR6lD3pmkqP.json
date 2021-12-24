@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 166933,
       "name": "2nd World",
       "url": "https://open.spotify.com/track/7n9rqFmXVPxiPtu7HEsvze"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 191884,
       "name": "A Gente Volta Amanh\u00e3 - Instrumental",
       "url": "https://open.spotify.com/track/1vI5LnuoZqT0Is2LbQaR2x"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191986,
       "name": "A Slice Of The Top",
       "url": "https://open.spotify.com/track/6FYkE7YkOeTXc4m6tc2em6"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 335813,
       "name": "A.O.E",
       "url": "https://open.spotify.com/track/0NZKFDZdC2qgxwnJQtp1KR"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 414613,
       "name": "Absence",
       "url": "https://open.spotify.com/track/1v8Yegje2XmBIt3M948R7x"
@@ -264,7 +264,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 328061,
       "name": "Aiwass - H\u00f6g sj\u00f6 Version",
       "url": "https://open.spotify.com/track/5qmhFy4wd4rhosBRluPIN2"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 445293,
       "name": "All We Know",
       "url": "https://open.spotify.com/track/43P9ATR9KbSpDlqsp2sGKW"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 459813,
       "name": "Azawala",
       "url": "https://open.spotify.com/track/4GFZrd2fep4ntOPrcHRgZc"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 239280,
       "name": "Babyghosts - Jazz Montez Version",
       "url": "https://open.spotify.com/track/2RUlF8fvIg8wTBBwVj2ZiJ"
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Baquaqua",
+        "url": "https://open.spotify.com/album/7jAmkBRy0kfOrNu2oL2iWU"
+      },
+      "artists": [
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242277,
+      "name": "Baquaqua",
+      "url": "https://open.spotify.com/track/33kUGK4k5zzJNYCo2XFOBv"
+    },
+    {
+      "album": {
         "name": "Beats by Balto! Vol. 2",
         "url": "https://open.spotify.com/album/5l0LVEbe0SpXMJbTshPlkh"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 505000,
       "name": "Bells",
       "url": "https://open.spotify.com/track/5lDMmhFzegjpgfaTJtLN0n"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 374101,
       "name": "Bleu Fonc\u00e9",
       "url": "https://open.spotify.com/track/3Xt6OXqdAsB4lFEfpXiYwM"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186413,
       "name": "Boundless Beings - Georgia Anne Muldrow Remix",
       "url": "https://open.spotify.com/track/0CxGTuePboxHBwmmVsaKs1"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 330375,
       "name": "Celestial Greens",
       "url": "https://open.spotify.com/track/0oqwRRtDtk1QU4eiIPkmov"
@@ -980,7 +998,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 387693,
       "name": "Chance of a Day, Pt. 3",
       "url": "https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 340044,
       "name": "Cigogne",
       "url": "https://open.spotify.com/track/7y2Lj0tT4XdozP3oThtZm3"
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 159228,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 281966,
       "name": "Convolution",
       "url": "https://open.spotify.com/track/5XvEo17EG7ULVBZJch2dmR"
@@ -1256,6 +1274,28 @@
       "duration_ms": 373710,
       "name": "Cuentro",
       "url": "https://open.spotify.com/track/4qi0GjXwJHxxOXBLwpQtE5"
+    },
+    {
+      "album": {
+        "name": "LFT:RT",
+        "url": "https://open.spotify.com/album/6wMTUEpIhoy9ckYs0PUJ8C"
+      },
+      "artists": [
+        {
+          "name": "Barra Brown",
+          "url": "https://open.spotify.com/artist/4rw6zh0NRR8sLOKCXFSsDe"
+        },
+        {
+          "name": "Cyrus Nabipoor",
+          "url": "https://open.spotify.com/artist/0jmBXGiYaxSDOewYhEhgbQ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219280,
+      "name": "Cyrus",
+      "url": "https://open.spotify.com/track/1HSpCqvsyUd7URKsnzOTVs"
     },
     {
       "album": {
@@ -1380,7 +1420,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 281240,
       "name": "Dezember",
       "url": "https://open.spotify.com/track/3nrAzdVDGr0KA2qc8UqbNB"
@@ -1402,7 +1442,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 176386,
       "name": "Dialogue of the Deaf",
       "url": "https://open.spotify.com/track/2Fuj6fkLUGSoKwos8r8Xzg"
@@ -1420,7 +1460,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 349939,
       "name": "Diaspora",
       "url": "https://open.spotify.com/track/5nrz4ZupadbDIMasACxQzt"
@@ -1468,7 +1508,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 285458,
       "name": "Digital Palm Reprise - Bonus Track",
       "url": "https://open.spotify.com/track/0Eq66sdPp2s5OlcK0DG7aX"
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 154666,
       "name": "Dilla Impresses Me",
       "url": "https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ"
@@ -1562,7 +1602,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 314240,
       "name": "Don\u2019t miss that train",
       "url": "https://open.spotify.com/track/4qXccS6FwIo6S4zYZdUkt7"
@@ -1602,7 +1642,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 328226,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/6Sqz4CWXYDwOq0Opsh40ow"
@@ -1660,7 +1700,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 214135,
       "name": "Durban Poison 19",
       "url": "https://open.spotify.com/track/7h757UHOqWOei8OunNrnQc"
@@ -1722,7 +1762,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 159750,
       "name": "Electric Butterfly",
       "url": "https://open.spotify.com/track/5QxY7F5XUMg7RKHPpVSymc"
@@ -1864,10 +1904,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 337893,
       "name": "Fall",
       "url": "https://open.spotify.com/track/0Yau80OnN4AaTe2NyzjG8y"
+    },
+    {
+      "album": {
+        "name": "Freedom Exercise",
+        "url": "https://open.spotify.com/album/501assmGyiYAl2u9PGUNEL"
+      },
+      "artists": [
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294773,
+      "name": "False Choice",
+      "url": "https://open.spotify.com/track/6oyVjoSodrvB9Vz8iM3H34"
     },
     {
       "album": {
@@ -1886,7 +1944,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 529973,
       "name": "Feed Infinite",
       "url": "https://open.spotify.com/track/3VfcWdXUfDgGTwqKgHdQcp"
@@ -2030,7 +2088,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 275926,
       "name": "Fiskesk\u00e4rsmelodin - Live",
       "url": "https://open.spotify.com/track/2OmMU4yHNSVxw44HMY78fV"
@@ -2048,7 +2106,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 311157,
       "name": "Flight",
       "url": "https://open.spotify.com/track/1Td6wn2Zkqt02NoRZIk7cZ"
@@ -2102,7 +2160,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 333506,
       "name": "For the Kids",
       "url": "https://open.spotify.com/track/0gHSdr4bud7q0LaiRqLKmv"
@@ -2150,7 +2208,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 154890,
       "name": "Four",
       "url": "https://open.spotify.com/track/2tTJ1ELtRFfW5UxYNO4eyA"
@@ -2168,7 +2226,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 361140,
       "name": "Fristil",
       "url": "https://open.spotify.com/track/6BqpOvwUbKtWuDxykamw6m"
@@ -2208,7 +2266,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 119052,
       "name": "Fruit Market Jazz",
       "url": "https://open.spotify.com/track/2rUed9JkrDpHCU0KR1AYEh"
@@ -2226,7 +2284,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 360337,
       "name": "F\u00f8rste time",
       "url": "https://open.spotify.com/track/4lI9G0jo4ifG6g1UrglJ42"
@@ -2244,10 +2302,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 297797,
       "name": "Ganjam",
       "url": "https://open.spotify.com/track/3T1NWRHKulKizoexFmhXY4"
+    },
+    {
+      "album": {
+        "name": "For a Brief Moment We Could Smell the Flowers",
+        "url": "https://open.spotify.com/album/6fQDPRJGjTbNzJ07nrwBVz"
+      },
+      "artists": [
+        {
+          "name": "Run Logan Run",
+          "url": "https://open.spotify.com/artist/6Vz8K9KtTL0R9GaC3R8mSq"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217519,
+      "name": "Give Me Back My Slippers",
+      "url": "https://open.spotify.com/track/7o8epEcu762wSEJzWBnYS5"
     },
     {
       "album": {
@@ -2262,7 +2338,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 398440,
       "name": "Go My Heart, Go To Heaven",
       "url": "https://open.spotify.com/track/37qEsJ7QH5efXVkhnAQDDL"
@@ -2288,7 +2364,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 330680,
       "name": "Gold Dust Black Magic - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/3E2BLsThQ9pYsE5Ir0fcFL"
@@ -2314,7 +2390,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 578373,
       "name": "Gone Tomorrow",
       "url": "https://open.spotify.com/track/2533RwKCQ8JBA4FoOnONpj"
@@ -2336,7 +2412,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 270813,
       "name": "GOODS YARD feat. Richard Spaven",
       "url": "https://open.spotify.com/track/4WW5vpfTJAY0ryAuVOT0ay"
@@ -2372,7 +2448,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 448720,
       "name": "Grasshopper",
       "url": "https://open.spotify.com/track/4FT3jNR5d9qmVkw60K9UJc"
@@ -2412,7 +2488,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 384000,
       "name": "HAWK MOUNTAIN feat. Eric Harland",
       "url": "https://open.spotify.com/track/2gfzhHPD80RzyWMj8BL15T"
@@ -2434,7 +2510,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 366236,
       "name": "Heather Grey (BK Gritty)",
       "url": "https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ"
@@ -2456,7 +2532,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 394373,
       "name": "Heksen Romance",
       "url": "https://open.spotify.com/track/1RPtXJvLdFFU7lh7SQgtL8"
@@ -2508,7 +2584,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 256133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0WvsBl7xLf9Iw8hJDd0Hn7"
@@ -2584,7 +2660,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 238272,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/6uJjWSMmqtXTwcJE0s4kTd"
@@ -2628,7 +2704,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 315910,
       "name": "Icebreaker",
       "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
@@ -2664,7 +2740,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 321146,
       "name": "Il\u00e9-If\u00e9",
       "url": "https://open.spotify.com/track/2ThikqveEjZxEGfp6ACQQN"
@@ -2715,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Different, Us",
+        "url": "https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw"
+      },
+      "artists": [
+        {
+          "name": "Bo!led",
+          "url": "https://open.spotify.com/artist/0K3YAo5FxYuA2ZW2L3Hdzs"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Interi Ora",
+      "url": "https://open.spotify.com/track/53wAULtuelcWs25MIVcF8Q"
+    },
+    {
+      "album": {
         "name": "Into the Wave",
         "url": "https://open.spotify.com/album/3kwEu7mKvdsVYMhPQgpNSD"
       },
@@ -2760,6 +2854,24 @@
       "duration_ms": 192442,
       "name": "Isfahan",
       "url": "https://open.spotify.com/track/4yu5GNPcQRDTE5A8lLF6IY"
+    },
+    {
+      "album": {
+        "name": "Going Going Gone",
+        "url": "https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl"
+      },
+      "artists": [
+        {
+          "name": "Mild High Club",
+          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127560,
+      "name": "It's Over Again",
+      "url": "https://open.spotify.com/track/660eXTPUwKkCOYvWIr6sPl"
     },
     {
       "album": {
@@ -2818,7 +2930,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 313160,
       "name": "Joy",
       "url": "https://open.spotify.com/track/6uyoRqu9wjhUIJZFGv4d0g"
@@ -2836,7 +2948,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 278122,
       "name": "Kibera",
       "url": "https://open.spotify.com/track/0i7di1s77lqCOSZbWAaza2"
@@ -2872,7 +2984,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 394500,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/6jP5WPo0D87AGFTHwdrC10"
@@ -2890,7 +3002,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 399750,
       "name": "Kittiwakes In Gusts",
       "url": "https://open.spotify.com/track/1MhVC3xbue4U1YOZR7stow"
@@ -2952,7 +3064,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "Le chemin du p\u00e9ril",
       "url": "https://open.spotify.com/track/1oTy2v7itma20QGz5BoKMS"
@@ -3068,7 +3180,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 320279,
       "name": "Lockdown Drive",
       "url": "https://open.spotify.com/track/1OMr7DcjwxiqbyMclrScD1"
@@ -3124,7 +3236,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 375520,
       "name": "Loosed",
       "url": "https://open.spotify.com/track/159joJXhn4I74i1gZLE3Bs"
@@ -3146,7 +3258,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "LORIMER feat. Savannah Harris",
       "url": "https://open.spotify.com/track/6KpRXdEgcnjIApjIZIH5iZ"
@@ -3476,7 +3588,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 301933,
       "name": "Modjadji",
       "url": "https://open.spotify.com/track/2zLckBnqmefpJSPZM75KpW"
@@ -3552,7 +3664,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 233960,
       "name": "Moonlite",
       "url": "https://open.spotify.com/track/6exsN25IteWAKEIJPVvoZ8"
@@ -3628,7 +3740,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 274351,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/3pjbM1ltJM0z2OT1grx7PP"
@@ -3646,7 +3758,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 252600,
       "name": "Murmuration",
       "url": "https://open.spotify.com/track/1r8kRDtkDZPhHvP0dwaYDd"
@@ -3686,6 +3798,24 @@
       "duration_ms": 424453,
       "name": "Nana \u2013 Tepalle",
       "url": "https://open.spotify.com/track/5QjAjEcrPeiZCQ3IPmJCpp"
+    },
+    {
+      "album": {
+        "name": "Neo-Lurie",
+        "url": "https://open.spotify.com/album/6NPn2M1KcfEUxfgF6KX5bA"
+      },
+      "artists": [
+        {
+          "name": "George Kano",
+          "url": "https://open.spotify.com/artist/61JGbYJB0nxcUcdy0nex6U"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268983,
+      "name": "Neo-Lurie",
+      "url": "https://open.spotify.com/track/76HjuYAF8Br8kymYvwjrwc"
     },
     {
       "album": {
@@ -3904,7 +4034,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "N\u00f6rvenich Lounge",
       "url": "https://open.spotify.com/track/3V26wEil0lpRg1UQyju8vS"
@@ -3992,7 +4122,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 300287,
       "name": "One Mo' Dram",
       "url": "https://open.spotify.com/track/36vyq6JJPm6DM1C4UahLee"
@@ -4026,7 +4156,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 421945,
       "name": "One Theme",
       "url": "https://open.spotify.com/track/5ph2tEsYdaBmN6u4I8KhEE"
@@ -4062,7 +4192,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 453706,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/0I8VJcDYdGgPowFb8sL7R3"
@@ -4188,7 +4318,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219466,
       "name": "Peaks & Ferns",
       "url": "https://open.spotify.com/track/0vINbddFhMxPasIYiiTcLu"
@@ -4210,7 +4340,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258906,
       "name": "Permission",
       "url": "https://open.spotify.com/track/0SS5DhHcvdmYoWXkaaJzHM"
@@ -4246,7 +4376,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 278001,
       "name": "Pingo",
       "url": "https://open.spotify.com/track/02VD9HHWxFnhVNGMzA9ZfS"
@@ -4264,7 +4394,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 474698,
       "name": "Pitchfork",
       "url": "https://open.spotify.com/track/2w8SjRq7MzuAvgZAVqza24"
@@ -4386,7 +4516,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 507020,
       "name": "Portobello Superhero",
       "url": "https://open.spotify.com/track/1dW9W2CgdpA6PRCa6botCt"
@@ -4404,7 +4534,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 324383,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/2ola3HPvnB9VVIzqEIrniD"
@@ -4422,7 +4552,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 447997,
       "name": "Prayer For Peace",
       "url": "https://open.spotify.com/track/3RgVndt09onNQofrnPtmTq"
@@ -4502,7 +4632,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt"
@@ -4550,7 +4680,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 194544,
       "name": "Reckoning",
       "url": "https://open.spotify.com/track/1buW5npL9yzCtw3fvamsoW"
@@ -4822,7 +4952,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 177146,
       "name": "Saudade da Festa",
       "url": "https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE"
@@ -4860,7 +4990,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 436000,
       "name": "See You Later",
       "url": "https://open.spotify.com/track/7r06RxNCEsPyynmGFX1QXR"
@@ -4896,7 +5026,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 339773,
       "name": "Seti Khola",
       "url": "https://open.spotify.com/track/5yiRaHOOhz3AnZpzCHDsAI"
@@ -5112,7 +5242,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 321226,
       "name": "Somewhere Different",
       "url": "https://open.spotify.com/track/1YEgbaYU0j5H9QiiQ1kTf8"
@@ -5203,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "Sport Man",
+        "url": "https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ"
+      },
+      "artists": [
+        {
+          "name": "The World",
+          "url": "https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277600,
+      "name": "Sport Man",
+      "url": "https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1"
+    },
+    {
+      "album": {
         "name": "Stay Home",
         "url": "https://open.spotify.com/album/0MGcACJPvZcVPqOwi97oXd"
       },
@@ -5236,7 +5384,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 312173,
       "name": "Stella",
       "url": "https://open.spotify.com/track/2hwDqc71Z1RB3VWbelE66p"
@@ -5418,7 +5566,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 223336,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7eXgBA5EcoPav4adoPgsel"
@@ -5626,7 +5774,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 276120,
       "name": "The American Negro",
       "url": "https://open.spotify.com/track/4zmcdNHswlPehBWqsMEijS"
@@ -5866,7 +6014,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 222030,
       "name": "The People's Changes",
       "url": "https://open.spotify.com/track/7uYrtiRSwgK6KccFG9iJo7"
@@ -5888,7 +6036,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 383546,
       "name": "The Shrine - Petter Eldh Remix",
       "url": "https://open.spotify.com/track/1JuM3VdU3KOczNcBHuwmQZ"
@@ -5944,7 +6092,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 293000,
       "name": "Thei\u0101",
       "url": "https://open.spotify.com/track/3JdhouQ8DKAULrM86R3j9o"
@@ -6102,7 +6250,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 254610,
       "name": "Tremendoce (feat. Jonas Kullhammar & Per \"Texas\" Johansson)",
       "url": "https://open.spotify.com/track/1uZKWan10GRRfqLUOUVrJt"
@@ -6154,7 +6302,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 315199,
       "name": "Triceratops / The Caller",
       "url": "https://open.spotify.com/track/2k5d3V0BVehNIXYUBWTaaD"
@@ -6294,7 +6442,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 369795,
       "name": "VII: Colour Fields",
       "url": "https://open.spotify.com/track/1DRGOj2u11V7zJvkuZYYk1"
@@ -6442,7 +6590,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 141030,
       "name": "What's the Matter",
       "url": "https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf"
@@ -6500,7 +6648,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 131160,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a"
@@ -6552,10 +6700,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 329215,
       "name": "With Marco",
       "url": "https://open.spotify.com/track/6g2WxIhfHssC87AE15lSaK"
+    },
+    {
+      "album": {
+        "name": "Ya Tatu",
+        "url": "https://open.spotify.com/album/6aoRuhgm5wVYs067XkXFqw"
+      },
+      "artists": [
+        {
+          "name": "delay_ok",
+          "url": "https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295898,
+      "name": "Ya Tatu",
+      "url": "https://open.spotify.com/track/7jHdVoIsa2ZRZQ0lY9RvTk"
     },
     {
       "album": {

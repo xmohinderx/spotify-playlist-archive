@@ -976,7 +976,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 140893,
       "name": "BLOCK",
       "url": "https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW"
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167500,
       "name": "DANSA",
       "url": "https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179460,
       "name": "Eld & l\u00e5gor",
       "url": "https://open.spotify.com/track/5etlUg6yiQ8565mdyrWUiP"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 223395,
       "name": "Fira jul med mig",
       "url": "https://open.spotify.com/track/0V4WjLiC3Kg7pkGHN5O2cU"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 202266,
       "name": "Gubben i l\u00e5dan",
       "url": "https://open.spotify.com/track/46fLDmKjHKqLGVFscIaQju"
@@ -3867,6 +3867,24 @@
     },
     {
       "album": {
+        "name": "Happy New Year - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184828,
+      "name": "Happy New Year - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
+    },
+    {
+      "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
@@ -3918,7 +3936,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -5446,7 +5464,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -5650,7 +5668,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 188320,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1vLPyotXnRlM2EJIHK16LW"
@@ -6718,7 +6736,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 137647,
       "name": "Nia Mondo",
       "url": "https://open.spotify.com/track/1Jo3Bw7VeDV9ZbnpONK0Ca"
@@ -6982,7 +7000,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 251826,
       "name": "O helga natt",
       "url": "https://open.spotify.com/track/0XoGiZY2XtBW5qXB3ZzZOX"
@@ -9480,7 +9498,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
@@ -9694,7 +9712,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 147293,
       "name": "Tomten, jag vill ha en riktig jul",
       "url": "https://open.spotify.com/track/520Jrg250xi0QXIKxFqK4n"
@@ -9716,7 +9734,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 152581,
       "name": "TOPP",
       "url": "https://open.spotify.com/track/3oF1ZBHm7qDn3bOxIrDEjy"
@@ -10478,7 +10496,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 176303,
       "name": "What's Christmas Anyway",
       "url": "https://open.spotify.com/track/11mxOwGHsL3m4QD74augf6"
@@ -10536,7 +10554,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 245640,
       "name": "Always Like This",
       "url": "https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 235853,
       "name": "Ancient Water",
       "url": "https://open.spotify.com/track/24OSmmEzyRFpnEiZfgXqfW"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 275693,
       "name": "Anthems for a Seventeen Year Old Girl",
       "url": "https://open.spotify.com/track/4DBHHcVniAuOU7NdemvWsL"
@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
       },
@@ -275,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Compromised",
+        "url": "https://open.spotify.com/album/6vd1oUoYCai15Cf27AVBKY"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226234,
+      "name": "Compromised",
+      "url": "https://open.spotify.com/track/0TLHUakjgTs8KaSoCm0e8v"
+    },
+    {
+      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -304,7 +340,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210613,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
@@ -376,7 +412,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 366826,
       "name": "Dry The Rain",
       "url": "https://open.spotify.com/track/1mTwxNQSCsgQJxBjEpaGH0"
@@ -430,7 +466,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 203773,
       "name": "Everlasting Light",
       "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
@@ -538,7 +574,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 280074,
       "name": "Gap in the Clouds",
       "url": "https://open.spotify.com/track/7l5j3FapCyr6HxUgoAynM2"
@@ -574,7 +610,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 204400,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0VnLohgzwLEleLmo19Z8B0"
@@ -718,7 +754,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 163292,
       "name": "I Don't Wanna Be Funny Anymore",
       "url": "https://open.spotify.com/track/0XC16VyM8jZgJFpR4ghFOF"
@@ -754,7 +790,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 287106,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/4I5kQyAYTvwHEIiZIP8B2j"
@@ -826,7 +862,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 151333,
       "name": "Is This It",
       "url": "https://open.spotify.com/track/0jBE7Fn78EAvmIs3dCd6GO"
@@ -880,10 +916,28 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 354360,
       "name": "Lazy Eye",
       "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244946,
+      "name": "Lemon Glow",
+      "url": "https://open.spotify.com/track/7pD6katrwWH7H3Xt8cIZS9"
     },
     {
       "album": {
@@ -952,7 +1006,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219760,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4EwNG7uCvLEm5a6KgerCHf"
@@ -1068,7 +1122,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 206413,
       "name": "New Love Cassette",
       "url": "https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut"
@@ -1104,7 +1158,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
@@ -1158,7 +1212,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 225038,
       "name": "On the Floor - Edit",
       "url": "https://open.spotify.com/track/5vpiEyZAIpmyISHlfitNeD"
@@ -1194,7 +1248,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258426,
       "name": "Our Way to Fall",
       "url": "https://open.spotify.com/track/6Cp1LNb26iMtPT7JTtEZyD"
@@ -1230,7 +1284,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 243413,
       "name": "Painting (Masterpiece)",
       "url": "https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP"
@@ -1374,7 +1428,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO"
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208280,
       "name": "Saw You In A Dream",
       "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
@@ -1482,7 +1536,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 265920,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw"
@@ -1536,7 +1590,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "Since I Left You",
       "url": "https://open.spotify.com/track/516V4vS25xnGdVgkBWO6Wf"
@@ -1698,7 +1752,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 187415,
       "name": "Stella Brown",
       "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
@@ -1813,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Clap Your Hands Say Yeah",
+        "url": "https://open.spotify.com/album/6393kbmZ8NoTl172RKEoCv"
+      },
+      "artists": [
+        {
+          "name": "Clap Your Hands Say Yeah",
+          "url": "https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343773,
+      "name": "The Skin of My Yellow Country Teeth",
+      "url": "https://open.spotify.com/track/7FXOSpqXFms6JTeGfaRQua"
+    },
+    {
+      "album": {
         "name": "Raised By Wolves EP",
         "url": "https://open.spotify.com/album/6Le1FSqseZp41WAub4Ct4v"
       },
@@ -1828,6 +1900,24 @@
       "duration_ms": 271746,
       "name": "The Start Of Something",
       "url": "https://open.spotify.com/track/6K5GAopLZzzg0ZX8k5GWwh"
+    },
+    {
+      "album": {
+        "name": "Father of the Bride",
+        "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
     },
     {
       "album": {
@@ -1896,7 +1986,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 159320,
       "name": "Toothpaste Kisses",
       "url": "https://open.spotify.com/track/6jeWgaprnGyAsRhUcNuZKX"
@@ -1994,7 +2084,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 272230,
       "name": "Water Me Down",
       "url": "https://open.spotify.com/track/79ap7oTftmfgDUBUsUcYqt"

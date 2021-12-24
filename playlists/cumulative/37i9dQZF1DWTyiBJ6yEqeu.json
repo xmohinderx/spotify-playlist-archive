@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 162711,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2nCL4jSUB2iLfySrjVTWgj"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186749,
       "name": "Bad Energy",
       "url": "https://open.spotify.com/track/0JoWBcL61YWLXM5vW0YTHO"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
@@ -658,10 +658,28 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU"
+    },
+    {
+      "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/5gUzUIi3oyy1RZae2GkKnD"
+      },
+      "artists": [
+        {
+          "name": "Barren Gates",
+          "url": "https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/4BVKDnYVUxbfBYJIip2RBp"
     },
     {
       "album": {
@@ -810,6 +828,24 @@
     {
       "album": {
         "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
+    },
+    {
+      "album": {
+        "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/2wYozzbtX2LsSeY4P6vAL0"
       },
       "artists": [
@@ -820,7 +856,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 149610,
       "name": "ESCAPE PLAN",
       "url": "https://open.spotify.com/track/7pRrJ5FxMQugmRQA5aas8H"
@@ -860,7 +896,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 228979,
       "name": "Everything Black",
       "url": "https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp"
@@ -934,6 +970,28 @@
       "duration_ms": 159381,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4TnjEaWOeW0eKTKIEvJyCa"
+    },
+    {
+      "album": {
+        "name": "Come Over When You're Sober, Pt. 2",
+        "url": "https://open.spotify.com/album/52JymrguPgkmmwLaWIusst"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Falling Down - Bonus Track",
+      "url": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
     },
     {
       "album": {
@@ -1018,7 +1076,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "Flex (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/7dlFGEFDieHtYaeSTSvCKq"
@@ -1110,7 +1168,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194000,
       "name": "Freak (feat. REI AMI)",
       "url": "https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf"
@@ -1502,7 +1560,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258299,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8"
@@ -1958,7 +2016,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195653,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/4tRfTVgpf1acjA27UWdcnD"
@@ -2228,7 +2286,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174645,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA"
@@ -2490,6 +2548,32 @@
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
+    },
+    {
+      "album": {
+        "name": "Own Brand Freestyle",
+        "url": "https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7"
+      },
+      "artists": [
+        {
+          "name": "FelixThe1st",
+          "url": "https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg"
+        },
+        {
+          "name": "Dreya Mac",
+          "url": "https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP"
+        },
+        {
+          "name": "Finch Fetti",
+          "url": "https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153808,
+      "name": "Own Brand Freestyle",
+      "url": "https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x"
     },
     {
       "album": {
@@ -3349,6 +3433,28 @@
     },
     {
       "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "The Way Life Goes (feat. Oh Wonder)",
+      "url": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -3372,6 +3478,24 @@
       "duration_ms": 201600,
       "name": "The Woo (feat. 50 Cent & Roddy Ricch)",
       "url": "https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn"
+    },
+    {
+      "album": {
+        "name": "Toosie Slide",
+        "url": "https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "Toosie Slide",
+      "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
     },
     {
       "album": {
@@ -3664,6 +3788,24 @@
       "duration_ms": 199758,
       "name": "Wolves (feat. Post Malone)",
       "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
+    },
+    {
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "album": {

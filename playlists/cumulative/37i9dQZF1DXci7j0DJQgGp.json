@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/19KzfzLfugS5xEMPOVUQuv"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/1dHDITnfhOShBOAqyqGJnw"
+    },
+    {
+      "album": {
         "name": "Cool Jam/Good For You",
         "url": "https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY"
       },
@@ -368,7 +386,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 185533,
       "name": "Different Kinds of Light",
       "url": "https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR"
@@ -448,6 +466,24 @@
       "duration_ms": 246666,
       "name": "Everything I had",
       "url": "https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS"
+    },
+    {
+      "album": {
+        "name": "Faith Healer",
+        "url": "https://open.spotify.com/album/4poKpzHqjS4Ak1usjjNvvz"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/2hNXb6IDn3CvvHjjwauEM3"
     },
     {
       "album": {
@@ -542,7 +578,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 265333,
       "name": "For the Sky",
       "url": "https://open.spotify.com/track/0x4y7ilgQ7cNQeGAhwd4FR"
@@ -675,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247920,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "album": {
         "name": "Heliotrope",
         "url": "https://open.spotify.com/album/4rDUMiofrIdnkOEQOszfqc"
       },
@@ -704,7 +758,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/3QM6LAQY5eZ237iKv4QIuL"
@@ -740,7 +794,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 196640,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
@@ -794,7 +848,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 192853,
       "name": "Hypochondriac",
       "url": "https://open.spotify.com/track/6st6akzmAJS2vYNRui5ezU"
@@ -812,7 +866,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 200828,
       "name": "I Don't Wanna Lose",
       "url": "https://open.spotify.com/track/1o3QC3SiP40iupA6hzx4EH"
@@ -946,7 +1000,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197474,
       "name": "It's a good day (to fight the system)",
       "url": "https://open.spotify.com/track/29pn29WZFkunYdDSv5w1Ta"
@@ -964,7 +1018,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192689,
       "name": "Jaywalker",
       "url": "https://open.spotify.com/track/2o8dpWlhalYijwqFQloIQI"
@@ -1044,7 +1098,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/5MDUdi9T4Ee4Kv33SbewC3"
@@ -1080,7 +1134,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 185451,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/1Rg572m24H2cjrbzSYhW2g"
@@ -1278,7 +1332,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 263300,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/4ZnELmHZptzdaANfo1eGbm"
@@ -1398,7 +1452,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213720,
       "name": "NYE",
       "url": "https://open.spotify.com/track/1ioIUzqMSinyfQla2X7xWw"
@@ -1452,7 +1506,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178546,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/47U42WYf8WrHGqCCPPGV34"
@@ -1470,7 +1524,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 337164,
       "name": "Pacific",
       "url": "https://open.spotify.com/track/6PVYOz3HjnoK8A5FpCLb1W"
@@ -1702,7 +1756,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 284037,
       "name": "Society's a Mansion",
       "url": "https://open.spotify.com/track/6LIRg5qJdVZM1kYnxi9DOC"
@@ -1840,7 +1894,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS"
@@ -1858,7 +1912,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 209160,
       "name": "Sugar Mama",
       "url": "https://open.spotify.com/track/3KImvFzE4G4xg7GvPewvrw"
@@ -1974,7 +2028,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i"
@@ -2100,7 +2154,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 222716,
       "name": "Unready",
       "url": "https://open.spotify.com/track/4awSzedNPx67Io7cPe6D84"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 361586,
       "name": "A Better Place",
       "url": "https://open.spotify.com/track/2nntiOW25ByTmb0r944IqU"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195282,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/4UGssFKaiKeeNqtQvPNH7n"
@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "Cross My Mind",
+      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
+    },
+    {
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4zerSuxIYLWLemMPPC8Ivi"
       },
@@ -388,7 +406,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 172821,
       "name": "Down Days",
       "url": "https://open.spotify.com/track/7zbHLUYieIVy0Qb8ciRbmx"
@@ -572,7 +590,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 184280,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/5TdTYpjLQv25ImZAX6s4Db"
@@ -774,7 +792,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180157,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/6jPUxIR9fs2goSay9egLxz"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194047,
       "name": "Into The Fire",
       "url": "https://open.spotify.com/track/7BPNnaH7sze0E9U6iy1jNp"
@@ -966,6 +984,24 @@
     {
       "album": {
         "name": "Loud",
+        "url": "https://open.spotify.com/album/03sadZWxP5moUhEnlzOn9Z"
+      },
+      "artists": [
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/22kCwdzozL45I2Wda7XIyM"
+    },
+    {
+      "album": {
+        "name": "Loud",
         "url": "https://open.spotify.com/album/6FUxwxYuHJhxCLof3VTmU8"
       },
       "artists": [
@@ -1034,7 +1070,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 233440,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/01zA432f5V0ssx6YbMgk18"
@@ -1074,7 +1110,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 275113,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5HzQDTbgRVfDgjxgwQ6lmt"
@@ -1135,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/3QB4VboOQHb2iNP7ObBltP"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262978,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw"
+    },
+    {
+      "album": {
         "name": "Off",
         "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
@@ -1146,7 +1200,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 165604,
       "name": "Off",
       "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
@@ -1320,7 +1374,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 204216,
       "name": "Second Hand Love (feat. Ruben)",
       "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
@@ -1378,7 +1432,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 221000,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239"
@@ -1562,7 +1616,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 181900,
       "name": "Stay",
       "url": "https://open.spotify.com/track/424m0YnbIl5oLOS2SQiIXi"
@@ -1580,7 +1634,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 239179,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/2SY4ep4NQaArath0ze4gTg"
@@ -1670,10 +1724,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217026,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/5XBobVYataJuVgG2os9ndV"
+    },
+    {
+      "album": {
+        "name": "upstream",
+        "url": "https://open.spotify.com/album/1gB6qF88vFV2Fnjp7RzxpN"
+      },
+      "artists": [
+        {
+          "name": "emie nathan",
+          "url": "https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "upstream",
+      "url": "https://open.spotify.com/track/6t2BxwBbLB8M981sJqDxte"
     },
     {
       "album": {
@@ -1688,7 +1760,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208213,
       "name": "used to you",
       "url": "https://open.spotify.com/track/5RiaulO1Xfn5k00SEah0PL"

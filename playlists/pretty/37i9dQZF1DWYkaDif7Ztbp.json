@@ -1,43 +1,27 @@
 {
-  "description": "The tracks heating up the continent right now! Cover: <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=2fOgVcIWTJS5I0d3PwlHUA\"> Burna Boy  </a>  and <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=tth_uaFAQjilJTTZplSDdQ\"> WizKid</a>   ",
+  "description": "The tracks heating up the continent right now! Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=5Z7nU1NlSleLiz1BSOb7Dw\"> Fireboy DML </a>  ",
   "name": "African Heat",
-  "snapshot_id": "MTY0MDA4OTgwNiwwMDAwMDIyMzAwMDAwMTdkZGNmODY1MGMwMDAwMDE3ZGMxYWEzZWYw",
+  "snapshot_id": "MTY0MDMwMDQwMCwwMDAwMDIyNDAwMDAwMTdkZTk4NWNlNDUwMDAwMDE3ZGUxYWU2NWI5",
   "tracks": [
     {
-      "added_at": "2021-12-16 23:02:00",
+      "added_at": "2021-12-23 23:00:00",
       "album": {
-        "name": "B. D\u2019OR (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         },
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 189800,
-      "name": "B. D\u2019OR (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
-    },
-    {
-      "added_at": "2021-10-22 00:00:00",
-      "album": {
-        "name": "Sip (Alcohol)",
-        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sip (Alcohol)",
-      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -58,6 +42,42 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
+    },
+    {
+      "added_at": "2021-11-12 04:33:18",
+      "album": {
+        "name": "Ozumba Mbadiwe",
+        "url": "https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 212636,
+      "name": "Ozumba Mbadiwe",
+      "url": "https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W"
+    },
+    {
+      "added_at": "2021-10-22 00:00:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 193758,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
     },
     {
       "added_at": "2021-10-22 00:00:00",
@@ -96,40 +116,24 @@
       "url": "https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr"
     },
     {
-      "added_at": "2021-10-22 00:00:00",
+      "added_at": "2021-12-16 23:02:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "DaVido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 193758,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
-    },
-    {
-      "added_at": "2021-10-22 00:00:00",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 151640,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
     },
     {
       "added_at": "2021-12-16 23:02:00",
@@ -166,26 +170,6 @@
     {
       "added_at": "2021-10-22 00:00:00",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
-    },
-    {
-      "added_at": "2021-10-22 00:00:00",
-      "album": {
         "name": "Love Nwantiti (Acoustic Version)",
         "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
       },
@@ -200,20 +184,20 @@
       "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
     },
     {
-      "added_at": "2021-11-12 04:33:18",
+      "added_at": "2021-10-22 00:00:00",
       "album": {
-        "name": "Ozumba Mbadiwe",
-        "url": "https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs"
+        "name": "Sip (Alcohol)",
+        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
       "artists": [
         {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 212636,
-      "name": "Ozumba Mbadiwe",
-      "url": "https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W"
+      "duration_ms": 153600,
+      "name": "Sip (Alcohol)",
+      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
       "added_at": "2021-10-22 00:00:00",
@@ -340,6 +324,22 @@
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
+      "added_at": "2021-12-09 23:02:00",
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "D O D O",
+      "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
+    },
+    {
       "added_at": "2021-12-02 23:02:00",
       "album": {
         "name": "Emiliana",
@@ -354,6 +354,22 @@
       "duration_ms": 164848,
       "name": "Emiliana",
       "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
+    },
+    {
+      "added_at": "2021-10-22 00:00:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
     },
     {
       "added_at": "2021-10-22 00:00:00",
@@ -376,22 +392,6 @@
       "url": "https://open.spotify.com/track/2ES66yWZasJXbM3KADo35a"
     },
     {
-      "added_at": "2021-12-09 23:02:00",
-      "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "D O D O",
-      "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
-    },
-    {
       "added_at": "2021-11-25 23:02:00",
       "album": {
         "name": "Back 2 Basics",
@@ -410,6 +410,22 @@
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
+    },
+    {
+      "added_at": "2021-12-23 23:00:00",
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/2az0xXjyvJVPfNZfSTlMA8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/729blbra42RS4hrSqGOU3t"
     },
     {
       "added_at": "2021-12-09 23:02:00",
@@ -456,20 +472,28 @@
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
     },
     {
-      "added_at": "2021-12-02 23:02:00",
+      "added_at": "2021-12-23 23:00:00",
       "album": {
-        "name": "Mayana",
-        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
+        "name": "Asibe Happy",
+        "url": "https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA"
       },
       "artists": [
         {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Mayana",
-      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
+      "duration_ms": 458777,
+      "name": "Asibe Happy",
+      "url": "https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -492,28 +516,44 @@
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
     },
     {
-      "added_at": "2021-12-09 23:02:00",
+      "added_at": "2021-10-22 00:00:00",
       "album": {
-        "name": "She Knows",
-        "url": "https://open.spotify.com/album/6NnBWm7RUGtAFfVwiLhW40"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A"
       },
       "artists": [
         {
-          "name": "HarrySong",
-          "url": "https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 198333,
-      "name": "She Knows",
-      "url": "https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo"
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
+    },
+    {
+      "added_at": "2021-12-23 23:00:00",
+      "album": {
+        "name": "BADIU",
+        "url": "https://open.spotify.com/album/4fnko5FkT24IMwIzjB8ybH"
+      },
+      "artists": [
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Esquinas",
+      "url": "https://open.spotify.com/track/27pyt2AP8sdMb3hlO9uY6p"
     },
     {
       "added_at": "2021-12-02 23:02:00",
@@ -624,6 +664,46 @@
       "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
     },
     {
+      "added_at": "2021-12-02 23:02:00",
+      "album": {
+        "name": "Mayana",
+        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
+    },
+    {
+      "added_at": "2021-10-22 00:00:00",
+      "album": {
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
       "added_at": "2021-10-22 00:00:00",
       "album": {
         "name": "Tigini (Remix)",
@@ -642,22 +722,6 @@
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
-    },
-    {
-      "added_at": "2021-10-29 04:14:05",
-      "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
-      },
-      "artists": [
-        {
-          "name": "Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 151014,
-      "name": "Something sweet",
-      "url": "https://open.spotify.com/track/3oYQD6byDpOCx4hQzcY7GL"
     },
     {
       "added_at": "2021-11-25 23:02:00",
@@ -680,48 +744,20 @@
       "url": "https://open.spotify.com/track/1Be17HOs0GnuguW8pBaYAr"
     },
     {
-      "added_at": "2021-11-18 23:01:00",
+      "added_at": "2021-10-22 00:00:00",
       "album": {
-        "name": "Oga",
-        "url": "https://open.spotify.com/album/4ikCqtLjgppUAO0b5mpCN5"
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
       },
       "artists": [
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Bontle Smith",
-          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
-        },
-        {
-          "name": "Sayfar",
-          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Oga",
-      "url": "https://open.spotify.com/track/08VqaGj8UrSeO6QeYAwdY2"
-    },
-    {
-      "added_at": "2021-11-12 04:33:18",
-      "album": {
-        "name": "uThando (feat. Aymos)",
-        "url": "https://open.spotify.com/album/6bkQbVxIFR3baR12YXTS98"
-      },
-      "artists": [
-        {
-          "name": "Mfr Souls",
-          "url": "https://open.spotify.com/artist/6oVuIgUWHJFOGb26gVuGsX"
-        },
-        {
-          "name": "Aymos",
-          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
-        }
-      ],
-      "duration_ms": 458772,
-      "name": "uThando (feat. Aymos)",
-      "url": "https://open.spotify.com/track/5ZOpzOg9JuKFQ5Q6aUYPix"
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2021-11-12 04:33:18",
@@ -794,30 +830,6 @@
     {
       "added_at": "2021-10-22 00:00:00",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2021-10-22 00:00:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -866,22 +878,6 @@
       "duration_ms": 276009,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/1JatNOHjkqO8omLaTCNTSU"
-    },
-    {
-      "added_at": "2021-10-22 00:00:00",
-      "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2021-10-22 00:00:00",

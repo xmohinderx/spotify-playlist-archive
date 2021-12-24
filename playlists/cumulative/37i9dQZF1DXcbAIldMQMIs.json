@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 201813,
       "name": "2725",
       "url": "https://open.spotify.com/track/3e68Szcr6VUctxlIeWWTrS"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 316556,
       "name": "A Soulmate Who Wasn\u2019t Meant to Be",
       "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 130840,
       "name": "Anybody Else",
       "url": "https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "blue",
       "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 137000,
       "name": "Dirty AF1s",
       "url": "https://open.spotify.com/track/6J1jIKelO3HerpKnTEVVMe"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203685,
       "name": "Doesn't Matter",
       "url": "https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 207692,
       "name": "Dontmakemefallinlove",
       "url": "https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ"
@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Skiptracing",
+        "url": "https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed"
+      },
+      "artists": [
+        {
+          "name": "Mild High Club",
+          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG"
+    },
+    {
+      "album": {
         "name": "honey",
         "url": "https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 223638,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
@@ -802,6 +820,28 @@
       "duration_ms": 133680,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL"
+    },
+    {
+      "album": {
+        "name": "Internet Stalking (feat. Adam Melchor)",
+        "url": "https://open.spotify.com/album/1mOoH3VAEdd0SOCpYdYw1c"
+      },
+      "artists": [
+        {
+          "name": "wens",
+          "url": "https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66"
+        },
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150010,
+      "name": "Internet Stalking (feat. Adam Melchor)",
+      "url": "https://open.spotify.com/track/4BAkJk9QFtYWycVXRvhmhk"
     },
     {
       "album": {
@@ -852,7 +892,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 100750,
       "name": "kissing girls",
       "url": "https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf"
@@ -946,7 +986,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 221360,
       "name": "Make Me Your Queen",
       "url": "https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3"
@@ -1054,7 +1094,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo"
@@ -1234,7 +1274,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
@@ -1454,7 +1494,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213478,
       "name": "Tommy",
       "url": "https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl"
@@ -1508,7 +1548,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6"

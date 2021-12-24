@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 322173,
       "name": "A Beginning Song",
       "url": "https://open.spotify.com/track/02Bd8WXqxchkQFBRwo9XKG"
@@ -294,6 +294,24 @@
       "duration_ms": 215400,
       "name": "Hold Your Nerve",
       "url": "https://open.spotify.com/track/6EIqY6G5P3cPJ0bGNbMtAI"
+    },
+    {
+      "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
     },
     {
       "album": {
@@ -560,7 +578,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 234240,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 327760,
       "name": "Show Me Something Higher",
       "url": "https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208960,
       "name": "Sucker's Prayer",
       "url": "https://open.spotify.com/track/3pxhPssdL2SJObXb5hpCRu"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 223933,
       "name": "Twenty Miles",
       "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"

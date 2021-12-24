@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 158220,
       "name": "24/5",
       "url": "https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 183133,
       "name": "bad ones",
       "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
@@ -317,6 +317,46 @@
     },
     {
       "album": {
+        "name": "Butterflies (feat. FLETCHER)",
+        "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Butterflies (feat. FLETCHER)",
+      "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
+    },
+    {
+      "album": {
+        "name": "butterfly",
+        "url": "https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6"
+      },
+      "artists": [
+        {
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "butterfly",
+      "url": "https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp"
+    },
+    {
+      "album": {
         "name": "Carried Away (Love To Love) (with Madison Beer)",
         "url": "https://open.spotify.com/album/57LmwffyQvnFHRHzbitsEO"
       },
@@ -358,7 +398,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
@@ -376,7 +416,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 199169,
       "name": "cheap sunglasses",
       "url": "https://open.spotify.com/track/4E94u3v7VnEFZkaRIYtad7"
@@ -394,7 +434,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 170812,
       "name": "Cry Over Boys",
       "url": "https://open.spotify.com/track/218q4fCmVERKhXEZDr6g4P"
@@ -456,10 +496,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 156331,
       "name": "Do You Believe",
       "url": "https://open.spotify.com/track/71TRhiwsRckqoqO9CcDIE6"
+    },
+    {
+      "album": {
+        "name": "double take",
+        "url": "https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k"
     },
     {
       "album": {
@@ -550,7 +608,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 115401,
       "name": "everything sucks",
       "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
@@ -590,7 +648,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
@@ -626,7 +684,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 169768,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/0FhFZbyZbkUh5uyAKesmDL"
@@ -644,7 +702,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
@@ -727,6 +785,28 @@
     },
     {
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/4jNGoT2765DZqZA1rlT3DL"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/53kWAAfx7IopXRa31MQHB8"
+    },
+    {
+      "album": {
         "name": "Good Without",
         "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
       },
@@ -774,10 +854,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 151444,
       "name": "Happier Than Ever - Edit",
       "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
+    },
+    {
+      "album": {
+        "name": "Happy For You",
+        "url": "https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226402,
+      "name": "Happy For You",
+      "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
     },
     {
       "album": {
@@ -876,7 +974,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -1036,7 +1134,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 186245,
       "name": "Inside Out (feat. Griff)",
       "url": "https://open.spotify.com/track/6IiCb4PCrDgqLuDWgHhFi7"
@@ -1116,7 +1214,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 201667,
       "name": "Just Look Up (From Don\u2019t Look Up)",
       "url": "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F"
@@ -1134,7 +1232,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198220,
       "name": "Keep Your Head Up Princess",
       "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
@@ -1196,7 +1294,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181249,
       "name": "Letters",
       "url": "https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C"
@@ -1232,7 +1330,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
@@ -1406,7 +1504,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 162316,
       "name": "never mind, let's break up",
       "url": "https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg"
@@ -1482,7 +1580,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 167280,
       "name": "One Night",
       "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
@@ -1540,7 +1638,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
@@ -1594,7 +1692,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 185849,
       "name": "r u ok",
       "url": "https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp"
@@ -1648,7 +1746,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178221,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5"
@@ -1862,7 +1960,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177041,
       "name": "Stop",
       "url": "https://open.spotify.com/track/1iCVw7fVBPdEzPibIQ0JCv"
@@ -2000,7 +2098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210488,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/5Cbc3v4DKzrwQAv3hlA9Hn"
@@ -2054,7 +2152,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 214623,
       "name": "This Is Heaven",
       "url": "https://open.spotify.com/track/7oAly6qQFPu1JhmlE2Vujg"

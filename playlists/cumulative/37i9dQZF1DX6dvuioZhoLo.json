@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 247760,
       "name": "Heartbreak Blues",
       "url": "https://open.spotify.com/track/1dNAFligPl5TPPXxQ1EBgd"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180674,
       "name": "I Left My One Spot (Back at the 5 Spot)",
       "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
@@ -858,6 +858,24 @@
       "duration_ms": 201163,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/1e2CBIOurnWTSbsaSv2lvA"
+    },
+    {
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196339,
+      "name": "I Thought You Were Somebody Else",
+      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "album": {
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
@@ -1143,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Dead Ringer",
+        "url": "https://open.spotify.com/album/2BAv3kF9WZY4KasAvMVeHo"
+      },
+      "artists": [
+        {
+          "name": "The Whiskey Gentry",
+          "url": "https://open.spotify.com/artist/2wqmq73FxLDJsM2TxIEiqi"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "Looking for Trouble",
+      "url": "https://open.spotify.com/track/2xD4DFnrn91xLuy4M7Yxt0"
+    },
+    {
+      "album": {
         "name": "Love All Night (Work All Day)",
         "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
       },
@@ -1280,7 +1316,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 218641,
       "name": "Memphis Rain",
       "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 143160,
       "name": "My Heart Skips A Beat",
       "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 245773,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/6lwEELTpswg1EDdOPKY94Y"

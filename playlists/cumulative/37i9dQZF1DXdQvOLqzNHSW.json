@@ -34,7 +34,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 238435,
       "name": "2much",
       "url": "https://open.spotify.com/track/0ShhMU4mTH4zvBnjmHuMmi"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 142626,
       "name": "3000 Miles (Baby Baby)",
       "url": "https://open.spotify.com/track/3Xsmpypmc2DcxQBbmnnrB5"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 314426,
       "name": "9",
       "url": "https://open.spotify.com/track/6zPmJ8DI5vuB1G9WjVjMfU"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 344224,
       "name": "Aeroplane Bathroom",
       "url": "https://open.spotify.com/track/5ul1z9YxrM9MEsB8MPKJpZ"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198511,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 181360,
       "name": "BNR",
       "url": "https://open.spotify.com/track/54uXC93r53jOJFuhMueold"
@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "BOY ANONYMOUS",
+        "url": "https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "FORCE OF HABIT",
+      "url": "https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6"
+    },
+    {
+      "album": {
         "name": "Glass House",
         "url": "https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD"
       },
@@ -562,7 +580,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 171977,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
@@ -670,7 +688,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 108373,
       "name": "I must apologise",
       "url": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
@@ -778,7 +796,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 188426,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
@@ -796,7 +814,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt"
@@ -958,10 +976,32 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "album": {
+        "name": "New Love Cassette (Mark Ronson Remix)",
+        "url": "https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208056,
+      "name": "New Love Cassette (Mark Ronson Remix)",
+      "url": "https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT"
     },
     {
       "album": {
@@ -976,7 +1016,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 199613,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/3itTjtSUO9mC7if5prxrTn"
@@ -1012,7 +1052,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219340,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
@@ -1185,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "RUBBER BANDS",
+        "url": "https://open.spotify.com/album/4zqb97nYx9h7x9hO307476"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171568,
+      "name": "RUBBER BANDS",
+      "url": "https://open.spotify.com/track/4Ui0mQgS3pDEjFXmDnBo24"
+    },
+    {
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB"
       },
@@ -1258,7 +1316,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
@@ -1298,6 +1356,24 @@
       "duration_ms": 215110,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
+    },
+    {
+      "album": {
+        "name": "Sink In",
+        "url": "https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237521,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np"
     },
     {
       "album": {
@@ -1377,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    {
+      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
@@ -1450,7 +1544,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 321204,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/5OBUmFuhkit7MYdaVZc2bs"
@@ -1584,7 +1678,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181253,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF"
@@ -1602,7 +1696,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 515865,
       "name": "WILSHIRE",
       "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"
@@ -1678,7 +1772,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203325,
       "name": "Your World",
       "url": "https://open.spotify.com/track/6HaEWa2XBunQIjtTxcniNn"

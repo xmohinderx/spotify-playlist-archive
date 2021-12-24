@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 245505,
       "name": "3 2 4 3",
       "url": "https://open.spotify.com/track/7andc0MirzCmIlkcCjjJmV"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 106026,
       "name": "Alone But Not Lonely",
       "url": "https://open.spotify.com/track/45b6AZg2JJFKqOgYL1Rne4"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 172066,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
@@ -294,10 +294,36 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195000,
       "name": "C'mon Be Cool",
       "url": "https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC"
+    },
+    {
+      "album": {
+        "name": "Cady Road",
+        "url": "https://open.spotify.com/album/6zBwMl6GARPzqmZtv0YK8Z"
+      },
+      "artists": [
+        {
+          "name": "Routine",
+          "url": "https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS"
+        },
+        {
+          "name": "Annie Truscott",
+          "url": "https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo"
+        },
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190695,
+      "name": "Cady Road",
+      "url": "https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW"
     },
     {
       "album": {
@@ -438,7 +464,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 228286,
       "name": "Combat",
       "url": "https://open.spotify.com/track/2oFcg1dEGotfeeEYFrWSqD"
@@ -528,7 +554,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 189222,
       "name": "Crying",
       "url": "https://open.spotify.com/track/1H41sRV3HdMgvJgABjdV7N"
@@ -564,7 +590,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
@@ -640,7 +666,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 191281,
       "name": "Dino's",
       "url": "https://open.spotify.com/track/0TV90vpzReCSb4U6HiW0OY"
@@ -676,7 +702,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "Donuts Mind If I Do",
       "url": "https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq"
@@ -766,7 +792,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 264815,
       "name": "Feel the Pain",
       "url": "https://open.spotify.com/track/5r2qy6NxfsLJukqllGueTa"
@@ -910,7 +936,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 252455,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX"
@@ -932,6 +958,24 @@
       "duration_ms": 222214,
       "name": "Hasta La Vista",
       "url": "https://open.spotify.com/track/6YLzLfLo0Pn65NCcHUocvS"
+    },
+    {
+      "album": {
+        "name": "Headstart",
+        "url": "https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142818,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae"
     },
     {
       "album": {
@@ -982,7 +1026,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 224121,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ"
@@ -1155,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Thx",
+        "url": "https://open.spotify.com/album/5ftfK29sHT2Tx7Wc3NMbqR"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162624,
+      "name": "Interstate Vision",
+      "url": "https://open.spotify.com/track/333ynS8xzTSbeRxxodU33d"
+    },
+    {
+      "album": {
         "name": "I (motsi)",
         "url": "https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G"
       },
@@ -1260,7 +1322,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 262960,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/49nEnbfHkmMD9sQVcvG8Ph"
@@ -1509,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179083,
+      "name": "Paper Mache World",
+      "url": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
+    },
+    {
+      "album": {
         "name": "Party's Over",
         "url": "https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs"
       },
@@ -1556,7 +1636,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 162400,
       "name": "Polly",
       "url": "https://open.spotify.com/track/1OHYh4ycNpSczDFaf5PkJ9"
@@ -1780,7 +1860,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 185813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3METNlutAzAhnNKgzZBA1a"
@@ -1823,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/6AW6SfG4jibbNWdZKqX3tP"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
+    },
+    {
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/5BRORKnC2HD5xhgUyR31SH"
       },
@@ -1842,7 +1940,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"
@@ -1903,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/4YDaXqdjZQMJQ0RIBEGlcg"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249021,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/6gE07whLj5Zis7MnL2Q4nm"
+    },
+    {
+      "album": {
         "name": "Means To Me",
         "url": "https://open.spotify.com/album/1GS9YuJnV8cNUZFJapg1AK"
       },
@@ -1914,7 +2030,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 334357,
       "name": "Sweetheart",
       "url": "https://open.spotify.com/track/4T7okh1A7MmqS7xXypO0wx"
@@ -1932,7 +2048,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182560,
       "name": "Sword",
       "url": "https://open.spotify.com/track/6mD1KDKC3CcGAVCAwUkKl4"
@@ -1968,7 +2084,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 261217,
       "name": "The Last Man on Earth",
       "url": "https://open.spotify.com/track/0X9YmbFHb2sPmml6J7DMK0"
@@ -2058,7 +2174,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 279133,
       "name": "Thumbs Again",
       "url": "https://open.spotify.com/track/7DuUnmiBp8C2bXY6V6QN0r"
@@ -2195,6 +2311,28 @@
     },
     {
       "album": {
+        "name": "Watching Cartoons",
+        "url": "https://open.spotify.com/album/0gvjWAOxM448sbpxLtBFHl"
+      },
+      "artists": [
+        {
+          "name": "La Luz",
+          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208906,
+      "name": "Watching Cartoons",
+      "url": "https://open.spotify.com/track/3IIZJE9HWQM0dkBBwL8TSW"
+    },
+    {
+      "album": {
         "name": "We've Got a Good Thing Going",
         "url": "https://open.spotify.com/album/4Uvzo1wpAuV6orxGuWPxqe"
       },
@@ -2260,7 +2398,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 131630,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/51kze9dPhittQFgS6kc2wb"

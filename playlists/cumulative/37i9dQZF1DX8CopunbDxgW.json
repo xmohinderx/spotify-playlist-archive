@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 150718,
       "name": "2nd Round",
       "url": "https://open.spotify.com/track/47aIlnjYCoc2JOEOCe2AXy"
@@ -190,10 +190,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 260362,
       "name": "be free.",
       "url": "https://open.spotify.com/track/0qTvCYCKnLjEjm2rXatkKb"
+    },
+    {
+      "album": {
+        "name": "Be Sweet",
+        "url": "https://open.spotify.com/album/1gEdYwz5hkFchccCnPlVyu"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ"
     },
     {
       "album": {
@@ -230,6 +248,24 @@
       "duration_ms": 208959,
       "name": "Beato Classico",
       "url": "https://open.spotify.com/track/26lc7CmsO3vT5ZHxjdmBDd"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/4HdbjrrLN9BjHfmtZ1riof"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211531,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5KgHHyIkSf7NBYllVJfhJF"
     },
     {
       "album": {
@@ -398,7 +434,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 282610,
       "name": "Don't Cry - TSHA Remix",
       "url": "https://open.spotify.com/track/1hwjiYyitrVk04U0U96AZS"
@@ -438,7 +474,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231616,
       "name": "Don't Wait (feat. Yahtzel)",
       "url": "https://open.spotify.com/track/2oWfyTJMRjOK38Repljm2S"
@@ -460,7 +496,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 152901,
       "name": "eons away",
       "url": "https://open.spotify.com/track/1IGkkm35S2KRItswTm0eKP"
@@ -478,7 +514,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 146298,
       "name": "Escalator",
       "url": "https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD"
@@ -540,7 +576,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250291,
       "name": "Faisal (Envelops Me)",
       "url": "https://open.spotify.com/track/0J8dISXAmgPIOvOtYy64AT"
@@ -587,6 +623,24 @@
     },
     {
       "album": {
+        "name": "FEEL LIKE",
+        "url": "https://open.spotify.com/album/5d1GEm62XJWF5Kgo2ewl9z"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188143,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg"
+    },
+    {
+      "album": {
         "name": "FEEL SOMETHING DIFFERENT",
         "url": "https://open.spotify.com/album/3FheSC4Vgn2ASKTyYt9WcA"
       },
@@ -624,7 +678,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 227775,
       "name": "finding rhythm",
       "url": "https://open.spotify.com/track/4Y5xx6F2NhaxJ0D5fzgKXB"
@@ -726,7 +780,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
@@ -744,7 +798,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 230089,
       "name": "Good 2 Yourself",
       "url": "https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1"
@@ -784,7 +838,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 315000,
       "name": "HAUNTED",
       "url": "https://open.spotify.com/track/0kWaEuv3fZXOPeBNMG6iGc"
@@ -846,7 +900,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 187686,
       "name": "Hey Boy - DRAMA Remix",
       "url": "https://open.spotify.com/track/4idBrYWOnMfNQ3jqpFCanc"
@@ -908,7 +962,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219111,
       "name": "How Does It Feel?",
       "url": "https://open.spotify.com/track/1OvKX3ZIbOhZgFJBqozqxH"
@@ -988,10 +1042,28 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 171937,
       "name": "I Wanna Help Your Mind",
       "url": "https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/5VE3UEUfktGy9CuMOglplR"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235245,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/757Myoc63izEaBWatHbUUs"
     },
     {
       "album": {
@@ -1046,7 +1118,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 305800,
       "name": "If We Only Had",
       "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
@@ -1147,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "SQUID",
+        "url": "https://open.spotify.com/album/5al9coFpDFnSrFgYNn7wAk"
+      },
+      "artists": [
+        {
+          "name": "Squidgenini",
+          "url": "https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262786,
+      "name": "Into My Heart",
+      "url": "https://open.spotify.com/track/2aE8FWURsIuFIGNFG1CHVr"
+    },
+    {
+      "album": {
         "name": "Iron",
         "url": "https://open.spotify.com/album/0T3nvlxrpgewPFhQqnvJaD"
       },
@@ -1162,6 +1252,24 @@
       "duration_ms": 216440,
       "name": "Iron",
       "url": "https://open.spotify.com/track/2oVI4RJpbUIHU61q6Gf4pw"
+    },
+    {
+      "album": {
+        "name": "Twin Shadow",
+        "url": "https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU"
+      },
+      "artists": [
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Is There Any Love",
+      "url": "https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t"
     },
     {
       "album": {
@@ -1198,7 +1306,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 264045,
       "name": "I\u2019ll Find My Way To You",
       "url": "https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P"
@@ -1326,10 +1434,28 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "Losing Control \u2013 Satin Jackets Remix",
       "url": "https://open.spotify.com/track/4PCl6CXf08m2Q2ofMxeBIG"
+    },
+    {
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/4XjfPIc3eDkBAmGwyUPSX6"
+      },
+      "artists": [
+        {
+          "name": "NEW CITY",
+          "url": "https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230350,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/2hMTgMeXtubSWYexxpLrbS"
     },
     {
       "album": {
@@ -1402,7 +1528,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
@@ -1442,7 +1568,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 227906,
       "name": "Lucky Penny",
       "url": "https://open.spotify.com/track/0yuwRSxetJ5j4AQHH1vLgw"
@@ -1614,7 +1740,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213946,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1uQiAP6sqz81780Rp1JOO8"
@@ -1643,6 +1769,28 @@
     },
     {
       "album": {
+        "name": "Nabi",
+        "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232914,
+      "name": "Nabi",
+      "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
+    },
+    {
+      "album": {
         "name": "Nobody Scared",
         "url": "https://open.spotify.com/album/3ssYNO0NqPUMYJFjk9qtAW"
       },
@@ -1658,6 +1806,46 @@
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/0XW3UfxGKohQPt7FxaCuHU"
+    },
+    {
+      "album": {
+        "name": "Not My Girl (Yuksek Remix)",
+        "url": "https://open.spotify.com/album/1fC2o7HEalSglSvmNRE6Y8"
+      },
+      "artists": [
+        {
+          "name": "Ishi",
+          "url": "https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Not My Girl - Yuksek Remix",
+      "url": "https://open.spotify.com/track/6Hkr4K98wyBiphwh8oMDNi"
+    },
+    {
+      "album": {
+        "name": "On My Mind / About U",
+        "url": "https://open.spotify.com/album/556C4ye37wUq6bKWjR14vg"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237865,
+      "name": "On My Mind - Short Version",
+      "url": "https://open.spotify.com/track/72f2k9lWpfT95o7KaWkj7Z"
     },
     {
       "album": {
@@ -1716,7 +1904,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207133,
       "name": "Paint California",
       "url": "https://open.spotify.com/track/2ZlgqiomIrjvkuWFDSVOLY"
@@ -1778,7 +1966,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 329462,
       "name": "Pup Slushy",
       "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
@@ -1920,7 +2108,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181437,
       "name": "Ron Burgundy",
       "url": "https://open.spotify.com/track/5M7gQQt5kVfCzzxzlXT4Ny"
@@ -1938,7 +2126,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
@@ -2095,6 +2283,58 @@
     },
     {
       "album": {
+        "name": "Simulation (Noah Breakfast remix)",
+        "url": "https://open.spotify.com/album/153hd8y2mNxmvzo2rEA0Uo"
+      },
+      "artists": [
+        {
+          "name": "Naeem",
+          "url": "https://open.spotify.com/artist/2HmiQV6GQR2VlOZmjEmtnX"
+        },
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        },
+        {
+          "name": "Justin Vernon",
+          "url": "https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV"
+        }
+      ],
+      "date_added": "2021-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242969,
+      "name": "Simulation (feat. Swamp Dogg, Justin Vernon) [Noah Breakfast remix]",
+      "url": "https://open.spotify.com/track/5100O76PP6LoRKvPbT5AoQ"
+    },
+    {
+      "album": {
+        "name": "So Fine (Franc Moody Remix)",
+        "url": "https://open.spotify.com/album/62srGKXy3q2TDTzCLS3zwF"
+      },
+      "artists": [
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238714,
+      "name": "So Fine (Franc Moody Remix)",
+      "url": "https://open.spotify.com/track/2w8jk4NAkqURAJ7WvTI98W"
+    },
+    {
+      "album": {
         "name": "soshy",
         "url": "https://open.spotify.com/album/0It6cwMGugiHHtmLTjmoju"
       },
@@ -2135,6 +2375,28 @@
     },
     {
       "album": {
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/7tf7U3SDs3CKSgyHhyUiN3"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193556,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/2UqQXvudBolM4qRpMYBrLS"
+    },
+    {
+      "album": {
         "name": "Starstruck (Vegyn Remix)",
         "url": "https://open.spotify.com/album/6GJDNkrgXK9vjiJbK9g9qa"
       },
@@ -2172,7 +2434,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 225834,
       "name": "Stay (feat. Your Smith)",
       "url": "https://open.spotify.com/track/0bDL2MOuaqdzRLVMAhbCp7"
@@ -2308,7 +2570,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
@@ -2352,7 +2614,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 221217,
       "name": "Super Good Times",
       "url": "https://open.spotify.com/track/1qooiZqttVLM5Z2dHLofHM"
@@ -2432,7 +2694,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217373,
       "name": "That Life",
       "url": "https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY"
@@ -2490,7 +2752,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250578,
       "name": "The Road to Love",
       "url": "https://open.spotify.com/track/2umORTX6Xf9Gqhf3kuGLD0"
@@ -2516,7 +2778,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 204516,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P"
@@ -2534,7 +2796,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 193165,
       "name": "Things I Thought Were Mine",
       "url": "https://open.spotify.com/track/2WpMB2RxvNOnStRrT2e2kC"
@@ -2604,7 +2866,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 253848,
       "name": "Time - Franc Moody Remix",
       "url": "https://open.spotify.com/track/5PfspUAi01qWEHIghP3DQr"
@@ -2626,7 +2888,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 169246,
       "name": "Time Is Mine",
       "url": "https://open.spotify.com/track/7qohJZZBpGDUHuUozqAwoS"
@@ -2714,7 +2976,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
@@ -2838,7 +3100,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 209694,
       "name": "Water",
       "url": "https://open.spotify.com/track/0HX7Qdf2R0pfeDueFpF6C4"
@@ -2900,7 +3162,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 169000,
       "name": "When Will I Learn",
       "url": "https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n"
@@ -2918,7 +3180,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192656,
       "name": "Wifi Beach",
       "url": "https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF"

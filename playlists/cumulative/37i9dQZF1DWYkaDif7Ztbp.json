@@ -1,6 +1,6 @@
 {
   "date_initialized": "2021-12-21",
-  "description": "The tracks heating up the continent right now! Cover: <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=2fOgVcIWTJS5I0d3PwlHUA\"> Burna Boy  </a>  and <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=tth_uaFAQjilJTTZplSDdQ\"> WizKid</a>   ",
+  "description": "The tracks heating up the continent right now! Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=5Z7nU1NlSleLiz1BSOb7Dw\"> Fireboy DML </a>  ",
   "name": "African Heat",
   "tracks": [
     {
@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "Asibe Happy",
+        "url": "https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458777,
+      "name": "Asibe Happy",
+      "url": "https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ"
+    },
+    {
+      "album": {
         "name": "B. D\u2019OR (feat. Wizkid)",
         "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
@@ -216,6 +242,24 @@
       "duration_ms": 172690,
       "name": "Big Thug Boys",
       "url": "https://open.spotify.com/track/5dFSwQk7dEGgccEpyzqskS"
+    },
+    {
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/2az0xXjyvJVPfNZfSTlMA8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/729blbra42RS4hrSqGOU3t"
     },
     {
       "album": {
@@ -336,6 +380,28 @@
       "duration_ms": 164848,
       "name": "Emiliana",
       "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
+    },
+    {
+      "album": {
+        "name": "BADIU",
+        "url": "https://open.spotify.com/album/4fnko5FkT24IMwIzjB8ybH"
+      },
+      "artists": [
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183746,
+      "name": "Esquinas",
+      "url": "https://open.spotify.com/track/27pyt2AP8sdMb3hlO9uY6p"
     },
     {
       "album": {
@@ -620,7 +686,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 199666,
       "name": "Oga",
       "url": "https://open.spotify.com/track/08VqaGj8UrSeO6QeYAwdY2"
@@ -682,6 +748,28 @@
       "duration_ms": 151640,
       "name": "Peru",
       "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
+    },
+    {
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
       "album": {
@@ -840,7 +928,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198333,
       "name": "She Knows",
       "url": "https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo"
@@ -920,7 +1008,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 151014,
       "name": "Something sweet",
       "url": "https://open.spotify.com/track/3oYQD6byDpOCx4hQzcY7GL"
@@ -1048,7 +1136,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 458772,
       "name": "uThando (feat. Aymos)",
       "url": "https://open.spotify.com/track/5ZOpzOg9JuKFQ5Q6aUYPix"

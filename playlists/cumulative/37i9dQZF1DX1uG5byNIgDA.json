@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "BANANA CHACHA Acoustic",
+        "url": "https://open.spotify.com/album/2Eqqh9P0qrTxQq4vxbHZYd"
+      },
+      "artists": [
+        {
+          "name": "SBGB",
+          "url": "https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133305,
+      "name": "BANANA CHACHA Acoustic",
+      "url": "https://open.spotify.com/track/3qs3ViQCVkiOa6xETGxWnx"
+    },
+    {
+      "album": {
         "name": "BBIBBI",
         "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -172,6 +190,24 @@
       "duration_ms": 189000,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
+    },
+    {
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176546,
+      "name": "Don't fight the feeling",
+      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
     },
     {
       "album": {
@@ -312,7 +348,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 221000,
       "name": "Happy",
       "url": "https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM"
@@ -341,6 +377,24 @@
     },
     {
       "album": {
+        "name": "hawaiian surf",
+        "url": "https://open.spotify.com/album/6CNlVhBX8fzBGAzHcLa5zo"
+      },
+      "artists": [
+        {
+          "name": "ultramodernista",
+          "url": "https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220579,
+      "name": "hawaiian surf",
+      "url": "https://open.spotify.com/track/1lCACE62OowcTnqZ2OfiuB"
+    },
+    {
+      "album": {
         "name": "Belief",
         "url": "https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw"
       },
@@ -352,7 +406,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196560,
       "name": "Heart",
       "url": "https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6"
@@ -431,6 +485,24 @@
     },
     {
       "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "How You Been",
+      "url": "https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB"
+    },
+    {
+      "album": {
         "name": "Won't Forget You",
         "url": "https://open.spotify.com/album/5YAKoVELgEDXMao7RHtft9"
       },
@@ -460,7 +532,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197320,
       "name": "HWAA",
       "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
@@ -514,7 +586,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181000,
       "name": "It's Okay to Not Be Okay",
       "url": "https://open.spotify.com/track/0TmFsWTadkiSy6A7fjvqbB"
@@ -598,7 +670,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 156818,
       "name": "Just Good",
       "url": "https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r"
@@ -638,6 +710,32 @@
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD"
+    },
+    {
+      "album": {
+        "name": "Love Right Back - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV"
+      },
+      "artists": [
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        },
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Love Right Back (feat. TAEIL of NCT, lIlBOI)",
+      "url": "https://open.spotify.com/track/1XAjHcWjzNbYlVi9uSp1ko"
     },
     {
       "album": {
@@ -724,7 +822,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195982,
       "name": "MY TREASURE",
       "url": "https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J"
@@ -742,7 +840,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 203424,
       "name": "My Universe (Seungmin, I.N Feat. Changbin)",
       "url": "https://open.spotify.com/track/2PGhCLeiYBYU4xIAMHLpyA"
@@ -818,7 +916,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 163026,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/7xTDCxibzHpmUUQeso8Sg7"
@@ -872,7 +970,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Sangsu station",
       "url": "https://open.spotify.com/track/1xvSbNUKm3Ig7LkguLSFO4"
@@ -890,7 +988,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 238143,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
@@ -988,7 +1086,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219390,
       "name": "SoulMate (feat. IU)",
       "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
@@ -1060,7 +1158,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 201746,
       "name": "The View",
       "url": "https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD"
@@ -1132,7 +1230,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 236816,
       "name": "Wind flower",
       "url": "https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O"
@@ -1240,7 +1338,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210450,
       "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"

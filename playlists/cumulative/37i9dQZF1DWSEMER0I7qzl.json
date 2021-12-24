@@ -16,7 +16,7 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 218234,
       "name": "Ain't Your Mama",
       "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194087,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+    },
+    {
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -52,10 +70,28 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210613,
+      "name": "Big Girls Cry",
+      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
     },
     {
       "album": {
@@ -160,7 +196,7 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 245960,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
@@ -182,6 +218,24 @@
       "duration_ms": 224146,
       "name": "Girl",
       "url": "https://open.spotify.com/track/4XyAMTjMfqwZ2uJemqKRdH"
+    },
+    {
+      "album": {
+        "name": "Sheezus (Special Edition)",
+        "url": "https://open.spotify.com/album/6v159f6X9SorsMss4NfcWX"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211377,
+      "name": "Hard out Here",
+      "url": "https://open.spotify.com/track/1xIa0tnup6HpVh3EtZEl72"
     },
     {
       "album": {
@@ -214,7 +268,7 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207775,
       "name": "I'm Gonna Show You Crazy",
       "url": "https://open.spotify.com/track/5LtNBCM2ve0SxP0dlRVvMu"
@@ -286,7 +340,7 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 211853,
       "name": "Look What You Made Me Do",
       "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
@@ -376,7 +430,7 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 257653,
       "name": "Pretty Hurts",
       "url": "https://open.spotify.com/track/7lUA4P03AhwAw40JHkdyGr"
@@ -394,7 +448,7 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 221075,
       "name": "Primadonna",
       "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
@@ -430,7 +484,7 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 277637,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/7aliOjqVEBd3ZZ8NMkuifd"
@@ -452,6 +506,46 @@
       "duration_ms": 206853,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/7qAqXbEGXCT50QfZSmRJWx"
+    },
+    {
+      "album": {
+        "name": "Tell Me You Love Me (Deluxe)",
+        "url": "https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/7gvd8xj4QgPqbQSsn5pV7d"
+    },
+    {
+      "album": {
+        "name": "The Fame Monster (Deluxe)",
+        "url": "https://open.spotify.com/album/4yHr095BMG5I3IRH4ToE5l"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/1Sl4WkY1bLzNblPDWYFDc3"
     },
     {
       "album": {
@@ -484,7 +578,7 @@
       ],
       "date_added": "2019-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 184908,
       "name": "Think Before I Talk",
       "url": "https://open.spotify.com/track/4lszNcJSaz61QT6gpMhFU1"

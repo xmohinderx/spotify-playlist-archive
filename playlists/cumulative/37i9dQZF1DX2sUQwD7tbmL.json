@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 170794,
       "name": "All In",
       "url": "https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 222500,
       "name": "American Cigarettes",
       "url": "https://open.spotify.com/track/7Kw8Mxe12tdJUMk20ZpV0b"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 253010,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/2CG6oeuMEtbL5OvKsyT7JL"
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Bad To Worse",
+        "url": "https://open.spotify.com/album/6kKWqN15xZsA4TBNPW6Wb2"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Riot",
+          "url": "https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258733,
+      "name": "Bad To Worse",
+      "url": "https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl"
+    },
+    {
+      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/1a2UoM4rHjI9Q4KvEJeuFk"
       },
@@ -383,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Blocked",
+        "url": "https://open.spotify.com/album/23MqUFP7C2H1cY1WWKVfBw"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158388,
+      "name": "Blocked",
+      "url": "https://open.spotify.com/track/6jOE4zzFlCUb0zFmxLzNH2"
+    },
+    {
+      "album": {
         "name": "Blue Ceiling",
         "url": "https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw"
       },
@@ -394,7 +430,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 166909,
       "name": "Blue Ceiling",
       "url": "https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI"
@@ -434,7 +470,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258013,
       "name": "Bored Again!",
       "url": "https://open.spotify.com/track/3ufH99mUTvwXajptLNsPQi"
@@ -567,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/799MtiaLaTx19lk7NQCPhK"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm"
+    },
+    {
+      "album": {
         "name": "Crawling Home When the Morning Comes",
         "url": "https://open.spotify.com/album/4XEgFZJ17LOZJMOdlxB8QL"
       },
@@ -596,7 +650,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 175106,
       "name": "Cuff Your Jeans",
       "url": "https://open.spotify.com/track/71ygECRAwecbpqK5MYlpVq"
@@ -704,7 +758,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 201786,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR"
@@ -722,7 +776,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 257618,
       "name": "Down That Road",
       "url": "https://open.spotify.com/track/5IumbZ7yeqdlQG6did2IuL"
@@ -762,6 +816,24 @@
       "duration_ms": 218493,
       "name": "Eat, Sleep, Wake (Nothing But You) - Single Version",
       "url": "https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280826,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
     },
     {
       "album": {
@@ -974,7 +1046,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
@@ -1064,7 +1136,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 147893,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/0oHivrvqAyEBDgjFF9JPXa"
@@ -1140,7 +1212,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178987,
       "name": "HIDE (MYSELF BEHIND YOU)",
       "url": "https://open.spotify.com/track/0ylk0gZbTofpSVCsNe18BB"
@@ -1216,6 +1288,24 @@
       "duration_ms": 162344,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4B5OY3ZpcDgnhvJh7RJlhd"
+    },
+    {
+      "album": {
+        "name": "I CHOOSE YOU",
+        "url": "https://open.spotify.com/album/7IQHVqrPoox6QKnyW9zGDY"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217807,
+      "name": "I CHOOSE YOU",
+      "url": "https://open.spotify.com/track/6YRLMz4DOqNtGCvqGR2E0N"
     },
     {
       "album": {
@@ -1450,7 +1540,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 185390,
       "name": "MANGO",
       "url": "https://open.spotify.com/track/0a5szJBZfMo2ijE68r5oAR"
@@ -1594,7 +1684,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 132230,
       "name": "Moonboy",
       "url": "https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe"
@@ -1630,7 +1720,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 141093,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/16cfhCwNCVTmmSoLYxb2z3"
@@ -1670,6 +1760,24 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "album": {
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
     },
     {
       "album": {
@@ -1810,7 +1918,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182306,
       "name": "Pressure To Party",
       "url": "https://open.spotify.com/track/5Wyy2JHaM8cKEN6YDC6C8O"
@@ -1864,7 +1972,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 132892,
       "name": "Receive",
       "url": "https://open.spotify.com/track/6mI9mXAyLw9f8R1HHC89yi"
@@ -1940,7 +2048,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 206509,
       "name": "Salted Caramel",
       "url": "https://open.spotify.com/track/2HS3rFy98oTpEWLVrwEXdk"
@@ -2186,10 +2294,28 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 159212,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6pcUM78WIkEfPzsWPIqG3l"
+    },
+    {
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/1YHlj5gp5YYLcBscSxBNHA"
+      },
+      "artists": [
+        {
+          "name": "Simpson",
+          "url": "https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242227,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/3YmTTULju4GaSlnkizJPrq"
     },
     {
       "album": {
@@ -2258,7 +2384,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 216853,
       "name": "Take You Back",
       "url": "https://open.spotify.com/track/5xjDVAPLOovtYtzswnCxRS"
@@ -2334,7 +2460,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 222804,
       "name": "The Hardest Part [Feat. Tennis]",
       "url": "https://open.spotify.com/track/3HgSzOf6AyAm0QzWNTnpqP"
@@ -2482,7 +2608,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 122333,
       "name": "Virtual Aerobics",
       "url": "https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH"

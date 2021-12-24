@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 224000,
       "name": "1.28.19",
       "url": "https://open.spotify.com/track/0Wjczjn4UW1DBl0Hzt9bkx"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 148027,
       "name": "2010",
       "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 296048,
       "name": "BYE",
       "url": "https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 269418,
       "name": "Contact",
       "url": "https://open.spotify.com/track/7ypuC93uVLeCbU58TtKQg9"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 222420,
       "name": "Don't Wait Up (feat. Mr Hudson)",
       "url": "https://open.spotify.com/track/3oOnBtFaXDovahuV8A4xvq"
@@ -580,10 +580,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 146419,
       "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
       "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
+    },
+    {
+      "album": {
+        "name": "Kimbo Slice",
+        "url": "https://open.spotify.com/album/6sBL4GtNAGmcZxk5w0Y6AF"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193109,
+      "name": "Kimbo Slice",
+      "url": "https://open.spotify.com/track/1uRvYHBetRUQNsHrSlrlUi"
     },
     {
       "album": {
@@ -598,10 +616,50 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 158389,
       "name": "Live a Little",
       "url": "https://open.spotify.com/track/6B1TtaLjTJ3ZpxrstljeMV"
+    },
+    {
+      "album": {
+        "name": "LL Cool J",
+        "url": "https://open.spotify.com/album/1faC6NKIeoqJtvWla3RlNF"
+      },
+      "artists": [
+        {
+          "name": "MFnMelo",
+          "url": "https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu"
+        },
+        {
+          "name": "squeakPIVOT",
+          "url": "https://open.spotify.com/artist/1CoHUTAynMjIXYnCeP6ReB"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179585,
+      "name": "LL Cool J",
+      "url": "https://open.spotify.com/track/4iq4aolTh4HCTc4fLuV22a"
+    },
+    {
+      "album": {
+        "name": "Lockheed Martin",
+        "url": "https://open.spotify.com/album/1UlXdkSy6F9k5zbjcPs8ZB"
+      },
+      "artists": [
+        {
+          "name": "Rexx Life Raj",
+          "url": "https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170161,
+      "name": "Lockheed Martin",
+      "url": "https://open.spotify.com/track/2erIahu8nnIHe4gKtwmxYY"
     },
     {
       "album": {
@@ -616,7 +674,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177959,
       "name": "Love Music",
       "url": "https://open.spotify.com/track/4xgIZG0FJG9Z81ku8l9P3I"
@@ -656,7 +714,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 138312,
       "name": "LUMBERJACK",
       "url": "https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b"
@@ -736,7 +794,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 218709,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/4ROzAiT7TDnLNwZm1LWepl"
@@ -812,7 +870,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182512,
       "name": "NOHO (feat. ICECOLDBISHOP)",
       "url": "https://open.spotify.com/track/0BkyTpyhncIxJMmYPZZOcV"
@@ -958,7 +1016,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 155573,
       "name": "Raindrops (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY"
@@ -980,7 +1038,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 316733,
       "name": "range brothers (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/0UTyLmkQgPOEIz95OVAJTR"
@@ -1002,7 +1060,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -1057,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Smoke Hole",
+        "url": "https://open.spotify.com/album/1TJpngFnTnOBmFbl1FqyOK"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167613,
+      "name": "Smoke Hole - Edit",
+      "url": "https://open.spotify.com/track/63ajBqgNVFVtkE7vhyBkny"
+    },
+    {
+      "album": {
         "name": "CTV3: Day Tripper's Edition",
         "url": "https://open.spotify.com/album/0sTsD2n8TsSpIGZhFsCXeS"
       },
@@ -1068,7 +1144,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 205320,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/0MbH6aXMUVPHDiBHiuhhKx"
@@ -1108,7 +1184,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 135400,
       "name": "Summer",
       "url": "https://open.spotify.com/track/39jo333JejX9EZ3zwwcdmS"
@@ -1134,7 +1210,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 588139,
       "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
@@ -1222,7 +1298,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Truffles",
       "url": "https://open.spotify.com/track/6YasuOZcSrwQvHNbsxuPPW"
@@ -1304,7 +1380,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229558,
       "name": "Whisper (Want My Luv)",
       "url": "https://open.spotify.com/track/6CkYn4ygBqKCAziK6FC4gn"
@@ -1322,7 +1398,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 145373,
       "name": "White Walls",
       "url": "https://open.spotify.com/track/292x0LG03veq1YIbcETPbO"

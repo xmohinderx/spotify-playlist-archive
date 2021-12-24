@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 350640,
       "name": "Common People",
       "url": "https://open.spotify.com/track/5xMAMaVbW3tkjXTmSUBPTd"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 254466,
       "name": "Det snurrar i min skalle",
       "url": "https://open.spotify.com/track/3b7fBk9K03QWUg6F3w1G12"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 291573,
       "name": "Don't Look Back In Anger",
       "url": "https://open.spotify.com/track/2Hvt5gu7Xavgec3vcurQtd"
@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/42OBbI3xgv2u2U4wMyXv7N"
+      },
+      "artists": [
+        {
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/66e6O0B9GmSRNAnzB0Bm74"
+    },
+    {
+      "album": {
         "name": "My Gods",
         "url": "https://open.spotify.com/album/6gDeHvqMae3KmWyst7LKeF"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 212840,
       "name": "Hitten",
       "url": "https://open.spotify.com/track/54UNpUQpReMOmfoJw9SlJ4"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "It Pays To Belong",
       "url": "https://open.spotify.com/track/6EFMkLWSnU9x59szIWQdeq"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 202746,
       "name": "Jag kommer",
       "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 279200,
       "name": "Kalla mig",
       "url": "https://open.spotify.com/track/2nGgvKTQd3NwhWrsVVVC5n"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231320,
       "name": "Kom igen Lena!",
       "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 228893,
       "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
       "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 169786,
       "name": "Long Before Rock 'n' Roll",
       "url": "https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 155373,
       "name": "Man Must Dance",
       "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 178066,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/2WYUZcrkZuyXGgKE05UhEC"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196866,
       "name": "Ramlar",
       "url": "https://open.spotify.com/track/6BvtcJlv2kdlUodAt7PD6c"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 162320,
       "name": "She",
       "url": "https://open.spotify.com/track/2fGFMTIYDUuSme8BRC9nY4"
@@ -905,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Blood Panic",
+        "url": "https://open.spotify.com/album/61cAD4N5usRfqMHBrsp1Vf"
+      },
+      "artists": [
+        {
+          "name": "Moneybrother",
+          "url": "https://open.spotify.com/artist/6O6kWwVAL4xK4G8SBcsNJR"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196226,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/5EMTPEiZDwJEfc8iWbQ3wt"
+    },
+    {
+      "album": {
         "name": "To Die Alone",
         "url": "https://open.spotify.com/album/1OmgmU8vv0oTxwBRdGzKIi"
       },
@@ -938,6 +974,24 @@
       "duration_ms": 184666,
       "name": "This Is the Year",
       "url": "https://open.spotify.com/track/6rBzSjdrihboUkZ0YyhWLc"
+    },
+    {
+      "album": {
+        "name": "In Our Space Hero Suits",
+        "url": "https://open.spotify.com/album/1iIgApla4V6CAiqJAAJpZx"
+      },
+      "artists": [
+        {
+          "name": "Those Dancing Days",
+          "url": "https://open.spotify.com/artist/5JTKRNH8lzbZcSvOqZSehS"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "Those Dancing Days",
+      "url": "https://open.spotify.com/track/0TRKCq4SQZ3Rn4iQL8bJvz"
     },
     {
       "album": {
@@ -988,10 +1042,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207760,
       "name": "Tralala Lilla Molntuss, Kom Hit Ska Du F\u00e5 En Puss",
       "url": "https://open.spotify.com/track/1McOV2rtrSmaJThQOeM5qx"
+    },
+    {
+      "album": {
+        "name": "Jag rear ut min sj\u00e4l",
+        "url": "https://open.spotify.com/album/4TSjDtkoIAzsVxMowLW85w"
+      },
+      "artists": [
+        {
+          "name": "bob hund",
+          "url": "https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Tralala lilla molntuss, kom hit ska du f\u00e5 en puss",
+      "url": "https://open.spotify.com/track/1Y5hLt3uWM1jZWE4Rzm90E"
     },
     {
       "album": {
@@ -1024,7 +1096,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180653,
       "name": "Upp p\u00e5 sociala, ner p\u00e5 systemet",
       "url": "https://open.spotify.com/track/6Dg9SZupe5axBKl0FQRgq7"
@@ -1060,7 +1132,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "Vi kommer att d\u00f6 samtidigt",
       "url": "https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm"
@@ -1114,7 +1186,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 276360,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm"

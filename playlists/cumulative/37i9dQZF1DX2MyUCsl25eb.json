@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 171958,
       "name": "A World So Full of Love",
       "url": "https://open.spotify.com/track/77OBKDqQD0tvocHP5AXDDV"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 230234,
       "name": "Coast",
       "url": "https://open.spotify.com/track/0mwmnzC58HlOGPmX82jKZs"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6p0xVnT5K3UdxKqQ0Fgytw"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 198253,
       "name": "Dirty Nikes",
       "url": "https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 185973,
       "name": "Donna",
       "url": "https://open.spotify.com/track/08uQ0afWImiJrCDB2UoLJW"
@@ -496,6 +496,24 @@
       "duration_ms": 212919,
       "name": "Girl",
       "url": "https://open.spotify.com/track/0wcHV7AT77zzyH4ftt11vh"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243186,
+      "name": "Happy & Sad",
+      "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
     },
     {
       "album": {
@@ -582,7 +600,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 286426,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 184733,
       "name": "Lonely Like Me",
       "url": "https://open.spotify.com/track/1sIBVBhdt7QRfYdebiN8jF"
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX"
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 271276,
       "name": "Something To Hold",
       "url": "https://open.spotify.com/track/2oPczwxIHoFxNkl7SbKNAH"
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 170050,
       "name": "Where You're At",
       "url": "https://open.spotify.com/track/34jjJlejyRswRpHQiX3Jgq"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 202547,
       "name": "Woman - Single Version",
       "url": "https://open.spotify.com/track/3f1njJx1iKrDjq9TZPfY3E"

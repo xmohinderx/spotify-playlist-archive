@@ -1,7 +1,7 @@
 {
   "description": "All your Disco favorites.",
   "name": "Disco Forever",
-  "snapshot_id": "MTY0MDIxOTkzNCwwMDAwMDAwMGNkNTk1NTY2ODVlM2FkOWQ2MWJjN2ZhMDU0OTYyNjRm",
+  "snapshot_id": "MTY0MDMwNjI4NCwwMDAwMDAwMDczMjNmODgxNGQ2NmExNDcyNmRlN2ExNjJjYWJkMThk",
   "tracks": [
     {
       "added_at": "2021-09-21 19:40:07",
@@ -86,6 +86,22 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
+        "name": "You're The First, The Last, My Everything",
+        "url": "https://open.spotify.com/album/3t2UIcBhhF4x11PFUr5Wbf"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "You're The First, The Last, My Everything - Single Version",
+      "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -98,22 +114,6 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
-        "url": "https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "I Will Survive - Single Version",
-      "url": "https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -134,22 +134,6 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
         "name": "Celebrate!",
         "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
       },
@@ -162,6 +146,38 @@
       "duration_ms": 298866,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8"
+      },
+      "artists": [
+        {
+          "name": "Tavares",
+          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
+        }
+      ],
+      "duration_ms": 394133,
+      "name": "Heaven Must Be Missing An Angel - Pt. 1",
+      "url": "https://open.spotify.com/track/3ad1MVf3CUFCWW1EyMc9kk"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Risqu\u00e9 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -186,66 +202,34 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
         }
       ],
-      "duration_ms": 365466,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
     },
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
+        "url": "https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx"
       },
       "artists": [
         {
-          "name": "Tavares",
-          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
         }
       ],
-      "duration_ms": 394133,
-      "name": "Heaven Must Be Missing An Angel - Pt. 1",
-      "url": "https://open.spotify.com/track/3ad1MVf3CUFCWW1EyMc9kk"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "Young Hearts Run Free (US Internet Release)",
-        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Young Hearts Run Free",
-      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+      "duration_ms": 198066,
+      "name": "I Will Survive - Single Version",
+      "url": "https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -282,6 +266,22 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 365466,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
         "name": "KC & the Sunshine Band",
         "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
       },
@@ -298,66 +298,18 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Risqu\u00e9 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 486186,
-      "name": "Good Times - 2018 Remaster",
-      "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "You're The First, The Last, My Everything",
-        "url": "https://open.spotify.com/album/3t2UIcBhhF4x11PFUr5Wbf"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "You're The First, The Last, My Everything - Single Version",
-      "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -378,34 +330,34 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Cheryl Lynn (Expanded Edition)",
-        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
       "artists": [
         {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 307946,
-      "name": "Got to Be Real",
-      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
       },
       "artists": [
         {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
         }
       ],
-      "duration_ms": 214200,
-      "name": "Blame It on the Boogie",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -426,70 +378,6 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "So Excited! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "I'm So Excited",
-      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "Step II",
-        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
-      },
-      "artists": [
-        {
-          "name": "Sylvester",
-          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
-        }
-      ],
-      "duration_ms": 400115,
-      "name": "You Make Me Feel (Mighty Real)",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
-        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Last Dance - Single Version",
-      "url": "https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
         "name": "McFadden & Whitehead",
         "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
       },
@@ -502,54 +390,6 @@
       "duration_ms": 420986,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 307573,
-      "name": "Car Wash - Long Version",
-      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "Never Gonna Let You Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 333826,
-      "name": "Turn the Beat Around",
-      "url": "https://open.spotify.com/track/0XQxZZIgdcXBaxgL7zMKpK"
-    },
-    {
-      "added_at": "2021-09-21 19:40:07",
-      "album": {
-        "name": "Never Can Say Goodbye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Never Can Say Goodbye - Single Version",
-      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -570,98 +410,146 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Staying Alive (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
+        "name": "So Excited! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
         }
       ],
-      "duration_ms": 92866,
-      "name": "Stayin' Alive",
-      "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
+      "duration_ms": 230640,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
     },
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Disco Baby",
-        "url": "https://open.spotify.com/album/7d7rCB1ApBvCqYC8lc18Uc"
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
       },
       "artists": [
         {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
         }
       ],
-      "duration_ms": 253683,
-      "name": "The Hustle - Original Mix",
-      "url": "https://open.spotify.com/track/4wzUmBC4ZrF92IE1hPCTJp"
+      "duration_ms": 214200,
+      "name": "Blame It on the Boogie",
+      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
     },
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+        "name": "Young Hearts Run Free (US Internet Release)",
+        "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
       },
       "artists": [
         {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 346133,
-      "name": "Shake Your Groove Thing",
-      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+      "duration_ms": 248360,
+      "name": "Young Hearts Run Free",
+      "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
     },
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Nightbirds",
-        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
+        "name": "Cheryl Lynn (Expanded Edition)",
+        "url": "https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P"
       },
       "artists": [
         {
-          "name": "LaBelle",
-          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
         }
       ],
-      "duration_ms": 237120,
-      "name": "Lady Marmalade",
-      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
+      "duration_ms": 307946,
+      "name": "Got to Be Real",
+      "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+        "name": "Never Can Say Goodbye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
         }
       ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+      "duration_ms": 179466,
+      "name": "Never Can Say Goodbye - Single Version",
+      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Casablanca Records Greatest Hits",
-        "url": "https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc"
+        "name": "Walk Away - Collector's Edition The Best Of 1977-1980",
+        "url": "https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7"
       },
       "artists": [
         {
-          "name": "Lipps Inc.",
-          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 239226,
-      "name": "Funkytown",
-      "url": "https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr"
+      "duration_ms": 199800,
+      "name": "Last Dance - Single Version",
+      "url": "https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Step II",
+        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
+      },
+      "artists": [
+        {
+          "name": "Sylvester",
+          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
+        }
+      ],
+      "duration_ms": 400115,
+      "name": "You Make Me Feel (Mighty Real)",
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 307573,
+      "name": "Car Wash - Long Version",
+      "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -682,18 +570,18 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
+        "name": "Nightbirds",
+        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "LaBelle",
+          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
         }
       ],
-      "duration_ms": 286666,
-      "name": "Y.M.C.A.",
-      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
+      "duration_ms": 237120,
+      "name": "Lady Marmalade",
+      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -714,18 +602,114 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "The Philly Sound: Kenny Gamble, Leon Huff And The Story Of Brotherly Love",
-        "url": "https://open.spotify.com/album/4pFtehN1LNl09W9lHjZdAe"
+        "name": "Staying Alive (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 383000,
-      "name": "The Love I Lost",
-      "url": "https://open.spotify.com/track/5m7bBvDmCXAmo4Vkiqp1JO"
+      "duration_ms": 92866,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Never Gonna Let You Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
+      },
+      "artists": [
+        {
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
+        }
+      ],
+      "duration_ms": 333826,
+      "name": "Turn the Beat Around",
+      "url": "https://open.spotify.com/track/0XQxZZIgdcXBaxgL7zMKpK"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+      },
+      "artists": [
+        {
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+        }
+      ],
+      "duration_ms": 346133,
+      "name": "Shake Your Groove Thing",
+      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/7d7rCB1ApBvCqYC8lc18Uc"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "The Hustle - Original Mix",
+      "url": "https://open.spotify.com/track/4wzUmBC4ZrF92IE1hPCTJp"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Casablanca Records Greatest Hits",
+        "url": "https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc"
+      },
+      "artists": [
+        {
+          "name": "Lipps Inc.",
+          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Funkytown",
+      "url": "https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr"
     },
     {
       "added_at": "2021-09-21 19:40:07",
@@ -762,18 +746,34 @@
     {
       "added_at": "2021-09-21 19:40:07",
       "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+        "name": "The Philly Sound: Kenny Gamble, Leon Huff And The Story Of Brotherly Love",
+        "url": "https://open.spotify.com/album/4pFtehN1LNl09W9lHjZdAe"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+      "duration_ms": 383000,
+      "name": "The Love I Lost",
+      "url": "https://open.spotify.com/track/5m7bBvDmCXAmo4Vkiqp1JO"
+    },
+    {
+      "added_at": "2021-09-21 19:40:07",
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 286666,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
     },
     {
       "added_at": "2021-09-21 19:40:07",

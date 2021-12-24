@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178050,
       "name": "23",
       "url": "https://open.spotify.com/track/4jeUxze0mlpF0DzpyW8bCp"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210226,
       "name": "BRB",
       "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Gangsterblues In Bes",
+        "url": "https://open.spotify.com/album/750g63CfDMG6tpEW6R5Z35"
+      },
+      "artists": [
+        {
+          "name": "My Blue Van",
+          "url": "https://open.spotify.com/artist/2YUF5cDrVfW2CmbErAtqaV"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "Gangsterblues In Bes",
+      "url": "https://open.spotify.com/track/78J0QJA6bmoHhPo1yVA0vJ"
+    },
+    {
+      "album": {
         "name": "Good People",
         "url": "https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ"
       },
@@ -388,7 +406,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
@@ -566,7 +584,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 235016,
       "name": "Listen",
       "url": "https://open.spotify.com/track/2McVIa6OZY0AIDCOTsSBpe"
@@ -584,7 +602,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 205531,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/6N3N0dbTQQM9rfJFLBswlp"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 292207,
       "name": "New Tree",
       "url": "https://open.spotify.com/track/4qD4ofUFewKqPEyokBsYsl"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186432,
       "name": "raw",
       "url": "https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8"
@@ -1057,6 +1075,28 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1XaCy9ZrR48Hvq8IlRWBSY"
+      },
+      "artists": [
+        {
+          "name": "Kartell",
+          "url": "https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze"
+        },
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1ULaOEucc4c2u1k9JLLMRE"
+    },
+    {
+      "album": {
         "name": "Stay High",
         "url": "https://open.spotify.com/album/4gb0j034W6vgCDwRO2N88c"
       },
@@ -1122,7 +1162,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 185217,
       "name": "Surf Rising",
       "url": "https://open.spotify.com/track/0kswVkde2bn0lVt7ptPKMa"

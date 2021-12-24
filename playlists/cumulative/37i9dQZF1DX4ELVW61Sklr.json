@@ -202,7 +202,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 216933,
       "name": "Favorite Time of Year",
       "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 155933,
       "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
       "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 263920,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 239760,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/4F95vQhCC2bXJEo1Yb11TL"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
       "url": "https://open.spotify.com/track/3yQbBL8hsYtUhXSrmbKq8X"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 132053,
       "name": "I Saw Mommy Kissing Santa Claus - Live At Union Chapel / BBC Radio 2",
       "url": "https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 247251,
       "name": "Jesus What A Wonderful Child",
       "url": "https://open.spotify.com/track/6wxKZGJPphOUm6p4JpIEIr"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 296255,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 418706,
       "name": "Now Behold the Lamb",
       "url": "https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 308640,
       "name": "O Come",
       "url": "https://open.spotify.com/track/4H0wgKjZ4BF1UlwR9f9RkK"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195816,
       "name": "Spend Christmas With You",
       "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
@@ -918,10 +918,32 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214373,
       "name": "The Christmas Song (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
+    },
+    {
+      "album": {
+        "name": "A Mary Christmas",
+        "url": "https://open.spotify.com/album/2PzjS06Y5MfY34OlhHpCWd"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264186,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2W1H6AfncpHMUYXX5kWYKr"
     },
     {
       "album": {
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 237660,
       "name": "Wishlist (feat. PJ Morton)",
       "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"

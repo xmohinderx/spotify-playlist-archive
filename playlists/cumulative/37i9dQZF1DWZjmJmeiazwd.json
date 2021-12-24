@@ -762,7 +762,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191986,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/21qKs2K0O9MCK9qVeHpEO0"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 270920,
       "name": "Falling Away from Me",
       "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2020-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "album": {
         "name": "Help",
         "url": "https://open.spotify.com/album/1u3l1hzGqPO1wPxbsZzdlx"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 181213,
       "name": "Highway Tune",
       "url": "https://open.spotify.com/track/7JuD5r43XpRLSrUBRBQ7Dy"
@@ -1758,7 +1776,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 234600,
       "name": "Safari Song",
       "url": "https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 181706,
       "name": "The End of the Game",
       "url": "https://open.spotify.com/track/3JNxuA0OA1n5SHfOQn7FYb"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215225,
       "name": "Ugly Friends",
       "url": "https://open.spotify.com/track/6oEvSyE1h0ts0Nyg0cOIMU"

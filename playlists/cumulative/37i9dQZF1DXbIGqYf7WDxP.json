@@ -400,7 +400,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 126976,
       "name": "dirt",
       "url": "https://open.spotify.com/track/5BB3UvbXDoR3nKC7ujTkcc"
@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245425,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+    },
+    {
+      "album": {
         "name": "Falling Asleep At The Wheel",
         "url": "https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg"
       },
@@ -526,7 +544,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 200306,
       "name": "False God",
       "url": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so"
@@ -847,6 +865,24 @@
     },
     {
       "album": {
+        "name": "if you let me",
+        "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
+      },
+      "artists": [
+        {
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "if you let me",
+      "url": "https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL"
+    },
+    {
+      "album": {
         "name": "In Line And In Love",
         "url": "https://open.spotify.com/album/27iiMmqqrMeeGew8oLzmRz"
       },
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 234146,
       "name": "Miss Americana & The Heartbreak Prince",
       "url": "https://open.spotify.com/track/214nt20w5wOxJnY462klLw"
@@ -1624,7 +1660,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210240,
       "name": "the 1",
       "url": "https://open.spotify.com/track/4pfrrhvplbJZAIsfosGWQP"
@@ -1718,7 +1754,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 225357,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/3TytA5oYw7JmKwqdIte4WT"
@@ -1736,7 +1772,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 200643,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/2YP1n9xzKaPr4slNqyiJLy"

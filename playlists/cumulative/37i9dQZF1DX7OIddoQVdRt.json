@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 458498,
       "name": "A Billion People",
       "url": "https://open.spotify.com/track/0eidZQA8WPrWcBRfj7YHCa"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 383552,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 265173,
       "name": "Close (Radio Edit)",
       "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 346096,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/7DpfOkks38EfsrVcG9Zmhw"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210122,
       "name": "Glory / Stranger",
       "url": "https://open.spotify.com/track/1LfqzX9IZ9sosa60nG4byU"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 585080,
       "name": "God Is My Refuge (Live)",
       "url": "https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 232345,
       "name": "Gotta Have You (feat. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles)",
       "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 164480,
       "name": "Hallelujah (You Get The Glory) - Live",
       "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 243613,
       "name": "I Need A Word",
       "url": "https://open.spotify.com/track/08fVVLmIVyjN23nSuUVQc1"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 260431,
       "name": "I See Miracles",
       "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 318186,
       "name": "Live",
       "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK"
@@ -665,6 +665,36 @@
     },
     {
       "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423106,
+      "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
+      "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
+    },
+    {
+      "album": {
         "name": "Never Have to Be Alone",
         "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
       },
@@ -680,6 +710,28 @@
       "duration_ms": 227335,
       "name": "Never Have to Be Alone",
       "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/5vGpKoJ12FjCFJUaaZeBtP"
+      },
+      "artists": [
+        {
+          "name": "Jason McGee & The Choir",
+          "url": "https://open.spotify.com/artist/2a1U4XLduUgLzFErHznt9d"
+        },
+        {
+          "name": "Warryn Campbell",
+          "url": "https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1z69IavRF0D3MXsdbvsPBE"
     },
     {
       "album": {
@@ -756,7 +808,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 246106,
       "name": "Put It On The Altar",
       "url": "https://open.spotify.com/track/5id5AfCgYwoDU31iI1DhnY"
@@ -818,7 +870,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
@@ -836,7 +888,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0z9aEc97GSfDPiRRNwfBmt"
@@ -926,7 +978,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 193791,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
@@ -962,7 +1014,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 214973,
       "name": "We Gon\u2019 Be Alright",
       "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
@@ -1038,7 +1090,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/0njqt2jPYkAK7zIwSdkFU8"
@@ -1060,6 +1112,42 @@
       "duration_ms": 283040,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/4YlCbMRNnELzzAj333hvEz"
+    },
+    {
+      "album": {
+        "name": "You Waited (Radio Edit) [Live]",
+        "url": "https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220849,
+      "name": "You Waited (Radio Edit) [Live]",
+      "url": "https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0"
+    },
+    {
+      "album": {
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379562,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU"
     },
     {
       "album": {

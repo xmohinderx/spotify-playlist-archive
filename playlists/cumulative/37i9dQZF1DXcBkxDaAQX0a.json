@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 256426,
       "name": "A Long Goodbye",
       "url": "https://open.spotify.com/track/5CW7uKVlnpiVGk3xP6FBgX"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 190166,
       "name": "Agree to Disagree - Acoustic",
       "url": "https://open.spotify.com/track/0y4MhPQnBLxVqcSPgzOstx"
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Punk Goes Acoustic, Vol. 3",
+        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "Atlantic - Acoustic",
+      "url": "https://open.spotify.com/track/1PoASGPXqcK2cPkS2QywaW"
+    },
+    {
+      "album": {
         "name": "A Light in a Dark Place",
         "url": "https://open.spotify.com/album/41ZQKgaKOMj9aMsNL8ejhr"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215665,
       "name": "Blameless - Acoustic",
       "url": "https://open.spotify.com/track/7F1GfkFTAEkZTgmwVwdMZw"
@@ -178,7 +196,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258000,
       "name": "California (Acoustic)",
       "url": "https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 224066,
       "name": "Colorblind - Acoustic",
       "url": "https://open.spotify.com/track/0Q0ZwpPIBqGFQGQy415wpX"
@@ -286,7 +304,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220074,
       "name": "Criminal - Acoustic",
       "url": "https://open.spotify.com/track/2QDapBQWEJ0JTuZmnRUzsC"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 209869,
       "name": "Dead & Gone - Acoustic",
       "url": "https://open.spotify.com/track/0QELebUemGEIB0R2mg59Cn"
@@ -398,6 +416,24 @@
       "duration_ms": 204538,
       "name": "Deadlocked - Acoustic",
       "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
+    },
+    {
+      "album": {
+        "name": "Never Happy, Ever After (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Dial Tones - Acoustic Version",
+      "url": "https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x"
     },
     {
       "album": {
@@ -434,7 +470,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 298000,
       "name": "Down for the Ride",
       "url": "https://open.spotify.com/track/5m4FRZfAgAf5YCN8T7C3rN"
@@ -470,10 +506,28 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Drop Dead (Acoustic)",
       "url": "https://open.spotify.com/track/55QnOHqLBk1YiCk7p4lKkG"
+    },
+    {
+      "album": {
+        "name": "Empty Throne (Acoustic)",
+        "url": "https://open.spotify.com/album/2r7oHR5mz0NkW2tmiBCzci"
+      },
+      "artists": [
+        {
+          "name": "Alazka",
+          "url": "https://open.spotify.com/artist/1cvDsLFdRXfZQ1cdRteec7"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295800,
+      "name": "Empty Throne (Acoustic)",
+      "url": "https://open.spotify.com/track/39qXkBGTX5xUDPRTopAhi4"
     },
     {
       "album": {
@@ -488,7 +542,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 277961,
       "name": "End Of A Good Thing",
       "url": "https://open.spotify.com/track/6F6MrtUbHqf7AASOXDMlMp"
@@ -524,7 +578,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202554,
       "name": "England's Dreaming - Acoustic",
       "url": "https://open.spotify.com/track/0fayk6BY25voQ46iYRrNHn"
@@ -542,7 +596,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 244323,
       "name": "Every Little Thing, but More Chill",
       "url": "https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F"
@@ -560,7 +614,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 222840,
       "name": "Fashion Forward (Acoustic)",
       "url": "https://open.spotify.com/track/76EMDlutzJg3c3gUlWKf57"
@@ -596,7 +650,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 211736,
       "name": "Find Peace",
       "url": "https://open.spotify.com/track/1mG0m0t1Rx5RLDns55a4HJ"
@@ -632,7 +686,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 172040,
       "name": "For What It's Worth - Acoustic",
       "url": "https://open.spotify.com/track/0cJqQeY8GHfMQmeeNl9LAh"
@@ -686,7 +740,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 204253,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/2VPq0IUugnOWLcAT5MbFIu"
@@ -820,7 +874,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 156000,
       "name": "How to Lose Your Cool (acoustic) - Deluxe Edition",
       "url": "https://open.spotify.com/track/0fR9e5G0Gud2e5BCVT1vB2"
@@ -946,7 +1000,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181500,
       "name": "In the End",
       "url": "https://open.spotify.com/track/06tEEh5HjpoTXs08JZKO8i"
@@ -1047,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179347,
+      "name": "Leave It All Behind - Acoustic",
+      "url": "https://open.spotify.com/track/021zb89IodxPOcPZheUwVl"
+    },
+    {
+      "album": {
         "name": "Limits",
         "url": "https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5"
       },
@@ -1076,7 +1148,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 184490,
       "name": "Little Dove",
       "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
@@ -1094,7 +1166,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196289,
       "name": "Little One (Acoustic)",
       "url": "https://open.spotify.com/track/2B8p1NMeBV5jEXKVANgrDo"
@@ -1112,7 +1184,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 213742,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW"
@@ -1166,7 +1238,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 175198,
       "name": "Lucky People",
       "url": "https://open.spotify.com/track/3zbsdtgvFPOE4xPcvMlrtZ"
@@ -1224,7 +1296,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179910,
       "name": "Mthrfckr - Unmasked",
       "url": "https://open.spotify.com/track/6LoUMqE0bwQxOcjVh5IIAX"
@@ -1246,6 +1318,24 @@
       "duration_ms": 207053,
       "name": "My Heart I Surrender",
       "url": "https://open.spotify.com/track/4Qt5o43KerMzgh0PNPm6Q1"
+    },
+    {
+      "album": {
+        "name": "New Years Project",
+        "url": "https://open.spotify.com/album/1Vb6rklXe92PsCMyHu7hbJ"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234675,
+      "name": "New Years Project",
+      "url": "https://open.spotify.com/track/0UPZOE6jgBEd8NDaH3JhOh"
     },
     {
       "album": {
@@ -1278,7 +1368,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180506,
       "name": "Painkiller Weather - Reworked",
       "url": "https://open.spotify.com/track/70kZfLsTPmoWnTh0RK559Z"
@@ -1336,7 +1426,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 240428,
       "name": "Pavement (Acoustic)",
       "url": "https://open.spotify.com/track/7ewuuvaj84vzUKpq8SYwCn"
@@ -1354,7 +1444,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202746,
       "name": "Pieces (Acoustic)",
       "url": "https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx"
@@ -1390,7 +1480,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 169930,
       "name": "Playing Fiction (Acoustic)",
       "url": "https://open.spotify.com/track/17PGUJ8kvyyMaRzQKbcWMN"
@@ -1412,6 +1502,24 @@
       "duration_ms": 195760,
       "name": "P\u00e2querette (Without Me)",
       "url": "https://open.spotify.com/track/3EmVLU2EHNEJf646hdsu7s"
+    },
+    {
+      "album": {
+        "name": "Right Here (Acoustic)",
+        "url": "https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr"
+      },
+      "artists": [
+        {
+          "name": "Chase Your Words",
+          "url": "https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Right Here (Acoustic)",
+      "url": "https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc"
     },
     {
       "album": {
@@ -1484,7 +1592,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203791,
       "name": "Send Help",
       "url": "https://open.spotify.com/track/1cqSgH6m4nrW1xsTtX6OUj"
@@ -1582,7 +1690,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 256600,
       "name": "Still Dreaming (Acoustic)",
       "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
@@ -1856,7 +1964,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202920,
       "name": "Tracks",
       "url": "https://open.spotify.com/track/1WXq7yfGDqp24hK7q1oFut"
@@ -1910,7 +2018,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195937,
       "name": "Walking Disaster",
       "url": "https://open.spotify.com/track/2qllvKclzdC7rbiow3o6QB"
@@ -2000,7 +2108,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Worn Down",
       "url": "https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA"

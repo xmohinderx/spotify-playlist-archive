@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Windflower",
+        "url": "https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "Cloudsailing",
+      "url": "https://open.spotify.com/track/7aHbZez2yeqJFJWalKL0WH"
+    },
+    {
+      "album": {
         "name": "Cloudy Mountains",
         "url": "https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5"
       },
@@ -1234,6 +1252,24 @@
       "duration_ms": 170865,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/6zDnGUDRPfzvQNcHAhdJ3T"
+    },
+    {
+      "album": {
+        "name": "Love Lies Bleeding",
+        "url": "https://open.spotify.com/album/1hyOH3QLhykwuNnsw0z1NB"
+      },
+      "artists": [
+        {
+          "name": "Arden Forest",
+          "url": "https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129175,
+      "name": "Love Lies Bleeding",
+      "url": "https://open.spotify.com/track/5sQwJ3rAWhIe1B1kZiuG4X"
     },
     {
       "album": {

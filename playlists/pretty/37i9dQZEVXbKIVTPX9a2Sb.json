@@ -1,10 +1,10 @@
 {
   "description": "Your daily update of the most played tracks right now - Slovakia.",
   "name": "Top 50 - Slovakia",
-  "snapshot_id": "NjkzNDgwMDUxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NjkzNTc5NTYzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "KF ako Rolls",
         "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
@@ -20,43 +20,23 @@
       "url": "https://open.spotify.com/track/2KUTDIXO3sxrR5FJw6AndI"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
       "artists": [
         {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 214480,
-      "name": "CHROME HEARTS FREESTYLE",
-      "url": "https://open.spotify.com/track/4fnNRt3b36mTZK1o9QSWHK"
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Ego",
-          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "VID\u00cdM JAK SA NA M\u0147A POZER\u00c1\u0160",
-      "url": "https://open.spotify.com/track/07FyKVdi7YUlJry42sqFKm"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -76,23 +56,23 @@
       "url": "https://open.spotify.com/track/7vChidrSd5frTCwEHtsEck"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 214480,
+      "name": "CHROME HEARTS FREESTYLE",
+      "url": "https://open.spotify.com/track/4fnNRt3b36mTZK1o9QSWHK"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -108,7 +88,63 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "VID\u00cdM JAK SA NA M\u0147A POZER\u00c1\u0160",
+      "url": "https://open.spotify.com/track/07FyKVdi7YUlJry42sqFKm"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "DE\u0147 STRIEDA TMU",
+      "url": "https://open.spotify.com/track/5Ggd7fuG8ya7OnMELNkDtF"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "KF ako Rolls",
         "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
@@ -124,7 +160,39 @@
       "url": "https://open.spotify.com/track/735kL7IzM3RPxKEYhzeJRJ"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Vysp\u00edm Sa A\u017e v Hrobe",
+      "url": "https://open.spotify.com/track/5mDaUSsAznZOrUTmP86uAv"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "KF ako Rolls",
         "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
@@ -152,107 +220,7 @@
       "url": "https://open.spotify.com/track/1r2ekOnBhxmBHsPZD4LDOM"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "DE\u0147 STRIEDA TMU",
-      "url": "https://open.spotify.com/track/5Ggd7fuG8ya7OnMELNkDtF"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Vysp\u00edm Sa A\u017e v Hrobe",
-      "url": "https://open.spotify.com/track/5mDaUSsAznZOrUTmP86uAv"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 155374,
-      "name": "\u010co Vie\u0161 O",
-      "url": "https://open.spotify.com/track/3No5hUUXV2nDFdcd7dNS9x"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Nechcem By\u0165 Mlad\u00fd",
-      "url": "https://open.spotify.com/track/341rbmTPUuvv5LTnbRRUd2"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "In\u00ed",
-      "url": "https://open.spotify.com/track/0eXlhafitIbMzPqhGhCLVI"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -272,7 +240,103 @@
       "url": "https://open.spotify.com/track/2KnTkLoq0MZKIR8GrCdUCH"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 155374,
+      "name": "\u010co Vie\u0161 O",
+      "url": "https://open.spotify.com/track/3No5hUUXV2nDFdcd7dNS9x"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "In\u00ed",
+      "url": "https://open.spotify.com/track/0eXlhafitIbMzPqhGhCLVI"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Nechcem By\u0165 Mlad\u00fd",
+      "url": "https://open.spotify.com/track/341rbmTPUuvv5LTnbRRUd2"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "KF ako Rolls",
         "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
@@ -288,55 +352,23 @@
       "url": "https://open.spotify.com/track/5zxcBINbJUGeHVxUPlpopA"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+        "name": "hiSTORY",
+        "url": "https://open.spotify.com/album/45GYZLb0L7kl8Fiwq7Gblh"
       },
       "artists": [
         {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+          "name": "I.M.T. Smile",
+          "url": "https://open.spotify.com/artist/5RWHGrgwCmIrv1EJlYGIIl"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Ja Som \u0164a Varoval",
-      "url": "https://open.spotify.com/track/2J8opqmw0A6XPI2wIA8DnB"
+      "duration_ms": 183040,
+      "name": "Najkraj\u0161ie Vianoce",
+      "url": "https://open.spotify.com/track/6FNtYbye5zc3u15hex7H5V"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/5Lpq01Fo4KMCRnIguuZuN1"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "XX",
-      "url": "https://open.spotify.com/track/4GlbRt9MEKimoj1zZrdAWb"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -364,39 +396,7 @@
       "url": "https://open.spotify.com/track/5BBnjiqknqdUPBNtfJgm5W"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Nezab\u00fadam Odkial Som",
-      "url": "https://open.spotify.com/track/4lor9yrHzz5Yl3yMtNuJ2t"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "HUHU",
         "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
@@ -412,39 +412,7 @@
       "url": "https://open.spotify.com/track/2Q61UcssSrHuCEpwmwj9ZB"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "FOYER",
-      "url": "https://open.spotify.com/track/7GT9Y7tOMfzEDn6a7he8Fj"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -472,55 +440,103 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
+        "name": "My Name Is Jos\u00e9 Feliciano",
+        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
       },
       "artists": [
         {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 249009,
-      "name": "Titanic",
-      "url": "https://open.spotify.com/track/0a0rFs14fzUpMRsHjilJjH"
+      "duration_ms": 182306,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
         }
       ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+      "duration_ms": 145500,
+      "name": "Ja Som \u0164a Varoval",
+      "url": "https://open.spotify.com/track/2J8opqmw0A6XPI2wIA8DnB"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
       "artists": [
         {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 208646,
-      "name": "Tane\u010dn\u00e1 pesni\u010dka",
-      "url": "https://open.spotify.com/track/2lT4GhI1ol6w0OrW1drWvZ"
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "duration_ms": 152369,
+      "name": "FOYER",
+      "url": "https://open.spotify.com/track/7GT9Y7tOMfzEDn6a7he8Fj"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/5Lpq01Fo4KMCRnIguuZuN1"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 119000,
+      "name": "XX",
+      "url": "https://open.spotify.com/track/4GlbRt9MEKimoj1zZrdAWb"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -544,7 +560,7 @@
       "url": "https://open.spotify.com/track/5RVpaJ69zRKkaU1sCs8pBh"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
@@ -564,299 +580,23 @@
       "url": "https://open.spotify.com/track/2NLTNNTLrlIunoHr8KsnUb"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+        "name": "Lojzo IV",
+        "url": "https://open.spotify.com/album/2Lw7vRoNDLaRrMC13DzkUn"
       },
       "artists": [
         {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
-        },
-        {
-          "name": "Kuky Band",
-          "url": "https://open.spotify.com/artist/01urjUhOjvEkuhQVlyANKv"
+          "name": "Lojzo",
+          "url": "https://open.spotify.com/artist/0F2Rp11bhMEtedfjoMh90L"
         }
       ],
-      "duration_ms": 240588,
-      "name": "\u010calam\u00e1da",
-      "url": "https://open.spotify.com/track/7cztzISDJriiWfFrSpNyv1"
+      "duration_ms": 267533,
+      "name": "Ka\u017ed\u00fd de\u0148 bud\u00fa vraj Vianoce",
+      "url": "https://open.spotify.com/track/6dlkr04x93THYt2Cklv91b"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 193021,
-      "name": "KF Ako Rolls",
-      "url": "https://open.spotify.com/track/0BfeQsL03NQnuv8M4NkKqw"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Richard Muller",
-          "url": "https://open.spotify.com/artist/2jldyAonkBDiBG0cNtLgZz"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "MAL\u00dd K\u00daSOK NEHY",
-      "url": "https://open.spotify.com/track/6lohDHI2ZBn3M48Cc2MbhJ"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "hiSTORY",
-        "url": "https://open.spotify.com/album/45GYZLb0L7kl8Fiwq7Gblh"
-      },
-      "artists": [
-        {
-          "name": "I.M.T. Smile",
-          "url": "https://open.spotify.com/artist/5RWHGrgwCmIrv1EJlYGIIl"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Najkraj\u0161ie Vianoce",
-      "url": "https://open.spotify.com/track/6FNtYbye5zc3u15hex7H5V"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Rytmus",
-          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "V PODZEM\u00cd FREESTYLE",
-      "url": "https://open.spotify.com/track/2dRXI14jEUYGz04ZU086ol"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "HUHU",
-        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
-      },
-      "artists": [
-        {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Logd\u00e1n",
-      "url": "https://open.spotify.com/track/4PoKyatH01EgoKXjeGjNDK"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        }
-      ],
-      "duration_ms": 222806,
-      "name": "ODS\u00daDEN\u00cd NA \u00daSPECH - INTRO",
-      "url": "https://open.spotify.com/track/28Rj8gXEFNef5bCO7aJ8Lh"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Palermo",
-          "url": "https://open.spotify.com/artist/1Gy31Couy5B3s2S0sITxSe"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "ST\u00c1LE M\u00c1LO",
-      "url": "https://open.spotify.com/track/6qSQTd2AUmsO9HP49EVc0Y"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        },
-        {
-          "name": "Tripp",
-          "url": "https://open.spotify.com/artist/2l7Hqp4yBl3lm1uWUkToYf"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Pome",
-      "url": "https://open.spotify.com/track/3Q5PU362Dl8sllqtNDuww2"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "My Name Is Jos\u00e9 Feliciano",
-        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Bohyne",
-      "url": "https://open.spotify.com/track/68uIfEARNrfZvOw5c5bNuY"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
@@ -876,20 +616,280 @@
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
     },
     {
-      "added_at": "2021-12-22 09:20:51",
+      "added_at": "2021-12-23 12:59:23",
       "album": {
-        "name": "Lojzo IV",
-        "url": "https://open.spotify.com/album/2Lw7vRoNDLaRrMC13DzkUn"
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
       },
       "artists": [
         {
-          "name": "Lojzo",
-          "url": "https://open.spotify.com/artist/0F2Rp11bhMEtedfjoMh90L"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 267533,
-      "name": "Ka\u017ed\u00fd de\u0148 bud\u00fa vraj Vianoce",
-      "url": "https://open.spotify.com/track/6dlkr04x93THYt2Cklv91b"
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Dobr\u00fd \u010casy",
+        "url": "https://open.spotify.com/album/4qbUWnbj76iuu7ginVhEX6"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1clav Neck\u00e1\u0159",
+          "url": "https://open.spotify.com/artist/2pexGBYCYZadfQvlrmvjGt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "P\u016flno\u010dn\u00ed",
+      "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Nezab\u00fadam Odkial Som",
+      "url": "https://open.spotify.com/track/4lor9yrHzz5Yl3yMtNuJ2t"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
+      "duration_ms": 208646,
+      "name": "Tane\u010dn\u00e1 pesni\u010dka",
+      "url": "https://open.spotify.com/track/2lT4GhI1ol6w0OrW1drWvZ"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        },
+        {
+          "name": "Kuky Band",
+          "url": "https://open.spotify.com/artist/01urjUhOjvEkuhQVlyANKv"
+        }
+      ],
+      "duration_ms": 240588,
+      "name": "\u010calam\u00e1da",
+      "url": "https://open.spotify.com/track/7cztzISDJriiWfFrSpNyv1"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "HUHU",
+        "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
+      },
+      "artists": [
+        {
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/74T1WwwA8A9fXkT3jhk49D"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Logd\u00e1n",
+      "url": "https://open.spotify.com/track/4PoKyatH01EgoKXjeGjNDK"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Richard Muller",
+          "url": "https://open.spotify.com/artist/2jldyAonkBDiBG0cNtLgZz"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "MAL\u00dd K\u00daSOK NEHY",
+      "url": "https://open.spotify.com/track/6lohDHI2ZBn3M48Cc2MbhJ"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "duration_ms": 249009,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/0a0rFs14fzUpMRsHjilJjH"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Rytmus",
+          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "V PODZEM\u00cd FREESTYLE",
+      "url": "https://open.spotify.com/track/2dRXI14jEUYGz04ZU086ol"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "duration_ms": 222806,
+      "name": "ODS\u00daDEN\u00cd NA \u00daSPECH - INTRO",
+      "url": "https://open.spotify.com/track/28Rj8gXEFNef5bCO7aJ8Lh"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Palermo",
+          "url": "https://open.spotify.com/artist/1Gy31Couy5B3s2S0sITxSe"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "ST\u00c1LE M\u00c1LO",
+      "url": "https://open.spotify.com/track/6qSQTd2AUmsO9HP49EVc0Y"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Tripp",
+          "url": "https://open.spotify.com/artist/2l7Hqp4yBl3lm1uWUkToYf"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Pome",
+      "url": "https://open.spotify.com/track/3Q5PU362Dl8sllqtNDuww2"
+    },
+    {
+      "added_at": "2021-12-23 12:59:23",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 193021,
+      "name": "KF Ako Rolls",
+      "url": "https://open.spotify.com/track/0BfeQsL03NQnuv8M4NkKqw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKIVTPX9a2Sb"

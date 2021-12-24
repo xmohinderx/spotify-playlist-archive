@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "My Mother the Moon",
+        "url": "https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P"
+      },
+      "artists": [
+        {
+          "name": "Dead Horses",
+          "url": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "A Petal Here, a Petal There",
+      "url": "https://open.spotify.com/track/4i3QIg75ryI3X7N06zlhiI"
+    },
+    {
+      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
@@ -95,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Answers (Acoustic)",
+        "url": "https://open.spotify.com/album/7dUwxuMBTGEprZv2i06YyN"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190229,
+      "name": "Answers (Acoustic)",
+      "url": "https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz"
+    },
+    {
+      "album": {
         "name": "Because I Wanted You to Know",
         "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
       },
@@ -168,7 +204,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167164,
       "name": "Before You",
       "url": "https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv"
@@ -222,7 +258,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
@@ -312,7 +348,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
@@ -564,6 +600,24 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/2ehQ2UuXplkqly0XBBAPud"
+    },
+    {
+      "album": {
+        "name": "Wear Bluebells in Your Hat If You're Goin' That Way",
+        "url": "https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Desert Wine (Acoustic)",
+      "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
     },
     {
       "album": {
@@ -849,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Adaptations",
+        "url": "https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232825,
+      "name": "Go Tell a Bird",
+      "url": "https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB"
+    },
+    {
+      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -986,7 +1058,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 256006,
       "name": "Hello My Old Heart",
       "url": "https://open.spotify.com/track/2c62Xf5Po1YSa1N6LOjPHy"
@@ -1022,7 +1094,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 263133,
       "name": "Hold Me - Alternate Version",
       "url": "https://open.spotify.com/track/3JiqfgX20NPxT070KqaQV7"
@@ -1062,7 +1134,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 236618,
       "name": "Hollow (Acoustic)",
       "url": "https://open.spotify.com/track/1GIBQJItFW5tFPrilr6M6o"
@@ -1134,7 +1206,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 196640,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
@@ -1192,7 +1264,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190613,
       "name": "Hung the Moon",
       "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
@@ -1362,7 +1434,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206266,
       "name": "In Between",
       "url": "https://open.spotify.com/track/7jsdurLwZkppuDDhLPQ9IW"
@@ -1402,7 +1474,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
@@ -1420,7 +1492,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 163893,
       "name": "Keep 'Em on They Toes",
       "url": "https://open.spotify.com/track/5OXrQDOfnEp52MvMnAk7pp"
@@ -1597,6 +1669,42 @@
     },
     {
       "album": {
+        "name": "My Dreams Have All Come True",
+        "url": "https://open.spotify.com/album/3AJw8vTaNDueiiJ85duVxY"
+      },
+      "artists": [
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264407,
+      "name": "My Dreams Have All Come True",
+      "url": "https://open.spotify.com/track/2s1c8h4P4u1GxzNQFws648"
+    },
+    {
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "album": {
         "name": "Our Endless Numbered Days",
         "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
       },
@@ -1608,7 +1716,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 152626,
       "name": "Naked As We Came",
       "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
@@ -1770,7 +1878,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 189013,
       "name": "Now You Know",
       "url": "https://open.spotify.com/track/3vNt852RXNZB8PJsIf5P2E"
@@ -2069,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Putting on Airs",
+        "url": "https://open.spotify.com/album/0OFJxQS46LWCYJtE2MhFMl"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280986,
+      "name": "Putting on Airs",
+      "url": "https://open.spotify.com/track/08HL66o1xVAxrQkdUkMb7D"
+    },
+    {
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
       },
@@ -2213,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Moss",
+          "url": "https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151172,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
+    },
+    {
+      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -2307,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Seen a Ghost (Acoustic)",
+        "url": "https://open.spotify.com/album/6auqJbf1DlIYk9a7XYgMgX"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211430,
+      "name": "Seen a Ghost - Acoustic",
+      "url": "https://open.spotify.com/track/5la2ozbor0IXdyxb1UlIdS"
+    },
+    {
+      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -2390,7 +2552,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180706,
       "name": "Sorrow - Acoustic",
       "url": "https://open.spotify.com/track/0c5jwdFCYNXujjK785yYrI"
@@ -2592,7 +2754,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 264866,
       "name": "The Bear (Trio)",
       "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
@@ -2650,7 +2812,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/5Wvf91821sBE8aErRtpfRN"
@@ -2668,7 +2830,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/3zUBTeyqDS1GF1rFWZ8kvj"
@@ -2892,7 +3054,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227152,
       "name": "Tugboats",
       "url": "https://open.spotify.com/track/0o7UJe1SQW8kAPNSGU6FVY"
@@ -3076,7 +3238,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1b5Cgfs0La5peeZ7Sw7y6y"

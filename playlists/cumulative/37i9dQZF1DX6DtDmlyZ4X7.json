@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 133250,
       "name": "A Smile",
       "url": "https://open.spotify.com/track/6GuSaslGEKLW4vaJ1VINEH"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "A Winged Time",
       "url": "https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 136691,
       "name": "Adormitor",
       "url": "https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 189536,
       "name": "Am Arbersee",
       "url": "https://open.spotify.com/track/7LekCZ7Sx5an6lZnM5gnCw"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 162658,
       "name": "Aster",
       "url": "https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 133879,
       "name": "Beloved",
       "url": "https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 136750,
       "name": "Coulee Vert",
       "url": "https://open.spotify.com/track/5CocdKvyw8gpwdwOaZeVAw"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 191500,
       "name": "Dover",
       "url": "https://open.spotify.com/track/5OO8eMfRfnz1YbfQBww27q"
@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Esp\u00e9rer",
+        "url": "https://open.spotify.com/album/7erovFp7Y94PfsNwDhYcJm"
+      },
+      "artists": [
+        {
+          "name": "Lunete Guillory",
+          "url": "https://open.spotify.com/artist/77ZgHWAR9tmBMgQ759Qxgg"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Esp\u00e9rer",
+      "url": "https://open.spotify.com/track/41tIf2rMJfYKpsZpU0Mj5M"
+    },
+    {
+      "album": {
         "name": "Estebania",
         "url": "https://open.spotify.com/album/1wNGh4oE2iPQ7CgnPrbq4K"
       },
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 169783,
       "name": "Fidelity",
       "url": "https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr"
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 162000,
       "name": "Firmamentum Mysteria",
       "url": "https://open.spotify.com/track/42X3YAIxpCHm6YbNbvdMxO"
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 121228,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU"
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 209124,
       "name": "Franklin",
       "url": "https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 152470,
       "name": "Fugazy",
       "url": "https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf"
@@ -2472,7 +2490,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 187874,
       "name": "Hazel",
       "url": "https://open.spotify.com/track/0gGMapNpfOR8H4TSnI2HLH"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 147750,
       "name": "I Was Thinking",
       "url": "https://open.spotify.com/track/6nhqhyy74vnNf0Sg66Sdkf"
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 162307,
       "name": "Im Garten nebenan",
       "url": "https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ"
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212918,
       "name": "Knots",
       "url": "https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8"
@@ -3246,7 +3264,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194000,
       "name": "La Cosa Migliore Che So",
       "url": "https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF"
@@ -3318,7 +3336,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 133750,
       "name": "Landmannalaugar",
       "url": "https://open.spotify.com/track/7tEGou25bp3JObTEpfp2en"
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 128624,
       "name": "Lissome",
       "url": "https://open.spotify.com/track/3qU9MnwDlDHcZbhYwQ5i6L"
@@ -3786,7 +3804,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 134363,
       "name": "Loire",
       "url": "https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m"
@@ -4056,7 +4074,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 176187,
       "name": "Melopedie",
       "url": "https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT"
@@ -4236,7 +4254,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 169160,
       "name": "mondaufgang",
       "url": "https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg"
@@ -4344,7 +4362,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215500,
       "name": "My Mind Made Up",
       "url": "https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO"
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 147222,
       "name": "Naoko",
       "url": "https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU"
@@ -4524,7 +4542,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 142314,
       "name": "Nordic Dream",
       "url": "https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W"
@@ -4686,7 +4704,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 147390,
       "name": "Opening Up",
       "url": "https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf"
@@ -5316,7 +5334,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/5MfdSgLFVnTRysU8lNAoGt"
@@ -5568,7 +5586,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 121000,
       "name": "Rursee",
       "url": "https://open.spotify.com/track/37ov3WCGKkLizp4ahPHKNR"
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 176576,
       "name": "Sleeping Sunrise",
       "url": "https://open.spotify.com/track/5CN6iGSYvvIVb3trc1xXiu"
@@ -6018,7 +6036,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 150463,
       "name": "Small and Alone",
       "url": "https://open.spotify.com/track/4aTzC2cv9CFqtEiY3shp3d"
@@ -6198,7 +6216,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI"
@@ -6508,7 +6526,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 110465,
       "name": "The Moon Tells Me a Secret",
       "url": "https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64"
@@ -6652,7 +6670,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 126000,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/2aJlNzyFDh3j6GTBSDXdXZ"
@@ -7610,7 +7628,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198373,
       "name": "Zeit der Stille",
       "url": "https://open.spotify.com/track/0uP8U2GsVBIifLbVbvHRid"

@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "YELLOW",
+        "url": "https://open.spotify.com/album/4igVZxLMxQDV7D94RzW6cw"
+      },
+      "artists": [
+        {
+          "name": "KANG DANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6"
+    },
+    {
+      "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
       },
@@ -190,6 +208,24 @@
       "duration_ms": 194080,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
+    },
+    {
+      "album": {
+        "name": "Atlantis - The 7th Album Repackage",
+        "url": "https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178213,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN"
     },
     {
       "album": {
@@ -247,6 +283,24 @@
     },
     {
       "album": {
+        "name": "be",
+        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
+      },
+      "artists": [
+        {
+          "name": "EUNHYUK",
+          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229066,
+      "name": "be",
+      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
+    },
+    {
+      "album": {
         "name": "ONF:MY NAME",
         "url": "https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3"
       },
@@ -258,7 +312,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190560,
       "name": "Beautiful Beautiful",
       "url": "https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm"
@@ -410,7 +464,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 193080,
       "name": "Coin",
       "url": "https://open.spotify.com/track/7CZRguMolNqIobnXxpV735"
@@ -554,7 +608,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
@@ -590,7 +644,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 242333,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo"
@@ -869,6 +923,28 @@
     },
     {
       "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193263,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
+    },
+    {
+      "album": {
         "name": "I'm Not Cool",
         "url": "https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0"
       },
@@ -934,7 +1010,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197306,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
@@ -1118,7 +1194,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167040,
       "name": "Love Me (Level Up)",
       "url": "https://open.spotify.com/track/0x08oB09lbvR6Bu5YMuRwQ"
@@ -1417,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "FACE - The 1st Album",
+        "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190328,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
+    },
+    {
+      "album": {
         "name": "Paint Me Naked - SM STATION",
         "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
       },
@@ -1504,7 +1602,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 199524,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk"
@@ -1522,7 +1620,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195782,
       "name": "Promise",
       "url": "https://open.spotify.com/track/54z9tiaPu15pfkGSUwrOLI"
@@ -1620,6 +1718,24 @@
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201773,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL"
     },
     {
       "album": {
@@ -1746,7 +1862,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 244022,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191"
@@ -1804,7 +1920,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 199026,
       "name": "Summer or Summer",
       "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
@@ -2022,7 +2138,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 190050,
       "name": "Tie a Cherry",
       "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
@@ -2058,7 +2174,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 239066,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/3OnnEFB9kauV7O20nOCWpg"
@@ -2112,7 +2228,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 203933,
       "name": "Wave",
       "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
@@ -2130,7 +2246,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 221520,
       "name": "We DO",
       "url": "https://open.spotify.com/track/2y3RsLPUpPcMUdzluiJtNE"
@@ -2166,7 +2282,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 209074,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/4rv92w93ROUPu0ljeiNMoj"

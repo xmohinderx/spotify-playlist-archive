@@ -819,6 +819,42 @@
     },
     {
       "album": {
+        "name": "Rio De Los Sauces",
+        "url": "https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I"
+      },
+      "artists": [
+        {
+          "name": "Astrud Bonfa",
+          "url": "https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Rio De Los Sauces",
+      "url": "https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb"
+    },
+    {
+      "album": {
+        "name": "Rio Segundo",
+        "url": "https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU"
+      },
+      "artists": [
+        {
+          "name": "Serena Mendes",
+          "url": "https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Rio Segundo",
+      "url": "https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL"
+    },
+    {
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs"
       },

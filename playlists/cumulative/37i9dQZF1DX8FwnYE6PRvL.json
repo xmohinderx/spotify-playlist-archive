@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 158280,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/1PCA097woCMSDvZPUVeRI7"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 292580,
       "name": "Even Flow",
       "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 149466,
       "name": "I Wanna Be Sedated - 2002 Remaster",
       "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
@@ -722,6 +722,24 @@
       "duration_ms": 186448,
       "name": "Last Night a DJ Saved my Life",
       "url": "https://open.spotify.com/track/06VqOgAQvYTpZk6VpsDD20"
+    },
+    {
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "album": {
@@ -970,7 +988,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 191500,
       "name": "Roxanne - Remastered 2003",
       "url": "https://open.spotify.com/track/3FmAUR4SPWa3P1KyDf21Fu"
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"

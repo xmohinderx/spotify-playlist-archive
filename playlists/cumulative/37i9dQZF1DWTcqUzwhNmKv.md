@@ -2,7 +2,7 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Three Days Grace on top of the biggest Metal playlist!
+> Slipknot on top of the biggest Metal playlist!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 222040,
       "name": "A Pair Of Brown Eyes",
       "url": "https://open.spotify.com/track/6ayUfc9EndL7Eg9VYApdHC"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208186,
       "name": "Around Again",
       "url": "https://open.spotify.com/track/0aJYQMcaTllmYx0w1Muym2"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 179306,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 239421,
       "name": "Bed Song 1",
       "url": "https://open.spotify.com/track/5XnQnpRRXZQbJ2PcvvuWp2"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 173008,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 266027,
       "name": "Dirty River",
       "url": "https://open.spotify.com/track/098PK6UQu7cXdSpkRnxBnC"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 269853,
       "name": "Don\u2019t Slow Me Down (feat. Bonnie Prince Billy)",
       "url": "https://open.spotify.com/track/21dLiJG5xpbs4CBkV9RZiI"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 255567,
       "name": "Eskimo Coat",
       "url": "https://open.spotify.com/track/5X5r8A2dpAiJVvFrupBxDZ"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 328120,
       "name": "Everything Looks Better (In Hindsight)",
       "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/6NVYRzj9dmzhycJ5rHESgA"
+      },
+      "artists": [
+        {
+          "name": "Cereus Bright",
+          "url": "https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243693,
+      "name": "Family Ties",
+      "url": "https://open.spotify.com/track/73ZQCTe2Fcu5E3hbOcX1e9"
+    },
+    {
+      "album": {
         "name": "Farm b/w Lift",
         "url": "https://open.spotify.com/album/532dE80TPKy26bmbG0B7cv"
       },
@@ -981,6 +999,24 @@
     },
     {
       "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252960,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "album": {
         "name": "Sundry Rock Song Stock",
         "url": "https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy"
       },
@@ -992,7 +1028,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 223761,
       "name": "For Props",
       "url": "https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99"
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 233533,
       "name": "Hear It Again",
       "url": "https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU"
@@ -1194,6 +1230,24 @@
       "duration_ms": 167173,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5m6VfXYeZVBj5JDeaOlQMX"
+    },
+    {
+      "album": {
+        "name": "Ready Reckoner",
+        "url": "https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258141,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4"
     },
     {
       "album": {
@@ -1288,6 +1342,24 @@
       "duration_ms": 203786,
       "name": "I Already Love You",
       "url": "https://open.spotify.com/track/5LnoFWBShDRuEqd7VqduGB"
+    },
+    {
+      "album": {
+        "name": "Rock N' Roll Ain't for Me",
+        "url": "https://open.spotify.com/album/7EYxXB1MfMwdmwV123RInX"
+      },
+      "artists": [
+        {
+          "name": "Kate Rhudy",
+          "url": "https://open.spotify.com/artist/4SvVZW9Hpl9QBXGo7THYXe"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258946,
+      "name": "I Don't Think You're an Angel (Anymore)",
+      "url": "https://open.spotify.com/track/6Hbt5RBxPN1QBvNdlyGMuO"
     },
     {
       "album": {
@@ -1390,7 +1462,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 174465,
       "name": "It's Infinite",
       "url": "https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca"
@@ -1470,6 +1542,24 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "album": {
+        "name": "Labyrinth (Acoustic)",
+        "url": "https://open.spotify.com/album/0WrzbcELAPL6BA3vsBC1Bo"
+      },
+      "artists": [
+        {
+          "name": "A Blaze of Feather",
+          "url": "https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Labyrinth - Acoustic",
+      "url": "https://open.spotify.com/track/3RndHxmIeOlcqihe5bV3gq"
     },
     {
       "album": {
@@ -1618,7 +1708,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 322521,
       "name": "Lost in the Country",
       "url": "https://open.spotify.com/track/77XbmhGmIedQyragDU6cq3"
@@ -1676,7 +1766,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208854,
       "name": "Market and Black (feat. Tennis)",
       "url": "https://open.spotify.com/track/7bSOlKTFSgS1zTRfPNaOZw"
@@ -1694,7 +1784,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 240954,
       "name": "Masterpiece - (solo)",
       "url": "https://open.spotify.com/track/5cic8eTn6twPA0ArO8zcjR"
@@ -1730,7 +1820,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 278876,
       "name": "Memorial",
       "url": "https://open.spotify.com/track/1sXdly4AscLh38opR7AkAN"
@@ -1784,7 +1874,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 259088,
       "name": "Money (Hymn)",
       "url": "https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB"
@@ -1940,7 +2030,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 367706,
       "name": "One With The Birds",
       "url": "https://open.spotify.com/track/3V435gJhrhScmr8P3m9hBV"
@@ -1976,10 +2066,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 224000,
       "name": "Pain Shifter",
       "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
+    },
+    {
+      "album": {
+        "name": "L\u00e9g\u00e8rement",
+        "url": "https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195494,
+      "name": "Paula Collins",
+      "url": "https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D"
     },
     {
       "album": {
@@ -2114,7 +2222,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 154693,
       "name": "Resist the Urge",
       "url": "https://open.spotify.com/track/1ibmvtXJCzpo9LRbzBc3NZ"
@@ -2150,7 +2258,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 155530,
       "name": "Roll Back Your Clocks",
       "url": "https://open.spotify.com/track/5zNRi0V5CoFoubQV4irWZ2"
@@ -2186,7 +2294,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213666,
       "name": "Rose Petals",
       "url": "https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7"
@@ -2240,7 +2348,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229226,
       "name": "She Burns",
       "url": "https://open.spotify.com/track/4MbeEkEuBRe6l5ksYXqNXb"
@@ -2280,7 +2388,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
@@ -2374,7 +2482,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 228866,
       "name": "Still Life (feat. Joseph)",
       "url": "https://open.spotify.com/track/2Qj1pOoYSCjLDgxMKffGuS"
@@ -2598,7 +2706,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 172568,
       "name": "The Desperate Kingdom of Love",
       "url": "https://open.spotify.com/track/7ulI3Txmmm5YwuxVhvT7b5"
@@ -2814,7 +2922,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 200880,
       "name": "Tom",
       "url": "https://open.spotify.com/track/0ClifBzp6YrXxr0ZhegGT4"
@@ -3034,7 +3142,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Wheels Roll Home",
       "url": "https://open.spotify.com/track/1wd0u072G276gdTtWLqkK2"

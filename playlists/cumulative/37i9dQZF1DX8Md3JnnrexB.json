@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
@@ -182,10 +182,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 264573,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/2RGKedU9P3odTAxhlho0lJ"
+    },
+    {
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278040,
+      "name": "After the Love Has Gone",
+      "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
     },
     {
       "album": {
@@ -342,7 +360,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 216666,
       "name": "Baby, Come To Me",
       "url": "https://open.spotify.com/track/6sie6gBxTyeelQdKrHPL84"
@@ -364,7 +382,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 244640,
       "name": "Be Here in Te Morning",
       "url": "https://open.spotify.com/track/3uaCC1kjEA6PmDcCR23Iha"
@@ -400,7 +418,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 326800,
       "name": "Biggest Part of Me - Remastered Version",
       "url": "https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0"
@@ -544,7 +562,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 363546,
       "name": "Do It To Me",
       "url": "https://open.spotify.com/track/0NuQUoVm6N9raaMbQHC2jX"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 290306,
       "name": "Don't Ask My Neighbor",
       "url": "https://open.spotify.com/track/55HnSyUENRJAnAGEFjwYb0"
@@ -584,10 +602,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 243480,
       "name": "Don't Look Any Further - Single Version",
       "url": "https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl"
+      },
+      "artists": [
+        {
+          "name": "Bea Anderson",
+          "url": "https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210546,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T"
     },
     {
       "album": {
@@ -602,7 +638,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 351466,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
@@ -678,7 +714,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 274693,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/5QuBsgbjQHpwfiV7aIwvQV"
@@ -812,6 +848,24 @@
       "duration_ms": 245560,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "album": {
@@ -956,7 +1010,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
@@ -992,7 +1046,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
@@ -1046,7 +1100,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
@@ -1172,7 +1226,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 312800,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/5KtD1GHBO8kXlvl4giutxu"
@@ -1244,7 +1298,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202066,
       "name": "Love, Love, Love",
       "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
@@ -1316,7 +1370,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 193573,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
@@ -1370,7 +1424,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 270253,
       "name": "Mine All Mine",
       "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
@@ -1486,6 +1540,24 @@
       "duration_ms": 283053,
       "name": "New York Eyes",
       "url": "https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh"
+    },
+    {
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/6QRiOSB53KZEe22LfWr6EP"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306560,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
     },
     {
       "album": {
@@ -1612,7 +1684,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 155506,
       "name": "Pure Love - Single Version",
       "url": "https://open.spotify.com/track/04fl3MpMyozWgWQ76Cp1pz"
@@ -1742,7 +1814,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 395493,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c"
@@ -1840,7 +1912,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
@@ -1934,7 +2006,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
@@ -1974,7 +2046,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178626,
       "name": "Too Much, Too Little, Too Late (with Deniece Williams)",
       "url": "https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm"
@@ -2046,7 +2118,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 238158,
       "name": "Valentine Love (Slow Version)",
       "url": "https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap"
@@ -2082,7 +2154,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 318493,
       "name": "When I Found You - Remastered Version",
       "url": "https://open.spotify.com/track/1jYlt6nF4Oxbg02PsBk9BU"
@@ -2118,7 +2190,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
@@ -2256,7 +2328,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 329720,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/1Rr223L47oym6yWVg39CgA"

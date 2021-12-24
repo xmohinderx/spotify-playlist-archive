@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Basquiat",
+        "url": "https://open.spotify.com/album/201wBJfMJljHsEJ3Gt0AZt"
+      },
+      "artists": [
+        {
+          "name": "Milano The Don",
+          "url": "https://open.spotify.com/artist/7lFbga7DROfkuO5gmC8Z6h"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153616,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/1YAl8UoW0jppOPAGugF2Kr"
+    },
+    {
+      "album": {
         "name": "Been That Ill",
         "url": "https://open.spotify.com/album/4d8MRjTHpXtJcDmbaj2OVG"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 175304,
       "name": "Been That Ill",
       "url": "https://open.spotify.com/track/0ksOXKdoU7tm5maWw2Oe2T"
@@ -318,7 +336,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 303517,
       "name": "Diamond Chain",
       "url": "https://open.spotify.com/track/60svIMvs5qsqcrQcqoPbXp"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 223448,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6OsdOBA7VE0ZYzV99CRutB"
@@ -684,7 +702,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 188181,
       "name": "Front To Back - Bassnectar Remix",
       "url": "https://open.spotify.com/track/7e0fO3VlPSkbpha0A9olGS"
@@ -909,6 +927,24 @@
     },
     {
       "album": {
+        "name": "I Got Tha EP",
+        "url": "https://open.spotify.com/album/2HrJlQnPaxkXF5ITeV5vqP"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216827,
+      "name": "I Got Tha",
+      "url": "https://open.spotify.com/track/2RfIvDkzZ0d11fpT1FYBcd"
+    },
+    {
+      "album": {
         "name": "In Da Trap",
         "url": "https://open.spotify.com/album/4azEDdUz90VFhaut17Ag8f"
       },
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 189133,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/1NhilkWAvuOHN3c0m88N98"
@@ -1062,7 +1098,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229863,
       "name": "Just Enough",
       "url": "https://open.spotify.com/track/6O7EqSCpQTiU8GECX1KDIA"
@@ -1110,7 +1146,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 325720,
       "name": "Lights Go Down - Peekaboo Remix",
       "url": "https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs"
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192022,
       "name": "Lowkey (feat. Lil Traffic)",
       "url": "https://open.spotify.com/track/0PCCk7RBQUE7RsoUq66nuW"
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 159036,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3n43IT3mrmAr2haV5J28t6"
@@ -1394,7 +1430,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 235011,
       "name": "Neck Crack Flashback",
       "url": "https://open.spotify.com/track/6aBsZrg7hCNwF8y67QMVtx"
@@ -1518,10 +1554,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 206086,
       "name": "Nothing Less",
       "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/4ePrBbPSL2DoSyjqfH4aKX"
+      },
+      "artists": [
+        {
+          "name": "Calli Boom",
+          "url": "https://open.spotify.com/artist/04zCREDDJRY1WfSGW5h9E8"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175208,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/1YbYFYLlJvqcuEnawPyxlD"
     },
     {
       "album": {
@@ -1536,7 +1590,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210008,
       "name": "Octavia",
       "url": "https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q"
@@ -1920,7 +1974,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/6y3jQ1n5P4z1DAtHd7HWcV"
@@ -1946,7 +2000,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
@@ -2070,7 +2124,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 268800,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/3DLvDnN0C8pAHpCZK0H9kK"
@@ -2310,7 +2364,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191150,
       "name": "U Nasty",
       "url": "https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw"
@@ -2328,7 +2382,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182181,
       "name": "ULTRAMAGNET",
       "url": "https://open.spotify.com/track/5fz7jzEkp9Hxh9kZewWVCU"

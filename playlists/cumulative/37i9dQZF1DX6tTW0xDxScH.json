@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 201653,
       "name": "Golden",
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258053,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/04RdUAbN5UAM0cHTVD1kCv"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 188080,
       "name": "Line of Fire",
       "url": "https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G"
@@ -890,7 +890,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186760,
       "name": "Our Breath",
       "url": "https://open.spotify.com/track/0Ia3BtutPx8e961q8XEQTr"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 256151,
       "name": "scared",
       "url": "https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "So Simpatico",
+        "url": "https://open.spotify.com/album/3zYV1m13U6jzMOXti7LExE"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185880,
+      "name": "So Simpatico - Edit",
+      "url": "https://open.spotify.com/track/15CBxblxWjCBGLLlUtAj6d"
+    },
+    {
+      "album": {
         "name": "Sorry I Am",
         "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 169600,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0YhOZRW1MdlRpXh6TpBDx3"
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 273866,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214643,
       "name": "Timing",
       "url": "https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z"
@@ -1598,6 +1616,24 @@
       "duration_ms": 229666,
       "name": "Woman",
       "url": "https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220887,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6tTW0xDxScH"

@@ -1347,6 +1347,32 @@
     },
     {
       "album": {
+        "name": "Get Down Saturday Night",
+        "url": "https://open.spotify.com/album/6U20fA3e0M2bW85LTdgcW6"
+      },
+      "artists": [
+        {
+          "name": "Gorgon Breath",
+          "url": "https://open.spotify.com/artist/3NNV3EiqQ63gCWXGt5jMCO"
+        },
+        {
+          "name": "Monartt",
+          "url": "https://open.spotify.com/artist/5ABls0cOLH2fiOLy1Dgb4k"
+        },
+        {
+          "name": "Eliza",
+          "url": "https://open.spotify.com/artist/6eBonJaPKRFJ6wdNkppylP"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138006,
+      "name": "Get Down Saturday Night",
+      "url": "https://open.spotify.com/track/6eXKCcEqAU4eJLfDgh8sfG"
+    },
+    {
+      "album": {
         "name": "Distinction EP",
         "url": "https://open.spotify.com/album/0xiqgV5gVnjsKVWpBqXyaO"
       },

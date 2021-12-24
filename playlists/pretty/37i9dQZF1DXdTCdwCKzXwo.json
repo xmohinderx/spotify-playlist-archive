@@ -1,24 +1,8 @@
 {
   "description": "Classic alternative. These early pioneers brought the underground to the foreground. Cover: Lou Reed",
   "name": "Early Alternative",
-  "snapshot_id": "MTY0MDIyMDEzNywwMDAwMDAwMDU4YjU0OTIyNDdhOTQ4ZWFjYTYwMjAwZjZjYjMwNTQ0",
+  "snapshot_id": "MTY0MDMwNjQ5MSwwMDAwMDAwMDMwNTliMzhiODcwMTk1MDZkN2I2MDcxOTRmMTc0MDMz",
   "tracks": [
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Love Will Tear Us Apart - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF"
-    },
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
@@ -34,6 +18,22 @@
       "duration_ms": 406986,
       "name": "How Soon Is Now? - 2008 Remaster",
       "url": "https://open.spotify.com/track/5gXlabehojXdqcfFN8ncey"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 204621,
+      "name": "Love Will Tear Us Apart - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -54,54 +54,6 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Songs to Learn & Sing",
-        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Their Satanic Majesties' Second Request",
-        "url": "https://open.spotify.com/album/4gqN2P5LBzwxKNxt8BmZCH"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 334466,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/3aKYOA44zbBRWJ8FqzwAt9"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Power Corruption and Lies",
-        "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 315333,
-      "name": "Age of Consent - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
         "name": "Loaded: The Fully Loaded Edition",
         "url": "https://open.spotify.com/album/2j0dCo4JZEqWR4497WI1JA"
       },
@@ -114,70 +66,6 @@
       "duration_ms": 285653,
       "name": "Rock & Roll",
       "url": "https://open.spotify.com/track/6zICqQ6f7w1sF0FYqQleUl"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Marquee Moon / Adventure / Live at the Waldorf: The Complete Elektra Recordings Plus Liner Notes",
-        "url": "https://open.spotify.com/album/2tdeBxBeTVOl95UqS5vV9P"
-      },
-      "artists": [
-        {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
-        }
-      ],
-      "duration_ms": 645000,
-      "name": "Marquee Moon - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3MWdMCAIFPzcIUdiEi8Pao"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -198,34 +86,50 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Death To The Pixies",
-        "url": "https://open.spotify.com/album/718KJ6VFOdcqCFCWykJKoG"
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         }
       ],
-      "duration_ms": 231666,
-      "name": "Where Is My Mind?",
-      "url": "https://open.spotify.com/track/5BP0oaQ1VhuaznT77CBXQp"
+      "duration_ms": 244586,
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
     },
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "The Very Best Of The Velvet Underground",
-        "url": "https://open.spotify.com/album/344S0YTvALBtF2Aq2EsJWy"
+        "name": "Power Corruption and Lies",
+        "url": "https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
         }
       ],
-      "duration_ms": 245666,
-      "name": "Sweet Jane",
-      "url": "https://open.spotify.com/track/4Xne0YjYaY1MtP74svE08d"
+      "duration_ms": 315333,
+      "name": "Age of Consent - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Songs to Learn & Sing",
+        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -246,6 +150,170 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
+        "name": "Their Satanic Majesties' Second Request",
+        "url": "https://open.spotify.com/album/4gqN2P5LBzwxKNxt8BmZCH"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 334466,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/3aKYOA44zbBRWJ8FqzwAt9"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "The Very Best Of The Velvet Underground",
+        "url": "https://open.spotify.com/album/344S0YTvALBtF2Aq2EsJWy"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Sweet Jane",
+      "url": "https://open.spotify.com/track/4Xne0YjYaY1MtP74svE08d"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "Autumn Sweater",
+      "url": "https://open.spotify.com/track/4R7kumtHnf5SsKyPYrVO5r"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Marquee Moon / Adventure / Live at the Waldorf: The Complete Elektra Recordings Plus Liner Notes",
+        "url": "https://open.spotify.com/album/2tdeBxBeTVOl95UqS5vV9P"
+      },
+      "artists": [
+        {
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
+        }
+      ],
+      "duration_ms": 645000,
+      "name": "Marquee Moon - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3MWdMCAIFPzcIUdiEi8Pao"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Death To The Pixies",
+        "url": "https://open.spotify.com/album/718KJ6VFOdcqCFCWykJKoG"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Where Is My Mind?",
+      "url": "https://open.spotify.com/track/5BP0oaQ1VhuaznT77CBXQp"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/4Yw5uS8at8GkWmH2gZmLY0"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 270146,
+      "name": "Cosmic Dancer",
+      "url": "https://open.spotify.com/track/0Z2fQ0Avroujey7uTEmMTP"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Best of Bowie",
+        "url": "https://open.spotify.com/album/1jdQFC3s8PZUc5i7vovZTv"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Changes - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6rG4bDP9eK16QTtVQKw9zZ"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3KoIFNd54AAr1RiS9GOzE4"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 432680,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/5wWvavjmqH3LpYKSgw9E92"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
         "name": "Daydream Nation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
       },
@@ -258,6 +326,22 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6NII6OnGzd07nDw5o7Secq"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/2gOaGuy7ZlfVDSnTfPkxpH"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -326,70 +410,66 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "I Can Hear The Heart Beating As One",
-        "url": "https://open.spotify.com/album/3NFNNMIWnByvVPvCf7LsRU"
+        "name": "Entertainment! (Expanded & Remastered) [US Release]",
+        "url": "https://open.spotify.com/album/3ZWcrEHw7bkgEJMyvMLGrO"
       },
       "artists": [
         {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
         }
       ],
-      "duration_ms": 318373,
-      "name": "Autumn Sweater",
-      "url": "https://open.spotify.com/track/4R7kumtHnf5SsKyPYrVO5r"
+      "duration_ms": 206733,
+      "name": "Damaged Goods - Remastered",
+      "url": "https://open.spotify.com/track/2iQvYaOlUcuVgczMtRvAcV"
     },
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6NII6OnGzd07nDw5o7Secq"
+        "name": "Let It Be (Expanded)",
+        "url": "https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
         }
       ],
-      "duration_ms": 220426,
-      "name": "The Lovecats",
-      "url": "https://open.spotify.com/track/2gOaGuy7ZlfVDSnTfPkxpH"
+      "duration_ms": 190853,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/3fnL2JDgy4QD04araOl0eY"
     },
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/4Yw5uS8at8GkWmH2gZmLY0"
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 270146,
-      "name": "Cosmic Dancer",
-      "url": "https://open.spotify.com/track/0Z2fQ0Avroujey7uTEmMTP"
+      "duration_ms": 351626,
+      "name": "Common People",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
-      "added_at": "2018-12-14 16:14:38",
+      "added_at": "2019-12-17 17:51:04",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3KoIFNd54AAr1RiS9GOzE4"
+        "name": "The Bela Session",
+        "url": "https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 432680,
-      "name": "Heroin",
-      "url": "https://open.spotify.com/track/5wWvavjmqH3LpYKSgw9E92"
+      "duration_ms": 576703,
+      "name": "Bela Lugosi's Dead (Official Version)",
+      "url": "https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -410,6 +490,22 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
         "name": "Without A Sound",
         "url": "https://open.spotify.com/album/0u6BE2zLv1vBqe5hu92rse"
       },
@@ -426,34 +522,18 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Best of Bowie",
-        "url": "https://open.spotify.com/album/1jdQFC3s8PZUc5i7vovZTv"
+        "name": "Paris 1919",
+        "url": "https://open.spotify.com/album/4KdEMeJZeYMVDoEvJSnwuj"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Changes - 1999 Remaster",
-      "url": "https://open.spotify.com/track/6rG4bDP9eK16QTtVQKw9zZ"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Entertainment! (Expanded & Remastered) [US Release]",
-        "url": "https://open.spotify.com/album/3ZWcrEHw7bkgEJMyvMLGrO"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Damaged Goods - Remastered",
-      "url": "https://open.spotify.com/track/2iQvYaOlUcuVgczMtRvAcV"
+      "duration_ms": 246799,
+      "name": "Paris 1919",
+      "url": "https://open.spotify.com/track/7sF2KOkDLXNDAiUXpWP8aR"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -474,34 +554,18 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
         }
       ],
-      "duration_ms": 351626,
-      "name": "Common People",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "The Future Starts Here: The Essential Doors Hits",
-        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130746,
-      "name": "People Are Strange - New Stereo Mix",
-      "url": "https://open.spotify.com/track/6chyadaFmcdgpfSDW31KVj"
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -538,50 +602,50 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Let It Be (Expanded)",
-        "url": "https://open.spotify.com/album/4LwFCUyV4wM6SEg84PaLuL"
+        "name": "Roxy Music Collection",
+        "url": "https://open.spotify.com/album/6VQZ6NNyt8E6Nj93mkoi0y"
       },
       "artists": [
         {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
         }
       ],
-      "duration_ms": 190853,
-      "name": "Androgynous",
-      "url": "https://open.spotify.com/track/3fnL2JDgy4QD04araOl0eY"
+      "duration_ms": 248645,
+      "name": "Love Is The Drug",
+      "url": "https://open.spotify.com/track/34Rt8Ti2OAsA8s39rLgyML"
     },
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+        "name": "I, Jonathan",
+        "url": "https://open.spotify.com/album/2RtcqYl0VAhDw9DPMEqWF5"
       },
       "artists": [
         {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+          "name": "Jonathan Richman",
+          "url": "https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+      "duration_ms": 223840,
+      "name": "I Was Dancing In The Lesbian Bar",
+      "url": "https://open.spotify.com/track/2UayKZmrsYyjNj6T8frugJ"
     },
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Violent Femmes: Deluxe Edition",
-        "url": "https://open.spotify.com/album/645pkwf8FAE9eYY2vx7TiO"
+        "name": "Quarantine The Past: The Best Of Pavement",
+        "url": "https://open.spotify.com/album/75MSNWQwcQAAM2MHGX8JaI"
       },
       "artists": [
         {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
         }
       ],
-      "duration_ms": 144946,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/4PXH3g9qGgMqDlC52dJw07"
+      "duration_ms": 185693,
+      "name": "Cut Your Hair (Remastered)",
+      "url": "https://open.spotify.com/track/5nG6XQckfjnPkDyxDGDFFV"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -616,20 +680,36 @@
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
-      "added_at": "2019-12-17 17:51:04",
+      "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "The Bela Session",
-        "url": "https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m"
+        "name": "Violent Femmes: Deluxe Edition",
+        "url": "https://open.spotify.com/album/645pkwf8FAE9eYY2vx7TiO"
       },
       "artists": [
         {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
         }
       ],
-      "duration_ms": 576703,
-      "name": "Bela Lugosi's Dead (Official Version)",
-      "url": "https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r"
+      "duration_ms": 144946,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/4PXH3g9qGgMqDlC52dJw07"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "The Future Starts Here: The Essential Doors Hits",
+        "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130746,
+      "name": "People Are Strange - New Stereo Mix",
+      "url": "https://open.spotify.com/track/6chyadaFmcdgpfSDW31KVj"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -648,68 +728,20 @@
       "url": "https://open.spotify.com/track/17GMg1ZyQJtm3HkXQFZ31f"
     },
     {
-      "added_at": "2018-12-14 16:14:38",
+      "added_at": "2021-03-31 09:53:30",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
+        "name": "loveless",
+        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
       },
       "artists": [
         {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Paris 1919",
-        "url": "https://open.spotify.com/album/4KdEMeJZeYMVDoEvJSnwuj"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 246799,
-      "name": "Paris 1919",
-      "url": "https://open.spotify.com/track/7sF2KOkDLXNDAiUXpWP8aR"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
-      },
-      "artists": [
-        {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "I, Jonathan",
-        "url": "https://open.spotify.com/album/2RtcqYl0VAhDw9DPMEqWF5"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Richman",
-          "url": "https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "I Was Dancing In The Lesbian Bar",
-      "url": "https://open.spotify.com/track/2UayKZmrsYyjNj6T8frugJ"
+      "duration_ms": 419306,
+      "name": "soon",
+      "url": "https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -730,98 +762,18 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Quarantine The Past: The Best Of Pavement",
-        "url": "https://open.spotify.com/album/75MSNWQwcQAAM2MHGX8JaI"
+        "name": "The Best of Faces: Good Boys When They're Asleep",
+        "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
       },
       "artists": [
         {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
         }
       ],
-      "duration_ms": 185693,
-      "name": "Cut Your Hair (Remastered)",
-      "url": "https://open.spotify.com/track/5nG6XQckfjnPkDyxDGDFFV"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Roxy Music Collection",
-        "url": "https://open.spotify.com/album/6VQZ6NNyt8E6Nj93mkoi0y"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 248645,
-      "name": "Love Is The Drug",
-      "url": "https://open.spotify.com/track/34Rt8Ti2OAsA8s39rLgyML"
-    },
-    {
-      "added_at": "2021-03-31 09:53:30",
-      "album": {
-        "name": "loveless",
-        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 256573,
-      "name": "only shallow",
-      "url": "https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Reading, Writing & Arithmetic",
-        "url": "https://open.spotify.com/album/4bofszhtDfGY6smHBGeyTT"
-      },
-      "artists": [
-        {
-          "name": "The Sundays",
-          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "Here's Where The Story Ends",
-      "url": "https://open.spotify.com/track/4SPi5Pl7aAtauFsH9Lk5LB"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Ege Bamyasi (Remastered Version)",
-        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
-      },
-      "artists": [
-        {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
-        }
-      ],
-      "duration_ms": 214066,
-      "name": "Vitamin C - 2004 Remastered Version",
-      "url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
+      "duration_ms": 214960,
+      "name": "Ooh La La - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -842,34 +794,82 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "The Best of Faces: Good Boys When They're Asleep",
-        "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
+        "name": "Ege Bamyasi (Remastered Version)",
+        "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
       },
       "artists": [
         {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Ooh La La - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
+      "duration_ms": 214066,
+      "name": "Vitamin C - 2004 Remastered Version",
+      "url": "https://open.spotify.com/track/1tzXnPndBrd2G5GXrOBc1c"
     },
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Transmissions From the Satellite Heart",
-        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
       "artists": [
         {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 222278,
-      "name": "She Don't Use Jelly",
-      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/7r9tElGmULLXbShIQ5qgyQ"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach For My Revolver",
+      "url": "https://open.spotify.com/track/5QAQxxN163HxD1uU0BrMYM"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Enter The Vaselines (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47D3pdpkbeQSfXDUUGIlJE"
+      },
+      "artists": [
+        {
+          "name": "The Vaselines",
+          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Son Of A Gun",
+      "url": "https://open.spotify.com/track/5xDQhEvVjbMoy6ViNQxNeG"
     },
     {
       "added_at": "2021-03-31 09:53:30",
@@ -883,9 +883,9 @@
           "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 419306,
-      "name": "soon",
-      "url": "https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ"
+      "duration_ms": 256573,
+      "name": "only shallow",
+      "url": "https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -922,82 +922,18 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/7r9tElGmULLXbShIQ5qgyQ"
+        "name": "Reading, Writing & Arithmetic",
+        "url": "https://open.spotify.com/album/4bofszhtDfGY6smHBGeyTT"
       },
       "artists": [
         {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+          "name": "The Sundays",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
         }
       ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach For My Revolver",
-      "url": "https://open.spotify.com/track/5QAQxxN163HxD1uU0BrMYM"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Crooked Rain, Crooked Rain",
-        "url": "https://open.spotify.com/album/3F8CTobvWDa46GhS0WkXYh"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Gold Soundz",
-      "url": "https://open.spotify.com/track/13YxuRQZdU7snOfDI3nft2"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "#1 Record/Radio City",
-        "url": "https://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0"
-      },
-      "artists": [
-        {
-          "name": "Big Star",
-          "url": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/14bdkfiD8UAYJalXKFwcwb"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "It's A Shame About Ray",
-        "url": "https://open.spotify.com/album/1jiEBV7waEjNTUHBXKrpZh"
-      },
-      "artists": [
-        {
-          "name": "The Lemonheads",
-          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
-        }
-      ],
-      "duration_ms": 222160,
-      "name": "Mrs. Robinson",
-      "url": "https://open.spotify.com/track/3UNr9baVQg513GLBGyHSP4"
-    },
-    {
-      "added_at": "2018-12-14 16:14:38",
-      "album": {
-        "name": "Enter The Vaselines (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47D3pdpkbeQSfXDUUGIlJE"
-      },
-      "artists": [
-        {
-          "name": "The Vaselines",
-          "url": "https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Son Of A Gun",
-      "url": "https://open.spotify.com/track/5xDQhEvVjbMoy6ViNQxNeG"
+      "duration_ms": 234906,
+      "name": "Here's Where The Story Ends",
+      "url": "https://open.spotify.com/track/4SPi5Pl7aAtauFsH9Lk5LB"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -1018,34 +954,34 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+        "name": "Crooked Rain, Crooked Rain",
+        "url": "https://open.spotify.com/album/3F8CTobvWDa46GhS0WkXYh"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
         }
       ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+      "duration_ms": 159706,
+      "name": "Gold Soundz",
+      "url": "https://open.spotify.com/track/13YxuRQZdU7snOfDI3nft2"
     },
     {
-      "added_at": "2018-12-14 16:14:38",
+      "added_at": "2020-10-27 15:53:46",
       "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -1066,18 +1002,18 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Rid Of Me",
-        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+        "name": "#1 Record/Radio City",
+        "url": "https://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "Big Star",
+          "url": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM"
         }
       ],
-      "duration_ms": 268826,
-      "name": "Rid Of Me",
-      "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
+      "duration_ms": 154480,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/14bdkfiD8UAYJalXKFwcwb"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -1114,18 +1050,98 @@
     {
       "added_at": "2018-12-14 16:14:38",
       "album": {
-        "name": "Skylarking",
-        "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
       "artists": [
         {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 219506,
-      "name": "Dear God - Remastered 2001",
-      "url": "https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn"
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Rid Of Me",
+        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 268826,
+      "name": "Rid Of Me",
+      "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "It's A Shame About Ray",
+        "url": "https://open.spotify.com/album/1jiEBV7waEjNTUHBXKrpZh"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "Mrs. Robinson",
+      "url": "https://open.spotify.com/track/3UNr9baVQg513GLBGyHSP4"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Outside Society",
+        "url": "https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2018-12-14 16:14:38",
+      "album": {
+        "name": "Transmissions From the Satellite Heart",
+        "url": "https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 222278,
+      "name": "She Don't Use Jelly",
+      "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
     },
     {
       "added_at": "2018-12-14 16:14:38",
@@ -1142,22 +1158,6 @@
       "duration_ms": 340186,
       "name": "Start Choppin'",
       "url": "https://open.spotify.com/track/7yThIhNzpgDBIGoL2y1y6u"
-    },
-    {
-      "added_at": "2020-10-27 15:53:46",
-      "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
     },
     {
       "added_at": "2018-12-14 16:14:38",

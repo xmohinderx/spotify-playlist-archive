@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/1gil9V4XyCurI6DIwN0xrM"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 218333,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2avzCVT0Zo4dgkp2vBgHOJ"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219283,
       "name": "Dead Man's Suit",
       "url": "https://open.spotify.com/track/3h21zgsmD8ncbYz3RSlAJI"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 218346,
       "name": "Howl",
       "url": "https://open.spotify.com/track/7d7uefLUTOhy9nEfWoBd1G"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250483,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/5o5SVIrVETWIQFMdgPFXPt"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213440,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 289970,
       "name": "Old Now",
       "url": "https://open.spotify.com/track/6mVndIOMk620iAtXeMi4kW"
@@ -1160,6 +1160,24 @@
       "duration_ms": 247339,
       "name": "On the Edge",
       "url": "https://open.spotify.com/track/6j2Gbnz6tHBvMzLmCUhGYJ"
+    },
+    {
+      "album": {
+        "name": "One Summer",
+        "url": "https://open.spotify.com/album/7G4VkdbeDYofyeyzDdJ71P"
+      },
+      "artists": [
+        {
+          "name": "Corrina Repp",
+          "url": "https://open.spotify.com/artist/6VhCOB0YOxq4S2a8GuPtvz"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278625,
+      "name": "One Summer",
+      "url": "https://open.spotify.com/track/3kzBPAyFRlDwPCv3DThqEE"
     },
     {
       "album": {
@@ -1272,6 +1290,24 @@
       "duration_ms": 256261,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/5YWJYToSH7vZ98r5PS3y6j"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
     },
     {
       "album": {

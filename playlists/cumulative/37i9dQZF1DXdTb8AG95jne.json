@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 314725,
       "name": "Certain mind",
       "url": "https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196112,
       "name": "Cream Dream",
       "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 209320,
       "name": "Dreamcatcher \ub4dc\ub9bc\uce90\ucc98",
       "url": "https://open.spotify.com/track/6Jx06CqjXLM7VYljqkCRcL"
@@ -258,6 +258,24 @@
       "duration_ms": 278880,
       "name": "Enough",
       "url": "https://open.spotify.com/track/0lLvhwKky1WGu6jYJ1vUgV"
+    },
+    {
+      "album": {
+        "name": "From Late Night",
+        "url": "https://open.spotify.com/album/3h9UBeesVQIEfWyW4djtsD"
+      },
+      "artists": [
+        {
+          "name": "Chimmi",
+          "url": "https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236440,
+      "name": "Eyes on you",
+      "url": "https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA"
     },
     {
       "album": {
@@ -290,7 +308,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 243692,
       "name": "Falling Star",
       "url": "https://open.spotify.com/track/3Zfb4u1goGP0NQV08lxZ56"
@@ -400,7 +418,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167234,
       "name": "Fortune Teller (feat. Stella Jang)",
       "url": "https://open.spotify.com/track/66216rH0JIcTsLCEDq2yeD"
@@ -454,7 +472,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 221129,
       "name": "Goodbye, fall",
       "url": "https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD"
@@ -548,7 +566,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 331000,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U"
@@ -584,10 +602,46 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 270461,
       "name": "I was wrong",
       "url": "https://open.spotify.com/track/2Nudb9hCRVGqePHBBedTic"
+    },
+    {
+      "album": {
+        "name": "[Vol.48] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'",
+        "url": "https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212999,
+      "name": "I Will Give You Everything",
+      "url": "https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ"
+    },
+    {
+      "album": {
+        "name": "Idle Idle",
+        "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218677,
+      "name": "Idle Idle",
+      "url": "https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT"
     },
     {
       "album": {
@@ -682,7 +736,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 181697,
       "name": "Islet",
       "url": "https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR"
@@ -718,7 +772,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
@@ -740,7 +794,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 239842,
       "name": "Let's stay together",
       "url": "https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th"
@@ -830,7 +884,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 175229,
       "name": "My Last Teen",
       "url": "https://open.spotify.com/track/13vw7pAaPFnJLsv66FeXnq"
@@ -1340,7 +1394,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 240000,
       "name": "Your Voice Makes Me Dream",
       "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
@@ -1376,7 +1430,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258420,
       "name": "\uae34 \uafc8 A Long Dream",
       "url": "https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH"

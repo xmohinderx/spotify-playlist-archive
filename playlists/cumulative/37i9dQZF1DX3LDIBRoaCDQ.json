@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 218066,
       "name": "Bastards of Young - 2008 Remaster",
       "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 144333,
       "name": "Blister in the Sun - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 109133,
       "name": "Dean's Dream",
       "url": "https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206946,
       "name": "Harness Your Hopes - (B-side)",
       "url": "https://open.spotify.com/track/4tggZyGJMNJMooWuRbvN5q"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man - Album Version (Stereo)",
       "url": "https://open.spotify.com/track/5Q4OndPgegGCR88wPsXswf"
@@ -524,10 +524,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 183823,
       "name": "Kick Out The Jams (Original Uncensored Version)",
       "url": "https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx"
+    },
+    {
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "album": {
@@ -564,7 +582,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 117080,
       "name": "Last Caress - C.I. Recording 1978",
       "url": "https://open.spotify.com/track/5ALCHMO9Fmvn1Ly18Q3apL"
@@ -654,7 +672,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 157360,
       "name": "Mannequin - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/3iTGXWfuazyOJBbjHXary5"
@@ -967,6 +985,24 @@
     },
     {
       "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+    },
+    {
+      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 211200,
       "name": "TV Party",
       "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
@@ -1014,7 +1050,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 89666,
       "name": "Viet Nam",
       "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
@@ -1050,7 +1086,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 176293,
       "name": "What Do I Get?",
       "url": "https://open.spotify.com/track/69cHTfo3Dc7S4sl1bQScNO"
@@ -1076,6 +1112,24 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
+    },
+    {
+      "album": {
+        "name": "The Clash (US Version)",
+        "url": "https://open.spotify.com/album/4I1PslhlP1HcRlVHml2voJ"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "White Riot",
+      "url": "https://open.spotify.com/track/1piPrS1PYdle0bHhSPl3io"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3LDIBRoaCDQ"

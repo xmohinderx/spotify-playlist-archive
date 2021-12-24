@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 192601,
       "name": "Are You Happy?",
       "url": "https://open.spotify.com/track/4kLdC0g4IzdTL1sUlIpnh4"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ"
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "album": {
         "name": "My Love Is Cool",
         "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 224720,
       "name": "Bros",
       "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
@@ -218,7 +236,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 270326,
       "name": "bullet train",
       "url": "https://open.spotify.com/track/5oka498ZuBpOR2WTWq4XoB"
@@ -333,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Our Extended Play",
+        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164690,
+      "name": "Cologne",
+      "url": "https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy"
+    },
+    {
+      "album": {
         "name": "Comingback",
         "url": "https://open.spotify.com/album/0EszwSv58sj1RPucFPI9Xa"
       },
@@ -362,7 +398,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 163041,
       "name": "Cream Shirt",
       "url": "https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ"
@@ -420,10 +456,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 294413,
       "name": "Don't Forget Your Neighborhood",
       "url": "https://open.spotify.com/track/6LbtLmUbt5MCydSpovIJAw"
+    },
+    {
+      "album": {
+        "name": "Drinking With My Smoking Friends",
+        "url": "https://open.spotify.com/album/1jDIrxobGpCf7TR8IhbPUM"
+      },
+      "artists": [
+        {
+          "name": "Allday",
+          "url": "https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/0WFoIkMN4AOzbTBsnLgdvA"
     },
     {
       "album": {
@@ -456,7 +510,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 261519,
       "name": "Draw Down the Moon",
       "url": "https://open.spotify.com/track/3dfR4iZwOxuYldXTjzBykP"
@@ -733,6 +787,24 @@
     },
     {
       "album": {
+        "name": "I'll Get By",
+        "url": "https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150106,
+      "name": "I'll Get By",
+      "url": "https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ"
+    },
+    {
+      "album": {
         "name": "IDK",
         "url": "https://open.spotify.com/album/15GbsI16l3f6XhdEVxn0EM"
       },
@@ -744,7 +816,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206662,
       "name": "IDK",
       "url": "https://open.spotify.com/track/5oObGXk0NriZXxV78aIO0X"
@@ -762,7 +834,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 159730,
       "name": "it's a landslide",
       "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
@@ -780,7 +852,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 173593,
       "name": "JUNO",
       "url": "https://open.spotify.com/track/5eGnzWOwLq7zhnj9XsTFY4"
@@ -946,7 +1018,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 408800,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf"
@@ -1040,7 +1112,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 167786,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3uTrO9684EkqTlRUJF8TkW"
@@ -1112,7 +1184,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 140188,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/1QhgiugfuhT7f515ETBqCm"
@@ -1130,7 +1202,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 123321,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3a1FmKNt5614MLAh7KeWTb"
@@ -1173,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "PDA",
+        "url": "https://open.spotify.com/album/1yyjVQNw4bUrVQgEzcE1A9"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207346,
+      "name": "PDA",
+      "url": "https://open.spotify.com/track/4R8M7LBaiGPR77dYRMJJlI"
+    },
+    {
+      "album": {
         "name": "Boys Cry",
         "url": "https://open.spotify.com/album/4dXFKvaVqrjEqp5wE7cBjp"
       },
@@ -1188,6 +1278,24 @@
       "duration_ms": 212252,
       "name": "Peach",
       "url": "https://open.spotify.com/track/7paJq7qC0xBrgoHV887VEG"
+    },
+    {
+      "album": {
+        "name": "Plumes",
+        "url": "https://open.spotify.com/album/6tSCtGGfSThaE7xz82XDvC"
+      },
+      "artists": [
+        {
+          "name": "Ed Nash",
+          "url": "https://open.spotify.com/artist/4XQbatF1exGRw7gdiYMhsH"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Plumes",
+      "url": "https://open.spotify.com/track/6VowD9ukL0ia22ivY2MvTH"
     },
     {
       "album": {
@@ -1292,7 +1400,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197880,
       "name": "Sick",
       "url": "https://open.spotify.com/track/1gKQL1gGEOvucV6zSjsY0P"
@@ -1346,7 +1454,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177560,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/3uahX9Gi4Syz5OsXO2w1eN"
@@ -1382,10 +1490,32 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210826,
       "name": "Sugarcane",
       "url": "https://open.spotify.com/track/7mlmzmjgcAr6UA2py7i8Ki"
+    },
+    {
+      "album": {
+        "name": "Summer Lovin'",
+        "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "KEHLI",
+          "url": "https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186782,
+      "name": "Summer Lovin'",
+      "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
     },
     {
       "album": {
@@ -1436,7 +1566,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 138756,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk"
@@ -1454,7 +1584,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 216720,
       "name": "Sympathetic Vibrations",
       "url": "https://open.spotify.com/track/0y8HL66eDhCCT7dLCHoHZd"
@@ -1562,7 +1692,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 309053,
       "name": "The Adults Are Talking",
       "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
@@ -1584,7 +1714,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 235341,
       "name": "The Aftergone (feat. CLEWS)",
       "url": "https://open.spotify.com/track/3VpeDsKDbBILjniX4y3rFA"
@@ -1620,7 +1750,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250480,
       "name": "The First Day",
       "url": "https://open.spotify.com/track/54ocv5qsX6eIjk8C5AyRpT"
@@ -1699,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "Grouplove",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/5l710vNzBqEqWo7KaXvBr1"
       },
@@ -1714,6 +1862,24 @@
       "duration_ms": 171240,
       "name": "Truth",
       "url": "https://open.spotify.com/track/0gOA1SWEZhRECJRguyxFFZ"
+    },
+    {
+      "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/4QECHmiMhtkrT06Z1A6pTf"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264145,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y"
     },
     {
       "album": {
@@ -1746,10 +1912,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 168566,
       "name": "Yeah!",
       "url": "https://open.spotify.com/track/3XNWfquRRvnaCSU2low3ez"
+    },
+    {
+      "album": {
+        "name": "You Stupid Bitch",
+        "url": "https://open.spotify.com/album/4oBhZqwpWAUsKobnZ9zb9W"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195951,
+      "name": "You Stupid Bitch",
+      "url": "https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF"
     },
     {
       "album": {

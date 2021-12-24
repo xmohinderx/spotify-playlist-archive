@@ -474,7 +474,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 268840,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/3O34kfvxjR1hRGOdHbHCqu"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 419373,
       "name": "Mai Nozipo (\"Mother Nozipo\")",
       "url": "https://open.spotify.com/track/18OhfSqbz9oDBlUORhLQDH"
@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK"
+    },
+    {
+      "album": {
         "name": "N-Plants",
         "url": "https://open.spotify.com/album/3pLDeqeie523ruDyHahav3"
       },
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 248973,
       "name": "Regret - 2015 Remaster",
       "url": "https://open.spotify.com/track/1UVll7jjUlqSGxCZ6uXVaD"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 254400,
       "name": "Short Ride in a Fast Machine",
       "url": "https://open.spotify.com/track/39lN1yTJ5gz5AGypvQcq5D"
@@ -2434,7 +2452,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208236,
       "name": "Square Feet",
       "url": "https://open.spotify.com/track/1CHJtrKc555sk95KB27YAM"
@@ -2726,7 +2744,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 236333,
       "name": "This Must Be Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/2pkMt1GnVAbPaqGjV0FCQb"
@@ -2946,7 +2964,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 276693,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/45vwGBTaybVPIIxNvxUWQO"
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 163066,
       "name": "You Keep Me Hangin' On - Stereo Version",
       "url": "https://open.spotify.com/track/5RZ2l6TkDgWdSbo5fZDKn4"

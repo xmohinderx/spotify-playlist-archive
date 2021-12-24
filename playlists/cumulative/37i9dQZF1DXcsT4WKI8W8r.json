@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 160346,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/4ywfuHVfB8wvm8tHWHK5QI"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 195946,
       "name": "Crying In The Sun",
       "url": "https://open.spotify.com/track/5Gwn2tyT8CluNxYI930tu7"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Happier (Acoustic)",
+        "url": "https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206209,
+      "name": "Happier - Acoustic",
+      "url": "https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1"
+    },
+    {
+      "album": {
         "name": "happiness",
         "url": "https://open.spotify.com/album/2omZmcYUipFy2tpXoRHB5i"
       },
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179200,
       "name": "High Water",
       "url": "https://open.spotify.com/track/7GNvm2eN2sgD1rujyVC4QG"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177140,
       "name": "How Can I Forget",
       "url": "https://open.spotify.com/track/0ibG3XCJ32Qq9maUY4AViR"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 195906,
       "name": "I'll Be There - Acoustic",
       "url": "https://open.spotify.com/track/4fBrdd2GXXC2yUjRM31oju"
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181266,
       "name": "If It Was Me",
       "url": "https://open.spotify.com/track/0q0mlZUDIu8DJmNAcjicFC"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 187146,
       "name": "Like You Say You Do",
       "url": "https://open.spotify.com/track/05Pz7sJkLVYywGjRkAPY3x"
@@ -1662,6 +1680,24 @@
       "duration_ms": 168281,
       "name": "Lose Somebody",
       "url": "https://open.spotify.com/track/41EbQiljFxkBM66pqi3bYU"
+    },
+    {
+      "album": {
+        "name": "Lost Someone",
+        "url": "https://open.spotify.com/album/3O3qa900oqZiJEqTEfbxXb"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225086,
+      "name": "Lost Someone",
+      "url": "https://open.spotify.com/track/0QOKrp8ywseJVggfFMSRZG"
     },
     {
       "album": {
@@ -1756,7 +1792,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 141500,
       "name": "ludlow coffee supply",
       "url": "https://open.spotify.com/track/3v13yCBe1HAEqhswk94Phs"
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 164577,
       "name": "Needed",
       "url": "https://open.spotify.com/track/3V12MJj9mQlIVovOTcH71v"
@@ -2307,6 +2343,36 @@
     },
     {
       "album": {
+        "name": "Resentment (feat. Sturgill Simpson, Brian Wilson & Wrabel)",
+        "url": "https://open.spotify.com/album/77NnFl72Aj7jbwErADFhJv"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Brian Wilson",
+          "url": "https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172226,
+      "name": "Resentment (feat. Sturgill Simpson, Brian Wilson & Wrabel)",
+      "url": "https://open.spotify.com/track/6iewIywVK4V0SQfSCZonCR"
+    },
+    {
+      "album": {
         "name": "State of the Heart",
         "url": "https://open.spotify.com/album/6ORYYsCi3iLOT3NHJAfclP"
       },
@@ -2470,7 +2536,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 167800,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/63HPS15Kvde81RVcgTe8aR"
@@ -2488,7 +2554,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212666,
       "name": "Somewhere in Ann Arbor",
       "url": "https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK"
@@ -2546,7 +2612,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202542,
       "name": "Stuck In The Rain",
       "url": "https://open.spotify.com/track/7FbIfuvWzBceD97ysXLKle"
@@ -2608,7 +2674,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 265381,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH"
@@ -2666,7 +2732,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213333,
       "name": "The Least That I Could Do",
       "url": "https://open.spotify.com/track/7B0agS1sIVLUGYG5oVHZ3V"
@@ -2710,6 +2776,24 @@
       "duration_ms": 218303,
       "name": "The Story We Used To Tell",
       "url": "https://open.spotify.com/track/5Sr9l180RmszDrCueohy3x"
+    },
+    {
+      "album": {
+        "name": "Thelma and Louise",
+        "url": "https://open.spotify.com/album/2mXQFFO0uYlEalgnE9WuSv"
+      },
+      "artists": [
+        {
+          "name": "Anna Bergendahl",
+          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198624,
+      "name": "Thelma and Louise",
+      "url": "https://open.spotify.com/track/0p1l3kDnO0y7GHGqyoJiJx"
     },
     {
       "album": {
@@ -2814,7 +2898,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX"

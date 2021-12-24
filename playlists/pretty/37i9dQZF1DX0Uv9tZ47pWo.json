@@ -1,23 +1,27 @@
 {
   "description": "It's all about the girls tonight.",
   "name": "Girls' Night",
-  "snapshot_id": "MTY0MDIxOTkyMCwwMDAwMDAwMGE4Y2QxMGY1ZDdmZjNjNzIzMGIxNDg4OTkzNDI1MDNm",
+  "snapshot_id": "MTYzMzk0NTI1NSwwMDAwMDBiMDAwMDAwMTdjNmViOWZlNjkwMDAwMDE3YTM5ODVmYzAx",
   "tracks": [
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Bad Habits",
-        "url": "https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 231041,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -46,22 +50,42 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 231041,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Tick Tock (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Tick Tock (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -78,22 +102,6 @@
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -158,42 +166,34 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Tick Tock (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 178373,
-      "name": "Tick Tock (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+      "duration_ms": 174000,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Sweet Melody",
-        "url": "https://open.spotify.com/album/5GGIgiGtxIgcVJQnsKQW94"
+        "name": "positions",
+        "url": "https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Sweet Melody",
-      "url": "https://open.spotify.com/track/28xX6K8LnkZve4RiuEB3iK"
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -218,42 +218,50 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "WOW (feat. Sabrina Carpenter) [Remix]",
-        "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
+        "name": "Sweet Melody",
+        "url": "https://open.spotify.com/album/5GGIgiGtxIgcVJQnsKQW94"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         }
       ],
-      "duration_ms": 179652,
-      "name": "WOW (feat. Sabrina Carpenter) - Remix",
-      "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
+      "duration_ms": 213693,
+      "name": "Sweet Melody",
+      "url": "https://open.spotify.com/track/28xX6K8LnkZve4RiuEB3iK"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+        "name": "good 4 u",
+        "url": "https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+      "duration_ms": 178147,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -278,6 +286,26 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
+        "name": "WOW (feat. Sabrina Carpenter) [Remix]",
+        "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 179652,
+      "name": "WOW (feat. Sabrina Carpenter) - Remix",
+      "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM"
       },
@@ -298,66 +326,18 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Kings & Queens",
-        "url": "https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO"
+        "name": "Prosecco",
+        "url": "https://open.spotify.com/album/0n0bIzeaW3Q9S9u4vlZwuG"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Patrik Jean",
+          "url": "https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1"
         }
       ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "positions",
-        "url": "https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "good 4 u",
-        "url": "https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178147,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
+      "duration_ms": 195413,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/2E7R8kXD7qZpvfW25F7gUW"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -382,6 +362,26 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -402,18 +402,38 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
+        "name": "Jalebi Baby (Tesher x Jason Derulo)",
+        "url": "https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         }
       ],
-      "duration_ms": 193543,
-      "name": "Electric - Pokemon 25 Version",
-      "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
+      "duration_ms": 169154,
+      "name": "Jalebi Baby (Tesher x Jason Derulo)",
+      "url": "https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -434,162 +454,38 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Break Up Song (Steve Void Remix)",
-        "url": "https://open.spotify.com/album/71vTXXTGNzZK5rUSWVYz5o"
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 177818,
-      "name": "Break Up Song - Steve Void Remix",
-      "url": "https://open.spotify.com/track/55TGUs6WtyrnI1kohaucaS"
+      "duration_ms": 193543,
+      "name": "Electric - Pokemon 25 Version",
+      "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Prosecco",
-        "url": "https://open.spotify.com/album/0n0bIzeaW3Q9S9u4vlZwuG"
+        "name": "Body Back (feat. Maia Wright)",
+        "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
       },
       "artists": [
         {
-          "name": "Patrik Jean",
-          "url": "https://open.spotify.com/artist/5QCf1Qb08Q4E3EPnyo8mw1"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "Prosecco",
-      "url": "https://open.spotify.com/track/2E7R8kXD7qZpvfW25F7gUW"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
         }
       ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Slow Dance (feat. Ava Max) [Sam Feldt Remix]",
-        "url": "https://open.spotify.com/album/6Ol6C42O7AWnTkj8pHMHWv"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Slow Dance (feat. Ava Max) - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Lose Somebody",
-        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
-      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 186569,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs"
+      "duration_ms": 214634,
+      "name": "Body Back (feat. Maia Wright)",
+      "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -614,22 +510,22 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "My Heart Goes (La Di Da) (feat. Topic)",
-        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
+        "name": "Break Up Song (Steve Void Remix)",
+        "url": "https://open.spotify.com/album/71vTXXTGNzZK5rUSWVYz5o"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
         }
       ],
-      "duration_ms": 148960,
-      "name": "My Heart Goes (La Di Da) (feat. Topic)",
-      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
+      "duration_ms": 177818,
+      "name": "Break Up Song - Steve Void Remix",
+      "url": "https://open.spotify.com/track/55TGUs6WtyrnI1kohaucaS"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -662,90 +558,66 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+        "name": "Slow Dance (feat. Ava Max) [Sam Feldt Remix]",
+        "url": "https://open.spotify.com/album/6Ol6C42O7AWnTkj8pHMHWv"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 173123,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Jalebi Baby (Tesher x Jason Derulo)",
-        "url": "https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd"
-      },
-      "artists": [
-        {
-          "name": "Tesher",
-          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
         },
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 169154,
-      "name": "Jalebi Baby (Tesher x Jason Derulo)",
-      "url": "https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Body Back (feat. Maia Wright)",
-        "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         },
         {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 214634,
-      "name": "Body Back (feat. Maia Wright)",
-      "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
+      "duration_ms": 193548,
+      "name": "Slow Dance (feat. Ava Max) - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "MONTERO (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97"
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
         }
       ],
-      "duration_ms": 137875,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb"
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Wasted Love (feat. Lagique)",
+        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 139563,
+      "name": "Wasted Love (feat. Lagique)",
+      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -770,42 +642,82 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 173710,
-      "name": "34+35",
-      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+      "duration_ms": 204466,
+      "name": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "2 Hearts (feat. Gia Koka)",
-        "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Gia Koka",
-          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 186750,
-      "name": "2 Hearts (feat. Gia Koka)",
-      "url": "https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02"
+      "duration_ms": 173123,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -850,134 +762,98 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Love Not War (The Tampa Beat)",
-        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
+        "name": "My Heart Goes (La Di Da) (feat. Topic)",
+        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Nuka",
-          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         }
       ],
-      "duration_ms": 192921,
-      "name": "Love Not War (The Tampa Beat)",
-      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
+      "duration_ms": 148960,
+      "name": "My Heart Goes (La Di Da) (feat. Topic)",
+      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Love (Sweet Love)",
-        "url": "https://open.spotify.com/album/6gDaHYlZ8e72yv6cNjxWMl"
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 220968,
-      "name": "Love (Sweet Love)",
-      "url": "https://open.spotify.com/track/1kSfwOauMxFm9cgYiNfsiL"
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Like It Is",
-        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
+        "name": "2 Hearts (feat. Gia Koka)",
+        "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Gia Koka",
+          "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
         }
       ],
-      "duration_ms": 183067,
-      "name": "Like It Is",
-      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+      "duration_ms": 186750,
+      "name": "2 Hearts (feat. Gia Koka)",
+      "url": "https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Wasted Love (feat. Lagique)",
-        "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
+        "name": "Selfish Love (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 139563,
-      "name": "Wasted Love (feat. Lagique)",
-      "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+      "duration_ms": 168648,
+      "name": "Selfish Love (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/1w197Eogn2NRkSmZQFNcKi"
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/5TIbUyoncSx0LKnnJXgfc5"
       },
       "artists": [
         {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 194373,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/1lf8oA3lANa6trf3iPho22"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7mtxlSJQej3cCBXySgEjlY"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Dancing in the Moonlight (feat. NEIMY)",
-        "url": "https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        }
-      ],
-      "duration_ms": 164009,
-      "name": "Dancing in the Moonlight (feat. NEIMY)",
-      "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
+      "duration_ms": 186569,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/3n1HsYVwX6qMvihf5uZDKs"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -1002,58 +878,18 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/2JjNir4llRSfPKJRKxOaZ9"
+        "name": "MONTERO (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97"
       },
       "artists": [
         {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Theresa Rex",
-          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 149743,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/4RG63cZOJT5njECPKYMhUU"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Ice Cream (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/7nZPZCnwS90jrRjGNjzv4D"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Ice Cream (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/2k0e6dy1tx7fE6m126Ydfw"
+      "duration_ms": 137875,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -1086,6 +922,46 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/2JjNir4llRSfPKJRKxOaZ9"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/4RG63cZOJT5njECPKYMhUU"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Love Not War (The Tampa Beat)",
+        "url": "https://open.spotify.com/album/3CHys9v5aX1NS861o6r556"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Nuka",
+          "url": "https://open.spotify.com/artist/1XynjLPAyPi8SZAx8LHN0Z"
+        }
+      ],
+      "duration_ms": 192921,
+      "name": "Love Not War (The Tampa Beat)",
+      "url": "https://open.spotify.com/track/4Lt6GXGzYsa1tgkv3nGSTm"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
         "name": "Don't You Wanna Play?",
         "url": "https://open.spotify.com/album/3i5KKkquh96MJz4IbA96IO"
       },
@@ -1106,170 +982,18 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/1pNNZl0NpdpOYQulwgkV8s"
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 134087,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Baby, I'm Jealous (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 175873,
-      "name": "Baby, I'm Jealous (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 156910,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Selfish Love (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Selfish Love (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "L.O.V.(e).",
-        "url": "https://open.spotify.com/album/0u6Gl8bYJ2dF9zmqNvWkBl"
-      },
-      "artists": [
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "L.O.V.(e).",
-      "url": "https://open.spotify.com/track/5MyIR4vCwqxnB0biyFqcdw"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/52pHDA5D1zt7xcfJdOkHWx"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        }
-      ],
-      "duration_ms": 174779,
-      "name": "Live Forever (With Cheat Codes)",
-      "url": "https://open.spotify.com/track/4D3IIkBWnpL097OkljGnRW"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 174406,
-      "name": "As I Am (feat. Khalid)",
-      "url": "https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 170746,
-      "name": "My Oh My (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -1302,8 +1026,80 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Not a Pop Song",
-        "url": "https://open.spotify.com/album/7mE4YBgBJkUSnv8fLv4TJy"
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/1pNNZl0NpdpOYQulwgkV8s"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 134087,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 174406,
+      "name": "As I Am (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Dancing in the Moonlight (feat. NEIMY)",
+        "url": "https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        }
+      ],
+      "duration_ms": 164009,
+      "name": "Dancing in the Moonlight (feat. NEIMY)",
+      "url": "https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Love (Sweet Love)",
+        "url": "https://open.spotify.com/album/6gDaHYlZ8e72yv6cNjxWMl"
       },
       "artists": [
         {
@@ -1311,33 +1107,25 @@
           "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         }
       ],
-      "duration_ms": 179413,
-      "name": "Not a Pop Song",
-      "url": "https://open.spotify.com/track/0g4xPTe9fP1gPiXPMQKj7Z"
+      "duration_ms": 220968,
+      "name": "Love (Sweet Love)",
+      "url": "https://open.spotify.com/track/1kSfwOauMxFm9cgYiNfsiL"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Don't Say Goodbye (feat. Tove Lo)",
-        "url": "https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX"
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 186700,
-      "name": "Don't Say Goodbye (feat. Tove Lo)",
-      "url": "https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq"
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -1366,94 +1154,42 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/6KPJTxKFCpuzrwyJGcURqK"
+        "name": "Like It Is",
+        "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 180283,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/7vgv8KZBSo0TPzyIWG9yzV"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Bigger Than",
-        "url": "https://open.spotify.com/album/0ryzyI2FzzvGCjoysiWMW0"
-      },
-      "artists": [
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Bigger Than",
-      "url": "https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "All Night (feat. Ally Brooke)",
-        "url": "https://open.spotify.com/album/0wXQE5QGxFdviVPa7GKMCA"
-      },
-      "artists": [
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         },
         {
-          "name": "Ally Brooke",
-          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 166413,
-      "name": "All Night (feat. Ally Brooke)",
-      "url": "https://open.spotify.com/track/0poEFjyV2iHKtxjdWFwjmS"
+      "duration_ms": 183067,
+      "name": "Like It Is",
+      "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
     },
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Justice (The Complete Edition)",
-        "url": "https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9"
+        "name": "L.O.V.(e).",
+        "url": "https://open.spotify.com/album/0u6Gl8bYJ2dF9zmqNvWkBl"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
         }
       ],
-      "duration_ms": 187452,
-      "name": "Red Eye (feat. TroyBoi)",
-      "url": "https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/3xgS4rfthlsvhW7J2WLiiR"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 207038,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/7LzouaWGFCy4tkXDOOnEyM"
+      "duration_ms": 173600,
+      "name": "L.O.V.(e).",
+      "url": "https://open.spotify.com/track/5MyIR4vCwqxnB0biyFqcdw"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -1474,42 +1210,18 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "Trampoline (with ZAYN)",
-        "url": "https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB"
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/1w197Eogn2NRkSmZQFNcKi"
       },
       "artists": [
         {
-          "name": "SHAED",
-          "url": "https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR"
-        },
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
         }
       ],
-      "duration_ms": 184280,
-      "name": "Trampoline (with ZAYN)",
-      "url": "https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k"
-    },
-    {
-      "added_at": "2021-10-11 09:40:55",
-      "album": {
-        "name": "DANCE",
-        "url": "https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi"
-      },
-      "artists": [
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        },
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 174448,
-      "name": "DANCE",
-      "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
+      "duration_ms": 194373,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD"
     },
     {
       "added_at": "2021-10-11 09:40:55",
@@ -1534,22 +1246,306 @@
     {
       "added_at": "2021-10-11 09:40:55",
       "album": {
-        "name": "We Got Love",
-        "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
+        "name": "Justice (The Complete Edition)",
+        "url": "https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         }
       ],
-      "duration_ms": 213040,
-      "name": "We Got Love",
-      "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
+      "duration_ms": 187452,
+      "name": "Red Eye (feat. TroyBoi)",
+      "url": "https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "All Night (feat. Ally Brooke)",
+        "url": "https://open.spotify.com/album/0wXQE5QGxFdviVPa7GKMCA"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Ally Brooke",
+          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "All Night (feat. Ally Brooke)",
+      "url": "https://open.spotify.com/track/0poEFjyV2iHKtxjdWFwjmS"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Beautiful People (feat. Khalid)",
+        "url": "https://open.spotify.com/album/3E12WU80fDMyu7GyIAx7wJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Beautiful People (feat. Khalid)",
+      "url": "https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 156910,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/1lf8oA3lANa6trf3iPho22"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7mtxlSJQej3cCBXySgEjlY"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Ice Cream (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/7nZPZCnwS90jrRjGNjzv4D"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Ice Cream (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/2k0e6dy1tx7fE6m126Ydfw"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Don't Say Goodbye (feat. Tove Lo)",
+        "url": "https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186700,
+      "name": "Don't Say Goodbye (feat. Tove Lo)",
+      "url": "https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Baby, I'm Jealous (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/2N367tN1eIXrHNVe86aVy4"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 175873,
+      "name": "Baby, I'm Jealous (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/52pHDA5D1zt7xcfJdOkHWx"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        }
+      ],
+      "duration_ms": 174779,
+      "name": "Live Forever (With Cheat Codes)",
+      "url": "https://open.spotify.com/track/4D3IIkBWnpL097OkljGnRW"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "DANCE",
+        "url": "https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 174448,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Not a Pop Song",
+        "url": "https://open.spotify.com/album/7mE4YBgBJkUSnv8fLv4TJy"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 179413,
+      "name": "Not a Pop Song",
+      "url": "https://open.spotify.com/track/0g4xPTe9fP1gPiXPMQKj7Z"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/3xgS4rfthlsvhW7J2WLiiR"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 207038,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/7LzouaWGFCy4tkXDOOnEyM"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Bigger Than",
+        "url": "https://open.spotify.com/album/0ryzyI2FzzvGCjoysiWMW0"
+      },
+      "artists": [
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Bigger Than",
+      "url": "https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N"
+    },
+    {
+      "added_at": "2021-10-11 09:40:55",
+      "album": {
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Going Dumb",
+      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Uv9tZ47pWo"

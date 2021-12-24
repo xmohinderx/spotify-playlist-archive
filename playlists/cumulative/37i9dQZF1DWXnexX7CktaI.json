@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 199720,
       "name": "Don't Waste My Time (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258125,
       "name": "Gotta Move On",
       "url": "https://open.spotify.com/track/4E8NdFfprLwbouZ46bv75o"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 185979,
       "name": "Issues/Hold On",
       "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 275080,
       "name": "Love Galore (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219135,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/4lFfMRH0YH4pW5gczTDbNC"
@@ -771,6 +771,28 @@
     },
     {
       "album": {
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2021-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211610,
+      "name": "Shea Butter Baby (with J. Cole)",
+      "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
+    },
+    {
+      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -804,10 +826,28 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Sky Walker (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf"
+    },
+    {
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/3Qt6T8Wwje8VmyUbU7Z2w1"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2021-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197854,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/6ydpPcCGhQ4Ox3H0ly0WcX"
     },
     {
       "album": {
@@ -876,7 +916,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213993,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA"
@@ -916,7 +956,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"

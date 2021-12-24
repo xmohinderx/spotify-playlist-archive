@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 147000,
       "name": "Green Tambourine",
       "url": "https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 180600,
       "name": "Mama Roux",
       "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 158360,
       "name": "Rainbow Chaser",
       "url": "https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177580,
       "name": "Riddles and Fairytales",
       "url": "https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 158506,
       "name": "Sand",
       "url": "https://open.spotify.com/track/1ppiFXKUliXgJLpOHJ3Rog"
@@ -1048,6 +1048,24 @@
       "duration_ms": 293933,
       "name": "Season of the Witch",
       "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
+    },
+    {
+      "album": {
+        "name": "Classic Yardbirds Vol.1",
+        "url": "https://open.spotify.com/album/5vgLTfGzgr1UQq6pd3bU0U"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145960,
+      "name": "Shapes Of Things",
+      "url": "https://open.spotify.com/track/3xYMN0fbQkyJfofjsufO7b"
     },
     {
       "album": {
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182906,
       "name": "Sit With The Guru",
       "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 86693,
       "name": "The Good Mr. Square",
       "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"

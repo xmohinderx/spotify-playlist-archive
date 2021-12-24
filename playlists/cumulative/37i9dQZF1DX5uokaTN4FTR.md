@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Silky & TeeDee
+> The UK's biggest dance playlist! Cover: Ewan McVicar
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-11-03\* | 2021-12-17 |
 | [Colours](https://open.spotify.com/track/4BW2RnlPPYCVmiM2iLiVxm) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Colours](https://open.spotify.com/album/12iI9cnI21f6BfPsXGLdE9) | 2:41 | 2021-11-03\* | 2021-12-03 |
 | [Cut Me Loose \- Edit](https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI) | [Jethro Heston](https://open.spotify.com/artist/1Qj4wPnd5DKW7TXALK7Xfj), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Cut Me Loose \(Edit\)](https://open.spotify.com/album/1UWmbDu7nphgNFGPjuZrSR) | 3:22 | 2021-11-03\* |  |
+| [Dancing Cliché](https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Cliché](https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH) | 2:32 | 2021-12-24 |  |
 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 | 2021-12-17 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-03\* |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-11-03\* | 2021-11-05 |
@@ -73,6 +74,7 @@
 | [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 | 2021-11-03\* |  |
 | [soft spot](https://open.spotify.com/track/3BBFjy5w9S66h3ys6cQtvI) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/5A3dh1CIsZwBTppyUsiBtV) | 3:39 | 2021-11-03\* | 2021-12-10 |
 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 | 2021-12-10 |  |
+| [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2021-12-24 |  |
 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 | 2021-11-03\* | 2021-11-05 |
 | [Summer of Love](https://open.spotify.com/track/7HnNL3FBGGxSkllLDeqYLd) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Summer of Love](https://open.spotify.com/album/25lxthtPjEDKZAxkmq2w9b) | 3:15 | 2021-11-03\* | 2021-11-12 |
 | [Sweet Vibrations](https://open.spotify.com/track/5S1gAbJcWZy6ICn68Lsx2e) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Sweet Vibrations EP](https://open.spotify.com/album/62IsJzKQrSVzO2k2DIIcOw) | 2:40 | 2021-11-03\* |  |

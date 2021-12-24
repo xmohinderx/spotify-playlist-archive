@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "No Brain, No Pain",
+        "url": "https://open.spotify.com/album/6Tc9AZqtsPJLLzLbjyCBfO"
+      },
+      "artists": [
+        {
+          "name": "The Brains",
+          "url": "https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Black Jack Death Bet",
+      "url": "https://open.spotify.com/track/3QGVVYsXDDKMio22eEAvYI"
+    },
+    {
+      "album": {
         "name": "Welcome Back To Insanity Hall",
         "url": "https://open.spotify.com/album/4i5c1RomR4Wby8dpKljvHT"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Drinking from the Skull of My Favourite Enemy",
       "url": "https://open.spotify.com/track/1AgqItQXKJAFF4nas6J1Gr"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219480,
       "name": "End of Days",
       "url": "https://open.spotify.com/track/5WXEzE8A6DrAtCJueWV9Js"
@@ -640,7 +658,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 209973,
       "name": "Night Flier",
       "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
@@ -694,7 +712,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 202773,
       "name": "Not of This Earth",
       "url": "https://open.spotify.com/track/6xy4ql4ipxfRVjcJeY7ek8"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 145546,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/74YuAIgyAC6dRq4tLdUdDr"
@@ -802,7 +820,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212000,
       "name": "Ravenous",
       "url": "https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198000,
       "name": "Stray Cat Strut",
       "url": "https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho"

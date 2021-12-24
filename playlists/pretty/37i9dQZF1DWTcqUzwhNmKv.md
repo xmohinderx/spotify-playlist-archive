@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Three Days Grace on top of the biggest Metal playlist!
+> Slipknot on top of the biggest Metal playlist!
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 |
-| 2 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 |
-| 3 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 |
-| 4 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 |
-| 5 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 |
-| 6 | [Dead Inside](https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Dead Inside \(feat\. David Draiman of Disturbed\)](https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w) | 4:00 |
-| 7 | [Shadowminds](https://open.spotify.com/track/47qV9FAvLMUi5Ui6aTtyNT) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Shadowminds](https://open.spotify.com/album/2hfJXHar2eq0er33i9jAnc) | 3:53 |
-| 8 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 |
-| 9 | [Bastards](https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k) | 5:25 |
-| 10 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
-| 11 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
-| 12 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 |
-| 13 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 |
-| 14 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 |
+| 1 | [The Chapeltown Rag](https://open.spotify.com/track/4DQEhtFcX9nK0zWNjb1xBw) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Chapeltown Rag](https://open.spotify.com/album/4I3hdRt7CVofGcgbheQ2fk) | 4:51 |
+| 2 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 |
+| 3 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 |
+| 4 | [Dead Inside](https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Dead Inside \(feat\. David Draiman of Disturbed\)](https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w) | 4:00 |
+| 5 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 |
+| 6 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 |
+| 7 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 |
+| 8 | [Shadowminds](https://open.spotify.com/track/47qV9FAvLMUi5Ui6aTtyNT) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Shadowminds](https://open.spotify.com/album/2hfJXHar2eq0er33i9jAnc) | 3:53 |
+| 9 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 |
+| 10 | [Bastards](https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k) | 5:25 |
+| 11 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
+| 12 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
+| 13 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 |
+| 14 | [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 |
 | 15 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 |
 | 16 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Eskimo Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 |
 | 17 | [Anything at All](https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Anything at All](https://open.spotify.com/album/62VQpaKM1gEjzZye2K7oQn) | 4:06 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [Under Your Skin](https://open.spotify.com/track/4A0lu7ZxNwGFia8AzY8ZXy) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Under Your Skin](https://open.spotify.com/album/5yh12susUWiXc4kRRfKH5o) | 3:23 |
 | 60 | [Monster Truck](https://open.spotify.com/track/5FH2JoAe00DL628PTwKPH9) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Monster Truck](https://open.spotify.com/album/0v4RSjqKmZn6lorB7HymsC) | 2:55 |
 
-Snapshot ID: `MTY0MDAwNzE2NywwMDAwMDRiYzAwMDAwMTdkZDgwYjZkYTIwMDAwMDE3ZGMyNDFkZGFh`
+Snapshot ID: `MTY0MDMwNDA2MCwwMDAwMDRiZDAwMDAwMTdkZTliZGE2YjEwMDAwMDE3ZGQ4MGQ3MjE2`

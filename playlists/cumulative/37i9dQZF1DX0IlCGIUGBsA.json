@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 177426,
       "name": "ABC",
       "url": "https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7"
@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Katy Perry - Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "California Gurls",
+      "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+    },
+    {
+      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
       },
@@ -294,7 +316,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 309493,
       "name": "Car Wash",
       "url": "https://open.spotify.com/track/0LoZsvlBfEoNGyNX3HhYZk"
@@ -316,6 +338,24 @@
       "duration_ms": 215653,
       "name": "Celebration - Single Version",
       "url": "https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4"
+    },
+    {
+      "album": {
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/0oiS0f0gbyZBKfdoCBgutN"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273933,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/4jKojTEsrJtUU5rNp3gbGQ"
     },
     {
       "album": {
@@ -421,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Playlist: The Best Of The Trammps",
+        "url": "https://open.spotify.com/album/2fbPRtAt1i5f68lZegx1iB"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213840,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"
+    },
+    {
+      "album": {
         "name": "Rock Of The Westies (Remastered)",
         "url": "https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x"
       },
@@ -497,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/6tXjP6xgPJ7Xr1igrO6bOE"
+    },
+    {
+      "album": {
         "name": "The Rokstarr Hits Collection",
         "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
       },
@@ -562,7 +638,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
@@ -602,7 +678,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 219733,
       "name": "Footloose",
       "url": "https://open.spotify.com/track/6ijK0byhkfjqMQcLrzSIbl"
@@ -735,6 +811,24 @@
     },
     {
       "album": {
+        "name": "We Are Family",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "album": {
         "name": "Definitive Groove: Sister Sledge",
         "url": "https://open.spotify.com/album/6Wx25BBKR9mTNnndloRRWs"
       },
@@ -764,7 +858,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 239240,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy"
@@ -818,7 +912,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217653,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
@@ -854,7 +948,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 289186,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/1u0aIMrEBvFkRtgcg264gW"
@@ -962,7 +1056,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 325266,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
@@ -1016,7 +1110,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 285093,
       "name": "Into the Groove",
       "url": "https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N"
@@ -1052,7 +1146,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 194533,
       "name": "Jessie's Girl",
       "url": "https://open.spotify.com/track/1sgfjgLRCqSfndpofU8T2C"
@@ -1078,6 +1172,24 @@
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J"
+    },
+    {
+      "album": {
+        "name": "At Worst...The Best Of Boy George And Culture Club",
+        "url": "https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241600,
+      "name": "Karma Chameleon",
+      "url": "https://open.spotify.com/track/48O0GrGJWml3DzHhC5sJ7a"
     },
     {
       "album": {
@@ -1132,7 +1244,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 457133,
       "name": "Let's Dance - 1999 Remaster",
       "url": "https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm"
@@ -1168,7 +1280,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197573,
       "name": "More Than A Woman (2007 Remastered Saturday Night Fever LP Version)",
       "url": "https://open.spotify.com/track/0vDeTWoAooavG2zcCKHmI4"
@@ -1348,7 +1460,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 216346,
       "name": "September",
       "url": "https://open.spotify.com/track/06rPFgQsKS607RhYIqCmGq"
@@ -1402,7 +1514,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231920,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/3dTNNizDOulTTV5uwtEGct"
@@ -1510,7 +1622,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 139120,
       "name": "The Locomotion",
       "url": "https://open.spotify.com/track/53UXqZaarqFPAFEy7dT1m1"
@@ -1528,7 +1640,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 139733,
       "name": "Think",
       "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
@@ -1546,7 +1658,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
@@ -1658,7 +1770,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 249960,
       "name": "Walk Of Life",
       "url": "https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3"
@@ -1784,7 +1896,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 165066,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/7bDxiHrazDoD3sOt9JjSDD"
@@ -1802,7 +1914,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 165080,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405"

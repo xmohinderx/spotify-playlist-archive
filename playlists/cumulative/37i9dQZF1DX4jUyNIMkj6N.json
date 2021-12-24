@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 176706,
       "name": "Aha-Aha",
       "url": "https://open.spotify.com/track/3sVPDzUFOlf0B9bKDlGA03"
@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/6J4FJ08uYXTNQ4Tfz3086J"
+      },
+      "artists": [
+        {
+          "name": "Claudia Scott",
+          "url": "https://open.spotify.com/artist/777v7gGGlGEYyqqvinQ481"
+        },
+        {
+          "name": "Casino Steel",
+          "url": "https://open.spotify.com/artist/58kOvhIZpOMFKjNND4ucuj"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326314,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
+    },
+    {
+      "album": {
         "name": "Alle snakker sant",
         "url": "https://open.spotify.com/album/22vJhT8LsQgC27izuQ7Pd3"
       },
@@ -106,7 +128,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 168373,
       "name": "Alle snakker sant",
       "url": "https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm"
@@ -418,7 +440,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210924,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/4BoKK8Q976nYHey08e7Ni7"
@@ -642,7 +664,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 169413,
       "name": "Kings and Aces",
       "url": "https://open.spotify.com/track/00FjPtTqy9JtPsjwVJMRxw"
@@ -678,7 +700,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220080,
       "name": "Look At The Light",
       "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
@@ -732,7 +754,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 293760,
       "name": "Modern Drift",
       "url": "https://open.spotify.com/track/2BFL0kBinCKVMCwJolJnKj"
@@ -833,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "album": {
         "name": "Right as Rain",
         "url": "https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2"
       },
@@ -844,7 +884,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 278095,
       "name": "Right as Rain",
       "url": "https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK"
@@ -862,7 +902,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258720,
       "name": "River - Live",
       "url": "https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq"
@@ -898,7 +938,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 324138,
       "name": "Siren",
       "url": "https://open.spotify.com/track/7KvtfHiJ6Egxz27DYaOO59"
@@ -916,7 +956,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 317053,
       "name": "Sj\u00e5aren",
       "url": "https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ"
@@ -1100,7 +1140,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250850,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3fXbUuDBRoe0PMQ3BItnAc"
@@ -1122,7 +1162,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 403911,
       "name": "Vega",
       "url": "https://open.spotify.com/track/2Vo7t22exoxAEqjCUJMpJk"
@@ -1216,7 +1256,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 271280,
       "name": "What Hurts the Most (Is Knowing You Want to Leave)",
       "url": "https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s"
@@ -1270,7 +1310,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 257440,
       "name": "With Tomorrow/I'm On Fire",
       "url": "https://open.spotify.com/track/4fcQm79lQN2GJHRYq75sSO"

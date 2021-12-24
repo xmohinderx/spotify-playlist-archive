@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192000,
       "name": "B\u00f3 m\u00f9",
       "url": "https://open.spotify.com/track/4UVPRsqHVlIebCbifU26V6"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 185538,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/3CMwVMznjJKjWVFLayfHoW"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 289979,
       "name": "Deep Feelings",
       "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 287786,
       "name": "Into The Blue",
       "url": "https://open.spotify.com/track/5HRtJMdJWaRmyHi5minx38"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 299220,
       "name": "Moments Of A Dream",
       "url": "https://open.spotify.com/track/7oEJzwoxETOxypcgJWPCLV"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 277894,
       "name": "Never Let Me Go - Chill Version",
       "url": "https://open.spotify.com/track/07zMzbryNCeY7NDK6xbOWD"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 270344,
       "name": "Nocturne No 20 - Chill With Me Mix",
       "url": "https://open.spotify.com/track/2cGPrSLattyj0N1FToPcmz"
@@ -1238,6 +1238,24 @@
       "duration_ms": 214358,
       "name": "Once In A Dream - Chill Original",
       "url": "https://open.spotify.com/track/5tuNgB2oA7edy3Nw9mIQ6W"
+    },
+    {
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/7rpKRo2Wd80NYMd0rz4VJR"
+      },
+      "artists": [
+        {
+          "name": "Rena Jones",
+          "url": "https://open.spotify.com/artist/09qbbuYgbAysaJDRlCkbT6"
+        }
+      ],
+      "date_added": "2021-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341960,
+      "name": "Open Me Slowly",
+      "url": "https://open.spotify.com/track/1DDXDrp9MHoL5rESiyyrLi"
     },
     {
       "album": {
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 345600,
       "name": "Platonic Jive",
       "url": "https://open.spotify.com/track/3TjIRkNUnTpS3TaBCSCdP6"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 283793,
       "name": "Skydiving",
       "url": "https://open.spotify.com/track/61avTFNU8w8W6I358eMhUl"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 224615,
       "name": "Terme di Caracalla",
       "url": "https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb"
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250416,
       "name": "Times Square 6 AM",
       "url": "https://open.spotify.com/track/0uDSrKJQSzdaYFDkh502yE"

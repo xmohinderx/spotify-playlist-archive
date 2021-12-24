@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202907,
       "name": "1234",
       "url": "https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214536,
       "name": "Cold Light",
       "url": "https://open.spotify.com/track/6UUMfFAaxOeAIqKJdInozb"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 253445,
       "name": "Cross Off",
       "url": "https://open.spotify.com/track/1UtLHK1KdLD1haUlY5YoSg"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 279213,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 217720,
       "name": "Dumptruck",
       "url": "https://open.spotify.com/track/3a0xTF3rUKUcUbzsz7A2oM"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 315177,
       "name": "Nero Forte",
       "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 189746,
       "name": "Nimrod",
       "url": "https://open.spotify.com/track/5cUziBfFGOHrkXFE4qAgKe"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 217099,
       "name": "The End",
       "url": "https://open.spotify.com/track/6CRSmqVeFPd4zwvlHhgFrj"
@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"
@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179906,
       "name": "Wake up!",
       "url": "https://open.spotify.com/track/7jTvkoH7CRx0rIhFW5OM8b"
@@ -2406,6 +2406,24 @@
       "duration_ms": 165891,
       "name": "Warrior (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz"
+    },
+    {
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "Wash It All Away",
+      "url": "https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g"
     },
     {
       "album": {
@@ -2460,6 +2478,24 @@
       "duration_ms": 172826,
       "name": "When Legends Rise",
       "url": "https://open.spotify.com/track/4HIYFlCh5aZq0jwvsn2DoK"
+    },
+    {
+      "album": {
+        "name": "Who Do You Trust?",
+        "url": "https://open.spotify.com/album/4o6vvGb6VGYz725fP45kAx"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196863,
+      "name": "Who Do You Trust?",
+      "url": "https://open.spotify.com/track/3YNkyMBmgxqqyVypQPweIS"
     },
     {
       "album": {

@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 249044,
       "name": "Back Together",
       "url": "https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 133000,
       "name": "Boy Tears",
       "url": "https://open.spotify.com/track/6wME6kY48HqWBWrKmaY74u"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 221744,
       "name": "Children",
       "url": "https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 234754,
       "name": "dance in the mirror",
       "url": "https://open.spotify.com/track/3m2e3LEMygUgU2JbJ420Iu"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179527,
       "name": "Did You Settle Down Too Soon",
       "url": "https://open.spotify.com/track/5T7PoODCm2YYd5N4IbWUUr"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 169453,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/3fpyiBLsUT22KK9p4EQTMp"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186282,
       "name": "EAT",
       "url": "https://open.spotify.com/track/2si3LIfTdDHntwQCZNsVyZ"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 150240,
       "name": "Enough of You",
       "url": "https://open.spotify.com/track/0laVxLujsbSTA0wwyXN8hK"
@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Got No Choice",
+        "url": "https://open.spotify.com/album/1529CgDLI704QwWw5A5OFS"
+      },
+      "artists": [
+        {
+          "name": "Brooke Eden",
+          "url": "https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201542,
+      "name": "Got No Choice",
+      "url": "https://open.spotify.com/track/0bZn83nTisBT1OCb7bA3rw"
+    },
+    {
+      "album": {
         "name": "Gucci Knife (feat. MASN)",
         "url": "https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 151642,
       "name": "Gucci Knife (feat. MASN)",
       "url": "https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 169400,
       "name": "HARDCORE HAPPY",
       "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
@@ -792,7 +810,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 165600,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/617rg45LEx76r1paWSNpZy"
@@ -810,7 +828,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190984,
       "name": "Hell Is A Crowded Room",
       "url": "https://open.spotify.com/track/4AyMhWSYyJCqVCpODpoUB6"
@@ -828,7 +846,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 156696,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/09DfLZY6TLOwzweoudTq4T"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 185698,
       "name": "I'll Answer (i love you mom)",
       "url": "https://open.spotify.com/track/3uyoqx222UxlCRhl3uYvs4"
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210218,
       "name": "May Flowers",
       "url": "https://open.spotify.com/track/6ONUQ2TUUjRVlERNRxztz1"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 175094,
       "name": "Not Even In Vegas",
       "url": "https://open.spotify.com/track/7py49RvdjMaZCEDPzMTgo9"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 152176,
       "name": "Personal",
       "url": "https://open.spotify.com/track/0ysIMlVNmEuXU6qudDc0vm"
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 140903,
       "name": "pink socks",
       "url": "https://open.spotify.com/track/5IN43BAneT10FMf3jBoAgY"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 195907,
       "name": "Pride First",
       "url": "https://open.spotify.com/track/4ZjCl1QB8VxPjkFPwSlrbi"
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 262973,
       "name": "Runaway Blues",
       "url": "https://open.spotify.com/track/1o0vmmRlnEqsEHVMUsZZFB"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197243,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 220327,
       "name": "SHOW OFF (feat. Nicole Scherzinger)",
       "url": "https://open.spotify.com/track/1jpnnxTKqfvSWl6MccJjAd"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 244693,
       "name": "Something To Say",
       "url": "https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 185231,
       "name": "Tender feat. Yoke Lore",
       "url": "https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 216053,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/2RwAlmqqMPsBMYC4PewkEt"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178090,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/4nOv98rbyxOyLTGvjYenrJ"
@@ -1794,6 +1812,24 @@
       "duration_ms": 193154,
       "name": "Trevor",
       "url": "https://open.spotify.com/track/1gFbTi87E3RCawg9DXzPu1"
+    },
+    {
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/2wNEyDCJp051ozAuYkIH1w"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224924,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/60OOrdAxlAwamsHAhoJwBa"
     },
     {
       "album": {
@@ -1848,7 +1884,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182268,
       "name": "Your Best Friend",
       "url": "https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k"

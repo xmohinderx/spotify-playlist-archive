@@ -318,7 +318,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 178420,
       "name": "Bedroom Eyes (feat. Studio Killers)",
       "url": "https://open.spotify.com/track/4XP2xY8tUYed1cceuh24Q8"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195962,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/3Ku6ddOAjolofrpU0rwWBj"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202926,
       "name": "Easy :)",
       "url": "https://open.spotify.com/track/2jPgrYdSzHarxh2v6O6aUc"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 245471,
       "name": "Feed The Fire (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178729,
       "name": "Free",
       "url": "https://open.spotify.com/track/1pR1dztObMe3vjlkQk78MJ"
@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 221816,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/0RBabLLjDBWUResDuvf24V"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210820,
       "name": "Money Money",
       "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 201290,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3EAwcVzkJyIp481tAtYeR0"
@@ -2436,6 +2436,28 @@
       "duration_ms": 209298,
       "name": "No Rest",
       "url": "https://open.spotify.com/track/6kjSIZlRDnYVmu3xkSKhMz"
+    },
+    {
+      "album": {
+        "name": "O Retha",
+        "url": "https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Crush Club",
+          "url": "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228407,
+      "name": "O Retha",
+      "url": "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
     },
     {
       "album": {
@@ -3056,6 +3078,32 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "album": {
+        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
+        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Jarvis Cocker",
+          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
+      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
     },
     {
       "album": {
