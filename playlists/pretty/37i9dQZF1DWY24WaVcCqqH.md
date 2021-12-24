@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY24WaVcCqqH.md) - [plain]
 
 > All the sweetest melodies, in one place.
 
+[Spotify](https://open.spotify.com/user/spotify) - 937,448 likes - 65 songs - 3 hr 44 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No](https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(Deluxe Version\)](https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN) | 3:03 |

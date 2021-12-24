@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/33eWAE7F4bBUAjGtJVtCYB.md) - [plain]
 
 > För att fira de blå/gula färgerna har vi grävt djupt i den svenska låtskatten och sammanställt en spellista med 40 älskade klassiker\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 877 likes - 41 songs - 2 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [National Anthem Sweden \- Du Gamla, Du Fria](https://open.spotify.com/track/7nL0243awu5NCbQseIro2q) | [Kpm National Anthems](https://open.spotify.com/artist/3ASrAFrD7EMO3yISaDjs78) | [National Anthem Sweden \(Du Gamla, Du Fria\)](https://open.spotify.com/album/1qqnYZ5RAnPifhypdjCwog) | 0:47 |

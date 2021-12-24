@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: Kay Flock
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,583,486 likes - 99 songs - 4 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dead Wrong \(feat\. Future\)](https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:53 |

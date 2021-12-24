@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yNDQ30MDO6.md) - [plain]
 
 > The best of Biffy Clyro, all in one place\. Mon the Biff!
 
+[Spotify](https://open.spotify.com/user/spotify) - 78,063 likes - 50 songs - 3 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 |

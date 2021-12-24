@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBNkoD4HmYd.md) - [plain]
 
 > A selection of highlights from Vivaldi's celebrated concertos and choral works, proving there's way more to this red\-headed baroque legend than just The Four Seasons.
 
+[Spotify](https://open.spotify.com/user/spotify) - 243,540 likes - 61 songs - 3 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Four Seasons \- Violin Concerto in F Minor, Op\. 8 No\. 4, RV 297 "Winter": I\. Allegro non molto](https://open.spotify.com/track/64ZxBE1ZgK4C0lGljXzDcG) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/1BxxmokA4eBg1EBpfYP1fC) | 3:24 |

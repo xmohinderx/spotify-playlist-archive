@@ -1,7 +1,12 @@
 {
   "description": "Throw it back to the biggest, best hits of the 2000's.",
   "name": "Throwback Workout",
-  "snapshot_id": "MTY0MDMxNTc0MiwwMDAwMDAwMDY1ZTJkYjFmYTQ5NjhmZDQ0MzBmYWJhNjM5YzExOWVm",
+  "num_followers": 1166607,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM2NywwMDAwMDAwMDY1ZTJkYjFmYTQ5NjhmZDQ0MzBmYWJhNjM5YzExOWVm",
   "tracks": [
     {
       "added_at": "2021-12-20 23:04:41",

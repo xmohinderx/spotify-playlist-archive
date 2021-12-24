@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4lwqQxljF1Rge3X4eMzdza.md) - [plain]
 
 > Missa inte Kendrick Lamar på Azalea\-scenen på LÖRDAG / 21.00
 
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 10 songs - 42 min 35 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/7bre6yd84LZ6MFoTppmHja) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/0ljGAdQ5EmiJE52O1VsYAM) | 4:07 |

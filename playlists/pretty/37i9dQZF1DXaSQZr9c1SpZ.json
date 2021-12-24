@@ -1,7 +1,12 @@
 {
   "description": "The best of Bon Iver, and a bit more of founder Justin Vernon's other projects.",
   "name": "This Is Bon Iver",
-  "snapshot_id": "MTY0MDMxNTc3NywwMDAwMDAwMDJlMTUxYzEyYWMyMjhmZjRmYzczN2Q2ODIxNzY0Nzdi",
+  "num_followers": 210514,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQwMiwwMDAwMDAwMDJlMTUxYzEyYWMyMjhmZjRmYzczN2Q2ODIxNzY0Nzdi",
   "tracks": [
     {
       "added_at": "2019-08-08 15:43:21",

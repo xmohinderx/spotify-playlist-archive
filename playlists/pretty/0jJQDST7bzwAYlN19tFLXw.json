@@ -1,6 +1,11 @@
 {
   "description": "",
   "name": "Covered in Country",
+  "num_followers": 25,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MjEsYTQ3NDBhMzgzM2YxNDg0MTFhNjk5NzRjNTA1YzY2YmU0YjlmZWY0Nw==",
   "tracks": [
     {

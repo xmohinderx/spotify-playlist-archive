@@ -1,7 +1,12 @@
 {
   "description": "Real nasty house. Cover: Wenzday",
   "name": "Nasty Bits",
-  "snapshot_id": "MTY0MDMxNTY0MywwMDAwMDAwMDhmOGJlODZjYTRiZGU4ZjBmY2I0NDAzMDI2MTEwYTIz",
+  "num_followers": 361967,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3MiwwMDAwMDAwMDhmOGJlODZjYTRiZGU4ZjBmY2I0NDAzMDI2MTEwYTIz",
   "tracks": [
     {
       "added_at": "2021-10-29 04:00:00",

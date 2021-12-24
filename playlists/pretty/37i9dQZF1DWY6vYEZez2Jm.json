@@ -1,6 +1,11 @@
 {
   "description": "Essential music from the singular artist.",
   "name": "This Is Grimes",
+  "num_followers": 81549,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU4MzQ4Nzg3OCwwMDAwMDAwNzAwMDAwMTcwOWQyMmQwNjcwMDAwMDE3MGFmM2I4NDE4",
   "tracks": [
     {

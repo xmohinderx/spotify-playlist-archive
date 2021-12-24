@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkGQGk1ZjrI.md) - [plain]
 
 > The late, great Elliott Smith\. RIP
 
+[Spotify](https://open.spotify.com/user/spotify) - 52,179 likes - 22 songs - 1 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Between the Bars](https://open.spotify.com/track/3if4ZtotldfTOuzSzt7Xnx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or: Expanded Edition](https://open.spotify.com/album/7dCiwjBQsOzLF44O4i4h1k) | 2:21 |

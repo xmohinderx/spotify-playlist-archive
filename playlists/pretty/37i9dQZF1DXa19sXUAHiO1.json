@@ -1,7 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past.",
   "name": "Good Times, Great Oldies",
-  "snapshot_id": "MTY0MDMxNTc2OCwwMDAwMDAwMDczZjM0M2MyMDdiMzAxNmE0YzA0NDJlNmEzNGQzZTcw",
+  "num_followers": 828637,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM5MiwwMDAwMDAwMDczZjM0M2MyMDdiMzAxNmE0YzA0NDJlNmEzNGQzZTcw",
   "tracks": [
     {
       "added_at": "2021-12-14 20:07:58",

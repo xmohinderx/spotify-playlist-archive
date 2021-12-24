@@ -1,7 +1,12 @@
 {
   "description": "Nighttime is the right time for these party hits!",
   "name": "Country Nights",
-  "snapshot_id": "MTY0MDMxNTU2OCwwMDAwMDAwMGRiNzQ1NmUzNTU5ZTUyZmQ0OTY1N2RkNWI0NWQ0M2Vj",
+  "num_followers": 525391,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIwMCwwMDAwMDAwMGRiNzQ1NmUzNTU5ZTUyZmQ0OTY1N2RkNWI0NWQ0M2Vj",
   "tracks": [
     {
       "added_at": "2021-12-03 05:01:00",

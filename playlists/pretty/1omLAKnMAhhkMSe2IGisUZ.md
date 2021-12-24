@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1omLAKnMAhhkMSe2IGisUZ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 524 likes - 10 songs - 34 min 5 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lonely Sea](https://open.spotify.com/track/44fLoZlzaiQtR0yCueit52) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Usa](https://open.spotify.com/album/6yshVOnq0d3AS97exK6qJd) | 2:23 |

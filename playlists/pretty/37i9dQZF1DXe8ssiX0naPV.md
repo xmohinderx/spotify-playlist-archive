@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8ssiX0naPV.md) - [plain]
 
 > A collection of some of the most romantic and sensual poems in the English language.
 
+[Spotify](https://open.spotify.com/user/spotify) - 48,958 likes - 36 songs - 1 hr 3 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In the grace of wit, of tongue, and face](https://open.spotify.com/track/3SBnnij73Nu7RS7l6i94pj) | [Walter Raleigh](https://open.spotify.com/artist/4bhdxv3FEWiwfrm1heNZfz), [Ralph Fiennes](https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN), [Theatre of Early Music](https://open.spotify.com/artist/6DygtRG7ud7yoUK2vvQq7m) | [Theatre Of Early Music: Love Bade Me Welcome \- Songs and Poetry From the Renaissance](https://open.spotify.com/album/4uEtJuhfmSgbKkmDGA4Ri5) | 1:22 |

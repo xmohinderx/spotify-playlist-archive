@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: Oh Si Young\(오시영\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 209,744 likes - 52 songs - 3 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Something missing between us](https://open.spotify.com/track/2HJGLIMw4jK21i93h7OLTg) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Nothing Serious](https://open.spotify.com/album/5aSX6Isg7e4xCJ7lilMuXn) | 2:35 |
@@ -59,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [Shining, My 2006](https://open.spotify.com/track/0Aw8TF0SpyERLi4w0dXUi8) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [2006](https://open.spotify.com/album/6lumjI581TEGHeTviSikrm) | 4:49 |
 | 52 | [Starlight](https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2) | 4:33 |
 
-Snapshot ID: `MTY0MDMxNTYzMywwMDAwMDAwMDViNGU2ZTk0NGRjOWEzMWQ2ODZjMjY4NjVhZDBhNDlh`
+Snapshot ID: `MTY0MDMyNDI2MiwwMDAwMDAwMDViNGU2ZTk0NGRjOWEzMWQ2ODZjMjY4NjVhZDBhNDlh`

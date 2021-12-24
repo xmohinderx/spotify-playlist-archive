@@ -1,7 +1,12 @@
 {
   "description": "Get your beast mode on!",
   "name": "Beast Mode",
-  "snapshot_id": "MTY0MDMxNTcyNiwwMDAwMDAwMDlmMWViNjZmZDYyMTFjY2JjNzFhMzQzMjhkMWNmZGZk",
+  "num_followers": 8580218,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM1MiwwMDAwMDAwMDlmMWViNjZmZDYyMTFjY2JjNzFhMzQzMjhkMWNmZGZk",
   "tracks": [
     {
       "added_at": "2021-12-08 21:16:44",

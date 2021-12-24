@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3l6cfhKgkSNxYydKiD9o4G.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 610 likes - 36 songs - 2 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Woke Up This Morning \- Official Theme Tune Of 'The Sopranos'](https://open.spotify.com/track/2mcD3BFihnK62bOstqJU7K) | [Alabama 3](https://open.spotify.com/artist/25zUD40u8M2kJmdcabBzrz) | [Woke Up This Morning \(Official Theme Tune Of 'The Sopranos'\)](https://open.spotify.com/album/0YLKxZgqJlHqezXJIGpzSV) | 4:09 |

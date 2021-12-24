@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
+[Spotify](https://open.spotify.com/user/spotify) - 45,679 likes - 70 songs - 4 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daydream](https://open.spotify.com/track/2maRlyHobUhKKO6rF9S8ez) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Daydream](https://open.spotify.com/album/0G1SAm9dDdCyDEksXPQTp0) | 2:17 |

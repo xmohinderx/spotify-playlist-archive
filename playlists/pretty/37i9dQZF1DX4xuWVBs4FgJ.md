@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > Dinner with Friends? Here's the perfect playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,892 likes - 100 songs - 5 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Head And Heart On Fire](https://open.spotify.com/track/4rqe64hyIfoMfiBcvVZqfT) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Head And Heart On Fire](https://open.spotify.com/album/5BVGCXvrNere2MrR5QbWVK) | 2:35 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 99 | [No One's Gonna Love You](https://open.spotify.com/track/2an7S0pfafUr6YNabYXIl0) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [No One's Gonna Love You](https://open.spotify.com/album/1VOlQsvshuMrW7y8r6JGOY) | 3:52 |
 | 100 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
 
-Snapshot ID: `MTY0MDMxNTY4NiwwMDAwMDAwMDIzZmY4MTgwNjI3OTgzNDhkNjJkMzhjYjZkNGE1YmY4`
+Snapshot ID: `MTY0MDMyNDMxNCwwMDAwMDAwMDIzZmY4MTgwNjI3OTgzNDhkNjJkMzhjYjZkNGE1YmY4`

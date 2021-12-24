@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3D8eZBmcXjAjFzUjYtrl6f.md) - [plain]
 
 > To the best mother in the world.
 
+[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 29 songs - 2 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mama Hold My Hand](https://open.spotify.com/track/2GSNEAIMF213VtcEcrh3M0) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/1h0R2ByEX49QfaeTzqm7EK) | 5:08 |

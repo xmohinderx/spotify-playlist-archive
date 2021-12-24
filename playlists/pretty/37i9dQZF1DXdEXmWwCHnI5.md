@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXmWwCHnI5.md) - [plain]
 
 > Job talk, work\-life rants, office espionage, and more\. \[Warning: Explicit Content\]
 
+[Spotify](https://open.spotify.com/user/spotify) - 13,837 likes - 27 songs - 1 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Creepy Guy @ Work](https://open.spotify.com/track/195feLuw6nZ1RP3OIS4nMy) | [Dane Cook](https://open.spotify.com/artist/6RAiPa076RxBeTBxWO8Xfh) | [I Did My Best \- Greatest Hits](https://open.spotify.com/album/13Qo4umsHfZIAnbPiJdu4P) | 3:22 |

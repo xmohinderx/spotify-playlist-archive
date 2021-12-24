@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCaDvxADWZT.md) - [plain]
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
+[Spotify](https://open.spotify.com/user/spotify) - 51,774 likes - 92 songs - 5 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Irish Rover \(feat\. The Dubliners\)](https://open.spotify.com/track/2bi81jmDAmBJ4LeVmfyaVG) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Very Best of The Pogues](https://open.spotify.com/album/3wRRu2P6cndiyru88yCXnL) | 4:08 |

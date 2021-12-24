@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno and tech house.
 
+[Spotify](https://open.spotify.com/user/spotify) - 670,877 likes - 60 songs - 5 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Quasar](https://open.spotify.com/track/6KrnEzLSoi4XR5u3bLMPsu) | [Gidge](https://open.spotify.com/artist/7aibxFH8hIlSUlXgshCgAP) | [New Light](https://open.spotify.com/album/7FhQf65SB8VtD404V6suX1) | 5:52 |
 | 60 | [Ailurus](https://open.spotify.com/track/1MMNg2Inzhu3b6AIZ1Fwmy) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Ailurus](https://open.spotify.com/album/422ictl5gXwBCKWtJRED4y) | 6:43 |
 
-Snapshot ID: `MTY0MDMxNTYxMiwwMDAwMDAwMGExNzhhZThmOWIwMGY1OTMzMzRlNjQ0MzE4MzE4YTFl`
+Snapshot ID: `MTY0MDMyNDI0MywwMDAwMDAwMGExNzhhZThmOWIwMGY1OTMzMzRlNjQ0MzE4MzE4YTFl`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/45Cyxm3R3Gpn2upYrjcPbc.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 345 likes - 66 songs - 4 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Touch The Sky](https://open.spotify.com/track/6mxyfdyF4LD7PctU3UNyjF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Late Registration](https://open.spotify.com/album/4GRDFQ9HRoO0by8H0r2a3I) | 3:56 |

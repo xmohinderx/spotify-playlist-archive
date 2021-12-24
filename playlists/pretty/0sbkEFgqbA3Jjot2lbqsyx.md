@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0sbkEFgqbA3Jjot2lbqsyx.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 50 songs - 2 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love is blue](https://open.spotify.com/track/2Spa687CxXQP5Ll8dzeLZP) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi), [A.Popp](https://open.spotify.com/artist/7FhixE55GL7MxjQpY4E4xD), [P.Court](https://open.spotify.com/artist/0BsbHRtvGE3HI4vdR4sobs) | [Love is Blue The very best of Paul Mauriat](https://open.spotify.com/album/4rhcKC5XGn9sfJJ4xNgNE1) | 2:35 |

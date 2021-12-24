@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pbyATDkUwW.md) - [plain]
 
 > Les plus grands romans et autres nouvelles de la littérature française.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,790 likes - 95 songs - 16 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Voltaire \- Jeannot et Colin](https://open.spotify.com/track/5RoscZwsFWbDwAte0SvOaB) | [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c), [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm), [Pierre Capritz](https://open.spotify.com/artist/5wv5eODmp2fKciuvU6Au9G) | [French Short Stories, Vol\. 1: Read in French by Armand and Louise Bégué and Pierre Capritz](https://open.spotify.com/album/310F9BY1VdIemtgDr0ac0y) | 19:41 |

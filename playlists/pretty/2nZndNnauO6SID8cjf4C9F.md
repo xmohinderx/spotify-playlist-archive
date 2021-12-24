@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2nZndNnauO6SID8cjf4C9F.md) - [plain]
 
 > MMG top picks chosen by Spotify.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,126 likes - 40 songs - 2 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Box Chevy](https://open.spotify.com/track/0UbPJq9RKKDXwXUAIMIHiq) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Box Chevy](https://open.spotify.com/album/0SqDuYLzfAlzcWyAF3KLl4) | 3:03 |

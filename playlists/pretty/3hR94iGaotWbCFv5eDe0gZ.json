@@ -1,6 +1,11 @@
 {
   "description": "Shady Records top picks chosen by Spotify.",
   "name": "Shady Records Spotify Picks",
+  "num_followers": 91,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "Nyw4YWVkODg2MTg3OWI0ZmI3OTRmZTk3ZWRjMjY1ZmJiMmE3YzNhZWI4",
   "tracks": [
     {

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > Old makes new\. Cover: Charley Crockett
 
+[Spotify](https://open.spotify.com/user/spotify) - 215,963 likes - 100 songs - 5 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Need Your Love](https://open.spotify.com/track/1e2CBIOurnWTSbsaSv2lvA) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Need Your Love](https://open.spotify.com/album/43UCwuZT8W9u463ZiQc6Qp) | 3:21 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 |
 | 100 | [Motorcycle](https://open.spotify.com/track/4qd7c6XSzByd6Dz1QdLAnV) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Motorcycle](https://open.spotify.com/album/1jQcb2lUXTMt27UH9XjquE) | 3:06 |
 
-Snapshot ID: `MTY0MDMxNTcyMCwwMDAwMDAwMGJlZWZkOTE1YjhmMjBmMzZlOGVjMTBlYzIxMDVmOTlm`
+Snapshot ID: `MTY0MDMyNDM0NywwMDAwMDAwMGJlZWZkOTE1YjhmMjBmMzZlOGVjMTBlYzIxMDVmOTlm`

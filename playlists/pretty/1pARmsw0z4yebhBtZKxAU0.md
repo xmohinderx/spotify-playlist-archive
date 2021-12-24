@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1pARmsw0z4yebhBtZKxAU0.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 71 songs - 4 hr 47 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In Kind](https://open.spotify.com/track/3wYaB6APPouNZ8DzLblbEH) | [Braids](https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i) | [In Kind // Amends](https://open.spotify.com/album/1QcS2sshd9Y9sOuJ8d9Fg6) | 6:26 |

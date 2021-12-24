@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k1GSjYBi0z.md) - [plain]
 
 > During the height of the 60s, no one knew how to convey the message of love and peace better than the Beatles.
 
+[Spotify](https://open.spotify.com/user/spotify) - 280,000 likes - 50 songs - 2 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All You Need Is Love \- Remastered](https://open.spotify.com/track/2u8yti7fZtXMbwqex7M0DZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine \(Remastered\)](https://open.spotify.com/album/47bcKzmKgmMPHXNVOWpLiu) | 3:51 |

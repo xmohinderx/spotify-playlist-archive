@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 
 > These songs will make you feel better\. Or maybe worse.
 
+[Spotify](https://open.spotify.com/user/spotify) - 216,305 likes - 25 songs - 1 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [F\*\*kin' Perfect](https://open.spotify.com/track/4SEZthmPtszZPaktPLRX6J) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:33 |
@@ -32,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 | 24 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
 | 25 | [Look What You Made Me Do](https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:31 |
 
-Snapshot ID: `MTY0MDMxNTQ4NywwMDAwMDAwMDNkOTA2NzFkZWNhNzA1ZmRhMWExOTYwMGE4OTJjNWMx`
+Snapshot ID: `MTY0MDMyNDEyMCwwMDAwMDAwMDNkOTA2NzFkZWNhNzA1ZmRhMWExOTYwMGE4OTJjNWMx`

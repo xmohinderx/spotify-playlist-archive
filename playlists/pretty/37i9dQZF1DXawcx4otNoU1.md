@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > This is the perfect playlist for those cozy moments.
 
+[Spotify](https://open.spotify.com/user/spotify) - 326,935 likes - 112 songs - 7 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
@@ -119,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 111 | [If The Creek Don’t Rise](https://open.spotify.com/track/7h6Oh66oR8J20m9yQeewvv) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Paupers Field](https://open.spotify.com/album/5qfvn5bKvuUUcfUScmVSEz) | 3:24 |
 | 112 | [The World's Smiling Now](https://open.spotify.com/track/0uih5xFdBDFIUrqqLbMbXh) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/36C2aKoHatN8ZQRmyW5z3z) | 4:53 |
 
-Snapshot ID: `MTY0MDMxNTc4NSwwMDAwMDAwMGExN2EyNDZkOThhZjUyNDM2NGRlZWNkYWEyMTJkNTFh`
+Snapshot ID: `MTY0MDMyNDQwOSwwMDAwMDAwMGExN2EyNDZkOThhZjUyNDM2NGRlZWNkYWEyMTJkNTFh`

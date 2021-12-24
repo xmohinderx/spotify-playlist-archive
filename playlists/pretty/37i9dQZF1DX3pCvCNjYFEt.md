@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pCvCNjYFEt.md) - [plain]
 
 > Experience the beloved classics of Charles Dickens.
 
+[Spotify](https://open.spotify.com/user/spotify) - 16,339 likes - 67 songs - 1 day 0 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | ["I, Charles Dickens..."](https://open.spotify.com/track/70FkHg1s8Pj8NPVurKxfpH) | [Emlyn Williams](https://open.spotify.com/artist/6diP7aANttBUIeaViyCdQj) | [Charles Dickens, Scenes From The Novels](https://open.spotify.com/album/2tLppFBMhWW41E2dmAwn6h) | 1:38 |

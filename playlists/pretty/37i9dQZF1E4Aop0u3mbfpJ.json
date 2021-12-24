@@ -1,7 +1,12 @@
 {
-  "description": "With MARINA, Bradley Cooper, Ariana Grande and more",
+  "description": "With Selena Gomez & The Scene, Ariana Grande, Sia and more",
   "name": "Lady Gaga Radio",
-  "snapshot_id": "MTY0MDMxNTgzMiwwMDAwMDAwMGVlYjZjNGM1YTc4YThjZDZiMzI4MDM3M2EwNGZjNGI1",
+  "num_followers": 132441,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQ1NCwwMDAwMDAwMGVlYjZjNGM1YTc4YThjZDZiMzI4MDM3M2EwNGZjNGI1",
   "tracks": [
     {
       "added_at": null,

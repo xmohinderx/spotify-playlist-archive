@@ -1,6 +1,11 @@
 {
   "description": "The quiet Beatle. Listen to all his essential tracks.",
   "name": "This Is George Harrison",
+  "num_followers": 166026,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYyNTc4NTIwMCwwMDAwMDAwYzAwMDAwMTdhODg1OTZlMmYwMDAwMDE2ZDE1NTAzNmRh",
   "tracks": [
     {

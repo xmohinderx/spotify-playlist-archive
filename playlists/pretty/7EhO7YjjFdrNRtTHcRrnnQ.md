@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7EhO7YjjFdrNRtTHcRrnnQ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 344 likes - 50 songs - 2 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tossin' And Turnin' \- Rerecorded](https://open.spotify.com/track/4nbfkzqJQmGOBPYyHDInF3) | [Bobby Lewis](https://open.spotify.com/artist/6KfBWaX13etjtEZ4d9aTWW) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:23 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1IKDP8o4UvpfLh0SJX2e1b.md) - [plain]
 
 > Free\-spirited, eclectic, and decadent lyrics mix with folksy, indie, and slightly psychedelic acoustics\. This is The New Bohemian.
 
+[Spotify](https://open.spotify.com/user/spotify) - 133 likes - 81 songs - 6 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/3EeCcArpbjFQw2SL7b5gJW) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/album/0OTlTLJLXcbhYOHioU33Kc) | 2:50 |

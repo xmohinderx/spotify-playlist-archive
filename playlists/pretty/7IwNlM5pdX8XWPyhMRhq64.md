@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7IwNlM5pdX8XWPyhMRhq64.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 56 songs - 3 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Give Life Back to Music](https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:35 |

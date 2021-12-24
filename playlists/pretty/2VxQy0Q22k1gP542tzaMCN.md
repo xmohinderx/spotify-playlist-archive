@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2VxQy0Q22k1gP542tzaMCN.md) - [plain]
 
 > Explore the evolution of eternal folk songs through some of their essential adaptations – from field recordings to recent releases\. Follow for new additions and song cycles!
 
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 58 songs - 3 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rosie](https://open.spotify.com/track/6LH94JKGmGqakhshtsGnNz) | [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Blues And Songs](https://open.spotify.com/album/7lXqoJ3JvHVAbaKBT8XSQi) | 2:49 |

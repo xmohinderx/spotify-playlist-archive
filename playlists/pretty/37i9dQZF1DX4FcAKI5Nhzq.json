@@ -1,10 +1,83 @@
 {
-  "description": "Future K-Pop hits! Cover: Moon Byul, Mirani",
+  "description": "Future K-Pop hits! Cover: MINHO",
   "name": "K-Pop Rising",
-  "snapshot_id": "MTYzOTU2MDAxMiwwMDAwMDIyYjAwMDAwMTdkYmQ2NDYyYzIwMDAwMDE3ZGIzMWVjZTE4",
+  "num_followers": 621318,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyMDA3NSwwMDAwMDIyYzAwMDAwMTdkZWFiMjA2NTIwMDAwMDE3ZGVhYjE5NWU4",
   "tracks": [
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
+      "album": {
+        "name": "Dreams Come True - SM STATION",
+        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+    },
+    {
+      "added_at": "2021-12-24 04:27:55",
+      "album": {
+        "name": "Shark",
+        "url": "https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Shark",
+      "url": "https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw"
+    },
+    {
+      "added_at": "2021-12-24 04:27:55",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7"
+    },
+    {
+      "added_at": "2021-12-24 04:27:55",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/5GNd4MdJkmm3EoZ6DjXDMI"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        },
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/3vBwpaajHJQaqJkE7Xsv5H"
+    },
+    {
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "G999 (Feat. Mirani)",
         "url": "https://open.spotify.com/album/4uP0OrnX0GKO4EJIbVzu5a"
@@ -24,7 +97,7 @@
       "url": "https://open.spotify.com/track/5ZOS622xElEIE8VmkwNfcP"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Happy Death Day",
         "url": "https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr"
@@ -40,7 +113,7 @@
       "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Universe (Let's Play Ball)",
         "url": "https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk"
@@ -56,7 +129,7 @@
       "url": "https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
@@ -72,7 +145,7 @@
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
-      "added_at": "2021-12-15 07:01:22",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8"
@@ -92,7 +165,7 @@
       "url": "https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "ZERO : FEVER EPILOGUE",
         "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
@@ -108,7 +181,7 @@
       "url": "https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "The Dreaming",
         "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
@@ -124,7 +197,7 @@
       "url": "https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH"
     },
     {
-      "added_at": "2021-12-15 09:20:12",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
@@ -140,7 +213,7 @@
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Return of The Girl",
         "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
@@ -156,7 +229,7 @@
       "url": "https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Need U",
         "url": "https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2"
@@ -172,7 +245,7 @@
       "url": "https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Christmas EveL",
         "url": "https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi"
@@ -188,7 +261,7 @@
       "url": "https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
@@ -204,7 +277,7 @@
       "url": "https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Genre",
         "url": "https://open.spotify.com/album/4Y3sawhAYuYvYvARXpsdCy"
@@ -224,7 +297,7 @@
       "url": "https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
@@ -244,7 +317,7 @@
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
@@ -260,7 +333,7 @@
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "ANI(feat.SOYEON ((G)I-DLE))",
         "url": "https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm"
@@ -280,7 +353,7 @@
       "url": "https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "THE BOYZ Special Single [Candles]",
         "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
@@ -296,7 +369,7 @@
       "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "LOCK UP",
         "url": "https://open.spotify.com/album/4CbmJDPP4CuPnjUHaxUiju"
@@ -312,7 +385,7 @@
       "url": "https://open.spotify.com/track/0MQa8iD2fcVSnBzAGbdLeX"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "\"TO INFINITY.\"",
         "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
@@ -328,7 +401,7 @@
       "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Way - SM STATION",
         "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
@@ -348,7 +421,7 @@
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "BLUE",
         "url": "https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6"
@@ -364,7 +437,7 @@
       "url": "https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "the Billage of perception : chapter one",
         "url": "https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD"
@@ -380,7 +453,7 @@
       "url": "https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "cignature 2nd EP Album 'Dear Diary Moment'",
         "url": "https://open.spotify.com/album/0aTFAjXc6DQuBiJt3WePb9"
@@ -396,7 +469,7 @@
       "url": "https://open.spotify.com/track/5n1tIwuiCnsNWrJvBSpENm"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Fireworks",
         "url": "https://open.spotify.com/album/78Wj5wgjcagJSHoePF5Wc4"
@@ -412,7 +485,7 @@
       "url": "https://open.spotify.com/track/5bsCLjbCjUN4Jr64D6axKW"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "RUMINATION",
         "url": "https://open.spotify.com/album/23F2thvLl5vJvxD5fG4yRm"
@@ -428,7 +501,7 @@
       "url": "https://open.spotify.com/track/1kvcWkI3m8L6F7EFheV8lM"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Jirisan (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4"
@@ -444,7 +517,7 @@
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
@@ -460,7 +533,7 @@
       "url": "https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "THE BOYZ 3rd Single Album [MAVERICK]",
         "url": "https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi"
@@ -476,7 +549,7 @@
       "url": "https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "STAR",
         "url": "https://open.spotify.com/album/3vzL4zqeWqJ7stqWpX5bfD"
@@ -492,7 +565,7 @@
       "url": "https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm"
@@ -508,7 +581,7 @@
       "url": "https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
@@ -524,7 +597,7 @@
       "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Santa For You",
         "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
@@ -540,7 +613,7 @@
       "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Re:T-ARA",
         "url": "https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU"
@@ -556,7 +629,7 @@
       "url": "https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC"
@@ -572,7 +645,7 @@
       "url": "https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Adore you",
         "url": "https://open.spotify.com/album/2QFxk3swmGzWN0R2NZ8QNK"
@@ -588,7 +661,7 @@
       "url": "https://open.spotify.com/track/7rrVR9VrztRH93MqvUIUau"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "COSMOS",
         "url": "https://open.spotify.com/album/0ZKvxPhvoP6kfH1g1WNSxV"
@@ -604,7 +677,7 @@
       "url": "https://open.spotify.com/track/2BVqVWrIUcbYwju8mdkujQ"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "MAKE U DANCE",
         "url": "https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep"
@@ -624,7 +697,7 @@
       "url": "https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Poison (Crime Puzzle)",
         "url": "https://open.spotify.com/album/0C7uH2bPULuV0t15yTkygg"
@@ -640,7 +713,7 @@
       "url": "https://open.spotify.com/track/0dhBiy6lmLdyKUEJTf5Fcz"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "RE:ALIZE",
         "url": "https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy"
@@ -656,7 +729,7 @@
       "url": "https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Girls Planet 999 - O.O.O (Over&Over&Over)",
         "url": "https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6"
@@ -672,7 +745,7 @@
       "url": "https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Ballad 21 F/W",
         "url": "https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq"
@@ -688,7 +761,7 @@
       "url": "https://open.spotify.com/track/7e1awRaixVM0YDoZZs5mC1"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Cold Blooded",
         "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
@@ -704,7 +777,7 @@
       "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Favorite - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy"
@@ -720,7 +793,7 @@
       "url": "https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
@@ -736,7 +809,7 @@
       "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
@@ -752,7 +825,7 @@
       "url": "https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "2nd EP Album \u2018Bipolar Pt.2 Prelude of Love\u2019",
         "url": "https://open.spotify.com/album/2OndukzviEZGXIZuZ2c6CL"
@@ -768,7 +841,7 @@
       "url": "https://open.spotify.com/track/3T8rgnYVr3k4KxtEeP0H2o"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Fire Saturday",
         "url": "https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq"
@@ -784,7 +857,7 @@
       "url": "https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
@@ -800,7 +873,7 @@
       "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "bugAboo",
         "url": "https://open.spotify.com/album/4eXw2D722tMVage8wwtsOR"
@@ -816,7 +889,7 @@
       "url": "https://open.spotify.com/track/2gXkUjX4hiBb1TYyrIx0Ny"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "I Don't Know You Anymore",
         "url": "https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP"
@@ -832,7 +905,7 @@
       "url": "https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "Dreams Alive",
         "url": "https://open.spotify.com/album/6y4hTtarOLzcNanux6QfNX"
@@ -848,7 +921,7 @@
       "url": "https://open.spotify.com/track/73ND9EgLxCG4abSmc4z9ww"
     },
     {
-      "added_at": "2021-12-13 09:28:47",
+      "added_at": "2021-12-24 04:27:55",
       "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf"

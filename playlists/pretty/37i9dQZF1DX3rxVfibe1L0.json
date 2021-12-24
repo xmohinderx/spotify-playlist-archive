@@ -1,7 +1,12 @@
 {
   "description": "Get happy with today's dose of feel-good songs!",
   "name": "Mood Booster",
-  "snapshot_id": "MTY0MDMxNTY2MywwMDAwMDAwMDNkZmEwYzliMGFhNDgzY2VmZmEyMjg3MDYwMzgyMDZk",
+  "num_followers": 6904546,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI5MiwwMDAwMDAwMDNkZmEwYzliMGFhNDgzY2VmZmEyMjg3MDYwMzgyMDZk",
   "tracks": [
     {
       "added_at": "2021-12-03 05:02:00",

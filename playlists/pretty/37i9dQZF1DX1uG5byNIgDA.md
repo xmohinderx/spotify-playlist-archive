@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 211,155 likes - 50 songs - 2 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Winter Falls](https://open.spotify.com/track/0uQIb3EOcrw5tnRLXIAqbD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 3:55 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 |
 | 50 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
 
-Snapshot ID: `MTY0MDMxNTYzMSwwMDAwMDAwMDI1ZTVmNTEzYmZkYTk1MTFhYmY2ZmQ0MGM3YjhlMjc0`
+Snapshot ID: `MTY0MDMyNDI2MSwwMDAwMDAwMDI1ZTVmNTEzYmZkYTk1MTFhYmY2ZmQ0MGM3YjhlMjc0`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21bRPJuEN7r.md) - [plain]
 
 > Updated every week @Composer Weekly\. An introduction to composer Michael Nyman, one of the most influential and popular classical composers of our time.
 
+[Spotify](https://open.spotify.com/user/spotify) - 161,308 likes - 30 songs - 2 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Heart Asks Pleasure First](https://open.spotify.com/track/6XbejJOw5nDizAauzz4j7t) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [The Composer's Cut Series, Vol\. III: The Piano](https://open.spotify.com/album/5AG54kJdduh6tVuoLYd1vp) | 3:45 |

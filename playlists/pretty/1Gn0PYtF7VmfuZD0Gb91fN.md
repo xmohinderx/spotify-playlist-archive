@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1Gn0PYtF7VmfuZD0Gb91fN.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 882 likes - 50 songs - 3 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Day](https://open.spotify.com/track/5rYvoJOJ0y8AYodTdf3Wxi) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/2oN3j2B7S4kiLrfNJvHeLz) | 3:53 |

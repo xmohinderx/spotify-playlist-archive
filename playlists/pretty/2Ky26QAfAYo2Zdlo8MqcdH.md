@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2Ky26QAfAYo2Zdlo8MqcdH.md) - [plain]
 
 > Listen the best of punk pop during your breakfast.
 
+[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 20 songs - 1 hr 3 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |

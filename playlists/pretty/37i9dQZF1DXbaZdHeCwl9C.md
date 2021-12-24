@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaZdHeCwl9C.md) - [plain]
 
 > 50 splendid recordings of historically informed performance, which uses both period instruments and performance practice, in order to present music works faithfully, in the style of the era when the piece was originally conceived.
 
+[Spotify](https://open.spotify.com/user/spotify) - 43,398 likes - 50 songs - 4 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Music for the Royal Fireworks, HWV 351: IV\. La rejouissance](https://open.spotify.com/track/0auLu5W8XB64BnHZYvZPt3) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Le Concert Spirituel](https://open.spotify.com/artist/3JqPlYm35Q5oWei0xbeFiV), [Herve Niquet](https://open.spotify.com/artist/63uY29bvU5hyWZXYRTEhkq) | [Handel, G.F.: Water Music / Music for the Royal Fireworks](https://open.spotify.com/album/5aktODXJQ4QAwZgxKkaGok) | 2:07 |

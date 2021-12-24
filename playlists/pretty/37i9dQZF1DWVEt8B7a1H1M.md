@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Relaxing sounds of birds in vast forests.
 
+[Spotify](https://open.spotify.com/user/spotify) - 151,270 likes - 88 songs - 5 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vogelgezwitscher](https://open.spotify.com/track/1g6cnSGhFUyP3XIJ1Jku1f) | [Berlin Rain](https://open.spotify.com/artist/367WqYA55AUDT7u8TMBVsy) | [Vogelgezwitscher](https://open.spotify.com/album/3d2efairwF2VEGbYPjDigj) | 2:56 |

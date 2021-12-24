@@ -1,7 +1,12 @@
 {
   "description": "a new wave of indie born on the internet. Cover: Lovejoy",
   "name": "the INDIEnet",
-  "snapshot_id": "MTY0MDMxNTc3NywwMDAwMDAwMDYzZThlMWE0OGNiY2I5ZDM4NTJkZTExOTFkMjU2ZGU0",
+  "num_followers": 304169,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQwMSwwMDAwMDAwMDYzZThlMWE0OGNiY2I5ZDM4NTJkZTExOTFkMjU2ZGU0",
   "tracks": [
     {
       "added_at": "2021-08-02 18:28:42",

@@ -1,7 +1,12 @@
 {
   "description": "The essential indie dance, featuring LEISURE",
   "name": "metropolis",
-  "snapshot_id": "MTY0MDMxNTc0MSwwMDAwMDAwMDZlOTZkM2Q5NzFhNjA4MTczZWQxMmMyN2E2MDZkMmM1",
+  "num_followers": 777316,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM2NiwwMDAwMDAwMDZlOTZkM2Q5NzFhNjA4MTczZWQxMmMyN2E2MDZkMmM1",
   "tracks": [
     {
       "added_at": "2021-12-03 05:35:00",

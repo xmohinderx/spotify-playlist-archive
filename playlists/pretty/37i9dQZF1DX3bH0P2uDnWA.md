@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
+[Spotify](https://open.spotify.com/user/spotify) - 257,711 likes - 147 songs - 8 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crazy Out There](https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Crazy Out There](https://open.spotify.com/album/1UJ4lKzqAo1Aevsohhen0l) | 3:14 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
+[Spotify](https://open.spotify.com/user/spotify) - 569,226 likes - 90 songs - 5 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 |
@@ -97,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 | 89 | [Human Performance](https://open.spotify.com/track/3iyYmoZMI4o0xW0nCLwAT3) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Human Performance](https://open.spotify.com/album/4RNew41ZeRuoRNg3YAhvpe) | 4:15 |
 | 90 | [How Deep Is Your Love?](https://open.spotify.com/track/58ZxxTUnEHvhdNNZAkcZTN) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [In the Grace of Your Love](https://open.spotify.com/album/6ZiAGfJbLftvLMAFoEvoYK) | 6:27 |
 
-Snapshot ID: `MTY0MDMxNTc5MSwwMDAwMDAwMDllYjQ1ZDA2NmZjNDVmMzhjNTNjMjRiMTAyMDkwNWY3`
+Snapshot ID: `MTY0MDMyNDQxNSwwMDAwMDAwMDllYjQ1ZDA2NmZjNDVmMzhjNTNjMjRiMTAyMDkwNWY3`

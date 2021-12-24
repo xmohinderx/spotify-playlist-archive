@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
+[Spotify](https://open.spotify.com/user/spotify) - 807,406 likes - 100 songs - 6 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 |
 | 100 | [Suspirium](https://open.spotify.com/track/0rlfGg5Ym6J9AA97ah7voH) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Suspiria \(Music for the Luca Guadagnino Film\)](https://open.spotify.com/album/0nZg85VbGkPcr7zQ6EsJKa) | 3:21 |
 
-Snapshot ID: `MTY0MDMxNTcyNywwMDAwMDAwMGExNmNmNWFiMzQxOGRmZGU5MzdjYzMyYzhjYzhiMTAx`
+Snapshot ID: `MTY0MDMyNDM1MywwMDAwMDAwMGExNmNmNWFiMzQxOGRmZGU5MzdjYzMyYzhjYzhiMTAx`

@@ -1,7 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
   "name": "Power Workout",
-  "snapshot_id": "MTY0MDMxNTUyMiwwMDAwMDAwMDNmZWMwOTgxOWI3NTNiYTBmZWVhZjEwOTg1NDM1Yjg4",
+  "num_followers": 3841678,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE1NCwwMDAwMDAwMDNmZWMwOTgxOWI3NTNiYTBmZWVhZjEwOTg1NDM1Yjg4",
   "tracks": [
     {
       "added_at": "2021-12-20 10:06:07",

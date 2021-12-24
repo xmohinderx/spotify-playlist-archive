@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLtD0qszB1w.md) - [plain]
 
 > Come together to listen to their greatest hits.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,851,794 likes - 91 songs - 4 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yesterday \- Remastered](https://open.spotify.com/track/1e0hllQ23AG0QGFgezgLOq) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi) | 2:05 |

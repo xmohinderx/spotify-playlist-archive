@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/66uSq0mmMKat8vPRxsbmhp.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 205 likes - 10 songs - 42 min 35 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [With A Little Help From My Friends \- Live At Woodstock 1969](https://open.spotify.com/track/1GUy6zvGXalO0RqI07ESvj) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Live At Woodstock](https://open.spotify.com/album/3yESavW302DoWwXPn6r4xW) | 8:06 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VplLa7NC0a.md) - [plain]
 
 > The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.
 
+[Spotify](https://open.spotify.com/user/spotify) - 19,303 likes - 60 songs - 5 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Largo al factotum](https://open.spotify.com/track/5W7IiH2jDV6q6EQwBkq8ld) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Simon Keenlyside](https://open.spotify.com/artist/5wNBW2yqGhv7lR3AvzD3JG), [Ulf Schirmer](https://open.spotify.com/artist/44I8beF9aAODtLP7mH7ImA) | [Tales Of Opera](https://open.spotify.com/album/2jBR98QwzqFPFFSQ0T2G2j) | 4:55 |

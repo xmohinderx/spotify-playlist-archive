@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/38ZGEwSsiHoOEOu446h75W.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 20 songs - 1 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Made to Love](https://open.spotify.com/track/4cgRsh3d6A5UmhNoBOhawr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Made To Love](https://open.spotify.com/album/7sGmI3KFbmKaGFY2n81cuf) | 4:01 |

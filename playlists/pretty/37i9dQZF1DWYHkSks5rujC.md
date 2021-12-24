@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHkSks5rujC.md) - [plain]
 
 > A journey through The Beatles' career.
 
+[Spotify](https://open.spotify.com/user/spotify) - 208,016 likes - 45 songs - 2 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Please Please Me \- Mono / Remastered](https://open.spotify.com/track/2Ekx8lzXbAh5KNyOvmmjH5) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/3rCxVyqwgJlkqL8z2dZdHh) | 2:01 |

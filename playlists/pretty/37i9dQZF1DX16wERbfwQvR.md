@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16wERbfwQvR.md) - [plain]
 
 > Father of the symphony and string quartet, and teacher to both <a href="spotify:user:spotify:playlist:1tNvLjwgTtsZH8RlbK6Yib">Mozart</a> and <a href="spotify:user:spotify:playlist:4NPecrxm0zdPCIIzVTHUd9">Beethoven</a>\. This is Haydn.
 
+[Spotify](https://open.spotify.com/user/spotify) - 48,018 likes - 62 songs - 6 hr 3 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cello Concerto No\. 1 in C Major, Hob.VIIb:1: III\. Allegro molto](https://open.spotify.com/track/0Gh45IbIKOG9IucFfrZqLT) | [Franz Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Steven Isserlis](https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1), [Sir Roger Norrington](https://open.spotify.com/artist/2nXNvTKpp7LSEXNUMFOd1t) | [Haydn: Cello Concertos in C & D](https://open.spotify.com/album/6iizLrNq7vu8yycSf8NXUF) | 7:04 |

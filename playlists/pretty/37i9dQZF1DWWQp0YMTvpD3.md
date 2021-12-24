@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Let's slow down.
 
+[Spotify](https://open.spotify.com/user/spotify) - 142,884 likes - 113 songs - 5 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [On Route](https://open.spotify.com/track/3952GDEci1KttJrnHhijDq) | [Ralph and Mitch](https://open.spotify.com/artist/2DxfiM0wneX7ZwMJfkaD8J) | [On Route](https://open.spotify.com/album/54K8tDexNzGNEoD9kK9uJZ) | 2:30 |
@@ -120,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 112 | [HONEST ENOUGH](https://open.spotify.com/track/4AYTCusq44mkt5Vzbm1YBO) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [HONEST ENOUGH](https://open.spotify.com/album/3lsv1KP0pNAdNqXRenFQVu) | 2:56 |
 | 113 | [Low Life](https://open.spotify.com/track/28BEwylPqT4eAmVYbhC3iL) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Low Life](https://open.spotify.com/album/1BctYb6UkgBUGhEKAJ5JyD) | 2:59 |
 
-Snapshot ID: `MTY0MDMxNTU1MSwwMDAwMDAwMDE3YzJkNjI1YThiNDFhMTNkZmJkMjdlNTdlZTcxZDZh`
+Snapshot ID: `MTY0MDMyNDE4MSwwMDAwMDAwMDE3YzJkNjI1YThiNDFhMTNkZmJkMjdlNTdlZTcxZDZh`

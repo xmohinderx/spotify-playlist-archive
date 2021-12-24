@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/52rJQYDn9Q5dufvGPqqzgf.md) - [plain]
 
 > Celebrate your baby girl and spread the good news!
 
+[Spotify](https://open.spotify.com/user/spotify) - 207 likes - 25 songs - 1 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Little Girl](https://open.spotify.com/track/4KZ9wj0K87t0Gdm7km9Yam) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [To The Sea](https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs) | 2:20 |

@@ -1,6 +1,11 @@
 {
   "description": "Come together to listen to their greatest hits.",
   "name": "This Is The Beatles",
+  "num_followers": 2851794,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzMDA3ODQyMiwwMDAwMDAzMzAwMDAwMTdiODgzZWNkZTUwMDAwMDE2ZDE1NGRhYzYz",
   "tracks": [
     {

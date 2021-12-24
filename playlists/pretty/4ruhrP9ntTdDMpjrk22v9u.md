@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4ruhrP9ntTdDMpjrk22v9u.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 20 songs - 1 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [24/Seven](https://open.spotify.com/track/6FkX1akf4mwRZSznL73kDR) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [24/seven](https://open.spotify.com/album/2G4kkolVlo7QhPFcIvlda9) | 3:09 |

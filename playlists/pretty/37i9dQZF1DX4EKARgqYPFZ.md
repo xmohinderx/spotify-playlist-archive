@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EKARgqYPFZ.md) - [plain]
 
 > The essential blink\-182, all in one place.
 
+[Spotify](https://open.spotify.com/user/spotify) - 415,939 likes - 50 songs - 2 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What's My Age Again?](https://open.spotify.com/track/1hWrl3T1kIH5b9zRHLfCOn) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/1fF8kYX49s5Ufv4XEY5sjW) | 2:28 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7DcfXNVB5WpzYwCkqBaVDx.md) - [plain]
 
 > Peace & Love 2012 arrangeras 26 \- 30 juni i Borlänge\. Temat för sommarens festival är "En ny värld"\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 158 songs - 11 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Found Love](https://open.spotify.com/track/14fmbvjYLqRZEXz1VZdM2M) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [We Found Love](https://open.spotify.com/album/2JWBVBmidYbaAR6o6bwcnC) | 3:35 |

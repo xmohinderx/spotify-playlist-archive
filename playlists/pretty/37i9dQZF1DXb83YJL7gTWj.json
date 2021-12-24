@@ -1,7 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
   "name": "Chill Dinner",
-  "snapshot_id": "MTY0MDMxNTc4NywwMDAwMDAwMDM2MGFmOTk2OWE0Zjk4MzExMmFkMmJkYmE4NDI1OTNi",
+  "num_followers": 196557,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQxMSwwMDAwMDAwMDM2MGFmOTk2OWE0Zjk4MzExMmFkMmJkYmE4NDI1OTNi",
   "tracks": [
     {
       "added_at": "2021-11-05 04:00:00",

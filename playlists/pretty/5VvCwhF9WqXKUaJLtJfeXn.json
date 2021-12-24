@@ -1,6 +1,11 @@
 {
   "description": "Taylor Gang top picks chosen by Spotify.",
   "name": "Taylor Gang Spotify Picks",
+  "num_followers": 69,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NixhNmRjN2ZiNzY4Y2ViYmYzNzIzMjRiYjhjZmFmYTYxNTE1MjQ0MDMw",
   "tracks": [
     {

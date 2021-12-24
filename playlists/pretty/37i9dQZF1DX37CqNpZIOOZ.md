@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 
 > Discover the music of Richard Strauss.
 
+[Spotify](https://open.spotify.com/user/spotify) - 13,703 likes - 58 songs - 7 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Also sprach Zarathustra, Op\. 30, TrV 176: 1\. Einleitung \(Sonnenaufgang\) \- Live](https://open.spotify.com/track/6cBVmDCjTVBtz171ouwYHg) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Lucerne Festival Orchestra](https://open.spotify.com/artist/0DX4vAO3I8ObqHKrw72E7f), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Richard Strauss: Also sprach Zarathustra; Tod und Verklärung; Till Eulenspiegel; Salome's Dance \(Live\)](https://open.spotify.com/album/2YeZhUcaWmUaszn8SfTKSj) | 1:50 |

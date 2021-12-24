@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0Tn4EK4iKI58XnvWHuMMm0.md) - [plain]
 
 > Power through your to do list with an affogato and a refreshing mix of chilled classical.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 59 songs - 6 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Orfeo et Eurydice: Mélodie for Piano Solo](https://open.spotify.com/track/3DnLGuX4YU3PGein8vo5Zt) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Giovanni Sgambati](https://open.spotify.com/artist/3m1zAAlMbuq1ZAHFggftkC), [James Rhodes](https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh) | [Five](https://open.spotify.com/album/635sfn3tknH9uf1ZZX0Xlm) | 4:44 |

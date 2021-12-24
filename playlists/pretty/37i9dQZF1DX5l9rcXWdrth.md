@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Saweetie & Doja Cat
 
+[Spotify](https://open.spotify.com/user/spotify) - 415,718 likes - 50 songs - 2 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 49 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 |
 | 50 | [End Like That](https://open.spotify.com/track/7m60tOsgFlWoLTk1Y8zAHJ) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Young HeartThrob](https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW) | 3:39 |
 
-Snapshot ID: `MTY0MDMxNTcwNCwwMDAwMDAwMDY4ZTY4OWNlZmYxNTk4MWZiOTU2YjdkZDk1YzQzNGZh`
+Snapshot ID: `MTY0MDMyNDMzMSwwMDAwMDAwMDY4ZTY4OWNlZmYxNTk4MWZiOTU2YjdkZDk1YzQzNGZh`

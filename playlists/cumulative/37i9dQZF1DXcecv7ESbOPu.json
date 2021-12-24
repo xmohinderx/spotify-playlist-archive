@@ -2997,6 +2997,24 @@
     },
     {
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/3ARKMPNNfkzX5KfJeRlWZj"
+      },
+      "artists": [
+        {
+          "name": "suggi",
+          "url": "https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/1BtXlJtacRO1zK37djT5ml"
+    },
+    {
+      "album": {
         "name": "Start Walking (Acoustic Version)",
         "url": "https://open.spotify.com/album/2WtZ6nN30t7FmI4JXYAVAN"
       },
@@ -3714,6 +3732,32 @@
       "duration_ms": 208501,
       "name": "Walking in My Shoes",
       "url": "https://open.spotify.com/track/4FBUocUj8jHUuV2Tya5Fwx"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190261,
+      "name": "Wave Gods",
+      "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
     },
     {
       "album": {

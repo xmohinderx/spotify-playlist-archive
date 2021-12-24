@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJSgpZmw7H2.md) - [plain]
 
 > Learn French with a collection of audio courses that will take you from beginner lessons to advanced conversations and even French literature appreciation.
 
+[Spotify](https://open.spotify.com/user/spotify) - 94,159 likes - 472 songs - 1 day 21 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Elementary Sounds and Their Various Spellings: Voyelles Orales \(Sec\. 1, p\. 3\)](https://open.spotify.com/track/73VkPqgotL61bxvu4nGBnA) | [Louise Bégué](https://open.spotify.com/artist/3bGB4tqRULP3AWxl02irmm), [Armand Bégué](https://open.spotify.com/artist/5ltISfRqhTQmTkK74o6i1c) | [Speak and Read French, Vol\. 1: Basic](https://open.spotify.com/album/3G7NFVB06HagVUlktxrrRF) | 4:01 |

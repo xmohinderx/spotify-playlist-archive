@@ -1,7 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
   "name": "Canadian '90s",
-  "snapshot_id": "MTY0MDMxNTc2MiwwMDAwMDAwMDE2Yzg3NWI3NDk2MDdlZmY5ZjdhNmRiYjQ0ZDU4NjRm",
+  "num_followers": 43862,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM4NiwwMDAwMDAwMDE2Yzg3NWI3NDk2MDdlZmY5ZjdhNmRiYjQ0ZDU4NjRm",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",

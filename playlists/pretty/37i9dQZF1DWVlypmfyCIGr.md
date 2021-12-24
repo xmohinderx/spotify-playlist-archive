@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Kizuna AI
 
+[Spotify](https://open.spotify.com/user/spotify) - 49,035 likes - 80 songs - 4 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Here for you](https://open.spotify.com/track/2MClYu3w7pRgBDHuDbyZrn) | [Kizuna AI](https://open.spotify.com/artist/2nKGmC5Mc13ct02xAY8ccS), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Here for you](https://open.spotify.com/album/1N3M40dzq4vj4WTqNjLTLe) | 3:51 |

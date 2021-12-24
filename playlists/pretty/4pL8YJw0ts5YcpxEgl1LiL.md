@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4pL8YJw0ts5YcpxEgl1LiL.md) - [plain]
 
 > Missa inte Of Monsters and Men på Azalea\-scenen på FREDAG / 16.10
 
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 10 songs - 44 min 21 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |

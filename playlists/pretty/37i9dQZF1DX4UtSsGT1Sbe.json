@@ -1,7 +1,12 @@
 {
   "description": "The biggest songs of the 1980s.",
   "name": "All Out 80s",
-  "snapshot_id": "MTY0MDMxNTY3MywwMDAwMDAwMDkzY2EyMGJkOTY3NmJjYmZlMDg5YTUxNDhhZTc5ZTky",
+  "num_followers": 9100408,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMwMSwwMDAwMDAwMDkzY2EyMGJkOTY3NmJjYmZlMDg5YTUxNDhhZTc5ZTky",
   "tracks": [
     {
       "added_at": "2021-04-28 06:48:41",

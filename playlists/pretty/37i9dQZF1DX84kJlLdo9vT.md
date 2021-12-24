@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these cheery 60s and more.
 
+[Spotify](https://open.spotify.com/user/spotify) - 574,802 likes - 50 songs - 2 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1) | 2:38 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 49 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Circulate \(Expanded Edition\)](https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ) | 2:19 |
 | 50 | [Everyday \- Single Version](https://open.spotify.com/track/5MMU5J8jtVDZiryukBeruJ) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Greatest Hits](https://open.spotify.com/album/2DxPHmsvN4oP5PldgkbvrA) | 2:08 |
 
-Snapshot ID: `MTY0MDMxNTczOSwwMDAwMDAwMDM4OTY4NGUyYTY4OGI0NGE2MTE5NDRjODgzYWZkYjky`
+Snapshot ID: `MTY0MDMyNDM2NSwwMDAwMDAwMDM4OTY4NGUyYTY4OGI0NGE2MTE5NDRjODgzYWZkYjky`

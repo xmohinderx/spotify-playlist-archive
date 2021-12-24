@@ -1,7 +1,12 @@
 {
   "description": "Call it pop-punk, emo, post-hardcore, whatever you want. We call it all awesome. Cover: Waterparks",
   "name": "The Scene",
-  "snapshot_id": "MTY0MDMxNTU5NCwwMDAwMDAwMGRjMjBmYmJlYjY1NTkzNTM4YTQxNjk3NjE3MWFjN2Nm",
+  "num_followers": 412393,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIyNSwwMDAwMDAwMGRjMjBmYmJlYjY1NTkzNTM4YTQxNjk3NjE3MWFjN2Nm",
   "tracks": [
     {
       "added_at": "2021-12-10 05:00:00",

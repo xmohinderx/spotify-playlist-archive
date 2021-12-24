@@ -1,7 +1,12 @@
 {
   "description": "Easy listening soft pop hits for a pleasant day.",
   "name": "Sunny Day",
-  "snapshot_id": "MTY0MDMxNTYxOSwwMDAwMDAwMGNiNTU5NzcxOWZmZWJhYmU2NTg0MmQxY2FjOTNjZmY0",
+  "num_followers": 402824,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI0OSwwMDAwMDAwMGNiNTU5NzcxOWZmZWJhYmU2NTg0MmQxY2FjOTNjZmY0",
   "tracks": [
     {
       "added_at": "2021-06-02 17:01:40",

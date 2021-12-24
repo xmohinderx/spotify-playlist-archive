@@ -1,7 +1,12 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bunny Wailer",
   "name": "Reggae Classics",
-  "snapshot_id": "MTY0MDMxNTc5MywwMDAwMDAwMDdhMzdjOWMxY2FkNDQwMzk3OTk5Yjc1MjkzNGU0YTEw",
+  "num_followers": 2544887,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQxNiwwMDAwMDAwMDdhMzdjOWMxY2FkNDQwMzk3OTk5Yjc1MjkzNGU0YTEw",
   "tracks": [
     {
       "added_at": "2021-03-02 16:18:26",

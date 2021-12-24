@@ -1,7 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
   "name": "Rise Up",
-  "snapshot_id": "MTY0MDMxNTYwMywwMDAwMDAwMGE2N2QyZDE4YjEyY2UyNTg1ZGE2MGU5ZmM4NDQxNGU3",
+  "num_followers": 154535,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIzNCwwMDAwMDAwMGE2N2QyZDE4YjEyY2UyNTg1ZGE2MGU5ZmM4NDQxNGU3",
   "tracks": [
     {
       "added_at": "2020-11-04 04:01:00",

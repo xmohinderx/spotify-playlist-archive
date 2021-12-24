@@ -1,7 +1,12 @@
 {
   "description": "Heavy Metal forever. From classics to fresh new tracks, just play it loud! Cover: Judas Priest",
   "name": "Heavy Metal",
-  "snapshot_id": "MTY0MDMxNTc2NSwwMDAwMDAwMGI2OTQ3ZDAwN2I1ZDE0YzczMDQ5ZGFlOWZmMTk2OWZi",
+  "num_followers": 575860,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM5MCwwMDAwMDAwMGI2OTQ3ZDAwN2I1ZDE0YzczMDQ5ZGFlOWZmMTk2OWZi",
   "tracks": [
     {
       "added_at": "2021-12-17 00:01:00",

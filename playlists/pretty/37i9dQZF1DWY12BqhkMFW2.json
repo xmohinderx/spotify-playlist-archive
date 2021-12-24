@@ -1,7 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
   "name": "Soul Revived",
-  "snapshot_id": "MTY0MDMxNTU3MiwwMDAwMDAwMDhjNzI3OWU2OTgzZmM0YTEwYzU5YzIyZmQwYTdjNmJk",
+  "num_followers": 278300,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIwNCwwMDAwMDAwMDhjNzI3OWU2OTgzZmM0YTEwYzU5YzIyZmQwYTdjNmJk",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",

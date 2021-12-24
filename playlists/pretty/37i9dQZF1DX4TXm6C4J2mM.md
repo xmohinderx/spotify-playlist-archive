@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
+[Spotify](https://open.spotify.com/user/spotify) - 157,149 likes - 101 songs - 4 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Remember \- David Guetta VIP Remix](https://open.spotify.com/track/4TqTBou6np9peCdHAK9cp7) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember \(David Guetta VIP Remix\)](https://open.spotify.com/album/09GSQXZys0phYiMdqc2Yh8) | 3:50 |

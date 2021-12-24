@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S9gwdi7dev.md) - [plain]
 
 > Fun tracks for your Halloween festivities!
 
+[Spotify](https://open.spotify.com/user/spotify) - 442,439 likes - 60 songs - 3 hr 44 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ghostbusters \- From "Ghostbusters"](https://open.spotify.com/track/7MnxdIXJd4N4mHCTPNKhkX) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters](https://open.spotify.com/album/2FKg8WOQtN015jM0eiKrNz) | 4:05 |

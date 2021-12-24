@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3uDgik1xOhjYVsXucW7GEb.md) - [plain]
 
 > Grab your food, turn on the easy hip\-hop and enjoy.
 
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 23 songs - 1 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pills N Potions](https://open.spotify.com/track/2bkyTJ4bAnc8a5ly3dg9DX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 4:28 |

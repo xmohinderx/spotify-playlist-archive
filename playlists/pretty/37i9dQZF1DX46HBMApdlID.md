@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46HBMApdlID.md) - [plain]
 
 > The essential originals and remixes from Alex & Drew.
 
+[Spotify](https://open.spotify.com/user/spotify) - 954,532 likes - 48 songs - 2 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Reaper](https://open.spotify.com/track/0g8Dq6OpSmWengqtLrVr77) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:02 |

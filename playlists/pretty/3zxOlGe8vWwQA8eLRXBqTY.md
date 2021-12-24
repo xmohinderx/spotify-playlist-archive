@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3zxOlGe8vWwQA8eLRXBqTY.md) - [plain]
 
 > Missa inte Alicia Keys på Flamingo\-scenen på LÖRDAG / 22.20
 
+[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 10 songs - 39 min 39 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Girl On Fire \(feat\. Nicki Minaj\) \- Inferno Version](https://open.spotify.com/track/3XyMPyuWwHcGMvXeJY6Qt0) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 4:30 |

@@ -1,6 +1,11 @@
 {
   "description": "Score your cocktail hour with eclectic jazz covers - from Drake to Radiohead.",
   "name": "Jazz on the Rocks",
+  "num_followers": 258,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NTEsZjM5YjM4NmE3NTMyM2JlYmM3YmU2OGM0ZWFhYTk2ODdkZjBhMzY2ZA==",
   "tracks": [
     {

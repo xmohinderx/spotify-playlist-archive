@@ -1,7 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Waxahatchee",
   "name": "Folksy Covers",
-  "snapshot_id": "MTY0MDMxNTgwNCwwMDAwMDAwMDRkODYzMjYyOTUzMTMxNTIzNDkzZGM4Y2QxNWRiYmZk",
+  "num_followers": 458877,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQyOCwwMDAwMDAwMDRkODYzMjYyOTUzMTMxNTIzNDkzZGM4Y2QxNWRiYmZk",
   "tracks": [
     {
       "added_at": "2021-12-13 17:31:07",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMEbgClM8hw.md) - [plain]
 
 > A 50\-track collection of the best brass band pieces in <a href="http://open.spotify.com/genre/classical">classical</a> music, from Fanfares For The Common Men, to dozens of brilliant 20/21 century works in the ever expanding repertoire\. Also follow: <a href="spotify:user:spotify:playlist:28dKgWKUcZ6HKUmav0jQ1w">wind symphoy playlist</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 35,408 likes - 50 songs - 5 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fanfare for the Common Man](https://open.spotify.com/track/3T9HSgS5jBFdXIBPav51gj) | [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Copland Conducts Copland \- Expanded Edition \(Fanfare for the Common Man, Appalachian Spring, Old American Songs \(Complete\), Rodeo: Four Dance Episodes\)](https://open.spotify.com/album/6HTApVGuu1fLH9QBbB3vEQ) | 3:16 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
+[Spotify](https://open.spotify.com/user/spotify) - 286,523 likes - 86 songs - 5 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ríl Liatroma/The Green Cockade/The Mourne Mountains](https://open.spotify.com/track/1Vc39YjnHm0bHtMjiDu6kY) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [Ceol & Cuimhne \(Music & Memory\)](https://open.spotify.com/album/7quUNhhoH6QdgepIxWKOCv) | 4:10 |

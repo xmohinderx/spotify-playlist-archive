@@ -1,6 +1,11 @@
 {
   "description": "Listen the best of punk pop during your breakfast.",
   "name": "Punkcake",
+  "num_followers": 101,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MzcsZWY0NWU3NWIxZTU4MmQ0MjUyNDQ5MjE1ZDNkNmYzZDljZmEwNmQ3Mg==",
   "tracks": [
     {

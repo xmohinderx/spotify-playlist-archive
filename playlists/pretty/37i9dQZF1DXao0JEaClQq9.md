@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft Sega Bodega
 
+[Spotify](https://open.spotify.com/user/spotify) - 230,526 likes - 125 songs - 7 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Conclusion](https://open.spotify.com/track/6jPxM1V4M1DdiPgMoe8FBS) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Everything is Beautiful](https://open.spotify.com/album/53uhBqvPad79nqxsGmVyiv) | 2:45 |
@@ -132,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [Doorman \- Vegyn Remix](https://open.spotify.com/track/0QyOGi3zEgYVO0PXt8avlA) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Doorman \(Vegyn Remix\)](https://open.spotify.com/album/50WllaBP6r9DWbXDXUxdZA) | 2:28 |
 | 125 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
 
-Snapshot ID: `MTY0MDMxNTc4MywwMDAwMDAwMGEzNWE3MDc4YTkzZWIxNTY2ODQ4ZjMxMTVlYjEyYWI0`
+Snapshot ID: `MTY0MDMyNDQwNywwMDAwMDAwMGEzNWE3MDc4YTkzZWIxNTY2ODQ4ZjMxMTVlYjEyYWI0`

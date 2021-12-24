@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 
 > Saluting the songs and artists that have filled us with pride.
 
+[Spotify](https://open.spotify.com/user/spotify) - 262,643 likes - 26 songs - 1 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let America Be America Again by Langston Hughes](https://open.spotify.com/track/7izKDKmGjfPVVY7n0LRz29) | [James Earl Jones](https://open.spotify.com/artist/28DFDpyRKnHQr6BFNPGP4L) | [Words For You](https://open.spotify.com/album/7MN6GoQ07ePSs74gVZwUVc) | 3:40 |

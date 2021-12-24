@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
+[Spotify](https://open.spotify.com/user/spotify) - 53,627 likes - 45 songs - 2 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shoreline](https://open.spotify.com/track/2nK30KDjrDHRedyIcHTOQS) | [Broder Daniel](https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV) | [No Time for Us 1989\-2004](https://open.spotify.com/album/5ebnp3ecKxew3JNAHxxTb5) | 4:19 |
@@ -52,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Jag kommer](https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:22 |
 | 45 | [Ca plane pour moi](https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd) | 3:02 |
 
-Snapshot ID: `MTY0MDMxNTY1NSwwMDAwMDAwMDUxMmJjZjUyNmRjMTg2ZmNkMWQxNjFmMDgzZjhmNDA4`
+Snapshot ID: `MTY0MDMyNDI4NCwwMDAwMDAwMDUxMmJjZjUyNmRjMTg2ZmNkMWQxNjFmMDgzZjhmNDA4`

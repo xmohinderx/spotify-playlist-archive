@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
+[Spotify](https://open.spotify.com/user/spotify) - 359,024 likes - 60 songs - 4 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [No Borders](https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [No Borders](https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK) | 2:41 |
 | 60 | [Signals](https://open.spotify.com/track/733FlhpmdWPp9YRbGkqvrq) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Signals EP](https://open.spotify.com/album/1BDRViteUf8jflNGqrW08c) | 5:24 |
 
-Snapshot ID: `MTY0MDMxNTc5NCwwMDAwMDAwMDZiYjg3ZjgwYTIwZmZlZTA2ODA5NThiMWM2MzRhMWQ0`
+Snapshot ID: `MTY0MDMyNDQxNywwMDAwMDAwMDZiYjg3ZjgwYTIwZmZlZTA2ODA5NThiMWM2MzRhMWQ0`

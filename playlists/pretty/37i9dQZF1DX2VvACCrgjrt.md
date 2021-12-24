@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Wenzday
 
+[Spotify](https://open.spotify.com/user/spotify) - 361,967 likes - 100 songs - 5 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [G Spot](https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Algo](https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK) | [Licked](https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4) | 5:18 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 99 | [Sick N Heavy](https://open.spotify.com/track/1DcBJpHytoBKoNlSJ3JQar) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Crucast Vs Night Bass](https://open.spotify.com/album/5gb2j2cj1LgHMcHArs0dA2) | 3:07 |
 | 100 | [Chocolate](https://open.spotify.com/track/0WYJ11EFojH6SjUTi3xVXI) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Chocolate](https://open.spotify.com/album/2fvEeYWxMM3FHMriKdrKKZ) | 2:56 |
 
-Snapshot ID: `MTY0MDMxNTY0MywwMDAwMDAwMDhmOGJlODZjYTRiZGU4ZjBmY2I0NDAzMDI2MTEwYTIz`
+Snapshot ID: `MTY0MDMyNDI3MiwwMDAwMDAwMDhmOGJlODZjYTRiZGU4ZjBmY2I0NDAzMDI2MTEwYTIz`

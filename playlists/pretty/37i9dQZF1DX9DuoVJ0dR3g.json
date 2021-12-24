@@ -1,6 +1,11 @@
 {
   "description": "Generation defining music, one playlist.",
   "name": "This Is Silverchair",
+  "num_followers": 50544,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzMTc3MTk1MiwwMDAwMDA0OTAwMDAwMTdiZWQzMDA2MDgwMDAwMDE2ZDE1MTI4MThh",
   "tracks": [
     {

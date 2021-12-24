@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Joe Bonamassa
 
+[Spotify](https://open.spotify.com/user/spotify) - 123,675 likes - 60 songs - 6 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Didn't Think She Would Do It \- Live](https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Now Serving: Royal Tea Live From The Ryman](https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9) | 4:34 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville](https://open.spotify.com/album/3qmwNduPLk9xtrMRuUAGPf) | 8:29 |
 | 60 | [Can't Walk Away From It Now \- Live](https://open.spotify.com/track/4n1bjZ2y6dpbjYIhbhA71W) | [Michael Landau](https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw) | [Can't Walk Away From It Now \(Live\)](https://open.spotify.com/album/5o1wAMgW0MN63RlrhkjLnw) | 5:20 |
 
-Snapshot ID: `MTY0MDMxNTUwMiwwMDAwMDAwMGVkZjhmNjYxMzk2YjBlZWU1NmJiYTc5ZGQzMmM1M2Vj`
+Snapshot ID: `MTY0MDMyNDEzNCwwMDAwMDAwMGVkZjhmNjYxMzk2YjBlZWU1NmJiYTc5ZGQzMmM1M2Vj`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6VDwxLyl0W.md) - [plain]
 
 > Enjoy over 50 years of musical genius.
 
+[Spotify](https://open.spotify.com/user/spotify) - 273,057 likes - 50 songs - 4 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Song Of The Seasons](https://open.spotify.com/track/05CwzabZ0QrNkVCquMv2qf) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Song Of The Seasons](https://open.spotify.com/album/44wEemQqeARN0VXFV0mUVz) | 6:04 |

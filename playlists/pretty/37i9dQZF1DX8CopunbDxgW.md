@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring LEISURE
 
+[Spotify](https://open.spotify.com/user/spotify) - 777,316 likes - 100 songs - 6 hr 6 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Into My Heart](https://open.spotify.com/track/2aE8FWURsIuFIGNFG1CHVr) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [SQUID](https://open.spotify.com/album/5al9coFpDFnSrFgYNn7wAk) | 4:22 |
 | 100 | [Flipside](https://open.spotify.com/track/4DYIIRoupTZOVlup3L4VDc) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Flipside](https://open.spotify.com/album/3BcVsFBvtL4d7isNtOWHYU) | 3:18 |
 
-Snapshot ID: `MTY0MDMxNTc0MSwwMDAwMDAwMDZlOTZkM2Q5NzFhNjA4MTczZWQxMmMyN2E2MDZkMmM1`
+Snapshot ID: `MTY0MDMyNDM2NiwwMDAwMDAwMDZlOTZkM2Q5NzFhNjA4MTczZWQxMmMyN2E2MDZkMmM1`

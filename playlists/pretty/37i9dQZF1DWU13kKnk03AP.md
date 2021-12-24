@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 
 > Get in the zone with these current jams!
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,904,696 likes - 100 songs - 5 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Go It Alone \(From Rumble\)](https://open.spotify.com/track/1CjHbhYlTbT2Xiotbkkb2g) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Go It Alone \(From Rumble\)](https://open.spotify.com/album/6ZZ9msZeDJYcMM4e014iZO) | 2:13 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 99 | [Selfish Love \(with Selena Gomez\)](https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Selfish Love \(with Selena Gomez\)](https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ) | 2:48 |
 | 100 | [Intentions](https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Intentions](https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt) | 3:32 |
 
-Snapshot ID: `MTY0MDMxNTUxNywwMDAwMDAwMDdhZDE2NGQ5ZmFmNjQzNmUwNjBhNmE5NGJlMzc5Y2Vm`
+Snapshot ID: `MTY0MDMyNDE0OCwwMDAwMDAwMDNkY2Y4ZDk2NjI5YmM1NGYzNWNhODdiZDRhMTY5OGIw`

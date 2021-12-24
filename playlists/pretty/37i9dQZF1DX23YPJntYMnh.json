@@ -1,7 +1,12 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
   "name": "Funk Rock",
-  "snapshot_id": "MTY0MDMxNTYzNSwwMDAwMDAwMGY4MTk1ZjEzMzljZjRjNWRiNWFlOWIwZTI1NzMwNGJh",
+  "num_followers": 431582,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI2NCwwMDAwMDAwMGY4MTk1ZjEzMzljZjRjNWRiNWFlOWIwZTI1NzMwNGJh",
   "tracks": [
     {
       "added_at": "2020-01-08 17:36:37",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
+[Spotify](https://open.spotify.com/user/spotify) - 373,756 likes - 58 songs - 5 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stella By Starlight](https://open.spotify.com/track/2vKupPlhSiBaIysnqX5shW) | [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Perpetual Optimism](https://open.spotify.com/album/0adoHb4iey3I7lIeRi1cmY) | 4:05 |

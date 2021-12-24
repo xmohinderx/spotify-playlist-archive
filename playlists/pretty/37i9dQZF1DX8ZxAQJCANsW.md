@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZxAQJCANsW.md) - [plain]
 
 > The perfect blend of songs, old and new, for around\-the\-clock listening.
 
+[Spotify](https://open.spotify.com/user/spotify) - 118,846 likes - 100 songs - 6 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Guess That's Why They Call It The Blues](https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:45 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZxAQJCANsW.md) - [plain]
 | 99 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 |
 | 100 | [Soul Kind of Feeling](https://open.spotify.com/track/7lzWxlYqqHhtPQ1WUNmyYB) | [Dynamic Hepnotics](https://open.spotify.com/artist/6xrurMjtUUYPWeQ2UphcwK) | [Hepnobest](https://open.spotify.com/album/1rm7DuO4hESibL5922Ry5A) | 3:52 |
 
-Snapshot ID: `MTY0MDMxNTc0OCwwMDAwMDAwMGU2NDgyZDZmYzZmNTQ2YTdiYjUwYTRmZTcxMGYyNTdl`
+Snapshot ID: `MTY0MDMyNDM3MywwMDAwMDAwMGU2NDgyZDZmYzZmNTQ2YTdiYjUwYTRmZTcxMGYyNTdl`

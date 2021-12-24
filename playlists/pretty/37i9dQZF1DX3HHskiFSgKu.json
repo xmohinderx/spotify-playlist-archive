@@ -1,6 +1,11 @@
 {
   "description": "Want to power up your morning? Grab the beats to go.",
   "name": "Mustard On The Beats",
+  "num_followers": 311,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU2ODAxOTc5MSwwMDAwMDAwNzAwMDAwMTYzNDZjZDEwZTcwMDAwMDE2ZDE1NDMzY2Q2",
   "tracks": [
     {

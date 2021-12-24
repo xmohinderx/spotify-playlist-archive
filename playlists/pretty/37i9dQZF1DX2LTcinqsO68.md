@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist!
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,112,080 likes - 125 songs - 9 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Trooper](https://open.spotify.com/track/1W1Fchq0voTFhKGWmn57uW) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind](https://open.spotify.com/album/4JU0itrrrWm2AmKEVopdpF) | 4:10 |
@@ -132,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Bedside Radio](https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Metal Rendez\-Vous](https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw) | 3:19 |
 | 125 | [Let Them Eat Metal](https://open.spotify.com/track/3uZFSiCurXd9Jm3OIfxmAb) | [The Rods](https://open.spotify.com/artist/3W6mkWRUQjmny6bSsEcJf3) | [Let Them Eat Metal](https://open.spotify.com/album/1wbX59VoMx72e3N9P3NhLZ) | 3:57 |
 
-Snapshot ID: `MTY0MDMxNTYzOSwwMDAwMDAwMGRmM2YxMjcxOTM5ODRjYjk3MzIzZTVkNDRmMjhmNWNk`
+Snapshot ID: `MTY0MDMyNDI2OCwwMDAwMDAwMGRmM2YxMjcxOTM5ODRjYjk3MzIzZTVkNDRmMjhmNWNk`

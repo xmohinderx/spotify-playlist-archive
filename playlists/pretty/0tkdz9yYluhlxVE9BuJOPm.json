@@ -1,6 +1,11 @@
 {
   "description": "A collection of live, exclusive performances from the most exciting artists in the world.",
   "name": "Spotify Sessions",
+  "num_followers": 1488,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTI1LDQ3MjRhOTAwOTIzMWEwM2VlZDc5YzE0MmFlMmRiNTRkNWRhYWYzYmE=",
   "tracks": [
     {

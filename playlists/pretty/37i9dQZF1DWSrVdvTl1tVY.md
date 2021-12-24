@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > Celebrating the biggest UK house bangers\. Updated regularly\. Cover: Michael Bibi
 
+[Spotify](https://open.spotify.com/user/spotify) - 700,908 likes - 84 songs - 5 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soul System](https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [ISOLAT003](https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh) | 3:43 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
+[Spotify](https://open.spotify.com/user/spotify) - 23,933 likes - 50 songs - 4 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 49 | [String Quartet No\. 3: II\. Adagio \- Allegro moderato scherzoso](https://open.spotify.com/track/5qxlhwd0PPWJsBVrfiX2MR) | [Luis Gianneo](https://open.spotify.com/artist/6GbjnWeQqrEb6FvCY76V7W), [Gianneo String Quartet](https://open.spotify.com/artist/4B2b71Pej9MRtjAqhKnbQl) | [Gianneo: Complete Works for String Quartet, Vol\. 1](https://open.spotify.com/album/1t6iUL2NZxtbGTbPc7jMsy) | 8:17 |
 | 50 | [Bachianas brasileiras No\. 2, "O trenzinho do Caipira": IV\. Toccata: O trenzinho do Caipira \(The Peasant’s Little Train\)](https://open.spotify.com/track/5Swnw3xi06SkYEz7bF559s) | [Heitor Villa\-Lobos](https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p), [Nashville Symphony Orchestra](https://open.spotify.com/artist/5CmNgBR5IxvpiU5tQxc448), [Kenneth Schermerhorn](https://open.spotify.com/artist/7G5Z4L6m1LGBJ42aMS0zUL) | [Villa\-Lobos: Bachianas Brasileiras \(Complete\)](https://open.spotify.com/album/4VlrcNoa6YF2mwEyDlpj2G) | 4:26 |
 
-Snapshot ID: `MTY0MDMxNTc4MiwwMDAwMDAwMGFlMDdiZWZmZmU0MTdkY2E1ODFkYzc2YjgxODYyMWQ2`
+Snapshot ID: `MTY0MDMyNDQwNiwwMDAwMDAwMGFlMDdiZWZmZmU0MTdkY2E1ODFkYzc2YjgxODYyMWQ2`

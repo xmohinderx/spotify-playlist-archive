@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: FKA Twigs
 
+[Spotify](https://open.spotify.com/user/spotify) - 444,552 likes - 100 songs - 5 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [Never Going Home](https://open.spotify.com/track/4owKdwOIG7qs89ZfGv2PZg) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Never Going Home](https://open.spotify.com/album/5MwSzgWD4kNy3X3xijLbuV) | 3:55 |
 | 100 | [Seventeen](https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS) | 4:25 |
 
-Snapshot ID: `MTY0MDMxNTc1NiwwMDAwMDAwMDk0ZDAzZThlYjAzZDc1ZTg5NTQzNTcyYzEwZmQzZDBm`
+Snapshot ID: `MTY0MDMyNDM4MSwwMDAwMDAwMDk0ZDAzZThlYjAzZDc1ZTg5NTQzNTcyYzEwZmQzZDBm`

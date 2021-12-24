@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/722UH6DU3oigTYKBnfBZSy.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 50 songs - 3 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Physical](https://open.spotify.com/track/3FuL7jThtUAjneBm6puQNk) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [20th Century Masters: The Millennium Collection: Best Of Olivia Newton\-John](https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN) | 3:42 |

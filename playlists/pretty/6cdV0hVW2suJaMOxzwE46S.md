@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6cdV0hVW2suJaMOxzwE46S.md) - [plain]
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,405 likes - 38 songs - 2 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quit Your Job](https://open.spotify.com/track/4LnPMJPDiqxQqTW8ygkAr0) | [Thundamentals](https://open.spotify.com/artist/7ymhGfvQPQLHU20RovzLMJ) | [So We Can Remember](https://open.spotify.com/album/3eKdU5pt4Qq9kbaVddKtux) | 3:18 |

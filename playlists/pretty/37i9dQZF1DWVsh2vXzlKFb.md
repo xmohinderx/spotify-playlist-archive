@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > Indie tunes for t\-shirt weather.
 
+[Spotify](https://open.spotify.com/user/spotify) - 250,408 likes - 80 songs - 4 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 79 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 |
 | 80 | [Wasting Time](https://open.spotify.com/track/6TTD2b8DnGfv6HwitYu0hE) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Wasting Time](https://open.spotify.com/album/2pIuUTvKlHTajz5skj8a2a) | 2:47 |
 
-Snapshot ID: `MTY0MDMxNTUzOSwwMDAwMDAwMDQ5NmQ1NGIzNDU3NjI1OTg0NWU4Y2U5MWFkMDdkNzg3`
+Snapshot ID: `MTY0MDMyNDE3MCwwMDAwMDAwMDQ5NmQ1NGIzNDU3NjI1OTg0NWU4Y2U5MWFkMDdkNzg3`

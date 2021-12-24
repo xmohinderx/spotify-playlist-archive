@@ -1,6 +1,11 @@
 {
   "description": "This playlist is perfect for when you've got a fever... and the only prescription is more banjo!",
   "name": "More Banjo!",
+  "num_followers": 335,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NjcsZWQ5OWRlZmM2YjAxYjg0MDk5MjFhN2Y1ZWE1MmZmNTAxYmVmZjQxMQ==",
   "tracks": [
     {

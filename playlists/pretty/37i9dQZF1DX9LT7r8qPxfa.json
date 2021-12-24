@@ -1,7 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
   "name": "noir",
-  "snapshot_id": "MTY0MDMxNTc2MSwwMDAwMDAwMDQyOGQwNjAwMmZjMzY3NDU1NWJhMjdlYjZkYjMwNTAy",
+  "num_followers": 232866,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM4NSwwMDAwMDAwMDQyOGQwNjAwMmZjMzY3NDU1NWJhMjdlYjZkYjMwNTAy",
   "tracks": [
     {
       "added_at": "2021-11-12 05:00:00",

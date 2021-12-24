@@ -1,6 +1,11 @@
 {
   "description": "",
   "name": "POST",
+  "num_followers": 153,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MzUsZTA1YTA3ZDY1MTM0MWMwMmYzYTVkZjg2YmNiYmUwODI3MTIyNzhhNQ==",
   "tracks": [
     {

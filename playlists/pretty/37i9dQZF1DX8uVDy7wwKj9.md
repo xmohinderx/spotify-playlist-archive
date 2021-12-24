@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uVDy7wwKj9.md) - [plain]
 
 > Settle down with a nice cup of tea and enjoy the novels, stories, poems, and letters of Emily, Charlotte, Anne, and Patrick Branwell Brontë.
 
+[Spotify](https://open.spotify.com/user/spotify) - 14,490 likes - 139 songs - 16 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jane Eyre: Chapter 1, Unhappy Beginnings](https://open.spotify.com/track/3kEuttoUAHdUgq7dsUkX7E) | [Carole Boyd](https://open.spotify.com/artist/5JWgecCccFyD5g2LJyfuIg) | [Bronte: Jane Eyre](https://open.spotify.com/album/46leC1VFaJy4vP28GXtan9) | 18:25 |

@@ -1,7 +1,12 @@
 {
   "description": "All the new tunes in the Thrash world.",
   "name": "Thrashers",
-  "snapshot_id": "MTY0MDMxNTU5MSwwMDAwMDAwMDIxZjJjNDkzMjI2ZWFhNWI2NmIxODY4MWUyZjVjMGZm",
+  "num_followers": 350433,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIyMiwwMDAwMDAwMDIxZjJjNDkzMjI2ZWFhNWI2NmIxODY4MWUyZjVjMGZm",
   "tracks": [
     {
       "added_at": "2021-12-17 00:01:00",

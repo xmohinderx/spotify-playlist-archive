@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0kfqBZx9obUKiLVDwTqGly.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 58 songs - 3 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Funky Pretty \- Remastered 2000](https://open.spotify.com/track/6wH62Tkol3lkWiX676tgJs) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Holland \(2000 Remaster\)](https://open.spotify.com/album/56TmtkBepKW3eZKiRjEl0M) | 4:12 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFQPyPt2dUz.md) - [plain]
 
 > Within these words, "midnight's all a glimmer, and noon a purple glow..." Classic performances of Yeats' poems alongside the voice of the man himself.
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,155 likes - 42 songs - 1 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Lake Isle Of Innisfree](https://open.spotify.com/track/7JMN41fkjZwAwSl79BDBzR) | [William Butler Yeats](https://open.spotify.com/artist/6z99YIGDMuMBXrhiEjd5vQ) | [The Very Best Historic Voices](https://open.spotify.com/album/7cmdYngBaNcgzi2QW3ShoM) | 2:40 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4j0G7LOHRpKYDDXa8lxUik.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 508 likes - 50 songs - 3 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 |

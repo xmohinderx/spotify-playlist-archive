@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq57wSefud5.md) - [plain]
 
 > You'll be up with the sun and running to this playlist of fast paced feel good tunes!
 
+[Spotify](https://open.spotify.com/user/spotify) - 24,599 likes - 25 songs - 1 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Will Wait](https://open.spotify.com/track/2JHBMVs8E7bJJBLkXpKgHn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel](https://open.spotify.com/album/7rlmzEQPP4b6T6OhlnTdRn) | 4:36 |

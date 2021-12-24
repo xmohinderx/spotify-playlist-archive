@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2CTBt2glXb1wEzUa6wCbWU.md) - [plain]
 
 > Missa inte Håkan Hellström på Flamingo\-scenen på FREDAG / 19.40
 
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 10 songs - 40 min 3 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Det kommer aldrig va över för mig](https://open.spotify.com/track/44hYA9EB6IVtSLmhg2gfEN) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det kommer aldrig va över för mig](https://open.spotify.com/album/6i0RrNgcJDHDHEGYkN114v) | 4:27 |

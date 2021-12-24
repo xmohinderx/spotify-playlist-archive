@@ -1,6 +1,11 @@
 {
   "description": "",
   "name": "dw_g",
+  "num_followers": 8,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MyxmYWY1NmMwOGZkNmI4MTVlNGZkZWI4YzExMTM5MzY1YWNmYjRiZWEw",
   "tracks": [
     {

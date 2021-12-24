@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5QZZbWjNVjynssxTuO3f0f.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 41 likes - 20 songs - 1 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Main Title \(Game of Thrones \- Season 3\)](https://open.spotify.com/track/7fpQXTY9CZCUr2VDQhsvEm) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series\) Season 3](https://open.spotify.com/album/7oiQrUk7bEdl90qF8zkCme) | 1:44 |

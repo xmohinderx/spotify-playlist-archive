@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1XbPuTCA2KsqAOn9PJploZ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,850 likes - 50 songs - 3 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yeah!](https://open.spotify.com/track/2PkeVPcL32LA96cK5ySC3c) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Yeah!](https://open.spotify.com/album/021pXDAIuTIb2ADbS6VjbC) | 4:10 |

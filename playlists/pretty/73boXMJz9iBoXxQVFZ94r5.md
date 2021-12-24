@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/73boXMJz9iBoXxQVFZ94r5.md) - [plain]
 
 > If you travel the world and the seven seas, cashing six figure checks in all currencies, this playlist is a perfect companion for that business class seat or limo ride...
 
+[Spotify](https://open.spotify.com/user/spotify) - 18,359 likes - 23 songs - 1 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [i](https://open.spotify.com/track/69x16JmnJxuLVP9ELBoY03) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [i](https://open.spotify.com/album/5lFpwXzQZYkxOrlrLn71zP) | 3:51 |

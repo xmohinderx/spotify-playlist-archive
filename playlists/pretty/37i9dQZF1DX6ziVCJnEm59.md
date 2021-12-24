@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,916,895 likes - 125 songs - 7 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Portland, Maine](https://open.spotify.com/track/6u1E03WKp0QsOfK5FEzzGr) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Portland, Maine](https://open.spotify.com/album/1JdFJfWFPgE8UWUOd3R2gm) | 3:23 |

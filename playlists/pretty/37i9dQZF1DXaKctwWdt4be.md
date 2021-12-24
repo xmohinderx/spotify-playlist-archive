@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKctwWdt4be.md) - [plain]
 
 > Watch your screen as you listen to see lyrics, fun facts, and artist stories from Genius! \(on mobile only\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 48,166 likes - 50 songs - 2 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mile High](https://open.spotify.com/track/64ydkbrt0xhdJXRaam06Mc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/1LJE8ppunlaafUQzNJsxl2) | 3:13 |

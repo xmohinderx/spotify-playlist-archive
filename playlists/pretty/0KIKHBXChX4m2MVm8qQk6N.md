@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0KIKHBXChX4m2MVm8qQk6N.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,593 likes - 50 songs - 3 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Irreplaceable](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:47 |

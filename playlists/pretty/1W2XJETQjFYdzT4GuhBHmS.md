@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1W2XJETQjFYdzT4GuhBHmS.md) - [plain]
 
 > This playlist is perfect for when you've got a fever..\. and the only prescription is more banjo!
 
+[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 37 songs - 2 hr 6 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hopeless Wanderer](https://open.spotify.com/track/2MyqLgJ8Ek3ElMJlFu9G3K) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Edition\)](https://open.spotify.com/album/1SKwteICgxOCIoqtCUqpR6) | 5:07 |

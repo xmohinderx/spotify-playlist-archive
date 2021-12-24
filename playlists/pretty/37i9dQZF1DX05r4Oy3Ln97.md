@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
+[Spotify](https://open.spotify.com/user/spotify) - 257,297 likes - 60 songs - 2 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Belong \- Deepend Edit](https://open.spotify.com/track/68SRPSGrGrjiQmnRWxWoMa) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Belong](https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78) | 2:40 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Melody \- Creon Flips Remix](https://open.spotify.com/track/2tUm2KwMf7p78bzQqtegh8) | [Little Venice](https://open.spotify.com/artist/3CO23gK5THkoucYiRmPMAo), [ODBLU](https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02), [Creon Flips](https://open.spotify.com/artist/2qq4OFTPe8qqLnzODvRnvw) | [Melody \(Creon Flips Remix\)](https://open.spotify.com/album/21LrYA44CTV210DH78bnjm) | 2:32 |
 | 60 | [I Feel It Too](https://open.spotify.com/track/7q1HTi8JRpHEr73M6m0Z9h) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [I Feel It Too](https://open.spotify.com/album/0z8ZRKGJ2PVFuki4UhguLT) | 3:45 |
 
-Snapshot ID: `MTY0MDMxNTU5NywwMDAwMDAwMDAxMzYyZDUwNTM1ZDcxZjk5YjJiOTA5NmI5M2U2YjA0`
+Snapshot ID: `MTY0MDMyNDIyOSwwMDAwMDAwMDAxMzYyZDUwNTM1ZDcxZjk5YjJiOTA5NmI5M2U2YjA0`

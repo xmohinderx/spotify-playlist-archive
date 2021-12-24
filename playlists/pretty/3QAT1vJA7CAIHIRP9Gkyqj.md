@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3QAT1vJA7CAIHIRP9Gkyqj.md) - [plain]
 
 > An inside look into the new Amy Winehouse biopic, featuring exclusive interview clips and top picks from director Asif Kapadia.
 
+[Spotify](https://open.spotify.com/user/spotify) - 328 likes - 53 songs - 3 hr 6 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [01 \- Intro](https://open.spotify.com/track/6FQzLqwvsgBZ96JGGMQRGi) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Asif Kapadia Interview](https://open.spotify.com/album/6VHJR6fot3u8xXvGVH8PtW) | 0:09 |

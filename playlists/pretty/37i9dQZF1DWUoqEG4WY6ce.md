@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Road trip tracks...
 
+[Spotify](https://open.spotify.com/user/spotify) - 761,246 likes - 89 songs - 5 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 |
@@ -96,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 88 | [French Press](https://open.spotify.com/track/3xuTjTxGkMVtxnHCAntxTs) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/0Jw4EgPOvlImh3GQ9ohxqn) | 5:26 |
 | 89 | [This Year](https://open.spotify.com/track/2M1Qc1mGSI1IYtmJzQtfPq) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/0Cug9j2T7MHK4k8hUEGQ43) | 3:52 |
 
-Snapshot ID: `MTY0MDMxNTUyNiwwMDAwMDAwMDYzOWY3MjA4Y2QwYWU4NzhjNDcyOTNmZjVkZTIyMGVk`
+Snapshot ID: `MTY0MDMyNDE1NywwMDAwMDAwMDYzOWY3MjA4Y2QwYWU4NzhjNDcyOTNmZjVkZTIyMGVk`

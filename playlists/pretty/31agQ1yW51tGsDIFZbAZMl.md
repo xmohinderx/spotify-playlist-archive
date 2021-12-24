@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/31agQ1yW51tGsDIFZbAZMl.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 112 likes - 6 songs - 31 min 35 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do I Wanna Know?](https://open.spotify.com/track/49h0RYK3yzWkfbVyNJjJ01) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Do I Wanna Know?](https://open.spotify.com/album/3ttygSi8PC7paH1m7TsmbB) | 4:33 |

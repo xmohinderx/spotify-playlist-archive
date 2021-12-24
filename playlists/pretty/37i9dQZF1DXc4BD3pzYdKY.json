@@ -1,7 +1,12 @@
 {
   "description": "The pulse of the best music and sounds in Christian Hip Hop.  Cover: Lecrae and 1K Phew",
   "name": "The Flow",
-  "snapshot_id": "MTY0MDMxNTgwMCwwMDAwMDAwMDk5MzQ3YzM0NjI2YWYwYWY5Y2Y1OGRlZGQxZGU1ODQy",
+  "num_followers": 100879,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQyNCwwMDAwMDAwMDk5MzQ3YzM0NjI2YWYwYWY5Y2Y1OGRlZGQxZGU1ODQy",
   "tracks": [
     {
       "added_at": "2021-12-11 05:13:09",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6QAwHYtCdTdrgX6wh1iE9H.md) - [plain]
 
 > Lounge around without a care in the world...
 
+[Spotify](https://open.spotify.com/user/spotify) - 823 likes - 39 songs - 2 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |

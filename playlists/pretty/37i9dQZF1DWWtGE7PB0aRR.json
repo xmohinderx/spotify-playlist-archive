@@ -1,7 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Robin Trower",
   "name": "Brit-Blues",
-  "snapshot_id": "MTY0MDMxNTU1NiwwMDAwMDAwMDI2YTY2MjJmZTU1NmE1NTAyZDQxOTI3NDJkYmY0YTY3",
+  "num_followers": 86373,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE4NiwwMDAwMDAwMDI2YTY2MjJmZTU1NmE1NTAyZDQxOTI3NDJkYmY0YTY3",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",

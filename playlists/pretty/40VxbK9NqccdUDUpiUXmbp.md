@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/40VxbK9NqccdUDUpiUXmbp.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 30 songs - 1 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 |

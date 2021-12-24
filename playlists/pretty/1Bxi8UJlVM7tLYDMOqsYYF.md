@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1Bxi8UJlVM7tLYDMOqsYYF.md) - [plain]
 
 > The ultimate playlist to get you ready for a fun night out with your girlfriends.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,235 likes - 47 songs - 2 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roar](https://open.spotify.com/track/3XSczvk4MRteOw4Yx3lqMU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Roar](https://open.spotify.com/album/2bELFHKEF8yIDHMelNab2p) | 3:42 |

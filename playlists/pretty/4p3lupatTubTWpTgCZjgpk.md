@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain]
 
 > Countrify your power walk
 
+[Spotify](https://open.spotify.com/user/spotify) - 11,781 likes - 20 songs - 1 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Put You In A Song](https://open.spotify.com/track/7bkgRHkiyRO1vWzG1hTicD) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 3:40 |

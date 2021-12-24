@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6wz9sFJRqsmu7ldv0xJOIz.md) - [plain]
 
 > It all starts with some friends over for dinner but after a couple of drinks..\. well let's just say you won't have to worry about having an upbeat playlist for the night!
 
+[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 25 songs - 1 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pulses](https://open.spotify.com/track/6vDGMDZfUOBalI4Ih64nO6) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Pulses](https://open.spotify.com/album/3lqeDsHYqEaSxRC4s6l9PM) | 3:24 |

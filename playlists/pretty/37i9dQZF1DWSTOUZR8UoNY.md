@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTOUZR8UoNY.md) - [plain]
 
 > Listen to poet Dylan Thomas read great works – both his own and those of others.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,187 likes - 102 songs - 9 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do Not Go Gentle into That Good Night](https://open.spotify.com/track/6iLJE6LRRlqawQHOQoem1c) | [Dylan Thomas](https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff) | [Dylan Thomas Reading Vol\. 1](https://open.spotify.com/album/68IRtfkGjnj5FT9fq1yRAo) | 1:35 |

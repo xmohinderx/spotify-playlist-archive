@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jD2cAwnIit.md) - [plain]
 
 > Katy Perry all day\. All the hits and more.
 
+[Spotify](https://open.spotify.com/user/spotify) - 982,457 likes - 54 songs - 3 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Teenage Dream](https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Katy Perry \- Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
@@ -61,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jD2cAwnIit.md) - [plain]
 | 53 | [Mannequin](https://open.spotify.com/track/6m22NntKIuBJkD2Qmh58P9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:17 |
 | 54 | [By The Grace Of God](https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 4:27 |
 
-Snapshot ID: `MTY0MDMxNTY0NSwwMDAwMDAwMDlhOTA2OGNkM2U1MTdkMDUwZmMyODJkMWFmM2JhNDFj`
+Snapshot ID: `MTY0MDMyNDI3NCwwMDAwMDAwMDlhOTA2OGNkM2U1MTdkMDUwZmMyODJkMWFmM2JhNDFj`

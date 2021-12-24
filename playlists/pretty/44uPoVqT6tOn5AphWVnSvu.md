@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/44uPoVqT6tOn5AphWVnSvu.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 299 likes - 46 songs - 3 hr 47 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When You Were Mine](https://open.spotify.com/track/1EOzB9DlPw2HzMf7c4wEV2) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/47twrlBwhTPYmLJI3ot7fX) | 3:43 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7g3zHOim2XylTlM7Oittr8.md) - [plain]
 
 > Enjoy the top streamed country songs of 2016 right here! Cover: Dan + Shay
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,806 likes - 50 songs - 3 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [From the Ground Up \- Single Version](https://open.spotify.com/track/0AdjJ2SaOeb5bPJ67nDbsW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [From the Ground Up](https://open.spotify.com/album/2Ukvb2P5DacfRm6tJmXaVA) | 4:14 |

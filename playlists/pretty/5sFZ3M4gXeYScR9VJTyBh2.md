@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5sFZ3M4gXeYScR9VJTyBh2.md) - [plain]
 
 > You can't win 'em all\. Drown your sorrows with a cold brew and this drinking playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 23 songs - 1 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can't Tell Me Nothing](https://open.spotify.com/track/4ImL3v98u2BLkwnyQDjfRm) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9) | 4:31 |

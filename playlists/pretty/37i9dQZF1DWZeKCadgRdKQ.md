@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient and post\-rock music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,579,800 likes - 150 songs - 7 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [middle part](https://open.spotify.com/track/2GNEJcmdJuQK97mWea637Y) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [middle part](https://open.spotify.com/album/7a5iuCtOONCEHJgNdgjaHZ) | 2:19 |

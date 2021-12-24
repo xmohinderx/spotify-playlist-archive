@@ -1,7 +1,12 @@
 {
   "description": "The tracks that gamers love.",
   "name": "Top Gaming Tracks",
-  "snapshot_id": "MTY0MDMxNTUxNiwwMDAwMDAwMDNmOTY2YTRkZDUxZGM1YThjMDM2NmVhMWNkYzZiNmE0",
+  "num_followers": 4075888,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE0NywwMDAwMDAwMDNmOTY2YTRkZDUxZGM1YThjMDM2NmVhMWNkYzZiNmE0",
   "tracks": [
     {
       "added_at": "2021-08-20 14:00:30",

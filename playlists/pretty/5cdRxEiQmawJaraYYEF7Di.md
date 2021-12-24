@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5cdRxEiQmawJaraYYEF7Di.md) - [plain]
 
 > Infectiously happy hits from years past blended with the best of today's chart toppers.
 
+[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 53 songs - 3 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Light It Up \(Remix\) \[feat\. Nyla & Fuse ODG\]](https://open.spotify.com/track/2Uobrx66TChi5Iqs6sVMOD) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Light It Up \(Remix\) \[feat\. Nyla & Fuse ODG\]](https://open.spotify.com/album/42LmC14TPVKWKiGo4jNWT7) | 2:46 |

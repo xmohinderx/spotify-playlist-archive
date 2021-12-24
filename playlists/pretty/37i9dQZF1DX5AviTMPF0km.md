@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AviTMPF0km.md) - [plain]
 
 > A collection of contemporary classical from Chinese and Chinese\-born composers and musicians, from Bright Sheng and Chen Yi to Qu Xiaosong and Zhu Jianer.
 
+[Spotify](https://open.spotify.com/user/spotify) - 18,538 likes - 28 songs - 4 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Windswept Peaks](https://open.spotify.com/track/3g41VfGxtmayCtMZrHDsvE) | [Chou Wen\-chung](https://open.spotify.com/artist/0mgcz8GyOUblVZJI1IjEDc), [Ensemble Parallèle](https://open.spotify.com/artist/5T1ZddbHAPrQqGDPjoU5oG), [Nicole Paiement](https://open.spotify.com/artist/1PJrimF235j9hK3mOazERA) | [Tribute to Chou Wen Chung](https://open.spotify.com/album/4ICQBXssF3dcJhaTHrbRYr) | 18:44 |

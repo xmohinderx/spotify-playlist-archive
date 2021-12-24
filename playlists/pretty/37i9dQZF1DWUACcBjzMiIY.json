@@ -1,7 +1,12 @@
 {
   "description": "Easy listening for a pleasant drive.",
   "name": "Mellow Drive",
-  "snapshot_id": "MTY0MDMxNTUxOSwwMDAwMDAwMDBlZGU0ODU4ZmZlMzRhNDMyZjU2MTJiODQ4OGJmMjAy",
+  "num_followers": 175167,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE1MCwwMDAwMDAwMDBlZGU0ODU4ZmZlMzRhNDMyZjU2MTJiODQ4OGJmMjAy",
   "tracks": [
     {
       "added_at": "2019-06-21 00:09:37",

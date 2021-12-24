@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Dua Lipa & Elton John.
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,264,954 likes - 100 songs - 5 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [If The World Just Danced \- MOTi Remix](https://open.spotify.com/track/7kEh6jNlJOAhC0lv6XV3iw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [If The World Just Danced \(MOTi Remix\)](https://open.spotify.com/album/3z5pt1H2x64IxipkGh9pjy) | 3:29 |
 | 100 | [Cool \(Jayda G Remix\)](https://open.spotify.com/track/08Z670x6tSSxElJkhpv5wa) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Cool \(Jayda G Remix\)](https://open.spotify.com/album/3awo0PmF50cVRzWHfdHegI) | 4:06 |
 
-Snapshot ID: `MTY0MDMxNTgwNywwMDAwMDAwMDdmZjIwYzJkNDViMTE0Y2E4YTk4MGMxMjMzYWNmMTc5`
+Snapshot ID: `MTY0MDMyNDQzMSwwMDAwMDAwMDdmZjIwYzJkNDViMTE0Y2E4YTk4MGMxMjMzYWNmMTc5`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/44Ht3IACEyKqiLBZupIhIk.md) - [plain]
 
 > Sweet and slow, soft and soothing..\. a collection of beautiful bluegrass vocals.
 
+[Spotify](https://open.spotify.com/user/spotify) - 218 likes - 29 songs - 1 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wildflowers](https://open.spotify.com/track/6invZZ1AIuGp22kxeeLr3I) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 3:07 |

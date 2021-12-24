@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5Co3nToduGTXXF1ra9gXB3.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 410 likes - 50 songs - 3 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bette Davis Eyes](https://open.spotify.com/track/0kPeymTUiaidv48eRrMISu) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Bette Davis Eyes](https://open.spotify.com/album/2Jmuuw5ff8gAGAP6B1yKKJ) | 3:44 |

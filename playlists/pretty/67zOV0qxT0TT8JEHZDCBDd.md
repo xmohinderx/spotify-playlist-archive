@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/67zOV0qxT0TT8JEHZDCBDd.md) - [plain]
 
 > Missa inte Miguel på Azalea\-scenen på FREDAG / 21.15
 
+[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 10 songs - 34 min 31 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |

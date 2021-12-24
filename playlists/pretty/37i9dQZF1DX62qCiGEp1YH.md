@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62qCiGEp1YH.md) - [plain]
 
 > Embrace the mood of the season with harmonious, comforting songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 333,135 likes - 100 songs - 6 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [hidden springs](https://open.spotify.com/track/0Xb28zH7wukuHkHVPYm5mV) | [iris](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [femme florale](https://open.spotify.com/album/2EyR9WKaYKtccaYJjH56Lt) | 3:26 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62qCiGEp1YH.md) - [plain]
 | 99 | [Low](https://open.spotify.com/track/2a3DEMKfkKISg2eK8O1goj) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Low \- EP](https://open.spotify.com/album/1N9GJqZU3e0wkvTytqIEpg) | 3:26 |
 | 100 | [Smother](https://open.spotify.com/track/1drUAdX3NY4dTieuxdedLY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2Y3kTeMHY7GZAvyNwV1jIH) | 4:00 |
 
-Snapshot ID: `MTY0MDMxNTcwOCwwMDAwMDAwMDlhMDk2NmI5MjRhNWM3YzllY2Q2N2ExNmU5ZjBiMzZm`
+Snapshot ID: `MTY0MDMyNDMzNSwwMDAwMDAwMDlhMDk2NmI5MjRhNWM3YzllY2Q2N2ExNmU5ZjBiMzZm`

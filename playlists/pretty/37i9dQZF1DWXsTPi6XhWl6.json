@@ -1,7 +1,12 @@
 {
   "description": "Wake up with the brightest Indie.",
   "name": "Wide Awake",
-  "snapshot_id": "MTY0MDMxNTU3MSwwMDAwMDAwMGJlNDY4MDdkNjJjYTFkZTFjM2I4NmZiNTM4NDRiNzM2",
+  "num_followers": 34332,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIwMywwMDAwMDAwMGJlNDY4MDdkNjJjYTFkZTFjM2I4NmZiNTM4NDRiNzM2",
   "tracks": [
     {
       "added_at": "2020-01-14 15:07:32",

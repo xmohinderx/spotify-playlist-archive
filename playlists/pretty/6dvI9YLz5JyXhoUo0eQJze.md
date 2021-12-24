@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6dvI9YLz5JyXhoUo0eQJze.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,602 likes - 55 songs - 3 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Sullen Welsh Heart \(feat\. Lucy Rose\)](https://open.spotify.com/track/7ynvXCLdbzFfeOsyx2URX9) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Rewind the Film](https://open.spotify.com/album/2BnILbb4wJR2qp9qZbSUDr) | 4:13 |

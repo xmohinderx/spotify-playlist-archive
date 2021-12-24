@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,568,787 likes - 73 songs - 3 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wherever You Go \(Feat\. John Martin\)](https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Wherever You Go \(Feat\. John Martin\)](https://open.spotify.com/album/7pISC7Gh6pNbNLPgv4PToV) | 3:20 |

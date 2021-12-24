@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> The pulse of R&B music today\.  Cover: SZA
+> The pulse of R&B music today\.  Cover: Silk Sonic
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

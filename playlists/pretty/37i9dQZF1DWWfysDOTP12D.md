@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfysDOTP12D.md) - [plain]
 
 > Over 70 poems by women read by the authors themselves, featuring Rita Dove, Elizabeth Bishop, Gertrude Stein, and more.
 
+[Spotify](https://open.spotify.com/user/spotify) - 83,836 likes - 82 songs - 2 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In Distrust of Merits](https://open.spotify.com/track/7sfIL9W4eyvdV0B6GSqHUI) | [Marianne Moore](https://open.spotify.com/artist/3iWWOeUP3tsTBiTny1Bdht) | [Pleasure Dome: Audible Modern Poetry Read by its Creators](https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea) | 4:14 |

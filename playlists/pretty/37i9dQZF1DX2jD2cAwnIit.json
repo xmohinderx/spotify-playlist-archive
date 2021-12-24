@@ -1,7 +1,12 @@
 {
   "description": "Katy Perry all day. All the hits and more.",
   "name": "This Is Katy Perry",
-  "snapshot_id": "MTY0MDMxNTY0NSwwMDAwMDAwMDlhOTA2OGNkM2U1MTdkMDUwZmMyODJkMWFmM2JhNDFj",
+  "num_followers": 982457,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3NCwwMDAwMDAwMDlhOTA2OGNkM2U1MTdkMDUwZmMyODJkMWFmM2JhNDFj",
   "tracks": [
     {
       "added_at": "2021-11-13 06:08:56",

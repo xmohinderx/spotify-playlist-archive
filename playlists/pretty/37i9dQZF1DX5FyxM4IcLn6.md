@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 63rd GRAMMY Awards.
 
+[Spotify](https://open.spotify.com/user/spotify) - 121,616 likes - 299 songs - 21 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 |
@@ -306,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 298 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 |
 | 299 | [You and You Alone](https://open.spotify.com/track/0nRoanoOaeoet3D2j2nx8R) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Underneath](https://open.spotify.com/album/70kThssMOMBi4GyBPCk0Gu) | 3:06 |
 
-Snapshot ID: `MTY0MDMxNTY5MywwMDAwMDAwMGU4MTAyNGZlNjIwNmQyNmYxZGYxZDMyMmUyYmFjNGQx`
+Snapshot ID: `MTY0MDMyNDMyMSwwMDAwMDAwMGU4MTAyNGZlNjIwNmQyNmYxZGYxZDMyMmUyYmFjNGQx`

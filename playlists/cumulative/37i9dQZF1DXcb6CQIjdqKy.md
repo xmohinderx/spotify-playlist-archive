@@ -2,7 +2,7 @@
 
 ### [Top Christian](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music worldwide\.  Cover: Tasha Layton
+> The best mix of today's Christian music worldwide\.  Cover: Anne Wilson
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [On Our Way](https://open.spotify.com/track/7DCbWeFsHONrfaQEvv3iib) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Sam Wesley](https://open.spotify.com/artist/3iACYYa77dlrA3YGZegypP) | [On Our Way](https://open.spotify.com/album/6TJOXFwJXWuUGjp9AMX2VY) | 3:26 | 2021-12-17 |  |
 | [Over And Over Again](https://open.spotify.com/track/2g9DkxzYcWiD2xlpGVzdmf) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Over And Over Again](https://open.spotify.com/album/0nlx1ckdpFqsEg2Zi0Pu4Z) | 3:06 | 2021-12-17 |  |
 | [PAUSE](https://open.spotify.com/track/5dyWMKFIB4QKVKfS9Py5eN) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [IDAHO \(CAMPFIRE EDITION\)](https://open.spotify.com/album/71oHAXIFa2kY2aPk14stpG) | 4:34 | 2021-12-17 |  |
-| [Perfect Love](https://open.spotify.com/track/2PeGP15nxf7OXaw4PQw0ZA) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Perfect Love](https://open.spotify.com/album/10nB2ZDmXKHbBRNES98Cmv) | 4:12 | 2021-12-17 |  |
+| [Peace of God](https://open.spotify.com/track/5DZeJ1BYlDHvkgUD5X8Oti) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Everywhere + Nowhere \(Black Edition Deluxe\)](https://open.spotify.com/album/308B9tBVWyLjjLan4517p4) | 3:16 | 2021-12-24 |  |
+| [Perfect Love](https://open.spotify.com/track/2PeGP15nxf7OXaw4PQw0ZA) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [Perfect Love](https://open.spotify.com/album/10nB2ZDmXKHbBRNES98Cmv) | 4:12 | 2021-12-17 | 2021-12-24 |
 | [Poetry](https://open.spotify.com/track/59Ie6RW8WfI24BycVWpexi) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Poetry](https://open.spotify.com/album/6UVAOA3Lnz3lZPBGn1u7Wl) | 2:40 | 2021-12-17 |  |
 | [Precious](https://open.spotify.com/track/4PFArZky2W4NCAxAJ4LuA7) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Precious](https://open.spotify.com/album/4kPmrOm92X5Z9320B6IOsG) | 6:07 | 2021-12-17 |  |
 | [Promised Land](https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Promised Land](https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij) | 3:29 | 2021-12-17 |  |

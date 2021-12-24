@@ -1,6 +1,11 @@
 {
   "description": "",
   "name": "On to Something Good",
+  "num_followers": 13,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MyxlMmQ3OGVjMTIzNTBkMTM3ZThlYWJmY2VkZDY1MjIzZDc2ZmE3Yzdi",
   "tracks": [
     {

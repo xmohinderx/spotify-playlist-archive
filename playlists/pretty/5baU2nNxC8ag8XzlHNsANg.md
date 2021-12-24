@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5baU2nNxC8ag8XzlHNsANg.md) - [plain]
 
 > All your favorite hits from the decade you love most!
 
+[Spotify](https://open.spotify.com/user/spotify) - 6,400 likes - 75 songs - 5 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |

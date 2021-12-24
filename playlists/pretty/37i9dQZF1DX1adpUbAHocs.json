@@ -1,7 +1,12 @@
 {
   "description": "hop in and take the long way.",
   "name": "Scenic Route",
-  "snapshot_id": "MTY0MDMxNTYyNCwwMDAwMDAwMDJiYWNhOTNhMDMwMmQyNjlmNjVlOGE2MDJiYTAwOTk1",
+  "num_followers": 607253,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI1NCwwMDAwMDAwMDJiYWNhOTNhMDMwMmQyNjlmNjVlOGE2MDJiYTAwOTk1",
   "tracks": [
     {
       "added_at": "2021-10-08 04:00:00",

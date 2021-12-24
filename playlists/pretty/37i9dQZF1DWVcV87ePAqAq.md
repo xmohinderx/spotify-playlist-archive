@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Fest kan vara minst lika kul även om du bara är med dina allra närmsta!
 
+[Spotify](https://open.spotify.com/user/spotify) - 112,032 likes - 100 songs - 5 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Who Am I](https://open.spotify.com/track/6ZUk5fwY2nDy4QyStdluyb) | [Enzo Ingrosso](https://open.spotify.com/artist/6F1Ynxvudm3avEoQ1sdWq2), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Who Am I](https://open.spotify.com/album/4DaCYbpboG6H5nOBSveMJ3) | 3:27 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 99 | [Roots](https://open.spotify.com/track/23FHa9lYnG6Dr8OzombPkS) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Roots](https://open.spotify.com/album/4p0nrJ3SXAtZVaCnY0C0kM) | 3:04 |
 | 100 | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Carry On \(from the Original Motion Picture "POKÉMON Detective Pikachu"\)](https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz) | 3:35 |
 
-Snapshot ID: `MTY0MDMxNTUzMywwMDAwMDAwMDYzNmMxODA2MmM4ODY2YTc0MTRjNmMzZWFkZTRhYjdh`
+Snapshot ID: `MTY0MDMyNDE2NCwwMDAwMDAwMDYzNmMxODA2MmM4ODY2YTc0MTRjNmMzZWFkZTRhYjdh`

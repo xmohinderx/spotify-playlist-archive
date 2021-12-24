@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qDhzfjyTN6.md) - [plain]
 
 > This 50\-track collection takes you through a fascinating journey from the singular works of Schubert, Schumann and Chopin that defined the era, to the last masterpiece of late romanticism composed after WWII, Strauss' Four Last Songs\. For operas from this era, see <a href="spotify:user:spotify:playlist:473bnHuzXcRUsDmSkdUrmz">this</a> playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 126,298 likes - 50 songs - 7 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nocturne No.1 in E Flat Major, H.24](https://open.spotify.com/track/2BoGqeQPudKngGagsPjSJW) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Elizabeth Joy Roe](https://open.spotify.com/artist/5vJAuQf7YI4bRYev7UfZDs) | [Field: Complete Nocturnes](https://open.spotify.com/album/4hPBofF8PnhqMtoHVjS9FN) | 3:41 |

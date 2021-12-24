@@ -1,7 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
   "name": "An Elegant Affair",
-  "snapshot_id": "MTY0MDMxNTUzNCwwMDAwMDAwMGM3YjAxNDNiN2NhNzBmMGYyMGYyZmEyNDI0NmM1MWM4",
+  "num_followers": 821266,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE2NSwwMDAwMDAwMGM3YjAxNDNiN2NhNzBmMGYyMGYyZmEyNDI0NmM1MWM4",
   "tracks": [
     {
       "added_at": "2021-03-22 13:20:15",

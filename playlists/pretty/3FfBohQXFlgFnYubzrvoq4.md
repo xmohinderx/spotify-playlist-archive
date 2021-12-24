@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3FfBohQXFlgFnYubzrvoq4.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 20 songs - 1 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [On to Something Good](https://open.spotify.com/track/1yaFBgYRHxXxJN0AKy3WS1) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [On to Something Good](https://open.spotify.com/album/0wk40VReNDTunoo5fax8OD) | 3:50 |

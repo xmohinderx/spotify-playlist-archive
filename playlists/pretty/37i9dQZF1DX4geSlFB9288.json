@@ -1,7 +1,12 @@
 {
   "description": "Indie music to keep your gaming session properly soundtracked. Featuring music by Ricky Montgomery.",
   "name": "Indie Gaming",
-  "snapshot_id": "MTY0MDMxNTY4MCwwMDAwMDAwMGRkYWI4OTE5NzYyODNiYzY5YThlOTFhODI4ODYxMTAz",
+  "num_followers": 42481,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMwOCwwMDAwMDAwMGRkYWI4OTE5NzYyODNiYzY5YThlOTFhODI4ODYxMTAz",
   "tracks": [
     {
       "added_at": "2021-10-20 21:14:39",

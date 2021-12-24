@@ -1,7 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
   "name": "Schlagerfest",
-  "snapshot_id": "MTY0MDMxNTU4MCwwMDAwMDAwMGNmOGVkMDQ5NWU1ZjE1MDlkYWM4YTBlODY5YTg2NDRj",
+  "num_followers": 22538,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIxMiwwMDAwMDAwMGNmOGVkMDQ5NWU1ZjE1MDlkYWM4YTBlODY5YTg2NDRj",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",

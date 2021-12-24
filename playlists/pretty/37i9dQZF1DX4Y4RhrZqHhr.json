@@ -1,7 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
   "name": "Beach Party",
-  "snapshot_id": "MTY0MDMxNTY3NiwwMDAwMDAwMDAwOTQzYzBmMGIzMGQ2MjFkYjQzNWMzN2JkNjE4NzZk",
+  "num_followers": 727248,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMwNCwwMDAwMDAwMDAwOTQzYzBmMGIzMGQ2MjFkYjQzNWMzN2JkNjE4NzZk",
   "tracks": [
     {
       "added_at": "2021-04-09 08:53:13",

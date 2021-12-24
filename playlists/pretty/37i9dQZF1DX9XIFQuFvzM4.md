@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,308,946 likes - 100 songs - 5 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 99 | [You Are My Heart](https://open.spotify.com/track/6hfKln1Jm1WCN6ozSQZGyN) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4JexrqcB8oKiRmr4tyOOz3) | 3:13 |
 | 100 | [My Guy](https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:52 |
 
-Snapshot ID: `MTY0MDMxNTc2MywwMDAwMDAwMDIyODAxN2VmNDhiMDE0MmE0MTBhNjBkZWMxOTkwNmEw`
+Snapshot ID: `MTY0MDMyNDM4NywwMDAwMDAwMDIyODAxN2VmNDhiMDE0MmE0MTBhNjBkZWMxOTkwNmEw`

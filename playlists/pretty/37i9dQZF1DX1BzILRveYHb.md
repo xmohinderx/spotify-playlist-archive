@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 
 > Easy listening soft pop hits for a pleasant day.
 
+[Spotify](https://open.spotify.com/user/spotify) - 402,824 likes - 60 songs - 3 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 59 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 |
 | 60 | [You and I Both](https://open.spotify.com/track/2mKjs6s0Z1imKKb6gOk628) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Waiting for My Rocket to Come](https://open.spotify.com/album/6I9GBueBmRdHdDQjbL7El1) | 3:40 |
 
-Snapshot ID: `MTY0MDMxNTYxOSwwMDAwMDAwMGNiNTU5NzcxOWZmZWJhYmU2NTg0MmQxY2FjOTNjZmY0`
+Snapshot ID: `MTY0MDMyNDI0OSwwMDAwMDAwMGNiNTU5NzcxOWZmZWJhYmU2NTg0MmQxY2FjOTNjZmY0`

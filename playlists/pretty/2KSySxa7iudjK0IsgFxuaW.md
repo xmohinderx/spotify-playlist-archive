@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2KSySxa7iudjK0IsgFxuaW.md) - [plain]
 
 > It's Elmo's time to shine!
 
+[Spotify](https://open.spotify.com/user/spotify) - 166 likes - 15 songs - 30 min 23 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sesame Street Theme](https://open.spotify.com/track/72VtUtJJO4PkaGaXw5cBQn) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 2:05 |

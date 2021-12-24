@@ -1,7 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Daniel Hope",
   "name": "Classical New Releases",
-  "snapshot_id": "MTYzOTcxMzYwMCwwMDAwMDE3YjAwMDAwMTdkYzY4YmYyNmQwMDAwMDE3ZGMzZDEyNDU4",
+  "num_followers": 621007,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMxODQwMCwwMDAwMDE3YzAwMDAwMTdkZWE5ODc2NjAwMDAwMDE3ZGMzZDEyNDU4",
   "tracks": [
     {
       "added_at": "2021-12-17 04:00:00",
@@ -26,6 +31,26 @@
       "duration_ms": 163680,
       "name": "West Side Story Suite: I. America (Version for Solo Violin and String Orchestra)",
       "url": "https://open.spotify.com/track/0Pqq3yMtcTlryrZFkxoZKw"
+    },
+    {
+      "added_at": "2021-12-24 04:00:00",
+      "album": {
+        "name": "Bach: Goldberg Variations",
+        "url": "https://open.spotify.com/album/5A7uvR8crJjWb2gseCS3Ec"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tanja Huppert",
+          "url": "https://open.spotify.com/artist/4doY6OpQK5S7LLDxzam4Ky"
+        }
+      ],
+      "duration_ms": 168154,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/3IaqSLdItWG8BI3p07OkDG"
     },
     {
       "added_at": "2021-12-17 04:00:00",
@@ -128,6 +153,34 @@
       "url": "https://open.spotify.com/track/6q4yJfdPmQh5OkzJHrj538"
     },
     {
+      "added_at": "2021-12-24 04:00:00",
+      "album": {
+        "name": "Symphony in E Major, D. 729 (Completed by Richard D\u00fcnser)",
+        "url": "https://open.spotify.com/album/1JYmgTApAUi2pzQCooKN1S"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Richard D\u00fcnser",
+          "url": "https://open.spotify.com/artist/4LyvL0SjXIjMDbcmVxZRg7"
+        },
+        {
+          "name": "Mario Venzago",
+          "url": "https://open.spotify.com/artist/39lQyvfR8sc6VYCeXMkFsQ"
+        },
+        {
+          "name": "Symphonieorchester Bern",
+          "url": "https://open.spotify.com/artist/4TRPsqgvRsQHW3RqAWsbhc"
+        }
+      ],
+      "duration_ms": 453937,
+      "name": "Symphony in E Major, D. 729: III. Scherzo. Allegro (Completed by Richard D\u00fcnser)",
+      "url": "https://open.spotify.com/track/6G0gxekvA6eGzPXgNWeWOK"
+    },
+    {
       "added_at": "2021-12-17 04:00:00",
       "album": {
         "name": "In His, Quae Patris Mei Sunt",
@@ -182,6 +235,30 @@
       "duration_ms": 217026,
       "name": "Three Waltzes, Op. 64: Waltz No. 2 in C-Sharp Minor",
       "url": "https://open.spotify.com/track/62BfWcrl8ulUHc5IWQTFO6"
+    },
+    {
+      "added_at": "2021-12-24 04:00:00",
+      "album": {
+        "name": "12 Lieder von Franz Schubert, S.558: No. 2 Auf dem Wasser zu singen",
+        "url": "https://open.spotify.com/album/2sTQdZkW4Xfae5GmDhnRwe"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Franz Liszt (after Schubert)",
+          "url": "https://open.spotify.com/artist/53PyjdJfgOBFwhXV8Utby3"
+        },
+        {
+          "name": "Sergey Tanin",
+          "url": "https://open.spotify.com/artist/1i1rqH4Df6CNCK1Fn1q76h"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "12 Lieder von Franz Schubert, S.558: No. 2 Auf dem Wasser zu singen",
+      "url": "https://open.spotify.com/track/13Lm80DAxE5FxDdjSfb7L4"
     },
     {
       "added_at": "2021-12-17 04:00:00",
@@ -414,6 +491,26 @@
       "duration_ms": 247240,
       "name": "Life Was Just Beginning",
       "url": "https://open.spotify.com/track/2ZZLWOz3YrQfhD8q0OUsdW"
+    },
+    {
+      "added_at": "2021-12-24 04:00:00",
+      "album": {
+        "name": "Pi\u00e8ces Froides (Danses de Travers, Arr. for Reed Quintet by Raaf Hekkema)",
+        "url": "https://open.spotify.com/album/1t8WaCIscorIcCMrRQcp5f"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Reeds in Motion",
+          "url": "https://open.spotify.com/artist/0VGk9bh87gZ0dZx5N6UBmd"
+        }
+      ],
+      "duration_ms": 106426,
+      "name": "Pi\u00e8ces Froides, II. Danses de travers: I. En y regardant \u00e0 deux fois (Arr. for Reed Quintet by Raaf Hekkema)",
+      "url": "https://open.spotify.com/track/63J62SwO05LCTHmETgaB4O"
     },
     {
       "added_at": "2021-12-17 04:00:00",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Relax and indulge with beautiful piano pieces
 
+[Spotify](https://open.spotify.com/user/spotify) - 6,400,228 likes - 465 songs - 20 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All Numbers End](https://open.spotify.com/track/7pLoI3XJLM67CGKAnOf5M5) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Numbers End](https://open.spotify.com/album/2J8z6obkyZkBrBHUjiXERN) | 1:35 |

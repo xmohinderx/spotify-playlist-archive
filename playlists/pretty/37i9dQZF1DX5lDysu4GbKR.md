@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
 
+[Spotify](https://open.spotify.com/user/spotify) - 527,241 likes - 111 songs - 6 hr 44 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Is This Love](https://open.spotify.com/track/4DNisbJkFrnE940piQZZa8) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/5F9dIlw7nEOIVpXk0sBnVg) | 4:04 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
+[Spotify](https://open.spotify.com/user/spotify) - 578,764 likes - 40 songs - 3 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thank You For It All](https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thank You For It All](https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl) | 4:24 |
@@ -47,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [Lifted Up](https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Lifted Up](https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd) | 4:29 |
 | 40 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [God Is My Refuge \(Live\)](https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX) | 9:45 |
 
-Snapshot ID: `MTY0MDMxNTczMiwwMDAwMDAwMDI1Y2Y2ZDM1ZGViM2IxZWFjNDRlMjk5MmJmNmY2MzYw`
+Snapshot ID: `MTY0MDMyNDM1NywwMDAwMDAwMDI1Y2Y2ZDM1ZGViM2IxZWFjNDRlMjk5MmJmNmY2MzYw`

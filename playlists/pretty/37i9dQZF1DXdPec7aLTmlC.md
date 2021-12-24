@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 
 > Hits to boost your mood and fill you with happiness!
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,713,535 likes - 100 songs - 5 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 | 99 | [Fingertips](https://open.spotify.com/track/0jh5NRR4gX9tsFMLFDhEmX) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Fingertips](https://open.spotify.com/album/2MAgtaK0ezx7oc6qiAxhvN) | 2:45 |
 | 100 | [Perfect \(feat\. Haris\)](https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Perfect \(feat\. Haris\)](https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g) | 2:56 |
 
-Snapshot ID: `MTY0MDMxNTgxOSwwMDAwMDAwMDNjYzMzYjdkOTg4MjAwZDZlZGE2OTIyMDJiZjEwZGI2`
+Snapshot ID: `MTY0MDMyNDQ0MiwwMDAwMDAwMDNjYzMzYjdkOTg4MjAwZDZlZGE2OTIyMDJiZjEwZGI2`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0uZg7go8TKu5hpv1L6CJ4y.md) - [plain]
 
 > Samla dina vänner och ladda inför de Olypiska Spelen\. Nu kör vi!
 
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 51 songs - 3 hr 27 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Olympic Fanfare \(Bugler's Dream\) \[feat\. Dominik Hauser\]](https://open.spotify.com/track/0zPtG7pgl3IQAuM9628TgK) | [Leo Arnaud](https://open.spotify.com/artist/4rLxLJBKOB4CCTURxvyfwc), [Dominik Hauser](https://open.spotify.com/artist/4MTfVjZzx72caVcbCjUK73) | [Olympic Fanfare \(Bugler's Dream\) \[feat\. Dominik Hauser\]](https://open.spotify.com/album/69b19w8Oqk7o5ToKbllfrD) | 0:47 |

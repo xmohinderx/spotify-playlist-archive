@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2vfyCK7WsXnVeItNwuiFFR.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 30 songs - 1 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pretty Eyed Baby](https://open.spotify.com/track/1iNjyEYPmxA3JF17OzmLHs) | [Baby Washington](https://open.spotify.com/artist/29afta7TiMlvY1fkgaFJcH) | [Soul Sisters Girl Power](https://open.spotify.com/album/1GFNuRo7Cit3U18XCaYLPA) | 2:20 |

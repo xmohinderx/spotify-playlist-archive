@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrlaUEYy4Vg.md) - [plain]
 
 > John Mayer's new album Sob Rock and his greatest songs all in one playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 728,871 likes - 60 songs - 4 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |

@@ -2,7 +2,7 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Blessd
+> Today's top Latin hits, elevando nuestra música\. Cover: Bad Bunny
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > Call it pop\-punk, emo, post\-hardcore, whatever you want\. We call it all awesome\. Cover: Waterparks
 
+[Spotify](https://open.spotify.com/user/spotify) - 412,393 likes - 150 songs - 7 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Numb](https://open.spotify.com/track/6cAfDyLZ3QYHVdVxMZKPl1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [Numb](https://open.spotify.com/album/0747YzEM47zpjBxHEWX8ho) | 2:26 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 149 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 |
 | 150 | [I Want to Kill You](https://open.spotify.com/track/06YhbREh7qQLF8Sl7tZIyn) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [I Want to Kill You](https://open.spotify.com/album/3v3CJTdsVWzd3tvfozVNOa) | 3:12 |
 
-Snapshot ID: `MTY0MDMxNTU5NCwwMDAwMDAwMGRjMjBmYmJlYjY1NTkzNTM4YTQxNjk3NjE3MWFjN2Nm`
+Snapshot ID: `MTY0MDMyNDIyNSwwMDAwMDAwMGRjMjBmYmJlYjY1NTkzNTM4YTQxNjk3NjE3MWFjN2Nm`

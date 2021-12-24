@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain]
 
 > Check out the top streamed indie tracks of 2016!
 
+[Spotify](https://open.spotify.com/user/spotify) - 9,985 likes - 50 songs - 3 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |

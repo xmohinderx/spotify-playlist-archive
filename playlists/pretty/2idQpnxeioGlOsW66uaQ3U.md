@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2idQpnxeioGlOsW66uaQ3U.md) - [plain]
 
 > This eclectic, electric\-leaning collection is perfect for focusing on your flow and extending your flexibility.
 
+[Spotify](https://open.spotify.com/user/spotify) - 128 likes - 23 songs - 1 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intro](https://open.spotify.com/track/3Hbd6gPZ0QErPWXVkC6GRt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 2:37 |

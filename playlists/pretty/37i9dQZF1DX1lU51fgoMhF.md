@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Hyolyn x Dasom\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 88,426 likes - 70 songs - 3 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 |
@@ -77,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 69 | [Free Somebody](https://open.spotify.com/track/2OUCEz0B8chI3FcqloinyN) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Free Somebody \- The 1st Mini Album](https://open.spotify.com/album/4QT7hlGzXILyprXcvWeLEp) | 3:19 |
 | 70 | [525](https://open.spotify.com/track/3Flz3eI2I7TdDXXEm3Lp9a) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [LOVIN'](https://open.spotify.com/album/5tRixYdXfa2t5C6YTUSjdF) | 3:15 |
 
-Snapshot ID: `MTY0MDMxNTYyNywwMDAwMDAwMGUyMDY1ODlkNjQ0Y2JkZDcyZGY3NDhjNzQ3MzlmYTM1`
+Snapshot ID: `MTY0MDMyNDI1NiwwMDAwMDAwMGUyMDY1ODlkNjQ0Y2JkZDcyZGY3NDhjNzQ3MzlmYTM1`

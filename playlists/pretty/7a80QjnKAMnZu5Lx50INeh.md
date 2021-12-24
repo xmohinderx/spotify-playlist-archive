@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7a80QjnKAMnZu5Lx50INeh.md) - [plain]
 
 > Enjoy the company of friends alongside some folksy acoustics perfect for an autumn dinner party.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,697 likes - 35 songs - 2 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 |

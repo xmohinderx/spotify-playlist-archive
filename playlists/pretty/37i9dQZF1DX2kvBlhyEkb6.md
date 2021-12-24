@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kvBlhyEkb6.md) - [plain]
 
 > A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.
 
+[Spotify](https://open.spotify.com/user/spotify) - 205,981 likes - 61 songs - 8 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tchaikovsky: 1812 Overture in E\-Flat Major, Op\. 49](https://open.spotify.com/track/6mhQ7eOHaV0ur2ooKTavW1) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [Chicago Symphony Orchestra](https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E) | [Tchaikovsky : Symphony No.5 & 1812 Overture](https://open.spotify.com/album/7nwyvRjkUjKKuxuHZWT1Hx) | 15:05 |

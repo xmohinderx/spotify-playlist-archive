@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0sDO43KAaJUWIYassTKWYf.md) - [plain]
 
 > Songs with some serious violin and cello action.
 
+[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 39 songs - 2 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marigold](https://open.spotify.com/track/0y5u8YRqydwjCTU7fp1z65) | [Mother Falcon](https://open.spotify.com/artist/5AcIoQwjyBFFjzxh8UAQlj) | [You Knew](https://open.spotify.com/album/6kqIWmVVmHKApfWcU1Aw15) | 2:31 |

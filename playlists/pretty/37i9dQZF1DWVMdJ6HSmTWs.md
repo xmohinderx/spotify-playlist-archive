@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMdJ6HSmTWs.md) - [plain]
 
 > A collection of myths, fairy tales, and fables from across the globe.
 
+[Spotify](https://open.spotify.com/user/spotify) - 61,215 likes - 88 songs - 18 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zeus \- 1957](https://open.spotify.com/track/22AQ1CeZrqZiARY4rGFmWi) | [Richard Kiley](https://open.spotify.com/artist/29l80PEg44YRkDbCK0U5OB) | [Gods of the Greek Myths](https://open.spotify.com/album/4Egetitoz6mlLZfnc6aJA6) | 4:47 |

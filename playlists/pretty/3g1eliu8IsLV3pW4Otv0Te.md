@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
+[codym2011](https://open.spotify.com/user/codym2011) - 592 likes - 168 songs - 12 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fade \- Vocal](https://open.spotify.com/track/64ZM9Ynl5ICN95ZMpbI1Kf) | [Jakwob](https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM), [Maiday](https://open.spotify.com/artist/4qK6oQkDJ2tGgSrjhyTuLL) | [Fade](https://open.spotify.com/album/3u7hhcoPnKLpm8w66wnGjM) | 3:23 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0YX4v2yeHtc1Dz43CYfZub.md) - [plain]
 
 > ONLY LOVERS LEFT ALIVE will be in cinemas from 21st February\. The soundtrack will be available from 17th February.
 
+[Spotify](https://open.spotify.com/user/spotify) - 6,280 likes - 11 songs - 56 min 55 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Funnel of Love \(Bonus Track\)](https://open.spotify.com/track/56Q5bhJLNJa3I9nAByiZd1) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' with Wanda! + There's a Party Goin' On \(Bonus Track Version\)](https://open.spotify.com/album/3zvXcbuUy4YuOwWWC9ESYb) | 2:09 |

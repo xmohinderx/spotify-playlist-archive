@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,798,573 likes - 80 songs - 4 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 79 | [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 |
 | 80 | [Almost Over You \(feat\. Randy Houser\)](https://open.spotify.com/track/7GxfINgatbVk4EM7sVW4xr) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Southern Girl City Lights](https://open.spotify.com/album/7gT0y53Vx0sTZgs75TGb2n) | 3:31 |
 
-Snapshot ID: `MTY0MDMxNTUxNCwwMDAwMDAwMDNhMWU4NzJlZTg0Y2RjM2YzNWJlYzdjY2VmMmJlYjIy`
+Snapshot ID: `MTY0MDMyNDE0NSwwMDAwMDAwMDNhMWU4NzJlZTg0Y2RjM2YzNWJlYzdjY2VmMmJlYjIy`

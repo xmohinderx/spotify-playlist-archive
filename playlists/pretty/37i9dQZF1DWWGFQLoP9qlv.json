@@ -1,7 +1,12 @@
 {
   "description": "Great songs by indisputable music legends. Cover: The Velvet Underground",
   "name": "Legendary",
-  "snapshot_id": "MTY0MDMxNTU0NSwwMDAwMDAwMGRlNDQ5ODQyOWRkNmI2Y2RiMDEzZDU1ZDIzYjEwYWI2",
+  "num_followers": 3032952,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE3NiwwMDAwMDAwMGRlNDQ5ODQyOWRkNmI2Y2RiMDEzZDU1ZDIzYjEwYWI2",
   "tracks": [
     {
       "added_at": "2021-10-14 18:46:51",

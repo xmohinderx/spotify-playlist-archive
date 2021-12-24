@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental trap beats to boost your weight lifting workout.
 
+[Spotify](https://open.spotify.com/user/spotify) - 139,941 likes - 93 songs - 4 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quantum](https://open.spotify.com/track/204YRFBt8bmTHvSepEvjvO) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Quantum](https://open.spotify.com/album/2N7Y2ecrZBLIBZgSJ8zmuh) | 2:24 |

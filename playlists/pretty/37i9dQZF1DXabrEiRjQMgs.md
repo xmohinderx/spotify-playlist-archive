@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabrEiRjQMgs.md) - [plain]
 
 > Explore the world of ballet.
 
+[Spotify](https://open.spotify.com/user/spotify) - 192,900 likes - 30 songs - 2 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tchaikovsky: Swan Lake, Op\. 20, Act II: No\. 10, Scene\. Moderato](https://open.spotify.com/track/2xizRhme7pYeITbH1NLLGt) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Tchaikovsky: Swan Lake](https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO) | 2:46 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0NYlvGXveeyvhb5G80LPtA.md) - [plain]
 
 > Älskade fotbollslåtar, samlade i en spellista\. Officiella mästerskapslåtar, varvat med inofficiella hyllningar och storslagna arenahymner\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 163 likes - 33 songs - 1 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sweden \(National\) \[Sång Till Norden \(Song Of The North\), "You Ancient, Free…"\]](https://open.spotify.com/track/4fN73CgSo9rKmlUgvxsXDu) | [Slovak Radio Symphony Orchestra](https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Complete National Anthems Of The World Volume 5: Pakistan \- Syria](https://open.spotify.com/album/12LVof0lra6fedo5uP29mw) | 1:13 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9l01QzlK1Yo.md) - [plain]
 
 > 50 highlights from 50 symphonic masterpieces, including favourites selected by the <a href="spotify:artist:5yxyJsFanEAuwSM5kOuZKc">orchestra</a> themselves, from collaborations with principal and guest conductors across <a href="http://lso.co.uk/">LSO</a>'s century\-long history, captured in state\-of\-the\-art recording technology.
 
+[Spotify](https://open.spotify.com/user/spotify) - 33,769 likes - 50 songs - 7 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Planets, Op\. 32: IV\. Jupiter, the Bringer of Jollity](https://open.spotify.com/track/3YXpb5FViYK0aV0F7154JE) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Sir Colin Davis](https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE) | [Holst: The Planets](https://open.spotify.com/album/0L4o0affoyRms2hOo9XoSU) | 8:06 |

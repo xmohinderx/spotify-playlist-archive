@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dWEvmDfGoP.md) - [plain]
 
 > An essential introduction to Raffi.
 
+[Spotify](https://open.spotify.com/user/spotify) - 56,039 likes - 52 songs - 1 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby Beluga \- 40th Anniversary Version](https://open.spotify.com/track/2JTG11HiYHJc4hu5LTDry5) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Baby Beluga \(40th Anniversary Version\)](https://open.spotify.com/album/7gismR4iJlgyReuqWoESPg) | 3:27 |

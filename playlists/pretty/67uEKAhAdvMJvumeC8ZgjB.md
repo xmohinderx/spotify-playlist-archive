@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/67uEKAhAdvMJvumeC8ZgjB.md) - [plain]
 
 > Unwind and enjoy the evening.
 
+[Spotify](https://open.spotify.com/user/spotify) - 219 likes - 26 songs - 1 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Forgiveness](https://open.spotify.com/track/6GzU0AqpJuOIHJM1EDdNrQ) | [Made in Heights](https://open.spotify.com/artist/71zBpZsf6YDEBfWayKdAOA) | [Forgiveness](https://open.spotify.com/album/7gsFhhW5eG8l9D47qiwCba) | 4:39 |

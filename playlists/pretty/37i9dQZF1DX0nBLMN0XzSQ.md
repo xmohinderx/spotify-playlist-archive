@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
+[Spotify](https://open.spotify.com/user/spotify) - 282,832 likes - 80 songs - 5 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Gotta Feeling \- Edit](https://open.spotify.com/track/0MYLzCswPtYON4yYWmB4dx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [I Gotta Feeling \(International Version\)](https://open.spotify.com/album/3AZ8syx3I7qwH8yCSZXhou) | 4:05 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [The Loco\-Motion \- Single Version](https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Dimension Dolls](https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9) | 2:28 |
 | 80 | [Stayin' Alive \- Remastered Version](https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Number Ones](https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8) | 4:45 |
 
-Snapshot ID: `MTY0MDMxNTYxMiwwMDAwMDAwMDY0ZjM1YjRhZDMzODYwYTlmOGZlZDEzMTc3YTE2ZjFh`
+Snapshot ID: `MTY0MDMyNDI0MiwwMDAwMDAwMDY0ZjM1YjRhZDMzODYwYTlmOGZlZDEzMTc3YTE2ZjFh`

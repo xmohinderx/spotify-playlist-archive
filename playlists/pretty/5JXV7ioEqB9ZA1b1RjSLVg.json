@@ -1,6 +1,11 @@
 {
   "description": "Wake up to Songbirds, a mix of melody-driven indie, folk, and Americana.",
   "name": "Songbirds",
+  "num_followers": 159,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NDIsZDNkZDllY2Q5OWQ4M2FkYjM2NGE5NzQ2ZWRlYzU2YmNkMDY0ZTZhZg==",
   "tracks": [
     {

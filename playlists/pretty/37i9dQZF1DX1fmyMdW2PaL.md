@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
+[Spotify](https://open.spotify.com/user/spotify) - 167,648 likes - 100 songs - 4 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [Traverse](https://open.spotify.com/track/3kRCORw9uFR7aW3icacOFV) | [Typecaste](https://open.spotify.com/artist/1EAWutb0TKdAoTtjZ1N3JR) | [Traverse](https://open.spotify.com/album/6FK0LPWoPiV12ZRENVHoFn) | 2:24 |
 | 100 | [Vermin](https://open.spotify.com/track/7taMzPncFBj9Kgtei0h0IA) | [Lotus Eater](https://open.spotify.com/artist/5vJb4ALVjzp54RZfSL9vtO) | [Vermin](https://open.spotify.com/album/0PgFv5AZpYBzGcOBKHtHEI) | 3:10 |
 
-Snapshot ID: `MTY0MDMxNTYyNSwwMDAwMDAwMDg2ZGZiYmY0MWQzYmZhMDFjN2E1NzNlYzVhN2ZiZjc5`
+Snapshot ID: `MTY0MDMyNDI1NSwwMDAwMDAwMDg2ZGZiYmY0MWQzYmZhMDFjN2E1NzNlYzVhN2ZiZjc5`

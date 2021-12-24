@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mFmJUZg4Mp.md) - [plain]
 
 > Soothing sounds of gentle rains.
 
+[Spotify](https://open.spotify.com/user/spotify) - 249,917 likes - 207 songs - 9 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Umbrella Time](https://open.spotify.com/track/5mWEC9dsbcLwo5CeIyVRA6) | [Nordic Rain](https://open.spotify.com/artist/6c2zaxb47VSieJR0wLDLAg) | [Drops Coming Down](https://open.spotify.com/album/7FA1NLVF63KlKuiku94BAD) | 2:32 |

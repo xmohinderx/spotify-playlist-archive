@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,250 likes - 100 songs - 5 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chasing after the moon](https://open.spotify.com/track/3iBYSJKwt7BLhyAbjZIIot) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing after the moon](https://open.spotify.com/album/14TbHE0RpXdAI5JLHGMrAo) | 3:58 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [If You Knew Better](https://open.spotify.com/track/0yWmKkenmsSXb7CIK40IOn) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [If You Knew Better](https://open.spotify.com/album/3nW8vls0RsII5CHzvfzhWI) | 2:25 |
 | 100 | [Du är en ängel](https://open.spotify.com/track/7fJ1lkpVv0DaukPoP9uUMq) | [Alex Shield](https://open.spotify.com/artist/0GjycNCtd0KpROrMYfpPjb), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Du är en ängel](https://open.spotify.com/album/6mWZFW1QfOrQxxKaOeGZHX) | 4:20 |
 
-Snapshot ID: `MTY0MDMxNTU3NiwwMDAwMDAwMDgzNGZiNDVhNzc0YmFkMGQ1NDg5NGVlMDU2ODZkNWQ2`
+Snapshot ID: `MTY0MDMyNDIwNywwMDAwMDAwMDgzNGZiNDVhNzc0YmFkMGQ1NDg5NGVlMDU2ODZkNWQ2`

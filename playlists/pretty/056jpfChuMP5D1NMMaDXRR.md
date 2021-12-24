@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/056jpfChuMP5D1NMMaDXRR.md) - [plain]
 
 > Companion playlist for the Metallica documentaries.
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,455 likes - 30 songs - 2 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hit The Lights \(Remastered\)](https://open.spotify.com/track/4OH1lqC4mx1ja8RkXMOmRp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 4:15 |

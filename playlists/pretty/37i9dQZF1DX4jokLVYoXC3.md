@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jokLVYoXC3.md) - [plain]
 
 > A selection of some of our favorite fiction – featuring short stories, novels, plays, and more.
 
+[Spotify](https://open.spotify.com/user/spotify) - 11,934 likes - 94 songs - 16 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Model Millionaire](https://open.spotify.com/track/5TuN8QTdNxfUquW5Cy3In4) | [Emma Topping](https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe), [Oscar Wilde](https://open.spotify.com/artist/44HAGCeIkbH5fuVDy4SkoQ) | [The Very Best Classic Short Stories](https://open.spotify.com/album/7l1ytpqu3Gan5IJSHU6Fo2) | 12:25 |

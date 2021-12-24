@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1ASJaLRG6NhOpwc8vGYceZ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 420 likes - 50 songs - 3 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Look Away](https://open.spotify.com/track/5VpJrXw5GRP0tSFXAzrRM5) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Love Songs](https://open.spotify.com/album/6CttJqwyQqtUbElzGjNrHa) | 4:00 |

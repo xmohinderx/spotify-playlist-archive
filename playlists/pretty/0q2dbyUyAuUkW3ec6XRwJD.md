@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0q2dbyUyAuUkW3ec6XRwJD.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 41 likes - 20 songs - 1 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rock Around The Clock](https://open.spotify.com/track/6eZ4AQ3S8caRHrfE3mWaRe) | [Bill Haley](https://open.spotify.com/artist/2XBzvyw3fwtZu4iUz12x0G) | [The Best Of Rock](https://open.spotify.com/album/5VtMEvBaxGv1pGTgV1Ujlg) | 2:12 |

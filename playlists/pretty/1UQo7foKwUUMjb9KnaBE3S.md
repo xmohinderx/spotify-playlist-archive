@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1UQo7foKwUUMjb9KnaBE3S.md) - [plain]
 
 > Forget the morning rush and kick off your day the right way \- music on, volume up, happy days!
 
+[Spotify Australia & New Zealand](https://open.spotify.com/user/spotifyaustralia) - 2,121 likes - 42 songs - 2 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Magic](https://open.spotify.com/track/27jdUE1EYDSXZqhjuNxLem) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Magic](https://open.spotify.com/album/4cCfFozyo6JC8acN8uIP7u) | 4:45 |

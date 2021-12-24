@@ -1,7 +1,12 @@
 {
   "description": "Classic rock to get your motor running. Cover: AC/DC",
   "name": "Classic Rock Drive",
-  "snapshot_id": "MTY0MDMxNTgxOCwwMDAwMDAwMGNkNWFmYTFhYThiMWQ5ODkzZmRkZDc5YmU4ODcyZTBj",
+  "num_followers": 602024,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQ0MSwwMDAwMDAwMGNkNWFmYTFhYThiMWQ5ODkzZmRkZDc5YmU4ODcyZTBj",
   "tracks": [
     {
       "added_at": "2021-03-02 18:13:49",

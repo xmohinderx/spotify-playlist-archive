@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6tLfPD2P9syvBV8rgO2Yq1.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 11 likes - 20 songs - 1 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amen](https://open.spotify.com/track/7LHZQmsvwgKrvfSHj6fTww) | [Williams Riley](https://open.spotify.com/artist/098mD3TqhUcvnBalReJTUa) | [A Different Kind of Country](https://open.spotify.com/album/4bu7RRfPg7ftoEzdJ2HKCR) | 3:43 |

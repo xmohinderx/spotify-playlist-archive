@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
+[Spotify](https://open.spotify.com/user/spotify) - 358,146 likes - 80 songs - 8 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Atlas](https://open.spotify.com/track/1QjPFkuEZPnD7uc34cikuD) | [GNTN](https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu) | [Atlas](https://open.spotify.com/album/6qyxTZq9Wxe1HNW47TTins) | 7:06 |
 | 80 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
 
-Snapshot ID: `MTY0MDMxNTc3MCwwMDAwMDAwMGU3YjA5Yjg3NTc1N2Y0OTg5NmU4NzE5ODY1NTQyNjAz`
+Snapshot ID: `MTY0MDMyNDM5NCwwMDAwMDAwMGU3YjA5Yjg3NTc1N2Y0OTg5NmU4NzE5ODY1NTQyNjAz`

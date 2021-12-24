@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 
 > Get your gaming session going with this epic rap mix.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,914,171 likes - 100 songs - 5 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 | 99 | [SALUTE \(feat\. Big Sean and Fivio Foreign\)](https://open.spotify.com/track/7MqHj83TEQk9VOhCsbAKIO) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [SALUTE \(feat\. Big Sean and Fivio Foreign\)](https://open.spotify.com/album/3zb0rJkWDF52VO5VuEg8Ol) | 2:11 |
 | 100 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
 
-Snapshot ID: `MTY0MDMxNTcyMSwwMDAwMDAwMGExMjM2NTNmOTIzZTY1NjBiZjZkYjIzMWU1MzM2ZGNl`
+Snapshot ID: `MTY0MDMyNDM0OCwwMDAwMDAwMGExMjM2NTNmOTIzZTY1NjBiZjZkYjIzMWU1MzM2ZGNl`

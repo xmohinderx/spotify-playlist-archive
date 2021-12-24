@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5McngUiuALFIS4VVF4oko5.md) - [plain]
 
 > No, not to tango..\. to write an awesome rock song! These duos know how to make a lot out of what they've got.
 
+[Spotify](https://open.spotify.com/user/spotify) - 113 likes - 37 songs - 1 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fell In Love With A Girl](https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg) | 1:50 |

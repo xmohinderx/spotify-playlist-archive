@@ -1,7 +1,12 @@
 {
   "description": "All the jams. Cover: Toni Braxton",
   "name": "Gold Edition",
-  "snapshot_id": "MTY0MDMxNTU2OSwwMDAwMDAwMDZhNDgzMGFkZDhkYWM2MzY1ZWIwMDA4MzhjZWIwNDg3",
+  "num_followers": 1743135,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIwMiwwMDAwMDAwMDZhNDgzMGFkZDhkYWM2MzY1ZWIwMDA4MzhjZWIwNDg3",
   "tracks": [
     {
       "added_at": "2021-01-22 05:26:02",

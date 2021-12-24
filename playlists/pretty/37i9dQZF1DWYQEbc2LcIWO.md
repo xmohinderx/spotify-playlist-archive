@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQEbc2LcIWO.md) - [plain]
 
 > Enjoy your dinner with some great acoustic tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,595 likes - 25 songs - 1 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just Say When](https://open.spotify.com/track/0PlNZwldMInpKRHmriktjz) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:41 |

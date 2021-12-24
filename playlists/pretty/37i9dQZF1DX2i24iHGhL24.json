@@ -1,7 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Kacey Musgraves",
   "name": "Pop Covers",
-  "snapshot_id": "MTY0MDMxNTY0NCwwMDAwMDAwMDdkZGMzYjFhNWFkMjY3ZDM0NDMyOTRjOTYxNDBjYTg5",
+  "num_followers": 41358,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3NCwwMDAwMDAwMDdkZGMzYjFhNWFkMjY3ZDM0NDMyOTRjOTYxNDBjYTg5",
   "tracks": [
     {
       "added_at": "2021-12-17 19:54:14",

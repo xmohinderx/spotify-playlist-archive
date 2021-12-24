@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/79sVcfxVNazjyK2iBY9l3q.md) - [plain]
 
 > Rolling Stone contributing editor Joe Levy presents Incoming, a new panel discussion show about what's next and best on Spotify.
 
+[Spotify](https://open.spotify.com/user/spotify) - 634 likes - 17 songs - 1 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intro For December 18](https://open.spotify.com/track/1B8SkmqwkcYh3od1Hb5pM8) | [Joe Levy and Guests](https://open.spotify.com/artist/4nsPi7d9VK5VtyXtEYM8vR) | [Incoming's Best Of 2015](https://open.spotify.com/album/6Igrj3ro7bvMNEiU6hiV6O) | 1:22 |

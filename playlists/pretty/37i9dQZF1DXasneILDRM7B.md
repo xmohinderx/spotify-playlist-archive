@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems.
 
+[Spotify](https://open.spotify.com/user/spotify) - 814,300 likes - 100 songs - 5 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Medicine](https://open.spotify.com/track/77QGAIwpx3P0HRBpypNl4H) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Medicine](https://open.spotify.com/album/3FwCsc5BM8WXQnJv3nbTOw) | 3:11 |
 | 100 | [I Don't Care](https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K) | 3:34 |
 
-Snapshot ID: `MTY0MDMxNTc4MywwMDAwMDAwMDQ1NTI5NTRkZTQzZGE0NDcwNDVlMDRkMzEyMjVmMzVj`
+Snapshot ID: `MTY0MDMyNDQwOCwwMDAwMDAwMDQ1NTI5NTRkZTQzZGE0NDcwNDVlMDRkMzEyMjVmMzVj`

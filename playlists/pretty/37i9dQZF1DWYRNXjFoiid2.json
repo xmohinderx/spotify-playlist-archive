@@ -1,7 +1,12 @@
 {
   "description": "Today's best pop to fuel your gaming.",
   "name": "Ultimate Pop Gaming",
-  "snapshot_id": "MTY0MDMxNTU3OCwwMDAwMDAwMDNhNWQ3ZTMwYzRjNGZlM2YzZDhmNDgyN2QwMTk5MTUx",
+  "num_followers": 135098,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIxMCwwMDAwMDAwMDNhNWQ3ZTMwYzRjNGZlM2YzZDhmNDgyN2QwMTk5MTUx",
   "tracks": [
     {
       "added_at": "2021-10-22 04:01:00",

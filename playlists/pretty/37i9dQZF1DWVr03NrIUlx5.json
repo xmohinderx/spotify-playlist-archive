@@ -1,7 +1,12 @@
 {
   "description": "Big music hits in tiny 8-bit versions.",
   "name": "8 Bit Hits",
-  "snapshot_id": "MTY0MDMxNTUzNywwMDAwMDAwMDQ5MGY1YTM2OGY3MTAxOGIwMTBjOTVhYjkxMjkwZjVi",
+  "num_followers": 59989,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE2OSwwMDAwMDAwMDQ5MGY1YTM2OGY3MTAxOGIwMTBjOTVhYjkxMjkwZjVi",
   "tracks": [
     {
       "added_at": "2020-06-11 00:15:59",

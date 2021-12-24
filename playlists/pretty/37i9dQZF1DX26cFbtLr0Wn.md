@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26cFbtLr0Wn.md) - [plain]
 
 > Selections of modern and contemporary poetry, featuring readings from the poets themselves.
 
+[Spotify](https://open.spotify.com/user/spotify) - 23,236 likes - 170 songs - 6 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Red Wheelbarrow](https://open.spotify.com/track/5ESQTt9ZQYMm0Og1IUi2cW) | [William Carlos Williams](https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL) | [100 Great Poems \- Classic Poets & Beatnik Freaks](https://open.spotify.com/album/2L6y5UovMqxFSVnC0sCRWo) | 0:15 |

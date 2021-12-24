@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 
 > Instrumental only\. For the maniacs out there\. Cover: pg.lost
 
+[Spotify](https://open.spotify.com/user/spotify) - 237,340 likes - 130 songs - 10 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ghost Horses](https://open.spotify.com/track/7MDcO067h1hlRrUmkaP2Yq) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Ghost Horses](https://open.spotify.com/album/4z1sS5gWwT0QoNfZIMhk5J) | 5:53 |
@@ -137,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 129 | [The Serpent](https://open.spotify.com/track/3N9xEr9dWscWEm60dnurYr) | [Still Remains](https://open.spotify.com/artist/1vqMfm7uSTpqRUeV1iQPPp) | [The Serpent \[Special Edition\]](https://open.spotify.com/album/6WYHfB0go6ZSFP1bu8kpJx) | 2:14 |
 | 130 | [Serendipity](https://open.spotify.com/track/4dtivLmhG37pJI3t9PT8MX) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Neon Theatre](https://open.spotify.com/album/5f2gEO0PghVJ6qMOOCCaVy) | 5:21 |
 
-Snapshot ID: `MTY0MDMxNTUyNSwwMDAwMDAwMGExMWJlN2UxMTQ5NDk0ZGFhMTJkZDViMDA5NjU1ZWMy`
+Snapshot ID: `MTY0MDMyNDE1NywwMDAwMDAwMGExMWJlN2UxMTQ5NDk0ZGFhMTJkZDViMDA5NjU1ZWMy`

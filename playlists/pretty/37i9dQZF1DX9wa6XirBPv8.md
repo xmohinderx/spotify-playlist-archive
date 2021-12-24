@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > The standard emo anthems\. Cover: Fall Out Boy
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,882 likes - 50 songs - 2 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 49 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
 | 50 | [I'm a Loner Dottie, a Rebel](https://open.spotify.com/track/2cwTCYlFRGU3Tw0Zxqpy08) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 3:08 |
 
-Snapshot ID: `MTY0MDMxNTc2OCwwMDAwMDAwMDg0ODM5ZmRjNmM2MGM3MGM5NTYwNTg0NTk0NjhmYzk4`
+Snapshot ID: `MTY0MDMyNDM5MiwwMDAwMDAwMDg0ODM5ZmRjNmM2MGM3MGM5NTYwNTg0NTk0NjhmYzk4`

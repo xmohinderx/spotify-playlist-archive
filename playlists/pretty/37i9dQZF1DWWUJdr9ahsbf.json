@@ -1,6 +1,11 @@
 {
   "description": "What you really, really want.",
   "name": "This Is Spice Girls",
+  "num_followers": 238390,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYyNTY5ODgwMCwwMDAwMDAwYzAwMDAwMTdhODMzMzEzZDUwMDAwMDE3YTgwMDRiODJh",
   "tracks": [
     {

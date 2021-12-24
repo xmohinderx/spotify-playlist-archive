@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0nUPQhoNrmw7Kr7sOeUCQh.md) - [plain]
 
 > Enjoy the glorious summer days with these happy mood tracks full of sunshine.
 
+[Indie & Folk Radio](https://open.spotify.com/user/indiefolkradio) - 702 likes - 42 songs - 2 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer Days](https://open.spotify.com/track/4tIF2kyR4ToNfDUOe094pd) | [Alpaca Sports](https://open.spotify.com/artist/2FfiPi1Ia6W1EWM1QcajDN) | [Summer Days](https://open.spotify.com/album/0BiNk4WHl6qHqtFtzk8Xc7) | 4:11 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music to game to! ¡Música latina para jugar!
 
+[Spotify](https://open.spotify.com/user/spotify) - 110,619 likes - 120 songs - 7 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 |
@@ -127,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 119 | [Que Malo](https://open.spotify.com/track/53v2u51nq3CxiKUNphRzP1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:47 |
 | 120 | [Envidioso](https://open.spotify.com/track/7J4VKp49Uh2r84SK5pUa0A) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidioso](https://open.spotify.com/album/11l3a3ll8Za1v8nF6sZy5Y) | 3:45 |
 
-Snapshot ID: `MTY0MDMxNTY2NSwwMDAwMDAwMGNkMjg0Zjc2N2NhM2VkMGE0ZGEwNjkzZjk0YmU3ODJm`
+Snapshot ID: `MTY0MDMyNDI5NCwwMDAwMDAwMGNkMjg0Zjc2N2NhM2VkMGE0ZGEwNjkzZjk0YmU3ODJm`

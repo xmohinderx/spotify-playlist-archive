@@ -1,7 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
   "name": "Power Hour",
-  "snapshot_id": "MTY0MDMxNTY1MCwwMDAwMDAwMDJkZDk0ZmM4MDEwZTU2OGMyMTYzNDIzOTczYzhjYzMz",
+  "num_followers": 2131920,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3OSwwMDAwMDAwMDJkZDk0ZmM4MDEwZTU2OGMyMTYzNDIzOTczYzhjYzMz",
   "tracks": [
     {
       "added_at": "2021-12-03 05:00:00",

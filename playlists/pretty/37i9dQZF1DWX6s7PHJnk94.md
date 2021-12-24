@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6s7PHJnk94.md) - [plain]
 
 > Spellistan att ta fram när det är dags för dans runt midsommarstången.
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,276 likes - 25 songs - 40 min 2 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Små grodorna](https://open.spotify.com/track/4Hy7ldDPMMQNbhhdnVk7EJ) | [Lärk Mårten](https://open.spotify.com/artist/0WelSiYwiTNzCcK4rOyfWk) | [Barnplaneten \- Älskade barnvisor och ramsor för alla barn](https://open.spotify.com/album/6OpSgsAbbbuCPmPN24r0kX) | 1:22 |

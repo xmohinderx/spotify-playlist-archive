@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
+[Spotify](https://open.spotify.com/user/spotify) - 85,165 likes - 50 songs - 3 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 |
 | 50 | [Weather](https://open.spotify.com/track/5u1oPZR7xzmEvvxQoP1XKo) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Weather](https://open.spotify.com/album/4zrVrsO113smesPZMbBA8I) | 4:14 |
 
-Snapshot ID: `MTY0MDMxNTY1MiwwMDAwMDAwMGQxMGVhYmZiYWMwZmUyYjUxMjRhODg5MTUxNGE5ZWMw`
+Snapshot ID: `MTY0MDMyNDI4MSwwMDAwMDAwMGQxMGVhYmZiYWMwZmUyYjUxMjRhODg5MTUxNGE5ZWMw`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5LrQkRUFFuKWAJCECd2X9y.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 48 likes - 20 songs - 1 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I’m In I’m Out And I’m Gone](https://open.spotify.com/track/7vDHKg4VtzIxo3u7o6zoxB) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Get Up!](https://open.spotify.com/album/77sdZFAlwoRX2eKOQNfDt2) | 4:37 |

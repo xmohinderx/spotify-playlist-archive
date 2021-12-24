@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7qeSmszUjRBWOwHzlxfEXt.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 26 songs - 1 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dom vet ingenting om oss](https://open.spotify.com/track/13x1rhmKT2C93LsOo0tW0d) | [Moneybrother](https://open.spotify.com/artist/6O6kWwVAL4xK4G8SBcsNJR) | [Pengabrorsan](https://open.spotify.com/album/1i91GiCyId1nV05SzS9ZTW) | 2:26 |

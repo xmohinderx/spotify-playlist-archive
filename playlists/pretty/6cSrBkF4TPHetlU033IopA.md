@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6cSrBkF4TPHetlU033IopA.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 208 likes - 197 songs - 9 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [French Connection](https://open.spotify.com/track/5RPiKFP2ILtGFKdVOlrfbJ) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [The Wonderman Years](https://open.spotify.com/album/0URUHgPDaQbcUA85Z4TFWs) | 4:08 |

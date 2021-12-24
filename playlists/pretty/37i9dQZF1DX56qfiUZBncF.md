@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
+[Spotify](https://open.spotify.com/user/spotify) - 370,878 likes - 100 songs - 5 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Back To My Bed](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn) | 3:22 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [False Art](https://open.spotify.com/track/77OXCuJjR83b2mnp0HmYMo) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/5LKDSeG8WNydz4yvRAKVvd) | 3:03 |
 | 100 | [Like I Love You](https://open.spotify.com/track/3dQGWmv2RxYvZMGc0MNil8) | [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Like I Love You](https://open.spotify.com/album/5mmXMruJe1uqRt30EJvZHi) | 3:30 |
 
-Snapshot ID: `MTY0MDMxNTY4OSwwMDAwMDAwMGZhNzAxNTYzYTA2NzEwNmEwMmE2ZGQ2MDg1ZDcwNzg5`
+Snapshot ID: `MTY0MDMyNDMxNywwMDAwMDAwMGZhNzAxNTYzYTA2NzEwNmEwMmE2ZGQ2MDg1ZDcwNzg5`

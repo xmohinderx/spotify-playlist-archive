@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
+[Spotify](https://open.spotify.com/user/spotify) - 214,348 likes - 145 songs - 7 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 |
@@ -152,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [Resentment \(feat\. Sturgill Simpson, Brian Wilson & Wrabel\)](https://open.spotify.com/track/6iewIywVK4V0SQfSCZonCR) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Resentment \(feat\. Sturgill Simpson, Brian Wilson & Wrabel\)](https://open.spotify.com/album/77NnFl72Aj7jbwErADFhJv) | 2:52 |
 | 145 | [Admit Defeat](https://open.spotify.com/track/1OHAFggB1Jatvto7HvUN4L) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days \(This Got Out Of Hand Edition\)](https://open.spotify.com/album/1zYfRw1pKwhdlH5b08nE3p) | 3:05 |
 
-Snapshot ID: `MTY0MDMxNTgxMiwwMDAwMDAwMGIxNTQwNzExY2VjMGI1ZTI2ZWY2NmY2Mzk3NjcyN2Qw`
+Snapshot ID: `MTY0MDMyNDQzNSwwMDAwMDAwMGIxNTQwNzExY2VjMGI1ZTI2ZWY2NmY2Mzk3NjcyN2Qw`

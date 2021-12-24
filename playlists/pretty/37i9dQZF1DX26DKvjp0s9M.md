@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > All your indie favorites\. Cover: Mac DeMarco
 
+[Spotify](https://open.spotify.com/user/spotify) - 545,379 likes - 100 songs - 6 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Archie, Marry Me](https://open.spotify.com/track/5HLes17mwCwKt81mi0Tk35) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/4PrBMzWzzoMOwm55Bfo3dt) | 3:16 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [Compromised](https://open.spotify.com/track/0TLHUakjgTs8KaSoCm0e8v) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Compromised](https://open.spotify.com/album/6vd1oUoYCai15Cf27AVBKY) | 3:46 |
 | 100 | [San Francisco](https://open.spotify.com/track/2SOT09giYc28fUo9ppjCpw) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:47 |
 
-Snapshot ID: `MTY0MDMxNTYzNSwwMDAwMDAwMDIyODIwYmViNDU5ZTc3Zjc4OWM4MTVmZWNlN2U3ODEz`
+Snapshot ID: `MTY0MDMyNDI2NSwwMDAwMDAwMDIyODIwYmViNDU5ZTc3Zjc4OWM4MTVmZWNlN2U3ODEz`

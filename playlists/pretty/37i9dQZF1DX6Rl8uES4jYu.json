@@ -1,7 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
   "name": "Ready for the Day",
-  "snapshot_id": "MTY0MDMxNTcxNywwMDAwMDAwMDExOWZhNjhiYTZiNzQ5M2FjMmY1ZWZlNGE1MDVkYmQy",
+  "num_followers": 219209,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM0NCwwMDAwMDAwMDExOWZhNjhiYTZiNzQ5M2FjMmY1ZWZlNGE1MDVkYmQy",
   "tracks": [
     {
       "added_at": "2021-06-04 04:01:00",

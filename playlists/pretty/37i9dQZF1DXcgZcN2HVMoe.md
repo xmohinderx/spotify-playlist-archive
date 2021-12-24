@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
+[Spotify](https://open.spotify.com/user/spotify) - 142,069 likes - 250 songs - 14 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [look up](https://open.spotify.com/track/1Thyh3NBnJ783exapZJIA3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [look up](https://open.spotify.com/album/2gR17B4gSlfBVSgSHuKx3d) | 3:33 |
@@ -257,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 249 | [Free](https://open.spotify.com/track/0TFJ3g1gE7kj3cxR5qWsjE) | [Zion Goins](https://open.spotify.com/artist/4JgHNjbuUjHBkuPzaHFXEm) | [Free](https://open.spotify.com/album/4vsBRnFpkUcQtcBBPHrKLf) | 3:49 |
 | 250 | [Come To The Beach \- Acoustic Version](https://open.spotify.com/track/5AYixj0Xa8qMPVeFS2uuzT) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach \(Acoustic Version\)](https://open.spotify.com/album/4cAEODeG7oWbfqAbXZD59Y) | 2:28 |
 
-Snapshot ID: `MTY0MDMxNTgxMCwwMDAwMDAwMGFhMWI3Yzk2ODE1YWFlMGFlMTNkNzZiNzM3ZDkwM2U3`
+Snapshot ID: `MTY0MDMyNDQzNCwwMDAwMDAwMGFhMWI3Yzk2ODE1YWFlMGFlMTNkNzZiNzM3ZDkwM2U3`

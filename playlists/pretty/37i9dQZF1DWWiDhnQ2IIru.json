@@ -1,7 +1,12 @@
 {
   "description": "Hit the road to the soundtrack of these seventies classics.",
   "name": "70s Road Trip",
-  "snapshot_id": "MTY0MDMxNTU1NCwwMDAwMDAwMGRhNDI2OTZkZDQxOTA5YWY5MjQwYzAwMjFlYmRmYTdi",
+  "num_followers": 2459459,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE4NCwwMDAwMDAwMGRhNDI2OTZkZDQxOTA5YWY5MjQwYzAwMjFlYmRmYTdi",
   "tracks": [
     {
       "added_at": "2021-02-10 18:00:33",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FIO61wizta.md) - [plain]
 
 > Verdi was the undisputed king of Italian opera in the 19th century\. Explore his greatest works, including Rigoletto and La Traviata, right here.
 
+[Spotify](https://open.spotify.com/user/spotify) - 51,286 likes - 60 songs - 4 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rigoletto / Act 3: "La donna è mobile"](https://open.spotify.com/track/30CNRidKfNGwImhmvHpUS0) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Richard Bonynge](https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ) | [Pavarotti \(Music from the Motion Picture\)](https://open.spotify.com/album/1rfBOY8Mm8WCgaIRouJgw6) | 2:23 |

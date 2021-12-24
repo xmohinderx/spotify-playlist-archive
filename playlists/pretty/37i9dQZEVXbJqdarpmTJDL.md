@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Greece.
 
+[Spotify](https://open.spotify.com/user/spotify) - 64,951 likes - 50 songs - 2 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chinchilla](https://open.spotify.com/track/30K8l6FPIUB9iH1txpmWtD) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Chinchilla](https://open.spotify.com/album/0TRAWrrKjYGCd8WhyxL8xG) | 2:34 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Hana Vu
 
+[Spotify](https://open.spotify.com/user/spotify) - 238,589 likes - 100 songs - 5 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What Is Going On?](https://open.spotify.com/track/5Jmriws1uT4kPjz4elIExl) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What Is Going On?](https://open.spotify.com/album/4HTLtjUFQP21ZnmIjMrA40) | 3:27 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Blindsided](https://open.spotify.com/track/5vOxTLpeCeU1T14kiz6xxI) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Blindsided](https://open.spotify.com/album/0z6NyTSvoEe9gpaFUtY3b6) | 3:42 |
 | 100 | [September](https://open.spotify.com/track/6PFnjv46kOBFeS7LxECpmW) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [September](https://open.spotify.com/album/5aFPMP0QGfvZJ7jn45MNLr) | 2:58 |
 
-Snapshot ID: `MTY0MDMxNTc2NSwwMDAwMDAwMDM1MGQxNzBiNzI1NjYzM2VjYjc0NzcxZmVlMGZiYzhj`
+Snapshot ID: `MTY0MDMyNDM4OSwwMDAwMDAwMDM1MGQxNzBiNzI1NjYzM2VjYjc0NzcxZmVlMGZiYzhj`

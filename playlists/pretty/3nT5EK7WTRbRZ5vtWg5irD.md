@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3nT5EK7WTRbRZ5vtWg5irD.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 50 songs - 2 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: Sam Kim, Mew Suppasit
 
+[Spotify](https://open.spotify.com/user/spotify) - 423,718 likes - 50 songs - 2 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Before 4:30 \(She Said…\)](https://open.spotify.com/track/6eXHtOGepsKaJ6UzN42YlG) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Before 4:30 \(She Said…\)](https://open.spotify.com/album/6ngd5N828DSzfX5tLMMngM) | 3:51 |

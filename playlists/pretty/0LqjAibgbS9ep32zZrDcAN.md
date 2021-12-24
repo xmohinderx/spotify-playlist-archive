@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0LqjAibgbS9ep32zZrDcAN.md) - [plain]
 
 > Finally that person that we've missed so much is home\. This deserves  a party!
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,412 likes - 70 songs - 4 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All of Me \- Tiësto's Birthday Treatment Remix \- Radio Edit](https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jason Agel](https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All of Me \(Tiësto's Birthday Treatment Remix \- Radio Edit\)](https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB) | 4:11 |

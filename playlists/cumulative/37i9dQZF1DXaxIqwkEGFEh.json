@@ -364,7 +364,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 134376,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 185820,
       "name": "Gifted",
       "url": "https://open.spotify.com/track/7unA97OKgAS63AWfaQ4KYo"
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Middle Man",
+        "url": "https://open.spotify.com/album/7vUo6VsYYgD7KBu4EiZBkG"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Middle Man",
+      "url": "https://open.spotify.com/track/7cetyzjVJMwwLgbvBxahNf"
+    },
+    {
+      "album": {
         "name": "King Of The Trap 2",
         "url": "https://open.spotify.com/album/6PRq1ESUGYPQxwZ5gpSE0n"
       },
@@ -1446,6 +1464,28 @@
       "duration_ms": 150475,
       "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
       "url": "https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT"
+    },
+    {
+      "album": {
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162504,
+      "name": "On A Tee (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2"
     },
     {
       "album": {
@@ -1822,7 +1862,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 96000,
       "name": "Steppin' Time",
       "url": "https://open.spotify.com/track/4SWG3QD6VS6APcBFMT1TrW"

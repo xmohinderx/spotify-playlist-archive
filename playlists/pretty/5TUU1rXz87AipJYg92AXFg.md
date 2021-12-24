@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5TUU1rXz87AipJYg92AXFg.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 677 likes - 50 songs - 3 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hanging By A Moment](https://open.spotify.com/track/1cRNEme8Bp7V8eNIAeyiAk) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/73VoR62ltV5NrQfdK06CC6) | 3:36 |

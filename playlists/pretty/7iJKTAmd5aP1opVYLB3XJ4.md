@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7iJKTAmd5aP1opVYLB3XJ4.md) - [plain]
 
 > Push play on a slowly building mix of indie folk faves as you roll out of bed and get your coffee on...
 
+[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 51 songs - 3 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Howling Light](https://open.spotify.com/track/2hoM3Tv2ZwYAi6cI8X6qvF) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Year in the Kingdom](https://open.spotify.com/album/7qXQBJrLIr2XRK7IwVkiwt) | 3:34 |

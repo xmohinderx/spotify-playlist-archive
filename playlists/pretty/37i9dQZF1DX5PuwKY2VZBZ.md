@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PuwKY2VZBZ.md) - [plain]
 
 > Hip\-Hop's next generation takes over SXSW! Cover: <a href="spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ">Aminè</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 19,842 likes - 25 songs - 1 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [REDMERCEDES](https://open.spotify.com/track/4X70hLzIDfY5T2BcsOcv6Q) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [REDMERCEDES](https://open.spotify.com/album/657XYEwejcZZ2rO0kutks8) | 2:49 |

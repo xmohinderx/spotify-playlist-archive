@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 151,302 likes - 49 songs - 3 hr 27 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Scene Suspended \(Arr\. Lawson\)](https://open.spotify.com/track/7x7Q3hlDD5ogcxztavyIxu) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Eleanor Turner](https://open.spotify.com/artist/2iWdlFp0AxoJNj3QH18at4) | [Scene Suspended \(Arr\. Lawson\)](https://open.spotify.com/album/39v1cvGmv8Oa8nniwO1q2Y) | 3:58 |

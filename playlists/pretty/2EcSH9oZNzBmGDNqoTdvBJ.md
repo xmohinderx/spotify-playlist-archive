@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2EcSH9oZNzBmGDNqoTdvBJ.md) - [plain]
 
 > We married women only seem to have about four taste buds left: one for vodka, one for wine, one for cheese, and one for chocolate\. This list is for us\. Add friends, uncork, and enjoy.
 
+[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 53 songs - 3 hr 27 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beautiful Day](https://open.spotify.com/track/5t514bZ4eZPtKJbKfuZJCA) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:04 |

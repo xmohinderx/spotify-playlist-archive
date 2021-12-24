@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1oDFttzXiLUJLjMyulUugY.md) - [plain]
 
 > Achieve optimal workday zen with this relaxed, meditative mix.
 
+[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 75 songs - 8 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [House of Deer](https://open.spotify.com/track/0g5ync3R4LsMChAhIEW55b) | [VIMES](https://open.spotify.com/artist/0nzOx4u4sCJPZb5xjcDtDa) | [House of Deer](https://open.spotify.com/album/7e0ij2fpWaxOEHv5fUYZjd) | 7:42 |

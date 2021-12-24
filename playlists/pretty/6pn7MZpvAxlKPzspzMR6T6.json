@@ -1,6 +1,11 @@
 {
   "description": "Take in the view and get lost in total backroads bliss with this mellow indie folk...",
   "name": "The Scenic Route",
+  "num_followers": 26,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NjUsMWQ1NmFmMTE5Y2UyNTA4MGM3OTkxNzY2ZDUwZDEwYTZmNTk0ODE2NA==",
   "tracks": [
     {

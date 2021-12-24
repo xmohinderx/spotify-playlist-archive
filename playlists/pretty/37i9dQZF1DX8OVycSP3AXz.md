@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé.
 
+[Spotify](https://open.spotify.com/user/spotify) - 50,653 likes - 40 songs - 1 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Souvenirs, souvenirs](https://open.spotify.com/track/1DDdDbmbEDsFXEXgxBmvFQ) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Souvenirs, Souvenirs](https://open.spotify.com/album/55wZUMJJK62Yb1QoQK7imL) | 2:09 |

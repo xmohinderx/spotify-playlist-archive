@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6Sz7KT9MhChZuAJDKEWiLF.md) - [plain]
 
 > Some soulful sets from Ye plus contributions to soul\. Please enjoy this curated set entitled &quot;Kanye To The&quot;\. \(1,2,3, rest\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 676 likes - 40 songs - 2 hr 44 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Champions](https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Champions](https://open.spotify.com/album/1xuSorM2dDIiB5zhftB5NY) | 5:34 |

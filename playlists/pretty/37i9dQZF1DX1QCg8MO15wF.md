@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QCg8MO15wF.md) - [plain]
 
 > Learn some essential Swedish and master useful travel vocabulary in under seven hours – perfect for a transatlantic flight!
 
+[Spotify](https://open.spotify.com/user/spotify) - 17,333 likes - 85 songs - 6 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Swedish Lesson 1](https://open.spotify.com/track/0c8qOUrQybYAOaQAAatoVK) | [Language Superstar](https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM) | [Learn Swedish Fast](https://open.spotify.com/album/0grDNq848ST7GjhJTfZzEF) | 31:48 |

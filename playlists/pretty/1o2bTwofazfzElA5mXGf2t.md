@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1o2bTwofazfzElA5mXGf2t.md) - [plain]
 
 > From denial and pleading to anger and acceptance, this genre\-blending playlist will carry you through each stage of your breakup blues.
 
+[Spotify](https://open.spotify.com/user/spotify) - 213 likes - 43 songs - 2 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How Could You Babe](https://open.spotify.com/track/3UQM3V4mjS1DuAqucivt1Q) | [Tobias Jesso Jr.](https://open.spotify.com/artist/3RosuARXNIOfNYoJXR7fzA) | [How Could You Babe](https://open.spotify.com/album/366pymIt28pfphDRjYM0BL) | 3:52 |

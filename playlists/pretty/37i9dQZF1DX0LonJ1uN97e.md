@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LonJ1uN97e.md) - [plain]
 
 > Chuck Berry, the essential tracks, all in one playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 102,810 likes - 57 songs - 2 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Johnny B\. Goode](https://open.spotify.com/track/4GHF75LwRT2Hsv9z3ZXpM8) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Johnny B\. Goode/His Complete \`50s Chess Recordings](https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE) | 2:39 |

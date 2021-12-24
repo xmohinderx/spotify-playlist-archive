@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10uaP8FoDNe.md) - [plain]
 
 > Including genre\-defining classics \(Steve Reich, Philip Glass\), postminimalism \(Paul Dresher, Louis Andriessen\), holy minimalism \(Henryk Górecki, Arvo Pärt\) and more.
 
+[Spotify](https://open.spotify.com/user/spotify) - 132,583 likes - 51 songs - 10 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Etude No\. 2](https://open.spotify.com/track/5bi8ryL6gy6a1BRXOf43y9) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Etudes for Piano Vol 1 No\. 1\-10](https://open.spotify.com/album/5Ya7ft5JteI5pIS4eCMKOC) | 4:55 |

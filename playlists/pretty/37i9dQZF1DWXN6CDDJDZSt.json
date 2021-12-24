@@ -1,6 +1,11 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
   "name": "This Is Puccini",
+  "num_followers": 44167,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU4MzI0MDU4MiwwMDAwMDAwOTAwMDAwMTcwYTA3ZTE1ODcwMDAwMDE3MGEwMjhmYjUw",
   "tracks": [
     {

@@ -1,6 +1,11 @@
 {
   "description": "A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.",
   "name": "This Is Tchaikovsky",
+  "num_followers": 205981,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzOTA3MDY1MSwwMDAwMDAyMTAwMDAwMTdkYTAzOTUzZTIwMDAwMDE3MDdkMGVjNTYz",
   "tracks": [
     {

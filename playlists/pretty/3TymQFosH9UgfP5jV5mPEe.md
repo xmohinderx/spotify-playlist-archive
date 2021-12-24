@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3TymQFosH9UgfP5jV5mPEe.md) - [plain]
 
 > Smooth soulful tracks to ease your troubled mind...
 
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 21 songs - 1 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When the City Lights Dim](https://open.spotify.com/track/4NhcxpQkO5M76shrRZoQj6) | [Cold Specks](https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5) | [I Predict A Graceful Expulsion](https://open.spotify.com/album/3z2Ju3hf9Of7leBgEalMZY) | 3:20 |

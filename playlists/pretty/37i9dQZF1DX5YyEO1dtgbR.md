@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
+[Spotify](https://open.spotify.com/user/spotify) - 79,740 likes - 77 songs - 6 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Girde Maye/Astere](https://open.spotify.com/track/7om1pOBGjSXTl2KxzdKOTo) | [Big Hands](https://open.spotify.com/artist/3w0whvn4zBddjZ9zVUZb7D) | [Ossario](https://open.spotify.com/album/3HJaXqSqKd9xDpSHR7nehT) | 6:35 |

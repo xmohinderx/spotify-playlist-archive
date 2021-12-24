@@ -1,24 +1,13 @@
 {
   "description": "Strictly for the streets. Cover: Kodak Black",
   "name": "Out The Mud",
-  "snapshot_id": "MTYzOTg2NjEyNCwwMDAwMDRlZjAwMDAwMTdkY2ZhMzRhNmIwMDAwMDE3ZDdkMGFkZTM4",
+  "num_followers": 1016723,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDRmMDAwMDAwMTdkZWFjZjY1MzgwMDAwMDE3ZDdkMGFkZTM4",
   "tracks": [
-    {
-      "added_at": "2021-12-18 22:22:04",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "25 million",
-      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
-    },
     {
       "added_at": "2021-11-18 01:10:27",
       "album": {
@@ -34,6 +23,26 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "added_at": "2021-12-18 22:22:04",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "don\u2019t i (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
     },
     {
       "added_at": "2021-09-03 06:27:55",
@@ -80,6 +89,30 @@
       "url": "https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL"
     },
     {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "hibachi (feat. Kodak Black & 21 Savage)",
+      "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
+    },
+    {
       "added_at": "2021-11-29 18:16:06",
       "album": {
         "name": "Me or Sum (feat. Future & Lil Baby)",
@@ -104,24 +137,28 @@
       "url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ"
     },
     {
-      "added_at": "2021-12-18 22:22:04",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+        "name": "Too Easy (Remix) [feat. Future & Roddy Ricch]",
+        "url": "https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 213453,
-      "name": "don\u2019t i (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
+      "duration_ms": 197093,
+      "name": "Too Easy (Remix) [feat. Future & Roddy Ricch]",
+      "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -135,13 +172,13 @@
           "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         },
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 108889,
-      "name": "Start Up Again (with Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz"
+      "duration_ms": 156734,
+      "name": "Don\u2019t Play (with Lil Baby)",
+      "url": "https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -166,6 +203,26 @@
       "duration_ms": 191926,
       "name": "I Really (feat. 42 Dugg & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3HKBz579v0gkyUkANPsNFT"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 162504,
+      "name": "On A Tee (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2"
     },
     {
       "added_at": "2021-09-24 04:01:00",
@@ -208,26 +265,6 @@
       "url": "https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 159741,
-      "name": "murda one (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/1rdVnpJ6puWLlxkG6Kmcls"
-    },
-    {
       "added_at": "2021-11-19 05:01:00",
       "album": {
         "name": "Lamborghini Geeski",
@@ -242,6 +279,26 @@
       "duration_ms": 171349,
       "name": "Lamborghini Geeski",
       "url": "https://open.spotify.com/track/6zKn5ATZWR6XUeK53UoOKC"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Hall of Fame 2.0",
+        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 108889,
+      "name": "Start Up Again (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4O3bINhkGghgoKsOCr2HNz"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -264,28 +321,36 @@
       "url": "https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2021-12-18 22:22:04",
       "album": {
-        "name": "Too Easy (Remix) [feat. Future & Roddy Ricch]",
-        "url": "https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe"
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
       "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
         {
           "name": "Roddy Ricch",
           "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 197093,
-      "name": "Too Easy (Remix) [feat. Future & Roddy Ricch]",
-      "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Middle Man",
+        "url": "https://open.spotify.com/album/7vUo6VsYYgD7KBu4EiZBkG"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Middle Man",
+      "url": "https://open.spotify.com/track/7cetyzjVJMwwLgbvBxahNf"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -396,26 +461,6 @@
       "url": "https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Hall of Fame 2.0",
-        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Don\u2019t Play (with Lil Baby)",
-      "url": "https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef"
-    },
-    {
       "added_at": "2021-12-10 05:00:00",
       "album": {
         "name": "Ain't My Fault (feat. 42 Dugg)",
@@ -438,30 +483,6 @@
       "duration_ms": 210009,
       "name": "Ain't My Fault (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/30An28ovHzHONcqysPKIIs"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "hibachi (feat. Kodak Black & 21 Savage)",
-      "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -500,6 +521,26 @@
       "url": "https://open.spotify.com/track/3dqFdKbZacv3Z3XzFtIFjE"
     },
     {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 159741,
+      "name": "murda one (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1rdVnpJ6puWLlxkG6Kmcls"
+    },
+    {
       "added_at": "2021-11-29 18:16:06",
       "album": {
         "name": "5 Percent",
@@ -514,22 +555,6 @@
       "duration_ms": 110090,
       "name": "5 Percent",
       "url": "https://open.spotify.com/track/5yRA5qmT2zOP5DTfCONS6Z"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 134376,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -1090,22 +1115,6 @@
       "duration_ms": 183333,
       "name": "Northside Southside (feat. Giggs)",
       "url": "https://open.spotify.com/track/6GihDPzqj62VkQVfLHncUn"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "Steppin' Time",
-        "url": "https://open.spotify.com/album/44t5r8liF3QJo6Autz5EU9"
-      },
-      "artists": [
-        {
-          "name": "Soldier Kidd",
-          "url": "https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Steppin' Time",
-      "url": "https://open.spotify.com/track/4SWG3QD6VS6APcBFMT1TrW"
     },
     {
       "added_at": "2021-09-10 04:00:00",
@@ -1914,22 +1923,6 @@
       "duration_ms": 151563,
       "name": "Down For Life (feat. Lil Xan)",
       "url": "https://open.spotify.com/track/2tO3ke9YW5QE8j7SNIdG6b"
-    },
-    {
-      "added_at": "2021-09-17 04:01:00",
-      "album": {
-        "name": "Gifted",
-        "url": "https://open.spotify.com/album/17Lk80XEECR75E2A0AAWmu"
-      },
-      "artists": [
-        {
-          "name": "No Savage",
-          "url": "https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w"
-        }
-      ],
-      "duration_ms": 185820,
-      "name": "Gifted",
-      "url": "https://open.spotify.com/track/7unA97OKgAS63AWfaQ4KYo"
     },
     {
       "added_at": "2021-11-05 04:00:00",

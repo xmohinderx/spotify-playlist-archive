@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/27hnSuEcFg6wr5C5t3J5eL.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 50 songs - 3 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Sign](https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Greatest Hits](https://open.spotify.com/album/0nQFgMfnmWrcWDOQqIgJL7) | 3:09 |

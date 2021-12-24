@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX86aPVQf2emM.md) - [plain]
 
 > His finest work, in one playlist
 
+[Spotify](https://open.spotify.com/user/spotify) - 54,339 likes - 35 songs - 2 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blood on Me](https://open.spotify.com/track/37el170lJYr5CiWJFk207u) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN) | 4:06 |

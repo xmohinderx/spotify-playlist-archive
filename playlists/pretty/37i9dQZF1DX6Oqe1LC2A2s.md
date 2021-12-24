@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Oqe1LC2A2s.md) - [plain]
 
 > 50 best tracks of 20/21st century <a href="https://open.spotify.com/genre/classical">classical</a> music\. Cover: Arditti Quartet.
 
+[Spotify](https://open.spotify.com/user/spotify) - 35,797 likes - 50 songs - 9 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Harmony 1: Cookfield – Lyon](https://open.spotify.com/track/7F6V9v9T6GaBlvgPOXF4Rq) | [Arditti Quartet](https://open.spotify.com/artist/1A6VSPPUJADy9l9nHcGFG5) | [Cage: Harmonies From Apartment House 1776](https://open.spotify.com/album/6SQsGomVxTEJriPyQ64l4h) | 1:33 |

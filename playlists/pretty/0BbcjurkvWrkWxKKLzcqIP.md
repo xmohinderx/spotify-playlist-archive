@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0BbcjurkvWrkWxKKLzcqIP.md) - [plain]
 
 > Soundtrack a perfect crafternoon spent scrapbooking, knitting, or working on projects with friends.
 
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 70 songs - 4 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cups \(Pitch Perfect’s “When I’m Gone”\) \- Pop Version](https://open.spotify.com/track/2sCl0FFOzZSmYZs90zOpd1) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [Cups \(Pitch Perfect’s “When I’m Gone”\)](https://open.spotify.com/album/0ADeebtY9ygMEZkuEuTAUu) | 2:06 |

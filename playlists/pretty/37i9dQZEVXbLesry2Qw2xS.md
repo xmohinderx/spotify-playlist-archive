@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLesry2Qw2xS.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Estonia.
 
+[Spotify](https://open.spotify.com/user/spotify) - 15,864 likes - 50 songs - 2 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [?mis sa tegid](https://open.spotify.com/track/4VJpJ0g4b0KqF7KZHiwOpV) | [5MIINUST](https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an) | [kõik on süüdi](https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws) | 3:56 |

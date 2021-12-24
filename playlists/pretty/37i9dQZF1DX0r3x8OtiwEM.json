@@ -1,7 +1,12 @@
 {
   "description": "Chill techno and tech house.",
   "name": "Lowkey Tech",
-  "snapshot_id": "MTY0MDMxNTYxMiwwMDAwMDAwMGExNzhhZThmOWIwMGY1OTMzMzRlNjQ0MzE4MzE4YTFl",
+  "num_followers": 670877,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI0MywwMDAwMDAwMGExNzhhZThmOWIwMGY1OTMzMzRlNjQ0MzE4MzE4YTFl",
   "tracks": [
     {
       "added_at": "2021-12-17 17:32:27",

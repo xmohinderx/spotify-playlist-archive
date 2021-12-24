@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0Vjhah37el0Aq5yoRaujBz.md) - [plain]
 
 > Let this upbeat playlist power you through your day
 
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 3,155 likes - 306 songs - 18 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jackpot \(The Him Remix\)](https://open.spotify.com/track/6NSjdFYF2zxgQ7UvsKoRxy) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [Jackpot \(The Him Remix\)](https://open.spotify.com/album/2MqIUTIvZPARqkpFoDX9Fr) | 3:10 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2EsohEQHsGn1LWNgOxnuoI.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 61 songs - 5 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Entre Dos Aguas](https://open.spotify.com/track/7KKx4INB8LyGUeNXKiqQHK) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/3pWmGwLDx5CRtha5fhPdOS) | 6:02 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 
 > Get into the inspired sounds of <a href="spotify:artist:2kGBy2WHvF0VdZyqiVCkDT">Father John Misty</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 57,207 likes - 27 songs - 1 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
@@ -34,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 | 26 | [Please Don't Die](https://open.spotify.com/track/72lGJyqmLUJQEhUOzwCFQF) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/1DSQ4XP8DRnfeiAYYagMUN) | 3:24 |
 | 27 | [I Went to the Store One Day \- Live from the Hamburg Elbphilharmonie on August 8, 2019](https://open.spotify.com/track/7slryHlEP6O1evLd8rvfnt) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Off\-Key in Hamburg](https://open.spotify.com/album/2LszbE4j2yEAQmTVv9fwLU) | 4:31 |
 
-Snapshot ID: `MTY0MDMxNTY1OSwwMDAwMDAwMDE2OWNiYjkwN2E0NjlhOTViYzg3NzFkOTk5N2ExOWRi`
+Snapshot ID: `MTY0MDMyNDI4OCwwMDAwMDAwMDE2OWNiYjkwN2E0NjlhOTViYzg3NzFkOTk5N2ExOWRi`

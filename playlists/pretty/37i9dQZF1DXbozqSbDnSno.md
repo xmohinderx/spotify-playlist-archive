@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbozqSbDnSno.md) - [plain]
 
 > David Tennant, Sir Ian McKellen, and other inspired prophets of Shakespeare's histories await...
 
+[Spotify](https://open.spotify.com/user/spotify) - 6,835 likes - 87 songs - 18 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [King Richard Gives Way To Despair \- From "Richard III"](https://open.spotify.com/track/6fWFhvMUtw6hDZJRgXy1Fp) | [Richard Pasco](https://open.spotify.com/artist/58BJqQ7wMFXGXDXhf1BSJS) | [Shakespeare In Music & Words](https://open.spotify.com/album/0h3xFLwnTwNdj5X1MQbhHf) | 2:39 |

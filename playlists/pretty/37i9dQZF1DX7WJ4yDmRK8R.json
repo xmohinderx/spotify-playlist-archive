@@ -1,7 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Goldfinger",
   "name": "The Essential Ska",
-  "snapshot_id": "MTY0MDMxNTczMywwMDAwMDAwMDNjMjhjNTgxNmU4ZGU0YjgxMDcwMTU0MDg5OTk1NWQ2",
+  "num_followers": 293886,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM1OSwwMDAwMDAwMDNjMjhjNTgxNmU4ZGU0YjgxMDcwMTU0MDg5OTk1NWQ2",
   "tracks": [
     {
       "added_at": "2021-09-02 23:00:00",

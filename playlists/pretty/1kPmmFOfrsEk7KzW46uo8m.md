@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1kPmmFOfrsEk7KzW46uo8m.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 6 songs - 34 min 47 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beam Me Up \(Kill Mode\) \(Radio Edit\)](https://open.spotify.com/track/3tBHQJmuE0BOKR7l4Anap5) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Eject pt\. I](https://open.spotify.com/album/5ZAKzV4ZIa5Gt7z29OYHv0) | 3:23 |

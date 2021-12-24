@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1RKtKRcejWjN6ZOkghImIV.md) - [plain]
 
 > Slipknot, Mudvayne, Hatebreed\. Turn the volume all the way up.
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,604 likes - 20 songs - 1 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Under and Over It](https://open.spotify.com/track/7iXehQAqsHO8xwGUcnZpHW) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist](https://open.spotify.com/album/38r8ndfmRogiam1J7PqwHd) | 3:38 |

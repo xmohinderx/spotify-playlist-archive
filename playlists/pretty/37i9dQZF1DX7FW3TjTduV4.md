@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FW3TjTduV4.md) - [plain]
 
 > This is the best of Dirty Projectors...
 
+[Spotify](https://open.spotify.com/user/spotify) - 9,443 likes - 23 songs - 1 hr 27 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Overlord](https://open.spotify.com/track/1p2HobTuJiU60vLMA0wDH5) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Windows Open](https://open.spotify.com/album/20aYfhm4JHrxx5hSOzL3pB) | 2:43 |

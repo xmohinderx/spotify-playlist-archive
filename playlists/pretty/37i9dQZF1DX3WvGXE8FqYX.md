@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Kick back with the queens of pop.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,249,804 likes - 70 songs - 3 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 |
@@ -77,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 69 | [Issues](https://open.spotify.com/track/1sXUWdKx03aP9Gmzft58rt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues](https://open.spotify.com/album/1FulpD9JiAPbqP2F31pmUP) | 2:56 |
 | 70 | [Touch](https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 3:33 |
 
-Snapshot ID: `MTY0MDMxNTY1OCwwMDAwMDAwMGMyNTViMGZkMDY4MzEwOGUwYThiNzk1YTg3MmRjM2Nm`
+Snapshot ID: `MTY0MDMyNDI4NywwMDAwMDAwMGMyNTViMGZkMDY4MzEwOGUwYThiNzk1YTg3MmRjM2Nm`

@@ -1,7 +1,12 @@
 {
   "description": "Road trip tracks...",
   "name": "Indie Rock Road Trip",
-  "snapshot_id": "MTY0MDMxNTUyNiwwMDAwMDAwMDYzOWY3MjA4Y2QwYWU4NzhjNDcyOTNmZjVkZTIyMGVk",
+  "num_followers": 761246,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE1NywwMDAwMDAwMDYzOWY3MjA4Y2QwYWU4NzhjNDcyOTNmZjVkZTIyMGVk",
   "tracks": [
     {
       "added_at": "2021-06-28 19:26:33",

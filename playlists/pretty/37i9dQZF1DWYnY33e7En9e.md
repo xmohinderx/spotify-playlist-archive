@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
+[Spotify](https://open.spotify.com/user/spotify) - 346,969 likes - 100 songs - 7 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gangsta's Paradise](https://open.spotify.com/track/6VQyQHqEiDLG5cAPjoBPL9) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/3ugr537NspySQRHKTIrBQE) | 4:01 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 | 99 | [Dr\. Feelgood](https://open.spotify.com/track/5X0bLSho0KTiSQYCI0IOcl) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood 20th Anniversary \(Expanded Version\)](https://open.spotify.com/album/2roIODnunU2CI0QWY3T8H9) | 4:50 |
 | 100 | [9mm Goes Bang](https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 4:17 |
 
-Snapshot ID: `MTY0MDMxNTU4MiwwMDAwMDAwMDMzMjM5MTk1MDQzZWZjNTZjYTMzMDdkMDUwOTlhM2Rl`
+Snapshot ID: `MTY0MDMyNDIxMywwMDAwMDAwMDMzMjM5MTk1MDQzZWZjNTZjYTMzMDdkMDUwOTlhM2Rl`

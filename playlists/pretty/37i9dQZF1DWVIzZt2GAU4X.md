@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Lewis Capaldi
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,665 likes - 75 songs - 4 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 74 | [COMING HOME \(feat\. NIKI\) \- Long Distance Recording](https://open.spotify.com/track/7DpIa709SGPD6T5tuOVXgc) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\) \[Long Distance Recording\]](https://open.spotify.com/album/3XTizmfvhOiFp5GMSTkRZ3) | 3:58 |
 | 75 | [Mercy \- Acoustic](https://open.spotify.com/track/0uZnF1sn2IcNCvnyAIKNMQ) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:39 |
 
-Snapshot ID: `MTY0MDMxNTUzMCwwMDAwMDAwMGMwMzZmZGI1MjI0ZWU1MzEyZGI0Y2VkNzJjMzQ1MzM3`
+Snapshot ID: `MTY0MDMyNDE2MSwwMDAwMDAwMGMwMzZmZGI1MjI0ZWU1MzEyZGI0Y2VkNzJjMzQ1MzM3`

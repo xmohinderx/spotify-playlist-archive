@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Ayushmann Khurrana
 
+[Spotify](https://open.spotify.com/user/spotify) - 279,414 likes - 60 songs - 3 hr 27 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/1PDnTLpadsuLNSs6LCQtQh) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jassi Sidhu](https://open.spotify.com/artist/2VXIKojJeuVC7NyOQs4JlE), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y) | 2:33 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nERjWj1zmg.md) - [plain]
 
 > A selection of classic short stories and literature by women.
 
+[Spotify](https://open.spotify.com/user/spotify) - 51,885 likes - 39 songs - 15 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Oprah 75th Golden Globes Cecil B\. DeMille Award Acceptance Speech](https://open.spotify.com/track/1xGn1kNBQe21ZDBiQ8igBJ) | [Oprah Winfrey](https://open.spotify.com/artist/1pzHHVOWwwvu4IPWVle6RW) | [75th Golden Globes](https://open.spotify.com/album/0qkgX98Mjgslj9ycSEh8Ed) | 8:24 |

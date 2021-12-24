@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Jazz, hip\-hop and funk in one flavor\. Cover: Guru
 
+[Spotify](https://open.spotify.com/user/spotify) - 162,047 likes - 90 songs - 7 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Where Are We Going?](https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Blackbyrd](https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ) | 4:37 |
@@ -97,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Wash Your Face In My Sink](https://open.spotify.com/track/0NCAwYvqsYWxceXS12Gjbk) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [And Now The Legacy Begins](https://open.spotify.com/album/2qByCgsXUJSVIruSoskAN1) | 3:39 |
 | 90 | [Sometimes](https://open.spotify.com/track/45XYBNZyQtcdWOEsSqGn6a) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Shelter](https://open.spotify.com/album/0sRFR2h0zPYWEUGPGhTsec) | 4:46 |
 
-Snapshot ID: `MTY0MDMxNTU2MSwwMDAwMDAwMGVmYTkxOGQzODA5ODY4YmM5MWIzNjJmM2JiNmFiYzcy`
+Snapshot ID: `MTY0MDMyNDE5MCwwMDAwMDAwMGVmYTkxOGQzODA5ODY4YmM5MWIzNjJmM2JiNmFiYzcy`

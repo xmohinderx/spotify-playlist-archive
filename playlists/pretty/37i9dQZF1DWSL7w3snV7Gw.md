@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSL7w3snV7Gw.md) - [plain]
 
 > 50 great tracks from 20th century's most celebrated piano genius\. Beyond his iconic Bach recordings, you will also find his unique interpretation of Beethoven, Scriabin, Strauss, and many other composers from renaissance to modern age.
 
+[Spotify](https://open.spotify.com/user/spotify) - 28,169 likes - 50 songs - 5 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prelude & Fugue No\. 17 in A\-Flat Major, BWV 886: Praeludium](https://open.spotify.com/track/2BOmTCrTasy9s8PRTNjufp) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Well\-Tempered Clavier, Book II, Preludes & Fugues Nos\. 17\-24, BWV 886\-893 \(Gould Remastered\)](https://open.spotify.com/album/6J9mhldbTxk1lzv5v842nv) | 3:00 |

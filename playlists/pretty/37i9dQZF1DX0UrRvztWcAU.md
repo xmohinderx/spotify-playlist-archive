@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these awesome, happy songs!
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,512 likes - 150 songs - 8 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Glorious](https://open.spotify.com/track/7xPIlYAQvOubFllPkn8XSL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Glorious](https://open.spotify.com/album/7ioa0F9HHBzTCV5VbFupal) | 3:04 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [Give 'n' Take](https://open.spotify.com/track/5N5eDeqI0bRGUMPB1aEczU) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Give 'n' Take](https://open.spotify.com/album/6ytNQJsLBaGmcms5dBlS0a) | 3:03 |
 | 150 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:17 |
 
-Snapshot ID: `MTY0MDMxNTYwNiwwMDAwMDAwMDhmZWE5ZmFkOWFmNDRkMzExYjQzZjc0NTM4Y2Q0ZjA4`
+Snapshot ID: `MTY0MDMyNDIzOCwwMDAwMDAwMDhmZWE5ZmFkOWFmNDRkMzExYjQzZjc0NTM4Y2Q0ZjA4`

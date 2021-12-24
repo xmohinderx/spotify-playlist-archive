@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2nb7lCySvvf7PNxHUD5oun.md) - [plain]
 
 > In honor of JAM, we're collecting your favorite jazz tracks! Share yours at \#SpotifyJAM
 
+[Spotify](https://open.spotify.com/user/spotify) - 288 likes - 40 songs - 2 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Monk's Dream \- Take 8](https://open.spotify.com/track/0488kXJ1YnLMrrM1ssJnev) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Dream](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL) | 6:25 |

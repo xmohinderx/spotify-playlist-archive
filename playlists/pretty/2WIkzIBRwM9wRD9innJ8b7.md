@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2WIkzIBRwM9wRD9innJ8b7.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 78 likes - 20 songs - 1 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Need Your Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:54 |

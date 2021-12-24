@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/57clV3IPw1TXSWdzzDVDwp.md) - [plain]
 
 > Relive your favourite artist moments from the Brilliant Minds conference during <a href="http://symposium.co/">Symposium Stockholm</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 224 likes - 18 songs - 1 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Need To](https://open.spotify.com/track/3rLmRILBzd1wB5lqqFYGHW) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Need To](https://open.spotify.com/album/5HjMa6Gh7FPqwYXI49ori5) | 3:37 |

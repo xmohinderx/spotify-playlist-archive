@@ -1,6 +1,11 @@
 {
   "description": "Start your day with The Beatles!",
   "name": "Here Comes The Sun",
+  "num_followers": 344763,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU2OTQ4OTUxMiwwMDAwMDAyMTAwMDAwMTZkNmNkZDZhMTgwMDAwMDE2ZDAwYmUxNzli",
   "tracks": [
     {

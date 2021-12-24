@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5L9gRaHajqj.md) - [plain]
 
 > The essential KISS, all in one place.
 
+[Spotify](https://open.spotify.com/user/spotify) - 315,725 likes - 50 songs - 3 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Was Made For Lovin' You](https://open.spotify.com/track/6S9q9mEifNdnTNlli2xSuD) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty \(Remastered Version\)](https://open.spotify.com/album/4ZI8J8xcvFTje53q91yAFs) | 4:31 |

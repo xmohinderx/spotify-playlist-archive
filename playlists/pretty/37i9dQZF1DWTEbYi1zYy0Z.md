@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > The freshest smooth jazz\. Cover: Ragan Whiteside
 
+[Spotify](https://open.spotify.com/user/spotify) - 35,060 likes - 80 songs - 5 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Off the Cuff](https://open.spotify.com/track/5Rfe42z4hAZae1jrQaogem) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Off the Cuff](https://open.spotify.com/album/52X8pH95UmbAMg9OnVjUMF) | 4:07 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 79 | [Straight to the Point](https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Straight to the Point](https://open.spotify.com/album/2xgDe9WhVacLda2qrFB511) | 4:02 |
 | 80 | [Just In Featuring](https://open.spotify.com/track/3VCrmUwo226twtuuZ1nqpk) | [Justin Lee Schultz](https://open.spotify.com/artist/7442ege95ki2gp7bwhOSs1), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just In](https://open.spotify.com/album/0GiX2kkHdRgOVhaCkKBSI5) | 4:05 |
 
-Snapshot ID: `MTY0MDMxNTUwNSwwMDAwMDAwMGUzMWUyMzIxNzAyNGIzMTM2NmJhNWRiYmZiYjVmY2E5`
+Snapshot ID: `MTY0MDMyNDEzNywwMDAwMDAwMGUzMWUyMzIxNzAyNGIzMTM2NmJhNWRiYmZiYjVmY2E5`

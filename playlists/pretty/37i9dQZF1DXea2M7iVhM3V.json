@@ -1,6 +1,11 @@
 {
   "description": "Kill it today with this awesome Hip Hop.",
   "name": "Killing It",
+  "num_followers": 65,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU2NzY3NDk2NywwMDAwMDAwNTAwMDAwMTViMzg0MDkyYTkwMDAwMDE2ZDAwYjVhNDky",
   "tracks": [
     {

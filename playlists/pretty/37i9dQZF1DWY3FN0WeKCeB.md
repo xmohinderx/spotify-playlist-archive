@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3FN0WeKCeB.md) - [plain]
 
 > A chronology of Sir Arthur Conan Doyle's best Sherlock Holmes' adventures, followed by rare and vintage radio and audio adaptations.
 
+[Spotify](https://open.spotify.com/user/spotify) - 48,443 likes - 163 songs - 2 day 20 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Untitled \- Talking About Sherlock Holmes And Spiritualism](https://open.spotify.com/track/5dEriSdjnplqRHdrguyHmU) | [Sir Arthur Conan Doyle](https://open.spotify.com/artist/3Xj8xqJUruJ2moKunjaf0d) | [The Very Best Historic Voices](https://open.spotify.com/album/7cmdYngBaNcgzi2QW3ShoM) | 2:01 |

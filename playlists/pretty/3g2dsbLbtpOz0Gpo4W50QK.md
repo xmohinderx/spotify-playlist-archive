@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3g2dsbLbtpOz0Gpo4W50QK.md) - [plain]
 
 > Because we love our Hip Hop..\. Dance away!
 
+[Spotify](https://open.spotify.com/user/spotify) - 19,559 likes - 23 songs - 1 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 |

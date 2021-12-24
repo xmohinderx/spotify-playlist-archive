@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2d96NZvM6U7G14LDQdNfwS.md) - [plain]
 
 > SXSW has deep roots in Austin\. Get a sense of the city and all its sounds.
 
+[Spotify](https://open.spotify.com/user/spotify) - 655 likes - 41 songs - 2 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G9wwzwWL2k.md) - [plain]
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 483,091 likes - 66 songs - 11 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prokofiev: Romeo and Juliet, Op\. 64, Act 1, Scene 2: Dance of the Knights](https://open.spotify.com/track/7HSs4srn1qnZhh7WRWBVOk) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Prokofiev: Romeo and Juliet](https://open.spotify.com/album/3M5idfqFUxge3skgZQu4R3) | 5:41 |

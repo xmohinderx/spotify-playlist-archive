@@ -1,7 +1,12 @@
 {
   "description": "The official playlist for the 63rd GRAMMY Awards.",
   "name": "The GRAMMYs Official Playlist",
-  "snapshot_id": "MTY0MDMxNTY5MywwMDAwMDAwMGU4MTAyNGZlNjIwNmQyNmYxZGYxZDMyMmUyYmFjNGQx",
+  "num_followers": 121616,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMyMSwwMDAwMDAwMGU4MTAyNGZlNjIwNmQyNmYxZGYxZDMyMmUyYmFjNGQx",
   "tracks": [
     {
       "added_at": "2021-03-10 20:06:46",

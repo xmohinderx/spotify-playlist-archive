@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/33sPgLhtkMgQLWMgdHRQma.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 422 likes - 50 songs - 3 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [End Of The Road](https://open.spotify.com/track/1c48FSKfpobDF3VzopU10V) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [The Best Of Boyz II Men 20th Century Masters The Millennium Collection](https://open.spotify.com/album/1aVyRcDS6m2qIyiSgCj4ge) | 5:48 |

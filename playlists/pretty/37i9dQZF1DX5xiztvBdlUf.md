@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
+[Spotify](https://open.spotify.com/user/spotify) - 466,190 likes - 80 songs - 7 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Weightless \- jamesjamesjames Remix](https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv) | 4:09 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Walk in the Wild](https://open.spotify.com/track/5DBoyXGI3NH05wNYPK0Mpq) | [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [East of the Sun / Walk in the Wild](https://open.spotify.com/album/5hX8459qQGHccPX29y2iRr) | 6:39 |
 | 80 | [Kilian](https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Kilian](https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV) | 7:00 |
 
-Snapshot ID: `MTY0MDMxNTcwNywwMDAwMDAwMGY0NDBhY2M3MTQ4NjA1YTdjNjVlYzM4NTViNzAxNDQw`
+Snapshot ID: `MTY0MDMyNDMzNCwwMDAwMDAwMGY0NDBhY2M3MTQ4NjA1YTdjNjVlYzM4NTViNzAxNDQw`

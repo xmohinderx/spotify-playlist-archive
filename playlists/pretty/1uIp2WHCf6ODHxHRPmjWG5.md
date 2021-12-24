@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1uIp2WHCf6ODHxHRPmjWG5.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 107 likes - 36 songs - 2 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Carolina in My Mind](https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 3:58 |

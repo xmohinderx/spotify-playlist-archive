@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1MXbpQ8OiNsYtQxiXexPJ7.md) - [plain]
 
 > The sun is setting and the night takes over\. Enjoy these while letting the evening play on.
 
+[Spotify](https://open.spotify.com/user/spotify) - 461 likes - 44 songs - 2 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blackbird Song](https://open.spotify.com/track/41FUDbrnvoc7RH0APur9jy) | [Lee DeWyze](https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6) | [Blackbird Song](https://open.spotify.com/album/6316qgms0cRSXanY9meBSQ) | 4:14 |

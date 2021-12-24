@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Top Afro Bashment, Pop, Fusion / X\-Overs from all across the world\.  Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">WizKid</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 488,471 likes - 100 songs - 5 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 99 | [Nobody \(Amapiano\)](https://open.spotify.com/track/7bwMgt5a2vGunZbqfQGYSN) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Nobody \(Amapiano\)](https://open.spotify.com/album/4p6H3XZEwl7qObMSQwhioa) | 3:50 |
 | 100 | [God's Work \(feat\. iLL BLU\)](https://open.spotify.com/track/2C0pnGNygYIDJky515Riw0) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [God's Work \(feat\. iLL BLU\)](https://open.spotify.com/album/1WbfKqjRdOvlCenuMWnYFz) | 2:27 |
 
-Snapshot ID: `MTY0MDMxNTUwNCwwMDAwMDAwMDE0M2RhODZjOGU3ZjRlOWQ0YTMyMGNhOWYxZDRkM2E4`
+Snapshot ID: `MTY0MDMyNDEzNiwwMDAwMDAwMDE0M2RhODZjOGU3ZjRlOWQ0YTMyMGNhOWYxZDRkM2E4`

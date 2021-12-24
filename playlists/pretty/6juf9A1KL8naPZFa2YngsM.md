@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6juf9A1KL8naPZFa2YngsM.md) - [plain]
 
 > Score your cocktail hour with eclectic jazz covers \- from Drake to Radiohead.
 
+[Spotify](https://open.spotify.com/user/spotify) - 258 likes - 25 songs - 2 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Smells Like Teen Spirit](https://open.spotify.com/track/6RoModa3txoHpxBtJMwnv2) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [These Are The Vistas](https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q) | 5:57 |

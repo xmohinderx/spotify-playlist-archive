@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Ambiance electro hip\-hop : laissez\-vous porter par le beat...
 
+[Spotify](https://open.spotify.com/user/spotify) - 209,212 likes - 50 songs - 2 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Southern Man](https://open.spotify.com/track/29MvtOnoAULKQfEKAPCbja) | [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [Street Bangerz Volume 8](https://open.spotify.com/album/5KdKwVnwqDBduNNwOcLcKj) | 3:57 |

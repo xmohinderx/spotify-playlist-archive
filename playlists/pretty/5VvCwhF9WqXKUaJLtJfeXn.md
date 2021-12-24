@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5VvCwhF9WqXKUaJLtJfeXn.md) - [plain]
 
 > Taylor Gang top picks chosen by Spotify.
 
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 28 songs - 1 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let It Go \(feat\. Akon\)](https://open.spotify.com/track/2XYhmVMjItekCxN0uzitKX) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/1ebdc90Jw0O5gquJ7Mcy35) | 4:18 |

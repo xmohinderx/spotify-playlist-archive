@@ -1,7 +1,12 @@
 {
   "description": "The best of modern psych. Cover: St. Vincent",
   "name": "Modern Psychedelia",
-  "snapshot_id": "MTY0MDMxNTc1MCwwMDAwMDAwMDBmOTA3NTlhZDMyMzU5MmQ1MzRkMDJmZWMxY2Y1MTU1",
+  "num_followers": 655663,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM3NiwwMDAwMDAwMDBmOTA3NTlhZDMyMzU5MmQ1MzRkMDJmZWMxY2Y1MTU1",
   "tracks": [
     {
       "added_at": "2021-12-14 16:29:07",

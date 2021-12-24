@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 171,653 likes - 100 songs - 7 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Stay Together](https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 3:19 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 99 | [Be Here in Te Morning](https://open.spotify.com/track/3uaCC1kjEA6PmDcCR23Iha) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH), [C.S\. Armstrong](https://open.spotify.com/artist/7yH6l3hrN26tZjRCOg1bNh) | [Let Yourself Be Loved \(Deluxe Version\)](https://open.spotify.com/album/59t2Z3zDQNx1wx8Xz7MLiy) | 4:04 |
 | 100 | [Close the Door](https://open.spotify.com/track/18QoUfcjQavkS6t7QT04aK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing](https://open.spotify.com/album/0x8q0crYQI3FagJi0UG5nY) | 5:25 |
 
-Snapshot ID: `MTY0MDMxNTc0MywwMDAwMDAwMDNhNjQ0ZjdkNTZlMjBkNjg2YWUyY2RlNzkwMTQwZWZm`
+Snapshot ID: `MTY0MDMyNDM2OSwwMDAwMDAwMDNhNjQ0ZjdkNTZlMjBkNjg2YWUyY2RlNzkwMTQwZWZm`

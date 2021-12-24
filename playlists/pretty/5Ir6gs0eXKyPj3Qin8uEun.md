@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5Ir6gs0eXKyPj3Qin8uEun.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 132 likes - 20 songs - 56 min 39 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/3LUHtV6F7IHAOognkvcEKv) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Very Best Of](https://open.spotify.com/album/71dF2PBGuJ8iPlLblf9exZ) | 2:53 |

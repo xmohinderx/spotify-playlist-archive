@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 
 > Early blues standards and classics
 
+[Spotify](https://open.spotify.com/user/spotify) - 713,360 likes - 50 songs - 2 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crazy Blues](https://open.spotify.com/track/5j6tQBJnNG4wLLdVISJ5g2) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Mamie Smith Vol\. 1 \(1920\-1921\)](https://open.spotify.com/album/5R4HBYPhpEXGLXeyjWFbmT) | 3:22 |

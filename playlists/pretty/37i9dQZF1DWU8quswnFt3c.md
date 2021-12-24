@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Logic1000
 
+[Spotify](https://open.spotify.com/user/spotify) - 828,846 likes - 69 songs - 3 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
@@ -76,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [最高品質靜悄悄](https://open.spotify.com/track/6fxjnz8unvpHk5hRKkKYhc) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [平庸之上](https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO) | 3:23 |
 | 69 | [Negra Presuntuosa](https://open.spotify.com/track/6NVirfsnzXgZdSoasFbwLw) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/745bovopinCyeNzU9uCLbG) | 4:16 |
 
-Snapshot ID: `MTY0MDMxNTUxOCwwMDAwMDAwMDNhNDdiZTc2NDdkZGFmNzYxZDVhMzgzNDNlNmZkMzU5`
+Snapshot ID: `MTY0MDMyNDE1MCwwMDAwMDAwMDNhNDdiZTc2NDdkZGFmNzYxZDVhMzgzNDNlNmZkMzU5`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVstK6FYh8Nw.md) - [plain]
 
 > The Atlanta\-born <a href="spotify:artist:1RyvyyTE3xzB2ZywiAwp0i">rapper</a>'s dopest songs plus his latest bangers.
 
+[Spotify](https://open.spotify.com/user/spotify) - 471,524 likes - 50 songs - 2 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mask Off](https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2) | 3:24 |

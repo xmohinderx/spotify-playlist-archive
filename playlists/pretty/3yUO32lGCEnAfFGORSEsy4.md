@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3yUO32lGCEnAfFGORSEsy4.md) - [plain]
 
 > Brukout edition: It's a raw and sexy dancehall party!
 
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 42 songs - 2 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whine Up \(Raw\)](https://open.spotify.com/track/1spNzvIJws5TO1ndJg1Ve5) | [Sem G](https://open.spotify.com/artist/5CCXlkV2BqKzd0xRPTMRmB) | [Custom Riddim](https://open.spotify.com/album/6nnS6YDUdEjQbvU1hPOLgn) | 2:51 |

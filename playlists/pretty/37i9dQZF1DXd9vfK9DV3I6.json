@@ -1,7 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
   "name": "mosaic",
-  "snapshot_id": "MTY0MDMxNTgxNSwwMDAwMDAwMDBmMWE5M2JlNzhlZWUzMjc2YWM5NDlkMTIxM2NjM2I4",
+  "num_followers": 129200,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQzOCwwMDAwMDAwMDBmMWE5M2JlNzhlZWUzMjc2YWM5NDlkMTIxM2NjM2I4",
   "tracks": [
     {
       "added_at": "2021-12-16 11:00:00",

@@ -1,7 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Subtronics.",
   "name": "Bass Arcade",
-  "snapshot_id": "MTY0MDMxNTYxMSwwMDAwMDAwMDMxYjM3YzBlM2RhMWFmZTZlNjc5YjU3NzZhMjFlM2I1",
+  "num_followers": 925622,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI0MSwwMDAwMDAwMDMxYjM3YzBlM2RhMWFmZTZlNjc5YjU3NzZhMjFlM2I1",
   "tracks": [
     {
       "added_at": "2021-12-17 05:00:00",

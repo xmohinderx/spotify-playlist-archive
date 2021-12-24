@@ -1,7 +1,12 @@
 {
   "description": "Country music to accompany your commute. Cover: Eric Church",
   "name": "Country Drive",
-  "snapshot_id": "MTY0MDMxNTgyNCwwMDAwMDAwMGEzNDkwYTIzODllZjI3ODk0YjcwMGQ4YzkwM2I2OTgz",
+  "num_followers": 289483,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQ0NywwMDAwMDAwMGEzNDkwYTIzODllZjI3ODk0YjcwMGQ4YzkwM2I2OTgz",
   "tracks": [
     {
       "added_at": "2021-12-03 05:01:00",

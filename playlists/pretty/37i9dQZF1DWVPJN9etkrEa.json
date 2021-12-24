@@ -1,6 +1,11 @@
 {
   "description": "Welcome to Paradise, Green Day fans!",
   "name": "This Is Green Day",
+  "num_followers": 838057,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzMDQ4MTc0MCwwMDAwMDAyZDAwMDAwMTdiYTA0OGYzZTgwMDAwMDE3MDNmMjIzZmUx",
   "tracks": [
     {

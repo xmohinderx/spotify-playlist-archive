@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,209,267 likes - 303 songs - 20 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 |
@@ -310,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 302 | [Focus on the Future](https://open.spotify.com/track/0ir5wRRM1F9E9sWVDiV3cx) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:55 |
 | 303 | [Mistaken \(feat\. Alex Aris\) \- DRAMA Remix](https://open.spotify.com/track/5OWrngLj7uTcicHivhY7jA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [2019 Remixed](https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR) | 3:56 |
 
-Snapshot ID: `MTY0MDMxNTcxNywwMDAwMDAwMGE0NWE3ZmY2MTg1NTgxYWYzOGMyZTZmYThmYjc1ZmFi`
+Snapshot ID: `MTY0MDMyNDM0NCwwMDAwMDAwMGE0NWE3ZmY2MTg1NTgxYWYzOGMyZTZmYThmYjc1ZmFi`

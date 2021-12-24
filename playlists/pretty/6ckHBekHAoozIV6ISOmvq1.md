@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6ckHBekHAoozIV6ISOmvq1.md) - [plain]
 
 > See also <a href="spotify:playlist:2z6FM4scrQ5lpsKId0jeki">Intro</a>, <a href="spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe">Pulse</a>, <a href="spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs">♀Filter</a> or <a href="spotify:playlist:3DM5dQj6WEb3mSuYsjW2p2">2021</a>; or the Sounds of <a href="spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT">Troubadour</a>, <a href="spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte">Early Music Ensemble</a>, <a href="spotify:playlist:6zc2HFPnDWeqqsBHhYEQER">Trecento</a>, <a href="spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA">Renaissance</a>, <a href="spotify:playlist:0nqJegaRD3nkCjyIwg7mry">Trouvère</a>, <a href="spotify:playlist:0AVJ1UKXMQf244cvu4np0k">Minnesang</a>, <a href="spotify:playlist:0K86fmE0c0SFgz9GpwhwLm">Early Music</a>, <a href="spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M">Ars subtilior</a>, <a href="spotify:playlist:511MabrP35Zp3tqYh2G4iJ">Medieval Ensemble</a> or <a href="spotify:playlist:1RatTJrho9K5z9OVCqeU7Z">American Early Music</a>; or much more at <a href="http://everynoise.com">everynoise.com</a>.
 
+[The Sounds of Spotify](https://open.spotify.com/user/thesoundsofspotify) - 473 likes - 201 songs - 17 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ita se n'er'a star](https://open.spotify.com/track/2o4MCgSayrqYirCNfbx0jD) | [Lorenzo Masini](https://open.spotify.com/artist/0vD2veljrr8p0j6bcMtkUD), [Palatino87](https://open.spotify.com/artist/4Kh9ZrrJQ24rjHNXRlMvLE) | [La Bella Mandorla: Madrigals from the Codex Squarcialupi](https://open.spotify.com/album/6vIbiJdZS0yt2PQq7onvQ6) | 3:24 |

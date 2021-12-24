@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1xAmEtLT8c17IisGUa1f4M.md) - [plain]
 
 > 38 great tunes by female singers only!
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,341 likes - 38 songs - 2 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rose Garden](https://open.spotify.com/track/59wGpYrwHdJQw30m41ChPB) | [Dolly Parton & Lynn Anderson](https://open.spotify.com/artist/0CXwsfqgt6yxQidK74GfNN), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Together](https://open.spotify.com/album/5Cyt0tOAuiTkpvj25RjzQg) | 2:53 |

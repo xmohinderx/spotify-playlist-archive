@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with a mix of covers.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,547 likes - 250 songs - 15 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
@@ -257,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 | 249 | [When I'm Gone](https://open.spotify.com/track/6cDHqIoWHmkGE7V7kWJZFJ) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [Wild Card](https://open.spotify.com/album/3HaN8jyz7S3POpsPTym57Q) | 2:33 |
 | 250 | [Space Oddity \- Live](https://open.spotify.com/track/0dBzi0Vapr6MZUsTb47Mx9) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Live in Concert](https://open.spotify.com/album/4ky1PYJAHZ4vZm2QaU84Xj) | 4:32 |
 
-Snapshot ID: `MTY0MDMxNTgyOSwwMDAwMDAwMDU4MzBhYzQ1ZjQwN2RjYWVhNDg3MmRkOTVjNmIwZTcy`
+Snapshot ID: `MTY0MDMyNDQ1MSwwMDAwMDAwMDU4MzBhYzQ1ZjQwN2RjYWVhNDg3MmRkOTVjNmIwZTcy`

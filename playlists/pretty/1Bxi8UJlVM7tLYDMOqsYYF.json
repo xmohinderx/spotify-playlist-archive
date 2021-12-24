@@ -1,6 +1,11 @@
 {
   "description": "The ultimate playlist to get you ready for a fun night out with your girlfriends.",
   "name": "Girls Night Out",
+  "num_followers": 1235,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTcsYzNjZjJkNjYzNTA5OTMxNjE0MmNjYmQ1MTNiZDgxZTI5MGUxYWUyNA==",
   "tracks": [
     {

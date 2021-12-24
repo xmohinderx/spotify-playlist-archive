@@ -1,7 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
   "name": "70s Rock Anthems",
-  "snapshot_id": "MTY0MDMxNTU1NywwMDAwMDAwMGZkZDM2ODRlNmMzOGRiYThkZWZiNmUyYTQ0ZTA4NmJj",
+  "num_followers": 1395234,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE4NiwwMDAwMDAwMGZkZDM2ODRlNmMzOGRiYThkZWZiNmUyYTQ0ZTA4NmJj",
   "tracks": [
     {
       "added_at": "2021-12-14 13:36:52",

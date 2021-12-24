@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4LmOnbOmtMUyQQjo6L9mct.md) - [plain]
 
 > Enjoy the sweet rhythms of bossa nova \- the perfect marriage of samba and jazz.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,515 likes - 41 songs - 2 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/2k9INO4dSLTfEDRz7aorQC) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/5ybWzNgRuOpY4vFoIGdsDk) | 4:41 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > 100 highlight tracks from 100 great operas, including masterpieces of baroque era \(Monteverdi, Rameau, Gluck\) all the way to 20th century and contemporary classics \(Ligeti, Saariaho, John Adams\).
 
+[Spotify](https://open.spotify.com/user/spotify) - 260,977 likes - 100 songs - 8 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Il barbiere di Siviglia \(The Barber of Seville\), Act I: Cavatina: Largo al factotum della citta](https://open.spotify.com/track/5p4BRlcUzvRpApjjEFAtUq) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Peter Mattei](https://open.spotify.com/artist/18Bm1xs8qFr9pPiy6GONgu), [Royal Stockholm Philharmonic Orchestra](https://open.spotify.com/artist/5dyKtXKwZmYhlyh9c6UcB0), [Lawrence Renes](https://open.spotify.com/artist/0SUKg85hFLu84BAUx3pNpf) | [Mattei, Peter: Great Baritone Arias](https://open.spotify.com/album/0G2GNH7l5xr3JdESHgJI0z) | 5:00 |

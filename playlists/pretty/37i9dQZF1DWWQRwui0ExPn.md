@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > Beats to relax, study, and focus..\. and warm your heart for Xmas!
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,443,254 likes - 812 songs - 1 day 8 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5mcNL2FDKpe7Imzq0wReze) | [Gary Alesbrook](https://open.spotify.com/artist/047bXeKqafhgvngu42Dc70) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2lUNCsZwJSXKNGGqHOseZe) | 2:28 |
@@ -819,4 +821,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 811 | [Walking Away](https://open.spotify.com/track/6D92s9XsxCMSx7cnRRyIm6) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [Tapeloop](https://open.spotify.com/album/25R3bF7LFwPRg3ORzO8Age) | 1:58 |
 | 812 | [Outlands](https://open.spotify.com/track/55qLhh9X1MS3cB0wwbFUDs) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Outlands](https://open.spotify.com/album/3BQYqCDyafQR7vSBTuh9Uw) | 2:21 |
 
-Snapshot ID: `MTY0MDMxNTU0OCwwMDAwMDAwMDVhNDdlMDUyOTk4NWVmNzM5NGExYzAxZDJhYWUzNzE3`
+Snapshot ID: `MTY0MDMyNDE3OSwwMDAwMDAwMDVhNDdlMDUyOTk4NWVmNzM5NGExYzAxZDJhYWUzNzE3`

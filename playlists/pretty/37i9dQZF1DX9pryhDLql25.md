@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
+[Spotify](https://open.spotify.com/user/spotify) - 182,901 likes - 75 songs - 4 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beyond](https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beyond](https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ) | 4:00 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 74 | [Party Boy](https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Make Way for Love](https://open.spotify.com/album/30SzcUoJ2zGoniPf9UjU5k) | 2:33 |
 | 75 | [Trinity Lane](https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Trinity Lane](https://open.spotify.com/album/1r27NAhNdnPF1Ud6UOf7MR) | 3:53 |
 
-Snapshot ID: `MTY0MDMxNTc2NSwwMDAwMDAwMGU1NWVmZTUxYmIzZGY4MGUxMTM3YTQ2ZDgzMWU3ZjQ0`
+Snapshot ID: `MTY0MDMyNDM5MCwwMDAwMDAwMGU1NWVmZTUxYmIzZGY4MGUxMTM3YTQ2ZDgzMWU3ZjQ0`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbW9wx2hgf03.md) - [plain]
 
 > Immerse yourself in the sounds of The Godfather of Grime \- Wiley
 
+[Spotify](https://open.spotify.com/user/spotify) - 23,553 likes - 47 songs - 2 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My One \(feat\. Tory Lanez, Kranium & Dappy\)](https://open.spotify.com/track/3zgKEF4I4ILmTTSBvtiRlJ) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Dappy](https://open.spotify.com/artist/4q6hTJmeYXCwp0ivdtoSWA), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [My One \(feat\. Tory Lanez, Kranium & Dappy\)](https://open.spotify.com/album/1bE9v4U6xT3MDCh2SPn3jH) | 3:06 |

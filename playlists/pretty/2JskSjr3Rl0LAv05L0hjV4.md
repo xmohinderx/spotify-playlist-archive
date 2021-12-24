@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2JskSjr3Rl0LAv05L0hjV4.md) - [plain]
 
 > Let these singers tug on your heartstrings with their amazing vocal performances.
 
+[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 25 songs - 1 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/10zBfLMB5ty2Pec5LYRcgI.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 451 likes - 27 songs - 1 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nightmares Of The Bottom](https://open.spotify.com/track/37sImz0wkOcX1cMWzo080d) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter IV \(Deluxe\)](https://open.spotify.com/album/1uuSC0RCJB3dSp8Mb6GflZ) | 4:41 |

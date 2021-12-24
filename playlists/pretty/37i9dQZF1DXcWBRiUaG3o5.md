@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,659 likes - 100 songs - 6 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Bird in the Thyme](https://open.spotify.com/track/0cEEUjxIpSEPeZ7cLera9Q) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Some Were Meant for Sea](https://open.spotify.com/album/3mx2Leg4X3LdNVTK5gSysa) | 3:49 |
 | 100 | [Lights Off \(Live from Spotify, London\)](https://open.spotify.com/track/34bvDVeoJZyiuxfLUmNzwV) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Spotify Live](https://open.spotify.com/album/0xZSKoyxJejom2lePPmjX8) | 4:05 |
 
-Snapshot ID: `MTY0MDMxNTgwNiwwMDAwMDAwMDhiOGNhODU4OGRjMjNkMDM2OGM5YjE2MDdlNGZkNDIw`
+Snapshot ID: `MTY0MDMyNDQzMCwwMDAwMDAwMDhiOGNhODU4OGRjMjNkMDM2OGM5YjE2MDdlNGZkNDIw`

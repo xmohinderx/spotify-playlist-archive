@@ -1,7 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
   "name": "Spela Shoreline!",
-  "snapshot_id": "MTY0MDMxNTY1NSwwMDAwMDAwMDUxMmJjZjUyNmRjMTg2ZmNkMWQxNjFmMDgzZjhmNDA4",
+  "num_followers": 53627,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI4NCwwMDAwMDAwMDUxMmJjZjUyNmRjMTg2ZmNkMWQxNjFmMDgzZjhmNDA4",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",

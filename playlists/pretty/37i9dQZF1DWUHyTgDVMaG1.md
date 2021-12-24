@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHyTgDVMaG1.md) - [plain]
 
 > Van Morrison, the essential tracks, all in one playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 229,881 likes - 57 songs - 4 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/2TEq8wpp3h8FTbjM5zhYKu) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 2:35 |

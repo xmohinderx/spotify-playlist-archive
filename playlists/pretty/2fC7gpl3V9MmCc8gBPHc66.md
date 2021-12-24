@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2fC7gpl3V9MmCc8gBPHc66.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 840 songs - 2 day 9 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Master Of Puppets \- Live](https://open.spotify.com/track/5m6q4TWOxfTy3Bg5mKkiMI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [All Nightmare Long](https://open.spotify.com/album/56ezlUN6V0nRr7WfvU9yd0) | 8:20 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees from the 93rd annual event celebrating Hollywood's brightest stars.
 
+[Spotify](https://open.spotify.com/user/spotify) - 88,442 likes - 32 songs - 1 hr 44 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 |
@@ -39,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 31 | [Nandito \("Better Days" Boys Love Series Original Soundtrack\)](https://open.spotify.com/track/5MxNumr5U2RItqaIQ358vo) | [Benedix Ramos](https://open.spotify.com/artist/5fldgzVYNjhJSwZorLIrXq) | [Nandito \("Better Days" Boys Love Series Original Soundtrack\)](https://open.spotify.com/album/28aSJYhykZjYowiaz7QN7s) | 4:37 |
 | 32 | [THE PLAN](https://open.spotify.com/track/3zKxgW0eUAw1v4m7eZcrns) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Tenet \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3XVZnD9SKNPcN3YJvho9Y7) | 3:05 |
 
-Snapshot ID: `MTY0MDMxNTY0NCwwMDAwMDAwMDM4YTFlNmQxYzljN2I3MDUxYjQwYzEzZTNiMjZiOTAy`
+Snapshot ID: `MTY0MDMyNDI3MywwMDAwMDAwMDM4YTFlNmQxYzljN2I3MDUxYjQwYzEzZTNiMjZiOTAy`

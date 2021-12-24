@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4drXxn0GpOXXG6Rp5RvXca.md) - [plain]
 
 > Enjoy your morning to great breakfast dub beats.
 
+[Spotify](https://open.spotify.com/user/spotify) - 136 likes - 25 songs - 1 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rasta Rocket](https://open.spotify.com/track/0N0CDTqp836sleEgcFuQAa) | [Prince Jammy](https://open.spotify.com/artist/2ofzePirTpSz2qzyVt1Eoe) | [Cyber Rasta Double The Language Barrier Platinum Edition](https://open.spotify.com/album/139LUj7b9uL2w85DUBk90G) | 3:57 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea80XwOJRgD.md) - [plain]
 
 > Some heart and soul for those up late.
 
+[Spotify](https://open.spotify.com/user/spotify) - 126,707 likes - 50 songs - 3 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All The Way](https://open.spotify.com/track/7qV0SQTEX6TSk31ocShSaq) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Under My Skin](https://open.spotify.com/album/3ASBeGaVQU1vn1cgQ1Fwqc) | 3:40 |

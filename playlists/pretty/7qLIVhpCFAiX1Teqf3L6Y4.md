@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7qLIVhpCFAiX1Teqf3L6Y4.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 30 songs - 1 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heartbreaker \- UK Remix](https://open.spotify.com/track/1zrOjg1kqLzy7l2dJiBDBi) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [R&B Love Collection 08](https://open.spotify.com/album/13gRCMXWway6JAyfFFsqQx) | 3:14 |

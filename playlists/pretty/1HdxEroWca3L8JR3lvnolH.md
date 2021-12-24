@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1HdxEroWca3L8JR3lvnolH.md) - [plain]
 
 > Visit <a href="http://artistsden.com/zacbrownband">ArtistsDen.com</a> to win tickets to see Zac Brown Band this summer and head to <a href="https://open.spotify.com/show/5d0QhqhbJVt4YRORde0yR8">Spotify Mobile</a> to watch clips of their incredible Artists Den show.
 
+[Spotify](https://open.spotify.com/user/spotify) - 869 likes - 16 songs - 1 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roots](https://open.spotify.com/track/0CuwbZcKBLAXRvCs6ijvhm) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Roots](https://open.spotify.com/album/0N5esdPXwn08fB8n2j29rA) | 3:51 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
+[Spotify](https://open.spotify.com/user/spotify) - 200,758 likes - 100 songs - 7 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breakin' Thru](https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' Thru](https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI) | 4:30 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [Lights Off](https://open.spotify.com/track/5gGKSz6jBv2iO6FhIcUfOJ) | [Jarez](https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr), [Dirk K](https://open.spotify.com/artist/38uq9ZZTmlJd5OTkkMdoUd) | [Lights Off \(feat\. Dirk K\)](https://open.spotify.com/album/6g1JRCYg08mm98mUdjhuNJ) | 4:26 |
 | 100 | [Everything Happens for a Reason](https://open.spotify.com/track/5I2OHhQvOrh5qBcZn8wpCL) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Everything Happens for a Reason](https://open.spotify.com/album/1D3fCngTbAv9o1euFPxAi1) | 5:31 |
 
-Snapshot ID: `MTY0MDMxNTU4MCwwMDAwMDAwMDgwYzcyNzJhMzhiMzU5Zjk4ODZlNTRjM2JlN2FiNWI4`
+Snapshot ID: `MTY0MDMyNDIxMiwwMDAwMDAwMDgwYzcyNzJhMzhiMzU5Zjk4ODZlNTRjM2JlN2FiNWI4`

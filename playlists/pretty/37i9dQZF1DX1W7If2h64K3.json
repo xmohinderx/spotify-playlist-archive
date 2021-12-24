@@ -1,6 +1,11 @@
 {
   "description": "Discover the music of Schumann.",
   "name": "This Is Schumann",
+  "num_followers": 27422,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzOTAwMDI2NSwwMDAwMDAwYjAwMDAwMTdkOWMwNzUzYmYwMDAwMDE3MDlhZjE4ZmU4",
   "tracks": [
     {

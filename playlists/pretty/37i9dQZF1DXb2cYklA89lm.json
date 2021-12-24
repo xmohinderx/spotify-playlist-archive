@@ -1,7 +1,12 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
   "name": "Hot Rods & Horror Shows",
-  "snapshot_id": "MTY0MDMxNTc4NiwwMDAwMDAwMDNiZDdjNTg5MWJjZjdjZDlhNDgwYjc2OThhOThkZDY1",
+  "num_followers": 128355,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQxMCwwMDAwMDAwMDNiZDdjNTg5MWJjZjdjZDlhNDgwYjc2OThhOThkZDY1",
   "tracks": [
     {
       "added_at": "2021-01-16 16:47:50",

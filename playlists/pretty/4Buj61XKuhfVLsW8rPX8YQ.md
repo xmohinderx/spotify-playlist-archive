@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4Buj61XKuhfVLsW8rPX8YQ.md) - [plain]
 
 > 100+ of the happiest songs of all time\. Come on, Get Happy!
 
+[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 105 songs - 6 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI) | 4:30 |

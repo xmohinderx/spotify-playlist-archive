@@ -1,7 +1,12 @@
 {
   "description": "The biggest summer hits of all time!",
   "name": "Summer Throwback",
-  "snapshot_id": "MTY0MDMxNTgxNCwwMDAwMDAwMGFkMDRjOTdjOWM4YzlkZjI4NjI3ZmJlMWM3OThiZjU3",
+  "num_followers": 321569,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQzNywwMDAwMDAwMGFkMDRjOTdjOWM4YzlkZjI4NjI3ZmJlMWM3OThiZjU3",
   "tracks": [
     {
       "added_at": "2021-04-09 06:56:13",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHtdQ6c5H9.md) - [plain]
 
 > Banjo and guitar lessons care of folk hero Pete Seeger.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,278 likes - 65 songs - 2 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Basic Strum](https://open.spotify.com/track/7MetQ6U0T0czvoOGZWdfme) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [How to Play the 5\-String Banjo](https://open.spotify.com/album/0K7AYJn276XjQpFar22AXa) | 1:09 |

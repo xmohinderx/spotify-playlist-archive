@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1cddSHoeIrE3m0i8TqYNbn.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 75 songs - 4 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Dream It's Over](https://open.spotify.com/track/4rr67zXmEYf9ykLigeEsbv) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/0Vw2BOifLhBx5mvnepOGVf) | 3:56 |

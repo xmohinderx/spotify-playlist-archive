@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
+[Spotify](https://open.spotify.com/user/spotify) - 6,054,676 likes - 100 songs - 4 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Fun](https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM) | 2:10 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Make You Happy \(feat\. Richard Smitt\)](https://open.spotify.com/track/7ovQOFmGBExatsNcE5g0aR) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Richard Smitt](https://open.spotify.com/artist/1ZDET5tZjBIjNBb7WIqGTw) | [Make You Happy \(feat\. Richard Smitt\)](https://open.spotify.com/album/4snrHX42ra2nPnAukkGyZx) | 2:31 |
 | 100 | [Talk \(feat\. Askar and the Ghosts\)](https://open.spotify.com/track/1BIeWq1iSksVIhPcTU8kEx) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb), [Askar and the Ghosts](https://open.spotify.com/artist/0SfWul3n5Wk0sKSQUJSEz5) | [Talk \(feat\. Askar and the Ghosts\)](https://open.spotify.com/album/50e4v4nOVaI1kVEP1gB1ZU) | 2:57 |
 
-Snapshot ID: `MTY0MDMxNTgyNywwMDAwMDAwMDczYmI4MjE0NWIwODdhMjA5NWNlY2RkYjQ4NzNhNzY0`
+Snapshot ID: `MTY0MDMyNDQ1MCwwMDAwMDAwMDczYmI4MjE0NWIwODdhMjA5NWNlY2RkYjQ4NzNhNzY0`

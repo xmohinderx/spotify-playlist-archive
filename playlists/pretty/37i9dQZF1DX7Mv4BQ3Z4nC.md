@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mv4BQ3Z4nC.md) - [plain]
 
 > Sometimes all you need is the sound of a cozy, crackling fireplace...
 
+[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 32 songs - 8 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ember](https://open.spotify.com/track/0ikeQ58rYKOGPw1IjCatnL) | [Dr Michael David Aicken MBChB MPhil BSc Med Sci Hons](https://open.spotify.com/artist/55aASfcJnF9JMufya7sHBJ) | [Insomnia Therapy \- Fire](https://open.spotify.com/album/1Qzhjm7AgUuafQ8jyzrCtu) | 2:06 |

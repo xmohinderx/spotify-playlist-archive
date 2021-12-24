@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,988 likes - 150 songs - 10 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Because You Loved Me \(Theme from "Up Close and Personal"\)](https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 4:33 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [Set Fire to the Rain](https://open.spotify.com/track/5PKWUDfQFtc5qqo8cs1gQp) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:02 |
 | 150 | [No One](https://open.spotify.com/track/0JEqGkvUiMTQmFY6sgL9kg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am](https://open.spotify.com/album/0neqylYFL6s6Ikdf3UFmUo) | 4:13 |
 
-Snapshot ID: `MTY0MDMxNTU3NywwMDAwMDAwMDIzMzMxNWUxNWEzYWU2MDQxOTUxYTEzYTUwYmQwZWNm`
+Snapshot ID: `MTY0MDMyNDIwOSwwMDAwMDAwMDIzMzMxNWUxNWEzYWU2MDQxOTUxYTEzYTUwYmQwZWNm`

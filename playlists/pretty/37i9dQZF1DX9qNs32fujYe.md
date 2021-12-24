@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
 
+[Spotify](https://open.spotify.com/user/spotify) - 575,860 likes - 140 songs - 10 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Souleater](https://open.spotify.com/track/7KWCzqPg2WrritNTlYuQ4t) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Souleater](https://open.spotify.com/album/0odSFBZLUN9TLasYMArCU6) | 4:56 |
@@ -147,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [We Are the Fire](https://open.spotify.com/track/04I8CtevYCYmQeTrre9CZC) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [We Are the Fire](https://open.spotify.com/album/0mtaaHGtukgLeUHa41VDGy) | 3:35 |
 | 140 | [Magic Signs](https://open.spotify.com/track/3ds3h3P2TsIYofkxHc3mtB) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Magic Signs](https://open.spotify.com/album/1d8Ox6KeG0LC7RObcYR5eU) | 4:52 |
 
-Snapshot ID: `MTY0MDMxNTc2NSwwMDAwMDAwMGI2OTQ3ZDAwN2I1ZDE0YzczMDQ5ZGFlOWZmMTk2OWZi`
+Snapshot ID: `MTY0MDMyNDM5MCwwMDAwMDAwMGI2OTQ3ZDAwN2I1ZDE0YzczMDQ5ZGFlOWZmMTk2OWZi`

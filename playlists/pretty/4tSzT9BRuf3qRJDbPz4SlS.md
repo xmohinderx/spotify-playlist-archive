@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4tSzT9BRuf3qRJDbPz4SlS.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 52 likes - 21 songs - 1 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hide and Seek](https://open.spotify.com/track/121so7t3AeX6nLMvxy9ZP9) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak For Yourself](https://open.spotify.com/album/5bxeKufn9YmJ3WNBQpBXlx) | 4:28 |

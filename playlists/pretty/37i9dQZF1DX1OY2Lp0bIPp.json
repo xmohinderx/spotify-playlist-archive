@@ -1,7 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
   "name": "Monday Motivation",
-  "snapshot_id": "MTY0MDMxNTYyMSwwMDAwMDAwMDEwZDNiNjVlYWE5MDZhZmU0Y2RjYmNhMDVlMzQ2MjZj",
+  "num_followers": 636383,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI1MSwwMDAwMDAwMDEwZDNiNjVlYWE5MDZhZmU0Y2RjYmNhMDVlMzQ2MjZj",
   "tracks": [
     {
       "added_at": "2020-08-27 15:58:21",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUifRttnt99X.md) - [plain]
 
 > An essential collection of songs from the <a href="spotify:artist:2H5elA2mJKrHmqkN9GSfkz">folk icon</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 19,123 likes - 59 songs - 3 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everything Is Free](https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 4:48 |

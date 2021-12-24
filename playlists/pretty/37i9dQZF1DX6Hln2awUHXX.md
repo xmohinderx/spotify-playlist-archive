@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hln2awUHXX.md) - [plain]
 
 > An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.
 
+[Spotify](https://open.spotify.com/user/spotify) - 69,930 likes - 61 songs - 7 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Die Walküre, WWV 86B / Act 3: "Hojotoho! Heiaha!"](https://open.spotify.com/track/0aStTOTxkS2vFyqJOfPf3d) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Vera Schlosser](https://open.spotify.com/artist/5l2OeEkDnFJNVtj0yMOoOm), [Berit Lindholm](https://open.spotify.com/artist/2B0iuy3WhZs05Uthb78wBa), [Brigitte Fassbaender](https://open.spotify.com/artist/4BhpzQLhDh71GNvzKraKsu), [Helen Watts](https://open.spotify.com/artist/79l0vgZYtIB6bDjQaTj2ix), [Helga Dernesch](https://open.spotify.com/artist/6y5DFv8NK5xaBuA8mNnojz), [Vera Little](https://open.spotify.com/artist/5xteZ6pjgpypNPL6eR1LdX), [Claudia Hellmann](https://open.spotify.com/artist/6t3V9pmMXf2jnHdinWDyi9), [Marilyn Tyler](https://open.spotify.com/artist/4hw9AibkwX6OM5uuNHI2Ws), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Sir Georg Solti](https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH) | [Wagner: Die Walküre](https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1) | 8:24 |

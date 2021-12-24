@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 > Grunge will live forever.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,186 likes - 50 songs - 3 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heart\-Shaped Box](https://open.spotify.com/track/4OaV9UYQ3EfrBRPjoO6u7c) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/7mhk75WqSVNIvxZumfCdvu) | 4:41 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4qq3MCSLrDgYx7RfJBDvij.md) - [plain]
 
 > From then to now, these songs will forever be classics.
 
+[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 28 songs - 2 hr 6 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Carolina in My Mind](https://open.spotify.com/track/2T5Ch09nefwckOu5NQvjIk) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 3:58 |

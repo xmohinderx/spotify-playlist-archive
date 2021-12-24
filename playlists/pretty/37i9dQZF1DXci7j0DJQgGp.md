@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,311 likes - 100 songs - 6 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Without Your Love \(feat\. Julia Stone\)](https://open.spotify.com/track/2v8HD6zQlo3PLhKgpMyiCc) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Without Your Love \(feat\. Julia Stone\)](https://open.spotify.com/album/2v4vJhifzY5GfqtWM8FufY) | 3:30 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Cool Dry Place](https://open.spotify.com/track/1dHDITnfhOShBOAqyqGJnw) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/19KzfzLfugS5xEMPOVUQuv) | 5:00 |
 | 100 | [The Wave](https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Wave](https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V) | 3:48 |
 
-Snapshot ID: `MTY0MDMxNTgxMSwwMDAwMDAwMDI0Mjk4NjU2YmJmYjk3ZGU3NjEzNmI3MDYwYTMwNWU3`
+Snapshot ID: `MTY0MDMyNDQzNCwwMDAwMDAwMDI0Mjk4NjU2YmJmYjk3ZGU3NjEzNmI3MDYwYTMwNWU3`

@@ -1,6 +1,11 @@
 {
   "description": "The best tracks from the great Miles Davis.",
   "name": "This Is Miles Davis",
+  "num_followers": 187812,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYyNTIxMDUzOCwwMDAwMDAwYzAwMDAwMTdhNjYxOGNiODkwMDAwMDE2ZDE1NDdhNzJh",
   "tracks": [
     {

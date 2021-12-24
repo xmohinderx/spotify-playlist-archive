@@ -1,7 +1,12 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
   "name": "Happy Hits!",
-  "snapshot_id": "MTY0MDMxNTgxOSwwMDAwMDAwMDNjYzMzYjdkOTg4MjAwZDZlZGE2OTIyMDJiZjEwZGI2",
+  "num_followers": 5713535,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQ0MiwwMDAwMDAwMDNjYzMzYjdkOTg4MjAwZDZlZGE2OTIyMDJiZjEwZGI2",
   "tracks": [
     {
       "added_at": "2021-12-09 23:02:00",

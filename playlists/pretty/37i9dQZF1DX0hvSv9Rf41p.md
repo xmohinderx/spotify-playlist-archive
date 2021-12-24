@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Subtronics.
 
+[Spotify](https://open.spotify.com/user/spotify) - 925,622 likes - 150 songs - 9 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Spacetime \(feat\. NEVVE\)](https://open.spotify.com/track/39Hpybgua0RgOciVl1C4Sy) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Spacetime \(feat\. NEVVE\)](https://open.spotify.com/album/4rrf2a5ZbaHXpC1s85oJTM) | 2:48 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 149 | [Tums](https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Tums](https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7) | 3:37 |
 | 150 | [Body On Me](https://open.spotify.com/track/2CoyC9QjY2mydPoIBofKAc) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA), [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Body On Me](https://open.spotify.com/album/1dp5oKaM6sQ6T2di1aRGyu) | 2:20 |
 
-Snapshot ID: `MTY0MDMxNTYxMSwwMDAwMDAwMDMxYjM3YzBlM2RhMWFmZTZlNjc5YjU3NzZhMjFlM2I1`
+Snapshot ID: `MTY0MDMyNDI0MSwwMDAwMDAwMDMxYjM3YzBlM2RhMWFmZTZlNjc5YjU3NzZhMjFlM2I1`

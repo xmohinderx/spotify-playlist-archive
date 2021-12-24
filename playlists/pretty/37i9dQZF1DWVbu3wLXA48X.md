@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: HYBS
 
+[Spotify](https://open.spotify.com/user/spotify) - 87,031 likes - 85 songs - 5 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everything You Do](https://open.spotify.com/track/4vy6Lc1ko2F0CF4Elc2dMj) | [The Kopycat](https://open.spotify.com/artist/7y4M1no7kXEEsCeIAZkeuR), [Nick temp.](https://open.spotify.com/artist/1NXenNaio8ydGsJz9bHZxB) | [Everything You Do](https://open.spotify.com/album/6LfR1BcfmDBr6KTaSx02qT) | 3:17 |

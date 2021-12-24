@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5zyeLrOc31CPX7uk9xNL7y.md) - [plain]
 
 > Ring in the new year to the sweet sound of jazz and blues.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,517 likes - 20 songs - 1 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bringing In A Brand New Year](https://open.spotify.com/track/0tij6aw5oaziwzt4xVUDcN) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/7CYQCq7n255Edv444XKr93) | 2:41 |

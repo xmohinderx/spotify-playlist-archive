@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
+[Spotify](https://open.spotify.com/user/spotify) - 278,300 likes - 35 songs - 2 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thank God I Found You \(feat\. Joe & Nas\) \- Make It Last Remix Edit](https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Clue](https://open.spotify.com/artist/4ybJiTIMVzeVOd00nI8Xxm), [Supa Engineer "Duro"](https://open.spotify.com/artist/04PvD1Anr3LC341vrIWXsf) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:11 |
@@ -42,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2fdv8or6lmHe5KLTUvaJCD) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Motown and Motown II](https://open.spotify.com/album/6ltXFtJichkres50eobH84) | 5:19 |
 | 35 | [Since I Lost My Baby](https://open.spotify.com/track/4s4B4L94OJcz66RJpuqfjy) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/3NaHm6o0RzwjJkmhokkSl3) | 5:22 |
 
-Snapshot ID: `MTY0MDMxNTU3MiwwMDAwMDAwMDhjNzI3OWU2OTgzZmM0YTEwYzU5YzIyZmQwYTdjNmJk`
+Snapshot ID: `MTY0MDMyNDIwNCwwMDAwMDAwMDhjNzI3OWU2OTgzZmM0YTEwYzU5YzIyZmQwYTdjNmJk`

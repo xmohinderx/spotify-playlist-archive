@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/50l7KMPuO1jMnpofYHCwV1.md) - [plain]
 
 > The evening is here in Austin\. Time for some music to get it started all over again!
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,296 likes - 41 songs - 2 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Close Your Eyes \(And Count to Fuck\) \[feat\. Zack De La Rocha\]](https://open.spotify.com/track/76QLGx0NleOYqkDtL7HKIA) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/2lPYlP4eumsjz6LBG8GCbG) | 3:54 |

@@ -2,7 +2,7 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/37i9dQZF1DXaPCIWxzZwR1)
 
-> next gen pop featuring Ruel
+> next gen pop featuring Doja Cat
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

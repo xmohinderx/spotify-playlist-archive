@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 
 > Embrace those happy vibes with these feel\-good hits!
 
+[Spotify](https://open.spotify.com/user/spotify) - 356,080 likes - 80 songs - 4 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fly Away](https://open.spotify.com/track/7ywGSPsAfkXKrNWgWG4VXC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Tubes de l'été 2021](https://open.spotify.com/album/3UEf4lLk9UbmQMr3gpuDtZ) | 2:58 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 | 79 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
 | 80 | [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 |
 
-Snapshot ID: `MTY0MDMxNTYxOSwwMDAwMDAwMGE4ZTgyOTljMGNlYmVkMmEwNmMxZmZmNGFmMmFlZjRj`
+Snapshot ID: `MTY0MDMyNDI0OSwwMDAwMDAwMGE4ZTgyOTljMGNlYmVkMmEwNmMxZmZmNGFmMmFlZjRj`

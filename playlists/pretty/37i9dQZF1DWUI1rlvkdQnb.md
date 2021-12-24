@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
+[Spotify](https://open.spotify.com/user/spotify) - 157,503 likes - 106 songs - 5 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dusty Star](https://open.spotify.com/track/18HkZKb3Q5nUdLE8a6mj8g) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Dusty Star](https://open.spotify.com/album/3n3mkl4mHxBJsIu1wQlX7o) | 4:43 |

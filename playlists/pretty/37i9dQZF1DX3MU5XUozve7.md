@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 686,825 likes - 100 songs - 4 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bleed American](https://open.spotify.com/track/7wUUggmZV5cBlgEudvfAtj) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 3:05 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
 | 100 | [Bleeding](https://open.spotify.com/track/6Fba4LJ7w7GY63yAfLBgHP) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [Our Darkest Days](https://open.spotify.com/album/2qxFRANEKoREPmD9ncfbtB) | 2:02 |
 
-Snapshot ID: `MTY0MDMxNTY1NiwwMDAwMDAwMGZmYzFhNjM1OGNjYTFjNTc3MDFlOGIwNTQxNmQwZjdk`
+Snapshot ID: `MTY0MDMyNDI4NSwwMDAwMDAwMGZmYzFhNjM1OGNjYTFjNTc3MDFlOGIwNTQxNmQwZjdk`

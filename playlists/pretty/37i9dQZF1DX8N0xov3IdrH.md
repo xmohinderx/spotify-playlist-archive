@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8N0xov3IdrH.md) - [plain]
 
 > From early performances to iconic Grateful Dead, enjoy key picks that highlight the folk, bluegrass, and old time virtuosity of Jerry Garcia.
 
+[Spotify](https://open.spotify.com/user/spotify) - 65,063 likes - 60 songs - 4 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shady Grove](https://open.spotify.com/track/1gCE4LxErCB25MSERdLCZX) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Shady Grove](https://open.spotify.com/album/2BGRgCUXutehfvbcsW9zD8) | 4:19 |

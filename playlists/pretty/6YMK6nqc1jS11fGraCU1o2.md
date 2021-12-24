@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6YMK6nqc1jS11fGraCU1o2.md) - [plain]
 
 > Sleep, study, or simply still your mind with the soothing sounds of spring.
 
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 21 songs - 2 hr 6 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [English Country Garden Spring 1](https://open.spotify.com/track/02rXNLZXLnqR9ybPa5KXGe) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Nature Sounds with Birdsong, Waves, Forest, Garden, And More Beautiful Sounds of the Earth!](https://open.spotify.com/album/2e1fX5VtzVOiIHiIHTp9J4) | 0:45 |

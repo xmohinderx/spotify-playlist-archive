@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboQCHLEaHcr.md) - [plain]
 
 > Fangirls get a lot of credit for the influence they wield\. These tracks show the full force of these empowered listeners.
 
+[Spotify](https://open.spotify.com/user/spotify) - 84,995 likes - 20 songs - 1 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dangerous Woman](https://open.spotify.com/track/7l94dyN2hX9c6wWcZQuOGJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) | 3:55 |

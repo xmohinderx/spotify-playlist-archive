@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
+[Spotify](https://open.spotify.com/user/spotify) - 184,086 likes - 80 songs - 3 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Told You So](https://open.spotify.com/track/3YykTavXvEYywYJFZIngbT) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Orange Villa](https://open.spotify.com/artist/1Zfvu3KDmISwHwOuU8eXH5) | [Told You So](https://open.spotify.com/album/3yqqiZBVUxHjTiP0vKArxC) | 2:26 |
 | 80 | [Another World \- Stonebridge Remix](https://open.spotify.com/track/5LZR8bhxePtL1krAuf3y6z) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Another World \(Stonebridge Remix\)](https://open.spotify.com/album/4H2qjeO2vxVVAgsWdFlSGp) | 2:54 |
 
-Snapshot ID: `MTY0MDMxNTcyOCwwMDAwMDAwMDc2MjkxNmM4MzZiMDcwZDMwNjU1N2Y3YmQxMzA4Zjli`
+Snapshot ID: `MTY0MDMyNDM1NCwwMDAwMDAwMDc2MjkxNmM4MzZiMDcwZDMwNjU1N2Y3YmQxMzA4Zjli`

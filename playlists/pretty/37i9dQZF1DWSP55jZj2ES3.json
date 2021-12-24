@@ -1,7 +1,12 @@
 {
   "description": "grab a blanket and get the good vibes going",
   "name": "park hangs",
-  "snapshot_id": "MTY0MDMxNTQ5MCwwMDAwMDAwMGU1MWY1NTE1MGMzZjgyNThiYzVkNzFlYjBiMDc2YjM5",
+  "num_followers": 354907,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDEyMywwMDAwMDAwMGU1MWY1NTE1MGMzZjgyNThiYzVkNzFlYjBiMDc2YjM5",
   "tracks": [
     {
       "added_at": "2021-10-26 05:56:16",

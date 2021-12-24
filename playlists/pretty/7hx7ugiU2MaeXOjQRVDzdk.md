@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7hx7ugiU2MaeXOjQRVDzdk.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 20 songs - 1 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |

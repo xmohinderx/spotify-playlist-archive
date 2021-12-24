@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > Remembering Paddy Moloney \(1938\-2021\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 139,979 likes - 50 songs - 3 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Women Of Ireland \(The Love Theme From Barry Lyndon\)/The Morning Dew](https://open.spotify.com/track/56Tf3VTy45dknVuFIpjjt9) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 5:14 |

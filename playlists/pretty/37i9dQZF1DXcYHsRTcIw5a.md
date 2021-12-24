@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
+[Spotify](https://open.spotify.com/user/spotify) - 127,175 likes - 40 songs - 2 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [People Get Ready](https://open.spotify.com/track/2iTCSbVD34S00OVlQDqU5j) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41), [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Attack Collection Volume 1](https://open.spotify.com/album/0vLxE4Gvj0kddD1sm4Gb7S) | 2:37 |

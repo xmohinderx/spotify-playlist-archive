@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2wHQqJDXcWgQ4GLdVCfb8G.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 50 songs - 3 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/0wF2zKJmgzjPTfircPJ2jg) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take The Classics](https://open.spotify.com/album/3s9o7LSofJfIZafUgkDe9O) | 4:14 |

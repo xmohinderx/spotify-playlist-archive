@@ -1,7 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
   "name": "Chillin' on a Dirt Road",
-  "snapshot_id": "MTY0MDMxNTUxNCwwMDAwMDAwMDNhMWU4NzJlZTg0Y2RjM2YzNWJlYzdjY2VmMmJlYjIy",
+  "num_followers": 2798573,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE0NSwwMDAwMDAwMDNhMWU4NzJlZTg0Y2RjM2YzNWJlYzdjY2VmMmJlYjIy",
   "tracks": [
     {
       "added_at": "2021-09-10 04:00:00",

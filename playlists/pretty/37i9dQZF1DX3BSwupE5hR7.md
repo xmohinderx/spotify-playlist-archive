@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BSwupE5hR7.md) - [plain]
 
 > Depeche Mode, the essential tracks, all in one playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 500,466 likes - 51 songs - 3 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enjoy the Silence \- Single Mix](https://open.spotify.com/track/1YwNlWLf8auhazSQUDQLFU) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt), [Phil Legg](https://open.spotify.com/artist/7CXlqxbfckEDH2hQMjrGyZ) | [Enjoy the Silence](https://open.spotify.com/album/13OoJ5Y23cdo8CDAiQwznb) | 4:17 |

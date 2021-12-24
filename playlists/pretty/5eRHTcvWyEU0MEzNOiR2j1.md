@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5eRHTcvWyEU0MEzNOiR2j1.md) - [plain]
 
 > Putte i Parken arrangeras i år för femte året i rad\. Sommarens festival går av stapeln den 4 \- 7 juli i Karlstad\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 79 songs - 5 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Scream](https://open.spotify.com/track/6Ni37ZxZk1ybOR1yRLRGRw) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Scream](https://open.spotify.com/album/3oFozwGCAMMgibERs8W4dh) | 6:14 |

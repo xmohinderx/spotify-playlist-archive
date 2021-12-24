@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > The sound of a g\-g\-generation.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,092 likes - 70 songs - 4 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 |
@@ -77,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 69 | [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 |
 | 70 | [Can't Get The Best Of Me](https://open.spotify.com/track/2gPYmTCoxBexu2o0zLwWt1) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Skull & Bones](https://open.spotify.com/album/6kh33c4HHolI6T8V1cAFuP) | 4:14 |
 
-Snapshot ID: `MTY0MDMxNTgxMCwwMDAwMDAwMDljNWM5MTc5OWU3ZWJmZGNmODExNzcyZjg3MGMwOTlh`
+Snapshot ID: `MTY0MDMyNDQzMywwMDAwMDAwMDljNWM5MTc5OWU3ZWJmZGNmODExNzcyZjg3MGMwOTlh`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,652 likes - 100 songs - 4 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Can’t Feel Shit](https://open.spotify.com/track/3ZzK2zxMeVGdsiP00OZuqS) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Dead After Teen Spirit](https://open.spotify.com/album/62JjDEK2PHfpnNc0Up9M4M) | 2:42 |
 | 100 | [Stockholm Syndrome \(feat\. KXNG Crooked\)](https://open.spotify.com/track/2jeUX4OsipQqpeiBCWSnGR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [KXNG Crooked](https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1) | [CHOMP](https://open.spotify.com/album/6hTlfMRAEJBMyETemdH5Qq) | 4:24 |
 
-Snapshot ID: `MTY0MDMxNTUwMywwMDAwMDAwMGY5Njc1NjdjYWJlMzIzMjg5MTg5MWI3YTAwNmEzNTM0`
+Snapshot ID: `MTY0MDMyNDEzNSwwMDAwMDAwMGY5Njc1NjdjYWJlMzIzMjg5MTg5MWI3YTAwNmEzNTM0`

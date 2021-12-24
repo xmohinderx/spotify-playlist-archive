@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtQSOiZF6hj.md) - [plain]
 
 > Great songs for your birthday! Let's celebrate!
 
+[Spotify](https://open.spotify.com/user/spotify) - 196,304 likes - 40 songs - 2 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Happy Birthday](https://open.spotify.com/track/6pzLxfaOuXD6QxAkcKDukY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/1RspINIRNK1WiHUHoYqdXx) | 5:56 |

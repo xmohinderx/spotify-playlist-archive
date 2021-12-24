@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/214Nwj78JwTfjSeQxbGxeX.md) - [plain]
 
 > A different option for your New Year's Eve party\. Sweet pop, rock, and singer/songwriter tunes about this special holiday.
 
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 28 songs - 1 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When New Year Comes Around](https://open.spotify.com/track/6acojhWQvxAnimUE1Kw4WW) | [Sophie Madeleine](https://open.spotify.com/artist/704DIefNMcQhJs0ElxjpRb) | [LOVE\. LIFE\. UKULELE](https://open.spotify.com/album/0Fy6FCnjN6Ri7Ax0h03HV5) | 2:34 |

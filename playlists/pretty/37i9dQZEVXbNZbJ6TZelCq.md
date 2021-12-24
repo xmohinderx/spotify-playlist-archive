@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
+[Spotify](https://open.spotify.com/user/spotify) - 24,485 likes - 50 songs - 2 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tabara](https://open.spotify.com/track/738G1vrNGeyXxJXxGo1CRj) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Aron](https://open.spotify.com/artist/78n2Sb56awtuH82ga4V4Ao), [Niku](https://open.spotify.com/artist/6pe8r7VoPTFGI7Dl3kF1Mv) | [Tabara](https://open.spotify.com/album/2exNG3M2R2vHPcnrSJPiVH) | 3:39 |

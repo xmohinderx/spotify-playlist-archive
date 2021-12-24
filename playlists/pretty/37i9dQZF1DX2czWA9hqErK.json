@@ -1,7 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
   "name": "Easy",
-  "snapshot_id": "MTY0MDMxNTY0NCwwMDAwMDAwMDQwNjU4MmVmMGQ3Yzc2YzQ4NjU2NzE2OTlkZWEzMTA4",
+  "num_followers": 402002,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3MywwMDAwMDAwMDQwNjU4MmVmMGQ3Yzc2YzQ4NjU2NzE2OTlkZWEzMTA4",
   "tracks": [
     {
       "added_at": "2021-12-16 16:50:57",

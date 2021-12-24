@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyp9KgPL31Y.md) - [plain]
 
 > A collection of all The Shins greatest tracks, plus some of James Mercer's other projects.
 
+[Spotify](https://open.spotify.com/user/spotify) - 51,187 likes - 28 songs - 1 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Girl Inform Me](https://open.spotify.com/track/1ovy7HR76xa4fF07e217CM) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/5OHMaK4q0XOFg1cAXYgeLw) | 2:20 |

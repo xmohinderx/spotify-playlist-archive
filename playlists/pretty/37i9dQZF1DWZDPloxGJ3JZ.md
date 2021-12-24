@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZDPloxGJ3JZ.md) - [plain]
 
 > Emotional fervor and man's mystic relationship with nature are just a few of the prototypical themes featured in this playlist of Romantic poetry.
 
+[Spotify](https://open.spotify.com/user/spotify) - 12,533 likes - 100 songs - 7 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Belle Dame Sans Merci](https://open.spotify.com/track/7zCI21ZBw2uoKxYBgzDq7u) | [Gideon Wagner](https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD) | [The Poetry of John Keats](https://open.spotify.com/album/4CJJ8mb7rucmWHWMxsOzW1) | 2:25 |

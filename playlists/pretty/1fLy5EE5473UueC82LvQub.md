@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1fLy5EE5473UueC82LvQub.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 6,962 likes - 50 songs - 3 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boom Boom Pow](https://open.spotify.com/track/0rXgKeO7DWMiXCmNDhkRdd) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Boom Boom Pow](https://open.spotify.com/album/1bx0YY2hf5qISiYlGoS6Da) | 4:12 |

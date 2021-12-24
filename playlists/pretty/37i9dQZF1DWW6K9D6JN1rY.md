@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6K9D6JN1rY.md) - [plain]
 
 > Learn some essential Irish and listen along to poetry, prose, and songs in Irish.
 
+[Spotify](https://open.spotify.com/user/spotify) - 22,224 likes - 71 songs - 4 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Greetings and Introductions, Pt\. 1](https://open.spotify.com/track/1DVk5l6cnAPeF00horxYe7) | [Bitesize Irish Gaelic](https://open.spotify.com/artist/38yLQAdUNWO2jXQs9Pnevs) | [Learn Irish With Eoin](https://open.spotify.com/album/54GygPyAmkRCMRpUliao4U) | 6:36 |

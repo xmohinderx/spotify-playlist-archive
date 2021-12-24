@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5XyoROE7WrTHtvcwFrhzO1.md) - [plain]
 
 > The best in folk and singer songwriter from the UK and Ireland.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,494 likes - 15 songs - 59 min 54 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |

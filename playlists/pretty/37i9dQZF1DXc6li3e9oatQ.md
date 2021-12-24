@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6li3e9oatQ.md) - [plain]
 
 > Learn Spanish with a collection of audio courses that will take you from beginner lessons to advanced conversations – featuring essential travel phrases and vocabulary!
 
+[Spotify](https://open.spotify.com/user/spotify) - 154,521 likes - 459 songs - 2 day 0 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nouns 1](https://open.spotify.com/track/1POjLgdxlGRadkz3KPRmqZ) | [Penton Overseas, Inc](https://open.spotify.com/artist/49FYG2DSZqIVpCtoir2Upw) | [Vocabulearn ® Spanish \- English Level 1](https://open.spotify.com/album/5KovNHvi4M0FJZW4sZTyPX) | 19:16 |

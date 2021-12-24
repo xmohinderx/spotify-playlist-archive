@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
+[Spotify](https://open.spotify.com/user/spotify) - 98,928 likes - 50 songs - 3 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Detroit](https://open.spotify.com/track/6hp0D02uXVXvmaDSLhFjAa) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Renaissance](https://open.spotify.com/album/219wS6ARwdrMOCFWLpo79s) | 5:44 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [Get Down On It](https://open.spotify.com/track/41BisXehQCshqh06t1is99) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Way Up!](https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm) | 4:18 |
 | 50 | [Don't Look Back Again](https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Epiphany](https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827) | 3:12 |
 
-Snapshot ID: `MTY0MDMxNTYwNCwwMDAwMDAwMDcwYzlhZWJkZDJlZTU3ZjcyYWE2MDBhZGI1ODUzOTVh`
+Snapshot ID: `MTY0MDMyNDIzNiwwMDAwMDAwMDcwYzlhZWJkZDJlZTU3ZjcyYWE2MDBhZGI1ODUzOTVh`

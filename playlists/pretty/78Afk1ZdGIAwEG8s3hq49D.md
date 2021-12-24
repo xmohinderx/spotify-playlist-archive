@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/78Afk1ZdGIAwEG8s3hq49D.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 633 likes - 28 songs - 1 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:24 |

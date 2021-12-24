@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2Mecjd64RGHE4vLDMuX88V.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 20 songs - 1 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't You Worry Child \(Radio Edit\) \[feat\. John Martin\]](https://open.spotify.com/track/1oF75Qbv8UvOBm1imUAE51) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Don't You Worry Child \(Radio Edit\) \[feat\. John Martin\]](https://open.spotify.com/album/4ckmncQnT2rkPww9XdT54u) | 3:32 |

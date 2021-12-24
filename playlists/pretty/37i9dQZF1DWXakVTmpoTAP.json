@@ -1,7 +1,12 @@
 {
   "description": "Send your dad some love today!",
   "name": "Father's Day Love",
-  "snapshot_id": "MTY0MDMxNTU2NiwwMDAwMDAwMGFhODY0ZjZlZjgzYThhZjY4NmIyZTFkZmE4ZmM5ZGQw",
+  "num_followers": 8726,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE5OCwwMDAwMDAwMGFhODY0ZjZlZjgzYThhZjY4NmIyZTFkZmE4ZmM5ZGQw",
   "tracks": [
     {
       "added_at": "2021-06-17 21:01:29",

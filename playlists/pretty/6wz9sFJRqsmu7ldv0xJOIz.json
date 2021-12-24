@@ -1,6 +1,11 @@
 {
   "description": "It all starts with some friends over for dinner but after a couple of drinks... well let's just say you won't have to worry about having an upbeat playlist for the night!",
   "name": "An Epic Evening",
+  "num_followers": 47,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "OSw5NmU1YTRmYWExYzA5NWMyZWM1MzRkYTY2OWU0OWVjYzExMTlkZDE1",
   "tracks": [
     {

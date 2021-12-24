@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 
 > You know you love them...\. Get ready to sing like no one is listening to scores of timeless pop and rock power ballads.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,184 likes - 79 songs - 6 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sweet Child O' Mine](https://open.spotify.com/track/5r9AgnhkPQXeKG1w5rauDq) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction / G N'R Lies / The Spaghetti Incident](https://open.spotify.com/album/5pRYIkMQcy4a3C5BYtmuf3) | 5:56 |

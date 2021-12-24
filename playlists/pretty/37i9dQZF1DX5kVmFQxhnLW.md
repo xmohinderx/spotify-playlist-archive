@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kVmFQxhnLW.md) - [plain]
 
 > Celebrate the holidays with the 10th anniversary of the album "Christmas"!
 
+[Spotify](https://open.spotify.com/user/spotify) - 804,805 likes - 74 songs - 4 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/3SwZekRsxV4zUSBHc3nlRz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:27 |

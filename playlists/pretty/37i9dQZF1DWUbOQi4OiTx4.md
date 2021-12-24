@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbOQi4OiTx4.md) - [plain]
 
 > The best of the band's 8 albums!
 
+[Spotify](https://open.spotify.com/user/spotify) - 90,633 likes - 37 songs - 2 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tidal Wave](https://open.spotify.com/track/07NAYx3UuWYtW7cAT6e8Rt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Tidal Wave](https://open.spotify.com/album/0gkdjfOtYGViTwn3tJY3U9) | 3:31 |

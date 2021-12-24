@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/43rSnXFDoctqiZxvEqH14P.md) - [plain]
 
 > Your go\-to collection for just hanging out and doing nothing..\. or whatever.
 
+[Spotify](https://open.spotify.com/user/spotify) - 613 likes - 56 songs - 3 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |

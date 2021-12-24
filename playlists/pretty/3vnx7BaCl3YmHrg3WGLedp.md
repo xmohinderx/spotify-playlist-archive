@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3vnx7BaCl3YmHrg3WGLedp.md) - [plain]
 
 > Harmonicas &amp; slide guitars for the win\. Chill out with some laid back roots &amp; Americana.
 
+[Spotify](https://open.spotify.com/user/spotify) - 956 likes - 95 songs - 6 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/5aO3PDi7cfVyqSbXSrSxfx) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Don't Tell Our Friends About Me](https://open.spotify.com/album/5fIJInVxtBZVXsPHitxqs6) | 5:19 |

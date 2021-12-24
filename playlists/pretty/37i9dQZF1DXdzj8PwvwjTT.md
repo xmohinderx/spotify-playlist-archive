@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzj8PwvwjTT.md) - [plain]
 
 > Another great metal year came to a close\. Explore the metal highlights of the year with this playlist!
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,125 likes - 118 songs - 10 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [512](https://open.spotify.com/track/6PSlMIgJvz2uYFUc1GeJIA) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII \- Sturm Und Drang](https://open.spotify.com/album/6nolgbuZopWCskNxwqpJyS) | 4:44 |

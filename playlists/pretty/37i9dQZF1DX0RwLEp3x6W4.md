@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems.
 
+[Spotify](https://open.spotify.com/user/spotify) - 58,751 likes - 53 songs - 2 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blue Moon Of Kentucky](https://open.spotify.com/track/0xHP5UnXOGqtMYqpp9Wo98) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Definitive Collection](https://open.spotify.com/album/07VLDDae58jYlE1WyAD7bl) | 2:06 |

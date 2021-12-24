@@ -1,6 +1,11 @@
 {
   "description": "Catch up on all the performers at the 2013 Macy's Thanksgiving Day Parade.",
   "name": "Macy's Thanksgiving Day Parade 2013",
+  "num_followers": 375,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "ODQsYTgwODY1ODkxMTJmMjY4NDg2YzdiMGQ1YzU5OGI0YmIwM2E5ZDAzZA==",
   "tracks": [
     {

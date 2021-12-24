@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbADqT0j1Cxt.md) - [plain]
 
 > Lull your little ones with piano music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 447,684 likes - 301 songs - 9 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/147gCksvDRmjG1pO51ZCcf) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Frère Jacques](https://open.spotify.com/album/0eG8Pkyoc91BZ7s7bsBtNi) | 1:40 |

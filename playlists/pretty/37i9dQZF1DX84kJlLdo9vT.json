@@ -1,7 +1,12 @@
 {
   "description": "Relive the good ol' days with these cheery 60s and more.",
   "name": "Happy Days",
-  "snapshot_id": "MTY0MDMxNTczOSwwMDAwMDAwMDM4OTY4NGUyYTY4OGI0NGE2MTE5NDRjODgzYWZkYjky",
+  "num_followers": 574802,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM2NSwwMDAwMDAwMDM4OTY4NGUyYTY4OGI0NGE2MTE5NDRjODgzYWZkYjky",
   "tracks": [
     {
       "added_at": "2021-01-05 09:24:03",

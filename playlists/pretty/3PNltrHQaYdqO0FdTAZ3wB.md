@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3PNltrHQaYdqO0FdTAZ3wB.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 60 songs - 4 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Divine Victim](https://open.spotify.com/track/1ZrE6kQQtLpliVYldVAMqF) | [Manilla Road](https://open.spotify.com/artist/1qt7m48wpniTuMJ2YsVBI5) | [The Deluge](https://open.spotify.com/album/5gJKmnOkZEZBVPexciuEYY) | 3:09 |

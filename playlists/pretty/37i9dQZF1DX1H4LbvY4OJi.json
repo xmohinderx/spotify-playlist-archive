@@ -1,7 +1,12 @@
 {
   "description": "Embrace those happy vibes with these feel-good hits!",
   "name": "Happy Pop",
-  "snapshot_id": "MTY0MDMxNTYxOSwwMDAwMDAwMGE4ZTgyOTljMGNlYmVkMmEwNmMxZmZmNGFmMmFlZjRj",
+  "num_followers": 356080,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI0OSwwMDAwMDAwMGE4ZTgyOTljMGNlYmVkMmEwNmMxZmZmNGFmMmFlZjRj",
   "tracks": [
     {
       "added_at": "2021-10-20 04:29:03",

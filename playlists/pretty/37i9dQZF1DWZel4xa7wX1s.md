@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
+[Spotify](https://open.spotify.com/user/spotify) - 89,685 likes - 60 songs - 3 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tucson Train](https://open.spotify.com/track/2RUaLmhCp5hvYgsgBzoFy3) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tucson Train](https://open.spotify.com/album/7E0CFXmfpXexz7uzGxw70E) | 3:29 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Need To Know](https://open.spotify.com/track/6EkQmHBoux7iqK4vjfHq4V) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Special Edition\)](https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek) | 2:47 |
 | 60 | [Hell or High Water \- From Days Gone](https://open.spotify.com/track/2PDtjfXQMbuMazcNd7JtqF) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Hell or High Water \(From Days Gone\)](https://open.spotify.com/album/0YvYhXC8tPiu69Sm3pGj0U) | 3:34 |
 
-Snapshot ID: `MTY0MDMxNTU5MiwwMDAwMDAwMDgyNWJlYWMzZjVkM2JkNzNiYjMzZDRhY2JjMzE2ZTEz`
+Snapshot ID: `MTY0MDMyNDIyMywwMDAwMDAwMDgyNWJlYWMzZjVkM2JkNzNiYjMzZDRhY2JjMzE2ZTEz`

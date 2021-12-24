@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0JvFNpF6sn3LeV5LXbbSxv.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 717 likes - 50 songs - 3 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |

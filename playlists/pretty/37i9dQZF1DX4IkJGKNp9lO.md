@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
+[Spotify](https://open.spotify.com/user/spotify) - 24,304 likes - 65 songs - 3 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Staten & kapitalet](https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 5:26 |
@@ -72,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Masspsykos](https://open.spotify.com/track/6se6MaeLqy45xsfYXXzm7Q) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/3jK2Jwr3V6pn1Gc23fpNA7) | 2:36 |
 | 65 | [Vem sätter märket](https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Vem sätter märket](https://open.spotify.com/album/0wK3Dh1UY6XVZOfhUvR6GF) | 3:10 |
 
-Snapshot ID: `MTY0MDMxNTY2OSwwMDAwMDAwMDQyODE0NjJkNDZhNjI0MmQ4MTVlMTU5OWYzNTM0Zjg1`
+Snapshot ID: `MTY0MDMyNDI5NywwMDAwMDAwMDQyODE0NjJkNDZhNjI0MmQ4MTVlMTU5OWYzNTM0Zjg1`

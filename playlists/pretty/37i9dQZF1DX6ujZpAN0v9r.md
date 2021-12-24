@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
+[Spotify](https://open.spotify.com/user/spotify) - 369,453 likes - 141 songs - 11 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When The Sun Hits](https://open.spotify.com/track/7wE4l1GNxjE2kOmlsx0PcA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/76Yzub5fwYE4eMwcjlzSDd) | 4:47 |
@@ -148,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 140 | [She Rides the Waves \(John Peel Sessions\)](https://open.spotify.com/track/4bK5kA6fYm1QjdfQsyFQvA) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness \(30th Anniversary Reissue\)](https://open.spotify.com/album/7xQDvA5N69lyWSRyQnUtBF) | 1:52 |
 | 141 | [We're Not Done \(End Title\)](https://open.spotify.com/track/17F08YdvPhnvj8LEq2sMSa) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [We're Not Done \(End Title\)](https://open.spotify.com/album/2pT5Qo5bQzS0US6Qo9dz1c) | 4:14 |
 
-Snapshot ID: `MTY0MDMxNTcyMiwwMDAwMDAwMDU4NTY0ZjRmNTBmOTBmYzUxNTQ3ZGNlNWNmNzZmMDBm`
+Snapshot ID: `MTY0MDMyNDM0OSwwMDAwMDAwMDU4NTY0ZjRmNTBmOTBmYzUxNTQ3ZGNlNWNmNzZmMDBm`

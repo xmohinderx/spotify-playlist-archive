@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj60FvXn3Et.md) - [plain]
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 51,921 likes - 51 songs - 2 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Now We Are Free](https://open.spotify.com/track/1OdgWYrTg6hKwydZGGS1EH) | [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK) | [The Best of Lisa Gerrard](https://open.spotify.com/album/5Yc8P0smgIAcKp9E4gkV1L) | 4:14 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen
 
+[Spotify](https://open.spotify.com/user/spotify) - 577,726 likes - 100 songs - 6 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Highway to Hell \(feat\. Bruce Springsteen & Eddie Vedder\)](https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Highway to Hell \(feat\. Bruce Springsteen & Eddie Vedder\)](https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa) | 3:31 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Mad World](https://open.spotify.com/track/4WGJleSjFmH6k7MuzcDCkw) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/0k1NpI7iPhT3xuqA0rLxov) | 3:30 |
 | 100 | [Dancing With Myself](https://open.spotify.com/track/19X7O2SlQNMkiJEjVYN6ts) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Loose Change \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7opMW41JT9bEA2cqXTnjTb) | 2:56 |
 
-Snapshot ID: `MTY0MDMxNTY0MSwwMDAwMDAwMDhmMzkxMTU0ZTc5M2JmODY1YjhlYzEzOGE1ZjA4NGUy`
+Snapshot ID: `MTY0MDMyNDI3MCwwMDAwMDAwMDhmMzkxMTU0ZTc5M2JmODY1YjhlYzEzOGE1ZjA4NGUy`

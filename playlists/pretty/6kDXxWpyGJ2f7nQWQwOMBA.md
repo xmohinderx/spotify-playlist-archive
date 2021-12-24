@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6kDXxWpyGJ2f7nQWQwOMBA.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 166 songs - 12 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Post War Dream \- 2011 Remastered Version](https://open.spotify.com/track/6hmPH2xBLhanavm6wuM6I5) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9), [Michael Kamen](https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb) | [The Final Cut \(2011 Remastered Version\)](https://open.spotify.com/album/3B4RvahQk7zIdYWKZ41QJJ) | 2:59 |

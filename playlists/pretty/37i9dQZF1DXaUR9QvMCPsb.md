@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUR9QvMCPsb.md) - [plain]
 
 > Readings from some of the best minds of the beat generation.
 
+[Spotify](https://open.spotify.com/user/spotify) - 22,328 likes - 211 songs - 13 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Howl \- Live / 1/29/1959](https://open.spotify.com/track/2sSHtceOBuK9y63ruNK9r0) | [Allen Ginsberg](https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT) | [Howl](https://open.spotify.com/album/4JEramExhZXiMBphRns68o) | 21:47 |

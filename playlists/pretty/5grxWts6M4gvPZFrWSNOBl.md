@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5grxWts6M4gvPZFrWSNOBl.md) - [plain]
 
 > Missa inte Disclosure på Linné\-scenen på LÖRDAG / 23.00
 
+[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 10 songs - 48 min 37 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You & Me](https://open.spotify.com/track/4zsmbCgzPCS93IWeZlnBSZ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me](https://open.spotify.com/album/4S8Ok3HJyCDUSEPJV4kpIR) | 4:56 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5LtwydYUv9Um4D2toY3Wzh.md) - [plain]
 
 > ...dancing in the mirror.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,938 likes - 41 songs - 2 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |

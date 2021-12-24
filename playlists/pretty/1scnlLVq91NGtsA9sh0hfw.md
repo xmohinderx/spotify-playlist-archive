@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1scnlLVq91NGtsA9sh0hfw.md) - [plain]
 
 > Go behind the scenes of the <a href="http://www.twobytwomusic.com">Two By Two</a> book soundtrack curated by <a href="spotify:user:nicholassparksofficial">Nicholas Sparks</a> and featuring songs from <a href="spotify:artist:410MPX0LjYx4PFgIJsBbPT">JD Eicher</a>\. Then, linger a while with soundtrack selections from your favorite Nicholas Sparks films.
 
+[Spotify](https://open.spotify.com/user/spotify) - 344 likes - 53 songs - 2 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nicholas Sparks Introduction](https://open.spotify.com/track/47ugCLTk9gxAjV0gMcuVjv) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [JD Eicher/Nicholas Sparks](https://open.spotify.com/album/00YgtA9RiirNQN1WXT8DcU) | 0:09 |

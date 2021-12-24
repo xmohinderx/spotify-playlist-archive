@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: <a href="spotify:artist:0EmeFodog0BfCgMzAIvKQp">Shakira</a> &  <a href="spotify:artist:2DlGxzQSjYe5N6G9nkYghR">Jennifer Lopez</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 39,615 likes - 82 songs - 5 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |

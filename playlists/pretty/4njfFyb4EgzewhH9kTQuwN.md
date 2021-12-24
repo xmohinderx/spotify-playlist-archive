@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4njfFyb4EgzewhH9kTQuwN.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 17 songs - 59 min 53 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All Fired Up](https://open.spotify.com/track/4FA0rlBqJ7V4WOAUs4GR63) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [All Fired Up](https://open.spotify.com/album/262MZq7EccZmiL7mEJWwE2) | 3:14 |

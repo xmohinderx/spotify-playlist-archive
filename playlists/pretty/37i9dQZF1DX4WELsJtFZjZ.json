@@ -1,7 +1,12 @@
 {
   "description": "Mellow songs from the 1980s.",
   "name": "Soft 80s",
-  "snapshot_id": "MTY0MDMxNTY3NCwwMDAwMDAwMDU3OTc3ODNkODEzNTA3YjQwZGIzMTk1MDQyYTIyMmM2",
+  "num_followers": 360752,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMwMiwwMDAwMDAwMDU3OTc3ODNkODEzNTA3YjQwZGIzMTk1MDQyYTIyMmM2",
   "tracks": [
     {
       "added_at": "2021-02-02 11:51:32",

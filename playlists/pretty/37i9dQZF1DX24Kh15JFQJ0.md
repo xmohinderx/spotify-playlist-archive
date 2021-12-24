@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes.<br/>Cover: Eddie Montgomery
 
+[Spotify](https://open.spotify.com/user/spotify) - 231,002 likes - 101 songs - 5 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ain't No Closing Me Down](https://open.spotify.com/track/4kqSHwiAg5Su68ifqjUPNm) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Ain't No Closing Me Down](https://open.spotify.com/album/5B0XkXMEc6pdzdoyaDjZM5) | 3:16 |

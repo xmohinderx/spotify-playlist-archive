@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/15wD5DzfOIRx7QnJKDLtav.md) - [plain]
 
 > Your guide to what's hot in Austin, TX during South By Southwest 2017\. Cover: <a href="spotify:artist:4NZvixzsSefsNiIqXn0NDe">Maggie Rogers</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,212 likes - 62 songs - 3 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Kill My Vibe](https://open.spotify.com/track/1jbguX18Gtjm0UwVsLRIFT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Don't Kill My Vibe](https://open.spotify.com/album/2nXomRUHGA5cYyGHZyQ7HF) | 3:04 |

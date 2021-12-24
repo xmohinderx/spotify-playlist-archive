@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3kNL4k3rmfGRfx577lL715.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 13 songs - 56 min 9 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Get It Crackin'](https://open.spotify.com/track/2qEUfEovSQrFcQ7AbJzrTw) | [Deuce](https://open.spotify.com/artist/2iLpvtffIrQ4bMYrFPRN4x) | [Nine Lives](https://open.spotify.com/album/4BcR6RtLD3LQ5xee4gaxJv) | 4:48 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zoe Wees, YUNGBLUD, and FLETCHER.
 
+[Spotify](https://open.spotify.com/user/spotify) - 385,466 likes - 150 songs - 9 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Fall Apart \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:51 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Take Me Home, Country Road \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0iAJ5J7hGRnaY3zWXACbws) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Spotify Singles](https://open.spotify.com/album/3ZDrKkU07CxXL2WxxXyoxH) | 4:22 |
 | 150 | [Bittersweet Symphony \- Jim Eno Sessions](https://open.spotify.com/track/7EY9x0t85n6XxlaFAREbra) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0JSV7pb2t7Krg2ohhZpx5a) | 5:23 |
 
-Snapshot ID: `MTY0MDMxNTU5NSwwMDAwMDAwMGViODYxYWYxYjU2MjQ5MDc4MWYwYzhmYjZiZDU3OTYw`
+Snapshot ID: `MTY0MDMyNDIyNiwwMDAwMDAwMGViODYxYWYxYjU2MjQ5MDc4MWYwYzhmYjZiZDU3OTYw`

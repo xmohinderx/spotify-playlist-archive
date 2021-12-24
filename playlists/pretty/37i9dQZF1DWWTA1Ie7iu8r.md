@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTA1Ie7iu8r.md) - [plain]
 
 > Get your creep on with these freaky 'love' songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 34,559 likes - 56 songs - 3 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Graveyard](https://open.spotify.com/track/6V9fHiv84WlVTg7CSnIVY2) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Graveyard](https://open.spotify.com/album/66QwiCFDLtRbrZ5Vs9wlL9) | 3:01 |

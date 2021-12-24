@@ -1,6 +1,11 @@
 {
   "description": "Discover the music of Brahms.",
   "name": "This Is Brahms",
+  "num_followers": 67519,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzOTAwMjAzNSwwMDAwMDAwYTAwMDAwMTdkOWMyMjU1ZjUwMDAwMDE3MDg3YjY4NWQ2",
   "tracks": [
     {

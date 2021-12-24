@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Dream Theater
 
+[Spotify](https://open.spotify.com/user/spotify) - 284,629 likes - 130 songs - 13 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All It Takes](https://open.spotify.com/track/1H8RteGZrEFg5zuvy9Kljz) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [All It Takes](https://open.spotify.com/album/7FHDnfP9sVG2oVzOa72klc) | 5:28 |
@@ -137,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 129 | [The Inevitable End](https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Inevitable End](https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0) | 4:01 |
 | 130 | [Leaves of Yesteryear](https://open.spotify.com/track/1paRTCqdLLz4ohFJ9NrFFg) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [Leaves of Yesteryear](https://open.spotify.com/album/7GloNSvJElEwT2rzMnvFCW) | 8:03 |
 
-Snapshot ID: `MTY0MDMxNTcwNiwwMDAwMDAwMDhkMTkwMTM3M2I3MzlhNmY5ZmFjYWNkYWEwNzE4NWFi`
+Snapshot ID: `MTY0MDMyNDMzMywwMDAwMDAwMDhkMTkwMTM3M2I3MzlhNmY5ZmFjYWNkYWEwNzE4NWFi`

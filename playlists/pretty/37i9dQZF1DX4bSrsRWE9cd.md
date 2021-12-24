@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bSrsRWE9cd.md) - [plain]
 
 > That special feeling of being calm, happy and relaxed at the same time.
 
+[Spotify](https://open.spotify.com/user/spotify) - 20,812 likes - 76 songs - 4 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Will Spend My Whole Life Loving You](https://open.spotify.com/track/77enz5hl8RicxrbPB56VXQ) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF), [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [I Will Spend My Whole Life Loving You](https://open.spotify.com/album/3g1yz9GQMMswHeQrHQCm21) | 3:47 |
@@ -83,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bSrsRWE9cd.md) - [plain]
 | 75 | [Silence by the Lakeside](https://open.spotify.com/track/172Tyy70R4Cc1JWarP9DNU) | [The Rosebuds](https://open.spotify.com/artist/1uatpkp2CbVMmQlMKFMAwe) | [Night of the Furies](https://open.spotify.com/album/6Z9BCIwHKu1RIFeLJUA04f) | 4:49 |
 | 76 | [Abraham](https://open.spotify.com/track/4YpfqCRwb3ttShlTNaB2jU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:33 |
 
-Snapshot ID: `MTY0MDMxNTY3OCwwMDAwMDAwMGY3NWM4NmIyYzc3ZGE2YmQ1NmViNDliMDljY2IyNjEz`
+Snapshot ID: `MTY0MDMyNDMwNiwwMDAwMDAwMGY3NWM4NmIyYzc3ZGE2YmQ1NmViNDliMDljY2IyNjEz`

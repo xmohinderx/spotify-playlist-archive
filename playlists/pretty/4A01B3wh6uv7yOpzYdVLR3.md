@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4A01B3wh6uv7yOpzYdVLR3.md) - [plain]
 
 > Weekly Selects of the best music chosen by the TeamSupremeCrew themselves..\. Turn the Volume up to 100.
 
+[beatteamsupreme](https://open.spotify.com/user/beatteamsupreme) - 13,084 likes - 40 songs - 2 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mob Life](https://open.spotify.com/track/0eIvSXZSVO8kOgtqI5pPKV) | [Project Paradis](https://open.spotify.com/artist/39knGxcpec9LosNwA623O3), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Promnite](https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5) | [Mob Life](https://open.spotify.com/album/70Q3t8CLZa7H4RN6EYHpgZ) | 3:23 |

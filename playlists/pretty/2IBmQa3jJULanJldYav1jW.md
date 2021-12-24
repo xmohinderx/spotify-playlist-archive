@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2IBmQa3jJULanJldYav1jW.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 33 likes - 18 songs - 1 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hold On](https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh) | 3:46 |

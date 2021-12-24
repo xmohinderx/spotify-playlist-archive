@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2G5Wlqt6clkHH2KFK2LS5Q.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 24 songs - 1 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [White Boy \- Dance Mix](https://open.spotify.com/track/6MyAkAjUKMlZo0sTqdMNXB) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Kissing To Be Clever](https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w) | 4:40 |

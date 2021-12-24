@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
+[Spotify](https://open.spotify.com/user/spotify) - 977,190 likes - 100 songs - 6 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jump](https://open.spotify.com/track/4IIxGyabRyqXOnnBa99cKT) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 5:04 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Lazy Afternoon](https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Bright Side of Life](https://open.spotify.com/album/6ry84mOthM6loLKbhuiovs) | 3:30 |
 | 100 | [Surfman Cometh](https://open.spotify.com/track/0XLCAcfMcypLKvnBFFbnaB) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [Surfman Cometh](https://open.spotify.com/album/1YKCOqSvMTH4I8eAAgqkP7) | 5:35 |
 
-Snapshot ID: `MTY0MDMxNTczOSwwMDAwMDAwMDliNzEzNzM5OWU0NzA2OWZkMmM2ZDZjYzQzN2M0MDE4`
+Snapshot ID: `MTY0MDMyNDM2NCwwMDAwMDAwMDliNzEzNzM5OWU0NzA2OWZkMmM2ZDZjYzQzN2M0MDE4`

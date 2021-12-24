@@ -1,7 +1,12 @@
 {
   "description": "Essential Alesso originals and remixes.",
   "name": "This Is Alesso",
-  "snapshot_id": "MTY0MDMxNTczNiwwMDAwMDAwMGI5Zjg4ZGQwYWU1OGZkNDVjOGMwNzliYjVlMDQwYjc1",
+  "num_followers": 145812,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM2MiwwMDAwMDAwMGI5Zjg4ZGQwYWU1OGZkNDVjOGMwNzliYjVlMDQwYjc1",
   "tracks": [
     {
       "added_at": "2021-11-18 16:00:00",

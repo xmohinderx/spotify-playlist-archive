@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,558,643 likes - 100 songs - 7 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Motivation](https://open.spotify.com/track/7I8ekwvvCq0gaxBMaxco3l) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG), [Von Sell](https://open.spotify.com/artist/3a9URpZNieaALIw6ZjU4Tk) | [No Motivation](https://open.spotify.com/album/1P8Tlykr5QCr6b2DBsxuW9) | 4:15 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Bleached Flamingo](https://open.spotify.com/track/7Auyn5OOY5uejUSqDGDc8e) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Bleached Flamingo](https://open.spotify.com/album/6m6QXT3XI9APvoDsdOuyJk) | 4:32 |
 | 100 | [Cool Air](https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac), [Allie Donelly](https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC) | [Cool Air](https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq) | 4:30 |
 
-Snapshot ID: `MTY0MDMxNTU2MiwwMDAwMDAwMDI2YjdjOTE0MjIyMDk3NDE1ZmU5NGNlNjQ3OTk3Njkz`
+Snapshot ID: `MTY0MDMyNDE5MiwwMDAwMDAwMDI2YjdjOTE0MjIyMDk3NDE1ZmU5NGNlNjQ3OTk3Njkz`

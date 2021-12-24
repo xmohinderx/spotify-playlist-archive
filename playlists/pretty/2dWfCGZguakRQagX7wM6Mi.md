@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2dWfCGZguakRQagX7wM6Mi.md) - [plain]
 
 > Stay tuned for a fresh mix of flashback hits! This week, party like it's 1999!
 
+[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 50 songs - 3 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |

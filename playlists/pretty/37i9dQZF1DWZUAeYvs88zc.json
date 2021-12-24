@@ -1,7 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
   "name": "Sad Bops",
-  "snapshot_id": "MTY0MDMxNTU4OCwwMDAwMDAwMGRiZDQyNzM3NmFmOGY0OTE2ZjVkNDNmYWFmZjI4Zjli",
+  "num_followers": 410918,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIyMCwwMDAwMDAwMGRiZDQyNzM3NmFmOGY0OTE2ZjVkNDNmYWFmZjI4Zjli",
   "tracks": [
     {
       "added_at": "2021-12-24 01:08:02",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2xxkK8eaOyM6JRhHOheZBZ.md) - [plain]
 
 > Sweden Rock är Sveriges största hårdrocksfestival\. Sommarens upplaga äger rum 6 \- 9 juni i Sölvesborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 75 songs - 6 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Madman](https://open.spotify.com/track/4HYo754p6gvG8OBfoJPpfJ) | [Ugly Kid Joe](https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf) | [As Ugly As It Gets: The Very Best Of](https://open.spotify.com/album/31aXXorWWr7XjDz6L0bDBX) | 3:38 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2PMlGn5a2jxukdhCYQyQvG.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 23 songs - 1 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kärleken förde oss samman](https://open.spotify.com/track/5qXlOxhdaMNnSfuciYmIWK) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Öppna Landskap 7595](https://open.spotify.com/album/7aB0bPRv2elnc0Ou1whaty) | 3:27 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRAIdXzR5R1.md) - [plain]
 
 > With one of his biggest hits 'Summer of 69', he has contributed more than 30 years to the arts, particularly as a musician and also as an established photographer.
 
+[Spotify](https://open.spotify.com/user/spotify) - 282,520 likes - 50 songs - 3 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/2wW4EFIT9UMtWzF9vvvYUT) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Ultimate](https://open.spotify.com/album/29PaTFb1Y3KjipQaayjAS5) | 4:10 |

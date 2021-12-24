@@ -1,7 +1,12 @@
 {
   "description": "Those songs you just love to love. Cover: Mustafa",
   "name": "Indie Favourites",
-  "snapshot_id": "MTY0MDMxNTgwNywwMDAwMDAwMDA4ZGQ5ODAwMWIwYjE2ZDE5Mjc3Njc5YTkyZDc2MWNm",
+  "num_followers": 24116,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQzMSwwMDAwMDAwMDA4ZGQ5ODAwMWIwYjE2ZDE5Mjc3Njc5YTkyZDc2MWNm",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",

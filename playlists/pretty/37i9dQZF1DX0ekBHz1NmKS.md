@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
+[Spotify](https://open.spotify.com/user/spotify) - 113,169 likes - 100 songs - 5 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nätterna](https://open.spotify.com/track/0sO9OAIoecb2YxmCQohWGq) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Nätterna](https://open.spotify.com/album/30F33A6kVzeBE6qKcBLTz7) | 2:58 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 |
 | 100 | [100 GÅNGER TILL](https://open.spotify.com/track/2eSvlPyGNqCOriM3ibovQF) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [100 GÅNGER TILL](https://open.spotify.com/album/4llO7R9Fy8hzLQzNS7iKnP) | 3:21 |
 
-Snapshot ID: `MTY0MDMxNTYxMCwwMDAwMDAwMDUzMGM0MzEyY2E4NjI2MzYwZGQ0MDJhYzdiMTgwYTY1`
+Snapshot ID: `MTY0MDMyNDI0MSwwMDAwMDAwMDUzMGM0MzEyY2E4NjI2MzYwZGQ0MDJhYzdiMTgwYTY1`

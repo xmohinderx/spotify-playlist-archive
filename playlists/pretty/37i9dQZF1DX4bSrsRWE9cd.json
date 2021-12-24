@@ -1,7 +1,12 @@
 {
   "description": "That special feeling of being calm, happy and relaxed at the same time.",
   "name": "Bliss",
-  "snapshot_id": "MTY0MDMxNTY3OCwwMDAwMDAwMGY3NWM4NmIyYzc3ZGE2YmQ1NmViNDliMDljY2IyNjEz",
+  "num_followers": 20812,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMwNiwwMDAwMDAwMGY3NWM4NmIyYzc3ZGE2YmQ1NmViNDliMDljY2IyNjEz",
   "tracks": [
     {
       "added_at": "2021-12-14 12:02:56",

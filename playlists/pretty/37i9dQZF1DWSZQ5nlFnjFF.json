@@ -1,7 +1,12 @@
 {
   "description": "Step from poem to poem \u2014 glittering \u2014 and distill amazing sense from ordinary meanings.",
   "name": "Emily Dickinson",
-  "snapshot_id": "MTY0MDMxNTQ5NSwwMDAwMDAwMDliYWZiODQzZjlkM2I0M2MyYzhmOWU1YjFlODJhNmUy",
+  "num_followers": 11811,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDEyNywwMDAwMDAwMDliYWZiODQzZjlkM2I0M2MyYzhmOWU1YjFlODJhNmUy",
   "tracks": [
     {
       "added_at": "2018-12-17 20:34:02",

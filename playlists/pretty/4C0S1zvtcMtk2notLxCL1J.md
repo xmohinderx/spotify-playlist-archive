@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4C0S1zvtcMtk2notLxCL1J.md) - [plain]
 
 > Grand Hustle Gang top picks chosen by Spotify.
 
+[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 41 songs - 2 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wildside \(feat\. A$AP Rocky\)](https://open.spotify.com/track/672LwiiHSEDmEVYiNtcx6i) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/4XDEh0x3M1ajC6vxJ1PNCD) | 5:28 |

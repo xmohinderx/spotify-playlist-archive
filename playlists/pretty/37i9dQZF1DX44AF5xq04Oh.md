@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44AF5xq04Oh.md) - [plain]
 
 > Hit the grill! Roll those hotdogs and smoke those meats.
 
+[Spotify](https://open.spotify.com/user/spotify) - 139,087 likes - 28 songs - 1 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It Must Be True Love](https://open.spotify.com/track/4fs7A0HgWe9guaNh3jPBFz) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Trojan Lovers Collection](https://open.spotify.com/album/1nmApsog19BD430O3mPzXm) | 3:24 |

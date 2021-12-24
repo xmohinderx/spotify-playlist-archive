@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > ALT the Good Vibes.
 
+[Spotify](https://open.spotify.com/user/spotify) - 636,260 likes - 120 songs - 6 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [buzz cut \(feat\. MisterWives\)](https://open.spotify.com/track/3ZM7EQicqJZinzks0T4Zrq) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [buzz cut \(feat\. MisterWives\)](https://open.spotify.com/album/1yiIJTgIJgGNFOvnmPfJ8a) | 3:38 |
@@ -127,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 119 | [Talking is Hard](https://open.spotify.com/track/0r733vlPgYPpZ6y6BnFK3U) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:17 |
 | 120 | [If That's Alright](https://open.spotify.com/track/6sTB0onfpYa5h3fYJ6J5CS) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [If That's Alright](https://open.spotify.com/album/7v4l9Nb6DUc6qd578Zzljy) | 2:47 |
 
-Snapshot ID: `MTY0MDMxNTY0MSwwMDAwMDAwMGNiOWE2MTc5YWY3YjZhYTYwNmQxMDIzMWZjMDVkODA4`
+Snapshot ID: `MTY0MDMyNDI3MCwwMDAwMDAwMGNiOWE2MTc5YWY3YjZhYTYwNmQxMDIzMWZjMDVkODA4`

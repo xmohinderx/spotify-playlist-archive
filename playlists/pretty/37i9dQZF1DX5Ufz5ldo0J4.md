@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ufz5ldo0J4.md) - [plain]
 
 > Lean back, close your eyes, and relax.
 
+[Spotify](https://open.spotify.com/user/spotify) - 152,471 likes - 242 songs - 11 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Walk With Nature](https://open.spotify.com/track/1OHDjyHn6jwiuyWN84QB5w) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Walk With Nature](https://open.spotify.com/album/66BZweQPwzt1vktfvn7rui) | 2:57 |

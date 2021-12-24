@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddisSfoYY5n.md) - [plain]
 
 > Danger, mystery, and tangled webs of intrigue lie ahead....
 
+[Spotify](https://open.spotify.com/user/spotify) - 21,330 likes - 28 songs - 12 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ABC Mystery Time: The Suicide Club](https://open.spotify.com/track/1yZGK9STRtUZh9SGxoYeqh) | [Laurence Olivier](https://open.spotify.com/artist/67ONR17eAcuRMcqsLqc0M5) | [The Ultimate Radio Collection](https://open.spotify.com/album/2wdk7EYQrV5jnDwFRCRUsW) | 21:49 |

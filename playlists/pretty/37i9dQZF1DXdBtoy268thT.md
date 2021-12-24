@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBtoy268thT.md) - [plain]
 
 > Tap your foot and laugh your head off with this hilarious Musical Comedy.
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,702 likes - 49 songs - 2 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [White & Nerdy \(Parody of "Ridin'" by Chamillionaire feat\. Krayzie Bone\)](https://open.spotify.com/track/60R2v9lheAu3lwZwAFxMZK) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Straight Outta Lynwood](https://open.spotify.com/album/5qNws4KuryY0VNrdtcDwkR) | 2:50 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SgxzTVd6bU.md) - [plain]
 
 > Listen & repeat..\. with over 8 hours of Portuguese instruction!
 
+[Spotify](https://open.spotify.com/user/spotify) - 20,116 likes - 53 songs - 8 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brazilian Portuguese Language Lesson 1](https://open.spotify.com/track/2WYMw04hydNdInZXxjLHvd) | [Language Superstar](https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM) | [Learn Brazilian Portuguese Fast](https://open.spotify.com/album/6WFnXCukZVZuxeuDzsyKbj) | 12:05 |

@@ -1,7 +1,12 @@
 {
   "description": "Embrace the mood of the season with harmonious, comforting songs.",
   "name": "Autumn Leaves",
-  "snapshot_id": "MTY0MDMxNTcwOCwwMDAwMDAwMDlhMDk2NmI5MjRhNWM3YzllY2Q2N2ExNmU5ZjBiMzZm",
+  "num_followers": 333135,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMzNSwwMDAwMDAwMDlhMDk2NmI5MjRhNWM3YzllY2Q2N2ExNmU5ZjBiMzZm",
   "tracks": [
     {
       "added_at": "2021-05-27 14:06:39",

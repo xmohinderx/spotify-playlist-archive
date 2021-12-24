@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > What we're gonna do right now is go back—back in time\. Here are all your favorite '90s R&B slow jams!
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,347,018 likes - 47 songs - 3 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Gotta Be](https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [A Jagged Era](https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB) | 3:35 |
@@ -54,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 46 | [Don't Be Afraid \- Sex You Down Some Mo' Version](https://open.spotify.com/track/7EgBkZlqWRwvjmyc115LLR) | [Aaron Hall](https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn) | [The Truth](https://open.spotify.com/album/16ugx2RULvA4s2HHVEqkDi) | 4:31 |
 | 47 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/3wVllS5itPK6rpHwfvNce4) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
 
-Snapshot ID: `MTY0MDMxNTUyOSwwMDAwMDAwMGFlNjgxMzcxM2I3ZWM5OWUwZjE0MjUxMjdiMmNiMThi`
+Snapshot ID: `MTY0MDMyNDE2MCwwMDAwMDAwMGFlNjgxMzcxM2I3ZWM5OWUwZjE0MjUxMjdiMmNiMThi`

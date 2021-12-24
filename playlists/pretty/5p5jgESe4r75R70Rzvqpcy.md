@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5p5jgESe4r75R70Rzvqpcy.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 50 songs - 3 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Careless Whisper](https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:00 |

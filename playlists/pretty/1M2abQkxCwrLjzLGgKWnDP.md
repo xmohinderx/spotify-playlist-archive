@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1M2abQkxCwrLjzLGgKWnDP.md) - [plain]
 
 > Lend some gravitas to the moment with the complete works of Vincenzo Bellini, featuring acclaimed recordings of his entire operatic oeuvre and large scale sacred choral pieces.
 
+[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 500 songs - 1 day 8 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adelson e Salvini: Sinfonia](https://open.spotify.com/track/0jvKKp2x4kF3WhPUNCebBn) | [Vincenzo Bellini](https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV), [Bradley Williams](https://open.spotify.com/artist/3XSN9YsDfP1xwyHEEuhBVP), [Alicia Nafé](https://open.spotify.com/artist/3b6nzPDLOOeqcBVFZNhlaB), [Fabio Previati](https://open.spotify.com/artist/3n4E47yHyWzWN9l5tqIxO7), [Aurio Tomicich](https://open.spotify.com/artist/60psoJESAt1TB4kH4hV1UT), [Lucia Rizzi](https://open.spotify.com/artist/5Vb0KJtPbG8cZSajE2s7AX), [Eleonora Jankovic](https://open.spotify.com/artist/0wCossttYCPhks39j8SKLf), [Roberto Coviello](https://open.spotify.com/artist/77xkZmrda0YB2lpV7K89Ot), [Giancarlo Tosi](https://open.spotify.com/artist/3BTJ6LOjuALvVmQXN6edWj), [Catania Teatro Massimo Bellini Chorus](https://open.spotify.com/artist/77UadWFfqDuT2ksTwWScwM), [Catania Teatro Massimo Bellini Orchestra](https://open.spotify.com/artist/7zNEMoB0pnGdTmgM2AFwva), [Andrea Licata](https://open.spotify.com/artist/18QnTbk6gzZoqgZyvxjRHg) | [Bellini, V.: Adelson e Salvini](https://open.spotify.com/album/74g5obYlP36bkNjD0H8z8S) | 8:21 |

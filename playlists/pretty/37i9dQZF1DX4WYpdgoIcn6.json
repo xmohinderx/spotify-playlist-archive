@@ -1,7 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill tunes.",
   "name": "Chill Hits",
-  "snapshot_id": "MTY0MDMxNTY3NSwwMDAwMDAwMDVhYjkwMmFlOTdmNDI4NzU2M2U2YjVhNTU1Mjc3YjUy",
+  "num_followers": 6910135,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMwMywwMDAwMDAwMDVhYjkwMmFlOTdmNDI4NzU2M2U2YjVhNTU1Mjc3YjUy",
   "tracks": [
     {
       "added_at": "2021-12-16 23:02:00",

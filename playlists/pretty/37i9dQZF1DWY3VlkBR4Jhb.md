@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3VlkBR4Jhb.md) - [plain]
 
 > The essential works of Franz Schubert.
 
+[Spotify](https://open.spotify.com/user/spotify) - 82,188 likes - 62 songs - 7 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Schubert: Ave Maria, Op\. 52 No\. 6, D\. 839](https://open.spotify.com/track/3eLlW0GegkXy3o92t51xaJ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Barbara Bonney](https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr), [Geoffrey Parsons](https://open.spotify.com/artist/3x9SScXuqC40Sq6j4hpXCC) | [Schubert: Ave Maria, Die Forelle, Heidenröslein & Other Lieder](https://open.spotify.com/album/7xCjhI1Pjslxmec4FiZwhC) | 6:19 |

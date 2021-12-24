@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/74Wbo0ObpdSDnCIGvEDHOk.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 41 songs - 2 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Krigar precis som du](https://open.spotify.com/track/38pxm1bCKlnQJw5yiN9no3) | [Alina Devecerski](https://open.spotify.com/artist/4HpFXZsVoerMLtLudMJJkb) | [Maraton](https://open.spotify.com/album/1rh1B8iLdXA1qFgXD7Tlhk) | 3:07 |

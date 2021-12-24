@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7hjaw2oDqkMS2uDk5vmzAu.md) - [plain]
 
 > Escape the world with the best, most relaxing Jazz.
 
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 50 songs - 3 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Autumn Leaves](https://open.spotify.com/track/1KGBpfScfuZVlgj5U4Tq31) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Either Way](https://open.spotify.com/album/4GdX9SFD6n0uynQPg2VOQY) | 4:44 |

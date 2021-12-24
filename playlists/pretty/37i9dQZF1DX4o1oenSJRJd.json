@@ -1,7 +1,12 @@
 {
   "description": "The biggest songs of the 2000s. Cover: Gwen Stefani.",
   "name": "All Out 2000s",
-  "snapshot_id": "MTY0MDMxNTY4MiwwMDAwMDAwMDRjMWFlNGE5YWIyYjg3MmJjZWEwZjA1ODY5ZjRhMjM0",
+  "num_followers": 9719861,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMxMCwwMDAwMDAwMDRjMWFlNGE5YWIyYjg3MmJjZWEwZjA1ODY5ZjRhMjM0",
   "tracks": [
     {
       "added_at": "2021-12-02 23:03:00",

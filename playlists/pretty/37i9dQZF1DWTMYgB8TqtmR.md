@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits \- bästa och största hitsen just nu.
 
+[Spotify](https://open.spotify.com/user/spotify) - 634,690 likes - 50 songs - 2 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vi ska aldrig gå hem](https://open.spotify.com/track/3blcSPHFksw5iawgH4b9aV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Vi ska aldrig gå hem](https://open.spotify.com/album/18g5CdLyYBmUSVaTFYfxvs) | 3:15 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6CodyRtMuUIe8F7OvV7US9) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/0ROZR11tK42lCB4dByJwU5) | 2:59 |
 | 50 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 
-Snapshot ID: `MTY0MDMxNTUwOSwwMDAwMDAwMDg0MGRkMGE5YTUxZWM0YTE4Zjc1MzVhZmNkMmNmNDhh`
+Snapshot ID: `MTY0MDMyNDE0MSwwMDAwMDAwMDg0MGRkMGE5YTUxZWM0YTE4Zjc1MzVhZmNkMmNmNDhh`

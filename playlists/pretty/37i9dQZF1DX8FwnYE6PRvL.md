@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 
 > The ultimate rock party playlist!
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,984,420 likes - 80 songs - 5 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 79 | [Don't Look Back In Anger](https://open.spotify.com/track/7H0jlAh4VoUtdeBUurXae9) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory](https://open.spotify.com/album/1FB977nQEiAr8jel6O2Zn3) | 4:47 |
 | 80 | [Last Night a DJ Saved my Life](https://open.spotify.com/track/06VqOgAQvYTpZk6VpsDD20) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [Last Night a DJ Saved my Life](https://open.spotify.com/album/6UDItkgVICKqugN8IukaCE) | 3:06 |
 
-Snapshot ID: `MTY0MDMxNTc0MiwwMDAwMDAwMGRmODliZGZkMWY4NGViNzE0MjYxMTdmYTgyYTcwMTVj`
+Snapshot ID: `MTY0MDMyNDM2NywwMDAwMDAwMGRmODliZGZkMWY4NGViNzE0MjYxMTdmYTgyYTcwMTVj`

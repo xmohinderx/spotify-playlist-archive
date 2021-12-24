@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3KP0xIq8NrTP7BV2YhpHT5.md) - [plain]
 
 > Celebrate your baby boy and spread the good news!
 
+[Spotify](https://open.spotify.com/user/spotify) - 178 likes - 23 songs - 1 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beautiful Boy](https://open.spotify.com/track/5cUbs8a3T4f9xdTeBqrQCy) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Instant Karma: The Amnesty International Campaign To Save Darfur \[The Complete Recordings\] \(Audio Only\)](https://open.spotify.com/album/5A5XFtOnsqgw9QzghVq5Lf) | 3:48 |

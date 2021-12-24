@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
+[Spotify](https://open.spotify.com/user/spotify) - 387,381 likes - 110 songs - 7 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Giving Up Is Not The Easiest Way Out](https://open.spotify.com/track/2hu4tx7VeoED1HN6Lo2ods) | [Jaws of Love.](https://open.spotify.com/artist/165BHXMlW522HMz0sLhGtq) | [Giving Up Is Not The Easiest Way Out](https://open.spotify.com/album/7CvKDSfsSZvV3LvvRnlSLK) | 4:06 |
@@ -117,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
 | 110 | [Tin](https://open.spotify.com/track/6nTvknPTBH7MAD9F7PGWaa) | [Nearly Oratorio](https://open.spotify.com/artist/30daoc0SCzQpNd6ZWjaoZi) | [Tin](https://open.spotify.com/album/2EJAGxVDTJ3B7Bqd0MuqkM) | 4:12 |
 
-Snapshot ID: `MTY0MDMxNTYxNCwwMDAwMDAwMGRkMzI2YTE0ZjAyYmU3YTgyMDdjNzA3N2RmMTY5Yjhk`
+Snapshot ID: `MTY0MDMyNDI0NSwwMDAwMDAwMGRkMzI2YTE0ZjAyYmU3YTgyMDdjNzA3N2RmMTY5Yjhk`

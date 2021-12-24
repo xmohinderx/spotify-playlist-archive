@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favourites and new classics.
 
+[Spotify](https://open.spotify.com/user/spotify) - 457,523 likes - 90 songs - 5 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Halo](https://open.spotify.com/track/0htrx26DcVDcyXErXyJsTo) | [Martin O'Donnell](https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib), [Michael Salvatori](https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X) | [Halo: Original Soundtrack](https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj) | 4:22 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 
 > 
 
+[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 5,398 likes - 78 songs - 4 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Without You](https://open.spotify.com/track/3E1MFVYKSEBytmaRpaHtmj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:37 |

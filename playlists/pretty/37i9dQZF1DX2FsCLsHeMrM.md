@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 716,824 likes - 147 songs - 9 hr 47 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Sweetest Meditation](https://open.spotify.com/track/1QVF9JOvsO9koQhq1XQTzy) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Harmonies](https://open.spotify.com/album/08gaJDLvSafVxpaaZCo9Pm) | 5:54 |
@@ -154,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 146 | [Lipstick Lies](https://open.spotify.com/track/3tWmETuBoEWrdYWj1lV4LL) | [Julias Moon](https://open.spotify.com/artist/3hKKEBEqHescWFDhTRSRVg) | [Fake ID Heartbreak](https://open.spotify.com/album/3WJct8MWw1YrRzdKucOwm7) | 3:21 |
 | 147 | [Limbo](https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo/Lagune](https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ) | 3:10 |
 
-Snapshot ID: `MTY0MDMxNTYzNywwMDAwMDAwMDBjZjEyMzg5MTk4Y2JhZjVhNTY1YTMxNzYwOGQ3NGFh`
+Snapshot ID: `MTY0MDMyNDI2NywwMDAwMDAwMDBjZjEyMzg5MTk4Y2JhZjVhNTY1YTMxNzYwOGQ3NGFh`

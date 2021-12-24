@@ -2,7 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LOS LEO, Kalax, sød ven and more
+> With Caroline Polachek, Whole Doubts, Hardcastle and more
+
+[Spotify](https://open.spotify.com/user/spotify) - 920 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 5 | [Steps](https://open.spotify.com/track/3YR1CSEZrjaCXdvyR1Uj8h) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Steps](https://open.spotify.com/album/0BQTqxUrvue8rxw7VUAOdo) | 3:29 |
 | 6 | [1984](https://open.spotify.com/track/67sJp0ChEsa4mKXUFae0qq) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [1984](https://open.spotify.com/album/2Fm4S5muGDEJoqkEsa3saX) | 4:10 |
 | 7 | [Everything Has Its Place](https://open.spotify.com/track/3P23teua73GJGmG8vKTv2Q) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Young Mister](https://open.spotify.com/album/0S5aw61RjWIoRCeeDuPdp4) | 4:12 |
-| 8 | [Rest of Our Lives](https://open.spotify.com/track/4KofzqnNotdmsl4qhmlRal) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/6FceMT138EsJYtSzstQ1tl) | 2:54 |
+| 8 | [Rest of Our Lives](https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm) | 2:54 |
 | 9 | [Loser Baby](https://open.spotify.com/track/6RNz5iOe7SzpAq4JV3Yn4w) | [La Bouquet](https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs) | [Sad People Dancing](https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb) | 4:12 |
 | 10 | [Stranger Love](https://open.spotify.com/track/5TwUyeC78le23W2PM13B8c) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea), [Sunglasses Kid](https://open.spotify.com/artist/0jn6ofLtVkXpuH2mmV8J82) | [Stranger Love](https://open.spotify.com/album/0s0HwzmVUrc1wau3dZmY7L) | 5:49 |
 | 11 | [Fool](https://open.spotify.com/track/7wJj7JVgEbaakRVn9OJ2BF) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Fool](https://open.spotify.com/album/7w9jIIaTUlpYmLSgCNwbb0) | 3:19 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Our House](https://open.spotify.com/track/761QedCA5199KP1aQjjqif) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Our House](https://open.spotify.com/album/6JNhnXGnzwDWEya582BQQv) | 2:45 |
 | 50 | [Backseat](https://open.spotify.com/track/7iAe59rISAkaf1LYzctFwe) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Backseat](https://open.spotify.com/album/7vWLAPhEjGg9tRYWF9K5IW) | 4:42 |
 
-Snapshot ID: `MTY0MDMxNTgzMywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MDMyNDQ1NSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

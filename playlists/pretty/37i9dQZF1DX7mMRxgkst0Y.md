@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mMRxgkst0Y.md) - [plain]
 
 > Their finest work, in one playlist
 
+[Spotify](https://open.spotify.com/user/spotify) - 18,819 likes - 62 songs - 4 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Totally Wired](https://open.spotify.com/track/7jvffz7IhPlgI5qb4kTCma) | [The Fall](https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6) | [Creative Distortion, Vol.2](https://open.spotify.com/album/2gpXsdBWcERpMaGR6b58Sh) | 3:25 |

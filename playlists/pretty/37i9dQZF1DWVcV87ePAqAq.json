@@ -1,7 +1,12 @@
 {
   "description": "Fest kan vara minst lika kul \u00e4ven om du bara \u00e4r med dina allra n\u00e4rmsta!",
   "name": "Fest!",
-  "snapshot_id": "MTY0MDMxNTUzMywwMDAwMDAwMDYzNmMxODA2MmM4ODY2YTc0MTRjNmMzZWFkZTRhYjdh",
+  "num_followers": 112032,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE2NCwwMDAwMDAwMDYzNmMxODA2MmM4ODY2YTc0MTRjNmMzZWFkZTRhYjdh",
   "tracks": [
     {
       "added_at": "2020-12-31 09:29:02",

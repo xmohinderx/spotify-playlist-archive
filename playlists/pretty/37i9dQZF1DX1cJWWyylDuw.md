@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Paleface
 
+[Spotify](https://open.spotify.com/user/spotify) - 308,745 likes - 120 songs - 8 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Of Fury](https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Of Fury](https://open.spotify.com/album/5NcU0oTUBbLjgBGI5aVYKP) | 4:47 |
@@ -127,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 119 | [Guidance From The Pain](https://open.spotify.com/track/0xQ6gclWbZpfKaIZG96EEB) | [Justice For The Damned](https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8) | [Guidance From The Pain](https://open.spotify.com/album/6fYn5VvTVQDUma7UzCTGqQ) | 3:00 |
 | 120 | [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/53KHVi05aNn8zlum8Ep0hm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [SLIT WRIST SAVIOR \(Graveside Edition\)](https://open.spotify.com/album/2zH0pCrottkYrK6hIBgzI6) | 4:21 |
 
-Snapshot ID: `MTY0MDMxNTYyNCwwMDAwMDAwMDg0Zjg4ZjNmYzNjNmJiMTgzZjg2OTdkYmE4N2VjMjlk`
+Snapshot ID: `MTY0MDMyNDI1NCwwMDAwMDAwMDg0Zjg4ZjNmYzNjNmJiMTgzZjg2OTdkYmE4N2VjMjlk`

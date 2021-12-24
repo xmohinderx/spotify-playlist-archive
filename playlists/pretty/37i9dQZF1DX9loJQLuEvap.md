@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > 100% amazing female singers\. Enjoy!
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,579,996 likes - 50 songs - 3 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 49 | [On & On](https://open.spotify.com/track/2EeDqZf3Kh8i7wkPgDprkG) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Erykah Badu](https://open.spotify.com/album/2VEuouQKa12j0utl8BguMo) | 3:46 |
 | 50 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 |
 
-Snapshot ID: `MTY0MDMxNTc2NCwwMDAwMDAwMDY1OWUwM2FhYzE4ZWJiY2NjZWQ1YzM1YTQ0MDA2MTI1`
+Snapshot ID: `MTY0MDMyNDM4OSwwMDAwMDAwMDY1OWUwM2FhYzE4ZWJiY2NjZWQ1YzM1YTQ0MDA2MTI1`

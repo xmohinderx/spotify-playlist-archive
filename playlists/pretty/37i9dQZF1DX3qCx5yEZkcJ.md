@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,556 likes - 80 songs - 3 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Education](https://open.spotify.com/track/4SwV9qy9H2ObCS5y3G32Cw) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Education](https://open.spotify.com/album/6kYy5w6Uv33REXcaaxdXk3) | 4:34 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Late Trains](https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Late Trains](https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ) | 3:19 |
 | 80 | [Fogào Love](https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Fogào Love](https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi) | 1:44 |
 
-Snapshot ID: `MTY0MDMxNTY2MiwwMDAwMDAwMDg4ZTZmZjI5ZmE3OTVjOTNhZDdmNTI0YWNkYzM5Nzhk`
+Snapshot ID: `MTY0MDMyNDI5MSwwMDAwMDAwMDg4ZTZmZjI5ZmE3OTVjOTNhZDdmNTI0YWNkYzM5Nzhk`

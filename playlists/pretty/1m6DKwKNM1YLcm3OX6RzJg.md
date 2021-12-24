@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1m6DKwKNM1YLcm3OX6RzJg.md) - [plain]
 
 > Upptäck svenska talanger som kommer att vara soundtracket till ditt 2014\.  En spellista som ständigt uppdateras.
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,328 likes - 63 songs - 3 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chemicals](https://open.spotify.com/track/2C0CjVT5c9zYvZvi06d3K1) | [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [Chemicals](https://open.spotify.com/album/6bps2jUJmwpz3NAB7h1ps1) | 3:28 |

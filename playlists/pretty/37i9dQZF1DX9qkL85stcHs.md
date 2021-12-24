@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qkL85stcHs.md) - [plain]
 
 > The essential tracks with Bruce Springsteen.
 
+[Spotify](https://open.spotify.com/user/spotify) - 487,612 likes - 72 songs - 5 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/0oVSvrU612xkj7vbvbUAT2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/50OBIvFZb1J8Cz5hyyHJdj) | 3:15 |

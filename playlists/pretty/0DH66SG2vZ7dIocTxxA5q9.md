@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0DH66SG2vZ7dIocTxxA5q9.md) - [plain]
 
 > Ystad Jazzfestival arrangeras i sommar för tredje gången\. 2012 års festival går av stapeln den 2:a augusti och pågår t.o.m\. den 5:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 19 likes - 32 songs - 2 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer In The City](https://open.spotify.com/track/157llmCqs15bAa3T4z3H1a) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4HIPVdLw3m6ZJX3LAHvXl9) | 4:04 |

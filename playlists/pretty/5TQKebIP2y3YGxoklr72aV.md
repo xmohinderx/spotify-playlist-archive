@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5TQKebIP2y3YGxoklr72aV.md) - [plain]
 
 > Fairy tales and children's classics sure to satisfy your inner child...
 
+[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 56 songs - 1 day 0 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Jabberwocky](https://open.spotify.com/track/7DuXigiqXIEmN50tXtaVVC) | [Lewis Carroll](https://open.spotify.com/artist/50BbSabfVvThGASCQr2Lp4), [Clive Owen](https://open.spotify.com/artist/1QDtwXqOma5IAiB39qm3rc) | [Fairy Tales: Poems and Music for Children](https://open.spotify.com/album/4NqiF4lYeS0vvLhjWQepZZ) | 1:33 |

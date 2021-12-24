@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
+[Spotify](https://open.spotify.com/user/spotify) - 94,367 likes - 62 songs - 3 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Greaze Mode](https://open.spotify.com/track/6gRbkI6s0M7zTE9uhRZUjV) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Greaze Mode](https://open.spotify.com/album/3qhdxKqksjkX6l8NDXz0as) | 2:48 |

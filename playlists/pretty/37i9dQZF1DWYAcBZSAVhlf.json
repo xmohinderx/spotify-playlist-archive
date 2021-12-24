@@ -1,7 +1,12 @@
 {
   "description": "The best feel-good songs of the 1980s.",
   "name": "Happy 80s",
-  "snapshot_id": "MTY0MDMxNTU3NiwwMDAwMDAwMDE1ZGI1NzEyYWE5NTUyMjYwMzZkNTEyY2VlMzZjMTgw",
+  "num_followers": 60476,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIwOCwwMDAwMDAwMDE1ZGI1NzEyYWE5NTUyMjYwMzZkNTEyY2VlMzZjMTgw",
   "tracks": [
     {
       "added_at": "2021-04-29 11:00:17",

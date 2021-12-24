@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uiBEEB5wRG.md) - [plain]
 
 > Piano arrangements that help you to discover new nuances and sonorities in orchestral and chamber music masterpieces\. Similar playlists: <a href="spotify:user:spotify:playlist:37i9dQZF1DWT5I7N7jmTai">Liszt Transcriptions</a> & <a href="spotify:user:spotify:playlist:37i9dQZF1DWWQxllNWdnsR">Orchestral Transcriptions</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 31,252 likes - 50 songs - 8 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gianni Schicchi: O mio babbino caro \(Arr\. Yvar Mikhashoff\)](https://open.spotify.com/track/1JQDpCPsW7moozoU0l1DOU) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [James Rhodes](https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh) | [Bach: Prelude No\. 1 in C Major / Puccini: O Mio Babbino Caro](https://open.spotify.com/album/4FGyPWGNVdSXauVznOp7lI) | 2:38 |

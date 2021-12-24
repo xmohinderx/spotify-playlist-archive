@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > A song for every key on the piano.
 
+[Spotify](https://open.spotify.com/user/spotify) - 296,002 likes - 99 songs - 6 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Études: No\. 5](https://open.spotify.com/track/5JvrByzyTI9lfwHWunaXkx) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Philip Glass: Piano Works](https://open.spotify.com/album/4WMVFHCPiUEurlsWDF1Deq) | 8:55 |

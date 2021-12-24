@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Ha Hyunsang\(하현상\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 337,542 likes - 50 songs - 3 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 |
 | 50 | [Lullaby](https://open.spotify.com/track/0OV5CZKs1CNsavPmV9gZzg) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM), [Jida](https://open.spotify.com/artist/3Kkn1uJL09E0EHoMyfpRVI) | [Lullaby](https://open.spotify.com/album/56LUm3jvcWdgNeHKrtEjGl) | 4:03 |
 
-Snapshot ID: `MTY0MDMxNTgyMSwwMDAwMDAwMDg0OTkxMWQxZjA1NzY3N2QzYjEzM2UxZDA4ZWYxOTNm`
+Snapshot ID: `MTY0MDMyNDQ0MywwMDAwMDAwMDg0OTkxMWQxZjA1NzY3N2QzYjEzM2UxZDA4ZWYxOTNm`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
+[Spotify](https://open.spotify.com/user/spotify) - 162,788 likes - 50 songs - 3 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [when i look at you.](https://open.spotify.com/track/3rQnmsnyKJ2ytIv4LxkDmT) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i dreamed i was the night EP](https://open.spotify.com/album/2NGho5cUvQNMxyFEcz0j8r) | 3:52 |

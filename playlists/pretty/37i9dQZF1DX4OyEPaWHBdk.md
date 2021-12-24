@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 
 > Check out the winners of this year's Mnet Asian Music Awards!
 
+[Spotify](https://open.spotify.com/user/spotify) - 105,044 likes - 33 songs - 1 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do the dance](https://open.spotify.com/track/0WfSKlkX8wkJIslO6gWgOa) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [2021 MAMA Special Album](https://open.spotify.com/album/0QGH3ekCSmb9sD9G5IWeSF) | 3:38 |

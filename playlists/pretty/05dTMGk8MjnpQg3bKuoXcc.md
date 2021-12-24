@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/05dTMGk8MjnpQg3bKuoXcc.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 372 likes - 51 songs - 3 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shadow Dancing](https://open.spotify.com/track/2t8KVbAZLVybye9wZJusTp) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/763ij65YKUzcf8Y7vdV8qH) | 4:33 |

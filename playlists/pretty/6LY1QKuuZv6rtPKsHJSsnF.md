@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6LY1QKuuZv6rtPKsHJSsnF.md) - [plain]
 
 > Want to go from 360s to 1080s or just get some extra heights in your airs\. Then this list is for you! A mix of rock, hiphop and pop; The soundtrack to your mountain session IRL!
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,705 likes - 46 songs - 2 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sabotage](https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Ill Communication](https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8) | 2:58 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6ClBNzH2PMh2jvkEuSFBFJ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 9 songs - 32 min 50 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sensitive Man](https://open.spotify.com/track/7q8iXBnkkAG1ztS2xWDJku) | [Nick Lowe](https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7) | [The Old Magic](https://open.spotify.com/album/7FKfX7zjGapMwa1FsG91gh) | 2:52 |

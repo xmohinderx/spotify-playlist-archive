@@ -1,7 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: KAYTRANADA",
   "name": "Haitian Heat",
-  "snapshot_id": "MTY0MDMxNTY1OCwwMDAwMDAwMDQxYTljMzFkNmIzMjAxMWE3MzIzYzNjNGQ3NjBhYzAy",
+  "num_followers": 63305,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI4NywwMDAwMDAwMDQxYTljMzFkNmIzMjAxMWE3MzIzYzNjNGQ3NjBhYzAy",
   "tracks": [
     {
       "added_at": "2021-12-06 20:12:48",

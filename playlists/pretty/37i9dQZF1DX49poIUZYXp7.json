@@ -1,7 +1,12 @@
 {
   "description": "The extraordinary women making great country music today.  Cover: Tenille Arts",
   "name": "Women of Country",
-  "snapshot_id": "MTY0MDMxNTY2NywwMDAwMDAwMGE5NzU1OTAxNDI4NGVlZTA3MzkyNWM4NWY2ZGMwNTIx",
+  "num_followers": 320522,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI5NSwwMDAwMDAwMGE5NzU1OTAxNDI4NGVlZTA3MzkyNWM4NWY2ZGMwNTIx",
   "tracks": [
     {
       "added_at": "2021-12-01 05:00:00",

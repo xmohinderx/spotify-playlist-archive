@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xFQkXoZxdM.md) - [plain]
 
 > This is the essential collection of songs from Trey Songz.
 
+[Spotify](https://open.spotify.com/user/spotify) - 188,056 likes - 56 songs - 3 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Two Ways](https://open.spotify.com/track/7GIPHrEFcN8pt7ORkkJemv) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Two Ways](https://open.spotify.com/album/5QTUcfQ5QvsOsCzaEAan6e) | 3:21 |

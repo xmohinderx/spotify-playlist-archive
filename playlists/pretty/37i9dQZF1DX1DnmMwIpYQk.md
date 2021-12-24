@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DnmMwIpYQk.md) - [plain]
 
 > Modern, eccentric, ironic, progressive, bohemian, experimental, cheeky, romantic..\. poetry.
 
+[Spotify](https://open.spotify.com/user/spotify) - 24,186 likes - 30 songs - 1 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How to Preserve the Life of Death](https://open.spotify.com/track/2AyLcrkpUtHp17DQ49Hd6l) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Halloween](https://open.spotify.com/album/4uJalpj1pWkk5IFUAeO79B) | 0:57 |

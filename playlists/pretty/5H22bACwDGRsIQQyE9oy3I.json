@@ -1,6 +1,11 @@
 {
   "description": "Relax in the shade and uncover the best new underground folk and rising Americana.",
   "name": "The Grove",
+  "num_followers": 26,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NTEsNjFiZTk1MjVkZDJiMjk2YjRlMzRkZGI5ODgxNjcxM2Q2MTBjNDA0YQ==",
   "tracks": [
     {

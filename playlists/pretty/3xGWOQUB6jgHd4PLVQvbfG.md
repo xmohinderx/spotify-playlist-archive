@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3xGWOQUB6jgHd4PLVQvbfG.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 20 songs - 1 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can't Hold Us \- feat\. Ray Dalton](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2Hg4Q2t6mD8PITWKAQCMFD.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,285 likes - 25 songs - 1 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [King of Anything](https://open.spotify.com/track/3VA8T3rNy5V24AXxNK5u9E) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope Heart](https://open.spotify.com/album/627ukPRwYxyBREHxBq0vGJ) | 3:27 |

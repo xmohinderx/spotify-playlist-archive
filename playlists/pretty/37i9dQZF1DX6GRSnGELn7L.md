@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 
 > Whether you call it technical, progressive or math metal, it all djents\. Cover: Animals As Leaders
 
+[Spotify](https://open.spotify.com/user/spotify) - 189,306 likes - 100 songs - 7 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stonewalker](https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh) | [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN), [Jake Howsam Lowe](https://open.spotify.com/artist/4L53eKiTXJsZeaX0Q9jxMI) | [Stonewalker](https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj) | 4:14 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 99 | [Ne Plus Ultra](https://open.spotify.com/track/640pfRN9NUUUWwavzuWpLC) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Ne Plus Ultra](https://open.spotify.com/album/0CmwJZp9k2i1k3OJpsqFEE) | 5:42 |
 | 100 | [Hero](https://open.spotify.com/track/4gWQgoWxCPeuR1GcUuqNYK) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Paragon](https://open.spotify.com/album/4TLl1j6ojm8pTMRucMVVqT) | 4:42 |
 
-Snapshot ID: `MTY0MDMxNTcxMiwwMDAwMDAwMGZiMzYzNjU1NzMyZjI1NGUzOGYyMWYxYTkwYmE0NmEw`
+Snapshot ID: `MTY0MDMyNDMzOSwwMDAwMDAwMGZiMzYzNjU1NzMyZjI1NGUzOGYyMWYxYTkwYmE0NmEw`

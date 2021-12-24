@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/08ySLuUm0jMf7lJmFwqRMu.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 138 likes - 30 songs - 1 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flesh and Blood](https://open.spotify.com/track/4CgBSqCaAlC8bob5j5RrhB) | [Sandi Thom](https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB) | [Flesh and Blood \- Single](https://open.spotify.com/album/4QIbM813EssNZJPx3pv21l) | 4:27 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 
 > Mellow out with this dub music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 102,324 likes - 50 songs - 3 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [King in My Empire \(with Cornel Campbell\)](https://open.spotify.com/track/1i4KkAHiiTKHh8ysCSMvsJ) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Cornell Campbell](https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi) | [With The Artists](https://open.spotify.com/album/0wmxAOYBMqz436kZJBmNQK) | 6:26 |

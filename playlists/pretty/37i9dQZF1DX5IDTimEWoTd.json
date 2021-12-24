@@ -1,10 +1,15 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
   "name": "Warm Fuzzy Feeling",
-  "snapshot_id": "MTY0MDMxNTY5NCwwMDAwMDAwMDVlNDA1OTllZGFlNTdkYjUzZDUxZGM4MDg5ZjNkZTEy",
+  "num_followers": 2214495,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMyMiwwMDAwMDAwMGVkMWM2YmRhNDc5YjIxMjgxZTJlYTM2ODA2MGY4ZmZl",
   "tracks": [
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Butterflies (feat. FLETCHER)",
         "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
@@ -24,7 +29,7 @@
       "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "this is how you fall in love",
         "url": "https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW"
@@ -44,7 +49,7 @@
       "url": "https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
@@ -60,7 +65,23 @@
       "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -76,23 +97,7 @@
       "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "Subject To Change",
-        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Glad I Got You",
-      "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
@@ -108,7 +113,7 @@
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Falling Like The Stars",
         "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
@@ -124,7 +129,7 @@
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
@@ -140,7 +145,7 @@
       "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Last Call For Coco",
         "url": "https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU"
@@ -156,7 +161,7 @@
       "url": "https://open.spotify.com/track/2aQXnLW2uQwZeRDUR23VTU"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Put A Little Love On Me",
         "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
@@ -172,7 +177,7 @@
       "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
@@ -192,7 +197,7 @@
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "To All The Boys: Always and Forever (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT"
@@ -208,7 +213,7 @@
       "url": "https://open.spotify.com/track/00EsQxsJv6vy7hEQN3jZWG"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
@@ -224,7 +229,7 @@
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
@@ -240,7 +245,7 @@
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -260,7 +265,7 @@
       "url": "https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "You Will Be Found (with Summer Walker) [From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf"
@@ -280,7 +285,7 @@
       "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "a constant state of improvement.",
         "url": "https://open.spotify.com/album/4pVzD6lsU9IaX6UXGiThY4"
@@ -296,7 +301,7 @@
       "url": "https://open.spotify.com/track/0OPIBKjAYBFzNpo1HzjqzQ"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Like My Father",
         "url": "https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj"
@@ -312,7 +317,7 @@
       "url": "https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Favorite T-Shirt (Acoustic)",
         "url": "https://open.spotify.com/album/2RROzxwoUk6XwB272Fnh6B"
@@ -328,7 +333,7 @@
       "url": "https://open.spotify.com/track/0sem2PTbwYJdCHoDn487TE"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
@@ -344,7 +349,7 @@
       "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Line By Line (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
@@ -364,7 +369,7 @@
       "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -380,7 +385,7 @@
       "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "State of the Heart",
         "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
@@ -396,7 +401,7 @@
       "url": "https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "10,000 Hours (with Justin Bieber) [Piano]",
         "url": "https://open.spotify.com/album/2YtdV4AkQesuqE6UwSADk7"
@@ -416,7 +421,7 @@
       "url": "https://open.spotify.com/track/6HjF1gzVEZMb4GplnGl9B3"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
@@ -436,7 +441,7 @@
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/10vIaL9rgSjoJ7T5CRMC2t"
@@ -452,7 +457,7 @@
       "url": "https://open.spotify.com/track/24FprytnP9KMqH01aPR2N5"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "love is just a word",
         "url": "https://open.spotify.com/album/6c7hlhcoeifiXU0NlHTPhg"
@@ -472,7 +477,7 @@
       "url": "https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Tell Her You Love Her (feat. Mat Kearney)",
         "url": "https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8"
@@ -492,7 +497,7 @@
       "url": "https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
@@ -512,7 +517,7 @@
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
@@ -528,7 +533,7 @@
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM"
@@ -544,7 +549,7 @@
       "url": "https://open.spotify.com/track/4bhe0XXBRo4EAPKgy4M2xz"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Lover (Remix) [feat. Shawn Mendes]",
         "url": "https://open.spotify.com/album/2UfvnX1YYeC2cExMQTMbXC"
@@ -564,7 +569,7 @@
       "url": "https://open.spotify.com/track/3i9UVldZOE0aD0JnyfAZZ0"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Dancing When I Die",
         "url": "https://open.spotify.com/album/52tSoyle8C6WuY7LmqaFpq"
@@ -580,7 +585,7 @@
       "url": "https://open.spotify.com/track/6epGSSmdGkjcBmLDKXLbMl"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
@@ -596,7 +601,7 @@
       "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
@@ -612,7 +617,7 @@
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Dressed Up In White",
         "url": "https://open.spotify.com/album/53wpXnBCJSMn4IHFgZzJGj"
@@ -628,7 +633,7 @@
       "url": "https://open.spotify.com/track/0MoupiG0cMvbfPV1nwZAry"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Can't Help Falling in Love",
         "url": "https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L"
@@ -644,7 +649,7 @@
       "url": "https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "One More Time Around",
         "url": "https://open.spotify.com/album/1reyQmIGDNOUhJiVd78sZZ"
@@ -668,7 +673,7 @@
       "url": "https://open.spotify.com/track/3DyhwZyBFedvnt68fMi6vf"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Home To You",
         "url": "https://open.spotify.com/album/2GI67nlY6eFPjXDwLjp6Wy"
@@ -684,7 +689,7 @@
       "url": "https://open.spotify.com/track/0qBug5X3DaJv2zgXtp55wn"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -700,7 +705,7 @@
       "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "The Other Way",
         "url": "https://open.spotify.com/album/3YAuwXRFAF5SrmVXkooedB"
@@ -720,7 +725,7 @@
       "url": "https://open.spotify.com/track/3i8ZkeKgwu1t4m8SPPzNvv"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
@@ -740,7 +745,7 @@
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -756,7 +761,7 @@
       "url": "https://open.spotify.com/track/3NuLxTXowTRcguTh9RsPmM"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "84",
         "url": "https://open.spotify.com/album/1QOIdX1zaKeyXY8B8rTeae"
@@ -772,7 +777,7 @@
       "url": "https://open.spotify.com/track/3qePCADpvWQ38YCLxXBrdU"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Katy Perry - Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
@@ -788,7 +793,7 @@
       "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "songs about you",
         "url": "https://open.spotify.com/album/1InJqJj8fQTPNXbdH4E18j"
@@ -804,7 +809,7 @@
       "url": "https://open.spotify.com/track/0HrrOhWRCMsPwRN8jKv4ZS"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Oh What A Love",
         "url": "https://open.spotify.com/album/5JO8VbjPy4ZGpL1qYC9gPv"
@@ -820,7 +825,7 @@
       "url": "https://open.spotify.com/track/5Z8O4RFAmjA13jrOYIgyXA"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "The Most Beautiful Thing",
         "url": "https://open.spotify.com/album/1HPfv8XBrL0EiWOcNPr9q9"
@@ -836,7 +841,7 @@
       "url": "https://open.spotify.com/track/7EncNzyGs8uJiQittB38ef"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
@@ -852,7 +857,7 @@
       "url": "https://open.spotify.com/track/1HbcclMpw0q2WDWpdGCKdS"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "La Vie En Rose",
         "url": "https://open.spotify.com/album/3kwT6qcR3gV0D2oaa6t2xN"
@@ -868,7 +873,7 @@
       "url": "https://open.spotify.com/track/7hfEuxdObtxEdcOpQsXE49"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
@@ -888,7 +893,7 @@
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
@@ -904,7 +909,7 @@
       "url": "https://open.spotify.com/track/6BP8sg44smNB3pbD4QAOzi"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Take Me Home: Yearbook Edition",
         "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
@@ -920,7 +925,7 @@
       "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
@@ -936,7 +941,7 @@
       "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Good Things",
         "url": "https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm"
@@ -952,7 +957,7 @@
       "url": "https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1"
@@ -968,7 +973,7 @@
       "url": "https://open.spotify.com/track/093KMwH96ZwZRZn2lKoX9Z"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Nothing Feels Better",
         "url": "https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw"
@@ -984,7 +989,7 @@
       "url": "https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
@@ -1000,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "In A Perfect World",
         "url": "https://open.spotify.com/album/7vByqqEWERubaAEmTWljDU"
@@ -1016,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5JuA3wlm0kn7IHfbeHV0i6"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "gg bb xx",
         "url": "https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk"
@@ -1032,7 +1037,7 @@
       "url": "https://open.spotify.com/track/2McTSCNNzxgDtAqiuibhPI"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
@@ -1048,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
@@ -1064,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
@@ -1080,7 +1085,7 @@
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Fall On Me",
         "url": "https://open.spotify.com/album/3zOmwCNCqtvXqJlc2ZiDUu"
@@ -1100,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1sbNEp1zyMXQCXUHNllTaR"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
@@ -1116,7 +1121,7 @@
       "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Title (Deluxe)",
         "url": "https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE"
@@ -1136,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Atlas: I",
         "url": "https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh"
@@ -1152,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn"
@@ -1168,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Who Would Have Thought",
         "url": "https://open.spotify.com/album/5PaiwfRbaB0igbVr3nf1Mh"
@@ -1184,7 +1189,7 @@
       "url": "https://open.spotify.com/track/1ws2DVEGJD2d12aDm4zqic"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "To a T (Stripped)",
         "url": "https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb"
@@ -1200,7 +1205,7 @@
       "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
@@ -1220,7 +1225,7 @@
       "url": "https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "For Me, It's You",
         "url": "https://open.spotify.com/album/14U9vSKFIUzR7pebXtQhi8"
@@ -1236,7 +1241,7 @@
       "url": "https://open.spotify.com/track/2odYUJ9LhwDVVPxXL3NxuB"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
@@ -1252,7 +1257,7 @@
       "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "boys (til i had you)",
         "url": "https://open.spotify.com/album/5jxdJRgxBfe5y4WIvYxryc"
@@ -1268,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0TPJsEpt4Xq3lUq2eqJfjf"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "x (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
@@ -1284,7 +1289,7 @@
       "url": "https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
@@ -1300,7 +1305,7 @@
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Halcyon Days",
         "url": "https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2"
@@ -1316,7 +1321,7 @@
       "url": "https://open.spotify.com/track/0ZPfDxZn5O0L84wvPSN2iG"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
@@ -1332,7 +1337,7 @@
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Better Half of Me",
         "url": "https://open.spotify.com/album/3qMdA1s9e4FiWOlVFViq20"
@@ -1348,7 +1353,7 @@
       "url": "https://open.spotify.com/track/114xcQz8sZ6fxRBTZmgmNE"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Dear Evan Hansen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0yURloAyqmXCjQ1rmX0ltA"

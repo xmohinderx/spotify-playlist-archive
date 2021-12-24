@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,353 likes - 148 songs - 7 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 |
@@ -155,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 147 | [Silent Love](https://open.spotify.com/track/3TigdYvjKBPz1eerCoEoAF) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D) | [Silent Love](https://open.spotify.com/album/6KVB8PB5ig7jmElL1xJDKq) | 4:07 |
 | 148 | [All My Love](https://open.spotify.com/track/3RAgAdJt10E68RQj6NcG7p) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/2p3AHorjKMnURWK4apzAYt) | 2:49 |
 
-Snapshot ID: `MTY0MDMxNTQ5MSwwMDAwMDAwMDQ4MDk5MTgxMjI3OWE3YjBmZjFhYWNmYTFhM2U5NDk1`
+Snapshot ID: `MTY0MDMyNDEyNCwwMDAwMDAwMDQ4MDk5MTgxMjI3OWE3YjBmZjFhYWNmYTFhM2U5NDk1`

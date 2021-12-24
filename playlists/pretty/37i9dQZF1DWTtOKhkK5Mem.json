@@ -1,7 +1,12 @@
 {
   "description": "Male artists singing about love.",
   "name": "In the Arms of a Woman",
-  "snapshot_id": "MTY0MDMxNTUxNCwwMDAwMDAwMGM0OTEyMzY2M2RhODhjNGYwOGI1Yzc2NmI1YWNlZTU2",
+  "num_followers": 618519,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE0NiwwMDAwMDAwMGM0OTEyMzY2M2RhODhjNGYwOGI1Yzc2NmI1YWNlZTU2",
   "tracks": [
     {
       "added_at": "2021-11-23 14:31:35",

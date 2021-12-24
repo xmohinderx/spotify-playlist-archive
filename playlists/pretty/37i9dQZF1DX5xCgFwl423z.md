@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xCgFwl423z.md) - [plain]
 
 > Sylvester, Klaus Nomi, Judy Garland, and a slew of his own songs—peek into the singer\-songwriter’s timeless world, in celebration of Pride.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,931 likes - 30 songs - 1 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rufus Wainwright Spotify Pride Intro](https://open.spotify.com/track/7fgC7BPn2SzVno2d7ooLGI) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Rufus Wainwright \- Spotify Pride](https://open.spotify.com/album/0BFuo3U62oZSwv8ZpYHRRQ) | 0:13 |

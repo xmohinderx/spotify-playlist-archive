@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The '90s had an amazing soundtrack\. Let's reminisce with these R&B jams!
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,760,058 likes - 45 songs - 3 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hot Like Fire \(Timbaland's Groove Mix\) \(feat\. Missy Elliott & Timbaland\) \- Bonus](https://open.spotify.com/track/0AVpYUg9VAvkOqlqfCyn30) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:35 |
@@ -52,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 44 | [It Had to Be You](https://open.spotify.com/track/0UH3m8uxVdQDCtG61CKMXE) | [Silk](https://open.spotify.com/artist/3wVllS5itPK6rpHwfvNce4) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:08 |
 | 45 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |
 
-Snapshot ID: `MTY0MDMxNTcxNywwMDAwMDAwMGRiY2YwZDgyYzg5ZjU4NDAzNzU2ZjQ1OTRkYzdlNGU3`
+Snapshot ID: `MTY0MDMyNDM0NCwwMDAwMDAwMGRiY2YwZDgyYzg5ZjU4NDAzNzU2ZjQ1OTRkYzdlNGU3`

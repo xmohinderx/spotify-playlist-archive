@@ -1,7 +1,12 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
   "name": "Happy Beats",
-  "snapshot_id": "MTY0MDMxNTQ5NSwwMDAwMDAwMDY1MDU3NGE0NTg1YmNiMzMzMTFjZmIzZjM4NDU3ZmIy",
+  "num_followers": 1703640,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDEyOCwwMDAwMDAwMDY1MDU3NGE0NTg1YmNiMzMzMTFjZmIzZjM4NDU3ZmIy",
   "tracks": [
     {
       "added_at": "2021-12-03 05:00:00",

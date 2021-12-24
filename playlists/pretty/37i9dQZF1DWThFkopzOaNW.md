@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThFkopzOaNW.md) - [plain]
 
 > Celebrate the career of one of the most influential <a href="spotify:artist:1mFX1QlezK1lNPKQJkhwWb">R&B groups</a> of all time.
 
+[Spotify](https://open.spotify.com/user/spotify) - 105,899 likes - 46 songs - 3 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Is: New Edition](https://open.spotify.com/track/3l3P1AkiC0I9h6032CFE7b) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [This Is: New Edition](https://open.spotify.com/album/2OrMiTfjAt99XeEELEY55a) | 0:16 |

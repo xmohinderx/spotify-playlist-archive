@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > Because the best things in life are wild and free...
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,951 likes - 100 songs - 6 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 99 | [I Keep Ticking On](https://open.spotify.com/track/3SIeDnfrXhYvsskASZXyaP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/4jRQQN5yl7SgGD3eF0P6gE) | 2:36 |
 | 100 | [Cathedral](https://open.spotify.com/track/0wDd6J3mQ3vApoSKM1Iu2m) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4NDLVoNCIFbnWX3JGY3pR2) | 2:50 |
 
-Snapshot ID: `MTY0MDMxNTY5OCwwMDAwMDAwMGRiOWUzZmU1MWY5MTgyNzlkZDhmZjk5MGIzM2RjNmM4`
+Snapshot ID: `MTY0MDMyNDMyNSwwMDAwMDAwMGRiOWUzZmU1MWY5MTgyNzlkZDhmZjk5MGIzM2RjNmM4`

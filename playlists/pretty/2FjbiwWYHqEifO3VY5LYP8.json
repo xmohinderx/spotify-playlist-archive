@@ -1,6 +1,11 @@
 {
   "description": "A toast to all the artists who will be performing on New Year&#x27;s Eve across the globe.",
   "name": "New Year's 2015",
+  "num_followers": 64,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTAsZWI5MTFiNzAwZjQ2NTYzNzc0NjZjMjg5M2M3NjYzMDllMDBhMzdkMw==",
   "tracks": [
     {

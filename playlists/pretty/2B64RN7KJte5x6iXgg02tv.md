@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2B64RN7KJte5x6iXgg02tv.md) - [plain]
 
 > Focus your gaze and get into the dynamic flow of this engaging, eclectic mix.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,484 likes - 20 songs - 1 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Goddess](https://open.spotify.com/track/6P2NcII68B40d0FoQGkrvD) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:02 |

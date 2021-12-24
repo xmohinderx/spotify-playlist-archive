@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cBprxbt1Fn.md) - [plain]
 
 > Gentle, relaxing <a href="spotify:genre:classical">classical</a> music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 254,067 likes - 67 songs - 5 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rêverie](https://open.spotify.com/track/086sjLPEqdKBgTxbTeCLCv) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alain Planès](https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh) | [Debussy: Estampes, Pour le piano, Piano Works](https://open.spotify.com/album/7jCCOwIktM4dGS6YfQuqTq) | 3:53 |

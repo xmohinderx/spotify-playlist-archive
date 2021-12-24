@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > Check out these throwback R&B jams from the first decade of the 21st century\. Cover: Mariah Carey
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,756,701 likes - 40 songs - 2 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Need A Resolution \(feat\. Timbaland\)](https://open.spotify.com/track/2c7huQpWR29bcXrrvLcG2j) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:02 |
@@ -47,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 39 | [I Like It](https://open.spotify.com/track/0IvTGWbNnCiUi9IOF7ye3F) | [Sammie](https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg), [JT Money](https://open.spotify.com/artist/1pJhCUTEZhR4nYeemYlkVz) | [From The Bottom To The Top](https://open.spotify.com/album/5q8AaOLpjlUQTn9KaQnI0f) | 4:11 |
 | 40 | [Do You](https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 3:48 |
 
-Snapshot ID: `MTY0MDMxNTU4MSwwMDAwMDAwMDhhYmQ5ZTYyOTEwOTM4Y2Q0OTZkNzJjZGUzN2FiM2E2`
+Snapshot ID: `MTY0MDMyNDIxMywwMDAwMDAwMDhhYmQ5ZTYyOTEwOTM4Y2Q0OTZkNzJjZGUzN2FiM2E2`

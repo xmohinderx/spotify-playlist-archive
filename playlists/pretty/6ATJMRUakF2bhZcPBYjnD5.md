@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6ATJMRUakF2bhZcPBYjnD5.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 50 songs - 3 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1ciy5CRswf24uRe815Wnve) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/21hEsQUnuxQw3mFKL9O35g) | 6:33 |

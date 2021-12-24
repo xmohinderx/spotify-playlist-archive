@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/070FVPBKvfu6M5tf4I9rt2.md) - [plain]
 
 > The skies are filled with blues for a joyful ride.
 
+[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 30 songs - 2 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Match Box Blues](https://open.spotify.com/track/73XHbBJYj2cOoa7Z9qweVr) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 7:39 |

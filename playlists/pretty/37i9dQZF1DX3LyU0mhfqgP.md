@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: serpentwithfeet
 
+[Spotify](https://open.spotify.com/user/spotify) - 740,035 likes - 74 songs - 3 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bless The Telephone](https://open.spotify.com/track/2IYQFoDLbQuw8DVNv9ej3B) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Bless The Telephone](https://open.spotify.com/album/6PRil2AODWBAKbziQlPkqV) | 2:50 |
@@ -81,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 73 | [Good Day \(feat\. MisterWives & Curtis Roach\)](https://open.spotify.com/track/6cZTY8gdphkmqXRKI8jBTt) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Curtis Roach](https://open.spotify.com/artist/38KfCZGlEjHIJDKDwH132d) | [Good Day \(feat\. MisterWives & Curtis Roach\)](https://open.spotify.com/album/0LuAEXGmnQD1CenvT6DhsB) | 3:36 |
 | 74 | [Pride First](https://open.spotify.com/track/4ZjCl1QB8VxPjkFPwSlrbi) | [Carson James Argenna](https://open.spotify.com/artist/5ghzwfVbxddHKxssgrc42Y) | [Pride First](https://open.spotify.com/album/4Zm0jPCmdXJkjwkRsKh8J2) | 3:15 |
 
-Snapshot ID: `MTY0MDMxNTY1NiwwMDAwMDAwMDdkMzE3OWJlM2VmNTIxMWNmZDBmM2VjNTE0NTVhMjkz`
+Snapshot ID: `MTY0MDMyNDI4NSwwMDAwMDAwMDdkMzE3OWJlM2VmNTIxMWNmZDBmM2VjNTE0NTVhMjkz`

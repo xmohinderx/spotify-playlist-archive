@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5PzDJIsyNnFxgu0t6Lf41G.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 40 songs - 2 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Teenage Rhythm](https://open.spotify.com/track/1r1NhAYNnIMvvLLhWnSrU1) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Empire](https://open.spotify.com/album/4bbUBKSCoyLSsaucXSM3Z0) | 2:36 |

@@ -1,6 +1,11 @@
 {
   "description": "",
   "name": "Fuck Valentine!",
+  "num_followers": 42,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MyxlMDcyMDg1MTk5OTg3NjdkN2VlYjU0OTI4YjI5MDE3ZTdhNTE1Yzk5",
   "tracks": [
     {

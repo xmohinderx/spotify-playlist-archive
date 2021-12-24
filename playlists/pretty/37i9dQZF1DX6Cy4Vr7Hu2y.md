@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: JEON SOMI\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 689,347 likes - 64 songs - 3 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
@@ -71,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/track/63BGyvr6NuhA0q5NimghaG) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [The Only \(feat\. IRENE of Red Velvet\)](https://open.spotify.com/album/4uXskh6wXrlNDZ4UrSF8Lh) | 3:06 |
 | 64 | [Need You \- solo ver.](https://open.spotify.com/track/4xzpDr5XZoorumaEv178Od) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Need You \(solo ver.\)](https://open.spotify.com/album/1iHezxzAqv60AEr6dwUDy1) | 3:09 |
 
-Snapshot ID: `MTY0MDMxNTcxMCwwMDAwMDAwMGNiMjBhZWE1NTY2ZjcxMzQyODRiNDU4OTI2YjgzYmFi`
+Snapshot ID: `MTY0MDMyNDMzOCwwMDAwMDAwMGNiMjBhZWE1NTY2ZjcxMzQyODRiNDU4OTI2YjgzYmFi`

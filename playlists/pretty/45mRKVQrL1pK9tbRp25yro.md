@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/45mRKVQrL1pK9tbRp25yro.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 20 songs - 1 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Walker](https://open.spotify.com/track/0Nk7bSn0MItonkR0GNs3mj) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:53 |

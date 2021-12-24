@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Tails.
 
+[Spotify](https://open.spotify.com/user/spotify) - 706,889 likes - 125 songs - 7 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 |
@@ -132,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [Lost Someone](https://open.spotify.com/track/1ay9kjKoplo5f0FBCkVkTG) | [HAELIUM](https://open.spotify.com/artist/2BTb9bZeph6qXO5EmjVbbm) | [Lost Someone](https://open.spotify.com/album/3WWjgicP39dV8MUWRV1uIL) | 3:44 |
 | 125 | [Electric Feel](https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Electric Feel](https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz) | 3:12 |
 
-Snapshot ID: `MTY0MDMxNTgyNSwwMDAwMDAwMDBjNGU2ODgzZTcwYTM3ZWNmZmVjMmQ3MDA3NGY2MGJm`
+Snapshot ID: `MTY0MDMyNDQ0OCwwMDAwMDAwMDBjNGU2ODgzZTcwYTM3ZWNmZmVjMmQ3MDA3NGY2MGJm`

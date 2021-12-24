@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0TmNZR8QmL60k1gWWa37fg.md) - [plain]
 
 > Catch up on all the performers at the 2013 Macy's Thanksgiving Day Parade.
 
+[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 28 songs - 1 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |

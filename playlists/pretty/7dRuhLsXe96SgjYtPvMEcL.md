@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7dRuhLsXe96SgjYtPvMEcL.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 85 likes - 28 songs - 1 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Next Year](https://open.spotify.com/track/5Yz54ZJ1yQWYWWvGjpBori) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon \(Deluxe\)](https://open.spotify.com/album/2waaik6T3sBEtJTVDmoYRs) | 4:11 |

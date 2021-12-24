@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vYEZez2Jm.md) - [plain]
 
 > Essential music from the singular artist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 81,549 likes - 38 songs - 2 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You'll miss me when I'm not around](https://open.spotify.com/track/5CCI3yvULsQRQacPgQ1NCO) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 2:41 |

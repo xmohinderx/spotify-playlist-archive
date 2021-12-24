@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7J8HlMdOq82WJAU6JmhR5d.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 11,504 likes - 71 songs - 3 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2JPjsCvn379yvhrQ3Mdlfv) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 5:15 |

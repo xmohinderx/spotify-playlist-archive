@@ -1,7 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
   "name": "Punk Rock Workout",
-  "snapshot_id": "MTY0MDMxNTU5OSwwMDAwMDAwMDAxNjNlNmQxN2U1MTJkNzY4NTU1MzNjOGNlNDJiNGM0",
+  "num_followers": 517546,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIzMCwwMDAwMDAwMDAxNjNlNmQxN2U1MTJkNzY4NTU1MzNjOGNlNDJiNGM0",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",

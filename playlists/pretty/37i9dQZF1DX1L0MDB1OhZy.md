@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L0MDB1OhZy.md) - [plain]
 
 > Love Books? Free your reading from the tyranny of page and screen with this collection of audiobooks\. Follow for frequent additions!
 
+[Spotify](https://open.spotify.com/user/spotify) - 237,126 likes - 122 songs - 2 day 20 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Invisible Man \- Part One, By G\. K\. Chesterton](https://open.spotify.com/track/2NHYaKkLXHDByzXXfVzBBr) | [Bart Wolffe](https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk) | [Short Story Collection](https://open.spotify.com/album/0wcGSOdJdvqtS1U1DXHCHc) | 28:43 |

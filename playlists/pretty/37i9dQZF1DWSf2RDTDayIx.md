@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,640 likes - 150 songs - 7 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pick Me Up](https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Pick Me Up](https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0) | 2:54 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Holiday \(feat\. Séb Mont\)](https://open.spotify.com/track/4tVmnuRlT7buDLZa2hc7ao) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Séb Mont](https://open.spotify.com/artist/4lFWNwqQbywI4qCQ9PeL7V) | [Holiday \(feat\. Séb Mont\)](https://open.spotify.com/album/3CxeBaihWioaOCOVmWLxFK) | 2:36 |
 | 150 | [Finally Ready \(feat\. Billy Porter\) \- David Penn Remix](https://open.spotify.com/track/1iorKFVLmIetGK49hoOoK3) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Finally Ready \(feat\. Billy Porter\) \[Remixes\]](https://open.spotify.com/album/3ykbnn15S97CpnOsVgH9aY) | 3:55 |
 
-Snapshot ID: `MTY0MDMxNTQ5NSwwMDAwMDAwMDY1MDU3NGE0NTg1YmNiMzMzMTFjZmIzZjM4NDU3ZmIy`
+Snapshot ID: `MTY0MDMyNDEyOCwwMDAwMDAwMDY1MDU3NGE0NTg1YmNiMzMzMTFjZmIzZjM4NDU3ZmIy`

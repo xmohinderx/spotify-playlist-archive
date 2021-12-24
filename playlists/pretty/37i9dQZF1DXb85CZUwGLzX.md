@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb85CZUwGLzX.md) - [plain]
 
 > Silly\-walk your way through the entire Monty Python catalogue.
 
+[Spotify](https://open.spotify.com/user/spotify) - 13,941 likes - 436 songs - 16 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intro \(The Meaning Of Life\)](https://open.spotify.com/track/4GCITNoIP1Gd3zi4XkObT6) | [Monty Python](https://open.spotify.com/artist/5IxfhXIHjAOAqibxl90NZO) | [The Meaning Of Life](https://open.spotify.com/album/4TwAy8PBKKVbvN8e3aoT7o) | 0:19 |

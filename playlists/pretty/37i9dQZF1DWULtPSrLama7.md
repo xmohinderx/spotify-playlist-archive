@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULtPSrLama7.md) - [plain]
 
 > Former member of The Beatles.
 
+[Spotify](https://open.spotify.com/user/spotify) - 26,996 likes - 42 songs - 2 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Photograph](https://open.spotify.com/track/1hwN2eAwsXgktvw9Qe8TrP) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Ringo](https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm) | 3:59 |

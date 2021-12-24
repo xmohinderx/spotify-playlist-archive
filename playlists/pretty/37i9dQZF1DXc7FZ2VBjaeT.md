@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 
 > Listen to all her biggest hits, in one place.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,888 likes - 49 songs - 3 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Romance](https://open.spotify.com/track/5WFIK6GKHpNXfjlH3BSnep) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(UK Deluxe\)](https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x) | 4:54 |

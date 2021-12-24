@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/23sHdrU9wnUTqYjHZQ101O.md) - [plain]
 
 > Sweden couldn&\#x27;t get enough of these tracks in 2014! See how the rest of the world listened at spotify.com&\#x2F;2014\. \*Includes artists currently available on Spotify.
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,857 likes - 100 songs - 6 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I See Fire](https://open.spotify.com/track/5pY3ovFxbvAg7reGZjJQSp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:59 |

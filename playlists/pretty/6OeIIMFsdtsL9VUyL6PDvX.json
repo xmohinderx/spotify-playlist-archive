@@ -1,6 +1,11 @@
 {
   "description": "All the hottest current Indie music you need....in one stop.",
   "name": "Indie One Stop",
+  "num_followers": 65,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "OSw4ZmZhMGQ5MzdjNzMzZDYwZTIxNzE0YjQzYzI2ZWQ5ZWFhNTE1M2Q2",
   "tracks": [
     {

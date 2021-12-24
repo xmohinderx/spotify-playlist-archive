@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfMnnPBigKP.md) - [plain]
 
 > 50 outstanding pieces from the repertoire of <a href="https://en.wikipedia.org/wiki/Concert\_band">concert band</a> \(also called wind ensemble, symphonic band or wind symphony\)\. From cornerstone works by Dvořák, Stravinsky, Grainger to new classics by John Corigliano, David Maslanka, Eric Whitacre, and many more\. Also follow: <a href="spotify:user:spotify:playlist:73OZGA9KbKCzhNe7FcCp17">brass band playlist</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 20,027 likes - 50 songs - 6 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [October](https://open.spotify.com/track/0NiKlQjjwoP2IoBhzuwf9j) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [North Texas Wind Symphony](https://open.spotify.com/artist/1MU0DtoPi3KRw38z1NnV5E), [Eugene Migliaro Corporon](https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo) | [North Texas Wind Symphony: Passions](https://open.spotify.com/album/5Z7uYpeJdb31NOIpM9Sw3o) | 7:32 |

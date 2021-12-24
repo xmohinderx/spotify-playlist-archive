@@ -1,7 +1,12 @@
 {
   "description": "Up and down I-95. Cover: Joyner Lucas",
   "name": "State of Mind",
-  "snapshot_id": "MTYzOTcxNzIwMCwwMDAwMDRkMjAwMDAwMTdkYzZjMmUxMzIwMDAwMDE3ZDdkYTg0YTg5",
+  "num_followers": 394967,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyMzg5MywwMDAwMDRkMzAwMDAwMTdkZWFlYzQ5NDkwMDAwMDE3ZDdkYTg0YTg5",
   "tracks": [
     {
       "added_at": "2021-12-17 05:00:00",
@@ -74,6 +79,30 @@
       "duration_ms": 215303,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+    },
+    {
+      "added_at": "2021-12-24 05:31:33",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 190261,
+      "name": "Wave Gods",
+      "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -230,6 +259,22 @@
       "duration_ms": 91406,
       "name": "Robert Horry Freestyle",
       "url": "https://open.spotify.com/track/1YqWbETAgGG8sKS5yEFDHB"
+    },
+    {
+      "added_at": "2021-12-24 05:31:33",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 171398,
+      "name": "Meet Joe Black",
+      "url": "https://open.spotify.com/track/6DxuDt3ixGmXWKOTwaA2vz"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -790,22 +835,6 @@
     {
       "added_at": "2021-10-29 04:00:00",
       "album": {
-        "name": "I Don't Really Care",
-        "url": "https://open.spotify.com/album/4QpszijvM9A6JfeitbD0Ba"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 160940,
-      "name": "I Don't Really Care",
-      "url": "https://open.spotify.com/track/7AFdKKY8VN6gijdxQJgQr4"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
         "name": "HIGH",
         "url": "https://open.spotify.com/album/0GQDQ69wAjCuWWre6M4pgA"
       },
@@ -854,22 +883,6 @@
       "duration_ms": 107780,
       "name": "Insane",
       "url": "https://open.spotify.com/track/22PUvmUMfQuj08xmmDhKbD"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Double Or Nothing",
-        "url": "https://open.spotify.com/album/0KQWR05DbuJE7h41HeYtvO"
-      },
-      "artists": [
-        {
-          "name": "Don Q",
-          "url": "https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee"
-        }
-      ],
-      "duration_ms": 154275,
-      "name": "Say That",
-      "url": "https://open.spotify.com/track/4N8YWfJZP6MaIk0RbEZmNF"
     },
     {
       "added_at": "2021-10-01 04:00:00",

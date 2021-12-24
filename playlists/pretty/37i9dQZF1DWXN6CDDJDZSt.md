@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 
+[Spotify](https://open.spotify.com/user/spotify) - 44,167 likes - 68 songs - 4 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Turandot / Act 3: "Nessun dorma!"](https://open.spotify.com/track/74WjYdm3Lvbwnds4thYPUU) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [John Alldis Choir](https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz), [Wandsworth School Boys Choir](https://open.spotify.com/artist/3Al8lu5X4j3QY40s4OIawp), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Zubin Mehta](https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x) | [Puccini: Turandot \- Highlights](https://open.spotify.com/album/4sD3O2NsmbzU7hkjgTpbjG) | 2:57 |

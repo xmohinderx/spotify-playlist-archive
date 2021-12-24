@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8QVh1ew4PD.md) - [plain]
 
 > For your listening pleasure: relax with classic literature and the best of Hollywood and Broadway on the air\. Updated regularly.
 
+[Spotify](https://open.spotify.com/user/spotify) - 22,003 likes - 30 songs - 19 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [His Girl Friday](https://open.spotify.com/track/6BFWWGnEEn4tAqTYwvMuCu) | [The Lux Radio Theatre](https://open.spotify.com/artist/2kVpl3DifUdHLilmhpYZJF) | [His Girl Friday](https://open.spotify.com/album/5SlXYbDBwb1ZaQkTk2DXLP) | 58:34 |

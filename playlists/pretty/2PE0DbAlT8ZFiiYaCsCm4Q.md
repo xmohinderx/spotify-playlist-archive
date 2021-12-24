@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2PE0DbAlT8ZFiiYaCsCm4Q.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 50 songs - 2 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Theme From "A Summer Place"](https://open.spotify.com/track/42asNpcCm66g802zFqQ1Ix) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [An Education OST](https://open.spotify.com/album/7IdPqqpC97u7QRKgpSfaqZ) | 2:22 |

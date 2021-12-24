@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 
 > a new wave of indie born on the internet\. Cover: Lovejoy
 
+[Spotify](https://open.spotify.com/user/spotify) - 304,169 likes - 100 songs - 5 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 | 99 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 100 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 |
 
-Snapshot ID: `MTY0MDMxNTc3NywwMDAwMDAwMDYzZThlMWE0OGNiY2I5ZDM4NTJkZTExOTFkMjU2ZGU0`
+Snapshot ID: `MTY0MDMyNDQwMSwwMDAwMDAwMDYzZThlMWE0OGNiY2I5ZDM4NTJkZTExOTFkMjU2ZGU0`

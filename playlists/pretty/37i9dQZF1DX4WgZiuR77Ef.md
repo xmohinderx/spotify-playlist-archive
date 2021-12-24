@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound.
 
+[Spotify](https://open.spotify.com/user/spotify) - 379,300 likes - 114 songs - 7 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Celebrations](https://open.spotify.com/track/4omeUG7hXLZsYGP3kgk1cz) | [Lo Greco Bros](https://open.spotify.com/artist/4S7V7SMXxUwFzhGuddiAiY), [Fusion Funk Foundation](https://open.spotify.com/artist/6Lw21oFES51b7oYLLSbPfF) | [Celebrations](https://open.spotify.com/album/7scmghC0RGnIWGsDwUftiV) | 5:12 |

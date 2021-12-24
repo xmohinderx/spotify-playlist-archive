@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 660,328 likes - 222 songs - 10 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Imja Tse](https://open.spotify.com/track/0ihTAiX3o5zttzHd7m8FFg) | [Dawa Sherpa](https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN) | [Imja Tse](https://open.spotify.com/album/7exwPo0tOR6HV3DNsCHiaT) | 2:56 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise & shine with the perfect blend of folk and acoustic.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,422 likes - 90 songs - 5 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
@@ -97,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 89 | [Call the Days](https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Listen to Formation, Look for the Signs](https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR) | 3:32 |
 | 90 | [Something To Lose](https://open.spotify.com/track/5tS60Dco9CkCtfRrHY7DGH) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/7Ms7gALrFXxia5Y6qagsYJ) | 3:12 |
 
-Snapshot ID: `MTY0MDMxNTgyMywwMDAwMDAwMDE2ZjkzNzI2M2I5NDE0N2EwZTg1NjBhMjgzMzY1ZjM5`
+Snapshot ID: `MTY0MDMyNDQ0NiwwMDAwMDAwMDE2ZjkzNzI2M2I5NDE0N2EwZTg1NjBhMjgzMzY1ZjM5`

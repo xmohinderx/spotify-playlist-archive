@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoCDtOBjhpE.md) - [plain]
 
 > Listen to the most streamed female artists in the US this year!
 
+[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 20 songs - 1 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Work](https://open.spotify.com/track/32lmL4vQAAotg6MrJnhlQZ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI](https://open.spotify.com/album/3Q149ZH46Z0f3oDR7vlDYV) | 3:39 |

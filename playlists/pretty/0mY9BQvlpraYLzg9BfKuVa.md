@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0mY9BQvlpraYLzg9BfKuVa.md) - [plain]
 
 > Stuck in stop and go? This should help.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,313 likes - 72 songs - 4 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |

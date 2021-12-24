@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0aXP5u51kHZiKvxkUPq0IL.md) - [plain]
 
 > Score your day with some signature indie ballads.
 
+[Spotify](https://open.spotify.com/user/spotify) - 226 likes - 57 songs - 3 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In The Morning](https://open.spotify.com/track/5ARxzI7euqmCqljviBbsM2) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Birthdays \[Deluxe Edition\]](https://open.spotify.com/album/2OyV4tTcf9SeD8LptMfldT) | 4:01 |

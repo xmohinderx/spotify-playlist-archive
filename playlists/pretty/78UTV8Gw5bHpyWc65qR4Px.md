@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/78UTV8Gw5bHpyWc65qR4Px.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 50 songs - 2 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Way We Were](https://open.spotify.com/track/1vZTgn4JXWMahR8r99ug5H) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Way We Were](https://open.spotify.com/album/0vTu2dD57pVlPvd3pfxUSS) | 3:31 |

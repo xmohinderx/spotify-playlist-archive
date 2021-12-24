@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2uVP1agvV5rba3MqLQ0pzy.md) - [plain]
 
 > Despite their nomenclature defying eclecticism, these folk inspired artists share a collective penchant for welding experimentation with tradition.
 
+[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 45 songs - 2 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Desert Wine](https://open.spotify.com/track/6uT4E6OeVm0W0kIHOm3Hjo) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [If You're Goin' That Way](https://open.spotify.com/album/2phOizVzB9gwQXQRr7ECvQ) | 1:54 |

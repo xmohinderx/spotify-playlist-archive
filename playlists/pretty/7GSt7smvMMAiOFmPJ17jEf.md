@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 50 songs - 2 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stranger On The Shore \- Re\-Recording](https://open.spotify.com/track/3I2j9uOUl4YkyoZgjSo9vF) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:49 |

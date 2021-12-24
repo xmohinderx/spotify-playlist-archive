@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2b5yd7Ox7vb4OcPOOVYwFZ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 20 songs - 1 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hold On](https://open.spotify.com/track/5OEzo9ENlUEU9x9O1nt3Aw) | [His Majesty Andre](https://open.spotify.com/artist/7aYSw3m3lpP301oyLaJD5H) | [Disco Circus Vol.1](https://open.spotify.com/album/6Lfx5R6g8vkT0ehDy5HfSP) | 4:28 |

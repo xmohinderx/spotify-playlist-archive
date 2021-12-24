@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZais6SIaMts.md) - [plain]
 
 > The pivotal tracks by the genre\-redefining <a href="spotify:artist:0cmWgDlu9CwTgxPhf403hb">producer</a>, composer, and DJ.
 
+[Spotify](https://open.spotify.com/user/spotify) - 136,907 likes - 50 songs - 4 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |

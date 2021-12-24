@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 
 > Shut out the noise around you with these acoustic instrumentals.
 
+[Spotify](https://open.spotify.com/user/spotify) - 548,103 likes - 62 songs - 3 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Two Tigers](https://open.spotify.com/track/0p3coZjTD0Gno4gxmwJjoL) | [Dylan Ryche](https://open.spotify.com/artist/0GvFKjJTMXpX16KPTxFw2i) | [Two Tigers](https://open.spotify.com/album/7FvDer0ts1pXPBfliAND0e) | 4:08 |

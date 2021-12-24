@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > Dive into a mix of electric roots rock and folk\-infused alternative\. Cover: The Brook & The Bluff
 
+[Spotify](https://open.spotify.com/user/spotify) - 472,161 likes - 120 songs - 7 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Misnomer](https://open.spotify.com/track/3awBLJoDSXa3TjQeDNhGlq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa) | 3:43 |
@@ -127,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 119 | [Wired](https://open.spotify.com/track/4RjB5oKr2A1newpYSoweDd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [Wired](https://open.spotify.com/album/2XP0xgThQjhcAeJGYCZO6c) | 4:40 |
 | 120 | [Blood Hunters](https://open.spotify.com/track/69HcvrXZ68cJKE0lreubP3) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Blood Hunters](https://open.spotify.com/album/4fwcICz8hVOSxjJoXbjXIH) | 3:19 |
 
-Snapshot ID: `MTY0MDMxNTc4NCwwMDAwMDAwMGNiODU3NzM1YzgzMjc2Y2QwN2I1YjlmZmJlOGU5NDlj`
+Snapshot ID: `MTY0MDMyNDQwOCwwMDAwMDAwMGNiODU3NzM1YzgzMjc2Y2QwN2I1YjlmZmJlOGU5NDlj`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2hirOuzhv3EK3AgEV2nKZn.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 68 likes - 15 songs - 1 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ladies Day](https://open.spotify.com/track/0khWfNs8xZmKXQlZ3zZZUs) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [The Best Of Bobbi Humphrey](https://open.spotify.com/album/25IGvmX6gTgELVvq4OtKi3) | 6:16 |

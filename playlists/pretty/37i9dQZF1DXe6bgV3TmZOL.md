@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,352,471 likes - 120 songs - 7 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 |
@@ -127,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 119 | [Silence Means Nothing \(feat\. Liam Cormier\)](https://open.spotify.com/track/1iG8AeszL0CUIp6ryOG1za) | [River Becomes Ocean](https://open.spotify.com/artist/6xLpAXwI7XGsRgroyZCY3L), [Liam Cormier](https://open.spotify.com/artist/5IrAy16J58yAZf42VLRa5m) | [Silence Means Nothing \(feat\. Liam Cormier\)](https://open.spotify.com/album/7B12MAQST7TeOyK4ORK8Ee) | 3:00 |
 | 120 | [Wash It All Away](https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:44 |
 
-Snapshot ID: `MTY0MDMxNTgzMCwwMDAwMDAwMDdjYjhhY2JiMTFlN2NjN2QxNTEzODg3NDM4YzJiYWYy`
+Snapshot ID: `MTY0MDMyNDQ1MiwwMDAwMDAwMDdjYjhhY2JiMTFlN2NjN2QxNTEzODg3NDM4YzJiYWYy`

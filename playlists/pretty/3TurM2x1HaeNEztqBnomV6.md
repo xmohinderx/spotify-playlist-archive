@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3TurM2x1HaeNEztqBnomV6.md) - [plain]
 
 > Get through your workday with 8 hours of singer\-songwriter tunes.
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,495 likes - 123 songs - 7 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marianne](https://open.spotify.com/track/4rlqeDfqR1E2112HCeOeVi) | [Matt Wertz](https://open.spotify.com/artist/6JVRYNneRsYNInT4TNr5vU) | [Twenty Three Places](https://open.spotify.com/album/2DtdEoYFUKomUzIVufijeW) | 2:53 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Goldfinger
 
+[Spotify](https://open.spotify.com/user/spotify) - 293,886 likes - 100 songs - 5 hr 27 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 2:23 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Level Up \- Radio Edit](https://open.spotify.com/track/1tUfaWeAysLESckeL3HfvD) | [King Prawn](https://open.spotify.com/artist/1Fjm05W0fV3rvWRW3SFZY9) | [Level Up](https://open.spotify.com/album/1r16rzY7znEyxpxSL15ER0) | 3:48 |
 | 100 | [Your Way, Your Time](https://open.spotify.com/track/3BS3XXGm0TJfSbwGzoYzN6) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Your Way, Your Time](https://open.spotify.com/album/0kQ3Y5xmbEoeZKeOYQ1MVy) | 2:45 |
 
-Snapshot ID: `MTY0MDMxNTczMywwMDAwMDAwMDNjMjhjNTgxNmU4ZGU0YjgxMDcwMTU0MDg5OTk1NWQ2`
+Snapshot ID: `MTY0MDMyNDM1OSwwMDAwMDAwMDNjMjhjNTgxNmU4ZGU0YjgxMDcwMTU0MDg5OTk1NWQ2`

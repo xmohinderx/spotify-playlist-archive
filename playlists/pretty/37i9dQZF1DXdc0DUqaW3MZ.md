@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Bonobo and Jordan Rakei
 
+[Spotify](https://open.spotify.com/user/spotify) - 254,586 likes - 70 songs - 4 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 |
@@ -77,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Marrakech](https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Beat Tape 1](https://open.spotify.com/album/2FVfODkF1inBzSwB2plsYk) | 2:08 |
 | 70 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 |
 
-Snapshot ID: `MTY0MDMxNTgyMywwMDAwMDAwMDM3M2RiMWRlZjRlNmY2NzI5NmY0MWE2ZDAyMThkODFk`
+Snapshot ID: `MTY0MDMyNDQ0NSwwMDAwMDAwMDM3M2RiMWRlZjRlNmY2NzI5NmY0MWE2ZDAyMThkODFk`

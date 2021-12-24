@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GiJlVeD6Ou.md) - [plain]
 
 > Carole King's most essential tracks, all in one playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 106,223 likes - 46 songs - 2 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You've Got a Friend](https://open.spotify.com/track/0nxQwWMGFX6mXPQCVPKq2R) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/1JiKH7SywhaUeW79SR5vLJ) | 5:08 |

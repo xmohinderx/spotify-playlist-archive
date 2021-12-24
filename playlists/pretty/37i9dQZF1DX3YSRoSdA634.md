@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,260,840 likes - 200 songs - 12 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
@@ -207,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [Sinking Ship](https://open.spotify.com/track/7orUPsozJ19Cyxv5ozoREr) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Expectations](https://open.spotify.com/album/13bRrqlPDErhpXDUxYQCUU) | 4:07 |
 | 200 | [Talk](https://open.spotify.com/track/5Kwi8hF3UyV8FfmzrdkDqE) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/3OQSAcBqlGTH1ydq7MUt8Z) | 4:28 |
 
-Snapshot ID: `MTY0MDMxNTY1OSwwMDAwMDAwMDg0YTRmYzc1NDhhMjgzNzdiODA3NmRiMTQ4YmY3Yjlm`
+Snapshot ID: `MTY0MDMyNDI4OCwwMDAwMDAwMDg0YTRmYzc1NDhhMjgzNzdiODA3NmRiMTQ4YmY3Yjlm`

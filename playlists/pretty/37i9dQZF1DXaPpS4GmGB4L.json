@@ -1,7 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
   "name": "Upbeat Blues",
-  "snapshot_id": "MTY0MDMxNTc3NiwwMDAwMDAwMGUwNWIyYTU0ZTJhODFlNzY2Y2QyNWFhYWRkMDcxMzIz",
+  "num_followers": 12893,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQwMSwwMDAwMDAwMGUwNWIyYTU0ZTJhODFlNzY2Y2QyNWFhYWRkMDcxMzIz",
   "tracks": [
     {
       "added_at": "2021-12-20 14:32:08",

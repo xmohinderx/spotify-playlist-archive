@@ -1,7 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
   "name": "Not Quite Classical",
-  "snapshot_id": "MTY0MDMxNTUwMSwwMDAwMDAwMGViNTZhMjJmM2RjNjQ3YmMzODg4Y2E5ZGVmNzJmNTVj",
+  "num_followers": 196890,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDEzMywwMDAwMDAwMGViNTZhMjJmM2RjNjQ3YmMzODg4Y2E5ZGVmNzJmNTVj",
   "tracks": [
     {
       "added_at": "2021-12-10 04:00:00",

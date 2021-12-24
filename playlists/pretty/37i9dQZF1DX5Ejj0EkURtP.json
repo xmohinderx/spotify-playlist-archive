@@ -1,7 +1,12 @@
 {
   "description": "The biggest songs of the 2010s.",
   "name": "All Out 2010s",
-  "snapshot_id": "MTY0MDMxNTY5MiwwMDAwMDAwMGIxZTQwMjllZTgzM2VhZDdhOWY0OTFhNjc1NGZmNjVl",
+  "num_followers": 6220463,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMyMCwwMDAwMDAwMGIxZTQwMjllZTgzM2VhZDdhOWY0OTFhNjc1NGZmNjVl",
   "tracks": [
     {
       "added_at": "2021-12-22 08:41:09",

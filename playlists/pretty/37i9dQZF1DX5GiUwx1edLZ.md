@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
+[Spotify](https://open.spotify.com/user/spotify) - 271,591 likes - 100 songs - 5 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Better Days \(NEIKED x Mae Muller\) \- Acoustic](https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Better Days \(NEIKED x Mae Muller\) \[Acoustic\]](https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0) | 2:55 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Satellite / Stealing Time](https://open.spotify.com/track/7fBKJ3CxmG1LQHexTIY7g7) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Acoustic](https://open.spotify.com/album/6eIqvDgrIwurKXnPP6WGKp) | 5:04 |
 | 100 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 |
 
-Snapshot ID: `MTY0MDMxNTY5MywwMDAwMDAwMGU5OWRjZDQzZDFiNWViZDE5OGQ2ZDNkODNiZmU3ZmEy`
+Snapshot ID: `MTY0MDMyNDMyMSwwMDAwMDAwMGU5OWRjZDQzZDFiNWViZDE5OGQ2ZDNkODNiZmU3ZmEy`

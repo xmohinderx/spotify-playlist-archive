@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5QOzTki17fEWKoUVcvTrI2.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 20 songs - 1 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ho Hey](https://open.spotify.com/track/1jdNcAD8Ir58RlsdGjJJdx) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/5h7fx8ILwOZ3I5yQ4eGBl7) | 2:41 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ONeLSIu0Ai.md) - [plain]
 
 > The best Modernist music from the early 20th century\. Impressionism with Ravel and Debussy\. Expressionism with Schoenberg and Webern\. Neoclassical with Stravinsky and Bartok.
 
+[Spotify](https://open.spotify.com/user/spotify) - 25,239 likes - 50 songs - 6 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sonata for Four Hands, FP 8: I\. Prelude](https://open.spotify.com/track/1TYbfBOzoLgL2A2vvnbcis) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Lucille Chung](https://open.spotify.com/artist/1mH857zNdpyw98xFlQvGBc), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Poulenc: Works for Piano Solo and Duo](https://open.spotify.com/album/3v6G8pb0yn5MCMRxlNBmPm) | 2:01 |

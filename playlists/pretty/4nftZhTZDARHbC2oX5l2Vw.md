@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4nftZhTZDARHbC2oX5l2Vw.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 511 likes - 50 songs - 3 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Candle In The Wind](https://open.spotify.com/track/5k8xuM1hz30R3k5673s3q5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6CPTYd8BQRbF6VzhnTWIfL) | 3:50 |

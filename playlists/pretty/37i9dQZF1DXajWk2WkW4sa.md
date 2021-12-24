@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajWk2WkW4sa.md) - [plain]
 
 > <a href="spotify:artist:7ahoEOUbXDm3vYTvOHWXbe">Kathy Griffin</a> joins us to \#PressPlayForPride\. Discover more at <a href="https://open.spotify.com/genre/pride">spotify.com/pride.</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,035 likes - 23 songs - 1 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kathy Griffin: Intro \- \#PressPlayForPride](https://open.spotify.com/track/51NpP0s1nQLhoqWg49uh35) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:14 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzrEOEOM5Qu.md) - [plain]
 
 > New and classic Christmas tales for kids.
 
+[Spotify](https://open.spotify.com/user/spotify) - 51,628 likes - 25 songs - 3 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Night Before Christmas \(Story\)](https://open.spotify.com/track/6xzTn36XLj6YGfmkmNBZ5B) | [Kidzone](https://open.spotify.com/artist/6i1qu6ITcSL2Ss6qr7Nzkn) | [Christmas Carols & Stories \(A Treasury of Festive Fun\)](https://open.spotify.com/album/53IkHZsY9R3oJ52BSS5twD) | 3:54 |

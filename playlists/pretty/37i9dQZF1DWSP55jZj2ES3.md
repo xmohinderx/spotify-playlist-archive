@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > grab a blanket and get the good vibes going
 
+[Spotify](https://open.spotify.com/user/spotify) - 354,907 likes - 50 songs - 2 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 49 | [Broke](https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Broke](https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z) | 3:27 |
 | 50 | [i guess?](https://open.spotify.com/track/235m3adTb5WObAJWOonO4f) | [elias](https://open.spotify.com/artist/7eRBEVzcZk4XyIdF0Btfg4), [Thiago](https://open.spotify.com/artist/2XgbftqQ72jEj2H7m0V5B6), [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s) | [i guess?](https://open.spotify.com/album/2z7HUrHkpJxvDixk8Seqlm) | 3:14 |
 
-Snapshot ID: `MTY0MDMxNTQ5MCwwMDAwMDAwMGU1MWY1NTE1MGMzZjgyNThiYzVkNzFlYjBiMDc2YjM5`
+Snapshot ID: `MTY0MDMyNDEyMywwMDAwMDAwMGU1MWY1NTE1MGMzZjgyNThiYzVkNzFlYjBiMDc2YjM5`

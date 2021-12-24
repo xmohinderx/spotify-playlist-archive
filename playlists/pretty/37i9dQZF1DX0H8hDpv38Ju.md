@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
+[Spotify](https://open.spotify.com/user/spotify) - 644,250 likes - 40 songs - 3 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Best Of The Gap Band](https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL) | 6:16 |
@@ -47,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 39 | [Keep On Lovin' Me](https://open.spotify.com/track/3SiUv5vf79EuP0VjIZJ9A2) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Love for Love](https://open.spotify.com/album/1o1QIPcHjUEqzAtVWubyZN) | 5:49 |
 | 40 | [Love Changes \(with Meli'sa Morgan\) \- Digitally Remastered 1998](https://open.spotify.com/track/2TQAKues8mUovMsp6u8gpn) | [Kashif](https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M), [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [The Definitive Collection](https://open.spotify.com/album/18qv2M2UpaSk0H1f0lRauJ) | 4:42 |
 
-Snapshot ID: `MTY0MDMxNTYwMSwwMDAwMDAwMDQ1MWEyODczOTlhNGQzYjcyMDI2YTFjZmVhMzA2NzRl`
+Snapshot ID: `MTY0MDMyNDIzMiwwMDAwMDAwMDQ1MWEyODczOTlhNGQzYjcyMDI2YTFjZmVhMzA2NzRl`

@@ -1,7 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
   "name": "Avant-Jazz",
-  "snapshot_id": "MTY0MDMxNTY2MywwMDAwMDAwMDUxZmViNDVmYzYyYThmNThhOWE1YzgwMjVmYjBlZjQx",
+  "num_followers": 28941,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI5MSwwMDAwMDAwMDUxZmViNDVmYzYyYThmNThhOWE1YzgwMjVmYjBlZjQx",
   "tracks": [
     {
       "added_at": "2021-11-19 05:02:00",

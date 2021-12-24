@@ -1,7 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
   "name": "Classic Hardcore",
-  "snapshot_id": "MTY0MDMxNTc3NCwwMDAwMDAwMDMwNDM2OTQxZTBiNTQ3ODgwODFlYjExMzFhMWZiMzUz",
+  "num_followers": 149544,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM5OCwwMDAwMDAwMDMwNDM2OTQxZTBiNTQ3ODgwODFlYjExMzFhMWZiMzUz",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",

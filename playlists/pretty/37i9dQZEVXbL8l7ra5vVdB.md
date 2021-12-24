@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL8l7ra5vVdB.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Russia.
 
+[Spotify](https://open.spotify.com/user/spotify) - 107,712 likes - 50 songs - 2 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/track/1Kp2TF4fFYjJPqEMf1U0RK) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [17 SEVENTEEN](https://open.spotify.com/artist/496nklFjflGjJOhhfhH2Nc) | [Вина \(feat\. 17 SEVENTEEN\)](https://open.spotify.com/album/48lVuuPvgKZlT9dTiDkl9D) | 2:46 |

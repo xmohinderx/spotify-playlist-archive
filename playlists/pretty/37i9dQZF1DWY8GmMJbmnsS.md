@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: <a href="spotify:artist:3rRmDmzPcAFwcUDvG5gBqO">Percy Sledge</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 300,445 likes - 33 songs - 1 hr 47 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
@@ -40,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 32 | [Money](https://open.spotify.com/track/3kBdQ0SCr6cWDhXsS5g69l) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/7HeoMx4J2lWyL3PF1z39oE) | 3:21 |
 | 33 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 
-Snapshot ID: `MTY0MDMxNTU3NSwwMDAwMDAwMGExMWQ4NTQyNDBiNmRlN2U0NDc1YmI3NjlkMjBlZmRk`
+Snapshot ID: `MTY0MDMyNDIwNywwMDAwMDAwMGExMWQ4NTQyNDBiNmRlN2U0NDc1YmI3NjlkMjBlZmRk`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,343 likes - 50 songs - 3 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Le Freak](https://open.spotify.com/track/7z3aH1QV2zwMKXxShBNOGe) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Le Freak / Savior Faire](https://open.spotify.com/album/0fQmlmX0ZrVVZRVZWxDqJq) | 3:30 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 49 | [Everybody Dance \- 2018 Remaster](https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Chic \(2018 Remaster\)](https://open.spotify.com/album/388S3dsftPqG1nwgauItcx) | 6:42 |
 | 50 | [More, More, More](https://open.spotify.com/track/4hepyFFOO9I7oZCNn3T2sz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:42 |
 
-Snapshot ID: `MTY0MDMxNTYyMCwwMDAwMDAwMGJiZjQyYjNmMzAwZTQ3ZDExNzhhODMwNzhhOTNmMjY2`
+Snapshot ID: `MTY0MDMyNDI1MCwwMDAwMDAwMGJiZjQyYjNmMzAwZTQ3ZDExNzhhODMwNzhhOTNmMjY2`

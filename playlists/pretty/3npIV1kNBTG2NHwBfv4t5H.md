@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3npIV1kNBTG2NHwBfv4t5H.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 31 songs - 2 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jet \- Remastered 2010](https://open.spotify.com/track/13VWHWIIVckG3bHq6oduFJ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/5WDwQd1NNzitecaWN7BoUB) | 4:08 |

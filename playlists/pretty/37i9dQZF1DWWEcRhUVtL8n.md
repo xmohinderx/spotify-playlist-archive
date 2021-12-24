@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: No Rome
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,640,778 likes - 125 songs - 6 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [People Watching](https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [People Watching](https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw) | 2:38 |
@@ -132,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 124 | [Change](https://open.spotify.com/track/12RrfFKWOOzbhjt1LtQgxj) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Change](https://open.spotify.com/album/5JE4ZgzdwYRbyEU6QUj1xO) | 2:52 |
 | 125 | [drinking games](https://open.spotify.com/track/1uE4onkFvDXyBjIGsu9PZ5) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [yikes!](https://open.spotify.com/album/6Tu5CCCBJvyF0x6BQuzj0G) | 3:20 |
 
-Snapshot ID: `MTY0MDMxNTU0NSwwMDAwMDAwMGNjMDJkMjlhNmZlYTdmNzVkNTcyNzc3MjE3YmUxMjNl`
+Snapshot ID: `MTY0MDMyNDE3NSwwMDAwMDAwMGNjMDJkMjlhNmZlYTdmNzVkNTcyNzc3MjE3YmUxMjNl`

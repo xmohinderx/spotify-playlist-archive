@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Welcome to the soothing hum...
 
+[Spotify](https://open.spotify.com/user/spotify) - 566,636 likes - 276 songs - 11 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [White Noise Waterfall](https://open.spotify.com/track/5WkRINJDHP7zdAo45F1bJb) | [Sleep Sleep Sleep](https://open.spotify.com/artist/1OqVbmth0QR4OXPVPmIEyi) | [White Noise](https://open.spotify.com/album/7zV4TOfILpmyaArpIZqzkO) | 2:43 |

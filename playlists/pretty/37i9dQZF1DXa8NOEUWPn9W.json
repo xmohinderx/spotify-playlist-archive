@@ -1,7 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:house\">House</a> music lives here. United in one house. Cover: Ben Kim",
   "name": "Housewerk",
-  "snapshot_id": "MTY0MDMxNTc3MiwwMDAwMDAwMDQ0YTg3MGQzYWJjNjkyMWM4MjY0ZjA1N2M0NWFmZGUy",
+  "num_followers": 1580892,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM5NywwMDAwMDAwMDQ0YTg3MGQzYWJjNjkyMWM4MjY0ZjA1N2M0NWFmZGUy",
   "tracks": [
     {
       "added_at": "2021-12-17 13:57:05",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Ice Nine Kills
 
+[Spotify](https://open.spotify.com/user/spotify) - 261,738 likes - 100 songs - 5 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hip To Be Scared \[Feat\. Jacoby Shaddix\]](https://open.spotify.com/track/0w0WukpQaZqC8x1ZzpEcOD) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [Hip To Be Scared \[Feat\. Jacoby Shaddix\]](https://open.spotify.com/album/1bsb9ahGcfcU1hj6sM61EM) | 3:25 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
 | 100 | [satellites\* \*](https://open.spotify.com/track/1sIRKUbxmRBfu3qvp2Q9FS) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 3:46 |
 
-Snapshot ID: `MTY0MDMxNTY2MCwwMDAwMDAwMDcwYmFjZjA1YjgwNzBhMDdhMGZhZGY2NDljNmM0MWYx`
+Snapshot ID: `MTY0MDMyNDI4OCwwMDAwMDAwMDcwYmFjZjA1YjgwNzBhMDdhMGZhZGY2NDljNmM0MWYx`

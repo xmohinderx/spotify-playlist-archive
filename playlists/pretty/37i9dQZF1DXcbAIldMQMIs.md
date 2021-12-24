@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > tfw ur crushing so hard it hurts
 
+[Spotify](https://open.spotify.com/user/spotify) - 310,321 likes - 70 songs - 3 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [nothing else i could do](https://open.spotify.com/track/58b6TDSEEyGCILOzwCo4By) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [nothing else i could do](https://open.spotify.com/album/0496MQznh9MIlpjvfG7bvu) | 2:50 |
@@ -77,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 69 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 |
 | 70 | [Soft](https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Soft](https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps) | 2:58 |
 
-Snapshot ID: `MTY0MDMxNTgwOSwwMDAwMDAwMGYwNTk4NGI2Y2QwYzczZGUzOTI4ODAwZTI2NjBmNmYz`
+Snapshot ID: `MTY0MDMyNDQzMiwwMDAwMDAwMGYwNTk4NGI2Y2QwYzczZGUzOTI4ODAwZTI2NjBmNmYz`

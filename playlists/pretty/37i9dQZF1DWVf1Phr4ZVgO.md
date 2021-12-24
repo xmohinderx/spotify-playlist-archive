@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
+[Spotify](https://open.spotify.com/user/spotify) - 821,266 likes - 80 songs - 4 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let There Be Love](https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 2:45 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 79 | [Lay Lady Lay](https://open.spotify.com/track/7ICALrYSPphd5yFK27vw8D) | [Magnet featuring Gemma Hayes](https://open.spotify.com/artist/6Edqzwxazpb4Te3qI3u5ez) | [Mr\. & Mrs\. Smith \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1ooPcS9FzXuXOuRUnoWtwq) | 4:39 |
 | 80 | [Fever](https://open.spotify.com/track/17Syv0SV6ThWwgZM3umr1E) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:54 |
 
-Snapshot ID: `MTY0MDMxNTUzNCwwMDAwMDAwMGM3YjAxNDNiN2NhNzBmMGYyMGYyZmEyNDI0NmM1MWM4`
+Snapshot ID: `MTY0MDMyNDE2NSwwMDAwMDAwMGM3YjAxNDNiN2NhNzBmMGYyMGYyZmEyNDI0NmM1MWM4`

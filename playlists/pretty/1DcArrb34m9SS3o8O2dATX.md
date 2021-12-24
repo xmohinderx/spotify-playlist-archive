@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1DcArrb34m9SS3o8O2dATX.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 345 likes - 49 songs - 2 hr 47 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alone Again \(Naturally\)](https://open.spotify.com/track/12LygR44jtSgM5NqOcqXn7) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [The Berry Vest Of Gilbert O'Sullivan](https://open.spotify.com/album/1UJIUPttPtm2UKTHKIGVnE) | 3:38 |

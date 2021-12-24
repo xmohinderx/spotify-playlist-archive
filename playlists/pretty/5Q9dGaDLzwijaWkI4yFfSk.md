@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5Q9dGaDLzwijaWkI4yFfSk.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 45 songs - 2 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wings](https://open.spotify.com/track/0rf8whOpWQjuBqQwPbtLma) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC) | [Wings](https://open.spotify.com/album/2wiNiheGgmiI4irB7Zh7uJ) | 4:58 |

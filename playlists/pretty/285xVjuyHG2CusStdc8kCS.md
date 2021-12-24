@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/285xVjuyHG2CusStdc8kCS.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 20 songs - 1 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Nicktim / Radio Edit](https://open.spotify.com/track/2bNrvWD9d5Zn9tS8XvcaMk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/0z7Mr85v0hPSX0VOUxP51W) | 3:28 |

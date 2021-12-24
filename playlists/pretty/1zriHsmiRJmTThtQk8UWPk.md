@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1zriHsmiRJmTThtQk8UWPk.md) - [plain]
 
 > Listen to a collection of inspiring women in music as they share the stories of their music icons, from Lera Lynn and Kelly Clarkson to Zendaya and Terri Nunn.
 
+[Spotify](https://open.spotify.com/user/spotify) - 39 likes - 142 songs - 5 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Women in Music 2016](https://open.spotify.com/track/64BOuhuPuBAQ9hPuI72gfd) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Women in Music 2016](https://open.spotify.com/album/22p3NZgSeHXg2IpL3QwR8v) | 0:21 |

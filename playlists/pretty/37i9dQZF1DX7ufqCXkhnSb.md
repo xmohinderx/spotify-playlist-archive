@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ufqCXkhnSb.md) - [plain]
 
 > Une collection des plus beaux poèmes de la langue française.
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,346 likes - 46 songs - 1 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Charles Baudelaire \- Au Lecteur](https://open.spotify.com/track/2O20kVDePWhcwiehkaGvpN) | [Paul A\. Mankin](https://open.spotify.com/artist/0V26lZkPvjDdXHdLIscHqi) | [19th Century French Poetry: Read in French by Paul A\. Mankin](https://open.spotify.com/album/1Ro1OPjrfB1RPWYRzoEQWQ) | 2:52 |

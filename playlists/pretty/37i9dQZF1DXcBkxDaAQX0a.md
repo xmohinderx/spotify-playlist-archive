@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: State Champs
 
+[Spotify](https://open.spotify.com/user/spotify) - 296,461 likes - 75 songs - 4 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [10 AM](https://open.spotify.com/track/7IMb6DsxPHilzpRnfWJjOO) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [10 AM](https://open.spotify.com/album/4YQ0QFdtj6VD89hcD5UKZH) | 3:34 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Patience](https://open.spotify.com/track/1xwJpkTCba8guExNTHFd1H) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [Patience](https://open.spotify.com/album/3LbFLyD7bHKLYds3UFw6G8) | 3:44 |
 | 75 | [Something Wonderful \- Alternate Version](https://open.spotify.com/track/1vu42HClZIiqLgRzTU2jUc) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:17 |
 
-Snapshot ID: `MTY0MDMxNTgwMywwMDAwMDAwMDdkM2U4ODdhYzA2YTBkNjk3NzY0Mjc4OTA5NmJjNDVi`
+Snapshot ID: `MTY0MDMyNDQyNywwMDAwMDAwMDdkM2U4ODdhYzA2YTBkNjk3NzY0Mjc4OTA5NmJjNDVi`

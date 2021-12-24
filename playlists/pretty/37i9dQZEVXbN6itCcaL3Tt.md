@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Poland.
 
+[Spotify](https://open.spotify.com/user/spotify) - 227,591 likes - 50 songs - 2 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Harnaś ice tea](https://open.spotify.com/track/32IErAbP0G4WcnpqHpMd35) | [Gawryle](https://open.spotify.com/artist/1IIrmj7nKJuaYXi47RZKGz) | [Harnaś ice tea](https://open.spotify.com/album/4hJjMqRyISzXiAd2eMS2tw) | 2:56 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 
 > Spellistan för den svenska sommaren.
 
+[Spotify](https://open.spotify.com/user/spotify) - 68,244 likes - 65 songs - 4 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sol, vind och vatten](https://open.spotify.com/track/4IyN7o0glm8gXgvEvT6oiZ) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Sol, vind och vatten/Det bästa med Ted Gärdestad](https://open.spotify.com/album/5nFegfmG4jQHvYVX0Mgr2A) | 3:09 |

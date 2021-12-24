@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Chill\. The best indie tracks for just hanging out.
 
+[Spotify](https://open.spotify.com/user/spotify) - 716,282 likes - 75 songs - 4 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 74 | [Diamond](https://open.spotify.com/track/33sOtnSvolKA5lDbvBtiSs) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Diamond](https://open.spotify.com/album/0RaRzSkUXCPA56uuhYcMuR) | 3:48 |
 | 75 | [Kids feat\. KYLE](https://open.spotify.com/track/2hNBhYGXQbq9KHYvK2itFY) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Music](https://open.spotify.com/album/4OFpJuysTqCDoZISfmEkAC) | 3:17 |
 
-Snapshot ID: `MTY0MDMxNTc1OSwwMDAwMDAwMGUzMDc3YjY3M2EwZjYzNzY1YzZjMDUyNWJjMzYxZDdm`
+Snapshot ID: `MTY0MDMyNDM4MywwMDAwMDAwMGUzMDc3YjY3M2EwZjYzNzY1YzZjMDUyNWJjMzYxZDdm`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 
 > Explore the great works of Maurice Ravel.
 
+[Spotify](https://open.spotify.com/user/spotify) - 37,121 likes - 69 songs - 5 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daphnis et Chloé: Pt\. III: Lever du jour](https://open.spotify.com/track/6VcFtjBwaR8Lc6aUcgrFbD) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bordeaux Opera Chorus](https://open.spotify.com/artist/53aHhFiWysXpthChFMfpMc), [Bordeaux Aquitaine National Orchestra](https://open.spotify.com/artist/7vjIwUIjcuPz8U6156625N), [Laurent Petitgirard](https://open.spotify.com/artist/6AX7MAhb6m7DTPADxdXNNV) | [Ravel: Daphnis and Chloe](https://open.spotify.com/album/0Lc9hc2hVG0Xzgl7Y5ukgq) | 5:29 |

@@ -1,6 +1,11 @@
 {
   "description": "Curl up in your favorite spot with some sweet, mellow tunes...",
   "name": "Your Favorite Coffeehouse",
+  "num_followers": 3916895,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTY0MDAxOTk2NywwMDAwMDA5NjAwMDAwMTdkZDhjZWJkODQwMDAwMDE2ZDAwYjhlMDA5",
   "tracks": [
     {

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > A cocktail of <a href="spotify:genre:edm\_dance">electronic</a> trap and trap\-influenced tracks\. Cover: Just A Gent.
 
+[Spotify](https://open.spotify.com/user/spotify) - 823,319 likes - 100 songs - 5 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tums](https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Tums](https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7) | 3:37 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [Get Right](https://open.spotify.com/track/53Xsyg5W3LkxOJglyq1l5o) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Get Right](https://open.spotify.com/album/0xejpMLCWbCVEHPivvoQGH) | 2:38 |
 | 100 | [Atom Mirror](https://open.spotify.com/track/2vV2bD9Iqf22nHuFzrzz28) | [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [Atom Mirror](https://open.spotify.com/album/1cwS6NQ9FAmexXEyziFsOL) | 2:48 |
 
-Snapshot ID: `MTY0MDMxNTYyMSwwMDAwMDAwMGFhZGQ1M2Y4ODBkNjNiYzliYzc4OTZmNjY2NzkyYjkw`
+Snapshot ID: `MTY0MDMyNDI1MSwwMDAwMDAwMGFhZGQ1M2Y4ODBkNjNiYzliYzc4OTZmNjY2NzkyYjkw`

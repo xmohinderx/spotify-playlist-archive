@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
+[Spotify](https://open.spotify.com/user/spotify) - 96,335 likes - 100 songs - 6 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cattle in the Cane](https://open.spotify.com/track/0XcB1mqwPSIvmpAqXWcEFS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Cattle in the Cane](https://open.spotify.com/album/0lh355GxjrO9zVZ7gHUdUb) | 3:32 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [Rivers, Rains and Runaway Trains](https://open.spotify.com/track/72HeZwtuPmqmj2bilZI4U5) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Rivers, Rains and Runaway Trains](https://open.spotify.com/album/6xHlWGTONG6NhaLWVhE44p) | 2:59 |
 | 100 | [When Doves Cry \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 4:40 |
 
-Snapshot ID: `MTY0MDMxNTc2OSwwMDAwMDAwMDIyMjQ0NTgwMWE3MDYzYmIxYWFjZDI2NDAxYzdkYmI4`
+Snapshot ID: `MTY0MDMyNDM5MywwMDAwMDAwMDIyMjQ0NTgwMWE3MDYzYmIxYWFjZDI2NDAxYzdkYmI4`

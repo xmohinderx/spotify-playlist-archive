@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5a9hO78SUQ.md) - [plain]
 
 > Happy Shakespeare Day & National Poetry Month! Lovely, temperate, devouring..\. indelible recordings of every Shakespearean poem.
 
+[Spotify](https://open.spotify.com/user/spotify) - 23,415 likes - 162 songs - 5 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Th' expense of spirit in a waste of shame](https://open.spotify.com/track/6lFXsBvNIrmuXru3KOGfQR) | [William Shakespeare](https://open.spotify.com/artist/0xZ9fVp0OnYjYPeX9Z3c8x), [Ralph Fiennes](https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN) | [When Love Speaks \- The Sonnets](https://open.spotify.com/album/6rFEV2I2dniC138rzJkeMA) | 0:57 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Allison Ponthier
 
+[Spotify](https://open.spotify.com/user/spotify) - 366,695 likes - 150 songs - 9 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Beast For Thee](https://open.spotify.com/track/1lFfq3BypGTRfLZIv3GWVK) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [eighth blackbird](https://open.spotify.com/artist/08JsND1KfYyI41gWdAOOwz) | [Beast For Thee](https://open.spotify.com/album/0fgzt2Mzv33f6L9UXiosG3) | 5:24 |
 | 150 | [Go Tell a Bird](https://open.spotify.com/track/2soMAWI1jlM8O1YUF4e1LB) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:52 |
 
-Snapshot ID: `MTY0MDMxNTYzNiwwMDAwMDAwMDQyN2E2YzhmZGU1ZDNiOTg3NGUyMzhmNGYxMDZjOTZj`
+Snapshot ID: `MTY0MDMyNDI2NiwwMDAwMDAwMDQyN2E2YzhmZGU1ZDNiOTg3NGUyMzhmNGYxMDZjOTZj`

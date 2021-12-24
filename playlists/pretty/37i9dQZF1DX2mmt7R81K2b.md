@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz\. Cover: Chick Corea
 
+[Spotify](https://open.spotify.com/user/spotify) - 246,705 likes - 51 songs - 4 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mozart: Piano Sonata in F, KV332 \(2nd Part \- Adagio\) \- Live in Clearwater / 2018](https://open.spotify.com/track/5rCs2GkWdaGytddAxoEUNm) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Mozart: Piano Sonata In F, KV332 \(2nd Part \- Adagio\) \[Live in Clearwater / 2018\]](https://open.spotify.com/album/1iU8fFpbnUHt5YeQpGrZdF) | 4:18 |

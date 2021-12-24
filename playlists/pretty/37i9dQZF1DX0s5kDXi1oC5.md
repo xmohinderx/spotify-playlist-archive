@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 
 > Listen to all the tracks you've been missing\. Cover: The Weeknd
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,623,333 likes - 75 songs - 4 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blank Space](https://open.spotify.com/track/2sC2P3BN0IXujNaaSyDmtP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 3:51 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 | 74 | [When I Was Your Man](https://open.spotify.com/track/4tLihrsL9WMgvI0n9R2bFS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/7KBjLhk3IM27k3ry4vBk3i) | 3:33 |
 | 75 | [Up](https://open.spotify.com/track/4t1ObmSMAoKZqxv752yg4o) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Now That's What I Call a Song](https://open.spotify.com/album/1UzwTsVuxxqGO6gyRmSpa5) | 3:44 |
 
-Snapshot ID: `MTY0MDMxNTYxMywwMDAwMDAwMDM4OGU0OGFmZTQxYTJiNmRkMWU4M2VjOWQ1MDQ3Zjlk`
+Snapshot ID: `MTY0MDMyNDI0MywwMDAwMDAwMDM4OGU0OGFmZTQxYTJiNmRkMWU4M2VjOWQ1MDQ3Zjlk`

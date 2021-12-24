@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 112,278 likes - 48 songs - 4 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toccata and Fugue in D Minor, BWV 565: 1\. Toccata](https://open.spotify.com/track/4HE2Ex0bjbj3YNXmV01OoM) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simon Preston](https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0) | [Bach, J.S.: Toccata and Fugue BWV 565; Organ Works BWV 572, 590, 532, 769 & 552](https://open.spotify.com/album/55QLnZs735inLUYGNBkti5) | 2:30 |

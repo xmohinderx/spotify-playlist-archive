@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4muFXNJjmJvLWdHmx0PKYO.md) - [plain]
 
 > Emmabodafestivalen har sedan arrangerats sedan 1988 av den ideella föreningen Vinterbadarna\. Sommarens festival arrangeras 25 \- 28 juli\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 48 songs - 3 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baptism](https://open.spotify.com/track/06BoKUwRoskASDa4Aha5xM) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/7g0VARP23qVijZeTE1dioJ) | 4:12 |

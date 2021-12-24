@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1apRF10Iufr0NBBiF1u7E5.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 38 songs - 2 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Valentine's Day](https://open.spotify.com/track/0kOGIsyvAsdm1KeXnwyvea) | [Hello Saferide](https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3) | [My Best Friend](https://open.spotify.com/album/52GiFSfyBgwbpK2UDBQmKr) | 3:17 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 410,473 likes - 60 songs - 4 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/3YRFxtNz0CCiBYmZO0rPdr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/5EY9uxrUOSqG64coGCPA6q) | 3:11 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 59 | [Calling You Out](https://open.spotify.com/track/0RaWPCQLbjDWPVaL7KY8RA) | [Jesse Hale Moore](https://open.spotify.com/artist/3nZsDB8GeL0xVGNvetZgoO) | [Calling You Out](https://open.spotify.com/album/0M67HzRPHDy2ChuFjrRHnV) | 4:16 |
 | 60 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
 
-Snapshot ID: `MTY0MDMxNTc5OCwwMDAwMDAwMDNkZDNmZDZmYjQ0OWVmZjJkM2E5MDU5YTRlYzA1NGM2`
+Snapshot ID: `MTY0MDMyNDQyMSwwMDAwMDAwMDNkZDNmZDZmYjQ0OWVmZjJkM2E5MDU5YTRlYzA1NGM2`

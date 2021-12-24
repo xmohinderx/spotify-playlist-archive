@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/71WgbCkbVXGzAltJTAT6lD.md) - [plain]
 
 > Slip into the world of Brian Eno...
 
+[Spotify](https://open.spotify.com/user/spotify) - 146 likes - 23 songs - 3 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |

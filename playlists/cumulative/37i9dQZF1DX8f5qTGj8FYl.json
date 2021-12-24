@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1am Funk Dance Party",
+        "url": "https://open.spotify.com/album/5xX3YIFjwddRpvxrKNrpbt"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1344000,
+      "name": "1am Funk Dance Party",
+      "url": "https://open.spotify.com/track/7w5eQjBNpFZTqCvXwYa7cE"
+    },
+    {
+      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174740,
       "name": "Do Yourself a Favor",
       "url": "https://open.spotify.com/track/1efJcsv7o0rXQbZJBB0B9a"
@@ -578,6 +596,24 @@
       "duration_ms": 198966,
       "name": "Everybody's Inn",
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
+    },
+    {
+      "album": {
+        "name": "F.F.F.",
+        "url": "https://open.spotify.com/album/4wJUCSwfl9g1HW930heEoh"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191150,
+      "name": "F.F.F.",
+      "url": "https://open.spotify.com/track/78uML92CuXsqQ8u0Tx2JNG"
     },
     {
       "album": {
@@ -1736,7 +1772,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 171472,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/4xR4kE5b42b5zpqSw3i8dN"

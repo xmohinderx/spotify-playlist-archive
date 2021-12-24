@@ -1,7 +1,12 @@
 {
   "description": "A little psychedelic, a little groovy, and very rootsy.",
   "name": "Psych & Groove",
-  "snapshot_id": "MTY0MDMxNTYzNywwMDAwMDAwMGNhYWMyNWU0NDY5ZWNlNzBmMzVlNTIwZTMxNDFiY2Iw",
+  "num_followers": 103063,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI2NiwwMDAwMDAwMGNhYWMyNWU0NDY5ZWNlNzBmMzVlNTIwZTMxNDFiY2Iw",
   "tracks": [
     {
       "added_at": "2021-10-08 04:00:00",

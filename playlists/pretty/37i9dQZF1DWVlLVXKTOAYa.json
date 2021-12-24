@@ -1,7 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
   "name": "Pop Right Now",
-  "snapshot_id": "MTY0MDMxNTUzNSwwMDAwMDAwMDFkMjM4ODc5OTMzZTgyMjUxNzlkZjFjZjU5Mzc5YTkx",
+  "num_followers": 946170,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE2NywwMDAwMDAwMDFkMjM4ODc5OTMzZTgyMjUxNzlkZjFjZjU5Mzc5YTkx",
   "tracks": [
     {
       "added_at": "2021-12-16 23:02:00",

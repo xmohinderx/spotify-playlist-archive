@@ -1,7 +1,12 @@
 {
   "description": "Summertime sadness everyday",
   "name": "Sun Kissed",
-  "snapshot_id": "MTY0MDMxNTU3NywwMDAwMDAwMGZhMjdjODliN2IyZDUyYmRiNTgzZTQwZTc0NWU4YTJh",
+  "num_followers": 10369,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIwOCwwMDAwMDAwMGZhMjdjODliN2IyZDUyYmRiNTgzZTQwZTc0NWU4YTJh",
   "tracks": [
     {
       "added_at": "2021-10-14 17:49:33",

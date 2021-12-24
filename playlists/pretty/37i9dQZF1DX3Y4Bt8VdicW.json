@@ -1,7 +1,12 @@
 {
   "description": "Get into the inspired sounds of <a href=\"spotify:artist:2kGBy2WHvF0VdZyqiVCkDT\">Father John Misty</a>.",
   "name": "This Is Father John Misty",
-  "snapshot_id": "MTY0MDMxNTY1OSwwMDAwMDAwMDE2OWNiYjkwN2E0NjlhOTViYzg3NzFkOTk5N2ExOWRi",
+  "num_followers": 57207,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI4OCwwMDAwMDAwMDE2OWNiYjkwN2E0NjlhOTViYzg3NzFkOTk5N2ExOWRi",
   "tracks": [
     {
       "added_at": "2017-05-22 20:51:54",

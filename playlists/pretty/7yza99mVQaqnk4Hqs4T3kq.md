@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7yza99mVQaqnk4Hqs4T3kq.md) - [plain]
 
 > Companion playlist for the Metallica documentaries.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,698 likes - 30 songs - 2 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Running Free \- 1998 Remastered Version](https://open.spotify.com/track/5zOAxLFUrHkLuVsF29Hn1z) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(1998 Remastered Edition\)](https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw) | 3:17 |

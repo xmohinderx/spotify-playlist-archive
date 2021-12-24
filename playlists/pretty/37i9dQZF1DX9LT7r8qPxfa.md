@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
+[Spotify](https://open.spotify.com/user/spotify) - 232,866 likes - 100 songs - 6 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Slow Mover](https://open.spotify.com/track/2lTU0gr2BfZaXGi6qxojv0) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [A Couple Of Songs](https://open.spotify.com/album/7w2e21odbTcqObKgtfUiP4) | 3:10 |
 | 100 | [Blue Vapor](https://open.spotify.com/track/2Fba40Uu5LoL6qzug1RxJz) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Blue Vapor](https://open.spotify.com/album/2gn1I8UhrLueJxug4NcJVb) | 3:26 |
 
-Snapshot ID: `MTY0MDMxNTc2MSwwMDAwMDAwMDQyOGQwNjAwMmZjMzY3NDU1NWJhMjdlYjZkYjMwNTAy`
+Snapshot ID: `MTY0MDMyNDM4NSwwMDAwMDAwMDQyOGQwNjAwMmZjMzY3NDU1NWJhMjdlYjZkYjMwNTAy`

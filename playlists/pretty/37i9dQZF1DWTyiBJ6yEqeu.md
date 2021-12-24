@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > The tracks that gamers love.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,075,888 likes - 150 songs - 7 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 149 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/25dOYUvTT4wyw7r3vS37ca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/3DMIESlogCaK0E3W0awobM) | 2:08 |
 | 150 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 |
 
-Snapshot ID: `MTY0MDMxNTUxNiwwMDAwMDAwMDNmOTY2YTRkZDUxZGM1YThjMDM2NmVhMWNkYzZiNmE0`
+Snapshot ID: `MTY0MDMyNDE0NywwMDAwMDAwMDNmOTY2YTRkZDUxZGM1YThjMDM2NmVhMWNkYzZiNmE0`

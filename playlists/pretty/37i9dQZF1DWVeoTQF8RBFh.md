@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeoTQF8RBFh.md) - [plain]
 
 > Verne, Huxley, Wells..\. a classic collection of science fiction.
 
+[Spotify](https://open.spotify.com/user/spotify) - 26,581 likes - 197 songs - 1 day 22 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JRR Tolkien](https://open.spotify.com/track/3sm1nM3zD5rsuKQpcfXwzF) | [J.R.R\. Tolkien](https://open.spotify.com/artist/0miyG7OJUrfgfDi9VAqCB4) | [Voices of Yesteryear, Vol\. 2](https://open.spotify.com/album/2XapSFvSMT9icHUt13JyAp) | 7:31 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5hINCaYWvVwzzLmhh4y11x.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 7 songs - 28 min 9 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Falling](https://open.spotify.com/track/1PchfarnjfYIwLhMtzyoa6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Falling](https://open.spotify.com/album/0K6gtslcXoEbmJoDxCMue7) | 4:18 |

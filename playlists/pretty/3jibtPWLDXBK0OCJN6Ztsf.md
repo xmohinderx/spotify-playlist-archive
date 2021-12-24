@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3jibtPWLDXBK0OCJN6Ztsf.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 872 likes - 50 songs - 3 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Low \(feat\. T\-Pain\)](https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Mail on Sunday](https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle) | 3:51 |

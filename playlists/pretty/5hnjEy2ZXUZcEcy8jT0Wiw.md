@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
+[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,857 likes - 307 songs - 21 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Computermusic](https://open.spotify.com/track/55oeRLwLPuBogFVwypcBEf) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [La Boum](https://open.spotify.com/album/0wy15Y6iIDQMTuYDaW81vT) | 3:17 |

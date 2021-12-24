@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Sfven
 
+[Spotify](https://open.spotify.com/user/spotify) - 319,729 likes - 100 songs - 5 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [backseat](https://open.spotify.com/track/2ivpTUIMtk6YUWmEGEfbpN) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [backseat](https://open.spotify.com/album/7nYjwblIZN4P6q597kmjNO) | 3:17 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [I Can't Compete](https://open.spotify.com/track/6CX4FpJjP2MWbo1aAq1DVQ) | [Fetch Tiger](https://open.spotify.com/artist/2Oj1K4H1MalhAhBvuT48ts) | [I Can't Compete](https://open.spotify.com/album/7pDNl7cxFPBLpteN97eIMW) | 3:11 |
 | 100 | [New York, Paris and London](https://open.spotify.com/track/6eL2cAKDToQgycn5rHruom) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [New York, Paris and London](https://open.spotify.com/album/27hf9gYYN7sQ39oHHttwKB) | 3:26 |
 
-Snapshot ID: `MTY0MDMxNTU5OSwwMDAwMDAwMDYxZjlmMTVhNGIwZGI4OWYzMGEyY2ViOTI2OGNjY2Fk`
+Snapshot ID: `MTY0MDMyNDIzMCwwMDAwMDAwMDYxZjlmMTVhNGIwZGI4OWYzMGEyY2ViOTI2OGNjY2Fk`

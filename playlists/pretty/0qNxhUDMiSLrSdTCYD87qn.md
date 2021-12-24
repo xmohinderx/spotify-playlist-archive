@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0qNxhUDMiSLrSdTCYD87qn.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 23 songs - 1 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dub Zone](https://open.spotify.com/track/5kU5irECPZ1tqct2Gjx7hQ) | [Ja Man All Stars](https://open.spotify.com/artist/0lhz2yrMdqRR2mGExicSuS) | [In The Dub Zone](https://open.spotify.com/album/2uu6AxfA9UEp4JCZMi05i7) | 2:37 |

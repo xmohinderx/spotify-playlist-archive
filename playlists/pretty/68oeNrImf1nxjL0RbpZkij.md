@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/68oeNrImf1nxjL0RbpZkij.md) - [plain]
 
 > Chill songs for lazy mornings\. You'll roll out of bed and get the coffee on, eventually ...
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,984 likes - 27 songs - 1 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Howling Light](https://open.spotify.com/track/7E6iObqRWYyzoZdgPOgdvi) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Year In The Kingdom](https://open.spotify.com/album/681762hALxaJbRTcCOzaj2) | 3:34 |

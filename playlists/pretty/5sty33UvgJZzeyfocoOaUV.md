@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5sty33UvgJZzeyfocoOaUV.md) - [plain]
 
 > Get the most out of your day and \#makeithappen.
 
+[Spotify](https://open.spotify.com/user/spotify) - 77 likes - 30 songs - 1 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nobody Love](https://open.spotify.com/track/1jQNuXoP9ppDtPbPqGibRA) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Nobody Love](https://open.spotify.com/album/5kUeFmIpcW2sq5TqqVjlQW) | 3:22 |

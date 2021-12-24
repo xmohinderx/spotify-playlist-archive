@@ -1,7 +1,12 @@
 {
   "description": "Chilled songs that you are familiar with - no surprises!",
   "name": "Comfort Zone",
-  "snapshot_id": "MTY0MDMxNTU3OCwwMDAwMDAwMGY5NjYwNDk2NzVlNDYzNWI4NmNlYTc2YmIyNmZhODFk",
+  "num_followers": 1474970,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIxMCwwMDAwMDAwMGY5NjYwNDk2NzVlNDYzNWI4NmNlYTc2YmIyNmZhODFk",
   "tracks": [
     {
       "added_at": "2021-11-23 09:26:38",

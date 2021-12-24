@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzR2GKEiHgT.md) - [plain]
 
 > Slip into slumber with soothing water sounds.
 
+[Spotify](https://open.spotify.com/user/spotify) - 212,965 likes - 195 songs - 9 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Liquid Seas](https://open.spotify.com/track/2OzmqBZDsLbzlUMg4Cw9M3) | [Wavesand](https://open.spotify.com/artist/4EZtMSNcLHaKdfBcrcsRmO) | [Liquid Seas](https://open.spotify.com/album/0PbmrdSxdxhGxeel5aEZlc) | 2:19 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2FmMinHNFfX3Apt34AwEqc.md) - [plain]
 
 > Celebrate one year of Spotify and PlayStation with the biggest tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,385 likes - 100 songs - 6 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lean On \(feat\. MØ & DJ Snake\)](https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission](https://open.spotify.com/album/2XBnxKeRZi76u2iyGcMych) | 2:56 |

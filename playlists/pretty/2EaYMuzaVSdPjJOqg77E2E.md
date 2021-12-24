@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2EaYMuzaVSdPjJOqg77E2E.md) - [plain]
 
 > Det finns hur många drottningar av Sverige som helst\. Vi har samlat 100 av dem i en spellista, där du hör regenter från igår, idag och i morrn\. Låt dig imponeras och inspireras!
 
+[Spotify](https://open.spotify.com/user/spotify) - 431 likes - 100 songs - 6 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drottningen är tillbaka](https://open.spotify.com/track/2LlXxcAQtfEWlQjxduyydo) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Drottningen är tillbaka](https://open.spotify.com/album/4t6UK8udOzilA1noclz1fY) | 3:45 |

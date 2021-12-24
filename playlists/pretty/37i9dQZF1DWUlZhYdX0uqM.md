@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlZhYdX0uqM.md) - [plain]
 
 > Experience Tom Petty's final project, "Wildflowers & All The Rest," the way he originally envisioned it.
 
+[Spotify](https://open.spotify.com/user/spotify) - 287,041 likes - 78 songs - 5 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drivin' Down To Georgia](https://open.spotify.com/track/0FN3JxhFO85JOdxrsHzKFl) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Finding Wildflowers \(Alternate Versions\)](https://open.spotify.com/album/0hRuPNZV5ff9JZwRBNqosj) | 5:00 |

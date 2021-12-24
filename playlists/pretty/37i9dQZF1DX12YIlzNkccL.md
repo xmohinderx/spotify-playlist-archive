@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12YIlzNkccL.md) - [plain]
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 
+[Spotify](https://open.spotify.com/user/spotify) - 494,703 likes - 78 songs - 10 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Symphony No\. 5 in C Minor, Op\. 67: I\. Allegro con brio](https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Carlos Kleiber](https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN) | [Beethoven: Symphonies Nos.5 & 7](https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL) | 7:22 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the new tunes in the Thrash world.
 
+[Spotify](https://open.spotify.com/user/spotify) - 350,433 likes - 120 songs - 8 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Diabolical](https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx) | 4:09 |
@@ -127,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Toxic Freedom](https://open.spotify.com/track/4jq6j6AcaMcMmJGvjkXB8a) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Toxic Freedom](https://open.spotify.com/album/07QiBkVx7nUbtLmr485zoO) | 3:25 |
 | 120 | [Sharpen the Guillotine](https://open.spotify.com/track/3qy8XCdTUJI7UGynBI7Hkn) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:01 |
 
-Snapshot ID: `MTY0MDMxNTU5MSwwMDAwMDAwMDIxZjJjNDkzMjI2ZWFhNWI2NmIxODY4MWUyZjVjMGZm`
+Snapshot ID: `MTY0MDMyNDIyMiwwMDAwMDAwMDIxZjJjNDkzMjI2ZWFhNWI2NmIxODY4MWUyZjVjMGZm`

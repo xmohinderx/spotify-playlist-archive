@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 
 > Here is a playlist of all our songs released so far\. Our new album 'Today We’re The Greatest' is out now!
 
+[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,102 likes - 36 songs - 2 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drivers License \- triple j Like a Version](https://open.spotify.com/track/79z8mIUDwNYffZv2qy6Icj) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Drivers License \(triple j Like a Version\)](https://open.spotify.com/album/7lEp6IiYhA8Z63g8Cl7Rr8) | 3:26 |

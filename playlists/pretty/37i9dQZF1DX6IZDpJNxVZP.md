@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
+[Spotify](https://open.spotify.com/user/spotify) - 56,155 likes - 133 songs - 6 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adams Family Theme Song](https://open.spotify.com/track/170q55BUUCSdUrjS38hVjf) | [Halloween Kids](https://open.spotify.com/artist/6MFuXk9n7iZreVFl6MUo3h) | [Halloween for Kids: Party Songs and Sound Effects](https://open.spotify.com/album/6UBoipzz4mxE0SGs6IRuzN) | 1:23 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRrLXgTbWFy.md) - [plain]
 
 > This is: Dispatch\. The essential tracks, all in one playlists.
 
+[Spotify](https://open.spotify.com/user/spotify) - 22,244 likes - 46 songs - 3 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The General](https://open.spotify.com/track/6n6EXIwLtNwe4u4CFzENYm) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:06 |

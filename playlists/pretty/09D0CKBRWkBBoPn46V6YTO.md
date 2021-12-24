@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/09D0CKBRWkBBoPn46V6YTO.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 50 songs - 3 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bridge over Troubled Water](https://open.spotify.com/track/5LFtkeNjLpZAey3Arj3h4M) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 4:53 |

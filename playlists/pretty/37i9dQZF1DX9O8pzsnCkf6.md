@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8pzsnCkf6.md) - [plain]
 
 > A collection of sessions from some of the best comedians of all time.
 
+[Spotify](https://open.spotify.com/user/spotify) - 66,808 likes - 146 songs - 8 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bachelor Party](https://open.spotify.com/track/5EGf9u54O7mq59CnsTAqoV) | [Cameron Esposito](https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X) | [Marriage Material](https://open.spotify.com/album/3aFnPqDjw0088KHVngoYWK) | 2:42 |

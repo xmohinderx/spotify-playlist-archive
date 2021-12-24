@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WWRAxBsY0Y.md) - [plain]
 
 > Sometimes people assume that stoner music is just reggae, hip hop, or psychedelic rock\. Experience the rest of it with these stoner tracks for everybody.
 
+[Spotify](https://open.spotify.com/user/spotify) - 29,233 likes - 50 songs - 3 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Go Get Stoned](https://open.spotify.com/track/3EZLO3JMqV7gyGETm0SKVK) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \- the Best of](https://open.spotify.com/album/4Js6wq6mvg8g3JA9XG3T2i) | 2:57 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEJlAGA9gs0.md) - [plain]
 
 > A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of <a href="spotify:genre:classical">classical</a> music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,570,210 likes - 148 songs - 16 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Well\-Tempered Clavier: Book 1, BWV 846\-869: I\. Prelude in C Major, BWV 846](https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 2:19 |

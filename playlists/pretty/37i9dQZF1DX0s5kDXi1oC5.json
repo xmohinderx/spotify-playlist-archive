@@ -1,7 +1,12 @@
 {
   "description": "Listen to all the tracks you've been missing. Cover: The Weeknd",
   "name": "Hit Rewind",
-  "snapshot_id": "MTY0MDMxNTYxMywwMDAwMDAwMDM4OGU0OGFmZTQxYTJiNmRkMWU4M2VjOWQ1MDQ3Zjlk",
+  "num_followers": 5623333,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI0MywwMDAwMDAwMDM4OGU0OGFmZTQxYTJiNmRkMWU4M2VjOWQ1MDQ3Zjlk",
   "tracks": [
     {
       "added_at": "2021-12-08 04:26:27",

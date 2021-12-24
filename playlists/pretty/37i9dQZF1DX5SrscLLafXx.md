@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SrscLLafXx.md) - [plain]
 
 > Ah, Paris\. It's easy to see why it's called the city of love.
 
+[Spotify](https://open.spotify.com/user/spotify) - 284,598 likes - 40 songs - 2 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [L'amour l'amour l'amour](https://open.spotify.com/track/7jVHD6NiChZGX887WrNBrH) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [L'amour, l'amour, l'amour \- Le meilleur de Mouloudji](https://open.spotify.com/album/1B1HpA7dQsnlhub9eiFIgo) | 3:01 |

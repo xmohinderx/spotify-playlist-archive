@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: St\. Vincent
 
+[Spotify](https://open.spotify.com/user/spotify) - 655,663 likes - 150 songs - 9 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Choice](https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No Choice](https://open.spotify.com/album/61hEtv7eRNxChNrsbpGXSC) | 3:41 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Candy Flip](https://open.spotify.com/track/0dEANgGeLEab8TSbwVF7qK) | [Spires](https://open.spotify.com/artist/1BoNO7Kj26goTfyMxv7H0i) | [Spires \- Debut Single](https://open.spotify.com/album/1ihA1e9kHdz5V7ykwn0IEH) | 4:20 |
 | 150 | [Midnight Wine](https://open.spotify.com/track/0lNcAOT252WBjdJO7rFUa4) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Midnight Wine](https://open.spotify.com/album/4AviuLYZTU7Bc0bk87H4uj) | 3:18 |
 
-Snapshot ID: `MTY0MDMxNTc1MCwwMDAwMDAwMDBmOTA3NTlhZDMyMzU5MmQ1MzRkMDJmZWMxY2Y1MTU1`
+Snapshot ID: `MTY0MDMyNDM3NiwwMDAwMDAwMDBmOTA3NTlhZDMyMzU5MmQ1MzRkMDJmZWMxY2Y1MTU1`

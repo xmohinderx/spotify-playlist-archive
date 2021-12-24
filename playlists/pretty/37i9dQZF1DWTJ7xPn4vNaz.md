@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s\. Cover: ABBA.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,514,053 likes - 150 songs - 9 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can See Clearly Now](https://open.spotify.com/track/0oCT5rVvMdPPUm0bxG7yzT) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [Radio Hits Of the '70s](https://open.spotify.com/album/2JcwQwy2KY3CEIzHUC30wG) | 2:42 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [New York Groove](https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [Kiss: Ace Frehley](https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg) | 3:03 |
 | 150 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/0stslsclx39gQ7vSYEAgz0) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Essential Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/6B0BAhQBleEa0Nr7eYLTvN) | 6:04 |
 
-Snapshot ID: `MTY0MDMxNTUwNiwwMDAwMDAwMDQ1ZWFhYmIyMTJjMTk4ZTUzOGU4YmJhMzdkNmExMzk3`
+Snapshot ID: `MTY0MDMyNDEzOCwwMDAwMDAwMDQ1ZWFhYmIyMTJjMTk4ZTUzOGU4YmJhMzdkNmExMzk3`

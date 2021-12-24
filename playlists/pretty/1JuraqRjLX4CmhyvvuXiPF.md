@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1JuraqRjLX4CmhyvvuXiPF.md) - [plain]
 
 > Take the back roads...
 
+[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 25 songs - 1 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ludlow](https://open.spotify.com/track/1i3WLDTsbharp5HzqmUgb6) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [From the Hills Below the City](https://open.spotify.com/album/2eaQyM7iQvIuvNlyj1QSrC) | 3:07 |

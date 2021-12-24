@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3JBLiEySHqJWWGLw9VTxKd.md) - [plain]
 
 > 
 
+[Jeffry Harrison](https://open.spotify.com/user/1231779322) - 8,762 likes - 29 songs - 2 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [10 Laws](https://open.spotify.com/track/6YPRWU79U3rbxUN1Gy5SoR) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [The Education of the Individual Soul](https://open.spotify.com/album/4HJgEOT9K15npNLwy1GEc2) | 4:19 |

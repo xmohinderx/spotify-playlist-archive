@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
+[Spotify](https://open.spotify.com/user/spotify) - 312,128 likes - 60 songs - 4 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancing Cliché](https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Cliché](https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH) | 2:32 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Can't Get Enough](https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Andre Espeut](https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn) | [Can't Get Enough](https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ) | 4:27 |
 | 60 | [I'm For Real](https://open.spotify.com/track/7L1tW1wlZ3pqjA2GKXhMC6) | [Freejak](https://open.spotify.com/artist/3bhHEBJ3RJGTyOGp0KIB11) | [I'm For Real](https://open.spotify.com/album/0zasCtmr1pi8ATe2gYM1ji) | 2:40 |
 
-Snapshot ID: `MTY0MDMxNTYzMCwwMDAwMDAwMGZkMzI5Njg5Yjk1ZGI4ZmE5ZDczZmJhYWQ0NTljMDc3`
+Snapshot ID: `MTY0MDMyNDI2MCwwMDAwMDAwMGZkMzI5Njg5Yjk1ZGI4ZmE5ZDczZmJhYWQ0NTljMDc3`

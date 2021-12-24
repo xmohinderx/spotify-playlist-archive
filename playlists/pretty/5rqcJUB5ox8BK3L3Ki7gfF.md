@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5rqcJUB5ox8BK3L3Ki7gfF.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 12 songs - 56 min 25 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jubel](https://open.spotify.com/track/4zdPLFy9zM2MPnUAfEks5j) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/0Fheduug1LQyaoPufJHlZS) | 4:43 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60lVXkfYly8.md) - [plain]
 
 > Learn and practice your Chinese language skills, from basic vocabulary to useful travel phrases and conversations.
 
+[Spotify](https://open.spotify.com/user/spotify) - 54,570 likes - 263 songs - 1 day 3 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Introduction](https://open.spotify.com/track/4CpxUCpVJag59w4bm2aCag) | [Henry Raymond Jr.](https://open.spotify.com/artist/3UbPiAHODPHyrORJPMPnEG) | [Learn in Your Car: Mandarin Chinese \- Level 1](https://open.spotify.com/album/26RqqLW2ztsGh1WZG1q5FN) | 1:47 |

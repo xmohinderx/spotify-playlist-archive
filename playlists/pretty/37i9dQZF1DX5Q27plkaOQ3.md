@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 969,918 likes - 94 songs - 5 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Back To Back](https://open.spotify.com/track/0hvKdjFlKowmHaAr6RJWBh) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [UBUR](https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6), [Armanni Reign](https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI) | [Back To Back](https://open.spotify.com/album/3Scp9GrDoeAKbNfvX8vVRM) | 2:53 |
@@ -101,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 93 | [Bubble Up](https://open.spotify.com/track/11eC2qnJdadhKgDI3Y2bhX) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL) | [Bubble Up](https://open.spotify.com/album/5ZD0wmDSdnsobHtQKHMWiL) | 2:48 |
 | 94 | [R2](https://open.spotify.com/track/1pRJOs3y7bJPsx9523Br4n) | [FelMax](https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa), [Veros](https://open.spotify.com/artist/2sX3DEyJXNkwzO8vOOQO79) | [R2](https://open.spotify.com/album/5LGceKVgkLOikEYSG0o8u4) | 3:05 |
 
-Snapshot ID: `MTY0MDMxNTY5OCwwMDAwMDAwMGMzYmYyMmU4ZThiMzBhY2FkZTljZjNkNjI5ODgxNmZh`
+Snapshot ID: `MTY0MDMyNDMyNSwwMDAwMDAwMGMzYmYyMmU4ZThiMzBhY2FkZTljZjNkNjI5ODgxNmZh`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0XDRWlx2B1C1OXlaLlld8t.md) - [plain]
 
 > Coast along to the best of the alt rock era.
 
+[Spotify](https://open.spotify.com/user/spotify) - 641 likes - 26 songs - 1 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Interstate Love Song](https://open.spotify.com/track/600s08VdbjiyAjDGDjYSFI) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:13 |

@@ -1,7 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
   "name": "Is it New Wave?",
-  "snapshot_id": "MTY0MDMxNTY1NCwwMDAwMDAwMGE5Nzg1MGY1MWVlMjhkYjljY2YyNTY4YmNkMmIyZTNm",
+  "num_followers": 701243,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI4MywwMDAwMDAwMGE5Nzg1MGY1MWVlMjhkYjljY2YyNTY4YmNkMmIyZTNm",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",

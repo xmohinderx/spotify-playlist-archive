@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 
 > When someone you love becomes a memory..\. find solace in these songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 132,311 likes - 50 songs - 3 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 49 | [Light Up The Sky](https://open.spotify.com/track/3bDGTEU1NeVnQdeQoR4hwh) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up The Sky](https://open.spotify.com/album/0AZUAZASaKOVyLM3DxW5lJ) | 3:39 |
 | 50 | [I Can Only Imagine](https://open.spotify.com/track/0lVYRIVjK77Z6uG2GgM8Kl) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Almost There](https://open.spotify.com/album/4BDftZAnppbkKAA4O4APzn) | 4:08 |
 
-Snapshot ID: `MTY0MDMxNTU0MCwwMDAwMDAwMGMyMDcwM2IwOGYwZWY1Y2IxMDYwOWUzZjFkMjNjYTRh`
+Snapshot ID: `MTY0MDMyNDE3MiwwMDAwMDAwMGMyMDcwM2IwOGYwZWY1Y2IxMDYwOWUzZjFkMjNjYTRh`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0kVaFpvoi0O4IbyJyEZckU.md) - [plain]
 
 > Psych yourself up for whatever you've got going...
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,438 likes - 182 songs - 10 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 |

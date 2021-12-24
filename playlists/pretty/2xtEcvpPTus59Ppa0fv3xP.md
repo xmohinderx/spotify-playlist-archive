@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2xtEcvpPTus59Ppa0fv3xP.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 390 likes - 50 songs - 3 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |

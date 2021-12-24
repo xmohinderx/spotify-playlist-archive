@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5wPUMOWXlhmk9XmGO4RtKz.md) - [plain]
 
 > Some nice little jams to make the ride smooth\. To quote Dom Kennedy &quot;Pleeze Make It Home Safe&quot; \(also closing song\).
 
+[Spotify](https://open.spotify.com/user/spotify) - 38,001 likes - 40 songs - 2 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Real](https://open.spotify.com/track/2aYzt5nE3tBUMahasMUoOl) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Be Real](https://open.spotify.com/album/0tWUzJow4pNAyHWbubBiHw) | 3:26 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNfM2w2mq1B8.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
+[Spotify](https://open.spotify.com/user/spotify) - 9,843 likes - 50 songs - 2 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [А+Г=ВНЛ](https://open.spotify.com/track/5bYyQzaUSXpGGrJuGZfafd) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [А+Г=ВНЛ](https://open.spotify.com/album/0GgZrp4cqDk75Q4FGruAzW) | 3:50 |

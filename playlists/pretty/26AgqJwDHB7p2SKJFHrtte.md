@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/26AgqJwDHB7p2SKJFHrtte.md) - [plain]
 
 > ..\. and don't take yourself too seriously.
 
+[Spotify](https://open.spotify.com/user/spotify) - 107 likes - 27 songs - 1 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Work Song](https://open.spotify.com/track/4Vc3bzFxXdrABa2DxgyCMT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:49 |

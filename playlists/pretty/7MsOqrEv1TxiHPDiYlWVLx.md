@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7MsOqrEv1TxiHPDiYlWVLx.md) - [plain]
 
 > ...and everything nice\. Enjoy your dinner to the sounds of classic jazz vocals.
 
+[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 24 songs - 1 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blue Skies](https://open.spotify.com/track/4g0RZzAvzqOaVZcpuIHvra) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [The Very Best Of The Irving Berlin Songbook](https://open.spotify.com/album/3jZUAR2RlzsDOfK7JM9Yzl) | 3:43 |

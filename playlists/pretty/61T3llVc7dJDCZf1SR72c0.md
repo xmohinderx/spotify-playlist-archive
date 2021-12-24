@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/61T3llVc7dJDCZf1SR72c0.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 918 likes - 28 songs - 1 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Diane Young](https://open.spotify.com/track/104pmtTQOlmW8Zt2BipGKH) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 2:40 |

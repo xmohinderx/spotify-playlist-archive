@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2zlFpwRI7aroWy0ecv6O34.md) - [plain]
 
 > Wind down for the evening with your special someone and this soothing selection of serenades.
 
+[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 181 songs - 15 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Serenade, Op\. 50](https://open.spotify.com/track/0sbiUvl86WqTGjQYXYFJQx) | [Malcolm Arnold](https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e), [Craig Ogden](https://open.spotify.com/artist/07pZelCNTBK93CD474588Q), [Royal Northern Sinfonia](https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd), [Richard Hickox](https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd) | [English Guitar Concertos](https://open.spotify.com/album/7KD6JmCRBIvPD3OUgFZPmo) | 4:32 |

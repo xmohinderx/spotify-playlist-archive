@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALixlKf7N8.md) - [plain]
 
 > A collection of fairy tales and kids' stories perfect for bedtime and beyond.
 
+[Spotify](https://open.spotify.com/user/spotify) - 114,517 likes - 47 songs - 7 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beauty And The Beast](https://open.spotify.com/track/2EMYHvAeDOaSYROke3efHf) | [Fairy Tales](https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB) | [Bedtime Stories](https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl) | 9:59 |

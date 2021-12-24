@@ -1,7 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
   "name": "Sax and the City",
-  "snapshot_id": "MTY0MDMxNTU4MCwwMDAwMDAwMDgwYzcyNzJhMzhiMzU5Zjk4ODZlNTRjM2JlN2FiNWI4",
+  "num_followers": 200758,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIxMiwwMDAwMDAwMDgwYzcyNzJhMzhiMzU5Zjk4ODZlNTRjM2JlN2FiNWI4",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",

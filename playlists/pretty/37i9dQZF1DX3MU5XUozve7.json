@@ -1,7 +1,12 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
   "name": "Skatepark Punks",
-  "snapshot_id": "MTY0MDMxNTY1NiwwMDAwMDAwMGZmYzFhNjM1OGNjYTFjNTc3MDFlOGIwNTQxNmQwZjdk",
+  "num_followers": 686825,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI4NSwwMDAwMDAwMGZmYzFhNjM1OGNjYTFjNTc3MDFlOGIwNTQxNmQwZjdk",
   "tracks": [
     {
       "added_at": "2021-01-23 19:16:43",

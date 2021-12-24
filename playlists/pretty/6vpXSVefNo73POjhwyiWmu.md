@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6vpXSVefNo73POjhwyiWmu.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 950 likes - 42 songs - 3 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keep Ya Head Up](https://open.spotify.com/track/430TwEETfJUHGdslOabGoQ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [2Pac Greatest Hits \(Explicit Version\)](https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk) | 4:23 |

@@ -1,7 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
   "name": "Feel Good Friday",
-  "snapshot_id": "MTY0MDMxNTYyNiwwMDAwMDAwMDU0MDc0M2VhYWYwMWZkMDAxYzBhNDU4MjA0YWI3ZDEx",
+  "num_followers": 1027590,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI1NSwwMDAwMDAwMDU0MDc0M2VhYWYwMWZkMDAxYzBhNDU4MjA0YWI3ZDEx",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1duDvis8iF.md) - [plain]
 
 > A collection of classic and contemporary Irish short stories, novels, plays, poetry, and historical artifacts in English and Irish.
 
+[Spotify](https://open.spotify.com/user/spotify) - 12,398 likes - 235 songs - 1 day 14 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In The Morning](https://open.spotify.com/track/1dxCB2G5CCwHiGxb4jEXKt) | [Cillian Murphy](https://open.spotify.com/artist/7hGvL6xgipAEutgDhyk5XB) | [Late Night Tales Nils Frahm](https://open.spotify.com/album/7w4ibVLYJdUeiRCuWc3zmK) | 7:05 |

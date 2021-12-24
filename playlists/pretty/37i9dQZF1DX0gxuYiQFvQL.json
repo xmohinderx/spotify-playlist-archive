@@ -1,6 +1,11 @@
 {
   "description": "A collection of classic tales by beloved Danish author Hans Christian Andersen.",
   "name": "Fairy Tales",
+  "num_followers": 52281,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU2ODAxOTA4MCwwMDAwMDAwOTAwMDAwMTY5NTRhZDFiNmMwMDAwMDE2ZDE1Mzg2NTcw",
   "tracks": [
     {

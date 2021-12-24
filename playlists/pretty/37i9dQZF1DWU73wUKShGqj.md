@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU73wUKShGqj.md) - [plain]
 
 > "My candle burns at both ends; It will not last the night; But ah, my foes, and oh, my friends — It gives a lovely light!"
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,029 likes - 18 songs - 40 min 12 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Is Not All](https://open.spotify.com/track/4PzL7AmZ3bWLdbwNqEd84a) | [Edna St\. Vincent Millay](https://open.spotify.com/artist/0CDolB6auhvott1yKVqkRP) | [Ultimate Poetry & Story Collection](https://open.spotify.com/album/4PzG6lT4mtGlpdOfhquCyL) | 1:11 |

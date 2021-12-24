@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0FXAO6yBxrfz5PTOEuvq67.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 484 likes - 50 songs - 3 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |

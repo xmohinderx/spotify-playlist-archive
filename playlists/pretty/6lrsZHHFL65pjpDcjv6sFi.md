@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6lrsZHHFL65pjpDcjv6sFi.md) - [plain]
 
 > Stockholm Music & Arts är en ny festival som i sommar, den 3 \- 5 augusti, arrangeras för första gången\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 32 songs - 2 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Are My Sister](https://open.spotify.com/track/4vWvY2Ed1dn6K2MMBCKtb5) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [I Am A Bird Now](https://open.spotify.com/album/0hiJeb1ycFFXyW12j61sfB) | 3:59 |

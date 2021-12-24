@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 
 > Get ready for good feels and fireworks!
 
+[Spotify](https://open.spotify.com/user/spotify) - 124,180 likes - 80 songs - 4 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nYqGKSH0ld.md) - [plain]
 | 79 | [Thunder](https://open.spotify.com/track/0oP9pK1D1lNF3Lb7jkl6Xx) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Thunder](https://open.spotify.com/album/1RlpachGbLBOZ2L1JK3N49) | 3:07 |
 | 80 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/2lkQd5T32QHDOfFkEIPJKz) | 3:52 |
 
-Snapshot ID: `MTY0MDMxNTY4MiwwMDAwMDAwMGNhNTRmZTk3ODViNjg2ZWJiMzM5ZmMzMzA4YzY1ZTRk`
+Snapshot ID: `MTY0MDMyNDMxMCwwMDAwMDAwMGNhNTRmZTk3ODViNjg2ZWJiMzM5ZmMzMzA4YzY1ZTRk`

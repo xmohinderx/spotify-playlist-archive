@@ -1,7 +1,12 @@
 {
   "description": "the resurgence is real. Cover: Lovejoy",
   "name": "Today's Indie Rock",
-  "snapshot_id": "MTY0MDMxNTY1MCwwMDAwMDAwMGFkM2EwMWJkM2E2YTU2ZmE5ZDlmZGI5ZmRmODFkNTQ3",
+  "num_followers": 744579,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3OSwwMDAwMDAwMGFkM2EwMWJkM2E2YTU2ZmE5ZDlmZGI5ZmRmODFkNTQ3",
   "tracks": [
     {
       "added_at": "2021-07-19 15:34:40",

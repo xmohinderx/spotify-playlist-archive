@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1xHgjMaSpW.md) - [plain]
 
 > All Mighty Merle...All The Time!
 
+[Spotify](https://open.spotify.com/user/spotify) - 56,607 likes - 85 songs - 4 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pancho & Lefty](https://open.spotify.com/track/0MCVBDXkBND5VUcBXobdie) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Definitive Collection](https://open.spotify.com/album/6XsfwBPz9wAwebrEZ5noig) | 4:47 |

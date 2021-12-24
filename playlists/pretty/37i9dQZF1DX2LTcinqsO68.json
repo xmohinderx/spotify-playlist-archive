@@ -1,7 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist!",
   "name": "Old School Metal",
-  "snapshot_id": "MTY0MDMxNTYzOSwwMDAwMDAwMGRmM2YxMjcxOTM5ODRjYjk3MzIzZTVkNDRmMjhmNWNk",
+  "num_followers": 2112080,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI2OCwwMDAwMDAwMGRmM2YxMjcxOTM5ODRjYjk3MzIzZTVkNDRmMjhmNWNk",
   "tracks": [
     {
       "added_at": "2021-11-28 09:19:15",

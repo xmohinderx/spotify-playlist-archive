@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HHskiFSgKu.md) - [plain]
 
 > Want to power up your morning? Grab the beats to go.
 
+[Spotify](https://open.spotify.com/user/spotify) - 311 likes - 16 songs - 1 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Be Real](https://open.spotify.com/track/2aYzt5nE3tBUMahasMUoOl) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Be Real](https://open.spotify.com/album/0tWUzJow4pNAyHWbubBiHw) | 3:26 |

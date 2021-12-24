@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4SJ51ZOUgnrv5GjY1GCZAL.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 10 songs - 1 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [See Emily Play \- 1996 Remastered Version](https://open.spotify.com/track/1stjADLevHFjxD83nK2J0k) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics \(1996 Remastered Version\)](https://open.spotify.com/album/0LBikEJ18JLoCLRM0dy27y) | 2:53 |

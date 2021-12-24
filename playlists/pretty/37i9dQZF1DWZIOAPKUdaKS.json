@@ -1,7 +1,12 @@
 {
   "description": "Piano music to hone your thought process.",
   "name": "Focus Piano",
-  "snapshot_id": "MTY0MDMxNTU4NywwMDAwMDAwMDFkMDJhMjg2MmVjZGY1MDEwNTQ2ZDIzZGQ0ZWZhNTlk",
+  "num_followers": 295246,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIxOCwwMDAwMDAwMDFkMDJhMjg2MmVjZGY1MDEwNTQ2ZDIzZGQ0ZWZhNTlk",
   "tracks": [
     {
       "added_at": "2021-12-07 12:31:30",

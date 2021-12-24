@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4nInziu6O7lNV0ucn8w7YV.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 824 likes - 147 songs - 9 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Make Me](https://open.spotify.com/track/0aSXBXVQVh2b34jF3DYXAT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [You Make Me](https://open.spotify.com/album/2ZE1w0y27hxMhblmE9WzDr) | 3:52 |

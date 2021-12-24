@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yLn8TpmS3h.md) - [plain]
 
 > Drawing from R&B, indie, pop, and more, the electropop act’s singer Olly Alexander shines a light on LGBTQIA+ artists that inspire.
 
+[Spotify](https://open.spotify.com/user/spotify) - 16,774 likes - 26 songs - 1 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Olly Alexander from Years & Years on Pride](https://open.spotify.com/track/6MCm5U1tyfkaQvcGkbw3ov) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Years & Years \- Spotify Pride](https://open.spotify.com/album/3IthvRoQiLefWpF76B1nmG) | 1:16 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0ByLkBLDx1AS5yXJuBTyCd.md) - [plain]
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 
+[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 36 songs - 2 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eleggua \(Intro\)](https://open.spotify.com/track/3ep5BSdL66vtL6xdelLOVP) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/5iFP1alzRGUIpM48PYrGQh) | 1:16 |

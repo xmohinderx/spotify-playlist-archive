@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5JXV7ioEqB9ZA1b1RjSLVg.md) - [plain]
 
 > Wake up to Songbirds, a mix of melody\-driven indie, folk, and Americana.
 
+[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 25 songs - 1 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 |

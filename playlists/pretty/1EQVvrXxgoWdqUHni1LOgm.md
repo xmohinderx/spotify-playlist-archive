@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1EQVvrXxgoWdqUHni1LOgm.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 41 likes - 20 songs - 1 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 |

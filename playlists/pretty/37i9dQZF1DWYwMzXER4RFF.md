@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Enola Gay
 
+[Spotify](https://open.spotify.com/user/spotify) - 211,609 likes - 55 songs - 3 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 |
@@ -62,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [The Dial](https://open.spotify.com/track/55AP1tUevnOiiyffOQYeDB) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [The Dial](https://open.spotify.com/album/1qp9czAYoODXQiiXp4Yjbb) | 5:10 |
 | 55 | [Cruising](https://open.spotify.com/track/42FoHPbDOZM1qCCCKmEvf2) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Cruising](https://open.spotify.com/album/55fNVmdLsjVNTEE7TQcbGF) | 6:27 |
 
-Snapshot ID: `MTY0MDMxNTU4NCwwMDAwMDAwMGE5MjM3M2IyNjllNTNlMmQzNTk4ZDUwYjkzYWQxNTIx`
+Snapshot ID: `MTY0MDMyNDIxNiwwMDAwMDAwMGE5MjM3M2IyNjllNTNlMmQzNTk4ZDUwYjkzYWQxNTIx`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lwxXvReaux.md) - [plain]
 
 > Classic rock combined a guitar\-driven sound with a particular era\. This playlist delivers classic rock tracks for the entire workday.
 
+[Spotify](https://open.spotify.com/user/spotify) - 167,664 likes - 97 songs - 7 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Shook Me All Night Long](https://open.spotify.com/track/6yl8Es1tCYD9WdSkeVLFw4) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Who Made Who](https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A) | 3:30 |

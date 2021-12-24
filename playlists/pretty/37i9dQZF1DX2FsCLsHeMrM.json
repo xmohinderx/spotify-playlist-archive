@@ -1,7 +1,12 @@
 {
   "description": "Get jiggy in the kitchen with this groovy playlist.",
   "name": "Kitchen Swagger",
-  "snapshot_id": "MTY0MDMxNTYzNywwMDAwMDAwMDBjZjEyMzg5MTk4Y2JhZjVhNTY1YTMxNzYwOGQ3NGFh",
+  "num_followers": 716824,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI2NywwMDAwMDAwMDBjZjEyMzg5MTk4Y2JhZjVhNTY1YTMxNzYwOGQ3NGFh",
   "tracks": [
     {
       "added_at": "2021-11-10 13:40:59",

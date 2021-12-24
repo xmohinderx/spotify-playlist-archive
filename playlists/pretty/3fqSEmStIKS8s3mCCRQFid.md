@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3fqSEmStIKS8s3mCCRQFid.md) - [plain]
 
 > Enjoy a sun\-dappled stroll to these folksy, mid\-tempo gems.
 
+[Spotify](https://open.spotify.com/user/spotify) - 950 likes - 22 songs - 1 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ends of the Earth](https://open.spotify.com/track/33onVefa4PMs8b705pKRGz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/6zmmMSHLKk3CacdH3SwEGQ) | 4:44 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1WkrD0MvdN3BcLa4DXBRCQ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 644 likes - 50 songs - 3 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |

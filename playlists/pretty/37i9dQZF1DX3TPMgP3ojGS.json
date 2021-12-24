@@ -1,7 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
   "name": "Coffee and Piano",
-  "snapshot_id": "MTY0MDMxNTY1OCwwMDAwMDAwMDVlYzc1YmZmN2YzYWYxZDMwOTgyMjIxODZiYWZkNDA2",
+  "num_followers": 252916,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI4NiwwMDAwMDAwMDVlYzc1YmZmN2YzYWYxZDMwOTgyMjIxODZiYWZkNDA2",
   "tracks": [
     {
       "added_at": "2021-12-21 23:28:22",

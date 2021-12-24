@@ -1,7 +1,12 @@
 {
   "description": "Turn up for the big game!",
   "name": "Gameday",
-  "snapshot_id": "MTY0MDMxNTgyNywwMDAwMDAwMDhlNzQ2ZjcyNjMzODI1ZmM3ZTNkYWE0YmMwYzAyYmZi",
+  "num_followers": 511183,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQ1MCwwMDAwMDAwMDhlNzQ2ZjcyNjMzODI1ZmM3ZTNkYWE0YmMwYzAyYmZi",
   "tracks": [
     {
       "added_at": "2021-09-03 13:09:13",

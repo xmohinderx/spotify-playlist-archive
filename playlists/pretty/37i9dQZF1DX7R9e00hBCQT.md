@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R9e00hBCQT.md) - [plain]
 
 > The Harlem Renaissance comes alive once more as the <a href="spotify:artist:1mNcebzTg5QlHEY4WYhLSm">innovative poet</a> and his cohorts read and discuss his work.
 
+[Spotify](https://open.spotify.com/user/spotify) - 20,224 likes - 57 songs - 1 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Have Known Rivers](https://open.spotify.com/track/79H2YTUKYNvF9zAVqNqgKe) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [Harlem In Vogue: The Poetry And Jazz Of Langston Hughes](https://open.spotify.com/album/67LO3K5Oh0hjVOnTKlicKL) | 1:06 |

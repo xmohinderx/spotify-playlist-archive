@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7z2Wo5a21ENb24YGcEdoTE.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 72,843 likes - 50 songs - 3 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |

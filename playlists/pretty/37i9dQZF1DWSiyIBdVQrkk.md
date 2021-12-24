@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,964,888 likes - 110 songs - 7 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
@@ -117,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Hey Baby](https://open.spotify.com/track/5mWaxl8KzwAop3kfNNyNZX) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Mind Control](https://open.spotify.com/album/5O3jiSAIkmfXYqvXFXq4fq) | 4:54 |
 | 110 | [Bad Road](https://open.spotify.com/track/6RTYadm2LKFgZmXQ7tMxpH) | [Norris Man](https://open.spotify.com/artist/2rVr4KpUNe5Kyxnir7RCbW) | [Persistence](https://open.spotify.com/album/0gorEKEy7woYQEGmf1NkaC) | 3:27 |
 
-Snapshot ID: `MTY0MDMxNTQ5NiwwMDAwMDAwMDZhOThmNmFkMDljYzliZDRkNzgzM2JjYTQ0MTJkODNk`
+Snapshot ID: `MTY0MDMyNDEyOCwwMDAwMDAwMDZhOThmNmFkMDljYzliZDRkNzgzM2JjYTQ0MTJkODNk`

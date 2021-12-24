@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2eCpwX876ZuWtIsZweYMnr.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 9,937 likes - 50 songs - 3 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TiK ToK](https://open.spotify.com/track/4srpHYFHKjVGRDNHqRpWxi) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal + Cannibal \(Deluxe Edition\)](https://open.spotify.com/album/4HD4hyCi2n5gc5yyRVnirU) | 3:19 |

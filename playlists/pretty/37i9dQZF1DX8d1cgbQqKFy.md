@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d1cgbQqKFy.md) - [plain]
 
 > Dive into the works of Noam Chomsky, beginning with his latest 2014 release, When Elites Fail.
 
+[Spotify](https://open.spotify.com/user/spotify) - 17,599 likes - 410 songs - 1 day 0 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Architects of Policy](https://open.spotify.com/track/5JFwJmiDCcqFhzGTdZpSIG) | [Noam Chomsky](https://open.spotify.com/artist/5NEnjDZdPKESN9J7NoPmdz) | [When Elites Fail](https://open.spotify.com/album/5iHyfwnJmyySnmHZhwQS96) | 3:24 |

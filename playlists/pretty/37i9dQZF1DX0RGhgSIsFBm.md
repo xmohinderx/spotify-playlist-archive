@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RGhgSIsFBm.md) - [plain]
 
 > A collection of classic horror and spooky stories, from Stoker to Hitchcock.
 
+[Spotify](https://open.spotify.com/user/spotify) - 129,095 likes - 127 songs - 1 day 17 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Raven](https://open.spotify.com/track/0A4FpU40H9T3q6B7WpS3De) | [Edgar Allan Poe](https://open.spotify.com/artist/6pcPyOpEwaoP9q7wOjqHx0), [William Dufris](https://open.spotify.com/artist/2fjWS81VAhiUdrKPtAlWaU) | [Four Tales Of Terror: unabridged](https://open.spotify.com/album/58Q81ASocn1wnbaebQME9P) | 8:47 |

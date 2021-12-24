@@ -1,7 +1,12 @@
 {
   "description": "Get your day off to a cracking start!",
   "name": "Morning Motivation",
-  "snapshot_id": "MTY0MDMxNTgwMCwwMDAwMDAwMDNiZDI2MjE3YzA5MTM1YzIyNjAzMjA4OGUzOGI3MWI4",
+  "num_followers": 1081273,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQyNCwwMDAwMDAwMDNiZDI2MjE3YzA5MTM1YzIyNjAzMjA4OGUzOGI3MWI4",
   "tracks": [
     {
       "added_at": "2021-12-09 10:01:08",

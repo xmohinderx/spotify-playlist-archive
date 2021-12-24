@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6GZ9F4MZpPdHJEwhq3kHKG.md) - [plain]
 
 > Listen to all of Seth's favorite classic soul tracks right here\. And be sure to check out his charity, Hilarity for Charity.
 
+[Spotify](https://open.spotify.com/user/spotify) - 3,908 likes - 41 songs - 1 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seth Rogen \- Classic Soul Intro](https://open.spotify.com/track/5T30zoNNgnVZrkCsHNtvD7) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Seth Rogen \- Classic Soul](https://open.spotify.com/album/4psvWKJCKc1OTVCVbo4gMA) | 0:12 |

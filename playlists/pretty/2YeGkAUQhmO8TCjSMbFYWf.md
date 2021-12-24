@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2YeGkAUQhmO8TCjSMbFYWf.md) - [plain]
 
 > Honor your body, fuel your mind\. Love Life\. Live Yoga.
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,580 likes - 22 songs - 1 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wild Ones](https://open.spotify.com/track/6UrF9LIhffllzblKlEVYxm) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Wild Ones](https://open.spotify.com/album/0i38l8BvajWcN009SoRDVp) | 3:04 |

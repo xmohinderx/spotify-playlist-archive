@@ -1,10 +1,15 @@
 {
-  "description": "The world's biggest dance hits. Featuring music from R\u00eave, Sam Feldt & Rita Ora, James Hype & Tita Lau and more!",
+  "description": "The world's biggest dance hits. Featuring music from Sam Feldt & Rita Ora,  R\u00eave, Alok & Steve Aoki and more!",
   "name": "mint",
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDRiYzAwMDAwMTdkYzZjM2NiN2IwMDAwMDE3ZGM0MWE3MWMw",
+  "num_followers": 5877763,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDRiZDAwMDAwMTdkZWFjZjY1MGQwMDAwMDE3ZGU5NmJiNzk1",
   "tracks": [
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -24,7 +29,7 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -44,27 +49,27 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
       },
       "artists": [
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Anabel Englund",
-          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 198703,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "CTRL + ALT + DEL",
         "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
@@ -80,27 +85,7 @@
       "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Human (feat. Echoes)",
-        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Echoes",
-          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Human (feat. Echoes)",
-      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "California Dreamin' (feat. High Jinx)",
         "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
@@ -120,7 +105,47 @@
       "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "duration_ms": 198703,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Human (feat. Echoes)",
+        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Human (feat. Echoes)",
+      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "I Wanna Run Away",
         "url": "https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY"
@@ -144,7 +169,27 @@
       "url": "https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Won\u2019t Let You Go",
         "url": "https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h"
@@ -168,7 +213,7 @@
       "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki"
@@ -188,27 +233,7 @@
       "url": "https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "I\u2019m Into It",
         "url": "https://open.spotify.com/album/5YZmgzsyn6bgT8UVpH7ynN"
@@ -232,7 +257,31 @@
       "url": "https://open.spotify.com/track/4b3edA8m5ww2BUB5ahdX3q"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Annual 2021",
+        "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lars Martin",
+          "url": "https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO"
+        }
+      ],
+      "duration_ms": 141312,
+      "name": "Typical (feat. Lars Martin)",
+      "url": "https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Tell It To My Heart",
         "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
@@ -252,155 +301,7 @@
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "A Drug From God",
-        "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "NPC",
-          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
-        }
-      ],
-      "duration_ms": 192455,
-      "name": "A Drug From God",
-      "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Moth To A Flame",
-        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Fuck U Love U",
-        "url": "https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Fuck U Love U",
-      "url": "https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "I Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Player Of Games",
-        "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 245542,
-      "name": "Player Of Games",
-      "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Dopamine (feat. Eyelar)",
-        "url": "https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 216091,
-      "name": "Dopamine (feat. Eyelar)",
-      "url": "https://open.spotify.com/track/0KzCNeuMVGXbnMbjX6ilCU"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "My Humps",
         "url": "https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb"
@@ -420,7 +321,151 @@
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 178625,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "A Drug From God",
+        "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "NPC",
+          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
+        }
+      ],
+      "duration_ms": 192455,
+      "name": "A Drug From God",
+      "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Fuck U Love U",
+        "url": "https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Fuck U Love U",
+      "url": "https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Player Of Games",
+        "url": "https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 245542,
+      "name": "Player Of Games",
+      "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
+      },
+      "artists": [
+        {
+          "name": "Ben Kim",
+          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "I Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Dopamine (feat. Eyelar)",
+        "url": "https://open.spotify.com/album/6ViQtwjVgVNTTkEqn9YETq"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "duration_ms": 216091,
+      "name": "Dopamine (feat. Eyelar)",
+      "url": "https://open.spotify.com/track/0KzCNeuMVGXbnMbjX6ilCU"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Sweet Talker",
         "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
@@ -440,23 +485,7 @@
       "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/20uKxxvwArcDBwXpZr7MlL"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "This Time",
-      "url": "https://open.spotify.com/track/21KH3KOkTjqPM0lCoba0UC"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Somebody To Use",
         "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
@@ -472,7 +501,7 @@
       "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix)",
         "url": "https://open.spotify.com/album/6Ozmnoay8pclUfUO8CWKLU"
@@ -496,7 +525,7 @@
       "url": "https://open.spotify.com/track/6X6Ow0iioCrYQSK1QDHQbC"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "In Da Getto",
         "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
@@ -516,7 +545,7 @@
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "The Don",
         "url": "https://open.spotify.com/album/4XuVKQOCaQ15ZCdtcENLlD"
@@ -540,7 +569,7 @@
       "url": "https://open.spotify.com/track/7dhiGKBm2pYVLAW4QF1z1E"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "I Wish (feat. Mabel)",
         "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
@@ -560,7 +589,7 @@
       "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "2gether",
         "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
@@ -576,7 +605,23 @@
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/20uKxxvwArcDBwXpZr7MlL"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/21KH3KOkTjqPM0lCoba0UC"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Used to This",
         "url": "https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm"
@@ -596,7 +641,7 @@
       "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "My Heart Goes (La Di Da) (feat. Topic)",
         "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
@@ -616,23 +661,7 @@
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim"
-      },
-      "artists": [
-        {
-          "name": "Ben Kim",
-          "url": "https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
@@ -652,7 +681,31 @@
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "edamame (feat. Rich Brian) [Diplo Remix]",
+        "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 175309,
+      "name": "edamame (feat. Rich Brian) - Diplo Remix",
+      "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Spiral",
         "url": "https://open.spotify.com/album/59d750ai99PfyZ5zTUQWfY"
@@ -672,7 +725,7 @@
       "url": "https://open.spotify.com/track/3p7bWzqLgmHc172MBh7Vd2"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "I must apologise",
         "url": "https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt"
@@ -688,7 +741,7 @@
       "url": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Hannah (The Sun)",
         "url": "https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA"
@@ -704,7 +757,7 @@
       "url": "https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Can't Get Over You (feat. Aloe Blacc)",
         "url": "https://open.spotify.com/album/1dlQZWMYBgvrP0azHKfah3"
@@ -724,7 +777,7 @@
       "url": "https://open.spotify.com/track/46BIpPudYCyNxUTz4f2E8k"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Last Thought (feat. MKLA)",
         "url": "https://open.spotify.com/album/6IeRGYRqUbbfCnxN9Aw8Yg"
@@ -748,7 +801,7 @@
       "url": "https://open.spotify.com/track/1tZC1ktebdhQSlhnFSetLk"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Happy Machine",
         "url": "https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV"
@@ -768,7 +821,7 @@
       "url": "https://open.spotify.com/track/7BxIvkfVSgoUUlDcBVff61"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
@@ -788,7 +841,7 @@
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Worst Case",
         "url": "https://open.spotify.com/album/7BxXZuYlYgPcqEaFn08usZ"
@@ -808,27 +861,7 @@
       "url": "https://open.spotify.com/track/3zbbRebB1rzlXJgq7Ufn8V"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Wasteland (feat. Little Boots)",
-        "url": "https://open.spotify.com/album/4rDSanKbdv6i3X9xgCVYbP"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Little Boots",
-          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Wasteland (feat. Little Boots)",
-      "url": "https://open.spotify.com/track/4DgTU3kxMj4VdDDTFqlIf0"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Nuclear Lethargy",
         "url": "https://open.spotify.com/album/1IrOPaGt16r7H2TYbVH83c"
@@ -844,7 +877,7 @@
       "url": "https://open.spotify.com/track/1OibEvLxYUIkQyFekXqC5N"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Wherever You Go (feat. John Martin)",
         "url": "https://open.spotify.com/album/1mkiHxOjzK6O2WxQgyO4Hd"
@@ -864,7 +897,7 @@
       "url": "https://open.spotify.com/track/2tsArM8er9gkqiN4XiaW3r"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "I Wonder (feat. Shai)",
         "url": "https://open.spotify.com/album/2vYv332gMfVpYLfi2xeVV3"
@@ -888,7 +921,7 @@
       "url": "https://open.spotify.com/track/1aRdoiTy948hSqKI4bEyvJ"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Strangers (with Mansionair)",
         "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
@@ -908,7 +941,7 @@
       "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl"
@@ -932,7 +965,27 @@
       "url": "https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Check Out",
+        "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 174138,
+      "name": "Check Out",
+      "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
@@ -952,7 +1005,7 @@
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Shady Intentions (feat. Tori Levett)",
         "url": "https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU"
@@ -976,7 +1029,7 @@
       "url": "https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG"
@@ -1000,7 +1053,7 @@
       "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "It Ain't Right",
         "url": "https://open.spotify.com/album/02eBFjibJmBwmNahLyYX31"
@@ -1016,7 +1069,7 @@
       "url": "https://open.spotify.com/track/0lrctx5G3InbHwNO5JyFfL"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
@@ -1036,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Lauren",
         "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
@@ -1052,7 +1105,7 @@
       "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/43MmWS3TZ60DH9XKn6SPwv"
@@ -1068,7 +1121,7 @@
       "url": "https://open.spotify.com/track/7Mqdzo9NcZLUwTAoyV2AeE"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Tell Me Something Good",
         "url": "https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5"
@@ -1084,7 +1137,7 @@
       "url": "https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "You Give Me A Feeling",
         "url": "https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12"
@@ -1104,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Cleo",
         "url": "https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H"
@@ -1120,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
@@ -1136,7 +1189,7 @@
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Innerlight EP",
         "url": "https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7"
@@ -1156,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0ElflcN13tFhYL3wiBNrNw"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Make It Good",
         "url": "https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6"
@@ -1172,7 +1225,7 @@
       "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -1196,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "After You (feat. Calle Lehmann)",
         "url": "https://open.spotify.com/album/1RDosPV9LVUjxUxpzyXHB6"
@@ -1220,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Hyperlandia",
         "url": "https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi"
@@ -1240,7 +1293,7 @@
       "url": "https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Sun Came Up",
         "url": "https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i"
@@ -1260,7 +1313,7 @@
       "url": "https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Cut Me Loose (Edit)",
         "url": "https://open.spotify.com/album/1UWmbDu7nphgNFGPjuZrSR"
@@ -1280,7 +1333,7 @@
       "url": "https://open.spotify.com/track/0dSTbC1TcahlWOZV5C5OhI"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Cherry - Spotify Singles",
         "url": "https://open.spotify.com/album/7jvb4QdT1rCfub5WSZsv0p"
@@ -1296,7 +1349,7 @@
       "url": "https://open.spotify.com/track/7H5X2cvqCTJ8C8loGvMRDN"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Jolene (Destructo Remix)",
         "url": "https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi"
@@ -1316,7 +1369,7 @@
       "url": "https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "O Retha",
         "url": "https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ"
@@ -1336,7 +1389,7 @@
       "url": "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Time and Time Again",
         "url": "https://open.spotify.com/album/1WkSp0mjBHyipV2iuE2B5x"
@@ -1352,7 +1405,7 @@
       "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "to hell with it",
         "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
@@ -1368,7 +1421,7 @@
       "url": "https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Unbreakable (with Sam Gray)",
         "url": "https://open.spotify.com/album/6yD8EL3S9KrIysOAHv08LE"
@@ -1388,7 +1441,7 @@
       "url": "https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Forbidden Feelingz",
         "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
@@ -1404,7 +1457,7 @@
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Equal in the Darkness",
         "url": "https://open.spotify.com/album/1eVHCjvrzVFc8TJuZLn4RJ"
@@ -1428,7 +1481,7 @@
       "url": "https://open.spotify.com/track/6zpW8dKlAei8kiPZuUthq7"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Love Vibration",
         "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
@@ -1444,27 +1497,27 @@
       "url": "https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Another Chance",
-        "url": "https://open.spotify.com/album/0JW2cRdj4ELLx9COGeTMiR"
+        "name": "Wasteland (feat. Little Boots)",
+        "url": "https://open.spotify.com/album/4rDSanKbdv6i3X9xgCVYbP"
       },
       "artists": [
         {
-          "name": "Roger Sanchez",
-          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
         },
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Little Boots",
+          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
         }
       ],
-      "duration_ms": 254130,
-      "name": "Another Chance",
-      "url": "https://open.spotify.com/track/0oHLi9gb4Gd97OuN6ckMk8"
+      "duration_ms": 181560,
+      "name": "Wasteland (feat. Little Boots)",
+      "url": "https://open.spotify.com/track/4DgTU3kxMj4VdDDTFqlIf0"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
@@ -1492,7 +1545,7 @@
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
@@ -1516,7 +1569,7 @@
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "On My Knees",
         "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
@@ -1532,7 +1585,7 @@
       "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Midnight Rapture",
         "url": "https://open.spotify.com/album/52OxA20iRzso3tPiXvHkrF"
@@ -1548,7 +1601,7 @@
       "url": "https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "U Are My High",
         "url": "https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq"
@@ -1564,7 +1617,7 @@
       "url": "https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Kiss of Life",
         "url": "https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn"
@@ -1584,7 +1637,7 @@
       "url": "https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/13HPgcvl9YDdYumYh7QZlo"
@@ -1604,7 +1657,7 @@
       "url": "https://open.spotify.com/track/0LqsRKslKSndc3oDiTjn9a"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "What You've Done To Me (feat. Bemend\u00e9)",
         "url": "https://open.spotify.com/album/3frz7gq4fuN3nIu2qfP6Ki"
@@ -1628,7 +1681,7 @@
       "url": "https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "FOR\u039eV\u039eR",
         "url": "https://open.spotify.com/album/2bFEI0FZ688BlTpclN88VX"
@@ -1648,7 +1701,7 @@
       "url": "https://open.spotify.com/track/3l2Wb3OzxiuJnMIK0Bdb5z"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "What You Like",
         "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
@@ -1668,7 +1721,7 @@
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
@@ -1692,7 +1745,7 @@
       "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Call Of The Unicorn",
         "url": "https://open.spotify.com/album/3vKSdCzdcMhNc23QvxrJp1"
@@ -1712,7 +1765,7 @@
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "GOOD PUSS",
         "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
@@ -1728,7 +1781,7 @@
       "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "SLEEP",
         "url": "https://open.spotify.com/album/5mzCJJA5kAQRgHZIUIpR0t"
@@ -1748,7 +1801,7 @@
       "url": "https://open.spotify.com/track/4JlbNN3jRVy0agVxF2K5DA"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Music Means Love Forever",
         "url": "https://open.spotify.com/album/54MIiA8hZ7y2vU0cbiHjbE"
@@ -1768,27 +1821,7 @@
       "url": "https://open.spotify.com/track/7nlXw2qQ38tx4UvBwVL5Ne"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "I Hope It Lasts Forever",
         "url": "https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj"
@@ -1804,7 +1837,7 @@
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS"
@@ -1824,7 +1857,7 @@
       "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Back Tomorrow",
         "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
@@ -1844,27 +1877,7 @@
       "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Oohla Oohla",
-        "url": "https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 143280,
-      "name": "Oohla Oohla",
-      "url": "https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Billie (Loving Arms)",
         "url": "https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1"
@@ -1880,7 +1893,7 @@
       "url": "https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Microdosing",
         "url": "https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW"
@@ -1896,7 +1909,7 @@
       "url": "https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
@@ -1916,7 +1929,7 @@
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "soft spot",
         "url": "https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc"
@@ -1936,7 +1949,7 @@
       "url": "https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Burning (feat. Camden Cox)",
         "url": "https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV"

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
+[Spotify](https://open.spotify.com/user/spotify) - 403,468 likes - 100 songs - 9 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Regular John](https://open.spotify.com/track/0fZLTsasJCJ2EaaczK2Nob) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/4ZVYZI1wY4TmLOQ3as1UNI) | 4:37 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
 | 100 | [Evaporate](https://open.spotify.com/track/53mkH3YBERbdpBNte7hlb7) | [35007](https://open.spotify.com/artist/09kNJ3LqHcfQZO5qixfmft) | [Liquid](https://open.spotify.com/album/5Y88pvJ3kx62BkJ15E16Vs) | 5:53 |
 
-Snapshot ID: `MTY0MDMxNTgyNiwwMDAwMDAwMDFmY2EyZWM0M2ZmNWIxNzdmMzNhOTY2N2Q4ZmMyMmY0`
+Snapshot ID: `MTY0MDMyNDQ0OSwwMDAwMDAwMDFmY2EyZWM0M2ZmNWIxNzdmMzNhOTY2N2Q4ZmMyMmY0`

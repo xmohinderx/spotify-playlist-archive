@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 
 > Here's to the groom! Enjoy your day with the boys!
 
+[Spotify](https://open.spotify.com/user/spotify) - 88,926 likes - 80 songs - 4 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Rhythm of the Night](https://open.spotify.com/track/2pEJjOaIpVvp1gC0N40ehs) | [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS), [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/1QkxSXPeEkgvNMDD1NnZjh) | 3:17 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 79 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/6lT26Dq7aEwOjXTZzkBjSO) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold \(Radio Edit\)](https://open.spotify.com/album/4xqJlHAGzZx6AenXVJt1aS) | 3:32 |
 | 80 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 |
 
-Snapshot ID: `MTY0MDMxNTY0NywwMDAwMDAwMDY3ZTI2MjdjOThjODk2MzQwNWQ0ZjI1YTY1YjA0MDI1`
+Snapshot ID: `MTY0MDMyNDI3NywwMDAwMDAwMDY3ZTI2MjdjOThjODk2MzQwNWQ0ZjI1YTY1YjA0MDI1`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/52JrW4dL2mDe1Dneq0vH1I.md) - [plain]
 
 > Missa inte Rodriguez på Flamingo\-scenen på FREDAG / 15.00
 
+[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 10 songs - 36 min 21 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sugar Man](https://open.spotify.com/track/52BUOdNI2TneBPq4EFOtAy) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man](https://open.spotify.com/album/4s7qz6sSmn1gzphGM9P5dK) | 3:47 |

@@ -1,7 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Ragan Whiteside",
   "name": "Nu-Smooth",
-  "snapshot_id": "MTY0MDMxNTUwNSwwMDAwMDAwMGUzMWUyMzIxNzAyNGIzMTM2NmJhNWRiYmZiYjVmY2E5",
+  "num_followers": 35060,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDEzNywwMDAwMDAwMGUzMWUyMzIxNzAyNGIzMTM2NmJhNWRiYmZiYjVmY2E5",
   "tracks": [
     {
       "added_at": "2021-05-28 04:00:00",

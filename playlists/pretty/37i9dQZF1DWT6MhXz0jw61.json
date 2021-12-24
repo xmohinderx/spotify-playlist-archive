@@ -1,8 +1,37 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Rick Ross",
   "name": "Mellow Bars",
-  "snapshot_id": "MTYzOTcxNzIwMCwwMDAwMDE4YzAwMDAwMTdkYzZjMmUxNGUwMDAwMDE3ZDdkMWY0NDU5",
+  "num_followers": 1008474,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDE4ZDAwMDAwMTdkZWFjZjY1NDQwMDAwMDE3ZDdkMWY0NDU5",
   "tracks": [
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 190261,
+      "name": "Wave Gods",
+      "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
+    },
     {
       "added_at": "2021-09-10 04:00:00",
       "album": {
@@ -1866,22 +1895,6 @@
       "duration_ms": 281250,
       "name": "State of the Union",
       "url": "https://open.spotify.com/track/6AsqnQBAB2OsieFEOg4WuZ"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Middle School",
-        "url": "https://open.spotify.com/album/1APaIiDsD9NbwjgJQW646O"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 148498,
-      "name": "Middle School",
-      "url": "https://open.spotify.com/track/2d4UOvvcPXJNeOUEi61vLN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61"

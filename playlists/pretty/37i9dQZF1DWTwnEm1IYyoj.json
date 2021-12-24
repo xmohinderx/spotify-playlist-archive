@@ -1,7 +1,12 @@
 {
   "description": "Listen to easy songs from your favorite artists! Cover: John Legend",
   "name": "Soft Pop Hits",
-  "snapshot_id": "MTY0MDMxNTUxNSwwMDAwMDAwMGVkMGQwZjYyNWYzNzExMjJhMTJmNGZhNDdjZWU0ZTc0",
+  "num_followers": 5730047,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE0NywwMDAwMDAwMGVkMGQwZjYyNWYzNzExMjJhMTJmNGZhNDdjZWU0ZTc0",
   "tracks": [
     {
       "added_at": "2021-11-11 05:24:42",

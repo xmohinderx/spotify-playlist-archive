@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Relaxing sounds of modern jazz.
 
+[Spotify](https://open.spotify.com/user/spotify) - 46,362 likes - 100 songs - 7 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [V\. remembering before all this](https://open.spotify.com/track/2Djdr6SndwgHqOXHVeJmCu) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Suite: April 2020](https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4) | 3:39 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Wait Till You See Her](https://open.spotify.com/track/56mnki16Lqui7LYs5OEcQF) | [John Abercrombie Quartet](https://open.spotify.com/artist/1bpaoXG09rnpj5OsHvHs2z) | [Wait Till You See Her](https://open.spotify.com/album/2dm29TGcN40O3pPfNt3uNi) | 5:40 |
 | 100 | [Two Poets](https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 2:04 |
 
-Snapshot ID: `MTY0MDMxNTYwOSwwMDAwMDAwMDAyYTFiNGFmNzQ4ZGI3NjJlM2Y2Mjc3OTE1ZmM0NGU5`
+Snapshot ID: `MTY0MDMyNDIzOSwwMDAwMDAwMDAyYTFiNGFmNzQ4ZGI3NjJlM2Y2Mjc3OTE1ZmM0NGU5`

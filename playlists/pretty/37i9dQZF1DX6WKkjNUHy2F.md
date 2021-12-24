@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
+[Spotify](https://open.spotify.com/user/spotify) - 16,558 likes - 26 songs - 1 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adam Lambert Spotify Pride Intro](https://open.spotify.com/track/6rDKnKF7B4knjugixe44M0) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Adam Lambert \- Spotify Pride](https://open.spotify.com/album/2e0gDFnkpouqkRAovJ1hKD) | 0:14 |

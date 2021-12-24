@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > Relax to the sound of the ocean.
 
+[Spotify](https://open.spotify.com/user/spotify) - 470,256 likes - 190 songs - 9 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waves from the South](https://open.spotify.com/track/3zQ2nhWajBddajUQXYSXDz) | [Nature 101](https://open.spotify.com/artist/6eu6iTsysW1wIPR23xq8BB) | [Deep Ocean](https://open.spotify.com/album/22Ceilw9Kxk2xMVbqpqkWt) | 2:45 |

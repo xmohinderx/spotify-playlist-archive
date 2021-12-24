@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
+[Spotify](https://open.spotify.com/user/spotify) - 508,333 likes - 50 songs - 3 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 49 | [This Love](https://open.spotify.com/track/3n8kBPX0lpVKYgD1yggXtx) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [The Memory Machine](https://open.spotify.com/album/75XyHNjHSXppcskLvbwmCc) | 3:31 |
 | 50 | [Making Love on the Mountain \(Sexy Mix\)](https://open.spotify.com/track/40CqYr0j37FWltcjoEIjJc) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. I](https://open.spotify.com/album/1V4FuW2iS5SP4ckUtRN9U9) | 3:58 |
 
-Snapshot ID: `MTY0MDMxNTYxOCwwMDAwMDAwMDE4ZTZjOGEzZmU0MDM5YzljMmI4YThlZjgxYWM3ODVh`
+Snapshot ID: `MTY0MDMyNDI0OSwwMDAwMDAwMDE4ZTZjOGEzZmU0MDM5YzljMmI4YThlZjgxYWM3ODVh`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3ukqAcaahACMyRzpkwHXew.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 16 songs - 1 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Slippery Slope](https://open.spotify.com/track/0XFx1csLx2KlGp9No1iCfc) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/7CDvibYA9VE63MYupv4lMi) | 2:41 |

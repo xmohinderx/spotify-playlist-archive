@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2rdMSQHM9YryNLPnEbQ7g6.md) - [plain]
 
 > A collection to remember and honor the music and life of Joe Cocker.
 
+[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 47 songs - 3 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thankful](https://open.spotify.com/track/5LLSOcKRnpqu8U5BNPczcp) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Hard Knocks](https://open.spotify.com/album/2vyN4BTCfs07srDjdFwVaq) | 3:59 |

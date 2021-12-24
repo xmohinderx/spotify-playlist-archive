@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76V4s7Zffmt.md) - [plain]
 
 > This is the essential Animal Collective.
 
+[Spotify](https://open.spotify.com/user/spotify) - 15,644 likes - 30 songs - 2 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prester John](https://open.spotify.com/track/5I1uNW4VfFTY0zrwzF0igS) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Prester John](https://open.spotify.com/album/7rf7oJpUPkn7XGEPvt3fKg) | 6:29 |

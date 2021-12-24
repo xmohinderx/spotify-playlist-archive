@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
+[Spotify](https://open.spotify.com/user/spotify) - 154,535 likes - 75 songs - 4 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Dying Plea Vol\. 1](https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Marcia Richards](https://open.spotify.com/artist/1I1Psp3G5rPd9Wz4uBE3Zu), [Jálise Della Gary](https://open.spotify.com/artist/0f5kdcCaSt4HSPvBKuXvYv), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [A Dying Plea Vol\. 1](https://open.spotify.com/album/0ippbK45L6BKnSfpaAFf4V) | 3:26 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Blood / / Water](https://open.spotify.com/track/1rFAG22RkvaM6BlpWQoZ47) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Blood / / Water](https://open.spotify.com/album/3XqbSGmm923aESZ9tVzg3b) | 3:36 |
 | 75 | [Heroes](https://open.spotify.com/track/1caNzSrwm2CP4GNHLjdgmg) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Us and Them](https://open.spotify.com/album/4j1A1HN0deBbS7ZylrF2Gh) | 3:24 |
 
-Snapshot ID: `MTY0MDMxNTYwMywwMDAwMDAwMGE2N2QyZDE4YjEyY2UyNTg1ZGE2MGU5ZmM4NDQxNGU3`
+Snapshot ID: `MTY0MDMyNDIzNCwwMDAwMDAwMGE2N2QyZDE4YjEyY2UyNTg1ZGE2MGU5ZmM4NDQxNGU3`

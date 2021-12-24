@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5lMXuhAFbG0xiAw0XiYKAP.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 189 likes - 10 songs - 46 min 31 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mockingbird](https://open.spotify.com/track/17baAghWcrewNOcc9dCewx) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call \(Deluxe\)](https://open.spotify.com/album/71xFWYFtiHC8eP99QB30AA) | 4:11 |

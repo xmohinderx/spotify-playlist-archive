@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZW76Iw4Lij.md) - [plain]
 
 > Medieval music from early Gregorian chants to late Ars Nova\. Secular troubadours and sacred choir music\. Colorful, gothic and beautiful\. Hear music by Wolkenstein, von Bingen, Machaut and Léonin.
 
+[Spotify](https://open.spotify.com/user/spotify) - 92,350 likes - 50 songs - 3 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ecce venit / Psalm 94](https://open.spotify.com/track/2ZvGSn5jisrFkTzxejzf38) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Kadri Hunt](https://open.spotify.com/artist/5fHD5Nfydh8F77TUGQpf62), [Mikk Uleoja](https://open.spotify.com/artist/0tbguagiks1uStNMtf2rSw), [Vox Clamantis](https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p), [Jaan\-Eik Tulve](https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k) | [Filia Sion](https://open.spotify.com/album/1vtWpjHxNd5LL8iGyAy16D) | 9:36 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKIVTPX9a2Sb.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
+[Spotify](https://open.spotify.com/user/spotify) - 19,765 likes - 50 songs - 2 hr 44 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reklama na Rap](https://open.spotify.com/track/2KUTDIXO3sxrR5FJw6AndI) | [Kontrafakt](https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT) | [KF ako Rolls](https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB) | 2:51 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Piano music to hone your thought process.
 
+[Spotify](https://open.spotify.com/user/spotify) - 295,246 likes - 400 songs - 17 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [primeiro verão](https://open.spotify.com/track/2V1y8aiJS9HMFqh51dNVs4) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [primeiro verão](https://open.spotify.com/album/5R6voZl0tGls3ews6juX0L) | 3:28 |
@@ -407,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 399 | [Crisantemo](https://open.spotify.com/track/10voUgZZce2HxtJPzpfEz8) | [Darrell Vitagliano](https://open.spotify.com/artist/6NlWjzoEit79rWPMDscYKO) | [Crisantemo](https://open.spotify.com/album/1pzhxz46LJJeq8tDppNxEZ) | 2:09 |
 | 400 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 |
 
-Snapshot ID: `MTY0MDMxNTU4NywwMDAwMDAwMDFkMDJhMjg2MmVjZGY1MDEwNTQ2ZDIzZGQ0ZWZhNTlk`
+Snapshot ID: `MTY0MDMyNDIxOCwwMDAwMDAwMDFkMDJhMjg2MmVjZGY1MDEwNTQ2ZDIzZGQ0ZWZhNTlk`

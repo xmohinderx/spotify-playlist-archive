@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
+[Spotify](https://open.spotify.com/user/spotify) - 63,794 likes - 50 songs - 3 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Leva igen](https://open.spotify.com/track/16UFJVqJUCLCBLvnjQkLtm) | [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Högre standard, vol\. 3 & 4](https://open.spotify.com/album/6zpHmFKGG8BOLwDpfgHnIY) | 3:04 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [12/12](https://open.spotify.com/track/1MLZBxByuck2C5ulgQFeEx) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Kärlek & Revolt](https://open.spotify.com/album/34H1MmY853xCdOFpBTBRdF) | 3:52 |
 | 50 | [Aina Älskar Reggae \(med Dani M\)](https://open.spotify.com/track/1vnON5z0YNUq6jQECJnnXe) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Aina Älskar Reggae](https://open.spotify.com/album/0CbNy41nIMauok4yBI6zzJ) | 4:41 |
 
-Snapshot ID: `MTY0MDMxNTY3MSwwMDAwMDAwMDFjNDIzZjUwYzU1ZDE2ZTlkYzRkOGI1N2ViNWNmYWFh`
+Snapshot ID: `MTY0MDMyNDI5OSwwMDAwMDAwMDFjNDIzZjUwYzU1ZDE2ZTlkYzRkOGI1N2ViNWNmYWFh`

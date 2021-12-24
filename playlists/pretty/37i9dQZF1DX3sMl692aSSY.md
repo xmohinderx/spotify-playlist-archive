@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sMl692aSSY.md) - [plain]
 
 > A fresh and varied selection of nonfiction — updated weekly.
 
+[Spotify](https://open.spotify.com/user/spotify) - 7,767 likes - 59 songs - 9 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My Beliefs](https://open.spotify.com/track/079pZO9Yzp8zyXf9j8JLK3) | [Assata Shakur](https://open.spotify.com/artist/7xFHQaT3P55ut4k6qJjJew) | [The Vinyl Project](https://open.spotify.com/album/0LIGpl05li5brnrlNOGstL) | 0:30 |

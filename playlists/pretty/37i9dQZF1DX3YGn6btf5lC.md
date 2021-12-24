@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YGn6btf5lC.md) - [plain]
 
 > 100% fan\-made music\. Gaming parodies of famous songs and unique creations, inspired by Minecraft, Warcraft, Pokémon and more.
 
+[Spotify](https://open.spotify.com/user/spotify) - 13,618 likes - 29 songs - 1 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ghost Assassin \- Original Mix](https://open.spotify.com/track/3VPBqHUd17ZvEgabW9ZOUU) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Ghost Assassin EP](https://open.spotify.com/album/3NmmUnjNr6G7wuBWSn0zKw) | 3:41 |

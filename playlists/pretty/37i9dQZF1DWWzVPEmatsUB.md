@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Have a quiet morning with this mix of something familiar and something new.
 
+[Spotify](https://open.spotify.com/user/spotify) - 463,684 likes - 70 songs - 4 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thank You](https://open.spotify.com/track/4mVm8cTbilqoIWCYNNjCxt) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Thank You](https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo) | 3:26 |
@@ -77,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 69 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 |
 | 70 | [Underdog](https://open.spotify.com/track/3xeTIOSLaGIw8XaCwNKhec) | [Mayaeni](https://open.spotify.com/artist/6y4YyYCKvhxv5OYIMjbNo1) | [Underdog](https://open.spotify.com/album/0IXTedVYmBB42Dmh4UzJZE) | 3:01 |
 
-Snapshot ID: `MTY0MDMxNTU1NywwMDAwMDAwMGE4MDExZDNjNDc4YjM2NDQwYjk5Mzc1ODgwZWVlNzE2`
+Snapshot ID: `MTY0MDMyNDE4NywwMDAwMDAwMGE4MDExZDNjNDc4YjM2NDQwYjk5Mzc1ODgwZWVlNzE2`

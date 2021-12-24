@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
+[Spotify](https://open.spotify.com/user/spotify) - 715,354 likes - 100 songs - 4 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:43 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
 | 100 | [Wonderful World \(Re\-Record\)](https://open.spotify.com/track/43LT5KZkhHbSqOjOUeQbh6) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A Greatest Hits Collection Herman's Hermits: 1964\-1970 \(Re\-Record\)](https://open.spotify.com/album/2J8KUXkfZq1VB4QXKYaU0X) | 2:01 |
 
-Snapshot ID: `MTY0MDMxNTY4OCwwMDAwMDAwMDkwMTU4YzFlOWNiZThhYzhjYzFiMmRkZTNjNWIyMzY5`
+Snapshot ID: `MTY0MDMyNDMxNiwwMDAwMDAwMDkwMTU4YzFlOWNiZThhYzhjYzFiMmRkZTNjNWIyMzY5`

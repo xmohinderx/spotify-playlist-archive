@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/25zEHXJzEQZU1eyF6eqEzD.md) - [plain]
 
 > A rich, mellow blend of hits to see you through your most productive days and cozy nights.
 
+[Spotify](https://open.spotify.com/user/spotify) - 108 likes - 65 songs - 4 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |

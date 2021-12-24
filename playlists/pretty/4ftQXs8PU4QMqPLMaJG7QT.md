@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4ftQXs8PU4QMqPLMaJG7QT.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 20 likes - 29 songs - 2 hr 3 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Autre Temps](https://open.spotify.com/track/4gfSWTQIgFCdde8hOGRZzX) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Voyages de L'Âme](https://open.spotify.com/album/4NbmvbO9OuEjLYat5BkFAL) | 5:50 |

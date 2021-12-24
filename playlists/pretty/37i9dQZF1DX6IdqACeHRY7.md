@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
+[Spotify](https://open.spotify.com/user/spotify) - 62,401 likes - 114 songs - 6 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Closer to You](https://open.spotify.com/track/3lKmH9D42U7Rqq6chJUUBh) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [Closer to You](https://open.spotify.com/album/3mtgBdwcmw86oVNQqxEp4f) | 3:25 |
@@ -121,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Birthday](https://open.spotify.com/track/5QvL5shIrzH2A2zG0DZwh3) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Birthday](https://open.spotify.com/album/7evERN7P6VC1uVqtpFccL4) | 3:14 |
 | 114 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 
-Snapshot ID: `MTY0MDMxNTcxMywwMDAwMDAwMGEwM2M1MjA0NTA3YmI5ZDM3NThkMjM0NDM2YjFlODM0`
+Snapshot ID: `MTY0MDMyNDM0MSwwMDAwMDAwMGEwM2M1MjA0NTA3YmI5ZDM3NThkMjM0NDM2YjFlODM0`

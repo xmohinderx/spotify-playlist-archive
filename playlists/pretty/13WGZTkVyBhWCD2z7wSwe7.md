@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/13WGZTkVyBhWCD2z7wSwe7.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 35 songs - 2 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brick House](https://open.spotify.com/track/6lN7g29oDwqBCptSrVtN0O) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Very Best Of The Commodores](https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn) | 3:34 |

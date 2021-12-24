@@ -1,7 +1,12 @@
 {
   "description": "Dream your way through the day to these blissful indie tunes.",
   "name": "Dreampop",
-  "snapshot_id": "MTY0MDMxNTcyMiwwMDAwMDAwMDUzZWM3MGU4YjkxOGEyZDQ5YTk0YzJiYWQ5N2ViMWNh",
+  "num_followers": 231014,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM0OCwwMDAwMDAwMDUzZWM3MGU4YjkxOGEyZDQ5YTk0YzJiYWQ5N2ViMWNh",
   "tracks": [
     {
       "added_at": "2021-12-22 13:00:36",

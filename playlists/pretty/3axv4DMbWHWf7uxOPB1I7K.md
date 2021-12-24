@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3axv4DMbWHWf7uxOPB1I7K.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 50 songs - 3 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silly Love Songs](https://open.spotify.com/track/5Qhfo6ZqoA2oPF5uFf43L3) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 5:54 |

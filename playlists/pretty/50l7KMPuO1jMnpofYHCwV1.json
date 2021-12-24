@@ -1,6 +1,11 @@
 {
   "description": "The evening is here in Austin. Time for some music to get it started all over again!",
   "name": "Austin After Dark",
+  "num_followers": 1296,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "OCxkYTJlMWU3YTU2ZGZjMDYxYTg0MzIwOTBlZmRlNmIxMDU2ZTZmODY5",
   "tracks": [
     {

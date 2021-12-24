@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSKB2Pc3PY.md) - [plain]
 
 > Learn German with a collection of audio courses that will take you from beginner to advanced conversations.
 
+[Spotify](https://open.spotify.com/user/spotify) - 63,411 likes - 409 songs - 1 day 18 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [German Language Lesson 1](https://open.spotify.com/track/6AbQEF80Tpp9VrSEDpwzR2) | [Language Superstar](https://open.spotify.com/artist/5S4qITCG50vNxt2o3qcbSM) | [Learn German Fast](https://open.spotify.com/album/0KSB7ABg7pknGVdsNHp7mG) | 18:23 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6spPs4oxQEPSWXyXzqg8CR.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 20 songs - 1 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blurred Lines](https://open.spotify.com/track/5PUvinSo4MNqW7vmomGRS7) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Blurred Lines](https://open.spotify.com/album/2qVN3yVtkrPT9YL7djTNwt) | 4:23 |

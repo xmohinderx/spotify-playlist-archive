@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,437 likes - 631 songs - 1 day 18 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mosquito Song](https://open.spotify.com/track/4mWsghl493RZGUBEWfcqjc) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:38 |

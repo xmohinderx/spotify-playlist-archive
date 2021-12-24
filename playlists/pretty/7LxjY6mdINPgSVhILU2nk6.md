@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7LxjY6mdINPgSVhILU2nk6.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 22 songs - 1 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Snuff](https://open.spotify.com/track/3jHPrXnmszCCJq3BVZaVZb) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Snuff](https://open.spotify.com/album/01SqrEBVeyStPjltxoyNDt) | 4:36 |

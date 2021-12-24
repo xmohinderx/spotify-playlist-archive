@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6FzxUXXUk9bzWJ8d1NIGWy.md) - [plain]
 
 > 
 
+[Ink Music](https://open.spotify.com/user/inkmusic) - 1 like - 75 songs - 4 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do What U Want](https://open.spotify.com/track/135zhqmxmJITfYf0dEA6S0) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [Do What U Want](https://open.spotify.com/album/6dr8p9M8DSZzX5dXVCjJ0h) | 3:47 |

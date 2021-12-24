@@ -1,6 +1,11 @@
 {
   "description": "This is the essential The Weeknd.",
   "name": "This Is The Weeknd",
+  "num_followers": 2622342,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzNzYzOTAzNCwwMDAwMDA0MjAwMDAwMTdkNGFlNDk2YzIwMDAwMDE3N2QwMWU2ZDY3",
   "tracks": [
     {

@@ -1,7 +1,12 @@
 {
   "description": "Embrace your secret favorites.",
   "name": "Guilty Pleasures",
-  "snapshot_id": "MTY0MDMxNTY4MywwMDAwMDAwMGI0YmM3MzAxYTMxNzkwYmYzNmYwYmJjMmU1ZThmNzUw",
+  "num_followers": 3080158,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMxMSwwMDAwMDAwMGI0YmM3MzAxYTMxNzkwYmYzNmYwYmJjMmU1ZThmNzUw",
   "tracks": [
     {
       "added_at": "2021-11-13 05:06:07",

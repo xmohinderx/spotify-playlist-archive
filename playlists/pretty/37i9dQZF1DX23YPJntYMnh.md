@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
+[Spotify](https://open.spotify.com/user/spotify) - 431,582 likes - 60 songs - 4 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 59 | [Lock It In The Pocket](https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 3:36 |
 | 60 | [Got It Goin' On](https://open.spotify.com/track/0bsHXFE0GGn2HonbA8G0yf) | [24\-7 Spyz](https://open.spotify.com/artist/5EvYDcSvmVxZuMe4faStNq) | [Strength In Numbers](https://open.spotify.com/album/4cIsAEkxSuMadGd9B3KbXX) | 4:57 |
 
-Snapshot ID: `MTY0MDMxNTYzNSwwMDAwMDAwMGY4MTk1ZjEzMzljZjRjNWRiNWFlOWIwZTI1NzMwNGJh`
+Snapshot ID: `MTY0MDMyNDI2NCwwMDAwMDAwMGY4MTk1ZjEzMzljZjRjNWRiNWFlOWIwZTI1NzMwNGJh`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
+[Spotify](https://open.spotify.com/user/spotify) - 204,428 likes - 50 songs - 2 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/track/3FDrI0FLKzrYQiWxPhqV2W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Rollin \(feat\. Future & Khalid\)](https://open.spotify.com/album/6nt2urfBROkUQWnzpSOohu) | 4:32 |

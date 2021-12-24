@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Spend some quality time with these romantic classical masterpieces.
 
+[Spotify](https://open.spotify.com/user/spotify) - 373,658 likes - 40 songs - 3 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Orchestral Suite No\. 3 in D Major, BWV 1068: II\. Air "On a G String" \(Arr\. for Piano\)](https://open.spotify.com/track/4ksxLnn1ymLGRKnwhba45Y) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Gran Turismo 5 \(Original Game Soundtrack\)](https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy) | 5:27 |

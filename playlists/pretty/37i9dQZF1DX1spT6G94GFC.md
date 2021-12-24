@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 
 > These songs rocked the 80s.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,139,241 likes - 80 songs - 5 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paradise City](https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:45 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 79 | [Stand \- Remastered](https://open.spotify.com/track/5xQS3BaNZDrltmswg7B8YD) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/6QVNm3lwNzeVmnic41sZM3) | 3:12 |
 | 80 | [Run to the Hills \- 1998 Remastered Version](https://open.spotify.com/track/2JS1iE5A5RHvUPH5Zl9jlF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number Of The Beast \(1998 Remastered Edition\)](https://open.spotify.com/album/6q5MEna6Fg46powSoeZJe3) | 3:53 |
 
-Snapshot ID: `MTY0MDMxNTYzMCwwMDAwMDAwMGI4MWEzYjA3MTljN2U3ZDg3M2VkZjgxZDBmNjA2MzA4`
+Snapshot ID: `MTY0MDMyNDI1OSwwMDAwMDAwMGI4MWEzYjA3MTljN2U3ZDg3M2VkZjgxZDBmNjA2MzA4`

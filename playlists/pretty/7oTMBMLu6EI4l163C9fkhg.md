@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7oTMBMLu6EI4l163C9fkhg.md) - [plain]
 
 > Remember the glory days when boy bands and girl groups ruled the radio? Listen to this playlist and bring the Spice Girls, Hanson, and Destiny's Child back!
 
+[Spotify](https://open.spotify.com/user/spotify) - 25,038 likes - 41 songs - 2 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Back for Good \- Radio Mix](https://open.spotify.com/track/2BIBtKMUnHyYs3BsEiILTU) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 4:01 |

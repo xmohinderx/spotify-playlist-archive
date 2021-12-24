@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 105 songs - 6 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Middle of Things, Beautiful Wife](https://open.spotify.com/track/0K5jReWW1yh4GiRCULKOhh) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/0u5uEJRVgqxB3r2xH96niG) | 3:42 |

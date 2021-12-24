@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CwQbybVjjk.md) - [plain]
 
 > Check out these indie musics, all froms artists playing at SXSW 2017..\. Cover: <a href="spotify:artist:7FU0xCgmSYQEiBeevUqQ4S">Yoke Lore</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,959 likes - 59 songs - 3 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Loveless \- Edit](https://open.spotify.com/track/6ISIGB6G6cPVwqBEW2ELis) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Loveless](https://open.spotify.com/album/0nHgQEUNtbklGQGTGCAPhA) | 4:18 |

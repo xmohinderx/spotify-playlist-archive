@@ -1,7 +1,12 @@
 {
   "description": "Feel good with this positively timeless playlist!",
   "name": "Feelin' Good",
-  "snapshot_id": "MTY0MDMxNTc2MywwMDAwMDAwMDIyODAxN2VmNDhiMDE0MmE0MTBhNjBkZWMxOTkwNmEw",
+  "num_followers": 3308946,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM4NywwMDAwMDAwMDIyODAxN2VmNDhiMDE0MmE0MTBhNjBkZWMxOTkwNmEw",
   "tracks": [
     {
       "added_at": "2021-10-19 21:36:21",

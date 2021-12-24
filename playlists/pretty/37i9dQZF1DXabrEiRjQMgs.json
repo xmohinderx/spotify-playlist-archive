@@ -1,6 +1,11 @@
 {
   "description": "Explore the world of ballet.",
   "name": "Classical Ballet",
+  "num_followers": 192900,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzOTA3MDU2NywwMDAwMDAyNDAwMDAwMTdkYTAzODBiMGQwMDAwMDE3ZDgwNzNkMzcy",
   "tracks": [
     {

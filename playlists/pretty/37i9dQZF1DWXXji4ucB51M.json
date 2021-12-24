@@ -1,7 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
   "name": "MTV VMAs",
-  "snapshot_id": "MTY0MDMxNTU2NSwwMDAwMDAwMGRhNzlmMWFlZWQ3MTgwODAxYTBjZGVkODhkNDU4YzZi",
+  "num_followers": 107105,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE5OCwwMDAwMDAwMGRhNzlmMWFlZWQ3MTgwODAxYTBjZGVkODhkNDU4YzZi",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",

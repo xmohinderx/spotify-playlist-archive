@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/41YL3HcXd3zTXa1rMZY5uR.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 336 likes - 50 songs - 2 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad of the Green Berets \(Re\-recorded\)](https://open.spotify.com/track/5evs3QKlY56G3OY7cRzJmI) | [Sgt\. Barry Sadler](https://open.spotify.com/artist/5r0O4LLn9wHEuYxKmGzUB5) | [Independence Day \- A Patriotic 4th of July Celebration](https://open.spotify.com/album/5wFG4XSXODoVH121KDpQZ5) | 2:38 |

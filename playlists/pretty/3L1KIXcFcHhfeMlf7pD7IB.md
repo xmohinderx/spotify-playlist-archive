@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3L1KIXcFcHhfeMlf7pD7IB.md) - [plain]
 
 > An epic event in the making\. You can not enjoy a Foam party without the perfect songs to get everyone jumping\. Turn it up and let the foam start flowing!
 
+[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 67 songs - 5 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Braveheart](https://open.spotify.com/track/0kN9WEpdiMJIIDDMq9F1ue) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Braveheart](https://open.spotify.com/album/66NYbqEMnt5DWsCj8iAq1Q) | 3:44 |

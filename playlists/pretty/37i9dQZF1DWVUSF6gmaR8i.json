@@ -1,7 +1,12 @@
 {
   "description": "Kick back with a collection of classic and new piano rock and pop.",
   "name": "The Piano Lounge",
-  "snapshot_id": "MTY0MDMxNTUzMSwwMDAwMDAwMGFlY2ZhMmVkMjU3MWM3YmI5ODYwOGJjYWZmNTY3NWIw",
+  "num_followers": 141338,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE2MywwMDAwMDAwMGFlY2ZhMmVkMjU3MWM3YmI5ODYwOGJjYWZmNTY3NWIw",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",

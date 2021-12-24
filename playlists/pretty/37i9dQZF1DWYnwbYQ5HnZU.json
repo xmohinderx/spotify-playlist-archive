@@ -1,6 +1,11 @@
 {
   "description": "Spotify Fan Favorites from the last few years.  Artist: Miranda Lambert",
   "name": "Country Gold",
+  "num_followers": 1690535,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzODUwNzY2MCwwMDAwMDEwYTAwMDAwMTdkN2VhYWMzNzYwMDAwMDE3ZDcyNDBmNWVj",
   "tracks": [
     {

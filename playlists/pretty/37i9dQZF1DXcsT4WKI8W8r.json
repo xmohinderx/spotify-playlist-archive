@@ -1,7 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
   "name": "Music for a Workday",
-  "snapshot_id": "MTY0MDMxNTgxMiwwMDAwMDAwMGIxNTQwNzExY2VjMGI1ZTI2ZWY2NmY2Mzk3NjcyN2Qw",
+  "num_followers": 214348,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQzNSwwMDAwMDAwMGIxNTQwNzExY2VjMGI1ZTI2ZWY2NmY2Mzk3NjcyN2Qw",
   "tracks": [
     {
       "added_at": "2021-04-30 08:33:50",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4sEKPcBYLcW3woDviiaigj.md) - [plain]
 
 > Give in to the season, with the ultimate collection of classic snow songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 366 likes - 50 songs - 3 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Immigrant Song \- 1990 Remaster](https://open.spotify.com/track/6kjlvJLh2DBsSQtqVzFh8I) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(1994 Remaster\)](https://open.spotify.com/album/1u5BsuBK45mLwrbqdASN3g) | 2:25 |

@@ -1,7 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
   "name": "Feel Good Acoustic",
-  "snapshot_id": "MTY0MDMxNTU2NCwwMDAwMDAwMDBlZmM0MmQ3YWFmODU4MjQ5NTAzZDc4ZTg4MzM1OTM2",
+  "num_followers": 419261,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE5NywwMDAwMDAwMDBlZmM0MmQ3YWFmODU4MjQ5NTAzZDc4ZTg4MzM1OTM2",
   "tracks": [
     {
       "added_at": "2021-03-12 09:14:46",

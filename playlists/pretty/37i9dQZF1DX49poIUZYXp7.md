@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\.  Cover: Tenille Arts
 
+[Spotify](https://open.spotify.com/user/spotify) - 320,522 likes - 100 songs - 5 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 99 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 |
 | 100 | [Wild Frontier](https://open.spotify.com/track/57gjWu6xmWpk0XoNEIi08w) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Wild Frontier](https://open.spotify.com/album/2yG5wph6NJ77bHAAuNvBNG) | 3:36 |
 
-Snapshot ID: `MTY0MDMxNTY2NywwMDAwMDAwMGE5NzU1OTAxNDI4NGVlZTA3MzkyNWM4NWY2ZGMwNTIx`
+Snapshot ID: `MTY0MDMyNDI5NSwwMDAwMDAwMGE5NzU1OTAxNDI4NGVlZTA3MzkyNWM4NWY2ZGMwNTIx`

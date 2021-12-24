@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > Big music hits in tiny 8\-bit versions.
 
+[Spotify](https://open.spotify.com/user/spotify) - 59,989 likes - 145 songs - 8 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunflower \(Spiderman Into the Spider\-Verse\) \[8 Bit Version\]](https://open.spotify.com/track/3gPlDg4wP7kSdpdtDLuIuT) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Chip Drip](https://open.spotify.com/album/0JJOjm48mWpf3ii4pjaezN) | 2:37 |
@@ -152,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 144 | [Alive](https://open.spotify.com/track/4wlxtZNTEexSvYADeDDxiM) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Pearl Jam](https://open.spotify.com/album/4dL6mQVXRwls1jZ6nGUo78) | 4:12 |
 | 145 | [Hymn for the Weekend](https://open.spotify.com/track/45S0auZgfisuHjQkZgCBl5) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Coldplay](https://open.spotify.com/album/0cmwnoLmkKQVqVVCyNdgqo) | 3:44 |
 
-Snapshot ID: `MTY0MDMxNTUzNywwMDAwMDAwMDQ5MGY1YTM2OGY3MTAxOGIwMTBjOTVhYjkxMjkwZjVi`
+Snapshot ID: `MTY0MDMyNDE2OSwwMDAwMDAwMDQ5MGY1YTM2OGY3MTAxOGIwMTBjOTVhYjkxMjkwZjVi`

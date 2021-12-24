@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tT8vLysk8r.md) - [plain]
 
 > An introduction to the best\-loved works of Russian composer Sergei Prokofiev.
 
+[Spotify](https://open.spotify.com/user/spotify) - 23,061 likes - 61 songs - 5 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Peter and the Wolf, Op\. 67 \(Remastered\): The Story Begins](https://open.spotify.com/track/0wnXJy6kkLgLpcbFGnAXBI) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [David Bowie narrates Prokofiev's Peter and the Wolf & The Young Person's Guide to the Orchestra](https://open.spotify.com/album/1ZDPe7QlFtKG0nSjHSKaSE) | 0:51 |

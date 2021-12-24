@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 
 > Celebrating the life and legacy of the songwriting legend.
 
+[Spotify](https://open.spotify.com/user/spotify) - 110,026 likes - 94 songs - 5 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Remember Everything](https://open.spotify.com/track/5jYq5kj7kt6Iokzv7XeZhZ) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [I Remember Everything](https://open.spotify.com/album/0BQ0mFAuMKBqGfcfIii9Zi) | 2:43 |

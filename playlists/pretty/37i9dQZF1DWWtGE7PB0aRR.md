@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Robin Trower
 
+[Spotify](https://open.spotify.com/user/spotify) - 86,373 likes - 65 songs - 4 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All Your Love \- Mono](https://open.spotify.com/track/4y1BaNOX6s8zFMjNrWSht3) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/0VBTLXsbmeGmYdYMUjmnRI) | 3:35 |
@@ -72,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Little By Little \- Mono Version](https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones](https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX) | 2:39 |
 | 65 | [Cry Me A River](https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5) | [The Steampacket](https://open.spotify.com/artist/5sPaD3cDvvV5gzjWmZCOr4) | [The First Super Group](https://open.spotify.com/album/7CtD9yd4joJ2EZOwYp4aE6) | 2:46 |
 
-Snapshot ID: `MTY0MDMxNTU1NiwwMDAwMDAwMDI2YTY2MjJmZTU1NmE1NTAyZDQxOTI3NDJkYmY0YTY3`
+Snapshot ID: `MTY0MDMyNDE4NiwwMDAwMDAwMDI2YTY2MjJmZTU1NmE1NTAyZDQxOTI3NDJkYmY0YTY3`

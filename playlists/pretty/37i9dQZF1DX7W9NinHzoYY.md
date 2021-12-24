@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W9NinHzoYY.md) - [plain]
 
 > Hear Xavier Omär's breakout track &quot;Blind Man&quot; and other essential jams.
 
+[Spotify](https://open.spotify.com/user/spotify) - 26,499 likes - 27 songs - 1 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blind Man](https://open.spotify.com/track/1NBOaLRarZeOgIMPEAvMge) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [The Everlasting Wave](https://open.spotify.com/album/3VNIJ6bgo7qw5gtcQ8dZyI) | 3:38 |

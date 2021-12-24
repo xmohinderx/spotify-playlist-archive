@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > Those songs you just love to love\. Cover: Mustafa
 
+[Spotify](https://open.spotify.com/user/spotify) - 24,116 likes - 100 songs - 5 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Hearse](https://open.spotify.com/track/19RXOH7xG0Po5NaWkNo9AX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/7rkN6aKoETjoXjtvOUCh0Z) | 2:04 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Say, Can You Hear](https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Say, Can You Hear](https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK) | 3:09 |
 | 100 | [Small Foreign Faction](https://open.spotify.com/track/42ri8tCtPeHfGQJTo7zIVX) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Small Foreign Faction](https://open.spotify.com/album/0ZQupG0Qurk8jDq2fnEb7y) | 3:33 |
 
-Snapshot ID: `MTY0MDMxNTgwNywwMDAwMDAwMDA4ZGQ5ODAwMWIwYjE2ZDE5Mjc3Njc5YTkyZDc2MWNm`
+Snapshot ID: `MTY0MDMyNDQzMSwwMDAwMDAwMDA4ZGQ5ODAwMWIwYjE2ZDE5Mjc3Njc5YTkyZDc2MWNm`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/24HEIuw8etbkitpDCxZ1dQ.md) - [plain]
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,599 likes - 61 songs - 4 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hello Cruel World](https://open.spotify.com/track/1mkRjAvW1TAnw5f2o64Tm0) | [Gretchen Peters](https://open.spotify.com/artist/1DSLJBOwoz0HhiFMIKhZxe) | [Hello Cruel World](https://open.spotify.com/album/6Gq3cIQAnmGu4kJJg27SeH) | 4:24 |

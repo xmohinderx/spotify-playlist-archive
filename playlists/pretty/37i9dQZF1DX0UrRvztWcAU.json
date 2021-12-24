@@ -1,7 +1,12 @@
 {
   "description": "Set the mood of your day with these awesome, happy songs!",
   "name": "Wake Up Happy",
-  "snapshot_id": "MTY0MDMxNTYwNiwwMDAwMDAwMDhmZWE5ZmFkOWFmNDRkMzExYjQzZjc0NTM4Y2Q0ZjA4",
+  "num_followers": 1313512,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIzOCwwMDAwMDAwMDhmZWE5ZmFkOWFmNDRkMzExYjQzZjc0NTM4Y2Q0ZjA4",
   "tracks": [
     {
       "added_at": "2021-12-16 14:49:03",

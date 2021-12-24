@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
+[Spotify](https://open.spotify.com/user/spotify) - 26,682 likes - 80 songs - 4 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hotel Walls](https://open.spotify.com/track/0IZoBFaTUG79KBfKlv8zmG) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Hotel Walls](https://open.spotify.com/album/3vo7F1U983bPR68ojP5aSj) | 3:26 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Tough Love](https://open.spotify.com/track/4XZxalvnG4Yo8YZLuiT1kV) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [Tough Love](https://open.spotify.com/album/7pPkJdlgblZLbv3LqifNKW) | 3:11 |
 | 80 | [Too Close](https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT), [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Too Close](https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE) | 2:27 |
 
-Snapshot ID: `MTY0MDMxNTQ4OSwwMDAwMDAwMDcwY2FkZmMzZDRlZjRlMWQzZmY2YTg5MTliYWM0Njk4`
+Snapshot ID: `MTY0MDMyNDEyMiwwMDAwMDAwMDcwY2FkZmMzZDRlZjRlMWQzZmY2YTg5MTliYWM0Njk4`

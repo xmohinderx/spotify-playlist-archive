@@ -1,7 +1,12 @@
 {
   "description": "Get ready for good feels and fireworks!",
   "name": "4th of July Party",
-  "snapshot_id": "MTY0MDMxNTY4MiwwMDAwMDAwMGNhNTRmZTk3ODViNjg2ZWJiMzM5ZmMzMzA4YzY1ZTRk",
+  "num_followers": 124180,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMxMCwwMDAwMDAwMGNhNTRmZTk3ODViNjg2ZWJiMzM5ZmMzMzA4YzY1ZTRk",
   "tracks": [
     {
       "added_at": "2020-07-03 05:13:33",

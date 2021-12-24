@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6r0dNjQD0WUHKs1gpMvpLk.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 143 likes - 29 songs - 2 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You've Got A Friend](https://open.spotify.com/track/32kxtiO6J24qj3TD73uXu3) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Motown Essentials](https://open.spotify.com/album/1D9fjF0NsNR1LvtdFOwaZM) | 4:50 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner ta journée\.  Photo: Ingrid St\-Pierre
 
+[Spotify](https://open.spotify.com/user/spotify) - 96,621 likes - 100 songs - 5 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dans tes bras](https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Dans tes bras](https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN) | 3:27 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Birds](https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Nameless](https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU) | 3:41 |
 | 100 | [Comme à tous les hivers](https://open.spotify.com/track/6ZaMggVJMXNUJ2mkKjeWon) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Foisy.](https://open.spotify.com/album/4Ocw79Km6guKmt6suN8AyW) | 2:37 |
 
-Snapshot ID: `MTY0MDMxNTgxMCwwMDAwMDAwMGQ3NjM1ZDc0ZDExMmFlZGFkNGFiZGI3MDlmMmYwOTBl`
+Snapshot ID: `MTY0MDMyNDQzMywwMDAwMDAwMGQ3NjM1ZDc0ZDExMmFlZGFkNGFiZGI3MDlmMmYwOTBl`

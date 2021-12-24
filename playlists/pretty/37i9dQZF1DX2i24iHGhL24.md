@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Kacey Musgraves
 
+[Spotify](https://open.spotify.com/user/spotify) - 41,358 likes - 199 songs - 11 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
@@ -206,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 198 | [High Horse](https://open.spotify.com/track/3gOkRSnm9jzoAQvLPvlvhB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [High Horse](https://open.spotify.com/album/36obb93i3SdFfsWbcbTkqf) | 3:26 |
 | 199 | [Send My Love \(To Your New Lover\) \- Live](https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Paul Kowert](https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB) | [Send My Love \(To Your New Lover\) \[Live\]](https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z) | 3:45 |
 
-Snapshot ID: `MTY0MDMxNTY0NCwwMDAwMDAwMDdkZGMzYjFhNWFkMjY3ZDM0NDMyOTRjOTYxNDBjYTg5`
+Snapshot ID: `MTY0MDMyNDI3NCwwMDAwMDAwMDdkZGMzYjFhNWFkMjY3ZDM0NDMyOTRjOTYxNDBjYTg5`

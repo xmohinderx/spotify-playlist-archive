@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SiEKUUEVVi.md) - [plain]
 
 > Intoxicating, joyful pop captures the Pride spirit for the Austrian drag queen and Eurovision Song Contest 2014 winner.
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,028 likes - 29 songs - 1 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Conchita Wurst Spotify Pride Intro](https://open.spotify.com/track/5jBBOzlULSLS3J1WL646tB) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Conchita Wurst \- Spotify Pride](https://open.spotify.com/album/1EZbZvbFmxs136UmuCGUdN) | 0:10 |

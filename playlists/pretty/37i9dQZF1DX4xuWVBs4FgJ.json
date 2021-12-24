@@ -1,7 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
   "name": "Dinner with Friends",
-  "snapshot_id": "MTY0MDMxNTY4NiwwMDAwMDAwMDIzZmY4MTgwNjI3OTgzNDhkNjJkMzhjYjZkNGE1YmY4",
+  "num_followers": 1369892,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMxNCwwMDAwMDAwMDIzZmY4MTgwNjI3OTgzNDhkNjJkMzhjYjZkNGE1YmY4",
   "tracks": [
     {
       "added_at": "2021-06-22 07:40:49",

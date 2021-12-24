@@ -1,43 +1,52 @@
 {
   "description": "The Real hip-hop. Cover: Mick Jenkins",
   "name": "Mind Right",
-  "snapshot_id": "MTYzOTcxNzIwMCwwMDAwMDE4MzAwMDAwMTdkYzZjMmUxMmUwMDAwMDE3ZDdkYTZjZDcy",
+  "num_followers": 1056951,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDA4NywwMDAwMDE4NTAwMDAwMTdkZWFlZjNmMzQwMDAwMDE3ZDdkYTZjZDcy",
   "tracks": [
     {
-      "added_at": "2021-12-17 05:00:00",
+      "added_at": "2021-12-24 05:21:21",
       "album": {
-        "name": "Mr. Pyrex Man",
-        "url": "https://open.spotify.com/album/2aCzTCXssq4CuB8c4rPDy1"
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
       },
       "artists": [
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 170435,
-      "name": "Mr. Pyrex Man",
-      "url": "https://open.spotify.com/track/2RekFRVuBcZmSnTtTuJuLM"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Elephant In The Room",
-        "url": "https://open.spotify.com/album/3IiYsn9bMqL1gVUOzJxH3I"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         },
         {
-          "name": "Green Sllime",
-          "url": "https://open.spotify.com/artist/3Ty5dt8Eio3wl42GO2bf7z"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 179255,
-      "name": "D.U.I.",
-      "url": "https://open.spotify.com/track/3tZKhSQdmW8FCRzPmhQgDM"
+      "duration_ms": 190261,
+      "name": "Wave Gods",
+      "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
+    },
+    {
+      "added_at": "2021-12-24 05:21:21",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -94,6 +103,74 @@
       "duration_ms": 195933,
       "name": "Mortgage Free (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/6VEHKvuIAB7LcTwl1XqnBi"
+    },
+    {
+      "added_at": "2021-12-24 05:21:21",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 171398,
+      "name": "Meet Joe Black",
+      "url": "https://open.spotify.com/track/6DxuDt3ixGmXWKOTwaA2vz"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Mr. Pyrex Man",
+        "url": "https://open.spotify.com/album/2aCzTCXssq4CuB8c4rPDy1"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 170435,
+      "name": "Mr. Pyrex Man",
+      "url": "https://open.spotify.com/track/2RekFRVuBcZmSnTtTuJuLM"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/3IiYsn9bMqL1gVUOzJxH3I"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Green Sllime",
+          "url": "https://open.spotify.com/artist/3Ty5dt8Eio3wl42GO2bf7z"
+        }
+      ],
+      "duration_ms": 179255,
+      "name": "D.U.I.",
+      "url": "https://open.spotify.com/track/3tZKhSQdmW8FCRzPmhQgDM"
+    },
+    {
+      "added_at": "2021-12-24 05:21:21",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 171077,
+      "name": "SEPARATION OF THE SHEEP AND THE GOATS",
+      "url": "https://open.spotify.com/track/3v4it08xXsQU6pVuyjGx1G"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -184,6 +261,22 @@
       "url": "https://open.spotify.com/track/6at20GDqHS61Cyb4QVxhy7"
     },
     {
+      "added_at": "2021-12-24 05:21:21",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 141785,
+      "name": "LAJAN SAL",
+      "url": "https://open.spotify.com/track/71X718sDMfAha9Qv4wuihZ"
+    },
+    {
       "added_at": "2021-10-22 04:00:00",
       "album": {
         "name": "Show You",
@@ -198,6 +291,22 @@
       "duration_ms": 203572,
       "name": "Show You",
       "url": "https://open.spotify.com/track/6q22MMzXPNnw3mCvxCJYUK"
+    },
+    {
+      "added_at": "2021-12-24 05:34:47",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 198113,
+      "name": "Wu for the Children",
+      "url": "https://open.spotify.com/track/4hTd2OvOumDB58d8p9SkMF"
     },
     {
       "added_at": "2021-11-19 05:00:00",
@@ -742,38 +851,6 @@
     {
       "added_at": "2021-10-01 04:42:47",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/5bNYBztgL93KcJ57Q2kOkD"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 73743,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/6qflvOEQAIvL3eBVyJlHKE"
-    },
-    {
-      "added_at": "2021-09-10 04:00:00",
-      "album": {
-        "name": "Gang Activity",
-        "url": "https://open.spotify.com/album/4aGRt8IfHNTZTRFvGO8Tlz"
-      },
-      "artists": [
-        {
-          "name": "Chris Patrick",
-          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Gang Activity",
-      "url": "https://open.spotify.com/track/6cThqIAHAIk7WEqvnNU2CI"
-    },
-    {
-      "added_at": "2021-10-01 04:42:47",
-      "album": {
         "name": "Half God",
         "url": "https://open.spotify.com/album/1sVKmvl9cQPV2pW1XWTCyR"
       },
@@ -848,22 +925,6 @@
       "url": "https://open.spotify.com/track/2drtzrlZEvICtPt7PjnSrm"
     },
     {
-      "added_at": "2021-09-03 04:00:00",
-      "album": {
-        "name": "'96 Bulls",
-        "url": "https://open.spotify.com/album/01Do91GN0SpxAx2iyoJ59G"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 247841,
-      "name": "'96 Bulls",
-      "url": "https://open.spotify.com/track/0VtyqKSFeXrIVSbpxARxt4"
-    },
-    {
       "added_at": "2021-09-24 19:03:24",
       "album": {
         "name": "HOMECOURT ADVANTAGE, Vol. 1",
@@ -902,38 +963,6 @@
       "duration_ms": 163000,
       "name": "Can't Do This Alone",
       "url": "https://open.spotify.com/track/1vqf2TUALAihS8vM7lTuEf"
-    },
-    {
-      "added_at": "2021-09-24 18:53:10",
-      "album": {
-        "name": "War & Wonders",
-        "url": "https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN"
-      },
-      "artists": [
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 196577,
-      "name": "Better Half",
-      "url": "https://open.spotify.com/track/0LcSnQpWNnKWWiFJfv3k3P"
-    },
-    {
-      "added_at": "2021-09-24 18:53:10",
-      "album": {
-        "name": "War & Wonders",
-        "url": "https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN"
-      },
-      "artists": [
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "Mind My Business",
-      "url": "https://open.spotify.com/track/708XxdoYh212Jekpwu6985"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5hR0J49CmXC"

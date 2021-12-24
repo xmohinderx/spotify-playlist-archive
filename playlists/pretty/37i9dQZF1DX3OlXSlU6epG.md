@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3OlXSlU6epG.md) - [plain]
 
 > Welcome the voice of Robert Frost and his daughter Lesley Frost into your reading room...
 
+[Spotify](https://open.spotify.com/user/spotify) - 10,231 likes - 64 songs - 2 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [After Apple\-Picking](https://open.spotify.com/track/3W1wlDFWv1HdDkSDz1h1Gc) | [Robert Frost](https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW) | [Robert Frost Reads His Poetry \- The 1956 Caedmon Recordings](https://open.spotify.com/album/2zRCEI95zCVP9JtQJVpwD1) | 2:00 |

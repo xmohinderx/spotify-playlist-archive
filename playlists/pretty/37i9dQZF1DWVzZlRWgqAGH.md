@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Terrace Martin
 
+[Spotify](https://open.spotify.com/user/spotify) - 693,380 likes - 100 songs - 5 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Morning \(feat\. Arin Ray & Smino\)](https://open.spotify.com/track/3onuWjUbFaNSdAMD5Z2UOQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [DRONES](https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa) | 3:43 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Our People \(feat\. Quelle Chris\)](https://open.spotify.com/track/1GFks7Cof1bT5TgXxVd3DF) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Konke](https://open.spotify.com/album/4Rl0XqeWSsFrH0SNPS35Kd) | 3:11 |
 | 100 | [Doubt Nothing](https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Doubt Nothing](https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK) | 3:00 |
 
-Snapshot ID: `MTY0MDMxNTU0MSwwMDAwMDAwMDAyMjBhYjhiZDE1NzA5ZmU3M2IwYzgwNWJjYWM3Y2U1`
+Snapshot ID: `MTY0MDMyNDE3MiwwMDAwMDAwMDAyMjBhYjhiZDE1NzA5ZmU3M2IwYzgwNWJjYWM3Y2U1`

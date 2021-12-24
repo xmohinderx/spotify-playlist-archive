@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
+[Spotify](https://open.spotify.com/user/spotify) - 245,527 likes - 100 songs - 15 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale \- Medley](https://open.spotify.com/track/2DMDV9kUEO2WjUHg5acHBY) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [2112 \(Remastered\)](https://open.spotify.com/album/3eBrvZnagmIDbdgse7cjI6) | 20:33 |

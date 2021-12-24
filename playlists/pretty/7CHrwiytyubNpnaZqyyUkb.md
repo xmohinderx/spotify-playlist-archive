@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7CHrwiytyubNpnaZqyyUkb.md) - [plain]
 
 > Rockabilly and old school rock & roll—the perfect soundtrack to a night of beer and burgers.
 
+[Spotify](https://open.spotify.com/user/spotify) - 15,641 likes - 21 songs - 58 min 44 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sixty Years](https://open.spotify.com/track/6wbpjcGyQ4BvXl8QWQOrDF) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Nitro Burnin' Funny Daddy](https://open.spotify.com/album/28zl8HNjnRlvKaHkdkQwrI) | 4:41 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.<br/>Cover: Trixie Mattel
 
+[Spotify](https://open.spotify.com/user/spotify) - 67,458 likes - 75 songs - 4 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cover Girl](https://open.spotify.com/track/7jman10UPhzhtOOqZLjSsh) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Champion](https://open.spotify.com/album/3ExxyWO7DdCsNlYDuoIP8b) | 2:58 |

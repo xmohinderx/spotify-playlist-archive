@@ -1,6 +1,11 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
   "name": "This Is Bart\u00f3k",
+  "num_followers": 11353,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU4MzI0MDc2MCwwMDAwMDAwNzAwMDAwMTcwYTA4MGNiYzIwMDAwMDE3MGEwODBiNGM4",
   "tracks": [
     {

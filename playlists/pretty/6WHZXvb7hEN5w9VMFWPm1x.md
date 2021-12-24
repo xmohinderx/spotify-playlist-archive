@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6WHZXvb7hEN5w9VMFWPm1x.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 149 likes - 42 songs - 3 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Salve Regina \- Antiphona \(tonus monasticus\) in Honorem Beatae Mariae Virginis](https://open.spotify.com/track/2LDdH6TBPHivQcokt9uxMe) | [Gregorian Chant](https://open.spotify.com/artist/0Hu0feSkb1IIG0PbZ5P2s9), [Benedictine Monks of the Abbey of St\. Maurice & St\. Maur, Clevaux](https://open.spotify.com/artist/6bYu83C0X8Qej7nIk3X5GF) | [Gregorian Chant](https://open.spotify.com/album/3YFDU8Q0n9FGbNm1qzMrXZ) | 2:52 |

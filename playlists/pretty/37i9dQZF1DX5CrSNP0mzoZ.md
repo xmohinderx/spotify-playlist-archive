@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CrSNP0mzoZ.md) - [plain]
 
 > Sir George Martins most essential work, all in one playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 39,043 likes - 57 songs - 3 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/1IfolkSpgWO3FpzQo0J96I) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 3:51 |

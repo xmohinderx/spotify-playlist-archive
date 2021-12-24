@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Los más cálidos soundtracks navideños para este temporada!
 
+[Spotify](https://open.spotify.com/user/spotify) - 395,765 likes - 50 songs - 2 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Libre Soy](https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P) | [Carmen Sarahi](https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7) | [Frozen: Una Aventura Congelada \(Banda Sonora Original\)](https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO) | 3:42 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [Finale \(from the motion picture, "Home Alone 2: Lost In New York\)](https://open.spotify.com/track/2SIuzuio78aB01RGY90d59) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone II](https://open.spotify.com/album/104xIjS9kSulivvCeIHWQS) | 3:55 |
 | 50 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 |
 
-Snapshot ID: `MTY0MDMxNTgxNywwMDAwMDAwMDQ5NjMxNjE0YzMyMGIxOGM5ZDljZDVlOWVjZTRhZTQy`
+Snapshot ID: `MTY0MDMyNDQ0MCwwMDAwMDAwMDQ5NjMxNjE0YzMyMGIxOGM5ZDljZDVlOWVjZTRhZTQy`

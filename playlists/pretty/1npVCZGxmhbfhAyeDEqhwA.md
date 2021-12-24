@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1npVCZGxmhbfhAyeDEqhwA.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 22 songs - 1 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Running \- Disclosure Remix](https://open.spotify.com/track/3kwdYKNCyIfmWQDsgcQ0Rb) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Running](https://open.spotify.com/album/7u5Z4kLHU418jJx8U0Majo) | 5:17 |

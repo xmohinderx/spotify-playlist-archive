@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea2M7iVhM3V.md) - [plain]
 
 > Kill it today with this awesome Hip Hop.
 
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 31 songs - 2 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heartbeat](https://open.spotify.com/track/3HooZZPp0evFShqaJ2Pwer) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/4q5E2s5u5X5HT4UMJpbMKE) | 4:29 |

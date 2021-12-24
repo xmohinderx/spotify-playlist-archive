@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of recent tracks from the world of black and dark metal\. Cover: Wolves In The Throne Room
 
+[Spotify](https://open.spotify.com/user/spotify) - 272,499 likes - 80 songs - 7 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sovereign](https://open.spotify.com/track/0LH8EFWl3v3T7YtSFB7Jbr) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2aQu2K5LfwOBed3T1DGojg) | 6:14 |

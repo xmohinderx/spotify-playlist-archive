@@ -1,7 +1,12 @@
 {
   "description": "These songs will make you feel better. Or maybe worse.",
   "name": "The PMS Playlist",
-  "snapshot_id": "MTY0MDMxNTQ4NywwMDAwMDAwMDNkOTA2NzFkZWNhNzA1ZmRhMWExOTYwMGE4OTJjNWMx",
+  "num_followers": 216305,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDEyMCwwMDAwMDAwMDNkOTA2NzFkZWNhNzA1ZmRhMWExOTYwMGE4OTJjNWMx",
   "tracks": [
     {
       "added_at": "2019-10-04 13:59:10",

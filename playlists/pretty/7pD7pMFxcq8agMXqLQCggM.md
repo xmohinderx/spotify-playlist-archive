@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7pD7pMFxcq8agMXqLQCggM.md) - [plain]
 
 > New takes on old sounds\. These tracks talk back to their roots in the folk, blues, soul, country, and Americana traditions.
 
+[Spotify](https://open.spotify.com/user/spotify) - 326 likes - 55 songs - 3 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fortunate Son \(with Foo Fighters\)](https://open.spotify.com/track/68gpaI2D80Li95PiQiplMv) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Wrote A Song For Everyone](https://open.spotify.com/album/2G6chemqdiNHxEw1ucZ7pw) | 3:29 |

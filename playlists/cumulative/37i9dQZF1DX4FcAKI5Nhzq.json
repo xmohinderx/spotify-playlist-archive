@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: Moon Byul, Mirani",
+  "description": "Future K-Pop hits! Cover: MINHO",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -2077,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Dreams Come True - SM STATION",
+        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+    },
+    {
+      "album": {
         "name": "Drink It",
         "url": "https://open.spotify.com/album/6gstlIojQWTAcrsRqBQxLR"
       },
@@ -2996,6 +3014,24 @@
       "duration_ms": 196560,
       "name": "Heart",
       "url": "https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6"
+    },
+    {
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Heartbreak",
+      "url": "https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7"
     },
     {
       "album": {
@@ -6389,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "Shark",
+        "url": "https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "Shark",
+      "url": "https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw"
+    },
+    {
+      "album": {
         "name": "SPECIAL HISTORY BOOK",
         "url": "https://open.spotify.com/album/3XByrdCCU42SI5I9nxoA10"
       },
@@ -6672,6 +6726,28 @@
       "duration_ms": 187434,
       "name": "Starry Night (prod. dress)",
       "url": "https://open.spotify.com/track/2skhJRyeMP1EefyjTYwQmA"
+    },
+    {
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/5GNd4MdJkmm3EoZ6DjXDMI"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        },
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202720,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/3vBwpaajHJQaqJkE7Xsv5H"
     },
     {
       "album": {

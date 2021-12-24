@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers who continue to transform the classical world\. Cover: Hania Rani and Dobrawa Czocher
 
+[Spotify](https://open.spotify.com/user/spotify) - 33,958 likes - 50 songs - 4 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Preludium c\-moll](https://open.spotify.com/track/2DlnfCf3ECnhcMySe1IPmu) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Biała flaga](https://open.spotify.com/album/5pba4FjOiX0lPgJfthxBiC) | 3:03 |

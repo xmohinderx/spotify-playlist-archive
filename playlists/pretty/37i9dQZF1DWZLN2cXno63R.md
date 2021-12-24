@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLN2cXno63R.md) - [plain]
 
 > Take yourself to Havana with some Cuban Salsa and Café favourites.
 
+[Spotify](https://open.spotify.com/user/spotify) - 109,397 likes - 60 songs - 4 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Que Manera de Quererte](https://open.spotify.com/track/4XxJuOP5dLqcdDpj5lxa2v) | [Cimarron](https://open.spotify.com/artist/0f8XTso7KWxzUuTHk1pMXc) | [Discover Music from Latin America](https://open.spotify.com/album/7vJUAz0tqkJQHTuyBUU1Me) | 5:04 |

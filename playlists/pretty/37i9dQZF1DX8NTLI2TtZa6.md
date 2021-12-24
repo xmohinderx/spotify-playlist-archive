@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Focus\-enhancing piano for your study session.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,366,006 likes - 214 songs - 9 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yet To Come](https://open.spotify.com/track/3tDmQa16JU8ORtzOwEsqei) | [Józef Gatysik](https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j) | [Yet To Come](https://open.spotify.com/album/6GngtJ4YUV728HuO8l3n6e) | 3:34 |

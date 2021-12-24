@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2EjRsHG8m4bGCrhCoJ1ykn.md) - [plain]
 
 > Drive happy with these upbeat bluegrass tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 19 songs - 1 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [There Is a Time \(feat\. Kelsey Wilson\)](https://open.spotify.com/track/1AmcbAQi7R0UkLhta58TmU) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH), [Kelsey Wilson](https://open.spotify.com/artist/3bMxafREm6pz5nH9mbaucS) | [Whiskey Shivers](https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg) | 3:30 |

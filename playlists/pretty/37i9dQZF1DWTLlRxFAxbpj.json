@@ -1,6 +1,11 @@
 {
   "description": "You're on Spring Break...turn it up and start acting like it!",
   "name": "Spring Loaded",
+  "num_followers": 9000,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU2ODAxNzc4MiwwMDAwMDAwNzAwMDAwMTY5NTRjNmU2ZGEwMDAwMDE2ZDE1MjQ5Nzdh",
   "tracks": [
     {

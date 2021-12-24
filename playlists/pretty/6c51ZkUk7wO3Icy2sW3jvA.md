@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6c51ZkUk7wO3Icy2sW3jvA.md) - [plain]
 
 > Missa inte Daniel Adams\-Ray på Flamingo\-scenen på TORSDAG / 16.35
 
+[Spotify](https://open.spotify.com/user/spotify) - 18 likes - 10 songs - 39 min 16 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Håll om mig](https://open.spotify.com/track/4J0WQvqCBytACvgKVrq1S3) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Början på allt](https://open.spotify.com/album/7qETkdQzWjk1ToMdlHtXKj) | 3:59 |

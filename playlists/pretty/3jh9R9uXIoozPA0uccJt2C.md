@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3jh9R9uXIoozPA0uccJt2C.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 20 songs - 1 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cello Suite No\. 1 in G Major, BWV 1007: Prelude](https://open.spotify.com/track/6XpYYPfdk2QKegcW4BTKS9) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tristan Mark](https://open.spotify.com/artist/52D5VYrufO1xendKCNG71I) | [Great Composers \- J.S\. Bach](https://open.spotify.com/album/0N01Ieig5QsalEsa9TvemH) | 2:17 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
+[Spotify](https://open.spotify.com/user/spotify) - 528,950 likes - 115 songs - 7 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aphrodite](https://open.spotify.com/track/60q1qCrbsMcz1Dj0mBTjhH) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Nostalgia](https://open.spotify.com/album/4Hm7KHdv1q1T8hDiMbKJqS) | 3:54 |
@@ -122,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [The Keys](https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Soft Times](https://open.spotify.com/album/2m5JZAFs0blQ8S4Gm8VJ7a) | 3:37 |
 | 115 | [Big Brown Eyes](https://open.spotify.com/track/42N1d6aqK7MfvsdHll5R83) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The Best of Benny Sings](https://open.spotify.com/album/16Dr8bbyKAzD8XI8P2oNJE) | 4:12 |
 
-Snapshot ID: `MTY0MDMxNTc5NiwwMDAwMDAwMDg5OTViNmFmNTdkNzY3Y2FiMzc2NDA3ZWUzNjQ5MDc0`
+Snapshot ID: `MTY0MDMyNDQyMCwwMDAwMDAwMDg5OTViNmFmNTdkNzY3Y2FiMzc2NDA3ZWUzNjQ5MDc0`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/52FOMIrumGaNXnwKfrlAVf.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 29 songs - 1 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sarotra](https://open.spotify.com/track/3UbRUV6PUcpXOyFxT2oEj8) | [Les Smockers](https://open.spotify.com/artist/777lix3zDD7MCvk4NtWMb2) | [Current Popular Music Of Madagascar](https://open.spotify.com/album/4oDprKxbVn0E4WrjDGzwFh) | 3:53 |

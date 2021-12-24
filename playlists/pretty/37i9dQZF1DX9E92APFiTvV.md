@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E92APFiTvV.md) - [plain]
 
 > A lifetime of legendary tunes courtesy of the holy triumvirate\. Rest in peace, Neil Peart.
 
+[Spotify](https://open.spotify.com/user/spotify) - 184,921 likes - 50 songs - 4 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tom Sawyer](https://open.spotify.com/track/1MkoCFGbhPQIDI5lRdAheQ) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/3yBAvj1wgPEFbnUdgihqlR) | 4:36 |

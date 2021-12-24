@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Evermore](https://open.spotify.com/track/0ZSLQqw4B8NnCOLSqjpT80) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE) | 3:43 |
@@ -37,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [All Your Days](https://open.spotify.com/track/0mp6WVhgI5FF6DGtYcyBNm) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [All Your Days](https://open.spotify.com/album/5VBNYd2VnQz9g51247TQ2v) | 4:35 |
 | 30 | [Take Aim](https://open.spotify.com/track/0o8Oee4KSBVLtpUEL5sjVv) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Sundowning](https://open.spotify.com/album/4jnYLTLs0ro2Z3yVafwpHB) | 3:39 |
 
-Snapshot ID: `MCwwMDAwMDAwMGI0ZjQ3MTY5YzZmZjU1MTM3YWJhYTNhOGUwMWIyY2Q2`
+Snapshot ID: `MCwwMDAwMDAwMDA2ODMwNWI3NDdmYTM4MjFmNWY5NWQ4ZmVkYzkxOGJj`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,568,511 likes - 150 songs - 7 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stand By Me](https://open.spotify.com/track/2KQM3kDM0zMBC9iynePBbS) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Stand By Me](https://open.spotify.com/album/7iAaAOoEeEkI0KB0hqLwU0) | 2:54 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 | 149 | [Let's Dance](https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo) | [Chris Montez](https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA) | [The Hits](https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW) | 2:29 |
 | 150 | [Daydream](https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Daydream](https://open.spotify.com/album/678WzpMIeszIatLVnczSnS) | 2:19 |
 
-Snapshot ID: `MTY0MDMxNTc3NSwwMDAwMDAwMDFhY2I0OTQwYmE2ZWQ0MjNiZjBmMDA3NDZkMzJjYzg3`
+Snapshot ID: `MTY0MDMyNDM5OSwwMDAwMDAwMDFhY2I0OTQwYmE2ZWQ0MjNiZjBmMDA3NDZkMzJjYzg3`

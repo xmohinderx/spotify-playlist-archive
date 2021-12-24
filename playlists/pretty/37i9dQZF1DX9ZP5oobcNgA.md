@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
+[Spotify](https://open.spotify.com/user/spotify) - 76,993 likes - 60 songs - 4 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Solomon HWV 67 / Act 3: The Arrival Of The Queen Of Sheba](https://open.spotify.com/track/1bTXAKwE2Hztv13xTAhMQB) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [The Essential Handel](https://open.spotify.com/album/1MwHHEnhgkb07HA5Av42m6) | 3:11 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxkZk4wnQ5T.md) - [plain]
 
 > From brooding skepticism and ardent romance to utter whimsy and nonsense, explore the Victorian sensibility, as displayed in some of the era's best poetry.
 
+[Spotify](https://open.spotify.com/user/spotify) - 5,560 likes - 289 songs - 12 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Way Through the Woods](https://open.spotify.com/track/6e1iXgk8GRU5Rv2PKd3trc) | [Rudyard Kipling](https://open.spotify.com/artist/5uNTrZ1JlKsnpTeFyKWPYO), [Ralph Fiennes](https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN) | [Fiennes, Ralph: Kipling](https://open.spotify.com/album/1UMRkrYSzqH3tH3yCauNOW) | 1:05 |

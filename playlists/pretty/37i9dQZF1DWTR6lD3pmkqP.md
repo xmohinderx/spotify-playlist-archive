@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Portico Quartet
 
+[Spotify](https://open.spotify.com/user/spotify) - 35,930 likes - 250 songs - 20 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Monument](https://open.spotify.com/track/41ZVxdu7KTYquKjdWStpf8) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/3fUO1xTixHCOuNSdcoYtX2) | 4:40 |
@@ -257,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Love in Dreams](https://open.spotify.com/track/25qmmlRJ4ZHhhKsvidRgNn) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Idris Rahman](https://open.spotify.com/artist/0usZeXbJX9kz203eMYmWRw) | [Love in Dreams](https://open.spotify.com/album/37U57Q4k4w49vuAh202pOJ) | 6:04 |
 | 250 | [Augmented Reality](https://open.spotify.com/track/4kQzOfJxDpviaEpOFPOBU6) | [Benjamin Deschamps](https://open.spotify.com/artist/5hgpXM8s7ksNeHK5J74UQ6) | [Augmented Reality](https://open.spotify.com/album/7eKXbrX6jdqv1T8F76tg6I) | 4:38 |
 
-Snapshot ID: `MTY0MDMxNTUxMCwwMDAwMDAwMGU2MWRmOTU3NWVkOGE4MzUyNzFkNTg5YmVmNzBlNjM3`
+Snapshot ID: `MTY0MDMyNDE0MSwwMDAwMDAwMGU2MWRmOTU3NWVkOGE4MzUyNzFkNTg5YmVmNzBlNjM3`

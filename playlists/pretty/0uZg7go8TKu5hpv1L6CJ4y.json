@@ -1,6 +1,11 @@
 {
   "description": "Samla dina v\u00e4nner och ladda inf\u00f6r de Olypiska Spelen. Nu k\u00f6r vi!",
   "name": "Tagga F\u00f6r OS",
+  "num_followers": 50,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NTIsYmI3ZGE4OGQ4NzJjY2FmZGY0NGNiYWRmNTUzY2EyYjJkOWFhOWM4ZQ==",
   "tracks": [
     {

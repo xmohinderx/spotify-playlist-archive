@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC5ySVGqQA1.md) - [plain]
 
 > A collection of all things Austen, including audiobooks, poetry, and cinematic scores.
 
+[Spotify](https://open.spotify.com/user/spotify) - 34,844 likes - 127 songs - 21 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Persuasion: 'I Have Loved None But You...' \(Jane Austen\)](https://open.spotify.com/track/1L6mfFOTlU4xcn5hFOcOLs) | [Michael Sheen](https://open.spotify.com/artist/1vGT1ARFxsjCIuv8RsLJw7) | [A Lover's Gift: From Him To Her](https://open.spotify.com/album/4snC32Pmnq0AJeGvLaGvMq) | 3:36 |

@@ -1,6 +1,11 @@
 {
   "description": "A playlist with songs from the best reviewed albums in Sweden 2012. ",
   "name": "The Critics Choice 2012",
+  "num_followers": 2599,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NSxkNDc1ZTI5YjQ1MTcwODc1NjA4NGY3OGU1YmE4NzEzZWQ2OTVkMTc5",
   "tracks": [
     {

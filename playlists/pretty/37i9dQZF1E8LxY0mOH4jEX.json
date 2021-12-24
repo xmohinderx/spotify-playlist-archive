@@ -1,7 +1,12 @@
 {
-  "description": "With Bruno Mars, DJ Snake, Maroon 5, Zedd and more",
+  "description": "With Bruno Mars, DJ Snake, Christina Aguilera, Frankie J and more",
   "name": "24K Magic Radio",
-  "snapshot_id": "MTY0MDMxNTgzNSwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4",
+  "num_followers": 2989,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQ1NywwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4",
   "tracks": [
     {
       "added_at": null,

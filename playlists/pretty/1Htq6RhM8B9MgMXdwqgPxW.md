@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1Htq6RhM8B9MgMXdwqgPxW.md) - [plain]
 
 > Break out of your routine with trios of tracks from some of the brightest new stars in Jazz.
 
+[Spotify](https://open.spotify.com/user/spotify) - 287 likes - 45 songs - 4 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Jazz Man Speaks \(Maple Leaf Rag\)](https://open.spotify.com/track/5E7dGfVaFqlT5UvnMKl3rF) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Social Music](https://open.spotify.com/album/4Jhr4IDfUoNxHoodEePluk) | 1:20 |

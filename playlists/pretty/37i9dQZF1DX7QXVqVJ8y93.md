@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QXVqVJ8y93.md) - [plain]
 
 > You might want to leave a light on when listening to these chilling performances of H\. P\. Lovecraft's horror fiction....
 
+[Spotify](https://open.spotify.com/user/spotify) - 32,016 likes - 63 songs - 23 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Shadow Over Innsmouth \- Part 1](https://open.spotify.com/track/6StAn4OjXECTfy2CDj7otk) | [Phil Reynolds](https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU) | [The Shadow Over Innsmouth](https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ) | 24:48 |

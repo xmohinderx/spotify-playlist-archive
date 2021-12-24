@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
+[Spotify](https://open.spotify.com/user/spotify) - 442,237 likes - 100 songs - 8 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Doing The Beeston Bump](https://open.spotify.com/track/5t511Yx5GtAlRLAJF9Lhxa) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/5zajoik1fYvDE241lbpXxK) | 6:40 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 99 | [HS](https://open.spotify.com/track/6GXbnNDo2hHTMpXP3idbiM) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Pax Americana](https://open.spotify.com/album/4W9uEaPGOsTcTRCUX6rYcs) | 4:51 |
 | 100 | [Eastman](https://open.spotify.com/track/6TMn1lY9sR73UitbYD55bX) | [Move D](https://open.spotify.com/artist/3hwmrS8MSceZwnZYvZFf97) | [East to West](https://open.spotify.com/album/70YgSEIjTZY6XihSWBBfKG) | 6:31 |
 
-Snapshot ID: `MTY0MDMxNTUyNiwwMDAwMDAwMGJjN2ZmYjZkZWQ0ZDgyZDFkZDQxYjJhNzY1NmU3MTcx`
+Snapshot ID: `MTY0MDMyNDE1OCwwMDAwMDAwMGJjN2ZmYjZkZWQ0ZDgyZDFkZDQxYjJhNzY1NmU3MTcx`

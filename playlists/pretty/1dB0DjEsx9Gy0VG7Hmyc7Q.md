@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1dB0DjEsx9Gy0VG7Hmyc7Q.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 146 likes - 27 songs - 1 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Birthday Cake](https://open.spotify.com/track/77kF7rF7ikC5OcZHVXN76X) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe\)](https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF) | 1:18 |

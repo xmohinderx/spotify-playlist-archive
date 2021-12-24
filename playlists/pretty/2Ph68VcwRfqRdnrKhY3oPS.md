@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2Ph68VcwRfqRdnrKhY3oPS.md) - [plain]
 
 > A charming musical touch to the most significant moment in your life.
 
+[Spotify](https://open.spotify.com/user/spotify) - 993 likes - 62 songs - 4 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Won't Give Up](https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Won't Give Up](https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P) | 4:00 |

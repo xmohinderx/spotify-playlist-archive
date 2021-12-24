@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop  Cover: Grabbitz \\m/
 
+[Spotify](https://open.spotify.com/user/spotify) - 232,087 likes - 125 songs - 7 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Story Of My Life \(feat\. Trippie Redd\) \- Heavy Edit](https://open.spotify.com/track/7vBwenmGPD2h0DSbljoZym) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\) \[Heavy Edit\]](https://open.spotify.com/album/4Wzad6zTcqutg65d090DL2) | 4:00 |
@@ -132,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 124 | [England Screams](https://open.spotify.com/track/21XAGAUNCh1INwlr98XjBu) | [Strange Bones](https://open.spotify.com/artist/2LuVfFRyJa4bxFrvqTZ4Ts) | [England Screams](https://open.spotify.com/album/2rtDkF06V7D0gEIPivUMRt) | 3:09 |
 | 125 | [REPEAT THE CYCLE](https://open.spotify.com/track/5ePoiZ6FCr4qwfVsptDv9A) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [sadgirlsdub](https://open.spotify.com/artist/6UNHucEgVSXRNwRNBlGnCA) | [REPEAT THE CYCLE](https://open.spotify.com/album/2oS4gYSo0gzcGgofwOg7eQ) | 2:24 |
 
-Snapshot ID: `MTY0MDMxNTUxMywwMDAwMDAwMDE1OTIzMjBhMWQ1NzUzZjRhZmZkMDM3NGM4Y2QzNjAy`
+Snapshot ID: `MTY0MDMyNDE0NCwwMDAwMDAwMDE1OTIzMjBhMWQ1NzUzZjRhZmZkMDM3NGM4Y2QzNjAy`

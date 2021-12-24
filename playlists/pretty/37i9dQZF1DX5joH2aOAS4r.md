@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5joH2aOAS4r.md) - [plain]
 
 > Never Forget all their biggest hits.
 
+[Spotify](https://open.spotify.com/user/spotify) - 136,853 likes - 44 songs - 2 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Greatest Day \- Odyssey Mix](https://open.spotify.com/track/3SxxRELHWjhUysHzb6LX4Y) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Odyssey](https://open.spotify.com/album/7HjU9Io9RWarqivMb0Ivbq) | 4:22 |

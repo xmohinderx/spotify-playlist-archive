@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up in your own pace with piano music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 179,154 likes - 104 songs - 4 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Light](https://open.spotify.com/track/6G3IBH8XyjswVaPxmdoC5o) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [First Light](https://open.spotify.com/album/5jeV0FO2eIRlWaIyxyyFPI) | 3:10 |

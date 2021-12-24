@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lw1wrxWyPu.md) - [plain]
 
 > For never were there stories of more woe...\. than those found in these masterful performances, adaptations, and readings of Shakespeare's Tragedies.
 
+[Spotify](https://open.spotify.com/user/spotify) - 14,624 likes - 215 songs - 23 hr 47 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [To Be Or Not To Be \- From "Hamlet"](https://open.spotify.com/track/5OSiLU1IODlLalmsldBpcC) | [Ian Bannen](https://open.spotify.com/artist/1zN877pnS8Mrp2gPxVBt1E) | [Shakespeare In Music & Words](https://open.spotify.com/album/0h3xFLwnTwNdj5X1MQbhHf) | 2:08 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > For all the beautiful queens! Guest curated by Halle Berry.
 
+[Spotify](https://open.spotify.com/user/spotify) - 199,963 likes - 28 songs - 1 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Automatic Woman \- from the "Bruised" Soundtrack](https://open.spotify.com/track/76he7a2rF6Ot9eiA61GZFW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Automatic Woman \(from the "Bruised" Soundtrack\)](https://open.spotify.com/album/1FboinsGK9BvoEcYvUynfv) | 3:58 |

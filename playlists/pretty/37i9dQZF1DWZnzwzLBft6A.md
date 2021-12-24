@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnzwzLBft6A.md) - [plain]
 
 > He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today\. Discover why, right here.
 
+[Spotify](https://open.spotify.com/user/spotify) - 498,477 likes - 69 songs - 5 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toccata and Fugue in D minor](https://open.spotify.com/track/0BWJNm4TrO6H3qgiCmDBjM) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [William McVicker](https://open.spotify.com/artist/3zLYnnZigB17bD8RQbWJaf) | [Great Organ Classics](https://open.spotify.com/album/22fZBA9wcM45kjNge0yANc) | 9:27 |

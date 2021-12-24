@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out\. Cover: Tchami
 
+[Spotify](https://open.spotify.com/user/spotify) - 805,976 likes - 100 songs - 4 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [No Time](https://open.spotify.com/track/1UApNNulZJm0alYFXerYMw) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [No Time](https://open.spotify.com/album/0GwrfKSTdg8sICTbdhwXrN) | 3:20 |
 | 100 | [Purification](https://open.spotify.com/track/0U9m269ExQq7LmZc6MTzee) | [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i) | [Purification](https://open.spotify.com/album/62cXo5O7kZz7l0r9RP8lDw) | 2:58 |
 
-Snapshot ID: `MTY0MDMxNTUyNiwwMDAwMDAwMDQ5MmFhMmE4MDI1MDc5NmNhMjViMjlmNDYzOTIwMTcx`
+Snapshot ID: `MTY0MDMyNDE1OCwwMDAwMDAwMDQ5MmFhMmE4MDI1MDc5NmNhMjViMjlmNDYzOTIwMTcx`

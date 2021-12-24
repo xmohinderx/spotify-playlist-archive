@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Gå loss till Spotifys fetaste festlåtar!
 
+[Spotify](https://open.spotify.com/user/spotify) - 92,009 likes - 80 songs - 3 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pasta & Vin](https://open.spotify.com/track/6M2cedsUtEFPAY2vIdy6H0) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Stånkarna](https://open.spotify.com/artist/5eIcN17Kbrk8PGWvuPd21J) | [Pasta & Vin](https://open.spotify.com/album/4weklnGZlBMCg9wlyiZgM0) | 2:22 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 79 | [Clap Your Hands](https://open.spotify.com/track/2pDSuGsiXkxIAXYdHOy0I1) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Clap Your Hands](https://open.spotify.com/album/6cWPtN6oHWBwZ9KXlpuSnN) | 2:56 |
 | 80 | [What Was in That Glass](https://open.spotify.com/track/1r9ecngPLiwB5J06DWH4Ts) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [What Was in That Glass](https://open.spotify.com/album/1gXXUPaPU77bnCIVXHT9Q8) | 3:14 |
 
-Snapshot ID: `MTY0MDMxNTYxMywwMDAwMDAwMGI1NGE5MWY1NDA4ODNiNDJiNzNlMDU3NGVlMmU2MTcx`
+Snapshot ID: `MTY0MDMyNDI0NCwwMDAwMDAwMGI1NGE5MWY1NDA4ODNiNDJiNzNlMDU3NGVlMmU2MTcx`

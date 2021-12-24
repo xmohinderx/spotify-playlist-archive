@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0NfjMqrzcGKVsbYZmhf4Md.md) - [plain]
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,041 likes - 50 songs - 2 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Honky Tonkin' \- Single Version](https://open.spotify.com/track/2FD2wb4aU4IFn2R1Y15062) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Ultimate Collection](https://open.spotify.com/album/32j6U812a78meScVerGOVW) | 2:44 |

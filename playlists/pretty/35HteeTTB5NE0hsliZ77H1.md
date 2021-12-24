@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/35HteeTTB5NE0hsliZ77H1.md) - [plain]
 
 > Yours is no ordinary life\. Listen outside the lines.
 
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 63 songs - 4 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everyday Robots](https://open.spotify.com/track/2dLL8ikM6GXMhKX39c12zN) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Everyday Robots](https://open.spotify.com/album/5SzhltQSSi1HUMi5cveZIZ) | 3:59 |

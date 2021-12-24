@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5WUFWhGRVpi4ED9QpK2hOF.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 351 likes - 50 songs - 3 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tie a Yellow Ribbon Round the Ole Oak Tree \(feat\. Tony Orlando\) \- Digitally Remastered 1998](https://open.spotify.com/track/12UzVR0M7asW2MHAZRJk0I) | [Dawn](https://open.spotify.com/artist/1vjeJ712UQutRhn6WJI4sF), [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Tuneweaving](https://open.spotify.com/album/3mrqSIFeycc3CccoaHR0Tq) | 3:26 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpFvorxSZ6K.md) - [plain]
 
 > All of your favorite songs from the legendary singer\-songwriter.
 
+[Spotify](https://open.spotify.com/user/spotify) - 385,691 likes - 50 songs - 3 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dance Me to the End of Love](https://open.spotify.com/track/3mFzIFFFmEXTQs6BDAK2ZZ) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:40 |

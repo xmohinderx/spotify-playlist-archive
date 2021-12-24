@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5zpAWvvDe0Q8TXjrgInIke.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 24 songs - 1 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pretty Baby](https://open.spotify.com/track/64yve9ERakVLgli46iyz5P) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Brenda Lee: The One and Only Vol 2](https://open.spotify.com/album/5GZoQnjVRx0fmllwJ1Kqy3) | 1:42 |

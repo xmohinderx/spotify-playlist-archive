@@ -1,6 +1,11 @@
 {
   "description": "The essential Arcade Fire featuring their new album \"Everything Now\".",
   "name": "This Is Arcade Fire",
+  "num_followers": 165225,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU2ODAxODQ0MSwwMDAwMDAxMTAwMDAwMTYyNDljY2RiNTQwMDAwMDE2ZDE1MmVhNmFj",
   "tracks": [
     {

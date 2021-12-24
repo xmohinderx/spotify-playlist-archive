@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
+[Spotify](https://open.spotify.com/user/spotify) - 9,052 likes - 100 songs - 8 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bloodshot Eyes \(Live\)](https://open.spotify.com/track/4o0vitIuYMBVYTcHSgx2T0) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Live at First Avenue](https://open.spotify.com/album/6YUPlYsj897dujBQfPeafC) | 6:31 |

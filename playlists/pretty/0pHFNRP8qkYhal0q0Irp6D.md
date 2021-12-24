@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain]
 
 > You should be dancing, yeah\. \(This ain't your typical disco either...\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,082 likes - 53 songs - 4 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Dance \- 1999 Remaster](https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 7:37 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2I7h7Mj5bGlqhI4PyupTPF.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 790 likes - 50 songs - 3 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In Da Club](https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:13 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
+[Spotify](https://open.spotify.com/user/spotify) - 799,352 likes - 50 songs - 2 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Belly](https://open.spotify.com/track/67kizZOz5RZgM1mAoiLXVw) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Belly](https://open.spotify.com/album/6n40WGJsaF4jGXMRuAkPXx) | 2:09 |

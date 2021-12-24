@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 
 > Travel through the evolution of the Renaissance sound with this collection of choral and instrumental classics.
 
+[Spotify](https://open.spotify.com/user/spotify) - 68,921 likes - 50 songs - 4 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fantasy For 2 Trebles And Bass \(From "The Broken Consort"\)](https://open.spotify.com/track/5GspQWRiTcQxGc6W7MeQoW) | [Matthew Locke](https://open.spotify.com/artist/0YWBrDPz84qSSiLgPxjfIo), [John Holloway](https://open.spotify.com/artist/6pOkgFusj8zIOfRZemKGah), [Monika Baer](https://open.spotify.com/artist/2BcfPW6J7UxgW6jiMUXCCO), [Martin Zeller](https://open.spotify.com/artist/2XSpcrdJ3Ls5rPfUrvbiUg) | [Pavans And Fantasies From The Age Of Dowland](https://open.spotify.com/album/11YZ7bLfXrkzsP6byd4BZe) | 4:11 |

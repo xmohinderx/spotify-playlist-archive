@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yvjXSVJwJV.md) - [plain]
 
 > Can't hide our love for the <a href="spotify:artist:4QQgXkCYTt3BlENzhyNETg">funk\-soul outfit</a>\. Hear all their pivotal tracks now.
 
+[Spotify](https://open.spotify.com/user/spotify) - 297,154 likes - 24 songs - 1 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [September](https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Eternal Dance](https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR) | 3:34 |

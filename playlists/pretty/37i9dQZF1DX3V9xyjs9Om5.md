@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3V9xyjs9Om5.md) - [plain]
 
 > You’ll vibe with the frothy pop and empowering club classics in this Pride collection from the Aussie synth\-pop diva with a human touch.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,319 likes - 20 songs - 1 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Betty Who Spotify Pride Intro](https://open.spotify.com/track/7M1CvIq5ooa1S2oUldsfOE) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Betty Who \- Spotify Pride](https://open.spotify.com/album/43BOaBDKcslOQjbLj3wM51) | 0:05 |

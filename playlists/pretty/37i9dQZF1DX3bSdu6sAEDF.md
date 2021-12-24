@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
+[Spotify](https://open.spotify.com/user/spotify) - 472,844 likes - 50 songs - 3 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 49 | [No Such Thing](https://open.spotify.com/track/6UpCNcYmYBrkqbNQAR9U3H) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos \(Bonus Version\)](https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm) | 3:57 |
 | 50 | [Old Fashioned](https://open.spotify.com/track/2N0rHlYG5N4fN9HnVis9yj) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Old Fashioned](https://open.spotify.com/album/4hS6YtCIkN95pOeGLDsGI0) | 3:19 |
 
-Snapshot ID: `MTY0MDMxNTY2MSwwMDAwMDAwMDVjY2YwNzQ2NzcxNzE0MWI0NzlmZWMxNTQ4ZTQ0OThj`
+Snapshot ID: `MTY0MDMyNDI5MCwwMDAwMDAwMDVjY2YwNzQ2NzcxNzE0MWI0NzlmZWMxNTQ4ZTQ0OThj`

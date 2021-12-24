@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4qstWgP2KMRSiTY3a1fF2R.md) - [plain]
 
 > Get your morning on the ropes with some ANGRY ROCK!
 
+[Spotify](https://open.spotify.com/user/spotify) - 942 likes - 22 songs - 1 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Click Click Boom](https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Moving Forward In Reverse: Greatest Hits](https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx) | 4:12 |

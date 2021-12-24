@@ -1,7 +1,12 @@
 {
   "description": "Both Classic and New Songs from Your Favorite Alternative Artists / Cover: The Strokes",
   "name": "Your Alternative",
-  "snapshot_id": "MTY0MDMxNTYzOCwwMDAwMDAwMDc4MTM5N2QyZDYwYWJhZTI4ZjMwMzQzOWQ1OTZjZWZj",
+  "num_followers": 35612,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI2NywwMDAwMDAwMDc4MTM5N2QyZDYwYWJhZTI4ZjMwMzQzOWQ1OTZjZWZj",
   "tracks": [
     {
       "added_at": "2021-07-27 18:47:44",

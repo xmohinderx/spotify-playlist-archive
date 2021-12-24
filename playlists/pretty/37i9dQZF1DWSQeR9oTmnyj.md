@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQeR9oTmnyj.md) - [plain]
 
 > An introduction to <a href="spotify:user:spotify:playlist:37i9dQZF1DWXXW8bE6k5tq">John Williams'</a> soundtracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 181,074 likes - 58 songs - 5 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 |

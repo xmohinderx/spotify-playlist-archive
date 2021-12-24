@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5BQyCxfPfCno0PuTqkZUgb.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,293 likes - 25 songs - 1 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Old MacDonald Had a Farm](https://open.spotify.com/track/1SmPKOtxa32VN7aadce3S5) | [The Musicmakers](https://open.spotify.com/artist/5tpuZxtXHqCdBnAMsw0Cj7) | [The World's Greatest Childrens Nursery Rhymes & Songs \- The Only Children's Songs Album You'll Ever Need](https://open.spotify.com/album/6TyCH9F6W6OqPyINuRcQ5k) | 2:07 |

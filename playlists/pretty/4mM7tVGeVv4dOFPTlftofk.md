@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4mM7tVGeVv4dOFPTlftofk.md) - [plain]
 
 > Getaway Rock Festival är efter två år etablerad som en av Sveriges bästa och viktigaste rockfestivaler\. Sommarens upplaga arrangeras 5 \- 7 juli i Gävle\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 32 likes - 71 songs - 5 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Far Beyond The Sun](https://open.spotify.com/track/671vZdjEOtml0luFydgvKU) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Rising Force](https://open.spotify.com/album/4tJtJ6kgkBdyp4NZS9efW9) | 5:49 |

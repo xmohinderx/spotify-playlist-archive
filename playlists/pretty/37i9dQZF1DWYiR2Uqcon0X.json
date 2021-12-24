@@ -1,7 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
   "name": "Country Coffeehouse",
-  "snapshot_id": "MTY0MDMxNTU4MCwwMDAwMDAwMGVlNWI1NGVhYjE4YzBhMjExZGNhY2ZjYTRlYzliN2U4",
+  "num_followers": 657551,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIxMiwwMDAwMDAwMGVlNWI1NGVhYjE4YzBhMjExZGNhY2ZjYTRlYzliN2U4",
   "tracks": [
     {
       "added_at": "2021-10-08 05:18:00",

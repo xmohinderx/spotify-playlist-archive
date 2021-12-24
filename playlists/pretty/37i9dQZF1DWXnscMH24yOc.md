@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
+[Spotify](https://open.spotify.com/user/spotify) - 398,350 likes - 100 songs - 6 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Ode to My Family](https://open.spotify.com/track/7aVmUCeBxzfyqqKwFyrYux) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ode to My Family](https://open.spotify.com/album/7uB4KcsGTHl0whmCwKOBl5) | 4:32 |
 | 100 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0) | 3:32 |
 
-Snapshot ID: `MTY0MDMxNTU3MCwwMDAwMDAwMGYzOGQ4NmZmZDQ2ZDA0ZjExNjRmZjdhNmY2NzcwM2Vi`
+Snapshot ID: `MTY0MDMyNDIwMiwwMDAwMDAwMGYzOGQ4NmZmZDQ2ZDA0ZjExNjRmZjdhNmY2NzcwM2Vi`

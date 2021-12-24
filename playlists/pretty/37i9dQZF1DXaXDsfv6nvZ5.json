@@ -1,7 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
-  "snapshot_id": "MTY0MDMxNTc4MCwwMDAwMDAwMDEyMTJkZDg5ZjVmZDY0ZmY5ZGMwMzkzMTNiY2RkYjIy",
+  "num_followers": 675830,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQwNCwwMDAwMDAwMDEyMTJkZDg5ZjVmZDY0ZmY5ZGMwMzkzMTNiY2RkYjIy",
   "tracks": [
     {
       "added_at": "2021-12-03 20:18:46",

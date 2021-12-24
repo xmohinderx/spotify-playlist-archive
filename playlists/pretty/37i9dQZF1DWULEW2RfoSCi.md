@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the hottest soul tracks from the 1970s.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,600 likes - 85 songs - 6 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Stay Together](https://open.spotify.com/track/3uJ8zHRASayItvcSRh8TIm) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [We Are Marshall Soundtrack](https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x) | 3:18 |
@@ -92,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 84 | [Enjoy Yourself](https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 3:24 |
 | 85 | [TSOP \(The Sound of Philadelphia\)](https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:47 |
 
-Snapshot ID: `MTY0MDMxNTUyMSwwMDAwMDAwMDg4M2EyMTEyZTE5ZGMwODEzNmJhYmNiOWE1OGIwYTI3`
+Snapshot ID: `MTY0MDMyNDE1MywwMDAwMDAwMDg4M2EyMTEyZTE5ZGMwODEzNmJhYmNiOWE1OGIwYTI3`

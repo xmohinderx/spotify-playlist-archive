@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
+[Spotify](https://open.spotify.com/user/spotify) - 321,186 likes - 150 songs - 9 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nostalgia](https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Nostalgia](https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S) | 3:49 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 149 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/6rKfnpSyHhdVrukCPZT3hK) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6ke1877tfbBGWSlHFwxomE) | 3:02 |
 | 150 | [The Question](https://open.spotify.com/track/6IfxNYJWYBaaDxCN8FWehD) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [The Question](https://open.spotify.com/album/23mIlnYbJwmFiqZi9SW5aZ) | 4:52 |
 
-Snapshot ID: `MTY0MDMxNTU5OCwwMDAwMDAwMDcxMDk3ZWNhOTdhZDY5ZDM2MmRkYTZmNThjZGMzZWM4`
+Snapshot ID: `MTY0MDMyNDIyOSwwMDAwMDAwMDcxMDk3ZWNhOTdhZDY5ZDM2MmRkYTZmNThjZGMzZWM4`

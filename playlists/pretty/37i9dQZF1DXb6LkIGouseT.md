@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 185,075 likes - 59 songs - 4 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ancestral Home](https://open.spotify.com/track/4tje4fnMPax750yTZ56wWp) | [R\. Carlos Nakai](https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1) | [Canyon Trilogy](https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp) | 4:52 |

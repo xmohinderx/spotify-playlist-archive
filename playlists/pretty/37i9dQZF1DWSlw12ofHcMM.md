@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > Bold tracks packing some serious swagger...
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,342,218 likes - 110 songs - 6 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Way I Do](https://open.spotify.com/track/60DjyiAXyLzZpDjdOWFQEc) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [The Way I Do](https://open.spotify.com/album/1hoDdW5RmBvRbdR6yD4krb) | 4:03 |

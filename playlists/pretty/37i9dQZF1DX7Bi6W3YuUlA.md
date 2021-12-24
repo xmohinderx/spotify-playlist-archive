@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Canon
 
+[Spotify](https://open.spotify.com/user/spotify) - 113,742 likes - 80 songs - 4 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reasons](https://open.spotify.com/track/1JnLTx6HzwbLpslHe8WuAW) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Reasons](https://open.spotify.com/album/1MBqLO9XLipfFfYGbZx8mt) | 3:27 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Limelight](https://open.spotify.com/track/67eJisNpkndo9Zkowt7M7V) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Limelight](https://open.spotify.com/album/4ib84EXUEayuXlTVdZL3Wq) | 2:13 |
 | 80 | [I'm On](https://open.spotify.com/track/09qBcLW6vvjFfLA2YcUnL7) | [FLAME](https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [DayBreak](https://open.spotify.com/album/7q1AIaKh9ra0z3CBqThtOK) | 2:43 |
 
-Snapshot ID: `MTY0MDMxNTcyNywwMDAwMDAwMDRhNmMwYzQ4NzVkYTEyOGJlOTg1MTUxZWFmMTc4NGEz`
+Snapshot ID: `MTY0MDMyNDM1MywwMDAwMDAwMDRhNmMwYzQ4NzVkYTEyOGJlOTg1MTUxZWFmMTc4NGEz`

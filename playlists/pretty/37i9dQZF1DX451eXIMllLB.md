@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX451eXIMllLB.md) - [plain]
 
 > Odes to springtime...
 
+[Spotify](https://open.spotify.com/user/spotify) - 7,455 likes - 33 songs - 33 min 50 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Primary Colour](https://open.spotify.com/track/1pOMXPPXZRivj6S0lqaAKZ) | [The Unthanks](https://open.spotify.com/artist/1luY92PbdGWRyBRY1ZR7o1) | [Diversions, Vol\. 4: The Songs and Poems of Molly Drake \- Extras](https://open.spotify.com/album/2Q69Zt8V02nzWNTtmx3jCz) | 0:18 |

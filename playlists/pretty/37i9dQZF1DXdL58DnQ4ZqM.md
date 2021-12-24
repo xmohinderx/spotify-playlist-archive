@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.
 
+[Spotify](https://open.spotify.com/user/spotify) - 168,455 likes - 100 songs - 6 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'm Alone With You](https://open.spotify.com/track/7DzWykiFt2TLbgD3htc8v9) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Last Reef](https://open.spotify.com/album/4CYMfSR3hq77WpPwy8XMPT) | 5:24 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 99 | [Nocturne No 20 \- Chill With Me Mix](https://open.spotify.com/track/2cGPrSLattyj0N1FToPcmz) | [The Upstairs](https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC) | [Nocturne No 20 \(Chill with me mix\)](https://open.spotify.com/album/2YWGI9WpJz6VbHp8rLCE4y) | 4:30 |
 | 100 | [Skydiving](https://open.spotify.com/track/61avTFNU8w8W6I358eMhUl) | [Siam Roof](https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8) | [VERTIGO](https://open.spotify.com/album/2uEL0rKaaX5X9G8qfQGL48) | 4:43 |
 
-Snapshot ID: `MTY0MDMxNTgxNywwMDAwMDAwMGJmNDQyYTQxMDkyN2I0ODE3ZDU0YTRiYmRmZDU0Y2Nm`
+Snapshot ID: `MTY0MDMyNDQ0MCwwMDAwMDAwMGJmNDQyYTQxMDkyN2I0ODE3ZDU0YTRiYmRmZDU0Y2Nm`

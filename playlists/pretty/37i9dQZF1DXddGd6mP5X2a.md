@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddGd6mP5X2a.md) - [plain]
 
 > 100 of the greatest orchestral works\. From early Handel to contemporary Ligeti and Górecki\. Monumental and romantic with Bruckner and Strauss\. Classical symphonies by Beethoven and Mozart\. Elegant orchestration by Mahler and Ravel.
 
+[Spotify](https://open.spotify.com/user/spotify) - 151,479 likes - 100 songs - 20 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Symphony No\. 3 in A Minor, Op\. 56, MWV N 18 "Scottish": 4\. Allegro vivacissimo \- Allegro maestoso assai](https://open.spotify.com/track/0fIBz9zLZGqrCMaAUskhk2) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Peter Maag](https://open.spotify.com/artist/5bBulPVoQuw4lzargujOvI) | [Mendelssohn in Scotland](https://open.spotify.com/album/47rGmuTbcsdAzRmyTlOvUp) | 9:36 |

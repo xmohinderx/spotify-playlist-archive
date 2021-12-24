@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 
 > The perfect noughties blend.
 
+[Spotify](https://open.spotify.com/user/spotify) - 793,769 likes - 50 songs - 3 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/1cyL9ssJ8ga8HOsiX2iMx1) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Pure..\. 2000s Party](https://open.spotify.com/album/13WlQvCxVKxRu0CIJmFWa0) | 4:18 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 | 49 | [The Special Two](https://open.spotify.com/track/3gsTKUJtPlWyvjTHdpZOnu) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Special Two EP](https://open.spotify.com/album/2ywgd0AdqFNNwfNqX6k4Br) | 4:25 |
 | 50 | [You Found Me](https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:01 |
 
-Snapshot ID: `MTY0MDMxNTU5OCwwMDAwMDAwMDYzMTZjNGE2ZmIzYmE2MTNmMzczMTAwNjE0NmNjODM3`
+Snapshot ID: `MTY0MDMyNDIyOSwwMDAwMDAwMDYzMTZjNGE2ZmIzYmE2MTNmMzczMTAwNjE0NmNjODM3`

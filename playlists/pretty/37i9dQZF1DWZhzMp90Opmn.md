@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
+[Spotify](https://open.spotify.com/user/spotify) - 102,094 likes - 122 songs - 5 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pink Noise for Studying](https://open.spotify.com/track/682hafiLy06GDQyWT74WnG) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Pink Noise for Studying](https://open.spotify.com/album/7LF4enxQrH9dDfe5ne5u24) | 2:50 |

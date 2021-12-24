@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSPqolnbHgK.md) - [plain]
 
 > With autumn comes darker days and colder weather.
 
+[Spotify](https://open.spotify.com/user/spotify) - 58,079 likes - 134 songs - 9 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paradis sur Terre](https://open.spotify.com/track/5jTkeZUvk2b2yVRG12cN6q) | [Lounge De Reveur](https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2) | [La Lumière](https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej) | 5:00 |

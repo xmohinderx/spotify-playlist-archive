@@ -1,7 +1,12 @@
 {
   "description": "emo feels for the misunderstood. remembering Juice WRLD.",
   "name": "tear drop",
-  "snapshot_id": "MTY0MDMxNTcyMywwMDAwMDAwMDdhZGQ2MDliZmNlNDJmYjA5M2JmZmFkNzQ2MjA1NTU5",
+  "num_followers": 1137825,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM1MCwwMDAwMDAwMDdhZGQ2MDliZmNlNDJmYjA5M2JmZmFkNzQ2MjA1NTU5",
   "tracks": [
     {
       "added_at": "2021-09-17 05:36:45",

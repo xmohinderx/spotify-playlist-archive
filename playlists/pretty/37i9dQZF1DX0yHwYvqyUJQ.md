@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yHwYvqyUJQ.md) - [plain]
 
 > Learn Italian with a collection of audio courses that will take you from beginner lessons and travel necessities to advanced conversations.
 
+[Spotify](https://open.spotify.com/user/spotify) - 70,306 likes - 608 songs - 2 day 5 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [01 Welcome & Italian Greetings](https://open.spotify.com/track/2TkWQVifnNeuBjj94lpo6F) | [Let's Learn Italian!](https://open.spotify.com/artist/7I1sJRgOUpWlD4vqSUnWmb) | [Easy Italian Audio Course for Beginners, Vol\. 1](https://open.spotify.com/album/28CNAaIZbQO4I1zaALSpeF) | 2:37 |

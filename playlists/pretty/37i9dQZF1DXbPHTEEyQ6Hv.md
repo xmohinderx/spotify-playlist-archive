@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
+[Spotify](https://open.spotify.com/user/spotify) - 585,149 likes - 89 songs - 4 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Christmas Song \(arr\. piano\)](https://open.spotify.com/track/4bcrfPo51Gy2OGF37J9ysl) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [What Child Is This? \(arr\. Piano\) / The Christmas Song \(arr\. Piano\)](https://open.spotify.com/album/3ENsfMFIOKEoW5VOMo8NCl) | 4:10 |

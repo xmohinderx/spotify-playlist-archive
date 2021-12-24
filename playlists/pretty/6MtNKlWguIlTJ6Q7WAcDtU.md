@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6MtNKlWguIlTJ6Q7WAcDtU.md) - [plain]
 
 > Get through your workday with 8 hours of country music.
 
+[Spotify](https://open.spotify.com/user/spotify) - 672 likes - 181 songs - 11 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Songs About Trucks](https://open.spotify.com/track/1NJFtyJJVpwOmPVeE886Hb) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Songs About Trucks](https://open.spotify.com/album/7y0lSs1GsC7bxwVoEy0wVe) | 3:21 |

@@ -1,7 +1,12 @@
 {
   "description": "A relaxing atmosphere of jazz piano sounds.",
   "name": "The Piano Bar",
-  "snapshot_id": "MTY0MDMxNTU0MCwwMDAwMDAwMDFmYjRlOTI2MGZkZDZhNWZlYTVkYjEwZWJjZDNlNjQx",
+  "num_followers": 559620,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE3MSwwMDAwMDAwMDFmYjRlOTI2MGZkZDZhNWZlYTVkYjEwZWJjZDNlNjQx",
   "tracks": [
     {
       "added_at": "2021-12-14 08:40:32",

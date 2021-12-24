@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0RTz1jFo5BXGPfI8eVf8sj.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 100 songs - 6 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [That Don't Impress Me Much](https://open.spotify.com/track/1bvsVJDGG7bXsvGKfwM3yV) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8) | 3:55 |

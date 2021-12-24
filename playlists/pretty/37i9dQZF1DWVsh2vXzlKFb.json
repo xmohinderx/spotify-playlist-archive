@@ -1,7 +1,12 @@
 {
   "description": "Indie tunes for t-shirt weather.",
   "name": "Summer Indie",
-  "snapshot_id": "MTY0MDMxNTUzOSwwMDAwMDAwMDQ5NmQ1NGIzNDU3NjI1OTg0NWU4Y2U5MWFkMDdkNzg3",
+  "num_followers": 250408,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDE3MCwwMDAwMDAwMDQ5NmQ1NGIzNDU3NjI1OTg0NWU4Y2U5MWFkMDdkNzg3",
   "tracks": [
     {
       "added_at": "2021-08-13 14:41:04",

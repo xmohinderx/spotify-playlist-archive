@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
+[Spotify](https://open.spotify.com/user/spotify) - 219,209 likes - 80 songs - 4 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Higher](https://open.spotify.com/track/7KMIMHMUV8kZJmeX8F7zuN) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ), [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Higher](https://open.spotify.com/album/2FGydD8obP61PUKLoFXFL9) | 3:34 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [Sure Don't Miss You](https://open.spotify.com/track/4afpgzmy9O1JB3Vovb3qb0) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/4pRCXsCz9B7zkeNimzPyNE) | 2:54 |
 | 80 | [PINK FAMILY](https://open.spotify.com/track/0B2uxDcDlrhe2HU2vmdJST) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:32 |
 
-Snapshot ID: `MTY0MDMxNTcxNywwMDAwMDAwMDExOWZhNjhiYTZiNzQ5M2FjMmY1ZWZlNGE1MDVkYmQy`
+Snapshot ID: `MTY0MDMyNDM0NCwwMDAwMDAwMDExOWZhNjhiYTZiNzQ5M2FjMmY1ZWZlNGE1MDVkYmQy`

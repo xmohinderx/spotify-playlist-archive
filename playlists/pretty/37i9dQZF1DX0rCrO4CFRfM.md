@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 763,924 likes - 50 songs - 3 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [7 \- Acoustic](https://open.spotify.com/track/0ZObDSV7QWyu0Zdinf61Mq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/3918b6TP7PXvhRrJj0SevW) | 4:12 |
 | 50 | [Swing Life Away](https://open.spotify.com/track/47rhzvn0ZOqmikVdebaWMe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Punk Goes Acoustic](https://open.spotify.com/album/4zwLMQG4BcM0FpoAthwOa9) | 2:26 |
 
-Snapshot ID: `MTY0MDMxNTYxMywwMDAwMDAwMDlmYzg3ZmExODQzYWQ3NjgyYzY1ZDMxN2M2ZjNmZTI0`
+Snapshot ID: `MTY0MDMyNDI0MywwMDAwMDAwMDlmYzg3ZmExODQzYWQ3NjgyYzY1ZDMxN2M2ZjNmZTI0`

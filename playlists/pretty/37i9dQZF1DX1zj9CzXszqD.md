@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zj9CzXszqD.md) - [plain]
 
 > A collection of the essential Status Quo songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 56,542 likes - 38 songs - 2 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Down Down \- Single Version](https://open.spotify.com/track/44GoyqqtjCjAhKAjKwmo9M) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Classic](https://open.spotify.com/album/76EMCm568vH0ppdbuUSlGb) | 3:49 |

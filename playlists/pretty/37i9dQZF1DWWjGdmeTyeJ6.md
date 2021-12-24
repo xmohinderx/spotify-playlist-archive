@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > We will be back in 2022 with more of the best new music by independent artists and independent labels\. Cover: EMMY, Artwork: Isu Kim
 
+[Spotify](https://open.spotify.com/user/spotify) - 872,480 likes - 82 songs - 4 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [peon](https://open.spotify.com/track/2pRIFvnmGp8swkjRKmL9H6) | [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E) | [peon](https://open.spotify.com/album/5SAq4DdwbqQkt2bNNqpOsr) | 3:42 |

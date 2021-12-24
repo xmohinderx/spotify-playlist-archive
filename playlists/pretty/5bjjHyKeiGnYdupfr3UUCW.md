@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5bjjHyKeiGnYdupfr3UUCW.md) - [plain]
 
 > Ten hours of ultimate jams —all long, all live.
 
+[Spotify](https://open.spotify.com/user/spotify) - 112 likes - 43 songs - 10 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Money Love and Change](https://open.spotify.com/track/4bMvmEgBru7mkeu64dOLsj) | [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [TAB at the TAB](https://open.spotify.com/album/4TWcRTiZcYCvZa11xBwSKs) | 10:35 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 
 > That’s how its supposed to be\. Living young, wild and free!
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,741,176 likes - 100 songs - 5 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 99 | [All Good](https://open.spotify.com/track/72BD25yh1nZAsTHbDG2LAU) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [All Good](https://open.spotify.com/album/7Gc3XMtd1TTxnkMhz0N3Z6) | 2:47 |
 | 100 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 |
 
-Snapshot ID: `MTY0MDMxNTczOSwwMDAwMDAwMDc2ZWIwNjA2MzViZmEwN2Y5ODQ1NTQ5Y2QwNGZjNGRm`
+Snapshot ID: `MTY0MDMyNDM2NCwwMDAwMDAwMDc2ZWIwNjA2MzViZmEwN2Y5ODQ1NTQ5Y2QwNGZjNGRm`

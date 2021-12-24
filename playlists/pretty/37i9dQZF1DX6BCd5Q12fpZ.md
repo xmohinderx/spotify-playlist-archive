@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show.
 
+[Spotify](https://open.spotify.com/user/spotify) - 49,252 likes - 40 songs - 1 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fairytale](https://open.spotify.com/track/2htdOgnrPTVGlXJ2cqhiNx) | [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Eurovision Song Contest Moscow 2009](https://open.spotify.com/album/30kwbl8uJa8YiY9WMLP4kS) | 3:03 |
@@ -47,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 39 | [Takes 2 To Tango](https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP) | [Jari Sillanpää](https://open.spotify.com/artist/6pNVccgyfPKwhKeyPlCPmv) | [Albumi](https://open.spotify.com/album/6zu7ipmaYCsYjzFwwli2zL) | 3:01 |
 | 40 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Σάκης Ρουβάς](https://open.spotify.com/artist/7wOekrpQxZoEXazNqJuIzt) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 
-Snapshot ID: `MTY0MDMxNTcxMCwwMDAwMDAwMGQ5Mzc0ZWNjYTg2YmU2NjcxYjhiMDliMDVkNzcyMGU2`
+Snapshot ID: `MTY0MDMyNDMzNywwMDAwMDAwMGQ5Mzc0ZWNjYTg2YmU2NjcxYjhiMDliMDVkNzcyMGU2`

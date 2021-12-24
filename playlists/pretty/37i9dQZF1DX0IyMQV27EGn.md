@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and dark, alluring siren songs\. Cover: Ashley Monroe
 
+[Spotify](https://open.spotify.com/user/spotify) - 582,000 likes - 70 songs - 4 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Long Time Coming](https://open.spotify.com/track/6YAkFtK9h8tUZnD2d2rUBS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Long Time Coming](https://open.spotify.com/album/3J6T1p3jr7Utxr2B3Gr9nE) | 3:24 |
@@ -77,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
 | 70 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 
-Snapshot ID: `MTY0MDMxNTYwMiwwMDAwMDAwMDY5MWFhNDgzYzMwODEyMTMwOWUwOWQ0YjZmOGYwMzg2`
+Snapshot ID: `MTY0MDMyNDIzMywwMDAwMDAwMDY5MWFhNDgzYzMwODEyMTMwOWUwOWQ0YjZmOGYwMzg2`

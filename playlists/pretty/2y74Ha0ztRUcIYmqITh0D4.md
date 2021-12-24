@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2y74Ha0ztRUcIYmqITh0D4.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 25 songs - 1 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Figure It Out](https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:03 |

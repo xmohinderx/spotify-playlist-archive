@@ -1,6 +1,11 @@
 {
   "description": "It's Elmo's time to shine!",
   "name": "We Love Elmo!",
+  "num_followers": 166,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTAsNDdjNzgyZmQ0OTc2NDk0ODA1ODIxZTIxNzI1NDk2OTY5YzcxM2ExOQ==",
   "tracks": [
     {

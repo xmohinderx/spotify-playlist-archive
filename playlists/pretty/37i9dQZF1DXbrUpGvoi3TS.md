@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,997,398 likes - 100 songs - 5 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [Where's My Love](https://open.spotify.com/track/7q4Mxzem6AYv6zKSE2fMvK) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/3LNj41QGPZ1ViALDXdAZFS) | 4:08 |
 | 100 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 
-Snapshot ID: `MTY0MDMxNTc5NywwMDAwMDAwMDlkYTkwYzM3MWM4YWRmNjgyNDdkMWFkN2ExYmM4Njc4`
+Snapshot ID: `MTY0MDMyNDQyMSwwMDAwMDAwMDlkYTkwYzM3MWM4YWRmNjgyNDdkMWFkN2ExYmM4Njc4`

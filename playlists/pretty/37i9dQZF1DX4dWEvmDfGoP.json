@@ -1,6 +1,11 @@
 {
   "description": "An essential introduction to Raffi.",
   "name": "This Is Raffi",
+  "num_followers": 56039,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzOTA2NjkwNywwMDAwMDAwZTAwMDAwMTdkYTAwMDMzMTcwMDAwMDE3MzI0M2Y0MWY5",
   "tracks": [
     {

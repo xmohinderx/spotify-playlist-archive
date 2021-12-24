@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
+[Spotify](https://open.spotify.com/user/spotify) - 850,878 likes - 75 songs - 4 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Low Down Dirty](https://open.spotify.com/track/7Gutanf1Mf2r8ASTlrR5ku) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Last of a Dyin' Breed \(Special Edition\)](https://open.spotify.com/album/4rRCrcBlh0Io9edrPT0oxd) | 3:14 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [The Final Judgement](https://open.spotify.com/track/575p98PlfvYFjJfWRurBoP) | [SoulHealer](https://open.spotify.com/artist/0VsQutZIxNAMtGanrBGdRd) | [The Final Judgement](https://open.spotify.com/album/1IEhlmsYMCbJQxjkkeWX12) | 4:11 |
 | 75 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
 
-Snapshot ID: `MTY0MDMxNTU4OSwwMDAwMDAwMDdjNDc1NTc1MjA2OWU1MmFjNjVmZGM3ZDc5MTFlMDVk`
+Snapshot ID: `MTY0MDMyNDIyMCwwMDAwMDAwMDdjNDc1NTc1MjA2OWU1MmFjNjVmZGM3ZDc5MTFlMDVk`

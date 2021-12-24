@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1YGlW3ovCv9Vek4CPnV0mZ.md) - [plain]
 
 > There's no greater feeling than love, which means that it requires great music\. Here is a collection of some of the most breathtaking ballads about love.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,482 likes - 41 songs - 2 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Have I Told You Lately?](https://open.spotify.com/track/5Q158FOSXx1GvNAgOwTzQU) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [At The Movies \- Soundtrack Hits](https://open.spotify.com/album/6QNfQljmpW1rAPAvdXQ0He) | 4:21 |

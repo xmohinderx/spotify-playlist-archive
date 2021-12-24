@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
+[Spotify](https://open.spotify.com/user/spotify) - 27,422 likes - 60 songs - 5 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kinderszenen, Op.15: 7\. Träumerei](https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Schumann: Kreisleriana; Kinderszenen; Fantasiestücke](https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW) | 2:30 |

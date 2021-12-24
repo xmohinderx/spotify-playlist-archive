@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5ahhg3aywppGeJs8tXvZOo.md) - [plain]
 
 > Fresh takes on all of your favorite standards.
 
+[Spotify](https://open.spotify.com/user/spotify) - 74 likes - 25 songs - 1 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 |

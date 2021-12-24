@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/01WIu4Rst0xeZnTunWxUL7.md) - [plain]
 
 > Go beyond the music with audio documentaries, rare interviews, and behind the scenes biographies of famous and influential artists and bands.
 
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 65 songs - 21 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Orange Audio Documentary: George Harrison \- The Quiet One](https://open.spotify.com/track/4yxmAb37HzqEq88fBFQ78C) | [Orange](https://open.spotify.com/artist/1X3SuetQPh7FgfvKOndj4T) | [Orange Audio Documentary: George Harrison \- The Quiet One](https://open.spotify.com/album/3BQLRuHCGlB8hCJKkRMU7U) | 57:05 |

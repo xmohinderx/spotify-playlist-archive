@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6jbGdICAmvGjlURC1gcgRe.md) - [plain]
 
 > Jazzy soul and rnb ballads to wake you up and lift your mood...
 
+[Spotify](https://open.spotify.com/user/spotify) - 139 likes - 30 songs - 1 hr 57 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Get Lifted](https://open.spotify.com/track/2S3osqN6ruuoAg1kUvf7u4) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV) | 3:37 |

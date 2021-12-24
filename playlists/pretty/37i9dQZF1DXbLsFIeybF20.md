@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
+[Spotify](https://open.spotify.com/user/spotify) - 134,277 likes - 50 songs - 3 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Take It To The Street](https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Take It To The Street](https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM) | 4:19 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 |
 | 50 | [Milenberg Joys](https://open.spotify.com/track/4pq3ZXHF7EXTFkEae0suZZ) | [Lu Watters](https://open.spotify.com/artist/3vCSKqDwmD2rf9v4t1hhwv) | [The Ultimate Jazz Archive 8 \- Jacks Hit The Road \(1 Of 4\)](https://open.spotify.com/album/7LLJ7dgXSj7NIVfMVOqeIT) | 3:25 |
 
-Snapshot ID: `MTY0MDMxNTc5MSwwMDAwMDAwMGY2ODZlMGIyOGNlMTY1MDUyNWU4NjQ3OTRlMmU4MTNk`
+Snapshot ID: `MTY0MDMyNDQxNSwwMDAwMDAwMGY2ODZlMGIyOGNlMTY1MDUyNWU4NjQ3OTRlMmU4MTNk`

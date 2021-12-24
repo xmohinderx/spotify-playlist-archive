@@ -1,7 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home with 8 hours of music to carry you through the day.",
   "name": "Work From Home",
-  "snapshot_id": "MTY0MDMxNTUwOCwwMDAwMDAwMDc0YTUzMjVjMmI4Zjg5ZGU4NDdhMDMyMTU4NjY4ZGQ1",
+  "num_followers": 885455,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDEzOSwwMDAwMDAwMDc0YTUzMjVjMmI4Zjg5ZGU4NDdhMDMyMTU4NjY4ZGQ1",
   "tracks": [
     {
       "added_at": "2021-06-07 17:28:18",

@@ -1,7 +1,12 @@
 {
   "description": "Rock to relax. Enjoy!",
   "name": "Modern Chill Rock",
-  "snapshot_id": "MTY0MDMxNTY0MywwMDAwMDAwMGNmNmU1MjRkOWVmODY5MWU2ODVkYTYzMGUxMDM1ZTlm",
+  "num_followers": 536650,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3MiwwMDAwMDAwMGNmNmU1MjRkOWVmODY5MWU2ODVkYTYzMGUxMDM1ZTlm",
   "tracks": [
     {
       "added_at": "2021-11-03 09:18:01",

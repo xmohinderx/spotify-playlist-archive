@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5Dn14a8hNIhT3NLLjUUBGL.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 74 songs - 4 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 |

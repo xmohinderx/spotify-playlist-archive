@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 
 > Songs from the old country: the essential traditional Irish ballads.
 
+[Spotify](https://open.spotify.com/user/spotify) - 233,987 likes - 50 songs - 3 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Fields Of Athenry](https://open.spotify.com/track/3BPcgBQKNJnwLjcwXNPyx0) | [Paddy Reilly](https://open.spotify.com/artist/1XIifqPXfWSoTQfrcuXXtX) | [The Fields Of Athenry](https://open.spotify.com/album/2xHoni5Sdk23qiQniBWUQu) | 4:40 |

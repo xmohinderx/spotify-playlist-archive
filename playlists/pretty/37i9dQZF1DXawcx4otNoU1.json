@@ -1,7 +1,12 @@
 {
   "description": "This is the perfect playlist for those cozy moments.",
   "name": "Spooning",
-  "snapshot_id": "MTY0MDMxNTc4NSwwMDAwMDAwMGExN2EyNDZkOThhZjUyNDM2NGRlZWNkYWEyMTJkNTFh",
+  "num_followers": 326935,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQwOSwwMDAwMDAwMGExN2EyNDZkOThhZjUyNDM2NGRlZWNkYWEyMTJkNTFh",
   "tracks": [
     {
       "added_at": "2021-10-26 11:16:20",

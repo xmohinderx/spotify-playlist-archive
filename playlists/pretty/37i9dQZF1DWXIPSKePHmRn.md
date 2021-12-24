@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIPSKePHmRn.md) - [plain]
 
 > Remembering the amazing <a href="spotify:artist:6LufpoVlIYKQCu9Gjpk8B7">artist</a> \(1956–2016\)\. You will be missed.
 
+[Spotify](https://open.spotify.com/user/spotify) - 39,227 likes - 30 songs - 1 hr 42 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heaven Bound](https://open.spotify.com/track/1TXehAgqMtwiS0u12H38Qp) | [Sharon Jones](https://open.spotify.com/artist/59O57msePcyTge2k7MzmlT), [E.L\. Fields Gospel Wonders](https://open.spotify.com/artist/4zpVJY5AEUCYBh8K9aIWJn) | [Heaven Bound / Key to the Kingdom](https://open.spotify.com/album/4kuXNtR1Mph47MIN4gHOXA) | 2:04 |

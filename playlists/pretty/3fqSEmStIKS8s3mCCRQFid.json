@@ -1,6 +1,11 @@
 {
   "description": "Enjoy a sun-dappled stroll to these folksy, mid-tempo gems.",
   "name": "Into the Woods",
+  "num_followers": 950,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "NTIsNjVhNGRlMDEwY2Y5YTUzYTdkYTJlYmQyNjU3MGMzNTUyMjVlMzBjZQ==",
   "tracks": [
     {

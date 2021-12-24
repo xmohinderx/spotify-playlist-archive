@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4MLFX9OXy9ncfBlTfei9Ok.md) - [plain]
 
 > &quot;Sleep is the best meditation.&quot; \-Dalai Lama
 
+[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 34 songs - 3 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tomorrow's Song](https://open.spotify.com/track/3Cf47MOQsa3ijid90gr5Io) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 2:57 |

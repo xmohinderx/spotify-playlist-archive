@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
+[Spotify](https://open.spotify.com/user/spotify) - 562,949 likes - 50 songs - 2 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Afterlife](https://open.spotify.com/track/42dLRNmTqdwPZIiG0NRBWH) | [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Afterlife](https://open.spotify.com/album/7ziMuGcC9aJh8HCHQltupF) | 3:14 |
 | 50 | [Keep It Moving](https://open.spotify.com/track/3R4IFsTuDOR7XEt2Tl2iuR) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Keep It Moving](https://open.spotify.com/album/14hGabBtdr3gLQaKyT50F0) | 3:00 |
 
-Snapshot ID: `MTY0MDMxNTQ5MiwwMDAwMDAwMDliNjQwMGI3MGQxOTcxMzE0ODc1MDM2OTNkMjdkNDRh`
+Snapshot ID: `MTY0MDMyNDEyNSwwMDAwMDAwMDliNjQwMGI3MGQxOTcxMzE0ODc1MDM2OTNkMjdkNDRh`

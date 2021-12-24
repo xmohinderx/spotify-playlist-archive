@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9DmOVVVkdh.md) - [plain]
 
 > This story collection is sure to please even the biggest animal lover!
 
+[Spotify](https://open.spotify.com/user/spotify) - 60,687 likes - 42 songs - 4 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just So Stories: How the Whale Got His Throat](https://open.spotify.com/track/17AnhTNxDc1fc15rcCsCYq) | [Rudyard Kipling](https://open.spotify.com/artist/5uNTrZ1JlKsnpTeFyKWPYO), [Ralph Fiennes](https://open.spotify.com/artist/3pZ60MK5NPuXtBVJx1OkbN) | [Fiennes, Ralph: Kipling](https://open.spotify.com/album/1UMRkrYSzqH3tH3yCauNOW) | 5:56 |

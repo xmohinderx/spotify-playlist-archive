@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmUJqjFaQNQ.md) - [plain]
 
 > A collection of classic short stories perfect for a lazy afternoon or relaxing commute.
 
+[Spotify](https://open.spotify.com/user/spotify) - 24,345 likes - 65 songs - 17 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In The Morning](https://open.spotify.com/track/1dxCB2G5CCwHiGxb4jEXKt) | [Cillian Murphy](https://open.spotify.com/artist/7hGvL6xgipAEutgDhyk5XB) | [Late Night Tales Nils Frahm](https://open.spotify.com/album/7w4ibVLYJdUeiRCuWc3zmK) | 7:05 |

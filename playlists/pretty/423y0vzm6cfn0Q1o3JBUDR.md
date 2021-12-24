@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/423y0vzm6cfn0Q1o3JBUDR.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 136 likes - 29 songs - 1 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/4za3cYXGP5ucaA6LqWMPad) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Single Ladies \(Put A Ring On It\) \- Dance Remixes](https://open.spotify.com/album/4zOrfDLtKoYFeUAc00lLCT) | 3:13 |

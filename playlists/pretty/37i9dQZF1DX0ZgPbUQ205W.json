@@ -1,7 +1,12 @@
 {
   "description": "Relaxing sounds of modern jazz.",
   "name": "Calming Jazz",
-  "snapshot_id": "MTY0MDMxNTYwOSwwMDAwMDAwMDAyYTFiNGFmNzQ4ZGI3NjJlM2Y2Mjc3OTE1ZmM0NGU5",
+  "num_followers": 46362,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIzOSwwMDAwMDAwMDAyYTFiNGFmNzQ4ZGI3NjJlM2Y2Mjc3OTE1ZmM0NGU5",
   "tracks": [
     {
       "added_at": "2021-12-17 14:27:05",

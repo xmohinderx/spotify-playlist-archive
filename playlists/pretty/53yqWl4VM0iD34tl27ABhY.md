@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/53yqWl4VM0iD34tl27ABhY.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 30 songs - 1 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waiting Around To Die](https://open.spotify.com/track/3ulipeC36lUvRzPETyFlm9) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Chinatown](https://open.spotify.com/album/4DmIMhr8OwJGrYr8Gs7RuV) | 5:13 |

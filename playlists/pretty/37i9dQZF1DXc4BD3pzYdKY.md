@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The pulse of the best music and sounds in Christian Hip Hop\.  Cover: Lecrae and 1K Phew
 
+[Spotify](https://open.spotify.com/user/spotify) - 100,879 likes - 80 songs - 4 hr 8 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Church In A While](https://open.spotify.com/track/6yCdMEIrxBXwH2EfPYopnv) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [No Church In A While](https://open.spotify.com/album/2Xk39wTH3BV3VHoUKLvrJZ) | 2:59 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 79 | [TIDAL WAVE](https://open.spotify.com/track/7LiqwJEzsr7wt0Fdsylc4M) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TIDAL WAVE](https://open.spotify.com/album/1kqy6QTtfW2fglB0umPFms) | 3:53 |
 | 80 | [Victory \- Remix](https://open.spotify.com/track/4W1GYMpHYOpeK6iOkc6rfJ) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [Victory \(Remix\)](https://open.spotify.com/album/1bg46Fc29HfDQi2SxHc80F) | 3:50 |
 
-Snapshot ID: `MTY0MDMxNTgwMCwwMDAwMDAwMDk5MzQ3YzM0NjI2YWYwYWY5Y2Y1OGRlZGQxZGU1ODQy`
+Snapshot ID: `MTY0MDMyNDQyNCwwMDAwMDAwMDk5MzQ3YzM0NjI2YWYwYWY5Y2Y1OGRlZGQxZGU1ODQy`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Noodle said it's a <a href="https://www.tiktok.com/@jongraz?">no bones day</a>, and we're with him.
 
+[Spotify](https://open.spotify.com/user/spotify) - 556,522 likes - 75 songs - 4 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lancaster Nights](https://open.spotify.com/track/48jV8AW50589btXi0Hs5f4) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Lancaster Nights](https://open.spotify.com/album/6VjvYY8DPNwlybF40UyrCl) | 3:10 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 74 | [Neil Young on High](https://open.spotify.com/track/58q9HQ973MIbexDlnIsWQT) | [The Ophelias](https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Neil Young on High](https://open.spotify.com/album/1S0sGRopjEF7cQ7HfTJF7P) | 3:07 |
 | 75 | [Timing](https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z) | [Alisa Amador](https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t) | [Timing](https://open.spotify.com/album/2ir7m3wyTiUiP0vksnZT0p) | 3:34 |
 
-Snapshot ID: `MTY0MDMxNTcyMSwwMDAwMDAwMGM0ZGRiYWE5MDAxZTU5OWNlOTAyOTkyYjhkMWViZDJm`
+Snapshot ID: `MTY0MDMyNDM0OCwwMDAwMDAwMGM0ZGRiYWE5MDAxZTU5OWNlOTAyOTkyYjhkMWViZDJm`

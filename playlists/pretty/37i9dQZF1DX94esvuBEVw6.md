@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94esvuBEVw6.md) - [plain]
 
 > Celebrate 50 years of her iconic album, "Blue," alongside the very best songs of this songwriting icon.
 
+[Spotify](https://open.spotify.com/user/spotify) - 129,315 likes - 63 songs - 4 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 |

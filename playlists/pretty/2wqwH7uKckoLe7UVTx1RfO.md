@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2wqwH7uKckoLe7UVTx1RfO.md) - [plain]
 
 > Coast through the good life with these folksy and blissed out tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,712 likes - 78 songs - 4 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When The Tequila Runs Out](https://open.spotify.com/track/23Q4sMxgEKRXDMi62xPP5R) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Die](https://open.spotify.com/album/6bSJPJU1SRxm9RQ4Ox5sRe) | 4:44 |

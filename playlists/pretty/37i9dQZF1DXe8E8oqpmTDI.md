@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8E8oqpmTDI.md) - [plain]
 
 > Get weird with the <a href="spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM">indie maestro</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 174,594 likes - 30 songs - 1 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Another](https://open.spotify.com/track/7DhkhPPRsRtmjoVzTzGLJQ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/7nUB5er2UpBMraUXK2wWRj) | 2:46 |

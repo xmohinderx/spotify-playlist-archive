@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HTCmWbhewZ.md) - [plain]
 
 > The best of Irish history, poetry, and prose.
 
+[Spotify](https://open.spotify.com/user/spotify) - 7,597 likes - 121 songs - 6 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sean O'casey Discussing His Work \(1962\)](https://open.spotify.com/track/2uy8GlQFXMeaBJRFKR4rRL) | [Sean O'Casey](https://open.spotify.com/artist/5iKhP78vtuu9xqnzWI6P4h) | [Great Audio Moments, Vol.39: Famous Irish Writers](https://open.spotify.com/album/5ZmKSlzHr5Qv81zosaAUtp) | 16:04 |

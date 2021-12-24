@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3JqYduMX06DjhsJRBG4kN5.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 11 songs - 38 min 36 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What's the Point](https://open.spotify.com/track/1ky4XsA3yixgSKZL1ir0VD) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [What's the Point](https://open.spotify.com/album/2lnZ5vPQlnMo93EzWPrPPk) | 4:13 |

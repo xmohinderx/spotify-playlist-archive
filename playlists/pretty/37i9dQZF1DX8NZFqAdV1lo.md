@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NZFqAdV1lo.md) - [plain]
 
 > Some advice is best taken with a pillar of salt\. \[Warning: Explicit Content\]
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,553 likes - 26 songs - 1 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Simple Advice](https://open.spotify.com/track/3ueUV5NpPCEaUCqJGk6r3x) | [Dana Gould](https://open.spotify.com/artist/1e1hMHJbMgb1QNtBg2edHA) | [I Know It's Wrong](https://open.spotify.com/album/4q9QMLE1wH5aZrwETuFMeH) | 1:05 |

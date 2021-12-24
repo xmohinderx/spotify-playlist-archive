@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Remembering the voices that have always spoken truth to power.
 
+[Spotify](https://open.spotify.com/user/spotify) - 85,267 likes - 41 songs - 3 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Power to the People](https://open.spotify.com/track/6WIWwePtXmO2ECop98cNgy) | [Eldridge Cleaver](https://open.spotify.com/artist/6nxhRvqz0JgSi5oBxqHILh) | [Live At Syracuse, 1968](https://open.spotify.com/album/7GCsvxac90RKJ2DQm6SFYY) | 7:36 |

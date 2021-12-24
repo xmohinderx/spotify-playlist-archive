@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
+[Spotify](https://open.spotify.com/user/spotify) - 196,890 likes - 80 songs - 5 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wandering II](https://open.spotify.com/track/57YoIlL4U1khGfYI5JEBEk) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Wandering II](https://open.spotify.com/album/1R1FEi0CAGPN0cnSDQ6O6R) | 2:39 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 79 | [Abide](https://open.spotify.com/track/3sxGCOWEmIjANsv1xvynN7) | [minco eggersman](https://open.spotify.com/artist/2iWoQ1sXZrTGHb4FcMxz93), [Theodoor Borger](https://open.spotify.com/artist/3SAolv7NXrrWp6LHhdIwWm), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N), [UNIFONY](https://open.spotify.com/artist/7hy5ihiZ9aijrDdlF9Utc9) | [Abide](https://open.spotify.com/album/7d8l4p9vPp8rexEpqDfnYu) | 4:40 |
 | 80 | [Surges \(variation\)](https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Surges \(variation\)](https://open.spotify.com/album/2NYJCfJw0LhEwPccv3e9Fy) | 5:20 |
 
-Snapshot ID: `MTY0MDMxNTUwMSwwMDAwMDAwMGViNTZhMjJmM2RjNjQ3YmMzODg4Y2E5ZGVmNzJmNTVj`
+Snapshot ID: `MTY0MDMyNDEzMywwMDAwMDAwMGViNTZhMjJmM2RjNjQ3YmMzODg4Y2E5ZGVmNzJmNTVj`

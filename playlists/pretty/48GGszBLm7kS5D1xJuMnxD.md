@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/48GGszBLm7kS5D1xJuMnxD.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 50 songs - 2 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wooly Bully](https://open.spotify.com/track/3uh7qazPPBqagKUoZqNBny) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [Mad Men: A Musical Companion \(1960\-1965\)](https://open.spotify.com/album/0bsu7M7VJN8AheepyXeGza) | 2:19 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/653U7cDBXXkPZ07Xk8kxL6.md) - [plain]
 
 > As one of the most widely beloved entertainers of all\-time, Michael Jackson made an unforgettable imprint on popular music\. Here is a collection of some of his best tunes.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,489 likes - 27 songs - 2 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Billie Jean \- Single Version](https://open.spotify.com/track/6aLWY1Lax3ASlHzNAl2xRZ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/1x6guHfwvOGsIQgRK5v5p1) | 4:52 |

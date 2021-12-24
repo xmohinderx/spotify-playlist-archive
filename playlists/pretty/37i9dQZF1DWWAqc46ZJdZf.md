@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
+[Spotify](https://open.spotify.com/user/spotify) - 690,367 likes - 60 songs - 4 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Black America Again](https://open.spotify.com/track/2kDz1iMSOew9VSQkJNXXvV) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Black America Again](https://open.spotify.com/album/3o5v0FFVTDpVYrub1lnz2m) | 6:09 |
 | 60 | [Black Man](https://open.spotify.com/track/1srvtCGacXBFhjJtXi1ORs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [RaRa](https://open.spotify.com/artist/79Nr6koBmlFopWJrh9M4UN) | [Us Or Else: Letter To The System](https://open.spotify.com/album/4LE0rkWoiZV5ciq4UCzLia) | 4:42 |
 
-Snapshot ID: `MTY0MDMxNTU0MywwMDAwMDAwMDU4ZjRmMWIwMzljZmIxNzBiNWY1Y2QyNmM1OWNiN2Zh`
+Snapshot ID: `MTY0MDMyNDE3NCwwMDAwMDAwMDU4ZjRmMWIwMzljZmIxNzBiNWY1Y2QyNmM1OWNiN2Zh`

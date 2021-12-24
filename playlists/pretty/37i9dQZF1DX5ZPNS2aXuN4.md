@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZPNS2aXuN4.md) - [plain]
 
 > An introduction to the music of Bartok, Hungary's greatest composer.
 
+[Spotify](https://open.spotify.com/user/spotify) - 11,353 likes - 60 songs - 6 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piano Concerto No\. 2, Sz\. 95: I\. Allegro](https://open.spotify.com/track/6tEO7bieJDK8CAI0zplfu0) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z) | [Prokofiev & Bartók: Piano Concertos](https://open.spotify.com/album/1iF9gU2gIbIvWZLUeAqILU) | 10:10 |

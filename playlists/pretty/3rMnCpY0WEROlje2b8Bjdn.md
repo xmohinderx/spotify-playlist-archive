@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3rMnCpY0WEROlje2b8Bjdn.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 464 likes - 69 songs - 3 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tonight You Belong to Me](https://open.spotify.com/track/1O8OhbREnkZiwSBABW3793) | [Gene Austin](https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d) | [Best of](https://open.spotify.com/album/3YQxI401YNEvqRotfZcS4o) | 3:32 |

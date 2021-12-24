@@ -1,7 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Ice Nine Kills",
   "name": "Crash Course",
-  "snapshot_id": "MTY0MDMxNTY2MCwwMDAwMDAwMDcwYmFjZjA1YjgwNzBhMDdhMGZhZGY2NDljNmM0MWYx",
+  "num_followers": 261738,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI4OCwwMDAwMDAwMDcwYmFjZjA1YjgwNzBhMDdhMGZhZGY2NDljNmM0MWYx",
   "tracks": [
     {
       "added_at": "2021-11-30 23:23:34",

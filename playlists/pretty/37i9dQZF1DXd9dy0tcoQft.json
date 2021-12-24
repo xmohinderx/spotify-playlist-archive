@@ -1,7 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
   "name": "Soul Food",
-  "snapshot_id": "MTY0MDMxNTgxNSwwMDAwMDAwMDE5YTA2NjNkMTRkYjAyMzM0OGNjMjg3MDRlYzFmNzZm",
+  "num_followers": 8931,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQzOCwwMDAwMDAwMDE5YTA2NjNkMTRkYjAyMzM0OGNjMjg3MDRlYzFmNzZm",
   "tracks": [
     {
       "added_at": "2021-12-22 13:57:21",

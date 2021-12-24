@@ -1,50 +1,15 @@
 {
-  "description": "The pulse of R&B music today.  Cover: SZA",
+  "description": "The pulse of R&B music today.  Cover: Silk Sonic",
   "name": "Are & Be",
-  "snapshot_id": "MTYzOTc1NzA3NCwwMDAwMDU0NDAwMDAwMTdkYzkyMzUxYmQwMDAwMDE3ZGJmODRhODJj",
+  "num_followers": 5803234,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDU0NTAwMDAwMTdkZWFjZjY1MjkwMDAwMDE3ZGU5MTQyNGQ3",
   "tracks": [
     {
-      "added_at": "2021-12-17 16:04:34",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2021-12-17 16:04:34",
-      "album": {
-        "name": "Scenic Drive (The Tape)",
-        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
-      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
-    },
-    {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Smokin Out The Window",
         "url": "https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8"
@@ -68,27 +33,47 @@
       "url": "https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Poison (feat. The Weeknd)",
-        "url": "https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO"
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
       "artists": [
         {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 162631,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA"
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Scenic Drive (The Tape)",
+        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Scenic Drive (feat. Ari Lennox & Smino)",
+      "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
@@ -112,7 +97,7 @@
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "KEYS",
         "url": "https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX"
@@ -136,7 +121,7 @@
       "url": "https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Rent Free / By Any Means",
         "url": "https://open.spotify.com/album/06nzu940k6jhkJ5TacM6y5"
@@ -152,7 +137,7 @@
       "url": "https://open.spotify.com/track/1NKilzEyipTC34AHEMnKAl"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
@@ -168,7 +153,7 @@
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Wild Side (feat. Cardi B)",
         "url": "https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL"
@@ -188,7 +173,7 @@
       "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
@@ -204,7 +189,7 @@
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
@@ -228,7 +213,7 @@
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Amazing (feat. DJ Khaled)",
         "url": "https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi"
@@ -248,7 +233,27 @@
       "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Poison (feat. The Weeknd)",
+        "url": "https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 162631,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "MERCEDES",
         "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
@@ -264,7 +269,7 @@
       "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
@@ -280,7 +285,7 @@
       "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
@@ -300,7 +305,7 @@
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1"
@@ -324,7 +329,7 @@
       "url": "https://open.spotify.com/track/5ywsqu9AEJnEJhJ05Vf9Me"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI"
@@ -340,7 +345,7 @@
       "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu"
@@ -356,7 +361,7 @@
       "url": "https://open.spotify.com/track/1KkxtIMy5n9AN0hhlzWbAc"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -376,7 +381,7 @@
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Water & Garri",
         "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
@@ -396,7 +401,7 @@
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Crazy Tings",
         "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
@@ -412,7 +417,7 @@
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
@@ -432,7 +437,7 @@
       "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1"
@@ -456,7 +461,7 @@
       "url": "https://open.spotify.com/track/7GuP2hQO9oprADjY3gRhCT"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Wasting Time ( feat. Drake & The Neptunes )",
         "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
@@ -480,7 +485,7 @@
       "url": "https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Nothing Feels Better",
         "url": "https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw"
@@ -496,7 +501,7 @@
       "url": "https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Land Of Nothing Real 2",
         "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
@@ -516,7 +521,7 @@
       "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
@@ -532,7 +537,7 @@
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Present",
         "url": "https://open.spotify.com/album/5KsduyvZorQ3RjJTZA8In9"
@@ -548,7 +553,7 @@
       "url": "https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Find A Way (feat. Lil Baby & Lil Durk)",
         "url": "https://open.spotify.com/album/2DKCodaPZGRpDuDFSIctBN"
@@ -572,7 +577,7 @@
       "url": "https://open.spotify.com/track/4yIH4PcUVivcxNTy1ETMZ3"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Get Back (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
@@ -592,7 +597,7 @@
       "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "LALA (Unlocked) (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/18ceMoqxkcGM1xFW4aux6h"
@@ -612,7 +617,7 @@
       "url": "https://open.spotify.com/track/58ZPswvAZ5hscCmbYJvNpW"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Have Mercy",
         "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
@@ -628,7 +633,7 @@
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/577SefILL1LFIbsOMP3lm1"
@@ -648,7 +653,7 @@
       "url": "https://open.spotify.com/track/4dmNBu6IEQahPJDlQQOY69"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
@@ -668,7 +673,7 @@
       "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "At Your Best (You Are Love) - Spotify Singles",
         "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
@@ -684,7 +689,7 @@
       "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Tragic",
         "url": "https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz"
@@ -700,7 +705,7 @@
       "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
@@ -716,7 +721,7 @@
       "url": "https://open.spotify.com/track/2kJijusZZbCWGbjTe5afS1"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Found (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
@@ -736,7 +741,7 @@
       "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
@@ -760,7 +765,7 @@
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
@@ -780,7 +785,7 @@
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Still FWM",
         "url": "https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO"
@@ -800,7 +805,7 @@
       "url": "https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "WFM",
         "url": "https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl"
@@ -816,7 +821,7 @@
       "url": "https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "My City ft. Masego",
         "url": "https://open.spotify.com/album/0bMGwS4OdF9prBTjZOXSgl"
@@ -836,7 +841,7 @@
       "url": "https://open.spotify.com/track/3Q8RBppQeYLLHafNb2cJTz"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Bed Friend",
         "url": "https://open.spotify.com/album/4yddao1MpTLxHNHoSupTpP"
@@ -856,7 +861,7 @@
       "url": "https://open.spotify.com/track/0NeBH6OPQMBJMcmhRoCUmv"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Table For Two",
         "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
@@ -876,7 +881,7 @@
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/7MHe3J3F71yESwmAGXvVvM"
@@ -900,7 +905,7 @@
       "url": "https://open.spotify.com/track/3T9VLKYbT0pGWPqhy415G0"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
@@ -916,7 +921,7 @@
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
@@ -932,7 +937,7 @@
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "FWM",
         "url": "https://open.spotify.com/album/19yDmZ6XifuMc31QkkmRVl"
@@ -948,7 +953,7 @@
       "url": "https://open.spotify.com/track/7aJwamBFV2pjHTXUnlDgZb"
     },
     {
-      "added_at": "2021-12-17 16:04:34",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"

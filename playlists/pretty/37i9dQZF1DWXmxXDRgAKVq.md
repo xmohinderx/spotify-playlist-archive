@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmxXDRgAKVq.md) - [plain]
 
 > Curated by A$AP Mob in honor of A$AP Yams.
 
+[Spotify](https://open.spotify.com/user/spotify) - 189,017 likes - 45 songs - 2 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Move Ya Hips \(feat\. Nicki Minaj & MadeinTYO\)](https://open.spotify.com/track/13v5IXnvO2BccWwOx5rb4s) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Floor Seats II](https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV) | 2:24 |

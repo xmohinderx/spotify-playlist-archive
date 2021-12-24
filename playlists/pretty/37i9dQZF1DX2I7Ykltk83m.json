@@ -1,7 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Snail Mail",
   "name": "badass",
-  "snapshot_id": "MTY0MDMxNTYzOCwwMDAwMDAwMDcwMDRkZTg5MzQxNTYwNWY0ODVjMmQwOGRiOGJjZTkz",
+  "num_followers": 265683,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI2NywwMDAwMDAwMDcwMDRkZTg5MzQxNTYwNWY0ODVjMmQwOGRiOGJjZTkz",
   "tracks": [
     {
       "added_at": "2021-11-14 15:39:43",

@@ -1,6 +1,11 @@
 {
   "description": "Listen to the most streamed male artists in the US this year!",
   "name": "Top Male Artists of 2017: USA",
+  "num_followers": 4023,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTU2ODAxNjU3OCwwMDAwMDAwNzAwMDAwMTYwNDhmMjI1MTkwMDAwMDE2ZDE1MTIzN2Jk",
   "tracks": [
     {

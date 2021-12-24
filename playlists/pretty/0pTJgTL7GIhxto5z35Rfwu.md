@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0pTJgTL7GIhxto5z35Rfwu.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 39 songs - 2 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Glory Box](https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy \(Non UK Version\)](https://open.spotify.com/album/3gxOtUSRzweDWBKlpj7cG6) | 5:05 |

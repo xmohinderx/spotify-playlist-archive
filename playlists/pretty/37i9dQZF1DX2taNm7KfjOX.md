@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Hand Habits
 
+[Spotify](https://open.spotify.com/user/spotify) - 748,401 likes - 150 songs - 9 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/3XnpvaKBaEhdzDbLdIhcKs) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/60XvBfx16DrRu5GKrH4E5E) | 2:53 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Everything Looks Better \(In Hindsight\)](https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 5:28 |
 | 150 | [Tom](https://open.spotify.com/track/0ClifBzp6YrXxr0ZhegGT4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Tom](https://open.spotify.com/album/6WpkIkPKxMy0mYF2m0kn2k) | 3:20 |
 
-Snapshot ID: `MTY0MDMxNTY0OSwwMDAwMDAwMDVmZjZmM2EyZDIwYTE0NjZkMWI0YjliNDg1MzZmNTA5`
+Snapshot ID: `MTY0MDMyNDI3OCwwMDAwMDAwMDVmZjZmM2EyZDIwYTE0NjZkMWI0YjliNDg1MzZmNTA5`

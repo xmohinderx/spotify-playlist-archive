@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2Rah43YvyO765e4gACIDef.md) - [plain]
 
 > Wake up in your makeup? Rock it.
 
+[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 24 songs - 1 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Save Me](https://open.spotify.com/track/6Je5Vjd8VXVpQYcOiav5KU) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 3:50 |

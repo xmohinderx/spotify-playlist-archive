@@ -1,7 +1,12 @@
 {
   "description": "Nominees from the 93rd annual event celebrating Hollywood's brightest stars.",
   "name": "Hollywood's Big Night",
-  "snapshot_id": "MTY0MDMxNTY0NCwwMDAwMDAwMDM4YTFlNmQxYzljN2I3MDUxYjQwYzEzZTNiMjZiOTAy",
+  "num_followers": 88442,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3MywwMDAwMDAwMDM4YTFlNmQxYzljN2I3MDUxYjQwYzEzZTNiMjZiOTAy",
   "tracks": [
     {
       "added_at": "2021-03-25 21:33:25",

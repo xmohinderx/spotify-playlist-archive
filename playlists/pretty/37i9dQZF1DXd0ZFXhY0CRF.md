@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > These women rock our worlds with their music and influence\. Cover: Stevie Nicks
 
+[Spotify](https://open.spotify.com/user/spotify) - 595,397 likes - 100 songs - 6 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Edge of Seventeen](https://open.spotify.com/track/1m9saE7zpF33TxI19j57UN) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna](https://open.spotify.com/album/2anR0CWeiIAyEE2VNwLTaP) | 5:29 |

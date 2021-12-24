@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,981,136 likes - 300 songs - 11 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Still Dreamin'](https://open.spotify.com/track/6QgbHbBC1igeeIROMCOUHd) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Still Dreamin'](https://open.spotify.com/album/7DYtVLFmGf1PjwhbxkrChW) | 2:31 |
@@ -307,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Shipping Included](https://open.spotify.com/track/2N5acVYBPwXHVxcSJZhI0Y) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Shipping Included](https://open.spotify.com/album/4W520GUpPfXgx7O78dmJI0) | 1:44 |
 | 300 | [JazzStories](https://open.spotify.com/track/0pAZwblmzeso5UGoEMwXEl) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [JazzStories](https://open.spotify.com/album/3bY81Gkway6sz3GViaOikS) | 2:04 |
 
-Snapshot ID: `MTY0MDMxNTYwNSwwMDAwMDAwMGU4ZGIwNjlmYjgzNDhmYWRkODMwM2VlMjk0OWRmYjY0`
+Snapshot ID: `MTY0MDMyNDIzNiwwMDAwMDAwMGU4ZGIwNjlmYjgzNDhmYWRkODMwM2VlMjk0OWRmYjY0`

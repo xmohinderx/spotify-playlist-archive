@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
+[Spotify](https://open.spotify.com/user/spotify) - 31,996 likes - 42 songs - 3 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Black Mountain Side \- 1993 Remaster](https://open.spotify.com/track/6rmEV2YtvWkigxPZocINO3) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:05 |

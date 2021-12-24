@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/54LbSpjd64NjKPUyYAGkNU.md) - [plain]
 
 > Beatiful, mellow jazz for romance
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,509 likes - 23 songs - 1 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Nearness Of You](https://open.spotify.com/track/5Q8vFGe2wgjD50TzkHWAkp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Precious & Rare: Nancy Wilson](https://open.spotify.com/album/1qvEgeCQpyGkmEFCL2fH8C) | 2:58 |

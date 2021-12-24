@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
+[Spotify](https://open.spotify.com/user/spotify) - 276,057 likes - 100 songs - 5 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hammer](https://open.spotify.com/track/0j80OMNnPlSWUwLoJkB1JR) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Hammer](https://open.spotify.com/album/188UbikjlSQhiboWAhAk3U) | 3:40 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Wake Me Up When September Ends](https://open.spotify.com/track/32fMYulgmRX6IxScMwQsdW) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Not Your American Idiots](https://open.spotify.com/album/6veVMdUjLtsIgP9ztaQm6A) | 3:16 |
 | 100 | [Don't Stop Me Now](https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Don't Stop Me Now](https://open.spotify.com/album/1YwulgouNoPhGJ3qLB511P) | 3:20 |
 
-Snapshot ID: `MTY0MDMxNTc3MywwMDAwMDAwMDZlOTYxZjA4YWEzYzE5ZDBjNDhmOTUxZWU0NjgzNzk2`
+Snapshot ID: `MTY0MDMyNDM5OCwwMDAwMDAwMDZlOTYxZjA4YWEzYzE5ZDBjNDhmOTUxZWU0NjgzNzk2`

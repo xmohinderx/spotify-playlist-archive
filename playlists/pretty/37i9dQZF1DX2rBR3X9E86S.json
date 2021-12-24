@@ -1,6 +1,11 @@
 {
   "description": "One of the most iconic bands of recent time. Here is the best of The Black Keys.",
   "name": "This Is The Black Keys",
+  "num_followers": 221155,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYxODU0NTYwMCwwMDAwMDAxNjAwMDAwMTc4ZDhkNWU2YzcwMDAwMDE2ZTdlNzM5Zjk3",
   "tracks": [
     {

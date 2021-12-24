@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
+[Spotify](https://open.spotify.com/user/spotify) - 28,941 likes - 50 songs - 6 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Playing Retention](https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE) | [Daniel Carter](https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4), [Jim Clouse](https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp) | [Playing Retention](https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf) | 7:38 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Sing, Sing Loud](https://open.spotify.com/track/5KUuZ8A3u42Cdu6HsrcZSA) | [Carsten Dahl, Arild Andersen, Jon Christensen](https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV) | [Space Is the Place](https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK) | 3:44 |
 | 50 | [Composite](https://open.spotify.com/track/2IXxhyBkczi3kz6QRWuIsQ) | [Trio 3](https://open.spotify.com/artist/53psjKXqjEs7i8Xgw1xxNq) | [Visiting Texture](https://open.spotify.com/album/4ZQzLMdMBdyfONnftLOzgN) | 6:39 |
 
-Snapshot ID: `MTY0MDMxNTY2MywwMDAwMDAwMDUxZmViNDVmYzYyYThmNThhOWE1YzgwMjVmYjBlZjQx`
+Snapshot ID: `MTY0MDMyNDI5MSwwMDAwMDAwMDUxZmViNDVmYzYyYThmNThhOWE1YzgwMjVmYjBlZjQx`

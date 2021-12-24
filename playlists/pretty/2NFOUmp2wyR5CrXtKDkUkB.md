@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2NFOUmp2wyR5CrXtKDkUkB.md) - [plain]
 
 > Those were the days, this was the music...
 
+[Spotify](https://open.spotify.com/user/spotify) - 18,185 likes - 67 songs - 4 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sweet Thing \- 1999 Remaster](https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 4:25 |

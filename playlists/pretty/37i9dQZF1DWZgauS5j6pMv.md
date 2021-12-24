@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Thundercat
 
+[Spotify](https://open.spotify.com/user/spotify) - 226,140 likes - 115 songs - 6 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alibi](https://open.spotify.com/track/4Gf0lz0QLodvGRqTDLnWQ6) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [FATHERDUDE](https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z) | [Welcome Back Era](https://open.spotify.com/album/41zEHhnIYYgnQdW9Si2YVf) | 3:34 |

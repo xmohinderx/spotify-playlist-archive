@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIjTCDpbgLL.md) - [plain]
 
 > Tales of high action and grand adventures...
 
+[Spotify](https://open.spotify.com/user/spotify) - 19,101 likes - 71 songs - 21 hr 20 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Ascent of Mont Blanc](https://open.spotify.com/track/6cN39pPZsKBO13HBP3xtA4) | [Richard Mitchley](https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC) | [Jules Verne \- The Short Stories](https://open.spotify.com/album/44em1ue6jA6PwpKuFuokPM) | 44:01 |

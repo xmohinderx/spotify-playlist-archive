@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2XFhZrcFAFFvBLjRQrw9wI.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 50 songs - 2 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hello Dolly \- Hello Dolly](https://open.spotify.com/track/1z9pixkgrx84rY9jPFSfY5) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Film Music \- Cine 1](https://open.spotify.com/album/1jiop77c0GCQ025EaKp7gO) | 2:34 |

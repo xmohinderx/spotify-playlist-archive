@@ -1,7 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
   "name": "Det blir kaoz!",
-  "snapshot_id": "MTY0MDMxNTYxMywwMDAwMDAwMGI1NGE5MWY1NDA4ODNiNDJiNzNlMDU3NGVlMmU2MTcx",
+  "num_followers": 92009,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI0NCwwMDAwMDAwMGI1NGE5MWY1NDA4ODNiNDJiNzNlMDU3NGVlMmU2MTcx",
   "tracks": [
     {
       "added_at": "2021-12-16 23:00:00",

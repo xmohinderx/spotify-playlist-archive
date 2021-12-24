@@ -1,7 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
   "name": "Happy Drive",
-  "snapshot_id": "MTY0MDMxNTYyMiwwMDAwMDAwMGE5ZGQ1ZDNjMmVhZjY0MzBhMTZkNjZiNjM4ZDJlYTcz",
+  "num_followers": 350403,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI1MiwwMDAwMDAwMGE5ZGQ1ZDNjMmVhZjY0MzBhMTZkNjZiNjM4ZDJlYTcz",
   "tracks": [
     {
       "added_at": "2021-09-20 19:34:04",

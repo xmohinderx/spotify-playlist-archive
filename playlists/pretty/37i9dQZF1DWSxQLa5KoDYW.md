@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxQLa5KoDYW.md) - [plain]
 
 > The best of Gorillaz, in one place.
 
+[Spotify](https://open.spotify.com/user/spotify) - 831,706 likes - 58 songs - 3 hr 33 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Strange Timez \(feat\. Robert Smith\)](https://open.spotify.com/track/3KvnDOxmZNgw3OE0e5ckGQ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Robert Smith ](https://open.spotify.com/artist/0SHJWEBfbcjkE8bGiSTykk) | [Song Machine Episode 6](https://open.spotify.com/album/5Bwya934UjdQS5XAo32Z1K) | 3:47 |

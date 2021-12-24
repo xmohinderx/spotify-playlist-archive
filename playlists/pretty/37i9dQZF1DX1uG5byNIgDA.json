@@ -1,7 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
   "name": "Morning K-Pop!",
-  "snapshot_id": "MTY0MDMxNTYzMSwwMDAwMDAwMDI1ZTVmNTEzYmZkYTk1MTFhYmY2ZmQ0MGM3YjhlMjc0",
+  "num_followers": 211155,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI2MSwwMDAwMDAwMDI1ZTVmNTEzYmZkYTk1MTFhYmY2ZmQ0MGM3YjhlMjc0",
   "tracks": [
     {
       "added_at": "2021-12-06 13:43:28",

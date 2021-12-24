@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6zcjhNUkQ6taQK9hxhweCj.md) - [plain]
 
 > Deep, dark, gritty, vintage sounds from the best in indie blues folk.
 
+[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 48 songs - 3 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pour Sugar On Me](https://open.spotify.com/track/3CcQMhebzgSHlYh0AavCSg) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Pour Sugar On Me](https://open.spotify.com/album/7MnJ6dOSzVcKeYJ4rnT2W9) | 2:46 |

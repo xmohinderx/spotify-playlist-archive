@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWZwKY7xcB3.md) - [plain]
 
 > Comedians ponder all things music, including their favorite celebrities and pop culture icons\. \[Warning: Explicit Content\]
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,819 likes - 71 songs - 3 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Motley Crue Tour vs\. Aziz Tour](https://open.spotify.com/track/6nSEbFrbRFAiT5R3cWR3IL) | [Aziz Ansari](https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA) | [Dangerously Delicious](https://open.spotify.com/album/6ydSVwVEE7rvZ82z3Oh5ic) | 1:46 |

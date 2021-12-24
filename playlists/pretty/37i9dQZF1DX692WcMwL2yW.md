@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
+[Spotify](https://open.spotify.com/user/spotify) - 363,411 likes - 141 songs - 6 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nuttin](https://open.spotify.com/track/5U0yfmhalBtJN5gs25JGDG) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Nuttin](https://open.spotify.com/album/7MxGgLhLqVfFgOmAOcCEMn) | 2:15 |

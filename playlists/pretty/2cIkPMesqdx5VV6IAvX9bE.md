@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2cIkPMesqdx5VV6IAvX9bE.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 50 songs - 3 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tonight's the Night \(Gonna Be Alright\) \- 2008 Remaster](https://open.spotify.com/track/52YNr0Hzvx9SbKjzbq49XL) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 3:57 |

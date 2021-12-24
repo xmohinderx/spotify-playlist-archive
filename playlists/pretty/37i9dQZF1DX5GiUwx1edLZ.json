@@ -1,7 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
   "name": "mint Acoustic",
-  "snapshot_id": "MTY0MDMxNTY5MywwMDAwMDAwMGU5OWRjZDQzZDFiNWViZDE5OGQ2ZDNkODNiZmU3ZmEy",
+  "num_followers": 271591,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDMyMSwwMDAwMDAwMGU5OWRjZDQzZDFiNWViZDE5OGQ2ZDNkODNiZmU3ZmEy",
   "tracks": [
     {
       "added_at": "2021-12-10 05:00:00",

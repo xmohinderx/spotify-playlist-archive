@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2FjbiwWYHqEifO3VY5LYP8.md) - [plain]
 
 > A toast to all the artists who will be performing on New Year&\#x27;s Eve across the globe.
 
+[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 41 songs - 2 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2lOMjzyPMlcIvcaWlaF6MB.md) - [plain]
 
 > Transport yourself to the "Mother Church of Country Music" with these live cuts from the Ryman.
 
+[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 26 songs - 1 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Funeral \- Live Acoustic](https://open.spotify.com/track/1jKvrkkZxtQ7ZDiXdITOis) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Acoustic at The Ryman \(Live\)](https://open.spotify.com/album/6N3W6VPGBBxZcYajhZB75a) | 5:07 |

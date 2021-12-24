@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/665gwFk3RaSHbgiimtgok0.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,519 likes - 50 songs - 3 hr 24 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Silver Side Up](https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u) | 3:43 |

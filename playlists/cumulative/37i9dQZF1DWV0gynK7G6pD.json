@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "12 Lieder von Franz Schubert, S.558: No. 2 Auf dem Wasser zu singen",
+        "url": "https://open.spotify.com/album/2sTQdZkW4Xfae5GmDhnRwe"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Franz Liszt (after Schubert)",
+          "url": "https://open.spotify.com/artist/53PyjdJfgOBFwhXV8Utby3"
+        },
+        {
+          "name": "Sergey Tanin",
+          "url": "https://open.spotify.com/artist/1i1rqH4Df6CNCK1Fn1q76h"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256040,
+      "name": "12 Lieder von Franz Schubert, S.558: No. 2 Auf dem Wasser zu singen",
+      "url": "https://open.spotify.com/track/13Lm80DAxE5FxDdjSfb7L4"
+    },
+    {
+      "album": {
         "name": "24 Caprices for Solo Violin, Op. 1: Caprice No. 24 in A Minor, Tema con Variazioni (Arr. for Cello)",
         "url": "https://open.spotify.com/album/3EqWPf6hUp0Cxvd7wuK0Kw"
       },
@@ -331,6 +357,28 @@
     },
     {
       "album": {
+        "name": "Bach: Goldberg Variations",
+        "url": "https://open.spotify.com/album/5A7uvR8crJjWb2gseCS3Ec"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tanja Huppert",
+          "url": "https://open.spotify.com/artist/4doY6OpQK5S7LLDxzam4Ky"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168154,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/3IaqSLdItWG8BI3p07OkDG"
+    },
+    {
+      "album": {
         "name": "Heartbeat (Piano Solo)",
         "url": "https://open.spotify.com/album/6GpCXnHmWAWVgkm4hVmY5l"
       },
@@ -637,6 +685,28 @@
     },
     {
       "album": {
+        "name": "Pi\u00e8ces Froides (Danses de Travers, Arr. for Reed Quintet by Raaf Hekkema)",
+        "url": "https://open.spotify.com/album/1t8WaCIscorIcCMrRQcp5f"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Reeds in Motion",
+          "url": "https://open.spotify.com/artist/0VGk9bh87gZ0dZx5N6UBmd"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106426,
+      "name": "Pi\u00e8ces Froides, II. Danses de travers: I. En y regardant \u00e0 deux fois (Arr. for Reed Quintet by Raaf Hekkema)",
+      "url": "https://open.spotify.com/track/63J62SwO05LCTHmETgaB4O"
+    },
+    {
+      "album": {
         "name": "Shimmer in the Sky",
         "url": "https://open.spotify.com/album/6O6jRpr5hI2kWbGDgoov8Q"
       },
@@ -652,6 +722,36 @@
       "duration_ms": 137000,
       "name": "Shimmer in the Sky",
       "url": "https://open.spotify.com/track/4O34iVoaO1uuSgyo3bPYXT"
+    },
+    {
+      "album": {
+        "name": "Symphony in E Major, D. 729 (Completed by Richard D\u00fcnser)",
+        "url": "https://open.spotify.com/album/1JYmgTApAUi2pzQCooKN1S"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Richard D\u00fcnser",
+          "url": "https://open.spotify.com/artist/4LyvL0SjXIjMDbcmVxZRg7"
+        },
+        {
+          "name": "Mario Venzago",
+          "url": "https://open.spotify.com/artist/39lQyvfR8sc6VYCeXMkFsQ"
+        },
+        {
+          "name": "Symphonieorchester Bern",
+          "url": "https://open.spotify.com/artist/4TRPsqgvRsQHW3RqAWsbhc"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453937,
+      "name": "Symphony in E Major, D. 729: III. Scherzo. Allegro (Completed by Richard D\u00fcnser)",
+      "url": "https://open.spotify.com/track/6G0gxekvA6eGzPXgNWeWOK"
     },
     {
       "album": {

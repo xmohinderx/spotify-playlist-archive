@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4c84KflUhSt.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 100,714 likes - 50 songs - 2 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I've Got You Under My Skin](https://open.spotify.com/track/6jz5HzDmPuQ24U7u7KfKGw) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:05 |

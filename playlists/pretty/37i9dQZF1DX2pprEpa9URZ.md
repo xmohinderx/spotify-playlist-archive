@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
+[Spotify](https://open.spotify.com/user/spotify) - 569,936 likes - 60 songs - 6 hr 31 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alongside \- Omeria & NU Edit](https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Alongside](https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36) | 6:50 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Twilight \- Acid Pauli Remix](https://open.spotify.com/track/4HS2UZ8hhIeUTtNZQwpJZu) | [Noema](https://open.spotify.com/artist/3jSvMIKT2Eo5mNvYN9ownN), [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Twilight \(Acid Pauli Remix\)](https://open.spotify.com/album/0yYzUOlhkeVAqvf6DJitKX) | 7:19 |
 | 60 | [Whistleman](https://open.spotify.com/track/386PnZfbszq42M8GprZnVt) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:59 |
 
-Snapshot ID: `MTY0MDMxNTY0NywwMDAwMDAwMGY2MTE3ODFhZmU3OTVmNDI2OTJhZGU4ZTVmNWI0MzAy`
+Snapshot ID: `MTY0MDMyNDI3NiwwMDAwMDAwMGY2MTE3ODFhZmU3OTVmNDI2OTJhZGU4ZTVmNWI0MzAy`

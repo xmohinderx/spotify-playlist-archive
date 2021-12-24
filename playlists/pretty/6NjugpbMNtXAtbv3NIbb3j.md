@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6NjugpbMNtXAtbv3NIbb3j.md) - [plain]
 
 > The Spotify House 2015 Thursday lineup.
 
+[Spotify](https://open.spotify.com/user/spotify) - 462 likes - 20 songs - 1 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hold Back The River](https://open.spotify.com/track/6PZby1bNMj2ZEPShwQwJnL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Hold Back The River](https://open.spotify.com/album/01TNBVXe8l4RZb3LDC7Iw6) | 3:59 |

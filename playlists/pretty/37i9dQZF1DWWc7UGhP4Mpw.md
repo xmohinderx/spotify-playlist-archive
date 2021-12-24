@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWc7UGhP4Mpw.md) - [plain]
 
 > The essential Ramones, all in one playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 176,790 likes - 34 songs - 1 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blitzkrieg Bop \- 2001 Remastered Version](https://open.spotify.com/track/33iQW2OneB0oNh2NfrAzqW) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(Expanded\)](https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY) | 2:13 |

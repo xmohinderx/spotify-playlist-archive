@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTthpScXd3v.md) - [plain]
 
 > One of the greatest of all time, in 72 songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 894,550 likes - 72 songs - 5 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heroes \- 1999 Remaster](https://open.spotify.com/track/5j6ZZwA9BnxZi5Bk0Ng4jB) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Heroes \(1999 Remaster\)](https://open.spotify.com/album/3lFioPGhn7x5Y3H3YbPV83) | 6:10 |

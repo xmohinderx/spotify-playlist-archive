@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
+[Spotify](https://open.spotify.com/user/spotify) - 129,200 likes - 100 songs - 6 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In Control \(feat\. Selin\)](https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ali Arutan](https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [In Control \(feat\. Selin\)](https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe) | 2:59 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [One Night in Dubai](https://open.spotify.com/track/0AmwmAEOgm11kXiaL9jHOZ) | [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Helena](https://open.spotify.com/artist/7JkJKtwP9pkix2AxUJmXjS) | [One Night in Dubai](https://open.spotify.com/album/6zTsRObldbTAyLZNxT9TxO) | 2:40 |
 | 100 | [Give It To Me \(feat\. Ezgi Kosa\) \- Padé Remix](https://open.spotify.com/track/2fPOQTdBExhbsu9j1pOuv2) | [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn), [Rednod](https://open.spotify.com/artist/5AiAZqe3QhCSrROQCAtWpE), [Ezgi Kosa](https://open.spotify.com/artist/6fuRfSBoGP6XYSQa0eY1Jz), [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Give It To Me \(feat\. Ezgi Kosa\) \[Remixes\]](https://open.spotify.com/album/6Lk1ovuSfjEx28Bf6K8GLW) | 2:44 |
 
-Snapshot ID: `MTY0MDMxNTgxNSwwMDAwMDAwMDBmMWE5M2JlNzhlZWUzMjc2YWM5NDlkMTIxM2NjM2I4`
+Snapshot ID: `MTY0MDMyNDQzOCwwMDAwMDAwMDBmMWE5M2JlNzhlZWUzMjc2YWM5NDlkMTIxM2NjM2I4`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
+[Spotify](https://open.spotify.com/user/spotify) - 45,534 likes - 71 songs - 5 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Go](https://open.spotify.com/track/4eCQi9aVaAWfOnEYEAv3jo) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Reflection](https://open.spotify.com/album/38kEdQNfhtwWShFqiqCnt7) | 3:40 |

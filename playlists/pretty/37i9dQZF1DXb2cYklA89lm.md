@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
+[Spotify](https://open.spotify.com/user/spotify) - 128,355 likes - 50 songs - 2 hr 40 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Bottle Called](https://open.spotify.com/track/1R9GowEpMThnBGAAonp4fV) | [Koffin Kats](https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf) | [Our Way & The Highway](https://open.spotify.com/album/3csHpaafwVPG118KJFaibU) | 3:16 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Walk Through Walls](https://open.spotify.com/track/4QCeZwh8Df8L8GiSXHloKr) | [The Atom Age](https://open.spotify.com/artist/79UcvR6kEruu3AQ0gYOJUk) | [Walk Through Walls](https://open.spotify.com/album/5LtYw0nyRj8cznP49gOJVA) | 2:28 |
 | 50 | [Doctors & Churches](https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g) | [Miss Vincent](https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx) | [Doctors & Churches](https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5) | 3:30 |
 
-Snapshot ID: `MTY0MDMxNTc4NiwwMDAwMDAwMDNiZDdjNTg5MWJjZjdjZDlhNDgwYjc2OThhOThkZDY1`
+Snapshot ID: `MTY0MDMyNDQxMCwwMDAwMDAwMDNiZDdjNTg5MWJjZjdjZDlhNDgwYjc2OThhOThkZDY1`

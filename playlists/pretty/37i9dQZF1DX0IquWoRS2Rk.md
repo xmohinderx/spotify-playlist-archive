@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IquWoRS2Rk.md) - [plain]
 
 > Advice on writing everything from college compositions to mystery novels and children's books.
 
+[Spotify](https://open.spotify.com/user/spotify) - 7,570 likes - 103 songs - 16 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How to Tell a Story](https://open.spotify.com/track/5vGhSyxaseY9gQJkxHBGa2) | [Stuart Milligan](https://open.spotify.com/artist/0npl4kCcvIRUwQf1xkx7cC), [Mark Twain](https://open.spotify.com/artist/40kw34hzyaeH4tJjAI5xbJ) | [Humour, The Short Story Collection](https://open.spotify.com/album/2bAzIFI0ZO0873dSqaFBHv) | 14:49 |

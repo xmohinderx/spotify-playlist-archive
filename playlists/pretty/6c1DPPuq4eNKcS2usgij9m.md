@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6c1DPPuq4eNKcS2usgij9m.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 50 songs - 2 hr 7 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sugar Shack \- Re\-Recording](https://open.spotify.com/track/2IrbjHCxU7Ofhswn6NDqeL) | [Jimmy Gilmer](https://open.spotify.com/artist/6Vg8U5m1yHwqRyQMi87tay) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 1:54 |

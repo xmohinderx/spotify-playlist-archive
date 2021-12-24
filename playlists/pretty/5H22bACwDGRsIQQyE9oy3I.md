@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5H22bACwDGRsIQQyE9oy3I.md) - [plain]
 
 > Relax in the shade and uncover the best new underground folk and rising Americana.
 
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 25 songs - 1 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Possumhaw](https://open.spotify.com/track/6IXNFFijF1gmQrxPFyyrS2) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 4:11 |

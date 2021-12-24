@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1OhJNFdK6FhLToiHmx7abI.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 153 likes - 42 songs - 2 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Time](https://open.spotify.com/track/1DFf22wAhURrEt5boeKYkf) | [The New Mendicants](https://open.spotify.com/artist/5x3OulmmMZoHdhOoQaNyP5) | [Australia 2013 EP](https://open.spotify.com/album/7vyi0Q11N3dKNm3vUERkLy) | 3:00 |

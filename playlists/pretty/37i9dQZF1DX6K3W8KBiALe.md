@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 
 > Chill to the familiar <a href="http://open.spotify.com/genre/classical">classical</a> pieces featured in award\-winning films.
 
+[Spotify](https://open.spotify.com/user/spotify) - 297,491 likes - 71 songs - 6 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waltz No\. 2 From Jazz Suite No\. 2 \(From "Eyes Wide Shut"\)](https://open.spotify.com/track/7sgPwxEjXmgT3uEreh8b0I) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [100 Greatest Film Themes](https://open.spotify.com/album/6cvLnRWPmgOv9Ty7hitQDC) | 3:53 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 30,024 likes - 99 songs - 5 hr 21 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amigos con derechos](https://open.spotify.com/track/58ySh8QZ67IDkD2s9pj8mg) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Amigos con derechos](https://open.spotify.com/album/2yTB6qi8BtujK1ZVsiynVN) | 3:39 |

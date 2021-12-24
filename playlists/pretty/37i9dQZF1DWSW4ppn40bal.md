@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
+[Spotify](https://open.spotify.com/user/spotify) - 50,728 likes - 172 songs - 9 hr 6 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rumbling Pink Noise](https://open.spotify.com/track/7esOmrJXvLhjmS9zRycl0k) | [Lazzink](https://open.spotify.com/artist/5Q4tKwDny1EHVFVtyqL01w) | [Pink Noise sensation](https://open.spotify.com/album/0xAfotHsx9O6FeIQ1DQogM) | 2:56 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIuW81skHVz.md) - [plain]
 
 > The shape of jazz today\. Cover: Alfa Mist
 
+[Spotify](https://open.spotify.com/user/spotify) - 178,700 likes - 86 songs - 7 hr 10 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Light](https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Two For Mistake](https://open.spotify.com/album/7lQnb1YRhpJnlX86NYqq7N) | 6:12 |

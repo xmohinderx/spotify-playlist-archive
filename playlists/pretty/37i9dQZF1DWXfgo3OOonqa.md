@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
+[Spotify](https://open.spotify.com/user/spotify) - 239,390 likes - 84 songs - 3 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Trapper Of The Year \(Intro\)](https://open.spotify.com/track/7zxphfIdUMOfZOAVpKFlld) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Trapper Of The Year \(Intro\)](https://open.spotify.com/album/65DP4VYecvLUlUVfCsXPLF) | 1:50 |

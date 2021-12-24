@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
+[Spotify](https://open.spotify.com/user/spotify) - 250,771 likes - 57 songs - 3 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Belleville](https://open.spotify.com/track/4Wo0AVGDazTF6wUv77yLZl) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Robin Nolan Trio](https://open.spotify.com/artist/6CdoTSuiw0mRW8uAsrf6kW) | [Swing de Paris \- Vol\. 2](https://open.spotify.com/album/5Sx2O2IOx8CImGs9xIyAkA) | 4:07 |

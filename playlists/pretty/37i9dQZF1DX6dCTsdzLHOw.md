@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
+[Spotify](https://open.spotify.com/user/spotify) - 21,116 likes - 28 songs - 1 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Psycho Theme \( Bernard Herman \- Ensign Music \)](https://open.spotify.com/track/40cXtLMqZo33qFeY2uVhFn) | [Halloween](https://open.spotify.com/artist/5Ure3b6cjh5Gk29qg82eym) | [Halloween Themes / Horror Movie Music That Will Scare You More Than Sound Fx](https://open.spotify.com/album/0ZbEWtaLdNW3MNbeFf7ZVf) | 1:02 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0BXZJ6BiA151CzaMcTKPMN.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,584 likes - 50 songs - 3 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rolling in the Deep](https://open.spotify.com/track/5xPazRvyrkVootu8pM9vUG) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Rolling In The Deep](https://open.spotify.com/album/6cw6QU9pF7FyQtSyJjzMua) | 3:48 |

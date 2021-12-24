@@ -1,7 +1,12 @@
 {
   "description": "All live, all blues. Cover: Joe Bonamassa",
   "name": "Blues Live & Loud",
-  "snapshot_id": "MTY0MDMxNTUwMiwwMDAwMDAwMGVkZjhmNjYxMzk2YjBlZWU1NmJiYTc5ZGQzMmM1M2Vj",
+  "num_followers": 123675,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDEzNCwwMDAwMDAwMGVkZjhmNjYxMzk2YjBlZWU1NmJiYTc5ZGQzMmM1M2Vj",
   "tracks": [
     {
       "added_at": "2021-06-11 04:01:00",

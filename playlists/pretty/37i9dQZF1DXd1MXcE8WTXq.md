@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 
 > The biggest summer hits of all time!
 
+[Spotify](https://open.spotify.com/user/spotify) - 321,569 likes - 80 songs - 4 hr 54 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer Of '69](https://open.spotify.com/track/5EU1mh0C4Km3k6vGvIDN2J) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/21hEsQUnuxQw3mFKL9O35g) | 3:32 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 | 79 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [The Long Road Back](https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU) | 3:37 |
 | 80 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 
-Snapshot ID: `MTY0MDMxNTgxNCwwMDAwMDAwMGFkMDRjOTdjOWM4YzlkZjI4NjI3ZmJlMWM3OThiZjU3`
+Snapshot ID: `MTY0MDMyNDQzNywwMDAwMDAwMGFkMDRjOTdjOWM4YzlkZjI4NjI3ZmJlMWM3OThiZjU3`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1FDK3hDHMSyzjC1IpdIOU3.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 50 songs - 3 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |

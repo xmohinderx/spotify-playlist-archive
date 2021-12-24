@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6cSO5pHOCQxoEiXYDPa3Uq.md) - [plain]
 
 > Metaltown är en av Sveriges största och mest populära hårdrock/metal\-festivaler\. Årets festival äger rum den 15 \- 16 juni i Göteborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 45 songs - 3 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Where The Dead Ships Dwell](https://open.spotify.com/track/7dy15Rn5bzLiO4IdYQIevr) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Sounds Of A Playground Fading](https://open.spotify.com/album/06yfpcNmffdp132tSibhgo) | 4:26 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4n3DaGTtM0p.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 11,629 likes - 23 songs - 1 hr 48 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Human Abstract \- 2005 Remaster](https://open.spotify.com/track/7FvWHBvGT04F1kJ63MaElG) | [David Axelrod](https://open.spotify.com/artist/4hCKF3RZSkFSMntkfCxO74) | [The Edge: David Axelrod At Capitol Records 1966\-1970](https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K) | 5:26 |

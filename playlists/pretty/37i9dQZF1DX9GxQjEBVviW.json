@@ -1,7 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
   "name": "Doo-Wop Dee Doo",
-  "snapshot_id": "MTY0MDMxNTc2MCwwMDAwMDAwMGU2ZDUwMTUxOGQxYjk1MDQ1Yjk4ZWY5ZTJmNDQ0MTQz",
+  "num_followers": 180240,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM4NSwwMDAwMDAwMGU2ZDUwMTUxOGQxYjk1MDQ1Yjk4ZWY5ZTJmNDQ0MTQz",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",

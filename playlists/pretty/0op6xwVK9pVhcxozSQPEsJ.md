@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0op6xwVK9pVhcxozSQPEsJ.md) - [plain]
 
 > Take some time out of your day to recharge your mind.
 
+[Spotify](https://open.spotify.com/user/spotify) - 2,362 likes - 93 songs - 7 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hunting Bears](https://open.spotify.com/track/65OdRsADfMX6VInNGtuZfU) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac \(Collector's Edition\)](https://open.spotify.com/album/7mUKceir3qJ2WeQETnvz8g) | 2:01 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3Nh594yQ7PkhEPzUUAKlnH.md) - [plain]
 
 > It's the weekend and you need some popular songs to hang out with\. We've got you covered.
 
+[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 65 songs - 3 hr 53 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mmm Yeah](https://open.spotify.com/track/20zQs2LhTCzA2PfIPMxuWu) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Mmm Yeah](https://open.spotify.com/album/7FBCStYF8C14WEzyVroaFM) | 3:51 |

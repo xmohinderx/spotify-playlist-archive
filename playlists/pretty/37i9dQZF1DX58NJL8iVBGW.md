@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
+[Spotify](https://open.spotify.com/user/spotify) - 452,521 likes - 100 songs - 6 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Apple Tree](https://open.spotify.com/track/0mWh2QcnFNYzBpRVitQIrk) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [I’m Not Your Man](https://open.spotify.com/album/2Jkylu8bVA6naEwwVKuG0o) | 2:55 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Waiting For The Taker](https://open.spotify.com/track/4fIgjwBCK9YuvmJRQ0r7yW) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Fern Girl and Ice Man](https://open.spotify.com/album/3FX9ygnFTCdOIOgCmC4wVt) | 5:41 |
 | 100 | [Blackland Farmer](https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Blackland Farmer](https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl) | 7:37 |
 
-Snapshot ID: `MTY0MDMxNTY4OSwwMDAwMDAwMGU5NGRkZjkyYzQ5OWE3OTMxNzMwM2Q2MTUzMzdmNmEx`
+Snapshot ID: `MTY0MDMyNDMxNywwMDAwMDAwMGU5NGRkZjkyYzQ5OWE3OTMxNzMwM2Q2MTUzMzdmNmEx`

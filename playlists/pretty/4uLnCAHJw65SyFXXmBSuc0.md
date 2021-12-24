@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4uLnCAHJw65SyFXXmBSuc0.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 959 likes - 20 songs - 1 hr 17 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know Its Christmas?](https://open.spotify.com/album/5v6oVunOk4DA8SMlBFqsKG) | 3:42 |

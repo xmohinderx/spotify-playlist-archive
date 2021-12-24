@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654l3fFiq56.md) - [plain]
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
+[Spotify](https://open.spotify.com/user/spotify) - 16,475 likes - 20 songs - 1 hr 22 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [交換餘生](https://open.spotify.com/track/4IhGnQF2goYkwUYgHB8ZFh) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [倖存者](https://open.spotify.com/album/7bBQS2zo1JimKeuVIqVpaH) | 4:36 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the history of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie folk favorites\. Cover: The Staves
 
+[Spotify](https://open.spotify.com/user/spotify) - 249,338 likes - 200 songs - 12 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 |
@@ -207,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 199 | [Northern Girl](https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7) | [Cheryl Wheeler](https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ) | [Circles And Arrows](https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo) | 3:46 |
 | 200 | [If Wishes Were Horses](https://open.spotify.com/track/4x5gOf3f0asSRCZh0vQ6b0) | [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Crowd Favorites](https://open.spotify.com/album/7v0niSkEWiYUo1Jsm6IKVf) | 2:34 |
 
-Snapshot ID: `MTY0MDMxNTQ4NywwMDAwMDAwMDdhZjhjYTllMjEzMTY1M2Y4YzcyOWIzZDE4NzIwNDEw`
+Snapshot ID: `MTY0MDMyNDEyMCwwMDAwMDAwMDdhZjhjYTllMjEzMTY1M2Y4YzcyOWIzZDE4NzIwNDEw`

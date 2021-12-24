@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
+[Spotify](https://open.spotify.com/user/spotify) - 749,801 likes - 223 songs - 9 hr 39 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Radiant](https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Radiant](https://open.spotify.com/album/1sdwKv0Y7mM3gImhvduqe6) | 2:39 |

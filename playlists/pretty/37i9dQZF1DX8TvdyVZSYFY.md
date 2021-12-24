@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,981,784 likes - 300 songs - 17 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Like Me Better](https://open.spotify.com/track/2wH7tYJD7LbttAqhwNfodD) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [I Like Me Better](https://open.spotify.com/album/3ZB7dT4VaQdwurxPU3lQvU) | 3:21 |
@@ -307,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Swan Song \- Acoustic](https://open.spotify.com/track/5vj7xvilPeCv3DQgpy9auU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Swan Song \(From the Motion Picture "Alita: Battle Angel"\) \[Acoustic\]](https://open.spotify.com/album/541dE9Y2ryqmu0e95NBOOV) | 3:09 |
 | 300 | [Be As You Are \- Acoustic](https://open.spotify.com/track/4t03qcATBoSFWGDDCo29v3) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Be As You Are \(Acoustic\)](https://open.spotify.com/album/09aTBn50hvsrcAzSuPq0oq) | 3:54 |
 
-Snapshot ID: `MTY0MDMxNTc0NiwwMDAwMDAwMDI5YjgxMWI1NDgyYWVhMDEzYTYzZWM2MTRlMTZiZWU4`
+Snapshot ID: `MTY0MDMyNDM3MiwwMDAwMDAwMDI5YjgxMWI1NDgyYWVhMDEzYTYzZWM2MTRlMTZiZWU4`

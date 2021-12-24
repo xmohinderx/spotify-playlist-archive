@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: yvngxchris
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,242 likes - 103 songs - 4 hr 15 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EXTRAVAGANT](https://open.spotify.com/track/1OqRZUOy9RlJ4688w6m8rd) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [EXTRAVAGANT](https://open.spotify.com/album/3pzuz8GN7Ee50O0leQLkUw) | 1:15 |

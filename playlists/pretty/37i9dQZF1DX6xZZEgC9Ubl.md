@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > emo feels for the misunderstood\. remembering Juice WRLD.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,825 likes - 150 songs - 6 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Life's A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [Emotions](https://open.spotify.com/track/6V7RtcUxs1iLhI5L42EQO6) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Emotions](https://open.spotify.com/album/66LXcvwn4jiLuur2Uw27Q4) | 2:45 |
 | 150 | [Alienated](https://open.spotify.com/track/0AdVA0pizR4KoZyu2XSJQp) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Alienated](https://open.spotify.com/album/4WxVgfa6HW5YWyj5I4yURT) | 2:19 |
 
-Snapshot ID: `MTY0MDMxNTcyMywwMDAwMDAwMDdhZGQ2MDliZmNlNDJmYjA5M2JmZmFkNzQ2MjA1NTU5`
+Snapshot ID: `MTY0MDMyNDM1MCwwMDAwMDAwMDdhZGQ2MDliZmNlNDJmYjA5M2JmZmFkNzQ2MjA1NTU5`

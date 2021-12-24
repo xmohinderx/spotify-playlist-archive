@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87JE1B72J6C.md) - [plain]
 
 > The essential deadmau5 originals and remixes.
 
+[Spotify](https://open.spotify.com/user/spotify) - 169,813 likes - 61 songs - 5 hr 34 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When The Summer Dies](https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [When The Summer Dies](https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK) | 5:29 |

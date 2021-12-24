@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
+[Spotify](https://open.spotify.com/user/spotify) - 6,332,566 likes - 100 songs - 7 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Big Poppa \- 2005 Remaster](https://open.spotify.com/track/17larILaMHwsprsMFnYI77) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:12 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Resurrection](https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Resurrection](https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje) | 3:47 |
 | 100 | [If Your Girl Only Knew \(feat Timbaland and Missy Elliott\)](https://open.spotify.com/track/0tDeSKBOBsKHFurhXURSXp) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Mob Wives The Female Hip Hop Compilation](https://open.spotify.com/album/7dkY4ctXrVqWOQ1edo6NUQ) | 4:50 |
 
-Snapshot ID: `MTY0MDMxNTYxOCwwMDAwMDAwMDIzNmI3N2JkNzk1NTZhNTllYzNhYTg5NDVmMjhjYzIw`
+Snapshot ID: `MTY0MDMyNDI0OCwwMDAwMDAwMDIzNmI3N2JkNzk1NTZhNTllYzNhYTg5NDVmMjhjYzIw`

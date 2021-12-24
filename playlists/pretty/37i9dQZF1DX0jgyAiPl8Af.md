@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,883,874 likes - 194 songs - 9 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Villa Traful](https://open.spotify.com/track/0tL8cNoUgDw6Yr9GKNO6SS) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Villa Traful](https://open.spotify.com/album/2I6UeYFsvJqhwmikAXJCLF) | 3:11 |

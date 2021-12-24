@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0jJQDST7bzwAYlN19tFLXw.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 21 songs - 1 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Yourself](https://open.spotify.com/track/7g6KRfjT9n3JWNJtyZtcA5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Love Yourself](https://open.spotify.com/album/2WHKbOZVfSDTJny1dNQnsJ) | 3:39 |

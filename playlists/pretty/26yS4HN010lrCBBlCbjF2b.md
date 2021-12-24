@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/26yS4HN010lrCBBlCbjF2b.md) - [plain]
 
 > Hultsfredsfestivalen 2012 går av stapeln den 14:e juni och pågår t.om\. den 16:e\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 93 songs - 6 hr 45 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Are Your Friends \(Reprise\)](https://open.spotify.com/track/6RjEzRGmjvLRCWzR3dx7ij) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [A Cross The Universe](https://open.spotify.com/album/4DIWqOzwfX74Tj2a8MAKma) | 3:42 |

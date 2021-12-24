@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Wake up with the brightest Indie.
 
+[Spotify](https://open.spotify.com/user/spotify) - 34,332 likes - 50 songs - 3 hr 19 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [House Of My Soul \(You Light The Rooms\)](https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:53 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 49 | [Sucker's Prayer](https://open.spotify.com/track/3pxhPssdL2SJObXb5hpCRu) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [I'll Be Your Girl](https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6) | 3:28 |
 | 50 | [Die Die Die](https://open.spotify.com/track/1FZKxt9SOFvxKbhjzlBONc) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Emotionalism](https://open.spotify.com/album/2ktxUTtc7FIpTH3vN70NZm) | 2:50 |
 
-Snapshot ID: `MTY0MDMxNTU3MSwwMDAwMDAwMGJlNDY4MDdkNjJjYTFkZTFjM2I4NmZiNTM4NDRiNzM2`
+Snapshot ID: `MTY0MDMyNDIwMywwMDAwMDAwMGJlNDY4MDdkNjJjYTFkZTFjM2I4NmZiNTM4NDRiNzM2`

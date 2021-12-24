@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6ydjpSDa3z.md) - [plain]
 
 > Cozy up with Chekhov's classic short stories, or settle in for a longer listen with Tolstoy, Dostoyevsky, and other Russian greats.
 
+[Spotify](https://open.spotify.com/user/spotify) - 9,417 likes - 65 songs - 18 hr 36 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Overcoat](https://open.spotify.com/track/21xXM4aHn4EwWafwfEDR84) | [Michael Redgrave](https://open.spotify.com/artist/5h8JGn6Et5isBd8zzdlWTM) | [Classic Russian Short Stories](https://open.spotify.com/album/1AHIn5XXsUF3lV92f72Vfb) | 27:42 |

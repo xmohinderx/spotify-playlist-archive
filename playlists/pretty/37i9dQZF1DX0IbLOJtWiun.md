@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 
 > In honor of the little teams who could
 
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 20 songs - 1 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What About Now](https://open.spotify.com/track/3REnSIs1aoYKcpxYEY82rg) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [What About Now](https://open.spotify.com/album/0ygrVw5SYpWGQXD84CNdMW) | 3:44 |

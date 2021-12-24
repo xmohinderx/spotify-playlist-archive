@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 
 > Where all Hamilton music coexists.
 
+[Spotify](https://open.spotify.com/user/spotify) - 264,756 likes - 72 songs - 3 hr 47 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alexander Hamilton](https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Okieriete Onaodowan](https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:56 |
@@ -79,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 | 71 | [Who Tells Your Story \(feat\. Common & Ingrid Michaelson\)](https://open.spotify.com/track/2KxJv4AduPGxzI5NH2HUoC) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 4:13 |
 | 72 | [Dear Theodosia \- Reprise](https://open.spotify.com/track/0EPhiIcssW3jLKcGL8zYfl) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [The Hamilton Mixtape](https://open.spotify.com/album/5AgsHUKFxr5DApRCmulIqJ) | 3:39 |
 
-Snapshot ID: `MTY0MDMxNTYyOCwwMDAwMDAwMDZiYjA3ODQyNTg5NTgzYTY5YTM5M2Q5NzRiNTc4Yzkz`
+Snapshot ID: `MTY0MDMyNDI1OCwwMDAwMDAwMDZiYjA3ODQyNTg5NTgzYTY5YTM5M2Q5NzRiNTc4Yzkz`

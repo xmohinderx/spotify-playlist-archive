@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6llXb59kkj2STIMBcDobJT.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 37 songs - 2 hr 6 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sea Shell Rock Me](https://open.spotify.com/track/6hk7yHmAkxdlU50GNryJJ3) | [Amber](https://open.spotify.com/artist/1oxXG1SLAThIhH3Xh78MdL) | [Pearls of Amber](https://open.spotify.com/album/57GKErkPXVAFmIvphlzOks) | 3:12 |

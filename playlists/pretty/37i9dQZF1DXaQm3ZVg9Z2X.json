@@ -1,6 +1,11 @@
 {
   "description": "This is Coldplay. The essential tracks, all in one place.",
   "name": "This Is Coldplay",
+  "num_followers": 2539312,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzMjQ1NjAwMCwwMDAwMDA0NTAwMDAwMTdjMTVmNWMyYjIwMDAwMDE3OTQxNjEzZDU5",
   "tracks": [
     {

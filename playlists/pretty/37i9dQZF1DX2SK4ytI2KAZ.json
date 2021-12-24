@@ -1,7 +1,12 @@
 {
   "description": "ALT the Good Vibes.",
   "name": "It's ALT Good!",
-  "snapshot_id": "MTY0MDMxNTY0MSwwMDAwMDAwMGNiOWE2MTc5YWY3YjZhYTYwNmQxMDIzMWZjMDVkODA4",
+  "num_followers": 636260,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3MCwwMDAwMDAwMGNiOWE2MTc5YWY3YjZhYTYwNmQxMDIzMWZjMDVkODA4",
   "tracks": [
     {
       "added_at": "2021-03-10 04:13:31",

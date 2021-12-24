@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6sKz6mI28U6Dcj7a8WpRnQ.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 471 likes - 50 songs - 3 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Walk Like an Egyptian](https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:24 |

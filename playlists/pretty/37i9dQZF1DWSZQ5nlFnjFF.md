@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZQ5nlFnjFF.md) - [plain]
 
 > Step from poem to poem — glittering — and distill amazing sense from ordinary meanings.
 
+[Spotify](https://open.spotify.com/user/spotify) - 11,811 likes - 150 songs - 3 hr 32 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Emily Dickinson Pt.1 \(Readings from Her Collection of Poetry & Letters\)](https://open.spotify.com/track/3ODgYkgSDyP8byrApPDMKj) | [Emily Dickinson](https://open.spotify.com/artist/72q8JOv3BsuoTkifnwwUtI), [Steve Glen](https://open.spotify.com/artist/56PbkoIUcTRS5C1bcVFPY3) | [Emily Dickinson \(Poems & Letters\)](https://open.spotify.com/album/5XZFclMgvHqM2oxP0ocUGv) | 29:43 |
@@ -157,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZQ5nlFnjFF.md) - [plain]
 | 149 | [One Need Not To Be A Chamber To Be Haunted By Emily Dickinson](https://open.spotify.com/track/75axVLLr1EsC1b8vXRANAW) | [Emily Dickinson](https://open.spotify.com/artist/72q8JOv3BsuoTkifnwwUtI) | [Emily Dickinson \- The Poetry](https://open.spotify.com/album/4EwmTclZs2MD45EKNBVvDm) | 0:49 |
 | 150 | [Answer July By Emily Dickinson](https://open.spotify.com/track/5gWf5OG6JvbflpGpAUR4yh) | [Emily Dickinson](https://open.spotify.com/artist/72q8JOv3BsuoTkifnwwUtI) | [Emily Dickinson \- The Poetry](https://open.spotify.com/album/4EwmTclZs2MD45EKNBVvDm) | 0:39 |
 
-Snapshot ID: `MTY0MDMxNTQ5NSwwMDAwMDAwMDliYWZiODQzZjlkM2I0M2MyYzhmOWU1YjFlODJhNmUy`
+Snapshot ID: `MTY0MDMyNDEyNywwMDAwMDAwMDliYWZiODQzZjlkM2I0M2MyYzhmOWU1YjFlODJhNmUy`

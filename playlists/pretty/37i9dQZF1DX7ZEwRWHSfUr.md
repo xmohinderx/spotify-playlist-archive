@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZEwRWHSfUr.md) - [plain]
 
 > Be not afeard..\. this playlist is full of sounds and sweet airs that give delight\. These are Shakespeare's comedies.
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,656 likes - 50 songs - 21 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Epilogue \- From "As You Like It"](https://open.spotify.com/track/5TJEZ1O6TGkQXlV9r5hPTu) | [Vanessa Redgrave](https://open.spotify.com/artist/0HcWZFbmYrqQipu6fZeowD) | [Shakespeare In Music & Words](https://open.spotify.com/album/0h3xFLwnTwNdj5X1MQbhHf) | 1:51 |

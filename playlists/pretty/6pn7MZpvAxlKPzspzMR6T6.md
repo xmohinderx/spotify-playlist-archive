@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6pn7MZpvAxlKPzspzMR6T6.md) - [plain]
 
 > Take in the view and get lost in total backroads bliss with this mellow indie folk...
 
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 28 songs - 1 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lost in My Mind](https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 4:19 |

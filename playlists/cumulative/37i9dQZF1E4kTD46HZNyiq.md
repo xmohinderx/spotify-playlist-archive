@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LOS LEO, Kalax, sød ven and more
+> With Caroline Polachek, Whole Doubts, Hardcastle and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Portland](https://open.spotify.com/track/4GLcUCGCWBv6lupurSGEsK) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6) | 5:16 | 2021-12-02 | 2021-12-18 |
 | [Put Your Money on Me](https://open.spotify.com/track/4Q1pnbP3KrfMus9LeqorGB) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4) | 3:23 | 2021-12-01\* |  |
 | [Reckless Lover \- Acoustic](https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Reckless Lover \(Acoustic\)](https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX) | 4:00 | 2021-12-01\* |  |
-| [Rest of Our Lives](https://open.spotify.com/track/4KofzqnNotdmsl4qhmlRal) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/6FceMT138EsJYtSzstQ1tl) | 2:54 | 2021-12-09 |  |
+| [Rest of Our Lives](https://open.spotify.com/track/4KofzqnNotdmsl4qhmlRal) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/6FceMT138EsJYtSzstQ1tl) | 2:54 | 2021-12-09 | 2021-12-24 |
+| [Rest of Our Lives](https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Wide Awake](https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm) | 2:54 | 2021-12-24 |  |
 | [Rewind](https://open.spotify.com/track/7zO6KQDrxDwhJqE6goQ5s7) | [Jet Black Alley Cat](https://open.spotify.com/artist/6p2LDcKxYGWM4azuOXNPHJ) | [\[ The Black Era \]](https://open.spotify.com/album/47rOikEyuwGUCqGpTemU7G) | 4:00 | 2021-12-04 | 2021-12-22 |
 | [Sad People Dancing](https://open.spotify.com/track/3tTjbUTjqHYBhrsGtF6YFA) | [La Bouquet](https://open.spotify.com/artist/2uDY1ixxYwWPw7LXQiROrs) | [Sad People Dancing](https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb) | 4:25 | 2021-12-01\* |  |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-12-19 | 2021-12-22 |

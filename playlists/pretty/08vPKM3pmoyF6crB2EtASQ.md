@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/08vPKM3pmoyF6crB2EtASQ.md) - [plain]
 
 > Sometimes only music can describe that feeling...
 
+[Spotify](https://open.spotify.com/user/spotify) - 6,417 likes - 33 songs - 2 hr 5 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/47zREtxQZ3cHHIZwUQnuuN) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/6VHCF8ykDo3STafE5JfMAs) | 3:53 |

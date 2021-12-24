@@ -1,7 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
   "name": "The Bachelor Party",
-  "snapshot_id": "MTY0MDMxNTY0NywwMDAwMDAwMDY3ZTI2MjdjOThjODk2MzQwNWQ0ZjI1YTY1YjA0MDI1",
+  "num_followers": 88926,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI3NywwMDAwMDAwMDY3ZTI2MjdjOThjODk2MzQwNWQ0ZjI1YTY1YjA0MDI1",
   "tracks": [
     {
       "added_at": "2020-07-21 08:24:21",

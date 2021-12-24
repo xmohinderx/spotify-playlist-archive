@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 
 > Comforting sounds of thunder and rain.
 
+[Spotify](https://open.spotify.com/user/spotify) - 614,125 likes - 194 songs - 8 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Sky's Awake](https://open.spotify.com/track/0GGHxdy1mw6OcS2dVAH0es) | [Drivotra](https://open.spotify.com/artist/11662aaOqDYv2EBHSxJPJV) | [Thunder Nights](https://open.spotify.com/album/1Sp4OvpqqGqGsJbiFj3ICO) | 3:28 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Enjoy the best Italian dinner of your life\. Buon Appetito!
 
+[Spotify](https://open.spotify.com/user/spotify) - 168,668 likes - 44 songs - 2 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mala Femmina](https://open.spotify.com/track/4xNlVOVjEdbQ7oAqzBWFit) | [Jerry Vale](https://open.spotify.com/artist/5MaJrqhwysKwbvDePyAS6l) | [Sings The Great Italian Hits](https://open.spotify.com/album/1kH2CE1cZ61h3XjBsyCAvB) | 2:32 |

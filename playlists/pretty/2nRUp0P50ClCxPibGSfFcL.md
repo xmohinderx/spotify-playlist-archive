@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2nRUp0P50ClCxPibGSfFcL.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 226 likes - 30 songs - 1 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [We Take Care of Our Own](https://open.spotify.com/track/4KGbQXQ8HKVypeKJslxQtH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wrecking Ball](https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM) | 3:53 |

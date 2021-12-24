@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3hR94iGaotWbCFv5eDe0gZ.md) - [plain]
 
 > Shady Records top picks chosen by Spotify.
 
+[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 41 songs - 2 hr 56 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Talkin’ 2 Myself](https://open.spotify.com/track/12jQrKEmIjZ7WFETYRyqjk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Kobe](https://open.spotify.com/artist/1XNFcPvkDxMDRFnLz0vjZk) | [Recovery](https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs) | 5:00 |

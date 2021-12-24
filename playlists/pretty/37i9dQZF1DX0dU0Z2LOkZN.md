@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
+[Spotify](https://open.spotify.com/user/spotify) - 228,313 likes - 84 songs - 3 hr 25 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Different Type Of Vibeo](https://open.spotify.com/track/2AtkeDMPxlvnUSSaVnZ5MX) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [21' Til Infinity](https://open.spotify.com/album/5aYhSXuC10dgFaRDw6MrEQ) | 3:12 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ynPp7KaiSY.md) - [plain]
 
 > The best <a href="spotify:genre:classical">classical</a> pieces inspired by dancing snowflakes, or evoke images of winter landscapes\. Enjoy the perfect soundtrack for a winter journey, or a quiet night's reading by the fireside\. Other seasons: <a href="spotify:user:spotify:playlist:37i9dQZF1DWZm0IlR3JPVY">Spring</a>, <a href="spotify:user:spotify:playlist:37i9dQZF1DWYRUctuBGBo1">Summer</a>, <a href="spotify:user:spotify:playlist:37i9dQZF1DX2d2B80QbRDa">Autumn</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 41,043 likes - 50 songs - 3 hr 58 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [12 Etudes d'exécution transcendante, S.139: No.12 Chasse neige \(Andante con moto\)](https://open.spotify.com/track/5Ewl0NXO6VRsS8pWnTETJ1) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Transcendental \- Daniil Trifonov Plays Franz Liszt \(Etudes S\. 139, S\. 141, S\. 144, S\. 145\)](https://open.spotify.com/album/7JIZxqtVJPt8U7o8RwIEs4) | 5:52 |

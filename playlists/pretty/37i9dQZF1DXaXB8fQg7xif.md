@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,754,937 likes - 125 songs - 6 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |
@@ -132,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 124 | [Bruk It Down \(feat\. TxTHEWAY\)](https://open.spotify.com/track/04J03yanQCmSuigan5Y0cM) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [TxTHEWAY](https://open.spotify.com/artist/1G8r1xxQVLm8AXRI2iohhe) | [Bruk It Down \(feat\. TxTHEWAY\)](https://open.spotify.com/album/696wZWXfscdFjxQxK06WgP) | 2:16 |
 | 125 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 |
 
-Snapshot ID: `MTY0MDMxNTc3OSwwMDAwMDAwMDc5ZWEzNjc3NmVkOTAwZjc1ZjNjYTRmZDUyNzZmNGRl`
+Snapshot ID: `MTY0MDMyNDQwNCwwMDAwMDAwMDc5ZWEzNjc3NmVkOTAwZjc1ZjNjYTRmZDUyNzZmNGRl`

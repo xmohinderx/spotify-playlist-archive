@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/4NAi06Izmj4CPqmMuY1RsE.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 20 songs - 1 hr 18 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [1901](https://open.spotify.com/track/7hExqd5aeA6cdDFx6sBfd3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7bJTscIEKaObZS61RmpviI) | 3:13 |

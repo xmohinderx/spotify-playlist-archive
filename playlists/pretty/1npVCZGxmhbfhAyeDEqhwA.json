@@ -1,6 +1,11 @@
 {
   "description": "",
   "name": "Disclosure's Spotify Playlist",
+  "num_followers": 500,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MzEsZTEzOWFiMTgzNDhjMzMxZTg3NjFjOWIxYzk5ZWY3ZDY2ODdlZGM4Mg==",
   "tracks": [
     {

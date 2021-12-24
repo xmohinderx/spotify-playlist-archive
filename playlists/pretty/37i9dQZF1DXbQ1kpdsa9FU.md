@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
+[Spotify](https://open.spotify.com/user/spotify) - 487,636 likes - 100 songs - 7 hr 16 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hallelujah Even Here](https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Lydia Laird](https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N) | 3:24 |
@@ -107,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [Who Am I](https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 5:35 |
 | 100 | [Mighty to Save](https://open.spotify.com/track/5l4kTQShA5kAOvjbGBTxBm) | [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [Great God Who Saves](https://open.spotify.com/album/0QuGrGmH2VaVUvMZgEbYUr) | 3:49 |
 
-Snapshot ID: `MTY0MDMxNTc5MiwwMDAwMDAwMDg4OGNjOTJkZDIyNDRkYzAzZGQ0YmMxMTNmNjEzYzI1`
+Snapshot ID: `MTY0MDMyNDQxNiwwMDAwMDAwMDg4OGNjOTJkZDIyNDRkYzAzZGQ0YmMxMTNmNjEzYzI1`

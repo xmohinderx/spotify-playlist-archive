@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: CHAI
 
+[Spotify](https://open.spotify.com/user/spotify) - 137,496 likes - 80 songs - 4 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Choice](https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No Choice](https://open.spotify.com/album/61hEtv7eRNxChNrsbpGXSC) | 3:41 |

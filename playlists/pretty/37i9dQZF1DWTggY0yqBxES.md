@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield and for the real hip\-hop stans! Cover: Aminé
 
+[Spotify](https://open.spotify.com/user/spotify) - 802,373 likes - 50 songs - 2 hr 43 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [4K](https://open.spotify.com/track/0J1KDL7iu717SK1yr93rRb) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [4K](https://open.spotify.com/album/7Ad5KfoMmcEL3FRLRZ7zFa) | 3:07 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 49 | [Live a Little](https://open.spotify.com/track/6B1TtaLjTJ3ZpxrstljeMV) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0) | [Live a Little](https://open.spotify.com/album/5Tmo0zdfO8CYRWVntrKS2I) | 2:38 |
 | 50 | [Truffles](https://open.spotify.com/track/6YasuOZcSrwQvHNbsxuPPW) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Truffles](https://open.spotify.com/album/5UwoNjOPVBSOlAQU8AfvGE) | 3:15 |
 
-Snapshot ID: `MTY0MDMxNTUxMywwMDAwMDAwMDYwNDA1OGE5NmEzNjcyNzEzYTQ5NzJmMGQ2Yjc2YmUw`
+Snapshot ID: `MTY0MDMyNDE0NSwwMDAwMDAwMDYwNDA1OGE5NmEzNjcyNzEzYTQ5NzJmMGQ2Yjc2YmUw`

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOlMB0hApiu.md) - [plain]
 
 > "...when genuine passion moves you, say what you've got to say, and say it hot." Selected readings of D\. H\. Lawrence's poetry, novels, short stories, and letters.
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,388 likes - 84 songs - 18 hr 14 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Ship of Death \(D.H\. Lawrence\)](https://open.spotify.com/track/1zyedK3cscXb48zrx9Imit) | [Dylan Thomas](https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff) | [Reads a Personal Anthology](https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK) | 8:03 |

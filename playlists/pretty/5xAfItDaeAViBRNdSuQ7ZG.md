@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5xAfItDaeAViBRNdSuQ7ZG.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 344 likes - 50 songs - 2 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Joy To The World](https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Naturally](https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM) | 3:40 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1S4JPQeJxtsN37X8as5EPk.md) - [plain]
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 
+[Spotify](https://open.spotify.com/user/spotify) - 8,592 likes - 49 songs - 2 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Born 100,000 Years Ago](https://open.spotify.com/track/6VXUv7wHlVfoJq1Rr8K83d) | [Cisco Houston](https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE) | [The Folkways Years, 1944\-1961](https://open.spotify.com/album/3xqEhSh6qA2Uj0dM3XFm9j) | 1:10 |

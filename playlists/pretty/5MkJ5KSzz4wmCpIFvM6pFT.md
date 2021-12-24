@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5MkJ5KSzz4wmCpIFvM6pFT.md) - [plain]
 
 > Missa inte Johnossi på Flamingo\-scenen på TORSDAG / 18.45
 
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 10 songs - 41 min 31 sec
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gone Forever](https://open.spotify.com/track/4mh34lcSbs2fY4enIFnrF8) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Gone Forever](https://open.spotify.com/album/0Cl2xm7m0JsiXehWaYvNv0) | 4:15 |

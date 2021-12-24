@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
+[Spotify](https://open.spotify.com/user/spotify) - 382,673 likes - 56 songs - 2 hr 51 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pohai Ke Aloha](https://open.spotify.com/track/05jS1nFGqVQ6QFQlLVYw3m) | [Eco Friendly](https://open.spotify.com/artist/4EKiXQ8sC11kEoiz18VBmQ) | [Pohai Ke Aloha](https://open.spotify.com/album/190yIgaoivhzltuOLMzszR) | 2:58 |

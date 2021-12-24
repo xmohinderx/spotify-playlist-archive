@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/3kt5kS8Xqjfh8olOS24HX4.md) - [plain]
 
 > Get your sparklers out for this patriotic blend of folk, pop, and Americana.
 
+[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 35 songs - 2 hr 13 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Firecracker](https://open.spotify.com/track/09KwsYdqoZUsa01p0XeBVc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 2:51 |

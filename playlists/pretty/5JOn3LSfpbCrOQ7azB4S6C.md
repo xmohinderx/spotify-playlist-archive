@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5JOn3LSfpbCrOQ7azB4S6C.md) - [plain]
 
 > The latest singles on Spotify all in one playlist\. Updated weekly.
 
+[Spotify](https://open.spotify.com/user/spotify) - 15,830 likes - 80 songs - 5 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [When My Heart Breaks](https://open.spotify.com/track/6ZTZPsYz0ohmdcDEo9nNs9) | [Vanbot](https://open.spotify.com/artist/21BNK6J98DN07SsiS0MQjD) | [When My Heart Breaks](https://open.spotify.com/album/2hkgWnw5zcd5DZHg05Ulhu) | 3:41 |

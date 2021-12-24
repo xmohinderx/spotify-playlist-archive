@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
+[Spotify](https://open.spotify.com/user/spotify) - 776,249 likes - 50 songs - 2 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Time Bomb](https://open.spotify.com/track/7goMqXhydyyhmWdPxLTm7E) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/6feZP86NoM6P0UHuRLpJCx) | 2:24 |
@@ -57,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 49 | [Nightlife](https://open.spotify.com/track/2gAJ6xYuJ2N6DdtDOhsL3y) | [Off With Their Heads](https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv) | [Home](https://open.spotify.com/album/0n7W9yIDvgDXcuipMStl0S) | 2:29 |
 | 50 | [Skate Or Die](https://open.spotify.com/track/174t68Pnn9wb1UgM7fCRmY) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [They Came from the Shadows](https://open.spotify.com/album/21hHTrVvbzGDVynkfFvxtm) | 1:50 |
 
-Snapshot ID: `MTY0MDMxNTgxNCwwMDAwMDAwMDg0NGEyNmIzYzNkY2RlNTNkMGIyMjFlODVkMmI0MmEz`
+Snapshot ID: `MTY0MDMyNDQzNywwMDAwMDAwMDg0NGEyNmIzYzNkY2RlNTNkMGIyMjFlODVkMmI0MmEz`

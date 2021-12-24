@@ -1,7 +1,12 @@
 {
   "description": "Here it is, the playlist for the ultimate throwback bash!",
   "name": "Throwback Party",
-  "snapshot_id": "MTY0MDMxNTcyOCwwMDAwMDAwMDBlYjA2MDAzMjYxNTlhMDJjOTUzOGJmOGNlZWZmNWZi",
+  "num_followers": 3072897,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDM1NCwwMDAwMDAwMDBlYjA2MDAzMjYxNTlhMDJjOTUzOGJmOGNlZWZmNWZi",
   "tracks": [
     {
       "added_at": "2021-12-15 09:46:05",

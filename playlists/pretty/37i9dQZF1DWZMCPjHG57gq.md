@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMCPjHG57gq.md) - [plain]
 
 > Hear all the best songs by the monumental <a href="spotify:artist:3dkbV4qihUeMsqN4vBGg93">soul singer</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 156,557 likes - 26 songs - 1 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |

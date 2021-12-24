@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jsulumEbDn.md) - [plain]
 
 > The <a href="spotify:artist:066X20Nz7iquqkkCW6Jxy6">band</a>'s greatest hits, including selections from their latest album, american dream.
 
+[Spotify](https://open.spotify.com/user/spotify) - 68,067 likes - 23 songs - 2 hr 30 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |

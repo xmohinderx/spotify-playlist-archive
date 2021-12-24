@@ -1,7 +1,12 @@
 {
   "description": "The best from the world of acoustic songs right now.",
   "name": "Hot Acoustics",
-  "snapshot_id": "MTY0MDMxNTU3NiwwMDAwMDAwMDgzNGZiNDVhNzc0YmFkMGQ1NDg5NGVlMDU2ODZkNWQ2",
+  "num_followers": 1113250,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDIwNywwMDAwMDAwMDgzNGZiNDVhNzc0YmFkMGQ1NDg5NGVlMDU2ODZkNWQ2",
   "tracks": [
     {
       "added_at": "2021-03-11 23:02:00",

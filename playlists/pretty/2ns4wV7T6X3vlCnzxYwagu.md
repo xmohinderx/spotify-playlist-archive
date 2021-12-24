@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2ns4wV7T6X3vlCnzxYwagu.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 146 likes - 15 songs - 1 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Follow You](https://open.spotify.com/track/2vOcaHWCGCLUsYuryM9iC4) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/6bEUO42UQwqUae2ptjd7XT) | 3:35 |

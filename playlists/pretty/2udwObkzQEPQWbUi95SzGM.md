@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2udwObkzQEPQWbUi95SzGM.md) - [plain]
 
 > Escalating folk and chamber pop to pump up your day.
 
+[Spotify](https://open.spotify.com/user/spotify) - 128 likes - 22 songs - 1 hr 23 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Need The Sun To Break](https://open.spotify.com/track/6LDxDMjvbkBtY8HNJWQYtn) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Need The Sun To Break](https://open.spotify.com/album/2hkKnfMGSa82ajpSryJqoU) | 3:45 |

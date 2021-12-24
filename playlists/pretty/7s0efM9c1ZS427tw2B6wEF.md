@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7s0efM9c1ZS427tw2B6wEF.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 19,191 likes - 25 songs - 1 hr 37 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wild Wild Love \(feat\. G.R.L.\)](https://open.spotify.com/track/6DcDdDevI94Dh4vc5anXBE) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Wild Wild Love \(feat\. G.R.L.\)](https://open.spotify.com/album/5guseY8dOt96Ji3n9TVSwA) | 3:22 |

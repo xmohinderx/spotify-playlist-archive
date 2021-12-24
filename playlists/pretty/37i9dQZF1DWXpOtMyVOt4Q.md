@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Soundtrack your gaming with these atmospheric beats.
 
+[Spotify](https://open.spotify.com/user/spotify) - 204,043 likes - 60 songs - 4 hr 59 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mosaic](https://open.spotify.com/track/1kua6VM4K3jnxqKxliDVyx) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Across the Oceans](https://open.spotify.com/album/2ytkZoVgs5yKkFEP9oZiut) | 3:54 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 59 | [A Beautiful Mine](https://open.spotify.com/track/69W7GtjzZY4ljBPnS1UPfy) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/1la4Ol737XPo4bZJMqQS57) | 5:29 |
 | 60 | [Your Hand In Mine](https://open.spotify.com/track/5uWzSBJKqdSKJ3uMrYYUIT) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/1JU4XTyTzADBQE1KpM0Wtx) | 8:16 |
 
-Snapshot ID: `MTY0MDMxNTU3MCwwMDAwMDAwMDQyYzNiNjE5ODk4MzAxNjVhNmRiYzYyZGUyNWJiMzBl`
+Snapshot ID: `MTY0MDMyNDIwMiwwMDAwMDAwMDQyYzNiNjE5ODk4MzAxNjVhNmRiYzYyZGUyNWJiMzBl`

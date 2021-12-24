@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > Summertime sadness everyday
 
+[Spotify](https://open.spotify.com/user/spotify) - 10,369 likes - 60 songs - 3 hr 4 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I must apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 |
@@ -67,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 59 | [bubblegum](https://open.spotify.com/track/6nex4xkeGBrngKZbgoDWBi) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [bubblegum](https://open.spotify.com/album/3n4irVf4flMBpTYYbbPqnY) | 3:08 |
 | 60 | [Really Wanna Dance With You](https://open.spotify.com/track/1qpXhP3O5CSVQyc90dQeJc) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Really Wanna Dance With You](https://open.spotify.com/album/1z6W9hbQHesB5jcbMYlRuY) | 2:38 |
 
-Snapshot ID: `MTY0MDMxNTU3NywwMDAwMDAwMGZhMjdjODliN2IyZDUyYmRiNTgzZTQwZTc0NWU4YTJh`
+Snapshot ID: `MTY0MDMyNDIwOCwwMDAwMDAwMGZhMjdjODliN2IyZDUyYmRiNTgzZTQwZTc0NWU4YTJh`

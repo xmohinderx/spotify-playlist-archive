@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Dream your way through the day to these blissful indie tunes.
 
+[Spotify](https://open.spotify.com/user/spotify) - 231,014 likes - 80 songs - 5 hr 9 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
@@ -87,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 |
 | 80 | [Opaque](https://open.spotify.com/track/0dNm9rS8VMlP1ZhnGPAEuh) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [Opaque](https://open.spotify.com/album/54QKs6GR3fhmcabY3i4oHW) | 3:36 |
 
-Snapshot ID: `MTY0MDMxNTcyMiwwMDAwMDAwMDUzZWM3MGU4YjkxOGEyZDQ5YTk0YzJiYWQ5N2ViMWNh`
+Snapshot ID: `MTY0MDMyNDM0OCwwMDAwMDAwMDUzZWM3MGU4YjkxOGEyZDQ5YTk0YzJiYWQ5N2ViMWNh`

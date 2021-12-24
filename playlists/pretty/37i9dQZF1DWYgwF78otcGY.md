@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
+[Spotify](https://open.spotify.com/user/spotify) - 22,538 likes - 52 songs - 2 hr 38 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Genom Eld & Vatten](https://open.spotify.com/track/6N6Ias6AghMTQOwP3G2TfQ) | [Sarek](https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp) | [Genom Eld & Vatten](https://open.spotify.com/album/6uL4SHOsPuLrRQGESOS3Jy) | 3:19 |
@@ -59,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Amazing](https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Amazing](https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN) | 3:01 |
 | 52 | [A Little Bit of Love](https://open.spotify.com/track/6wmwHJUE0tpPulaOO2KGhz) | [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [The Collector](https://open.spotify.com/album/1pBKs1EcgLJGQ2kRapI0M4) | 3:10 |
 
-Snapshot ID: `MTY0MDMxNTU4MCwwMDAwMDAwMGNmOGVkMDQ5NWU1ZjE1MDlkYWM4YTBlODY5YTg2NDRj`
+Snapshot ID: `MTY0MDMyNDIxMiwwMDAwMDAwMGNmOGVkMDQ5NWU1ZjE1MDlkYWM4YTBlODY5YTg2NDRj`

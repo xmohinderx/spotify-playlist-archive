@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7buHbubC96caOTOSQQJ4pl.md) - [plain]
 
 > Another great metal year is coming to a close\. Explore this year's highlights in metal with this playlist!
 
+[Spotify](https://open.spotify.com/user/spotify) - 4,921 likes - 116 songs - 10 hr 41 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [High Road](https://open.spotify.com/track/4coYVm83MTdcEKlWcbU4Zh) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:15 |

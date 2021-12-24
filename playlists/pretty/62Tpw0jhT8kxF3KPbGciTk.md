@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/62Tpw0jhT8kxF3KPbGciTk.md) - [plain]
 
 > As the snow falls outside, cozy up and relax with this collection of soothing acoustic tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 977 likes - 104 songs - 6 hr 49 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tracks In The Snow](https://open.spotify.com/track/4Ys8dcs3k8qIDKoHqTTnse) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks In The Snow](https://open.spotify.com/album/6U0mJ5H56ck0ueHoAcHmrx) | 3:51 |

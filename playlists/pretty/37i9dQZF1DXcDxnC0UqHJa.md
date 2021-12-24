@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Waxahatchee
 
+[Spotify](https://open.spotify.com/user/spotify) - 458,877 likes - 115 songs - 7 hr 26 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [As I Rise](https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG) | 2:20 |
@@ -122,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Someone Like You](https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Someone Like You](https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb) | 4:51 |
 | 115 | [i'm not okay](https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [i'm not okay](https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa) | 2:54 |
 
-Snapshot ID: `MTY0MDMxNTgwNCwwMDAwMDAwMDRkODYzMjYyOTUzMTMxNTIzNDkzZGM4Y2QxNWRiYmZk`
+Snapshot ID: `MTY0MDMyNDQyOCwwMDAwMDAwMDRkODYzMjYyOTUzMTMxNTIzNDkzZGM4Y2QxNWRiYmZk`

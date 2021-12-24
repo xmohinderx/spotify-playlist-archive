@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gxuYiQFvQL.md) - [plain]
 
 > A collection of classic tales by beloved Danish author Hans Christian Andersen.
 
+[Spotify](https://open.spotify.com/user/spotify) - 52,281 likes - 17 songs - 5 hr 0 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thumbelina](https://open.spotify.com/track/1wVZruKbEhNKF5KGBnVfIv) | [Hans Christian Anderson](https://open.spotify.com/artist/71UFKjkG4b332WjdcCm4Yz), [Ann Lancaster](https://open.spotify.com/artist/7DKo9sZTQcoqjEmiKAcn2m), [Louis Adams](https://open.spotify.com/artist/6z9UJEQQ4Nu6JMOWDK29tL), [Nigel Sharpe](https://open.spotify.com/artist/47i0y7E9wRdtswOUFEtuje) | [5 Great Fairy Stories](https://open.spotify.com/album/0oAFxTpeDW9eaDLoFnXXYd) | 8:43 |

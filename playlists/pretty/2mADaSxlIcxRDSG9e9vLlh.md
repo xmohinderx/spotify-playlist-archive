@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/2mADaSxlIcxRDSG9e9vLlh.md) - [plain]
 
 > Songs for you and your best friend\. Endless love in any weather.
 
+[Spotify](https://open.spotify.com/user/spotify) - 1,382 likes - 35 songs - 2 hr 11 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yours to Keep](https://open.spotify.com/track/5N93hk1vAdIorXlYCiBYPv) | [Teddybears](https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv) | [Rock 'n' Roll Highschool](https://open.spotify.com/album/2vaE8vXhsN5d5gsnAN3C9T) | 3:13 |

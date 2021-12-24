@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/0COE1X7FirWRdfOgls1JJV.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 490 likes - 50 songs - 3 hr 50 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |

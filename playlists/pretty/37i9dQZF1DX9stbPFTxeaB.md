@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
+[Spotify](https://open.spotify.com/user/spotify) - 840,179 likes - 68 songs - 4 hr 35 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [United Nations Stomp \(feat\. Marcus King\)](https://open.spotify.com/track/3nuvIzElt8u5OjR7XwrC7A) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [United Nations Stomp \(feat\. Marcus King\)](https://open.spotify.com/album/4BNmTehRD2aGl3IoglqPcA) | 5:47 |

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/7b1rMSnmiYfj8nH8spIjxF.md) - [plain]
 
 > Första helgen i augusti går folk\- och världsmusikfestivalen Urkult av stapeln för 18:e året i rad\. 2 \- 4 augusti är datumen för sommarens upplaga\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 
+[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 18 songs - 1 hr 12 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ignorant Boy, Beatiful Girl](https://open.spotify.com/track/3tKZnG0UASS8zftOrFIH95) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Citadel Band](https://open.spotify.com/album/2NdsxJipz3wJv1nRcWrRNa) | 4:00 |

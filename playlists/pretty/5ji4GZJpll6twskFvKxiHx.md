@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5ji4GZJpll6twskFvKxiHx.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 14 likes - 50 songs - 3 hr 1 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PILLOWTALK](https://open.spotify.com/track/0IKK48xF4eEdfofyaeKWWO) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [PILLOWTALK](https://open.spotify.com/album/6BUAjgcgWhtTgRXVqCwF4u) | 3:23 |

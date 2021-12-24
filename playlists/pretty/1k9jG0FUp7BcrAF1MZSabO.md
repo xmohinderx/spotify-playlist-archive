@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/1k9jG0FUp7BcrAF1MZSabO.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 28 likes - 20 songs - 1 hr 28 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |

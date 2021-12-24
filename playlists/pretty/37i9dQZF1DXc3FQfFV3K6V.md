@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
+[Spotify](https://open.spotify.com/user/spotify) - 578,158 likes - 118 songs - 6 hr 44 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Want You Back](https://open.spotify.com/track/37N5kMRSKMZ51e7z2C9TLy) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [I Want You Back](https://open.spotify.com/album/6pgZGRynGEYJu6cHZe9NRO) | 2:46 |

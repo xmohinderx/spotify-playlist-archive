@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30FdZ6jR5Gl.md) - [plain]
 
 > An introduction to American composer Philip Glass \(b\. 1937\), whose hypnotic and powerful music has become part of our cultural soundtrack.
 
+[Spotify](https://open.spotify.com/user/spotify) - 73,166 likes - 47 songs - 5 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Glassworks: I\. Opening](https://open.spotify.com/track/1N06xKid6sYj3vRPbVQX1m) | [Signal](https://open.spotify.com/artist/7w4ShCiJWx2ue1iWpaLHWx), [Michael Riesman](https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1) | [Philip Glass: Glassworks \- Live at \(le\) Poisson Rouge](https://open.spotify.com/album/3l4MBawpEqOAqR6CsuvW1a) | 6:30 |

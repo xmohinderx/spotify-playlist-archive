@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
+[Spotify](https://open.spotify.com/user/spotify) - 687,481 likes - 115 songs - 6 hr 52 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Old Friend \- Instrumental](https://open.spotify.com/track/1OlYcAdEPMmjgBhOqpF0se) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Instrumentals Vol\. 1](https://open.spotify.com/album/5cXl5mOcjw8CO4vgCn3chi) | 2:25 |

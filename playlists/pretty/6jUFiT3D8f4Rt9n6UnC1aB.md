@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/6jUFiT3D8f4Rt9n6UnC1aB.md) - [plain]
 
 > 
 
+[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 79 songs - 5 hr 3 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |

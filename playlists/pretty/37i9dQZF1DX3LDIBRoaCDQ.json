@@ -1,7 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
   "name": "Classic Punk",
-  "snapshot_id": "MTY0MDMxNTY1NiwwMDAwMDAwMDVkM2I0NTIzMDA4MTVhZmFhYzRhM2NmNDIzZDg5MjQ2",
+  "num_followers": 1132087,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDI4NSwwMDAwMDAwMDVkM2I0NTIzMDA4MTVhZmFhYzRhM2NmNDIzZDg5MjQ2",
   "tracks": [
     {
       "added_at": "2021-10-06 09:12:22",

@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
+[Spotify](https://open.spotify.com/user/spotify) - 254,996 likes - 75 songs - 5 hr 2 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Go \(feat\. Big D & Twista\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Big D](https://open.spotify.com/artist/3a2TTT8yA6ffsrAyNRUoGg), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 74 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
 | 75 | [Amazing](https://open.spotify.com/track/0m3Ze0cy8qBHSsV2exAfCw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:58 |
 
-Snapshot ID: `MTY0MDMxNTY3OSwwMDAwMDAwMDBhMzA5OTkxMTJjZTIwMjJlOTMzNmYxZjcwZGMxZWJj`
+Snapshot ID: `MTY0MDMyNDMwOCwwMDAwMDAwMDBhMzA5OTkxMTJjZTIwMjJlOTMzNmYxZjcwZGMxZWJj`

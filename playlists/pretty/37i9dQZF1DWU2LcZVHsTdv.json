@@ -1,6 +1,11 @@
 {
   "description": "The country way of testifying. \nCover: Carrie Underwood",
   "name": "Country by the Grace of God",
+  "num_followers": 239270,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
   "snapshot_id": "MTYzOTExMjQwMCwwMDAwMDA4MjAwMDAwMTdkYTJiNjVkNTgwMDAwMDE3ZDc0MDNjMzM2",
   "tracks": [
     {

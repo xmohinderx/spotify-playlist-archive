@@ -1,7 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
   "name": "New Orleans Brass",
-  "snapshot_id": "MTY0MDMxNTc5MSwwMDAwMDAwMGY2ODZlMGIyOGNlMTY1MDUyNWU4NjQ3OTRlMmU4MTNk",
+  "num_followers": 134277,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDMyNDQxNSwwMDAwMDAwMGY2ODZlMGIyOGNlMTY1MDUyNWU4NjQ3OTRlMmU4MTNk",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",

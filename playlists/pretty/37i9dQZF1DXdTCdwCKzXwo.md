@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Classic alternative\. These early pioneers brought the underground to the foreground\. Cover: Lou Reed
 
+[Spotify](https://open.spotify.com/user/spotify) - 856,891 likes - 75 songs - 5 hr 29 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Will Tear Us Apart \- 2010 Remaster](https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 3:24 |
@@ -82,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Cheree \- 1998 Remastered Version](https://open.spotify.com/track/3RH28o7i7Ly4c7yEEPH4Zq) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(1998 Remastered Version\)](https://open.spotify.com/album/7lHdDQ8qsbcNWkEYtcIiHF) | 3:42 |
 | 75 | [Pretty in Pink](https://open.spotify.com/track/1Cl1J4Ai7NkuhLdaDHthTh) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [The Psychedelic Furs Superhits](https://open.spotify.com/album/4sdhLZRcO9DQmrs889H0tl) | 3:59 |
 
-Snapshot ID: `MTY0MDMxNTgyMCwwMDAwMDAwMGUyOTA1Y2I2MGFkMGJjOTZmOGUwMjFlMTkzYWUwZjlj`
+Snapshot ID: `MTY0MDMyNDQ0MywwMDAwMDAwMGUyOTA1Y2I2MGFkMGJjOTZmOGUwMjFlMTkzYWUwZjlj`

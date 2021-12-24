@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/5pxi1UkDk0BbUPDTPjmi4v.md) - [plain]
 
 > Here's to cherishing lifelong friends, remembering the good times, and celebrating the end of an era!
 
+[Spotify](https://open.spotify.com/user/spotify) - 124 likes - 40 songs - 2 hr 46 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [This Night \(The Graduation Song\)](https://open.spotify.com/track/5pwEM77tECkOCY0qSnzi96) | [Expo](https://open.spotify.com/artist/2CzN3HKHAGqFbKuGdVzVNZ) | [This Night \(The Graduation Song\)](https://open.spotify.com/album/2r4nNptMyml8kOnmzPFsvW) | 4:44 |

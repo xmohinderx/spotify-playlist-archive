@@ -4,6 +4,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIVSTUG9zAG.md) - [plain]
 
 > Listen to a collection of his greatest hits\. This Is: George Michael
 
+[Spotify](https://open.spotify.com/user/spotify) - 476,219 likes - 47 songs - 3 hr 55 min
+
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Freedom! '90](https://open.spotify.com/track/1D6nV9TPfMnWm7UdVsDVfI) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice Vol\. 1](https://open.spotify.com/album/4lGS8HxU3NYaQxfU0wx2r1) | 6:30 |
