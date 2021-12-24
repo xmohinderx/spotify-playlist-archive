@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Night Game, Handsome Ghost, The Light the Heat and more
+> With LOS LEO, Kalax, sød ven and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Blake Rose, Kacey Musgraves, Nathaniel Rateliff and more
+> With John Mayer, A R I Z O N A, Patrick Droney, Kacey Musgraves and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

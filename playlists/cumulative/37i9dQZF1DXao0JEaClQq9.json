@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 206133,
       "name": "Addict",
       "url": "https://open.spotify.com/track/6LEG349yBthHmCjGMfd3g8"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5J9y36dALxOozE4aZjAL1j"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 226725,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 212559,
       "name": "Caroline Shut Up",
       "url": "https://open.spotify.com/track/6uEBCC605XCODjtwzae93h"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 192254,
       "name": "Don't Be So Hard on Your Own Beauty",
       "url": "https://open.spotify.com/track/2X2Qqr7oRqkRwNZfwFbcRL"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 148795,
       "name": "Doorman - Vegyn Remix",
       "url": "https://open.spotify.com/track/0QyOGi3zEgYVO0PXt8avlA"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 284421,
       "name": "Found Out",
       "url": "https://open.spotify.com/track/6ZFMxafUQCxrqxDrdbwa1q"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 495040,
       "name": "God's Country (feat. Wicca Phase Springs Eternal)",
       "url": "https://open.spotify.com/track/6O3EBL1VMZAGNKsTU4RWPG"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 146000,
       "name": "Heaven Fell (Reprise)",
       "url": "https://open.spotify.com/track/2pUarDBfmUqw328dcU5Ubq"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 224946,
       "name": "home with you",
       "url": "https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH"
@@ -1266,6 +1266,24 @@
       "duration_ms": 218250,
       "name": "I Need Nothing From You",
       "url": "https://open.spotify.com/track/2iqn4H1SVAfsVNKeQYz4V2"
+    },
+    {
+      "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311844,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y"
     },
     {
       "album": {
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 230624,
       "name": "It's Okay To Cry",
       "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 147898,
       "name": "Live 4ever",
       "url": "https://open.spotify.com/track/70BNKjKEoVKvLu654lwpaL"
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 246733,
       "name": "NICE OUT",
       "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 204753,
       "name": "On Your Side - Stud1nt Remix",
       "url": "https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv"
@@ -2082,7 +2100,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 258665,
       "name": "Patience Etc... (George Clanton Remix)",
       "url": "https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST"
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219331,
       "name": "Pixel Affection",
       "url": "https://open.spotify.com/track/2SSRl4W3RcjD3VBINiZ5lZ"
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 260685,
       "name": "Poison Arrow",
       "url": "https://open.spotify.com/track/2RWZiDpnwmXjiH0NPW1d3O"
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 247186,
       "name": "stardew",
       "url": "https://open.spotify.com/track/59VEyFtuiZnWCfCDc4hOU0"
@@ -2857,6 +2875,32 @@
     },
     {
       "album": {
+        "name": "The Darkness (Remix)",
+        "url": "https://open.spotify.com/album/3ZzRwLaCEYwUvxUkT6P43A"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        },
+        {
+          "name": "Sarah Bonito",
+          "url": "https://open.spotify.com/artist/154N9q0T7ZUx3svKaObbps"
+        },
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246541,
+      "name": "The Darkness - Remix",
+      "url": "https://open.spotify.com/track/606BSzBpRxkKi9qIbSpIbH"
+    },
+    {
+      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -2872,6 +2916,24 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "album": {
+        "name": "The Look On Your Face",
+        "url": "https://open.spotify.com/album/5j18aQAFLAox8iPVx433b8"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "The Look On Your Face",
+      "url": "https://open.spotify.com/track/4wCukIqVlqd452beXYxmXK"
     },
     {
       "album": {
@@ -2930,7 +2992,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 165789,
       "name": "Time",
       "url": "https://open.spotify.com/track/3XdXixlx3MoVzfL7pu9hx6"
@@ -3064,7 +3126,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220613,
       "name": "Violence",
       "url": "https://open.spotify.com/track/4qNI7psI4MfDEhk8V7eF3Y"
@@ -3100,7 +3162,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229000,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/36ODdTjOflEHu6vGHSpNYu"
@@ -3122,7 +3184,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 172040,
       "name": "We Will Always Love You",
       "url": "https://open.spotify.com/track/51wxtCuipwjvvT99wsSmCc"
@@ -3180,7 +3242,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 166453,
       "name": "What Does It Mean To Me?",
       "url": "https://open.spotify.com/track/4kDqNIQiBwkqDs6jWWcHAM"
@@ -3198,7 +3260,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229848,
       "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
       "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
@@ -3256,7 +3318,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ"

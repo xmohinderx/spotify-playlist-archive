@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 190217,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/2v0gJT1kDcuZEWe3fFw2BM"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 270720,
       "name": "Dancing On The Ceiling",
       "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217687,
       "name": "Free To Go",
       "url": "https://open.spotify.com/track/172BxPrgDzSgLzFK6jfGpz"
@@ -1012,6 +1012,24 @@
       "duration_ms": 178512,
       "name": "fuck, i\u2019m lonely - Ofenbach Remix",
       "url": "https://open.spotify.com/track/4fCAOaMs0PYL58OijKp2IS"
+    },
+    {
+      "album": {
+        "name": "Give 'n' Take",
+        "url": "https://open.spotify.com/album/6ytNQJsLBaGmcms5dBlS0a"
+      },
+      "artists": [
+        {
+          "name": "Call Me Loop",
+          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183481,
+      "name": "Give 'n' Take",
+      "url": "https://open.spotify.com/track/5N5eDeqI0bRGUMPB1aEczU"
     },
     {
       "album": {
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206373,
       "name": "Memorized",
       "url": "https://open.spotify.com/track/44T6aO6fh9MPX6CGSCCidX"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"

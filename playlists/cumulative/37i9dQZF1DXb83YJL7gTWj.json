@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 166973,
       "name": "club - ballerini album version",
       "url": "https://open.spotify.com/track/3nCoIIsNggk2iJ8YxleLXZ"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178293,
       "name": "Down by the Water",
       "url": "https://open.spotify.com/track/3ryF0T6yKtG6STYnaiEX0L"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 240133,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 237431,
       "name": "hurts like hell",
       "url": "https://open.spotify.com/track/2z7EhgzjTkN9QozoJ7DvBA"
@@ -906,6 +906,28 @@
       "duration_ms": 286426,
       "name": "I Guess I Just Feel Like",
       "url": "https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo"
+    },
+    {
+      "album": {
+        "name": "Hold It Together",
+        "url": "https://open.spotify.com/album/2gO1pyq1nVTs7PdIMlX0r9"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/02WKfyVrzC4AMKvPRokJra"
     },
     {
       "album": {
@@ -1256,7 +1278,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
@@ -1954,7 +1976,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 221936,
       "name": "There for You",
       "url": "https://open.spotify.com/track/5b4991SkpZ602JRRXX0Q4C"

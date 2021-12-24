@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ"
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 211010,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4KyRwSI04n7IhxgLr6Jv1r"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 211011,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3ThAExlMNs4A86hime1qNG"
@@ -2755,6 +2755,28 @@
     },
     {
       "album": {
+        "name": "Send My Love (To Your New Lover) [Live]",
+        "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Paul Kowert",
+          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225033,
+      "name": "Send My Love (To Your New Lover) - Live",
+      "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
+    },
+    {
+      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/0xpPzS9df3eHXt75Cv0jJU"
       },
@@ -2950,7 +2972,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179176,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
@@ -3088,7 +3110,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
@@ -3574,7 +3596,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 222146,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"

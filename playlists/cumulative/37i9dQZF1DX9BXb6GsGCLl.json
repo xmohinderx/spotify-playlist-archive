@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 188166,
       "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 228111,
       "name": "All the Time",
       "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
@@ -242,7 +242,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Hotel Walls",
+        "url": "https://open.spotify.com/album/3vo7F1U983bPR68ojP5aSj"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "Hotel Walls",
+      "url": "https://open.spotify.com/track/0IZoBFaTUG79KBfKlv8zmG"
+    },
+    {
+      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj"
       },
@@ -866,7 +884,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 157661,
       "name": "I Think She Knows (feat. My Marianne) - Interlude",
       "url": "https://open.spotify.com/track/1EgWUCNI4BYSDx95b8P27m"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 159475,
       "name": "It\u2019s Only A Heartbreak",
       "url": "https://open.spotify.com/track/1nL5zTJpnylVJcjAFyaRER"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190680,
       "name": "New Wave",
       "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 156987,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/2IaMy0anocqVCj9vMe8elL"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 176517,
       "name": "Perfect (feat. Haris)",
       "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 161773,
       "name": "Starfields",
       "url": "https://open.spotify.com/track/7sGUv00CPJhdgKp7TmjRdG"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 173122,
       "name": "Sun Seeker",
       "url": "https://open.spotify.com/track/1Xt1WkY9gAtUJl8AaFWKzd"
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
@@ -2160,6 +2178,32 @@
       "duration_ms": 213040,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
+    },
+    {
+      "album": {
+        "name": "Wildest Dream",
+        "url": "https://open.spotify.com/album/6ODxERtMHtA3HdaE1HRsMj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        },
+        {
+          "name": "Kosling",
+          "url": "https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD"
+        },
+        {
+          "name": "Matthew Steeper",
+          "url": "https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187510,
+      "name": "Wildest Dream",
+      "url": "https://open.spotify.com/track/0TgSQ4AWBShqMjYww6D8Yf"
     },
     {
       "album": {
@@ -2262,7 +2306,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY"

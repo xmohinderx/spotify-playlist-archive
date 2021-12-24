@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 345447,
       "name": "Attention Span Dub",
       "url": "https://open.spotify.com/track/0ijA161YVenpYKjl7ZH6MM"
@@ -296,10 +296,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 145560,
       "name": "Closer To The Sun",
       "url": "https://open.spotify.com/track/17xbKoCF5iDcSb9usFt2yO"
+    },
+    {
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "Count Me In",
+      "url": "https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8"
     },
     {
       "album": {
@@ -604,7 +622,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 193017,
       "name": "Good Good Lovin",
       "url": "https://open.spotify.com/track/54r7Y60v3oe7Vr1w7FVZ9A"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 221142,
       "name": "I Love",
       "url": "https://open.spotify.com/track/6UTfsOXURxgSSqy3wxYe0H"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181370,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/1HBztgfs0Wtltk4z8hUiSf"
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 227093,
       "name": "Snowman (with Dirty Heads)",
       "url": "https://open.spotify.com/track/1BzKS4LnJQdRotvaaP7gRB"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 335586,
       "name": "Surfman Cometh",
       "url": "https://open.spotify.com/track/0XLCAcfMcypLKvnBFFbnaB"

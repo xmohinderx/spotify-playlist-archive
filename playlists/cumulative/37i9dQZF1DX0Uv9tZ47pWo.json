@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 208013,
       "name": "Bigger Than",
       "url": "https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 168601,
       "name": "Going Dumb",
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
@@ -947,6 +947,36 @@
     },
     {
       "album": {
+        "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+        "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "date_added": "2021-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250280,
+      "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+      "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/3xgS4rfthlsvhW7J2WLiiR"
       },
@@ -958,7 +988,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207038,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7LzouaWGFCy4tkXDOOnEyM"
@@ -1123,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/6fwNMnwzVoclK4zOwl3ou0"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2021-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/79JBjIq90BrQ8Ws0pUhlzD"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -1244,7 +1292,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 170746,
       "name": "My Oh My (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"

@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214874,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
+    },
+    {
+      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/73zETkOw0tap79gXPZGS7a"
       },
@@ -626,7 +644,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 160800,
       "name": "Do You Ever? - Acoustic",
       "url": "https://open.spotify.com/track/79AZukrUlWPIbzrcTrzOsF"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 274830,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 190613,
       "name": "Hung the Moon",
       "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 225454,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/3qR417vBrNd4Lf01eMVwWB"
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 172633,
       "name": "I Hope You Change Your Mind",
       "url": "https://open.spotify.com/track/46uPN63Jgen8ohoiBXFTAa"
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 206880,
       "name": "Lebanon",
       "url": "https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ"
@@ -3024,7 +3042,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 184342,
       "name": "Mid Sentence",
       "url": "https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH"
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 319400,
       "name": "Pretty Places",
       "url": "https://open.spotify.com/track/465IQvyDIpnizvUbZ8ULyo"
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 154503,
       "name": "Real Shot",
       "url": "https://open.spotify.com/track/3dtHic2dt8ddUvH0svh34I"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 266453,
       "name": "Retrospect",
       "url": "https://open.spotify.com/track/2aMCRiLlvjXruYa44u8u9I"
@@ -3868,7 +3886,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 209040,
       "name": "Say Something Now",
       "url": "https://open.spotify.com/track/7jkrRIkeZaW87c54Q2uwhg"
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
@@ -4497,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "that'd be alright",
+        "url": "https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177952,
+      "name": "that'd be alright",
+      "url": "https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn"
+    },
+    {
+      "album": {
         "name": "The Art Of Getting By",
         "url": "https://open.spotify.com/album/1yCWoMwezzzzqrYueeHi6R"
       },
@@ -4732,7 +4768,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 180440,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
@@ -5018,7 +5054,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 337426,
       "name": "Virginia",
       "url": "https://open.spotify.com/track/0rhY13KyKIgPhrEez3Xp2m"

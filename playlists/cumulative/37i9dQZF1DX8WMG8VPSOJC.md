@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1, 2, 3 Mississippi](https://open.spotify.com/track/0x64VU0L9lsdVU12AHp01L) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Ticket To L.A.](https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik) | 3:26 | 2021-07-20 | 2021-12-24 |
+| [1, 2, 3 Mississippi](https://open.spotify.com/track/0x64VU0L9lsdVU12AHp01L) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Ticket To L.A.](https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik) | 3:26 | 2021-07-20 |  |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2021-07-20 |  |
 | [All I Need to See](https://open.spotify.com/track/1nggCj00NY7GRx0CyWcMKY) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [All I Need to See](https://open.spotify.com/album/748lkYrb1zeh6xMQ1ewWJ1) | 4:28 | 2021-07-20 |  |
 | [Always Gonna Love You](https://open.spotify.com/track/7uGOee7hJuojRb20CSKXAO) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Always Gonna Love You](https://open.spotify.com/album/6X1PnvTLF9hKh0sMWpD6mO) | 3:48 | 2021-07-20 |  |
@@ -25,7 +25,7 @@
 | [Chasin' Me](https://open.spotify.com/track/425bCdRNNdkcxYWrMuhr2Z) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Chasin' Me](https://open.spotify.com/album/690W5egF5E3mDL2oXmmBHN) | 4:08 | 2021-07-20 |  |
 | [Closer To You](https://open.spotify.com/track/6biq5BjD7UAXpefEgDVbp5) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:07 | 2021-07-20 | 2021-12-22 |
 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 | 2021-07-22 |  |
-| [Dare Ya](https://open.spotify.com/track/0lrcuzg1hXJ6xgcMm4yceu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:34 | 2021-07-20 |  |
+| [Dare Ya](https://open.spotify.com/track/0lrcuzg1hXJ6xgcMm4yceu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:34 | 2021-07-20 | 2021-12-24 |
 | [Diamonds or Twine](https://open.spotify.com/track/59fi7eaSe4DuCqfua35m2W) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Diamonds or Twine](https://open.spotify.com/album/0RxyB0V3q0N0GeGS4WDICZ) | 3:31 | 2021-07-20 |  |
 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 | 2021-07-20 |  |
 | [Down For It](https://open.spotify.com/track/0gV9XPgV9UuRBut2vKivqq) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Right Now](https://open.spotify.com/album/7K26C63gkM1i2JR0FdLPvT) | 3:14 | 2021-07-20 |  |

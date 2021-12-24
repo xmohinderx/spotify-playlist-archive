@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "Ain't Got Time",
+        "url": "https://open.spotify.com/album/7mp9bymNyNtAlbLLVezPMi"
+      },
+      "artists": [
+        {
+          "name": "Hugo Mari",
+          "url": "https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU"
+        },
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289670,
+      "name": "Ain't Got Time",
+      "url": "https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT"
+    },
+    {
+      "album": {
         "name": "Alcoholics",
         "url": "https://open.spotify.com/album/0J0mRYqZxDuqLsylq1mVuE"
       },
@@ -108,6 +130,28 @@
       "duration_ms": 250518,
       "name": "All Made Up",
       "url": "https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z"
+    },
+    {
+      "album": {
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        },
+        {
+          "name": "John Givez",
+          "url": "https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148529,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
     },
     {
       "album": {
@@ -314,7 +358,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 326242,
       "name": "Blind Spot",
       "url": "https://open.spotify.com/track/3bOvyoDhBUnLf8NisLxGn6"
@@ -412,7 +456,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 227619,
       "name": "Ceilings",
       "url": "https://open.spotify.com/track/7mhsGyniumwlhCCzR9Tbxa"
@@ -466,7 +510,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/0jX4GHNCQr7Fq0GvXWuF3t"
@@ -506,7 +550,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 264542,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/6k72w5n6bjf3gSgNId74sS"
@@ -546,7 +590,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 250120,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/3VlbXBW2heJ3s6GS23wyAV"
@@ -768,7 +812,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 172910,
       "name": "For Keeps",
       "url": "https://open.spotify.com/track/1nPgx4Q9edLlooxkg46HrA"
@@ -824,7 +868,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5PI0KCcfghR4Xg0w6xuoZ0"
@@ -860,7 +904,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197675,
       "name": "Ghostin'",
       "url": "https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F"
@@ -908,7 +952,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182160,
       "name": "Go Tell It",
       "url": "https://open.spotify.com/track/6BzeKeT9hluukvZzZTz9PK"
@@ -930,6 +974,50 @@
       "duration_ms": 218306,
       "name": "Gold Chains",
       "url": "https://open.spotify.com/track/0T7PAJKN2k6k7kBSWIcw34"
+    },
+    {
+      "album": {
+        "name": "Finds You Well",
+        "url": "https://open.spotify.com/album/4I9x9IPVmztrxjsa9k1lAZ"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Groove 32",
+      "url": "https://open.spotify.com/track/3Zr60HMgmHnA4gg0gMTVkO"
+    },
+    {
+      "album": {
+        "name": "Gunning For Fees",
+        "url": "https://open.spotify.com/album/4W3ebwBP0FhfNleHqY0qtb"
+      },
+      "artists": [
+        {
+          "name": "Subculture",
+          "url": "https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx"
+        },
+        {
+          "name": "Grand Pax",
+          "url": "https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt"
+        },
+        {
+          "name": "Goya Gumbani",
+          "url": "https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134831,
+      "name": "Gunning For Fees",
+      "url": "https://open.spotify.com/track/003oYjviEtMybWtnTa0lln"
     },
     {
       "album": {
@@ -1032,7 +1120,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194103,
       "name": "I Don't Wanna Lose You - Edit",
       "url": "https://open.spotify.com/track/7ErWxcxjkfmRXiL0CD08FN"
@@ -1276,10 +1364,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258333,
       "name": "LoveConfusion",
       "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
+    },
+    {
+      "album": {
+        "name": "Lovely Lonely",
+        "url": "https://open.spotify.com/album/6MkYd3bxYBy3oBhMUVfAGI"
+      },
+      "artists": [
+        {
+          "name": "Chloe Bodur",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291960,
+      "name": "Lovely Lonely",
+      "url": "https://open.spotify.com/track/78KA3kXEWMoSaDwzSwbXkb"
     },
     {
       "album": {
@@ -1294,7 +1400,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm"
@@ -1330,7 +1436,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 153290,
       "name": "Moonlit Duty",
       "url": "https://open.spotify.com/track/5PN5duvmEAumV2nuTJ3TWj"
@@ -1352,7 +1458,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 342426,
       "name": "Morley's Preference",
       "url": "https://open.spotify.com/track/68HmXDuMXYeyhEhJCrXOKe"
@@ -1370,7 +1476,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 246800,
       "name": "Morning Matters",
       "url": "https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU"
@@ -1622,7 +1728,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 241250,
       "name": "Queen of Hearts",
       "url": "https://open.spotify.com/track/62XnXVAIuiDcYK3Hk58Nd8"

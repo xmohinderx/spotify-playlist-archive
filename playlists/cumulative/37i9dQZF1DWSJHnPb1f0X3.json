@@ -402,7 +402,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174448,
       "name": "DANCE",
       "url": "https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 147139,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 172143,
       "name": "i miss u (with Au/Ra)",
       "url": "https://open.spotify.com/track/4h6TTBlzsv57BGlMybVNCL"
@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/52fyBqmk843nEqpfWFlsUp"
+      },
+      "artists": [
+        {
+          "name": "RadioClub",
+          "url": "https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/2t7nM6kZZ3JTSheTwVlAAR"
+    },
+    {
+      "album": {
         "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
         "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
       },
@@ -1765,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
+    },
+    {
+      "album": {
         "name": "Rule The World (feat. ILIRA)",
         "url": "https://open.spotify.com/album/3SRrcJb9UQxc6vZm7cZ2Ww"
       },
@@ -1894,7 +1930,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 157477,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/002RM16TLYCpwElukqy8xq"
@@ -2244,7 +2280,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 167213,
       "name": "that way - Jonasu Remix",
       "url": "https://open.spotify.com/track/6Asu7oyQxcmONn4HypXV7n"
@@ -2476,7 +2512,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 151480,
       "name": "When You're Out (feat. Mae Muller)",
       "url": "https://open.spotify.com/track/4dsm0VbaMmnLHhrOKcDNSI"

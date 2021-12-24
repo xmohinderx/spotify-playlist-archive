@@ -1685,6 +1685,32 @@
     },
     {
       "album": {
+        "name": "Typical (feat. Lars Martin)",
+        "url": "https://open.spotify.com/album/0IGbfr3QRfclnJh2VvhN9Z"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lars Martin",
+          "url": "https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141312,
+      "name": "Typical (feat. Lars Martin)",
+      "url": "https://open.spotify.com/track/0ov3zuZGNe3LTTKseNnIPX"
+    },
+    {
+      "album": {
         "name": "Underwater Love (LA Vision Remix)",
         "url": "https://open.spotify.com/album/7IOfwlk4gUZr26A5DEZVFf"
       },

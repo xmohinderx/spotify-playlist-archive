@@ -372,7 +372,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219351,
       "name": "DON'T PLAY WITH MY HEART",
       "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 242921,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 255109,
       "name": "Need You",
       "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
@@ -1054,6 +1054,24 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB"
+    },
+    {
+      "album": {
+        "name": "a tree planted by water",
+        "url": "https://open.spotify.com/album/5bl22ODAmnzfJ35n52vAQB"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189185,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/63LhjHIJFprgGjfxhuhF4K"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaXDsfv6nvZ5"

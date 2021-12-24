@@ -1,7 +1,7 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
   "name": "Not Quite Classical",
-  "snapshot_id": "MTY0MDMwNjE2MiwwMDAwMDAwMGQ5NmE2NTg0ZDIwNzM1YWNmYTY0ZTljNmU2ODVjMzIy",
+  "snapshot_id": "MTY0MDMxNTUwMSwwMDAwMDAwMGViNTZhMjJmM2RjNjQ3YmMzODg4Y2E5ZGVmNzJmNTVj",
   "tracks": [
     {
       "added_at": "2021-12-10 04:00:00",
@@ -54,22 +54,6 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Berceuse",
-        "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 127147,
-      "name": "Berceuse",
-      "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
         "name": "Clouds In The Mirror (This Is Not A Safe Place reimagined by P\u00eatr Aleks\u00e4nder) [Instrumental version]",
         "url": "https://open.spotify.com/album/1ZreFzgLIQfsdYsn9fA01c"
       },
@@ -90,8 +74,8 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Nomadland (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
+        "name": "A Sunrise Session",
+        "url": "https://open.spotify.com/album/3D7Pm8wghWxod9POL63sYk"
       },
       "artists": [
         {
@@ -99,25 +83,25 @@
           "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 246257,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
+      "duration_ms": 250160,
+      "name": "Spiral - Sunrise Session",
+      "url": "https://open.spotify.com/track/1n8VEQ0V6kUIhuMwg6R0eQ"
     },
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Tramlines",
-        "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
       },
       "artists": [
         {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
         }
       ],
-      "duration_ms": 226669,
-      "name": "Tramlines",
-      "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
+      "duration_ms": 251173,
+      "name": "Bylur",
+      "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -138,18 +122,18 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/0bUNI5DEMPhKEV0Sno8toU"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Bylur",
-      "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
+      "duration_ms": 127147,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/4xVyVtz7RnAlmlbBh2lJO2"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -194,18 +178,34 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Fairytail",
-        "url": "https://open.spotify.com/album/7CqBWefDxohyKsKdP50e1I"
+        "name": "Nomadland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
       "artists": [
         {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 170860,
-      "name": "Fairytail",
-      "url": "https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th"
+      "duration_ms": 246257,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Tramlines",
+        "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 226669,
+      "name": "Tramlines",
+      "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -242,22 +242,6 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "A Sunrise Session",
-        "url": "https://open.spotify.com/album/3D7Pm8wghWxod9POL63sYk"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "Spiral - Sunrise Session",
-      "url": "https://open.spotify.com/track/1n8VEQ0V6kUIhuMwg6R0eQ"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
         "name": "\u00c9closion",
         "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
       },
@@ -270,22 +254,6 @@
       "duration_ms": 295200,
       "name": "\u00c9closion",
       "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "The Wind",
-        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        }
-      ],
-      "duration_ms": 81641,
-      "name": "Nos",
-      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -306,6 +274,38 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
+        "name": "Earnest Leslye",
+        "url": "https://open.spotify.com/album/5srfaoIk7kp5n2anvqsWo3"
+      },
+      "artists": [
+        {
+          "name": "Peter Broderick",
+          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Earnest Leslye",
+      "url": "https://open.spotify.com/track/0jvRgeODIdcvsr1X9AeKSD"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "TREE",
+        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "TREE",
+      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
         "name": "Chasing the Present",
         "url": "https://open.spotify.com/album/3R25Xn9w8ohRxZBfKMtfVe"
       },
@@ -318,6 +318,58 @@
       "duration_ms": 182836,
       "name": "Chasing the Present",
       "url": "https://open.spotify.com/track/0XJq2OGUGCNXq3FfAFL4dw"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Fairytail",
+        "url": "https://open.spotify.com/album/7CqBWefDxohyKsKdP50e1I"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 170860,
+      "name": "Fairytail",
+      "url": "https://open.spotify.com/track/05gpQCSjj80MvJtRbAz8Th"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Wholeness and the Implicate Order",
+        "url": "https://open.spotify.com/album/7L7Xxd7GQZrtHgt7hNFp5d"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinosaur",
+          "url": "https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ"
+        }
+      ],
+      "duration_ms": 346386,
+      "name": "Wholeness and the Implicate Order",
+      "url": "https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Dear, Utopia (Jameson Nathan Jones Rework)",
+        "url": "https://open.spotify.com/album/25noccA6V1reADvLJZUKb6"
+      },
+      "artists": [
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        },
+        {
+          "name": "Jameson Nathan Jones",
+          "url": "https://open.spotify.com/artist/3elvqJwCi7gKIbXv4WOyCr"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Dear, Utopia - Jameson Nathan Jones Rework",
+      "url": "https://open.spotify.com/track/4DDtvtAqHwTchhBthZIPcO"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -346,8 +398,40 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Woven Song",
-        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        }
+      ],
+      "duration_ms": 81641,
+      "name": "Nos",
+      "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Triptych 1 for Piano",
+        "url": "https://open.spotify.com/album/3kPnyIFFsaowlybyuN9krj"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Triptych 1 for Piano",
+      "url": "https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "When We Are Born",
+        "url": "https://open.spotify.com/album/6yh1odFZ6PPyqlKvYoI0gc"
       },
       "artists": [
         {
@@ -355,41 +439,9 @@
           "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 190283,
-      "name": "Woven Song",
-      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Somnia",
-        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 198323,
-      "name": "Somnia",
-      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+      "duration_ms": 263500,
+      "name": "Spiral (When We Are Born)",
+      "url": "https://open.spotify.com/track/2MIeZVtIRmzqfx4XI4pDvE"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -406,6 +458,126 @@
       "duration_ms": 368668,
       "name": "My Friend the Forest",
       "url": "https://open.spotify.com/track/6Rkp6fEsvOTR7YxsW5uNyR"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Pomegranate",
+        "url": "https://open.spotify.com/album/5dfUD4mVuuZbcSWBpqJLgz"
+      },
+      "artists": [
+        {
+          "name": "Quarterly",
+          "url": "https://open.spotify.com/artist/07FlzrUOQrnOrGf9aAp9km"
+        }
+      ],
+      "duration_ms": 157814,
+      "name": "Pomegranate",
+      "url": "https://open.spotify.com/track/2xDPJSFMb53Ym5HHGXuaJQ"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Current",
+        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 350974,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "In Cold Light",
+      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 238018,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Akal Ki",
+        "url": "https://open.spotify.com/album/2nx8t6zpzR9stTOrBgKDsl"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Akal Ki",
+      "url": "https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Longhope",
+        "url": "https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Hiroshi Ebina",
+          "url": "https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx"
+        },
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Longhope - Edit",
+      "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Woven Song",
+        "url": "https://open.spotify.com/album/0Ah7kVnuWgdH3vQy0DNtuA"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 190283,
+      "name": "Woven Song",
+      "url": "https://open.spotify.com/track/0Fs13LJdctI630wOhPcIO8"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -450,278 +622,6 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Earnest Leslye",
-        "url": "https://open.spotify.com/album/5srfaoIk7kp5n2anvqsWo3"
-      },
-      "artists": [
-        {
-          "name": "Peter Broderick",
-          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Earnest Leslye",
-      "url": "https://open.spotify.com/track/0jvRgeODIdcvsr1X9AeKSD"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Triptych 1 for Piano",
-        "url": "https://open.spotify.com/album/3kPnyIFFsaowlybyuN9krj"
-      },
-      "artists": [
-        {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Triptych 1 for Piano",
-      "url": "https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "S\u00f8ndermarken (Video Edit)",
-        "url": "https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX"
-      },
-      "artists": [
-        {
-          "name": "Henrik Lindstrand",
-          "url": "https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP"
-        }
-      ],
-      "duration_ms": 250263,
-      "name": "S\u00f8ndermarken - Video Edit",
-      "url": "https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "When We Are Born",
-        "url": "https://open.spotify.com/album/6yh1odFZ6PPyqlKvYoI0gc"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "Spiral (When We Are Born)",
-      "url": "https://open.spotify.com/track/2MIeZVtIRmzqfx4XI4pDvE"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "In Cold Light",
-      "url": "https://open.spotify.com/track/140jZx69WlaEovptyTYevr"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Pomegranate",
-        "url": "https://open.spotify.com/album/5dfUD4mVuuZbcSWBpqJLgz"
-      },
-      "artists": [
-        {
-          "name": "Quarterly",
-          "url": "https://open.spotify.com/artist/07FlzrUOQrnOrGf9aAp9km"
-        }
-      ],
-      "duration_ms": 157814,
-      "name": "Pomegranate",
-      "url": "https://open.spotify.com/track/2xDPJSFMb53Ym5HHGXuaJQ"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Akal Ki",
-        "url": "https://open.spotify.com/album/2nx8t6zpzR9stTOrBgKDsl"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Akal Ki",
-      "url": "https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 238018,
-      "name": "Beginnings",
-      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Dear, Utopia (Jameson Nathan Jones Rework)",
-        "url": "https://open.spotify.com/album/25noccA6V1reADvLJZUKb6"
-      },
-      "artists": [
-        {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
-        },
-        {
-          "name": "Jameson Nathan Jones",
-          "url": "https://open.spotify.com/artist/3elvqJwCi7gKIbXv4WOyCr"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Dear, Utopia - Jameson Nathan Jones Rework",
-      "url": "https://open.spotify.com/track/4DDtvtAqHwTchhBthZIPcO"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Current",
-        "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 350974,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Wholeness and the Implicate Order",
-        "url": "https://open.spotify.com/album/7L7Xxd7GQZrtHgt7hNFp5d"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinosaur",
-          "url": "https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ"
-        }
-      ],
-      "duration_ms": 346386,
-      "name": "Wholeness and the Implicate Order",
-      "url": "https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Longhope",
-        "url": "https://open.spotify.com/album/4lSb0FHWXuVNF4aQCSJqI0"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Hiroshi Ebina",
-          "url": "https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx"
-        },
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Longhope - Edit",
-      "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "TREE",
-        "url": "https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "TREE",
-      "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Entering",
-        "url": "https://open.spotify.com/album/2CrnxM71QY8LE7tYdMAmjE"
-      },
-      "artists": [
-        {
-          "name": "Library Tapes",
-          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
-        },
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 90285,
-      "name": "Entering",
-      "url": "https://open.spotify.com/track/5Gvgr1O5vJFM0pG9VMZF7N"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/3VUREi1t32vVvHnr01Kjkr"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/4GseyfbqLyCeaUeXOmsCY2"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Deux Pens\u00e9es",
-        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
-      },
-      "artists": [
-        {
-          "name": "Darker In Vine",
-          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
-        }
-      ],
-      "duration_ms": 169366,
-      "name": "Deux Pens\u00e9es",
-      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
         "name": "Soul I (Avow)",
         "url": "https://open.spotify.com/album/2UKecuITg86lUtsTWlDxGR"
       },
@@ -738,18 +638,38 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Stars Light Up The Water",
-        "url": "https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ"
+        "name": "Somnia",
+        "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
       },
       "artists": [
         {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
         }
       ],
-      "duration_ms": 136625,
-      "name": "Stars Light Up The Water",
-      "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
+      "duration_ms": 198323,
+      "name": "Somnia",
+      "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Blue Landscapes III: Frontiers (Music from a Quieter Place)",
+        "url": "https://open.spotify.com/album/0xTXEf18BW9CQ5VxZjVj6e"
+      },
+      "artists": [
+        {
+          "name": "Damjan Krajacic",
+          "url": "https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X"
+        },
+        {
+          "name": "Robert Thies",
+          "url": "https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI"
+        }
+      ],
+      "duration_ms": 414255,
+      "name": "Forest Path",
+      "url": "https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -770,34 +690,50 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Hallonlandet",
-        "url": "https://open.spotify.com/album/3JCdeKnV0QHIPq6sivWb6j"
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/3VUREi1t32vVvHnr01Kjkr"
       },
       "artists": [
         {
-          "name": "Henrik Lindstrand",
-          "url": "https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP"
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
         }
       ],
-      "duration_ms": 194059,
-      "name": "Hallonlandet",
-      "url": "https://open.spotify.com/track/4bBQM9OuT0oJh18mgaK3h0"
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/4GseyfbqLyCeaUeXOmsCY2"
     },
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Building Blocks Pt. 2",
-        "url": "https://open.spotify.com/album/0Sye4Hp6UMJfMrAqsNlZg1"
+        "name": "S.A.D. Storm and Drugs",
+        "url": "https://open.spotify.com/album/6D17eYpXEBKROPdbONmdHM"
       },
       "artists": [
         {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
         }
       ],
-      "duration_ms": 278435,
-      "name": "Don\u2019t Walk Alone",
-      "url": "https://open.spotify.com/track/1h91XWq9tdjGGPZLUX0sss"
+      "duration_ms": 278007,
+      "name": "R\u00fcckenfigur",
+      "url": "https://open.spotify.com/track/3Pb1B51RXr8DnmGpR14GXl"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Hammer Frenzy",
+        "url": "https://open.spotify.com/album/5mDz8VNJjXX3AYt24WfHLl"
+      },
+      "artists": [
+        {
+          "name": "Theo Alexander",
+          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
+        }
+      ],
+      "duration_ms": 229623,
+      "name": "Hammer Frenzy - Edit",
+      "url": "https://open.spotify.com/track/6Tb8TuoH4H0jueYjnmbMSV"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -834,38 +770,54 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Hammer Frenzy",
-        "url": "https://open.spotify.com/album/5mDz8VNJjXX3AYt24WfHLl"
+        "name": "Entering",
+        "url": "https://open.spotify.com/album/2CrnxM71QY8LE7tYdMAmjE"
       },
       "artists": [
         {
-          "name": "Theo Alexander",
-          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
+          "name": "Library Tapes",
+          "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
+        },
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
         }
       ],
-      "duration_ms": 229623,
-      "name": "Hammer Frenzy - Edit",
-      "url": "https://open.spotify.com/track/6Tb8TuoH4H0jueYjnmbMSV"
+      "duration_ms": 90285,
+      "name": "Entering",
+      "url": "https://open.spotify.com/track/5Gvgr1O5vJFM0pG9VMZF7N"
     },
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "The Myth",
-        "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
+        "name": "Leicester",
+        "url": "https://open.spotify.com/album/1u9BfQZ4cMTPXbY6rSvo9z"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Lisa Morgenstern",
-          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
         }
       ],
-      "duration_ms": 221796,
-      "name": "The Myth",
-      "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
+      "duration_ms": 275666,
+      "name": "Leicester",
+      "url": "https://open.spotify.com/track/3xNGLXWGtyFsDREQJqhV8s"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Heart Failure",
+        "url": "https://open.spotify.com/album/5nt2tuWF3S2opn7npYS3LO"
+      },
+      "artists": [
+        {
+          "name": "Eik Octobre",
+          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
+        }
+      ],
+      "duration_ms": 289829,
+      "name": "Heart Failure",
+      "url": "https://open.spotify.com/track/5IKBHH07ER6qB5uWPTXpUv"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -886,26 +838,18 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "So That The City Can Begin To Exist",
-        "url": "https://open.spotify.com/album/6IcKIhLBwBhYDnC37Nlnuk"
+        "name": "The Invisible EP",
+        "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
       },
       "artists": [
         {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
-        },
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 286961,
-      "name": "So That The City Can Begin To Exist",
-      "url": "https://open.spotify.com/track/4LNHI3ugcaRGEfa4D0zNtM"
+      "duration_ms": 163861,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -930,78 +874,18 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Blue Landscapes III: Frontiers (Music from a Quieter Place)",
-        "url": "https://open.spotify.com/album/0xTXEf18BW9CQ5VxZjVj6e"
+        "name": "Deux Pens\u00e9es",
+        "url": "https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA"
       },
       "artists": [
         {
-          "name": "Damjan Krajacic",
-          "url": "https://open.spotify.com/artist/48XnG6WkLWkpww5oIJib0X"
-        },
-        {
-          "name": "Robert Thies",
-          "url": "https://open.spotify.com/artist/3JGu3awfnadacdeNLJ9AfI"
+          "name": "Darker In Vine",
+          "url": "https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg"
         }
       ],
-      "duration_ms": 414255,
-      "name": "Forest Path",
-      "url": "https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "The Invisible EP",
-        "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 163861,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Blurred (Sven Helbig Rework)",
-        "url": "https://open.spotify.com/album/25mLENNYq1B6HlVzVurMyG"
-      },
-      "artists": [
-        {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
-        },
-        {
-          "name": "Mond\u00ebna Quartet",
-          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
-        },
-        {
-          "name": "Sven Helbig",
-          "url": "https://open.spotify.com/artist/6pgNHasTdNAVFwaMTkg7Uw"
-        }
-      ],
-      "duration_ms": 284618,
-      "name": "Blurred - Sven Helbig Rework",
-      "url": "https://open.spotify.com/track/74xCaDznBiIIktSPbFd31H"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Heart Failure",
-        "url": "https://open.spotify.com/album/5nt2tuWF3S2opn7npYS3LO"
-      },
-      "artists": [
-        {
-          "name": "Eik Octobre",
-          "url": "https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK"
-        }
-      ],
-      "duration_ms": 289829,
-      "name": "Heart Failure",
-      "url": "https://open.spotify.com/track/5IKBHH07ER6qB5uWPTXpUv"
+      "duration_ms": 169366,
+      "name": "Deux Pens\u00e9es",
+      "url": "https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -1030,190 +914,6 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Still Blue",
-        "url": "https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Enrico Belli",
-          "url": "https://open.spotify.com/artist/1AFiIuKX5f27Pmlpa2KHYB"
-        }
-      ],
-      "duration_ms": 374662,
-      "name": "Still Blue",
-      "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Fredag",
-        "url": "https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
-        }
-      ],
-      "duration_ms": 182759,
-      "name": "Fredag",
-      "url": "https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/4tJLpo97w3MKeYypLfY9lP"
-      },
-      "artists": [
-        {
-          "name": "Chelsea McGough",
-          "url": "https://open.spotify.com/artist/1O7mIiCIcKbF2X0GS616Yb"
-        }
-      ],
-      "duration_ms": 251244,
-      "name": "Walkabout",
-      "url": "https://open.spotify.com/track/3TQL7o8aYGnbaP418nKZ8S"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Vitamin String Quartet Performs Bjork",
-        "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Surges (variation)",
-        "url": "https://open.spotify.com/album/2NYJCfJw0LhEwPccv3e9Fy"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Surges (variation)",
-      "url": "https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Lavender Echoes",
-        "url": "https://open.spotify.com/album/1rGAqzsDCufTGxQOnfrA7l"
-      },
-      "artists": [
-        {
-          "name": "Logan Nelson",
-          "url": "https://open.spotify.com/artist/2673BUBn3wz0Iayq4BV5DM"
-        }
-      ],
-      "duration_ms": 264566,
-      "name": "Hjlo\u0301\u00f0",
-      "url": "https://open.spotify.com/track/3xssh2f0VPRKBnrhnOF1Gc"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Balcony Hotel (From 'Miss')",
-        "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 168398,
-      "name": "Balcony Hotel - From 'Miss'",
-      "url": "https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Piano Versions",
-        "url": "https://open.spotify.com/album/1vJp2Gd1xz0TqnQs0vCr1I"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "Modern Driveway",
-      "url": "https://open.spotify.com/track/2XgqIg1xo9bvzyK0DEnqxN"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "S.A.D. Storm and Drugs",
-        "url": "https://open.spotify.com/album/6D17eYpXEBKROPdbONmdHM"
-      },
-      "artists": [
-        {
-          "name": "Dardust",
-          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
-        }
-      ],
-      "duration_ms": 278007,
-      "name": "R\u00fcckenfigur",
-      "url": "https://open.spotify.com/track/3Pb1B51RXr8DnmGpR14GXl"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Sadness (Carlos Cipa Rework)",
-        "url": "https://open.spotify.com/album/67ATK2PDKwEUiIB7RB156L"
-      },
-      "artists": [
-        {
-          "name": "Masayoshi Fujita",
-          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
-        },
-        {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
-        }
-      ],
-      "duration_ms": 386085,
-      "name": "Sadness - Carlos Cipa Rework",
-      "url": "https://open.spotify.com/track/6DLTECZMsEl9En73TNRoEQ"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/7nAz8DbeMfEydzNvktje9E"
-      },
-      "artists": [
-        {
-          "name": "Michael Peter Olsen",
-          "url": "https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO"
-        }
-      ],
-      "duration_ms": 193267,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/5b6rOFv35qB3NUWAzHzX6s"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
         "name": "H\u00e5ll Mig (Reimagined by Tim Linghaus)",
         "url": "https://open.spotify.com/album/6LAvIOjBU1VlLJbJyC4tdc"
       },
@@ -1234,106 +934,166 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Ikivirta",
-        "url": "https://open.spotify.com/album/0unvuC1MRxEBhXR5yQo9Ir"
+        "name": "Stars Light Up The Water",
+        "url": "https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ"
       },
       "artists": [
         {
-          "name": "Sarah Palu",
-          "url": "https://open.spotify.com/artist/2Jegfk3a6VCBFVSl325FLO"
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
         }
       ],
-      "duration_ms": 387546,
-      "name": "Ikivirta",
-      "url": "https://open.spotify.com/track/2id0bX3z3FkzWLDbb2NRLU"
+      "duration_ms": 136625,
+      "name": "Stars Light Up The Water",
+      "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
     },
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "The Young Weaver",
-        "url": "https://open.spotify.com/album/0nPsmNlgQgiYUzWTrAncAc"
+        "name": "Hallonlandet",
+        "url": "https://open.spotify.com/album/3JCdeKnV0QHIPq6sivWb6j"
       },
       "artists": [
         {
-          "name": "Matteo Myderwyk",
-          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+          "name": "Henrik Lindstrand",
+          "url": "https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP"
         }
       ],
-      "duration_ms": 195019,
-      "name": "The Young Weaver",
-      "url": "https://open.spotify.com/track/7hcHSv7pAIW6T9qOIaPMDW"
+      "duration_ms": 194059,
+      "name": "Hallonlandet",
+      "url": "https://open.spotify.com/track/4bBQM9OuT0oJh18mgaK3h0"
     },
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Enigma",
-        "url": "https://open.spotify.com/album/0sqAkaZowvfKs9C9HJM9uW"
+        "name": "Balcony Hotel (From 'Miss')",
+        "url": "https://open.spotify.com/album/03gQiVHlkBcujpdfozAUKz"
       },
       "artists": [
         {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
         }
       ],
-      "duration_ms": 238333,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/4tiKvBdGo2KVVUazCIfWOE"
+      "duration_ms": 168398,
+      "name": "Balcony Hotel - From 'Miss'",
+      "url": "https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z"
     },
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Du Nord",
-        "url": "https://open.spotify.com/album/50MjjfEEI1EayrtiSIYf3y"
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
       "artists": [
         {
-          "name": "Elskavon",
-          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nAz8DbeMfEydzNvktje9E"
+      },
+      "artists": [
+        {
+          "name": "Michael Peter Olsen",
+          "url": "https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO"
+        }
+      ],
+      "duration_ms": 193267,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5b6rOFv35qB3NUWAzHzX6s"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Blurred (Sven Helbig Rework)",
+        "url": "https://open.spotify.com/album/25mLENNYq1B6HlVzVurMyG"
+      },
+      "artists": [
+        {
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
         },
         {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
-        }
-      ],
-      "duration_ms": 239188,
-      "name": "L'etoile",
-      "url": "https://open.spotify.com/track/7IvdJ01TBvQHtD5inw52lG"
-    },
-    {
-      "added_at": "2021-12-10 04:00:00",
-      "album": {
-        "name": "Her (Original Score)",
-        "url": "https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "Mond\u00ebna Quartet",
+          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
         },
         {
-          "name": "Owen Pallett",
-          "url": "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+          "name": "Sven Helbig",
+          "url": "https://open.spotify.com/artist/6pgNHasTdNAVFwaMTkg7Uw"
         }
       ],
-      "duration_ms": 339444,
-      "name": "Dimensions",
-      "url": "https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU"
+      "duration_ms": 284618,
+      "name": "Blurred - Sven Helbig Rework",
+      "url": "https://open.spotify.com/track/74xCaDznBiIIktSPbFd31H"
     },
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Pygmalion",
-        "url": "https://open.spotify.com/album/0X0IGhphS2zRPXmf6N2iUo"
+        "name": "The Myth",
+        "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
       },
       "artists": [
         {
-          "name": "John Ozbay",
-          "url": "https://open.spotify.com/artist/4QGD7gprTIdWcIIKW6lXtI"
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
         }
       ],
-      "duration_ms": 371624,
-      "name": "A Paragon",
-      "url": "https://open.spotify.com/track/3Yn7N01jpZD5LzIxk9EcSj"
+      "duration_ms": 221796,
+      "name": "The Myth",
+      "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "So That The City Can Begin To Exist",
+        "url": "https://open.spotify.com/album/6IcKIhLBwBhYDnC37Nlnuk"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        },
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 286961,
+      "name": "So That The City Can Begin To Exist",
+      "url": "https://open.spotify.com/track/4LNHI3ugcaRGEfa4D0zNtM"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Fredag",
+        "url": "https://open.spotify.com/album/1o3P9viqum7MErNHVLhjk2"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+        }
+      ],
+      "duration_ms": 182759,
+      "name": "Fredag",
+      "url": "https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -1370,34 +1130,246 @@
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/4tJLpo97w3MKeYypLfY9lP"
       },
       "artists": [
         {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+          "name": "Chelsea McGough",
+          "url": "https://open.spotify.com/artist/1O7mIiCIcKbF2X0GS616Yb"
         }
       ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+      "duration_ms": 251244,
+      "name": "Walkabout",
+      "url": "https://open.spotify.com/track/3TQL7o8aYGnbaP418nKZ8S"
     },
     {
       "added_at": "2021-12-10 04:00:00",
       "album": {
-        "name": "Autumn Rain Rework",
-        "url": "https://open.spotify.com/album/0TCBfkkRIyUz5h7oqlU2gC"
+        "name": "Building Blocks Pt. 2",
+        "url": "https://open.spotify.com/album/0Sye4Hp6UMJfMrAqsNlZg1"
       },
       "artists": [
         {
-          "name": "Vivian Roost",
-          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
         }
       ],
-      "duration_ms": 317765,
-      "name": "Autumn Rain Rework",
-      "url": "https://open.spotify.com/track/1ZaOnB3zJoGdf56rQPqOi5"
+      "duration_ms": 278435,
+      "name": "Don\u2019t Walk Alone",
+      "url": "https://open.spotify.com/track/1h91XWq9tdjGGPZLUX0sss"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Manor House",
+        "url": "https://open.spotify.com/album/4Po2rabK82H1AFI8YoAlKS"
+      },
+      "artists": [
+        {
+          "name": "Iskra Strings",
+          "url": "https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK"
+        },
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "New Bags For Henry",
+      "url": "https://open.spotify.com/track/5Avf8KrNY4GWqA8xQXdbDa"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Still Blue",
+        "url": "https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Enrico Belli",
+          "url": "https://open.spotify.com/artist/1AFiIuKX5f27Pmlpa2KHYB"
+        }
+      ],
+      "duration_ms": 374662,
+      "name": "Still Blue",
+      "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "#20 (Lichen)",
+        "url": "https://open.spotify.com/album/4emxmjdocUU2v4M2B51yJk"
+      },
+      "artists": [
+        {
+          "name": "Richard D. James",
+          "url": "https://open.spotify.com/artist/4MereuUSDthtDmHGRbnzcF"
+        },
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 237832,
+      "name": "#20 (Lichen)",
+      "url": "https://open.spotify.com/track/4ovtBDG1jiIXe033VVhNgq"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Du Nord",
+        "url": "https://open.spotify.com/album/50MjjfEEI1EayrtiSIYf3y"
+      },
+      "artists": [
+        {
+          "name": "Elskavon",
+          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+        },
+        {
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+        }
+      ],
+      "duration_ms": 239188,
+      "name": "L'etoile",
+      "url": "https://open.spotify.com/track/7IvdJ01TBvQHtD5inw52lG"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Sadness (Carlos Cipa Rework)",
+        "url": "https://open.spotify.com/album/67ATK2PDKwEUiIB7RB156L"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+        },
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "duration_ms": 386085,
+      "name": "Sadness - Carlos Cipa Rework",
+      "url": "https://open.spotify.com/track/6DLTECZMsEl9En73TNRoEQ"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
+      },
+      "artists": [
+        {
+          "name": "Simon Folwar",
+          "url": "https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ"
+        }
+      ],
+      "duration_ms": 159594,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "S\u00f8ndermarken (Video Edit)",
+        "url": "https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX"
+      },
+      "artists": [
+        {
+          "name": "Henrik Lindstrand",
+          "url": "https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP"
+        }
+      ],
+      "duration_ms": 250263,
+      "name": "S\u00f8ndermarken - Video Edit",
+      "url": "https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/0X0IGhphS2zRPXmf6N2iUo"
+      },
+      "artists": [
+        {
+          "name": "John Ozbay",
+          "url": "https://open.spotify.com/artist/4QGD7gprTIdWcIIKW6lXtI"
+        }
+      ],
+      "duration_ms": 371624,
+      "name": "A Paragon",
+      "url": "https://open.spotify.com/track/3Yn7N01jpZD5LzIxk9EcSj"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Her (Original Score)",
+        "url": "https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        },
+        {
+          "name": "Owen Pallett",
+          "url": "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+        }
+      ],
+      "duration_ms": 339444,
+      "name": "Dimensions",
+      "url": "https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Dvergm\u00e1l",
+        "url": "https://open.spotify.com/album/3sEsQzwdu8GATbacKJfDBw"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        },
+        {
+          "name": "Hilmar \u00d6rn Hilmarsson",
+          "url": "https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1"
+        },
+        {
+          "name": "Maria Huld Markan Sigf\u00fasd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ"
+        },
+        {
+          "name": "Steind\u00f3r Andersen",
+          "url": "https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg"
+        }
+      ],
+      "duration_ms": 457209,
+      "name": "Dvergm\u00e1l (with Steind\u00f3r Andersen, Hilmar \u00d6rn Hilmarsson and Mar\u00eda Huld Markan Sigf\u00fasd\u00f3ttir)",
+      "url": "https://open.spotify.com/track/0ziXftS3A7jAVobpKVKwg9"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Sinfonia (After Bach, BWV 248)",
+        "url": "https://open.spotify.com/album/2dTHnNQKu9f7x7FN7G0rzk"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 280500,
+      "name": "Sinfonia (After Bach, BWV 248)",
+      "url": "https://open.spotify.com/track/5IiLoZK1u0cRrPWIRnydXG"
     },
     {
       "added_at": "2021-12-10 04:00:00",
@@ -1418,6 +1390,66 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/6MpiBJNEoqRTLVapGwvgSc"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "All the Way Round",
+        "url": "https://open.spotify.com/album/5bQ65flJGJ4mhQG9cYWzri"
+      },
+      "artists": [
+        {
+          "name": "Kelpe",
+          "url": "https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl"
+        }
+      ],
+      "duration_ms": 270024,
+      "name": "All the Way Round - Edit",
+      "url": "https://open.spotify.com/track/68Cz5sfSKx1ugwoxJzLIHh"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/7d8l4p9vPp8rexEpqDfnYu"
+      },
+      "artists": [
+        {
+          "name": "minco eggersman",
+          "url": "https://open.spotify.com/artist/2iWoQ1sXZrTGHb4FcMxz93"
+        },
+        {
+          "name": "Theodoor Borger",
+          "url": "https://open.spotify.com/artist/3SAolv7NXrrWp6LHhdIwWm"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+        },
+        {
+          "name": "UNIFONY",
+          "url": "https://open.spotify.com/artist/7hy5ihiZ9aijrDdlF9Utc9"
+        }
+      ],
+      "duration_ms": 280920,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/3sxGCOWEmIjANsv1xvynN7"
+    },
+    {
+      "added_at": "2021-12-10 04:00:00",
+      "album": {
+        "name": "Surges (variation)",
+        "url": "https://open.spotify.com/album/2NYJCfJw0LhEwPccv3e9Fy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Surges (variation)",
+      "url": "https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSw8liJZcPOI"

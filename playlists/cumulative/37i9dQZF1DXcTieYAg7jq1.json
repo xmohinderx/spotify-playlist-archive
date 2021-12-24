@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 152613,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/6Dhk2ZvhPG8HCY3qFU5A2l"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 224638,
       "name": "Madison",
       "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 233356,
       "name": "Place Names",
       "url": "https://open.spotify.com/track/7g43lO9P1diIwalJSdAhDx"
@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Moments in Between",
+        "url": "https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208106,
+      "name": "Sweet Chamomile",
+      "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
+    },
+    {
+      "album": {
         "name": "Before & After Life",
         "url": "https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE"
       },
@@ -1840,7 +1858,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192793,
       "name": "Velcro (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26"
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "We're On Our Way Now",
       "url": "https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187680,
       "name": "2000 Man",
       "url": "https://open.spotify.com/track/7jGg2uNzVLmkzL79X8Ysz9"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 276252,
       "name": "Cactus Tree - 2021 Remaster",
       "url": "https://open.spotify.com/track/6ah4KE4F2xwbS1qByjFmZj"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 129199,
       "name": "Come And Buy My Toys",
       "url": "https://open.spotify.com/track/4jHoAUaC27yT92ZQP9XVQK"
@@ -760,6 +760,24 @@
       "duration_ms": 388800,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "album": {

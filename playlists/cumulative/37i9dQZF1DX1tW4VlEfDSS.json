@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 246923,
       "name": "5 Years",
       "url": "https://open.spotify.com/track/1OcNbaIFy9eavtVLRaD6c2"
@@ -60,6 +60,28 @@
       "duration_ms": 171428,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/4C1fvHgY4EwE5xPF3BlCfB"
+      },
+      "artists": [
+        {
+          "name": "Dissolut",
+          "url": "https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO"
+        },
+        {
+          "name": "Jane",
+          "url": "https://open.spotify.com/artist/1tWhAShzHHzPwgr9vPsgdR"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/7HtFDgrDfV9R8wlBaCLuXk"
     },
     {
       "album": {
@@ -216,7 +238,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 267187,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy"
@@ -234,7 +256,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 275131,
       "name": "Chilli Heatwave",
       "url": "https://open.spotify.com/track/0I5CXOrOHwCg13oTgG3TAr"
@@ -438,7 +460,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 200015,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/3JhTqa080FiJORsvJ2elUy"
@@ -471,6 +493,24 @@
     },
     {
       "album": {
+        "name": "For A Fool",
+        "url": "https://open.spotify.com/album/70vLcV2gvMiSUIrfNMI45J"
+      },
+      "artists": [
+        {
+          "name": "Storm Queen",
+          "url": "https://open.spotify.com/artist/0DgsuiMZylmPOYkrVOqNYQ"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180918,
+      "name": "For A Fool",
+      "url": "https://open.spotify.com/track/2QqV8LqVK6lpw0ZXdIe3vL"
+    },
+    {
+      "album": {
         "name": "Forever Man (How Many Times) [Earth n Days Remix]",
         "url": "https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9"
       },
@@ -486,7 +526,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 181533,
       "name": "Forever Man (How Many Times) - Earth n Days Remix",
       "url": "https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii"
@@ -504,7 +544,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182950,
       "name": "Ghetto Rock",
       "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
@@ -552,7 +592,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7"
@@ -632,7 +672,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -654,7 +694,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 401221,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/7sf8su6Hcqe07WMtDYcYt8"
@@ -712,7 +752,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 160240,
       "name": "I'm For Real",
       "url": "https://open.spotify.com/track/7L1tW1wlZ3pqjA2GKXhMC6"
@@ -752,7 +792,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/7f6a2LWROn1HQlG97hDIg6"
@@ -818,7 +858,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
@@ -935,6 +975,28 @@
     },
     {
       "album": {
+        "name": "Love Hangover",
+        "url": "https://open.spotify.com/album/4THihbbJZnvUbuXGZ1AXON"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228581,
+      "name": "Love Hangover - Eric Kupper Remix",
+      "url": "https://open.spotify.com/track/5i0uFONyXP5dbN3VT1a8Mp"
+    },
+    {
+      "album": {
         "name": "Love the Way (Happiness)",
         "url": "https://open.spotify.com/album/4qCfn7HrbThJdvhzh66g8R"
       },
@@ -1027,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/1nBFpZhVuUmlFGhrx6uNXp"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175413,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/31D11AnGmhV0QULE10dpG2"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF"
       },
@@ -1042,7 +1122,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu"
@@ -1108,7 +1188,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 357586,
       "name": "No Misery",
       "url": "https://open.spotify.com/track/0i4ab8bJX3a0v30coiUPfR"
@@ -1170,7 +1250,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 240000,
       "name": "On My Mind - Radio Mix",
       "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
@@ -1192,7 +1272,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 355895,
       "name": "Planningto Risk It",
       "url": "https://open.spotify.com/track/0RbAhuKUklA8WbWwIh86r5"
@@ -1226,7 +1306,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 352000,
       "name": "Primavera - Anna Prior Remix",
       "url": "https://open.spotify.com/track/2TXEnQWG57LZ36ygqBigId"
@@ -1550,7 +1630,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 261543,
       "name": "The Fixer",
       "url": "https://open.spotify.com/track/5Q3ez9AGCQZ99sZgoepUDB"
@@ -1572,7 +1652,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 402000,
       "name": "The One",
       "url": "https://open.spotify.com/track/0EPeQmfdmMgt2enWCYarSS"
@@ -1714,7 +1794,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217379,
       "name": "We Want Our Clubs Back",
       "url": "https://open.spotify.com/track/3uTQEBLSKHtAcDcp6fTwfh"

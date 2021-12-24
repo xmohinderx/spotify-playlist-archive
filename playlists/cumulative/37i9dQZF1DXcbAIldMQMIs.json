@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 201813,
       "name": "2725",
       "url": "https://open.spotify.com/track/3e68Szcr6VUctxlIeWWTrS"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229218,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/0KZsNuPlsR2670u3uHJaza"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4qkVALwOxCIEZ7I5gkZ3m4"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207692,
       "name": "Dontmakemefallinlove",
       "url": "https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 176746,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/69jstgacdd40OwG9cLl45r"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 223638,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 150010,
       "name": "Internet Stalking (feat. Adam Melchor)",
       "url": "https://open.spotify.com/track/4BAkJk9QFtYWycVXRvhmhk"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 221360,
       "name": "Make Me Your Queen",
       "url": "https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3"
@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "She",
+      "url": "https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8"
+    },
+    {
+      "album": {
         "name": "Show Me How",
         "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
       },
@@ -1299,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/1aI0KCOzPMZXS5ViNDWdps"
+      },
+      "artists": [
+        {
+          "name": "GRAE",
+          "url": "https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178697,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM"
+    },
+    {
+      "album": {
         "name": "Super Monster",
         "url": "https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp"
       },
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
@@ -1476,7 +1512,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 120375,
       "name": "Tinder Song",
       "url": "https://open.spotify.com/track/1JHOy566xSKwNPqaB9AF2i"

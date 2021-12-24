@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Very Extra",
+        "url": "https://open.spotify.com/album/4zaneuMnBkhrFOs0DCWCYH"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251775,
+      "name": "Barrows Ballad",
+      "url": "https://open.spotify.com/track/7lqwJUdXahWpA2lTb9FUNM"
+    },
+    {
+      "album": {
         "name": "Basquiat",
         "url": "https://open.spotify.com/album/201wBJfMJljHsEJ3Gt0AZt"
       },
@@ -132,7 +150,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 175304,
       "name": "Been That Ill",
       "url": "https://open.spotify.com/track/0ksOXKdoU7tm5maWw2Oe2T"
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/74leCkl7rVK7GcycRrc9wq"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 229863,
       "name": "Just Enough",
       "url": "https://open.spotify.com/track/6O7EqSCpQTiU8GECX1KDIA"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 159036,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3n43IT3mrmAr2haV5J28t6"
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167308,
       "name": "Remember 01",
       "url": "https://open.spotify.com/track/7uVb2BbkZGTtsZOZJX8ZHp"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 153886,
       "name": "Schism",
       "url": "https://open.spotify.com/track/6ORBymYSqdRRqAyZvybcXq"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/6y3jQ1n5P4z1DAtHd7HWcV"
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 258837,
       "name": "Totality",
       "url": "https://open.spotify.com/track/67U414F214QaCHyVl2oRA8"
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 191150,
       "name": "U Nasty",
       "url": "https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw"

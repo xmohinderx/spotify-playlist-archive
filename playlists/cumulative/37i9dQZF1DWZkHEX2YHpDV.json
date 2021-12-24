@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 167896,
       "name": "21st Century Vampire",
       "url": "https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 204128,
       "name": "27 Club",
       "url": "https://open.spotify.com/track/4PLL6jC47gqKKx6lrkV8b7"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 265224,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/3jLj7HQNl4LXc9vNuwcFyw"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212190,
       "name": "Big Sad",
       "url": "https://open.spotify.com/track/0r2gvhn9QfmqN8SwhpP5Xy"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 223480,
       "name": "Brakeless",
       "url": "https://open.spotify.com/track/5RDCND3o9XN2yyoRy6pZUX"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 202400,
       "name": "Bright White Light",
       "url": "https://open.spotify.com/track/2i3OJ2oJYGKVotbf73Dw7O"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 155403,
       "name": "buck",
       "url": "https://open.spotify.com/track/4k4ImOjmaURMwBaZN3QKsk"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 241297,
       "name": "Catching Fire (feat. nothing,nowhere.)",
       "url": "https://open.spotify.com/track/0M0iDfjwyJwRWBS1Wpocd5"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 246080,
       "name": "Clair",
       "url": "https://open.spotify.com/track/7hPogwNcXHMPrasiZ5Q9x3"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 159636,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 186255,
       "name": "Deadbeat",
       "url": "https://open.spotify.com/track/6GbIHLdRMNqI9tayaJaku0"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 252706,
       "name": "Deliver Us More Evil",
       "url": "https://open.spotify.com/track/67MpmnlrsgA8UEi3g9AqJh"
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Dream Boy",
+        "url": "https://open.spotify.com/album/3DKbtLyzu1kGFSiaRWD9dC"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167184,
+      "name": "Dream Boy",
+      "url": "https://open.spotify.com/track/2D9g5ehdnHMnnzO2npi9PG"
+    },
+    {
+      "album": {
         "name": "Goodnight",
         "url": "https://open.spotify.com/album/0R5PRFLctKaiuf0ZrHuslO"
       },
@@ -1222,6 +1240,24 @@
       "duration_ms": 276674,
       "name": "Dying to Feel Alive",
       "url": "https://open.spotify.com/track/0esr1qU2Alrke9bK4eesbZ"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6OvPlrvESJfFNokMZmsbyx"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179892,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/62u2cEk0jGGJaLrcMAd7AN"
     },
     {
       "album": {
@@ -1308,7 +1344,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214922,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4Nqn5k7rifapbS2Kt15g8h"
@@ -1330,6 +1366,24 @@
       "duration_ms": 217541,
       "name": "Fallback Lover",
       "url": "https://open.spotify.com/track/4m6C1GGATtxZ9ivlDHmr7R"
+    },
+    {
+      "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/7CQo7bup1p4UIgPO7VStZG"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273257,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/7AswPAZDUUgkmELlrxDkNl"
     },
     {
       "album": {
@@ -1362,7 +1416,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 173800,
       "name": "Featuring Mark Hoppus",
       "url": "https://open.spotify.com/track/1r6RgVsrQ6ccNnjrn8tb6c"
@@ -1492,7 +1546,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 160625,
       "name": "First to Fake It",
       "url": "https://open.spotify.com/track/0bmwuoJqTKoMwAEO7VRBXy"
@@ -1620,7 +1674,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 129054,
       "name": "G R O W (WILLOW & Avril Lavigne feat. Travis Barker)",
       "url": "https://open.spotify.com/track/7yYDTV3VQ322o8r4wcYlqZ"
@@ -1678,6 +1732,24 @@
       "duration_ms": 247840,
       "name": "Goddamn",
       "url": "https://open.spotify.com/track/5cY279FAGSoxdv4hXS9rcL"
+    },
+    {
+      "album": {
+        "name": "Going Ghost",
+        "url": "https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "Going Ghost",
+      "url": "https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS"
     },
     {
       "album": {
@@ -1790,7 +1862,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191700,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4Chuzbv24WJ2ddTKaLghYu"
@@ -1830,7 +1902,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 167765,
       "name": "Heavy (feat. blackbear)",
       "url": "https://open.spotify.com/track/4xD908nOSNCQwAWfLgv3Vk"
@@ -1848,7 +1920,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180234,
       "name": "High Forever",
       "url": "https://open.spotify.com/track/0FbsFDHJpMlLQu3G8hGINW"
@@ -1954,7 +2026,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192343,
       "name": "I Hate Everybody (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/61LmjrYtevg8KjHjuV5Hs7"
@@ -2124,7 +2196,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192000,
       "name": "I'm Sorry I'm Leaving",
       "url": "https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp"
@@ -2178,10 +2250,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190239,
       "name": "Imprint",
       "url": "https://open.spotify.com/track/1qlUw3ZejypRGcpdQcX3ix"
+    },
+    {
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/0QkM3ThpYjGJ38O8MoxE4S"
+      },
+      "artists": [
+        {
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205671,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/16fn9av6Y86Lmt1JJveNpO"
     },
     {
       "album": {
@@ -2214,7 +2304,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198365,
       "name": "In Over My Head",
       "url": "https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ"
@@ -2406,7 +2496,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195528,
       "name": "Kill Me Better (feat. Imanbek & Trevor Daniel) - Travis Barker Alt Version",
       "url": "https://open.spotify.com/track/5XASykUa4APCYgGSa1JIVH"
@@ -2428,7 +2518,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191361,
       "name": "Kill TV (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/1itczyE3t7bDv6ydYmJM2S"
@@ -2464,7 +2554,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 204253,
       "name": "Lavender Bones",
       "url": "https://open.spotify.com/track/27wvnSTpsyS9k06aDtXvt8"
@@ -2558,7 +2648,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 180253,
       "name": "Light Me Up",
       "url": "https://open.spotify.com/track/0eblQgx1UW7IGMCgiAdqr8"
@@ -2674,7 +2764,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 232613,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/35buHwHyHsY5RoCLJop93u"
@@ -2786,7 +2876,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 156947,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/0WuzhNWNs6HNXtEYMIfuyA"
@@ -2948,7 +3038,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 168133,
       "name": "NEW MEDiCATiON",
       "url": "https://open.spotify.com/track/2IZZyt0YycXZg0p8IHOfaQ"
@@ -2970,7 +3060,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210631,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/5eTftW1eQHHhIOean3enJ8"
@@ -2988,7 +3078,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 200888,
       "name": "Nights Alone",
       "url": "https://open.spotify.com/track/4pqfAjOdONW9IGHq5BV328"
@@ -3006,7 +3096,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 202656,
       "name": "No Love In LA",
       "url": "https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28"
@@ -3306,7 +3396,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 189651,
       "name": "Partycrasher",
       "url": "https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe"
@@ -3324,7 +3414,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 176742,
       "name": "Pavement",
       "url": "https://open.spotify.com/track/2NKcrFubVH32cUuAw1svj8"
@@ -3364,10 +3454,40 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 161037,
       "name": "phuck u",
       "url": "https://open.spotify.com/track/0kJv6Szx4qBhr7byrlgzgH"
+    },
+    {
+      "album": {
+        "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
+        "url": "https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177058,
+      "name": "PILL BREAKER (feat. blackbear & Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/7jjnn6K7p5MgOFuqLypAcM"
     },
     {
       "album": {
@@ -3567,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Steady Glow",
+        "url": "https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225129,
+      "name": "Rose\u0301 by the Ocean",
+      "url": "https://open.spotify.com/track/3nLbF7vHZtxJ8q31srhigl"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0VXcAMPd0dzv62I9q4YMOK"
       },
@@ -3614,10 +3752,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 172232,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/3DVQRyBEhnRxz2bYqFNPEI"
+    },
+    {
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/41rZSLcBmbZS9FsvEDcNYI"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        },
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/0w8aZyDeFw67itdrjqy6O3"
     },
     {
       "album": {
@@ -3791,6 +3951,28 @@
     },
     {
       "album": {
+        "name": "STUCK IN THE MIDDLE",
+        "url": "https://open.spotify.com/album/5iCOQiYgZ8wCVrl3VhpCic"
+      },
+      "artists": [
+        {
+          "name": "GARZI",
+          "url": "https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "SICK OF ME (with Travis Barker)",
+      "url": "https://open.spotify.com/track/5tNo5zN9MBzPNooKlfYWmJ"
+    },
+    {
+      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -3878,7 +4060,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203550,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
@@ -4184,7 +4366,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 201600,
       "name": "Swear Jar",
       "url": "https://open.spotify.com/track/3sS8rnl4PiCn1VnM556GLg"
@@ -4224,7 +4406,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 168030,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
@@ -4278,7 +4460,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 177273,
       "name": "Thanks, I Hate It",
       "url": "https://open.spotify.com/track/1DVPl37UU468V6RK8fMJPX"
@@ -4336,7 +4518,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 183361,
       "name": "The Eulogy of You and Me",
       "url": "https://open.spotify.com/track/6yGsqEtwfrS2tktEYcuPKd"
@@ -4376,7 +4558,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
@@ -4774,7 +4956,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187906,
       "name": "When You Were Young",
       "url": "https://open.spotify.com/track/0lH7FmyRrbHpYDE12V1P6S"
@@ -4814,6 +4996,32 @@
       "duration_ms": 141056,
       "name": "Where Are You Going?",
       "url": "https://open.spotify.com/track/2pV5NSQv57GvWiV3JwJWbV"
+    },
+    {
+      "album": {
+        "name": "Where I Belong (feat. We The Kings)",
+        "url": "https://open.spotify.com/album/4m7sJnkRPKWdyNa87dxCER"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "Where I Belong (feat. We The Kings)",
+      "url": "https://open.spotify.com/track/6XbmIuDxm4gWpVYoGg5DQX"
     },
     {
       "album": {
@@ -4882,7 +5090,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 233285,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/22uRfgnUlPZXfd4BCaretS"
@@ -4936,7 +5144,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 196200,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/1vYFKwcdo4koF1xyK4Oy5m"
@@ -4954,7 +5162,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 189473,
       "name": "You Make Nightmares Worth My While",
       "url": "https://open.spotify.com/track/6XaD9vPHMsKwoZzpDqgdpH"
@@ -4994,7 +5202,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 176640,
       "name": "Your Reminder",
       "url": "https://open.spotify.com/track/1GonAaynTC7Rl2XsrqWnWj"

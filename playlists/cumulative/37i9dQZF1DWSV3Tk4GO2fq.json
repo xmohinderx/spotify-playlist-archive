@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "date_added": "2021-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158253,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
+    },
+    {
+      "album": {
         "name": "Fats Domino Swings",
         "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
@@ -836,7 +854,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174293,
       "name": "Hey, Good Lookin'",
       "url": "https://open.spotify.com/track/0F76EzCOmno4KJviO7iGNq"
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 150666,
       "name": "My Funny Valentine - Remastered",
       "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 138440,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 340133,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/1O8jVjF78N1gXmU7CGoryX"
@@ -2766,6 +2784,28 @@
       "duration_ms": 154026,
       "name": "Walkin' After Midnight",
       "url": "https://open.spotify.com/track/14t8pLQkLLskPriG8bs96b"
+    },
+    {
+      "album": {
+        "name": "What Do You Want to Make Those Eyes at Me For ?",
+        "url": "https://open.spotify.com/album/69UB1pwN38nuZ1kZ3XugNe"
+      },
+      "artists": [
+        {
+          "name": "Emile Ford",
+          "url": "https://open.spotify.com/artist/4WlnMvgVJYN8jkujHZHrP0"
+        },
+        {
+          "name": "The Checkmates",
+          "url": "https://open.spotify.com/artist/6YU3dTfvzThOATHd0pfp3f"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128573,
+      "name": "What Do You Want to Make Those Eyes at Me For ?",
+      "url": "https://open.spotify.com/track/2Pd7nI81XFF9hTuKppK5h3"
     },
     {
       "album": {
@@ -2968,7 +3008,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 161640,
       "name": "Your Cheatin' Heart",
       "url": "https://open.spotify.com/track/13Oi7vfd9mrujcEmGAYAPe"

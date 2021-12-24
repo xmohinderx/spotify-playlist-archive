@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192319,
       "name": "2Drunk",
       "url": "https://open.spotify.com/track/33o0xXMPY41CWwDTnxyM5Z"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 230395,
       "name": "California (feat. Warren Hue)",
       "url": "https://open.spotify.com/track/3Qj2f7BrpJNGj3dbxKpOlp"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 147350,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 163500,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 158083,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 280093,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/6pzFkFLHDqFpgFtZfNH9RU"
@@ -944,10 +944,36 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
+    },
+    {
+      "album": {
+        "name": "THE ANXIETY",
+        "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
+      },
+      "artists": [
+        {
+          "name": "THE ANXIETY",
+          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
     },
     {
       "album": {
@@ -962,7 +988,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207497,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/5xfwbfvRCaMstC6DsZk2h9"
@@ -1114,10 +1140,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186760,
       "name": "Ready to love",
       "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
+    },
+    {
+      "album": {
+        "name": "Really Wanna Dance With You",
+        "url": "https://open.spotify.com/album/1z6W9hbQHesB5jcbMYlRuY"
+      },
+      "artists": [
+        {
+          "name": "New Rules",
+          "url": "https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "Really Wanna Dance With You",
+      "url": "https://open.spotify.com/track/1qpXhP3O5CSVQyc90dQeJc"
     },
     {
       "album": {
@@ -1248,7 +1292,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174719,
       "name": "so done",
       "url": "https://open.spotify.com/track/0CJujB84MFibxHqxFQVLu1"
@@ -1445,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/39o4yojgevINMTcEMO5JBw"
+      },
+      "artists": [
+        {
+          "name": "Nathanie",
+          "url": "https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/36oNXNzGgzA3Jsnw4XlKHh"
+    },
+    {
+      "album": {
         "name": "Cl\u00e9 : LEVANTER",
         "url": "https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR"
       },
@@ -1456,7 +1518,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
@@ -1496,7 +1558,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167661,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
@@ -1626,7 +1688,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 183536,
       "name": "Who's In Your Head",
       "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"

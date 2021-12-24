@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 253333,
       "name": "A Drowning Cry",
       "url": "https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217500,
       "name": "Brooklyn '95",
       "url": "https://open.spotify.com/track/1KxLWCQJG4RSeymZdHhDOV"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 204470,
       "name": "Comb - Absent Chronicles Remix",
       "url": "https://open.spotify.com/track/12OtYMAKuPrBdXxEmEoanq"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 192729,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203445,
       "name": "Flair",
       "url": "https://open.spotify.com/track/603bfdyalNWhlDuMLdINW9"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 187506,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/6yLEplXAX0k1mbqVAeNt9Z"
@@ -1059,6 +1059,28 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3s7pP00cy4RdoSo5w7VygD"
+      },
+      "artists": [
+        {
+          "name": "Farrah",
+          "url": "https://open.spotify.com/artist/4EpVqvktwuLm4wMdI3HCJr"
+        },
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6034K3E2tySzsHMMqZZbA0"
+    },
+    {
+      "album": {
         "name": "Irene",
         "url": "https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc"
       },
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 189302,
       "name": "I Can See The Light",
       "url": "https://open.spotify.com/track/6oMGDBpSdF2p0MjtpX7VHN"
@@ -1292,7 +1314,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 165750,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/4JpQy59PDi8Wiucp4fHSpH"
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 149760,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/0Hxg817iDRgOgizgY8G0j1"
@@ -1470,7 +1492,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "let it go",
       "url": "https://open.spotify.com/track/1czCYuXfV3XtRTgxnVqyHY"
@@ -1488,7 +1510,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 139486,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/5dv1Yf3HwWuV6JuLNfOjmj"
@@ -1590,7 +1612,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 177947,
       "name": "Mind",
       "url": "https://open.spotify.com/track/05eeKZQ6HYn3tL5X7HXj36"
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 232156,
       "name": "only way out",
       "url": "https://open.spotify.com/track/1JZK4g9p89N6sACbG6V0a8"
@@ -1848,7 +1870,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 391218,
       "name": "Polar Concept",
       "url": "https://open.spotify.com/track/2wvzaSq1yvCA4zsBNPcROH"
@@ -2128,7 +2150,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231663,
       "name": "Rushing Back",
       "url": "https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY"
@@ -2591,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/3JFjDW9hgB5sGdCdsXBwR5"
+      },
+      "artists": [
+        {
+          "name": "Nick AM",
+          "url": "https://open.spotify.com/artist/1uPP0SnAHHgGKS0WqbSYwe"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214110,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/5FjMM1DCJ5q8HOqRlOVId4"
+    },
+    {
+      "album": {
         "name": "tic tac toe",
         "url": "https://open.spotify.com/album/08n4CTuQ8LVjfnHZ1IjmFs"
       },
@@ -2646,7 +2686,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 154590,
       "name": "TURN IT DOWN",
       "url": "https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i"
@@ -2954,7 +2994,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 191367,
       "name": "when ur around (feat. San Holo, Taska Black, Flaws and Mystk)",
       "url": "https://open.spotify.com/track/74FRlDfGO4Vj3WJXr6drzz"
@@ -3052,7 +3092,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 269692,
       "name": "\u200emelodies \u200efrom \u200eheaven",
       "url": "https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182080,
       "name": "All American",
       "url": "https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 217184,
       "name": "California",
       "url": "https://open.spotify.com/track/7nzqTlte0dXVzhCqYtFYCY"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 206906,
       "name": "Growing Old Young",
       "url": "https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 210213,
       "name": "Holding Out For A Cowboy",
       "url": "https://open.spotify.com/track/1q9RqY2hjH5e8U3NrrjWpN"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196421,
       "name": "I Could Use a Love Song",
       "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 166928,
       "name": "Me About Me",
       "url": "https://open.spotify.com/track/5T6blAaKgFyfRZ7yyK4SoQ"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194560,
       "name": "Mean Something",
       "url": "https://open.spotify.com/track/2z0GgJjQShQbEWwfXlfrzW"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178469,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 166185,
       "name": "Shoulda",
       "url": "https://open.spotify.com/track/3eEPoXCE8euzeFobYQTK9M"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 290466,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177857,
       "name": "Table For One Drinking For Two",
       "url": "https://open.spotify.com/track/6Qi5Bc5qDoYt7P9H2lTTiR"
@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "REAL THING",
+        "url": "https://open.spotify.com/album/2tr5FXXTbB1yxI37kMERNi"
+      },
+      "artists": [
+        {
+          "name": "Clare Dunn",
+          "url": "https://open.spotify.com/artist/2VDsDEKCdNm7c7Ve43Z9gw"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/0NmzshDaSghf2kLgHNYJHC"
+    },
+    {
+      "album": {
         "name": "We Go Together Like",
         "url": "https://open.spotify.com/album/1Rd2aYLTapfmSk66US3nlq"
       },
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 217871,
       "name": "We Were Rich - New Version",
       "url": "https://open.spotify.com/track/3Lp2u6JS7yK45JtGlHLLCJ"

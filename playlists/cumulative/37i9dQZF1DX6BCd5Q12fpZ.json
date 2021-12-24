@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 178053,
       "name": "(I Would) Die For You",
       "url": "https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 149573,
       "name": "Ding-A-Dong",
       "url": "https://open.spotify.com/track/1UrZB49sPYlTuNA7fdC0cb"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 181401,
       "name": "Dum Tek Tek",
       "url": "https://open.spotify.com/track/1l9jCFXKfkw33BwkGytqkO"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 183520,
       "name": "Echo (You and I)",
       "url": "https://open.spotify.com/track/1iqnkBWge47Yhboceuceas"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 184266,
       "name": "Fly On The Wings Of Love",
       "url": "https://open.spotify.com/track/0fDTE06NqWwAXyBc77I3qi"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181706,
       "name": "Flying The Flag (For You)",
       "url": "https://open.spotify.com/track/5iNCoeggfeAWmug3jz5oh8"
@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Golden Boy",
+        "url": "https://open.spotify.com/album/3z1b8cnvUTzTIvyEExYB9s"
+      },
+      "artists": [
+        {
+          "name": "Nadav Guedj",
+          "url": "https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY"
+        }
+      ],
+      "date_added": "2020-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180585,
+      "name": "Golden Boy",
+      "url": "https://open.spotify.com/track/6YWFr8BHQrRL4b7RwuqS36"
+    },
+    {
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh"
       },
@@ -276,6 +294,24 @@
       "duration_ms": 190613,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
+    },
+    {
+      "album": {
+        "name": "Iceland Eurovision Party",
+        "url": "https://open.spotify.com/album/0HWqAQCNZmBA925kcIv4xq"
+      },
+      "artists": [
+        {
+          "name": "Selma",
+          "url": "https://open.spotify.com/artist/1o0TSkHxzo6fCAMy2nVexo"
+        }
+      ],
+      "date_added": "2020-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193490,
+      "name": "If I Had Your Love",
+      "url": "https://open.spotify.com/track/46P3Hgp98JG5t3sszNDaGu"
     },
     {
       "album": {
@@ -308,7 +344,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 234987,
       "name": "Is It Right",
       "url": "https://open.spotify.com/track/4BxMRmdcUYW1sBHc1Nv9jo"
@@ -344,7 +380,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 184157,
       "name": "J'aime la vie - Eurovision 1986",
       "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
@@ -542,7 +578,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180586,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
@@ -560,7 +596,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 183280,
       "name": "My Heart Goes Boom",
       "url": "https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI"
@@ -650,7 +686,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 182333,
       "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
       "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
@@ -668,7 +704,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 264013,
       "name": "Parlez-vous francais?",
       "url": "https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k"
@@ -704,7 +740,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 153346,
       "name": "Poupee De Cire Poupee De Son",
       "url": "https://open.spotify.com/track/6hHbNqaJeMLX3EbRErFtrA"
@@ -884,7 +920,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 180586,
       "name": "Shake It - Eurovision Version",
       "url": "https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze"
@@ -938,7 +974,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 181186,
       "name": "Takes 2 To Tango",
       "url": "https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP"
@@ -956,7 +992,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 177562,
       "name": "This Is Our Night",
       "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
@@ -1053,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "We Are the Winners",
+        "url": "https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9"
+      },
+      "artists": [
+        {
+          "name": "LT United",
+          "url": "https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4"
+        }
+      ],
+      "date_added": "2020-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "We Are the Winners - Original Version",
+      "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
+    },
+    {
+      "album": {
         "name": "What About My Dreams?",
         "url": "https://open.spotify.com/album/70sLEEOucejT9jhRDmPNAW"
       },
@@ -1100,7 +1154,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180386,
       "name": "Yassou Maria",
       "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"

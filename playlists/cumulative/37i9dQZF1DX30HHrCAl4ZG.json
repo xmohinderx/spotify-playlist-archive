@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 209014,
       "name": "Ain't Over You",
       "url": "https://open.spotify.com/track/2hHh28T8hwiKqLeQ6P8xx1"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 253010,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/2CG6oeuMEtbL5OvKsyT7JL"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194526,
       "name": "BOYFRIEND KILLER",
       "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Brando",
+        "url": "https://open.spotify.com/album/6VwfxDo0Rc9O4rtKYXxboo"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Brando",
+      "url": "https://open.spotify.com/track/74W2WLhCxYJEmOs7fCu76j"
+    },
+    {
+      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/01U0pmE3UZfB9mSwUkE0m9"
       },
@@ -384,7 +402,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174623,
       "name": "Breaking the Waves",
       "url": "https://open.spotify.com/track/5XDf4vtvaNe0vyu8i447Ew"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 270326,
       "name": "bullet train",
       "url": "https://open.spotify.com/track/5oka498ZuBpOR2WTWq4XoB"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212426,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0gEl3OkfuBT0GpNbRitxgo"
@@ -460,7 +478,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 209266,
       "name": "Change Shapes (feat. Jesse)",
       "url": "https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR"
@@ -500,7 +518,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 191881,
       "name": "Codependency",
       "url": "https://open.spotify.com/track/0o2BJHj9wQTCb5UfY7R7jl"
@@ -590,7 +608,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 186906,
       "name": "Control",
       "url": "https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 187853,
       "name": "Cut On The Crease",
       "url": "https://open.spotify.com/track/1ZteOVyCQb15wp1yiGxNbK"
@@ -698,7 +716,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "dead end",
       "url": "https://open.spotify.com/track/2KyS4sFuKvNYerKxHPyawL"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 222135,
       "name": "Favorite Sin",
       "url": "https://open.spotify.com/track/7lHXPeUCPJKmoAL5lS9Nln"
@@ -824,7 +842,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 254735,
       "name": "First Time",
       "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
@@ -842,10 +860,28 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 180026,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS"
+    },
+    {
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/6ZFJA2oxw1AdQUop3BzTV8"
+      },
+      "artists": [
+        {
+          "name": "Emmett Mulrooney",
+          "url": "https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191906,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/18wWSj6ydP6E8oSkgw5vrM"
     },
     {
       "album": {
@@ -950,7 +986,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 171653,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi"
@@ -1029,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Hatch",
+        "url": "https://open.spotify.com/album/0G3QXjWIHCsSvwdM0gBh56"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Hatch",
+      "url": "https://open.spotify.com/track/5McjD7rGbob7zDr8k0xnO1"
+    },
+    {
+      "album": {
         "name": "Headset Go",
         "url": "https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ"
       },
@@ -1040,7 +1094,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196000,
       "name": "Headset Go",
       "url": "https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu"
@@ -1102,7 +1156,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 162946,
       "name": "Holly Holly",
       "url": "https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev"
@@ -1174,7 +1228,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220521,
       "name": "Hurting Kind",
       "url": "https://open.spotify.com/track/3uppnQKDEQkNUqRSSEXKfM"
@@ -1246,7 +1300,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "I Won!",
       "url": "https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx"
@@ -1444,7 +1498,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 188506,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/5IGU1JWZSHU6ivB7pYxONX"
@@ -1534,7 +1588,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 143493,
       "name": "Make Out",
       "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
@@ -1642,7 +1696,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229195,
       "name": "Must Be a Cop",
       "url": "https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y"
@@ -1804,7 +1858,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 186146,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3OSgKpb2c1VbFqDOqiz8tZ"
@@ -1840,7 +1894,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 162400,
       "name": "Polly",
       "url": "https://open.spotify.com/track/1OHYh4ycNpSczDFaf5PkJ9"
@@ -1876,7 +1930,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 279691,
       "name": "Post Humorous",
       "url": "https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu"
@@ -2057,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Show Up",
+        "url": "https://open.spotify.com/album/2eCZIIngA9bPYRUoKxd29z"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2021-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Show Up",
+      "url": "https://open.spotify.com/track/6ouWFK1glsWeCC5C0uw2KR"
+    },
+    {
+      "album": {
         "name": "Orca (Deluxe)",
         "url": "https://open.spotify.com/album/7K1rLdxIp1SappJzswQAbU"
       },
@@ -2068,7 +2140,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 218029,
       "name": "Sober Up",
       "url": "https://open.spotify.com/track/3UnMcZ7ewqsJgCcuT7hQhu"
@@ -2090,7 +2162,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/4E6Dxj76ostVEmeefzlDP8"
@@ -2108,7 +2180,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 242801,
       "name": "Sorry I Am",
       "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
@@ -2216,7 +2288,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174387,
       "name": "summer bruises",
       "url": "https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs"
@@ -2241,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/6MUq7oII8rOSCaphVASuh8"
+      },
+      "artists": [
+        {
+          "name": "bennytheghost",
+          "url": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+        }
+      ],
+      "date_added": "2021-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149173,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/5a1Frxln2IsaBlzPfzEaRD"
+    },
+    {
+      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/7zSMZnX4BvUQNYQLMN54Yo"
       },
@@ -2252,7 +2342,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 133050,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr"
@@ -2368,7 +2458,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 141538,
       "name": "Tide",
       "url": "https://open.spotify.com/track/0zzqcfPGHQ2A4faQqDHI1P"

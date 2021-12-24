@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "album": {
         "name": "Cady Road",
         "url": "https://open.spotify.com/album/6zBwMl6GARPzqmZtv0YK8Z"
       },
@@ -212,7 +230,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 223713,
       "name": "Candle",
       "url": "https://open.spotify.com/track/4xWTAkfG8uz5JnPWGKhQyD"
@@ -479,6 +497,24 @@
     },
     {
       "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "album": {
         "name": "Everything I had",
         "url": "https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU"
       },
@@ -508,7 +544,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198080,
       "name": "Fail Safe",
       "url": "https://open.spotify.com/track/4q57nRsGk43u63pGzCm5mv"
@@ -710,7 +746,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 208382,
       "name": "Hannah Sun",
       "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
@@ -728,7 +764,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197737,
       "name": "Head Right",
       "url": "https://open.spotify.com/track/1aSYLITaiacybc3BNuHzGs"
@@ -1182,7 +1218,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 166453,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/4j7tap1TMQj9Vz8B69eepL"
@@ -1200,7 +1236,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206413,
       "name": "New Love Cassette",
       "url": "https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut"
@@ -1272,7 +1308,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 287146,
       "name": "Oh Canada",
       "url": "https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv"
@@ -1308,7 +1344,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 177339,
       "name": "Oom Sha La La",
       "url": "https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w"
@@ -1424,7 +1460,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195376,
       "name": "Ride Out In The Country",
       "url": "https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX"
@@ -2208,7 +2244,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 239435,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/3Prbe59BLrd4FWrxkDbYve"

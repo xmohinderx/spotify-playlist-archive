@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Train, Bradley Cooper, Little Mix and more
+> With Adele, Amanda Seyfried, Rihanna, Jason Mraz and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 | 49 | [Make Me \(Cry\)](https://open.spotify.com/track/2BrzlUj1u1CtvaJDGIKpsP) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\)](https://open.spotify.com/album/46yAYzRhSMPA44m0MzSr6g) | 4:02 |
 | 50 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 |
 
-Snapshot ID: `MTY0MDMwNjUwNSwwMDAwMDAwMDllMTQyNTc4NzEwN2QyNGYyNWMyYTEwNzc0MGE4MGQ1`
+Snapshot ID: `MTY0MDMxNTgzNSwwMDAwMDAwMDllMTQyNTc4NzEwN2QyNGYyNWMyYTEwNzc0MGE4MGQ1`

@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 277000,
       "name": "All Our Thoughts",
       "url": "https://open.spotify.com/track/4NLhF5E3alzEJr4qnFFo9m"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Dead Rock Commandos",
       "url": "https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 314746,
       "name": "Electric Worry",
       "url": "https://open.spotify.com/track/0BS1mTb6ZvZcVm217dyWFU"
@@ -704,6 +704,24 @@
       "duration_ms": 352073,
       "name": "Elk.Blood.Heart",
       "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "album": {
+        "name": "End of the Line",
+        "url": "https://open.spotify.com/album/61S9uVXGglwrkkONaPytZh"
+      },
+      "artists": [
+        {
+          "name": "Tidal Wave",
+          "url": "https://open.spotify.com/artist/3p2IG3DgP5x0uh7WpwsWB3"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213479,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/0B8ZMyfKEdPHjx2VYpfGUQ"
     },
     {
       "album": {
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 290960,
       "name": "Heavy Low",
       "url": "https://open.spotify.com/track/3lmUTqT4K2rPjtMgYRMB2P"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 152040,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY"
@@ -1150,10 +1168,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 561226,
       "name": "In Procession",
       "url": "https://open.spotify.com/track/5FViPAjuOcT5IWiPW12iB2"
+    },
+    {
+      "album": {
+        "name": "Clone of the Universe",
+        "url": "https://open.spotify.com/album/2K1v7kMAW5ORS0XlVlvlOs"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187053,
+      "name": "Intelligent Worship",
+      "url": "https://open.spotify.com/track/52tGZbGFCfWAxkkmroPaqA"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 257571,
       "name": "Into the Wormhole",
       "url": "https://open.spotify.com/track/5jS5SEQbOmIHiBKwWV3xD8"
@@ -1222,7 +1258,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 346116,
       "name": "Left Us To Mold",
       "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
@@ -1409,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Black Harvest",
+        "url": "https://open.spotify.com/album/6EwCQb8IyVWHX1l2u4v1kY"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/4buxOh1uX0TNEtbFL8muft"
+    },
+    {
+      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/07bwknliDapwEnYwMjOPV1"
       },
@@ -1456,7 +1510,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194866,
       "name": "Our Mother Ash",
       "url": "https://open.spotify.com/track/2sWzJDMSkqLs3qTdtaFU9F"
@@ -1510,7 +1564,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 325313,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
@@ -1528,7 +1582,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/61KgmwEi0rH5MD1SP20Ura"
@@ -1546,7 +1600,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 211440,
       "name": "Powertrip",
       "url": "https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK"
@@ -1780,7 +1834,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 355933,
       "name": "Space Lord",
       "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
@@ -1834,7 +1888,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 398800,
       "name": "Strange Gods, Strange Altars",
       "url": "https://open.spotify.com/track/3MH8EVD8DLAo93PlNN5TXi"
@@ -1852,7 +1906,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 185440,
       "name": "Stray Bullit Woman",
       "url": "https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk"
@@ -1942,7 +1996,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 282160,
       "name": "The Bottle",
       "url": "https://open.spotify.com/track/0amPDBn2wSRl0vRyWSLk5v"
@@ -2122,7 +2176,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 218720,
       "name": "Time Is Going On",
       "url": "https://open.spotify.com/track/7LSuJosmvkGr3RJ1o3b0yp"
@@ -2266,7 +2320,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 1113465,
       "name": "Wei\u00dfensee",
       "url": "https://open.spotify.com/track/4oi9uwVORDwDShiauc1Naq"
@@ -2309,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Earth Blues",
+        "url": "https://open.spotify.com/album/2TpqXLI9RG6S9DBnsQgTPq"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Beggars",
+          "url": "https://open.spotify.com/artist/40LGuAmXtqxMGraUmCSU27"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154306,
+      "name": "Wise As a Serpent",
+      "url": "https://open.spotify.com/track/4N35vPdS6hIfr1AjEHjYWp"
+    },
+    {
+      "album": {
         "name": "Woodland Rites",
         "url": "https://open.spotify.com/album/2grZMJgSWGyf7vVdiYWHft"
       },
@@ -2320,10 +2392,28 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 274453,
       "name": "Woodland Rites",
       "url": "https://open.spotify.com/track/7lOhD2iqU2iTllIWAcLlns"
+    },
+    {
+      "album": {
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/598iHPVUmnGuqi2QaiH3rq"
+      },
+      "artists": [
+        {
+          "name": "Warish",
+          "url": "https://open.spotify.com/artist/26K17LixWjA53Lm1XDBo8C"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204437,
+      "name": "Woven",
+      "url": "https://open.spotify.com/track/0igHoyE7n6beXfJ1LWXGlm"
     },
     {
       "album": {

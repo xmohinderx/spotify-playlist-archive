@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 293120,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 235440,
       "name": "Crocodile Rock",
       "url": "https://open.spotify.com/track/4v6koasIv1ksU2P9iWqfRV"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195266,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/27m1soUndRthrAA1ediOXn"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
@@ -1466,6 +1466,24 @@
       "duration_ms": 200173,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here (Remastered Version)",
+        "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Wish You Were Here - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7aE5WXu5sFeNRh3Z05wwu4"
     },
     {
       "album": {

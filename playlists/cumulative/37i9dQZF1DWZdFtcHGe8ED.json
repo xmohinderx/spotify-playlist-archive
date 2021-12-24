@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 292146,
       "name": "As We Breach",
       "url": "https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 273989,
       "name": "Bleeding Out",
       "url": "https://open.spotify.com/track/43leqVDeli1HgybvpX93GG"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 257408,
       "name": "Born of Hate",
       "url": "https://open.spotify.com/track/7snzHEKAaNQvzl4VBhN9xQ"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 217747,
       "name": "Break the Wheel",
       "url": "https://open.spotify.com/track/3YkExc5ZX1YgKgSIfRBKaD"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 371693,
       "name": "Cadaver Decomposition Island",
       "url": "https://open.spotify.com/track/4AEOeqhIKJwYHrZLG8kZS6"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 362573,
       "name": "Desert Ways",
       "url": "https://open.spotify.com/track/6tQffDAZsWT4qJNFaEFKQH"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 230560,
       "name": "Give Me Leather",
       "url": "https://open.spotify.com/track/0W5YJVzJ9WABd2vmoqmlC8"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 302266,
       "name": "Glock 'n' Roll",
       "url": "https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 400705,
       "name": "Glorious End",
       "url": "https://open.spotify.com/track/2YQfqDIGHWOswe12u1An4C"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 171706,
       "name": "God Slave the Queen",
       "url": "https://open.spotify.com/track/2pRbyaGoIfh3n5ZLzu3rLv"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 177546,
       "name": "H.L.S.",
       "url": "https://open.spotify.com/track/6hgCTU8XPcnQRCZgNkwdP8"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 127857,
       "name": "heavy negative wizard metal in-fucking-excelsis",
       "url": "https://open.spotify.com/track/1mR4HtzupjzkES0jMITFO2"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 274310,
       "name": "Holding My Breath",
       "url": "https://open.spotify.com/track/6NghMequPvwJEN1NNn0loo"
@@ -1236,6 +1236,24 @@
       "duration_ms": 308173,
       "name": "I Sever",
       "url": "https://open.spotify.com/track/5a8lCmvaBHjwSqpxH75pLz"
+    },
+    {
+      "album": {
+        "name": "Reveal the Ravage",
+        "url": "https://open.spotify.com/album/6uSIIjYu1FBDV1fyy8e0pY"
+      },
+      "artists": [
+        {
+          "name": "Prestige",
+          "url": "https://open.spotify.com/artist/48SgCx7WBM9A1jgu9KFuxn"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "In Remains",
+      "url": "https://open.spotify.com/track/5sWv1rWF5mQ1rexZEqSZ84"
     },
     {
       "album": {
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 367957,
       "name": "Left to Rot",
       "url": "https://open.spotify.com/track/7DvxyQrH2AoV4h8OoiTCDV"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 192266,
       "name": "Legion Of The Damned",
       "url": "https://open.spotify.com/track/3p0f0yvFB5ETwtLcSDlwTS"
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 163240,
       "name": "Live on Your Knees",
       "url": "https://open.spotify.com/track/7JjPJsnqVDqowoUdmMzWet"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 291500,
       "name": "Loss of Humanity",
       "url": "https://open.spotify.com/track/38K2DlgRYQ9dOTutG9vwIZ"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 197933,
       "name": "Malicious Souls",
       "url": "https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4"
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 246868,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/0ecCcO3gk2USR2o18UCBCf"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 239386,
       "name": "Phantom Graves",
       "url": "https://open.spotify.com/track/58RBSrRamSP8hhrYpvJYqe"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 141700,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/3YLyBeCT9tgFLvZMpjyf8m"
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 324182,
       "name": "Reanimator",
       "url": "https://open.spotify.com/track/5ihVldDm01ZzROCvW5rECC"
@@ -2078,7 +2096,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 262213,
       "name": "Sacred Slaughter",
       "url": "https://open.spotify.com/track/2Wf1aYlPLSVga0eyAuayxO"
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 233650,
       "name": "Sacrilegious Pain",
       "url": "https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM"
@@ -2204,10 +2222,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 118014,
       "name": "Shredator",
       "url": "https://open.spotify.com/track/4wmkXGAsAplI0XzVtydSLb"
+    },
+    {
+      "album": {
+        "name": "Dawn Of The End",
+        "url": "https://open.spotify.com/album/4YRGGYm1Nplx5Lk3MaEDhy"
+      },
+      "artists": [
+        {
+          "name": "Hatchet",
+          "url": "https://open.spotify.com/artist/1VhsM93s5cZmM6dd9DRbga"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359653,
+      "name": "Silenced By Death",
+      "url": "https://open.spotify.com/track/445W7aeIFfMsAVOxi9dvXS"
     },
     {
       "album": {
@@ -2226,6 +2262,24 @@
       "duration_ms": 245422,
       "name": "Silent Genocide",
       "url": "https://open.spotify.com/track/4sJRgY8vu6LMPGT3GoDh2c"
+    },
+    {
+      "album": {
+        "name": "The Silent Path",
+        "url": "https://open.spotify.com/album/6VRpiL3thqDmXUv8EyXM7k"
+      },
+      "artists": [
+        {
+          "name": "Death Decline",
+          "url": "https://open.spotify.com/artist/1bgeQljXQlY64QQSQ7DgEe"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Silent Path",
+      "url": "https://open.spotify.com/track/5fTWwoFwtYGH5TUeMddzuT"
     },
     {
       "album": {
@@ -2510,7 +2564,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 213618,
       "name": "The Ending",
       "url": "https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2"
@@ -2640,6 +2694,24 @@
       "duration_ms": 271666,
       "name": "The Shout",
       "url": "https://open.spotify.com/track/5qfCkEIV7BWpA8OU0rUgf0"
+    },
+    {
+      "album": {
+        "name": "The Way to Oblivion",
+        "url": "https://open.spotify.com/album/1FSAQFNAEDaR5ldNZKPrEx"
+      },
+      "artists": [
+        {
+          "name": "Divine Chaos",
+          "url": "https://open.spotify.com/artist/0gKtqFYobLyHRxQoiNnVJW"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249880,
+      "name": "The Way to Oblivion",
+      "url": "https://open.spotify.com/track/6mMXddEVW8nBv9r9rrjYT2"
     },
     {
       "album": {

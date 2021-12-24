@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#Summerlovin",
+        "url": "https://open.spotify.com/album/1D4cN7YmA7Fjav2X8BWViJ"
+      },
+      "artists": [
+        {
+          "name": "ARMAN",
+          "url": "https://open.spotify.com/artist/1BLoSM09taerQU26f83fDf"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204562,
+      "name": "#Summerlovin",
+      "url": "https://open.spotify.com/track/0t4P9bDoxCIZ3Wa4HjgFOG"
+    },
+    {
+      "album": {
         "name": "Aladdin (feat. Ikhana)",
         "url": "https://open.spotify.com/album/6tmmLTu54Ak9CjG2d0zrpC"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/75Z3oAM4SKovcaW1fdxAJf"
@@ -204,7 +222,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 130899,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 215315,
       "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
       "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
@@ -428,7 +446,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 191750,
       "name": "Compass",
       "url": "https://open.spotify.com/track/54rZW5jkApNTZ5FOqU10bU"
@@ -742,7 +760,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 185869,
       "name": "Forgive or Forget",
       "url": "https://open.spotify.com/track/136nH0XwV1L5e6x7YVCWoe"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 189103,
       "name": "Got Me Like That",
       "url": "https://open.spotify.com/track/11yRVW3pbV4MXw3LbACIWr"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 159760,
       "name": "Harder (with Bebe Rexha)",
       "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 143414,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7o9SNYNMZTLtWo5W0IH6PI"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190933,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6DzmSjDaZNjFxv9Z3VMJqF"
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181920,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ggjVroSMZK4UQOy0QSCsq"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 147540,
       "name": "One Day (feat. ROZES)",
       "url": "https://open.spotify.com/track/156z1HK87SEXLnMuK8gdqT"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 160878,
       "name": "Perfect Type",
       "url": "https://open.spotify.com/track/2YrKRo0hkkpV2JvWHKA7XD"
@@ -1590,10 +1608,28 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 183506,
       "name": "Remember",
       "url": "https://open.spotify.com/track/59TRvrmcmfIICytcPhIglE"
+    },
+    {
+      "album": {
+        "name": "Rosetta Stone",
+        "url": "https://open.spotify.com/album/7JVozFAoTRy5qDHSPSsq6Q"
+      },
+      "artists": [
+        {
+          "name": "JRL",
+          "url": "https://open.spotify.com/artist/2Ee5ATMtBMDXnfN4ZtGBco"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179891,
+      "name": "Rosetta Stone",
+      "url": "https://open.spotify.com/track/1ygQJlWCZdd1sqYzy4p2dz"
     },
     {
       "album": {
@@ -1722,10 +1758,28 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 178799,
       "name": "Slow Dance (feat. Ava Max)",
       "url": "https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01"
+    },
+    {
+      "album": {
+        "name": "Snakes",
+        "url": "https://open.spotify.com/album/6c4D4wayUPMRoniQMTc49k"
+      },
+      "artists": [
+        {
+          "name": "Nirob Islam",
+          "url": "https://open.spotify.com/artist/6sXDsB4h2hPUWIFk3XF5v3"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172158,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/28yd1zNl48khCrSB6St7lq"
     },
     {
       "album": {
@@ -1762,7 +1816,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174933,
       "name": "Solo Dance",
       "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
@@ -1806,7 +1860,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
@@ -1828,7 +1882,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 189274,
       "name": "Stand By (#CWC19) (feat. Rudimental)",
       "url": "https://open.spotify.com/track/05P4BYqVauVxy0w9g6w2D9"
@@ -1926,7 +1980,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 206976,
       "name": "The Chancer - Svidden Remix",
       "url": "https://open.spotify.com/track/69h0fvryrGvY6WPWuFIs3X"
@@ -1992,7 +2046,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 191248,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/4XZxalvnG4Yo8YZLuiT1kV"
@@ -2014,7 +2068,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Walk Me Home - R3HAB Remix",
       "url": "https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL"
@@ -2174,7 +2228,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 137347,
       "name": "With You",
       "url": "https://open.spotify.com/track/35FIDQv0u26DSknDahmcdz"

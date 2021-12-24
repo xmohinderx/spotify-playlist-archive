@@ -1,7 +1,7 @@
 {
   "description": "Kick back with the queens of pop.",
   "name": "Women of Pop",
-  "snapshot_id": "MTY0MDMwNjMyMywwMDAwMDAwMDk4YjViNmIwM2JkNjUyNTlhYzdhZTBhMDc3MDc5YmI1",
+  "snapshot_id": "MTY0MDMxNTY1OCwwMDAwMDAwMGMyNTViMGZkMDY4MzEwOGUwYThiNzk1YTg3MmRjM2Nm",
   "tracks": [
     {
       "added_at": "2021-03-01 09:00:00",
@@ -90,26 +90,6 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -138,6 +118,26 @@
       "duration_ms": 230226,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/42ydLwx4i5V49RXHOozJZq"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -206,6 +206,22 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
+        "name": "Therefore I Am",
+        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 174321,
+      "name": "Therefore I Am",
+      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
         "name": "Hurts So Good",
         "url": "https://open.spotify.com/album/5gWOnOfMzRvW13dNF0WV9N"
       },
@@ -234,22 +250,6 @@
       "duration_ms": 202666,
       "name": "I Think I'm In Love",
       "url": "https://open.spotify.com/track/3U1TuSqHIubBA10cVP7Sk6"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Therefore I Am",
-        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 174321,
-      "name": "Therefore I Am",
-      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -338,6 +338,22 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/4SWYpB2IBlwzeyLEroUxso"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1jgu8MFTEGdL1wjw9gZj5y"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
         "name": "Best Friend (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4"
       },
@@ -358,22 +374,6 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/4SWYpB2IBlwzeyLEroUxso"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/1jgu8MFTEGdL1wjw9gZj5y"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
         "name": "You Need To Calm Down",
         "url": "https://open.spotify.com/album/21dd5QyItuoqvPkViQXlKf"
       },
@@ -386,54 +386,6 @@
       "duration_ms": 171386,
       "name": "You Need To Calm Down",
       "url": "https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Cry Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 179867,
-      "name": "Play Date",
-      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 201072,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 220589,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -470,34 +422,18 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Most Girls",
-        "url": "https://open.spotify.com/album/4D6OyZ4Q57vH7gul8PVzTv"
+        "name": "Cry Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },
       "artists": [
         {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 204400,
-      "name": "Most Girls",
-      "url": "https://open.spotify.com/track/2mfUa8bLs2s5N4VaqJZ4lZ"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+      "duration_ms": 179867,
+      "name": "Play Date",
+      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -522,18 +458,50 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Ivy To Roses (Mixtape)",
-        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 178480,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
+      "duration_ms": 201072,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -554,18 +522,50 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "You should be sad",
-        "url": "https://open.spotify.com/album/0hXbi1NMz8paMkILeQEWW8"
+        "name": "Most Girls",
+        "url": "https://open.spotify.com/album/4D6OyZ4Q57vH7gul8PVzTv"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
         }
       ],
-      "duration_ms": 205473,
-      "name": "You should be sad",
-      "url": "https://open.spotify.com/track/4ncDAlyP3gmCWefTlj27zp"
+      "duration_ms": 204400,
+      "name": "Most Girls",
+      "url": "https://open.spotify.com/track/2mfUa8bLs2s5N4VaqJZ4lZ"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Ivy To Roses (Mixtape)",
+        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "That's My Girl",
+      "url": "https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -586,18 +586,66 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "7/27 (Deluxe)",
-        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
+        "name": "You should be sad",
+        "url": "https://open.spotify.com/album/0hXbi1NMz8paMkILeQEWW8"
       },
       "artists": [
         {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 204013,
-      "name": "That's My Girl",
-      "url": "https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od"
+      "duration_ms": 205473,
+      "name": "You should be sad",
+      "url": "https://open.spotify.com/track/4ncDAlyP3gmCWefTlj27zp"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 195519,
+      "name": "I'm a Mess",
+      "url": "https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 240867,
+      "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
+      "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -626,114 +674,18 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/1lf8oA3lANa6trf3iPho22"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 195519,
-      "name": "I'm a Mess",
-      "url": "https://open.spotify.com/track/04ZTP5KsCypmtCmQg5tH9R"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Still Falling For You (From \"Bridget Jones's Baby\" Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 240867,
-      "name": "Still Falling For You - From \"Bridget Jones's Baby\"",
-      "url": "https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Sweet but Psycho",
-        "url": "https://open.spotify.com/album/7CdLU3GgPy1PH5FVsrPlyA"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/25sgk305KZfyuqVBQIahim"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "HAIZ",
-        "url": "https://open.spotify.com/album/4oeF4AKGQajeLuVVCpHh8c"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/4Y6IdA3e4wwLrbKHDjufaC"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
+      "duration_ms": 225266,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/7mtxlSJQej3cCBXySgEjlY"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -758,6 +710,38 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
+        "name": "HAIZ",
+        "url": "https://open.spotify.com/album/4oeF4AKGQajeLuVVCpHh8c"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/4Y6IdA3e4wwLrbKHDjufaC"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -774,8 +758,8 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "All the Time",
-        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/6x3lObhgC3H0KpOfePojFG"
       },
       "artists": [
         {
@@ -783,45 +767,25 @@
           "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 228111,
-      "name": "All the Time",
-      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/0r4SsYcwvd8URat6AS2m6f"
     },
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+        "name": "Sweet but Psycho",
+        "url": "https://open.spotify.com/album/7CdLU3GgPy1PH5FVsrPlyA"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/1lf8oA3lANa6trf3iPho22"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/7mtxlSJQej3cCBXySgEjlY"
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/25sgk305KZfyuqVBQIahim"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -842,18 +806,22 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "React",
-        "url": "https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq"
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
       },
       "artists": [
         {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 204176,
-      "name": "React",
-      "url": "https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI"
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -890,18 +858,18 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+        "name": "EVOLution",
+        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
       },
       "artists": [
         {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
+      "duration_ms": 216466,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -922,34 +890,50 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "EVOLution",
-        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
         }
       ],
-      "duration_ms": 216466,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Stronger (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
+        "name": "Dedicated Side B",
+        "url": "https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
+      "duration_ms": 233373,
+      "name": "This Love Isn't Crazy",
+      "url": "https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "All the Time",
+        "url": "https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "All the Time",
+      "url": "https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -974,74 +958,50 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Dedicated Side B",
-        "url": "https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu"
+        "name": "React",
+        "url": "https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
         }
       ],
-      "duration_ms": 233373,
-      "name": "This Love Isn't Crazy",
-      "url": "https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS"
+      "duration_ms": 204176,
+      "name": "React",
+      "url": "https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI"
     },
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Sweet Talker (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
       },
       "artists": [
         {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 199386,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
     },
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/5nhoVKDcCXvi3AruUFJWnv"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Good as Hell",
-        "url": "https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR"
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/2l8w0zZVn4AZNuzrht7MRT"
     },
     {
       "added_at": "2021-03-01 09:00:00",
@@ -1082,6 +1042,46 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Sweet Talker (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
         "name": "Get To Know",
         "url": "https://open.spotify.com/album/7nUCMatMkqnE76RE1KClGe"
       },
@@ -1118,38 +1118,6 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "Delirium (Deluxe)",
-        "url": "https://open.spotify.com/album/5nhoVKDcCXvi3AruUFJWnv"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 252534,
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/2l8w0zZVn4AZNuzrht7MRT"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
-        "name": "Glory Days (Deluxe)",
-        "url": "https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z"
-    },
-    {
-      "added_at": "2021-03-01 09:00:00",
-      "album": {
         "name": "Kiss (Deluxe)",
         "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
       },
@@ -1166,18 +1134,50 @@
     {
       "added_at": "2021-03-01 09:00:00",
       "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+      "duration_ms": 260253,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/1FulpD9JiAPbqP2F31pmUP"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/1sXUWdKx03aP9Gmzft58rt"
+    },
+    {
+      "added_at": "2021-03-01 09:00:00",
+      "album": {
+        "name": "Glory Days (Deluxe)",
+        "url": "https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX"

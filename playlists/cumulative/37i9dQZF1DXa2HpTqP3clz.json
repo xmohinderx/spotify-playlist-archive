@@ -162,7 +162,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 253058,
       "name": "Anna Marie (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/2kVc7E1wVU7hnpPZPmWcoh"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 190373,
       "name": "Big Train",
       "url": "https://open.spotify.com/track/00djjVDARiSMeupkX83lR7"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 220573,
       "name": "Bottom Of The Barrel",
       "url": "https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 212164,
       "name": "Cattle in the Cane",
       "url": "https://open.spotify.com/track/0XcB1mqwPSIvmpAqXWcEFS"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194786,
       "name": "Edges Run",
       "url": "https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao"
@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "I Got You (At the End of the Century)",
+        "url": "https://open.spotify.com/album/5RI3iU0APkvLQF03xbM3Sb"
+      },
+      "artists": [
+        {
+          "name": "Chatham County Line",
+          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164173,
+      "name": "I Got You (At the End of the Century)",
+      "url": "https://open.spotify.com/track/29Zw6ab3kvOSTfXwLz91dT"
+    },
+    {
+      "album": {
         "name": "I Wanna Be Where You Are",
         "url": "https://open.spotify.com/album/0CDYBAxzx5RJSQO0nHA1As"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 234624,
       "name": "I Wanna Be Where You Are",
       "url": "https://open.spotify.com/track/3x5HfCGFxPXqUz4DKTN5M7"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 235560,
       "name": "In the Sweet by and By",
       "url": "https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE"
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181562,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/0TcysHAySwIDFgxatmqgO2"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 139000,
       "name": "Maybelle",
       "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
@@ -1931,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "Ride The Train",
+        "url": "https://open.spotify.com/album/0LLdWVlIp42MWFs7Pv4Oxh"
+      },
+      "artists": [
+        {
+          "name": "Wildfire",
+          "url": "https://open.spotify.com/artist/4Om13DlPH4kSdXe3KIzT4e"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171530,
+      "name": "Ride The Train",
+      "url": "https://open.spotify.com/track/3qbUM5KET665x8Gf2nleQY"
+    },
+    {
+      "album": {
         "name": "Right Side of the Dirt",
         "url": "https://open.spotify.com/album/2zQbCKlpBDjNVgc7iE5Lj1"
       },
@@ -1968,7 +2004,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 145349,
       "name": "Righteous Bell (feat. Sarah Jarosz)",
       "url": "https://open.spotify.com/track/5NmlmBN121Z8oMFwGBMd7J"
@@ -2034,7 +2070,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 369571,
       "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
       "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 161745,
       "name": "She'll Change",
       "url": "https://open.spotify.com/track/3d3mxvxLxdBtW5OYLV7faR"
@@ -2344,7 +2380,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 153968,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 286720,
       "name": "The Barber's Fiddle",
       "url": "https://open.spotify.com/track/2KLi7lXAh2L7ksjTB4mpmF"
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203000,
       "name": "The Girl Who Invented The Wheel",
       "url": "https://open.spotify.com/track/3kb7ixlxkuw9p5157bjuvb"
@@ -2540,7 +2576,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 169868,
       "name": "The Little Mountain Church - Simply Bluegrass",
       "url": "https://open.spotify.com/track/0mCHgPVaDg33NKE1mv47nk"
@@ -2594,7 +2630,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 166413,
       "name": "The Train That Carried My Girl From Town",
       "url": "https://open.spotify.com/track/2GGekGcN4bEXpifmlSzEi9"
@@ -2646,7 +2682,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 247913,
       "name": "The Way It Was Before",
       "url": "https://open.spotify.com/track/4LvIYRvuEd3Vj0cUkgaYyS"
@@ -2758,7 +2794,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 172160,
       "name": "Turn Me into a Diamond",
       "url": "https://open.spotify.com/track/19VRvX8xmTABSpVa9eiIFF"
@@ -2901,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/3pzEwIDAmxn4ggEI9OOtv9"
+      },
+      "artists": [
+        {
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/2TcQNrWgi2rAxsTHwQ6OuM"
+    },
+    {
+      "album": {
         "name": "Everyone A Song, Vol. 2",
         "url": "https://open.spotify.com/album/4VjBvRsHWA0S2a53poAf6P"
       },
@@ -3012,7 +3066,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 223404,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
@@ -3030,7 +3084,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 274115,
       "name": "Winter to Pry",
       "url": "https://open.spotify.com/track/4475bUCSvAIbnHVlxQzhZ6"

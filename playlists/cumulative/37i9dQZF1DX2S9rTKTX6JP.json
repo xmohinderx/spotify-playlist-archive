@@ -248,7 +248,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 274615,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/7nioCrPVTkYopUB1rTvtK1"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 245573,
       "name": "Enjoy the Silence - cover version",
       "url": "https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 290400,
       "name": "House of the rising sun",
       "url": "https://open.spotify.com/track/4rfYDrmdzFb9Saf4lCxQTP"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 384946,
       "name": "I Am The Walrus - Live",
       "url": "https://open.spotify.com/track/7Mq2PA75YUS6T2ErxgytKT"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 206227,
       "name": "I Just Died In Your Arms",
       "url": "https://open.spotify.com/track/3DpmKMHJjLY7wk36bm2yaW"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 269946,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/5pNRCnwwQZmluol3V1pR6e"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 262293,
       "name": "Ramble On",
       "url": "https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 186306,
       "name": "Reach Out I'll Be There",
       "url": "https://open.spotify.com/track/6R37NiT3mXUqY9op3H5SRD"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203409,
       "name": "Showdown",
       "url": "https://open.spotify.com/track/444cxF1udEVZRyFoJXg5QV"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 168600,
       "name": "That Thing You Do!",
       "url": "https://open.spotify.com/track/4s7Nan6D8QC02ORXGM0slB"
@@ -2024,6 +2024,24 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
+    },
+    {
+      "album": {
+        "name": "The Chain",
+        "url": "https://open.spotify.com/album/053OECifPxrpiOKbiaP5Nm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2020-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252066,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/5F29kjOr9bYTUtSPLoixHB"
     },
     {
       "album": {
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 381398,
       "name": "The Pot",
       "url": "https://open.spotify.com/track/08Ys3244upKhrzRMl2EWXI"

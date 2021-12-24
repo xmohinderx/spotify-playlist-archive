@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 165240,
       "name": "Ballin\u2019 the Jack",
       "url": "https://open.spotify.com/track/4YDnwykuaJDwmI5L3Fk8vW"
@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Jazz Archive 8 - Jacks Hit The Road (1 Of 4)",
+        "url": "https://open.spotify.com/album/7LLJ7dgXSj7NIVfMVOqeIT"
+      },
+      "artists": [
+        {
+          "name": "Lu Watters",
+          "url": "https://open.spotify.com/artist/3vCSKqDwmD2rf9v4t1hhwv"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205199,
+      "name": "Milenberg Joys",
+      "url": "https://open.spotify.com/track/4pq3ZXHF7EXTFkEae0suZZ"
+    },
+    {
+      "album": {
         "name": "Our New Orleans",
         "url": "https://open.spotify.com/album/2F0HgryBMVR6AY79ajK8qU"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 223373,
       "name": "On the Square",
       "url": "https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1"
@@ -908,7 +926,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 187333,
       "name": "Saratoga Drag",
       "url": "https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv"

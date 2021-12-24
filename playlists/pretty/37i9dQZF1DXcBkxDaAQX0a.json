@@ -1,7 +1,7 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: State Champs",
   "name": "Punk Unplugged",
-  "snapshot_id": "MTYzODg4MzA5NywwMDAwMDBkMzAwMDAwMTdkOTUwYjc5ZmUwMDAwMDE3MzdmM2I0NjRk",
+  "snapshot_id": "MTY0MDMxNTgwMywwMDAwMDAwMDdkM2U4ODdhYzA2YTBkNjk3NzY0Mjc4OTA5NmJjNDVi",
   "tracks": [
     {
       "added_at": "2021-02-08 14:45:26",
@@ -86,6 +86,22 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
+        "name": "Lips Like Oxygen Reimagined",
+        "url": "https://open.spotify.com/album/4XJR9eMAwiWUbLJSOUmNk0"
+      },
+      "artists": [
+        {
+          "name": "Oh, Weatherly",
+          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
+        }
+      ],
+      "duration_ms": 191938,
+      "name": "You Were The Letdown (Chasing California)",
+      "url": "https://open.spotify.com/track/0N5WGeoF3fhPONFm4Hk7BT"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
         "name": "In Bloom: Versions",
         "url": "https://open.spotify.com/album/49jzsX4L7SPtw9CZbPiLas"
       },
@@ -116,22 +132,6 @@
       "url": "https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV"
     },
     {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Transient (acoustic)",
-        "url": "https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs"
-      },
-      "artists": [
-        {
-          "name": "Makari",
-          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
-        }
-      ],
-      "duration_ms": 260209,
-      "name": "Transient (acoustic)",
-      "url": "https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j"
-    },
-    {
       "added_at": "2021-09-02 17:21:45",
       "album": {
         "name": "Teeth",
@@ -150,162 +150,18 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Drink To Drown",
-        "url": "https://open.spotify.com/album/16ZWLbFLLHFw6HVh4VRPRe"
+        "name": "Find Peace",
+        "url": "https://open.spotify.com/album/4rukdvVxY2wg5cWeAGUUnE"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Osatia",
+          "url": "https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy"
         }
       ],
-      "duration_ms": 196307,
-      "name": "Drink To Drown",
-      "url": "https://open.spotify.com/track/2HyN9b3HR0ZCoDgmXPB3NO"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Chasing Lonely",
-        "url": "https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ"
-      },
-      "artists": [
-        {
-          "name": "Boys of Fall",
-          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
-        }
-      ],
-      "duration_ms": 188608,
-      "name": "Novocaine",
-      "url": "https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "10 AM",
-        "url": "https://open.spotify.com/album/52f8mvtKVdTjtsYNIciWbX"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 223603,
-      "name": "Crying Out Loud",
-      "url": "https://open.spotify.com/track/6VK7AP3fhoTHwUxpphZKOH"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Lips Like Oxygen Reimagined",
-        "url": "https://open.spotify.com/album/4XJR9eMAwiWUbLJSOUmNk0"
-      },
-      "artists": [
-        {
-          "name": "Oh, Weatherly",
-          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
-        }
-      ],
-      "duration_ms": 191938,
-      "name": "You Were The Letdown (Chasing California)",
-      "url": "https://open.spotify.com/track/0N5WGeoF3fhPONFm4Hk7BT"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Dammit (Acoustic)",
-        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
-      },
-      "artists": [
-        {
-          "name": "FigureItOut",
-          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Dammit (Acoustic)",
-      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Rain In July / A History Of Bad Decisions",
-        "url": "https://open.spotify.com/album/3s8glGKcCu04kfjlIG9wgl"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 189415,
-      "name": "A Part Of Me (feat. Laura Whiteside)",
-      "url": "https://open.spotify.com/track/006hfStQk9L7MVT9RcDeva"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Worn Down / Leave It Alone",
-        "url": "https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq"
-      },
-      "artists": [
-        {
-          "name": "Rarity",
-          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Worn Down",
-      "url": "https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Skinny Dipping",
-        "url": "https://open.spotify.com/album/4xtHySb6XaNo8SLRgfpUSu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Toothpick",
-      "url": "https://open.spotify.com/track/6XEx4tUCwTlsydwJpWnGGh"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/65C0QYBqx810qNvKf8Jw4L"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 189899,
-      "name": "I Love You, I Love You. It's Disgusting",
-      "url": "https://open.spotify.com/track/45Y69qZUFNXIzcSdXF8Wl8"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "I'll Be a Mess Without You",
-        "url": "https://open.spotify.com/album/7tKoyLWspYF4Kh2scandq4"
-      },
-      "artists": [
-        {
-          "name": "Chief State",
-          "url": "https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5"
-        }
-      ],
-      "duration_ms": 277162,
-      "name": "I'll Be a Mess Without You",
-      "url": "https://open.spotify.com/track/4f19llBb0FydWMbeUBLwyF"
+      "duration_ms": 211736,
+      "name": "Find Peace",
+      "url": "https://open.spotify.com/track/1mG0m0t1Rx5RLDns55a4HJ"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -342,18 +198,18 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+        "name": "I'll Be a Mess Without You",
+        "url": "https://open.spotify.com/album/7tKoyLWspYF4Kh2scandq4"
       },
       "artists": [
         {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+          "name": "Chief State",
+          "url": "https://open.spotify.com/artist/3BgSkC40Vy5XIcu6MKIYv5"
         }
       ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+      "duration_ms": 277162,
+      "name": "I'll Be a Mess Without You",
+      "url": "https://open.spotify.com/track/4f19llBb0FydWMbeUBLwyF"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -374,50 +230,18 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Blue In the Dark",
-        "url": "https://open.spotify.com/album/4FJ0ZEYpzQj9CywXSEXgeO"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/65C0QYBqx810qNvKf8Jw4L"
       },
       "artists": [
         {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
         }
       ],
-      "duration_ms": 159553,
-      "name": "Tide",
-      "url": "https://open.spotify.com/track/6MBTuI30fBCY1y3ZdaTNzP"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Lifelines",
-        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "My Heart I Surrender",
-      "url": "https://open.spotify.com/track/4Qt5o43KerMzgh0PNPm6Q1"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Put Yourself Back Together",
-        "url": "https://open.spotify.com/album/3MOxvb2hL0T1vNJp1PSGRA"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 163999,
-      "name": "I've Given Up on You",
-      "url": "https://open.spotify.com/track/5bxythiVpxTD2nHZMmD8m1"
+      "duration_ms": 189899,
+      "name": "I Love You, I Love You. It's Disgusting",
+      "url": "https://open.spotify.com/track/45Y69qZUFNXIzcSdXF8Wl8"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -438,6 +262,22 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
+        "name": "Drink To Drown",
+        "url": "https://open.spotify.com/album/16ZWLbFLLHFw6HVh4VRPRe"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 196307,
+      "name": "Drink To Drown",
+      "url": "https://open.spotify.com/track/2HyN9b3HR0ZCoDgmXPB3NO"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
         "name": "The Way We Are",
         "url": "https://open.spotify.com/album/1euaS5eK34iGgsrG6fBiwd"
       },
@@ -450,6 +290,150 @@
       "duration_ms": 185727,
       "name": "Cement",
       "url": "https://open.spotify.com/track/56BLfdi68cTPiWy0OZ7Hq6"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "10 AM",
+        "url": "https://open.spotify.com/album/52f8mvtKVdTjtsYNIciWbX"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 223603,
+      "name": "Crying Out Loud",
+      "url": "https://open.spotify.com/track/6VK7AP3fhoTHwUxpphZKOH"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Transient (acoustic)",
+        "url": "https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs"
+      },
+      "artists": [
+        {
+          "name": "Makari",
+          "url": "https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH"
+        }
+      ],
+      "duration_ms": 260209,
+      "name": "Transient (acoustic)",
+      "url": "https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Chasing Lonely",
+        "url": "https://open.spotify.com/album/4nTEp8V1ov0Z47RT1XMmQJ"
+      },
+      "artists": [
+        {
+          "name": "Boys of Fall",
+          "url": "https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5"
+        }
+      ],
+      "duration_ms": 188608,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/0WlfydvmDWXRdPSqbcjmLR"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Love and Loathing",
+        "url": "https://open.spotify.com/album/07aGx2IErugtk4d7clL03j"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "P\u00e2querette (Without Me)",
+      "url": "https://open.spotify.com/track/3EmVLU2EHNEJf646hdsu7s"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "End of an Era (Acoustic)",
+        "url": "https://open.spotify.com/album/4Q2OTj4MBIT5aqEuu3tj4A"
+      },
+      "artists": [
+        {
+          "name": "Summer Wars",
+          "url": "https://open.spotify.com/artist/0G96TkItgnb79cFLnUbdhy"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "End of an Era (Acoustic)",
+      "url": "https://open.spotify.com/track/1MOdasYTTObANkLfUkcDtF"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Dammit (Acoustic)",
+        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
+      },
+      "artists": [
+        {
+          "name": "FigureItOut",
+          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Dammit (Acoustic)",
+      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Rain In July / A History Of Bad Decisions",
+        "url": "https://open.spotify.com/album/3s8glGKcCu04kfjlIG9wgl"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189415,
+      "name": "A Part Of Me (feat. Laura Whiteside)",
+      "url": "https://open.spotify.com/track/006hfStQk9L7MVT9RcDeva"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Put Yourself Back Together",
+        "url": "https://open.spotify.com/album/3MOxvb2hL0T1vNJp1PSGRA"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 163999,
+      "name": "I've Given Up on You",
+      "url": "https://open.spotify.com/track/5bxythiVpxTD2nHZMmD8m1"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Skinny Dipping",
+        "url": "https://open.spotify.com/album/4xtHySb6XaNo8SLRgfpUSu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Toothpick",
+      "url": "https://open.spotify.com/track/6XEx4tUCwTlsydwJpWnGGh"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -470,82 +454,210 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "The Afterglow / Aquamarine",
-        "url": "https://open.spotify.com/album/2Twnd33eoKXJojSFRXZPS7"
+        "name": "Sunnyland",
+        "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Aquamarine - Acoustic",
-      "url": "https://open.spotify.com/track/53LGV6RURvOGCx2w8J9LaF"
+      "duration_ms": 234912,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Beautiful Mess",
-        "url": "https://open.spotify.com/album/3xW3SMzotqRHc41JhvLXuy"
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
       "artists": [
         {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
         }
       ],
-      "duration_ms": 215520,
-      "name": "Here's My Heart",
-      "url": "https://open.spotify.com/track/6rbpUABUBE8zYt55TPkExf"
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Letters to Our Former Selves Acoustic E.P.",
-        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
+        "name": "Undersize",
+        "url": "https://open.spotify.com/album/7qfM2xKbNfBQRwuzLc0zyW"
       },
       "artists": [
         {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 204538,
-      "name": "Deadlocked - Acoustic",
-      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
+      "duration_ms": 227300,
+      "name": "Undersize",
+      "url": "https://open.spotify.com/track/4bChSnQPzc0j9yijlJbZYQ"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH"
+        "name": "Better Weather",
+        "url": "https://open.spotify.com/album/73yzCXeZAtNFC7YoIroAPD"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
         }
       ],
-      "duration_ms": 179347,
-      "name": "Leave It All Behind - Acoustic",
-      "url": "https://open.spotify.com/track/021zb89IodxPOcPZheUwVl"
+      "duration_ms": 213742,
+      "name": "Long Night",
+      "url": "https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/3LbFLyD7bHKLYds3UFw6G8"
+        "name": "How Big Is Your Brain?",
+        "url": "https://open.spotify.com/album/4OIMqMkZJKDDUhMGpEalaj"
       },
       "artists": [
         {
-          "name": "Cory Wells",
-          "url": "https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG"
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
         }
       ],
-      "duration_ms": 224974,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1xwJpkTCba8guExNTHFd1H"
+      "duration_ms": 185604,
+      "name": "How Big Is Your Brain?",
+      "url": "https://open.spotify.com/track/0Jeam6MrHArvfYeMubagfZ"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "The Drug In Me Is Reimagined",
+        "url": "https://open.spotify.com/album/6jYHiDFvM3aRaUVhd0FZkk"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 340071,
+      "name": "The Drug In Me Is Reimagined",
+      "url": "https://open.spotify.com/track/5GIWP2q6p92lFA10KUuL0z"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Blue In the Dark",
+        "url": "https://open.spotify.com/album/4FJ0ZEYpzQj9CywXSEXgeO"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 159553,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/6MBTuI30fBCY1y3ZdaTNzP"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Never Happy, Ever After (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "Dial Tones - Acoustic Version",
+      "url": "https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Cruel Summer",
+        "url": "https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED"
+      },
+      "artists": [
+        {
+          "name": "Miss Fortune",
+          "url": "https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "England's Dreaming (Acoustic)",
+        "url": "https://open.spotify.com/album/0ccU0ae1XLj7rsDLKOa4kJ"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 202554,
+      "name": "England's Dreaming - Acoustic",
+      "url": "https://open.spotify.com/track/0fayk6BY25voQ46iYRrNHn"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "The Story so Far / Stick to Your Guns Split - EP",
+        "url": "https://open.spotify.com/album/712n8qxqHUs6yw84Y1NY6M"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/0nMOZnZA4GnipZXswSmCS6"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/6I0naPXaPOIFFmqOMlzQYB"
+      },
+      "artists": [
+        {
+          "name": "MariaHill",
+          "url": "https://open.spotify.com/artist/1n70LfQ2jXSKxoK1PI7oLt"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Pieces (Acoustic)",
+      "url": "https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Even More Acoustic Songs",
+        "url": "https://open.spotify.com/album/5hU52N8vH58MmbAlGYlp5s"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 203210,
+      "name": "From The Outside - Acoustic",
+      "url": "https://open.spotify.com/track/6jnOgu9AWyTGRJCrlrAKzq"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -570,82 +682,82 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "New Years Project",
-        "url": "https://open.spotify.com/album/1Vb6rklXe92PsCMyHu7hbJ"
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/3xW3SMzotqRHc41JhvLXuy"
       },
       "artists": [
         {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
         }
       ],
-      "duration_ms": 234675,
-      "name": "New Years Project",
-      "url": "https://open.spotify.com/track/0UPZOE6jgBEd8NDaH3JhOh"
+      "duration_ms": 215520,
+      "name": "Here's My Heart",
+      "url": "https://open.spotify.com/track/6rbpUABUBE8zYt55TPkExf"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Lie to Me",
-        "url": "https://open.spotify.com/album/6I0naPXaPOIFFmqOMlzQYB"
+        "name": "Hailey (Acoustic)",
+        "url": "https://open.spotify.com/album/2b6OV22b3VFWeWyEcKNC2n"
       },
       "artists": [
         {
-          "name": "MariaHill",
-          "url": "https://open.spotify.com/artist/1n70LfQ2jXSKxoK1PI7oLt"
+          "name": "ANSON",
+          "url": "https://open.spotify.com/artist/4F0mwtDsLi4dKzug5JB5gn"
         }
       ],
-      "duration_ms": 202746,
-      "name": "Pieces (Acoustic)",
-      "url": "https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx"
+      "duration_ms": 204253,
+      "name": "Hailey - Acoustic",
+      "url": "https://open.spotify.com/track/2VPq0IUugnOWLcAT5MbFIu"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Love and Loathing",
-        "url": "https://open.spotify.com/album/07aGx2IErugtk4d7clL03j"
+        "name": "Punk Goes Acoustic, Vol. 3",
+        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
       },
       "artists": [
         {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
         }
       ],
-      "duration_ms": 195760,
-      "name": "P\u00e2querette (Without Me)",
-      "url": "https://open.spotify.com/track/3EmVLU2EHNEJf646hdsu7s"
+      "duration_ms": 186160,
+      "name": "Story Of My Bros - Acoustic",
+      "url": "https://open.spotify.com/track/4lHy961n9KMbzwOM4ewgHP"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "The Drug In Me Is Reimagined",
-        "url": "https://open.spotify.com/album/6jYHiDFvM3aRaUVhd0FZkk"
+        "name": "Lucky People",
+        "url": "https://open.spotify.com/album/2c3rMmFWn7WlsWBV7pXwfg"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 340071,
-      "name": "The Drug In Me Is Reimagined",
-      "url": "https://open.spotify.com/track/5GIWP2q6p92lFA10KUuL0z"
+      "duration_ms": 175198,
+      "name": "Lucky People",
+      "url": "https://open.spotify.com/track/3zbsdtgvFPOE4xPcvMlrtZ"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Find Peace",
-        "url": "https://open.spotify.com/album/4rukdvVxY2wg5cWeAGUUnE"
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH"
       },
       "artists": [
         {
-          "name": "Osatia",
-          "url": "https://open.spotify.com/artist/5UBwuSmeshlKcUXHHT7siy"
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
         }
       ],
-      "duration_ms": 211736,
-      "name": "Find Peace",
-      "url": "https://open.spotify.com/track/1mG0m0t1Rx5RLDns55a4HJ"
+      "duration_ms": 179347,
+      "name": "Leave It All Behind - Acoustic",
+      "url": "https://open.spotify.com/track/021zb89IodxPOcPZheUwVl"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -670,298 +782,50 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Never Happy, Ever After (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4"
+        "name": "The Afterglow / Aquamarine",
+        "url": "https://open.spotify.com/album/2Twnd33eoKXJojSFRXZPS7"
       },
       "artists": [
         {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Dial Tones - Acoustic Version",
-      "url": "https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x"
+      "duration_ms": 232760,
+      "name": "Aquamarine - Acoustic",
+      "url": "https://open.spotify.com/track/53LGV6RURvOGCx2w8J9LaF"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "End of an Era (Acoustic)",
-        "url": "https://open.spotify.com/album/4Q2OTj4MBIT5aqEuu3tj4A"
+        "name": "Lifelines",
+        "url": "https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ"
       },
       "artists": [
         {
-          "name": "Summer Wars",
-          "url": "https://open.spotify.com/artist/0G96TkItgnb79cFLnUbdhy"
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 213600,
-      "name": "End of an Era (Acoustic)",
-      "url": "https://open.spotify.com/track/1MOdasYTTObANkLfUkcDtF"
+      "duration_ms": 207053,
+      "name": "My Heart I Surrender",
+      "url": "https://open.spotify.com/track/4Qt5o43KerMzgh0PNPm6Q1"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Roll with the Punches",
-        "url": "https://open.spotify.com/album/4WZpkWKbtLvynUx18Qj3RQ"
+        "name": "Letters to Our Former Selves Acoustic E.P.",
+        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
       },
       "artists": [
         {
-          "name": "Brooklane",
-          "url": "https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW"
-        },
-        {
-          "name": "Jason Lancaster",
-          "url": "https://open.spotify.com/artist/2qelzpB6RrJtn77f5yWmES"
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
         }
       ],
-      "duration_ms": 220031,
-      "name": "Here to Stay (feat. Jason Lancaster)",
-      "url": "https://open.spotify.com/track/43KXYgtkGWYDCrGFHtA6bR"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "If It Means a Lot to You",
-      "url": "https://open.spotify.com/track/6J7cSyvSCnPwv3vqHchEfL"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "England's Dreaming (Acoustic)",
-        "url": "https://open.spotify.com/album/0ccU0ae1XLj7rsDLKOa4kJ"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 202554,
-      "name": "England's Dreaming - Acoustic",
-      "url": "https://open.spotify.com/track/0fayk6BY25voQ46iYRrNHn"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "How Big Is Your Brain?",
-        "url": "https://open.spotify.com/album/4OIMqMkZJKDDUhMGpEalaj"
-      },
-      "artists": [
-        {
-          "name": "Super American",
-          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
-        }
-      ],
-      "duration_ms": 185604,
-      "name": "How Big Is Your Brain?",
-      "url": "https://open.spotify.com/track/0Jeam6MrHArvfYeMubagfZ"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Better Weather",
-        "url": "https://open.spotify.com/album/73yzCXeZAtNFC7YoIroAPD"
-      },
-      "artists": [
-        {
-          "name": "With Confidence",
-          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
-        }
-      ],
-      "duration_ms": 213742,
-      "name": "Long Night",
-      "url": "https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Pavement (Acoustic)",
-        "url": "https://open.spotify.com/album/7c84hLBvFMTGpCXL0drPB9"
-      },
-      "artists": [
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 240428,
-      "name": "Pavement (Acoustic)",
-      "url": "https://open.spotify.com/track/7ewuuvaj84vzUKpq8SYwCn"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Lucky People",
-        "url": "https://open.spotify.com/album/2c3rMmFWn7WlsWBV7pXwfg"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 175198,
-      "name": "Lucky People",
-      "url": "https://open.spotify.com/track/3zbsdtgvFPOE4xPcvMlrtZ"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/1QdXg2FU5XWXrduBGXrDpH"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 209869,
-      "name": "Dead & Gone - Acoustic",
-      "url": "https://open.spotify.com/track/0QELebUemGEIB0R2mg59Cn"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Punk Goes Acoustic, Vol. 3",
-        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Wolf In Sheep\u2019s Clothing - Acoustic",
-      "url": "https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "Wax Poetic (Acoustic)",
-      "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2HnqoZFxTxcDwaPW31rjQ2"
-      },
-      "artists": [
-        {
-          "name": "Mat Kerekes",
-          "url": "https://open.spotify.com/artist/5rOjuB5uYAoDMHgZM6CFBB"
-        }
-      ],
-      "duration_ms": 205281,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/7MkoMkBOeoAIXdRyIWzl9s"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "All Out",
-        "url": "https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm"
-      },
-      "artists": [
-        {
-          "name": "Locket",
-          "url": "https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Hunnie",
-      "url": "https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/6iJV9nZYet3F5SqOMQJgH9"
-      },
-      "artists": [
-        {
-          "name": "The Wildhood",
-          "url": "https://open.spotify.com/artist/1JxQny2i4UQUtXgw2FvU64"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/5lJmNEGml8HW0GkMBnfikG"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Lips Like Oxygen Reimagined",
-        "url": "https://open.spotify.com/album/4XJR9eMAwiWUbLJSOUmNk0"
-      },
-      "artists": [
-        {
-          "name": "Oh, Weatherly",
-          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "Without My Ring (I Think I Want You)",
-      "url": "https://open.spotify.com/track/2nIkWia8VMuHL51ipVFL3P"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Burst & Decay (Volume II)",
-        "url": "https://open.spotify.com/album/6IIV6gHEqxVCydojrHVm6L"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        },
-        {
-          "name": "Little Kruta",
-          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
-        }
-      ],
-      "duration_ms": 245644,
-      "name": "Passing Through a Screen Door",
-      "url": "https://open.spotify.com/track/7ePkayJpwG3OxNT6UN20ZU"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190166,
-      "name": "Agree to Disagree - Acoustic",
-      "url": "https://open.spotify.com/track/0y4MhPQnBLxVqcSPgzOstx"
+      "duration_ms": 204538,
+      "name": "Deadlocked - Acoustic",
+      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -982,6 +846,118 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "Wax Poetic (Acoustic)",
+      "url": "https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "All Out",
+        "url": "https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm"
+      },
+      "artists": [
+        {
+          "name": "Locket",
+          "url": "https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Hunnie",
+      "url": "https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Worn Down / Leave It Alone",
+        "url": "https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq"
+      },
+      "artists": [
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Worn Down",
+      "url": "https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/6iJV9nZYet3F5SqOMQJgH9"
+      },
+      "artists": [
+        {
+          "name": "The Wildhood",
+          "url": "https://open.spotify.com/artist/1JxQny2i4UQUtXgw2FvU64"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/5lJmNEGml8HW0GkMBnfikG"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Redux: The First 10 Years",
+        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Still Dreaming (Acoustic)",
+      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Punk Goes Acoustic, Vol. 3",
+        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Colorblind - Acoustic",
+      "url": "https://open.spotify.com/track/0Q0ZwpPIBqGFQGQy415wpX"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Pavement (Acoustic)",
+        "url": "https://open.spotify.com/album/7c84hLBvFMTGpCXL0drPB9"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        }
+      ],
+      "duration_ms": 240428,
+      "name": "Pavement (Acoustic)",
+      "url": "https://open.spotify.com/track/7ewuuvaj84vzUKpq8SYwCn"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
         "name": "Haunted by Hindsight",
         "url": "https://open.spotify.com/album/5uPn90rM5zowTRcXYpJUMc"
       },
@@ -998,34 +974,34 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Right Here (Acoustic)",
-        "url": "https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr"
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/34eR6ev1GGZHmxNTEfRobW"
       },
       "artists": [
         {
-          "name": "Chase Your Words",
-          "url": "https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 229565,
-      "name": "Right Here (Acoustic)",
-      "url": "https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc"
+      "duration_ms": 243226,
+      "name": "If It Means a Lot to You",
+      "url": "https://open.spotify.com/track/6J7cSyvSCnPwv3vqHchEfL"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "The Story so Far / Stick to Your Guns Split - EP",
-        "url": "https://open.spotify.com/album/712n8qxqHUs6yw84Y1NY6M"
+        "name": "Lips Like Oxygen Reimagined",
+        "url": "https://open.spotify.com/album/4XJR9eMAwiWUbLJSOUmNk0"
       },
       "artists": [
         {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+          "name": "Oh, Weatherly",
+          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
         }
       ],
-      "duration_ms": 181028,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/0nMOZnZA4GnipZXswSmCS6"
+      "duration_ms": 206557,
+      "name": "Without My Ring (I Think I Want You)",
+      "url": "https://open.spotify.com/track/2nIkWia8VMuHL51ipVFL3P"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -1050,6 +1026,134 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
+        "name": "Aggressive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Hated (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Order In Decline B-Sides",
+        "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 240019,
+      "name": "Catching Fire (Acoustic)",
+      "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "End Of A Good Thing",
+        "url": "https://open.spotify.com/album/0j0zSi2bsvB7mKTKj3uO8D"
+      },
+      "artists": [
+        {
+          "name": "Cory Wells",
+          "url": "https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG"
+        }
+      ],
+      "duration_ms": 277961,
+      "name": "End Of A Good Thing",
+      "url": "https://open.spotify.com/track/6F6MrtUbHqf7AASOXDMlMp"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "February",
+        "url": "https://open.spotify.com/album/1XeTjGH7IwO5twLA52ebxA"
+      },
+      "artists": [
+        {
+          "name": "When the Sun Sets",
+          "url": "https://open.spotify.com/artist/5En7VgLDFTKb9kOcZs6cF4"
+        }
+      ],
+      "duration_ms": 243140,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6WptWHEf06ILIIK6merGuc"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Disconsolation",
+        "url": "https://open.spotify.com/album/4KKOF28KsHPcHzGGUPvv2T"
+      },
+      "artists": [
+        {
+          "name": "Another One Down!",
+          "url": "https://open.spotify.com/artist/28qiA0MBepHKX8M6ROsQZL"
+        }
+      ],
+      "duration_ms": 255102,
+      "name": "Tiny Vessels",
+      "url": "https://open.spotify.com/track/0lwXjccCJAvS0GGLEky85h"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 184490,
+      "name": "Little Dove",
+      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Punk Goes Acoustic 2",
+        "url": "https://open.spotify.com/album/3UJXlQhxONNCzIq9JuGrcG"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 290786,
+      "name": "Three Cheers for Five Years",
+      "url": "https://open.spotify.com/track/2CePJFAdroNJcLT0THVemC"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/1QdXg2FU5XWXrduBGXrDpH"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 209869,
+      "name": "Dead & Gone - Acoustic",
+      "url": "https://open.spotify.com/track/0QELebUemGEIB0R2mg59Cn"
+    },
+    {
+      "added_at": "2021-02-08 14:45:26",
+      "album": {
         "name": "Empty Throne (Acoustic)",
         "url": "https://open.spotify.com/album/2r7oHR5mz0NkW2tmiBCzci"
       },
@@ -1066,34 +1170,34 @@
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Punk Goes Acoustic, Vol. 3",
-        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
+        "name": "Acoustic Volume 2",
+        "url": "https://open.spotify.com/album/3Wf5tFJKX2SZWiYnAgfkGW"
       },
       "artists": [
         {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
         }
       ],
-      "duration_ms": 230440,
-      "name": "Atlantic - Acoustic",
-      "url": "https://open.spotify.com/track/1PoASGPXqcK2cPkS2QywaW"
+      "duration_ms": 215385,
+      "name": "It Don't Exist",
+      "url": "https://open.spotify.com/track/2naa5wAghsbxM9XqgCf4aa"
     },
     {
       "added_at": "2021-02-08 14:45:26",
       "album": {
-        "name": "Punk Goes Acoustic, Vol. 3",
-        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/3LbFLyD7bHKLYds3UFw6G8"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Cory Wells",
+          "url": "https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG"
         }
       ],
-      "duration_ms": 224066,
-      "name": "Colorblind - Acoustic",
-      "url": "https://open.spotify.com/track/0Q0ZwpPIBqGFQGQy415wpX"
+      "duration_ms": 224974,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1xwJpkTCba8guExNTHFd1H"
     },
     {
       "added_at": "2021-02-08 14:45:26",
@@ -1110,118 +1214,6 @@
       "duration_ms": 197361,
       "name": "Something Wonderful - Alternate Version",
       "url": "https://open.spotify.com/track/1vu42HClZIiqLgRzTU2jUc"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Even More Acoustic Songs",
-        "url": "https://open.spotify.com/album/5hU52N8vH58MmbAlGYlp5s"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 203210,
-      "name": "From The Outside - Acoustic",
-      "url": "https://open.spotify.com/track/6jnOgu9AWyTGRJCrlrAKzq"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Redux: The First 10 Years",
-        "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Still Dreaming (Acoustic)",
-      "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/67jQZqjz4Xu8GFci0WujIK"
-      },
-      "artists": [
-        {
-          "name": "ROAM",
-          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Tracks",
-      "url": "https://open.spotify.com/track/1WXq7yfGDqp24hK7q1oFut"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Punk Goes Acoustic, Vol. 3",
-        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Story Of My Bros - Acoustic",
-      "url": "https://open.spotify.com/track/4lHy961n9KMbzwOM4ewgHP"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "When the Dust Settles",
-        "url": "https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Stranger - Revisited",
-      "url": "https://open.spotify.com/track/0VJNvMNrEYxLHtJKjrK1T1"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Sunnyland",
-        "url": "https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 234912,
-      "name": "Take My Breath Away",
-      "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
-    },
-    {
-      "added_at": "2021-02-08 14:45:26",
-      "album": {
-        "name": "Aggressive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Hated (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcBkxDaAQX0a"

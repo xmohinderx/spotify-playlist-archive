@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
@@ -74,6 +74,24 @@
       "duration_ms": 204582,
       "name": "About You",
       "url": "https://open.spotify.com/track/2sLrhduqte62PRzJ5M1uW5"
+    },
+    {
+      "album": {
+        "name": "Doom Days (This Got Out Of Hand Edition)",
+        "url": "https://open.spotify.com/album/1zYfRw1pKwhdlH5b08nE3p"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Admit Defeat",
+      "url": "https://open.spotify.com/track/1OHAFggB1Jatvto7HvUN4L"
     },
     {
       "album": {
@@ -560,7 +578,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 259186,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195946,
       "name": "Crying In The Sun",
       "url": "https://open.spotify.com/track/5Gwn2tyT8CluNxYI930tu7"
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 166458,
       "name": "Honest",
       "url": "https://open.spotify.com/track/7pDrmxNf8LjnuNyYlpVKJW"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 141500,
       "name": "ludlow coffee supply",
       "url": "https://open.spotify.com/track/3v13yCBe1HAEqhswk94Phs"
@@ -2115,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "One Step Closer",
+        "url": "https://open.spotify.com/album/6OOaYD7NwBkayNi9CjTXZt"
+      },
+      "artists": [
+        {
+          "name": "Jason Walker",
+          "url": "https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241894,
+      "name": "One Step Closer",
+      "url": "https://open.spotify.com/track/5609krR13jGNRxsfxpkiWG"
+    },
+    {
+      "album": {
         "name": "Oops (I'm Sorry)",
         "url": "https://open.spotify.com/album/1ElsjvR5Stcl155XkRzJwK"
       },
@@ -2424,7 +2460,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 182553,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2CBReP4Ox7OnBzhJsb2VNk"
@@ -2536,7 +2572,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 167800,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/63HPS15Kvde81RVcgTe8aR"
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "Somewhere in Ann Arbor",
       "url": "https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK"

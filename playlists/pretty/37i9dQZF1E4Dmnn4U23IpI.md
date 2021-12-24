@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Neon Nox, Dana Jean Phoenix, Kalax and more
+> With Robert Parker, Josh Dally, Doubleboy and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Automatic Call](https://open.spotify.com/track/7JinJGlnDplCzm3Cp23rWm) | [NINA](https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG), [LAU](https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4) | [Synthian](https://open.spotify.com/album/63L4x13H3mr4mzpUMWTO4Z) | 5:05 |
 | 50 | [Knightriders](https://open.spotify.com/track/4YyG15mMNRqjYCH3S7aBw0) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Retro Rangers](https://open.spotify.com/album/0hWhZ5UWHZO22BkdFvbFfx) | 4:41 |
 
-Snapshot ID: `MTY0MDMwNjUwMywwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`
+Snapshot ID: `MTY0MDMxNTgzMywwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`

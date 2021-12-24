@@ -846,7 +846,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 250483,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/5o5SVIrVETWIQFMdgPFXPt"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 213440,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 278625,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3kzBPAyFRlDwPCv3DThqEE"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229760,
       "name": "Plans",
       "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Suspiria (Music for the Luca Guadagnino Film)",
+        "url": "https://open.spotify.com/album/0nZg85VbGkPcr7zQ6EsJKa"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201768,
+      "name": "Suspirium",
+      "url": "https://open.spotify.com/track/0rlfGg5Ym6J9AA97ah7voH"
+    },
+    {
+      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/3jjorFAlD4BFsC4C2yLaFR"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203693,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4Fv9CnMY4NufGFKakOYUvq"

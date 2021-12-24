@@ -352,7 +352,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 273933,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/4jKojTEsrJtUU5rNp3gbGQ"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 287306,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213840,
       "name": "Disco Inferno",
       "url": "https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 225360,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231480,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0UYit2SshaoGD45cp21LEI"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 245933,
       "name": "I Gotta Feeling - Edit",
       "url": "https://open.spotify.com/track/4vL7vh5gE925teuKC3d5wb"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179960,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LN9F6c1Okx7Yrwd6GO8tu"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 320986,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/66eYZZfUgBCulq7tsiBbXB"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 285093,
       "name": "Into the Groove",
       "url": "https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 194533,
       "name": "Jessie's Girl",
       "url": "https://open.spotify.com/track/1sgfjgLRCqSfndpofU8T2C"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213760,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/4osg3vT6sXv6wNxm9Z6ucQ"
@@ -1406,10 +1406,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 145173,
       "name": "Respect",
       "url": "https://open.spotify.com/track/3XIobZuLDpWea6Ig36ItRw"
+    },
+    {
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "album": {
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/6IWkdrBY2O0vfQdfEKGUdF"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 216346,
       "name": "September",
       "url": "https://open.spotify.com/track/06rPFgQsKS607RhYIqCmGq"
@@ -1518,6 +1536,24 @@
       "duration_ms": 231920,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/3dTNNizDOulTTV5uwtEGct"
+    },
+    {
+      "album": {
+        "name": "Songs In The Key Of Life (Reissue)",
+        "url": "https://open.spotify.com/album/0BBWJ3L9fhkmNLdt4zs4fu"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/2udw7RDkldLFIPG9WYdVtT"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Train, Bradley Cooper, Little Mix and more
+> With Adele, Amanda Seyfried, Rihanna, Jason Mraz and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

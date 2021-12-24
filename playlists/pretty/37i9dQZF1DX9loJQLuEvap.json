@@ -1,7 +1,7 @@
 {
   "description": "100% amazing female singers. Enjoy!",
   "name": "50 Great Female Voices",
-  "snapshot_id": "MTY0MDMwNjQzMywwMDAwMDAwMGFmMzA4ODVlOTQ0ODFlZGI5MTg5YWZhYzcxMTBiOTNm",
+  "snapshot_id": "MTY0MDMxNTc2NCwwMDAwMDAwMDY1OWUwM2FhYzE4ZWJiY2NjZWQ1YzM1YTQ0MDA2MTI1",
   "tracks": [
     {
       "added_at": "2021-01-08 13:35:52",
@@ -22,6 +22,22 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/4TtOLhd2Ig1VxCbFu1BW6b"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/01jb2YsLdnRu3YYs777zSk"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
         "name": "Music For Lovers",
         "url": "https://open.spotify.com/album/7i9Ifsw1L8PsGAmX6t3xOk"
       },
@@ -34,22 +50,6 @@
       "duration_ms": 272986,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/5pDRIxiUZ9Sz9XKKFfKSsJ"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -70,22 +70,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Come Away With Me",
-        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "Pair Of Fives: Roberta Flack / Dionne Warwick",
         "url": "https://open.spotify.com/album/6bcs0N6URuCCa206hPceyh"
       },
@@ -102,18 +86,34 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/4TtOLhd2Ig1VxCbFu1BW6b"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 228866,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/01jb2YsLdnRu3YYs777zSk"
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Come Away With Me",
+        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -130,22 +130,6 @@
       "duration_ms": 221293,
       "name": "Your Love Is King - Remastered",
       "url": "https://open.spotify.com/track/5EwNOL1CWnM74ptsVvW9OV"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
-      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -182,18 +166,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
         }
       ],
-      "duration_ms": 154160,
-      "name": "Love Is A Losing Game",
-      "url": "https://open.spotify.com/track/4IMBnBRqm9RALmLrRqfMor"
+      "duration_ms": 184800,
+      "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
+      "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -226,6 +210,22 @@
       "duration_ms": 148053,
       "name": "Son Of A Preacher Man",
       "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/4IMBnBRqm9RALmLrRqfMor"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -278,22 +278,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Rhino Hi-Five: Natalie Cole",
-        "url": "https://open.spotify.com/album/66W961OOr9k9furtedbgzS"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Miss You Like Crazy",
-      "url": "https://open.spotify.com/track/1QKyTgl3CT6iqBAmAKham7"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "Easter",
         "url": "https://open.spotify.com/album/6dx7saKYTu93wHcCuDSvUH"
       },
@@ -326,6 +310,22 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
+        "name": "Rhino Hi-Five: Natalie Cole",
+        "url": "https://open.spotify.com/album/66W961OOr9k9furtedbgzS"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Miss You Like Crazy",
+      "url": "https://open.spotify.com/track/1QKyTgl3CT6iqBAmAKham7"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
         "name": "Man",
         "url": "https://open.spotify.com/album/2bYrUTI2vWLQq2VXJ8DvVJ"
       },
@@ -342,18 +342,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/2jiDaTcE7WmJr384lZJvgw"
+        "name": "Broken English",
+        "url": "https://open.spotify.com/album/5hLO4KIOY3lbYdPv4Swn3b"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
         }
       ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR"
+      "duration_ms": 250226,
+      "name": "The Ballad Of Lucy Jordan",
+      "url": "https://open.spotify.com/track/1hWa3NiuvNwnDHZ9TYMBkr"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -390,22 +390,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Broken English",
-        "url": "https://open.spotify.com/album/5hLO4KIOY3lbYdPv4Swn3b"
-      },
-      "artists": [
-        {
-          "name": "Marianne Faithfull",
-          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
-        }
-      ],
-      "duration_ms": 250226,
-      "name": "The Ballad Of Lucy Jordan",
-      "url": "https://open.spotify.com/track/1hWa3NiuvNwnDHZ9TYMBkr"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "Lisa Stansfield (Deluxe)",
         "url": "https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0"
       },
@@ -422,18 +406,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Joan Armatrading",
-        "url": "https://open.spotify.com/album/3wKouVhrEkGmdgnASErALn"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/2jiDaTcE7WmJr384lZJvgw"
       },
       "artists": [
         {
-          "name": "Joan Armatrading",
-          "url": "https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 268333,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4I1w0J6NA3M25jFZ5dhp6y"
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -470,18 +454,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Bare",
-        "url": "https://open.spotify.com/album/05ic4vwaq6R792nELxFMmE"
+        "name": "Joan Armatrading",
+        "url": "https://open.spotify.com/album/3wKouVhrEkGmdgnASErALn"
       },
       "artists": [
         {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+          "name": "Joan Armatrading",
+          "url": "https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6"
         }
       ],
-      "duration_ms": 187213,
-      "name": "A Thousand Beautiful Things",
-      "url": "https://open.spotify.com/track/2E69zptZWLWSMBArSJLUAa"
+      "duration_ms": 268333,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4I1w0J6NA3M25jFZ5dhp6y"
     },
     {
       "added_at": "2021-06-07 14:46:37",
@@ -498,6 +482,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Bare",
+        "url": "https://open.spotify.com/album/05ic4vwaq6R792nELxFMmE"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "A Thousand Beautiful Things",
+      "url": "https://open.spotify.com/track/2E69zptZWLWSMBArSJLUAa"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -564,22 +564,6 @@
       "url": "https://open.spotify.com/track/1Me0238KTGrw7POxazgl77"
     },
     {
-      "added_at": "2021-05-31 15:01:23",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
-    },
-    {
       "added_at": "2021-01-08 13:35:52",
       "album": {
         "name": "True Power-Ballads / 3CD set",
@@ -594,6 +578,22 @@
       "duration_ms": 251613,
       "name": "What's Up? - Edit",
       "url": "https://open.spotify.com/track/3fOODM4MYSBmCZoSOSyOjP"
+    },
+    {
+      "added_at": "2021-05-31 15:01:23",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -710,22 +710,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
       },
@@ -738,6 +722,22 @@
       "duration_ms": 326533,
       "name": "Ex-Factor",
       "url": "https://open.spotify.com/track/2XCTU3DJ9W6glWSkM2uQTS"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -758,22 +758,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Erykah Badu",
-        "url": "https://open.spotify.com/album/2VEuouQKa12j0utl8BguMo"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/2EeDqZf3Kh8i7wkPgDprkG"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "Playlist: The Very Best Of Toni Braxton",
         "url": "https://open.spotify.com/album/0Ehl4kMmLUL8ViTI1reMrV"
       },
@@ -786,6 +770,22 @@
       "duration_ms": 262173,
       "name": "He Wasn't Man Enough",
       "url": "https://open.spotify.com/track/6hheXAlIc9Dh1ZcFaaZaeH"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Erykah Badu",
+        "url": "https://open.spotify.com/album/2VEuouQKa12j0utl8BguMo"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2EeDqZf3Kh8i7wkPgDprkG"
     },
     {
       "added_at": "2021-01-08 13:35:52",

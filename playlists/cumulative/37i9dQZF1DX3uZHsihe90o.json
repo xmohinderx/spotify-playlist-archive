@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Colour the World",
+        "url": "https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195553,
+      "name": "Cloud Watching (Sky's the Limit)",
+      "url": "https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw"
+    },
+    {
+      "album": {
         "name": "More Please!",
         "url": "https://open.spotify.com/album/4IjjmD5S292op49x0kc677"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 113666,
       "name": "Goober Peas",
       "url": "https://open.spotify.com/track/046AO6ZBgRPwA52YufDUIx"
@@ -620,7 +638,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 115880,
       "name": "He\u2019s Got The Whole World In His Hands",
       "url": "https://open.spotify.com/track/3DbS4Shq7IdjMmenXRfzGg"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 193600,
       "name": "Infinity - They Might Be Giants",
       "url": "https://open.spotify.com/track/3YbyGGXGLp1O5dwJXmgwxF"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198200,
       "name": "La Le Too Dum Day",
       "url": "https://open.spotify.com/track/4MNLnqzsdMNcycrR3h5Lf5"
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 240093,
       "name": "Sweet Betsy From Pike",
       "url": "https://open.spotify.com/track/2WVsQMKqEttZBzkL6hdvsx"

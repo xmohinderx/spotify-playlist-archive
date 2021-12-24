@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "If I Was a Band My Name Would Be Forevers",
+        "url": "https://open.spotify.com/album/262cPLTeWxmx2PkYJ9XAYu"
+      },
+      "artists": [
+        {
+          "name": "Britta Persson",
+          "url": "https://open.spotify.com/artist/1p3J6laThbGvAuz642q1O6"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Baby No Name",
+      "url": "https://open.spotify.com/track/5oYCY3xAQl7rBWEfqJf2Ly"
+    },
+    {
+      "album": {
+        "name": "Plastic Bertrand",
+        "url": "https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd"
+      },
+      "artists": [
+        {
+          "name": "Plastic Bertrand",
+          "url": "https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "Ca plane pour moi",
+      "url": "https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR"
+    },
+    {
+      "album": {
         "name": "Caligula",
         "url": "https://open.spotify.com/album/71UG0C5oWZuVHZ2qbKoJCK"
       },
@@ -106,7 +142,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 239400,
       "name": "Dance With Somebody - Radio Version",
       "url": "https://open.spotify.com/track/3wWln2O18PeL860Ch2rdzf"
@@ -142,7 +178,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 169693,
       "name": "Dancing the Whole Way Home",
       "url": "https://open.spotify.com/track/4GKJ9gCkcCAZXOiu3kiLUt"
@@ -250,7 +286,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Dreaming of You",
       "url": "https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb"
@@ -340,7 +376,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231800,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/66e6O0B9GmSRNAnzB0Bm74"
@@ -358,7 +394,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "High Drama",
       "url": "https://open.spotify.com/track/1p8FGKTfZMp2aiOBci2JRq"
@@ -484,7 +520,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 202746,
       "name": "Jag kommer",
       "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
@@ -556,7 +592,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 243866,
       "name": "Koka-Kola Veins",
       "url": "https://open.spotify.com/track/75ap5Fce8d9LXSwuBgVC0s"
@@ -574,7 +610,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 231320,
       "name": "Kom igen Lena!",
       "url": "https://open.spotify.com/track/4UDaVq5tm2mQ6tNgWydhUX"
@@ -592,7 +628,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 228893,
       "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
       "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
@@ -664,7 +700,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 180560,
       "name": "Mon Amour (Alternative Single Mix)",
       "url": "https://open.spotify.com/track/6XFGNx6By4F97mrIZBkRZa"
@@ -844,7 +880,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 211360,
       "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
       "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
@@ -916,7 +952,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "The Band",
       "url": "https://open.spotify.com/track/1CBlWLtXpZw9s3r6gKOdLy"
@@ -934,7 +970,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196226,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/5EMTPEiZDwJEfc8iWbQ3wt"
@@ -992,6 +1028,24 @@
       "duration_ms": 193720,
       "name": "Those Dancing Days",
       "url": "https://open.spotify.com/track/0TRKCq4SQZ3Rn4iQL8bJvz"
+    },
+    {
+      "album": {
+        "name": "To My Brother, Johnny",
+        "url": "https://open.spotify.com/album/43OUzP6nGH3szu4MhQxQOE"
+      },
+      "artists": [
+        {
+          "name": "Henrik Berggren",
+          "url": "https://open.spotify.com/artist/55kZLdVX3Iumv0m42sMnDA"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217302,
+      "name": "To My Brother, Johnny",
+      "url": "https://open.spotify.com/track/2GMxfI9q96homjq7Qy8UPE"
     },
     {
       "album": {
@@ -1060,7 +1114,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207760,
       "name": "Tralala lilla molntuss, kom hit ska du f\u00e5 en puss",
       "url": "https://open.spotify.com/track/1Y5hLt3uWM1jZWE4Rzm90E"
@@ -1078,7 +1132,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 170826,
       "name": "Underground",
       "url": "https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW"

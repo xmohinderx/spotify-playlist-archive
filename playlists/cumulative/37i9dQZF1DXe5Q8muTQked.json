@@ -196,10 +196,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 207307,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/5912OMlUlTztBFkmuMMEjR"
+    },
+    {
+      "album": {
+        "name": "Avant Gardener",
+        "url": "https://open.spotify.com/album/2QeazQ3EKDtLZ6lRdZceNa"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259749,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/1AbLKGveV3jFFKVKFYP2Ur"
     },
     {
       "album": {
@@ -268,7 +286,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 218893,
       "name": "Bell Bottom Blues",
       "url": "https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 201693,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
@@ -412,7 +430,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214874,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
@@ -618,7 +636,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 193946,
       "name": "Can't Help Falling In Love - Recorded Live at Daytrotter",
       "url": "https://open.spotify.com/track/5GBWQszdw6PtAN0Negzut6"
@@ -1039,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Don't Dream It's Over",
+        "url": "https://open.spotify.com/album/0y6gXWHO0yXIJSvqOkA6fJ"
+      },
+      "artists": [
+        {
+          "name": "Ana Free",
+          "url": "https://open.spotify.com/artist/0vVzVoEiPJX6LvJmKOzCLP"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208234,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/4OjY3fZTuzTMUzd8txpOcJ"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
@@ -1346,7 +1382,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 205049,
       "name": "Fake Empire",
       "url": "https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8"
@@ -1466,7 +1502,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 240566,
       "name": "Fight Song",
       "url": "https://open.spotify.com/track/1e7HQG3E9nsK5JiwsHtVdu"
@@ -1658,10 +1694,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 219672,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/4TOuD1BPV4WJ4JM0Qt1kDq"
+    },
+    {
+      "album": {
+        "name": "Even Better Than The Real Thing Vol. 1",
+        "url": "https://open.spotify.com/album/6ktSxmIxQ4G7uKevdk3DPG"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice & Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/2MpJlnK5inYLCJNGOrg9zL"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "Get the Party Started",
+      "url": "https://open.spotify.com/track/3LlgsIbOqTtprc126KZamL"
     },
     {
       "album": {
@@ -1802,7 +1856,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 198946,
       "name": "Half The World Away",
       "url": "https://open.spotify.com/track/7LZPUnAC0rBCXSLIflzE3I"
@@ -1878,7 +1932,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 278611,
       "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
@@ -2894,7 +2948,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 243626,
       "name": "Kiss - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7Kfpow0FQwvw3xxrRdXgf9"
@@ -3056,7 +3110,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 172149,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/5fa6CrQwHwthEoCvTtd5Ig"
@@ -3110,7 +3164,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 244208,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/71pa4bKxO1QHetRxhGo86P"
@@ -3222,7 +3276,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 173146,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/7xGgissfweCRip2WmupekT"
@@ -3424,7 +3478,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 289185,
       "name": "Memphis Sessions: Stop Draggin' My Heart Around",
       "url": "https://open.spotify.com/track/7jRzholDH9k7zOYgz7BAjZ"
@@ -3606,7 +3660,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 203469,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/797CLA4YDOQc4ksp11r95o"
@@ -3816,7 +3870,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 288255,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3D8yrQUKBcOKpJglrRT0MT"
@@ -3878,7 +3932,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 173149,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/7M288uc13UNSvwOSPfuEAL"
@@ -4008,7 +4062,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 177628,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/2rYzCp1eaH7okWBoSz6ILP"
@@ -4250,7 +4304,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 276146,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/7enqj4wDuXUnZiW0t0Fxbi"
@@ -4402,6 +4456,24 @@
       "duration_ms": 218581,
       "name": "Soul Meets Body",
       "url": "https://open.spotify.com/track/6MKXxE9Zz18KXyPO7T5vhI"
+    },
+    {
+      "album": {
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/4ky1PYJAHZ4vZm2QaU84Xj"
+      },
+      "artists": [
+        {
+          "name": "Natalie Merchant",
+          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272933,
+      "name": "Space Oddity - Live",
+      "url": "https://open.spotify.com/track/0dBzi0Vapr6MZUsTb47Mx9"
     },
     {
       "album": {
@@ -4666,7 +4738,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 275548,
       "name": "The Air That I Breathe",
       "url": "https://open.spotify.com/track/7AyuLqGozNeloS5djeShEN"
@@ -4702,7 +4774,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 205786,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M"
@@ -4738,7 +4810,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 189799,
       "name": "The Partisan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
@@ -4774,7 +4846,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 282744,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/4Fmh543L8tFPlhaVdVRU5i"
@@ -4814,7 +4886,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/6nRenEga4WTc8Da7kigrBO"
@@ -4926,7 +4998,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 190400,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2ArKgz2x8fL8z2KeYXlgLX"
@@ -5006,7 +5078,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 187724,
       "name": "Walking on Sunshine",
       "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
@@ -5215,6 +5287,24 @@
     },
     {
       "album": {
+        "name": "Wild Card",
+        "url": "https://open.spotify.com/album/3HaN8jyz7S3POpsPTym57Q"
+      },
+      "artists": [
+        {
+          "name": "Kate Voegele",
+          "url": "https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153140,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/6cDHqIoWHmkGE7V7kWJZFJ"
+    },
+    {
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/6GGCabqEp2oNLyNwsxY3Vr"
       },
@@ -5324,7 +5414,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 331373,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK"
@@ -5418,6 +5508,24 @@
       "duration_ms": 210733,
       "name": "With Or Without You - Jo Whiley Show - BBC Live Session",
       "url": "https://open.spotify.com/track/2JZUW0wQcUYr7NW7itcHef"
+    },
+    {
+      "album": {
+        "name": "Wildewoman (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3FbnUTejfWegwYtIS8SRql"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297112,
+      "name": "Wonderful (Recorded Live at Kcsn, Los Angeles)",
+      "url": "https://open.spotify.com/track/6MdAwOYUTYDTOv0kb10Oq7"
     },
     {
       "album": {
@@ -5574,7 +5682,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 131186,
       "name": "Yesterday - The Voice Performance",
       "url": "https://open.spotify.com/track/1vwS6VySlFAoxGIlz8Lgz6"
@@ -5708,7 +5816,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 223066,
       "name": "You Were Always On My Mind",
       "url": "https://open.spotify.com/track/0EbIVd9AY1SvZsgCh6xz0D"

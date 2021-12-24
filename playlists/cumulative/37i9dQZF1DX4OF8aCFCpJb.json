@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 242973,
       "name": "12 Steps",
       "url": "https://open.spotify.com/track/43EV79K6fajovzzFlPK5fM"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 224863,
       "name": "2000 \u00c5r",
       "url": "https://open.spotify.com/track/2pRhP0LlT8LzG5EujwK1cf"
@@ -96,6 +96,28 @@
       "duration_ms": 200576,
       "name": "Aina \u00e4lskar ganja",
       "url": "https://open.spotify.com/track/0ZZU7t3meUqAuBMcfjFiel"
+    },
+    {
+      "album": {
+        "name": "Aina \u00c4lskar Reggae",
+        "url": "https://open.spotify.com/album/0CbNy41nIMauok4yBI6zzJ"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6stFolk",
+          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281500,
+      "name": "Aina \u00c4lskar Reggae (med Dani M)",
+      "url": "https://open.spotify.com/track/1vnON5z0YNUq6jQECJnnXe"
     },
     {
       "album": {
@@ -176,10 +198,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229960,
       "name": "Babylonsjukan",
       "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
+    },
+    {
+      "album": {
+        "name": "Babylove",
+        "url": "https://open.spotify.com/album/3OPYol6IeksktJKydDQcAX"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Babylove",
+      "url": "https://open.spotify.com/track/4nBNcwji3bTo6IoaEpoZZY"
     },
     {
       "album": {
@@ -288,7 +328,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 276417,
       "name": "Chimurenga",
       "url": "https://open.spotify.com/track/1ptNyHtwxuJH8RBdBubzdY"
@@ -416,7 +456,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 161500,
       "name": "Dj Pull Up",
       "url": "https://open.spotify.com/track/1xX0Mp3LJXZhJWsaAZ92rS"
@@ -510,7 +550,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 223122,
       "name": "Dunya",
       "url": "https://open.spotify.com/track/0QPrzAzMYzhofyx5ScZMmZ"
@@ -622,7 +662,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196349,
       "name": "Galenskap",
       "url": "https://open.spotify.com/track/0VGjwaW89C7funq3crFav6"
@@ -840,7 +880,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231333,
       "name": "Jag hade en g\u00e5ng en b\u00e5t",
       "url": "https://open.spotify.com/track/5szr4bzNGqGkLeYgSMMHso"
@@ -902,7 +942,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 192028,
       "name": "Ju Mer Dom Spottar",
       "url": "https://open.spotify.com/track/6809ESRbIU87qbXCeR80xA"
@@ -924,6 +964,24 @@
       "duration_ms": 161098,
       "name": "Kommunikation",
       "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
+    },
+    {
+      "album": {
+        "name": "Lejonet ryter",
+        "url": "https://open.spotify.com/album/2JsM0DQUQqzGKKH6CnwvjA"
+      },
+      "artists": [
+        {
+          "name": "Reggaeonen",
+          "url": "https://open.spotify.com/artist/1dABGn3b3SyZtQZQPdsPGq"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Lejonet ryter",
+      "url": "https://open.spotify.com/track/1cq1QRhkLKvYNdY3sVmVtN"
     },
     {
       "album": {
@@ -960,7 +1018,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 184625,
       "name": "Leva igen",
       "url": "https://open.spotify.com/track/16UFJVqJUCLCBLvnjQkLtm"
@@ -978,7 +1036,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 211884,
       "name": "Lidande",
       "url": "https://open.spotify.com/track/3cmx2Iuy5idbybedfwdhyS"
@@ -1128,7 +1186,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179368,
       "name": "Nice",
       "url": "https://open.spotify.com/track/37LyUYAXgYTJpnYaC95ouM"
@@ -1346,7 +1404,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 231293,
       "name": "Snapphaneklanen",
       "url": "https://open.spotify.com/track/3EydYrQ928AaTupbfBe8XH"
@@ -1382,7 +1440,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 229503,
       "name": "Som en rastaman",
       "url": "https://open.spotify.com/track/5yl7yx0wgyQsyHiEBYRQ2y"
@@ -1534,7 +1592,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181040,
       "name": "Tippa p\u00e5 t\u00e5",
       "url": "https://open.spotify.com/track/2AlEaDRYdzPMRIpRMUNWMc"
@@ -1574,7 +1632,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/06iclXdpVQmLGuM6Lts2dU"
@@ -1878,7 +1936,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207910,
       "name": "\u00d6ppna H\u00e4nder (Sammanlagt)",
       "url": "https://open.spotify.com/track/6QOIFWkrpVCknzUXX6HA9F"

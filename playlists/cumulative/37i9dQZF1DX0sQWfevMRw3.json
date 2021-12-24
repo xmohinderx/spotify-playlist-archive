@@ -46,7 +46,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 140952,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2dlJ5e6yoKl1fXEQ3779p0"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 151200,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 156635,
       "name": "BANG (with Helion)",
       "url": "https://open.spotify.com/track/4CNSKwiJTxrYCtFIOqVXGw"
@@ -240,10 +240,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 165424,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/5oYxTKVCBNxuhgKV9HvqL8"
+    },
+    {
+      "album": {
+        "name": "Boom Boom Pow",
+        "url": "https://open.spotify.com/album/3UTRfRr2s6XLj3It38Vw8d"
+      },
+      "artists": [
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185413,
+      "name": "Boom Boom Pow",
+      "url": "https://open.spotify.com/track/4S2qrsdY4BF0T5UFQLtqoU"
     },
     {
       "album": {
@@ -372,7 +394,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215673,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/31sEaoTRxDMN6I96XYcVQB"
@@ -453,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/2DJcypNwWbVrpKbThigp6d"
+      },
+      "artists": [
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157741,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/5LwUuEmBh8iLjHTe1iusix"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/1SrCRhrdD8JLcNj32Oi8Pi"
       },
@@ -520,7 +560,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 150468,
       "name": "Distant Memory (with Timmy Trumpet x W&W)",
       "url": "https://open.spotify.com/track/50Q24gRvLy128dfU2DDoao"
@@ -644,7 +684,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 188655,
       "name": "D\u00f6dade festen",
       "url": "https://open.spotify.com/track/4MpFl1Y2J6ZMG69oOGyXIs"
@@ -713,6 +753,32 @@
     },
     {
       "album": {
+        "name": "Feel Your Love",
+        "url": "https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC"
+    },
+    {
+      "album": {
         "name": "Fira Varje Stund",
         "url": "https://open.spotify.com/album/2bSvAoUsUv0mdFz1sN9AeD"
       },
@@ -728,6 +794,24 @@
       "duration_ms": 222222,
       "name": "Fira Varje Stund",
       "url": "https://open.spotify.com/track/4vO6quHgxfRW1lpSKPYfGv"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/5quW700K37nkT7XMgySvct"
+      },
+      "artists": [
+        {
+          "name": "Winning Team",
+          "url": "https://open.spotify.com/artist/3RvjWEyPSFteWLFG17JOF1"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1ENLs7fAW0Aij4DoABmWKm"
     },
     {
       "album": {
@@ -864,7 +948,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 155714,
       "name": "Get in Trouble (So What) - Lilo Remix",
       "url": "https://open.spotify.com/track/0dmUBjkwsT8aQg1qlbkLso"
@@ -1074,7 +1158,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 199764,
       "name": "In & Out",
       "url": "https://open.spotify.com/track/7HCXtYPQka5aa8DflAUZI2"
@@ -1294,7 +1378,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 168387,
       "name": "Losing My Religion (feat. MKLA)",
       "url": "https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm"
@@ -1374,7 +1458,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 143911,
       "name": "Mera Eva",
       "url": "https://open.spotify.com/track/5KNNHlJw4DOKjxrs8LxHtL"
@@ -1392,7 +1476,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 214501,
       "name": "Midnight Runners",
       "url": "https://open.spotify.com/track/6SOzKLfNIPUFCbhYQ5vCF3"
@@ -1484,6 +1568,24 @@
       "duration_ms": 153913,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/1WMnD5AZEBrKzFc5IGEr0T"
+    },
+    {
+      "album": {
+        "name": "No Super League",
+        "url": "https://open.spotify.com/album/3dB2oBoxvqTfRfLjQxeUuV"
+      },
+      "artists": [
+        {
+          "name": "Badpojken",
+          "url": "https://open.spotify.com/artist/4YNxH9hXMuqlvG7rLTtLa1"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159088,
+      "name": "No Super League",
+      "url": "https://open.spotify.com/track/0IrS6f8lDKMEcwOf2FcCHQ"
     },
     {
       "album": {
@@ -1620,7 +1722,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 142500,
       "name": "Pasta & Vin",
       "url": "https://open.spotify.com/track/6M2cedsUtEFPAY2vIdy6H0"
@@ -1762,7 +1864,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 188346,
       "name": "Pull Me Closer - Armin van Buuren Remix",
       "url": "https://open.spotify.com/track/7Bkm11YEID3T4NSrUJjNPD"
@@ -1784,7 +1886,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 154761,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5vD09qPYPhATeEF4GvGHVw"
@@ -2100,7 +2202,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 133000,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY"
@@ -2180,7 +2282,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 165000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
@@ -2410,7 +2512,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 136774,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4gdp8cuXyhkr0bgtL9kCkZ"
@@ -2502,7 +2604,7 @@
     {
       "album": {
         "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/4VyY6HiUh3mAZqxZphe4LF"
+        "url": "https://open.spotify.com/album/4BGDt8csxnwsW3icsQhP42"
       },
       "artists": [
         {
@@ -2513,6 +2615,24 @@
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161104,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2r83X34HTciGAKNkHDuGaJ"
+    },
+    {
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/4VyY6HiUh3mAZqxZphe4LF"
+      },
+      "artists": [
+        {
+          "name": "Oberg",
+          "url": "https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-24",
       "duration_ms": 161104,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/7hBE2hLEihxmVPYZhkNxgA"
@@ -2556,7 +2676,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 241920,
       "name": "The River",
       "url": "https://open.spotify.com/track/5ZtW1fgA9CM82gd8YbkjNK"
@@ -2687,6 +2807,28 @@
     },
     {
       "album": {
+        "name": "Trombone",
+        "url": "https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Trombone",
+      "url": "https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq"
+    },
+    {
+      "album": {
         "name": "Untz (Zookeepers Remix)",
         "url": "https://open.spotify.com/album/5bGjKPjZg6JSwlznEY1aqL"
       },
@@ -2776,7 +2918,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 181896,
       "name": "We Are Here Now",
       "url": "https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4"
@@ -2828,7 +2970,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 194676,
       "name": "What Was in That Glass",
       "url": "https://open.spotify.com/track/1r9ecngPLiwB5J06DWH4Ts"
@@ -2846,7 +2988,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 201325,
       "name": "Who",
       "url": "https://open.spotify.com/track/2bTxqmUV79rRAFZYmSLS1U"

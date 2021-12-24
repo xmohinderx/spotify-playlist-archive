@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243360,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6"
+    },
+    {
+      "album": {
         "name": "Share My World",
         "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
       },
@@ -594,7 +612,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 299506,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 207466,
       "name": "No, No, No Pt. 2 (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc"
@@ -782,7 +800,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
@@ -858,7 +876,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 265106,
       "name": "That's The Way Love Goes",
       "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
@@ -924,7 +942,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 219120,
       "name": "You Make Me Wanna...",
       "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"

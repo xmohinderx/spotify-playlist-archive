@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Travie McCoy, R\. City, Ne\-Yo and more
+> With Bruno Mars, DJ Snake, Maroon 5, Zedd and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 | 49 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
 | 50 | [We Don't Talk Anymore \(feat\. Selena Gomez\) \- DROELOE Remix](https://open.spotify.com/track/0Ipbnpn89nxSZQDb8wbeTc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [We Don't Talk Anymore \(feat\. Selena Gomez\) \[Remixes\]](https://open.spotify.com/album/2ELvab367kiz5UNr3a7x9K) | 3:38 |
 
-Snapshot ID: `MTY0MDMwNjUwNiwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4`
+Snapshot ID: `MTY0MDMxNTgzNSwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4`

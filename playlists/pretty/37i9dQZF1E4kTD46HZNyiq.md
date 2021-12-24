@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Night Game, Handsome Ghost, The Light the Heat and more
+> With LOS LEO, Kalax, sød ven and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Our House](https://open.spotify.com/track/761QedCA5199KP1aQjjqif) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Our House](https://open.spotify.com/album/6JNhnXGnzwDWEya582BQQv) | 2:45 |
 | 50 | [Backseat](https://open.spotify.com/track/7iAe59rISAkaf1LYzctFwe) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Backseat](https://open.spotify.com/album/7vWLAPhEjGg9tRYWF9K5IW) | 4:42 |
 
-Snapshot ID: `MTY0MDMwNjUwNCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MDMxNTgzMywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

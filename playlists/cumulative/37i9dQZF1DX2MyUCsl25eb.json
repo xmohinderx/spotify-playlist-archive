@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 171958,
       "name": "A World So Full of Love",
       "url": "https://open.spotify.com/track/77OBKDqQD0tvocHP5AXDDV"
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+    },
+    {
+      "album": {
         "name": "St. Augustine",
         "url": "https://open.spotify.com/album/1VEpxY6B37TTtBsiA6qhbm"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6p0xVnT5K3UdxKqQ0Fgytw"
@@ -496,6 +514,24 @@
       "duration_ms": 212919,
       "name": "Girl",
       "url": "https://open.spotify.com/track/0wcHV7AT77zzyH4ftt11vh"
+    },
+    {
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/65DRJr6ua9iSz4w1jsmann"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/2ZR7DiAXXAOUr85ZBreWt4"
     },
     {
       "album": {
@@ -766,7 +802,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 231360,
       "name": "Life In The City",
       "url": "https://open.spotify.com/track/2BZbFzXHhKSFo66cJtpw6d"
@@ -1232,7 +1268,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 271276,
       "name": "Something To Hold",
       "url": "https://open.spotify.com/track/2oPczwxIHoFxNkl7SbKNAH"
@@ -1380,7 +1416,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 266466,
       "name": "Wasteland, Baby!",
       "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 138586,
       "name": "Year From Now",
       "url": "https://open.spotify.com/track/2XbHQSvl64ZzEkzV91j1WC"

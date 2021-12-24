@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/4jUgVrUXUs4rSTAPJZUpEO"
@@ -110,6 +110,24 @@
       "duration_ms": 155386,
       "name": "Beat Down Babylon",
       "url": "https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG"
+    },
+    {
+      "album": {
+        "name": "Tighten Up, Vol. 5",
+        "url": "https://open.spotify.com/album/5yI0aW1ngnWXpk3tOKxGHz"
+      },
+      "artists": [
+        {
+          "name": "Delroy Wilson",
+          "url": "https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "Better Must Come",
+      "url": "https://open.spotify.com/track/2m40aeOjqcHvBlsYShpiFu"
     },
     {
       "album": {
@@ -749,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266986,
+      "name": "Love Has Found Its Way",
+      "url": "https://open.spotify.com/track/2VFyBA1wpU5a4KgZayr1rK"
+    },
+    {
+      "album": {
         "name": "Jah No Dead - An Introduction To Burning Spear",
         "url": "https://open.spotify.com/album/054qvIn982kZxFYHvoxrmL"
       },
@@ -926,7 +962,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 174960,
       "name": "Pressure Drop",
       "url": "https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN"
@@ -1002,7 +1038,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 200800,
       "name": "Sensimilea",
       "url": "https://open.spotify.com/track/21BiCaMzG9Lfs0Pj5ItwX0"
@@ -1060,7 +1096,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179293,
       "name": "Stalag 17",
       "url": "https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl"
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 201266,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
@@ -1388,7 +1424,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 158893,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"

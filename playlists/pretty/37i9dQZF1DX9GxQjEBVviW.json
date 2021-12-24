@@ -1,7 +1,7 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
   "name": "Doo-Wop Dee Doo",
-  "snapshot_id": "MTY0MDMwNjQyOCwwMDAwMDAwMDY4YWM4NGFhMGI5N2VmMWU0MDA5YjhkNjA0OGNlYTdk",
+  "snapshot_id": "MTY0MDMxNTc2MCwwMDAwMDAwMGU2ZDUwMTUxOGQxYjk1MDQ1Yjk4ZWY5ZTJmNDQ0MTQz",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -22,22 +22,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "American Graffiti",
-        "url": "https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC"
-      },
-      "artists": [
-        {
-          "name": "Frankie Lymon & The Teenagers",
-          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Why Do Fools Fall In Love? - Single Version",
-      "url": "https://open.spotify.com/track/0QlHvmgHQ66FFaSbKkVYJM"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "Del Vikings Doo Wop",
         "url": "https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa"
       },
@@ -54,34 +38,50 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "For Collectors Only",
-        "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
+        "name": "The Original Hit Recording - Earth Angel",
+        "url": "https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ"
       },
       "artists": [
         {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
         }
       ],
-      "duration_ms": 170186,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
+      "duration_ms": 178000,
+      "name": "Earth Angel",
+      "url": "https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T"
     },
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Marcels",
-        "url": "https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc"
+        "name": "Jukebox One Hit Wonders",
+        "url": "https://open.spotify.com/album/7DtncHfVoKT9zAuP5s6FHE"
       },
       "artists": [
         {
-          "name": "The Marcels",
-          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
+          "name": "The Rays",
+          "url": "https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv"
         }
       ],
-      "duration_ms": 136771,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG"
+      "duration_ms": 166530,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/5P9EI5iZRctJ0QcarKmraH"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "American Graffiti",
+        "url": "https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon & The Teenagers",
+          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Why Do Fools Fall In Love? - Single Version",
+      "url": "https://open.spotify.com/track/0QlHvmgHQ66FFaSbKkVYJM"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -102,18 +102,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+        "name": "For Collectors Only",
+        "url": "https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ"
       },
       "artists": [
         {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
         }
       ],
-      "duration_ms": 141306,
-      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
-      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
+      "duration_ms": 170186,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -150,6 +150,70 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
+        "name": "For Cool Grandkids Everywhere",
+        "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
+      },
+      "artists": [
+        {
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
+      },
+      "artists": [
+        {
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
+        }
+      ],
+      "duration_ms": 113640,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Get a Job",
+        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes",
+          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Get a Job",
+      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Hollywood Flames",
+        "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
+      },
+      "artists": [
+        {
+          "name": "The Hollywood Flames",
+          "url": "https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Buzz, Buzz, Buzz",
+      "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
         "name": "GoodFellas - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/5MfaOJg3VO99QZxvyZC30B"
       },
@@ -162,6 +226,38 @@
       "duration_ms": 188733,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/0a80x0s1pnRabaBIZgIZoT"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Coasters",
+        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -182,18 +278,34 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Original Hit Recording - Earth Angel",
-        "url": "https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ"
+        "name": "A Casual Look",
+        "url": "https://open.spotify.com/album/2ZTGmmSaSekHmAFVuT7v83"
       },
       "artists": [
         {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+          "name": "The Six Teens",
+          "url": "https://open.spotify.com/artist/1n0PTPiHxmlkU7ND1HVFZQ"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Earth Angel",
-      "url": "https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T"
+      "duration_ms": 147563,
+      "name": "A Casual Look",
+      "url": "https://open.spotify.com/track/5AEQIUw4f0Sbpjm5HFFLD5"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Marcels",
+        "url": "https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc"
+      },
+      "artists": [
+        {
+          "name": "The Marcels",
+          "url": "https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3"
+        }
+      ],
+      "duration_ms": 136771,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -230,38 +342,6 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Hollywood Flames",
-        "url": "https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET"
-      },
-      "artists": [
-        {
-          "name": "The Hollywood Flames",
-          "url": "https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Buzz, Buzz, Buzz",
-      "url": "https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
         "name": "There's A Riot Goin' On: The Coasters On Atco",
         "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
@@ -271,189 +351,25 @@
           "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 116026,
-      "name": "Yakety Yak - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+      "duration_ms": 141306,
+      "name": "Charlie Brown - 2007 Remaster Stereo Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930"
     },
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Jukebox One Hit Wonders",
-        "url": "https://open.spotify.com/album/7DtncHfVoKT9zAuP5s6FHE"
+        "name": "Since I Don't Have You - Pennies From Heaven",
+        "url": "https://open.spotify.com/album/720l9qVPyWsc95YUwR01HE"
       },
       "artists": [
         {
-          "name": "The Rays",
-          "url": "https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv"
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
         }
       ],
-      "duration_ms": 166530,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/5P9EI5iZRctJ0QcarKmraH"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 113640,
-      "name": "Heart and Soul",
-      "url": "https://open.spotify.com/track/5XoYj1BbiLSzBjhPoMv09C"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Goin' Out Of My Head",
-        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Goin' Out Of My Head",
-      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "For Cool Grandkids Everywhere",
-        "url": "https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a"
-      },
-      "artists": [
-        {
-          "name": "Danny & The Juniors",
-          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "At The Hop",
-      "url": "https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Collectors Gold Series",
-        "url": "https://open.spotify.com/album/1fP6tO7l2L2z68myCVAaE4"
-      },
-      "artists": [
-        {
-          "name": "The Jive Five",
-          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "My True Story - Digitally Remastered",
-      "url": "https://open.spotify.com/track/3V3FNxI4qfqtJUN6NYfE81"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Get a Job",
-        "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes",
-          "url": "https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Get a Job",
-      "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "American Graffiti",
-        "url": "https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC"
-      },
-      "artists": [
-        {
-          "name": "The Flamingos",
-          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "I Only Have Eyes For You - Single Version",
-      "url": "https://open.spotify.com/track/3pHKy8Vmwi52p7V9ADdmTU"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Four Aces' Greatest Hits",
-        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
-      },
-      "artists": [
-        {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        },
-        {
-          "name": "Al Alberts",
-          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Heart And Soul",
-      "url": "https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Greatest Hits: From The Beginning",
-        "url": "https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP"
-      },
-      "artists": [
-        {
-          "name": "The Miracles",
-          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Shop Around",
-      "url": "https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "There's A Riot Goin' On: The Coasters On Atco",
-        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Poison Ivy - 2007 Remaster; Remastered",
-      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Best Of The Cleftones",
-        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
-      },
-      "artists": [
-        {
-          "name": "The Cleftones",
-          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Can't We Be Sweethearts",
-      "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
+      "duration_ms": 156893,
+      "name": "Since I Don't Have You",
+      "url": "https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -490,72 +406,24 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "United Artists Black Singles 1959-1967: ''Motor City To Central Park''",
-        "url": "https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC"
+        "name": "Goin' Out Of My Head",
+        "url": "https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK"
       },
       "artists": [
         {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
         }
       ],
-      "duration_ms": 112200,
-      "name": "Love Potion No. 9",
-      "url": "https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS"
+      "duration_ms": 149733,
+      "name": "Goin' Out Of My Head",
+      "url": "https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f"
     },
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Since I Don't Have You - Pennies From Heaven",
-        "url": "https://open.spotify.com/album/720l9qVPyWsc95YUwR01HE"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Since I Don't Have You",
-      "url": "https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "GoodFellas - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/5MfaOJg3VO99QZxvyZC30B"
-      },
-      "artists": [
-        {
-          "name": "The Harptones",
-          "url": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Life Is but a Dream",
-      "url": "https://open.spotify.com/track/6CJnPLGcsyFErEoJb6gHFK"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Echoes Of A Rock Era",
-        "url": "https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi"
-      },
-      "artists": [
-        {
-          "name": "The Crows",
-          "url": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Gee",
-      "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Playlist: The Best Of The Flamingos",
-        "url": "https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg"
+        "name": "American Graffiti",
+        "url": "https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC"
       },
       "artists": [
         {
@@ -563,121 +431,25 @@
           "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
         }
       ],
-      "duration_ms": 173441,
-      "name": "Lovers Never Say Goodbye",
-      "url": "https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t"
+      "duration_ms": 203000,
+      "name": "I Only Have Eyes For You - Single Version",
+      "url": "https://open.spotify.com/track/3pHKy8Vmwi52p7V9ADdmTU"
     },
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
+        "name": "The Best Of The Cleftones",
+        "url": "https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN"
       },
       "artists": [
         {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+          "name": "The Cleftones",
+          "url": "https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf"
         }
       ],
-      "duration_ms": 130892,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Coasters",
-        "url": "https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO"
-      },
-      "artists": [
-        {
-          "name": "The Coasters",
-          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Searchin'",
-      "url": "https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 106760,
-      "name": "Hey Senorita",
-      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "The Greatest Doo Wop",
-        "url": "https://open.spotify.com/album/4RkJZbzTvIZOD3lyMUDYtv"
-      },
-      "artists": [
-        {
-          "name": "The Cadillacs",
-          "url": "https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH"
-        }
-      ],
-      "duration_ms": 141583,
-      "name": "Speedoo",
-      "url": "https://open.spotify.com/track/4UGr3S283MmxmRIq83xoWq"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Rmg's Top Doo-Wop Cloud Hits Volume 1",
-        "url": "https://open.spotify.com/album/3x0X3yqeVppSX30KzKWSiU"
-      },
-      "artists": [
-        {
-          "name": "The Dubs",
-          "url": "https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Chapel of Dreams",
-      "url": "https://open.spotify.com/track/3HgV08D7OOay214URalpnZ"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Doo Wop Classics Vol. 1",
-        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
-      },
-      "artists": [
-        {
-          "name": "The Chantels",
-          "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
-    },
-    {
-      "added_at": "2021-02-12 10:06:47",
-      "album": {
-        "name": "Down In The Alley: The Best Of The Clovers",
-        "url": "https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S"
-      },
-      "artists": [
-        {
-          "name": "The Clovers",
-          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Devil or Angel - 2007 Remaster",
-      "url": "https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz"
+      "duration_ms": 179160,
+      "name": "Can't We Be Sweethearts",
+      "url": "https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -698,66 +470,66 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Stand By Me [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti"
+        "name": "Echoes Of A Rock Era",
+        "url": "https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi"
       },
       "artists": [
         {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+          "name": "The Crows",
+          "url": "https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG"
         }
       ],
-      "duration_ms": 146173,
-      "name": "Whispering Bells",
-      "url": "https://open.spotify.com/track/0VRJtAPuTBrYTfAjVp7HD9"
+      "duration_ms": 136400,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W"
     },
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+        "name": "Doo Wop Classics Vol. 1",
+        "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
       "artists": [
         {
-          "name": "Maurice Williams & The Zodiacs",
-          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
+          "name": "The Chantels",
+          "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
         }
       ],
-      "duration_ms": 94906,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
+      "duration_ms": 170000,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
     },
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "A Casual Look",
-        "url": "https://open.spotify.com/album/2ZTGmmSaSekHmAFVuT7v83"
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
       },
       "artists": [
         {
-          "name": "The Six Teens",
-          "url": "https://open.spotify.com/artist/1n0PTPiHxmlkU7ND1HVFZQ"
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
         }
       ],
-      "duration_ms": 147563,
-      "name": "A Casual Look",
-      "url": "https://open.spotify.com/track/5AEQIUw4f0Sbpjm5HFFLD5"
+      "duration_ms": 164253,
+      "name": "Poison Ivy - 2007 Remaster; Remastered",
+      "url": "https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo"
     },
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "All the Hits and More",
-        "url": "https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY"
+        "name": "Collectors Gold Series",
+        "url": "https://open.spotify.com/album/1fP6tO7l2L2z68myCVAaE4"
       },
       "artists": [
         {
-          "name": "A Heart Beats",
-          "url": "https://open.spotify.com/artist/12InvBNZTKboiU2xT663oK"
+          "name": "The Jive Five",
+          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
         }
       ],
-      "duration_ms": 148040,
-      "name": "A Thousand Miles Away",
-      "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
+      "duration_ms": 155960,
+      "name": "My True Story - Digitally Remastered",
+      "url": "https://open.spotify.com/track/3V3FNxI4qfqtJUN6NYfE81"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -778,18 +550,182 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "\"Maybe\": The Best of the Chantels",
-        "url": "https://open.spotify.com/album/1HQAVqEPsz4dZPX9AjHA86"
+        "name": "United Artists Black Singles 1959-1967: ''Motor City To Central Park''",
+        "url": "https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC"
       },
       "artists": [
         {
-          "name": "The Chantels",
-          "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
         }
       ],
-      "duration_ms": 138814,
-      "name": "Look into My Eyes",
-      "url": "https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7"
+      "duration_ms": 112200,
+      "name": "Love Potion No. 9",
+      "url": "https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "GoodFellas - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/5MfaOJg3VO99QZxvyZC30B"
+      },
+      "artists": [
+        {
+          "name": "The Harptones",
+          "url": "https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "Life Is but a Dream",
+      "url": "https://open.spotify.com/track/6CJnPLGcsyFErEoJb6gHFK"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Greatest Hits: From The Beginning",
+        "url": "https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP"
+      },
+      "artists": [
+        {
+          "name": "The Miracles",
+          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Shop Around",
+      "url": "https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Four Aces' Greatest Hits",
+        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
+      },
+      "artists": [
+        {
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        },
+        {
+          "name": "Al Alberts",
+          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Heart And Soul",
+      "url": "https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Stand By Me [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 146173,
+      "name": "Whispering Bells",
+      "url": "https://open.spotify.com/track/0VRJtAPuTBrYTfAjVp7HD9"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "There's A Riot Goin' On: The Coasters On Atco",
+        "url": "https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku"
+      },
+      "artists": [
+        {
+          "name": "The Coasters",
+          "url": "https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM"
+        }
+      ],
+      "duration_ms": 116026,
+      "name": "Yakety Yak - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Playlist: The Best Of The Flamingos",
+        "url": "https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg"
+      },
+      "artists": [
+        {
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+        }
+      ],
+      "duration_ms": 173441,
+      "name": "Lovers Never Say Goodbye",
+      "url": "https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Rmg's Top Doo-Wop Cloud Hits Volume 1",
+        "url": "https://open.spotify.com/album/3x0X3yqeVppSX30KzKWSiU"
+      },
+      "artists": [
+        {
+          "name": "The Dubs",
+          "url": "https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Chapel of Dreams",
+      "url": "https://open.spotify.com/track/3HgV08D7OOay214URalpnZ"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Because I Said So (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 130892,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "Down In The Alley: The Best Of The Clovers",
+        "url": "https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S"
+      },
+      "artists": [
+        {
+          "name": "The Clovers",
+          "url": "https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Devil or Angel - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "All the Hits and More",
+        "url": "https://open.spotify.com/album/408vYNhI0kbOgcUikk6AEY"
+      },
+      "artists": [
+        {
+          "name": "A Heart Beats",
+          "url": "https://open.spotify.com/artist/12InvBNZTKboiU2xT663oK"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "A Thousand Miles Away",
+      "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -806,6 +742,70 @@
       "duration_ms": 134586,
       "name": "There Goes My Baby - Rerecorded",
       "url": "https://open.spotify.com/track/3ntA3FI3FR18yPO9snKvZ3"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 106760,
+      "name": "Hey Senorita",
+      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "The Magic Touch: An Anthology",
+        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+    },
+    {
+      "added_at": "2021-02-12 10:06:47",
+      "album": {
+        "name": "\"Maybe\": The Best of the Chantels",
+        "url": "https://open.spotify.com/album/1HQAVqEPsz4dZPX9AjHA86"
+      },
+      "artists": [
+        {
+          "name": "The Chantels",
+          "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
+        }
+      ],
+      "duration_ms": 138814,
+      "name": "Look into My Eyes",
+      "url": "https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9GxQjEBVviW"

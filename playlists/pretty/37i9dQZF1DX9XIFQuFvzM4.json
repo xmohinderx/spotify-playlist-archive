@@ -1,7 +1,7 @@
 {
   "description": "Feel good with this positively timeless playlist!",
   "name": "Feelin' Good",
-  "snapshot_id": "MTY0MDMwNjQzMSwwMDAwMDAwMDJmNzllYzc3NmMzMGM1OTMzOWQ0OThjMDZhODdmM2Yy",
+  "snapshot_id": "MTY0MDMxNTc2MywwMDAwMDAwMDIyODAxN2VmNDhiMDE0MmE0MTBhNjBkZWMxOTkwNmEw",
   "tracks": [
     {
       "added_at": "2021-10-19 21:36:21",
@@ -102,6 +102,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Jr. Walker & The All Stars",
+        "url": "https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Discover Bill Withers",
         "url": "https://open.spotify.com/album/0PuHBmxh6nKG8TTjuVZghY"
       },
@@ -118,18 +134,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Jr. Walker & The All Stars",
-        "url": "https://open.spotify.com/album/3MkkgBqBgeQfJjftZMtF4y"
+        "name": "Perfect Union",
+        "url": "https://open.spotify.com/album/1n1Ee7s4FUb8wTzT6Cy0eR"
       },
       "artists": [
         {
-          "name": "Jr. Walker & The All Stars",
-          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 179640,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x"
+      "duration_ms": 215403,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3GrTxDPEBPyofDy06rO9mj"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -166,22 +182,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Perfect Union",
-        "url": "https://open.spotify.com/album/1n1Ee7s4FUb8wTzT6Cy0eR"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 215403,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3GrTxDPEBPyofDy06rO9mj"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -214,22 +214,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Natalie Cole Anthology",
         "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
       },
@@ -242,6 +226,22 @@
       "duration_ms": 171360,
       "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
       "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -282,38 +282,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Black Boy",
-        "url": "https://open.spotify.com/album/4oDpHWlUikcdAPBijuTYjf"
-      },
-      "artists": [
-        {
-          "name": "Joel Culpepper",
-          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
-        }
-      ],
-      "duration_ms": 243624,
-      "name": "Black Boy",
-      "url": "https://open.spotify.com/track/01H6EVBkDRIIICVpciXOHC"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Good To You",
         "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
       },
@@ -326,22 +294,6 @@
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -362,6 +314,38 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Black Boy",
+        "url": "https://open.spotify.com/album/4oDpHWlUikcdAPBijuTYjf"
+      },
+      "artists": [
+        {
+          "name": "Joel Culpepper",
+          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
+        }
+      ],
+      "duration_ms": 243624,
+      "name": "Black Boy",
+      "url": "https://open.spotify.com/track/01H6EVBkDRIIICVpciXOHC"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Big Crown Vaults Vol. 1 - Lee Fields & The Expressions",
         "url": "https://open.spotify.com/album/2pMqRfJFeY9aWT7zEagauL"
       },
@@ -378,38 +362,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Black Heart (feat. The Dap-Kings)",
-        "url": "https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb"
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
       "artists": [
         {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
-        },
-        {
-          "name": "The Dap-Kings",
-          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 174688,
-      "name": "Black Heart (feat. The Dap-Kings)",
-      "url": "https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Imagination (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Midnight Train to Georgia",
-      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -434,82 +398,38 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Motown 1960s Volume 1",
-        "url": "https://open.spotify.com/album/36ec30jOBxkovia1vkWyOz"
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
       "artists": [
         {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
         }
       ],
-      "duration_ms": 166466,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6fuvYxKEvU4inG8eTB2nYi"
+      "duration_ms": 279333,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
     },
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
+        "name": "Black Heart (feat. The Dap-Kings)",
+        "url": "https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/5olG5OUfCDV6O5e1Ip3YXF"
-      },
-      "artists": [
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
+        },
         {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+          "name": "The Dap-Kings",
+          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/5N7s7nhywtONPI5FJhabAP"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Sure Don't Miss You",
-      "url": "https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT"
+      "duration_ms": 174688,
+      "name": "Black Heart (feat. The Dap-Kings)",
+      "url": "https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -530,18 +450,82 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Best Of The Spinners",
-        "url": "https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/5olG5OUfCDV6O5e1Ip3YXF"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
         }
       ],
-      "duration_ms": 191960,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/6cpNEgirhi0QmLDA2cVSHO"
+      "duration_ms": 229600,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5N7s7nhywtONPI5FJhabAP"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Motown 1960s Volume 1",
+        "url": "https://open.spotify.com/album/36ec30jOBxkovia1vkWyOz"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6fuvYxKEvU4inG8eTB2nYi"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -558,6 +542,74 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Sure Don't Miss You",
+      "url": "https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Very Best Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Ain't No Mountain High Enough - Stereo Version",
+      "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Best Of The Spinners",
+        "url": "https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/6cpNEgirhi0QmLDA2cVSHO"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -594,54 +646,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+        "name": "Be My Baby: The Very Best of The Ronettes",
+        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
         }
       ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Very Best Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "Ain't No Mountain High Enough - Stereo Version",
-      "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -662,22 +678,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Be My Baby: The Very Best of The Ronettes",
-        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -694,22 +694,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Essential Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/6B0BAhQBleEa0Nr7eYLTvN"
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         }
       ],
-      "duration_ms": 452733,
-      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/2NMbpeb1VI7GyeJQMJZF2I"
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -730,18 +726,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
+        "name": "The Essential Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/6B0BAhQBleEa0Nr7eYLTvN"
       },
       "artists": [
         {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
+      "duration_ms": 452733,
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2NMbpeb1VI7GyeJQMJZF2I"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -814,26 +814,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Essential Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/6B0BAhQBleEa0Nr7eYLTvN"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 383533,
-      "name": "The Love I Lost (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/2sRlynMtS89ewDIh44qgVu"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -850,18 +830,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/47CPS60gbKOHyf1R5pdUR9"
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 170200,
-      "name": "Something's Got A Hold On Me - Single Version",
-      "url": "https://open.spotify.com/track/4T43c9I2dDyrrlds7qqS2N"
+      "duration_ms": 199266,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -898,8 +878,28 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+        "name": "The Essential Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/6B0BAhQBleEa0Nr7eYLTvN"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 383533,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2sRlynMtS89ewDIh44qgVu"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Soul Manifesto: 1964-1970",
+        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
       },
       "artists": [
         {
@@ -907,41 +907,25 @@
           "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
     },
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/47CPS60gbKOHyf1R5pdUR9"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM"
+      "duration_ms": 170200,
+      "name": "Something's Got A Hold On Me - Single Version",
+      "url": "https://open.spotify.com/track/4T43c9I2dDyrrlds7qqS2N"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -962,18 +946,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Sam Cooke (Remastered)",
-        "url": "https://open.spotify.com/album/6I8XDdoW06eAEMU2EHJulX"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 163266,
-      "name": "You Send Me - Remastered",
-      "url": "https://open.spotify.com/track/2QW3aWIzjEDdHFPZFvOlXX"
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -990,6 +974,22 @@
       "duration_ms": 178400,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1026,24 +1026,24 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+        "name": "Sam Cooke (Remastered)",
+        "url": "https://open.spotify.com/album/6I8XDdoW06eAEMU2EHJulX"
       },
       "artists": [
         {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+      "duration_ms": 163266,
+      "name": "You Send Me - Remastered",
+      "url": "https://open.spotify.com/track/2QW3aWIzjEDdHFPZFvOlXX"
     },
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Soul Manifesto: 1964-1970",
-        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
       },
       "artists": [
         {
@@ -1051,25 +1051,9 @@
           "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Matters Of The Heart",
-        "url": "https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK"
-      },
-      "artists": [
-        {
-          "name": "RuthAnne",
-          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
-        }
-      ],
-      "duration_ms": 210454,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4oP1iFJ5GSxeMMHofCg4ae"
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1090,6 +1074,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Matters Of The Heart",
+        "url": "https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "duration_ms": 210454,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4oP1iFJ5GSxeMMHofCg4ae"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Funkify Your Life: The Meters Anthology",
         "url": "https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz"
       },
@@ -1102,6 +1102,38 @@
       "duration_ms": 185226,
       "name": "Cissy Strut",
       "url": "https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1122,18 +1154,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+        "name": "Half the City",
+        "url": "https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
+      "duration_ms": 171266,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0W5qBuHbbBfCzszFxrQWMc"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1170,6 +1202,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Tina!",
+        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "River Deep - Mountain High",
+      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "S/t",
         "url": "https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs"
       },
@@ -1190,50 +1238,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+        "name": "Motown 1970s Vol. 1",
+        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
         }
       ],
-      "duration_ms": 235666,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Half the City",
-        "url": "https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0W5qBuHbbBfCzszFxrQWMc"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Tina!",
-        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "River Deep - Mountain High",
-      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
+      "duration_ms": 258706,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1250,22 +1266,6 @@
       "duration_ms": 166066,
       "name": "Everybody Needs Somebody to Love",
       "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Motown 1970s Vol. 1",
-        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 258706,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
     },
     {
       "added_at": "2021-12-13 21:17:46",
@@ -1286,22 +1286,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc"
       },
@@ -1314,6 +1298,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1346,6 +1346,22 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Chain of Fools",
+      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1398,54 +1414,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Watchout!",
-        "url": "https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Jimmy Mack",
-      "url": "https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 495400,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
       },
@@ -1462,18 +1430,38 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Story Of Cornelius Brothers & Sister Rose",
-        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
+        "name": "Watchout!",
+        "url": "https://open.spotify.com/album/5DBVTohmpLwz4XwUGZNAQZ"
       },
       "artists": [
         {
-          "name": "Cornelius Brothers & Sister Rose",
-          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 198693,
-      "name": "Too Late To Turn Back Now",
-      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+      "duration_ms": 163733,
+      "name": "Jimmy Mack",
+      "url": "https://open.spotify.com/track/7N3UAu6FkwdBg9J7OONBBP"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Ella & Friends",
+        "url": "https://open.spotify.com/album/0MgX1r8D5sEhpC3JPs6pLG"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/5CMw1IWB7JOpUY9nk54n1K"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1494,18 +1482,50 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+        "name": "The Story Of Cornelius Brothers & Sister Rose",
+        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
       },
       "artists": [
         {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+          "name": "Cornelius Brothers & Sister Rose",
+          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+      "duration_ms": 198693,
+      "name": "Too Late To Turn Back Now",
+      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
+        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Then He Kissed Me",
+      "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 495400,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1542,18 +1562,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Wall of Sound: The Very Best of Phil Spector 1961-1966",
-        "url": "https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i"
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
       },
       "artists": [
         {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
         }
       ],
-      "duration_ms": 158853,
-      "name": "Then He Kissed Me",
-      "url": "https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY"
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1574,22 +1594,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
       },
@@ -1606,38 +1610,34 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Ella & Friends",
-        "url": "https://open.spotify.com/album/0MgX1r8D5sEhpC3JPs6pLG"
+        "name": "Nigeria 70 - Lagos Jump",
+        "url": "https://open.spotify.com/album/4JexrqcB8oKiRmr4tyOOz3"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "The Delta Rhythm Boys",
-          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+          "name": "Rex Williams",
+          "url": "https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV"
         }
       ],
-      "duration_ms": 156933,
-      "name": "It's Only A Paper Moon",
-      "url": "https://open.spotify.com/track/5CMw1IWB7JOpUY9nk54n1K"
+      "duration_ms": 193000,
+      "name": "You Are My Heart",
+      "url": "https://open.spotify.com/track/6hfKln1Jm1WCN6ozSQZGyN"
     },
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "I'll Be Fine",
-        "url": "https://open.spotify.com/album/1MPItEak5Jl1DOupPmKsjj"
+        "name": "An American Love Story",
+        "url": "https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK"
       },
       "artists": [
         {
-          "name": "Marvin Brooks",
-          "url": "https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 167666,
-      "name": "Shake What Your Mama",
-      "url": "https://open.spotify.com/track/4KLiNPRah1bWQyisb2NtoS"
+      "duration_ms": 172186,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9XIFQuFvzM4"

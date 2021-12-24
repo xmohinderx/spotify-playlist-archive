@@ -7,7 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Weak Ago](https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E) | [letlive.](https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs) | [If I'm The Devil...](https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg) | 3:11 | 2021-12-16 |  |
-| [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 | 2021-12-16 |  |
+| [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 | 2021-12-16 | 2021-12-24 |
 | [Blackout](https://open.spotify.com/track/5YWwn67BUDjiDODELhOOSy) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Blackout](https://open.spotify.com/album/2q2RKKrd7AuRE4I21b090c) | 3:17 | 2021-12-16 |  |
 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 | 2021-12-16 |  |
 | [Bleed It Out](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 2:46 | 2021-12-16 |  |
@@ -16,7 +16,7 @@
 | [Bulletproof](https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Echoes](https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W) | 3:04 | 2021-12-16 |  |
 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 | 2021-12-16 |  |
 | [Curse the Weather](https://open.spotify.com/track/2o0fZALPlVohLSNrjYN3I5) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [DealBreaker](https://open.spotify.com/album/5hcQEMNue4uxkHcrpyFZsX) | 3:43 | 2021-12-16 |  |
-| [Dance, Dance](https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW) | 3:00 | 2021-12-16 | 2021-12-24 |
+| [Dance, Dance](https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW) | 3:00 | 2021-12-16 |  |
 | [Dangerous](https://open.spotify.com/track/07YAkI4MUIBku8cSJQ2Iz5) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Dangerous](https://open.spotify.com/album/3HEHxmkHfQyuqatAyJWXXB) | 3:49 | 2021-12-16 |  |
 | [Death Grip](https://open.spotify.com/track/2fZFQe9qyQx1AX7tZ3Uztl) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [Death Grip](https://open.spotify.com/album/1tRoML82kv64dAh7bYTneP) | 2:57 | 2021-12-16 |  |
 | [Devil](https://open.spotify.com/track/2C1gcpQDw2sPz5k01gUv5r) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [Devil](https://open.spotify.com/album/16NCKTebMK4KzJeuHOAMm9) | 2:50 | 2021-12-16 |  |

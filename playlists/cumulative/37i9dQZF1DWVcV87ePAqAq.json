@@ -60,7 +60,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
@@ -181,6 +181,32 @@
     },
     {
       "album": {
+        "name": "All You Need To Know (feat. Calle Lehmann)",
+        "url": "https://open.spotify.com/album/0xLM3GiU0ZSstvhmeV0hmf"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Calle Lehmann",
+          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+        }
+      ],
+      "date_added": "2020-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238458,
+      "name": "All You Need To Know (feat. Calle Lehmann)",
+      "url": "https://open.spotify.com/track/4Gcv5SsxnQWpmOnUI19EJk"
+    },
+    {
+      "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/5soziJR4omSI8Y9Vs01PFg"
       },
@@ -200,6 +226,24 @@
       "duration_ms": 189023,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1hPojADm9OOY65pAr0YoDS"
+    },
+    {
+      "album": {
+        "name": "Aqua Aura",
+        "url": "https://open.spotify.com/album/7aJi5qJQTI6mQV194aMuwj"
+      },
+      "artists": [
+        {
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+        }
+      ],
+      "date_added": "2020-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Aqua Aura",
+      "url": "https://open.spotify.com/track/468ooECb1oRgt4gGfLeAoH"
     },
     {
       "album": {
@@ -288,7 +332,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 163048,
       "name": "Beautiful People (feat. Khalid) - Jack Wins Remix",
       "url": "https://open.spotify.com/track/7fvUMiyapMsRRxr07cU8Ef"
@@ -313,6 +357,24 @@
     },
     {
       "album": {
+        "name": "LOL (International version)",
+        "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
+      },
+      "artists": [
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "date_added": "2020-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Boten Anna - Radio edit",
+      "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
+    },
+    {
+      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -332,6 +394,24 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "album": {
+        "name": "Kisstory Presents Old Skool & Anthems",
+        "url": "https://open.spotify.com/album/64Kgf1EOogoo1FoZBvjS2h"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "date_added": "2020-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168561,
+      "name": "Call on Me - Radio Mix",
+      "url": "https://open.spotify.com/track/0FeAEoSfI46jq2nhwhG6UP"
     },
     {
       "album": {
@@ -536,7 +616,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 285853,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/3at6zq1Bk7qAlNqwRFnDID"
@@ -758,7 +838,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 215786,
       "name": "Dragostea Din Tei - Original Romanian Version",
       "url": "https://open.spotify.com/track/05GC0KsXboWsZZaPRIwFxJ"
@@ -780,7 +860,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195428,
       "name": "Dynamite (feat. Pretty Sister)",
       "url": "https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg"
@@ -860,7 +940,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 196015,
       "name": "Everytime We Touch",
       "url": "https://open.spotify.com/track/6EFj4m1YdNbU6s3RLE0GUJ"
@@ -922,7 +1002,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 183307,
       "name": "Forgive or Forget - R3HAB Remix",
       "url": "https://open.spotify.com/track/6bERyJwcB3qHDZMnT6Wy9p"
@@ -1108,7 +1188,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 255093,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/3zKST4nk4QJE77oLjUZ0Ng"
@@ -1170,10 +1250,32 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 229586,
       "name": "Highway Man",
       "url": "https://open.spotify.com/track/6jPggfBgf9SFe1Ae4HTBxA"
+    },
+    {
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "date_added": "2020-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "album": {
@@ -1280,7 +1382,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "I Don't Care (with Justin Bieber) - Loud Luxury Remix",
       "url": "https://open.spotify.com/track/6f807x0ima9a1j3VPbc7VN"
@@ -1316,7 +1418,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 290426,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/084rSHN2xIfUrwShDgzk1Q"
@@ -1334,7 +1436,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 213600,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
@@ -1370,7 +1472,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 179745,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
@@ -1452,7 +1554,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 212000,
       "name": "It's Raining Men",
       "url": "https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx"
@@ -1524,7 +1626,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 267226,
       "name": "Jump (For My Love)",
       "url": "https://open.spotify.com/track/1kdxZYbXrqBX2hWtw3VFQF"
@@ -1840,7 +1942,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
@@ -1902,7 +2004,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 207094,
       "name": "No Sleep (feat. Bonn)",
       "url": "https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B"
@@ -2176,7 +2278,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 225866,
       "name": "Rhythm Is A Dancer - 7\" Edit",
       "url": "https://open.spotify.com/track/5iEDwEp82uLN3X6llJdqen"
@@ -2224,7 +2326,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 184563,
       "name": "Roots",
       "url": "https://open.spotify.com/track/23FHa9lYnG6Dr8OzombPkS"
@@ -2308,7 +2410,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 195853,
       "name": "Sexy Bitch (feat. Akon)",
       "url": "https://open.spotify.com/track/1B3t5xC2jzTgjDOwawchu8"
@@ -2388,7 +2490,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 189849,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4juLrLNeyIX0Z5EnmAgLOo"
@@ -2542,7 +2644,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 212893,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/6oWpGuwokWJ4EcWgVQPdUt"
@@ -2734,7 +2836,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 204160,
       "name": "Timber (feat. Ke$ha)",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
@@ -2756,7 +2858,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
@@ -2892,7 +2994,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-24",
       "duration_ms": 202626,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
