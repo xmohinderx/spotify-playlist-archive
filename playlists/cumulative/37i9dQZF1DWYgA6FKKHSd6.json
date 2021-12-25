@@ -136,7 +136,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 310480,
       "name": "Another Part of Me",
       "url": "https://open.spotify.com/track/2uroSt9vhH1KFV9g4s0MOS"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 254642,
       "name": "Around the World",
       "url": "https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 249320,
       "name": "Break the Ice",
       "url": "https://open.spotify.com/track/6BvXHhmXcleXjrjGSxxdOs"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 245989,
       "name": "Chill AF",
       "url": "https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 333880,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 270113,
       "name": "Copacetic",
       "url": "https://open.spotify.com/track/3HA4T5LeLY3LNGuwiFq8q4"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 261092,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 331973,
       "name": "Everything Happens for a Reason",
       "url": "https://open.spotify.com/track/5I2OHhQvOrh5qBcZn8wpCL"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 246586,
       "name": "futuresoul",
       "url": "https://open.spotify.com/track/12Cv4QNglk8m6vLEi8NHEr"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 263608,
       "name": "Give Me the Heat",
       "url": "https://open.spotify.com/track/1xRC0Faz1UbR9Rq8ElEvxZ"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 199573,
       "name": "Gonna' Miss You",
       "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
@@ -976,6 +976,24 @@
       "duration_ms": 259165,
       "name": "Homebrew - Radio Mix",
       "url": "https://open.spotify.com/track/021RV4e0gnjDuUB5KxJ6Ck"
+    },
+    {
+      "album": {
+        "name": "Romance Language",
+        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "date_added": "2021-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288731,
+      "name": "I Wish I Wasn't",
+      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
     },
     {
       "album": {
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 248071,
       "name": "Kiss and Tell",
       "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 258138,
       "name": "L.I.T.",
       "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 195000,
       "name": "Leap of Faith",
       "url": "https://open.spotify.com/track/0IguWIOThNrFN7fL1ZPTjF"
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 243882,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 248472,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 232733,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/3HTqV23RH74GnMagyTkQ1P"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 247746,
       "name": "Outside the Box",
       "url": "https://open.spotify.com/track/4l4dodgipavIzeo1H1YYCj"
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 224626,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/4s6zQKQOcxfmxaTAUSL7BN"
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 289586,
       "name": "Right Back Atcha",
       "url": "https://open.spotify.com/track/6P9nJUyMQ8UaMrYwsuyqvw"
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 255034,
       "name": "Room 143",
       "url": "https://open.spotify.com/track/451nSdShMhPPmJ6OUTzOfC"
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 209727,
       "name": "Set Sail",
       "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 273653,
       "name": "She's Ready",
       "url": "https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 242379,
       "name": "Straight to the Point",
       "url": "https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 280613,
       "name": "Stratosphere",
       "url": "https://open.spotify.com/track/2W540AXgdQY51tgniBvmIo"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 220440,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/5fM6c0mQ5uhHY9lbbAPvaB"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 253426,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
@@ -2310,10 +2328,28 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 217843,
       "name": "Una Mas",
       "url": "https://open.spotify.com/track/1r9VLVwwqC1855WVhiZ5FX"
+    },
+    {
+      "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "date_added": "2021-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "album": {
@@ -2346,7 +2382,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 275680,
       "name": "Warm - Album Mix",
       "url": "https://open.spotify.com/track/6QvJtPAuUWtPzC87raT6x3"
@@ -2364,7 +2400,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 259838,
       "name": "West Coast Soul",
       "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 270133,
       "name": "Wild Tales (feat. Russ Freeman)",
       "url": "https://open.spotify.com/track/463sMWdEGB9NTvu988dd2R"
@@ -2480,7 +2516,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 255266,
       "name": "Work Wit' It",
       "url": "https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9"

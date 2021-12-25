@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 345447,
       "name": "Attention Span Dub",
       "url": "https://open.spotify.com/track/0ijA161YVenpYKjl7ZH6MM"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 267746,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 210873,
       "name": "Cali Sober (with Pepper)",
       "url": "https://open.spotify.com/track/3hqLfzMGBk7XfbLv19g2lF"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 189613,
       "name": "Count Me In",
       "url": "https://open.spotify.com/track/0BweE3lWBMXRPWWLtLV5z8"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 268626,
       "name": "Date Rape",
       "url": "https://open.spotify.com/track/2nS4sfMUR5mOSXQWvPhVol"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 195026,
       "name": "Drifting In Out of Time",
       "url": "https://open.spotify.com/track/1P69oceVUgEEKO5TBKM7kn"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Crazy Little Village",
+        "url": "https://open.spotify.com/album/2E2ualHb7RU1j7aLqTQTA5"
+      },
+      "artists": [
+        {
+          "name": "Joe Sambo",
+          "url": "https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Got It All",
+      "url": "https://open.spotify.com/track/6HQ5jwetbgbN7MMf7Hog0C"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1AvPIbANN0YDiEQYHFoprt"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 203904,
       "name": "Headline",
       "url": "https://open.spotify.com/track/3FnBOGtgQCqTbS5lyfNGmW"
@@ -966,7 +984,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 216200,
       "name": "Knocking at Your Door",
       "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 224807,
       "name": "Message to the World",
       "url": "https://open.spotify.com/track/3OUurzjheL7pC4TAYZdJ3d"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 239720,
       "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
       "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
@@ -1597,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0NDHm6f1dH5sVMBo9sYZk5"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/6MJxu3pi5nLCA87DQef9RO"
+    },
+    {
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -1612,6 +1648,28 @@
       "duration_ms": 269500,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+    },
+    {
+      "album": {
+        "name": "Of Illusion",
+        "url": "https://open.spotify.com/album/3gN7jTMf7ZE4xCwbdUPOrF"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "RDGLDGRN",
+          "url": "https://open.spotify.com/artist/5eUNUYMdI57xpVu0l2Qlm3"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223026,
+      "name": "Sleepers (with RDGLDGRN)",
+      "url": "https://open.spotify.com/track/6QDOuB6F0j2VXJQFTHNB4k"
     },
     {
       "album": {
@@ -1648,7 +1706,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Snowman (with Dirty Heads)",
       "url": "https://open.spotify.com/track/1BzKS4LnJQdRotvaaP7gRB"
@@ -1764,7 +1822,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 236092,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3"
@@ -1914,7 +1972,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 335586,
       "name": "Surfman Cometh",
       "url": "https://open.spotify.com/track/0XLCAcfMcypLKvnBFFbnaB"
@@ -2212,7 +2270,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 239853,
       "name": "Where's The Love",
       "url": "https://open.spotify.com/track/1XShVicocgCeGOxDAtHSAN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3w9f3pg1Dyc.md) - [plain]
 
 > Cher's most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,643 likes - 37 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,688 likes - 37 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

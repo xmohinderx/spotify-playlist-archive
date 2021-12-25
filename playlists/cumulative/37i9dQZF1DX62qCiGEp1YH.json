@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Midnight Book",
+        "url": "https://open.spotify.com/album/5ZFDr05zO96TOEit98k0dc"
+      },
+      "artists": [
+        {
+          "name": "Eric Margan & The Red Lions",
+          "url": "https://open.spotify.com/artist/48kvhZjxPy1DlR2hBgOrwA"
+        }
+      ],
+      "date_added": "2021-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263800,
+      "name": "Bay of Naples",
+      "url": "https://open.spotify.com/track/26nKLWXp4l91qxdrOlCEP9"
+    },
+    {
+      "album": {
         "name": "Be Your Man",
         "url": "https://open.spotify.com/album/5GBsPJwvVWXWRalcDPTAGM"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 190657,
       "name": "Death Of A Hero",
       "url": "https://open.spotify.com/track/3btBmFS3dZ1EEh0pEH9imU"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 167625,
       "name": "Faking It",
       "url": "https://open.spotify.com/track/0olEV0xHPcpVOPZfg4MSgR"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/2ySyV2K8WnOqsQ0CfBNdnx"

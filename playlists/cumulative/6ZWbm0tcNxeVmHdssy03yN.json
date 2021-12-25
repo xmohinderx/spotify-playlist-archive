@@ -147,6 +147,32 @@
     },
     {
       "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/4cujlpSlDdDIzNYyE8ljCa"
+      },
+      "artists": [
+        {
+          "name": "Hemay",
+          "url": "https://open.spotify.com/artist/0GohXKnNt69Pdrfgi5Yebd"
+        },
+        {
+          "name": "Unfamouslouie",
+          "url": "https://open.spotify.com/artist/2r027MivKk5aA5yYHp1iP2"
+        },
+        {
+          "name": "Turbo Sanchez",
+          "url": "https://open.spotify.com/artist/0gSA2njSI8inDdK4NhUTSj"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145357,
+      "name": "31",
+      "url": "https://open.spotify.com/track/0TBXmt4EMcBXqROeG0O0ek"
+    },
+    {
+      "album": {
         "name": "3D Love",
         "url": "https://open.spotify.com/album/6tpNGc31jKSShRHS3WIFP3"
       },
@@ -510,7 +536,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 178687,
       "name": "Ahora s\u00e9 (feat. Roi M\u00e9ndez)",
       "url": "https://open.spotify.com/track/48jMEF7mhvr8SVWE123bLl"
@@ -2894,7 +2920,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-29",
+      "date_removed": null,
       "duration_ms": 147368,
       "name": "CHARGER (ft. Charli XCX)",
       "url": "https://open.spotify.com/track/0WDjZuWS4Z0ATgR8eL5cr1"
@@ -3024,7 +3050,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 191732,
       "name": "Cherry Blossoms in Tokyo",
       "url": "https://open.spotify.com/track/2ty9DxGlEvAxkBYEYgE7Pd"
@@ -3122,6 +3148,28 @@
       "duration_ms": 179812,
       "name": "church st.",
       "url": "https://open.spotify.com/track/4IaO6c4n2a5FGmFZHHsryJ"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/57EvcMmi3j0msVQcDj1Vgp"
+      },
+      "artists": [
+        {
+          "name": "Adam Turley",
+          "url": "https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF"
+        },
+        {
+          "name": "Obi Ben",
+          "url": "https://open.spotify.com/artist/4tggpePtFnIweqywchxhP9"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155698,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7oT74IUwjrHseRdUT2tSYa"
     },
     {
       "album": {
@@ -3312,7 +3360,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 154105,
       "name": "Cold Eyes",
       "url": "https://open.spotify.com/track/7v6syl3hFm2Og5WNUeO7IK"
@@ -3648,7 +3696,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 214736,
       "name": "Cosas Por Hacer",
       "url": "https://open.spotify.com/track/6fCqczho7D3HVqny265HzW"
@@ -4162,6 +4210,24 @@
       "duration_ms": 232012,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/7d0zWiniNwO2Bsex8jRDYa"
+    },
+    {
+      "album": {
+        "name": "Dead Inside",
+        "url": "https://open.spotify.com/album/6GWWu9jNkMs5jYR3b5CILf"
+      },
+      "artists": [
+        {
+          "name": "Younger Hunger",
+          "url": "https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/2JqyquFrqaoKt0SRr91meT"
     },
     {
       "album": {
@@ -5363,6 +5429,28 @@
     },
     {
       "album": {
+        "name": "El Rey Naci\u00f3",
+        "url": "https://open.spotify.com/album/0axf6NG076bZl2KV0kEXP8"
+      },
+      "artists": [
+        {
+          "name": "Christian Velez",
+          "url": "https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM"
+        },
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87315,
+      "name": "El Rey Naci\u00f3",
+      "url": "https://open.spotify.com/track/3b8sYIua0GO4yuH8LNNNtN"
+    },
+    {
+      "album": {
         "name": "El viaje",
         "url": "https://open.spotify.com/album/22m6pGRLCcG7pB4w9G5Ivy"
       },
@@ -6350,7 +6438,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 197541,
       "name": "Fly With Me",
       "url": "https://open.spotify.com/track/4jE80uioy7gR5BQWtUTlC4"
@@ -6520,7 +6608,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 179166,
       "name": "FRESA",
       "url": "https://open.spotify.com/track/4oWEawOtDBhqWf5OnvQK9t"
@@ -6654,7 +6742,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 244250,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/6LrH6JCVik2QfmXlnhk7ZC"
@@ -6938,6 +7026,24 @@
       "duration_ms": 260866,
       "name": "Gibberish",
       "url": "https://open.spotify.com/track/3N6PVaffO4YbsGyfYSnBkK"
+    },
+    {
+      "album": {
+        "name": "Girlfriend Is Better (Live)",
+        "url": "https://open.spotify.com/album/2ojqm7JSr5A5SMQUrUEMAV"
+      },
+      "artists": [
+        {
+          "name": "Hembree",
+          "url": "https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281220,
+      "name": "Girlfriend Is Better - Live",
+      "url": "https://open.spotify.com/track/2OiSlKB8apjRx8pAN9MsHb"
     },
     {
       "album": {
@@ -7444,7 +7550,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-29",
+      "date_removed": null,
       "duration_ms": 167463,
       "name": "Hailey",
       "url": "https://open.spotify.com/track/1bQ5gQOyzWbPl6TXFuvi8z"
@@ -8178,7 +8284,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 215000,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/4JarBqnRDomlBMgwQvYufj"
@@ -8332,6 +8438,28 @@
       "duration_ms": 218400,
       "name": "How We Livin'",
       "url": "https://open.spotify.com/track/35KDwZwYeUx1BUgFINesrz"
+    },
+    {
+      "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/4geAeFQJl7TWhr8tmIYKZS"
+      },
+      "artists": [
+        {
+          "name": "D'One",
+          "url": "https://open.spotify.com/artist/1GJ03RP8m15KzoFVsvRKSx"
+        },
+        {
+          "name": "YB Jefe",
+          "url": "https://open.spotify.com/artist/1Kqe0iUFsGg9lRXa3Ck2Dx"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204155,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/1CFNT2NBfm0x4fTO3rY7eo"
     },
     {
       "album": {
@@ -8586,7 +8714,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 161285,
       "name": "I Just Got So High",
       "url": "https://open.spotify.com/track/1hIUQdk73XEkPvyE7KosYm"
@@ -8676,7 +8804,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-29",
+      "date_removed": null,
       "duration_ms": 148556,
       "name": "i looked into your eyes",
       "url": "https://open.spotify.com/track/0CwLue2qwkPcQpovNGNtVx"
@@ -9292,7 +9420,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 146666,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/3kr7cRgAPStI5GQ3KNPodS"
@@ -9476,7 +9604,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 215280,
       "name": "Just Say It",
       "url": "https://open.spotify.com/track/5dDO4DbyIC11h1YrrOcC5N"
@@ -10184,6 +10312,24 @@
       "duration_ms": 138928,
       "name": "life got crazy",
       "url": "https://open.spotify.com/track/14hRptRzFo5MZCIPjDxyag"
+    },
+    {
+      "album": {
+        "name": "the highs.",
+        "url": "https://open.spotify.com/album/2phcfZd44niczjY0xybcS6"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138928,
+      "name": "life got crazy",
+      "url": "https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY"
     },
     {
       "album": {
@@ -12135,6 +12281,24 @@
     },
     {
       "album": {
+        "name": "PARIS-BAVEX",
+        "url": "https://open.spotify.com/album/7gGjOwPTo6tg0nXMDEmkbT"
+      },
+      "artists": [
+        {
+          "name": "Nelson",
+          "url": "https://open.spotify.com/artist/4t85ZMxOo7Vgm3nc2zbKod"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223570,
+      "name": "Naissance",
+      "url": "https://open.spotify.com/track/1TBkAzfycl8rhoe4728UZM"
+    },
+    {
+      "album": {
         "name": "Indecision",
         "url": "https://open.spotify.com/album/5lP5MImekkYWUV4KF7pxl2"
       },
@@ -13456,7 +13620,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 141571,
       "name": "Outta My",
       "url": "https://open.spotify.com/track/1E97l7UDMnhlTSuDbL0aIW"
@@ -13746,7 +13910,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 193643,
       "name": "Pediste flores (con Loli Molina)",
       "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
@@ -14242,6 +14406,24 @@
       "duration_ms": 167500,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/04GiIJcjqj1gUTlS2dXcV3"
+    },
+    {
+      "album": {
+        "name": "pumpkin bread",
+        "url": "https://open.spotify.com/album/1Bm7slaDsarcd8ZinmA9py"
+      },
+      "artists": [
+        {
+          "name": "Mikey Mike",
+          "url": "https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177976,
+      "name": "pumpkin bread",
+      "url": "https://open.spotify.com/track/603mAqHBigy7cueil9FxJf"
     },
     {
       "album": {
@@ -15182,7 +15364,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 167400,
       "name": "Run",
       "url": "https://open.spotify.com/track/5rWVolsvoL2Y9sl3JDHk7b"
@@ -15258,7 +15440,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 154961,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/1KOVmdlYTX5SD4rUM88Bh0"
@@ -17142,7 +17324,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 187974,
       "name": "SUPERIMPOSE",
       "url": "https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk"
@@ -17406,7 +17588,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 174581,
       "name": "Teleport",
       "url": "https://open.spotify.com/track/7cd9qfLNpztPkkeqgPsaBX"
@@ -17558,10 +17740,32 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 205462,
       "name": "The Bomb - 10 Year Anniversary-Chris Coady Mix",
       "url": "https://open.spotify.com/track/4zJfg0l7XrnP9GSZOEmdmY"
+    },
+    {
+      "album": {
+        "name": "The Bomb (Cut Chemist Remix)",
+        "url": "https://open.spotify.com/album/2oXztNNcavqg9j2gSacsFX"
+      },
+      "artists": [
+        {
+          "name": "Pigeon John",
+          "url": "https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj"
+        },
+        {
+          "name": "Cut Chemist",
+          "url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211696,
+      "name": "The Bomb - Cut Chemist Remix",
+      "url": "https://open.spotify.com/track/4KP3IvYbwElZod00S2c8dY"
     },
     {
       "album": {
@@ -17616,6 +17820,24 @@
       "duration_ms": 266760,
       "name": "The Girl Who Looked Like Summer",
       "url": "https://open.spotify.com/track/4DE1vXrz4VXt3lTCKYkLTl"
+    },
+    {
+      "album": {
+        "name": "The Knowing",
+        "url": "https://open.spotify.com/album/16j2tCVRkwBZttAiG8nQuJ"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "The Knowing",
+      "url": "https://open.spotify.com/track/4wdJIe44V9G4zj5uj1hUjW"
     },
     {
       "album": {
@@ -19562,7 +19784,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 189235,
       "name": "What's Happening",
       "url": "https://open.spotify.com/track/0VgEeSCvVIA481UsO1vOAf"

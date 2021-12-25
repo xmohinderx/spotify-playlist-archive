@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "30",
       "url": "https://open.spotify.com/track/2mF0a6QdJY5WDWar4THKyi"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 200357,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5"
@@ -258,6 +258,24 @@
       "duration_ms": 237756,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5jhYykolbcG1T9wZSyvhp5"
+    },
+    {
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
     },
     {
       "album": {
@@ -362,7 +380,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 204613,
       "name": "Don't Hurt the Island Please",
       "url": "https://open.spotify.com/track/1FBEwUknugg7TJC70uVJ7s"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 199533,
       "name": "Door",
       "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 221000,
       "name": "Happy",
       "url": "https://open.spotify.com/track/459mRPsscVLMvVL59gr7EM"
@@ -604,6 +622,28 @@
       "duration_ms": 176160,
       "name": "ICON",
       "url": "https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB"
+    },
+    {
+      "album": {
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/36R6wobbzc5PL9NwgHnDDX"
+      },
+      "artists": [
+        {
+          "name": "Tako & Jhyung",
+          "url": "https://open.spotify.com/artist/6huvFAFxwU9XqklbnG2pGF"
+        },
+        {
+          "name": "Song Ye Rin",
+          "url": "https://open.spotify.com/artist/7oUkV3cqNmnjb27yBtmeOb"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197130,
+      "name": "In Your Dreams",
+      "url": "https://open.spotify.com/track/7CUhiFVEFhnmCoUM2NBfgs"
     },
     {
       "album": {
@@ -726,7 +766,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 189846,
       "name": "Lil\u2019 Touch",
       "url": "https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8"
@@ -784,7 +824,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 149000,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/0vFKaaqXkeaaC2iGtKRGyt"
@@ -820,7 +860,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 189677,
       "name": "Need You - solo ver.",
       "url": "https://open.spotify.com/track/4xzpDr5XZoorumaEv178Od"
@@ -874,7 +914,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 272560,
       "name": "One Day by Chance",
       "url": "https://open.spotify.com/track/3mRtsueK0vTpDbij7FXVPQ"
@@ -910,7 +950,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 166238,
       "name": "Piece Of Stars",
       "url": "https://open.spotify.com/track/7z2fpDv4PfwdtjIj1FxZGK"
@@ -1004,7 +1044,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 216000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
@@ -1080,7 +1120,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 232853,
       "name": "Roomie",
       "url": "https://open.spotify.com/track/1KH10P3M4x3ONABMhiv8B5"
@@ -1138,7 +1178,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 199469,
       "name": "Selfish Girl",
       "url": "https://open.spotify.com/track/6B1DMetKl9hr4HLojRFj1n"
@@ -1160,6 +1200,24 @@
       "duration_ms": 169566,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/2XIaetAZTyR7oQfHh8DZ2B"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/227i3W9yqy2pDOavgMVs3k"
+      },
+      "artists": [
+        {
+          "name": "Lovewave",
+          "url": "https://open.spotify.com/artist/54On25RhdQIrqHwWj3JO3T"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204277,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/6gPPFsA1cM8UPQfZydxb0K"
     },
     {
       "album": {
@@ -1272,7 +1330,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 186918,
       "name": "The Only (feat. IRENE of Red Velvet)",
       "url": "https://open.spotify.com/track/63BGyvr6NuhA0q5NimghaG"
@@ -1312,7 +1370,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 186586,
       "name": "THINK",
       "url": "https://open.spotify.com/track/7upOvB292V6qszi7M3QqD9"
@@ -1445,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217134,
+      "name": "Wisue \ud587\ube5b\ucc98\ub7fc \ube7c\uc5b4\ub09c",
+      "url": "https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE"
+    },
+    {
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
       },
@@ -1568,7 +1644,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "zZ(Tired) zZ(\ud53c\uace4\ud574) (With Yebit)",
       "url": "https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc"
@@ -1622,7 +1698,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 220745,
       "name": "\uc624\ub298\ubd80\ud130 \uc6b0\ub9ac\ub294 Me Gustas Tu",
       "url": "https://open.spotify.com/track/33dL21KeJquNsfOfacjU0q"
@@ -1640,7 +1716,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 210450,
       "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"

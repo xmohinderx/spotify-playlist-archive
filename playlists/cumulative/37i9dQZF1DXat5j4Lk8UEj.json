@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 199893,
       "name": "Blood Hunters",
       "url": "https://open.spotify.com/track/69HcvrXZ68cJKE0lreubP3"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 292307,
       "name": "Didn't He Ramble",
       "url": "https://open.spotify.com/track/6PDB3R8PZRZGnASz1E9BHE"
@@ -520,10 +520,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 257826,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/52Ckvs2feGZc9GI77kBfWq"
+    },
+    {
+      "album": {
+        "name": "Fever Pitch",
+        "url": "https://open.spotify.com/album/7KAcbEEU9MREoPJxW78cEU"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163746,
+      "name": "Fever Pitch",
+      "url": "https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP"
     },
     {
       "album": {
@@ -574,7 +592,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 270853,
       "name": "Gamble for a Rose",
       "url": "https://open.spotify.com/track/3qhyaik3Koy3cvLk9h5L8G"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 277597,
       "name": "I Am a War Machine",
       "url": "https://open.spotify.com/track/6ux5Y3UFasNu0x3jgGY2Xe"
@@ -1061,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Joni",
+        "url": "https://open.spotify.com/album/65ya5KxjHZwBDgQfGePOA9"
+      },
+      "artists": [
+        {
+          "name": "Kirby Brown",
+          "url": "https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175485,
+      "name": "Joni",
+      "url": "https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL"
+    },
+    {
+      "album": {
         "name": "Kitchen Table",
         "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 208466,
       "name": "Leave Me Empty",
       "url": "https://open.spotify.com/track/5GFrgLaLMxGWaJevimSK2E"
@@ -1198,7 +1234,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 219320,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
@@ -1252,7 +1288,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 151906,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37"
@@ -1378,7 +1414,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 240260,
       "name": "Never Makes a Sound",
       "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
@@ -1486,7 +1522,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 183786,
       "name": "Only Songs (Radio Edit)",
       "url": "https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB"
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 184500,
       "name": "Outwit the Devil",
       "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
@@ -1800,7 +1836,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 244506,
       "name": "Shattered & Hollow",
       "url": "https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW"
@@ -1890,7 +1926,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 236678,
       "name": "Statues in the Garden (Arras)",
       "url": "https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ"
@@ -2088,7 +2124,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 291920,
       "name": "The John Wayne",
       "url": "https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V"
@@ -2268,7 +2304,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 263853,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/22o2mQ9ofAQo9TpXDTiJO6"
@@ -2286,7 +2322,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 241920,
       "name": "Turn Your Love",
       "url": "https://open.spotify.com/track/3Pc3XKfkbcxvEcoirqkTyL"
@@ -2358,7 +2394,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 253573,
       "name": "Whatever, Wherever",
       "url": "https://open.spotify.com/track/2l70A11tCLtsC8fc3V4SWA"

@@ -54,7 +54,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "A Million",
       "url": "https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I"
@@ -98,7 +98,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 221600,
       "name": "After OT Bop",
       "url": "https://open.spotify.com/track/1lx47FNvLxy4adohBhod5N"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 189106,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/6BtXtwOOy9CfpdlClUscJv"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 160264,
       "name": "Baajo",
       "url": "https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 168865,
       "name": "Badman Love - Remix",
       "url": "https://open.spotify.com/track/5iRSqf87cY8ldNrPpbymRq"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
@@ -679,6 +679,32 @@
     },
     {
       "album": {
+        "name": "Comfortable (feat. Davido)",
+        "url": "https://open.spotify.com/album/4615wavxmU3iwOfhzC8FoG"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192119,
+      "name": "Comfortable (feat. Davido)",
+      "url": "https://open.spotify.com/track/0C91daZBEChlLpb8LLqojh"
+    },
+    {
+      "album": {
         "name": "Kpanlogo",
         "url": "https://open.spotify.com/album/0u2Xpx6AJj4hSzPig3msZ7"
       },
@@ -940,7 +966,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/264tFYse4A4qbgmaur6Pxd"
@@ -1288,7 +1314,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 147207,
       "name": "God's Work (feat. iLL BLU)",
       "url": "https://open.spotify.com/track/2C0pnGNygYIDJky515Riw0"
@@ -1408,7 +1434,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 151456,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/5KloByKt08LUcD2zKtARf3"
@@ -1554,7 +1580,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 328766,
       "name": "Ke Star - Remix",
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
@@ -1690,7 +1716,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 188910,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
@@ -1872,7 +1898,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 184797,
       "name": "Make Up Your Mind (feat. Tekno)",
       "url": "https://open.spotify.com/track/3LbXzCehkT8acW8FsPpPKt"
@@ -1912,7 +1938,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 173999,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/4u6JtcrqFz1kw8wTahLGbI"
@@ -1934,7 +1960,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 174421,
       "name": "Might Let You (feat. Davido)",
       "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
@@ -1974,6 +2000,28 @@
       "duration_ms": 151696,
       "name": "Mr Workerman",
       "url": "https://open.spotify.com/track/2qXRlHFxHWb8nU8H0ELdvV"
+    },
+    {
+      "album": {
+        "name": "Nigeria (feat. CallMeTheKidd)",
+        "url": "https://open.spotify.com/album/7pZja3bwaWw9ukRVAuRyLy"
+      },
+      "artists": [
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        },
+        {
+          "name": "CallMeTheKidd",
+          "url": "https://open.spotify.com/artist/1q3rVmTrPa51ofrwEfC6Kc"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157244,
+      "name": "Nigeria (feat. CallMeTheKidd)",
+      "url": "https://open.spotify.com/track/3FhIvkpWTHu4Vc7ZtSWdzb"
     },
     {
       "album": {
@@ -2058,7 +2106,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 230973,
       "name": "Nobody (Amapiano)",
       "url": "https://open.spotify.com/track/7bwMgt5a2vGunZbqfQGYSN"
@@ -2098,7 +2146,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 183092,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/6DaBr6zT7hlxNchzYVgPds"
@@ -2120,7 +2168,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 182639,
       "name": "Oreke",
       "url": "https://open.spotify.com/track/7EFnbc7UnvOyFcb6IhJq9v"
@@ -2391,6 +2439,28 @@
     },
     {
       "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/4aveS935cOYHDIGnb2RT5M"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153146,
+      "name": "Repeat (feat. Koffee)",
+      "url": "https://open.spotify.com/track/4kW3JNDqbqntaASB9lbhXV"
+    },
+    {
+      "album": {
         "name": "REQUIRE",
         "url": "https://open.spotify.com/album/1Sdrty8ZkaNRbZqjhrHKYt"
       },
@@ -2413,6 +2483,28 @@
     },
     {
       "album": {
+        "name": "Risky",
+        "url": "https://open.spotify.com/album/5xqH5tZFoMLLJL8NbmTFBu"
+      },
+      "artists": [
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270315,
+      "name": "Risky",
+      "url": "https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca"
+    },
+    {
+      "album": {
         "name": "Demos For Ransom",
         "url": "https://open.spotify.com/album/1UrDQ6U5nosuGFNilFAksU"
       },
@@ -2424,7 +2516,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 135680,
       "name": "Rumour",
       "url": "https://open.spotify.com/track/4TF0cJ1HCQzA8upuEtXsiJ"
@@ -2442,7 +2534,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 137250,
       "name": "Ryde",
       "url": "https://open.spotify.com/track/2uzwY7BBbeU9sGCp8Nhl9i"
@@ -2460,7 +2552,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 145048,
       "name": "Say Cheese",
       "url": "https://open.spotify.com/track/601WxmzITFziMCk3iuNps7"
@@ -2544,7 +2636,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 228932,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy"
@@ -2648,7 +2740,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187867,
       "name": "Smooth MF",
       "url": "https://open.spotify.com/track/4bjIb86XioJUc5wZeFtxaz"
@@ -2666,7 +2758,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 148000,
       "name": "So Lovely",
       "url": "https://open.spotify.com/track/0u3gigxw11WMwQryCLnXi2"
@@ -2714,7 +2806,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 298971,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/5CHc6Ez6Yk6s5GTlDUYViB"
@@ -2796,7 +2888,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 228681,
       "name": "Surround Me",
       "url": "https://open.spotify.com/track/12yQgyLlpnI6EweSDsxs9i"
@@ -2862,7 +2954,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 171000,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4JP3dHzz9RwACJZePm2vqL"
@@ -3014,7 +3106,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 189354,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/5Gf30Ezykm4MhgzvaPL2Ei"
@@ -3072,7 +3164,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 213373,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL"

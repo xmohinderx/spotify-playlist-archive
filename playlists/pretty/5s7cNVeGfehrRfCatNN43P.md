@@ -4,25 +4,10 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2021% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,246 likes - 16 songs - 49 min 30 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,244 likes - 1 song - 1 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 |
-| 2 | [Tears In The Club \(feat\. The Weeknd\)](https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Tears In The Club \(feat\. The Weeknd\)](https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY) | 3:16 |
-| 3 | [Vice Versa](https://open.spotify.com/track/69Hc0ZGMFjOhxnFPOpYc29) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Vice Versa](https://open.spotify.com/album/3MQhHWeO9PcFUVaHg3Q719) | 2:56 |
-| 4 | [Var dette alt](https://open.spotify.com/track/7uzMhFEl8NFLwYyzAqttM1) | [INGEBORG](https://open.spotify.com/artist/6EIfyNW2D4d6sOLWqFpxE0) | [Var dette alt](https://open.spotify.com/album/2mz54Wz85rJCT3TfAYpPz8) | 2:53 |
-| 5 | [Room \#624 \(Married 2 My Mind\)](https://open.spotify.com/track/3ZJT9YonkUgHO0wUFKgTKu) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [Room \#624 \(Married 2 My Mind\)](https://open.spotify.com/album/0o8JzGLMnjrnO0w34Kq5bu) | 3:25 |
-| 6 | [Flowers](https://open.spotify.com/track/6p2DKSuKLPvIBIHkoqBTtX) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Flowers](https://open.spotify.com/album/3FtYC7MmFKnjJoCE1aElBx) | 3:36 |
-| 7 | [Awoken The Beast](https://open.spotify.com/track/2tkdsKN8sdlqeWnHD8dCon) | [Uncle Knows](https://open.spotify.com/artist/51NqakMdtj6gpOBzlVxNhp) | [Awoken The Beast](https://open.spotify.com/album/550W5BiMIfE70FqRwYqByw) | 4:20 |
-| 8 | [Clearview](https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Clearview](https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg) | 2:44 |
-| 9 | [Innocent \(Dreaming\)](https://open.spotify.com/track/1JaNzWg4ez7WBC89YhOcUs) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Moments](https://open.spotify.com/album/4QEND2DlPX1E5HAuGC8uFy) | 3:15 |
-| 10 | [Call It Like I See It](https://open.spotify.com/track/5zpR9iel4xXiZ3HP9owOiL) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Call It Like I See It](https://open.spotify.com/album/2Wamb4m82wexz3C88JFlmy) | 3:04 |
-| 11 | [HYPER](https://open.spotify.com/track/2rhq7qDZmgfPSq1REkDGEU) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [HYPER](https://open.spotify.com/album/35jnqIA73EVmuiObRNZTL0) | 2:57 |
-| 12 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 |
-| 13 | [boyfriend \(cover\)](https://open.spotify.com/track/7io7wBHscJQPeHOrHr0gFN) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [boyfriend \(cover\)](https://open.spotify.com/album/2RW62PtBacjHBKXif8Nbhk) | 1:42 |
-| 14 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 |
-| 15 | [Squid Game \(Let's Play\)](https://open.spotify.com/track/3kewDExeHWRPVAUzYd1lTG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/44PmiYzFsLXaXSzMZaRZQc) | 2:32 |
-| 16 | [Fifty Grand for Christmas](https://open.spotify.com/track/1mse9kzyBSIjNKu9w8Havs) | [Paul Holt](https://open.spotify.com/artist/6w9kE0Jkftp3KK7J25Vm6l) | [Fifty Grand for Christmas](https://open.spotify.com/album/6OvH88aWnuiDpaNv492Jqr) | 3:10 |
+| 1 | [Santa Claus Is COVID Secure](https://open.spotify.com/track/2p0HdtkewRvETe1OFCO4wU) | [The Lancashire Hotpots](https://open.spotify.com/artist/5ac41g3jUH9rBoe6zawiaB) | [Save Christmas!](https://open.spotify.com/album/2zrPxLmYvTLuguOmHFLD94) | 1:41 |
 
-Snapshot ID: `MjE5MCwxNmY1NmMyNTcyMTZiYTdkNDJmNTQ2ZGU0Y2I5Mzc4MmNiZGM1NDhj`
+Snapshot ID: `MjE5MiwwOGEyNWIxMDUwZjZjYWFmODEyNzQwMTNiZjU3MTdiMzA4ZGQxZGI5`

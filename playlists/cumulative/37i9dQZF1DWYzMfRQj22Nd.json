@@ -96,7 +96,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 180699,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/3SS1QAGaY6x1vLknhyUfnk"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 248372,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 227013,
       "name": "Aura",
       "url": "https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 206511,
       "name": "Burner",
       "url": "https://open.spotify.com/track/0plk4OumVTDfOisDHTQlhU"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 226046,
       "name": "Change",
       "url": "https://open.spotify.com/track/71VtkrwSJ5cCz3vlTpnYza"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 323657,
       "name": "Changing Form",
       "url": "https://open.spotify.com/track/6WHA7XfZ15jNUJdb2jbPJA"
@@ -356,10 +356,36 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 184871,
       "name": "Chicane - Kumarion Remix",
       "url": "https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj"
+    },
+    {
+      "album": {
+        "name": "Only in Dreams (Remixes)",
+        "url": "https://open.spotify.com/album/3Ro9yn8d7TK563PKRHaiFE"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Rae Hall",
+          "url": "https://open.spotify.com/artist/69G7e4qLJFzTieJTO27WsI"
+        },
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Collide - Bensley Remix",
+      "url": "https://open.spotify.com/track/2DXL4PdMgc8VtoNWQIH17k"
     },
     {
       "album": {
@@ -482,7 +508,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 227657,
       "name": "Demand",
       "url": "https://open.spotify.com/track/6uL5PowSCbpgBABwfsa3ZV"
@@ -660,7 +686,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 224680,
       "name": "Fallaway",
       "url": "https://open.spotify.com/track/1eDKRyIAKtoRmrO9gJ6PFv"
@@ -952,7 +978,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -1054,7 +1080,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1zo0vyy8vdtZqNfnIwZJf9"
@@ -1076,7 +1102,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 190909,
       "name": "Holding On (feat. Leo The Kind)",
       "url": "https://open.spotify.com/track/6qa8nhtZCylZU8qBD2KzTU"
@@ -1215,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "Lakota (ft. A Little Sound)",
+        "url": "https://open.spotify.com/album/5ZYz1xgbehAIi2hHLEau5E"
+      },
+      "artists": [
+        {
+          "name": "Technimatic",
+          "url": "https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251553,
+      "name": "Lakota",
+      "url": "https://open.spotify.com/track/4KqZo6zGnp8OEbaV2dEcBS"
+    },
+    {
+      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
       },
@@ -1322,7 +1370,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 230480,
       "name": "Lonely (with Chandler Leighton) [Friction Remix]",
       "url": "https://open.spotify.com/track/6JWBrFsMLq5tAXMhahEKWy"
@@ -1534,7 +1582,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 318171,
       "name": "MONSTERS - K Motionz Remix",
       "url": "https://open.spotify.com/track/5c1trjKGPsdfInFtO4jdkQ"
@@ -1574,7 +1622,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 194882,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1QgYm6U7EX2Bhpj3BOTLHQ"
@@ -1688,7 +1736,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 192068,
       "name": "Open Up",
       "url": "https://open.spotify.com/track/2BuiY8NPxcQ0Ydmyl4WMPr"
@@ -1750,7 +1798,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 209651,
       "name": "Payback",
       "url": "https://open.spotify.com/track/0UHeE47Px036a6hiMfUd3C"
@@ -1772,7 +1820,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 295813,
       "name": "Push It To The Limit",
       "url": "https://open.spotify.com/track/7e5MkTpYHVXt8dnYeezOkd"
@@ -1790,7 +1838,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 263024,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/4lqJ4VWhsBeOxkO7yfk5MV"
@@ -1886,6 +1934,28 @@
       "duration_ms": 251034,
       "name": "Reason",
       "url": "https://open.spotify.com/track/3HuwdnLCR0mGCsTvwVFo7A"
+    },
+    {
+      "album": {
+        "name": "Ten Thousand Feet & Rising",
+        "url": "https://open.spotify.com/album/6gvdS5xw5tIgyOdj37AmzP"
+      },
+      "artists": [
+        {
+          "name": "The Prototypes",
+          "url": "https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX"
+        },
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/3BhECsg8J4eoepgo3LoGlW"
     },
     {
       "album": {
@@ -2042,7 +2112,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 275862,
       "name": "Showdown",
       "url": "https://open.spotify.com/track/7xXZJelba5ftv86noXoLby"
@@ -2078,7 +2148,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 280521,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/3mRCdhxANth4d5BJJsB4hU"
@@ -2150,7 +2220,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 259306,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/0KsjGpHgQw2kJ1YeoVggRZ"
@@ -2176,7 +2246,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 186206,
       "name": "The Step - Pola & Bryson Remix",
       "url": "https://open.spotify.com/track/4OJL3pgbQFEBS5jnv1ejqh"
@@ -2198,10 +2268,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 180790,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/14m8zaNe63k0jBzsCs1Flv"
+    },
+    {
+      "album": {
+        "name": "There and Back",
+        "url": "https://open.spotify.com/album/2B30tN0uqPernFHgIHV4SS"
+      },
+      "artists": [
+        {
+          "name": "Protostar",
+          "url": "https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232686,
+      "name": "There and Back",
+      "url": "https://open.spotify.com/track/4H3mLpYw9fgx0FHNanYLAd"
     },
     {
       "album": {
@@ -2220,7 +2308,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 353103,
       "name": "There for You - LSB Remix",
       "url": "https://open.spotify.com/track/6jLWsTbWniLvGEDSCQPin9"
@@ -2410,6 +2498,28 @@
       "duration_ms": 241379,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru"
+    },
+    {
+      "album": {
+        "name": "Write It Down (Fred V Remix)",
+        "url": "https://open.spotify.com/album/627WnQHOKDrmV9e4O3FSAa"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248751,
+      "name": "Write It Down - Fred V Remix",
+      "url": "https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI"
     },
     {
       "album": {

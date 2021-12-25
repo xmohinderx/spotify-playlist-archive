@@ -94,7 +94,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
@@ -116,7 +116,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 160877,
       "name": "Back In Time",
       "url": "https://open.spotify.com/track/7ak6KbxwwaGfkJ5B8SF6V2"
@@ -240,10 +240,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 165424,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/5oYxTKVCBNxuhgKV9HvqL8"
+    },
+    {
+      "album": {
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/1tlZtZBwxOq7VY2RK2DY38"
+      },
+      "artists": [
+        {
+          "name": "Popcorn!",
+          "url": "https://open.spotify.com/artist/2ghlJsDAq3yMB04J7AgfwJ"
+        },
+        {
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147651,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/6X8hj8WYkJzfIiJrGv2NI9"
     },
     {
       "album": {
@@ -262,7 +284,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 185413,
       "name": "Boom Boom Pow",
       "url": "https://open.spotify.com/track/4S2qrsdY4BF0T5UFQLtqoU"
@@ -376,7 +398,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 176728,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/2pDSuGsiXkxIAXYdHOy0I1"
@@ -412,7 +434,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 191250,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
@@ -438,7 +460,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 177000,
       "name": "Dance Tonight",
       "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
@@ -486,7 +508,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 157741,
       "name": "Deep",
       "url": "https://open.spotify.com/track/5LwUuEmBh8iLjHTe1iusix"
@@ -578,7 +600,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 174743,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2jLcPJdLkf2Kw5hEsAy6tZ"
@@ -724,7 +746,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 288115,
       "name": "Electronic Circus Weapon",
       "url": "https://open.spotify.com/track/1nZmRc0XrxtQtpnwp5Upki"
@@ -808,7 +830,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 189453,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1ENLs7fAW0Aij4DoABmWKm"
@@ -848,7 +870,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 201290,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/3UNoQdTjtrzJ55elzUKKXT"
@@ -948,7 +970,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 155714,
       "name": "Get in Trouble (So What) - Lilo Remix",
       "url": "https://open.spotify.com/track/0dmUBjkwsT8aQg1qlbkLso"
@@ -1014,10 +1036,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
+    },
+    {
+      "album": {
+        "name": "Hashish de blaa",
+        "url": "https://open.spotify.com/album/4g0gyRRsgt83I5myozjjeM"
+      },
+      "artists": [
+        {
+          "name": "Frej Larsson",
+          "url": "https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208840,
+      "name": "Hashish de blaa",
+      "url": "https://open.spotify.com/track/3xBwIEVxgGCjDSKMpUnwTK"
     },
     {
       "album": {
@@ -1202,7 +1242,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 144079,
       "name": "Kraken",
       "url": "https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka"
@@ -1436,7 +1476,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 124854,
       "name": "Mera E",
       "url": "https://open.spotify.com/track/3IBIfOeAb1jmiFPokguGCQ"
@@ -1476,7 +1516,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 214501,
       "name": "Midnight Runners",
       "url": "https://open.spotify.com/track/6SOzKLfNIPUFCbhYQ5vCF3"
@@ -1637,6 +1677,32 @@
     },
     {
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MARF",
+          "url": "https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7"
+        },
+        {
+          "name": "Wulf",
+          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151312,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "album": {
         "name": "One More Dance (with Alida)",
         "url": "https://open.spotify.com/album/4cf30Zg83PfkYN3pr9grhF"
       },
@@ -1674,7 +1740,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 135252,
       "name": "One Time",
       "url": "https://open.spotify.com/track/4RAfngNknMly9wKqXtUA5h"
@@ -1802,7 +1868,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 141411,
       "name": "PO PO PULL UP",
       "url": "https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp"
@@ -1886,7 +1952,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 154761,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5vD09qPYPhATeEF4GvGHVw"
@@ -1980,7 +2046,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/7MrNIhgWoKht75AxhM0QlP"
@@ -2006,7 +2072,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -2032,7 +2098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 126545,
       "name": "Ride Or Die - LIZOT Remix",
       "url": "https://open.spotify.com/track/15p0l0UpbazlOWtSfB4RyT"
@@ -2050,7 +2116,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 166948,
       "name": "Ron Weesley Is Dead",
       "url": "https://open.spotify.com/track/74iPP56k9Tur0GAIYKTn3q"
@@ -2072,7 +2138,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 155096,
       "name": "Rosa Helikopter",
       "url": "https://open.spotify.com/track/3gFZAe1VQ5GRApXr3xmGMN"
@@ -2282,7 +2348,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
@@ -2420,7 +2486,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 160685,
       "name": "Step-Grandma",
       "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
@@ -2552,7 +2618,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 177206,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6lB3F3JJGPsYvJ2ePgIjzx"
@@ -2614,7 +2680,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 161104,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2r83X34HTciGAKNkHDuGaJ"
@@ -2760,7 +2826,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 228395,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/0hvOu1yvUgbjNrzXfWVLYS"
@@ -2782,7 +2848,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Tomorrow (feat. 433)",
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"

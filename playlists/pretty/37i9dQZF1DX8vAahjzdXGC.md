@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Fireboy DML, Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,943 likes - 103 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,966 likes - 104 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 28 | [Jatuh Cinta Lagi](https://open.spotify.com/track/63rU5HdicqlTOJqFNlWtOI) | [The Potters](https://open.spotify.com/artist/4bv6jAeS0BnJPfydClwCfa) | [Jatuh Cinta Lagi](https://open.spotify.com/album/6boSSkWOQo9Zzkyo5KcfKL) | 3:26 |
 | 29 | [A Gift!](https://open.spotify.com/track/7q92TuZKxN4C2FRZuWU8yY) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [A Gift!](https://open.spotify.com/album/2bKZPf3sxgXEMMZFUUnKT5) | 3:57 |
 | 30 | [STAY](https://open.spotify.com/track/3vBwpaajHJQaqJkE7Xsv5H) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16), [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [STAY](https://open.spotify.com/album/5GNd4MdJkmm3EoZ6DjXDMI) | 3:22 |
-| 31 | [Tanpa Bayangmu](https://open.spotify.com/track/7jQV21vGcYD6acogPaYTht) | [lighthouse](https://open.spotify.com/artist/2DVh4uQED1GHWuBAvj98Br), [Veronica Anastasia Kartono](https://open.spotify.com/artist/4MgQpdU9z2btEPOQI0f4PP) | [Tanpa Bayangmu](https://open.spotify.com/album/4Mk9CnXiBHfBWujZh8sRbh) | 3:17 |
+| 31 | [Tanpa Bayangmu](https://open.spotify.com/track/7jQV21vGcYD6acogPaYTht) | [Lighthouse](https://open.spotify.com/artist/2oiwU6livgMCrRuTBR1iWz), [Veronica Anastasia Kartono](https://open.spotify.com/artist/4MgQpdU9z2btEPOQI0f4PP) | [Tanpa Bayangmu](https://open.spotify.com/album/4Mk9CnXiBHfBWujZh8sRbh) | 3:17 |
 | 32 | [Jumat dan Minggu](https://open.spotify.com/track/49RU3vmKDRns7ejRVRJdAn) | [Anarcute](https://open.spotify.com/artist/63NCM9ag1OSUy8uyl665bm) | [Jumat dan Minggu](https://open.spotify.com/album/6ZmQInEozMdeJb6uLl1P3k) | 3:15 |
 | 33 | [Kaulah Selalu Ada](https://open.spotify.com/track/1CuvlEdsbWmqijX9g837Ag) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Kaulah Selalu Ada](https://open.spotify.com/album/2KvLF56CU00Xs6tyPRwvuk) | 3:58 |
 | 34 | [JAP](https://open.spotify.com/track/4vGNmM3YY6tfkQJUGdLvot) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [JAP](https://open.spotify.com/album/7Goaf6lD37wLKc75eW58u0) | 3:02 |
@@ -100,16 +100,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 90 | [Just For You](https://open.spotify.com/track/1nfhZM0JegTK2EDK7Yxzb8) | [Dhani Saputra](https://open.spotify.com/artist/1CZa9fcJaWhjF6MiHmnEf4) | [Just For You](https://open.spotify.com/album/7alR8wRXKixExyGznlV2rw) | 4:33 |
 | 91 | [Untukmu](https://open.spotify.com/track/1mLqxQkePQcnJTBO8BIyMB) | [Rhaisya Putri](https://open.spotify.com/artist/5cGMQveKHkIigGTUe2SNqo) | [Untukmu](https://open.spotify.com/album/33xEDCIqf2xQ0LL8H11vyj) | 3:05 |
 | 92 | [Doni Salmanan](https://open.spotify.com/track/11nw1Pnjw9zoeTIpHRijlZ) | [Castle Angelo](https://open.spotify.com/artist/2WO1hR8nuUwehWoGmg3tK4) | [Doni Salmanan](https://open.spotify.com/album/5D5l2Asep37vEFk1rr0Ko8) | 3:14 |
-| 93 | [Kisah Air Mata](https://open.spotify.com/track/2cakmCaJLvSeEKcWUp4SvG) | [Merakai](https://open.spotify.com/artist/0DbzubvEWKmlCtqQmQdjWk) | [Kisah Air Mata](https://open.spotify.com/album/09CH5KzVdvRS4EZbKCUm1F) | 4:15 |
-| 94 | [Nadi](https://open.spotify.com/track/0u4hKV9Djzxx9UPM654ZXl) | [reuda](https://open.spotify.com/artist/0dpChBFo5SQcE6ISjMSm9x) | [Nadi](https://open.spotify.com/album/6t0MAXZYjdW0RLqfxZM27U) | 3:52 |
-| 95 | [Senyuman Terakhir](https://open.spotify.com/track/1He5rDneBMWXJkN5r3VRpU) | [Miko](https://open.spotify.com/artist/489DdfluuM7jWbCa2HVCEG) | [Senyuman Terakhir](https://open.spotify.com/album/4EaAeunFXlzYk1FdQ0aGGO) | 4:12 |
-| 96 | [Itu Aku](https://open.spotify.com/track/5hKN6Qoi2Lk4j2vsw0mt7c) | [Mudhofar](https://open.spotify.com/artist/4X9rmgfYitjKMHa6fnm0WK) | [Trilogi: ELEGI](https://open.spotify.com/album/7uDvqgXmEm5J6mvFtn8Gse) | 4:29 |
-| 97 | [Harap Meragu](https://open.spotify.com/track/34UhhUpU7crf8gxW58ndzT) | [Aji Santoso](https://open.spotify.com/artist/5MBZ9be5Q6i6zcQaYcfGAX) | [Harap Meragu](https://open.spotify.com/album/4gRCR72JyXAZ6DKyVl0eqt) | 4:45 |
-| 98 | [Kembali Mengulang](https://open.spotify.com/track/372dVwGOzQH3MKacBQ5St9) | [Magda Shelomita](https://open.spotify.com/artist/1SppduJfJ7SXwwPU5Zt5oh) | [Kembali Mengulang](https://open.spotify.com/album/2hkzC0a50JwWIYar1PhZOd) | 4:16 |
-| 99 | [Makan Tuh Cinta](https://open.spotify.com/track/6fnhMoCO1aXiYITGe7VsUm) | [DREAMSE7EN](https://open.spotify.com/artist/1432g5l1tyOlFsO8Uhbwdr) | [Makan Tuh Cinta](https://open.spotify.com/album/05HIDpVMNgDIji4nN8iu8l) | 4:48 |
-| 100 | [Gengsi](https://open.spotify.com/track/2tWWqOUv3csGgRAqvI9CxR) | [Randu Hesma](https://open.spotify.com/artist/2EHoTqNVTnUie8wiDXKBcV) | [Logika](https://open.spotify.com/album/4RWdeitmz3fOruUWJtQKqY) | 3:24 |
-| 101 | [Sarjana Hip Hop](https://open.spotify.com/track/6F4o14UBwhydtIOVYzTHmn) | [Epo D'Fenomeno](https://open.spotify.com/artist/0jXmoTmehtdxvfjSK4fQg7) | [Sarjana Hip Hop](https://open.spotify.com/album/3i0YwowXQC2thynyuAkG5T) | 3:12 |
-| 102 | [Stay Positive](https://open.spotify.com/track/6s8wcZG7Iq5SgoNuhCeAeT) | [Jayson U](https://open.spotify.com/artist/13JcQ0BxNGeGznz44NpWeU) | [Stay Positive](https://open.spotify.com/album/6Aklt1teMLlKMv9u1kDEp5) | 4:25 |
-| 103 | [Self Made](https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Self Made](https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl) | 2:48 |
+| 93 | [Caesar](https://open.spotify.com/track/1TRNO6LZ1FYs6rI4zRbOOZ) | [Arrovvs](https://open.spotify.com/artist/1h68IL36Se9hqqutownA1y), [Wevvss](https://open.spotify.com/artist/6zcbd2HfTX8pbqYqmXQkLI) | [War](https://open.spotify.com/album/7CUFdD3r6EjpleLT3wn0MW) | 2:34 |
+| 94 | [Kisah Air Mata](https://open.spotify.com/track/2cakmCaJLvSeEKcWUp4SvG) | [Merakai](https://open.spotify.com/artist/0DbzubvEWKmlCtqQmQdjWk) | [Kisah Air Mata](https://open.spotify.com/album/09CH5KzVdvRS4EZbKCUm1F) | 4:15 |
+| 95 | [Nadi](https://open.spotify.com/track/0u4hKV9Djzxx9UPM654ZXl) | [reuda](https://open.spotify.com/artist/0dpChBFo5SQcE6ISjMSm9x) | [Nadi](https://open.spotify.com/album/6t0MAXZYjdW0RLqfxZM27U) | 3:52 |
+| 96 | [Senyuman Terakhir](https://open.spotify.com/track/1He5rDneBMWXJkN5r3VRpU) | [Miko](https://open.spotify.com/artist/489DdfluuM7jWbCa2HVCEG) | [Senyuman Terakhir](https://open.spotify.com/album/4EaAeunFXlzYk1FdQ0aGGO) | 4:12 |
+| 97 | [Itu Aku](https://open.spotify.com/track/5hKN6Qoi2Lk4j2vsw0mt7c) | [Mudhofar](https://open.spotify.com/artist/4X9rmgfYitjKMHa6fnm0WK) | [Trilogi: ELEGI](https://open.spotify.com/album/7uDvqgXmEm5J6mvFtn8Gse) | 4:29 |
+| 98 | [Harap Meragu](https://open.spotify.com/track/34UhhUpU7crf8gxW58ndzT) | [Aji Santoso](https://open.spotify.com/artist/5MBZ9be5Q6i6zcQaYcfGAX) | [Harap Meragu](https://open.spotify.com/album/4gRCR72JyXAZ6DKyVl0eqt) | 4:45 |
+| 99 | [Kembali Mengulang](https://open.spotify.com/track/372dVwGOzQH3MKacBQ5St9) | [Magda Shelomita](https://open.spotify.com/artist/1SppduJfJ7SXwwPU5Zt5oh) | [Kembali Mengulang](https://open.spotify.com/album/2hkzC0a50JwWIYar1PhZOd) | 4:16 |
+| 100 | [Makan Tuh Cinta](https://open.spotify.com/track/6fnhMoCO1aXiYITGe7VsUm) | [DREAMSE7EN](https://open.spotify.com/artist/1432g5l1tyOlFsO8Uhbwdr) | [Makan Tuh Cinta](https://open.spotify.com/album/05HIDpVMNgDIji4nN8iu8l) | 4:48 |
+| 101 | [Gengsi](https://open.spotify.com/track/2tWWqOUv3csGgRAqvI9CxR) | [Randu Hesma](https://open.spotify.com/artist/2EHoTqNVTnUie8wiDXKBcV) | [Logika](https://open.spotify.com/album/4RWdeitmz3fOruUWJtQKqY) | 3:24 |
+| 102 | [Sarjana Hip Hop](https://open.spotify.com/track/6F4o14UBwhydtIOVYzTHmn) | [Epo D'Fenomeno](https://open.spotify.com/artist/0jXmoTmehtdxvfjSK4fQg7) | [Sarjana Hip Hop](https://open.spotify.com/album/3i0YwowXQC2thynyuAkG5T) | 3:12 |
+| 103 | [Stay Positive](https://open.spotify.com/track/6s8wcZG7Iq5SgoNuhCeAeT) | [Jayson U](https://open.spotify.com/artist/13JcQ0BxNGeGznz44NpWeU) | [Stay Positive](https://open.spotify.com/album/6Aklt1teMLlKMv9u1kDEp5) | 4:25 |
+| 104 | [Self Made](https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Self Made](https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl) | 2:48 |
 
 Snapshot ID: `MTY0MDMwMDQwMCwwMDAwMDQ4ODAwMDAwMTdkZTk4NWNlNTUwMDAwMDE3ZGU4NDhkMGFl`

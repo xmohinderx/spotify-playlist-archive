@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 250146,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA"
@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "The Nordic Mellow",
+        "url": "https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185235,
+      "name": "Blanket",
+      "url": "https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw"
+    },
+    {
+      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -236,10 +254,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227453,
       "name": "Borrowed Rooms and Old Wood Floors",
       "url": "https://open.spotify.com/track/2YAvAo9rkpgKbvP4I9ReiE"
+    },
+    {
+      "album": {
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX"
     },
     {
       "album": {
@@ -456,7 +492,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/0B0hFMSIYac3LS1z2PEsrQ"
@@ -1080,7 +1116,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 283653,
       "name": "Nimbin",
       "url": "https://open.spotify.com/track/6wHgmOZfLWmn685tDFXsX7"
@@ -1188,7 +1224,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye"
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 237316,
       "name": "September Song, pt. ii",
       "url": "https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ"
@@ -1354,7 +1390,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 241946,
       "name": "Silk (feat. Thelma Plum)",
       "url": "https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5"
@@ -1426,7 +1462,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 259213,
       "name": "Soft Line",
       "url": "https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE"
@@ -1480,7 +1516,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 149607,
       "name": "Stanley Park - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX"
@@ -1588,7 +1624,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 272755,
       "name": "The Sun Oh Yeah",
       "url": "https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9"
@@ -1646,7 +1682,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 296337,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/3cM6lOuJY6XKhmSKZIvjE1"
@@ -1682,7 +1718,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 158813,
       "name": "Trainsong",
       "url": "https://open.spotify.com/track/4pxW6L91xBeUrWygGcSHOe"

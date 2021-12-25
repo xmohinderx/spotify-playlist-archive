@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 183931,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 135710,
       "name": "Armatage Shanks",
       "url": "https://open.spotify.com/track/5gDeBhj8E0e6LwjEGGihee"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 201106,
       "name": "Can\u2019t Feel My Face",
       "url": "https://open.spotify.com/track/4dZEkHDfbTIOWaO5RP3F8e"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 200920,
       "name": "Don't Stop Me Now",
       "url": "https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 188880,
       "name": "Fake Friends (feat. Joan Jett)",
       "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 173601,
       "name": "Good As Hell",
       "url": "https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 213293,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 231771,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/05eWggqE1dGTn8HcB9GeOY"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 158450,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/1Lp4hoExThrJRXZmoeciLA"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 227108,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 232080,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/21u6zgstEm23O0P6NvVoIg"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202453,
       "name": "Los Angeles is burning",
       "url": "https://open.spotify.com/track/3FCrOGjsk0n0gpkrDxfskA"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3Hq5MiNfNTk2YNSVN2onBp"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 337946,
       "name": "Shape of my Heart",
       "url": "https://open.spotify.com/track/2TCJJKuEV1VkVi5D5Y3RKK"
@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Sometimes I Don't Mind",
+        "url": "https://open.spotify.com/album/2BI02YNYTHQci4mZgQdbtT"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185350,
+      "name": "Sometimes I Don't Mind",
+      "url": "https://open.spotify.com/track/3n2tpHjpeYISrl0GX04E3K"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/4oNC3ZIGRHUP4Jhj3szhGh"
       },
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 165857,
       "name": "Substitute",
       "url": "https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 195680,
       "name": "Sweet Transvestite",
       "url": "https://open.spotify.com/track/2wn5lK5Tf2FCvXGdkubYnu"
@@ -1638,6 +1656,24 @@
       "duration_ms": 158333,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/1OhTE6nJkf8GaVy6eAXMly"
+    },
+    {
+      "album": {
+        "name": "West Coast vs. Wessex",
+        "url": "https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187505,
+      "name": "Thatcher Fucked the Kids",
+      "url": "https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L"
     },
     {
       "album": {
@@ -1778,7 +1814,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 195967,
       "name": "Two Tickets to Paradise (2006)",
       "url": "https://open.spotify.com/track/5iEoETZwnDZKepux6rixhT"
@@ -1836,7 +1872,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 196000,
       "name": "Wake Me Up When September Ends",
       "url": "https://open.spotify.com/track/32fMYulgmRX6IxScMwQsdW"
@@ -1872,7 +1908,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 123900,
       "name": "We Are 138",
       "url": "https://open.spotify.com/track/0tT3nwP43bKnhIfK6aVIoA"
@@ -1926,7 +1962,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 207424,
       "name": "When the Angels Sing",
       "url": "https://open.spotify.com/track/1EH80N83sFOFhVRleeSoiG"
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 257614,
       "name": "White Iverson",
       "url": "https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO"
@@ -1988,7 +2024,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 267567,
       "name": "White Woman\u2019s Instagram",
       "url": "https://open.spotify.com/track/7rZWDPaEop6YlaCreDNb2T"
@@ -2082,7 +2118,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 242419,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/3wDdjLO3qkQ9CSF2nMKld7"
@@ -2118,7 +2154,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 149893,
       "name": "You're Dead / Vampire Ska",
       "url": "https://open.spotify.com/track/71ikNNbcGUjcid5nD5Q2rZ"

@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 321880,
       "name": "Backwash",
       "url": "https://open.spotify.com/track/7sMc8fqJ5ehZJtZoKXgItD"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 244000,
       "name": "BITTERSWEET",
       "url": "https://open.spotify.com/track/54zWQx9UkouSu8x403Ggho"
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "CC Funk",
+        "url": "https://open.spotify.com/album/6UknhHW0GtqknTqkGO5abn"
+      },
+      "artists": [
+        {
+          "name": "Indagroove",
+          "url": "https://open.spotify.com/artist/1ty33z8FtrNxzEcfG5GJrp"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306050,
+      "name": "CC Funk",
+      "url": "https://open.spotify.com/track/4ArX95IQu1O8GUqbxAYKKe"
+    },
+    {
+      "album": {
         "name": "Head Hunters",
         "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
@@ -366,7 +384,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 352192,
       "name": "Chili Wa Man",
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
@@ -396,7 +414,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 226500,
       "name": "Cinnamon Babka",
       "url": "https://open.spotify.com/track/0uumBUb47WpPMNovu2YfvV"
@@ -509,6 +527,24 @@
     },
     {
       "album": {
+        "name": "The Fox",
+        "url": "https://open.spotify.com/album/752MnPnpNk25IvMRpIiLh6"
+      },
+      "artists": [
+        {
+          "name": "The Filthy Six",
+          "url": "https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357480,
+      "name": "Down Frenchmen St",
+      "url": "https://open.spotify.com/track/64yrmj2YIDvn3HgPsa3KyC"
+    },
+    {
+      "album": {
         "name": "Drum Machine",
         "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
       },
@@ -520,7 +556,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 183223,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
@@ -592,7 +628,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 198966,
       "name": "Everybody's Inn",
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
@@ -690,7 +726,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 344491,
       "name": "Funky D",
       "url": "https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL"
@@ -708,7 +744,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 155429,
       "name": "Get Funked",
       "url": "https://open.spotify.com/track/38sBy1Ig1pojTtcsOpNIYN"
@@ -890,7 +926,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 127532,
       "name": "Here We Go!",
       "url": "https://open.spotify.com/track/5qC0s0cGubyzJ0NLyJ6oTS"
@@ -1234,7 +1270,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 357000,
       "name": "N.E.G.U",
       "url": "https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume"
@@ -1288,7 +1324,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 274702,
       "name": "No Idea - Instrumental",
       "url": "https://open.spotify.com/track/1Auq1tUDJtQsfIdIuHbuOE"
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 307988,
       "name": "Old Blood",
       "url": "https://open.spotify.com/track/0QQKxC3lMUpvdPsUQBvxUS"
@@ -1346,7 +1382,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 308546,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/2dXr3hdVlw1jaYaeNZR8tN"
@@ -1390,6 +1426,24 @@
       "duration_ms": 239908,
       "name": "Pick Up the Pieces",
       "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
+    },
+    {
+      "album": {
+        "name": "What Comes to Mind",
+        "url": "https://open.spotify.com/album/530KNZYoofT4NHsueeogDI"
+      },
+      "artists": [
+        {
+          "name": "The Haggis Horns",
+          "url": "https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250843,
+      "name": "Return of the Haggis",
+      "url": "https://open.spotify.com/track/2EijA4bczPGQ43cdx9qfdp"
     },
     {
       "album": {
@@ -1440,7 +1494,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 201680,
       "name": "Rubberneck",
       "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
@@ -1696,7 +1750,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 328433,
       "name": "Tej",
       "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
@@ -1772,7 +1826,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 171472,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/4xR4kE5b42b5zpqSw3i8dN"
@@ -1790,7 +1844,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 293880,
       "name": "THE CRISIS GENERATOR",
       "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
@@ -1830,7 +1884,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 210458,
       "name": "The Scarab's Quest",
       "url": "https://open.spotify.com/track/1dkfnaV3LVFH4DxADgBXsP"
@@ -1968,7 +2022,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 272533,
       "name": "Whistle Bump",
       "url": "https://open.spotify.com/track/12KsTSPgKRxekOejhNzmDZ"

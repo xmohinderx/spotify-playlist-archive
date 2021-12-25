@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 225343,
       "name": "Kan Lak Ma'aya (Feat. Umm Kulthum)",
       "url": "https://open.spotify.com/track/6EVt050wg9TQv9HpSn0Ke3"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
@@ -3945,6 +3945,28 @@
     },
     {
       "album": {
+        "name": "Tarsh",
+        "url": "https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE"
+      },
+      "artists": [
+        {
+          "name": "3enba",
+          "url": "https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ"
+        },
+        {
+          "name": "Ordne",
+          "url": "https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163201,
+      "name": "Tarsh",
+      "url": "https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl"
+    },
+    {
+      "album": {
         "name": "Tayarat",
         "url": "https://open.spotify.com/album/5fYjVjlWvYHD08pjTC2ats"
       },
@@ -4420,7 +4442,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 166227,
       "name": "\u062a\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4"
@@ -4518,7 +4540,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 257941,
       "name": "\u062f\u0648\u0631\u0643 \u062c\u064a",
       "url": "https://open.spotify.com/track/56nsR8Td7CWVCQIGjznu4L"

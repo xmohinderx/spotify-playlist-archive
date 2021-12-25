@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 250518,
       "name": "All Made Up",
       "url": "https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 376981,
       "name": "Aquaself",
       "url": "https://open.spotify.com/track/48ZxMdmUA9CK7i31wn7bbx"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "argentin",
       "url": "https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 153002,
       "name": "Blessa (Instrumental)",
       "url": "https://open.spotify.com/track/6D6HuWcYLPzlseIYMMWFJj"
@@ -380,6 +380,24 @@
       "duration_ms": 246760,
       "name": "Boy Blue",
       "url": "https://open.spotify.com/track/3YJJSXwimdwUQCwp6VJ1wG"
+    },
+    {
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/2GhCFi94vVW8aS85gLUDs0"
+      },
+      "artists": [
+        {
+          "name": "Anushka",
+          "url": "https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/7iSitBZKLKLzmXt3cESX4L"
     },
     {
       "album": {
@@ -474,7 +492,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 241368,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/1D4GkNWWjnsygYIo2PvQdm"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 186000,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/0jX4GHNCQr7Fq0GvXWuF3t"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 229542,
       "name": "Cosmos (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9"
@@ -794,10 +812,36 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 273468,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/6NV1oF6zZ5VoVpICTsOLYD"
+    },
+    {
+      "album": {
+        "name": "PLAY Remixes",
+        "url": "https://open.spotify.com/album/07G6KqjKf9mpDfaOgt1Fki"
+      },
+      "artists": [
+        {
+          "name": "ZULA",
+          "url": "https://open.spotify.com/artist/6tWqBIxAeRmld2npkzFZf3"
+        },
+        {
+          "name": "Orchi",
+          "url": "https://open.spotify.com/artist/7qvTO41sqxyr4JYQjEM3Ov"
+        },
+        {
+          "name": "Vzion",
+          "url": "https://open.spotify.com/artist/7KdScn7xmzMsG4HH5eD0tF"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Flame - Vzion & Orchi Remix",
+      "url": "https://open.spotify.com/track/5sLrA7GDesEZfAapaDYjIC"
     },
     {
       "album": {
@@ -812,10 +856,32 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 172910,
       "name": "For Keeps",
       "url": "https://open.spotify.com/track/1nPgx4Q9edLlooxkg46HrA"
+    },
+    {
+      "album": {
+        "name": "For You & I",
+        "url": "https://open.spotify.com/album/5S3BeEXXJk52SJWwUtbBiT"
+      },
+      "artists": [
+        {
+          "name": "1000 Beasts",
+          "url": "https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9"
+        },
+        {
+          "name": "Alex Tierney",
+          "url": "https://open.spotify.com/artist/7apJyJbhzj9WS3m6EQAyjx"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "For You & I",
+      "url": "https://open.spotify.com/track/5Vj7O3T5u0wHuFD99x2Rv1"
     },
     {
       "album": {
@@ -930,7 +996,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 197872,
       "name": "Give A Little - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/6QvCnbVDTKqQyyJRsnLlIS"
@@ -1014,7 +1080,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 134831,
       "name": "Gunning For Fees",
       "url": "https://open.spotify.com/track/003oYjviEtMybWtnTa0lln"
@@ -1058,7 +1124,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 246502,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/5FYaRj2WzM3CUo1091dvSl"
@@ -1098,7 +1164,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 172866,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/2UWyaEEAjiLEhrNcwiKXKY"
@@ -1120,7 +1186,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 194103,
       "name": "I Don't Wanna Lose You - Edit",
       "url": "https://open.spotify.com/track/7ErWxcxjkfmRXiL0CD08FN"
@@ -1382,7 +1448,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 291960,
       "name": "Lovely Lonely",
       "url": "https://open.spotify.com/track/78KA3kXEWMoSaDwzSwbXkb"
@@ -1425,6 +1491,28 @@
     },
     {
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/1BY0QxlWWcjHjpEVqgTnDa"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240924,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/25VKwAAJ7YLvpTJ02yNV5x"
+    },
+    {
+      "album": {
         "name": "Midnight Moods",
         "url": "https://open.spotify.com/album/7zgo8oFUtR2cVQbhDZ0o6V"
       },
@@ -1436,7 +1524,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 153290,
       "name": "Moonlit Duty",
       "url": "https://open.spotify.com/track/5PN5duvmEAumV2nuTJ3TWj"
@@ -1458,7 +1546,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 342426,
       "name": "Morley's Preference",
       "url": "https://open.spotify.com/track/68HmXDuMXYeyhEhJCrXOKe"
@@ -1498,7 +1586,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 218571,
       "name": "Mounemouma",
       "url": "https://open.spotify.com/track/7diF7X2vCFc15ee69L2YI7"
@@ -1666,7 +1754,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 247619,
       "name": "No Fuss No Fight - Radio Edit",
       "url": "https://open.spotify.com/track/6AtGyzSSN3Js4fSRPimqxK"
@@ -1790,7 +1878,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 192703,
       "name": "Raining Colours",
       "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
@@ -1808,7 +1896,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 323892,
       "name": "Rawl Aredo",
       "url": "https://open.spotify.com/track/4HOCzvFcxkCRfxHX8yDTap"
@@ -1950,7 +2038,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 171416,
       "name": "Sirens feat. KALLITECHNIS",
       "url": "https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH"
@@ -2174,7 +2262,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 253356,
       "name": "We Will Rise",
       "url": "https://open.spotify.com/track/0b5tPH5FEQbLhboKbyxOMJ"
@@ -2236,6 +2324,28 @@
       "duration_ms": 223300,
       "name": "You (1000 Beasts Remix)",
       "url": "https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs"
+    },
+    {
+      "album": {
+        "name": "You Could Be",
+        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
+      },
+      "artists": [
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218024,
+      "name": "You Could Be",
+      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdc0DUqaW3MZ"

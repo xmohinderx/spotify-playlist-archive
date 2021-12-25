@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 172066,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "C'mon Be Cool",
       "url": "https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 276182,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/6OriTtG20OxEuvsrx8Zvma"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 142184,
       "name": "Color of the Pool",
       "url": "https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 228286,
       "name": "Combat",
       "url": "https://open.spotify.com/track/2oFcg1dEGotfeeEYFrWSqD"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 192550,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/4V7NFI2JLLJcZnGgJpIYXQ"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 191281,
       "name": "Dino's",
       "url": "https://open.spotify.com/track/0TV90vpzReCSb4U6HiW0OY"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "Donuts Mind If I Do",
       "url": "https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7"
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2MF5k89uxvzaEGxxLBzPLA"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257437,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/1JZw3uFeMJoY4dJ1dAmV0K"
+    },
+    {
+      "album": {
         "name": "Feel the Pain",
         "url": "https://open.spotify.com/album/0oz8H2iVsyZhfIKz0aXQwO"
       },
@@ -846,7 +864,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 230053,
       "name": "First Prize Bravery",
       "url": "https://open.spotify.com/track/7juXOrLe6pu2Jz8EbiG67i"
@@ -864,7 +882,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 177316,
       "name": "Flood",
       "url": "https://open.spotify.com/track/2rdHpC57kfwsxuQKfaEjjQ"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 100572,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6kUtd2r6ctD3SSOjuV1Rh5"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 169257,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/7o9gedLq27PNlVLU1XkGXI"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 216026,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 184681,
       "name": "Hurt A Fly",
       "url": "https://open.spotify.com/track/0bhlfvuE2DJwxblMH3qDkF"
@@ -1235,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "Impostor",
+        "url": "https://open.spotify.com/album/5CSWA2j8rjSQoJ2y1vYQlV"
+      },
+      "artists": [
+        {
+          "name": "Miss Grit",
+          "url": "https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265835,
+      "name": "Impostor",
+      "url": "https://open.spotify.com/track/2sRnxGuNqJupVOv4DHEnsT"
+    },
+    {
+      "album": {
         "name": "Thx",
         "url": "https://open.spotify.com/album/5ftfK29sHT2Tx7Wc3NMbqR"
       },
@@ -1246,7 +1282,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 162624,
       "name": "Interstate Vision",
       "url": "https://open.spotify.com/track/333ynS8xzTSbeRxxodU33d"
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 212080,
       "name": "Mess",
       "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
@@ -1488,7 +1524,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 209837,
       "name": "Michelangelo",
       "url": "https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j"
@@ -1528,6 +1564,24 @@
       "duration_ms": 303716,
       "name": "Moonlit and Devious",
       "url": "https://open.spotify.com/track/3SeyANJZBvx3DKcSi6gVbE"
+    },
+    {
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/2HkSVEfE1lpIE616W2tWB5"
+      },
+      "artists": [
+        {
+          "name": "Kississippi",
+          "url": "https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "Moonover",
+      "url": "https://open.spotify.com/track/2oQtb6KurUSk88McsuY9Xq"
     },
     {
       "album": {
@@ -1578,7 +1632,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 161120,
       "name": "Open up the Heavens",
       "url": "https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36"
@@ -1636,7 +1690,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 203200,
       "name": "Party's Over",
       "url": "https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh"
@@ -1654,7 +1708,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 218346,
       "name": "Perfect Wife",
       "url": "https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1"
@@ -1690,7 +1744,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 226973,
       "name": "Premonitions",
       "url": "https://open.spotify.com/track/6jtey537vk6XcJm00aRBTU"
@@ -1726,7 +1780,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 179146,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5D1aJfnGGdU0WjfV2pQ9fm"
@@ -1762,7 +1816,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 186826,
       "name": "Realiti",
       "url": "https://open.spotify.com/track/7JClJ8WmR4Dz0BrwW1bwdL"
@@ -1896,7 +1950,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 185813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3METNlutAzAhnNKgzZBA1a"
@@ -1950,7 +2004,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
@@ -2066,7 +2120,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 334357,
       "name": "Sweetheart",
       "url": "https://open.spotify.com/track/4T7okh1A7MmqS7xXypO0wx"
@@ -2084,7 +2138,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 182560,
       "name": "Sword",
       "url": "https://open.spotify.com/track/6mD1KDKC3CcGAVCAwUkKl4"
@@ -2156,7 +2210,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 214305,
       "name": "The Starlight Lounge",
       "url": "https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK"
@@ -2174,7 +2228,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i"
@@ -2210,7 +2264,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 279133,
       "name": "Thumbs Again",
       "url": "https://open.spotify.com/track/7DuUnmiBp8C2bXY6V6QN0r"
@@ -2416,7 +2470,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 135840,
       "name": "Wheel",
       "url": "https://open.spotify.com/track/363AueKOQ8PWZpmSBh6bQk"

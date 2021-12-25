@@ -122,7 +122,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 183391,
       "name": "Autonomy",
       "url": "https://open.spotify.com/track/7ElgaUtGnr2HXJZSKfnhhO"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 209250,
       "name": "Crash (feat. Madalen Duke)",
       "url": "https://open.spotify.com/track/4bs9wwmLKPKomthCjggWZH"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 141349,
       "name": "Cycling",
       "url": "https://open.spotify.com/track/4ScdQLPm7fMIQml0DE08ma"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 137647,
       "name": "Dish",
       "url": "https://open.spotify.com/track/5z9Kr86slPgEzTApULjoxy"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 192729,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
@@ -754,10 +754,28 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 184545,
       "name": "Everybody You Hurt",
       "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
+    },
+    {
+      "album": {
+        "name": "Everything Everything",
+        "url": "https://open.spotify.com/album/0RbEX2dbX7A4EN9ZmyMsOD"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182578,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/4nlRlSpw3wKaggkpQ07Gik"
     },
     {
       "album": {
@@ -878,7 +896,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/6yLEplXAX0k1mbqVAeNt9Z"
@@ -900,6 +918,28 @@
       "duration_ms": 195483,
       "name": "game point",
       "url": "https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ"
+    },
+    {
+      "album": {
+        "name": "Get Closer",
+        "url": "https://open.spotify.com/album/4I3MgTn8Qods1j0HpYeqPa"
+      },
+      "artists": [
+        {
+          "name": "Sem",
+          "url": "https://open.spotify.com/artist/3MNRl7HX8LItpUynecii15"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Get Closer",
+      "url": "https://open.spotify.com/track/24NIpLql6QM8gA1fDbNvUT"
     },
     {
       "album": {
@@ -1030,7 +1070,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 153502,
       "name": "High Like This (feat. Reo Cragun)",
       "url": "https://open.spotify.com/track/1HF9IpKHAqYgU4Kl1HseaS"
@@ -1074,7 +1114,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 180000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6034K3E2tySzsHMMqZZbA0"
@@ -1234,7 +1274,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227076,
       "name": "I LUV U",
       "url": "https://open.spotify.com/track/1al8r3l7iz20WrImQUJKOI"
@@ -1274,7 +1314,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "i'm busy",
       "url": "https://open.spotify.com/track/5WMym0tnIA4jkBvyl5KmXr"
@@ -1528,7 +1568,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 224000,
       "name": "Lost Someone",
       "url": "https://open.spotify.com/track/1ay9kjKoplo5f0FBCkVkTG"
@@ -1554,6 +1594,24 @@
       "duration_ms": 138480,
       "name": "LSD",
       "url": "https://open.spotify.com/track/1AiBJB2v6Lp6BiqARZh3R5"
+    },
+    {
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/7xwefRWGLjwWKYTQsmfy3N"
+      },
+      "artists": [
+        {
+          "name": "Origami Human",
+          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215324,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/0TVxCTwrNzKUgoKYVtwTY3"
     },
     {
       "album": {
@@ -1699,6 +1757,46 @@
     },
     {
       "album": {
+        "name": "Contradictions",
+        "url": "https://open.spotify.com/album/38kXQkFEPIDzTIvXRZcEQk"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180283,
+      "name": "No Goodbyes",
+      "url": "https://open.spotify.com/track/6ljsHgDtZkaiMPBw8GXQMY"
+    },
+    {
+      "album": {
+        "name": "no place i'd rather be",
+        "url": "https://open.spotify.com/album/215sJkVSyodpuPd3TgVnqs"
+      },
+      "artists": [
+        {
+          "name": "clear eyes",
+          "url": "https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218168,
+      "name": "no place i'd rather be",
+      "url": "https://open.spotify.com/track/0Yt14hEqtPj9r0sYmtLiq9"
+    },
+    {
+      "album": {
         "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/4v7TAHvOlgbPlwojDlcyi3"
       },
@@ -1732,7 +1830,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 232156,
       "name": "only way out",
       "url": "https://open.spotify.com/track/1JZK4g9p89N6sACbG6V0a8"
@@ -1830,7 +1928,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 133869,
       "name": "phase runner",
       "url": "https://open.spotify.com/track/2YRiBfcLXbGGuxFE2Xyvsp"
@@ -1870,7 +1968,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 391218,
       "name": "Polar Concept",
       "url": "https://open.spotify.com/track/2wvzaSq1yvCA4zsBNPcROH"
@@ -2066,7 +2164,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 182400,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/7xONxR36tlMANx4jy2Take"
@@ -2128,7 +2226,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 215384,
       "name": "Run In A Dream (Tails Remix)",
       "url": "https://open.spotify.com/track/4Y6UXcqLYfYkt6Zk82XZFy"
@@ -2212,6 +2310,32 @@
       "duration_ms": 231272,
       "name": "Sensations - Whethan Remix",
       "url": "https://open.spotify.com/track/3Rhbpb5OUI4BbK580AUpew"
+    },
+    {
+      "album": {
+        "name": "Shadow (feat. Calivania)",
+        "url": "https://open.spotify.com/album/3dA7AcTrAWTcaKSUS3r75L"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        },
+        {
+          "name": "Calivania",
+          "url": "https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Shadow (feat. Calivania)",
+      "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
     },
     {
       "album": {
@@ -2482,7 +2606,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 230045,
       "name": "Subterfuge",
       "url": "https://open.spotify.com/track/6UTPwvV7k4Lmscca3tJxuE"
@@ -2606,7 +2730,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 210266,
       "name": "The Gallery",
       "url": "https://open.spotify.com/track/709Id9rqQlqUKubz0dCN7S"
@@ -2624,7 +2748,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 214110,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5FjMM1DCJ5q8HOqRlOVId4"
@@ -2650,7 +2774,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 172413,
       "name": "tic tac toe",
       "url": "https://open.spotify.com/track/0ObiilKtl2cNkpiSscSVP6"
@@ -2686,7 +2810,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 154590,
       "name": "TURN IT DOWN",
       "url": "https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i"
@@ -2708,7 +2832,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 177103,
       "name": "Under the Same Stars - Sweater Beats Remix",
       "url": "https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF"
@@ -2752,7 +2876,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 232004,
       "name": "Vendetta For Cupid",
       "url": "https://open.spotify.com/track/1ZYw2g4nkNIFsysyEZxLgP"
@@ -2770,7 +2894,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 209299,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
@@ -2840,7 +2964,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 179863,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6h6hx5Xe6mWiWYWq5pbGBc"
@@ -3041,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/29bhKQU4hVbcED0qMVyTGR"
+      },
+      "artists": [
+        {
+          "name": "Kislaw",
+          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150810,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6ndFWbDp7AXBBTRCLNrbdn"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/7Bt2Pr93eamhyHWFMvbmKw"
       },
@@ -3092,7 +3234,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 269692,
       "name": "\u200emelodies \u200efrom \u200eheaven",
       "url": "https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F"

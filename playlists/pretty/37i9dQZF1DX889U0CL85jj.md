@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,262,396 likes - 222 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,262,793 likes - 222 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 221 | [angels \(emily\)](https://open.spotify.com/track/4CwgOt8rqXn4t9wOQB6Lej) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [angels \(emily\)](https://open.spotify.com/album/33RyzgCDN8X2JhPVolscRw) | 2:49 |
 | 222 | [Comfortable \(feat\. Hand Habits\)](https://open.spotify.com/track/43U3PxxpEJGNs7BCAn8oTS) | [Quarter\-Life Crisis](https://open.spotify.com/artist/3qnQaCIYlxiFNyd4oIwuKW), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Comfortable](https://open.spotify.com/album/51b0cORlSI2dJzC5P33a2k) | 2:39 |
 
-Snapshot ID: `MTYzNzc3MTQwNCwwMDAwMDE3ZjAwMDAwMTdkNTJjODY0M2EwMDAwMDE3MTA5YzRjYzQx`
+Snapshot ID: `MTY0MDMzODYwOSwwMDAwMDE4MjAwMDAwMTdkZWJjY2QzZGUwMDAwMDE3MTA5YzRjYzQx`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(I'm After) Your Best Interest",
+        "url": "https://open.spotify.com/album/4B0dKoT3UPiDt1Tilty7iq"
+      },
+      "artists": [
+        {
+          "name": "EXEK",
+          "url": "https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310333,
+      "name": "(I'm After) Your Best Interest",
+      "url": "https://open.spotify.com/track/10eluaaWYxHtxbmaEgOGby"
+    },
+    {
+      "album": {
         "name": "A Hymn",
         "url": "https://open.spotify.com/album/4tZqfOZ16FqkgFwQ4syP0z"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 194693,
       "name": "Almost Had to Start a Fight/In and Out of Patience",
       "url": "https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 220253,
       "name": "Body Crash",
       "url": "https://open.spotify.com/track/5XsJi5tEp7kSqhcMm7z5gq"
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 481813,
       "name": "Broke",
       "url": "https://open.spotify.com/track/7tNoESflewtLqMdvgUuE3e"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 216680,
       "name": "Chaos Space Marine",
       "url": "https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 214106,
       "name": "Concrete",
       "url": "https://open.spotify.com/track/6X7H3JTAUGAL1rSwohnPBX"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 226973,
       "name": "Courtesy Call",
       "url": "https://open.spotify.com/track/3abS9KDClZlCFY7n1g5HEZ"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 245089,
       "name": "Crow's Perch",
       "url": "https://open.spotify.com/track/5Jy5UwbZvQ7kHFOPXScnvE"
@@ -394,7 +412,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 264436,
       "name": "Daily Routine",
       "url": "https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 173000,
       "name": "Detainer Man",
       "url": "https://open.spotify.com/track/7fMaXnJ5ENukSySob1d07z"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 146978,
       "name": "Don't Cling To Life",
       "url": "https://open.spotify.com/track/0KWnYZSO5GAzCJrgr4oGNr"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 331693,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 222840,
       "name": "Four Wheel Drive",
       "url": "https://open.spotify.com/track/17TtXWJsfYiRy3FUvdJWAT"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 248915,
       "name": "Fruit",
       "url": "https://open.spotify.com/track/0cd8BhLPz3ZyJSkfuD4bN1"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 157199,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 175800,
       "name": "Homo Sapien",
       "url": "https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
@@ -812,7 +830,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 206933,
       "name": "Hypnotiser Keeps the Ball Rolling",
       "url": "https://open.spotify.com/track/1gwv8PNoS7XjH6pTm9jgX4"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 313720,
       "name": "John L",
       "url": "https://open.spotify.com/track/2qm9mgnZbLX1l7mbxmgzLt"
@@ -891,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Collector",
+        "url": "https://open.spotify.com/album/1sIOFZNoxnybef3xu0n00M"
+      },
+      "artists": [
+        {
+          "name": "Disq",
+          "url": "https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191961,
+      "name": "Konichiwa Internet",
+      "url": "https://open.spotify.com/track/1ECfCMGO2AO8kfWvm9OfrY"
+    },
+    {
+      "album": {
         "name": "Last Breath",
         "url": "https://open.spotify.com/album/2O5SlD3mS0wiUtMkHdWd5B"
       },
@@ -906,6 +942,24 @@
       "duration_ms": 179055,
       "name": "Last Breath",
       "url": "https://open.spotify.com/track/1ZMsAnynOVdPV4JXIDhfYu"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/0ChQSvv5Af1BJhm8tQ7Aeu"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153414,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4r7cKo2Lp5sD6VcK1Gu3r4"
     },
     {
       "album": {
@@ -938,7 +992,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 321506,
       "name": "Male Bonding",
       "url": "https://open.spotify.com/track/3Mef8dlql8ngrKhOt7IAoZ"
@@ -992,7 +1046,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 202000,
       "name": "Modern Job",
       "url": "https://open.spotify.com/track/0Bz4RD9u6sEJT29N7b4iRy"
@@ -1014,7 +1068,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 272500,
       "name": "Narrator - Edit",
       "url": "https://open.spotify.com/track/0kU1dKmPqpSjHBMQ0lU9z1"
@@ -1036,6 +1090,24 @@
       "duration_ms": 238123,
       "name": "Neighbours",
       "url": "https://open.spotify.com/track/4zjBwjFMeZ5sYruyInDDIE"
+    },
+    {
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/2NpsLV2GA5adOaKHu80xGh"
+      },
+      "artists": [
+        {
+          "name": "Egyptian Blue",
+          "url": "https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203028,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/5S20zPPPfh0gQYYYaQQJUB"
     },
     {
       "album": {
@@ -1086,7 +1158,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 177120,
       "name": "Nite Expo",
       "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
@@ -1122,7 +1194,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 223067,
       "name": "NOTICE OF FORECLOSURE",
       "url": "https://open.spotify.com/track/2PCnHuNdckPK468Y3Gkm3a"
@@ -1158,7 +1230,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 375626,
       "name": "Paddling",
       "url": "https://open.spotify.com/track/1pftKU2VwJglYdQPYaFFMI"
@@ -1230,7 +1302,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 305899,
       "name": "Processed By The Boys",
       "url": "https://open.spotify.com/track/5iOgwvHcgvW7EMaMDt79aT"
@@ -1248,7 +1320,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 209000,
       "name": "Queen Sophie for President",
       "url": "https://open.spotify.com/track/3cJK07DfDHv3dLqRETQdNm"
@@ -1266,7 +1338,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 108444,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/0u2kTKd00Jk9UEbn9CxrYj"
@@ -1284,7 +1356,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
@@ -1313,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Uppers",
+        "url": "https://open.spotify.com/album/42tqnrA3ZlajJn29eE2Qqg"
+      },
+      "artists": [
+        {
+          "name": "TV Priest",
+          "url": "https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426057,
+      "name": "Saintless",
+      "url": "https://open.spotify.com/track/3Dq8NtMPkJAHTZs1BQZ5jL"
+    },
+    {
+      "album": {
         "name": "The Coldest Fire",
         "url": "https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW"
       },
@@ -1324,7 +1414,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 232484,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY"
@@ -1360,7 +1450,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Sekwar",
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
@@ -1432,7 +1522,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 223106,
       "name": "Sit Down Meal",
       "url": "https://open.spotify.com/track/2TXt5g2SyO4ZPNcJnVVeCh"
@@ -1526,7 +1616,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 162448,
       "name": "Southbound Station",
       "url": "https://open.spotify.com/track/2XJRjW5xk9SluEBqsjuBK6"
@@ -1598,7 +1688,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Stoned Again - Live",
       "url": "https://open.spotify.com/track/1fwPnO7m3MdoOCYQg7iM4N"
@@ -1692,7 +1782,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 198600,
       "name": "Taking Us Back",
       "url": "https://open.spotify.com/track/7CBcqtcPbO3L9jHzAXgq5x"
@@ -1746,7 +1836,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 310174,
       "name": "The Dial",
       "url": "https://open.spotify.com/track/55AP1tUevnOiiyffOQYeDB"
@@ -1764,7 +1854,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 235306,
       "name": "The Hype",
       "url": "https://open.spotify.com/track/7zgfVkrjf2B9qWE1CUaXyr"
@@ -1782,7 +1872,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 277826,
       "name": "The Spy Who Came In from the Cold",
       "url": "https://open.spotify.com/track/4ZnnSuZ3iZ0YpuSJ7SkSX1"
@@ -1872,7 +1962,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 197192,
       "name": "To the Door",
       "url": "https://open.spotify.com/track/7g2lJm34prT5NF7FeQIfRQ"
@@ -1966,7 +2056,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 234560,
       "name": "Uber Alles",
       "url": "https://open.spotify.com/track/3gQpvTd6fWeAT5RuqgTwei"
@@ -1988,6 +2078,24 @@
       "duration_ms": 184241,
       "name": "Under Control",
       "url": "https://open.spotify.com/track/0171LDd84HFEbAQlf034jz"
+    },
+    {
+      "album": {
+        "name": "Unsmart Lady",
+        "url": "https://open.spotify.com/album/7n7PakgHzZGYxBLdB05cTw"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "Unsmart Lady",
+      "url": "https://open.spotify.com/track/1D9OstlmYwAZx1PwJaxEkD"
     },
     {
       "album": {
@@ -2042,7 +2150,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 248267,
       "name": "Who's My Eugene? - Edit",
       "url": "https://open.spotify.com/track/5JqeO2yMJNmdgk2B7HPy9i"

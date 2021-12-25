@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 185139,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/74OJcb0urbXBKWVkGd4hxg"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "B\u00f3 m\u00f9",
       "url": "https://open.spotify.com/track/4UVPRsqHVlIebCbifU26V6"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 185538,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/3CMwVMznjJKjWVFLayfHoW"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 289979,
       "name": "Deep Feelings",
       "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 231724,
       "name": "Drops Of Dreams",
       "url": "https://open.spotify.com/track/1JNb8r32zZkhfoLPzDWfYM"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 214945,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z"
@@ -582,6 +582,24 @@
       "duration_ms": 300689,
       "name": "Heaven Is All Around",
       "url": "https://open.spotify.com/track/5HTnCJao55OjbrO2lPIOAM"
+    },
+    {
+      "album": {
+        "name": "Herds Of Joys",
+        "url": "https://open.spotify.com/album/09PeLqiIqQAGHXru5qOguD"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gold",
+          "url": "https://open.spotify.com/artist/5cizXuYhbvzWQGHqqU7yQX"
+        }
+      ],
+      "date_added": "2021-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214090,
+      "name": "Herds Of Joys",
+      "url": "https://open.spotify.com/track/2l7igZmtOhDYv3bdKm7Ynq"
     },
     {
       "album": {
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 299220,
       "name": "Moments Of A Dream",
       "url": "https://open.spotify.com/track/7oEJzwoxETOxypcgJWPCLV"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 277894,
       "name": "Never Let Me Go - Chill Version",
       "url": "https://open.spotify.com/track/07zMzbryNCeY7NDK6xbOWD"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 270344,
       "name": "Nocturne No 20 - Chill With Me Mix",
       "url": "https://open.spotify.com/track/2cGPrSLattyj0N1FToPcmz"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 341960,
       "name": "Open Me Slowly",
       "url": "https://open.spotify.com/track/1DDXDrp9MHoL5rESiyyrLi"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/33iouj5bpuoi0tQBgpm3EP"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 286820,
       "name": "Solitary Fields",
       "url": "https://open.spotify.com/track/782tgZqcyFOMpHKV7aUb2X"
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 203596,
       "name": "Sunday 9.PM",
       "url": "https://open.spotify.com/track/7A78RZz9w3LPg6HW1oDz7q"
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 250416,
       "name": "Times Square 6 AM",
       "url": "https://open.spotify.com/track/0uDSrKJQSzdaYFDkh502yE"
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 202290,
       "name": "You - Spa/Relax",
       "url": "https://open.spotify.com/track/5gFDZ3ICCRjVq5gtcVXzkt"

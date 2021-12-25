@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 124853,
       "name": "All My Tears",
       "url": "https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 244110,
       "name": "An Honest Man",
       "url": "https://open.spotify.com/track/37C9PC2PjE2oURNjOyzof4"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 199278,
       "name": "At Night",
       "url": "https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 184466,
       "name": "Barley",
       "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 457666,
       "name": "Blackland Farmer",
       "url": "https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 108361,
       "name": "Dime in My Pocket",
       "url": "https://open.spotify.com/track/390taocGJx2gn52h8MrCNh"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 346333,
       "name": "Filthy Dirty South",
       "url": "https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 190946,
       "name": "Get What You Give",
       "url": "https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 190053,
       "name": "No Way Out But Down",
       "url": "https://open.spotify.com/track/4QWnQIa20uqK8uR5RVSRoh"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 193866,
       "name": "O Death (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
@@ -1497,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "All Them Ghosts",
+        "url": "https://open.spotify.com/album/7quE2JWRWS00ZcSsy8jAOB"
+      },
+      "artists": [
+        {
+          "name": "Pauline Andr\u00e8s",
+          "url": "https://open.spotify.com/artist/0CHV7SrZP8o2nVtg8GCaOk"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233023,
+      "name": "Patsy Cline",
+      "url": "https://open.spotify.com/track/1veg6mSKzCg1TFD1vwpUij"
+    },
+    {
+      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 199240,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 192586,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 240813,
       "name": "Scavenger Hunt",
       "url": "https://open.spotify.com/track/5IrrRSLUoUsEjEKjQAyWVb"
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 183986,
       "name": "Sweet Breath",
       "url": "https://open.spotify.com/track/0j6DlCKhJgJNmwIUoTvgAr"
@@ -1934,7 +1952,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 243533,
       "name": "The River's Will",
       "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 224053,
       "name": "Too Old to Die Young",
       "url": "https://open.spotify.com/track/3B9CVXsyyFRVQwCPYbhS9m"

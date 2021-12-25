@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 218474,
       "name": "Ah-Choo",
       "url": "https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 230377,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/46TStqCoE5i72Tt9KKwKfc"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 217066,
       "name": "BUTTERFLY",
       "url": "https://open.spotify.com/track/33PStuI2gJCeZcYQIOHXAU"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 217320,
       "name": "Chi Mat Ba Ram",
       "url": "https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 216937,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/1DS38HjEoXLWnPeIoyI2X9"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 216720,
       "name": "Come to me",
       "url": "https://open.spotify.com/track/4CHmF2PI3RANWv15qkyKdB"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 222098,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/6BMb5LbcfRAiiHl9PyLdcb"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 208053,
       "name": "Dumhdurum",
       "url": "https://open.spotify.com/track/2ljLbFotsy2hFxAkjpsfbb"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 203482,
       "name": "Glass Bead",
       "url": "https://open.spotify.com/track/2rFRa1eJ8RqlINbJCZwdtt"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 224160,
       "name": "I don't Know",
       "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 218093,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/6WhZjnG6CTfE1J9f7vZ8sk"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 199966,
       "name": "LOVE BOMB",
       "url": "https://open.spotify.com/track/6FoI3qwCRq0el1RYKeVGSx"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 222451,
       "name": "Love Bug",
       "url": "https://open.spotify.com/track/5KnXbmxjbmXiuSmMclGOIi"
@@ -934,10 +934,28 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 211972,
       "name": "LOVE WHISPER",
       "url": "https://open.spotify.com/track/1xwnvVY9gHdo69PuGQkG1U"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/70SUj1ZtGPnWyL72iQhTyC"
+      },
+      "artists": [
+        {
+          "name": "Song Ji Eun",
+          "url": "https://open.spotify.com/artist/0D40an6y5Cv6sRzMGsRRQ8"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "MIL (Make it love)",
+      "url": "https://open.spotify.com/track/1rraEPDPhjZT3SEIM0hFAY"
     },
     {
       "album": {
@@ -977,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Would You Like?",
+        "url": "https://open.spotify.com/album/6gG7BZRwAx9Z8aBXoKND5N"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222525,
+      "name": "MoMoMo",
+      "url": "https://open.spotify.com/track/6x8F0VYPwgT0R0ogdp2vCS"
+    },
+    {
+      "album": {
         "name": "MORE & MORE",
         "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
       },
@@ -1006,7 +1042,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 214750,
       "name": "Mr. Chu",
       "url": "https://open.spotify.com/track/61NMqZzdUmRHw1KdS1honh"
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 183746,
       "name": "NINETEEN",
       "url": "https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN"
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "Obliviate",
       "url": "https://open.spotify.com/track/4cyVnu1W88UuIdNusX8D1A"
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 214440,
       "name": "PROMISE (for UNICEF Promise Campaign)",
       "url": "https://open.spotify.com/track/2Gceplet3jzhweUib54mhf"
@@ -1334,7 +1370,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 209104,
       "name": "Rough",
       "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 244022,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191"
@@ -1464,6 +1500,24 @@
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "album": {
+        "name": "SUMMER DREAM",
+        "url": "https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ"
+      },
+      "artists": [
+        {
+          "name": "ELRIS",
+          "url": "https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189017,
+      "name": "Summer Dream",
+      "url": "https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx"
     },
     {
       "album": {
@@ -1622,7 +1676,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 179763,
       "name": "Tiki-Taka(99%)",
       "url": "https://open.spotify.com/track/2gLAfzOB7angHctZ0IQAtu"
@@ -1676,7 +1730,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 212990,
       "name": "TT",
       "url": "https://open.spotify.com/track/4ACeAntCpOxVeIcivmqG4S"
@@ -1756,6 +1810,24 @@
       "duration_ms": 208773,
       "name": "Warning (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU"
+    },
+    {
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182558,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/1Hy0XSHNBojwZhkwCLGXQ1"
     },
     {
       "album": {
@@ -1885,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "YOLO",
+        "url": "https://open.spotify.com/album/0pk8DIavA3eNBCZXCpPpv5"
+      },
+      "artists": [
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Will you go out with me",
+      "url": "https://open.spotify.com/track/3CxFmlsOtbFuv7w4YE2OND"
+    },
+    {
+      "album": {
         "name": "GFRIEND Summer Mini Album 'Sunny Summer'",
         "url": "https://open.spotify.com/album/65HAyK45TFC2MJSufJwzji"
       },
@@ -1914,10 +2004,28 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 237685,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"
+    },
+    {
+      "album": {
+        "name": "line",
+        "url": "https://open.spotify.com/album/0JTo1wOJtMlFnDaa1SZozo"
+      },
+      "artists": [
+        {
+          "name": "UNI.T",
+          "url": "https://open.spotify.com/artist/3iui2F01zrPbNx91td4LJZ"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199060,
+      "name": "You&I",
+      "url": "https://open.spotify.com/track/2QiWUA1Jk1QZ2aYH87dfrC"
     },
     {
       "album": {

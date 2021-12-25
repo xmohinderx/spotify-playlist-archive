@@ -142,7 +142,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 427480,
       "name": "Blue Monday ('88) - 12\" Version",
       "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 265600,
       "name": "Club Tropicana",
       "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 473893,
       "name": "Doctor! Doctor! (12\" Extended Mix) - Extended Version",
       "url": "https://open.spotify.com/track/2baOM44WjfFGKTC1PecnDS"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 493666,
       "name": "D\u00e9senchant\u00e9e - Remix Club",
       "url": "https://open.spotify.com/track/4Od7lFa9aSInsfUjYUxrCd"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 401813,
       "name": "Every 1's a Winner - 12\" Version",
       "url": "https://open.spotify.com/track/6Y47nQx3KqO6F1nLdfedio"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 441200,
       "name": "Everything Counts (In Larger Amounts)",
       "url": "https://open.spotify.com/track/1HsP7cSDdA02sIxKCOJ4zG"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 386760,
       "name": "Hit That Perfect Beat - 12\" Version",
       "url": "https://open.spotify.com/track/1HFNDhBDyzxXQIijaCSxHE"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 369266,
       "name": "Hypnotic Tango - Original 12\" Version",
       "url": "https://open.spotify.com/track/22Nr8FO0EFLbMSCpBoYBl6"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 495186,
       "name": "I Feel Love - 12\" Version",
       "url": "https://open.spotify.com/track/2d6qTH3HKGwn75lpRtaEA1"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 348466,
       "name": "I Feel Love /Johnny Remember Me",
       "url": "https://open.spotify.com/track/6RXoP81io4PDxQx81so7Xs"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 233824,
       "name": "Kiss Me (1985)",
       "url": "https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 471240,
       "name": "Lessons In Love - Shep Pettibone Remix",
       "url": "https://open.spotify.com/track/33nqNlihX3zb9RUk20b06f"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 427213,
       "name": "Love Will Conquer All - 12\" Version",
       "url": "https://open.spotify.com/track/04Q8Mw1m0YR2ZMgR30Gh3r"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 488146,
       "name": "Loverboy - Extended Mix",
       "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422693,
+      "name": "Owner of a Lonely Heart - Extended Remix",
+      "url": "https://open.spotify.com/track/65oXAEPde2ARDKkg9A13gZ"
+    },
+    {
+      "album": {
         "name": "The Hurting",
         "url": "https://open.spotify.com/album/3lP0Pu6a0jUWGPM83XYPip"
       },
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 203160,
       "name": "Poison Arrow",
       "url": "https://open.spotify.com/track/6FctVqTg08QcA8I3DPb8zz"
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 400520,
       "name": "Raspberry Beret - Extended 12\" Version",
       "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 536706,
       "name": "Say Hello, Wave Goodbye - Extended Version",
       "url": "https://open.spotify.com/track/65VecWWPnXspZRuy7Bafz3"
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 346626,
       "name": "Situation (US 12 Inch Mix)",
       "url": "https://open.spotify.com/track/3Ac5PgwByH0Ptr3hnqbKAz"
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 265013,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/3MgkCOLLBFvWjUr2fQ16jq"
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 421026,
       "name": "Such a Shame - Extended Mix; 2003 Remaster",
       "url": "https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 395266,
       "name": "Sussudio - Extended Remix",
       "url": "https://open.spotify.com/track/4eZxIWW9JcaKo0xcKegItn"
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 534693,
       "name": "Tainted Love / Where Did Our Love Go - Extended Version / Medley",
       "url": "https://open.spotify.com/track/0ycfB6M8iIDQvVMq9uKMDs"
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 298160,
       "name": "Vienna - 2008 Remastered Version",
       "url": "https://open.spotify.com/track/4a8FQmchPNHwrVTSRQVXtw"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 501333,
       "name": "Vogue - 12\" Version",
       "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
@@ -1906,10 +1924,28 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 309280,
       "name": "Welcome to the Pleasuredome - Escape Act Video Mix",
       "url": "https://open.spotify.com/track/023kVtcAbapTmnF6y02gua"
+    },
+    {
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543506,
+      "name": "West End Girls - Disco Mix",
+      "url": "https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt"
     },
     {
       "album": {
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 220880,
       "name": "You Sexy Thing - Remix",
       "url": "https://open.spotify.com/track/0yIX2IepFAoSPbS8gk0jpY"

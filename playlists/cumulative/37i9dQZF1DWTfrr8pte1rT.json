@@ -46,7 +46,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 148112,
       "name": "All In My Head (feat. grandson)",
       "url": "https://open.spotify.com/track/0fgOMdk0vVlIcOlqZtg6cx"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 293274,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3NGouqhbWEjkKJFqNTFBhM"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 239873,
       "name": "Dynamo",
       "url": "https://open.spotify.com/track/7A0T48jL3L6IjqUDku4QWc"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 189479,
       "name": "England Screams",
       "url": "https://open.spotify.com/track/21XAGAUNCh1INwlr98XjBu"
@@ -1204,10 +1204,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
+    },
+    {
+      "album": {
+        "name": "Prock House",
+        "url": "https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "ALOTT",
+          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "I'm Losing Myself",
+      "url": "https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS"
     },
     {
       "album": {
@@ -1248,7 +1270,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 219007,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/5XyP3oBFkJPOUpdsyNnkJD"
@@ -1326,7 +1348,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 288196,
       "name": "LA Never Says Goodbye (feat. Kyle Pavone)",
       "url": "https://open.spotify.com/track/654nQX5qMDEfIQQhJGW4y4"
@@ -1558,7 +1580,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 148809,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/4zm4IBGGTHZZK9jrkcPjyA"
@@ -1642,7 +1664,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 270545,
       "name": "My Head",
       "url": "https://open.spotify.com/track/4cvQl9lwZV9RkekUBdoYsY"
@@ -2070,7 +2092,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 185379,
       "name": "Ready For War (feat. Joe Buras of Born Of Osiris)",
       "url": "https://open.spotify.com/track/1lYXxGp7yHS4mTweHvmVtE"
@@ -2140,7 +2162,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 237203,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/35rozLoS6QLE8HX8qswM3k"
@@ -2290,7 +2312,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 221937,
       "name": "Searching For Nothing",
       "url": "https://open.spotify.com/track/6YSVt64BHDRcgXtPybnbj5"
@@ -2506,7 +2528,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 151500,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"

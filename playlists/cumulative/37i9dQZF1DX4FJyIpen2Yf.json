@@ -300,7 +300,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 143880,
       "name": "CIVIL WAR - Bonus",
       "url": "https://open.spotify.com/track/5tmu5pAFHkUSl8Fo8ncyA4"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 181653,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/0axytamcq1Gd4qZD5xlDR9"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 256613,
       "name": "Egyptian Luvr (feat. Amin\u00e9 and Dana Williams)",
       "url": "https://open.spotify.com/track/4uToWVHXLtKEEboNsG3n2u"
@@ -479,6 +479,36 @@
     },
     {
       "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/6MGLjgaBfHSsWl1A06mW4j"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261026,
+      "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+      "url": "https://open.spotify.com/track/3LsKaCwIuiWcPxTOSZApmE"
+    },
+    {
+      "album": {
         "name": "Death Race For Love",
         "url": "https://open.spotify.com/album/1GYVNOzwhx1nMcIJDogSNp"
       },
@@ -490,7 +520,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 208517,
       "name": "Fast",
       "url": "https://open.spotify.com/track/6MjNilJCVKJq0LfFvo5jWJ"
@@ -548,7 +578,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 298026,
       "name": "GLOWED UP",
       "url": "https://open.spotify.com/track/33pDmPx2pkJ7JCAQpRDQ9B"
@@ -614,7 +644,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 210200,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
@@ -790,7 +820,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 178216,
       "name": "Moana",
       "url": "https://open.spotify.com/track/7ANlBL6oL7J9gs03prsv7J"
@@ -1088,7 +1118,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 238386,
       "name": "Surfin'",
       "url": "https://open.spotify.com/track/3f2k8op0nWDoZM4pXim6wG"
@@ -1110,7 +1140,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-25",
       "duration_ms": 224769,
       "name": "That's Mine (feat. Ledri Vula)",
       "url": "https://open.spotify.com/track/0L9HbWCQCbuo3OhNjffrxn"

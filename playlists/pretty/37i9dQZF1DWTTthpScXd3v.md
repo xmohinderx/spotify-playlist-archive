@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTthpScXd3v.md) - [plain]
 
 > One of the greatest of all time, in 72 songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,550 likes - 72 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,764 likes - 72 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
