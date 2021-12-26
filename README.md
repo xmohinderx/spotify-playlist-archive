@@ -869,7 +869,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Out Now](/playlists/pretty/37i9dQZF1DX3LyU0mhfqgP.md)
 - [Out The Mud](/playlists/pretty/37i9dQZF1DXaxIqwkEGFEh.md)
 - [park hangs](/playlists/pretty/37i9dQZF1DWSP55jZj2ES3.md)
-- [Party Hits](/playlists/pretty/37i9dQZF1DXa2PvUpywmrr.md)
+- [Party Hits: NYE 2022](/playlists/pretty/37i9dQZF1DXa2PvUpywmrr.md)
 - [Peace & Love 2012](/playlists/pretty/7DcfXNVB5WpzYwCkqBaVDx.md)
 - [Peace & Love 2013](/playlists/pretty/5Q9dGaDLzwijaWkI4yFfSk.md)
 - [Peace](/playlists/pretty/37i9dQZF1DXdCsscAsbRNz.md)

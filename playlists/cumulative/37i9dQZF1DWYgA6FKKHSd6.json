@@ -113,6 +113,36 @@
     },
     {
       "album": {
+        "name": "Dave Koz and Friends Summer Horns (feat. Gerald Albright, Mindi Abair, Richard Elliot)",
+        "url": "https://open.spotify.com/album/5vVBeULlTQWuesZgpILgy0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        },
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        },
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "date_added": "2021-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "Always There",
+      "url": "https://open.spotify.com/track/5k6AHDxbQVFXgq6wVxc7OS"
+    },
+    {
+      "album": {
         "name": "Human Nature (feat. Rick Braun, Kirk Whalum, Norman Brown)",
         "url": "https://open.spotify.com/album/1nDD5iqCemA5KDe7pJZnSi"
       },
@@ -558,7 +588,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 237005,
       "name": "Dare 2 Dream",
       "url": "https://open.spotify.com/track/23Cf4ipUpPiGYl9lYtbUhH"
@@ -598,7 +628,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 261092,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr"
@@ -660,7 +690,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 256652,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
@@ -678,7 +708,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 296875,
       "name": "Fonk In The City - Live Performance",
       "url": "https://open.spotify.com/track/5E2LE2CWlbEc4kcttbmVfn"
@@ -826,7 +856,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 300240,
       "name": "Givin' In",
       "url": "https://open.spotify.com/track/6VCestCaLejnlqdw8Pan9k"
@@ -844,7 +874,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 199573,
       "name": "Gonna' Miss You",
       "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
@@ -990,7 +1020,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 288731,
       "name": "I Wish I Wasn't",
       "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
@@ -1276,7 +1306,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 232203,
       "name": "Lil Jazzy",
       "url": "https://open.spotify.com/track/4wDH3AAhIbINXy5JkPdMvF"
@@ -1348,7 +1378,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 316377,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/6kRGkRQHf8vWPAJ791dEgq"
@@ -1366,7 +1396,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 190866,
       "name": "Luv N' Haight",
       "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
@@ -1424,7 +1454,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 275801,
       "name": "Mr. Sexy Saxy",
       "url": "https://open.spotify.com/track/53iMwltgvGle3hdcsdrXqE"
@@ -1442,7 +1472,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 248472,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
@@ -1478,7 +1508,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 241146,
       "name": "On the Uptown",
       "url": "https://open.spotify.com/track/7063cn4EtVAdrnMP4RzpDT"
@@ -1496,7 +1526,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 232733,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/3HTqV23RH74GnMagyTkQ1P"
@@ -1514,7 +1544,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 247746,
       "name": "Outside the Box",
       "url": "https://open.spotify.com/track/4l4dodgipavIzeo1H1YYCj"
@@ -1532,7 +1562,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 224626,
       "name": "Personal Touch",
       "url": "https://open.spotify.com/track/4s6zQKQOcxfmxaTAUSL7BN"
@@ -1572,7 +1602,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
@@ -1590,7 +1620,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 301853,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/02IFnwB9sOwXYNm3z4NBRN"
@@ -1626,7 +1656,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 289586,
       "name": "Right Back Atcha",
       "url": "https://open.spotify.com/track/6P9nJUyMQ8UaMrYwsuyqvw"
@@ -1662,7 +1692,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 255034,
       "name": "Room 143",
       "url": "https://open.spotify.com/track/451nSdShMhPPmJ6OUTzOfC"
@@ -1720,7 +1750,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 209727,
       "name": "Set Sail",
       "url": "https://open.spotify.com/track/1GAX53Nnul0CQx3GawFpSS"
@@ -1756,7 +1786,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 277000,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/3xKJKfGApC1yoX2qk17bqA"
@@ -1810,7 +1840,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 304600,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
@@ -2042,7 +2072,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 220440,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/5fM6c0mQ5uhHY9lbbAPvaB"
@@ -2086,7 +2116,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 267272,
       "name": "Tailgate",
       "url": "https://open.spotify.com/track/60BTc4nKmy4zpHu9h93NQe"
@@ -2180,7 +2210,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 246458,
       "name": "The Goddess",
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
@@ -2198,7 +2228,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 292320,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/5DZG7foxuMefwnYHz14hLj"
@@ -2274,7 +2304,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 185340,
       "name": "Today",
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
@@ -2346,7 +2376,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 217843,
       "name": "Una Mas",
       "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
@@ -2364,7 +2394,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 258706,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
@@ -2400,7 +2430,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 259838,
       "name": "West Coast Soul",
       "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
@@ -2516,7 +2546,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 255266,
       "name": "Work Wit' It",
       "url": "https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9"
@@ -2534,7 +2564,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 217022,
       "name": "You're My Joy",
       "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"

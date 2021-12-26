@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/28fvCFSaxif95PUKO9WpUk"
+      },
+      "artists": [
+        {
+          "name": "KROMEA",
+          "url": "https://open.spotify.com/artist/5R8aSm8lobxbG7h2AjmKAW"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261904,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/77UUOsYp6KEQqGWwy4asB8"
+    },
+    {
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/6wRizhOPDGJzMXsuCV1MuZ"
       },
@@ -96,10 +114,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 180699,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/3SS1QAGaY6x1vLknhyUfnk"
+    },
+    {
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/09r1GsCovwrSLiMvkoc3e8"
+      },
+      "artists": [
+        {
+          "name": "Cyantific",
+          "url": "https://open.spotify.com/artist/1fAFVmxFjwB872XsEUomIK"
+        },
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277241,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0RpsN5i29wzKUXUBRX0AVO"
     },
     {
       "album": {
@@ -356,7 +396,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 184871,
       "name": "Chicane - Kumarion Remix",
       "url": "https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj"
@@ -382,7 +422,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 248000,
       "name": "Collide - Bensley Remix",
       "url": "https://open.spotify.com/track/2DXL4PdMgc8VtoNWQIH17k"
@@ -606,7 +646,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 333034,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/26McQHo7fTFzFCA5qz709g"
@@ -686,7 +726,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 224680,
       "name": "Fallaway",
       "url": "https://open.spotify.com/track/1eDKRyIAKtoRmrO9gJ6PFv"
@@ -818,7 +858,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 171034,
       "name": "Fisher",
       "url": "https://open.spotify.com/track/7nCLDQaSVDubzrvOQ3r0l7"
@@ -978,7 +1018,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -996,7 +1036,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 270344,
       "name": "Got to see her VIP - VIP",
       "url": "https://open.spotify.com/track/03WYP3YdGXKsIW6Jcudyan"
@@ -1080,7 +1120,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 226206,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1zo0vyy8vdtZqNfnIwZJf9"
@@ -1102,7 +1142,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "Holding On (feat. Leo The Kind)",
       "url": "https://open.spotify.com/track/6qa8nhtZCylZU8qBD2KzTU"
@@ -1124,7 +1164,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 184941,
       "name": "Hurt Me Too",
       "url": "https://open.spotify.com/track/0pdvvP1vP8zWRHeBCHdFbG"
@@ -1186,7 +1226,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 230961,
       "name": "Instinct",
       "url": "https://open.spotify.com/track/7eaF4wiEcDvtW9I16O4vrF"
@@ -1370,7 +1410,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Lonely (with Chandler Leighton) [Friction Remix]",
       "url": "https://open.spotify.com/track/6JWBrFsMLq5tAXMhahEKWy"
@@ -1798,10 +1838,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 209651,
       "name": "Payback",
       "url": "https://open.spotify.com/track/0UHeE47Px036a6hiMfUd3C"
+    },
+    {
+      "album": {
+        "name": "Peace: Remixes",
+        "url": "https://open.spotify.com/album/1eZQdu4p2wbCp8cHiXq6IM"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Blaine Stranger",
+          "url": "https://open.spotify.com/artist/4ZKZR4BBx5EaP4T3slUd1j"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234482,
+      "name": "Peace - Blaine Stranger Remix",
+      "url": "https://open.spotify.com/track/7ztDbIk40oKwofZurQ0jon"
     },
     {
       "album": {
@@ -1838,7 +1900,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 263024,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/4lqJ4VWhsBeOxkO7yfk5MV"
@@ -1930,7 +1992,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "Reason",
       "url": "https://open.spotify.com/track/3HuwdnLCR0mGCsTvwVFo7A"
@@ -1952,7 +2014,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 247586,
       "name": "Reason",
       "url": "https://open.spotify.com/track/3BhECsg8J4eoepgo3LoGlW"
@@ -1974,7 +2036,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 402326,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/36tSyKYCVlhSvEhZl1fB8h"
@@ -2000,6 +2062,28 @@
       "duration_ms": 267907,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4HRVvrMFXvtSnw3J3knPV1"
+    },
+    {
+      "album": {
+        "name": "RELOAD",
+        "url": "https://open.spotify.com/album/1ufueDEIU7GYmBgjRYXHqp"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Slang Dogs",
+          "url": "https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181569,
+      "name": "RELOAD",
+      "url": "https://open.spotify.com/track/6zCNAB1z3QdxklS8Hpo8yA"
     },
     {
       "album": {
@@ -2080,6 +2164,28 @@
       "duration_ms": 218470,
       "name": "Scared",
       "url": "https://open.spotify.com/track/7DTk1207Efq0HBUEYmbcTB"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/6pT5f9YisKTKfB6JTqZIgF"
+      },
+      "artists": [
+        {
+          "name": "Gourski",
+          "url": "https://open.spotify.com/artist/3EM7Lbvh6bxGQoHPm3zySB"
+        },
+        {
+          "name": "Zera",
+          "url": "https://open.spotify.com/artist/79vvDmSmwjXvaj86t2rwDu"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223143,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/2CKvhcxC6vuommXliI7CTJ"
     },
     {
       "album": {
@@ -2191,6 +2297,46 @@
     },
     {
       "album": {
+        "name": "Surfing The Anxiety Waves",
+        "url": "https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243601,
+      "name": "Surfing The Anxiety Waves",
+      "url": "https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1"
+    },
+    {
+      "album": {
+        "name": "System Burn",
+        "url": "https://open.spotify.com/album/4G1AZyGSa47AwGrcGv8awS"
+      },
+      "artists": [
+        {
+          "name": "Night Shift",
+          "url": "https://open.spotify.com/artist/6v4utMFf6tizLfCjw1Z91v"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290603,
+      "name": "System Burn",
+      "url": "https://open.spotify.com/track/0rWIcWOeIsx1sqX65Fqnkp"
+    },
+    {
+      "album": {
         "name": "The Price of Technology",
         "url": "https://open.spotify.com/album/5UxPM9f7ZuhD28Twv8VMbM"
       },
@@ -2220,7 +2366,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 259306,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/0KsjGpHgQw2kJ1YeoVggRZ"
@@ -2286,7 +2432,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 232686,
       "name": "There and Back",
       "url": "https://open.spotify.com/track/4H3mLpYw9fgx0FHNanYLAd"
@@ -2308,7 +2454,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 353103,
       "name": "There for You - LSB Remix",
       "url": "https://open.spotify.com/track/6jLWsTbWniLvGEDSCQPin9"
@@ -2392,7 +2538,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 202068,
       "name": "Visions",
       "url": "https://open.spotify.com/track/6RCj3fC9noAbICYFX6ieNY"
@@ -2476,7 +2622,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173110,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0AZRYgE5LSRn2FQNio8sgu"
@@ -2516,7 +2662,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 248751,
       "name": "Write It Down - Fred V Remix",
       "url": "https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI"
@@ -2534,7 +2680,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 165465,
       "name": "WRK",
       "url": "https://open.spotify.com/track/7IXjp7fnKtKrwLZ0C3q0v7"

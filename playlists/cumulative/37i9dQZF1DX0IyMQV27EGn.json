@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 235997,
       "name": "Beside Myself",
       "url": "https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Don't Mess Me Around",
+        "url": "https://open.spotify.com/album/1myasjHjqePIWY1zKqbJIg"
+      },
+      "artists": [
+        {
+          "name": "Clare Maguire",
+          "url": "https://open.spotify.com/artist/1iL8p9yzijWY1XnqVgHF5P"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210086,
+      "name": "Don't Mess Me Around",
+      "url": "https://open.spotify.com/track/50un698qm3fscu0qgDtsf8"
+    },
+    {
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
       },
@@ -294,7 +312,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 243640,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/1G3hr6HlP3d13477lbWw9Q"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 228016,
       "name": "Heart Killer",
       "url": "https://open.spotify.com/track/5OfSRyFG41IAv3v4wV7nTR"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 232242,
       "name": "How Much Does Your Love Cost?",
       "url": "https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Listen Up",
       "url": "https://open.spotify.com/track/0g4v8zDxXSCwXZvae6dfQg"
@@ -1090,6 +1108,24 @@
       "duration_ms": 224240,
       "name": "San Andreas' Fault",
       "url": "https://open.spotify.com/track/2jVIOVCin4pVYNSfPzaG4Z"
+    },
+    {
+      "album": {
+        "name": "I Predict A Graceful Expulsion",
+        "url": "https://open.spotify.com/album/1Maf4PxCcedkBNNdVIDu4M"
+      },
+      "artists": [
+        {
+          "name": "Cold Specks",
+          "url": "https://open.spotify.com/artist/2DMHBCdboDAYJWzt2lDSP5"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "Send Your Youth",
+      "url": "https://open.spotify.com/track/6G8IXeXQlpMiMe648itjW0"
     },
     {
       "album": {

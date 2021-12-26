@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcA2XXbXQ3d.md) - [plain]
 
 > Definitive career highlights from Britney Jean Spears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,647 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,884 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

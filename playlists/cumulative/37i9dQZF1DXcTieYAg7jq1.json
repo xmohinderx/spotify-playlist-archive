@@ -392,7 +392,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 209293,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "Hero",
       "url": "https://open.spotify.com/track/2Y61ZvCuuLOhdkgl1B9ekh"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 223893,
       "name": "Honey, There's the Door",
       "url": "https://open.spotify.com/track/4s52lp8tyE4uDFZgKQIrPh"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 224638,
       "name": "Madison",
       "url": "https://open.spotify.com/track/3GNnTQVqE4zUSECYzHXq0b"
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "No Wifey",
+        "url": "https://open.spotify.com/album/24LIfXNCzKU1QRclf30Ich"
+      },
+      "artists": [
+        {
+          "name": "Anjulie",
+          "url": "https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221249,
+      "name": "No Wifey",
+      "url": "https://open.spotify.com/track/4NlOOhdYDA1pIksaZ7TmpB"
+    },
+    {
+      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 242773,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/6Wndl2xyawNa2fQNVYPVt8"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 234053,
       "name": "Sugarcane",
       "url": "https://open.spotify.com/track/7pzoOz4tiF2KA76FNM70ms"

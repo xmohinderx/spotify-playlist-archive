@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 193468,
       "name": "20/20",
       "url": "https://open.spotify.com/track/3VZZgqgrmQrWXeDKTL8Jgw"
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Symmetry",
+        "url": "https://open.spotify.com/album/3FUKruL6t3Ie0DIhzD1AbF"
+      },
+      "artists": [
+        {
+          "name": "7 Minutes In Heaven",
+          "url": "https://open.spotify.com/artist/64wpPiaEfYzgOVjm6vd5XH"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195416,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/0iYL1bvagzsI2Wfxp3Io7U"
+    },
+    {
+      "album": {
         "name": "Big Vibe",
         "url": "https://open.spotify.com/album/36Zz4eM7pxfUE5mcwQnD5t"
       },
@@ -200,10 +218,28 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 200813,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/2LwpbIQ3xtxxWl8k2GXBsV"
+    },
+    {
+      "album": {
+        "name": "Fresh Produce",
+        "url": "https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG"
+      },
+      "artists": [
+        {
+          "name": "Seaway",
+          "url": "https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253318,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/4laGwUyRucrLFv1P1eJ435"
     },
     {
       "album": {
@@ -222,6 +258,24 @@
       "duration_ms": 223480,
       "name": "Brakeless",
       "url": "https://open.spotify.com/track/5RDCND3o9XN2yyoRy6pZUX"
+    },
+    {
+      "album": {
+        "name": "World War Me",
+        "url": "https://open.spotify.com/album/0UR8wkpiRf8f6djJZ9K6nS"
+      },
+      "artists": [
+        {
+          "name": "World War Me",
+          "url": "https://open.spotify.com/artist/2BmSsK3ZETxNVex0u5SrMc"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192317,
+      "name": "Break a Leg Kid",
+      "url": "https://open.spotify.com/track/5J2pcBXgCL7cHPUqAyMbeT"
     },
     {
       "album": {
@@ -348,7 +402,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ"
@@ -366,7 +420,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 173421,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/03y1mDlbMHZ40TBnwPvbAs"
@@ -474,7 +528,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 191253,
       "name": "Criminal Energy",
       "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
@@ -492,7 +546,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 246066,
       "name": "Daggers",
       "url": "https://open.spotify.com/track/2a3GKu8pQZrcDN5q4mCgNh"
@@ -528,7 +582,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 191756,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/22aRgzwro3KIz9QWAdY2E1"
@@ -698,7 +752,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 210880,
       "name": "Everything Is Ordinary",
       "url": "https://open.spotify.com/track/1jZQKtmTYJS5P5Im07Yhce"
@@ -979,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Lips Like Oxygen",
+        "url": "https://open.spotify.com/album/1vWUCzOaBnZ27bvcEGCdDX"
+      },
+      "artists": [
+        {
+          "name": "Oh, Weatherly",
+          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199181,
+      "name": "Here Tonight",
+      "url": "https://open.spotify.com/track/2vXorLnvMDPdPj2HhPKKut"
+    },
+    {
+      "album": {
         "name": "Crucial Moments",
         "url": "https://open.spotify.com/album/24FBovhobBvvqA0Htyqes4"
       },
@@ -1026,7 +1098,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
@@ -1350,7 +1422,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 216696,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/2x3h75zzl2IudkzFbG3UuV"
@@ -1368,7 +1440,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
@@ -1440,7 +1512,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 150780,
       "name": "Motorcycle, No Motor?",
       "url": "https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA"
@@ -1484,6 +1556,28 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
+    },
+    {
+      "album": {
+        "name": "My Town (feat. Joe Talbot)",
+        "url": "https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        },
+        {
+          "name": "Joe Talbot",
+          "url": "https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164485,
+      "name": "My Town (feat. Joe Talbot)",
+      "url": "https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye"
     },
     {
       "album": {
@@ -1534,7 +1628,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/473gsXF8axYSsplgUfnbXf"
@@ -1552,7 +1646,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 206160,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/0Eucj02XTx0Ir10BpMgJdD"
@@ -1595,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Our Great Divide",
+        "url": "https://open.spotify.com/album/1JuJDO6AahjLI71YwbpJdP"
+      },
+      "artists": [
+        {
+          "name": "Good Riddance",
+          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136664,
+      "name": "Our Great Divide",
+      "url": "https://open.spotify.com/track/4QTmEQgHXS4DbqKADYtxFp"
+    },
+    {
+      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/1HpntKICUDQq2auvGXclE4"
       },
@@ -1606,7 +1718,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/4x241uAmPrxKZdCZKt2r5t"
@@ -1703,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Fresh Produce",
+        "url": "https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG"
+      },
+      "artists": [
+        {
+          "name": "Seaway",
+          "url": "https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212443,
+      "name": "Pleasures",
+      "url": "https://open.spotify.com/track/2LL5HEIRSIS2W6zMa4jrQI"
+    },
+    {
+      "album": {
         "name": "Plus Ultra",
         "url": "https://open.spotify.com/album/4eKXJrrx1JkMeyv3b0YDfM"
       },
@@ -1714,7 +1844,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 195386,
       "name": "Plus Ultra",
       "url": "https://open.spotify.com/track/5WLvGmjfyAEYCvFNsLon0i"
@@ -1840,7 +1970,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 210750,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7JeIpiCXappsI31Mg4BcWz"
@@ -1912,7 +2042,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 158824,
       "name": "Shh!",
       "url": "https://open.spotify.com/track/2njh4onOr3nyACxc7c8vPp"
@@ -1948,7 +2078,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 180599,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/0FNPI9jhoho8rZL1J7WK1v"
@@ -1966,7 +2096,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 229101,
       "name": "Smash Shit Up",
       "url": "https://open.spotify.com/track/21QpuibkIZywkkDQoAz3eh"
@@ -2092,7 +2222,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 191544,
       "name": "Stupid For You",
       "url": "https://open.spotify.com/track/48ocCWNlCS9kFS9Q6dCYj1"
@@ -2128,7 +2258,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 170875,
       "name": "Surviving California",
       "url": "https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM"
@@ -2276,7 +2406,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "Time-Bomb Ticking Away",
       "url": "https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU"
@@ -2312,7 +2442,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 179349,
       "name": "Underground",
       "url": "https://open.spotify.com/track/5dXvUNCTKEgAHW9c1y7fAN"
@@ -2384,7 +2514,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 183282,
       "name": "When Both Sides Suck, We're All Winners",
       "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
@@ -2420,7 +2550,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
@@ -2438,7 +2568,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 192468,
       "name": "Without Me (P\u00e2querette)",
       "url": "https://open.spotify.com/track/2YZhnf9AUQ4HBTfDjgIfnq"

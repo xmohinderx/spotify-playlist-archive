@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 197804,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e"
@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus) - Bonus Track",
+      "url": "https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje"
+    },
+    {
+      "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY"
       },
@@ -374,7 +392,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 179407,
       "name": "Diamonds - Acoustic",
       "url": "https://open.spotify.com/track/4RVmTDYYWR4xivKlLMjS0q"
@@ -436,7 +454,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 164470,
       "name": "Don't Know Why - Live at Six Degree Studios",
       "url": "https://open.spotify.com/track/6mUqicSg561rnrIcBOAYah"
@@ -816,7 +834,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 224436,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/1WbuxG1NrZeKn3QiXujSxb"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 225944,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY"
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 199286,
       "name": "I Like America & America Likes Me",
       "url": "https://open.spotify.com/track/1rHn70WY3D7Kmy73GRlpiT"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 218984,
       "name": "Only You (1twofeel Reprise)",
       "url": "https://open.spotify.com/track/4JKq0hEhwUtxKSfK0rU1UH"
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 208345,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/5idADky7mHihopJGObd4hf"
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 196333,
       "name": "Torn",
       "url": "https://open.spotify.com/track/3Uu8nwa9xA9bxCur5g3oJU"
@@ -1874,6 +1892,28 @@
       "duration_ms": 339346,
       "name": "True Love Waits",
       "url": "https://open.spotify.com/track/5FtwEZzxzF6RcPJlDRFYub"
+    },
+    {
+      "album": {
+        "name": "Unchained Melody",
+        "url": "https://open.spotify.com/album/1BsP2dYy2SgS8x3QhZhqUT"
+      },
+      "artists": [
+        {
+          "name": "Nataly Dawn",
+          "url": "https://open.spotify.com/artist/1vCgeJQjG0SFPCC9ixbCGz"
+        },
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2ArKgz2x8fL8z2KeYXlgLX"
     },
     {
       "album": {
@@ -1942,10 +1982,28 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 295654,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv"
+    },
+    {
+      "album": {
+        "name": "Hopes and Fears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "With Or Without You - Jo Whiley Show - BBC Live Session",
+      "url": "https://open.spotify.com/track/2JZUW0wQcUYr7NW7itcHef"
     },
     {
       "album": {
@@ -2032,7 +2090,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 182957,
       "name": "Young & Sad",
       "url": "https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY"
@@ -2050,7 +2108,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 160588,
       "name": "Youth",
       "url": "https://open.spotify.com/track/4ulix0RIyXmuNLgwPaz46S"

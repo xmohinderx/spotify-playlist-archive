@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 116142,
       "name": "2021",
       "url": "https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 163829,
       "name": "8bit",
       "url": "https://open.spotify.com/track/4YIVAkrnb4hplYQtbuqA8K"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 167213,
       "name": "A Comma",
       "url": "https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/02b4Ndz5u5JY3Ve512vNqd"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
@@ -268,10 +268,28 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
+    },
+    {
+      "album": {
+        "name": "Phoenix: La Petite Mort \u00c9dition",
+        "url": "https://open.spotify.com/album/5fVSt9OPZfsJL1xRh5TdmD"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Below the Clavicle (La Petite Mort Edit)",
+      "url": "https://open.spotify.com/track/3HwAregkqheHFI1ufuBQ4U"
     },
     {
       "album": {
@@ -286,7 +304,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 232000,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5J9y36dALxOozE4aZjAL1j"
@@ -340,7 +358,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 203421,
       "name": "BRUiiSE",
       "url": "https://open.spotify.com/track/09VPvD4ZZH18kczzJRaWbZ"
@@ -416,7 +434,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 218181,
       "name": "Cartwheel",
       "url": "https://open.spotify.com/track/0bL30VdNJH5M1HsJDxXzOU"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 204066,
       "name": "cellophane",
       "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 142184,
       "name": "Color of the Pool",
       "url": "https://open.spotify.com/track/487No2iHijl2TqOM6OBC3U"
@@ -586,7 +604,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 542732,
       "name": "Creep - Very 2021 Rmx",
       "url": "https://open.spotify.com/track/2KwRMzefAHziMwQabFpKz4"
@@ -629,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Daddy's Groove",
+        "url": "https://open.spotify.com/album/0azvFrSqooHWxkOMU8EwQ2"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192220,
+      "name": "Daddy's Groove",
+      "url": "https://open.spotify.com/track/4P0Q5EfIdSPFhebNL8v7P8"
+    },
+    {
+      "album": {
         "name": "Delete Forever",
         "url": "https://open.spotify.com/album/5OKalQQmeRzxR9YIWsrbzL"
       },
@@ -662,7 +698,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 217240,
       "name": "Desert Flower - Remix",
       "url": "https://open.spotify.com/track/3bp1bmo2Km9SFT12M0eVOZ"
@@ -698,10 +734,28 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 199773,
       "name": "Die 4 Ur Love",
       "url": "https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK"
+    },
+    {
+      "album": {
+        "name": "Angels on the Slope",
+        "url": "https://open.spotify.com/album/7ixQIWyCTfMQOepiY4kZlV"
+      },
+      "artists": [
+        {
+          "name": "Lisel",
+          "url": "https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171582,
+      "name": "Digital Light Field",
+      "url": "https://open.spotify.com/track/6INdHk4cEMcGhyl1Cj4QIp"
     },
     {
       "album": {
@@ -778,7 +832,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 213679,
       "name": "Don't Judge Me",
       "url": "https://open.spotify.com/track/2ixabSVbccs9np9r5CpbWW"
@@ -920,7 +974,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 251053,
       "name": "Even If It Hurts",
       "url": "https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw"
@@ -978,7 +1032,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 229238,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5yIK62xhc1PwxG83kObxZe"
@@ -1032,7 +1086,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 284421,
       "name": "Found Out",
       "url": "https://open.spotify.com/track/6ZFMxafUQCxrqxDrdbwa1q"
@@ -1050,7 +1104,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 171000,
       "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
       "url": "https://open.spotify.com/track/3LEvqWwkTAZD29xXRNjWSk"
@@ -1090,7 +1144,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 282550,
       "name": "Good As I Wanted",
       "url": "https://open.spotify.com/track/21M8SUR7G2U12TzGjsTOHZ"
@@ -1184,7 +1238,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 198960,
       "name": "Habitual Love",
       "url": "https://open.spotify.com/track/5JOnQCQ9OGn7hY23aCkdlL"
@@ -1202,7 +1256,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 165539,
       "name": "hangar",
       "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
@@ -1220,10 +1274,28 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Heaven Fell (Reprise)",
       "url": "https://open.spotify.com/track/2pUarDBfmUqw328dcU5Ubq"
+    },
+    {
+      "album": {
+        "name": "High and Lonely",
+        "url": "https://open.spotify.com/album/6O2xYlcjEFDKZ4RanVJ0Ky"
+      },
+      "artists": [
+        {
+          "name": "Godford",
+          "url": "https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207584,
+      "name": "High and Lonely",
+      "url": "https://open.spotify.com/track/2iXTMlZtsssbctAMHvr2FJ"
     },
     {
       "album": {
@@ -1281,6 +1353,28 @@
     },
     {
       "album": {
+        "name": "Every Bad (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4UhF1TkUq0ZgBxKY7iDhD2"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        },
+        {
+          "name": "NNAMD\u00cf",
+          "url": "https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145361,
+      "name": "Homecoming Song (NNAMD\u00cf Remix)",
+      "url": "https://open.spotify.com/track/6KAOVH01YEKnlxPRELczyM"
+    },
+    {
+      "album": {
         "name": "Hysterical Us",
         "url": "https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX"
       },
@@ -1328,7 +1422,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 311844,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y"
@@ -1346,7 +1440,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 159400,
       "name": "i want war (BUT I NEED PEACE)",
       "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
@@ -1368,7 +1462,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -1386,7 +1480,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 414466,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
@@ -1458,7 +1552,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 230624,
       "name": "It's Okay To Cry",
       "url": "https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO"
@@ -1498,7 +1592,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 87098,
       "name": "JoJoJoey - @joeyvalley Remix",
       "url": "https://open.spotify.com/track/5CCN3xqtp1RPyCKRl9JJSz"
@@ -1524,7 +1618,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 281975,
       "name": "Jour 2",
       "url": "https://open.spotify.com/track/53HRgElTnDk5vzF8mgjRYw"
@@ -1542,7 +1636,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 274706,
       "name": "june 14th",
       "url": "https://open.spotify.com/track/1dpfNC2sYCwLBfPg6PujQe"
@@ -1684,7 +1778,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt"
@@ -1760,7 +1854,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 195466,
       "name": "Measure of a Man (feat. Central Cee)",
       "url": "https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r"
@@ -1808,7 +1902,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 271280,
       "name": "Michelle Pfeiffer (feat. lil aaron)",
       "url": "https://open.spotify.com/track/6kvJA69Zx2u4REmYhqUUhs"
@@ -1844,7 +1938,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 239744,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
@@ -1862,7 +1956,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 274610,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/4IU9uyvBToh2mtFEyiAdGk"
@@ -1974,7 +2068,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 179802,
       "name": "No Butterflies, No Nothing",
       "url": "https://open.spotify.com/track/3ZILqwsgKxsjrBLBjrOaSF"
@@ -2072,7 +2166,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 204918,
       "name": "Ocean of Tears",
       "url": "https://open.spotify.com/track/4RqBss578GNj4u9VYZK5u0"
@@ -2112,7 +2206,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 204753,
       "name": "On Your Side - Stud1nt Remix",
       "url": "https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv"
@@ -2130,7 +2224,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 193188,
       "name": "Online",
       "url": "https://open.spotify.com/track/7dzfIsGYeU86XUo5pRB2cP"
@@ -2166,7 +2260,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 203200,
       "name": "Party's Over",
       "url": "https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh"
@@ -2188,7 +2282,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 258665,
       "name": "Patience Etc... (George Clanton Remix)",
       "url": "https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST"
@@ -2206,7 +2300,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 219331,
       "name": "Pixel Affection",
       "url": "https://open.spotify.com/track/2SSRl4W3RcjD3VBINiZ5lZ"
@@ -2224,7 +2318,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 260685,
       "name": "Poison Arrow",
       "url": "https://open.spotify.com/track/2RWZiDpnwmXjiH0NPW1d3O"
@@ -2361,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Salvador",
+        "url": "https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250924,
+      "name": "Raising Hell",
+      "url": "https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6"
+    },
+    {
+      "album": {
         "name": "Ricky Music",
         "url": "https://open.spotify.com/album/4jJInzmsXFB6WfoWNqKMH5"
       },
@@ -2376,6 +2488,24 @@
       "duration_ms": 135703,
       "name": "rangerover - Bonus Track",
       "url": "https://open.spotify.com/track/2IM2fs9rVuDbqtuXpycvam"
+    },
+    {
+      "album": {
+        "name": "Rare to Wake",
+        "url": "https://open.spotify.com/album/3WG1IzGLsFRejWfefknJtu"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "date_added": "2021-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278316,
+      "name": "Rare to Wake",
+      "url": "https://open.spotify.com/track/77xwqK3T1aPiuyhUUYubVs"
     },
     {
       "album": {
@@ -2444,7 +2574,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 234200,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/7rWDTJfWevA0ukbsJE1xJi"
@@ -2462,7 +2592,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173506,
       "name": "Replay",
       "url": "https://open.spotify.com/track/6GXc2suLoUJxYfzghNva2K"
@@ -2506,7 +2636,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 223658,
       "name": "Ride Or Die (feat. Chilly Gonzales)",
       "url": "https://open.spotify.com/track/6avcTjapRBq4AL6760uUbF"
@@ -2560,7 +2690,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 251217,
       "name": "Scripture",
       "url": "https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG"
@@ -2596,7 +2726,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 169299,
       "name": "seer",
       "url": "https://open.spotify.com/track/7boiFhcGcfE3DRMvM5nJkD"
@@ -2668,7 +2798,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 373426,
       "name": "So Heavy I Fell Through the Earth - Art Mix",
       "url": "https://open.spotify.com/track/5pZf7ekhpd3kJbDJPIxYyT"
@@ -2722,7 +2852,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 176613,
       "name": "soshy",
       "url": "https://open.spotify.com/track/77ThGWtKLzRLtcLUxJ8ONd"
@@ -2812,7 +2942,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 288793,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/3bCllR1v5AhEwm9Wl8kyBT"
@@ -2830,7 +2960,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 238422,
       "name": "Stains",
       "url": "https://open.spotify.com/track/3jqRDmH8YN6GT6j53kPi3a"
@@ -2884,7 +3014,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 197809,
       "name": "Still I Miss U",
       "url": "https://open.spotify.com/track/3jzT3kU7u6qSd9arh5Jm1O"
@@ -2902,7 +3032,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 209708,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/3fh68vXcULsi9qkrjesuHN"
@@ -3036,7 +3166,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "The Look On Your Face",
       "url": "https://open.spotify.com/track/4wCukIqVlqd452beXYxmXK"
@@ -3116,7 +3246,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 201866,
       "name": "Time For Crime",
       "url": "https://open.spotify.com/track/28EvBSVXP4bqNxnshOJb77"
@@ -3192,7 +3322,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
@@ -3228,7 +3358,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 247753,
       "name": "Valley song",
       "url": "https://open.spotify.com/track/70tVTFxfAPwoL9mg44meAg"
@@ -3384,7 +3514,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "What Does It Mean To Me?",
       "url": "https://open.spotify.com/track/4kDqNIQiBwkqDs6jWWcHAM"
@@ -3424,7 +3554,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 128143,
       "name": "Windows - No Rome Remix",
       "url": "https://open.spotify.com/track/5q0Y1svWIHkmx4Q9uH0VxB"
@@ -3442,7 +3572,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 149013,
       "name": "With You - Spotify Studio Oyster Recording",
       "url": "https://open.spotify.com/track/1gob2nlpbo0RwsjMMKlrKy"
@@ -3496,7 +3626,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 161691,
       "name": "You'll miss me when I'm not around",
       "url": "https://open.spotify.com/track/0Sqh9dVJMFJRwz4K0jeoOR"

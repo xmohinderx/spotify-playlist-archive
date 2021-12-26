@@ -252,7 +252,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -3112,6 +3112,28 @@
       "duration_ms": 126613,
       "name": "NHL MONEY",
       "url": "https://open.spotify.com/track/0s6XU14rLFh4AfCdW2gKAE"
+    },
+    {
+      "album": {
+        "name": "NIGHTMARE BEFORE XMAS",
+        "url": "https://open.spotify.com/album/1g6NGLSwoEhiCCmK90hqnQ"
+      },
+      "artists": [
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "treepside",
+          "url": "https://open.spotify.com/artist/3vf8X2CaHnkcVAp6NC9C7d"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76153,
+      "name": "NIGHTMARE XMAS",
+      "url": "https://open.spotify.com/track/2ZSpKkXOlf0fXXlSrWFyNj"
     },
     {
       "album": {
@@ -3790,7 +3812,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -5636,7 +5658,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 153750,
       "name": "\u0411\u0443\u043a\u0432\u0430 \u0425",
       "url": "https://open.spotify.com/track/320b8n5Ew9RgzDP67tVIx1"
@@ -7074,7 +7096,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 109133,
       "name": "\u043a\u043b\u0430\u0434\u0431\u0438\u0449\u0435",
       "url": "https://open.spotify.com/track/1xASDcZcb869OkSu86Wbw8"
@@ -7360,7 +7382,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 202040,
       "name": "\u041a\u0443\u043a\u043b\u0430 \u043a\u043e\u043b\u0434\u0443\u043d\u0430",
       "url": "https://open.spotify.com/track/2DYzsMQpO7xOw7b3JwyIWP"
@@ -8464,7 +8486,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 225000,
       "name": "\u041f\u0430\u0442\u0440\u043e\u043d",
       "url": "https://open.spotify.com/track/3uCth4TIWyeQDnj3YbAVQB"
@@ -10118,6 +10140,28 @@
       "duration_ms": 215253,
       "name": "\u0427\u0443\u0432\u0441\u0442\u0432\u0443\u044e",
       "url": "https://open.spotify.com/track/6bxulgo5iAC3yK1haIXWhJ"
+    },
+    {
+      "album": {
+        "name": "\u0427\u0443\u043f\u0430 \u0427\u0443\u043f\u0441",
+        "url": "https://open.spotify.com/album/0uNDcaG1JjXrknJUKRNtqb"
+      },
+      "artists": [
+        {
+          "name": "Eldzhey",
+          "url": "https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN"
+        },
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136932,
+      "name": "\u0427\u0443\u043f\u0430 \u0427\u0443\u043f\u0441",
+      "url": "https://open.spotify.com/track/5UtiZpBDi7Ikgic4QrhbO5"
     },
     {
       "album": {

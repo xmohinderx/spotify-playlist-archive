@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216788,
       "name": "(to me) your face is love",
       "url": "https://open.spotify.com/track/0rMmfE1Cblk78IC48wxT5i"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 155862,
       "name": "2 The Weekend",
       "url": "https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 169411,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 183096,
       "name": "all ur fault",
       "url": "https://open.spotify.com/track/3lPXQDaJ0juw8zunPkhse5"
@@ -2880,7 +2880,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 187374,
       "name": "Comatose",
       "url": "https://open.spotify.com/track/7rDLjqMcx0nG4v8cYwyOCP"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 180121,
       "name": "Dancing in My Room",
       "url": "https://open.spotify.com/track/7CCCX50zGHMTuHsyKQy03l"
@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 192578,
       "name": "Doses",
       "url": "https://open.spotify.com/track/7BuzrXNz1be3Ko6r77fGJK"
@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 169320,
       "name": "every wave",
       "url": "https://open.spotify.com/track/1cr2jfBMyyGlo2DBiLA3KN"
@@ -4868,7 +4868,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 164317,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB"
@@ -5134,7 +5134,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 165029,
       "name": "fools (can't help falling in love) (feat. Sody)",
       "url": "https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom"
@@ -5476,7 +5476,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 124800,
       "name": "Give a Little",
       "url": "https://open.spotify.com/track/4Olmtbo092fUn6jxcJnirS"
@@ -6720,7 +6720,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 181478,
       "name": "Holly",
       "url": "https://open.spotify.com/track/0KH3EDexTEFoWZxjX2f1gu"
@@ -7328,7 +7328,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 146642,
       "name": "i'm not free",
       "url": "https://open.spotify.com/track/5kIAHgmsJfeUbdWb3rzu8T"
@@ -7560,7 +7560,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 135516,
       "name": "Indecisive (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9"
@@ -8391,6 +8391,28 @@
     },
     {
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/3AsiOVv4RrFwgSXFch8wP9"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142760,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/05J6B8Mei5yhX84mrUDa7U"
+    },
+    {
+      "album": {
         "name": "Let's Go Out",
         "url": "https://open.spotify.com/album/2BJnr6QdGtXYV36KhoKrgg"
       },
@@ -9130,7 +9152,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
@@ -9476,7 +9498,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 146474,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/0VGRtiYYW4ch4SrkFkLlYJ"
@@ -9692,7 +9714,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 215300,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/5aMYIxnTTVIGxdey7ULrRL"
@@ -10000,7 +10022,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 226168,
       "name": "New York",
       "url": "https://open.spotify.com/track/5bGTC0fJjJ2W4FwxSTVvZo"
@@ -11112,7 +11134,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 167361,
       "name": "people don't change",
       "url": "https://open.spotify.com/track/4rjxIt48qyNnfrx9jc2q6r"
@@ -11170,7 +11192,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
@@ -11822,7 +11844,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 197045,
       "name": "RIP",
       "url": "https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3"
@@ -13576,7 +13598,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 205473,
       "name": "Stoned Nights",
       "url": "https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ"
@@ -14446,7 +14468,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 201930,
       "name": "Tennis Club",
       "url": "https://open.spotify.com/track/2I4QyfxbaYASskhchbxsDw"
@@ -14508,7 +14530,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 180903,
       "name": "that friend",
       "url": "https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL"
@@ -14526,7 +14548,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 190000,
       "name": "That's What Everybody Said",
       "url": "https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR"
@@ -15232,7 +15254,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 152515,
       "name": "Typical Lover",
       "url": "https://open.spotify.com/track/5ONMDfX8Ad6TirjLeoqD7j"
@@ -15250,7 +15272,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 180480,
       "name": "U Are My High",
       "url": "https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI"
@@ -15348,7 +15370,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 201093,
       "name": "Unfazed",
       "url": "https://open.spotify.com/track/78RA0KtI3ZTzbK52oJH28b"
@@ -15686,7 +15708,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 153250,
       "name": "Wanna Be In Love",
       "url": "https://open.spotify.com/track/73atTltNTy37ZdHOfFcRWv"
@@ -15704,7 +15726,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 213520,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/6tKG1a40gvBQXNpATbqlfN"
@@ -15864,7 +15886,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 205161,
       "name": "Way It Was",
       "url": "https://open.spotify.com/track/3BUmKJc9IWZvpwVY6YYwky"

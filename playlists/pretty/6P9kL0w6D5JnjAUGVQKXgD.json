@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
   "name": "EDM Top 100",
-  "num_followers": 48564,
+  "num_followers": 48565,
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA0NCxlZGIwNzlmNzVlMWIzOTJlMjc4ZDQwOGJhZDNiYzIwZjVmYThjN2I1",
+  "snapshot_id": "MTA0NSwxMjJiZjNkZTM3YjNkMGMxMGE5NjJiOGI4NjNlOGFmYjg1NGU3ZDk0",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -653,6 +653,30 @@
       "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
     },
     {
+      "added_at": "2021-08-24 15:41:05",
+      "album": {
+        "name": "Chasing Stars (feat. James Bay)",
+        "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 170457,
+      "name": "Chasing Stars (feat. James Bay)",
+      "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
+    },
+    {
       "added_at": "2021-09-11 15:41:06",
       "album": {
         "name": "Way Back Home",
@@ -693,6 +717,22 @@
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
     },
     {
+      "added_at": "2021-05-13 23:01:06",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
+      },
+      "artists": [
+        {
+          "name": "Allergic",
+          "url": "https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
+    },
+    {
       "added_at": "2021-08-28 15:41:06",
       "album": {
         "name": "Domino (feat. Oxia)",
@@ -715,46 +755,6 @@
       "duration_ms": 158000,
       "name": "Domino (feat. Oxia)",
       "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
-    },
-    {
-      "added_at": "2021-05-13 23:01:06",
-      "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/212iwiH8pN4s0RNnHH9sex"
-      },
-      "artists": [
-        {
-          "name": "Allergic",
-          "url": "https://open.spotify.com/artist/13tMH74ba9ZKRhh1Lx1QQX"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
-    },
-    {
-      "added_at": "2021-08-24 15:41:05",
-      "album": {
-        "name": "Chasing Stars (feat. James Bay)",
-        "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 170457,
-      "name": "Chasing Stars (feat. James Bay)",
-      "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
     },
     {
       "added_at": "2021-12-01 15:42:03",
@@ -1033,26 +1033,6 @@
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
     },
     {
-      "added_at": "2021-12-20 15:44:02",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
-    },
-    {
       "added_at": "2021-12-19 15:43:02",
       "album": {
         "name": "Love Is Gone (Ti\u00ebsto Remix)",
@@ -1075,6 +1055,26 @@
       "duration_ms": 169846,
       "name": "Love Is Gone (Ti\u00ebsto Remix)",
       "url": "https://open.spotify.com/track/4AoUdMZGoPZZQxVFnoVQEl"
+    },
+    {
+      "added_at": "2021-12-20 15:44:02",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
       "added_at": "2021-12-03 15:46:02",
@@ -1953,20 +1953,20 @@
       "url": "https://open.spotify.com/track/4ETcsWJdf5r5qEVaT20pbz"
     },
     {
-      "added_at": "2021-12-21 15:45:02",
+      "added_at": "2021-12-07 15:44:06",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/6W4JKgEudjzCU3vciuwkPw"
+        "name": "It Gets Better",
+        "url": "https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6"
       },
       "artists": [
         {
-          "name": "just Fede",
-          "url": "https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         }
       ],
-      "duration_ms": 160851,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/2PauC7c2jbp4TMOXZnZbsH"
+      "duration_ms": 184611,
+      "name": "It Gets Better",
+      "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
     },
     {
       "added_at": "2020-12-02 10:55:04",
@@ -1993,20 +1993,20 @@
       "url": "https://open.spotify.com/track/529UH7VifSxUbFryjZeFpg"
     },
     {
-      "added_at": "2021-12-07 15:44:06",
+      "added_at": "2021-12-22 15:41:02",
       "album": {
-        "name": "It Gets Better",
-        "url": "https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6"
+        "name": "Pump The Brakes",
+        "url": "https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 184611,
-      "name": "It Gets Better",
-      "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
+      "duration_ms": 220581,
+      "name": "Pump The Brakes",
+      "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -2033,20 +2033,24 @@
       "url": "https://open.spotify.com/track/6liZV0Nrz90vVrxuNwKRI4"
     },
     {
-      "added_at": "2021-12-22 15:41:02",
+      "added_at": "2021-12-25 15:46:02",
       "album": {
-        "name": "Pump The Brakes",
-        "url": "https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ"
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/384wdo2pTwbY6w1Es8KmlU"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
+        },
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
         }
       ],
-      "duration_ms": 220581,
-      "name": "Pump The Brakes",
-      "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
+      "duration_ms": 344571,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/2gpRQZBb6E3iA5NBOOUNNV"
     }
   ],
   "url": "https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD"

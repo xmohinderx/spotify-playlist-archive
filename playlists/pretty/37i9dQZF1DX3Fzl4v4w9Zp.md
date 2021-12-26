@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,701 likes - 145 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,795 likes - 145 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

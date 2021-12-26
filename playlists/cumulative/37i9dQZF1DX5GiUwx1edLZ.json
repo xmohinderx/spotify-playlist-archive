@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/7HZqD8EWEBQrklzLf3oQer"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 154145,
       "name": "Avenue Road",
       "url": "https://open.spotify.com/track/35M5jZAr2kizYaDvn4bXwx"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 147514,
       "name": "Bad",
       "url": "https://open.spotify.com/track/5fiyuKLoOKKFbJBOp8gNiW"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 257923,
       "name": "Don't You Worry Child - Acoustic Version",
       "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 186754,
       "name": "Find You + Spectrum + Clarity + Stay the Night",
       "url": "https://open.spotify.com/track/6HuetsfttCsDk6hx41OQ7S"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 204374,
       "name": "Freeze Time - Acoustic Version",
       "url": "https://open.spotify.com/track/7xDuAq8R7VVufDqqz5ZCi3"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 188037,
       "name": "Good Day Bad Day - Emotional Edit",
       "url": "https://open.spotify.com/track/17k9pVUNbiN6l3UtJeX3Wx"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 181235,
       "name": "Into The Sunset - Acoustic",
       "url": "https://open.spotify.com/track/2ckJlAv1EZ8JRLDE2HNv2O"
@@ -1022,6 +1022,24 @@
       "duration_ms": 176917,
       "name": "Into You - Acoustic Version",
       "url": "https://open.spotify.com/track/4pgX15KGFNTHQFZg7GL3n8"
+    },
+    {
+      "album": {
+        "name": "It Aint me (Acoustic)",
+        "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192545,
+      "name": "It Aint me - Acoustic",
+      "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
     },
     {
       "album": {
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/7BRYEE8wi0gye3T5V7zro9"
@@ -1699,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/2Uee1YaRpBh9SITa1GMDg0"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160395,
+      "name": "Red Lights - 3LAU's Acoustic Version",
+      "url": "https://open.spotify.com/track/1DRi4qnbpeo8hPGIYVeRPP"
+    },
+    {
+      "album": {
         "name": "Regardless (Acoustic)",
         "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
       },
@@ -1812,7 +1848,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 304983,
       "name": "Satellite / Stealing Time",
       "url": "https://open.spotify.com/track/7fBKJ3CxmG1LQHexTIY7g7"
@@ -1922,7 +1958,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 194000,
       "name": "Shockwave - Acoustic Version",
       "url": "https://open.spotify.com/track/57A8SCoG3YamyeNzizCtaH"
@@ -1948,7 +1984,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 197665,
       "name": "Show You Love - Acoustic",
       "url": "https://open.spotify.com/track/2nWHcM4Oa8bs24uthT2REP"
@@ -1988,7 +2024,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
@@ -2046,7 +2082,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 288026,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/3u5DJhyNjkFCeCywlEK5JO"
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 184815,
       "name": "Take Me Home (feat. Bebe Rexha) - Acoustic",
       "url": "https://open.spotify.com/track/4s8kxu7ipl6uAFyncBX4RR"
@@ -2236,7 +2272,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 201762,
       "name": "They Don't Know Us - Piano Version",
       "url": "https://open.spotify.com/track/0f6t3131LT1No7MnJGiPVw"
@@ -2254,7 +2290,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 260839,
       "name": "Thing Called Love",
       "url": "https://open.spotify.com/track/6J6AUucDtx9c0cjzjBUUtS"
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 181934,
       "name": "Used To Have It All - Acoustic",
       "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
@@ -2548,7 +2584,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 224522,
       "name": "Young God (Acoustic) [feat. Lovelle]",
       "url": "https://open.spotify.com/track/0mQhrGlPgwWPscwMfC6WfI"

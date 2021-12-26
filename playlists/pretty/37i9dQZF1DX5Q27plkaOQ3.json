@@ -1,18 +1,18 @@
 {
   "description": "All <a href=\"spotify:genre:bass\">wobble</a>",
   "name": "Dubstep Don",
-  "num_followers": 969954,
+  "num_followers": 969991,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDM5MjcyOSwwMDAwMDAwMGVmNGVhMGVlY2FiNGY4NDNjMDg5NDVjZTc3ZTQ2ZDMw",
+  "snapshot_id": "MTY0MDQ3OTMzMSwwMDAwMDAwMDExMzhjNzc4Y2RmMWU1MzBiM2I0ZmMwZTg3MDExMGJl",
   "tracks": [
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Demisaur",
-        "url": "https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF"
+        "name": "Bunker Buster",
+        "url": "https://open.spotify.com/album/41mKx6GIJU5WuxO6ucgvRa"
       },
       "artists": [
         {
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         }
       ],
-      "duration_ms": 212800,
-      "name": "Demisaur",
-      "url": "https://open.spotify.com/track/6cY37yS9qRbBNgkt52z86V"
+      "duration_ms": 233646,
+      "name": "Bunker Buster",
+      "url": "https://open.spotify.com/track/4sIb34wgeE5G0XXGTrpERP"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -47,18 +47,74 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "THE SHOOTV",
-        "url": "https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ"
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5"
       },
       "artists": [
         {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
         }
       ],
-      "duration_ms": 185800,
-      "name": "THE SHOOTV",
-      "url": "https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU"
+      "duration_ms": 291635,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Simulation",
+        "url": "https://open.spotify.com/album/5iS3iVP4mj29YqqsdiAP3I"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "REDLINE",
+      "url": "https://open.spotify.com/track/2rAH5DmorvybHnY6wqFaIA"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Astro Funk",
+        "url": "https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Astro Funk",
+      "url": "https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Shockwave",
+        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 205126,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/3LuKDSqL4z1BL8HjSwxh5b"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -87,154 +143,78 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Shockwave",
-        "url": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I"
+        "name": "Demisaur",
+        "url": "https://open.spotify.com/album/1QEheTpJtOjBk1AO7yevtF"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 205126,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/3LuKDSqL4z1BL8HjSwxh5b"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Trensetter",
-        "url": "https://open.spotify.com/album/0VUgYoQKCWvIE8ptlTTH0R"
-      },
-      "artists": [
         {
           "name": "Kai Wachi",
           "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
         }
       ],
-      "duration_ms": 137418,
-      "name": "Trensetter",
-      "url": "https://open.spotify.com/track/0WhTN2qunw2aYr9nDfqw6e"
+      "duration_ms": 212800,
+      "name": "Demisaur",
+      "url": "https://open.spotify.com/track/6cY37yS9qRbBNgkt52z86V"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/3Scp9GrDoeAKbNfvX8vVRM"
+        "name": "Valley Of Violence",
+        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "UBUR",
-          "url": "https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6"
-        },
-        {
-          "name": "Armanni Reign",
-          "url": "https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         }
       ],
-      "duration_ms": 173647,
-      "name": "Back To Back",
-      "url": "https://open.spotify.com/track/0hvKdjFlKowmHaAr6RJWBh"
+      "duration_ms": 238443,
+      "name": "Valley Of Violence",
+      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Transmutation Sequence",
-        "url": "https://open.spotify.com/album/6FNph2s6ByZVyqWhmUkSVk"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD"
       },
       "artists": [
         {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Transmutation Sequence",
-      "url": "https://open.spotify.com/track/2BPxRZ38SsDjqJZhGTRuZr"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Clairvoyant",
-        "url": "https://open.spotify.com/album/315BguRzOEWRWgyyvDXAfn"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Clairvoyant",
-      "url": "https://open.spotify.com/track/24pAbQIo9igTt9wbJFaXp3"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "This Could Be Us",
-        "url": "https://open.spotify.com/album/3LDO3EsSED9KNkt8ycUAHH"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        },
-        {
-          "name": "FRANK ZUMMO",
-          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
-        }
-      ],
-      "duration_ms": 308400,
-      "name": "This Could Be Us",
-      "url": "https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Dark Wobble",
-        "url": "https://open.spotify.com/album/611ud8ds3KSf8ufyFGg5gV"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        }
-      ],
-      "duration_ms": 277981,
-      "name": "Narnia",
-      "url": "https://open.spotify.com/track/6TtlXUQmYG6cbK1P6RRYuY"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Bunker Buster",
-        "url": "https://open.spotify.com/album/41mKx6GIJU5WuxO6ucgvRa"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
         },
         {
           "name": "Subtronics",
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "JT Roach",
+          "url": "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
         }
       ],
-      "duration_ms": 233646,
-      "name": "Bunker Buster",
-      "url": "https://open.spotify.com/track/4sIb34wgeE5G0XXGTrpERP"
+      "duration_ms": 364800,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/5ssIl7ho6aXkqoQ7CssRBw"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        }
+      ],
+      "duration_ms": 235259,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/73RKddd2yIFya9TZRFCd6r"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -263,28 +243,32 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Arcade Fire",
-        "url": "https://open.spotify.com/album/3MxrpzVBvts8GL1xMrF3WH"
+        "name": "This Could Be Us",
+        "url": "https://open.spotify.com/album/3LDO3EsSED9KNkt8ycUAHH"
       },
       "artists": [
         {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
         },
         {
-          "name": "FuntCase",
-          "url": "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        },
+        {
+          "name": "FRANK ZUMMO",
+          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
         }
       ],
-      "duration_ms": 234206,
-      "name": "Arcade Fire",
-      "url": "https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF"
+      "duration_ms": 308400,
+      "name": "This Could Be Us",
+      "url": "https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
+        "name": "MUSCLEVILLE EP",
+        "url": "https://open.spotify.com/album/75UPb2lnvwv4Qp83kESQKV"
       },
       "artists": [
         {
@@ -292,9 +276,81 @@
           "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
         }
       ],
-      "duration_ms": 131254,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
+      "duration_ms": 143137,
+      "name": "Muscleville",
+      "url": "https://open.spotify.com/track/0mL9QPL0XnecyPgnbnTKh0"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "BUBBLE BASS",
+        "url": "https://open.spotify.com/album/0Xns6eK58lVfQsZFMoTZRQ"
+      },
+      "artists": [
+        {
+          "name": "YOOKiE",
+          "url": "https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "BUBBLE BASS",
+      "url": "https://open.spotify.com/track/57iPY8trFGMdDvs2IQNxmw"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Transmutation Sequence",
+        "url": "https://open.spotify.com/album/6FNph2s6ByZVyqWhmUkSVk"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Transmutation Sequence",
+      "url": "https://open.spotify.com/track/2BPxRZ38SsDjqJZhGTRuZr"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/3Scp9GrDoeAKbNfvX8vVRM"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "UBUR",
+          "url": "https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6"
+        },
+        {
+          "name": "Armanni Reign",
+          "url": "https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI"
+        }
+      ],
+      "duration_ms": 173647,
+      "name": "Back To Back",
+      "url": "https://open.spotify.com/track/0hvKdjFlKowmHaAr6RJWBh"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Dark Wobble",
+        "url": "https://open.spotify.com/album/611ud8ds3KSf8ufyFGg5gV"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        }
+      ],
+      "duration_ms": 277981,
+      "name": "Narnia",
+      "url": "https://open.spotify.com/track/6TtlXUQmYG6cbK1P6RRYuY"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -319,22 +375,38 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Death's Parade",
-        "url": "https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg"
+        "name": "Trensetter",
+        "url": "https://open.spotify.com/album/0VUgYoQKCWvIE8ptlTTH0R"
       },
       "artists": [
         {
-          "name": "Outcry",
-          "url": "https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd"
-        },
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
         }
       ],
-      "duration_ms": 211175,
-      "name": "Death's Parade",
-      "url": "https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG"
+      "duration_ms": 137418,
+      "name": "Trensetter",
+      "url": "https://open.spotify.com/track/0WhTN2qunw2aYr9nDfqw6e"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "NOSEBLEED",
+        "url": "https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "NOSEBLEED",
+      "url": "https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -371,18 +443,50 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/5ssIl7ho6aXkqoQ7CssRBw"
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/315BguRzOEWRWgyyvDXAfn"
       },
       "artists": [
         {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
         }
       ],
-      "duration_ms": 235259,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/73RKddd2yIFya9TZRFCd6r"
+      "duration_ms": 169600,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/24pAbQIo9igTt9wbJFaXp3"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Anti-Shave EP",
+        "url": "https://open.spotify.com/album/6RzKKjfYIvlDPjeMMQLWDB"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "duration_ms": 126854,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/0NWnuJORMBiSpZLKcb5FLV"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 131254,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -407,58 +511,22 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "MUSCLEVILLE EP",
-        "url": "https://open.spotify.com/album/75UPb2lnvwv4Qp83kESQKV"
+        "name": "Arcade Fire",
+        "url": "https://open.spotify.com/album/3MxrpzVBvts8GL1xMrF3WH"
       },
       "artists": [
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 143137,
-      "name": "Muscleville",
-      "url": "https://open.spotify.com/track/0mL9QPL0XnecyPgnbnTKh0"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Simulation",
-        "url": "https://open.spotify.com/album/5iS3iVP4mj29YqqsdiAP3I"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "REDLINE",
-      "url": "https://open.spotify.com/track/2rAH5DmorvybHnY6wqFaIA"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
         },
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "JT Roach",
-          "url": "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
+          "name": "FuntCase",
+          "url": "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
         }
       ],
-      "duration_ms": 364800,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7"
+      "duration_ms": 234206,
+      "name": "Arcade Fire",
+      "url": "https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -487,6 +555,70 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Magma",
+      "url": "https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/30NTJsLIcuDltdil45Tpnt"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/16fy74yXmGeSMk2yqbPlLV"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "IDK, Vol. 2",
+        "url": "https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Up Time",
+      "url": "https://open.spotify.com/track/4gwOjnhUZw8WSGa1RHNCgf"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
         "name": "I Can Feel It",
         "url": "https://open.spotify.com/album/1MPcz9Fd6Rce6zUV17Vwxe"
       },
@@ -503,38 +635,86 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "The Rat",
-        "url": "https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7"
+        "name": "Death's Parade",
+        "url": "https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg"
       },
       "artists": [
         {
-          "name": "Sam Lamar",
-          "url": "https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8"
+          "name": "Outcry",
+          "url": "https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd"
+        },
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
         }
       ],
-      "duration_ms": 193287,
-      "name": "The Rat",
-      "url": "https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw"
+      "duration_ms": 211175,
+      "name": "Death's Parade",
+      "url": "https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Carbonara",
-        "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
+        "name": "THE SHOOTV",
+        "url": "https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ"
       },
       "artists": [
         {
-          "name": "Pixel Terror",
-          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
-        },
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "THE SHOOTV",
+      "url": "https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Solastalgia",
+        "url": "https://open.spotify.com/album/0s1DT18ce8ZvQZMoUAUi93"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/3MpqvGAioZvFXQBkXuyjp6"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "duration_ms": 193292,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Prego",
+        "url": "https://open.spotify.com/album/0o4fyxUuFqFNJ95zLetBZs"
+      },
+      "artists": [
         {
           "name": "Spag Heddy",
           "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Carbonara",
-      "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
+      "duration_ms": 250004,
+      "name": "Prego",
+      "url": "https://open.spotify.com/track/6wdbkopqDTQJUcbtxG4KCO"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -559,158 +739,18 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Anti-Shave EP",
-        "url": "https://open.spotify.com/album/6RzKKjfYIvlDPjeMMQLWDB"
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/0H5c8x30XclLLXZTVvRf0Y"
       },
       "artists": [
         {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
         }
       ],
-      "duration_ms": 126854,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/0NWnuJORMBiSpZLKcb5FLV"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "BUBBLE BASS",
-        "url": "https://open.spotify.com/album/0Xns6eK58lVfQsZFMoTZRQ"
-      },
-      "artists": [
-        {
-          "name": "YOOKiE",
-          "url": "https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "BUBBLE BASS",
-      "url": "https://open.spotify.com/track/57iPY8trFGMdDvs2IQNxmw"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 291635,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        }
-      ],
-      "duration_ms": 193292,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Habitat",
-        "url": "https://open.spotify.com/album/30NTJsLIcuDltdil45Tpnt"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Habitat",
-      "url": "https://open.spotify.com/track/16fy74yXmGeSMk2yqbPlLV"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Astro Funk",
-        "url": "https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Astro Funk",
-      "url": "https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Valley Of Violence",
-        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 238443,
-      "name": "Valley Of Violence",
-      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Bakin'",
-        "url": "https://open.spotify.com/album/5IcN6G9WOIw87haM2q63X9"
-      },
-      "artists": [
-        {
-          "name": "Fransis Derelle",
-          "url": "https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn"
-        },
-        {
-          "name": "YKES",
-          "url": "https://open.spotify.com/artist/1qHnyADaXNasNXl7aJn3op"
-        },
-        {
-          "name": "Peytn",
-          "url": "https://open.spotify.com/artist/5Liz6tTU5sIQkKCDwQonov"
-        }
-      ],
-      "duration_ms": 176193,
-      "name": "Bakin'",
-      "url": "https://open.spotify.com/track/7mOcONitM15kWhBYr6fW1r"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5spblclZJQbJPAHjRop7sl"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/1PE5LrDuHq4maYBVmsWlHJ"
+      "duration_ms": 228400,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/03h5bKCEQszowW4jo7fxfN"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -731,262 +771,34 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Solastalgia",
-        "url": "https://open.spotify.com/album/0s1DT18ce8ZvQZMoUAUi93"
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/0ce00WtByT2e6ecEjNMJom"
       },
       "artists": [
         {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/3MpqvGAioZvFXQBkXuyjp6"
+      "duration_ms": 205594,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/123FqwqgRIRKpU5kPXprW0"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Locked Away",
-        "url": "https://open.spotify.com/album/6GeCiqBk5lBVg1pSY4MCBF"
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/2eU57jKQamWytlwmcXvNAK"
       },
       "artists": [
         {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Courtney Drummey",
-          "url": "https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl"
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
         }
       ],
-      "duration_ms": 212800,
-      "name": "Locked Away",
-      "url": "https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "NOSEBLEED",
-        "url": "https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "NOSEBLEED",
-      "url": "https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Wasted",
-        "url": "https://open.spotify.com/album/2frjhKXWiR4CVeowMBHCF5"
-      },
-      "artists": [
-        {
-          "name": "eugene",
-          "url": "https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/2RrgPY4yRUewW4pHmudoyl"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Thoughts Of You",
-        "url": "https://open.spotify.com/album/208m3z47W4iFtJPgrmW34k"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Peytn",
-          "url": "https://open.spotify.com/artist/3quC9b3U5I6ZLgsw3yEgxV"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Thoughts Of You",
-      "url": "https://open.spotify.com/track/3kcF9tCDBjg1cEKovHpopQ"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "PURGE",
-        "url": "https://open.spotify.com/album/0pCgcdzGA9ue7EimjdQ5yV"
-      },
-      "artists": [
-        {
-          "name": "LICK",
-          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
-        },
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "PURGE",
-      "url": "https://open.spotify.com/track/7FdmopCkRn3XDqb5ITwff1"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Cut Throat",
-        "url": "https://open.spotify.com/album/3UkvAjIq7eO6ic2CvAOWnI"
-      },
-      "artists": [
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "Jiqui",
-          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Cut Throat",
-      "url": "https://open.spotify.com/track/4x1SZsoKaJGOCEgg9EF4Uz"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Karma Restored",
-        "url": "https://open.spotify.com/album/4LK0Mf5151DSs8hXDoUKj1"
-      },
-      "artists": [
-        {
-          "name": "Conrank",
-          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
-        },
-        {
-          "name": "Figure",
-          "url": "https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr"
-        }
-      ],
-      "duration_ms": 232928,
-      "name": "Karma Restored",
-      "url": "https://open.spotify.com/track/3gc9Lfzz46uflZXXEx293l"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "CHAOS",
-        "url": "https://open.spotify.com/album/1bTD0WCBtN3Vsl5qBBnBD8"
-      },
-      "artists": [
-        {
-          "name": "SAYMYNAME",
-          "url": "https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv"
-        },
-        {
-          "name": "Edison Cole",
-          "url": "https://open.spotify.com/artist/2OJbBoEtM6pqm96ke1vNiY"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "CHAOS",
-      "url": "https://open.spotify.com/track/2rstio2WGmSbZXAYtX1cWR"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Pretty Dark Loud",
-        "url": "https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC"
-      },
-      "artists": [
-        {
-          "name": "Mersiv",
-          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
-        },
-        {
-          "name": "Attitude",
-          "url": "https://open.spotify.com/artist/6HhwIU8DwwfVVNWO8Yso5b"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "Fire Dance",
-      "url": "https://open.spotify.com/track/3IICGfnISboAKaSudbZqPk"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/0H5c8x30XclLLXZTVvRf0Y"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "The Pit",
-      "url": "https://open.spotify.com/track/03h5bKCEQszowW4jo7fxfN"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/6AQyzJ4rBD3gryKrKkAeqR"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/2Z2FA1PG9oa7LpxBZRXGBm"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Oracle EP",
-        "url": "https://open.spotify.com/album/05wABmetW0HhmxqIlQjOIG"
-      },
-      "artists": [
-        {
-          "name": "Oddprophet",
-          "url": "https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU"
-        },
-        {
-          "name": "Illaman",
-          "url": "https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu"
-        }
-      ],
-      "duration_ms": 287513,
-      "name": "British Gas",
-      "url": "https://open.spotify.com/track/5fRfNIzmtZPbKv9yVEz5hA"
+      "duration_ms": 204800,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/64GlbmPkapZqVmgOcnaziU"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1011,22 +823,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Shimmer",
-        "url": "https://open.spotify.com/album/0ce00WtByT2e6ecEjNMJom"
-      },
-      "artists": [
-        {
-          "name": "Oski",
-          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
-        }
-      ],
-      "duration_ms": 205594,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/123FqwqgRIRKpU5kPXprW0"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "Crush (VIP)",
         "url": "https://open.spotify.com/album/2IdrcmtQZbqPqdNDS4uwpi"
       },
@@ -1047,54 +843,58 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "No Cap",
-        "url": "https://open.spotify.com/album/1ZyE0svTRVJRACo7uDRnjK"
+        "name": "Oracle EP",
+        "url": "https://open.spotify.com/album/05wABmetW0HhmxqIlQjOIG"
       },
       "artists": [
         {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+          "name": "Oddprophet",
+          "url": "https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU"
         },
         {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+          "name": "Illaman",
+          "url": "https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu"
         }
       ],
-      "duration_ms": 160000,
-      "name": "No Cap",
-      "url": "https://open.spotify.com/track/4T8OzVj1mcE5LNC3deHs4l"
+      "duration_ms": 287513,
+      "name": "British Gas",
+      "url": "https://open.spotify.com/track/5fRfNIzmtZPbKv9yVEz5hA"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Special Guest EP",
-        "url": "https://open.spotify.com/album/7KLEYOgwcEUHInKhAuKbO2"
+        "name": "CHAOS",
+        "url": "https://open.spotify.com/album/1bTD0WCBtN3Vsl5qBBnBD8"
       },
       "artists": [
         {
-          "name": "Leotrix",
-          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+          "name": "SAYMYNAME",
+          "url": "https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv"
+        },
+        {
+          "name": "Edison Cole",
+          "url": "https://open.spotify.com/artist/2OJbBoEtM6pqm96ke1vNiY"
         }
       ],
-      "duration_ms": 211862,
-      "name": "Special Guest",
-      "url": "https://open.spotify.com/track/36ULZ4UnKmYje4E74xNd9p"
+      "duration_ms": 156800,
+      "name": "CHAOS",
+      "url": "https://open.spotify.com/track/2rstio2WGmSbZXAYtX1cWR"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "IDK, Vol. 2",
-        "url": "https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5spblclZJQbJPAHjRop7sl"
       },
       "artists": [
         {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         }
       ],
-      "duration_ms": 209600,
-      "name": "Up Time",
-      "url": "https://open.spotify.com/track/4gwOjnhUZw8WSGa1RHNCgf"
+      "duration_ms": 180000,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/1PE5LrDuHq4maYBVmsWlHJ"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1123,18 +923,174 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "ELIMINATE",
-        "url": "https://open.spotify.com/album/4HFka5kVY811vfUJGlVmTo"
+        "name": "Cut Throat",
+        "url": "https://open.spotify.com/album/3UkvAjIq7eO6ic2CvAOWnI"
       },
       "artists": [
         {
-          "name": "LICK",
-          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
         }
       ],
-      "duration_ms": 132800,
-      "name": "ELIMINATE",
-      "url": "https://open.spotify.com/track/6RJmlflJpfMENnS4R7DR7N"
+      "duration_ms": 158840,
+      "name": "Cut Throat",
+      "url": "https://open.spotify.com/track/4x1SZsoKaJGOCEgg9EF4Uz"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "The Rat",
+        "url": "https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7"
+      },
+      "artists": [
+        {
+          "name": "Sam Lamar",
+          "url": "https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8"
+        }
+      ],
+      "duration_ms": 193287,
+      "name": "The Rat",
+      "url": "https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Bakin'",
+        "url": "https://open.spotify.com/album/5IcN6G9WOIw87haM2q63X9"
+      },
+      "artists": [
+        {
+          "name": "Fransis Derelle",
+          "url": "https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn"
+        },
+        {
+          "name": "YKES",
+          "url": "https://open.spotify.com/artist/1qHnyADaXNasNXl7aJn3op"
+        },
+        {
+          "name": "Peytn",
+          "url": "https://open.spotify.com/artist/5Liz6tTU5sIQkKCDwQonov"
+        }
+      ],
+      "duration_ms": 176193,
+      "name": "Bakin'",
+      "url": "https://open.spotify.com/track/7mOcONitM15kWhBYr6fW1r"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Karma Restored",
+        "url": "https://open.spotify.com/album/4LK0Mf5151DSs8hXDoUKj1"
+      },
+      "artists": [
+        {
+          "name": "Conrank",
+          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
+        },
+        {
+          "name": "Figure",
+          "url": "https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr"
+        }
+      ],
+      "duration_ms": 232928,
+      "name": "Karma Restored",
+      "url": "https://open.spotify.com/track/3gc9Lfzz46uflZXXEx293l"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Special Guest EP",
+        "url": "https://open.spotify.com/album/7KLEYOgwcEUHInKhAuKbO2"
+      },
+      "artists": [
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Special Guest",
+      "url": "https://open.spotify.com/track/36ULZ4UnKmYje4E74xNd9p"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Fusion",
+        "url": "https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw"
+      },
+      "artists": [
+        {
+          "name": "G-Rex",
+          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+        },
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Fusion",
+      "url": "https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/1ZyE0svTRVJRACo7uDRnjK"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "No Cap",
+      "url": "https://open.spotify.com/track/4T8OzVj1mcE5LNC3deHs4l"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/2Z2FA1PG9oa7LpxBZRXGBm"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Pretty Dark Loud",
+        "url": "https://open.spotify.com/album/4PyidAIMkmFa0iAdoyhOOC"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Attitude",
+          "url": "https://open.spotify.com/artist/6HhwIU8DwwfVVNWO8Yso5b"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "Fire Dance",
+      "url": "https://open.spotify.com/track/3IICGfnISboAKaSudbZqPk"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1163,74 +1119,54 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/2eU57jKQamWytlwmcXvNAK"
+        "name": "ELIMINATE",
+        "url": "https://open.spotify.com/album/4HFka5kVY811vfUJGlVmTo"
       },
       "artists": [
         {
-          "name": "Calcium",
-          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/64GlbmPkapZqVmgOcnaziU"
+      "duration_ms": 132800,
+      "name": "ELIMINATE",
+      "url": "https://open.spotify.com/track/6RJmlflJpfMENnS4R7DR7N"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Shook",
-        "url": "https://open.spotify.com/album/0nnRW1mmT4N6jOOHFR1Cw5"
-      },
-      "artists": [
-        {
-          "name": "Greg Gatsby",
-          "url": "https://open.spotify.com/artist/5BVhWcIwApmOFHiLT7OJS5"
-        },
-        {
-          "name": "CRVNTIS",
-          "url": "https://open.spotify.com/artist/0vtUbzii1Zwoc5IIwQQ1v3"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 182959,
-      "name": "Shook",
-      "url": "https://open.spotify.com/track/3EZqBIdUYKPUJ4nL35vufg"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5"
+        "name": "Carbonara",
+        "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
       },
       "artists": [
         {
           "name": "Pixel Terror",
           "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "Spag Heddy",
+          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Magma",
-      "url": "https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm"
+      "duration_ms": 172800,
+      "name": "Carbonara",
+      "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Blow It Up",
-        "url": "https://open.spotify.com/album/69v5JpYfoOurqNb4s5lGx9"
+        "name": "Ill",
+        "url": "https://open.spotify.com/album/2MLdBaNeanemnRDQYLhmw4"
       },
       "artists": [
         {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+          "name": "Carbin",
+          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
         }
       ],
-      "duration_ms": 147200,
-      "name": "Blow It Up",
-      "url": "https://open.spotify.com/track/2nkEpxFxBrSNszj50S98zv"
+      "duration_ms": 256000,
+      "name": "Ill",
+      "url": "https://open.spotify.com/track/1jVCWMCgfWibathFUQbGq7"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1251,22 +1187,22 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Fusion",
-        "url": "https://open.spotify.com/album/7pqIOkxBEl1aXWw3TqZkVw"
+        "name": "Thoughts Of You",
+        "url": "https://open.spotify.com/album/208m3z47W4iFtJPgrmW34k"
       },
       "artists": [
         {
-          "name": "G-Rex",
-          "url": "https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K"
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
         },
         {
-          "name": "Sully",
-          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+          "name": "Peytn",
+          "url": "https://open.spotify.com/artist/3quC9b3U5I6ZLgsw3yEgxV"
         }
       ],
-      "duration_ms": 124800,
-      "name": "Fusion",
-      "url": "https://open.spotify.com/track/2pwpYFxW0Hya0aIYFTXRIN"
+      "duration_ms": 182400,
+      "name": "Thoughts Of You",
+      "url": "https://open.spotify.com/track/3kcF9tCDBjg1cEKovHpopQ"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1307,22 +1243,22 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Ice Scream (Carbin Remix)",
-        "url": "https://open.spotify.com/album/6uEYlcb3ezK7bLWjxuQBq2"
+        "name": "Hive Mind EP (Pt. 1)",
+        "url": "https://open.spotify.com/album/6ddlkEQjUW4oXJMJNvE5FZ"
       },
       "artists": [
         {
-          "name": "Shizz Lo",
-          "url": "https://open.spotify.com/artist/2jrgjupkBfW8QzFQonRZVG"
+          "name": "Dr. Ozi",
+          "url": "https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF"
         },
         {
-          "name": "Carbin",
-          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
+          "name": "Peytn",
+          "url": "https://open.spotify.com/artist/3quC9b3U5I6ZLgsw3yEgxV"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Ice Scream - Carbin Remix",
-      "url": "https://open.spotify.com/track/1Eh9S6rhwBWY58yhEeoANK"
+      "duration_ms": 227200,
+      "name": "Prayers",
+      "url": "https://open.spotify.com/track/3L4VvorwcRgE9SOWYHYzoe"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1343,74 +1279,86 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "FuntCase Presents: DPMO, Vol. 4",
-        "url": "https://open.spotify.com/album/6WVnsgbLJ2WkiA616PCdwu"
+        "name": "Lunar Tear",
+        "url": "https://open.spotify.com/album/6waf9VcbO1wpn7iAcFME7b"
       },
       "artists": [
         {
-          "name": "FuntCase",
-          "url": "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
-        },
-        {
-          "name": "Dr. Lobster",
-          "url": "https://open.spotify.com/artist/6rAYLpYH7blCH8exP3DboL"
+          "name": "Kotori",
+          "url": "https://open.spotify.com/artist/20UYCAvAHJ1WqrCElptD7O"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Stompi Boi",
-      "url": "https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD"
+      "duration_ms": 199448,
+      "name": "Lunar Tear",
+      "url": "https://open.spotify.com/track/33ocUBiuYwpxVygdiuLDJU"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Atlantis Super Rave",
-        "url": "https://open.spotify.com/album/3HC76faU0vg8qwEQbG7U4l"
+        "name": "Wax Gibbons EP",
+        "url": "https://open.spotify.com/album/2byGPU6HriaXEvGCVsSFiw"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "duration_ms": 177193,
+      "name": "Ravestab",
+      "url": "https://open.spotify.com/track/6AlatqBSgJ0dkRB5Hak7Va"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Out Of Order EP",
+        "url": "https://open.spotify.com/album/363x1YbpXfBGfu4BgYBz1n"
+      },
+      "artists": [
+        {
+          "name": "Leotrix",
+          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Tins",
+      "url": "https://open.spotify.com/track/6SINQPDsWQYa1jStwH3SSr"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/2frjhKXWiR4CVeowMBHCF5"
+      },
+      "artists": [
+        {
+          "name": "eugene",
+          "url": "https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/2RrgPY4yRUewW4pHmudoyl"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Locked Away",
+        "url": "https://open.spotify.com/album/6GeCiqBk5lBVg1pSY4MCBF"
       },
       "artists": [
         {
           "name": "Whales",
           "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Atlantis Super Rave",
-      "url": "https://open.spotify.com/track/4XFqVDaVKCjMoYdYHgJE1i"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Space EP",
-        "url": "https://open.spotify.com/album/3h55iRZXKe5yumnY9gohj3"
-      },
-      "artists": [
-        {
-          "name": "Dr. Ush\u016bu",
-          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
         },
         {
-          "name": "Godmode",
-          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
+          "name": "Courtney Drummey",
+          "url": "https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl"
         }
       ],
-      "duration_ms": 230732,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/105lPQTSIrlhH5h6ftGpJ5"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Ill",
-        "url": "https://open.spotify.com/album/2MLdBaNeanemnRDQYLhmw4"
-      },
-      "artists": [
-        {
-          "name": "Carbin",
-          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Ill",
-      "url": "https://open.spotify.com/track/1jVCWMCgfWibathFUQbGq7"
+      "duration_ms": 212800,
+      "name": "Locked Away",
+      "url": "https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1435,18 +1383,62 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Prego",
-        "url": "https://open.spotify.com/album/0o4fyxUuFqFNJ95zLetBZs"
+        "name": "Blow It Up",
+        "url": "https://open.spotify.com/album/69v5JpYfoOurqNb4s5lGx9"
       },
       "artists": [
         {
-          "name": "Spag Heddy",
-          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
         }
       ],
-      "duration_ms": 250004,
-      "name": "Prego",
-      "url": "https://open.spotify.com/track/6wdbkopqDTQJUcbtxG4KCO"
+      "duration_ms": 147200,
+      "name": "Blow It Up",
+      "url": "https://open.spotify.com/track/2nkEpxFxBrSNszj50S98zv"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "PURGE",
+        "url": "https://open.spotify.com/album/0pCgcdzGA9ue7EimjdQ5yV"
+      },
+      "artists": [
+        {
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
+        },
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "PURGE",
+      "url": "https://open.spotify.com/track/7FdmopCkRn3XDqb5ITwff1"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Shook",
+        "url": "https://open.spotify.com/album/0nnRW1mmT4N6jOOHFR1Cw5"
+      },
+      "artists": [
+        {
+          "name": "Greg Gatsby",
+          "url": "https://open.spotify.com/artist/5BVhWcIwApmOFHiLT7OJS5"
+        },
+        {
+          "name": "CRVNTIS",
+          "url": "https://open.spotify.com/artist/0vtUbzii1Zwoc5IIwQQ1v3"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 182959,
+      "name": "Shook",
+      "url": "https://open.spotify.com/track/3EZqBIdUYKPUJ4nL35vufg"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1495,26 +1487,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Go Off",
-        "url": "https://open.spotify.com/album/4PQyYCE5lrvbrke8cyTVPM"
-      },
-      "artists": [
-        {
-          "name": "Louder Space",
-          "url": "https://open.spotify.com/artist/5qbZKHWNHuVAOwZPQtneCV"
-        },
-        {
-          "name": "DMN",
-          "url": "https://open.spotify.com/artist/6sntDbmjDwLQBqaFhcDT7n"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Go Off",
-      "url": "https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "Dark Matter EP",
         "url": "https://open.spotify.com/album/6iqrCQIQZEptZ2O1e6nBQR"
       },
@@ -1527,26 +1499,6 @@
       "duration_ms": 165517,
       "name": "Bullet Hole",
       "url": "https://open.spotify.com/track/3r1IPri4eZ4WHNAMCd38Bs"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "POP DAT",
-        "url": "https://open.spotify.com/album/1rPYKy7MvAeEPOmNc2OZvF"
-      },
-      "artists": [
-        {
-          "name": "Gawm",
-          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
-        },
-        {
-          "name": "MATT DOE",
-          "url": "https://open.spotify.com/artist/5p2AgyBv3S7CkWelQWBZ0R"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "POP DAT",
-      "url": "https://open.spotify.com/track/0QlBuSVxXyYw7HGNC2PAtd"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1567,70 +1519,38 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Out Of Order EP",
-        "url": "https://open.spotify.com/album/363x1YbpXfBGfu4BgYBz1n"
+        "name": "Atlantis Super Rave",
+        "url": "https://open.spotify.com/album/3HC76faU0vg8qwEQbG7U4l"
       },
       "artists": [
         {
-          "name": "Leotrix",
-          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
         }
       ],
-      "duration_ms": 251586,
-      "name": "Tins",
-      "url": "https://open.spotify.com/track/6SINQPDsWQYa1jStwH3SSr"
+      "duration_ms": 230400,
+      "name": "Atlantis Super Rave",
+      "url": "https://open.spotify.com/track/4XFqVDaVKCjMoYdYHgJE1i"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/2u2FGyZJpDWfubdPB8l2qB"
+        "name": "Space EP",
+        "url": "https://open.spotify.com/album/3h55iRZXKe5yumnY9gohj3"
       },
       "artists": [
         {
-          "name": "SirensCeol",
-          "url": "https://open.spotify.com/artist/4MLO0CjZZIw0FgBDGnj3K4"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5pPZNwpwJWTfjI5UOOFWrH"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Lunar Tear",
-        "url": "https://open.spotify.com/album/6waf9VcbO1wpn7iAcFME7b"
-      },
-      "artists": [
-        {
-          "name": "Kotori",
-          "url": "https://open.spotify.com/artist/20UYCAvAHJ1WqrCElptD7O"
-        }
-      ],
-      "duration_ms": 199448,
-      "name": "Lunar Tear",
-      "url": "https://open.spotify.com/track/33ocUBiuYwpxVygdiuLDJU"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Hive Mind EP (Pt. 1)",
-        "url": "https://open.spotify.com/album/6ddlkEQjUW4oXJMJNvE5FZ"
-      },
-      "artists": [
-        {
-          "name": "Dr. Ozi",
-          "url": "https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF"
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
         },
         {
-          "name": "Peytn",
-          "url": "https://open.spotify.com/artist/3quC9b3U5I6ZLgsw3yEgxV"
+          "name": "Godmode",
+          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Prayers",
-      "url": "https://open.spotify.com/track/3L4VvorwcRgE9SOWYHYzoe"
+      "duration_ms": 230732,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/105lPQTSIrlhH5h6ftGpJ5"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1647,6 +1567,66 @@
       "duration_ms": 213800,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/19z6t2S2gWWvlPwwnqUz4V"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "FuntCase Presents: DPMO, Vol. 4",
+        "url": "https://open.spotify.com/album/6WVnsgbLJ2WkiA616PCdwu"
+      },
+      "artists": [
+        {
+          "name": "FuntCase",
+          "url": "https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D"
+        },
+        {
+          "name": "Dr. Lobster",
+          "url": "https://open.spotify.com/artist/6rAYLpYH7blCH8exP3DboL"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Stompi Boi",
+      "url": "https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Ice Scream (Carbin Remix)",
+        "url": "https://open.spotify.com/album/6uEYlcb3ezK7bLWjxuQBq2"
+      },
+      "artists": [
+        {
+          "name": "Shizz Lo",
+          "url": "https://open.spotify.com/artist/2jrgjupkBfW8QzFQonRZVG"
+        },
+        {
+          "name": "Carbin",
+          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Ice Scream - Carbin Remix",
+      "url": "https://open.spotify.com/track/1Eh9S6rhwBWY58yhEeoANK"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Go Off",
+        "url": "https://open.spotify.com/album/4PQyYCE5lrvbrke8cyTVPM"
+      },
+      "artists": [
+        {
+          "name": "Louder Space",
+          "url": "https://open.spotify.com/artist/5qbZKHWNHuVAOwZPQtneCV"
+        },
+        {
+          "name": "DMN",
+          "url": "https://open.spotify.com/artist/6sntDbmjDwLQBqaFhcDT7n"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Go Off",
+      "url": "https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1671,38 +1651,54 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "R2",
-        "url": "https://open.spotify.com/album/5LGceKVgkLOikEYSG0o8u4"
+        "name": "POP DAT",
+        "url": "https://open.spotify.com/album/1rPYKy7MvAeEPOmNc2OZvF"
       },
       "artists": [
         {
-          "name": "FelMax",
-          "url": "https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa"
+          "name": "Gawm",
+          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
         },
         {
-          "name": "Veros",
-          "url": "https://open.spotify.com/artist/2sX3DEyJXNkwzO8vOOQO79"
+          "name": "MATT DOE",
+          "url": "https://open.spotify.com/artist/5p2AgyBv3S7CkWelQWBZ0R"
         }
       ],
-      "duration_ms": 185142,
-      "name": "R2",
-      "url": "https://open.spotify.com/track/1pRJOs3y7bJPsx9523Br4n"
+      "duration_ms": 134400,
+      "name": "POP DAT",
+      "url": "https://open.spotify.com/track/0QlBuSVxXyYw7HGNC2PAtd"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Wax Gibbons EP",
-        "url": "https://open.spotify.com/album/2byGPU6HriaXEvGCVsSFiw"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/2u2FGyZJpDWfubdPB8l2qB"
       },
       "artists": [
         {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+          "name": "SirensCeol",
+          "url": "https://open.spotify.com/artist/4MLO0CjZZIw0FgBDGnj3K4"
         }
       ],
-      "duration_ms": 177193,
-      "name": "Ravestab",
-      "url": "https://open.spotify.com/track/6AlatqBSgJ0dkRB5Hak7Va"
+      "duration_ms": 233600,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5pPZNwpwJWTfjI5UOOFWrH"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Bubble Up",
+        "url": "https://open.spotify.com/album/5ZD0wmDSdnsobHtQKHMWiL"
+      },
+      "artists": [
+        {
+          "name": "Jayceeoh",
+          "url": "https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL"
+        }
+      ],
+      "duration_ms": 168025,
+      "name": "Bubble Up",
+      "url": "https://open.spotify.com/track/11eC2qnJdadhKgDI3Y2bhX"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1723,18 +1719,22 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Bubble Up",
-        "url": "https://open.spotify.com/album/5ZD0wmDSdnsobHtQKHMWiL"
+        "name": "R2",
+        "url": "https://open.spotify.com/album/5LGceKVgkLOikEYSG0o8u4"
       },
       "artists": [
         {
-          "name": "Jayceeoh",
-          "url": "https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL"
+          "name": "FelMax",
+          "url": "https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa"
+        },
+        {
+          "name": "Veros",
+          "url": "https://open.spotify.com/artist/2sX3DEyJXNkwzO8vOOQO79"
         }
       ],
-      "duration_ms": 168025,
-      "name": "Bubble Up",
-      "url": "https://open.spotify.com/track/11eC2qnJdadhKgDI3Y2bhX"
+      "duration_ms": 185142,
+      "name": "R2",
+      "url": "https://open.spotify.com/track/1pRJOs3y7bJPsx9523Br4n"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Q27plkaOQ3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,438 likes - 631 songs - 1 day 18 hr 26 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,439 likes - 632 songs - 1 day 18 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -639,5 +639,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 629 | [Swamp Thing](https://open.spotify.com/track/2pwdD26Y1GsIhrAOETKzQS) | [The Chameleons](https://open.spotify.com/artist/4HLWX9kzfraiCsTvrxJEXm) | [Strange Times](https://open.spotify.com/album/0OyyvqyS0iVQZXNhcwd3F6) | 5:56 |
 | 630 | [Red Fresco](https://open.spotify.com/track/3EwsTYvetbyJ1cah2Qo8yC) | [Raoul Vignal](https://open.spotify.com/artist/2dhK4evl9ePjM6Kg59Tf3Q) | [Years In Marble](https://open.spotify.com/album/2UVHR1TacY5GRSC1O2iBgl) | 3:11 |
 | 631 | [Wind Of Change](https://open.spotify.com/track/2lCuCNqtqSKMOqED1XXHzm) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:52 |
+| 632 | [All I Think About Now](https://open.spotify.com/track/5kMiMqkz9T8fwvWhAFgGNG) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/0CwsCKBeUxkgRi9LbdWl2x) | 3:07 |
 
-Snapshot ID: `MTY1MixkYjQ1ZmFiYTRhMDNkODIwNTMxYjVmYzE4ZDU5NTc3MzMwMmJkZTU2`
+Snapshot ID: `MTY1Myw4NmQwYWRhMTYzOTdiZGFiMjczOGNmYWY2MWM3NDVmOTkxNTUyMDk1`

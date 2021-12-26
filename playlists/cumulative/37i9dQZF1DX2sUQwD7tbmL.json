@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 157935,
       "name": "Adult",
       "url": "https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 148083,
       "name": "All Or Nothin",
       "url": "https://open.spotify.com/track/1PmLZMYwFqOosXYoRypUuh"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 253010,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/2CG6oeuMEtbL5OvKsyT7JL"
@@ -232,10 +232,28 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 249480,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0egSjRANLaacRqzguUnu5C"
+    },
+    {
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/7jMkel9QkSIE00TiXMaPox"
+      },
+      "artists": [
+        {
+          "name": "Frills",
+          "url": "https://open.spotify.com/artist/6YY4AQPjE7JqwpkqyPRfid"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/3C6zpM5YpQCjnQ1aS6MYT2"
     },
     {
       "album": {
@@ -448,7 +466,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 166909,
       "name": "Blue Ceiling",
       "url": "https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI"
@@ -549,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Call You Right Now",
+        "url": "https://open.spotify.com/album/13W6NZY00onLgaDrDYiI56"
+      },
+      "artists": [
+        {
+          "name": "JWestern",
+          "url": "https://open.spotify.com/artist/3Hj7VnvhMqphE4MF9oBzkG"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183075,
+      "name": "Call You Right Now",
+      "url": "https://open.spotify.com/track/1im6o9QxFA9raDV5D1RUV6"
+    },
+    {
+      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7CEcveuhikJxpej7s1Nypr"
       },
@@ -614,7 +650,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 216000,
       "name": "City Kitty",
       "url": "https://open.spotify.com/track/46tYLLzHq8ipzBq6X7W9YI"
@@ -650,7 +686,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 145813,
       "name": "Crawling Home When the Morning Comes",
       "url": "https://open.spotify.com/track/3IxyQP9V0vE7Z7LCkLz7n9"
@@ -686,7 +722,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 187013,
       "name": "Daft Pretty Boys",
       "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
@@ -704,7 +740,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 171243,
       "name": "Dance In Room Song",
       "url": "https://open.spotify.com/track/1gJNVpd713qDQd0kNS0uoF"
@@ -776,7 +812,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 201786,
       "name": "Don't Wanna",
       "url": "https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR"
@@ -920,7 +956,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 297720,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/29sQdO0XyF2fkdvbvmx8G0"
@@ -956,7 +992,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 209986,
       "name": "Fresh Squeezed",
       "url": "https://open.spotify.com/track/3W3YJYPXgzGeb6l8DnKLmY"
@@ -996,6 +1032,24 @@
       "duration_ms": 246200,
       "name": "Funky Galileo",
       "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
+    },
+    {
+      "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/2bdAXLoO6ESOHzA8O0pFZL"
+      },
+      "artists": [
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/4QcqzYDzMFvDSf6pyjOzET"
     },
     {
       "album": {
@@ -1154,7 +1208,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 147893,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/0oHivrvqAyEBDgjFF9JPXa"
@@ -1230,7 +1284,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 178987,
       "name": "HIDE (MYSELF BEHIND YOU)",
       "url": "https://open.spotify.com/track/0ylk0gZbTofpSVCsNe18BB"
@@ -1302,7 +1356,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 162344,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4B5OY3ZpcDgnhvJh7RJlhd"
@@ -1482,7 +1536,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187309,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y"
@@ -1702,7 +1756,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 132230,
       "name": "Moonboy",
       "url": "https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe"
@@ -1990,7 +2044,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 132892,
       "name": "Receive",
       "url": "https://open.spotify.com/track/6mI9mXAyLw9f8R1HHC89yi"
@@ -2088,7 +2142,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/1B63r7wZYOff831F0ysehg"
@@ -2456,7 +2510,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 241333,
       "name": "The Great Divide - Flipped",
       "url": "https://open.spotify.com/track/7BnIfjNGtSzgKEPbg3SXq9"
@@ -2478,7 +2532,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 222804,
       "name": "The Hardest Part [Feat. Tennis]",
       "url": "https://open.spotify.com/track/3HgSzOf6AyAm0QzWNTnpqP"
@@ -2590,7 +2644,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
@@ -2666,6 +2720,24 @@
       "duration_ms": 209454,
       "name": "Weekend Friend",
       "url": "https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM"
+    },
+    {
+      "album": {
+        "name": "What Have You Got To Lose",
+        "url": "https://open.spotify.com/album/6LuY1MUFzrhwcrriXL8RYw"
+      },
+      "artists": [
+        {
+          "name": "The Magic Gang",
+          "url": "https://open.spotify.com/artist/52pNByiBWx6SVMMqqcCA74"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231700,
+      "name": "What Have You Got To Lose",
+      "url": "https://open.spotify.com/track/4bkv6P3v8ZvyfdPLvtTo7H"
     },
     {
       "album": {

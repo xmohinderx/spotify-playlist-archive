@@ -230,7 +230,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 195553,
       "name": "Cloud Watching (Sky's the Limit)",
       "url": "https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 201055,
       "name": "Every Pigeon Is a Dove",
       "url": "https://open.spotify.com/track/2zFjsuLzDzHnGo5lTA6NSK"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 155966,
       "name": "Hambone",
       "url": "https://open.spotify.com/track/0wFFx8vFTw1tPHMnAjCnxe"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 170053,
       "name": "Here We Go Looby Loo",
       "url": "https://open.spotify.com/track/3F7hlXt0v4hORe0EzSJ9om"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 218756,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/55D9o8SOAG9Ch6VLUwtcxF"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 113764,
       "name": "Honey Oh Be",
       "url": "https://open.spotify.com/track/1ivFuOe2bsoWMF2XdvlAZ8"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 244961,
       "name": "I Hear America Singing",
       "url": "https://open.spotify.com/track/0nUSS3iQn8xRRbaHlluzZ6"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 125666,
       "name": "I Love",
       "url": "https://open.spotify.com/track/4uZ4gkFvrJFwiMLV3b3ob2"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 141506,
       "name": "I Want My Milk (I Want it Now)",
       "url": "https://open.spotify.com/track/1nMfKWeftqlpOoskmNJxyJ"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 138173,
       "name": "I've Been Workin' on the Railroad (feat. Niall de Burca and John Wood)",
       "url": "https://open.spotify.com/track/6x28Wyl6aWusAfnywEyBIl"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 128744,
       "name": "In the Kitchen",
       "url": "https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 226523,
       "name": "Mud Puddle",
       "url": "https://open.spotify.com/track/4aOVkC8IPmOFw963gwu6iI"
@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Round Robin",
+        "url": "https://open.spotify.com/album/0AiAVo38OkPWYMZDtaoGPO"
+      },
+      "artists": [
+        {
+          "name": "Claudia Robin Gunn",
+          "url": "https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93888,
+      "name": "Round Robin",
+      "url": "https://open.spotify.com/track/2rdQhu26wrbICsrxjNRwvY"
+    },
+    {
+      "album": {
         "name": "Napper's Delight",
         "url": "https://open.spotify.com/album/35Php5PIJOPAsdJHK8A15J"
       },
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 159533,
       "name": "Sally Ann",
       "url": "https://open.spotify.com/track/7uI5zcdJKh6sWgXsTsUNzw"
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 204999,
       "name": "Shoobeedoo (We Go Together)",
       "url": "https://open.spotify.com/track/7JPUkMOrayjfYdoIHRe1aM"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 175373,
       "name": "Skip To My Lou",
       "url": "https://open.spotify.com/track/1ycZhe1J06t6RZ0OK383f6"

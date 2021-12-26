@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5COO9vTaRpO.md) - [plain]
 
 > Honoring the life and legacy of the great Charlie Watts
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,948 likes - 51 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,204 likes - 51 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -384,7 +384,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 203289,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 186857,
       "name": "Courage For Xmas",
       "url": "https://open.spotify.com/track/0FS9ae57EvaFRiEzpbhuqO"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 239453,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/58Mmq9tDlN7jiUqmvugggD"
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 236786,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 189230,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/5Q1m46EdcNAkg0Ht0f3YgC"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 211006,
       "name": "OK",
       "url": "https://open.spotify.com/track/07W2d2U9GilTDQIkp73MIm"
@@ -2493,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "Peroxide (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q9EqYPv9qiUl9pbf5LLhS"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242990,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0hjANar01OL1RWox3nYT7k"
+    },
+    {
+      "album": {
         "name": "The Kindest Thing",
         "url": "https://open.spotify.com/album/5mrIGOBXemSYCSf8R0RTcc"
       },
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 235920,
       "name": "When I Let Go",
       "url": "https://open.spotify.com/track/1knbAQeG852S5ebxsfYIao"
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 196036,
       "name": "You Don't Get To - Stripped",
       "url": "https://open.spotify.com/track/6FtOjCh88PmVmDynhicvkc"

@@ -52,7 +52,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 190173,
       "name": "A Little Bit of Love",
       "url": "https://open.spotify.com/track/6wmwHJUE0tpPulaOO2KGhz"
@@ -74,6 +74,24 @@
       "duration_ms": 187400,
       "name": "ABC",
       "url": "https://open.spotify.com/track/2YCWUpoVclk9PFo5cDfUPU"
+    },
+    {
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6uYrKvCdehA1SppA69WidF"
+      },
+      "artists": [
+        {
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+        }
+      ],
+      "date_added": "2019-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177413,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/570MSgOGWpri3eG33OePzW"
     },
     {
       "album": {
@@ -106,7 +124,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 181266,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 173880,
       "name": "Anropar f\u00f6rsvunnen",
       "url": "https://open.spotify.com/track/1eVSgfj4JN9T5RE5seKYXN"
@@ -178,7 +196,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "Avundsjuk",
       "url": "https://open.spotify.com/track/0cH3Fk2FKjblnoSwAaB1Mw"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 174986,
       "name": "Baby Goodbye",
       "url": "https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 182106,
       "name": "Begging",
       "url": "https://open.spotify.com/track/4sKhlGvVYBEH4UDxZxWM5k"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 181680,
       "name": "Blame It On The Disco",
       "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 166186,
       "name": "Det b\u00f6rjar verka k\u00e4rlek banne mej",
       "url": "https://open.spotify.com/track/3g4KaqQET7Ba4p2h68PTSp"
@@ -416,7 +434,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 169783,
       "name": "E' de' det h\u00e4r du kallar k\u00e4rlek",
       "url": "https://open.spotify.com/track/5MBBQ7P9AozcQ8lF7So1B3"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 177986,
       "name": "Fyra bugg & en Coca-Cola",
       "url": "https://open.spotify.com/track/3KKaGvEv3xkQpRAUMX4e0l"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 182320,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
@@ -650,10 +668,28 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 183946,
       "name": "Guld och gr\u00f6na skogar",
       "url": "https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773"
+    },
+    {
+      "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/5mcRd3lHWGnx9URgK290An"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "date_added": "2019-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171340,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/2iEvhos1CqeU0vurqLCWaZ"
     },
     {
       "album": {
@@ -758,7 +794,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 182773,
       "name": "H\u00e5ll om mig",
       "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
@@ -798,6 +834,24 @@
       "duration_ms": 184880,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2RNvjHLcUl1ft5v5szLP5U"
+    },
+    {
+      "album": {
+        "name": "If I Were Sorry",
+        "url": "https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX"
+      },
+      "artists": [
+        {
+          "name": "Frans",
+          "url": "https://open.spotify.com/artist/1y5T3Prq30eW5RkpaUWNOQ"
+        }
+      ],
+      "date_added": "2019-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184060,
+      "name": "If I Were Sorry",
+      "url": "https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll"
     },
     {
       "album": {
@@ -866,7 +920,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 182721,
       "name": "Jag vill om du v\u00e5gar",
       "url": "https://open.spotify.com/track/6BhB2xdAzeH8PWqr7qNeUw"
@@ -902,7 +956,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 181200,
       "name": "Just A Minute",
       "url": "https://open.spotify.com/track/2eAgErGWqrXow47SjwTqMp"
@@ -938,7 +992,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 181893,
       "name": "Kalla n\u00e4tter",
       "url": "https://open.spotify.com/track/2UcVghm1M7wGPCbbyZ54Xf"
@@ -956,7 +1010,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 179826,
       "name": "Kiss You Goodbye",
       "url": "https://open.spotify.com/track/2CKFFnG21nC5ssngZV8Yi5"
@@ -1028,7 +1082,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 173960,
       "name": "La det swinge",
       "url": "https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC"
@@ -1082,7 +1136,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 185173,
       "name": "Las Vegas",
       "url": "https://open.spotify.com/track/4ENmFSJSFaoMhvazzcnBjS"
@@ -1158,7 +1212,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 185426,
       "name": "Lyssna till ditt hj\u00e4rta",
       "url": "https://open.spotify.com/track/3G9HeRXCvEmn0KIjnbjWVO"
@@ -1266,7 +1320,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Never Let It Go",
       "url": "https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC"
@@ -1392,7 +1446,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 190013,
       "name": "Ring, Ring - Swedish Version",
       "url": "https://open.spotify.com/track/13p4BxB2BPIzG3hI8UE6ti"
@@ -1410,7 +1464,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 256533,
       "name": "Satellit",
       "url": "https://open.spotify.com/track/2Yn6vsLl96OFN1HCySrC2A"
@@ -1500,7 +1554,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 204813,
       "name": "Temple of Love - Radio Edit",
       "url": "https://open.spotify.com/track/1cw6VQ7t4Wq4bIVKaLU768"
@@ -1558,7 +1612,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 188560,
       "name": "Underbart",
       "url": "https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0"
@@ -1594,7 +1648,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 182999,
       "name": "Vi kan gunga",
       "url": "https://open.spotify.com/track/6YqOnvZDRj1GwaYhsdqA9E"
@@ -1648,7 +1702,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 174720,
       "name": "V\u00e4xeln hall\u00e5",
       "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
@@ -1666,7 +1720,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 176946,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/3FtVPxBNvwtRksGhN4oKQz"
@@ -1684,7 +1738,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 184373,
       "name": "You",
       "url": "https://open.spotify.com/track/0apqDPK578iRoiR9VIRA0a"

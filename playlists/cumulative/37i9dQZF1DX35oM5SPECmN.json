@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 204213,
       "name": "1957",
       "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 179713,
       "name": "Burn Too Bright",
       "url": "https://open.spotify.com/track/7uAlJ3iZWFm8OlC7mtXHec"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 190786,
       "name": "Can't Cheat Death",
       "url": "https://open.spotify.com/track/3ocLv1zQYgIT09uIWjmTSz"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 249586,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/5hOaRdlUqUSZ5nv8kQx1DF"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 181493,
       "name": "Game For Guessing (feat. Robert Ellis)",
       "url": "https://open.spotify.com/track/7gfAs8iAcGUN2ygd4HBEmq"
@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262866,
+      "name": "Hold Out Your Hand",
+      "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
+    },
+    {
+      "album": {
         "name": "A Beautiful Life",
         "url": "https://open.spotify.com/album/0F2pKTWsWxkd0RfW59EV49"
       },
@@ -820,7 +838,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 269083,
       "name": "Letter to Madeline",
       "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
@@ -968,7 +986,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 240260,
       "name": "Never Makes a Sound",
       "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 257893,
       "name": "See the World",
       "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 219492,
       "name": "Sunbathers",
       "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 191680,
       "name": "Young Man's Game",
       "url": "https://open.spotify.com/track/5xGt18Bb0D0DvYwytFDuhD"

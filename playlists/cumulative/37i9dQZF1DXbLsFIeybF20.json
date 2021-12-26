@@ -284,7 +284,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 189960,
       "name": "Don't Go 'Way Nobody",
       "url": "https://open.spotify.com/track/4D1Lfz1sRzTgNTnkIcVpRX"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 182600,
       "name": "Hotter Than That",
       "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 230200,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/1F6G1ewad31utaep702loo"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187333,
       "name": "Saratoga Drag",
       "url": "https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 180933,
       "name": "Shreveport Stomp",
       "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
@@ -1144,6 +1144,32 @@
       "duration_ms": 192933,
       "name": "When I Get You Alone Tonight",
       "url": "https://open.spotify.com/track/6664rP47lpTZsxTAUL9GLY"
+    },
+    {
+      "album": {
+        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
+        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
+      },
+      "artists": [
+        {
+          "name": "Kid Thomas",
+          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
+        },
+        {
+          "name": "Thomas Jefferson",
+          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
+        },
+        {
+          "name": "Percy Humphrey",
+          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267093,
+      "name": "When You're Smiling",
+      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
     },
     {
       "album": {

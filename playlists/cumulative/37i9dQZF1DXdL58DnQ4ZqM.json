@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 185139,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/74OJcb0urbXBKWVkGd4hxg"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 192000,
       "name": "B\u00f3 m\u00f9",
       "url": "https://open.spotify.com/track/4UVPRsqHVlIebCbifU26V6"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 185538,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/3CMwVMznjJKjWVFLayfHoW"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 289979,
       "name": "Deep Feelings",
       "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 214090,
       "name": "Herds Of Joys",
       "url": "https://open.spotify.com/track/2l7igZmtOhDYv3bdKm7Ynq"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 214629,
       "name": "Loving You (One Last Time) - Lounge Version",
       "url": "https://open.spotify.com/track/2zkFPayhYuzsTnSkvLVOvx"
@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Enzolin/Metafor",
+        "url": "https://open.spotify.com/album/02ri4OGqlvQ1eyWnlCoiMi"
+      },
+      "artists": [
+        {
+          "name": "Light In The Night",
+          "url": "https://open.spotify.com/artist/0VcRpSUeBrgCH1Qj8g7io5"
+        }
+      ],
+      "date_added": "2021-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286956,
+      "name": "Metafor",
+      "url": "https://open.spotify.com/track/7KQiIiKZLvfhKUQxCSNbOa"
+    },
+    {
+      "album": {
         "name": "Metropolis",
         "url": "https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 299220,
       "name": "Moments Of A Dream",
       "url": "https://open.spotify.com/track/7oEJzwoxETOxypcgJWPCLV"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 345600,
       "name": "Platonic Jive",
       "url": "https://open.spotify.com/track/3TjIRkNUnTpS3TaBCSCdP6"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 266413,
       "name": "Scene Damour",
       "url": "https://open.spotify.com/track/3EIbP49Tx5HhvbH8nRrEaR"
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 203596,
       "name": "Sunday 9.PM",
       "url": "https://open.spotify.com/track/7A78RZz9w3LPg6HW1oDz7q"
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 224615,
       "name": "Terme di Caracalla",
       "url": "https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb"
@@ -1893,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "L.A. Atmosphere",
+        "url": "https://open.spotify.com/album/1qN74vtlw3ukUKEuZPWQhU"
+      },
+      "artists": [
+        {
+          "name": "L.A. Atmosphere",
+          "url": "https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0"
+        }
+      ],
+      "date_added": "2021-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Wayfarers Chapel",
+      "url": "https://open.spotify.com/track/7mHTs36ERX5DHulVY03z8f"
+    },
+    {
+      "album": {
         "name": "Dark Lights",
         "url": "https://open.spotify.com/album/76bTJuH3WByeFftVYBhCJu"
       },
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 202290,
       "name": "You - Spa/Relax",
       "url": "https://open.spotify.com/track/5gFDZ3ICCRjVq5gtcVXzkt"

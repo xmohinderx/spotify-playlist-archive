@@ -182,7 +182,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "BITTERSWEET",
       "url": "https://open.spotify.com/track/54zWQx9UkouSu8x403Ggho"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 283533,
       "name": "Canoga Madness",
       "url": "https://open.spotify.com/track/5UsIWAdCNvh9b5bI9aPfK8"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 352192,
       "name": "Chili Wa Man",
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 226500,
       "name": "Cinnamon Babka",
       "url": "https://open.spotify.com/track/0uumBUb47WpPMNovu2YfvV"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 174740,
       "name": "Do Yourself a Favor",
       "url": "https://open.spotify.com/track/1efJcsv7o0rXQbZJBB0B9a"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 183223,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 198966,
       "name": "Everybody's Inn",
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Funkedemia",
+        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
+      },
+      "artists": [
+        {
+          "name": "Mac James",
+          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133381,
+      "name": "Funkedemia",
+      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
+    },
+    {
+      "album": {
         "name": "TRYPNOTYX",
         "url": "https://open.spotify.com/album/5YiTpi7O0xx1yXTNXCTHFb"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 344491,
       "name": "Funky D",
       "url": "https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 357000,
       "name": "N.E.G.U",
       "url": "https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume"
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 274702,
       "name": "No Idea - Instrumental",
       "url": "https://open.spotify.com/track/1Auq1tUDJtQsfIdIuHbuOE"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 307988,
       "name": "Old Blood",
       "url": "https://open.spotify.com/track/0QQKxC3lMUpvdPsUQBvxUS"
@@ -1440,7 +1458,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 250843,
       "name": "Return of the Haggis",
       "url": "https://open.spotify.com/track/2EijA4bczPGQ43cdx9qfdp"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 324078,
       "name": "Royal Highness",
       "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 201680,
       "name": "Rubberneck",
       "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 191761,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 234545,
       "name": "This Too Shall Pass",
       "url": "https://open.spotify.com/track/3lqjFAF4mSZADKITRN1XtG"

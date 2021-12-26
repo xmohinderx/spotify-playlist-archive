@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 188174,
       "name": "3 Moods",
       "url": "https://open.spotify.com/track/3n9ok4Eyi26VSubDdVLA1E"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 177162,
       "name": "Drop Dead",
       "url": "https://open.spotify.com/track/3i4CFXy3ezQZEt8V0GA7Uh"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 169975,
       "name": "Grew Apart",
       "url": "https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 242488,
       "name": "hurt so bad",
       "url": "https://open.spotify.com/track/5c1gKtJkR8dPjki25BU7Qz"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 213986,
       "name": "i can't breathe",
       "url": "https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 187303,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/7nMjj2KzTdrv3DhKrFecjP"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173431,
       "name": "Nauseous",
       "url": "https://open.spotify.com/track/1HMCbPngUxPENYBBt2fQXr"
@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/1gNekazz4PqtPKSkCAORqp"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219359,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA"
+    },
+    {
+      "album": {
         "name": "Panic Attacks in Paradise / Maggots",
         "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
       },
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 184885,
       "name": "Panic Attacks in Paradise",
       "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 254466,
       "name": "Renegade (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue"
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 255986,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 165240,
       "name": "tear myself apart",
       "url": "https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9"
@@ -1738,7 +1756,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 159808,
       "name": "The Night You Left",
       "url": "https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k"
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 202202,
       "name": "the older you get, the less you cry",
       "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 193284,
       "name": "The Trauma and The Pleasure",
       "url": "https://open.spotify.com/track/4UOTmg9TBVTUibdKnPYzKt"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 198439,
       "name": "unbreak",
       "url": "https://open.spotify.com/track/64QMCHiZCgKIq29dHhMScU"
@@ -1926,7 +1944,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 229565,
       "name": "When It Ends",
       "url": "https://open.spotify.com/track/2956I0IdLAutaSEmwhSPii"

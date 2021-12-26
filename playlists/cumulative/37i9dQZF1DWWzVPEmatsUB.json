@@ -110,7 +110,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/4If5wEl5u76l2FcrGNE5AE"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 169482,
       "name": "Everything",
       "url": "https://open.spotify.com/track/1ff9rutkkpHQACXlA3Foy0"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 238250,
       "name": "For So Long (Brittle)",
       "url": "https://open.spotify.com/track/51sYB5jn8WyVL1xJRKOtMb"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
@@ -504,6 +504,24 @@
       "duration_ms": 233873,
       "name": "Here B4",
       "url": "https://open.spotify.com/track/4Pv7cz45vrALeaOqhqVELU"
+    },
+    {
+      "album": {
+        "name": "Hey, Ma",
+        "url": "https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A"
     },
     {
       "album": {
@@ -746,7 +764,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Lady Like",
       "url": "https://open.spotify.com/track/33UI8dgfkDOf32DWBH1GL0"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 230620,
       "name": "Money and Fools",
       "url": "https://open.spotify.com/track/5Dd3iLxJNlFnzsY8T8PW3a"
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 205769,
       "name": "Old Love (Bonus)",
       "url": "https://open.spotify.com/track/6saFywPB1ofkLwuy95UQXc"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 214163,
       "name": "Regenerate",
       "url": "https://open.spotify.com/track/0MIq5zqSNk6XH4BoinuakO"
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 163586,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/2ZIbiTRemxHiYAPg0UqoLY"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 185945,
       "name": "Separate Hearts",
       "url": "https://open.spotify.com/track/101SZzhLjpsvvcB4D24lBf"
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 227027,
       "name": "Stupid Me",
       "url": "https://open.spotify.com/track/2YlCAofl2PplOmHSZQRTLk"
@@ -1431,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "12 Little Spells",
+        "url": "https://open.spotify.com/album/3mWCkfWvAFi8FSgfLNrVfg"
+      },
+      "artists": [
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275071,
+      "name": "Thang (hips)",
+      "url": "https://open.spotify.com/track/45NhEzSuvE5M5i3cYwphuL"
+    },
+    {
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/5e9eqwm0zjc9FLaRhVfdTo"
       },
@@ -1460,7 +1496,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
@@ -1514,7 +1550,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 181875,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/3xeTIOSLaGIw8XaCwNKhec"

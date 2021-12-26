@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Paul Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,424 likes - 62 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,460 likes - 62 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

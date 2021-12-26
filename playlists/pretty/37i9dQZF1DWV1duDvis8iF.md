@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1duDvis8iF.md) - [plain]
 
 > A collection of classic and contemporary Irish short stories, novels, plays, poetry, and historical artifacts in English and Irish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,397 likes - 235 songs - 1 day 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,396 likes - 235 songs - 1 day 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

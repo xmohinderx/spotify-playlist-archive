@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10 Percent",
+        "url": "https://open.spotify.com/album/3M1w2ZD8vX6AJzCpTkJXLt"
+      },
+      "artists": [
+        {
+          "name": "N\u00d8 SIGNE",
+          "url": "https://open.spotify.com/artist/28e1tcP4TyKPkQUr1A3HiU"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "10 Percent",
+      "url": "https://open.spotify.com/track/6yHpL4vjEDf0DolXTW8N0u"
+    },
+    {
+      "album": {
         "name": "12 AM Shuffle",
         "url": "https://open.spotify.com/album/6lJuJDBsovQL3Se2XBs64n"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "12 AM Shuffle",
       "url": "https://open.spotify.com/track/0xAjCLCwfRUZQe6t2G2Ywe"
@@ -199,6 +217,28 @@
     },
     {
       "album": {
+        "name": "Bark Me",
+        "url": "https://open.spotify.com/album/4eOzZHTGcw9aG8sn4onB3p"
+      },
+      "artists": [
+        {
+          "name": "Phlegmatic Dogs",
+          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
+        },
+        {
+          "name": "Hybrid Theory",
+          "url": "https://open.spotify.com/artist/6KkbKOCoCyCZGaaWggWh9Q"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158330,
+      "name": "Bark Me",
+      "url": "https://open.spotify.com/track/3V9WaNSklacDxsCwnpzhSa"
+    },
+    {
+      "album": {
         "name": "BB Got Me Like",
         "url": "https://open.spotify.com/album/04F6eKFDiQUnVJvICSKwjV"
       },
@@ -298,7 +338,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 180850,
       "name": "Beat Like This",
       "url": "https://open.spotify.com/track/6zm3myLdhev6UuL8xOewow"
@@ -492,7 +532,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 184777,
       "name": "Break (My Heart)",
       "url": "https://open.spotify.com/track/1kjs6z6gLjcBWvZ71EJNXz"
@@ -576,7 +616,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 161932,
       "name": "Burn the House",
       "url": "https://open.spotify.com/track/0Qv962GVef5ssQboETsqvF"
@@ -623,6 +663,32 @@
     },
     {
       "album": {
+        "name": "Candy Shop",
+        "url": "https://open.spotify.com/album/6wPYHAowFfbzP2KQf2vh4r"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        },
+        {
+          "name": "MKJAY",
+          "url": "https://open.spotify.com/artist/20LoXYCfkUQLrhGAu0fXqC"
+        },
+        {
+          "name": "Daft Hill",
+          "url": "https://open.spotify.com/artist/2FLikYDFIrdVwOVDdWg8Mx"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160955,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/1GdjigQo4MbNYSFUX7ctNH"
+    },
+    {
+      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
       },
@@ -652,7 +718,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 176640,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/0WYJ11EFojH6SjUTi3xVXI"
@@ -838,7 +904,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "Dear Driver - Lowdown Remix",
       "url": "https://open.spotify.com/track/3pQg7EoslPJ2OOoEXItDQl"
@@ -998,7 +1064,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 220650,
       "name": "Faded",
       "url": "https://open.spotify.com/track/4m2EC8p4YY3pLdmLM6hegJ"
@@ -1038,7 +1104,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 200600,
       "name": "Flow",
       "url": "https://open.spotify.com/track/4uzl0Lo5eT92TXtx245kpp"
@@ -1352,7 +1418,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 194319,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5YT0stC917pjldKbdVzEo4"
@@ -1378,7 +1444,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 200476,
       "name": "Hell (Jero Remix)",
       "url": "https://open.spotify.com/track/11GJxCZp15FW0rRxTZvPKq"
@@ -1426,7 +1492,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 163928,
       "name": "Hit Boys",
       "url": "https://open.spotify.com/track/79JqrjyOQeSKTQcrFW0K0Z"
@@ -1448,7 +1514,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 142380,
       "name": "Hold Up (feat. J. Plaza)",
       "url": "https://open.spotify.com/track/6HkQZhtfy9VEl149aO3g6d"
@@ -1556,7 +1622,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173085,
       "name": "Jaw Drop",
       "url": "https://open.spotify.com/track/5mpJ8Rrt0JPPXFuIrySFXh"
@@ -1614,7 +1680,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216377,
       "name": "Killin' Me",
       "url": "https://open.spotify.com/track/1cPqgK1AmZmywfmakmDkZW"
@@ -1654,7 +1720,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 232380,
       "name": "Lit",
       "url": "https://open.spotify.com/track/5iRHH6jgRk0JLTX0lmMRwk"
@@ -1880,7 +1946,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173333,
       "name": "Mindfuck",
       "url": "https://open.spotify.com/track/3Ab83RolErGgia4RzGbczc"
@@ -1898,7 +1964,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 213543,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/2DE6qfjcw3kCh9LQlwCItw"
@@ -1942,7 +2008,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 155859,
       "name": "Mother Nature (feat. NOISY)",
       "url": "https://open.spotify.com/track/45ZOQlyz2XJpQREyKWzhe7"
@@ -1960,7 +2026,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 134000,
       "name": "Move Like Dolphin",
       "url": "https://open.spotify.com/track/5npvPgwC0AuJlneOgS5Uks"
@@ -2000,7 +2066,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/5odJuVd3QpK7A96wfdf421"
@@ -2044,7 +2110,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 212584,
       "name": "No Trust",
       "url": "https://open.spotify.com/track/3aPo3XX7MglfqIZ8O7BEe4"
@@ -2066,7 +2132,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "Old School",
       "url": "https://open.spotify.com/track/0RzusHyWJSvNh4NRjtOdOb"
@@ -2258,7 +2324,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/1FAMmDVKA84HUrA12iFEuE"
@@ -2372,7 +2438,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 144590,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6fp8ij0afP7qdZHlk7gyco"
@@ -2434,7 +2500,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 174696,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/0ZVpeCq77i5ZkXWLfalueR"
@@ -2720,7 +2786,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 212934,
       "name": "The Grave",
       "url": "https://open.spotify.com/track/7tPbw62QKVG3N0fPlxrvtJ"
@@ -2800,7 +2866,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 155884,
       "name": "The Tempo",
       "url": "https://open.spotify.com/track/3BYWIYlgpnW18iaMga2E0u"
@@ -2826,6 +2892,24 @@
       "duration_ms": 125714,
       "name": "THICCC",
       "url": "https://open.spotify.com/track/3IacquZeDsE8aSudQ0GwIK"
+    },
+    {
+      "album": {
+        "name": "To The Sound",
+        "url": "https://open.spotify.com/album/6LRSybgzZv1lvfrE5UoqMt"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "To The Sound",
+      "url": "https://open.spotify.com/track/4jpAJt9SJXFGkHq7Y3lpUR"
     },
     {
       "album": {
@@ -2892,7 +2976,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 211215,
       "name": "VIP",
       "url": "https://open.spotify.com/track/5K762jYRpdnBm0uKKLKQCO"

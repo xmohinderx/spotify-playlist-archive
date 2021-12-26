@@ -252,7 +252,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 205624,
       "name": "Apnea - Instrumental",
       "url": "https://open.spotify.com/track/12200irx8PX7uEm3u8FJEE"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 285504,
       "name": "Aurora Borealis",
       "url": "https://open.spotify.com/track/2QIvdU6GnXd8Q971hL0TdW"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 281659,
       "name": "Conflagration",
       "url": "https://open.spotify.com/track/0UcInhfzIBHZ3LvfHCIlF0"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 286080,
       "name": "Decayer",
       "url": "https://open.spotify.com/track/6BZFeisu2l3kkVm2C2hYzK"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 200650,
       "name": "Erin",
       "url": "https://open.spotify.com/track/5RUc1zzX8MQDcT89JBSH23"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 200626,
       "name": "Four Seasons - Summer",
       "url": "https://open.spotify.com/track/3RHq7CShDhSeSO7QO26exj"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 359970,
       "name": "Malignant Inhabitants",
       "url": "https://open.spotify.com/track/2s3fC7P9Rn7G8if7aPnuao"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 266482,
       "name": "October Moon",
       "url": "https://open.spotify.com/track/3iMoMqGO6YVI1UC4pVRL3s"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 275973,
       "name": "Release",
       "url": "https://open.spotify.com/track/2uCb8cFfuvltKgQdU6B6zI"
@@ -1870,6 +1870,24 @@
       "duration_ms": 321476,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/4dtivLmhG37pJI3t9PT8MX"
+    },
+    {
+      "album": {
+        "name": "Seres (la macchina ha superato l'uomo)",
+        "url": "https://open.spotify.com/album/1q8LcKvGh4RyY5qkyqAvKk"
+      },
+      "artists": [
+        {
+          "name": "Mite",
+          "url": "https://open.spotify.com/artist/4sxXIO1eqBhxvhQDd1v8iy"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325913,
+      "name": "Seres (la macchina ha superato l'uomo)",
+      "url": "https://open.spotify.com/track/5tKSKEsfwZYcS2wmfPA67k"
     },
     {
       "album": {
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 334773,
       "name": "The Ungrounding",
       "url": "https://open.spotify.com/track/1jEZtz2b03ZxZcT1KBmI8Z"
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 234712,
       "name": "Trancing Nostalgia",
       "url": "https://open.spotify.com/track/7gZgqLOE9VZjqJQAnUPqrE"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 206253,
       "name": "Waterslide",
       "url": "https://open.spotify.com/track/114wOQBCwLpUxeDjTjZ4XT"
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 202552,
       "name": "Yas (feat. Mario Camarena and Erick Hansel)",
       "url": "https://open.spotify.com/track/7pnBZ0vitnvhKzgCEafZ8A"

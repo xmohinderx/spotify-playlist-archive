@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 148040,
       "name": "A Thousand Miles Away",
       "url": "https://open.spotify.com/track/6ofvy4eMivKYNRi4EaDlsF"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 152200,
       "name": "Heartaches",
       "url": "https://open.spotify.com/track/3BfRMHhQlhDJYaiULVPgvS"
@@ -514,6 +514,24 @@
       "duration_ms": 192066,
       "name": "I'm On The Outside (Looking In)",
       "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
+    },
+    {
+      "album": {
+        "name": "Dirty Dancing: Anniversary Edition",
+        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
+      },
+      "artists": [
+        {
+          "name": "The Five Satins",
+          "url": "https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy"
     },
     {
       "album": {
@@ -654,7 +672,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
@@ -708,7 +726,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 148932,
       "name": "Peanuts",
       "url": "https://open.spotify.com/track/6ry1RZr2O3f1SziP3Vs6kJ"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 156893,
       "name": "Since I Don't Have You",
       "url": "https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 94906,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 177893,
       "name": "When You Dance",
       "url": "https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL"

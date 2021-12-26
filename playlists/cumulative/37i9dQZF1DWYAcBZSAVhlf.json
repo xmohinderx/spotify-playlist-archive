@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173333,
       "name": "A Rockin' Good Way (To Mess Around and Fall In Love)",
       "url": "https://open.spotify.com/track/2vbTr48Vc4y4PUEcGYYlvK"
@@ -121,6 +121,32 @@
     },
     {
       "album": {
+        "name": "Joseph And The Amazing Technicolor Dreamcoat",
+        "url": "https://open.spotify.com/album/4fGWn2HIeTZsIgIzaoL8sx"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Jason Donovan",
+          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
+        },
+        {
+          "name": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1991 London Cast",
+          "url": "https://open.spotify.com/artist/7CD4S5LN8BeM1MVjL7ASK4"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "Any Dream Will Do",
+      "url": "https://open.spotify.com/track/4FEyVH9a4WGY6zdhVixIxE"
+    },
+    {
+      "album": {
         "name": "Can't Take My Eyes Off You",
         "url": "https://open.spotify.com/album/5UD6SOM4JtmtTTJ3SNt1cU"
       },
@@ -132,7 +158,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 213016,
       "name": "Can't Take My Eyes Off Of You - Original Radio Edit",
       "url": "https://open.spotify.com/track/38f6pFU4HRtrT198ZnyrK5"
@@ -168,7 +194,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 303493,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/5OKScc0MSa9Wl8g2zrulLn"
@@ -276,7 +302,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 259500,
       "name": "Every Little Thing She Does Is Magic - Remastered 2003",
       "url": "https://open.spotify.com/track/60HDLY1Dh2Hy9wTVI3WPzO"
@@ -496,7 +522,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 201866,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
@@ -586,7 +612,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 218066,
       "name": "Hot In The City - 2001 Digital Remaster",
       "url": "https://open.spotify.com/track/0MHTpNtTcrdseMWAhh7Sdp"
@@ -810,10 +836,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 241599,
       "name": "Jump - 2015 Remaster",
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "album": {
+        "name": "Let Me Be Your Angel",
+        "url": "https://open.spotify.com/album/1r3ojiC0kokSIk8S4K3tQV"
+      },
+      "artists": [
+        {
+          "name": "Stacy Lattisaw",
+          "url": "https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320040,
+      "name": "Jump to the Beat",
+      "url": "https://open.spotify.com/track/2MKsIrTocRAHcYnl6SKD4r"
     },
     {
       "album": {
@@ -1476,7 +1520,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 256826,
       "name": "Typical Male",
       "url": "https://open.spotify.com/track/2fjJt3OQ8MPaZ3LMzAWiTA"
@@ -1530,7 +1574,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 270720,
       "name": "Waiting for a Star to Fall",
       "url": "https://open.spotify.com/track/09huOVRryZNV2deKFZLJDC"
@@ -1602,7 +1646,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
@@ -1656,7 +1700,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 208520,
       "name": "You Came - Single Version",
       "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
@@ -1782,7 +1826,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 204880,
       "name": "Young at Heart",
       "url": "https://open.spotify.com/track/5PwWIKBztoHDVAVcL3IH2X"

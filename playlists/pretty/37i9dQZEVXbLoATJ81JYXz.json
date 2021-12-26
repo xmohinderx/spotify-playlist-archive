@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
   "name": "Top 50 - Sweden",
-  "num_followers": 586650,
+  "num_followers": 586602,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NjkzNjUzOTE0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NjkzNzQyMTg3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "T\u00e4nd ett ljus",
         "url": "https://open.spotify.com/album/77F4Y9nEDz9AR4ib7aC7lw"
@@ -57,7 +57,71 @@
       "url": "https://open.spotify.com/track/0WeT9UnF79pGH5ohYHsnD9"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "My Name Is Jos\u00e9 Feliciano",
+        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Mer jul",
+        "url": "https://open.spotify.com/album/4K5JVMha8JLkSlwvMitE6o"
+      },
+      "artists": [
+        {
+          "name": "Adolphson & Falk",
+          "url": "https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Mer jul - Klassisk Version",
+      "url": "https://open.spotify.com/track/69S0Qwm02otD5zV1snmOG5"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
@@ -77,103 +141,7 @@
       "url": "https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "My Name Is Jos\u00e9 Feliciano",
-        "url": "https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Hey Ho",
-        "url": "https://open.spotify.com/album/15gVgcNqgJvMN3xaVHRbcx"
-      },
-      "artists": [
-        {
-          "name": "Freddy Kalas",
-          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Hey Ho",
-      "url": "https://open.spotify.com/track/0eekaX32hUmJgcinPCL1iZ"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Mer jul",
-        "url": "https://open.spotify.com/album/4K5JVMha8JLkSlwvMitE6o"
-      },
-      "artists": [
-        {
-          "name": "Adolphson & Falk",
-          "url": "https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Mer jul - Klassisk Version",
-      "url": "https://open.spotify.com/track/69S0Qwm02otD5zV1snmOG5"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Tommy K\u00f6rberg - Julen \u00e4r h\u00e4r",
         "url": "https://open.spotify.com/album/3sR4PxmOUhyEJ05g03O1A3"
@@ -193,7 +161,39 @@
       "url": "https://open.spotify.com/track/4cGPWeCfoQTw7i0wqNRcjI"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Hey Ho",
+        "url": "https://open.spotify.com/album/15gVgcNqgJvMN3xaVHRbcx"
+      },
+      "artists": [
+        {
+          "name": "Freddy Kalas",
+          "url": "https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Hey Ho",
+      "url": "https://open.spotify.com/track/0eekaX32hUmJgcinPCL1iZ"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
         "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
@@ -209,7 +209,27 @@
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Holiday Inn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
@@ -233,27 +253,7 @@
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "If I Should Fall from Grace with God (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
-      },
-      "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Fairytale of New York (feat. Kirsty MacColl)",
-      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Christmas Songs by Sinatra",
         "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
@@ -289,23 +289,7 @@
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Juligen",
         "url": "https://open.spotify.com/album/0b86vMKRy4gCr66BAMEtrz"
@@ -321,23 +305,23 @@
       "url": "https://open.spotify.com/track/1MMeScdLmniNyO4WMuoIxb"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "V\u00e4lkommen hem",
-        "url": "https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe"
+        "name": "Do They Know It's Christmas?",
+        "url": "https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5"
       },
       "artists": [
         {
-          "name": "E.M.D.",
-          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
         }
       ],
-      "duration_ms": 208480,
-      "name": "V\u00e4lkommen hem",
-      "url": "https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD"
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
@@ -357,55 +341,39 @@
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "Do They Know It's Christmas?",
-        "url": "https://open.spotify.com/album/0Q96oESySVI3gLFTkhttn5"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Do They Know It's Christmas? - 1984 Version",
-      "url": "https://open.spotify.com/track/0247StOpd3AkeBQzANX4Zf"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
-        "url": "https://open.spotify.com/album/1XkpttQ0sG0O1C1ASKurDO"
+        "name": "V\u00e4lkommen hem",
+        "url": "https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "E.M.D.",
+          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
-      "url": "https://open.spotify.com/track/4SLYrBfzgbLmiEdoKajyHL"
+      "duration_ms": 208480,
+      "name": "V\u00e4lkommen hem",
+      "url": "https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Carolas jul",
         "url": "https://open.spotify.com/album/0X8bz9mbT7vwMnH8wGbID5"
@@ -421,7 +389,23 @@
       "url": "https://open.spotify.com/track/33EVpTZhoyQw1mStrZTKfO"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Jag kommer hem igen till jul",
         "url": "https://open.spotify.com/album/7CKtVeB9uIO6clD9N7qCLl"
@@ -437,39 +421,39 @@
       "url": "https://open.spotify.com/track/3eusN83SiYVrSA3hG4drFy"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "Den vintertid nu kommer",
-        "url": "https://open.spotify.com/album/2qNHigOx9qajdbrE6vyD4x"
+        "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
+        "url": "https://open.spotify.com/album/1XkpttQ0sG0O1C1ASKurDO"
       },
       "artists": [
         {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 199344,
-      "name": "Den vintertid nu kommer",
-      "url": "https://open.spotify.com/track/0hSBZP9SodLCOLWmfgK9MK"
+      "duration_ms": 240000,
+      "name": "Ser du m\u00e5nen d\u00e4r du \u00e4r ikv\u00e4ll? (Tillsammans igen)",
+      "url": "https://open.spotify.com/track/4SLYrBfzgbLmiEdoKajyHL"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "En dag n\u00e4r du blir stor",
-        "url": "https://open.spotify.com/album/1gDHNbSo1QK3QDyi26heOh"
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
       },
       "artists": [
         {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 282795,
-      "name": "En dag n\u00e4r du blir stor",
-      "url": "https://open.spotify.com/track/1qidz6rdewByKNznnl1wK4"
+      "duration_ms": 165906,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Tommy K\u00f6rberg - Julen \u00e4r h\u00e4r",
         "url": "https://open.spotify.com/album/3sR4PxmOUhyEJ05g03O1A3"
@@ -485,7 +469,7 @@
       "url": "https://open.spotify.com/track/0XoGiZY2XtBW5qXB3ZzZOX"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
@@ -501,7 +485,39 @@
       "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Den vintertid nu kommer",
+        "url": "https://open.spotify.com/album/2qNHigOx9qajdbrE6vyD4x"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 199344,
+      "name": "Den vintertid nu kommer",
+      "url": "https://open.spotify.com/track/0hSBZP9SodLCOLWmfgK9MK"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Come Whatever, Come What May",
         "url": "https://open.spotify.com/album/48I5yrMUYUbaMRVx88TsVj"
@@ -521,39 +537,23 @@
       "url": "https://open.spotify.com/track/7h6dAktpx3MeQMfqN84JBW"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "En dag n\u00e4r du blir stor",
+        "url": "https://open.spotify.com/album/1gDHNbSo1QK3QDyi26heOh"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 165906,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 282795,
+      "name": "En dag n\u00e4r du blir stor",
+      "url": "https://open.spotify.com/track/1qidz6rdewByKNznnl1wK4"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "TILL_____FR\u00c5N_____",
         "url": "https://open.spotify.com/album/12YzGnrZZ99j2C5eQciaTK"
@@ -569,23 +569,7 @@
       "url": "https://open.spotify.com/track/0V4WjLiC3Kg7pkGHN5O2cU"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Tomten, jag vill ha en riktig jul",
-        "url": "https://open.spotify.com/album/6iKsg4UHcr2e8w1qNu6Msq"
-      },
-      "artists": [
-        {
-          "name": "Judit",
-          "url": "https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF"
-        }
-      ],
-      "duration_ms": 147293,
-      "name": "Tomten, jag vill ha en riktig jul",
-      "url": "https://open.spotify.com/track/520Jrg250xi0QXIKxFqK4n"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -601,55 +585,7 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "What's Christmas Anyway",
-        "url": "https://open.spotify.com/album/4Ni0etgn9jZ41HMypVExzE"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 176303,
-      "name": "What's Christmas Anyway",
-      "url": "https://open.spotify.com/track/11mxOwGHsL3m4QD74augf6"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1vLPyotXnRlM2EJIHK16LW"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Carolas jul",
-        "url": "https://open.spotify.com/album/0X8bz9mbT7vwMnH8wGbID5"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Nu t\u00e4ndas tusen juleljus",
-      "url": "https://open.spotify.com/track/08D5bPhVLw01WdNchYxsqg"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Tomten har \u00e5kt hem",
         "url": "https://open.spotify.com/album/4gEn6W7pfZvA8tUd6ukHnD"
@@ -669,7 +605,87 @@
       "url": "https://open.spotify.com/track/5PB7EuGxRLK1GQJjYJGhTD"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Carolas jul",
+        "url": "https://open.spotify.com/album/0X8bz9mbT7vwMnH8wGbID5"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Nu t\u00e4ndas tusen juleljus",
+      "url": "https://open.spotify.com/track/08D5bPhVLw01WdNchYxsqg"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1vLPyotXnRlM2EJIHK16LW"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Tomten, jag vill ha en riktig jul",
+        "url": "https://open.spotify.com/album/6iKsg4UHcr2e8w1qNu6Msq"
+      },
+      "artists": [
+        {
+          "name": "Judit",
+          "url": "https://open.spotify.com/artist/7a1xK8q1C7Gx4n7f9bU5jF"
+        }
+      ],
+      "duration_ms": 147293,
+      "name": "Tomten, jag vill ha en riktig jul",
+      "url": "https://open.spotify.com/track/520Jrg250xi0QXIKxFqK4n"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "What's Christmas Anyway",
+        "url": "https://open.spotify.com/album/4Ni0etgn9jZ41HMypVExzE"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 176303,
+      "name": "What's Christmas Anyway",
+      "url": "https://open.spotify.com/track/11mxOwGHsL3m4QD74augf6"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Happy New Year - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 184828,
+      "name": "Happy New Year - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "These are Special Times",
         "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
@@ -685,23 +701,55 @@
       "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "It\u00b4s Christmas",
-        "url": "https://open.spotify.com/album/2bNKRFFazIYsu0yrjvWCX5"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rn Skifs",
-          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 212986,
-      "name": "It\u00b4s Christmas",
-      "url": "https://open.spotify.com/track/1N5QWchFtWyksichHzBIGN"
+      "duration_ms": 187920,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/66WPXyhXqMlkM1kZhyEXWK"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 159629,
+      "name": "Let It Snow! - 10th Anniversary",
+      "url": "https://open.spotify.com/track/2EmEXCi8ue7p5Xqmqz10kW"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Merry Christmas On Your Own (feat. GRANT)",
         "url": "https://open.spotify.com/album/72L6YFkahOr9MRKmb0xb1d"
@@ -721,87 +769,7 @@
       "url": "https://open.spotify.com/track/4QvJZYMTCrosIVgBN2h6dF"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Happy New Year - Spotify Singles: Holiday",
-        "url": "https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 184828,
-      "name": "Happy New Year - Spotify Singles: Holiday",
-      "url": "https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Werner & Werner - Kockarnas skiva",
-        "url": "https://open.spotify.com/album/7MVyG8ENkJKjEzy7oHbqBc"
-      },
-      "artists": [
-        {
-          "name": "Werner & Werner",
-          "url": "https://open.spotify.com/artist/5GqCeOjQkrkxxvFSLFPfui"
-        }
-      ],
-      "duration_ms": 270493,
-      "name": "V\u00e5r julskinka har rymt",
-      "url": "https://open.spotify.com/track/1ieq2YaXJBzyJ33fOYvG8W"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
-      "album": {
-        "name": "SOM DOM",
-        "url": "https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN"
-      },
-      "artists": [
-        {
-          "name": "Sarettii",
-          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "SOM DOM",
-      "url": "https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11"
-    },
-    {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
         "name": "Jag kommer hem igen till jul",
         "url": "https://open.spotify.com/album/7CKtVeB9uIO6clD9N7qCLl"
@@ -817,36 +785,68 @@
       "url": "https://open.spotify.com/track/3b6mt8vlFS89uRx7kgKhkb"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "Christmas (Deluxe 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
+        "name": "It\u00b4s Christmas",
+        "url": "https://open.spotify.com/album/2bNKRFFazIYsu0yrjvWCX5"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Bj\u00f6rn Skifs",
+          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
         }
       ],
-      "duration_ms": 159629,
-      "name": "Let It Snow! - 10th Anniversary",
-      "url": "https://open.spotify.com/track/2EmEXCi8ue7p5Xqmqz10kW"
+      "duration_ms": 212986,
+      "name": "It\u00b4s Christmas",
+      "url": "https://open.spotify.com/track/1N5QWchFtWyksichHzBIGN"
     },
     {
-      "added_at": "2021-12-24 09:38:34",
+      "added_at": "2021-12-25 10:09:47",
       "album": {
-        "name": "Hey Ho",
-        "url": "https://open.spotify.com/album/56mHmi0jwPK4UOC3DZVWdf"
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
       },
       "artists": [
         {
-          "name": "Aslak Trude",
-          "url": "https://open.spotify.com/artist/2zS32fWywZvJCB21xAqctW"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 176032,
-      "name": "Hey Ho",
-      "url": "https://open.spotify.com/track/1mlP7iqVLZMYryuispoFBE"
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Werner & Werner - Kockarnas skiva",
+        "url": "https://open.spotify.com/album/7MVyG8ENkJKjEzy7oHbqBc"
+      },
+      "artists": [
+        {
+          "name": "Werner & Werner",
+          "url": "https://open.spotify.com/artist/5GqCeOjQkrkxxvFSLFPfui"
+        }
+      ],
+      "duration_ms": 270493,
+      "name": "V\u00e5r julskinka har rymt",
+      "url": "https://open.spotify.com/track/1ieq2YaXJBzyJ33fOYvG8W"
+    },
+    {
+      "added_at": "2021-12-25 10:09:47",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLoATJ81JYXz"

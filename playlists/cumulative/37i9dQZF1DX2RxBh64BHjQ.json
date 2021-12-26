@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Bad Situations",
+        "url": "https://open.spotify.com/album/1hRTv9cSRg1Qe1aMpZqLbX"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176186,
+      "name": "Bad Situations",
+      "url": "https://open.spotify.com/track/4PnR4x0pn4Wc6NBMKAyx8O"
+    },
+    {
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/5b0iGcVPztBLsWRo2lc6Fc"
       },
@@ -180,7 +198,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 138318,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
@@ -304,6 +322,24 @@
       "duration_ms": 252000,
       "name": "Can't Contain (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/3ErjMuP1DQSb5t7Cgw2skD"
+    },
+    {
+      "album": {
+        "name": "Catch It",
+        "url": "https://open.spotify.com/album/6Oc457CfvLinbQ0RrhUmSM"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136353,
+      "name": "Catch It",
+      "url": "https://open.spotify.com/track/6yo5XRZObYpo8mtm4SXRXE"
     },
     {
       "album": {
@@ -456,7 +492,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173477,
       "name": "Dead Wrong (feat. Future)",
       "url": "https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL"
@@ -485,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114580,
+      "name": "Deep Fried",
+      "url": "https://open.spotify.com/track/6zeeyIMUCqg8o3yFholZJ8"
+    },
+    {
+      "album": {
         "name": "Deep Fried",
         "url": "https://open.spotify.com/album/2v1qGwbzVO8ZQk2nDANeXk"
       },
@@ -496,7 +550,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 114580,
       "name": "Deep Fried",
       "url": "https://open.spotify.com/track/7241Ph5AKZlpCzORdWoBoq"
@@ -514,7 +568,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 134376,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU"
@@ -612,10 +666,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 154723,
       "name": "Explicit",
       "url": "https://open.spotify.com/track/0c8yuSBMqBgXAj88JT0PAO"
+    },
+    {
+      "album": {
+        "name": "shut the fuck up talking to me",
+        "url": "https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv"
+      },
+      "artists": [
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158466,
+      "name": "fafo",
+      "url": "https://open.spotify.com/track/0tgFHDNf2ZNeY1J90oGbUW"
     },
     {
       "album": {
@@ -722,6 +794,28 @@
       "duration_ms": 132640,
       "name": "Go",
       "url": "https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ"
+    },
+    {
+      "album": {
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
+      },
+      "artists": [
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248673,
+      "name": "Got A Lil Older (with Hurricane Wisdom)",
+      "url": "https://open.spotify.com/track/7MIPuDvIfH3A5Bo67efpb8"
     },
     {
       "album": {
@@ -908,7 +1002,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 126000,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/0OLzXonC2DLYkhOQWa5W2S"
@@ -1181,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Missing Something",
+        "url": "https://open.spotify.com/album/0joh96R5NbQ8U4Seyw6F6b"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171752,
+      "name": "Missing Something",
+      "url": "https://open.spotify.com/track/6nb42AwSexz0HPLcWK4yFx"
+    },
+    {
+      "album": {
         "name": "MMM MMM (The Remix) [feat. ATL Jacob, Latto & Moneybagg Yo]",
         "url": "https://open.spotify.com/album/1g56wNgEleOMrM0gYypkZF"
       },
@@ -1229,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "My Everything (Part II) (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/4x9WnqHIgPv8pk5Qmq4VI4"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153051,
+      "name": "My Everything (Part II) (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/3JjO7Qtxgt8kzUM2sA7eZ4"
+    },
+    {
+      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/7wJSmCMFqVmKgy4pWxuPhx"
       },
@@ -1244,7 +1378,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 150263,
       "name": "My Everything (Part III) (feat. G Herbo)",
       "url": "https://open.spotify.com/track/7GmdennpqprCZ1KtBWcNSA"
@@ -1491,6 +1625,28 @@
     },
     {
       "album": {
+        "name": "Private Phones",
+        "url": "https://open.spotify.com/album/69WSH1VDMGXIDCZIGANJNh"
+      },
+      "artists": [
+        {
+          "name": "FBG GOAT",
+          "url": "https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182311,
+      "name": "Private Phones",
+      "url": "https://open.spotify.com/track/5ub5nP1gGGVgt0J14Gqpf2"
+    },
+    {
+      "album": {
         "name": "Rags 2 Riches",
         "url": "https://open.spotify.com/album/6gMo6gASXbcMgx6emh36xz"
       },
@@ -1571,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Roll Up Hot",
+        "url": "https://open.spotify.com/album/31zHc8s8GFGigIErHVRgVH"
+      },
+      "artists": [
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Roll Up Hot",
+      "url": "https://open.spotify.com/track/6uGe0mI2O24OYW6hkUy8DZ"
+    },
+    {
+      "album": {
         "name": "ROLLIN N CONTROLLIN, Pt.2 (PICTURE ME)",
         "url": "https://open.spotify.com/album/06do6YAfoBee0ULhdt4qe5"
       },
@@ -1604,7 +1778,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 170000,
       "name": "Rose Gold Stripper Pole (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/41xbRAC6Vv2cu3o5HSh4tE"
@@ -1688,7 +1862,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 147400,
       "name": "Silent (feat. Blac Youngsta)",
       "url": "https://open.spotify.com/track/5A8KtfonuRHv6EHr5Ofekq"
@@ -1749,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Started This",
+        "url": "https://open.spotify.com/album/1ihXaJ1k65mNfkIEPaAxM2"
+      },
+      "artists": [
+        {
+          "name": "BBY KODIE",
+          "url": "https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142470,
+      "name": "Started This",
+      "url": "https://open.spotify.com/track/1k3HvGrMl6oCCLPocfhnmB"
+    },
+    {
+      "album": {
         "name": "The Book of Eli",
         "url": "https://open.spotify.com/album/2JR2pvofQhv2ZEjocuH76a"
       },
@@ -1764,7 +1956,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 152223,
       "name": "Steppas Freestyle (feat. Sleepy Hallow)",
       "url": "https://open.spotify.com/track/2FHC2xTzANdprKYAwehB68"
@@ -1861,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "Time Spent",
+        "url": "https://open.spotify.com/album/1ciCSrZvKjou6aslGIMOyD"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198342,
+      "name": "Time Spent",
+      "url": "https://open.spotify.com/track/3y4gYGiMFRssbyqbTNWbpZ"
+    },
+    {
+      "album": {
         "name": "Tweet Bird (Never Broke Again feat.YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae)",
         "url": "https://open.spotify.com/album/4YdoHez1RJ5NPlSgRraKfz"
       },
@@ -1899,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "VANISH",
+        "url": "https://open.spotify.com/album/64SC9qBRHXTwA8bkN5yfVI"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2021-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130612,
+      "name": "VANISH",
+      "url": "https://open.spotify.com/track/5rmHtbUCbjFqmeoOuP9b7B"
+    },
+    {
+      "album": {
         "name": "Soldier Kidd Fly High",
         "url": "https://open.spotify.com/album/7nTmZkR90qoOZqKoWEZWbv"
       },
@@ -1910,7 +2138,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 131158,
       "name": "VOP",
       "url": "https://open.spotify.com/track/7vdunoBHpNn9M85W7VQOQQ"

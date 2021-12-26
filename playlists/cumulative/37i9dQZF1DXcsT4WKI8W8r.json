@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 160346,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/4ywfuHVfB8wvm8tHWHK5QI"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 199379,
       "name": "Bad Vibrations",
       "url": "https://open.spotify.com/track/6zTKuNMEU3svBn65L6u88M"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU"
@@ -398,6 +398,24 @@
       "duration_ms": 200523,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq"
+    },
+    {
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "album": {
@@ -578,7 +596,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 259186,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
@@ -643,6 +661,24 @@
     },
     {
       "album": {
+        "name": "comethru",
+        "url": "https://open.spotify.com/album/0z59TOGj1z9NZJYNvRV02q"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181520,
+      "name": "comethru",
+      "url": "https://open.spotify.com/track/6fFTPGGItuEpjwXRUIr4rk"
+    },
+    {
+      "album": {
         "name": "Crosswords",
         "url": "https://open.spotify.com/album/6rkKZqdkCYu2qb5w2gYWRp"
       },
@@ -698,7 +734,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
@@ -864,7 +900,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 135750,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/3HkcVrjmfw0TWMC01FjxbO"
@@ -1124,10 +1160,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
+    },
+    {
+      "album": {
+        "name": "Heaven [From \"Fifty Shades Freed (Original Motion Picture Soundtrack)\"]",
+        "url": "https://open.spotify.com/album/5pvLpqi54KJ3LiZ2pwdXoE"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4QfNOZN7vrQCQKK1ZJ3XPb"
     },
     {
       "album": {
@@ -1178,7 +1232,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 187200,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/3ih1GOtde2cXv9yhpKSwqU"
@@ -1236,7 +1290,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 177140,
       "name": "How Can I Forget",
       "url": "https://open.spotify.com/track/0ibG3XCJ32Qq9maUY4AViR"
@@ -1342,6 +1396,24 @@
       "duration_ms": 216083,
       "name": "I Love You's",
       "url": "https://open.spotify.com/track/28Tv8zltFDr5wBCG3Pfky4"
+    },
+    {
+      "album": {
+        "name": "I Wish You Were Here (Acoustic)",
+        "url": "https://open.spotify.com/album/73NEA3N9onO77kK6ijm7aY"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126680,
+      "name": "I Wish You Were Here - Acoustic",
+      "url": "https://open.spotify.com/track/7euc7dFM1czdBzqfqgDUHR"
     },
     {
       "album": {
@@ -1486,7 +1558,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 219653,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/0xqnx4Q4qxAdAnrOAsNXkj"
@@ -1566,7 +1638,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 165526,
       "name": "LET IT GO (feat. Justin Bieber & 21 Savage)",
       "url": "https://open.spotify.com/track/1cEhrSF6EylAEqdhUGuNpX"
@@ -1868,7 +1940,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 187372,
       "name": "Make You Feel Like",
       "url": "https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL"
@@ -2009,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "My Blood",
+        "url": "https://open.spotify.com/album/4wIMU0uuxgsNXK6efH3c31"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197893,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/0QfK2sctatsomM50LGI8Os"
+    },
+    {
+      "album": {
         "name": "Pt. 1 Let Me Introduce You To My Thoughts",
         "url": "https://open.spotify.com/album/4dkfAwtEVDzkNi7X8g3YXv"
       },
@@ -2144,7 +2234,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 241894,
       "name": "One Step Closer",
       "url": "https://open.spotify.com/track/5609krR13jGNRxsfxpkiWG"
@@ -2206,7 +2296,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 179340,
       "name": "Play Human",
       "url": "https://open.spotify.com/track/4gDoMkkh8Ky770Y05Hc3Ts"
@@ -2300,7 +2390,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 196059,
       "name": "Put It All On Me",
       "url": "https://open.spotify.com/track/3EppIsAu2pgwtXTAgmN2jP"
@@ -2402,7 +2492,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 172226,
       "name": "Resentment (feat. Sturgill Simpson, Brian Wilson & Wrabel)",
       "url": "https://open.spotify.com/track/6iewIywVK4V0SQfSCZonCR"
@@ -2460,7 +2550,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 182553,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2CBReP4Ox7OnBzhJsb2VNk"
@@ -2518,6 +2608,32 @@
       "duration_ms": 163547,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
+    },
+    {
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/6iMoJ3UdrO2ZjzzcaN8Eom"
     },
     {
       "album": {
@@ -2768,10 +2884,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 213333,
       "name": "The Least That I Could Do",
       "url": "https://open.spotify.com/track/7B0agS1sIVLUGYG5oVHZ3V"
+    },
+    {
+      "album": {
+        "name": "Always - EP",
+        "url": "https://open.spotify.com/album/1LOJr9QQiMCDYEBzGo2pCm"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227781,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0kSkoCQscbi53ehDY17PlA"
     },
     {
       "album": {
@@ -2916,7 +3050,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"

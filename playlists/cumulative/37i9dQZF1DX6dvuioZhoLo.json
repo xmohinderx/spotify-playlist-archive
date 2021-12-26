@@ -908,7 +908,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 203640,
       "name": "I'll Be Your Man",
       "url": "https://open.spotify.com/track/2XgY3RneATmlW3SdVv84Kk"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 250333,
       "name": "Looking for Trouble",
       "url": "https://open.spotify.com/track/2xD4DFnrn91xLuy4M7Yxt0"
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Margo",
+        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
+      },
+      "artists": [
+        {
+          "name": "Haroula Rose",
+          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "Margo",
+      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
+    },
+    {
+      "album": {
         "name": "Magnolia Queen",
         "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 226784,
       "name": "Marriage Ain't the End of Being Lonely",
       "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 186626,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/4qd7c6XSzByd6Dz1QdLAnV"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 351920,
       "name": "Out To Sea",
       "url": "https://open.spotify.com/track/1JRVodzHiHJmuDRa83QO20"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 153548,
       "name": "Party Boy",
       "url": "https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og"
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 245773,
       "name": "Pink Champagne",
       "url": "https://open.spotify.com/track/6lwEELTpswg1EDdOPKY94Y"

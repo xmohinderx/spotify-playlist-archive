@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 170500,
       "name": "Anyway (feat. XERXESBAKKER) - Hard Mix",
       "url": "https://open.spotify.com/track/41GRG2vD1Cr3Ho5voCImq4"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 250000,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1MPqK7mzwIYSLxrM2UVQs7"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 180952,
       "name": "Bittersweet (ft. Quarterback) - Firelite Remix",
       "url": "https://open.spotify.com/track/3Z5NhpSi6V1Us5CrnR9E07"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 267870,
       "name": "Bolivia - G4H Blood Brothers Remix",
       "url": "https://open.spotify.com/track/3RUcYG9JQIF4YNYZWPsqeG"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 159200,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/5hShWhULwT3YUfIBQvh9VW"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 253548,
       "name": "Coming Alive",
       "url": "https://open.spotify.com/track/7rwwZKaxMmKK9T1yXIokIv"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 226147,
       "name": "Connected",
       "url": "https://open.spotify.com/track/1DtVFVNnnsUwvsJUa87uOm"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 230400,
       "name": "Different",
       "url": "https://open.spotify.com/track/5V36Ex7BD1FIidVCKVSKdm"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 215504,
       "name": "Discover",
       "url": "https://open.spotify.com/track/6kAkda1mvbIr1J6gE5YMMy"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 184075,
       "name": "Free",
       "url": "https://open.spotify.com/track/0TxkpEuyQT4r4zHzRoecc3"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 180761,
       "name": "Hit 'Em",
       "url": "https://open.spotify.com/track/06wgx2IGE8gme8tJpQQtVk"
@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 149254,
       "name": "Legends - Radio edit",
       "url": "https://open.spotify.com/track/7yq3wcy7JT8zrUSNLw5Iu0"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 190451,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/6AgG8WZqYsJZWb1yZjULE8"
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Noon",
       "url": "https://open.spotify.com/track/3RxUBny41YbvA2zus4vWYA"
@@ -3061,6 +3061,32 @@
     },
     {
       "album": {
+        "name": "Powers",
+        "url": "https://open.spotify.com/album/7rArvj48qUVY0SgMgGTONP"
+      },
+      "artists": [
+        {
+          "name": "TCM",
+          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
+        },
+        {
+          "name": "Harley Bird",
+          "url": "https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu"
+        },
+        {
+          "name": "Hu2dz",
+          "url": "https://open.spotify.com/artist/6J8shaA8nB3VQDj7apM9Gy"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188104,
+      "name": "Powers",
+      "url": "https://open.spotify.com/track/6zgqhBqCiB7BcinOHCjrKC"
+    },
+    {
+      "album": {
         "name": "Primal Energy (Defqon.1 2020 Anthem)",
         "url": "https://open.spotify.com/album/46khrcQnwafQ7aGOAuwCt0"
       },
@@ -3178,7 +3204,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 259212,
       "name": "Rave'n'Rage - DD Edit",
       "url": "https://open.spotify.com/track/6nGi1eEN6pdHNUw00ZQqUY"
@@ -3494,7 +3520,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 220903,
       "name": "Show It",
       "url": "https://open.spotify.com/track/349WqcWdoFn8SpuPqabADv"
@@ -3622,7 +3648,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 246580,
       "name": "Sovereign",
       "url": "https://open.spotify.com/track/40GSkhPzazW2eKTynjMPcg"
@@ -3692,7 +3718,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 156012,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/4rWoj8zjH5mv9FdserDATf"
@@ -3765,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/3WjGFlj4rJliwlikwB3S8K"
+      },
+      "artists": [
+        {
+          "name": "Sunset Project",
+          "url": "https://open.spotify.com/artist/1e7X5YlxE4AYGEPmr0pxNH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202385,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/10otfgw4sbD2x84x8o8XVl"
+    },
+    {
+      "album": {
         "name": "Strongest Formation",
         "url": "https://open.spotify.com/album/4uNpIGPZc0fhzXfSG1xjUV"
       },
@@ -3804,7 +3848,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 235322,
       "name": "Strongest Formation",
       "url": "https://open.spotify.com/track/65J9Ruvl07VyCn29etCz5k"
@@ -4006,7 +4050,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 179201,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/0BGDmwplApiVRFvhKlKBOr"
@@ -4028,7 +4072,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 228285,
       "name": "The Calling (Da Tweekaz Remix)",
       "url": "https://open.spotify.com/track/4aRwjepcGUhXP5MLOncvdT"
@@ -4054,7 +4098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 263800,
       "name": "The Elite",
       "url": "https://open.spotify.com/track/6RbtosFO5C2pMbPaFeMf9b"
@@ -4076,7 +4120,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Enemy (You Cannot See)",
       "url": "https://open.spotify.com/track/0GAIAbeS07Run8u9BOtT3P"
@@ -4200,7 +4244,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 225418,
       "name": "The Things You Hated",
       "url": "https://open.spotify.com/track/6Hd0c6zBKqg1xNEjY2QYyM"
@@ -4514,7 +4558,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Twilight Zone - Edit",
       "url": "https://open.spotify.com/track/09BxJMIz6CkunwqTPgpEWV"
@@ -4832,7 +4876,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 236896,
       "name": "Weekend Warriors - (Defqon.1 Festival 2013 Anthem Live Edit)",
       "url": "https://open.spotify.com/track/0t6PBGHAtwfJHyHhB6A3EQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now\. Cover: Cody Jinks
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,116 likes - 138 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,169 likes - 138 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

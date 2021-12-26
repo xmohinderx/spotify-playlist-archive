@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jsulumEbDn.md) - [plain]
 
 > The <a href="spotify:artist:066X20Nz7iquqkkCW6Jxy6">band</a>'s greatest hits, including selections from their latest album, american dream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,098 likes - 23 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,119 likes - 23 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

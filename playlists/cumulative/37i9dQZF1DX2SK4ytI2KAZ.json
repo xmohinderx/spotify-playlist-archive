@@ -240,7 +240,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/1anwgwnvLAcrItcXMpc2Py"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 227053,
       "name": "Day Dreaming",
       "url": "https://open.spotify.com/track/5NbyidjQ7pvTWdEVOUFcT3"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 199274,
       "name": "Do It Like You Do",
       "url": "https://open.spotify.com/track/7FOgj5HLQd9LXGKXot1RhA"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 186805,
       "name": "Faith",
       "url": "https://open.spotify.com/track/0c5rPwlRxcBmVLNARI2kGQ"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 169760,
       "name": "Good",
       "url": "https://open.spotify.com/track/7sRdxkgNb3m3Ciai38ANmd"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 204400,
       "name": "I Wanna Get Better",
       "url": "https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 204250,
       "name": "Mixtape 2003",
       "url": "https://open.spotify.com/track/5UDLKwnWf824mozRavgsgg"
@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Outside Voices",
+        "url": "https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170881,
+      "name": "Nothing Can Kill Us",
+      "url": "https://open.spotify.com/track/6r3x9CWcHQ0ZJFJYB1GXD9"
+    },
+    {
+      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/5iuJo58XqIENkyviBJ4dil"
       },
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 146413,
       "name": "Out of My Hands",
       "url": "https://open.spotify.com/track/2cMOFBM3yX5ntYPkayvKPc"
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 195863,
       "name": "Over my head",
       "url": "https://open.spotify.com/track/6r5tlCMur8Vngv3n0DzOFl"
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 208401,
       "name": "Pearls",
       "url": "https://open.spotify.com/track/7t91zpWtUO9xORfkwnKSQG"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 199757,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/57gXXZbi4KeojlnheJUets"
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 179857,
       "name": "Stumblin' Home",
       "url": "https://open.spotify.com/track/01oyRIMjNlMSN00ETiVduQ"
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 197128,
       "name": "Talking is Hard",
       "url": "https://open.spotify.com/track/0r733vlPgYPpZ6y6BnFK3U"
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 184435,
       "name": "Vowels (And the Importance of Being Me)",
       "url": "https://open.spotify.com/track/2jE3wqMD0Btzsf3cxr0FhO"
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 233976,
       "name": "Why Did You Run?",
       "url": "https://open.spotify.com/track/3IMh0b6bFDuFNB7F0E0A9h"

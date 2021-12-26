@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 213560,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0AQDhFnLUd32C8y3cjje9g"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 249341,
       "name": "Born To Be Yours - Acoustic Version",
       "url": "https://open.spotify.com/track/3rgrJySBLhVrDjJ2OXRtbB"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 195401,
       "name": "Broken",
       "url": "https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 211363,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0X3Csp5UBxXNqfnzkngOvN"
@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow EP",
+        "url": "https://open.spotify.com/album/3sUfbClZ6oRx9KtOLdzqTf"
+      },
+      "artists": [
+        {
+          "name": "Jack Curley",
+          "url": "https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184984,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9"
+    },
+    {
+      "album": {
         "name": "Dreamers of The Shore",
         "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
       },
@@ -760,7 +778,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 212720,
       "name": "Falling Like The Stars",
       "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 240217,
       "name": "Follow My Echo",
       "url": "https://open.spotify.com/track/7tryzQq9KawC9dUpkXXw0y"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 156066,
       "name": "Full Full Colour",
       "url": "https://open.spotify.com/track/4TmZ7SSq5YnKe2Qu9ge5fL"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 229066,
       "name": "Giants",
       "url": "https://open.spotify.com/track/2GP4MPXJD28vtnLMnBZG5c"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 219300,
       "name": "golden thing",
       "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 176173,
       "name": "Good Plates",
       "url": "https://open.spotify.com/track/4Cj3isXiH0u9igd6dKfStb"
@@ -1163,6 +1181,28 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Holy (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7FDhk932YsB1sRp3JV4NAY"
       },
@@ -1196,6 +1236,24 @@
       "duration_ms": 202146,
       "name": "I Believe in Us",
       "url": "https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4"
+    },
+    {
+      "album": {
+        "name": "I Give You The Best",
+        "url": "https://open.spotify.com/album/6Qqy2rTKHoGwEO4N2m0fE6"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "I Give You The Best",
+      "url": "https://open.spotify.com/track/22RSxuePk8ZGWbjLFqXlwC"
     },
     {
       "album": {
@@ -1354,7 +1412,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 189793,
       "name": "Kids In Love",
       "url": "https://open.spotify.com/track/2EjR7VKpDBdC2wgS053ivc"
@@ -1394,7 +1452,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 225476,
       "name": "Life as It Is",
       "url": "https://open.spotify.com/track/0ZTtKgd8j5DoFLPwie8bRk"
@@ -1470,7 +1528,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 170165,
       "name": "Make You",
       "url": "https://open.spotify.com/track/1SPUmDMhbzHOsizroAypLi"
@@ -1488,7 +1546,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 212826,
       "name": "Mess",
       "url": "https://open.spotify.com/track/3qhOjLeh6HePtsDhtxGpuR"
@@ -1506,7 +1564,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 268839,
       "name": "Miracle of Love",
       "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
@@ -1712,7 +1770,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 204563,
       "name": "Pinetrees",
       "url": "https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs"
@@ -1914,7 +1972,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 189495,
       "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
@@ -1954,7 +2012,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 194837,
       "name": "This City Remix (feat. Nea)",
       "url": "https://open.spotify.com/track/3atDBUHTgS6ogyeIfCfRMt"
@@ -2156,7 +2214,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 240773,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0P2j7ogCRvGMK4Pdw2K5ZQ"

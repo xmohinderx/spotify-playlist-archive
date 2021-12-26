@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 399219,
       "name": "Acceptance",
       "url": "https://open.spotify.com/track/2lXdClPLTHf6feWj03uEKH"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 367578,
       "name": "Basic Juno",
       "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
@@ -214,10 +214,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 378536,
       "name": "Bind - Rampa Remix",
       "url": "https://open.spotify.com/track/7wAVCSMQa3WyFFhfGfPDNP"
+    },
+    {
+      "album": {
+        "name": "Release Paralysis",
+        "url": "https://open.spotify.com/album/6ucmUMOupe8dNVW9bsr7Wz"
+      },
+      "artists": [
+        {
+          "name": "Frivolous",
+          "url": "https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Blue Canary",
+      "url": "https://open.spotify.com/track/0tcwkZuO5JLDXQNHnExKS7"
     },
     {
       "album": {
@@ -240,7 +258,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 410803,
       "name": "Borax - Oliver Koletzki Rework",
       "url": "https://open.spotify.com/track/727SCCXFpgIU9nYtS4OqgD"
@@ -266,7 +284,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 222605,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1SpPYZXLuUJ7BxiK16PNeb"
@@ -324,7 +342,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 341419,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
@@ -364,7 +382,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 297435,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/4mM8UJEAUHyPb6wa129GRf"
@@ -579,6 +597,24 @@
     },
     {
       "album": {
+        "name": "WAIRUNGA",
+        "url": "https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630336,
+      "name": "Dig Deep",
+      "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
+    },
+    {
+      "album": {
         "name": "Disappear",
         "url": "https://open.spotify.com/album/3M8am3fJKzNubjgDktouA5"
       },
@@ -672,7 +708,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 291785,
       "name": "Dreams Of You (feat. Rae Morris)",
       "url": "https://open.spotify.com/track/6pu5jQqenr37n0z6eBKOh0"
@@ -712,7 +748,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 222031,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4N5fhC9CW1Rt4doyulBgAd"
@@ -770,7 +806,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 271160,
       "name": "Fir",
       "url": "https://open.spotify.com/track/1EGAeOf7KRUj8VyzDh2TlJ"
@@ -824,7 +860,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 264698,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 595837,
       "name": "High Seas",
       "url": "https://open.spotify.com/track/3vIN77NsPlbqUOYC0DZBvo"
@@ -1006,7 +1042,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 379674,
       "name": "Hujan",
       "url": "https://open.spotify.com/track/4yk6OhBXGUMbQLfYCY53nE"
@@ -1032,7 +1068,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 483276,
       "name": "I hear you",
       "url": "https://open.spotify.com/track/3c7hLN3vJlB8lGP3b4qMGo"
@@ -1101,6 +1137,32 @@
     },
     {
       "album": {
+        "name": "Inner Child (Patrice B\u00e4umel Remix)",
+        "url": "https://open.spotify.com/album/0vsbf3Tnkl5IZx2ZVA0Eyj"
+      },
+      "artists": [
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "GPU Panic",
+          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
+        },
+        {
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253195,
+      "name": "Inner Child - Patrice B\u00e4umel Remix",
+      "url": "https://open.spotify.com/track/7clZJsHItM2ehnyyaEv94h"
+    },
+    {
+      "album": {
         "name": "43 Katzen tanzen auf'm Tisch - Acidbogen (Pt. 1)",
         "url": "https://open.spotify.com/album/0mECGpBWS51eKu15I49xd0"
       },
@@ -1130,7 +1192,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 283265,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/72O4Zk916HBRyxrfS5RjEV"
@@ -1184,7 +1246,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 385752,
       "name": "Korrelate",
       "url": "https://open.spotify.com/track/0qmuy4k8kApluZHCv5E7hl"
@@ -1232,7 +1294,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 284896,
       "name": "Lamiz\u00e8 Pa Dous - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/3txAnW0hspM1X6D3trUxku"
@@ -1250,7 +1312,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 186000,
       "name": "Lei",
       "url": "https://open.spotify.com/track/18PSybAifQoAseXYxLa1Xn"
@@ -1308,7 +1370,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 238186,
       "name": "Lore",
       "url": "https://open.spotify.com/track/0QswOQrUWKn93eOYBh6wWC"
@@ -1356,7 +1418,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 198250,
       "name": "Love You Or Don't",
       "url": "https://open.spotify.com/track/2ihfWFRqpsebImMvBlzc84"
@@ -1374,7 +1436,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 229470,
       "name": "Lunaire",
       "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
@@ -1490,7 +1552,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 273719,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/74ihDIAsUwAsYPYdWZH32P"
@@ -1512,7 +1574,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 455915,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/1kaTtElKK0jIKTdwg9ASLp"
@@ -1614,7 +1676,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 286717,
       "name": "No Silence",
       "url": "https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO"
@@ -1680,7 +1742,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 326715,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/7rtkDhmjlt2CMWfMnQDi9i"
@@ -1720,7 +1782,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 158882,
       "name": "Only You (feat. Paper Idol)",
       "url": "https://open.spotify.com/track/0WPDCTtHwo1RyR47iXcdPq"
@@ -1800,7 +1862,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 402000,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/5juPlUFkksVaQQ0EWWPjPm"
@@ -1818,7 +1880,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 434406,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/3i1NcXMWTcRiUyDydBhZol"
@@ -1854,7 +1916,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 321995,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E"
@@ -1938,7 +2000,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 341500,
       "name": "Run Run Run - Adam Port Remix",
       "url": "https://open.spotify.com/track/6ILgZZZnxyXRSvzSlpuNIz"
@@ -1960,10 +2022,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 465483,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/71y1XeA2RIcAfYOht1CxGa"
+    },
+    {
+      "album": {
+        "name": "Sequoia",
+        "url": "https://open.spotify.com/album/2FFjfrpopWyK0t09hFqfLw"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197076,
+      "name": "Sequoia",
+      "url": "https://open.spotify.com/track/23FvcB0j0HRa2YUWkzVmWi"
     },
     {
       "album": {
@@ -1978,7 +2058,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV"
@@ -2018,7 +2098,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 271274,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO"
@@ -2090,7 +2170,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 484645,
       "name": "Sun Salutations",
       "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
@@ -2112,7 +2192,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 296585,
       "name": "Svanur (feat. R\u00f6kkurr\u00f3)",
       "url": "https://open.spotify.com/track/2rnONdiE5CpLdmtNspVnTx"
@@ -2156,6 +2236,28 @@
       "duration_ms": 440638,
       "name": "The Church",
       "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
+    },
+    {
+      "album": {
+        "name": "The Message feat. Bajka (Radio Edit)",
+        "url": "https://open.spotify.com/album/01x5HSbl2Qlj3du56AXw3C"
+      },
+      "artists": [
+        {
+          "name": "Hyenah",
+          "url": "https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu"
+        },
+        {
+          "name": "Bajka",
+          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228561,
+      "name": "The Message - Radio Edit",
+      "url": "https://open.spotify.com/track/3O8b0YaIjwIXLIpintKnAX"
     },
     {
       "album": {
@@ -2374,7 +2476,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 336212,
       "name": "What Did You Do?",
       "url": "https://open.spotify.com/track/4GCjjTHiH5QEYnmxkX837H"
@@ -2428,7 +2530,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 382668,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/6aqhM9bUq6tdC9QUj3OXij"

@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 168143,
       "name": "Atom Mirror",
       "url": "https://open.spotify.com/track/2vV2bD9Iqf22nHuFzrzz28"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 251775,
       "name": "Barrows Ballad",
       "url": "https://open.spotify.com/track/7lqwJUdXahWpA2lTb9FUNM"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 153616,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/1YAl8UoW0jppOPAGugF2Kr"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 118522,
       "name": "Chicken Wang (feat. Diplo, Snappy Jit)",
       "url": "https://open.spotify.com/track/0cl5BEHLkh9BmJG2ElaUPK"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 155500,
       "name": "DDOKBOKKI",
       "url": "https://open.spotify.com/track/0yT0Ok6LxqSLEzM7UMWEsQ"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 303517,
       "name": "Diamond Chain",
       "url": "https://open.spotify.com/track/60svIMvs5qsqcrQcqoPbXp"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 144004,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/1Bhy4eBv3f3m7cXQxyQVZ6"
@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Get Money",
+        "url": "https://open.spotify.com/album/0AKuWXcsRF1NmdP7YouXk2"
+      },
+      "artists": [
+        {
+          "name": "Murdbrain",
+          "url": "https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174015,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/4A9dK9lBwaimjhgwEcv9e9"
+    },
+    {
+      "album": {
         "name": "Get Right",
         "url": "https://open.spotify.com/album/0xejpMLCWbCVEHPivvoQGH"
       },
@@ -778,7 +796,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 121209,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/0lh5lqLvhqQyarqtL6rD8h"
@@ -822,7 +840,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 234053,
       "name": "Got 'Em - ZHU Remix",
       "url": "https://open.spotify.com/track/6RAwKM3TxG9USNt3WcKnbC"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 189133,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/1NhilkWAvuOHN3c0m88N98"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 152000,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/74leCkl7rVK7GcycRrc9wq"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 229863,
       "name": "Just Enough",
       "url": "https://open.spotify.com/track/6O7EqSCpQTiU8GECX1KDIA"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 154887,
       "name": "Kings",
       "url": "https://open.spotify.com/track/6X38QEOERzDXI5HPvwAJw7"
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 192022,
       "name": "Lowkey (feat. Lil Traffic)",
       "url": "https://open.spotify.com/track/0PCCk7RBQUE7RsoUq66nuW"
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 159036,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/3n43IT3mrmAr2haV5J28t6"
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 208400,
       "name": "Morph",
       "url": "https://open.spotify.com/track/6jwmIxjsBgCMIPCSQzv2R5"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 208615,
       "name": "MTV",
       "url": "https://open.spotify.com/track/12fXG4cvTNqSOZYlXsHjLe"
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173144,
       "name": "Natural Dna",
       "url": "https://open.spotify.com/track/40S3MDbHQKIJWHzDV0gOJA"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 160941,
       "name": "No More - chromonicci Remix",
       "url": "https://open.spotify.com/track/7llGHIv1mHxhXt0q72ReCL"
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 210008,
       "name": "Octavia",
       "url": "https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 153886,
       "name": "Schism",
       "url": "https://open.spotify.com/track/6ORBymYSqdRRqAyZvybcXq"
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/3DLvDnN0C8pAHpCZK0H9kK"
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 258837,
       "name": "Totality",
       "url": "https://open.spotify.com/track/67U414F214QaCHyVl2oRA8"
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 191150,
       "name": "U Nasty",
       "url": "https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw"
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 182181,
       "name": "ULTRAMAGNET",
       "url": "https://open.spotify.com/track/5fz7jzEkp9Hxh9kZewWVCU"

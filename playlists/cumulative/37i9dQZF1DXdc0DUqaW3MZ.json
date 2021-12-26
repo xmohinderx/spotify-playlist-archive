@@ -46,7 +46,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 170501,
       "name": "1985",
       "url": "https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 185168,
       "name": "Above",
       "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
@@ -86,7 +86,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 289670,
       "name": "Ain't Got Time",
       "url": "https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 250518,
       "name": "All Made Up",
       "url": "https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 376981,
       "name": "Aquaself",
       "url": "https://open.spotify.com/track/48ZxMdmUA9CK7i31wn7bbx"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 173000,
       "name": "argentin",
       "url": "https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 156493,
       "name": "Brave",
       "url": "https://open.spotify.com/track/7iSitBZKLKLzmXt3cESX4L"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 170881,
       "name": "Cig Angel",
       "url": "https://open.spotify.com/track/4AMw3vWRQxJJSCv0WVvofD"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 229542,
       "name": "Cosmos (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 306696,
       "name": "EKG - Club Mix",
       "url": "https://open.spotify.com/track/3R6FntVNKj4DNywzoXb8uv"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227070,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/76KumSfWF8BFG9mi1d6U3Q"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 240000,
       "name": "Flame - Vzion & Orchi Remix",
       "url": "https://open.spotify.com/track/5sLrA7GDesEZfAapaDYjIC"
@@ -903,6 +903,28 @@
     },
     {
       "album": {
+        "name": "i can't go outside",
+        "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248764,
+      "name": "fuego (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
+    },
+    {
+      "album": {
         "name": "FVR105 (p-rallel Remix)",
         "url": "https://open.spotify.com/album/48tEvCdEeup0NKN95THhpD"
       },
@@ -934,7 +956,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5PI0KCcfghR4Xg0w6xuoZ0"
@@ -952,7 +974,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 164963,
       "name": "FYO",
       "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
@@ -970,7 +992,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 197675,
       "name": "Ghostin'",
       "url": "https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F"
@@ -1036,7 +1058,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 218306,
       "name": "Gold Chains",
       "url": "https://open.spotify.com/track/0T7PAJKN2k6k7kBSWIcw34"
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 169626,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
@@ -1164,7 +1186,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 172866,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/2UWyaEEAjiLEhrNcwiKXKY"
@@ -1288,7 +1310,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "It's Nice to Be Alive",
       "url": "https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4"
@@ -1336,6 +1358,28 @@
       "duration_ms": 270211,
       "name": "Keep U Round",
       "url": "https://open.spotify.com/track/6PuC4wspEPM24sawG1n6Er"
+    },
+    {
+      "album": {
+        "name": "Lay",
+        "url": "https://open.spotify.com/album/01o2t8A3cxGc8B6axL84y0"
+      },
+      "artists": [
+        {
+          "name": "Footshooter",
+          "url": "https://open.spotify.com/artist/691jSL9gwZx8VX55QVTRGa"
+        },
+        {
+          "name": "Natty Wylah",
+          "url": "https://open.spotify.com/artist/2BUKwf8XQN2KTzdp8hyqlK"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/35b1hAgRonvJ75MFqA2goi"
     },
     {
       "album": {
@@ -1466,7 +1510,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 128000,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm"
@@ -1484,7 +1528,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 191895,
       "name": "ME!",
       "url": "https://open.spotify.com/track/5bOj8Ld0sxtbUsIAkGOhgu"
@@ -1506,7 +1550,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 240924,
       "name": "Mine",
       "url": "https://open.spotify.com/track/25VKwAAJ7YLvpTJ02yNV5x"
@@ -1586,7 +1630,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 218571,
       "name": "Mounemouma",
       "url": "https://open.spotify.com/track/7diF7X2vCFc15ee69L2YI7"
@@ -1691,6 +1735,28 @@
     },
     {
       "album": {
+        "name": "Need You Right Now (feat. Channel Tres)",
+        "url": "https://open.spotify.com/album/6tnB9ffKPL1eoUUvRBwnIz"
+      },
+      "artists": [
+        {
+          "name": "Dan D'Lion",
+          "url": "https://open.spotify.com/artist/6dLGrJfOwF5gdyI8Ga7b76"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226494,
+      "name": "Need You Right Now (feat. Channel Tres)",
+      "url": "https://open.spotify.com/track/7k2cwdnyG69gTaPQoEWWqv"
+    },
+    {
+      "album": {
         "name": "Next to Me",
         "url": "https://open.spotify.com/album/3ebyMbHr57XpbsDgm0YnGZ"
       },
@@ -1706,7 +1772,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 258250,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/1q1wxTHRtt7TR9GJhhZA8b"
@@ -1754,7 +1820,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 247619,
       "name": "No Fuss No Fight - Radio Edit",
       "url": "https://open.spotify.com/track/6AtGyzSSN3Js4fSRPimqxK"
@@ -1794,6 +1860,24 @@
       "duration_ms": 226512,
       "name": "Off Kilter",
       "url": "https://open.spotify.com/track/2nC7BtBWQ0fxpdkuuLzrdv"
+    },
+    {
+      "album": {
+        "name": "Quarantena",
+        "url": "https://open.spotify.com/album/43uIW9EnHzwmcNYK3bsilW"
+      },
+      "artists": [
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271990,
+      "name": "Quarantena",
+      "url": "https://open.spotify.com/track/4a2HXS6BmrLGg0Zzz5PJGW"
     },
     {
       "album": {
@@ -1838,7 +1922,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 178064,
       "name": "Quest - Alfa Mist Remix",
       "url": "https://open.spotify.com/track/025rvl9qNoZw36I94X6gcM"
@@ -1878,7 +1962,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 192703,
       "name": "Raining Colours",
       "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
@@ -2038,7 +2122,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 171416,
       "name": "Sirens feat. KALLITECHNIS",
       "url": "https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH"
@@ -2094,7 +2178,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 229320,
       "name": "soulboy - IZCO Remix",
       "url": "https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK"
@@ -2141,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/4CJBKbUWAn2QFmp0ynzIzo"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294562,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/5EnM3BEDqs7sHdyicNaZrQ"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/4rBfvQhKA3aJ3rdKWtgE00"
       },
@@ -2152,7 +2254,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 299688,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5qeIAwW9nhHzpiKkPHusPY"
@@ -2192,7 +2294,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 180124,
       "name": "Try",
       "url": "https://open.spotify.com/track/26BcLHV3BnUmcg11hiyyyf"
@@ -2298,7 +2400,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 274000,
       "name": "What I Wanted",
       "url": "https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv"
@@ -2342,7 +2444,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"

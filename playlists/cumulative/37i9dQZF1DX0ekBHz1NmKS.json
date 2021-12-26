@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Bl\u00e5",
+        "url": "https://open.spotify.com/album/4NQguSrcgRiDznaKoowh8u"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259375,
+      "name": "Bl\u00e5",
+      "url": "https://open.spotify.com/track/0hel3UahHwK9SfUF85M1WK"
+    },
+    {
+      "album": {
         "name": "Bra ihop",
         "url": "https://open.spotify.com/album/7r6cb6MK0xNBmqeGV9fKWC"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 223208,
       "name": "Bra ihop",
       "url": "https://open.spotify.com/track/1V8ZCGO852CLJmj0qhNXwh"
@@ -218,10 +236,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 180157,
       "name": "Can't Stay Away",
       "url": "https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA"
+    },
+    {
+      "album": {
+        "name": "Carefree (Spotify Studio Oyster Recording)",
+        "url": "https://open.spotify.com/album/0BJEn3fu5A8BYV7VQeod0R"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215162,
+      "name": "Carefree - Spotify Studio Oyster Recording",
+      "url": "https://open.spotify.com/track/6hVWQIhhwl9JDgVIjTIgRw"
     },
     {
       "album": {
@@ -280,7 +316,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 211333,
       "name": "Coldtrain",
       "url": "https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX"
@@ -323,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Dansar p\u00e5 lakan",
+        "url": "https://open.spotify.com/album/7fkILnGxZDkcsnRVPjCcjS"
+      },
+      "artists": [
+        {
+          "name": "WAHL",
+          "url": "https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191959,
+      "name": "Dansar p\u00e5 lakan",
+      "url": "https://open.spotify.com/track/1Nhm9iD7DycxEiLzPjvSnV"
+    },
+    {
+      "album": {
         "name": "Dear Havanna",
         "url": "https://open.spotify.com/album/10OeMzAgC6XD8qTAqtxrEb"
       },
@@ -338,7 +392,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 177893,
       "name": "Dear Havanna",
       "url": "https://open.spotify.com/track/1Sd8I2aucIUkPHja16CDu1"
@@ -378,7 +432,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 194573,
       "name": "Den sista",
       "url": "https://open.spotify.com/track/6T51Z4ZEUf8dRUvYbEhFuj"
@@ -534,7 +588,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 206374,
       "name": "Dom Kallar Mig F\u00f6r\u2026",
       "url": "https://open.spotify.com/track/6RCOwKoJ4FFnPTT4cAoHWl"
@@ -588,7 +642,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 210493,
       "name": "Dr\u00f6mmer om andetag",
       "url": "https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw"
@@ -606,7 +660,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "Du kommer dra",
       "url": "https://open.spotify.com/track/2B1lM51YSusA3I5OUpD8yN"
@@ -678,7 +732,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 269866,
       "name": "En fattig munk fr\u00e5n Skara",
       "url": "https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT"
@@ -798,7 +852,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 171315,
       "name": "Farstaglitter",
       "url": "https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB"
@@ -834,7 +888,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 193894,
       "name": "First Place",
       "url": "https://open.spotify.com/track/30OOcKVwvFSOEPOlPUPW8J"
@@ -949,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt (Kapitel 1)",
+        "url": "https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186301,
+      "name": "F\u00f6rlorat mot v\u00e4rlden",
+      "url": "https://open.spotify.com/track/0b7wXTM7SXxES4TicoyWEr"
+    },
+    {
+      "album": {
         "name": "VIRGO",
         "url": "https://open.spotify.com/album/1u0nScxOJfm43X7wN2wOW0"
       },
@@ -1050,7 +1122,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 211453,
       "name": "Havanna",
       "url": "https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA"
@@ -1152,7 +1224,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 204485,
       "name": "H\u00e4r tog det vackra slut",
       "url": "https://open.spotify.com/track/3T6OQHYXf8a0ExKgdF581H"
@@ -1228,7 +1300,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 158351,
       "name": "Id\u00e9n om oss",
       "url": "https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z"
@@ -1282,7 +1354,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 72857,
       "name": "Jag har en s\u00e5ng",
       "url": "https://open.spotify.com/track/5EEBaNtTSxGAFDDvF4u0to"
@@ -1379,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4nner ingenting",
+        "url": "https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4"
+      },
+      "artists": [
+        {
+          "name": "Marika Larsson",
+          "url": "https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177103,
+      "name": "K\u00e4nner ingenting",
+      "url": "https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X"
+    },
+    {
+      "album": {
         "name": "Lika bra",
         "url": "https://open.spotify.com/album/2uZdMOYOd3qwAzuNS0hKur"
       },
@@ -1390,7 +1480,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 179626,
       "name": "Lika bra",
       "url": "https://open.spotify.com/track/2AuOnLQFk1LCiSWuxbQona"
@@ -1408,7 +1498,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 150991,
       "name": "Like a Crown",
       "url": "https://open.spotify.com/track/6wNrNhQiRKGymyoOH8AQ2K"
@@ -1556,7 +1646,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 207083,
       "name": "Love Someone Like Me",
       "url": "https://open.spotify.com/track/0zCBRkTEhl68qxb1EOS58g"
@@ -1578,7 +1668,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 234398,
       "name": "L\u00e5ngsamt (med Titiyo)",
       "url": "https://open.spotify.com/track/5oIimgKjmPcrQDmmj0bb46"
@@ -1600,7 +1690,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 169230,
       "name": "L\u00e5t Tystnaden Tala",
       "url": "https://open.spotify.com/track/6CNipGzy4tNHZ1HBA5zdhj"
@@ -1636,7 +1726,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216318,
       "name": "Mamma \u00e4r lik sin mamma",
       "url": "https://open.spotify.com/track/4UBKHem0p2HpIAjCnELAjE"
@@ -1654,7 +1744,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 226253,
       "name": "Minnet Av Ett Hav",
       "url": "https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00"
@@ -1672,7 +1762,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 206306,
       "name": "Misstag i Moskva",
       "url": "https://open.spotify.com/track/0cbBsBCCLSgUYJfqxeW2qJ"
@@ -1708,7 +1798,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 135930,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/5G9FmeUt32pdxoO5Rk5ck4"
@@ -1744,7 +1834,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 172187,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/6mss39f2NvXx3IshtHqldT"
@@ -1780,7 +1870,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 134687,
       "name": "My Name",
       "url": "https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE"
@@ -1798,7 +1888,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 210521,
       "name": "Naked",
       "url": "https://open.spotify.com/track/5xVUzNOpWbmBmOJn1Jb4Am"
@@ -1816,7 +1906,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 152736,
       "name": "Nightwalker",
       "url": "https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH"
@@ -1845,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Nonono",
+        "url": "https://open.spotify.com/album/2uDilBq2pCCTzXA3RdKCwT"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242526,
+      "name": "Nonono",
+      "url": "https://open.spotify.com/track/3yfMnmyvUPamwT4aXCORmk"
+    },
+    {
+      "album": {
         "name": "Nu Brinner \u00c4ngarna",
         "url": "https://open.spotify.com/album/31Jd4Ug0PDK80oj1rGZEsY"
       },
@@ -1856,7 +1964,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 161453,
       "name": "Nu Brinner \u00c4ngarna",
       "url": "https://open.spotify.com/track/3RmmF7UZoucWbBy8zuG3T5"
@@ -1954,7 +2062,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 167213,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6svqglRbc9M5cXsIXINJcJ"
@@ -1990,7 +2098,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 175384,
       "name": "Precious Cargo",
       "url": "https://open.spotify.com/track/1mcDSDrKxkDYJ3At0K5VpU"
@@ -2026,7 +2134,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 167080,
       "name": "P\u00e5 en buss",
       "url": "https://open.spotify.com/track/5eZ5OiDd7jbFQuVAJfz6QZ"
@@ -2102,7 +2210,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 200436,
       "name": "Rom-Com",
       "url": "https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS"
@@ -2156,7 +2264,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 161221,
       "name": "Sad boy",
       "url": "https://open.spotify.com/track/4PkP9bwUUDOy616Ve9qEid"
@@ -2210,7 +2318,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 157726,
       "name": "sa\u0308ga inget s\u00e4ger allt",
       "url": "https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM"
@@ -2228,7 +2336,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 162133,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/79T72e0BTvSA0IIwQ2bgdM"
@@ -2264,7 +2372,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 180340,
       "name": "Se mig, bara se mig",
       "url": "https://open.spotify.com/track/7qZRHmZgslebCewAQPR3Vz"
@@ -2282,7 +2390,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239"
@@ -2430,7 +2538,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 212262,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC"
@@ -2734,7 +2842,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 202909,
       "name": "Ta p\u00e5 mig",
       "url": "https://open.spotify.com/track/3DFOoe2J49z0ZD1o74fq5x"
@@ -2752,7 +2860,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 152400,
       "name": "Tears",
       "url": "https://open.spotify.com/track/1KEXV4nhFG7lkOU7qqiQyi"
@@ -2806,7 +2914,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 164986,
       "name": "Thanks a lot now I can\u2019t smile",
       "url": "https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz"
@@ -2885,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt (Kapitel 1)",
+        "url": "https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194595,
+      "name": "Var \u00e4r du?",
+      "url": "https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW"
+    },
+    {
+      "album": {
         "name": "Vart jag mig \u00e4n v\u00e4nder",
         "url": "https://open.spotify.com/album/2uAKul7JL6BAboy4LGJ53F"
       },
@@ -2918,7 +3044,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-26",
       "duration_ms": 176895,
       "name": "Vaskar mina t\u00e5rar",
       "url": "https://open.spotify.com/track/1qUYbmIfoIDVRaRuDUlVZ3"
