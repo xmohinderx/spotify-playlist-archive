@@ -1,18 +1,18 @@
 {
   "description": "Get into the inspired sounds of <a href=\"spotify:artist:2kGBy2WHvF0VdZyqiVCkDT\">Father John Misty</a>.",
   "name": "This Is Father John Misty",
-  "num_followers": 57231,
+  "num_followers": 57256,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDQ3OTI5MywwMDAwMDAwMDNiZmMzZmZhMWNiZmRkZjM1MzFmNjU3ZWNiOGEyNmIx",
+  "snapshot_id": "MTY0MDU3OTQ4MywwMDAwMDAwMDkzNzQxNGMxZGE2MjJkOTc3MmZkOGRhMjUxNjBkYzcx",
   "tracks": [
     {
       "added_at": "2017-05-22 20:51:54",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/6IpBMtAMrBvSHc9y6rTtQQ"
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/6YDf6QV7QfCEo8O2dbWalK"
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi"
     },
     {
       "added_at": "2017-05-22 20:51:54",
@@ -67,8 +67,8 @@
     {
       "added_at": "2017-05-22 20:51:54",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/6IpBMtAMrBvSHc9y6rTtQQ"
       },
       "artists": [
         {
@@ -76,41 +76,9 @@
           "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Chateau Lobby #4 (in C for Two Virgins)",
-      "url": "https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi"
-    },
-    {
-      "added_at": "2017-05-22 20:51:54",
-      "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Hollywood Forever Cemetery Sings",
-      "url": "https://open.spotify.com/track/4C0rGNpTIPTCVRiT4XKYMa"
-    },
-    {
-      "added_at": "2020-09-24 14:39:35",
-      "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 452832,
-      "name": "One of Us Cannot Be Wrong",
-      "url": "https://open.spotify.com/track/1eqQtB3Td3YUwPFwlpUaR1"
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/6YDf6QV7QfCEo8O2dbWalK"
     },
     {
       "added_at": "2017-05-22 20:51:54",
@@ -131,6 +99,22 @@
     {
       "added_at": "2017-05-22 20:51:54",
       "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 190613,
+      "name": "Hollywood Forever Cemetery Sings",
+      "url": "https://open.spotify.com/track/4C0rGNpTIPTCVRiT4XKYMa"
+    },
+    {
+      "added_at": "2017-05-22 20:51:54",
+      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
       },
@@ -147,8 +131,8 @@
     {
       "added_at": "2020-09-24 14:39:35",
       "album": {
-        "name": "To S. / To R.",
-        "url": "https://open.spotify.com/album/61oaVIBCJKVQlHBzMcTKfX"
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm"
       },
       "artists": [
         {
@@ -156,25 +140,9 @@
           "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 259008,
-      "name": "To S.",
-      "url": "https://open.spotify.com/track/17ogyMCuQ3aWoFQkNldC9U"
-    },
-    {
-      "added_at": "2017-08-31 18:28:12",
-      "album": {
-        "name": "Pure Comedy",
-        "url": "https://open.spotify.com/album/3CoFoDt6zt5EKxmTpOX32b"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 258463,
-      "name": "Things It Would Have Been Helpful to Know Before the Revolution",
-      "url": "https://open.spotify.com/track/0cLyScyKTvOEcF64ReuwiO"
+      "duration_ms": 452832,
+      "name": "One of Us Cannot Be Wrong",
+      "url": "https://open.spotify.com/track/1eqQtB3Td3YUwPFwlpUaR1"
     },
     {
       "added_at": "2017-05-22 20:51:54",
@@ -193,134 +161,6 @@
       "url": "https://open.spotify.com/track/7irbGDuFQ1kzimoztuDkRp"
     },
     {
-      "added_at": "2020-09-24 14:39:35",
-      "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 191762,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3JnSAUi5DiXpBQ1kq0cK8H"
-    },
-    {
-      "added_at": "2020-09-24 14:39:35",
-      "album": {
-        "name": "To S. / To R.",
-        "url": "https://open.spotify.com/album/61oaVIBCJKVQlHBzMcTKfX"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 266275,
-      "name": "To R.",
-      "url": "https://open.spotify.com/track/60SWtHHhpWBNyDwcxEnL2o"
-    },
-    {
-      "added_at": "2020-09-24 14:39:35",
-      "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 227332,
-      "name": "Fallin' Rain",
-      "url": "https://open.spotify.com/track/1pPgl4bSBjRH85wiTTCws4"
-    },
-    {
-      "added_at": "2020-09-24 14:39:35",
-      "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 342753,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/5u4sCPvmbuWjxJBi8B0QAw"
-    },
-    {
-      "added_at": "2018-06-05 17:02:41",
-      "album": {
-        "name": "God's Favorite Customer",
-        "url": "https://open.spotify.com/album/1DSQ4XP8DRnfeiAYYagMUN"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Hangout at the Gallows",
-      "url": "https://open.spotify.com/track/2TUiggWlhYI6tX0hVtpZ5f"
-    },
-    {
-      "added_at": "2020-09-24 14:39:35",
-      "album": {
-        "name": "Off-Key in Hamburg",
-        "url": "https://open.spotify.com/album/2LszbE4j2yEAQmTVv9fwLU"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 271480,
-      "name": "I Went to the Store One Day - Live from the Hamburg Elbphilharmonie on August 8, 2019",
-      "url": "https://open.spotify.com/track/7slryHlEP6O1evLd8rvfnt"
-    },
-    {
-      "added_at": "2018-08-15 07:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx"
-    },
-    {
-      "added_at": "2018-06-05 17:02:41",
-      "album": {
-        "name": "God's Favorite Customer",
-        "url": "https://open.spotify.com/album/1DSQ4XP8DRnfeiAYYagMUN"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "Please Don't Die",
-      "url": "https://open.spotify.com/track/72lGJyqmLUJQEhUOzwCFQF"
-    },
-    {
       "added_at": "2018-03-05 23:09:37",
       "album": {
         "name": "Mr. Tillman",
@@ -337,10 +177,10 @@
       "url": "https://open.spotify.com/track/5ArtaQ740g1HgDugVOyzf7"
     },
     {
-      "added_at": "2017-05-22 20:51:54",
+      "added_at": "2017-08-31 18:28:12",
       "album": {
-        "name": "Ballad of the Dying Man",
-        "url": "https://open.spotify.com/album/7oSQXlLNG8Dbj8IZlKq4SP"
+        "name": "Pure Comedy",
+        "url": "https://open.spotify.com/album/3CoFoDt6zt5EKxmTpOX32b"
       },
       "artists": [
         {
@@ -348,9 +188,9 @@
           "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 290720,
-      "name": "Ballad of the Dying Man",
-      "url": "https://open.spotify.com/track/6lMbJ1HsxaGnb7JRfgqo1G"
+      "duration_ms": 258463,
+      "name": "Things It Would Have Been Helpful to Know Before the Revolution",
+      "url": "https://open.spotify.com/track/0cLyScyKTvOEcF64ReuwiO"
     },
     {
       "added_at": "2017-05-22 20:51:54",
@@ -385,6 +225,54 @@
       "url": "https://open.spotify.com/track/2OTovEYN1lx57YfLEe4ylM"
     },
     {
+      "added_at": "2020-09-24 14:39:35",
+      "album": {
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 342753,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/5u4sCPvmbuWjxJBi8B0QAw"
+    },
+    {
+      "added_at": "2020-09-24 14:39:35",
+      "album": {
+        "name": "To S. / To R.",
+        "url": "https://open.spotify.com/album/61oaVIBCJKVQlHBzMcTKfX"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 266275,
+      "name": "To R.",
+      "url": "https://open.spotify.com/track/60SWtHHhpWBNyDwcxEnL2o"
+    },
+    {
+      "added_at": "2017-05-22 20:51:54",
+      "album": {
+        "name": "Ballad of the Dying Man",
+        "url": "https://open.spotify.com/album/7oSQXlLNG8Dbj8IZlKq4SP"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 290720,
+      "name": "Ballad of the Dying Man",
+      "url": "https://open.spotify.com/track/6lMbJ1HsxaGnb7JRfgqo1G"
+    },
+    {
       "added_at": "2017-05-22 20:51:54",
       "album": {
         "name": "Pure Comedy",
@@ -399,6 +287,102 @@
       "duration_ms": 383800,
       "name": "Pure Comedy",
       "url": "https://open.spotify.com/track/7EqHqILVR6yZE8hCSZodt0"
+    },
+    {
+      "added_at": "2020-09-24 14:39:35",
+      "album": {
+        "name": "To S. / To R.",
+        "url": "https://open.spotify.com/album/61oaVIBCJKVQlHBzMcTKfX"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 259008,
+      "name": "To S.",
+      "url": "https://open.spotify.com/track/17ogyMCuQ3aWoFQkNldC9U"
+    },
+    {
+      "added_at": "2020-09-24 14:39:35",
+      "album": {
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 191762,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3JnSAUi5DiXpBQ1kq0cK8H"
+    },
+    {
+      "added_at": "2017-05-22 20:51:54",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 216186,
+      "name": "The Night Josh Tillman Came To Our Apt.",
+      "url": "https://open.spotify.com/track/5UXusQhn77o9f11H4NKFbM"
+    },
+    {
+      "added_at": "2018-06-05 17:02:41",
+      "album": {
+        "name": "God's Favorite Customer",
+        "url": "https://open.spotify.com/album/1DSQ4XP8DRnfeiAYYagMUN"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "Please Don't Die",
+      "url": "https://open.spotify.com/track/72lGJyqmLUJQEhUOzwCFQF"
+    },
+    {
+      "added_at": "2017-05-22 20:51:54",
+      "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "True Affection",
+      "url": "https://open.spotify.com/track/4qG7NaN5VGPE2HPFKFHKCs"
+    },
+    {
+      "added_at": "2020-09-24 14:39:35",
+      "album": {
+        "name": "Off-Key in Hamburg",
+        "url": "https://open.spotify.com/album/2LszbE4j2yEAQmTVv9fwLU"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 271480,
+      "name": "I Went to the Store One Day - Live from the Hamburg Elbphilharmonie on August 8, 2019",
+      "url": "https://open.spotify.com/track/7slryHlEP6O1evLd8rvfnt"
     },
     {
       "added_at": "2017-05-22 20:51:54",
@@ -417,10 +401,10 @@
       "url": "https://open.spotify.com/track/7nguw3JCObYNBh72bpWSCj"
     },
     {
-      "added_at": "2017-05-22 20:51:54",
+      "added_at": "2020-09-24 14:39:35",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/4MsCxk1m3oX1NFKGsVZ2Xm"
       },
       "artists": [
         {
@@ -428,9 +412,25 @@
           "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 216186,
-      "name": "The Night Josh Tillman Came To Our Apt.",
-      "url": "https://open.spotify.com/track/5UXusQhn77o9f11H4NKFbM"
+      "duration_ms": 227332,
+      "name": "Fallin' Rain",
+      "url": "https://open.spotify.com/track/1pPgl4bSBjRH85wiTTCws4"
+    },
+    {
+      "added_at": "2018-08-15 07:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx"
     },
     {
       "added_at": "2018-04-20 21:21:58",

@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1MPqK7mzwIYSLxrM2UVQs7"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 153624,
       "name": "Bass Attack",
       "url": "https://open.spotify.com/track/3idlXH9t69kYKh6Y2KBOpx"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 267870,
       "name": "Bolivia - G4H Blood Brothers Remix",
       "url": "https://open.spotify.com/track/3RUcYG9JQIF4YNYZWPsqeG"
@@ -376,6 +376,28 @@
       "duration_ms": 236810,
       "name": "Born & Raised (Official I AM HARDSTYLE Anthem 2020)",
       "url": "https://open.spotify.com/track/1UFkRFGEDkTafQF55tiQvY"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/2cfVz6gqpKDmHVBfLlzgmB"
+      },
+      "artists": [
+        {
+          "name": "Wav3motion",
+          "url": "https://open.spotify.com/artist/6TIeewRIC6pGGn6i2n4HPW"
+        },
+        {
+          "name": "Keiji",
+          "url": "https://open.spotify.com/artist/2aWpRZYYS6t4mFZ3XKaMgV"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216816,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/6gzoKKvtqZvZ3rNSsBT2cb"
     },
     {
       "album": {
@@ -628,7 +650,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 253548,
       "name": "Coming Alive",
       "url": "https://open.spotify.com/track/7rwwZKaxMmKK9T1yXIokIv"
@@ -716,7 +738,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 228800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw"
@@ -838,7 +860,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Different",
       "url": "https://open.spotify.com/track/5V36Ex7BD1FIidVCKVSKdm"
@@ -882,7 +904,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 215504,
       "name": "Discover",
       "url": "https://open.spotify.com/track/6kAkda1mvbIr1J6gE5YMMy"
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 182727,
       "name": "Fire And Ice - Radio Edit",
       "url": "https://open.spotify.com/track/4tQOschUTYTa8jWH6iFWhd"
@@ -1470,6 +1492,32 @@
       "duration_ms": 236812,
       "name": "For You",
       "url": "https://open.spotify.com/track/3DoOHv1HM9Arrw5PofaF2S"
+    },
+    {
+      "album": {
+        "name": "Found You (The Remixes)",
+        "url": "https://open.spotify.com/album/7HtDzVXLvjBhG2Oj8GnZmg"
+      },
+      "artists": [
+        {
+          "name": "Farkas",
+          "url": "https://open.spotify.com/artist/4byUo9bg6MVLnYoELT5KyR"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        },
+        {
+          "name": "Navras",
+          "url": "https://open.spotify.com/artist/2bYdurZmHmh372lv6r0QoR"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244100,
+      "name": "Found You - Navras Remix",
+      "url": "https://open.spotify.com/track/6YDjht98xjdEL5Pmx9bNRM"
     },
     {
       "album": {
@@ -1824,7 +1872,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 254322,
       "name": "Hero\u2019s Journey (Official Anthem Fairytale Festival 2019)",
       "url": "https://open.spotify.com/track/2Surrty34uHAIN9b7ENgCQ"
@@ -1962,7 +2010,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 244133,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0mWGz6hPTPuOK3SaETnqCo"
@@ -2162,7 +2210,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 218157,
       "name": "Kingdom Comes",
       "url": "https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3"
@@ -2334,6 +2382,24 @@
       "duration_ms": 171971,
       "name": "Life In Reverse",
       "url": "https://open.spotify.com/track/0yPFuWtbg4rQfz7aJJe4jF"
+    },
+    {
+      "album": {
+        "name": "Light The Fire",
+        "url": "https://open.spotify.com/album/4yFakFnDvDQHpw8RqQlagy"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228287,
+      "name": "Light The Fire",
+      "url": "https://open.spotify.com/track/4rH7kBVrkL9h9mX9jzBkYX"
     },
     {
       "album": {
@@ -2512,7 +2578,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 169839,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/6AQpd05OyowTvtO7I3BdBU"
@@ -2684,7 +2750,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 184837,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/1Ic64CNrb7cZXrClDYDjpV"
@@ -2728,7 +2794,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 190451,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/6AgG8WZqYsJZWb1yZjULE8"
@@ -2804,7 +2870,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 234844,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/6qRZNvECX7DllIpLdlbUk6"
@@ -2888,7 +2954,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 268800,
       "name": "Our Church",
       "url": "https://open.spotify.com/track/6jzqY97VGs6UqEhAVOuGRz"
@@ -3080,7 +3146,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 188104,
       "name": "Powers",
       "url": "https://open.spotify.com/track/6zgqhBqCiB7BcinOHCjrKC"
@@ -3226,7 +3292,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 167612,
       "name": "Reach For The Sky",
       "url": "https://open.spotify.com/track/48WMx4OjrRl5GnzlBTCD4C"
@@ -3252,7 +3318,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 201864,
       "name": "Ready to Rave (Bass Modulators Remix)",
       "url": "https://open.spotify.com/track/7xfQpFEwYH6ENl4fuMQqMJ"
@@ -3648,7 +3714,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 246580,
       "name": "Sovereign",
       "url": "https://open.spotify.com/track/40GSkhPzazW2eKTynjMPcg"
@@ -3718,7 +3784,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 156012,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/4rWoj8zjH5mv9FdserDATf"
@@ -3802,7 +3868,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 202385,
       "name": "Storm",
       "url": "https://open.spotify.com/track/10otfgw4sbD2x84x8o8XVl"
@@ -4028,7 +4094,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 204350,
       "name": "Symphony - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/7DmhyegXAiu0yTy7nRI0yg"
@@ -4054,6 +4120,28 @@
       "duration_ms": 179201,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/0BGDmwplApiVRFvhKlKBOr"
+    },
+    {
+      "album": {
+        "name": "The 9th Gate",
+        "url": "https://open.spotify.com/album/0W9ap7B7XvGzgqHvsSrfOA"
+      },
+      "artists": [
+        {
+          "name": "Audiofreq",
+          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+        },
+        {
+          "name": "Darksiderz",
+          "url": "https://open.spotify.com/artist/1XwoaxvFx5Y67ZdLQt2TMa"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "The 9th Gate",
+      "url": "https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG"
     },
     {
       "album": {
@@ -4098,7 +4186,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 263800,
       "name": "The Elite",
       "url": "https://open.spotify.com/track/6RbtosFO5C2pMbPaFeMf9b"
@@ -4244,7 +4332,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 225418,
       "name": "The Things You Hated",
       "url": "https://open.spotify.com/track/6Hd0c6zBKqg1xNEjY2QYyM"
@@ -4434,7 +4522,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 206225,
       "name": "Times Gettin' Hard (JNXD Remix)",
       "url": "https://open.spotify.com/track/1wsh0kiEkZLNTjvFryHAYA"
@@ -4558,7 +4646,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 192000,
       "name": "Twilight Zone - Edit",
       "url": "https://open.spotify.com/track/09BxJMIz6CkunwqTPgpEWV"
@@ -4912,7 +5000,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 220772,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/31mjoUHs9Zdt2Eks0MJNqI"

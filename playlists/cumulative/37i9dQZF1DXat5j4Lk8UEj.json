@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 215759,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7Ad6cjOyjaRKS8XHlzMG8w"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 231359,
       "name": "Daylight Push",
       "url": "https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 292307,
       "name": "Didn't He Ramble",
       "url": "https://open.spotify.com/track/6PDB3R8PZRZGnASz1E9BHE"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1xrYp1cdZYy8oBC41KTTTV"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 163746,
       "name": "Fever Pitch",
       "url": "https://open.spotify.com/track/0CczqIwQrFvuiR0Q6g6IYP"
@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 277597,
       "name": "I Am a War Machine",
       "url": "https://open.spotify.com/track/6ux5Y3UFasNu0x3jgGY2Xe"
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 291615,
       "name": "I Wanna Make Promises (That I Can't Keep)",
       "url": "https://open.spotify.com/track/35XLYNIZL3ScKXvHQXnojt"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 175485,
       "name": "Joni",
       "url": "https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 219320,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 151906,
       "name": "Lottery",
       "url": "https://open.spotify.com/track/5F3QLG5Vnc1kT02PM9Mk37"
@@ -1364,6 +1382,24 @@
       "duration_ms": 235263,
       "name": "Lucky Ones",
       "url": "https://open.spotify.com/track/4Bggim4UBtfueGEfGeSequ"
+    },
+    {
+      "album": {
+        "name": "We Only Part to Meet Again",
+        "url": "https://open.spotify.com/album/6PF3EB60c6ih4T8u12o6LJ"
+      },
+      "artists": [
+        {
+          "name": "Mister and Mississippi",
+          "url": "https://open.spotify.com/artist/2NdxSkG49hZxJ6JNt30330"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Meet Me at the Lighthouse",
+      "url": "https://open.spotify.com/track/793qI3p2gkLL6C8m0MtUeg"
     },
     {
       "album": {
@@ -1432,7 +1468,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 240260,
       "name": "Never Makes a Sound",
       "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
@@ -1576,7 +1612,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 184500,
       "name": "Outwit the Devil",
       "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
@@ -1692,7 +1728,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Proximity",
       "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 244506,
       "name": "Shattered & Hollow",
       "url": "https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW"
@@ -2124,7 +2160,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 240821,
       "name": "The Great Pixley Train Robbery",
       "url": "https://open.spotify.com/track/0hnmEA2PgX9Ip0kF9XVBmi"
@@ -2142,7 +2178,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 291920,
       "name": "The John Wayne",
       "url": "https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V"
@@ -2196,7 +2232,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 204441,
       "name": "The Ripple",
       "url": "https://open.spotify.com/track/0zWM14GHB53fJNUNJf5y3H"
@@ -2232,7 +2268,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 176890,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/1yvcIA5Gv4079BWuaZfDvA"
@@ -2268,7 +2304,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 210113,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq"
@@ -2394,7 +2430,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 258058,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/6Jt5iBTXNyW4fpG6W26K0G"
@@ -2412,7 +2448,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 253573,
       "name": "Whatever, Wherever",
       "url": "https://open.spotify.com/track/2l70A11tCLtsC8fc3V4SWA"
@@ -2466,7 +2502,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 280573,
       "name": "Wired",
       "url": "https://open.spotify.com/track/4RjB5oKr2A1newpYSoweDd"

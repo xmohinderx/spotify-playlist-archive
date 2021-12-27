@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain]
 
 > Ring in 2022 with your favorite party tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,155 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,008 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YMPNuWL6BX.md) - [plain]
 | 99 | [We Are Family](https://open.spotify.com/track/0x3VuSP9TB6yHSpkHB2nPv) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family / Easier To Love \[Digital 45\]](https://open.spotify.com/album/5lAf7Hwwm6Pqv97O5OS3qp) | 3:36 |
 | 100 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 
-Snapshot ID: `MTYzOTQ5NDA1NiwwMDAwMDAyOTAwMDAwMTdkYjk3NWZhN2IwMDAwMDE3ZDRhMzI3YmE5`
+Snapshot ID: `MTY0MDU0MTIyNywwMDAwMDAyYTAwMDAwMTdkZjdlMDhiNzAwMDAwMDE3ZDRhMzI3YmE5`

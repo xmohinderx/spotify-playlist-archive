@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 148276,
       "name": "BB Got Me Like",
       "url": "https://open.spotify.com/track/75lHY2V0DN0SvRoF2BJQfn"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 165245,
       "name": "Better Off (feat. Sara Diamond)",
       "url": "https://open.spotify.com/track/0axSINcrVVrNfHXMRTsTKF"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 158951,
       "name": "Do It",
       "url": "https://open.spotify.com/track/4zdaqhDpl2pXrwTsqbqRG8"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 186239,
       "name": "Girls",
       "url": "https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 170329,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4TCfzdejg8xdFYZjzTOA4A"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 142000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/3qloJH27eI7bk6QEf1SQLC"
@@ -1331,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Let Me Be The One",
+        "url": "https://open.spotify.com/album/0ywvrZjl2FsnnjQGi6wOnU"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Guy Arthur",
+          "url": "https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Let Me Be The One",
+      "url": "https://open.spotify.com/track/5ijDq4SioO6LGGeAIZu6W9"
+    },
+    {
+      "album": {
         "name": "Let's Get Down",
         "url": "https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6"
       },
@@ -1382,7 +1404,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 170476,
       "name": "Lift",
       "url": "https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz"
@@ -1404,7 +1426,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 151874,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/2M2itA0spt6ZXit7l21WMJ"
@@ -1518,7 +1540,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 151475,
       "name": "Loose",
       "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
@@ -1562,7 +1584,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 178548,
       "name": "Lose Your Love (feat. Ghosts!)",
       "url": "https://open.spotify.com/track/6Md3dxN47Rrg7ZrIEZ5198"
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 142857,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/3XkAdIenMaTqCnNBRkUOLw"
@@ -1822,7 +1844,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 163108,
       "name": "Not Dancing",
       "url": "https://open.spotify.com/track/2ipTMqLLogZOwB3VXafqTR"
@@ -1984,7 +2006,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 147031,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/3TKYpVvhTKoKl5vIrX96AD"
@@ -2160,7 +2182,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 185714,
       "name": "Same Stars",
       "url": "https://open.spotify.com/track/2fXIiMWnBLfPBxpQ7DTvMO"
@@ -2186,7 +2208,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 157142,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/3yOrxeQguuAAa3LfnXuRId"
@@ -2208,7 +2230,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 171707,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/3koJjZ9jS8XlNjslusBH6A"
@@ -2312,7 +2334,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 156428,
       "name": "Sickness",
       "url": "https://open.spotify.com/track/0BwEzkVtELJI3suZINw6Yb"
@@ -2374,7 +2396,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 215090,
       "name": "Something's about to go down",
       "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
@@ -2546,7 +2568,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 203522,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7"

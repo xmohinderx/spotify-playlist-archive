@@ -16,7 +16,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 89790,
       "name": "-Out",
       "url": "https://open.spotify.com/track/7aD3SBHCmZRnXxU2vYaEEQ"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 93440,
       "name": "Baiulus",
       "url": "https://open.spotify.com/track/2eHP1tEq6DFVqJslJPPLSF"
@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "All We Grow",
+        "url": "https://open.spotify.com/album/7hoiuRyh1XBh4YUOB0ZeGx"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "date_added": "2018-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310733,
+      "name": "In the Stream",
+      "url": "https://open.spotify.com/track/02iZJRlOZ7VRbzO8uVdOva"
+    },
+    {
+      "album": {
         "name": "Juniper",
         "url": "https://open.spotify.com/album/2Q9y348OIbjm02euzO6Po6"
       },
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 262316,
       "name": "Pillars",
       "url": "https://open.spotify.com/track/2cX0OJh1FENek9cfukulSQ"
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 100946,
       "name": "Small Memory",
       "url": "https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko"
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 114519,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/5QIkWpgfZHlhUBI099FWnC"
@@ -2078,7 +2096,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 217146,
       "name": "Untitled 1",
       "url": "https://open.spotify.com/track/4mZlbfoM261nrxvqHgmDQ5"
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 319760,
       "name": "We Have a Map of the Piano",
       "url": "https://open.spotify.com/track/4BLXtLRfhp6GFT9M6aa4Kd"
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2018-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 127680,
       "name": "When We Fall",
       "url": "https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR"
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2020-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 192114,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC"

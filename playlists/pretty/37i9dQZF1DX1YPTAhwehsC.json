@@ -1,12 +1,12 @@
 {
   "description": "Up and down I-95. Cover: Joyner Lucas",
   "name": "State of Mind",
-  "num_followers": 395093,
+  "num_followers": 395196,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMzg5MywwMDAwMDRkMzAwMDAwMTdkZWFlYzQ5NDkwMDAwMDE3ZDdkYTg0YTg5",
+  "snapshot_id": "MTY0MDUzNzkxOCwwMDAwMDRkNDAwMDAwMTdkZjdhZTBiNGIwMDAwMDE3ZDdkYTg0YTg5",
   "tracks": [
     {
       "added_at": "2021-12-17 05:00:00",
@@ -137,6 +137,26 @@
       "url": "https://open.spotify.com/track/2LNiTlYDSFntPkU3qvUc6Y"
     },
     {
+      "added_at": "2021-12-26 16:58:38",
+      "album": {
+        "name": "We Set The Trends",
+        "url": "https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 220043,
+      "name": "We Set The Trends",
+      "url": "https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s"
+    },
+    {
       "added_at": "2021-12-17 05:00:00",
       "album": {
         "name": "Oh Shhh",
@@ -243,6 +263,22 @@
       "duration_ms": 170435,
       "name": "Mr. Pyrex Man",
       "url": "https://open.spotify.com/track/2RekFRVuBcZmSnTtTuJuLM"
+    },
+    {
+      "added_at": "2021-12-26 16:58:38",
+      "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -815,42 +851,6 @@
       "duration_ms": 166028,
       "name": "Dinner Date (feat. Trippie Redd) - bonus",
       "url": "https://open.spotify.com/track/41KtwBtTPPlh77GPz01SDa"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Catch A Breeze",
-        "url": "https://open.spotify.com/album/6HjJtGNheDqJQRSmHOW353"
-      },
-      "artists": [
-        {
-          "name": "3Breezy",
-          "url": "https://open.spotify.com/artist/4cSobXLXhJMHYUZvBMuQFG"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/4icY6bYQhQJinijtkWXQAR"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/0GQDQ69wAjCuWWre6M4pgA"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "DJ Luke Nasty",
-          "url": "https://open.spotify.com/artist/1yZwlOVsfrp4wb6d29KkGM"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/7cZxllNvqJrFaU4op9YvK6"
     },
     {
       "added_at": "2021-11-05 04:01:00",

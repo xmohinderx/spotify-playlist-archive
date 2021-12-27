@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 286440,
       "name": "93 'Til Infinity",
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 246573,
       "name": "Ballroom Blitz",
       "url": "https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 325280,
       "name": "Cutie Pie",
       "url": "https://open.spotify.com/track/4bH4V6scr0RXTEX492Yzwc"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 261600,
       "name": "Don't Sweat The Technique",
       "url": "https://open.spotify.com/track/3YXlTtlYDXI2SyofNm1ccg"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 290186,
       "name": "Dr. Feelgood",
       "url": "https://open.spotify.com/track/5X0bLSho0KTiSQYCI0IOcl"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 213426,
       "name": "Get Down On It",
       "url": "https://open.spotify.com/track/0mLAgHQP1BOkoHhDu622BQ"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 289293,
       "name": "Girls Ain't Nothing But Trouble - 1988 Extended Remix",
       "url": "https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 161440,
       "name": "Hits from the Bong",
       "url": "https://open.spotify.com/track/4EfBENPBy1GvUWLO9YAp3F"
@@ -1305,6 +1305,28 @@
     },
     {
       "album": {
+        "name": "Classic Hip Hop Jams",
+        "url": "https://open.spotify.com/album/0B4gaSpND6QLt8uPnoeG8m"
+      },
+      "artists": [
+        {
+          "name": "T La Rock",
+          "url": "https://open.spotify.com/artist/2YR8RDJEpKZUbcQgSbBmAp"
+        },
+        {
+          "name": "Jazzy Jay",
+          "url": "https://open.spotify.com/artist/1VAa8aS9HnA7L97YhMNMOJ"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244106,
+      "name": "Its Yours",
+      "url": "https://open.spotify.com/track/6wP4zO3sCqqrjzBqpfFzCJ"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -1482,7 +1504,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 197560,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
@@ -1540,7 +1562,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/4lqU4WByDFKDGrHknQV6ZC"
@@ -1594,7 +1616,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 210226,
       "name": "Panama - 2015 Remaster",
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
@@ -1612,7 +1634,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 405640,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko"
@@ -1648,10 +1670,28 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 268866,
       "name": "Party Up",
       "url": "https://open.spotify.com/track/4MxZW1XEcPuIZmkANsJabC"
+    },
+    {
+      "album": {
+        "name": "Bizarre Ride II: The Pharcyde",
+        "url": "https://open.spotify.com/album/5iLfT6G0VLP4WHUZTAYuEF"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301840,
+      "name": "Passing Me By",
+      "url": "https://open.spotify.com/track/6enXeBnLnyjfweN6VWcIoh"
     },
     {
       "album": {
@@ -1724,6 +1764,24 @@
       "duration_ms": 332626,
       "name": "Real Muthaphuckkin G's",
       "url": "https://open.spotify.com/track/4G19iP1Ltd4GLknCiS2k7y"
+    },
+    {
+      "album": {
+        "name": "Dressed To Kill (Remastered Version)",
+        "url": "https://open.spotify.com/album/2hMjDSywkwY2HxjmWObpoI"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/7990Xs9HQx7FXVIDVPEwj9"
     },
     {
       "album": {
@@ -1864,10 +1922,28 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 237760,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
+    },
+    {
+      "album": {
+        "name": "Something Fresh to Swing To / The Other Side",
+        "url": "https://open.spotify.com/album/7HBrxfB1oulcfyIN33oJSQ"
+      },
+      "artists": [
+        {
+          "name": "Levi 167",
+          "url": "https://open.spotify.com/artist/3KRMzE2iJDEImZyqo5wrgJ"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240843,
+      "name": "Something Fresh to Swing To (Vocal Version)",
+      "url": "https://open.spotify.com/track/7tVLE49mEsofrlYh4AwPvH"
     },
     {
       "album": {
@@ -1980,10 +2056,28 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 274840,
       "name": "Streiht Up Menace",
       "url": "https://open.spotify.com/track/2sXMYMpvGVJJBIwrzNf0Lr"
+    },
+    {
+      "album": {
+        "name": "Wild Style (Original Motion Picture Soundtrack - 25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2e1cehaMUqiMtNp5S4fSUJ"
+      },
+      "artists": [
+        {
+          "name": "Grand Wizard Theodore",
+          "url": "https://open.spotify.com/artist/2zrfhl1NJWRE8SbDu4ekfI"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "Subway Theme",
+      "url": "https://open.spotify.com/track/2vBOLn9BBERbEPIeXwn4HQ"
     },
     {
       "album": {
@@ -1998,7 +2092,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
@@ -2096,7 +2190,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 190040,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/5LV3AJZ7KOKCpoou8kny79"
@@ -2258,7 +2352,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 177666,
       "name": "Work",
       "url": "https://open.spotify.com/track/52QkhYa8lRm7DD6Mb8996S"
@@ -2276,7 +2370,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 221000,
       "name": "Working for the Weekend",
       "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
@@ -2342,7 +2436,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 286800,
       "name": "YMCA - Original Version 1978",
       "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
@@ -2396,7 +2490,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 199666,
       "name": "You Spin Me Round (Like a Record)",
       "url": "https://open.spotify.com/track/7uHO4AmKtyGa5v5fsElGoC"

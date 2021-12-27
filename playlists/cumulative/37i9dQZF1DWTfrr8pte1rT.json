@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Be Your Dog",
+        "url": "https://open.spotify.com/album/0lpxoa9MIyhRhGC6IUifie"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190498,
+      "name": "Be Your Dog (feat. Madge)",
+      "url": "https://open.spotify.com/track/4COs5XQrjymtUma8944kxo"
+    },
+    {
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/4sUamZkyvf2eybkoNJ1hkX"
       },
@@ -168,7 +190,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 293274,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3NGouqhbWEjkKJFqNTFBhM"
@@ -394,7 +416,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 202754,
       "name": "Chosen Ones",
       "url": "https://open.spotify.com/track/5B68sCt7ZmqOXLsLw4FB3G"
@@ -448,7 +470,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 141195,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3h7nvdG9vOZPfMX0P7oKeZ"
@@ -540,7 +562,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 209454,
       "name": "Cruel Love (feat. shYbeast & FRANK ZUMMO)",
       "url": "https://open.spotify.com/track/1NTfEjAtESDdRX8H2a9uFh"
@@ -676,7 +698,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 192468,
       "name": "Dream Boy (JVNA Remix)",
       "url": "https://open.spotify.com/track/7a9QjEksqPwVBkpTSaoJGU"
@@ -840,7 +862,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 164081,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/3yiqi3ST0LSSQINadQWzmx"
@@ -1086,7 +1108,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 201076,
       "name": "Go On Then, Love",
       "url": "https://open.spotify.com/track/0Ux2vG5O8Odi5WCiPARWw8"
@@ -1130,7 +1152,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 204443,
       "name": "Halfway Dead",
       "url": "https://open.spotify.com/track/54xv1MnxP9aZIAqkvh7z81"
@@ -1226,7 +1248,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 167812,
       "name": "I'm Losing Myself",
       "url": "https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS"
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 219007,
       "name": "JASMINE",
       "url": "https://open.spotify.com/track/5XyP3oBFkJPOUpdsyNnkJD"
@@ -1478,7 +1500,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 293093,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
@@ -1584,6 +1606,32 @@
       "duration_ms": 148809,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/4zm4IBGGTHZZK9jrkcPjyA"
+    },
+    {
+      "album": {
+        "name": "ONE LAST BREATH",
+        "url": "https://open.spotify.com/album/7nM2LnUOsLJwZ4Q6L4JEBe"
+      },
+      "artists": [
+        {
+          "name": "INF1N1TE",
+          "url": "https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG"
+        },
+        {
+          "name": "MJ/XO",
+          "url": "https://open.spotify.com/artist/5Y28CDHy6CHVlm8w7XGNpC"
+        },
+        {
+          "name": "TenGraphs",
+          "url": "https://open.spotify.com/artist/1enXqMjKilghZfED8jf7Qd"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "MAKE BELIEVE",
+      "url": "https://open.spotify.com/track/2E1K4gYnfHGsZLldIQzucF"
     },
     {
       "album": {
@@ -2528,7 +2576,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 151500,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/65YiXAuE5eA8pWI4COEhmQ"
@@ -2546,7 +2594,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Stay",
       "url": "https://open.spotify.com/track/37qWakxSJQTd5RFmXH21gN"
@@ -2682,7 +2730,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 198400,
       "name": "The Bottom (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/1s2xUbLU0bcNRWKK04X9NO"
@@ -2704,7 +2752,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 277555,
       "name": "The Change (feat. DMA'S)",
       "url": "https://open.spotify.com/track/28MN5zcvOPm5OD49gOsBZ8"
@@ -2752,7 +2800,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 181646,
       "name": "The Real You",
       "url": "https://open.spotify.com/track/4XHTPl7nE6TO2XyUBMmluw"
@@ -2880,7 +2928,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 195391,
       "name": "UH OH",
       "url": "https://open.spotify.com/track/05NuHlIajgAqYbzs6DNuHf"
@@ -2924,7 +2972,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 208062,
       "name": "Up In Flames (feat. Alex Gaskarth of All Time Low)",
       "url": "https://open.spotify.com/track/7hgE1K6lm7V4ULzlxMWPiF"
@@ -2972,7 +3020,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/0LwScqPc3ALwZtOPW65ITG"

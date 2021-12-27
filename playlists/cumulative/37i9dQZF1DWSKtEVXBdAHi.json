@@ -38,7 +38,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 216120,
       "name": "Aladdin (feat. Ikhana)",
       "url": "https://open.spotify.com/track/4TnluSyl9ShQfCLnNQ1UsO"
@@ -68,7 +68,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 151278,
       "name": "All Star",
       "url": "https://open.spotify.com/track/2u0oTsc6XcvJTh24ynQ1Ao"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 226510,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1cHbVpeG4rcAcEYXKXQx9k"
@@ -152,7 +152,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 205416,
       "name": "Bad Reputation (feat. Joe Janiak)",
       "url": "https://open.spotify.com/track/0HZgYFimoJG9Ijy8InUWcV"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/3tNpa69IqhZDJqWp9iCS4U"
@@ -498,6 +498,28 @@
       "duration_ms": 232186,
       "name": "Conversation (feat. Kojo Funds)",
       "url": "https://open.spotify.com/track/59E7kJadiZbcYhek0tEU9s"
+    },
+    {
+      "album": {
+        "name": "Cool With That",
+        "url": "https://open.spotify.com/album/4LB8CDWdLWVviOsVSn0r1E"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Golden Age",
+          "url": "https://open.spotify.com/artist/5Y4z7JFGusH6PRJVcsUt3v"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Cool With That",
+      "url": "https://open.spotify.com/track/5lF1iPpQfESbLUFpi49AqR"
     },
     {
       "album": {
@@ -826,7 +848,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 217687,
       "name": "Free To Go",
       "url": "https://open.spotify.com/track/172BxPrgDzSgLzFK6jfGpz"
@@ -946,7 +968,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 159760,
       "name": "Harder (with Bebe Rexha)",
       "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
@@ -990,7 +1012,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 163250,
       "name": "Hide & Seek (feat. Joe Housley)",
       "url": "https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar"
@@ -1078,7 +1100,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 143414,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/7o9SNYNMZTLtWo5W0IH6PI"
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 168946,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso"
@@ -1256,7 +1278,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 216410,
       "name": "Lion",
       "url": "https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj"
@@ -1380,7 +1402,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 182797,
       "name": "My Love - Instinkt Remix",
       "url": "https://open.spotify.com/track/3Cn605oq1kyoTTIynBEfIM"
@@ -1432,6 +1454,24 @@
       "duration_ms": 184013,
       "name": "OK - Ofenbach Remix",
       "url": "https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2YoQ5WtQ3MClSxDuLElMHw"
+      },
+      "artists": [
+        {
+          "name": "Sonny Alven",
+          "url": "https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170857,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3yCcr891zvCOIlaadGZKuo"
     },
     {
       "album": {
@@ -1582,7 +1622,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 191760,
       "name": "Punching in the Dark",
       "url": "https://open.spotify.com/track/3zysdGd91RB2oMEkSQVYno"
@@ -1604,7 +1644,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 186062,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/510UgVCpnUaQ5ACHW2J8gu"
@@ -1626,7 +1666,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 183506,
       "name": "Remember",
       "url": "https://open.spotify.com/track/59TRvrmcmfIICytcPhIglE"
@@ -1644,7 +1684,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 179891,
       "name": "Rosetta Stone",
       "url": "https://open.spotify.com/track/1ygQJlWCZdd1sqYzy4p2dz"
@@ -1706,7 +1746,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 194226,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/43KLa2butXjsupKiuxD1pO"
@@ -1776,7 +1816,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 178799,
       "name": "Slow Dance (feat. Ava Max)",
       "url": "https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01"
@@ -1852,7 +1892,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Somebody New",
       "url": "https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP"
@@ -1874,7 +1914,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 186480,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/1J9vFKjtJCR5WqTswBalnb"
@@ -1922,7 +1962,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 189274,
       "name": "Stand By (#CWC19) (feat. Rudimental)",
       "url": "https://open.spotify.com/track/05P4BYqVauVxy0w9g6w2D9"
@@ -1944,7 +1984,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Storm At Sea",
       "url": "https://open.spotify.com/track/6FnMI2tmYJnGCKHhPowcrS"
@@ -2020,7 +2060,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 206976,
       "name": "The Chancer - Svidden Remix",
       "url": "https://open.spotify.com/track/69h0fvryrGvY6WPWuFIs3X"
@@ -2086,7 +2126,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 191248,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/4XZxalvnG4Yo8YZLuiT1kV"
@@ -2108,7 +2148,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 159000,
       "name": "Walk Me Home - R3HAB Remix",
       "url": "https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL"
@@ -2166,7 +2206,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 213100,
       "name": "We're the Tide",
       "url": "https://open.spotify.com/track/7DzFjsPLcB2CMz7uK0cSKb"
@@ -2232,7 +2272,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 150005,
       "name": "Why Boy",
       "url": "https://open.spotify.com/track/2devxXJUTEIFmgt8cXaqmO"
@@ -2250,7 +2290,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 206362,
       "name": "Wiser",
       "url": "https://open.spotify.com/track/71D2ZKAsHBEVrHl1b40pnY"
@@ -2268,7 +2308,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 137347,
       "name": "With You",
       "url": "https://open.spotify.com/track/35FIDQv0u26DSknDahmcdz"
@@ -2286,7 +2326,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 177066,
       "name": "Words",
       "url": "https://open.spotify.com/track/7rXItunV3hiEujnGmMyibA"

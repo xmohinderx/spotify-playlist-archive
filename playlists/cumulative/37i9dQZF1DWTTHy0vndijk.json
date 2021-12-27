@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 215560,
       "name": "22CENTURY GIRL",
       "url": "https://open.spotify.com/track/4Sg6hnJ0MXIzU4wl47KKs7"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 208735,
       "name": "5 More Minutes",
       "url": "https://open.spotify.com/track/3epPI6Bx5IeRtPMNFG5976"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 218474,
       "name": "Ah-Choo",
       "url": "https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 255567,
       "name": "Allegro Cantabile",
       "url": "https://open.spotify.com/track/7eufeVpHKJY8KdElThuv2h"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 217066,
       "name": "BUTTERFLY",
       "url": "https://open.spotify.com/track/33PStuI2gJCeZcYQIOHXAU"
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Act.3 Chococo Factory",
+        "url": "https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO"
+      },
+      "artists": [
+        {
+          "name": "gugudan",
+          "url": "https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220293,
+      "name": "Chococo",
+      "url": "https://open.spotify.com/track/3uJiBnEDBji3kNOA22exfL"
+    },
+    {
+      "album": {
         "name": "Lovelyz 6th Mini Album [Once upon a time]",
         "url": "https://open.spotify.com/album/5FH6bvjJY0GCZwMgNvarAR"
       },
@@ -347,6 +365,24 @@
     },
     {
       "album": {
+        "name": "\u56de:LABYRINTH",
+        "url": "https://open.spotify.com/album/6FVK3km0FtSdGF4ZdWkrVH"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/3ZWCWArPYr1v0iF763oSOz"
+    },
+    {
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo"
       },
@@ -362,6 +398,42 @@
       "duration_ms": 180809,
       "name": "Dance The Night Away",
       "url": "https://open.spotify.com/track/5ilOXZ0vqTX69rjRubPivH"
+    },
+    {
+      "album": {
+        "name": "Weki Meki Digital Single [DAZZLE DAZZLE]",
+        "url": "https://open.spotify.com/album/3fvHSeFSXnAwyatl4pMjxq"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "DAZZLE DAZZLE",
+      "url": "https://open.spotify.com/track/3cGOBTvkKS4aCsWRR2VPke"
+    },
+    {
+      "album": {
+        "name": "A New Trilogy",
+        "url": "https://open.spotify.com/album/1sgM8hFTIWtCjO7ap5O3US"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213325,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4SCRUC5lDUwbdZHQuGp2Z2"
     },
     {
       "album": {
@@ -394,7 +466,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 216146,
       "name": "Dream Candy",
       "url": "https://open.spotify.com/track/4h4O04FMZxSaZLtz8IGEzg"
@@ -466,7 +538,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 208053,
       "name": "Dumhdurum",
       "url": "https://open.spotify.com/track/2ljLbFotsy2hFxAkjpsfbb"
@@ -635,6 +707,24 @@
     },
     {
       "album": {
+        "name": "HAPPY MOMENT",
+        "url": "https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180756,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1KFwBOa8gDqT7Avua2yxfe"
+    },
+    {
+      "album": {
         "name": "Merry & Happy",
         "url": "https://open.spotify.com/album/7z35ak4YnECGLJADDJ4obf"
       },
@@ -700,7 +790,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 196866,
       "name": "Hwi hwi",
       "url": "https://open.spotify.com/track/3pPbm1d9G0jAHIoLa4ls9H"
@@ -754,10 +844,28 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 218093,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/6WhZjnG6CTfE1J9f7vZ8sk"
+    },
+    {
+      "album": {
+        "name": "PRODUCE 101: 35 Girls 5 Concepts",
+        "url": "https://open.spotify.com/album/23WQRmPCr2qacsex7NWgkL"
+      },
+      "artists": [
+        {
+          "name": "GIRLS ON TOP",
+          "url": "https://open.spotify.com/artist/4s6Syi6HNugQf7LmbFoSdt"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "In the Same Place",
+      "url": "https://open.spotify.com/track/5Fkxps5UUaYg2jANR5SlOl"
     },
     {
       "album": {
@@ -826,7 +934,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 189533,
       "name": "Kiss Kiss",
       "url": "https://open.spotify.com/track/50ajzamysWhpMUVP89gfsQ"
@@ -934,7 +1042,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 222451,
       "name": "Love Bug",
       "url": "https://open.spotify.com/track/5KnXbmxjbmXiuSmMclGOIi"
@@ -952,7 +1060,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 207160,
       "name": "LOVE is",
       "url": "https://open.spotify.com/track/5ezx4XG58DNj74FtGLUaNU"
@@ -1006,7 +1114,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 182725,
       "name": "Mi-myo Mi-myo",
       "url": "https://open.spotify.com/track/3tW9Gbkdgzh1L5UHzpXUiX"
@@ -1042,7 +1150,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 222759,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4vFgYhZDcv3ociO2QI5qAd"
@@ -1150,7 +1258,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 209093,
       "name": "mumumumuch",
       "url": "https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z"
@@ -1186,10 +1294,28 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 183746,
       "name": "NINETEEN",
       "url": "https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN"
+    },
+    {
+      "album": {
+        "name": "Nu.Clear",
+        "url": "https://open.spotify.com/album/2Izm951aqeQTSHrJW0hZ16"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "No Oh Oh",
+      "url": "https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr"
     },
     {
       "album": {
@@ -1316,7 +1442,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 200082,
       "name": "Pinocchio",
       "url": "https://open.spotify.com/track/5IHqT5CMbpc35bh5aomwNK"
@@ -1442,7 +1568,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 209104,
       "name": "Rough",
       "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
@@ -1496,7 +1622,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187575,
       "name": "SEMINA",
       "url": "https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3"
@@ -1514,7 +1640,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 190250,
       "name": "SNAPSHOT",
       "url": "https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ"
@@ -1557,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191426,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
+    },
+    {
+      "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
       },
@@ -1586,7 +1730,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 189017,
       "name": "Summer Dream",
       "url": "https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx"
@@ -1604,7 +1748,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 198536,
       "name": "Sunny Summer",
       "url": "https://open.spotify.com/track/7IE8eERSpTC9Jaw3arl99B"
@@ -1626,6 +1770,24 @@
       "duration_ms": 216488,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L"
+    },
+    {
+      "album": {
+        "name": "Sugar Man2, Pt. 18",
+        "url": "https://open.spotify.com/album/3PnkmcRY6t79MKlpEy0tQ2"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221150,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/0DNTNFa6zMDfjqpQFdcb3q"
     },
     {
       "album": {
@@ -1658,7 +1820,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 220653,
       "name": "Talk & Talk",
       "url": "https://open.spotify.com/track/6Q5e2XpyGzMLgA3ul491pu"
@@ -1712,7 +1874,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 195257,
       "name": "The Blue Bird",
       "url": "https://open.spotify.com/track/6emq7eKDjBS9PbxAPXwdDi"
@@ -1766,7 +1928,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 188527,
       "name": "To Heart",
       "url": "https://open.spotify.com/track/3PIzI4Bl2b7oZloFWTPAna"
@@ -1838,7 +2000,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 181106,
       "name": "UNNATURAL",
       "url": "https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt"
@@ -1874,7 +2036,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 215666,
       "name": "VIVACE",
       "url": "https://open.spotify.com/track/4t2A9XnGWrIqzKOYKYfPTr"
@@ -1892,7 +2054,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 207347,
       "name": "Walk Me Home",
       "url": "https://open.spotify.com/track/2v3b1PkZD8lz71sGSERZlQ"
@@ -1986,7 +2148,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 202330,
       "name": "We, First",
       "url": "https://open.spotify.com/track/0y1LIecRU2h6RcMIQ4P5vt"
@@ -2040,7 +2202,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 233185,
       "name": "When We Were Us (Beautiful Days)",
       "url": "https://open.spotify.com/track/5MehjK6vlW3nE268Ys0dxv"
@@ -2076,7 +2238,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 195101,
       "name": "Will be mine",
       "url": "https://open.spotify.com/track/1isnqhNclp3AhUOBPBOCDD"
@@ -2112,7 +2274,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 196099,
       "name": "Windy Windy",
       "url": "https://open.spotify.com/track/50trLU8inOxR7cnRitsW8x"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: <a href=\"spotify:artist:58oPVy7oihAEXE0Ott6JOf\">Eve</a>",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: milet\u00d7Aimer\u00d7\u5e7e\u7530\u308a\u3089",
   "name": "Tokyo Super Hits!",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 210694,
       "name": "ATTRACTION [Japanese Remix]",
       "url": "https://open.spotify.com/track/5NJiQOeqz2WWGBZVKcP1oO"
+    },
+    {
+      "album": {
+        "name": "BITTER!",
+        "url": "https://open.spotify.com/album/2yxSGQpEACIqYfmgf1TwGM"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "BITTER!",
+      "url": "https://open.spotify.com/track/47bqDSq66FiXyPjixsFphC"
     },
     {
       "album": {
@@ -176,10 +194,28 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 220466,
       "name": "Gifted.",
       "url": "https://open.spotify.com/track/65AmrrbvmkhGCYWk9xfXPW"
+    },
+    {
+      "album": {
+        "name": "It's All For Us",
+        "url": "https://open.spotify.com/album/2m2LvEg4ByGuDlVrD4DFGN"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228019,
+      "name": "It's All For Us",
+      "url": "https://open.spotify.com/track/2EQFpKZWfUMdcpWILJVGru"
     },
     {
       "album": {
@@ -292,10 +328,32 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 245933,
       "name": "SHIWAKUCHA",
       "url": "https://open.spotify.com/track/3tRunVnKgrnK0fdNLEXMlq"
+    },
+    {
+      "album": {
+        "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226779,
+      "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
     },
     {
       "album": {
@@ -310,10 +368,32 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 183582,
       "name": "Traveling Train",
       "url": "https://open.spotify.com/track/0IRHUsIeu9OuaUolghTkDs"
+    },
+    {
+      "album": {
+        "name": "PHOENIX",
+        "url": "https://open.spotify.com/album/5bu8eCFlWHHdNvfMusITLe"
+      },
+      "artists": [
+        {
+          "name": "EXILE",
+          "url": "https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme"
+        },
+        {
+          "name": "J SOUL BROTHERS III",
+          "url": "https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226259,
+      "name": "VIRTUAL LOVE",
+      "url": "https://open.spotify.com/track/75v0yVRMQDXTq027uy3xWF"
     },
     {
       "album": {
@@ -444,7 +524,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 279280,
       "name": "\u30ab\u30ec\u30f3\u30c0\u30fc",
       "url": "https://open.spotify.com/track/5hgqyx5zALVzkSzXadrX0m"
@@ -466,7 +546,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 273192,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2tYs5Knxzt3TwuRjRWlKLR"
@@ -506,10 +586,28 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 175627,
       "name": "\u30c0\u30fc\u30af\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30fc\u30d1\u30df\u30f3",
+        "url": "https://open.spotify.com/album/1MajKmFhb2J5ARpwVatU6V"
+      },
+      "artists": [
+        {
+          "name": "Gesu No Kiwami Otome",
+          "url": "https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173159,
+      "name": "\u30c9\u30fc\u30d1\u30df\u30f3",
+      "url": "https://open.spotify.com/track/59kIuAVlIgcR6NSctQxylR"
     },
     {
       "album": {
@@ -668,7 +766,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 278813,
       "name": "\u30ef\u30f3\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/2sBfhWqWDvPtkVTn1C3sef"
@@ -704,10 +802,28 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 330000,
       "name": "\u5317\u6597\u4e03\u661f",
       "url": "https://open.spotify.com/track/2oPxMaCPeuNO6vNnqnvT7v"
+    },
+    {
+      "album": {
+        "name": "\u7dcf\u5408",
+        "url": "https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "\u539f\u7f6a\u3068\u798f\u97f3",
+      "url": "https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9"
     },
     {
       "album": {
@@ -906,6 +1022,42 @@
       "duration_ms": 230109,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V"
+    },
+    {
+      "album": {
+        "name": "\u9006\u5922",
+        "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307666,
+      "name": "\u9006\u5922",
+      "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
+    },
+    {
+      "album": {
+        "name": "\u98db\u884c\u3059\u308b\u541b\u3068\u50d5\u306e\u305f\u3081\u306b/\u904b\u547d\u3001\u3068\u3044\u3046\u304bUFO\u306b(\u30c9\u30a5\u30a4\u3001\u30c9\u30a5\u30a4)",
+        "url": "https://open.spotify.com/album/1Y8hbSqsXHLtd8DWBAnSW3"
+      },
+      "artists": [
+        {
+          "name": "Ozawa Kenji",
+          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217280,
+      "name": "\u904b\u547d\u3001\u3068\u3044\u3046\u304bUFO\u306b(\u30c9\u30a5\u30a4\u3001\u30c9\u30a5\u30a4)",
+      "url": "https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B"
     },
     {
       "album": {

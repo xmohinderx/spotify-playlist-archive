@@ -1,12 +1,12 @@
 {
   "description": "The best independent music in a post-genre world",
   "name": "HEADPHONES",
-  "num_followers": 30031,
+  "num_followers": 30038,
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NDc5OSwzZWFhMzA2M2Q0OWE5NzMxODU0NmRkZjUxYjYzZjkyZDdmNmRmZThj",
+  "snapshot_id": "NDgwMSxlOWZiYjE3YjkzZjgzOWY4MDcyODFkODZhNDM0YmJlY2JmN2IyNGE2",
   "tracks": [
     {
       "added_at": "2021-12-24 16:48:17",
@@ -79,6 +79,38 @@
       "duration_ms": 211696,
       "name": "The Bomb - Cut Chemist Remix",
       "url": "https://open.spotify.com/track/4KP3IvYbwElZod00S2c8dY"
+    },
+    {
+      "added_at": "2021-12-26 15:37:04",
+      "album": {
+        "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
+        "url": "https://open.spotify.com/album/6tKzmHLOGWSPBRp8msUVBF"
+      },
+      "artists": [
+        {
+          "name": "gangCBang",
+          "url": "https://open.spotify.com/artist/7CQi6Efv5Jjzi9KegiAGf4"
+        }
+      ],
+      "duration_ms": 146869,
+      "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
+      "url": "https://open.spotify.com/track/0gG0dF1yexUsE8OO7mq8Kn"
+    },
+    {
+      "added_at": "2021-12-26 15:37:25",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/17vDdAM2hfEbXj1QsZutxA"
+      },
+      "artists": [
+        {
+          "name": "Rumor",
+          "url": "https://open.spotify.com/artist/71ykYlQRK28dGzOZgE2d8z"
+        }
+      ],
+      "duration_ms": 154961,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/1KOVmdlYTX5SD4rUM88Bh0"
     },
     {
       "added_at": "2021-12-24 16:48:17",

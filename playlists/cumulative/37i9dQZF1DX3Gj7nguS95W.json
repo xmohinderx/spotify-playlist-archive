@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Bauhaus - 1979-1983 Volume One",
+        "url": "https://open.spotify.com/album/1vMVPeFOzzvnwC8x6wAie6"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 577226,
+      "name": "Bela Lugosi's Dead",
+      "url": "https://open.spotify.com/track/1cPf2khrcp6iRfTGFisSoS"
+    },
+    {
+      "album": {
         "name": "Brotherhood (Collector's Edition)",
         "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 354626,
       "name": "E=MC2",
       "url": "https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 174506,
       "name": "Going Underground",
       "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 167960,
       "name": "Our Lips Are Sealed - Single Version",
       "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"

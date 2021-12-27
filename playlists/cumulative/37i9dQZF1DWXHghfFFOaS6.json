@@ -126,7 +126,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 252933,
       "name": "Be Thankful",
       "url": "https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 260973,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 234386,
       "name": "I'm the One",
       "url": "https://open.spotify.com/track/6oocpvgIKotKZiqYVk1pxV"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "Lord Jazz Hit Me One Time (Make It Funky)",
       "url": "https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 332933,
       "name": "Pete's Sake",
       "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 303040,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/6i4Gu9ogL4kClgBzj3NZ6g"
@@ -1906,6 +1906,24 @@
       "duration_ms": 394826,
       "name": "Whatchugot",
       "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
+    },
+    {
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "date_added": "2021-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
     },
     {
       "album": {

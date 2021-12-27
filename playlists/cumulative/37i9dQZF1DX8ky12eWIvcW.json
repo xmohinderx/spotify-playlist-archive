@@ -86,7 +86,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 229800,
       "name": "Ain't It Funny - Murder Remix",
       "url": "https://open.spotify.com/track/1yeLSqz8u8ip9NnzjGs7lQ"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2019-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 231160,
       "name": "Can't Nobody Hold Me Down (feat. Mase)",
       "url": "https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l"
@@ -404,10 +404,32 @@
       ],
       "date_added": "2019-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 245173,
       "name": "Dirt Off Your Shoulder",
       "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "album": {
+        "name": "Drop It Like It's Hot (International Version)",
+        "url": "https://open.spotify.com/album/6HvNCIZj3oCfxz0j75HaIZ"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2018-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270466,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/4Tyv7nnNTHC6mR1pTubIrw"
     },
     {
       "album": {
@@ -492,6 +514,28 @@
       "duration_ms": 227386,
       "name": "Foolish",
       "url": "https://open.spotify.com/track/2FbD2sqUmAdjqqCBp0mn2g"
+    },
+    {
+      "album": {
+        "name": "2001 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2018-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "Forgot About Dre",
+      "url": "https://open.spotify.com/track/0Zh5U48tZNeAzzLTV1CVBE"
     },
     {
       "album": {
@@ -839,6 +883,24 @@
     },
     {
       "album": {
+        "name": "The Predator",
+        "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2019-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
+    },
+    {
+      "album": {
         "name": "The Boombastic Collection - Best of Shaggy",
         "url": "https://open.spotify.com/album/04bMI1jl7CB82LkdeHXyEo"
       },
@@ -854,7 +916,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 227546,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/0OaunKfsxkgBvPv68jBbmm"
@@ -912,7 +974,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 301466,
       "name": "Juicy - 2007 Remaster",
       "url": "https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22"
@@ -1294,7 +1356,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 304600,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
@@ -1566,7 +1628,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 296586,
       "name": "Rollout (My Business)",
       "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"

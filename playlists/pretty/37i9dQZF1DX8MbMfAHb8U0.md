@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > Classic Neo\-Soul, the songs you love, from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,265 likes - 95 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,633 likes - 95 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
   "name": "\u201980s Jam Session",
-  "num_followers": 644640,
+  "num_followers": 644842,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDQ3OTIzNCwwMDAwMDAwMGJkMGFmMjc4YzVjMDFiM2VhYTZlZWEzMjJlM2ZiMmVi",
+  "snapshot_id": "MTY0MDU3OTQyNywwMDAwMDAwMDU5OTNmYzUzZjE0Nzg4YTBkMGEyNzY0ZWQzMjE5Yjhl",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -27,6 +27,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 364946,
+      "name": "Love Come Down",
+      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -43,18 +59,34 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Gold - '80s Soul",
-        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l"
       },
       "artists": [
         {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 234706,
-      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
-      "url": "https://open.spotify.com/track/7KEguG3CDoestm50v6XET5"
+      "duration_ms": 314826,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/3geEOHGloO2IIzE45BQWTC"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Teena Marie",
+        "url": "https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo"
+      },
+      "artists": [
+        {
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+        }
+      ],
+      "duration_ms": 385573,
+      "name": "Square Biz",
+      "url": "https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -79,102 +111,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best of Teena Marie",
-        "url": "https://open.spotify.com/album/7rBP3Z4FX95gFPTXgs4MMo"
+        "name": "Gold - '80s Soul",
+        "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
       },
       "artists": [
         {
-          "name": "Teena Marie",
-          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 385573,
-      "name": "Square Biz",
-      "url": "https://open.spotify.com/track/5lAH3vLN4Gc3jDM25cMIgH"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 314826,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/3geEOHGloO2IIzE45BQWTC"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Love Come Down: The Best of Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/3o75BuQvN7lw4nzrAd8MPz"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 364946,
-      "name": "Love Come Down",
-      "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H"
-      },
-      "artists": [
-        {
-          "name": "Cherrelle",
-          "url": "https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4"
-        },
-        {
-          "name": "Alexander O'Neal",
-          "url": "https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G"
-        }
-      ],
-      "duration_ms": 521693,
-      "name": "Saturday Love - 12\" Extended Version",
-      "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
-        "url": "https://open.spotify.com/album/0WnR10U63bFdkaAjpIBcbU"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Treat Her Like A Lady - Single Version",
-      "url": "https://open.spotify.com/track/6zVGwCyDWoWMOLDAoycZ1j"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Best of Gerald Levert",
-        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
-      },
-      "artists": [
-        {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
-        }
-      ],
-      "duration_ms": 262373,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
+      "duration_ms": 234706,
+      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
+      "url": "https://open.spotify.com/track/7KEguG3CDoestm50v6XET5"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -209,86 +157,6 @@
       "url": "https://open.spotify.com/track/6GAn3ar2CL8wUg0MbICZvp"
     },
     {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "Love's Greatest Hits",
-        "url": "https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 322693,
-      "name": "You're My Latest, Greatest Inspiration",
-      "url": "https://open.spotify.com/track/24Uu2LvYtrQucgUL69WzMx"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Mtume",
-          "url": "https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "Juicy Fruit",
-      "url": "https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "All Our Love",
-        "url": "https://open.spotify.com/album/317yszmuS2lV5tGIEepU2h"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 326733,
-      "name": "Love Overboard",
-      "url": "https://open.spotify.com/track/2dykYf0mZG217bYkiREKEh"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Best Of Bobby Brown 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/1T7RZdtMdC1svs3WGT15A5"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Every Little Step",
-      "url": "https://open.spotify.com/track/31WbCaQjJGV6lTNbDsUYXb"
-    },
-    {
       "added_at": "2021-04-01 19:37:56",
       "album": {
         "name": "Heart Break",
@@ -307,66 +175,34 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Best of Keith Sweat: Make You Sweat",
-        "url": "https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8"
+        "name": "20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol. 2 - The '70s, '80s, '90s",
+        "url": "https://open.spotify.com/album/0WnR10U63bFdkaAjpIBcbU"
       },
       "artists": [
         {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 221400,
-      "name": "I Want Her",
-      "url": "https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH"
-    },
-    {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "Hurry Up This Way Again",
-        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Hurry Up This Way Again",
-      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
+      "duration_ms": 258666,
+      "name": "Treat Her Like A Lady - Single Version",
+      "url": "https://open.spotify.com/track/6zVGwCyDWoWMOLDAoycZ1j"
     },
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Greatest Hits Of Freddie Jackson",
-        "url": "https://open.spotify.com/album/7thvb896bJwK56oIcZWKwZ"
+        "name": "All Our Love",
+        "url": "https://open.spotify.com/album/317yszmuS2lV5tGIEepU2h"
       },
       "artists": [
         {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Jam Tonight",
-      "url": "https://open.spotify.com/track/2iftQA575wOPFU6VGU3XkJ"
+      "duration_ms": 326733,
+      "name": "Love Overboard",
+      "url": "https://open.spotify.com/track/2dykYf0mZG217bYkiREKEh"
     },
     {
       "added_at": "2021-07-01 19:39:13",
@@ -387,34 +223,70 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "On The Rise",
-        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "The S.O.S Band",
-          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 416733,
-      "name": "Tell Me If You Still Care",
-      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
+      "duration_ms": 239026,
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
     },
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Street Called Desire ... And More",
-        "url": "https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H"
       },
       "artists": [
         {
-          "name": "Rene & Angela",
-          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
+          "name": "Cherrelle",
+          "url": "https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4"
+        },
+        {
+          "name": "Alexander O'Neal",
+          "url": "https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G"
         }
       ],
-      "duration_ms": 321066,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/57b0v2TB75b3ON5g5e8Q6N"
+      "duration_ms": 521693,
+      "name": "Saturday Love - 12\" Extended Version",
+      "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Best Of Bobby Brown 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/1T7RZdtMdC1svs3WGT15A5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Every Little Step",
+      "url": "https://open.spotify.com/track/31WbCaQjJGV6lTNbDsUYXb"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Best of Gerald Levert",
+        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
+      },
+      "artists": [
+        {
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+        }
+      ],
+      "duration_ms": 262373,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -453,20 +325,100 @@
       "url": "https://open.spotify.com/track/4aLQ6VBFJl7i8msvDOjIsp"
     },
     {
-      "added_at": "2021-07-01 19:39:13",
+      "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Let Me Touch You",
-        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+        "name": "On The Rise",
+        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "The S.O.S Band",
+          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
         }
       ],
-      "duration_ms": 318253,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+      "duration_ms": 416733,
+      "name": "Tell Me If You Still Care",
+      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
+    },
+    {
+      "added_at": "2021-07-01 19:39:13",
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Best of Keith Sweat: Make You Sweat",
+        "url": "https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "I Want Her",
+      "url": "https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH"
+    },
+    {
+      "added_at": "2021-07-01 19:39:13",
+      "album": {
+        "name": "Hurry Up This Way Again",
+        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Hurry Up This Way Again",
+      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Mtume",
+          "url": "https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "Juicy Fruit",
+      "url": "https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Just Gets Better With Time",
+        "url": "https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Rock Steady - Radio Edit",
+      "url": "https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -503,58 +455,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Love for Love",
-        "url": "https://open.spotify.com/album/1o1QIPcHjUEqzAtVWubyZN"
-      },
-      "artists": [
-        {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
-        }
-      ],
-      "duration_ms": 349133,
-      "name": "Keep On Lovin' Me",
-      "url": "https://open.spotify.com/track/3SiUv5vf79EuP0VjIZJ9A2"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/18qv2M2UpaSk0H1f0lRauJ"
-      },
-      "artists": [
-        {
-          "name": "Kashif",
-          "url": "https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M"
-        },
-        {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "Love Changes (with Meli'sa Morgan) - Digitally Remastered 1998",
-      "url": "https://open.spotify.com/track/2TQAKues8mUovMsp6u8gpn"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Radio Hits Of the '80s",
-        "url": "https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk"
-      },
-      "artists": [
-        {
-          "name": "Johnny Kemp",
-          "url": "https://open.spotify.com/artist/2u8hDu5KBMpvneOV8Th3LE"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Just Got Paid - Single Version",
-      "url": "https://open.spotify.com/track/1OK4hVcucqYKMU9Ipb3dtx"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -575,34 +475,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+        "name": "The Greatest Hits Of Freddie Jackson",
+        "url": "https://open.spotify.com/album/7thvb896bJwK56oIcZWKwZ"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
         }
       ],
-      "duration_ms": 297973,
-      "name": "The Pleasure Principle",
-      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
-    },
-    {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "Closer Than Close",
-        "url": "https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "Mine All Mine",
-      "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
+      "duration_ms": 271266,
+      "name": "Jam Tonight",
+      "url": "https://open.spotify.com/track/2iftQA575wOPFU6VGU3XkJ"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -621,20 +505,100 @@
       "url": "https://open.spotify.com/track/3nW6iZFsJhOTZBeRdC5tKD"
     },
     {
-      "added_at": "2021-04-01 19:37:56",
+      "added_at": "2021-07-01 19:39:13",
       "album": {
-        "name": "Just Gets Better With Time",
-        "url": "https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH"
+        "name": "Love's Greatest Hits",
+        "url": "https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF"
       },
       "artists": [
         {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 243706,
-      "name": "Rock Steady - Radio Edit",
-      "url": "https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM"
+      "duration_ms": 322693,
+      "name": "You're My Latest, Greatest Inspiration",
+      "url": "https://open.spotify.com/track/24Uu2LvYtrQucgUL69WzMx"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 297973,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Glamorous Life",
+        "url": "https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW"
+      },
+      "artists": [
+        {
+          "name": "Sheila E.",
+          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
+        }
+      ],
+      "duration_ms": 543560,
+      "name": "The Glamorous Life",
+      "url": "https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Street Called Desire ... And More",
+        "url": "https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9"
+      },
+      "artists": [
+        {
+          "name": "Rene & Angela",
+          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/57b0v2TB75b3ON5g5e8Q6N"
+    },
+    {
+      "added_at": "2021-07-01 19:39:13",
+      "album": {
+        "name": "Let Me Touch You",
+        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 318253,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
     },
     {
       "added_at": "2021-07-01 19:39:13",
@@ -671,6 +635,42 @@
       "duration_ms": 240093,
       "name": "Oh Sheila",
       "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Radio Hits Of the '80s",
+        "url": "https://open.spotify.com/album/4OhFkx7dTPfj0BXerfldyk"
+      },
+      "artists": [
+        {
+          "name": "Johnny Kemp",
+          "url": "https://open.spotify.com/artist/2u8hDu5KBMpvneOV8Th3LE"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Just Got Paid - Single Version",
+      "url": "https://open.spotify.com/track/1OK4hVcucqYKMU9Ipb3dtx"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Playlist: The Very Best Of Lisa Lisa & Cult Jam",
+        "url": "https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lisa & Cult Jam",
+          "url": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+        },
+        {
+          "name": "Full Force",
+          "url": "https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2"
+        }
+      ],
+      "duration_ms": 404213,
+      "name": "I Wonder If I Take You Home",
+      "url": "https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0H8hDpv38Ju"

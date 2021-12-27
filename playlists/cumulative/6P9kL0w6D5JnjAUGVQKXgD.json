@@ -6945,6 +6945,32 @@
     },
     {
       "album": {
+        "name": "For You (Deeperlove Remix)",
+        "url": "https://open.spotify.com/album/4S7mFciWbBmkMAk5gOKMec"
+      },
+      "artists": [
+        {
+          "name": "The Disco Boys",
+          "url": "https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X"
+        },
+        {
+          "name": "Deeperlove",
+          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
+        },
+        {
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146408,
+      "name": "For You - Deeperlove Remix",
+      "url": "https://open.spotify.com/track/547LWbvqDFeNS6xuK3XjLH"
+    },
+    {
+      "album": {
         "name": "For You (The Remixes)",
         "url": "https://open.spotify.com/album/0LMWleJSldOeuCVjjykIpU"
       },
@@ -10130,7 +10156,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 168364,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/4ETcsWJdf5r5qEVaT20pbz"

@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 202907,
       "name": "1234",
       "url": "https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 190826,
       "name": "Always Southern California",
       "url": "https://open.spotify.com/track/1QUF9KoHtU4ZzFp13XalSR"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 216625,
       "name": "Balboa Son",
       "url": "https://open.spotify.com/track/7Lbd9uhPYTnMHwxRTIUPbU"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 187371,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/5LV0oQV98daZAUoWnQEW6N"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 259813,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2lll6vULr73q49c5osOjal"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 164670,
       "name": "Burn!",
       "url": "https://open.spotify.com/track/3PkosLobiLp6RymQ20mzq5"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "Chaos And Earthquakes",
       "url": "https://open.spotify.com/track/2imkodSyg1hOZwZuE2fJdU"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 214536,
       "name": "Cold Light",
       "url": "https://open.spotify.com/track/6UUMfFAaxOeAIqKJdInozb"
@@ -746,6 +746,24 @@
       "duration_ms": 231773,
       "name": "Deceiver, Deceiver",
       "url": "https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql"
+    },
+    {
+      "album": {
+        "name": "The Sacrament of Sin",
+        "url": "https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "Demons Are a Girl's Best Friend",
+      "url": "https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s"
     },
     {
       "album": {
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 182190,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/632Xl9n1wHgMKoxD07WZHW"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/6nMNpGl4VvMhtYigbbOmBu"
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 259959,
       "name": "Metalingus",
       "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 204266,
       "name": "ONE OF US",
       "url": "https://open.spotify.com/track/51rdCmgHBzg9HJ7eHjVRK9"
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/4x241uAmPrxKZdCZKt2r5t"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 209932,
       "name": "Pushing the Tides",
       "url": "https://open.spotify.com/track/2JIbpxyklwMF01YPqJG7uq"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 225263,
       "name": "Remember We Die",
       "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 206471,
       "name": "Risen",
       "url": "https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 180810,
       "name": "Silence Means Nothing (feat. Liam Cormier)",
       "url": "https://open.spotify.com/track/1iG8AeszL0CUIp6ryOG1za"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
@@ -2300,7 +2318,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 217099,
       "name": "The End",
       "url": "https://open.spotify.com/track/6CRSmqVeFPd4zwvlHhgFrj"
@@ -2384,6 +2402,24 @@
       "duration_ms": 180691,
       "name": "The Shift",
       "url": "https://open.spotify.com/track/6kHDKPCxgANtgHbZ84Lc0B"
+    },
+    {
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/2Qn8xk5ULBmZdiZnj5zqLd"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233079,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2BZ973nCW5OT1k1psRBsyU"
     },
     {
       "album": {
@@ -2488,7 +2524,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 231963,
       "name": "Waking Lions",
       "url": "https://open.spotify.com/track/7L9GgvMlQ3wcSrDoeGWAej"
@@ -2528,7 +2564,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 224906,
       "name": "Wash It All Away",
       "url": "https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g"
@@ -2604,6 +2640,24 @@
       "duration_ms": 196863,
       "name": "Who Do You Trust?",
       "url": "https://open.spotify.com/track/3YNkyMBmgxqqyVypQPweIS"
+    },
+    {
+      "album": {
+        "name": "Violent Noise",
+        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
     },
     {
       "album": {

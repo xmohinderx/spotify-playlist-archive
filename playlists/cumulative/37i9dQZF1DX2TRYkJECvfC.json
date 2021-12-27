@@ -136,7 +136,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 387593,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 437760,
       "name": "Change The Line",
       "url": "https://open.spotify.com/track/4uSXZyqR4NCZ86BHcO5vIR"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 266300,
       "name": "Dilla 4 Life",
       "url": "https://open.spotify.com/track/7aUXv3MJYpYgcpVgJVbqaP"
@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "SF",
+        "url": "https://open.spotify.com/album/7ceDiBTfAmQdHRD7orCyol"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381639,
+      "name": "Erhu",
+      "url": "https://open.spotify.com/track/0sXODNdDzktWJGs5X8lIym"
+    },
+    {
+      "album": {
         "name": "Evaporate EP",
         "url": "https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 254015,
       "name": "Faded Memory",
       "url": "https://open.spotify.com/track/30sWK9of3ll8689n12qV0b"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 418657,
       "name": "Free - HOSH Edit",
       "url": "https://open.spotify.com/track/2Of6ELgB41N4REAnQvbpwD"
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 341193,
       "name": "I'll be",
       "url": "https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 373562,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/1Bii3LSvFNeRTrW4s0Kj4m"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 425084,
       "name": "Juli",
       "url": "https://open.spotify.com/track/5Fps0MTzLWDEdkrEzjefWt"
@@ -1767,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Keep on Reachin",
+        "url": "https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3"
+      },
+      "artists": [
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Keep On Reachin - Main Mix",
+      "url": "https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG"
+    },
+    {
+      "album": {
         "name": "Keramas / Harpanet",
         "url": "https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4"
       },
@@ -1840,6 +1876,28 @@
       "duration_ms": 263785,
       "name": "Le Crocodile",
       "url": "https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb"
+    },
+    {
+      "album": {
+        "name": "Leko Remixes",
+        "url": "https://open.spotify.com/album/2c1dSyxxTwetuIYUfWky09"
+      },
+      "artists": [
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        },
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325414,
+      "name": "Leko - Session Victim Remix",
+      "url": "https://open.spotify.com/track/18nGprzEucUO4FF768lLhe"
     },
     {
       "album": {
@@ -2200,7 +2258,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 469995,
       "name": "Muy\u00e8",
       "url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c"
@@ -2436,7 +2494,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 251992,
       "name": "Onda",
       "url": "https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm"
@@ -3196,7 +3254,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 287750,
       "name": "Solace",
       "url": "https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5"
@@ -3244,7 +3302,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 482000,
       "name": "Somewhere - Dream Dub",
       "url": "https://open.spotify.com/track/190I6kbDanvCla1KYDTojf"
@@ -3298,7 +3356,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 170181,
       "name": "Stop That Man",
       "url": "https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ"
@@ -3418,7 +3476,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 441289,
       "name": "Supervivencia - Original Mix",
       "url": "https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n"
@@ -3690,7 +3748,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 211119,
       "name": "Trace",
       "url": "https://open.spotify.com/track/6GiNEkzxsD0IQARCc6eHjE"
@@ -3930,7 +3988,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 509210,
       "name": "Wake Me - Louie Vega & Joe Claussell Remix",
       "url": "https://open.spotify.com/track/6XuKWXObGRTtoe2NoO3xZA"
@@ -4180,7 +4238,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 471473,
       "name": "Yini - Serge Devant Remix",
       "url": "https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp"

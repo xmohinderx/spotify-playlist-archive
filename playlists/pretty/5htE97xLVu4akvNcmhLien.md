@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5htE97xLVu4akvNcmhLien.md) - [plain]
 
 > 
 
-[richachatlani](https://open.spotify.com/user/richachatlani) - 6 likes - 656 songs - 1 day 14 hr 25 min
+[richachatlani](https://open.spotify.com/user/richachatlani) - 6 likes - 658 songs - 1 day 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -664,5 +664,7 @@ pretty - [cumulative](/playlists/cumulative/5htE97xLVu4akvNcmhLien.md) - [plain]
 | 654 | [Prende la Cámara](https://open.spotify.com/track/2UcWAHN6TRQtkZovAuwySo) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Prende la Cámara](https://open.spotify.com/album/4IYIOVFW703lcHN7ZTHexe) | 2:28 |
 | 655 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 656 | [Sexo Virtual](https://open.spotify.com/track/0giiXonRhODYy4J1iy4Lb3) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:28 |
+| 657 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 |
+| 658 | [Cosas Malas \- Remix](https://open.spotify.com/track/7hiAGGyiLaLBTVroaE08hx) | [Jona Mix](https://open.spotify.com/artist/766vvKS4M2b7XuaEzfkCs8) | [Cosas Malas \(Remix\)](https://open.spotify.com/album/7EDSu2ktxKYf8ZMm0NQFPP) | 2:59 |
 
-Snapshot ID: `NzAwLDU2ZGUxY2Q0NjViYTA4ZWI3Yzg3MjY0NGYwY2M1YWQwOWNlNmYwNjM=`
+Snapshot ID: `NzAyLDVhY2E4ZmEwZjVlNWRjYzA1NzdjMTI5YjQyYjExZTBmNzMyMzg2MDM=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits \- bästa och största hitsen just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,783 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,806 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6CodyRtMuUIe8F7OvV7US9) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/0ROZR11tK42lCB4dByJwU5) | 2:59 |
 | 50 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 
-Snapshot ID: `MTY0MDQ3OTE0NCwwMDAwMDAwMDg0MGRkMGE5YTUxZWM0YTE4Zjc1MzVhZmNkMmNmNDhh`
+Snapshot ID: `MTY0MDMwMDQwMCwwMDAwMDRmYjAwMDAwMTdkZTk4NWNlNjkwMDAwMDE3ZGRjYmQ1NzAx`

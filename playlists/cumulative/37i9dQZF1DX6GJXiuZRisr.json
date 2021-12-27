@@ -68,7 +68,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 278237,
       "name": "Afterglow - CYA Remix",
       "url": "https://open.spotify.com/track/06GETobdVrLdRpzoc2AnKW"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 222250,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 208320,
       "name": "Carcerem",
       "url": "https://open.spotify.com/track/4CrDAeFy6asxsCrDsKS4cR"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 222250,
       "name": "Corallo - SUMII Remix",
       "url": "https://open.spotify.com/track/5XuLE35QhQhWjdS94REAMb"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 136942,
       "name": "Fix Your Problems",
       "url": "https://open.spotify.com/track/3dazx4jjnVEfwoHcSQocxj"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 247500,
       "name": "Hold",
       "url": "https://open.spotify.com/track/0vF6GWMwgKg3wsQkBSIaWY"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 288795,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/4LIWlYAo7Ee2nl5GVuvCNC"
@@ -1561,6 +1561,32 @@
     },
     {
       "album": {
+        "name": "Whatever Realm / No Need To Hide",
+        "url": "https://open.spotify.com/album/5FKnTHA2BcxHui4xe8qNgQ"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Quibus",
+          "url": "https://open.spotify.com/artist/55rtigPkEd4FHbLBF2bwz4"
+        },
+        {
+          "name": "Marcel Young",
+          "url": "https://open.spotify.com/artist/3MpVjrkJSjDGuqopgOqoPm"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279919,
+      "name": "No Need To Hide",
+      "url": "https://open.spotify.com/track/024TgtXFxGA9oxeW36nzI8"
+    },
+    {
+      "album": {
         "name": "Numb (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
@@ -1835,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Rewind EP",
+        "url": "https://open.spotify.com/album/2uwlsjnBdNtDzikfUibUjn"
+      },
+      "artists": [
+        {
+          "name": "Anden",
+          "url": "https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213318,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/2mEb5O579Ctj4sYqfkJSZd"
+    },
+    {
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/1fY8TWeIEA2EXH24sT9RJn"
       },
@@ -1912,7 +1956,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 250587,
       "name": "Say",
       "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
@@ -2054,7 +2098,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 290546,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5ERoUfNfwvNcFCnV0KH9Wu"
@@ -2098,7 +2142,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 230322,
       "name": "Static",
       "url": "https://open.spotify.com/track/31Byt8JQlqLFPzhjE5pVCf"
@@ -2262,7 +2306,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 209523,
       "name": "The Book Of Wisdom",
       "url": "https://open.spotify.com/track/2LbBVu9zXT5VBtKQUr7Bjz"
@@ -2386,7 +2430,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 232258,
       "name": "Titanica",
       "url": "https://open.spotify.com/track/0T85nXzqiJoX7oVbf9C7n1"
@@ -2466,7 +2510,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 207360,
       "name": "Twisted Reality - Edit",
       "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
@@ -2514,7 +2558,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 260750,
       "name": "Unfolding",
       "url": "https://open.spotify.com/track/6YMaVo9FZy0aDrntxEwA72"
@@ -2634,7 +2678,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 210491,
       "name": "Weight Of The World",
       "url": "https://open.spotify.com/track/7tjxcrVxHH7fPvkTdcqFcB"
@@ -2682,7 +2726,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 411964,
       "name": "Womaa",
       "url": "https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC"
@@ -2708,6 +2752,32 @@
       "duration_ms": 315877,
       "name": "You Take My Hand",
       "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LAMAS (BR)",
+          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219518,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd"
     },
     {
       "album": {

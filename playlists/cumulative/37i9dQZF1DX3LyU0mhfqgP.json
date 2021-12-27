@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 200315,
       "name": "3 Purple Hearts",
       "url": "https://open.spotify.com/track/1wsm2fpsZv1qH6fO25PHB2"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 210405,
       "name": "airplane thoughts",
       "url": "https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 228922,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 243907,
       "name": "Astronomy",
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 215297,
       "name": "Boys",
       "url": "https://open.spotify.com/track/4LUCg79fK00AuYV30QiP9n"
@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "COCO PEBBLES",
+        "url": "https://open.spotify.com/album/6MQ0WXfM4hBgjUtC5B1uOg"
+      },
+      "artists": [
+        {
+          "name": "Evann McIntosh",
+          "url": "https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146917,
+      "name": "COCO PEBBLES",
+      "url": "https://open.spotify.com/track/4ufErBvRiHTVaKHWBD332f"
+    },
+    {
+      "album": {
         "name": "Coconuts",
         "url": "https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC"
       },
@@ -404,6 +422,28 @@
       "duration_ms": 168559,
       "name": "Coconuts",
       "url": "https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh"
+    },
+    {
+      "album": {
+        "name": "Contender",
+        "url": "https://open.spotify.com/album/2dmHdWSwKJwutmPnFhL8SV"
+      },
+      "artists": [
+        {
+          "name": "Bonnie J. Baker",
+          "url": "https://open.spotify.com/artist/6M2Oo0ygnynDPGEpNjCSli"
+        },
+        {
+          "name": "Stacey Kay",
+          "url": "https://open.spotify.com/artist/5ukevyNL9cj9QH2zuCK71V"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Contender",
+      "url": "https://open.spotify.com/track/1mbZ1bjnD8jYXyXPNDP2iy"
     },
     {
       "album": {
@@ -436,7 +476,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6"
@@ -454,7 +494,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 194500,
       "name": "Daddy I Love Him",
       "url": "https://open.spotify.com/track/37mC2KemFKwFPHhEENjVR9"
@@ -512,7 +552,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 169453,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/3fpyiBLsUT22KK9p4EQTMp"
@@ -534,6 +574,24 @@
       "duration_ms": 186282,
       "name": "EAT",
       "url": "https://open.spotify.com/track/2si3LIfTdDHntwQCZNsVyZ"
+    },
+    {
+      "album": {
+        "name": "ELECTRICITY",
+        "url": "https://open.spotify.com/album/335otQsODkCfcukSFGUYoG"
+      },
+      "artists": [
+        {
+          "name": "Evann McIntosh",
+          "url": "https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "ELECTRICITY",
+      "url": "https://open.spotify.com/track/45evb9qLvaZipMbpwIz9eN"
     },
     {
       "album": {
@@ -588,7 +646,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 143225,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/6WQfQs9evbcqVDIh3yRR3m"
@@ -748,7 +806,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Good Day (feat. MisterWives & Curtis Roach)",
       "url": "https://open.spotify.com/track/6cZTY8gdphkmqXRKI8jBTt"
@@ -868,7 +926,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/617rg45LEx76r1paWSNpZy"
@@ -1002,7 +1060,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 185698,
       "name": "I'll Answer (i love you mom)",
       "url": "https://open.spotify.com/track/3uyoqx222UxlCRhl3uYvs4"
@@ -1020,7 +1078,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 141301,
       "name": "If He\u2019s In Your Bed",
       "url": "https://open.spotify.com/track/0U23ciBXYlRAbKdmCvjj3D"
@@ -1060,7 +1118,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
@@ -1096,7 +1154,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 187619,
       "name": "LEIL\u00c3O",
       "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
@@ -1150,7 +1208,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 209631,
       "name": "Love me for me",
       "url": "https://open.spotify.com/track/73MmbnDCRABCDJUcyWi6b1"
@@ -1204,10 +1262,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 228040,
       "name": "Mad",
       "url": "https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG"
+    },
+    {
+      "album": {
+        "name": "Marsha",
+        "url": "https://open.spotify.com/album/3v3cfiKxmCIACMMXI8dtGI"
+      },
+      "artists": [
+        {
+          "name": "Sammy Copley",
+          "url": "https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165132,
+      "name": "Marsha",
+      "url": "https://open.spotify.com/track/7odL04rgtPAt0naE7Scg7m"
     },
     {
       "album": {
@@ -1374,7 +1450,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 184901,
       "name": "nothing but the love",
       "url": "https://open.spotify.com/track/2tW9lXMLknjIKFmWtMpf54"
@@ -1392,7 +1468,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 203918,
       "name": "On My Mind - Pride Edit",
       "url": "https://open.spotify.com/track/505pKYmmekm1gBQ0vschO6"
@@ -1410,7 +1486,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 185626,
       "name": "paranoia party",
       "url": "https://open.spotify.com/track/29ptwsAFxPgzqMqyAu1OuK"
@@ -1482,7 +1558,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 195907,
       "name": "Pride First",
       "url": "https://open.spotify.com/track/4ZjCl1QB8VxPjkFPwSlrbi"
@@ -1547,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Really, Really",
+        "url": "https://open.spotify.com/album/0qbnY0chu7T0QUgnEuei3Y"
+      },
+      "artists": [
+        {
+          "name": "Serena Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146331,
+      "name": "Really, Really",
+      "url": "https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4"
+    },
+    {
+      "album": {
         "name": "Runaway Blues",
         "url": "https://open.spotify.com/album/5UMkf0HpJucI2iJsyPjSaH"
       },
@@ -1576,7 +1670,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 197243,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F"
@@ -1601,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "Semi Pro",
+        "url": "https://open.spotify.com/album/52lZvD8hEnCoYnnvVC6dbp"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "Semi Pro",
+      "url": "https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt"
+    },
+    {
+      "album": {
         "name": "SFU",
         "url": "https://open.spotify.com/album/2OzZ92BmcO7CVmBOQOwvXY"
       },
@@ -1612,7 +1724,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 214285,
       "name": "SFU",
       "url": "https://open.spotify.com/track/5uVAcFHtYKGGbgWc835OLx"
@@ -1750,7 +1862,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 244693,
       "name": "Something To Say",
       "url": "https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF"
@@ -1808,7 +1920,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 178572,
       "name": "Swing of Things",
       "url": "https://open.spotify.com/track/57crzxYpDCaPcXx3cBSARW"
@@ -1866,7 +1978,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 209893,
       "name": "The Good",
       "url": "https://open.spotify.com/track/51lXsATkqtU3ScAuIvi94k"
@@ -1902,7 +2014,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 197091,
       "name": "THE WAY IT WAS",
       "url": "https://open.spotify.com/track/7i6ICmeDCSHQGZpoc4cdVZ"
@@ -2010,7 +2122,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 224924,
       "name": "With You",
       "url": "https://open.spotify.com/track/60OOrdAxlAwamsHAhoJwBa"
@@ -2050,7 +2162,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 167280,
       "name": "Would You Die?",
       "url": "https://open.spotify.com/track/02LcesfK6OjwjYte9Utnhy"

@@ -2,7 +2,7 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Shygirl
+> The home for alternative electronic music\. Cover: Fred again..
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bby](https://open.spotify.com/track/3x1Tn4rHA7ziJXsHMTJDMY) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Bby](https://open.spotify.com/album/04w31PFdzvqZ8Bi3RZVamT) | 5:43 | 2021-11-24\* | 2021-12-03 |
 | [be kind lose ur mind](https://open.spotify.com/track/45KRL3Lbi6aVXsCvzeNye0) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [be kind lose ur mind](https://open.spotify.com/album/6JZrQcPpqcjf5YuTH9L4V2) | 4:01 | 2021-11-24\* | 2021-11-26 |
 | [BIAS JAPAN](https://open.spotify.com/track/6tXqraW4sHtYfRLf7LxwOZ) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [BIAS JAPAN](https://open.spotify.com/album/01wjKq0XG0YoExbt57TgEH) | 5:15 | 2021-11-24\* |  |
+| [Billie \(Loving Arms\)](https://open.spotify.com/track/1vW12BfxjOQKYElBm9ttW9) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:37 | 2021-12-27 |  |
 | [Black Stone](https://open.spotify.com/track/1tnZu1tNlHA0Bw323QHtOu) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Black Stone / Blue Liquid](https://open.spotify.com/album/1tGTbOHA7tpP0s94IhEAIt) | 3:56 | 2021-11-24\* |  |
 | [Blackpool Boulevard \- Edit](https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Blackpool Boulevard](https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R) | 3:35 | 2021-11-24\* |  |
 | [Bring Me Back To You](https://open.spotify.com/track/7cGEb9OhDhndfBqNBvSjzy) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj) | [Bring Me Back To You](https://open.spotify.com/album/6nojptV23oHMznt5Zh8DEq) | 4:17 | 2021-11-26 |  |
@@ -51,7 +52,8 @@
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2021-11-24\* |  |
 | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/track/1EBDX2eMMsaUwLjWAde0Cm) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Got Me \(feat\. Julia Stone\)](https://open.spotify.com/album/1qG2RXV02DXzZ4k0i4a69R) | 4:23 | 2021-11-24\* |  |
 | [Got to Live](https://open.spotify.com/track/361wEfBaZKkW3HKm6wHJyw) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [High Tide](https://open.spotify.com/album/5H0lqSYBAGUG9ZZKN5IrRM) | 4:14 | 2021-12-10 |  |
-| [Hannah \(The Sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(The Sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-11-24\* |  |
+| [Hannah \(The Sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(The Sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-11-24\* | 2021-12-27 |
+| [Hannah \(The Sun\)](https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:16 | 2021-12-27 |  |
 | [Here We Go Again \(feat\. Fela.Mi\)](https://open.spotify.com/track/7KShpllUQ6A4TzH4QwYBBQ) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [FELA.Mi](https://open.spotify.com/artist/62SbLKzwbFxonjM9Qz8zqF) | [Here We Go Again / So I Just](https://open.spotify.com/album/7AGNncMVuU6QSplrudRgKU) | 2:37 | 2021-11-24\* |  |
 | [Homesick](https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/2n0aZMksvAjApZZzeH52l9) | 3:54 | 2021-11-24\* |  |
 | [Honey](https://open.spotify.com/track/2Z7amFYcnroyrAS8ZNVSDa) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [Canvas](https://open.spotify.com/album/3FMEGUPP5mSEXlNS6JN1d4) | 4:31 | 2021-11-24\* | 2021-12-17 |
@@ -61,7 +63,7 @@
 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2021-11-24\* |  |
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2021-11-24\* | 2021-11-26 |
 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 | 2021-11-24\* |  |
-| [Kahan \(Last Year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(Last Year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2021-11-24\* |  |
+| [Kahan \(Last Year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(Last Year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2021-11-24\* | 2021-12-27 |
 | [Keep On Believing](https://open.spotify.com/track/5jaFbirGVgy7WZLHreowqP) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3H2J52qEjLVYx2hgs26vkQ) | 4:34 | 2021-11-24\* |  |
 | [Kingdom](https://open.spotify.com/track/0wVRGzdbEwKGomyficzJV7) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn), [Vanessa Chisakula](https://open.spotify.com/artist/6oEgUwhl5HLm5BG2ifEs2r) | [Kingdom](https://open.spotify.com/album/7AIDly3OWiTU5O4YKTvZ2g) | 3:45 | 2021-12-03 |  |
 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2021-11-24\* | 2021-11-26 |

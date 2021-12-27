@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
   "name": "EDM Top 100",
-  "num_followers": 48565,
+  "num_followers": 48563,
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA0NSwxMjJiZjNkZTM3YjNkMGMxMGE5NjJiOGI4NjNlOGFmYjg1NGU3ZDk0",
+  "snapshot_id": "MTA0NixkZmM5YWEwMTk2OTUxY2UzOWE3MjFkN2E5OWQ4YmE0ZjlmMzJjYTEx",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -1513,6 +1513,42 @@
       "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
     },
     {
+      "added_at": "2021-12-01 15:42:03",
+      "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
+    },
+    {
+      "added_at": "2021-03-05 23:01:05",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
+      },
+      "artists": [
+        {
+          "name": "Xan Castel",
+          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
+    },
+    {
       "added_at": "2021-12-07 15:44:06",
       "album": {
         "name": "Too Much (feat. Usher)",
@@ -1535,42 +1571,6 @@
       "duration_ms": 165704,
       "name": "Too Much (feat. Usher)",
       "url": "https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51"
-    },
-    {
-      "added_at": "2021-03-05 23:01:05",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
-      },
-      "artists": [
-        {
-          "name": "Xan Castel",
-          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
-    },
-    {
-      "added_at": "2021-12-01 15:42:03",
-      "album": {
-        "name": "Lose Somebody",
-        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
     },
     {
       "added_at": "2021-12-22 15:41:02",
@@ -1885,28 +1885,28 @@
       "url": "https://open.spotify.com/track/4Ef3ODp0REOFXMgDL4S5fM"
     },
     {
-      "added_at": "2021-12-21 15:45:02",
+      "added_at": "2021-12-26 15:46:01",
       "album": {
-        "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
+        "name": "For You (Deeperlove Remix)",
+        "url": "https://open.spotify.com/album/4S7mFciWbBmkMAk5gOKMec"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "The Disco Boys",
+          "url": "https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Deeperlove",
+          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
         },
         {
-          "name": "High Jinx",
-          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
         }
       ],
-      "duration_ms": 183750,
-      "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
-      "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
+      "duration_ms": 146408,
+      "name": "For You - Deeperlove Remix",
+      "url": "https://open.spotify.com/track/547LWbvqDFeNS6xuK3XjLH"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1933,40 +1933,40 @@
       "url": "https://open.spotify.com/track/5At3exVBWkAfqJGsRG8Z5L"
     },
     {
-      "added_at": "2021-12-19 15:43:02",
+      "added_at": "2021-12-22 15:41:02",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/3CBDOCH7fYQxjfXL8cXEfQ"
+        "name": "Pump The Brakes",
+        "url": "https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ"
       },
       "artists": [
         {
-          "name": "AGC-17",
-          "url": "https://open.spotify.com/artist/1IOR4Bw4v8pG3dKegFFnMt"
-        },
-        {
-          "name": "Andreas Rico",
-          "url": "https://open.spotify.com/artist/3KQhAGwc7e3Cr82PCzvf6S"
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
         }
       ],
-      "duration_ms": 168364,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/4ETcsWJdf5r5qEVaT20pbz"
+      "duration_ms": 220581,
+      "name": "Pump The Brakes",
+      "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
     },
     {
-      "added_at": "2021-12-07 15:44:06",
+      "added_at": "2021-12-25 15:46:02",
       "album": {
-        "name": "It Gets Better",
-        "url": "https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6"
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/384wdo2pTwbY6w1Es8KmlU"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
+        },
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
         }
       ],
-      "duration_ms": 184611,
-      "name": "It Gets Better",
-      "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
+      "duration_ms": 344571,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/2gpRQZBb6E3iA5NBOOUNNV"
     },
     {
       "added_at": "2020-12-02 10:55:04",
@@ -1993,20 +1993,28 @@
       "url": "https://open.spotify.com/track/529UH7VifSxUbFryjZeFpg"
     },
     {
-      "added_at": "2021-12-22 15:41:02",
+      "added_at": "2021-12-21 15:45:02",
       "album": {
-        "name": "Pump The Brakes",
-        "url": "https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ"
+        "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
       },
       "artists": [
         {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "High Jinx",
+          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
         }
       ],
-      "duration_ms": 220581,
-      "name": "Pump The Brakes",
-      "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
+      "duration_ms": 183750,
+      "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
+      "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -2033,24 +2041,20 @@
       "url": "https://open.spotify.com/track/6liZV0Nrz90vVrxuNwKRI4"
     },
     {
-      "added_at": "2021-12-25 15:46:02",
+      "added_at": "2021-12-07 15:44:06",
       "album": {
-        "name": "Somebody Loves You",
-        "url": "https://open.spotify.com/album/384wdo2pTwbY6w1Es8KmlU"
+        "name": "It Gets Better",
+        "url": "https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6"
       },
       "artists": [
         {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         }
       ],
-      "duration_ms": 344571,
-      "name": "Somebody Loves You",
-      "url": "https://open.spotify.com/track/2gpRQZBb6E3iA5NBOOUNNV"
+      "duration_ms": 184611,
+      "name": "It Gets Better",
+      "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
     }
   ],
   "url": "https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD"

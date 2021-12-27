@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 169381,
       "name": "Baptize",
       "url": "https://open.spotify.com/track/68RUydoqlDT60rsirSIJWR"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 231161,
       "name": "Black Lungs",
       "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 302666,
       "name": "Blind and Frozen",
       "url": "https://open.spotify.com/track/4KcpQ5bJZnkIS5OHKGl7Lp"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 232053,
       "name": "BURN IT",
       "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 269000,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 253445,
       "name": "Cross Off",
       "url": "https://open.spotify.com/track/1UtLHK1KdLD1haUlY5YoSg"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 235295,
       "name": "From Hell with Love",
       "url": "https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 169682,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/4tI180nOZaAmzGifuSTI7z"
@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Birds Of Pray",
+        "url": "https://open.spotify.com/album/3L5Trg8OhCuCvu0T0brOi4"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173546,
+      "name": "Life Marches On",
+      "url": "https://open.spotify.com/track/5wWsbm1EAgvRMklDImERqS"
+    },
+    {
+      "album": {
         "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1",
         "url": "https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3"
       },
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
@@ -1268,6 +1286,24 @@
       "duration_ms": 249306,
       "name": "Seal The Deal",
       "url": "https://open.spotify.com/track/67gIy3f2Kfdun5illopj4t"
+    },
+    {
+      "album": {
+        "name": "Seize the Day - Single",
+        "url": "https://open.spotify.com/album/35t5Xqrz49iF8M7fieKVRs"
+      },
+      "artists": [
+        {
+          "name": "The Mendenhall Experiment",
+          "url": "https://open.spotify.com/artist/1i5khuFFnwuwwDwWbwbyLL"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230307,
+      "name": "Seize the Day",
+      "url": "https://open.spotify.com/track/1gqPcliPEmNXSOi7Vvr95e"
     },
     {
       "album": {
@@ -1390,7 +1426,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 220266,
       "name": "Superbeast",
       "url": "https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv"
@@ -1426,7 +1462,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 212040,
       "name": "Ten Thousand Fists",
       "url": "https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu"
@@ -1480,7 +1516,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "The Night",
       "url": "https://open.spotify.com/track/4pADXqX5x76fDS8RmyvgwO"
@@ -1516,10 +1552,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 199959,
       "name": "The Time Is Now",
       "url": "https://open.spotify.com/track/6wpHmxmxPa3N3Gi3aGdTJL"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228720,
+      "name": "The Violence",
+      "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
     },
     {
       "album": {
@@ -1534,7 +1588,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 251266,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/5HZOQLjnUJkqcOdLZomiIo"

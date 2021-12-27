@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1pKjqvkDHkD.md) - [plain]
 
 > Renowned for her part in the Chicago Black Renaissance, the <a href="spotify:artist:4H2657mM3Y4j6ITcmHOf21">writer</a> reads her own poems and the work of her contemporaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,574 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,573 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

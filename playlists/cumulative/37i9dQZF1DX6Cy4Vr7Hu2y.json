@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 204600,
       "name": "30",
       "url": "https://open.spotify.com/track/2mF0a6QdJY5WDWar4THKyi"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 254866,
       "name": "After The Rain \ube44\uac00 \uadf8\uce58\uace0 \ub098\uba74",
       "url": "https://open.spotify.com/track/6e6tVmCBpFAWopWgnclcqs"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 204613,
       "name": "Don't Hurt the Island Please",
       "url": "https://open.spotify.com/track/1FBEwUknugg7TJC70uVJ7s"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 199533,
       "name": "Door",
       "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 195386,
       "name": "ELEVATOR",
       "url": "https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 223288,
       "name": "End of the Story",
       "url": "https://open.spotify.com/track/6vSyVvWdfeynSlmBes22la"
@@ -474,6 +474,24 @@
       "duration_ms": 190000,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/3Ixsxq6c4AFcUH5JjQTgYj"
+    },
+    {
+      "album": {
+        "name": "Everybody Has",
+        "url": "https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222454,
+      "name": "Everybody Has",
+      "url": "https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn"
     },
     {
       "album": {
@@ -600,7 +618,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 180173,
       "name": "Happy Now!",
       "url": "https://open.spotify.com/track/6Qm4PXogHJW7JyPfG1Yrwj"
@@ -618,7 +636,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 201295,
       "name": "I want to see you again",
       "url": "https://open.spotify.com/track/1kVjixoK9haTO1NxlBf6hh"
@@ -676,7 +694,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 229640,
       "name": "Island",
       "url": "https://open.spotify.com/track/0frFK9RPyxL8eJnMjqUm4t"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 189846,
       "name": "Lil\u2019 Touch",
       "url": "https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8"
@@ -820,7 +838,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 219000,
       "name": "LOVE IS YOU",
       "url": "https://open.spotify.com/track/4GsdC4RqKvSkGn0Z3Lx65P"
@@ -845,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5emTRUsmyNF1hNSTVqlyO9"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219623,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/6FHwkEfmpjhoEzS9s8ao7f"
+    },
+    {
+      "album": {
         "name": "My Friend",
         "url": "https://open.spotify.com/album/21Rd8YU3BI7P4PVtfsf9ji"
       },
@@ -860,7 +896,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/0vFKaaqXkeaaC2iGtKRGyt"
@@ -896,7 +932,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 189677,
       "name": "Need You - solo ver.",
       "url": "https://open.spotify.com/track/4xzpDr5XZoorumaEv178Od"
@@ -968,7 +1004,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 197739,
       "name": "Over the Sky",
       "url": "https://open.spotify.com/track/68K3uCXs4JeuZ2OZdOTQr7"
@@ -1044,7 +1080,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 206616,
       "name": "pporappippam \ubcf4\ub77c\ube5b \ubc24",
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
@@ -1080,7 +1116,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
@@ -1268,10 +1304,28 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 217926,
       "name": "Spark",
       "url": "https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5"
+    },
+    {
+      "album": {
+        "name": "Spring Is You",
+        "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225647,
+      "name": "Spring Is You",
+      "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
     },
     {
       "album": {
@@ -1406,7 +1460,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 186586,
       "name": "THINK",
       "url": "https://open.spotify.com/track/7upOvB292V6qszi7M3QqD9"
@@ -1428,6 +1482,24 @@
       "duration_ms": 190050,
       "name": "Tie a Cherry",
       "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
+    },
+    {
+      "album": {
+        "name": "Trip \uc5ec\ud589",
+        "url": "https://open.spotify.com/album/2tjGAzAg63GYTpn73Jyxdi"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227198,
+      "name": "Trip \uc5ec\ud589",
+      "url": "https://open.spotify.com/track/78iqyVhGvzdGL1WUflBpAl"
     },
     {
       "album": {
@@ -1568,7 +1640,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 255496,
       "name": "X",
       "url": "https://open.spotify.com/track/5FOnZ5yGWaKk0bxHOigYQk"
@@ -1622,7 +1694,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 199175,
       "name": "YOU AND I",
       "url": "https://open.spotify.com/track/5njElVEV4zsVdJpW9x4ujJ"
@@ -1658,7 +1730,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 218235,
       "name": "youknowbetter \ub2c8\uac00 \ub354 \uc798 \uc54c\uc796\uc544",
       "url": "https://open.spotify.com/track/1ej66Z3M6DfmoZeJCSrOxN"
@@ -1698,7 +1770,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 227213,
       "name": "zZ(Tired) zZ(\ud53c\uace4\ud574) (With Yebit)",
       "url": "https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc"
@@ -1770,7 +1842,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 210450,
       "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"

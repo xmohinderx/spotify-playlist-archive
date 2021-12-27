@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 300906,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/3RNvMhYFEwpCgPnDGKR5MB"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 261399,
       "name": "Hit Me Off",
       "url": "https://open.spotify.com/track/0yNCFwihschpOwSgK31f2O"
@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/6EnEIHhrTtnWKKlWsHicTU"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242360,
+      "name": "In My Bed - So So Def Mix",
+      "url": "https://open.spotify.com/track/0IBgCsG8dRnUtveiIaoFHF"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
       },
@@ -536,7 +558,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/0UH3m8uxVdQDCtG61CKMXE"
@@ -630,7 +652,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 299506,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
@@ -688,7 +710,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 207466,
       "name": "No, No, No Pt. 2 (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc"

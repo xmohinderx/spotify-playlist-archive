@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 229400,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 145573,
       "name": "Boss D.J.",
       "url": "https://open.spotify.com/track/7nT67qoRgqd5PxnlY9yjc7"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 187404,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 249152,
       "name": "Every Teardrop Is a Waterfall",
       "url": "https://open.spotify.com/track/5m0YCRCIg3FYjGgA8gGKXv"
@@ -526,10 +526,28 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 188880,
       "name": "Fake Friends (feat. Joan Jett)",
       "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
+    },
+    {
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/3nkkquuOZeWaiOOcHYJCkR"
+      },
+      "artists": [
+        {
+          "name": "Cambridge",
+          "url": "https://open.spotify.com/artist/298a5iFsMW8xtGXcJNcwja"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3xwADsuFthf2vaC0vsOgmp"
     },
     {
       "album": {
@@ -696,7 +714,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 213293,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 227108,
       "name": "Larger Than Life",
       "url": "https://open.spotify.com/track/7gTKH7BRYJ1hfVuTHbAfoK"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 202453,
       "name": "Los Angeles is burning",
       "url": "https://open.spotify.com/track/3FCrOGjsk0n0gpkrDxfskA"
@@ -1327,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7yfeIbESdeDfyvYVjbYMRr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Rock",
+          "url": "https://open.spotify.com/artist/3RZnetZUUmTYPluQtt7SNI"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/7EIbw4i6zFYA2kuDYWgRly"
+    },
+    {
+      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/7auwTWtwEbgjQ0a0j4iKFX"
       },
@@ -1342,6 +1378,24 @@
       "duration_ms": 163371,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/4cMHd2gshJTtOVzcxJB2x6"
+    },
+    {
+      "album": {
+        "name": "The House That Bradley Built (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189506,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/0FTHyxBgSKvK2d45djO8E4"
     },
     {
       "album": {
@@ -1378,7 +1432,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 71214,
       "name": "Say Anything - Skate-Aid Charity",
       "url": "https://open.spotify.com/track/2M5me6foO4D3AiIrGuzXoC"
@@ -1432,7 +1486,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 337946,
       "name": "Shape of my Heart",
       "url": "https://open.spotify.com/track/2TCJJKuEV1VkVi5D5Y3RKK"
@@ -1450,7 +1504,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 150320,
       "name": "Silly Girl",
       "url": "https://open.spotify.com/track/50ZvRtcsctYE4p7RX3DR6g"
@@ -1504,7 +1558,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 185350,
       "name": "Sometimes I Don't Mind",
       "url": "https://open.spotify.com/track/3n2tpHjpeYISrl0GX04E3K"
@@ -1558,7 +1612,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 165857,
       "name": "Substitute",
       "url": "https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ"
@@ -1616,7 +1670,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 195680,
       "name": "Sweet Transvestite",
       "url": "https://open.spotify.com/track/2wn5lK5Tf2FCvXGdkubYnu"
@@ -1796,7 +1850,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 187750,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/5Ve2oJUFYFpqkYiOB9LODB"
@@ -1872,7 +1926,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 196000,
       "name": "Wake Me Up When September Ends",
       "url": "https://open.spotify.com/track/32fMYulgmRX6IxScMwQsdW"
@@ -2118,7 +2172,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 242419,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/3wDdjLO3qkQ9CSF2nMKld7"
@@ -2136,7 +2190,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 180645,
       "name": "You Know What They Do to Guys Like Us in Prison?",
       "url": "https://open.spotify.com/track/5uMzJjtKDfjdlLFk1o3LJA"
@@ -2154,7 +2208,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 149893,
       "name": "You're Dead / Vampire Ska",
       "url": "https://open.spotify.com/track/71ikNNbcGUjcid5nD5Q2rZ"
