@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,036 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,054 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [It's No Good](https://open.spotify.com/track/0GNdzYqpy7sHQcdCuHjJZX) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Down, Wicked & No Good](https://open.spotify.com/album/0JsXyjXeZp0uELbFKVgvor) | 4:55 |
 | 100 | [Immigrant Song](https://open.spotify.com/track/40zf3WgjcwVxPdWzSaE9OS) | [Small Town Titans](https://open.spotify.com/artist/3aVd0CcXBa0rOlxMpUS6on) | [Immigrant Song](https://open.spotify.com/album/6P3VswZv5OBxMPfc6Ov5WY) | 2:28 |
 
-Snapshot ID: `MTY0MDU3OTQ2NSwwMDAwMDAwMGMwNTg1M2IzZjQ5NDYwZmEyYjRkZjNlZDRhODEzZjk0`
+Snapshot ID: `MTY0MDYwMTk0NiwwMDAwMDAwMGMwNTg1M2IzZjQ5NDYwZmEyYjRkZjNlZDRhODEzZjk0`

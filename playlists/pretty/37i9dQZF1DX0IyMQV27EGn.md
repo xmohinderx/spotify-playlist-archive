@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and dark, alluring siren songs\. Cover: Ashley Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,260 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,271 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Can't Call It Love](https://open.spotify.com/track/6BNL1Hv2I6v2EXGGkJTaiq) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Can't Call It Love](https://open.spotify.com/album/7vH3OhHp0SJ2N3Snw2Pt8Z) | 4:00 |
 | 70 | [Love And War](https://open.spotify.com/track/2oVGPRGihMZRFWnpMBh8PY) | [Diane Birch](https://open.spotify.com/artist/5m2sKBa2fJAm4P2MWfopum) | [Speak A Little Louder](https://open.spotify.com/album/3dCgW0uvnJ77jiFSZLpzTy) | 3:58 |
 
-Snapshot ID: `MTY0MDU3OTQyOCwwMDAwMDAwMDRjNWQxMzVhODAwYWI3YjdhY2JhYmQzMDdjMjk2YmRh`
+Snapshot ID: `MTY0MDYwMTkxMCwwMDAwMDAwMDRjNWQxMzVhODAwYWI3YjdhY2JhYmQzMDdjMjk2YmRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,758,424 likes - 125 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,758,613 likes - 125 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 124 | [Soda Pop](https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [Soda Pop](https://open.spotify.com/album/6Tlma5hptae75mA5jSMWfG) | 2:44 |
 | 125 | [Dancing](https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing](https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe) | 4:00 |
 
-Snapshot ID: `MTY0MDU3OTU5OSwwMDAwMDAwMDQwYjA3N2UzYzc3NWRlMmM3OTM3NjNlYTU0NTBjZDc3`
+Snapshot ID: `MTY0MDYwMjA3NCwwMDAwMDAwMDQwYjA3N2UzYzc3NWRlMmM3OTM3NjNlYTU0NTBjZDc3`

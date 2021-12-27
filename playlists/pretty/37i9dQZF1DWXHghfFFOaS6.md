@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Jazz, hip\-hop and funk in one flavor\. Cover: Guru
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,626 likes - 90 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,687 likes - 90 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
 | 90 | [Girl Overboard](https://open.spotify.com/track/5dKb9OlbvGkySIyyv85wye) | [Snowboy](https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn), [Anna Ross](https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2) | [The 3 Faces Of Snowboy](https://open.spotify.com/album/4ERgtow1qq90Fi8F0WCfr5) | 7:26 |
 
-Snapshot ID: `MTY0MDU3OTM4NywwMDAwMDAwMDRjNGE4N2Q0MmY0ZTI1Y2I1MzkyOTUzNzJhNmQ5ZGQz`
+Snapshot ID: `MTY0MDYwMTg3MSwwMDAwMDAwMDRjNGE4N2Q0MmY0ZTI1Y2I1MzkyOTUzNzJhNmQ5ZGQz`

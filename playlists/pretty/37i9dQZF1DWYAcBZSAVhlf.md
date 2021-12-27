@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,444 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,509 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 79 | [Sweet Little Mystery](https://open.spotify.com/track/58qBa4R0T7u0ZiuRvMJRUN) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Popped In Souled Out](https://open.spotify.com/album/5HqzVjfKEE9nMOYpQxQiz1) | 3:44 |
 | 80 | [The Right Thing](https://open.spotify.com/track/2ZfALE4EncKJFqsEwDkrl9) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Men and Women \(Expanded Version\)](https://open.spotify.com/album/2cUNjYzEhwwmjtmHsDM54t) | 4:17 |
 
-Snapshot ID: `MTY0MDU3OTQwMiwwMDAwMDAwMGQwMzU1ZTZmNGFmNDRkNTA2OWQ2ZDQ4NjFlZjhjZGEw`
+Snapshot ID: `MTY0MDYwMTg4NSwwMDAwMDAwMGQwMzU1ZTZmNGFmNDRkNTA2OWQ2ZDQ4NjFlZjhjZGEw`

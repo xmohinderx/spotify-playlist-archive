@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,123 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,131 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 | 99 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
 | 100 | [Don't Sweat The Technique](https://open.spotify.com/track/3YXlTtlYDXI2SyofNm1ccg) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Gold](https://open.spotify.com/album/7cEhLD8Rovs1U2wSFx6agz) | 4:21 |
 
-Snapshot ID: `MTY0MDU3OTQwNywwMDAwMDAwMDFiNzk4MTIyNDA5YzE5NTVjM2NjNzI1MDYyNDcyYzQy`
+Snapshot ID: `MTY0MDYwMTg5MCwwMDAwMDAwMDFiNzk4MTIyNDA5YzE5NTVjM2NjNzI1MDYyNDcyYzQy`

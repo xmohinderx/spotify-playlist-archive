@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > Indie tunes for t\-shirt weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,331 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,327 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 79 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 |
 | 80 | [Heavenly Maybe](https://open.spotify.com/track/6Ej3CAn9PID4f1YAJwEzvl) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Heavenly Maybe](https://open.spotify.com/album/22DjXxvIEIn7nNdxn2Gv0k) | 3:26 |
 
-Snapshot ID: `MTY0MDU3OTM2NiwwMDAwMDAwMGMwZWZlMmY4MjI2MjVlNDY2ZDA2Nzc3NzkyNTQ5YjIw`
+Snapshot ID: `MTY0MDYwMTg1MCwwMDAwMDAwMGMwZWZlMmY4MjI2MjVlNDY2ZDA2Nzc3NzkyNTQ5YjIw`

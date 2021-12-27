@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Fana Hues
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,164 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,334 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 99 | [And Then Life Was Beautiful](https://open.spotify.com/track/17psVz1U88aIzhdv1sqIqp) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:23 |
 | 100 | [Flashbacks \(feat\. Miguel & St\. Beauty\)](https://open.spotify.com/track/2IQjNT6EXEEJhR3x5KnlOU) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [St\. Beauty](https://open.spotify.com/artist/4j5EnP4t2lSKolLuQh1xvn) | [BETTER](https://open.spotify.com/album/4CIhgtHyTy4FPY5XzILrfV) | 4:02 |
 
-Snapshot ID: `MTY0MDU3OTMyNCwwMDAwMDAwMDc2NmFjYTdiNzYyY2EyYzM3MzFkZTU0YWFkNjk4ZDgz`
+Snapshot ID: `MTY0MDYwMTgxMSwwMDAwMDAwMDc2NmFjYTdiNzYyY2EyYzM3MzFkZTU0YWFkNjk4ZDgz`

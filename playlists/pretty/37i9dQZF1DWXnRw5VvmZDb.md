@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnRw5VvmZDb.md) - [plain]
 
 > Inspired by the arts and his own vivid imagination, Debussy defined a new era of musical impressionism\. Discover his dreamlike preludes, suites and songs right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,718 likes - 61 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,732 likes - 61 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

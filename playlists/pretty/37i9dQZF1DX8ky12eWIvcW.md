@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 
 > Turn up with the biggest party tracks of the '90s and '00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,021,673 likes - 93 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,021,718 likes - 93 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 92 | [Drop It Like It's Hot](https://open.spotify.com/track/4Tyv7nnNTHC6mR1pTubIrw) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Drop It Like It's Hot \(International Version\)](https://open.spotify.com/album/6HvNCIZj3oCfxz0j75HaIZ) | 4:30 |
 | 93 | [Got Money](https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:04 |
 
-Snapshot ID: `MTY0MDU3OTU3MSwwMDAwMDAwMGNmMmViOTRhMjRkYzJkNDQwNzkzZjhkMjNmY2UxNDA4`
+Snapshot ID: `MTY0MDYwMjA0OCwwMDAwMDAwMGNmMmViOTRhMjRkYzJkNDQwNzkzZjhkMjNmY2UxNDA4`

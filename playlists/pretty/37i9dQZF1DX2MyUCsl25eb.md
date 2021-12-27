@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,361 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,374 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 74 | [Real Love Baby](https://open.spotify.com/track/6YDf6QV7QfCEo8O2dbWalK) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/6IpBMtAMrBvSHc9y6rTtQQ) | 3:09 |
 | 75 | [Baby Don't Leave Me Alone With My Thoughts](https://open.spotify.com/track/6pro0cjgB0tU0V1tifYA2i) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:33 |
 
-Snapshot ID: `MTY0MDU3OTQ2NCwwMDAwMDAwMDdmOGIzODlkOWZmNGE0YzM1ZjEyNzM4MzE2ZTIyNWNh`
+Snapshot ID: `MTY0MDYwMTk0NSwwMDAwMDAwMDdmOGIzODlkOWZmNGE0YzM1ZjEyNzM4MzE2ZTIyNWNh`

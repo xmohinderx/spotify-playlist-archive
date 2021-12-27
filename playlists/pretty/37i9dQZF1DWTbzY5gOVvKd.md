@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,327 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,371 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 69 | [Deep in a Dream](https://open.spotify.com/track/0QR4BgqJvmtqQH7OoTQWIJ) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [My Funny Valentine: The Chet Baker Songbook](https://open.spotify.com/album/3AMHrE4rMoeNdtjS6s7zIY) | 4:05 |
 | 70 | [Let's Make The Most Of A Beautiful Thing](https://open.spotify.com/track/7zrgXzhF8eSA1O9TvYippG) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/7mNaZiHXdEWQV9CJ2ha63o) | 4:39 |
 
-Snapshot ID: `MTY0MDU3OTM0MCwwMDAwMDAwMDMyMDQ3ZjIzYTVlMTY4MzU4OTk0Nzc3OGRlOWRmNjZh`
+Snapshot ID: `MTY0MDYwMTgyNiwwMDAwMDAwMDMyMDQ3ZjIzYTVlMTY4MzU4OTk0Nzc3OGRlOWRmNjZh`

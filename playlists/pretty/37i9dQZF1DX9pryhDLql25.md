@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 74 | [Ghost Town](https://open.spotify.com/track/6qUGqE3cmrQ2AapgzYKVp3) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Angeleno](https://open.spotify.com/album/57XjKJkj7uM4QYFB8csFtI) | 4:06 |
 | 75 | [Uh Huh](https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Jade Bird](https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG) | 2:22 |
 
-Snapshot ID: `MTY0MDU3OTU4NSwwMDAwMDAwMGNlMGIwODJmNWQ2YzRiMjIzMjcyNWY5NGU2NmY1Mjdh`
+Snapshot ID: `MTY0MDYwMjA2MSwwMDAwMDAwMGNlMGIwODJmNWQ2YzRiMjIzMjcyNWY5NGU2NmY1Mjdh`

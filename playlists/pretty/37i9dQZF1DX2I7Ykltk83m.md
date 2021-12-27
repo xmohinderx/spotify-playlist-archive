@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Snail Mail
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,379 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,442 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 99 | [Cascades](https://open.spotify.com/track/70p2JCsiqE8hhrFhb0dhuq) | [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN) | [Modern Dread](https://open.spotify.com/album/2DSkwAMBZN0NY9mz2xJogR) | 3:36 |
 | 100 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 |
 
-Snapshot ID: `MTY0MDU3OTQ2MiwwMDAwMDAwMDFhMTAwZDgwYzA2ZWU5MjcxYWRjMTg2ZTFlYWNjMWEz`
+Snapshot ID: `MTY0MDYwMTk0MywwMDAwMDAwMDFhMTAwZDgwYzA2ZWU5MjcxYWRjMTg2ZTFlYWNjMWEz`

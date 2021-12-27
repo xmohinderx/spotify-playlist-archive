@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: FKA Twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,739 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,856 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [sucks 4 u](https://open.spotify.com/track/75TJ9ufHDs6R45Wg8wOeEE) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [sucks 4 u](https://open.spotify.com/album/6EqK6gDuQDc43k2kvh83TR) | 3:25 |
 | 100 | [Places/Plans](https://open.spotify.com/track/0v02UqGzmTJjrzJArNtt6K) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/3ih34jIYbDN2l2hz5oXcEB) | 3:03 |
 
-Snapshot ID: `MTY0MDU3OTU3NiwwMDAwMDAwMDY0YjI5YTE5ZTI4YTU2ZTllMTEyNzMyNDkzZjM1YTAx`
+Snapshot ID: `MTY0MDYwMjA1MiwwMDAwMDAwMDY0YjI5YTE5ZTI4YTU2ZTllMTEyNzMyNDkzZjM1YTAx`

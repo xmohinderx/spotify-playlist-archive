@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > No need to stress out\. Stay relaxed with these easy, upbeat songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891,407 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,891,441 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
 | 100 | [Seventeen](https://open.spotify.com/track/1fWwxmWor6QbvBeLSV428F) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/3QfvzIBsZ2zbYWsNp7StMw) | 3:46 |
 
-Snapshot ID: `MTY0MDU3OTMzMiwwMDAwMDAwMDE2OTM3YTNmOTQ1YmNlNTgxM2U3YjE4MDlmNTdiMzFh`
+Snapshot ID: `MTY0MDYwMTgxOSwwMDAwMDAwMDE2OTM3YTNmOTQ1YmNlNTgxM2U3YjE4MDlmNTdiMzFh`

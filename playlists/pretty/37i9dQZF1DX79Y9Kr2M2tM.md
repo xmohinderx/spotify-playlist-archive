@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,677 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,696 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Old Now](https://open.spotify.com/track/6mVndIOMk620iAtXeMi4kW) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/0wYOnQ14Bzo8RqXmZxjz7y) | 4:49 |
 | 100 | [Do It All Again](https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Do It All Again](https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1) | 3:19 |
 
-Snapshot ID: `MTY0MDU3OTU0OCwwMDAwMDAwMDNkMjMxMmUwNTgzYTBlMmI2ZDIzMDdlYTBiMWRhYWYy`
+Snapshot ID: `MTY0MDYwMjAyNSwwMDAwMDAwMDNkMjMxMmUwNTgzYTBlMmI2ZDIzMDdlYTBiMWRhYWYy`

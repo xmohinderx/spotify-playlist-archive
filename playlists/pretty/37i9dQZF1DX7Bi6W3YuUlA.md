@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,756 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,752 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Don’t Forget Who You Are](https://open.spotify.com/track/2bUOUKpJmF0KQqWpu8HIlX) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 2:53 |
 | 80 | [EAT](https://open.spotify.com/track/4PIFHcMwQrebdI6A2gS17t) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat](https://open.spotify.com/artist/6gj5OjJoEBMu1IbsM7S2ya) | [EAT](https://open.spotify.com/album/6hySO8WKFbGCobsuZi0C76) | 3:28 |
 
-Snapshot ID: `MTY0MDU3OTU0OCwwMDAwMDAwMDhiMWM3NjlkZTA5OThiZWNhZmJhMjQ3NGI3YTcwM2I2`
+Snapshot ID: `MTY0MDYwMjAyNSwwMDAwMDAwMDhiMWM3NjlkZTA5OThiZWNhZmJhMjQ3NGI3YTcwM2I2`

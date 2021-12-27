@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft Sega Bodega
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,213 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,244 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [Cisgender](https://open.spotify.com/track/0lS7L1m0o6ffxIEYwddUde) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Cisgender](https://open.spotify.com/album/2wjKNzKnXFonVmH6OZJgmH) | 5:05 |
 | 125 | [Desert Flower \- Remix](https://open.spotify.com/track/3bp1bmo2Km9SFT12M0eVOZ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Desert Flower \(Remix\)](https://open.spotify.com/album/0WSacNfJCRndicOmSSBwJ3) | 3:37 |
 
-Snapshot ID: `MTY0MDU3OTYwMiwwMDAwMDAwMDYwNTgxMzkxMGE1NDEwYjIwNzhmZTVjMTM2ZDdiYWZj`
+Snapshot ID: `MTY0MDYwMjA3NywwMDAwMDAwMDYwNTgxMzkxMGE1NDEwYjIwNzhmZTVjMTM2ZDdiYWZj`

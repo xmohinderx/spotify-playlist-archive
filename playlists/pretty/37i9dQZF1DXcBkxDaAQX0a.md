@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,630 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,638 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Pieces \(Acoustic\)](https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx) | [MariaHill](https://open.spotify.com/artist/1n70LfQ2jXSKxoK1PI7oLt) | [Lie to Me](https://open.spotify.com/album/6I0naPXaPOIFFmqOMlzQYB) | 3:22 |
 | 75 | [Right Here \(Acoustic\)](https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc) | [Chase Your Words](https://open.spotify.com/artist/6gph7xmxgbQ5dxhgxIjNKC) | [Right Here \(Acoustic\)](https://open.spotify.com/album/4mX8bQn7N85MziPkBeoNxr) | 3:49 |
 
-Snapshot ID: `MTY0MDU3OTYyMiwwMDAwMDAwMDk0OWI0NjgxYjI5OTI1NmViZGY2MGY4ODFhYzdhMDdj`
+Snapshot ID: `MTY0MDYwMjA5NiwwMDAwMDAwMDk0OWI0NjgxYjI5OTI1NmViZGY2MGY4ODFhYzdhMDdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,710 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552,788 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [MIA](https://open.spotify.com/track/2N0YVoyymRbn3qSOQYkwOr) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [MIA](https://open.spotify.com/album/0Z51jdzF3qwIGxCpBQZko3) | 2:01 |
 | 100 | [Dead Broke](https://open.spotify.com/track/6CwjgmFdMX6FKzmV2oB7SY) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Unbothered](https://open.spotify.com/album/0Elwgwh70pJTeBPuer7wz0) | 2:24 |
 
-Snapshot ID: `MTY0MDU3OTMzMSwwMDAwMDAwMDI1MjE1ZGIxYjNjNTk5OTQyMGUyM2I3NDRkOWFiOTQz`
+Snapshot ID: `MTY0MDYwMTgxNywwMDAwMDAwMDI1MjE1ZGIxYjNjNTk5OTQyMGUyM2I3NDRkOWFiOTQz`

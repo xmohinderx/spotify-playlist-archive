@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,897 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,951 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 | 89 | [No One Sleeps When I’m Awake](https://open.spotify.com/track/3WKuvzrcU1eMt0cxHV9OZ5) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Crossing The Rubicon](https://open.spotify.com/album/4ZUmUmRGJMinKqG2GtzNZN) | 4:22 |
 | 90 | [Heads Will Roll](https://open.spotify.com/track/18oWEPapjNt32E6sCM6VLb) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:41 |
 
-Snapshot ID: `MTY0MDU3OTYxMCwwMDAwMDAwMDYxZGYyZDFiMWIzNGUxMTExOGJhN2JiMmMxM2Y0ZGIz`
+Snapshot ID: `MTY0MDYwMjA4NSwwMDAwMDAwMDYxZGYyZDFiMWIzNGUxMTExOGJhN2JiMmMxM2Y0ZGIz`

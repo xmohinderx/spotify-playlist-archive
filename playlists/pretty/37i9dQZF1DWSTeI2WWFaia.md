@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,829 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,888 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Moment of Truth](https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU) | [Jayy Grams](https://open.spotify.com/artist/6q8DZBLBYqEUdKZl54sqGd) | [G.R.A.M.S.](https://open.spotify.com/album/1UQHTiRtuGTCTvwIFDcKkZ) | 3:15 |
 | 50 | [Teriyaki](https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Teriyaki](https://open.spotify.com/album/6w7cg9sdj8gwmi27nvGoOQ) | 2:56 |
 
-Snapshot ID: `MTY0MDU3OTMyMSwwMDAwMDAwMDJlY2E3ZTFiZGQyMTkxNDRjZjA4NWFjOThiMDk5Y2Ex`
+Snapshot ID: `MTY0MDYwMTgwOCwwMDAwMDAwMDJlY2E3ZTFiZGQyMTkxNDRjZjA4NWFjOThiMDk5Y2Ex`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Portico Quartet
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,191 likes - 250 songs - 20 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,219 likes - 250 songs - 20 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Bond](https://open.spotify.com/track/2xTCPar5DbmOnyLlkz9oAY) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Bond](https://open.spotify.com/album/75sIkoR7b29V2AryVJlmHy) | 2:52 |
 | 250 | [The Movement](https://open.spotify.com/track/2gOl35EUQ2OYDFM4NnF3OV) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Feast](https://open.spotify.com/album/6a5xPqtVimRZdZBtHZqw81) | 3:38 |
 
-Snapshot ID: `MTY0MDU3OTMzOCwwMDAwMDAwMDI3MzI3OTY1ODllNmU4ZTg2NWExNGRjMjUyYzE2NWEy`
+Snapshot ID: `MTY0MDYwMTgyMywwMDAwMDAwMDI3MzI3OTY1ODllNmU4ZTg2NWExNGRjMjUyYzE2NWEy`

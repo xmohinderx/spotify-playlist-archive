@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,842,879 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,842,974 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 49 | [Dior \(with Gunna\) \- Remix](https://open.spotify.com/track/5R9k9x85lAYbamdUoKAJvj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:50 |
 | 50 | [Broke In A Minute](https://open.spotify.com/track/2ZrAjMSmlbDIil0JaVgTHh) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Broke In A Minute](https://open.spotify.com/album/0UWsJ8Z4BRe740txEt4IM6) | 2:12 |
 
-Snapshot ID: `MTY0MDU3OTM1MCwwMDAwMDAwMGE0ZjlhYzI4MGM4MjU2ZTU0MGQwZDk1YTdlYmI1NjQw`
+Snapshot ID: `MTY0MDYwMTgzNSwwMDAwMDAwMGE0ZjlhYzI4MGM4MjU2ZTU0MGQwZDk1YTdlYmI1NjQw`

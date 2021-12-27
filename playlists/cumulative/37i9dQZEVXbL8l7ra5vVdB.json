@@ -324,7 +324,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 161605,
       "name": "Dirrt",
       "url": "https://open.spotify.com/track/0h3jDrGXvkETn0xJRcZOJ9"
@@ -3470,7 +3470,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 76153,
       "name": "NIGHTMARE XMAS",
       "url": "https://open.spotify.com/track/2ZSpKkXOlf0fXXlSrWFyNj"
@@ -4330,6 +4330,24 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "shadowfiend",
+        "url": "https://open.spotify.com/album/7q6ObnVvpAv2oSe7905OGJ"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        }
+      ],
+      "date_added": "2021-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143708,
+      "name": "shadowfiend",
+      "url": "https://open.spotify.com/track/0xEET0hVtwAEI5iVMWmD5C"
     },
     {
       "album": {
@@ -8964,7 +8982,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 166160,
       "name": "\u041c\u044b \u0432\u0441\u0435 \u0443\u043c\u0440\u0435\u043c",
       "url": "https://open.spotify.com/track/0zBQznV5QeLsqPz5sgU2hq"

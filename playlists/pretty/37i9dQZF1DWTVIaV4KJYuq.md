@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,402 likes - 110 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,421 likes - 110 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
 | 110 | [Born To Run](https://open.spotify.com/track/0JHBf66hHh8N3Cj3uiTPYE) | [Noah Chenfeld](https://open.spotify.com/artist/3dVlgSRdeIxsvE0ALIJ7TW) | [Born To Run](https://open.spotify.com/album/6JTj9IVdUqDd39M7UZLfGX) | 3:04 |
 
-Snapshot ID: `MTY0MDU3OTMzOSwwMDAwMDAwMDJhMGUwMWIwNWVmOWY0MzAyYjc4YmFkYzAzOGU3ZmYx`
+Snapshot ID: `MTY0MDYwMTgyNSwwMDAwMDAwMDJhMGUwMWIwNWVmOWY0MzAyYjc4YmFkYzAzOGU3ZmYx`

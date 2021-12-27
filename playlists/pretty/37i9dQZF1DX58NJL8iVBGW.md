@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,916 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,956 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
 | 100 | [Patsy Cline](https://open.spotify.com/track/1veg6mSKzCg1TFD1vwpUij) | [Pauline Andrès](https://open.spotify.com/artist/0CHV7SrZP8o2nVtg8GCaOk) | [All Them Ghosts](https://open.spotify.com/album/7quE2JWRWS00ZcSsy8jAOB) | 3:53 |
 
-Snapshot ID: `MTY0MDU3OTUxMiwwMDAwMDAwMDdjMDUxODM5MWM1MzdkN2I0OGM0ODdmZGExZWRmYWM4`
+Snapshot ID: `MTY0MDYwMTk5MSwwMDAwMDAwMDdjMDUxODM5MWM1MzdkN2I0OGM0ODdmZGExZWRmYWM4`

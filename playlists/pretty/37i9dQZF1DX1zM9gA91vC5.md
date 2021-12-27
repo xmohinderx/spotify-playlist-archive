@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,707 likes - 300 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,709 likes - 300 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 299 | [Leaf To Leaf](https://open.spotify.com/track/4RDQIAeLFsElt58FvN4m6B) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Leaf To Leaf](https://open.spotify.com/album/0qUdp5c99oFrf8WZ47HUYz) | 2:26 |
 | 300 | [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Elvira Ashmore](https://open.spotify.com/artist/3NvKxkPl5eEE5z30zDfsiw) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 |
 
-Snapshot ID: `MTY0MDU3OTQ1OCwwMDAwMDAwMGYyMmE1NjQ4OWFiNjQzY2U4YmZkMTVmMzJlMzEzZDY1`
+Snapshot ID: `MTY0MDYwMTkzOSwwMDAwMDAwMGYyMmE1NjQ4OWFiNjQzY2U4YmZkMTVmMzJlMzEzZDY1`

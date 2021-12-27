@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,211,413 likes - 303 songs - 20 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,211,587 likes - 303 songs - 20 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 302 | [Need To Feel Loved \- LVNDSCAPE Sunset Chill Mix](https://open.spotify.com/track/6RSoM1Kb7JcTqHhFbqbkAC) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Need To Feel Loved \(LVNDSCAPE Sunset Chill Mix\)](https://open.spotify.com/album/4uDUs6a01CgmaCUVVYFWAY) | 4:54 |
 | 303 | [Emily](https://open.spotify.com/track/3VY42CX63Kshy77EbM6Zrr) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Emily](https://open.spotify.com/album/3df1BIiTr2gxRch1Et9LaB) | 3:51 |
 
-Snapshot ID: `MTY0MDU3OTUzOCwwMDAwMDAwMDI1NmNhZWM2OWIxYTAwMmY4MTliNzc1YTI1NDJjNGU4`
+Snapshot ID: `MTY0MDYwMjAxNywwMDAwMDAwMDI1NmNhZWM2OWIxYTAwMmY4MTliNzc1YTI1NDJjNGU4`

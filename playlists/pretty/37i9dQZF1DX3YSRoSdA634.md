@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,262,177 likes - 200 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,262,310 likes - 200 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [Someone Else](https://open.spotify.com/track/2JUaGpCrD8tywgj9MeLFbb) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Loved You.](https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6) | 3:52 |
 | 200 | [Hurt for Me](https://open.spotify.com/track/34ngvjIBKbCL9ECqIhbxaZ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me](https://open.spotify.com/album/1tCMwl24Q5idWGH75J9Cln) | 3:39 |
 
-Snapshot ID: `MTY0MDU3OTQ4MywwMDAwMDAwMDAxMjZiOGMzNDE1YmY0NzM0NmJlZTZhNTBjYjBhYzg5`
+Snapshot ID: `MTY0MDYwMTk2MywwMDAwMDAwMDAxMjZiOGMzNDE1YmY0NzM0NmJlZTZhNTBjYjBhYzg5`

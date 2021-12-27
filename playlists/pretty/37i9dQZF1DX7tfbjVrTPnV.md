@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Rodney Crowell
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,586 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,595 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Hold My Hand](https://open.spotify.com/track/6nvqKFaUCoLm5crJxqiF9K) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/4fYENlcTToGb5EwSqj1xmy) | 3:36 |
 | 150 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
 
-Snapshot ID: `MTY0MDU3OTU1NiwwMDAwMDAwMGRjZWYwNjhhZjQxZGU0ODU4M2IyMTMwMDZhNDFhOTFj`
+Snapshot ID: `MTY0MDYwMjAzNCwwMDAwMDAwMGRjZWYwNjhhZjQxZGU0ODU4M2IyMTMwMDZhNDFhOTFj`

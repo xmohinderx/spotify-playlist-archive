@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,802 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,801 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Vilse](https://open.spotify.com/track/4STwzs8fwqVvAEngOlpZDx) | [Sture Allén Den Yngre](https://open.spotify.com/artist/4UaYv5C9LuHFGmJfRHm4tM) | [Det Bortglömda Sverige](https://open.spotify.com/album/48GyrYLyjSYKV3WE3BJ75D) | 3:31 |
 | 50 | [Hela mig själv](https://open.spotify.com/track/17fD2m1JPWE3M4cRfLCGdW) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Hela mig själv](https://open.spotify.com/album/2BTQwxPzrbKpSDjiuVVb87) | 3:36 |
 
-Snapshot ID: `MTY0MDU3OTQ5NSwwMDAwMDAwMGNkOTBlZjEwODViZjczNDI1YmI3ZWZhYjIxMTdkZWQ2`
+Snapshot ID: `MTY0MDYwMTk3NCwwMDAwMDAwMGNkOTBlZjEwODViZjczNDI1YmI3ZWZhYjIxMTdkZWQ2`

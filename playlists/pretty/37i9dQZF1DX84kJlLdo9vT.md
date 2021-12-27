@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these cheery 60s and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,924 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,935 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 49 | [Get Ready](https://open.spotify.com/track/676Rf0qIOh2gKNEl9TnCOx) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Gettin' Ready \(Expanded Edition\)](https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb) | 2:44 |
 | 50 | [I Want You Back](https://open.spotify.com/track/0PGwM5vdr5fMejx0IIAYXj) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [20th Century Masters: The Millennium Collection: Best Of The Jackson 5](https://open.spotify.com/album/2oJRp9GV4zpFzpnneGZqZH) | 3:00 |
 
-Snapshot ID: `MTY0MDU3OTU1OSwwMDAwMDAwMDVhNzYwZTI1OTg1MWY3NjRjMDk5Nzk0ZmRjMDFlOTMz`
+Snapshot ID: `MTY0MDYwMjAzNiwwMDAwMDAwMDVhNzYwZTI1OTg1MWY3NjRjMDk5Nzk0ZmRjMDFlOTMz`

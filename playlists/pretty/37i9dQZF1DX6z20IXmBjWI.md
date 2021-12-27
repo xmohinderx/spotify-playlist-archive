@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Hours of your favorite acoustic and roots music gems\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,136,379 likes - 160 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,136,398 likes - 160 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 |
 | 160 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
 
-Snapshot ID: `MTY0MDU3OTU0NSwwMDAwMDAwMGM1NjVhMmVkOGE3ZDcwNWFmNzc3YjMxMWFmNTg3Njky`
+Snapshot ID: `MTY0MDYwMjAyMiwwMDAwMDAwMGM1NjVhMmVkOGE3ZDcwNWFmNzc3YjMxMWFmNTg3Njky`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Piano music to hone your thought process.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,261 likes - 400 songs - 17 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,263 likes - 400 songs - 17 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 399 | [Lucidity](https://open.spotify.com/track/4yqiWdxiO7wqyrFbCCIflZ) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Lucidity](https://open.spotify.com/album/57LcyjJDa98LkcEBN7MJ4E) | 2:20 |
 | 400 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 |
 
-Snapshot ID: `MTY0MDU3OTQxMywwMDAwMDAwMDdhNTg2YjAyZWNlYmMwNGY1ODFhNWI5ZTE2YTZmMGNk`
+Snapshot ID: `MTY0MDYwMTg5NSwwMDAwMDAwMDdhNTg2YjAyZWNlYmMwNGY1ODFhNWI5ZTE2YTZmMGNk`

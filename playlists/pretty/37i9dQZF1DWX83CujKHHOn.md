@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,931,949 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,932,202 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [Better \(Stripped\)](https://open.spotify.com/track/3rOJlbv7FeB1kYnpf7vA9m) | [Olivia Dear](https://open.spotify.com/artist/7g44UGBLEbgaRDKvWATaRp) | [Better \(Stripped\)](https://open.spotify.com/album/1dMEMv5VbG6GF8lclWuCNr) | 3:11 |
 | 150 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 |
 
-Snapshot ID: `MTY0MDU3OTM4NiwwMDAwMDAwMDU2ODViYTZiYTEzYTQ3NTRjNzUwYzNlMGRhNWVmMWEy`
+Snapshot ID: `MTY0MDYwMTg2OSwwMDAwMDAwMDU2ODViYTZiYTEzYTQ3NTRjNzUwYzNlMGRhNWVmMWEy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: St\. Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,931 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,047 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Glo Ride](https://open.spotify.com/track/207ELWK7KG6KDoF3iZrMyf) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/3w3DqXdNacXfz44MtEEm3l) | 3:26 |
 | 150 | [I Sing in Silence](https://open.spotify.com/track/3DwyDCNd0xnk30XwirxYXi) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [I Sing in Silence](https://open.spotify.com/album/4aeNsskiwpv5bLbOO1WGc5) | 3:28 |
 
-Snapshot ID: `MTY0MDU3OTU3MCwwMDAwMDAwMGQxYTM3MTRiNWYwMjYxZTc2Y2I0ZDJiYzhjMjQwMTA5`
+Snapshot ID: `MTY0MDYwMjA0NywwMDAwMDAwMGQxYTM3MTRiNWYwMjYxZTc2Y2I0ZDJiYzhjMjQwMTA5`

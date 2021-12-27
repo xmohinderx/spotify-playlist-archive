@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 212480,
       "name": "Exit Signs",
       "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 234834,
       "name": "Exit, Exist",
       "url": "https://open.spotify.com/track/4qHgKQGInYni9Ml3l3RO0u"
@@ -2211,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "A Hill to Die Upon",
+        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
+      },
+      "artists": [
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "King Ov Fire",
+      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
+    },
+    {
+      "album": {
         "name": "Lamb to the Slaughter",
         "url": "https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n"
       },
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 188972,
       "name": "Narcissus",
       "url": "https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 287532,
       "name": "Of Fury",
       "url": "https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg"
@@ -2832,6 +2850,28 @@
       "duration_ms": 236233,
       "name": "Paradigm",
       "url": "https://open.spotify.com/track/5dEyjGoDvm4anASD9kAXEZ"
+    },
+    {
+      "album": {
+        "name": "Paralysis",
+        "url": "https://open.spotify.com/album/0gqTrfqM3rZVWC6ik838d9"
+      },
+      "artists": [
+        {
+          "name": "The Escapist",
+          "url": "https://open.spotify.com/artist/1Z6ld2svs06hAliYiTt8sV"
+        },
+        {
+          "name": "Filip Danielsson",
+          "url": "https://open.spotify.com/artist/6DqJZcqPbU3yvqp0Ypx5V0"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235418,
+      "name": "Paralysis",
+      "url": "https://open.spotify.com/track/3smy2zZQdadYQpsKJ65tiL"
     },
     {
       "album": {
@@ -3194,7 +3234,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 230506,
       "name": "Scorched Earth",
       "url": "https://open.spotify.com/track/2HeZ83vUcp2nQqvSlsWMC8"
@@ -3642,7 +3682,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 209034,
       "name": "The Soil",
       "url": "https://open.spotify.com/track/1B5N4Uv5ueJw5rbiga5asV"

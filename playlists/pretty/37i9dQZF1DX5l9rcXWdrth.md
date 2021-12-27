@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Saweetie & Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,065 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,099 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 49 | [Bad Bitch Anthem](https://open.spotify.com/track/2iSSej4XF1TvnL957k86vP) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Blue Magic](https://open.spotify.com/album/06NRbPzrE1fhJsay2ikpW9) | 2:01 |
 | 50 | [Run Me My Money](https://open.spotify.com/track/5e2GpbPELieepYsdPRgoNA) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Run Me My Money](https://open.spotify.com/album/5O2JWeczDqZ9Iptosu4loU) | 2:05 |
 
-Snapshot ID: `MTY0MDU3OTUyNSwwMDAwMDAwMGNlODA1YzNjMzRhN2YzZTVjNWRiY2QwMzliMDZhMWEx`
+Snapshot ID: `MTY0MDYwMjAwNCwwMDAwMDAwMGNlODA1YzNjMzRhN2YzZTVjNWRiY2QwMzliMDZhMWEx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,670 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,697 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Perfect \(feat\. Haris\)](https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Perfect \(feat\. Haris\)](https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g) | 2:56 |
 | 80 | [Humans \(Let Me Love You\)](https://open.spotify.com/track/1IB1GFSTgmeecjscmAJ0lW) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Humans \(Let Me Love You\)](https://open.spotify.com/album/5L7tRsDCBk9fXodzcpUksI) | 2:41 |
 
-Snapshot ID: `MTY0MDU3OTU3OSwwMDAwMDAwMDE4OTAyMjIxNzYwNmViMmRmMTk4YWNlOWU4YzYyNGE0`
+Snapshot ID: `MTY0MDYwMjA1NSwwMDAwMDAwMDE4OTAyMjIxNzYwNmViMmRmMTk4YWNlOWU4YzYyNGE0`

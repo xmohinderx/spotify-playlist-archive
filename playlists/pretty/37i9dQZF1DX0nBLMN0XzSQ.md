@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,004 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,007 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [Friday I'm in Love](https://open.spotify.com/track/2jtqgkY1Hxe8zdBx4R8VuN) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [He's Just Not That Into You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ZjKInI0HbZoCPse2E6l7J) | 3:34 |
 | 80 | [Stayin' Alive](https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Staying Alive \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ) | 1:32 |
 
-Snapshot ID: `MTY0MDU3OTQzNywwMDAwMDAwMGNiOGJiNjM2ZmE1ZDA1NjJhOTM0ZjNiODUwMzAzNGIz`
+Snapshot ID: `MTY0MDYwMTkxOSwwMDAwMDAwMGNiOGJiNjM2ZmE1ZDA1NjJhOTM0ZjNiODUwMzAzNGIz`

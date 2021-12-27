@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zPl1mbTZSq.md) - [plain]
 
 > The best of Deftones, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,649 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,684 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

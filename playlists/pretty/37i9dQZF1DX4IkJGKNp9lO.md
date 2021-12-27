@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,310 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,312 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Allt jag säger](https://open.spotify.com/track/31r9OFgLc1d0zQG0aoX6Dk) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Hobbydiktatorn](https://open.spotify.com/album/1BCAvvVtURz8zlaZZNR3uP) | 2:30 |
 | 65 | [Brinner](https://open.spotify.com/track/1cE7wFI32Z7Uq4ttGJ2rcv) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/5idoXT28PizdHPL2inrMnF) | 2:47 |
 
-Snapshot ID: `MTY0MDU3OTQ5MiwwMDAwMDAwMDhjYjg3MmQyYTc1NTU0NmEyZWZjZGFmZWQ3MzY4ZmIx`
+Snapshot ID: `MTY0MDYwMTk3MiwwMDAwMDAwMDhjYjg3MmQyYTc1NTU0NmEyZWZjZGFmZWQ3MzY4ZmIx`

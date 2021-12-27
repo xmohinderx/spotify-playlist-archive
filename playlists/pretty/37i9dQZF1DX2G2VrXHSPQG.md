@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > Both Classic and New Songs from Your Favorite Alternative Artists / Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,044 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,085 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
 | 75 | [Lowlights](https://open.spotify.com/track/3yHxDkhtm3rG65aqxr8c7J) | [Jordan Brooker](https://open.spotify.com/artist/7MhkhYdulwE1sjZ8K3bucH) | [Lowlights](https://open.spotify.com/album/24ZCL5fp7r95vEhZAsFNzY) | 2:37 |
 
-Snapshot ID: `MTY0MDU3OTQ2MiwwMDAwMDAwMDc4NzM1M2FkNGNhZmJjMmI2MjIwY2VhMTEzNTQ3Mzg2`
+Snapshot ID: `MTY0MDYwMTk0MywwMDAwMDAwMDc4NzM1M2FkNGNhZmJjMmI2MjIwY2VhMTEzNTQ3Mzg2`

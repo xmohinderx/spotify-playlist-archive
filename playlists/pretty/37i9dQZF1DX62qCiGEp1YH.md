@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62qCiGEp1YH.md) - [plain]
 
 > Embrace the mood of the season with harmonious, comforting songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,076 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,070 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62qCiGEp1YH.md) - [plain]
 | 99 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 |
 | 100 | [The Scientist](https://open.spotify.com/track/2LTl1pU074hnzAdy0SpHAb) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [The Scientist](https://open.spotify.com/album/4FtNaWzjhO9OXCRFEsSmuI) | 5:11 |
 
-Snapshot ID: `MTY0MDU3OTUzMCwwMDAwMDAwMDIyZDkwMDVmOTEwNDQ1NzhiZTJmZGFiZGM4ZjkwNTFj`
+Snapshot ID: `MTY0MDYwMjAwOCwwMDAwMDAwMDIyZDkwMDVmOTEwNDQ1NzhiZTJmZGFiZGM4ZjkwNTFj`

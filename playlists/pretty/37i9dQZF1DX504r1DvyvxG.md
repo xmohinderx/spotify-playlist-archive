@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: Joni Mitchell
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,327,887 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,327,950 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [2000 Man](https://open.spotify.com/track/7jGg2uNzVLmkzL79X8Ysz9) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Their Satanic Majesties Request](https://open.spotify.com/album/0Wx26DAb2cm79j5ofIKKFZ) | 3:07 |
 | 100 | [Our Town](https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/4LluPNK62d1cUvD1ZL46bf) | 5:00 |
 
-Snapshot ID: `MTY0MDU3OTUwOSwwMDAwMDAwMGI4ZjZiOTY3OWQ3NTMwMTQ4MGE4YTNlODcyNTdjMjc4`
+Snapshot ID: `MTY0MDYwMTk4OCwwMDAwMDAwMGI4ZjZiOTY3OWQ3NTMwMTQ4MGE4YTNlODcyNTdjMjc4`

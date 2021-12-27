@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,691 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,701 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Always a Friend for Life](https://open.spotify.com/track/07jyJOIEqrz3sYofOLZBs5) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [The Victory Years](https://open.spotify.com/album/0k2JyzHuoT8gyidouFzMhj) | 2:15 |
 | 50 | [Glue](https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp) | [SS Decontrol](https://open.spotify.com/artist/1fXszDYrqqb8nnasLNnG4a) | [Get It Away](https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ) | 1:18 |
 
-Snapshot ID: `MTY0MDU3OTU5NCwwMDAwMDAwMDZkZDhlNTI3N2UwYmE5YmJhNDdiNTJmNWQ4OTUxNGE1`
+Snapshot ID: `MTY0MDYwMjA2OSwwMDAwMDAwMDZkZDhlNTI3N2UwYmE5YmJhNDdiNTJmNWQ4OTUxNGE1`

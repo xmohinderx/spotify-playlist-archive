@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 
 > Get your day off to a cracking start!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,645 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,703 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 | 79 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 80 | [Love Songs](https://open.spotify.com/track/5WmPL0RQxooB4si6PuSkUi) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Love Songs](https://open.spotify.com/album/0I3jWk2OaJ6jjQt3bbJllg) | 3:15 |
 
-Snapshot ID: `MTY0MDU3OTYxOSwwMDAwMDAwMGY0ODVhMmM2MzY4MWYzMjExMTMxYTk1NDVjMTZmOWE5`
+Snapshot ID: `MTY0MDYwMjA5MywwMDAwMDAwMGY0ODVhMmM2MzY4MWYzMjExMTMxYTk1NDVjMTZmOWE5`

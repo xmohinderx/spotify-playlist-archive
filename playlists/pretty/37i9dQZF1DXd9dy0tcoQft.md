@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,967 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,966 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Love Language](https://open.spotify.com/track/6N3N0dbTQQM9rfJFLBswlp) | [Chandler Juliet](https://open.spotify.com/artist/4Lz09Oo9KaM0RsS1m7Et89) | [Love Language](https://open.spotify.com/album/6jZ92l2HWH2fS6fsidsSN0) | 3:25 |
 | 65 | [Seven Days of Rain](https://open.spotify.com/track/5P5r3OPbXUMZDMhHuOunv3) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [In Gold EP](https://open.spotify.com/album/49FBsPdTnhNXCeDnetUdmx) | 3:54 |
 
-Snapshot ID: `MTY0MDU3OTYzMywwMDAwMDAwMDNjNDhjNTI3M2Q3MTdmNmM4Y2NmMzhlODI5NjhiNGFm`
+Snapshot ID: `MTY0MDYwMjEwNywwMDAwMDAwMDNjNDhjNTI3M2Q3MTdmNmM4Y2NmMzhlODI5NjhiNGFm`

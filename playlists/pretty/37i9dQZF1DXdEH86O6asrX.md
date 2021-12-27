@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Los más cálidos soundtracks navideños para este temporada!
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,810 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,801 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [The Christmas Song \(From "Best Man Holiday"\)](https://open.spotify.com/track/0bIjreLxgy9HlOV6oLlL1h) | [Holiday Cinema Stars](https://open.spotify.com/artist/3dPfuoEXdydv9BP6teM2wO) | [Christmas at the Movies](https://open.spotify.com/album/73bb16uiMnVvropOWaOFCb) | 3:25 |
 | 50 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 |
 
-Snapshot ID: `MTY0MDU3OTYzNSwwMDAwMDAwMGEwYWExNDk5YzUyODRjNWZjNzJiYTQ0YjcxMDA3OWI2`
+Snapshot ID: `MTY0MDYwMjEwOSwwMDAwMDAwMGEwYWExNDk5YzUyODRjNWZjNzJiYTQ0YjcxMDA3OWI2`

@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Quixotic, Lucy In Disguise, Frankmusik and more
+> With TOKYO ROSE, Kat Von D, Stewart Lockwood and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

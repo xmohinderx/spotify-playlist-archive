@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,879 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,934 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 49 | [City Of Angels](https://open.spotify.com/track/4D7sweC53ikn2HrABdrvdm) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/0MQhAuIfU4XA2ujWwcYJqh) | 3:29 |
 | 50 | [When Your Heart Stops Beating](https://open.spotify.com/track/5ZNZUo9XYGFpax6jXZ0DIf) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/4F77DzCP9YCEKDzNgIOZ7v) | 3:12 |
 
-Snapshot ID: `MTY0MDU3OTYzMiwwMDAwMDAwMDAwMjZlNWQzMWRhYTVlZDIyMzE4MTE0NjNmYTdlYzE3`
+Snapshot ID: `MTY0MDYwMjEwNiwwMDAwMDAwMDAwMjZlNWQzMWRhYTVlZDIyMzE4MTE0NjNmYTdlYzE3`

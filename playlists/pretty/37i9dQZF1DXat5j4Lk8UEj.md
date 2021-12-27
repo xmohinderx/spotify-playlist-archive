@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > Dive into a mix of electric roots rock and folk\-infused alternative\. Cover: The Brook & The Bluff
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,247 likes - 120 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,251 likes - 120 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 119 | [The Storm](https://open.spotify.com/track/0HpS7acFdLHmLc1IFk1cTY) | [Michigan Rattlers](https://open.spotify.com/artist/6X28JIfV57XfgqBpdAML7E) | [That Kind of Life](https://open.spotify.com/album/776dKpykjwfek0RB4dKfhV) | 3:49 |
 | 120 | [Whatever, Wherever](https://open.spotify.com/track/2l70A11tCLtsC8fc3V4SWA) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Whatever, Wherever](https://open.spotify.com/album/7FDQQSA96gHWwhHHgu8ZHG) | 4:13 |
 
-Snapshot ID: `MTY0MDU3OTYwMywwMDAwMDAwMDMwOWQyNjAzODRjNGY3ZjdiMDYyOTBiYTVkZTAyMzdj`
+Snapshot ID: `MTY0MDYwMjA3OCwwMDAwMDAwMDMwOWQyNjAzODRjNGY3ZjdiMDYyOTBiYTVkZTAyMzdj`

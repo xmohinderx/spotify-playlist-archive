@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Where jazz meets electronic music\. Cover: Mark de Clive\-Lowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,914 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,915 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Blue to Red \- Photay Remix](https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0), [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Blue to Red \(Photay Remix\)](https://open.spotify.com/album/5be9qrv7DsQeUNDQmZgOwQ) | 6:22 |
 | 80 | [Tow](https://open.spotify.com/track/1cwzbWNRtunBskf8BmQfZv) | [M\-Swift](https://open.spotify.com/artist/7dCttz7xrkybpvjhBr82n4) | [Moving with The Changes](https://open.spotify.com/album/31upyPihhKMjvHeqhIUwwH) | 4:19 |
 
-Snapshot ID: `MTY0MDU3OTUxMCwwMDAwMDAwMGMwYTBlNjk4MDhkODAzN2UwOWRiMzJkY2Y4YmJiNjMy`
+Snapshot ID: `MTY0MDYwMTk4OSwwMDAwMDAwMGMwYTBlNjk4MDhkODAzN2UwOWRiMzJkY2Y4YmJiNjMy`

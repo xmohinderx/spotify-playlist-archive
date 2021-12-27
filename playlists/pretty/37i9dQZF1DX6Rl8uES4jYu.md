@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,251 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,257 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [GELATO](https://open.spotify.com/track/7ji06OHZz7VQeWwzeHIhgo) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD), [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ) | [GELATO](https://open.spotify.com/album/6dcBYyV5sygdrDkov86jvg) | 2:04 |
 | 80 | [Somebody Like Me \(feat\. Brasstracks\)](https://open.spotify.com/track/0MiywregjNJedadEvRcVDU) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Humphrey](https://open.spotify.com/album/0x6A6RLnaqf1L5YPmldoEF) | 3:08 |
 
-Snapshot ID: `MTY0MDU3OTUzOCwwMDAwMDAwMDMxMjYwOWZjYTQ1Yjc5NTg5YmJlNzYwYTk0MDNkNzc4`
+Snapshot ID: `MTY0MDYwMjAxNiwwMDAwMDAwMDMxMjYwOWZjYTQ1Yjc5NTg5YmJlNzYwYTk0MDNkNzc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,558,780 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,558,801 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Bleached Flamingo](https://open.spotify.com/track/7Auyn5OOY5uejUSqDGDc8e) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [Bleached Flamingo](https://open.spotify.com/album/6m6QXT3XI9APvoDsdOuyJk) | 4:32 |
 | 100 | [Dunes](https://open.spotify.com/track/7u6uE9g62XZPY5QVqjchBG) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Dunes](https://open.spotify.com/album/2fMnNvoza67FCacSuC840X) | 2:26 |
 
-Snapshot ID: `MTY0MDU3OTM4OSwwMDAwMDAwMGQ1NjBkYWY5YzMyZDBkOGZhZjM3NWU0Y2IxNjhlN2E4`
+Snapshot ID: `MTY0MDYwMTg3MiwwMDAwMDAwMGQ1NjBkYWY5YzMyZDBkOGZhZjM3NWU0Y2IxNjhlN2E4`

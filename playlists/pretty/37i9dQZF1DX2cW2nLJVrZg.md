@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > Nominees from the 93rd annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,441 likes - 32 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,440 likes - 32 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 31 | [Rust](https://open.spotify.com/track/0XTRYLKGS0Y9YghgzBXYVs) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Hillbilly Elegy \(Music from the Netflix Film\)](https://open.spotify.com/album/3B45f4sZTY8VC6slaW79Si) | 2:45 |
 | 32 | [Julia](https://open.spotify.com/track/6xHXVUdTrr78RXYaDsPCkV) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [The One and Only Ivan \(Original Soundtrack\)](https://open.spotify.com/album/0FHQxkiMUGGJ160ZMzBhnV) | 1:06 |
 
-Snapshot ID: `MTY0MDU3OTQ2OCwwMDAwMDAwMDI3M2JhOWVhMDg5NmFlMjg3MTQ2YzljMzc1ZDcwYTcx`
+Snapshot ID: `MTY0MDYwMTk0OSwwMDAwMDAwMDI3M2JhOWVhMDg5NmFlMjg3MTQ2YzljMzc1ZDcwYTcx`

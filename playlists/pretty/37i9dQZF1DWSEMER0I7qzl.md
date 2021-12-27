@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 
 > These songs will make you feel better\. Or maybe worse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,272 likes - 25 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,270 likes - 25 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 | 24 | [Big Girls Cry](https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:30 |
 | 25 | [I'm Gonna Show You Crazy](https://open.spotify.com/track/5LtNBCM2ve0SxP0dlRVvMu) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Gonna Show You Crazy](https://open.spotify.com/album/1jjRCEFt2eCfCNWHV7AtEk) | 3:27 |
 
-Snapshot ID: `MTY0MDU3OTMxNiwwMDAwMDAwMDFkZGFjMzhmYmFkNmJmOTE1NDM0MWM5NDg3YjQ1ZThi`
+Snapshot ID: `MTY0MDYwMTgwMywwMDAwMDAwMDFkZGFjMzhmYmFkNmJmOTE1NDM0MWM5NDg3YjQ1ZThi`

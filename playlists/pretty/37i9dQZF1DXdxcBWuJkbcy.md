@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,061,045 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,061,399 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Make Me Feel](https://open.spotify.com/track/7oOSflhUH2MonnByd9FGz3) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [SUD](https://open.spotify.com/artist/7ecUintnJKHsDyZT1qOPYZ) | [Make Me Feel](https://open.spotify.com/album/2WJhni8qoBSXGi717evnbg) | 2:37 |
 | 100 | [Make You Happy \(feat\. Richard Smitt\)](https://open.spotify.com/track/7ovQOFmGBExatsNcE5g0aR) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Richard Smitt](https://open.spotify.com/artist/1ZDET5tZjBIjNBb7WIqGTw) | [Make You Happy \(feat\. Richard Smitt\)](https://open.spotify.com/album/4snrHX42ra2nPnAukkGyZx) | 2:31 |
 
-Snapshot ID: `MTY0MDU3OTY0NSwwMDAwMDAwMGVkOTRmZGNhOTUwODY1YTkxNDQzMGFhZmQzZGUyMzAy`
+Snapshot ID: `MTY0MDYwMjExOSwwMDAwMDAwMGVkOTRmZGNhOTUwODY1YTkxNDQzMGFhZmQzZGUyMzAy`

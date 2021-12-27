@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,578 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,587 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 99 | [The Infinite Dreamer](https://open.spotify.com/track/0vDSUlXrkbGuaOFrBpur2e) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Café Dreamer](https://open.spotify.com/album/34kp6iILHhggrkYCnXg9sd) | 2:12 |
 | 100 | [St\. Petersburg](https://open.spotify.com/track/32Tf9tvthRjnSeIdkiCvIt) | [Maple Syrup](https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr) | [Vacation](https://open.spotify.com/album/3y03NPSfwXczpH777zHcI0) | 2:28 |
 
-Snapshot ID: `MTY0MDU3OTYzNSwwMDAwMDAwMDM0ZTI2NjE4YmM4NzYzOWIyM2JiZGZhYzlkZGRkZTBi`
+Snapshot ID: `MTY0MDYwMjEwOSwwMDAwMDAwMDM0ZTI2NjE4YmM4NzYzOWIyM2JiZGZhYzlkZGRkZTBi`

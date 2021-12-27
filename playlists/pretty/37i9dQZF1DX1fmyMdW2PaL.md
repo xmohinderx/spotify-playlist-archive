@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,899 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,918 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [Here Comes The Boom](https://open.spotify.com/track/77IT4xVnDLErYjtjKYUMOt) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/65g4iD7d3cwxfRdYamlPUr) | 4:11 |
 | 100 | [True Defeat](https://open.spotify.com/track/3soH2pzkZZ2WCG2J1qsh33) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [True Defeat](https://open.spotify.com/album/4uw11Sg2KKpzJ3Kbbh2HDQ) | 3:03 |
 
-Snapshot ID: `MTY0MDU3OTQ1MCwwMDAwMDAwMDA1MTFlYTk2NzgyNWE5N2JhZTU5ZTQxYTVkOGJjMTI4`
+Snapshot ID: `MTY0MDYwMTkzMSwwMDAwMDAwMDA1MTFlYTk2NzgyNWE5N2JhZTU5ZTQxYTVkOGJjMTI4`

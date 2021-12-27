@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise & shine with the perfect blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,406 likes - 90 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,412 likes - 90 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 89 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 |
 | 90 | [Heartbeats](https://open.spotify.com/track/2fi8X9Ma973SF22JbTZtHj) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/56ptUz8XTMSuQNxZaiz4P9) | 2:38 |
 
-Snapshot ID: `MTY0MDU3OTY0MSwwMDAwMDAwMGNiMWFmOTRiZWMxODdhYWU3MjE3NTFmMTY4Yzg3MDc5`
+Snapshot ID: `MTY0MDYwMjExNSwwMDAwMDAwMGNiMWFmOTRiZWMxODdhYWU3MjE3NTFmMTY4Yzg3MDc5`

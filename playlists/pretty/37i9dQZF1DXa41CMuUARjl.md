@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Michael Bibi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,806 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,832 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 49 | [Goodbye](https://open.spotify.com/track/1sQ0jXWxDUl5qBNRb38RYA) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Kocmo](https://open.spotify.com/artist/1FG6CtAkuEvBste6ySTyMO), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Goodbye](https://open.spotify.com/album/5xauUncS2YQFrH9N7OIefy) | 2:34 |
 | 50 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
 
-Snapshot ID: `MTY0MDU3OTU5MCwwMDAwMDAwMGJkZDkwMjVhYzg4ZjgyNmE0Y2UxNTZhN2NkYWNkM2Y3`
+Snapshot ID: `MTY0MDYwMjA2NSwwMDAwMDAwMGJkZDkwMjVhYzg4ZjgyNmE0Y2UxNTZhN2NkYWNkM2Y3`

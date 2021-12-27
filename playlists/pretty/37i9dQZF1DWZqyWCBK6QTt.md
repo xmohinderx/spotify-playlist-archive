@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zoe Wees, YUNGBLUD, and FLETCHER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,564 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,572 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Made to Fall in Love](https://open.spotify.com/track/67PfKFPREimYeu8UPAUVAK) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Spotify Singles](https://open.spotify.com/album/2AxOupTQ54kHBQkqTLT03M) | 4:53 |
 | 150 | [L\-O\-V\-E \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pSEkzXw62oVGkhqAwLe1u) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 2:51 |
 
-Snapshot ID: `MTY0MDU3OTQyMSwwMDAwMDAwMGRjMmQ5YWU4YjYyMzM1NmU3Y2UzYjI0NWZkZWNhYTgw`
+Snapshot ID: `MTY0MDYwMTkwMywwMDAwMDAwMGRjMmQ5YWU4YjYyMzM1NmU3Y2UzYjI0NWZkZWNhYTgw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,894 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,977 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Solace](https://open.spotify.com/track/5ERoUfNfwvNcFCnV0KH9Wu) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Textures](https://open.spotify.com/album/60phFMk7gOvMHD5Bro6qXg) | 4:50 |
 | 100 | [Never Look Back](https://open.spotify.com/track/2eWJ7zxXXSy69oJf5143Wm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Never Look Back](https://open.spotify.com/album/2rWwHs1pK0dg4eV9pudC3y) | 3:42 |
 
-Snapshot ID: `MTY0MDU3OTUzMywwMDAwMDAwMGJmZDJjODg4MjQxMGI0NWI3MGQ2OTMxNDhiZjkwNGU1`
+Snapshot ID: `MTY0MDYwMjAxMSwwMDAwMDAwMGJmZDJjODg4MjQxMGI0NWI3MGQ2OTMxNDhiZjkwNGU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: CHUNG HA\(청하\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,604 likes - 57 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,672 likes - 57 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [ONION \(feat\. Suk Hoon Chang\)](https://open.spotify.com/track/3Ivg8dodsNmteJwA8hyQge) | [MIN](https://open.spotify.com/artist/7bQyiBFr2PtSTJ6WFBJCOe), [Suk Hoon Chang](https://open.spotify.com/artist/3kR0K5YzUmjDHQbh3W8zaW) | [ONION](https://open.spotify.com/album/2OqY8Ykt2djgjzszye4ahM) | 3:42 |
 | 57 | [OOH\-AHH하게 Like OOH\-AHH](https://open.spotify.com/track/41r0BLWVIdo7CaKowcUDgM) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 3:35 |
 
-Snapshot ID: `MTY0MDU3OTMzOSwwMDAwMDAwMGMyMzI1NTZmZjgwM2U3OWYyYjRkZWEzZGE1MGExZTQ0`
+Snapshot ID: `MTY0MDYwMTgyNSwwMDAwMDAwMGMyMzI1NTZmZjgwM2U3OWYyYjRkZWEzZGE1MGExZTQ0`

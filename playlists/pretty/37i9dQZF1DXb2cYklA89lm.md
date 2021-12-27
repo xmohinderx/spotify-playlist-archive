@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,465 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,472 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Two\-Headed Shark](https://open.spotify.com/track/4YDoYqJLLfQej9esfKOMUA) | [The Buttertones](https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx) | [Gravedigging](https://open.spotify.com/album/17rPwDTozCphUe1mEFcKMd) | 1:52 |
 | 50 | [Sticks & Stones](https://open.spotify.com/track/6afQKJhKqdqTGomP1bbRT5) | [The Creepshow](https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt) | [Death at My Door](https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu) | 3:18 |
 
-Snapshot ID: `MTY0MDU3OTYwNSwwMDAwMDAwMDE2NTY3ZTJiNGFhYjM0Zjc3NDFlYmUwNWVlY2RlZDE3`
+Snapshot ID: `MTY0MDYwMjA4MCwwMDAwMDAwMDE2NTY3ZTJiNGFhYjM0Zjc3NDFlYmUwNWVlY2RlZDE3`

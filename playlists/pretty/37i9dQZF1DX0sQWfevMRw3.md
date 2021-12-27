@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Gå loss till Spotifys fetaste festlåtar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,021 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,024 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 79 | [No Super League](https://open.spotify.com/track/0IrS6f8lDKMEcwOf2FcCHQ) | [Badpojken](https://open.spotify.com/artist/4YNxH9hXMuqlvG7rLTtLa1) | [No Super League](https://open.spotify.com/album/3dB2oBoxvqTfRfLjQxeUuV) | 2:39 |
 | 80 | [Work That Body](https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Work That Body](https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h) | 2:45 |
 
-Snapshot ID: `MTY0MDU3OTQzOSwwMDAwMDAwMDU1ZDQzMGI5OTZiOTA5YjFiNGZkYWExMDIwNTJlOTRh`
+Snapshot ID: `MTY0MDYwMTkyMCwwMDAwMDAwMDU1ZDQzMGI5OTZiOTA5YjFiNGZkYWExMDIwNTJlOTRh`

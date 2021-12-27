@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,350 likes - 250 songs - 15 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,387 likes - 250 songs - 15 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 249 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 |
 | 250 | [Walking Home to You](https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 3:59 |
 
-Snapshot ID: `MTY0MDU3OTYyOCwwMDAwMDAwMGQxYzhmZDBkZGRmYzE5Njc4MDM5MmYyZTViZDA0OGJl`
+Snapshot ID: `MTY0MDYwMjEwMiwwMDAwMDAwMGQxYzhmZDBkZGRmYzE5Njc4MDM5MmYyZTViZDA0OGJl`

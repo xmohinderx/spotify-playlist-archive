@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > Because the best things in life are wild and free...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,477,849 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,842 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 99 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 |
 | 100 | [Broken Beak](https://open.spotify.com/track/60LZynkpOmC92Xme6qPZGU) | [Horse Feathers](https://open.spotify.com/artist/0lO2c86rQmrRJArBxgw0v8) | [Appreciation](https://open.spotify.com/album/4eRwyOY2zVwiLktraR9XJR) | 3:11 |
 
-Snapshot ID: `MTY0MDU3OTUyMCwwMDAwMDAwMDlhMGFlYTQwMGNhNzA4OWZkMTVhNTBkOTZjMTM5YmEy`
+Snapshot ID: `MTY0MDYwMTk5OCwwMDAwMDAwMDlhMGFlYTQwMGNhNzA4OWZkMTVhNTBkOTZjMTM5YmEy`

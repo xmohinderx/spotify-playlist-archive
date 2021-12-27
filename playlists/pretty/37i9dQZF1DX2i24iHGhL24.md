@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,761 likes - 199 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,799 likes - 199 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 198 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 |
 | 199 | [Someone You Loved](https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone You Loved](https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR) | 2:59 |
 
-Snapshot ID: `MTY0MDU3OTQ2OCwwMDAwMDAwMGY5MjhmYzY2YjViNmU1OGE3YTQwNjRhMTQ0N2UzNDVm`
+Snapshot ID: `MTY0MDYwMTk1MCwwMDAwMDAwMGY5MjhmYzY2YjViNmU1OGE3YTQwNjRhMTQ0N2UzNDVm`

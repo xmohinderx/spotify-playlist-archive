@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 
 > Get your gaming session going with this epic rap mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,178 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,220 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 | 99 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
 | 100 | [Rich Rich](https://open.spotify.com/track/4edV6rg1hj1SsTIrcEMPvi) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Rich Rich](https://open.spotify.com/album/0EwBs9i9DBzculzzZE71Fe) | 2:19 |
 
-Snapshot ID: `MTY0MDU3OTU0MiwwMDAwMDAwMGU1NGQxODM1ZDhiZThhYzM3M2YxMmI0NWI4NGM5MTdk`
+Snapshot ID: `MTY0MDYwMjAyMCwwMDAwMDAwMGU1NGQxODM1ZDhiZThhYzM3M2YxMmI0NWI4NGM5MTdk`

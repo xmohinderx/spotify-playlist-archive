@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Enola Gay
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,856 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,872 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Unsmart Lady](https://open.spotify.com/track/1D9OstlmYwAZx1PwJaxEkD) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Unsmart Lady](https://open.spotify.com/album/7n7PakgHzZGYxBLdB05cTw) | 3:02 |
 | 55 | [Concrete](https://open.spotify.com/track/6X7H3JTAUGAL1rSwohnPBX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3A1kutvBmC6czSsSv7aR5E) | 3:34 |
 
-Snapshot ID: `MTY0MDU3OTQxMCwwMDAwMDAwMGI1MDc5Nzk0NjQzYjQyNmYyNmM1YTE1YTVhNjIyYjI0`
+Snapshot ID: `MTY0MDYwMTg5MywwMDAwMDAwMGI1MDc5Nzk0NjQzYjQyNmYyNmM1YTE1YTVhNjIyYjI0`

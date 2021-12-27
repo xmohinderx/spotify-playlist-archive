@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,655 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,675 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [Unbreakable](https://open.spotify.com/track/3UbIhHCEYbH7ayc76IB0Q9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Unbreakable](https://open.spotify.com/album/6P400jhSwhdmFywQZvXFBM) | 3:08 |
 | 50 | [Scared of U.S.](https://open.spotify.com/track/5x43hjmxJ9GyqilldvckvB) | [Debt Neglector](https://open.spotify.com/artist/5iXimMVoa51dBLLTe725mV) | [The Kids Are Pissed](https://open.spotify.com/album/4vIls0VJSEl9fyBQJvBtng) | 3:06 |
 
-Snapshot ID: `MTY0MDU3OTQ1NywwMDAwMDAwMGViZDVkOTExYTY4NDVmNGY3OTZmNThhZTgxMzMzNWUy`
+Snapshot ID: `MTY0MDYwMTkzOSwwMDAwMDAwMGViZDVkOTExYTY4NDVmNGY3OTZmNThhZTgxMzMzNWUy`

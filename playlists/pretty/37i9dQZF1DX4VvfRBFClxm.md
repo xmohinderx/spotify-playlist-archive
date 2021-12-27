@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Vance Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439,090 likes - 110 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,439,125 likes - 110 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 109 | [Where's My Love](https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 3:22 |
 | 110 | [Passionfruit](https://open.spotify.com/track/12qeIqye3tBZN6xGJpq9q8) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Passionfruit](https://open.spotify.com/album/2101GNSGE1NjBwGApOV64Q) | 3:32 |
 
-Snapshot ID: `MTY0MDU3OTQ5NywwMDAwMDAwMDk2ZGQ1ODJhM2M0OWE2ZWU1NzJhNGZhMWFjZTcxYTUz`
+Snapshot ID: `MTY0MDYwMTk3NywwMDAwMDAwMDk2ZGQ1ODJhM2M0OWE2ZWU1NzJhNGZhMWFjZTcxYTUz`

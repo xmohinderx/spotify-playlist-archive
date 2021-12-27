@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,233 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,231 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Neverland](https://open.spotify.com/track/4i74xaJ4ryjSNRnwQiwlHY) | [No Treasure](https://open.spotify.com/artist/66GofoGxQ1OAlCvfPRI90x), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Neverland](https://open.spotify.com/album/6ILICHcoO9TA12sU0GzsQO) | 2:40 |
 | 60 | [Lose My Mind](https://open.spotify.com/track/2LWFPBG7hlEpMy2b2LUu5A) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Lose My Mind](https://open.spotify.com/album/2BrxPQma5BEjt6Vd8usUS9) | 2:31 |
 
-Snapshot ID: `MTY0MDU3OTQyMywwMDAwMDAwMGIwMWRjODRjOTc3NGViY2FhYjA3MzExYjMxMTYyMTUz`
+Snapshot ID: `MTY0MDYwMTkwNSwwMDAwMDAwMGIwMWRjODRjOTc3NGViY2FhYjA3MzExYjMxMTYyMTUz`

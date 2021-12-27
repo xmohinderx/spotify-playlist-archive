@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,225 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,227 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [sunset lovers 해가 지잖아](https://open.spotify.com/track/3PE4VOm1EmKh4Y3t37Eo54) | [Sugarbowl](https://open.spotify.com/artist/0SzEYg3WelMs62HakSDhPH) | [lovers 2/6](https://open.spotify.com/album/7EJ7qJldmSfM8bF03DDq2j) | 3:31 |
 | 50 | [zZ\(Tired\) zZ\(피곤해\) \(With Yebit\)](https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc) | [YouSungYoon 유성윤](https://open.spotify.com/artist/6zZjlVlFWAXNSPcrbIvXbB), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/2gEpwi8neJlZxWz9LxhpPd) | 3:47 |
 
-Snapshot ID: `MTY0MDU3OTQ1NSwwMDAwMDAwMDE3MWY4ZTkzYjJlMzQ1YjA5Y2Q4Mzk4Njc1ZDFmYjAz`
+Snapshot ID: `MTY0MDYwMTkzNywwMDAwMDAwMDE3MWY4ZTkzYjJlMzQ1YjA5Y2Q4Mzk4Njc1ZDFmYjAz`

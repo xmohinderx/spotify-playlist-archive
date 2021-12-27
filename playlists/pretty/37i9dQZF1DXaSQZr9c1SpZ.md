@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSQZr9c1SpZ.md) - [plain]
 
 > The best of Bon Iver, and a bit more of founder Justin Vernon's other projects.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,716 likes - 43 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,742 likes - 43 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSQZr9c1SpZ.md) - [plain]
 | 42 | [We](https://open.spotify.com/track/1D0JZaZh2rjrZXv5pxFoUD) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [We](https://open.spotify.com/album/0c3Jxsi5WxIco9sBidSZLz) | 2:22 |
 | 43 | [Beth/Rest](https://open.spotify.com/track/0BWaLzdLiiDEhYfw9Of3Gr) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs) | 5:16 |
 
-Snapshot ID: `MTY0MDU3OTU5NywwMDAwMDAwMGFiOWQyMWFmM2M1YjU1NGRlOTZlYTZhZmMyYmIyNzIy`
+Snapshot ID: `MTY0MDYwMjA3MiwwMDAwMDAwMGFiOWQyMWFmM2M1YjU1NGRlOTZlYTZhZmMyYmIyNzIy`

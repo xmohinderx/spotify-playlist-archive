@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,997,719 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,997,761 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [Dancing On My Own](https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own](https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga) | 4:20 |
 | 100 | [Hurts Like Hell \- Acoustic Live](https://open.spotify.com/track/3WbwBEgBHJrdAliLv4BSAf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Hurts Like Hell \(Acoustic Live\)](https://open.spotify.com/album/0kFfjOnU4rKczpWjMQhsRd) | 2:57 |
 
-Snapshot ID: `MTY0MDU3OTYxNiwwMDAwMDAwMGNiZmJmMGQwMzBkMjBhNzcxOTk3ODE5YmQ0ZmE5ZGY5`
+Snapshot ID: `MTY0MDYwMjA5MCwwMDAwMDAwMGNiZmJmMGQwMzBkMjBhNzcxOTk3ODE5YmQ0ZmE5ZGY5`

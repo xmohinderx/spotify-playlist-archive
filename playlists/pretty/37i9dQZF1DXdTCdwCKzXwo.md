@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Classic alternative\. These early pioneers brought the underground to the foreground\. Cover: Lou Reed
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,390 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,529 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 75 | [Pretty in Pink](https://open.spotify.com/track/1Cl1J4Ai7NkuhLdaDHthTh) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [The Psychedelic Furs Superhits](https://open.spotify.com/album/4sdhLZRcO9DQmrs889H0tl) | 3:59 |
 
-Snapshot ID: `MTY0MDU3OTYzOCwwMDAwMDAwMDBjNTU3NzM3NzYyZThlNmY2ZmFjOGFlYzAwMDQ0YjAy`
+Snapshot ID: `MTY0MDYwMjExMiwwMDAwMDAwMDBjNTU3NzM3NzYyZThlNmY2ZmFjOGFlYzAwMDQ0YjAy`

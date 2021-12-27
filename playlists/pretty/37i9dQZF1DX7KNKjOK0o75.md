@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 
 > Feel great with these timelessly fun songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,112,104 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,112,098 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 | 79 | [Jessie's Girl](https://open.spotify.com/track/0TF3F5Lw5apoD1zvR8LikO) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [The Best Of Rick Springfield](https://open.spotify.com/album/7bVG2FiRaUwDyzlOFxVX9i) | 3:12 |
 | 80 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
 
-Snapshot ID: `MTY0MDU3OTU1MSwwMDAwMDAwMGRjMTQ4OWM3NjBmYjgyNDVjMmY1YTFmODBjY2NjNWEy`
+Snapshot ID: `MTY0MDYwMjAyOSwwMDAwMDAwMGRjMTQ4OWM3NjBmYjgyNDVjMmY1YTFmODBjY2NjNWEy`

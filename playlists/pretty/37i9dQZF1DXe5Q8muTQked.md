@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with a mix of covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,758 likes - 250 songs - 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,788 likes - 250 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 | 249 | [Don't Dream It's Over](https://open.spotify.com/track/3fRMhYmj4LTX6qh0SiBq0w) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [I Give It A Year \(Original Soundtrack\)](https://open.spotify.com/album/6lgf17LyB0S78u40c2WEMo) | 3:42 |
 | 250 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 |
 
-Snapshot ID: `MTY0MDU3OTY0NiwwMDAwMDAwMDk4NWZkMTA2ODg0OTE2OTI2ODg1NTc0YmIzYzM1MDIz`
+Snapshot ID: `MTY0MDYwMjEyMCwwMDAwMDAwMDk4NWZkMTA2ODg0OTE2OTI2ODg1NTc0YmIzYzM1MDIz`

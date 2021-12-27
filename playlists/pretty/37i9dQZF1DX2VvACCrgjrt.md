@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Wenzday
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,355 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,387 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 99 | [Take It Off](https://open.spotify.com/track/4fA42eD8kLaTFipNqHPy7S) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Take It Off](https://open.spotify.com/album/3SBO8m8bECaZIod2JiIzse) | 3:40 |
 | 100 | [Lose Control \(feat\. Purple Velvet Curtains\)](https://open.spotify.com/track/3mgIfqJfJrwMwMKVyd0H4Q) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Lose Control \(feat\. Purple Velvet Curtains\)](https://open.spotify.com/album/6DOLeLC5KNWml0o702y1MX) | 3:20 |
 
-Snapshot ID: `MTY0MDU3OTQ2NywwMDAwMDAwMDA0NGUxMWFmYjFiNmFhZGU4MTBkZGRmNjdkNjJlYjBi`
+Snapshot ID: `MTY0MDYwMTk0OCwwMDAwMDAwMDA0NGUxMWFmYjFiNmFhZGU4MTBkZGRmNjdkNjJlYjBi`

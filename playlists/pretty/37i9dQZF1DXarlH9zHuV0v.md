@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,924 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,914 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Creeping Death](https://open.spotify.com/track/3LM41UarpHPJkUZ7rVbbGx) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning](https://open.spotify.com/album/7a1dlwArQK6OCHkr2SNlZR) | 6:35 |
 | 60 | [Jack the Ripper](https://open.spotify.com/track/0r7DoETSotkN7yln8GW6ei) | [Rob Kelly](https://open.spotify.com/artist/6RkG8owckWkmNWkMlzNujI) | [Kel Terriblé](https://open.spotify.com/album/2LQ5Eam9TaEdPmwttVxLQv) | 3:55 |
 
-Snapshot ID: `MTY0MDU3OTYwMywwMDAwMDAwMDJlNzQyZGY5ZTU0NzJjYTc5NjVhZGNmZTU1N2IzNTM0`
+Snapshot ID: `MTY0MDYwMjA3OCwwMDAwMDAwMDJlNzQyZGY5ZTU0NzJjYTc5NjVhZGNmZTU1N2IzNTM0`

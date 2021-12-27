@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bSrsRWE9cd.md) - [plain]
 
 > That special feeling of being calm, happy and relaxed at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,942 likes - 76 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,956 likes - 76 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bSrsRWE9cd.md) - [plain]
 | 75 | [Abraham](https://open.spotify.com/track/4YpfqCRwb3ttShlTNaB2jU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:33 |
 | 76 | [Us \- Acoustic](https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Us \(Acoustic\)](https://open.spotify.com/album/4RZ3Ux3PeYeKXXH8MuEuu4) | 3:55 |
 
-Snapshot ID: `MTY0MDU3OTUwMSwwMDAwMDAwMDI4MzBkNjg5YTYzMWMwOGNhNGEyN2UxNmUxMTlhM2Ey`
+Snapshot ID: `MTY0MDYwMTk4MCwwMDAwMDAwMDI4MzBkNjg5YTYzMWMwOGNhNGEyN2UxNmUxMTlhM2Ey`

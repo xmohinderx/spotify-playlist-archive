@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 
 > Get into the inspired sounds of <a href="spotify:artist:2kGBy2WHvF0VdZyqiVCkDT">Father John Misty</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,256 likes - 27 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,261 likes - 27 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 | 26 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 |
 | 27 | [Disappointing Diamonds Are the Rarest of Them All](https://open.spotify.com/track/6KE79I3kBS6ci5ioDhSi6U) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Disappointing Diamonds Are the Rarest of Them All / Just Dumb Enough to Try](https://open.spotify.com/album/1djJva9yAucJBNCaAthjbq) | 2:23 |
 
-Snapshot ID: `MTY0MDU3OTQ4MywwMDAwMDAwMDkzNzQxNGMxZGE2MjJkOTc3MmZkOGRhMjUxNjBkYzcx`
+Snapshot ID: `MTY0MDYwMTk2MywwMDAwMDAwMDkzNzQxNGMxZGE2MjJkOTc3MmZkOGRhMjUxNjBkYzcx`

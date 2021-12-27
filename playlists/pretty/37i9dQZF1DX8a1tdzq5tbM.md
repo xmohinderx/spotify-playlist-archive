@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance radio</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,507 likes - 120 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,552 likes - 120 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Medicine](https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9) | [Kim Leoni](https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b) | [Medicine](https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey) | 2:49 |
 | 120 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |
 
-Snapshot ID: `MTY0MDU3OTU2OCwwMDAwMDAwMGFjYWE1YjdmMjU3NzFjYjc0ZmM3ODE0MmYwMzM3Yzg3`
+Snapshot ID: `MTY0MDYwMjA0NSwwMDAwMDAwMGFjYWE1YjdmMjU3NzFjYjc0ZmM3ODE0MmYwMzM3Yzg3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > The sound of a g\-g\-generation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,987 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,141 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 69 | [Numb](https://open.spotify.com/track/1y1sChqjzdNWzwdHQADMrR) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:05 |
 | 70 | [Giving In](https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 4:34 |
 
-Snapshot ID: `MTY0MDU3OTYyOCwwMDAwMDAwMGYzOTU1OTE1YzhlOGJkNzUxMzg5M2U0NjM4N2MyZTY1`
+Snapshot ID: `MTY0MDYwMjEwMiwwMDAwMDAwMGYzOTU1OTE1YzhlOGJkNzUxMzg5M2U0NjM4N2MyZTY1`

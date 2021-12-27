@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > The freshest smooth jazz\. Cover: Ragan Whiteside
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,062 likes - 80 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,064 likes - 80 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 79 | [Staycation](https://open.spotify.com/track/3Q5OzOo58pfmgTxKMC09yr) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Staycation](https://open.spotify.com/album/4eCkaluFRTjSVobSvFgtYF) | 3:58 |
 | 80 | [Black Dynamite](https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Supreme](https://open.spotify.com/album/3dDSsMBL45SOBJp8MQ0t0f) | 4:32 |
 
-Snapshot ID: `MTY0MDU3OTMzMywwMDAwMDAwMDNlYjdkYTIzNDk1Mjk1YmNiZGMwN2IwMmExODk5Njlm`
+Snapshot ID: `MTY0MDYwMTgxOSwwMDAwMDAwMDNlYjdkYTIzNDk1Mjk1YmNiZGMwN2IwMmExODk5Njlm`

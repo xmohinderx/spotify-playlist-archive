@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,977 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,983 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 85 | [Kaksi](https://open.spotify.com/track/6htL2c5qW0IhL6QgCawXsK) | [Ukkonen](https://open.spotify.com/artist/7gAih0l51IrX04F2wKSR4L) | [Erriapo](https://open.spotify.com/album/25kRg1Ggrgm1mw5i5C17k8) | 6:59 |
 | 86 | [Another Day \(revised\)](https://open.spotify.com/track/114gL99tniO1ocR4gyukNX) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/0cN366vmPQoH0cepgK7CUZ) | 4:21 |
 
-Snapshot ID: `MTY0MDU3OTQ5NiwwMDAwMDAwMDE4ZGNiOGNmY2U5NWY3MzFhZmU3MjJlYjdmMWFmMzQw`
+Snapshot ID: `MTY0MDYwMTk3NiwwMDAwMDAwMDE4ZGNiOGNmY2U5NWY3MzFhZmU3MjJlYjdmMWFmMzQw`

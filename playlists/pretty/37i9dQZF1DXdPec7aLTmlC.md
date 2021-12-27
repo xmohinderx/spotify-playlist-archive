@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 
 > Hits to boost your mood and fill you with happiness!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,713,873 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,713,930 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 | 99 | [Goliath](https://open.spotify.com/track/0z4kyKuFGmUV7WQ7gB1sAp) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Goliath](https://open.spotify.com/album/1RulE9WvxRuGh3S7X2Koyk) | 3:24 |
 | 100 | [YES](https://open.spotify.com/track/1nAvS4GbkxR7iISU5ZfLPf) | [BEN & TAN](https://open.spotify.com/artist/5UECxOkeFG2n9ESNADgASX) | [YES](https://open.spotify.com/album/1vnimcmYr8jeS19ElmGfeo) | 3:00 |
 
-Snapshot ID: `MTY0MDU3OTYzNywwMDAwMDAwMDJhNzJiZmY1NmFlZWZlMTFlZDQwNTg3MzQwODViMjky`
+Snapshot ID: `MTY0MDYwMjExMSwwMDAwMDAwMDJhNzJiZmY1NmFlZWZlMTFlZDQwNTg3MzQwODViMjky`

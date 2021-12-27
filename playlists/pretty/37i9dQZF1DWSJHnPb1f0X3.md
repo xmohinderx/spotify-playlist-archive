@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,408,718 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,408,816 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [42](https://open.spotify.com/track/0iZQWpC1y8TOgTXnlSLUai) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Say It Like You Feel It](https://open.spotify.com/album/0Y24lHaBzmJFT613svjsex) | 2:48 |
 | 100 | [This Feeling](https://open.spotify.com/track/2bYfO0qhqwtrhbmxeLnVMF) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Always Never](https://open.spotify.com/artist/0iiDqBBNToKJG4YoyESrBf) | [This Feeling](https://open.spotify.com/album/0V4RAZGwhntbNp4KgPskpA) | 2:12 |
 
-Snapshot ID: `MTY0MDU3OTMxNywwMDAwMDAwMGM3NTk0NzY5MzZkMDBjODcwZTk1MWE4N2E5YjZkMWU3`
+Snapshot ID: `MTY0MDYwMTgwMywwMDAwMDAwMGM3NTk0NzY5MzZkMDBjODcwZTk1MWE4N2E5YjZkMWU3`

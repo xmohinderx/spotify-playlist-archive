@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,804 likes - 80 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,850 likes - 80 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Don't You Want Me \- Extended Dance Mix / 2012 Remaster](https://open.spotify.com/track/1UXYBgzn0vmDAG6NimtPLY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare/Fascination! \(2012 \- Remaster\)](https://open.spotify.com/album/410corLJsB6WHRWedbo4wg) | 7:31 |
 | 80 | [Sometimes \- 12'' Mix](https://open.spotify.com/track/6lCToVvD5FikFmq0UmYj0v) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Original Hits \- 80s 12''](https://open.spotify.com/album/0hJxbR0OF38xO0qyYlOAV1) | 5:16 |
 
-Snapshot ID: `MTY0MDU3OTYxMCwwMDAwMDAwMDViNjc4NGM2MWYwNTVjMmNiZjNkYThmMWRlNGFiNTZj`
+Snapshot ID: `MTY0MDYwMjA4NSwwMDAwMDAwMDViNjc4NGM2MWYwNTVjMmNiZjNkYThmMWRlNGFiNTZj`

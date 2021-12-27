@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,424 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,439 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 99 | [Drip](https://open.spotify.com/track/5ZFslOkcftI1FCs88L99qn) | [Lukid](https://open.spotify.com/artist/3a2bPqijV6I1SBKKK9ikMg) | [Drip](https://open.spotify.com/album/45Tt8vVolyhmc1IeLxwmMn) | 6:40 |
 | 100 | [We](https://open.spotify.com/track/0a0PxP0MTm9bsNOw7kdi7K) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [We](https://open.spotify.com/album/0P8Ta4XNkltDQV3Pe0Kbuv) | 5:29 |
 
-Snapshot ID: `MTY0MDU3OTM1NCwwMDAwMDAwMDg1OTQ0ODI1MjZlZDVkNWJhODJlYTRmZGIwYWRmMDYy`
+Snapshot ID: `MTY0MDYwMTgzOSwwMDAwMDAwMDg1OTQ0ODI1MjZlZDVkNWJhODJlYTRmZGIwYWRmMDYy`

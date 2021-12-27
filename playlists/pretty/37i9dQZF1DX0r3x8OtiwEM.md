@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,810 likes - 60 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,869 likes - 60 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Under Dark \- Innellea Remix](https://open.spotify.com/track/5nHc8CmiPllMzHbJhhx3KS) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Under Dark \(Innellea Remix\)](https://open.spotify.com/album/73M7uXFpI1ftn1cS2RZjfO) | 6:45 |
 | 60 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
 
-Snapshot ID: `MTY0MDU3OTQzOCwwMDAwMDAwMDUzNjkxZjNiNmE5MzA3OTJkOTAyNzU1Mzg2Mjg4MmY2`
+Snapshot ID: `MTY0MDYwMTkyMCwwMDAwMDAwMDUzNjkxZjNiNmE5MzA3OTJkOTAyNzU1Mzg2Mjg4MmY2`

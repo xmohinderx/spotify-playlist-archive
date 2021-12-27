@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,071 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,098 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [All In](https://open.spotify.com/track/0l9YBP7JamNkWdm9uTF0HX) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/5oGhtfRrxbMxbGIfCeOgwW) | 3:31 |
 | 100 | [Make Room](https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 5:40 |
 
-Snapshot ID: `MTY0MDU3OTYxMSwwMDAwMDAwMGQwNzc3YmYwYzIwMzI3YzJlYjU0NjVlNGM1YzA5Y2Ew`
+Snapshot ID: `MTY0MDYwMjA4NSwwMDAwMDAwMGQwNzc3YmYwYzIwMzI3YzJlYjU0NjVlNGM1YzA5Y2Ew`

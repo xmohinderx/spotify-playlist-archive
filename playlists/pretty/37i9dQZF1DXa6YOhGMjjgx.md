@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > This is the best of today's true alternative rock scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,931 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,958 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 149 | [Me.TV \(feat\. Bobby Gillespie\)](https://open.spotify.com/track/7aIEOtCR4HhoDreA6syizW) | [Never Not Nothing](https://open.spotify.com/artist/5tSGiNtq3vtp0dkqEefuDC), [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o) | [Me.TV \(feat\. Bobby Gillespie\)](https://open.spotify.com/album/3mrpnZpsLBfvQfry8QDw27) | 3:34 |
 | 150 | [Ghost](https://open.spotify.com/track/3r1nwFFe5Vk7y5eYvmh2Kh) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Ghost](https://open.spotify.com/album/6Bthd1sqnKm77fogRdGgxa) | 4:19 |
 
-Snapshot ID: `MTY0MDU3OTU5MSwwMDAwMDAwMDE3ZTBkYjA2YmM2NDZiMWU1YjViNWUyYmMzNmYzMWEy`
+Snapshot ID: `MTY0MDYwMjA2NywwMDAwMDAwMDE3ZTBkYjA2YmM2NDZiMWU1YjViNWUyYmMzNmYzMWEy`

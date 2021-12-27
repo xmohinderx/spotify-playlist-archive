@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Relaxing sounds of modern jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,504 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,511 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Psalm](https://open.spotify.com/track/2VvQcH8wowZ1ik70hdUcfF) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:10 |
 | 100 | [From Birth](https://open.spotify.com/track/36UStFErscz4HacHTR6I04) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 2:44 |
 
-Snapshot ID: `MTY0MDU3OTQzNCwwMDAwMDAwMGZkNWZmNjc0ZGE2ODViZTNhYTE3NzIzZGVhOTdkNDA2`
+Snapshot ID: `MTY0MDYwMTkxNiwwMDAwMDAwMGZkNWZmNjc0ZGE2ODViZTNhYTE3NzIzZGVhOTdkNDA2`

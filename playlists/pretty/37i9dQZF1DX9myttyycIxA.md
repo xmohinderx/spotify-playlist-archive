@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Hana Vu
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,884 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,906 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [I hope that u think of me](https://open.spotify.com/track/6z2EwIB2wTLdXJZ6LdYAPm) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I hope that you think of me](https://open.spotify.com/album/1V4vQajofq6f3vlSQBziJa) | 2:08 |
 | 100 | [Real Pain](https://open.spotify.com/track/0vqpshPaEpF3BKnUuvrVEf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Real Pain](https://open.spotify.com/album/18FnwNR5eZ5RF1jRFnM7IB) | 4:50 |
 
-Snapshot ID: `MTY0MDU3OTU4NCwwMDAwMDAwMDg5ZDEzNGRkY2U3YTMwNGMxOWNiNGVlZDE2YTE3OTQx`
+Snapshot ID: `MTY0MDYwMjA2MCwwMDAwMDAwMDg5ZDEzNGRkY2U3YTMwNGMxOWNiNGVlZDE2YTE3OTQx`

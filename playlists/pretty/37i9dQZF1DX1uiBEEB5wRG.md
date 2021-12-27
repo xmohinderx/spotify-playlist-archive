@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uiBEEB5wRG.md) - [plain]
 
 > Piano arrangements that help you to discover new nuances and sonorities in orchestral and chamber music masterpieces\. Similar playlists: <a href="spotify:user:spotify:playlist:37i9dQZF1DWT5I7N7jmTai">Liszt Transcriptions</a> & <a href="spotify:user:spotify:playlist:37i9dQZF1DWWQxllNWdnsR">Orchestral Transcriptions</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,284 likes - 50 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,285 likes - 50 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

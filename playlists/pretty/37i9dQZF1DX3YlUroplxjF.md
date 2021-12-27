@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,889 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,901 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Home](https://open.spotify.com/track/6ezhJGLa2MbdLST8vZKa0p) | [Secret Eyes](https://open.spotify.com/artist/6pcymMubKlBFQ1H7gXzYmL) | [Home](https://open.spotify.com/album/5akNaO4UHd1s7oe5I5RzcJ) | 3:18 |
 | 100 | [Hallelujah](https://open.spotify.com/track/5S1Tly4ov5kWsJLt73lCUD) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Hallelujah](https://open.spotify.com/album/6oHrvAdPdbYUW6PVR1zngr) | 3:01 |
 
-Snapshot ID: `MTY0MDU3OTQ4NCwwMDAwMDAwMDY4YjI5MGExYWQ2MjJiYmI1ZThiMzA5MDA4YzAxNTI5`
+Snapshot ID: `MTY0MDYwMTk2NCwwMDAwMDAwMDY4YjI5MGExYWQ2MjJiYmI1ZThiMzA5MDA4YzAxNTI5`

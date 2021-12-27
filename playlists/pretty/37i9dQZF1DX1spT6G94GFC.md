@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 
 > These songs rocked the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142,130 likes - 80 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,142,317 likes - 80 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 79 | [Personal Jesus \- 2006 Remaster](https://open.spotify.com/track/7dhM0KUBxuZV9z5iNodLyn) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:54 |
 | 80 | [Working for the Weekend](https://open.spotify.com/track/0sgDEFq9oeC8ueOK0mR5IA) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [We Are The '80s](https://open.spotify.com/album/5NwluvA7kQLbxKOtXqkY1m) | 3:40 |
 
-Snapshot ID: `MTY0MDU3OTQ1NCwwMDAwMDAwMDUxMDNhNzc2N2YwNjg1NDM1MTA4YmYyMmMxNWE4ZWU0`
+Snapshot ID: `MTY0MDYwMTkzNSwwMDAwMDAwMDUxMDNhNzc2N2YwNjg1NDM1MTA4YmYyMmMxNWE4ZWU0`

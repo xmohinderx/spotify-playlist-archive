@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,410 likes - 140 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,445 likes - 140 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [We Stand as One](https://open.spotify.com/track/3L8Bjiv40wAcxxmRrXUOwq) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Witch of the North](https://open.spotify.com/album/1P6qVXbuLcqJrVZpwoPGkX) | 5:11 |
 | 140 | [The Reckoning](https://open.spotify.com/track/6WUgfVk8ls7zPs3O49y7Cx) | [Laurenne / Louhimo](https://open.spotify.com/artist/5pmtBo3993oBwmOMFSUBpf) | [The Reckoning](https://open.spotify.com/album/10aLPuLNKn9L4oWUD42m5v) | 2:56 |
 
-Snapshot ID: `MTY0MDU3OTU4NSwwMDAwMDAwMDRjNGFiNWQ3YjE5M2RhNDUwODdlZjYyZjAzNWFkOWQw`
+Snapshot ID: `MTY0MDYwMjA2MSwwMDAwMDAwMDRjNGFiNWQ3YjE5M2RhNDUwODdlZjYyZjAzNWFkOWQw`

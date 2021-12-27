@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Meryl Streep, Charlie Puth, 5 Seconds of Summer and more
+> With Adele, Noah Cyrus, Ruth B., Sara Bareilles and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

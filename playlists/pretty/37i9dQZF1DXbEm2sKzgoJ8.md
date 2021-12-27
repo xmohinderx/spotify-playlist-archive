@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,223 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,325 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 74 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 |
 | 75 | [in my head](https://open.spotify.com/track/4KNyf2UaWSyqQtsutwwoch) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [in my head](https://open.spotify.com/album/6OoUTCimsfbH6YSQGo5lFA) | 3:08 |
 
-Snapshot ID: `MTY0MDU3OTYwOSwwMDAwMDAwMDEzMTMyYWQ4NWE5NzdjYTAwNTFjNjQxZDE4NDViYTc1`
+Snapshot ID: `MTY0MDYwMjA4MywwMDAwMDAwMDEzMTMyYWQ4NWE5NzdjYTAwNTFjNjQxZDE4NDViYTc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,353,228 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,353,277 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 119 | [Leave It All Behind](https://open.spotify.com/track/6nMNpGl4VvMhtYigbbOmBu) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Leave It All Behind](https://open.spotify.com/album/76qwO2cPiwixGhfBnoGZFE) | 3:18 |
 | 120 | [Wash It All Away](https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:44 |
 
-Snapshot ID: `MTY0MDU3OTY0NywwMDAwMDAwMDQ2OWJkMzAxYThjMGRlNGM1MzVlZDBjNjlmOGUzMzZi`
+Snapshot ID: `MTY0MDYwMjEyMSwwMDAwMDAwMDQ2OWJkMzAxYThjMGRlNGM1MzVlZDBjNjlmOGUzMzZi`

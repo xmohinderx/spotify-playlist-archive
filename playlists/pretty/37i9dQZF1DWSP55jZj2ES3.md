@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > grab a blanket and get the good vibes going
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,546 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,595 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 49 | [Space Song](https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:20 |
 | 50 | [Palace/Curse \(feat\. Steve Lacy, feat\. Tyler, The Creator, feat\. Tyler, The Creator & Steve Lacy\)](https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 7:20 |
 
-Snapshot ID: `MTY0MDU3OTMxOSwwMDAwMDAwMDM0OTk0MzE5YWQ1MzEwZjA5ZWM3NWMwNzA4ZDU3MGQ5`
+Snapshot ID: `MTY0MDYwMTgwNiwwMDAwMDAwMDM0OTk0MzE5YWQ1MzEwZjA5ZWM3NWMwNzA4ZDU3MGQ5`

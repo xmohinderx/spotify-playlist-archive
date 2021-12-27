@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: serpentwithfeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,109 likes - 74 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,113 likes - 74 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 73 | [Love me for me](https://open.spotify.com/track/73MmbnDCRABCDJUcyWi6b1) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3) | [Love me for me](https://open.spotify.com/album/1DlHUjJEhDHAU3oWbTPzXf) | 3:29 |
 | 74 | [Enough of You](https://open.spotify.com/track/0laVxLujsbSTA0wwyXN8hK) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Enough of You](https://open.spotify.com/album/5RDGr2RFL0FmyMxZudo6Ww) | 2:30 |
 
-Snapshot ID: `MTY0MDU3OTQ4MCwwMDAwMDAwMDNiNjM2MGNlZTY3YjVhMWI5YWQyNjMzNzU4ODM2NGQ1`
+Snapshot ID: `MTY0MDYwMTk2MCwwMDAwMDAwMDNiNjM2MGNlZTY3YjVhMWI5YWQyNjMzNzU4ODM2NGQ1`

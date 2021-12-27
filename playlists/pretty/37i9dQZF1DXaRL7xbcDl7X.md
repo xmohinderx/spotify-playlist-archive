@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 
 > a new wave of indie born on the internet\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,354 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,376 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 | 99 | [Alrighty Aphrodite](https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 3:27 |
 | 100 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 
-Snapshot ID: `MTY0MDU3OTU5NywwMDAwMDAwMDkxZDBhZWQxZjFjMjkyYmQzYmI1MTI3NTI4Mjk5YzA5`
+Snapshot ID: `MTY0MDYwMjA3MiwwMDAwMDAwMDkxZDBhZWQxZjFjMjkyYmQzYmI1MTI3NTI4Mjk5YzA5`

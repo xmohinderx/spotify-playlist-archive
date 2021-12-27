@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LOYALS, Ed Patrick, La Bouquet and more
+> With The Night Game, The True Blue, Lowswimmer and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 923 likes - 50 songs - 3 hr 17 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [High School](https://open.spotify.com/track/5LpcRat8db3T8rMGVqiK5N) | [90's Kids](https://open.spotify.com/artist/6vPr4VCSFC3nJMw0mEBsn0) | [High School](https://open.spotify.com/album/2oDQfsKmIBMesRkJOQWhHY) | 3:00 |
 | 50 | [state of mind](https://open.spotify.com/track/5eTF0lnEnvoNAFtJG3CXd1) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [state of mind](https://open.spotify.com/album/1eIj6yerF2hy73PcZhzaIT) | 3:18 |
 
-Snapshot ID: `MTY0MDU3OTY1MCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MDYwMjEyNCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

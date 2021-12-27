@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,395 likes - 145 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,414 likes - 145 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [Crying In The Sun](https://open.spotify.com/track/5Gwn2tyT8CluNxYI930tu7) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Crying In The Sun](https://open.spotify.com/album/5HSp7FBO84sBoGl6BcEj7M) | 3:15 |
 | 145 | [Rewrite The Stars](https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:37 |
 
-Snapshot ID: `MTY0MDU3OTYzMCwwMDAwMDAwMGJmOTYwNDkzNWY0ODc1MWYyNzQ1NDliZDZmZDcyYTJm`
+Snapshot ID: `MTY0MDYwMjEwNCwwMDAwMDAwMGJmOTYwNDkzNWY0ODc1MWYyNzQ1NDliZDZmZDcyYTJm`

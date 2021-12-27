@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring LEISURE
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,594 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,609 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Beato Classico](https://open.spotify.com/track/26lc7CmsO3vT5ZHxjdmBDd) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Beato Classico](https://open.spotify.com/album/0Eef0kccE2JYj205nak4pf) | 3:28 |
 | 100 | [Bedroom Eyes \(feat\. Studio Killers\)](https://open.spotify.com/track/4XP2xY8tUYed1cceuh24Q8) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Bedroom Eyes \(feat\. Studio Killers\)](https://open.spotify.com/album/2rOw4IFkPQWBo6gG3hB7qY) | 2:58 |
 
-Snapshot ID: `MTY0MDU3OTU2MSwwMDAwMDAwMGEzYTQyMWRjNTI3MTg1ZGNkNTc0MWMyNjEyZjFmNWRj`
+Snapshot ID: `MTY0MDYwMjAzOCwwMDAwMDAwMGEzYTQyMWRjNTI3MTg1ZGNkNTc0MWMyNjEyZjFmNWRj`

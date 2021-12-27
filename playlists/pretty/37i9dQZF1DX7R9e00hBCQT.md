@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R9e00hBCQT.md) - [plain]
 
 > The Harlem Renaissance comes alive once more as the <a href="spotify:artist:1mNcebzTg5QlHEY4WYhLSm">innovative poet</a> and his cohorts read and discuss his work.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,236 likes - 57 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,239 likes - 57 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

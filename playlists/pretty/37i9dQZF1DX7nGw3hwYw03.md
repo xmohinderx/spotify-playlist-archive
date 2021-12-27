@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 
 > Essential Alesso originals and remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,941 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,943 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nGw3hwYw03.md) - [plain]
 | 50 | [Silenced By The Night \[Alesso vs\. Keane\] \- Alesso Remix](https://open.spotify.com/track/1HTh4meXIkX5JHVYs8DQ6r) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Silenced By The Night \(Alesso Remix\)](https://open.spotify.com/album/5AeIaYONwneTOcR0rRguYz) | 6:13 |
 | 51 | [Under Control \(feat\. Hurts\) \- Extended Mix](https://open.spotify.com/track/3IRopjEQzdRC8oP98yUikY) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Under Control \(feat\. Hurts\)](https://open.spotify.com/album/5PXsUtfvYHPvlvGRVuwNOp) | 5:36 |
 
-Snapshot ID: `MTY0MDU3OTU1NiwwMDAwMDAwMGI5Zjg4ZGQwYWU1OGZkNDVjOGMwNzliYjVlMDQwYjc1`
+Snapshot ID: `MTY0MDYwMjAzMywwMDAwMDAwMGI5Zjg4ZGQwYWU1OGZkNDVjOGMwNzliYjVlMDQwYjc1`

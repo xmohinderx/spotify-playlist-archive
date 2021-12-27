@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Indie, pop, and everything in between to bring you good energy and good vibes\. Cover: chloe moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,503 likes - 150 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,490 likes - 150 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [Dadada](https://open.spotify.com/track/4SRkixF643LgySLh8owTkJ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Dadada](https://open.spotify.com/album/0UUBtEMsxJwMQkoYKiFdjK) | 2:11 |
 | 150 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 |
 
-Snapshot ID: `MTY0MDU3OTYyNiwwMDAwMDAwMDIwZTA1NGJmZWM3Zjk1Yjc0NTExNjQ1YmMwNzc5YTkw`
+Snapshot ID: `MTY0MDYwMjEwMCwwMDAwMDAwMDIwZTA1NGJmZWM3Zjk1Yjc0NTExNjQ1YmMwNzc5YTkw`

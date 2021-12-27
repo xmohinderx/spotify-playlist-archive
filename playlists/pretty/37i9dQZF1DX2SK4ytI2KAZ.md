@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > ALT the Good Vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,464 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,465 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 119 | [Pretty Way to Fight](https://open.spotify.com/track/1IqCYpT2uKyCEfH76Re2rr) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [Pretty Way to Fight](https://open.spotify.com/album/1kMQDvVlFdDjQZjy2b0vQ9) | 3:23 |
 | 120 | [Take It Easy](https://open.spotify.com/track/1hshQOs2OcbICfroZCu1UD) | [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW) | [Take It Easy](https://open.spotify.com/album/7g9U3VPeWOeWe6pP7Q4Ayu) | 2:43 |
 
-Snapshot ID: `MTY0MDU3OTQ2NSwwMDAwMDAwMDkzY2M1NGRhOTdlNDNiYTA4ZmViYTI4YjFhYmVkNWI5`
+Snapshot ID: `MTY0MDYwMTk0NywwMDAwMDAwMDkzY2M1NGRhOTdlNDNiYTA4ZmViYTI4YjFhYmVkNWI5`

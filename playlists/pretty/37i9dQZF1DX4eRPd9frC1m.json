@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
   "name": "Hype",
-  "num_followers": 2285047,
+  "num_followers": 2285111,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDU3OTUwMiwwMDAwMDAwMGU4ZDg3ZTI2OTE4Y2UxODE1N2ZlZGI4ZjQ2ZWU5MTU4",
+  "snapshot_id": "MTY0MDYwMTk4MSwwMDAwMDAwMGU4ZDg3ZTI2OTE4Y2UxODE1N2ZlZGI4ZjQ2ZWU5MTU4",
   "tracks": [
     {
       "added_at": "2021-11-19 05:01:00",
@@ -2271,6 +2271,26 @@
     {
       "added_at": "2021-11-19 05:01:00",
       "album": {
+        "name": "Blast Like",
+        "url": "https://open.spotify.com/album/5EXdviyTs6gVPZqpACfTBM"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 149725,
+      "name": "Blast Like",
+      "url": "https://open.spotify.com/track/5iA3mtmjnwWLHLwKhFiGct"
+    },
+    {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
         "name": "Take Kontrol EP",
         "url": "https://open.spotify.com/album/0GafcS48qSca0W4Hx2LxLP"
       },
@@ -2303,26 +2323,6 @@
       "duration_ms": 200275,
       "name": "Gang Shit",
       "url": "https://open.spotify.com/track/2dDDwAvdVHHNTnfRFzGMgK"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "Blast Like",
-        "url": "https://open.spotify.com/album/5EXdviyTs6gVPZqpACfTBM"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 149725,
-      "name": "Blast Like",
-      "url": "https://open.spotify.com/track/5iA3mtmjnwWLHLwKhFiGct"
     },
     {
       "added_at": "2021-11-19 05:01:00",
@@ -2619,6 +2619,22 @@
     {
       "added_at": "2021-11-19 05:01:00",
       "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/7Ig6Dn3DjDgJC9dAk2FJ8M"
+      },
+      "artists": [
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "duration_ms": 180025,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/0oyutiBE89NpGtAdo3cA5Y"
+    },
+    {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
         "name": "String Theory",
         "url": "https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121"
       },
@@ -2679,22 +2695,6 @@
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/7Ig6Dn3DjDgJC9dAk2FJ8M"
-      },
-      "artists": [
-        {
-          "name": "Chee",
-          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
-        }
-      ],
-      "duration_ms": 180025,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/0oyutiBE89NpGtAdo3cA5Y"
     },
     {
       "added_at": "2021-11-19 05:01:00",

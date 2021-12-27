@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet Korea's representative eardrum boyfriend & girlfriend vocals. (Cover: Ahn Ye Eun (\uc548\uc608\uc740)) (\ud55c\uad6d\uc744 \ub300\ud45c\ud558\ub294 \uace0\ub9c9\ub0a8\uce5c & \uace0\ub9c9\uc5ec\uce5c \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "Meet Korea's representative eardrum boyfriend & girlfriend vocals. (Cover: KIM JAE HWAN (\uae40\uc7ac\ud658)) (\ud55c\uad6d\uc744 \ub300\ud45c\ud558\ub294 \uace0\ub9c9\ub0a8\uce5c & \uace0\ub9c9\uc5ec\uce5c \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 195293,
       "name": "After Summer",
       "url": "https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 209026,
       "name": "Memories of us",
       "url": "https://open.spotify.com/track/1maSO0JlfjaasKqy0dZaH4"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-27",
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
@@ -1612,6 +1612,24 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+    },
+    {
+      "album": {
+        "name": "THE LETTER",
+        "url": "https://open.spotify.com/album/5uCKvyWTxVemL1hFXpVLx9"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "date_added": "2021-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/2y0fZIKYpjN8ZCylkttePB"
     },
     {
       "album": {

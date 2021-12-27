@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,406 likes - 148 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,417 likes - 148 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 147 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
 | 148 | [Saving My Love](https://open.spotify.com/track/672thZgpcYBR1qow7EOJgC) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Saving My Love](https://open.spotify.com/album/2YHK4d31s4jDsP9cwVeTNt) | 3:29 |
 
-Snapshot ID: `MTY0MDU3OTMyMCwwMDAwMDAwMGFjNzkzNmEwY2QwM2EwMTk1YTA4MzEwZDg0NWRiODdm`
+Snapshot ID: `MTY0MDYwMTgwNiwwMDAwMDAwMGFjNzkzNmEwY2QwM2EwMTk1YTA4MzEwZDg0NWRiODdm`

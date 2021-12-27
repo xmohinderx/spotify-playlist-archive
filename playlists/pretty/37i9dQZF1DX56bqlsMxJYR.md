@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,321 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,372 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [\(How Much Is\) That Doggie in the Window](https://open.spotify.com/track/1mMSH14XSSjzLvNuf62azx) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Bioshock 2: The Official Soundtrack \- Music From And Inspired By The Game](https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0) | 2:38 |
 | 100 | [Charlie Brown](https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [Rhino Hi\-Five: The Coasters](https://open.spotify.com/album/2Yvat4w8j7hrJ1JVUz0wAw) | 2:21 |
 
-Snapshot ID: `MTY0MDU3OTUxMSwwMDAwMDAwMGEwYTk3ZDA5Zjg5NWZmNDlmNjZlYmVmYTk3ZjcxMDRj`
+Snapshot ID: `MTY0MDYwMTk5MCwwMDAwMDAwMGEwYTk3ZDA5Zjg5NWZmNDlmNjZlYmVmYTk3ZjcxMDRj`

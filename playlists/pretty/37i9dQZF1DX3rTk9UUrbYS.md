@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,052 likes - 50 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,070 likes - 50 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [From Before](https://open.spotify.com/track/5xNLSDTG2TL62XufqAnvWN) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Creative Jazz 101](https://open.spotify.com/album/3QvXwS7tpdWuz9ZC2GqvOR) | 6:51 |
 | 50 | [First Step](https://open.spotify.com/track/6prtfMlXq8ER0zknYsZCDw) | [Matthew Shipp Quartet](https://open.spotify.com/artist/1iBj0pGFzWo1DPeudiGCuT) | [Sonic Fiction](https://open.spotify.com/album/60DNNisiBJAHC9aiFNx7Qo) | 3:24 |
 
-Snapshot ID: `MTY0MDU3OTQ4NiwwMDAwMDAwMGRlZGU4ODJlNDgyNDhhYmNiMzcyYTFkNTIyMGFlOTM2`
+Snapshot ID: `MTY0MDYwMTk2NywwMDAwMDAwMGRlZGU4ODJlNDgyNDhhYmNiMzcyYTFkNTIyMGFlOTM2`

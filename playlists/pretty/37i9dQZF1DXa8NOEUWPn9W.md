@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Ben Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,794 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,829 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 89 | [Talamanca \- Cristoph Remix](https://open.spotify.com/track/1u2jnokwA7wxow0gZ64Fvh) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [Talamanca \(Cristoph Remix\)](https://open.spotify.com/album/45Fa5rLxwZavjbryzJ84wx) | 7:01 |
 | 90 | [Light Up My Life](https://open.spotify.com/track/1FE3Cf3SUdxJkFGrdYpqQT) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Light Up My Life](https://open.spotify.com/album/1H1c8oEoI9qsJV4nCNCkHW) | 2:24 |
 
-Snapshot ID: `MTY0MDU3OTU5MiwwMDAwMDAwMGZlMDM1ZjdhNGY4MmM4NzUxMThlMmNiZDUzYTNhODFk`
+Snapshot ID: `MTY0MDYwMjA2NywwMDAwMDAwMGZlMDM1ZjdhNGY4MmM4NzUxMThlMmNiZDUzYTNhODFk`

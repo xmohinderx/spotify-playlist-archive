@@ -2,7 +2,7 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: Ahn Ye Eun \(안예은\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
+> Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: KIM JAE HWAN \(김재환\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 | 2021-12-20 |  |
 | [A Daily Song](https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be Ordinary](https://open.spotify.com/album/2p6TG0CTBBbY5jVaCnlHO5) | 4:19 | 2021-12-20 |  |
 | [A Walk](https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 3:25 | 2021-12-20 |  |
-| [After Summer](https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [After Summer](https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5) | 3:15 | 2021-12-20 | 2021-12-27 |
+| [After Summer](https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [After Summer](https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5) | 3:15 | 2021-12-20 |  |
 | [All about you](https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel Del Luna OST Part.3](https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR) | 3:29 | 2021-12-20 |  |
 | [Anymore](https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:18 | 2021-12-20 |  |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-20 |  |
@@ -59,7 +59,7 @@
 | [Maybe](https://open.spotify.com/track/4A2jkhYvULD5yl8ygiF2R8) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Her Private Life \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0O5sEO1Uu8t5Yc8sf3CLWr) | 3:48 | 2021-12-20 |  |
 | [Me After You](https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Me After You](https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh) | 4:40 | 2021-12-20 |  |
 | [ME.N.U](https://open.spotify.com/track/5ij2jRRxk9Zjwk436vgRH9) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [ME.N.U](https://open.spotify.com/album/3aFJSOQNscEsK5MdGGdyZc) | 3:53 | 2021-12-20 | 2021-12-27 |
-| [Memories of us](https://open.spotify.com/track/1maSO0JlfjaasKqy0dZaH4) | [Jeong Dong Won](https://open.spotify.com/artist/5HvNk0vaIxqDi4kzPkLyut) | [Memories of us](https://open.spotify.com/album/0wTfG50qEW74bYUIJjR9Y2) | 3:29 | 2021-12-20 |  |
+| [Memories of us](https://open.spotify.com/track/1maSO0JlfjaasKqy0dZaH4) | [Jeong Dong Won](https://open.spotify.com/artist/5HvNk0vaIxqDi4kzPkLyut) | [Memories of us](https://open.spotify.com/album/0wTfG50qEW74bYUIJjR9Y2) | 3:29 | 2021-12-20 | 2021-12-27 |
 | [Memory Of The Wind](https://open.spotify.com/track/68PLBwtcGOeEo1TSxtaglC) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle of My Soul](https://open.spotify.com/album/7ACnBNs9blScQgVTeOatdW) | 5:08 | 2021-12-20 |  |
 | [Monolog](https://open.spotify.com/track/2e0m7tXzjZeara0Z3vgaL2) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Monolog](https://open.spotify.com/album/1QpVMETbLgA8yvGQiN1OKS) | 3:52 | 2021-12-20 | 2021-12-22 |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2021-12-20 |  |
@@ -77,7 +77,7 @@
 | [Repeatedly](https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Penthouse2 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo) | 3:37 | 2021-12-20 |  |
 | [Run](https://open.spotify.com/track/0rqth7TKBij4qKmqI1h4Ts) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [WORD](https://open.spotify.com/album/1y20zPeDfHZyG5BZmJKSiO) | 6:09 | 2021-12-20 | 2021-12-27 |
 | [Should′ve known](https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:41 | 2021-12-20 | 2021-12-27 |
-| [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 | 2021-12-20 |  |
+| [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 | 2021-12-20 | 2021-12-27 |
 | [Some](https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn) | 3:01 | 2021-12-20 |  |
 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 | 2021-12-20 |  |
 | [Stars](https://open.spotify.com/track/6Mn74uvm0wZaEjPK0eTtHY) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Shape of Rothy](https://open.spotify.com/album/4DsSCFGCzQ4GPMw3pTh3A5) | 4:20 | 2021-12-20 |  |
@@ -91,6 +91,7 @@
 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 | 2021-12-20 | 2021-12-27 |
 | [This is me](https://open.spotify.com/track/2VnAN5tR2Y4raaPcAEFE9u) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [멜로디책방 Part 6](https://open.spotify.com/album/1WIfzWPSJiACHtURL458Xt) | 3:02 | 2021-12-20 | 2021-12-25 |
 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 | 2021-12-20 |  |
+| [Unforgettable](https://open.spotify.com/track/2y0fZIKYpjN8ZCylkttePB) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [THE LETTER](https://open.spotify.com/album/5uCKvyWTxVemL1hFXpVLx9) | 3:28 | 2021-12-27 |  |
 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 | 2021-12-26 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2021-12-20 |  |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2021-12-20 |  |

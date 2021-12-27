@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,688 likes - 170 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,712 likes - 170 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 | 169 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 170 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times \- Singles 1992\-2006](https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO) | 3:49 |
 
-Snapshot ID: `MTY0MDU3OTQ0NywwMDAwMDAwMDg4OTdhZjI1NDRkYTc2Yzg2N2Y0ZDBhNDdkNDhjYTUy`
+Snapshot ID: `MTY0MDYwMTkyOCwwMDAwMDAwMDg4OTdhZjI1NDRkYTc2Yzg2N2Y0ZDBhNDdkNDhjYTUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 
 > Calm piano music for enhanced concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,651 likes - 300 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,647 likes - 300 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluGMsH1R9r.md) - [plain]
 | 299 | [s'effondrer](https://open.spotify.com/track/3e8h3zJiIpod0eksz4QXZ4) | [Liliane Lucy](https://open.spotify.com/artist/1ICOz8tPrLAs5l5hYq12om) | [s'effondrer](https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY) | 3:03 |
 | 300 | [Valverde](https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB) | [Jacques Ferrandi](https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7) | [Duality](https://open.spotify.com/album/3dE84iT1GkIHixshI0twdV) | 2:04 |
 
-Snapshot ID: `MTY0MDU3OTMyNiwwMDAwMDAwMDc0YzYyMzc2ZjRiOTMwNjZlNTIwNWI0MGQzYTUwMDAw`
+Snapshot ID: `MTY0MDYwMTgxMiwwMDAwMDAwMDc0YzYyMzc2ZjRiOTMwNjZlNTIwNWI0MGQzYTUwMDAw`

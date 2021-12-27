@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the history of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie folk favorites\. Cover: The Staves
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,595 likes - 200 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,608 likes - 200 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 199 | [Deep Dark Below](https://open.spotify.com/track/4UT2LGBeSW7dRIiUPyYyrd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Down Fell the Doves](https://open.spotify.com/album/6DVHMSBPHdJ42Okvp5QJ9X) | 3:21 |
 | 200 | [Leave the Light On \- Demo](https://open.spotify.com/track/2nxBkZ02hsiU3SIowH4XQI) | [Marissa Nadler](https://open.spotify.com/artist/5zjaF8JUdylMWrA7AVo3hJ) | [Before July: Demos & Unreleased Songs](https://open.spotify.com/album/7lNnNfJjnoQIKAzyZY9sdL) | 3:12 |
 
-Snapshot ID: `MTY0MDU3OTMxNiwwMDAwMDAwMGRhMjIzNmVlNTRkODgwZjA0M2JlY2FiODdhZGE0Y2U4`
+Snapshot ID: `MTY0MDYwMTgwMywwMDAwMDAwMGRhMjIzNmVlNTRkODgwZjA0M2JlY2FiODdhZGE0Y2U4`

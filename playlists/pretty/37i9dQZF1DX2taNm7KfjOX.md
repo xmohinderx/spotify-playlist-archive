@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Hand Habits
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,618 likes - 150 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,635 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [She Burns](https://open.spotify.com/track/4MbeEkEuBRe6l5ksYXqNXb) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [She Burns](https://open.spotify.com/album/2cKw7mUmiiLmDPDxdsW0zS) | 3:49 |
 | 150 | [You're Not Alone](https://open.spotify.com/track/7ib8eTk4c9HKGFwbhGUvWN) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 5:36 |
 
-Snapshot ID: `MTY0MDU3OTQ3MiwwMDAwMDAwMDI4ZGYzOThiZWYyNzMyNzIzMTc3MmNiMTcwNDgxNzFi`
+Snapshot ID: `MTY0MDYwMTk1NCwwMDAwMDAwMDI4ZGYzOThiZWYyNzMyNzIzMTc3MmNiMTcwNDgxNzFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=4mLu7AObRVe3gsSn4kDpjw"> A\-Reece </a>  and <a href="https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR?si=xVwLdOd2TTekWZ7e7xb9Gw"> Jay Jody </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,601 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,609 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Yatch](https://open.spotify.com/track/0Fzu7jMb9pqjMf94sd2Iqn) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [Yatch](https://open.spotify.com/album/7iDgKrhtaM6sHpuY1edwPM) | 3:37 |
 | 70 | [KingSize](https://open.spotify.com/track/3Up92OTxG9rcnWCGrB26w9) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [FUEGO](https://open.spotify.com/album/2UBVY8AKfYWYJuIwamCbuE) | 3:40 |
 
-Snapshot ID: `MTY0MDU3OTY0MywwMDAwMDAwMDVkMDRhNmRhZjcyNWQ5MzU1MDZjYzA3NDE5MzE4MDgx`
+Snapshot ID: `MTY0MDYwMjExNywwMDAwMDAwMDVkMDRhNmRhZjcyNWQ5MzU1MDZjYzA3NDE5MzE4MDgx`

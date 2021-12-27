@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,792 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,841 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Fall](https://open.spotify.com/track/22TaxtoFfaJz2YUZUbTc4Z) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Fall](https://open.spotify.com/album/10nrgLZ75uZHO6sQIXOQUD) | 3:20 |
 | 100 | [Alone In Kenzo](https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Alone In Kenzo](https://open.spotify.com/album/74g3j5vCv02I7TBn8FLgt1) | 3:18 |
 
-Snapshot ID: `MTY0MDU3OTM2OCwwMDAwMDAwMDMyMjE0Yzk2MDAwMzNlY2MzYWZlNzE1MzM2NDg2ZTcy`
+Snapshot ID: `MTY0MDYwMTg1MiwwMDAwMDAwMDMyMjE0Yzk2MDAwMzNlY2MzYWZlNzE1MzM2NDg2ZTcy`

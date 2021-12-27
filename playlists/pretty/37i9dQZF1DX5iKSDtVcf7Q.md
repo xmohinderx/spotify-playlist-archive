@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,199 likes - 104 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,197 likes - 104 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 103 | [Beat This Summer](https://open.spotify.com/track/2EUHzmBZux7SSra71cGkIB) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Wheelhouse](https://open.spotify.com/album/5NQa6BB9H7oc0dNT7GqOq0) | 4:41 |
 | 104 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:06 |
 
-Snapshot ID: `MTY0MDU3OTUyNCwwMDAwMDAwMGMwM2E0NTJlY2FhYTRjYWQ0MDc3NTEwZGYwYWYxNjRj`
+Snapshot ID: `MTY0MDYwMjAwMiwwMDAwMDAwMGMwM2E0NTJlY2FhYTRjYWQ0MDc3NTEwZGYwYWYxNjRj`

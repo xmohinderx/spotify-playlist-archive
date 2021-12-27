@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,706 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,722 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Cinnamon Babka](https://open.spotify.com/track/0uumBUb47WpPMNovu2YfvV) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [David James](https://open.spotify.com/artist/4KgrOkFtGl8MNhI3kFZSVX), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Cinnamon Babka](https://open.spotify.com/album/3dNivSmjjYv09S7Iei4KKT) | 3:46 |
 | 80 | [Broasted Or Fried](https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI) | [Funkallisto](https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41) | [Live A Ponte Sisto](https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV) | 5:43 |
 
-Snapshot ID: `MTY0MDU3OTU3MCwwMDAwMDAwMDIyOTgzNWZhZjE4ODhhMTNkNGZmYTNjYmM0YWZkMDVi`
+Snapshot ID: `MTY0MDYwMjA0NiwwMDAwMDAwMDIyOTgzNWZhZjE4ODhhMTNkNGZmYTNjYmM0YWZkMDVi`

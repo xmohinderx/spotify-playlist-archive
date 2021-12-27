@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,268 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,261 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [New World \(with Matisyahu, Bumpin Uglies, & The Elovaters\)](https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr) | 3:59 |
 | 100 | [Bum Bum](https://open.spotify.com/track/53IFmCxiNRXdIjAe9AI6qg) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Villain Park](https://open.spotify.com/artist/4dwOIOkHXZtnSU2tOGY6mh) | [Bum Bum](https://open.spotify.com/album/4mI6WouZRfQt5UPT0KQfGC) | 3:59 |
 
-Snapshot ID: `MTY0MDU3OTU1OSwwMDAwMDAwMGM0OWQwNTAxZGQzNWU0NzUyYmNkZjFjMjk3NmUxYTU1`
+Snapshot ID: `MTY0MDYwMjAzNiwwMDAwMDAwMGM0OWQwNTAxZGQzNWU0NzUyYmNkZjFjMjk3NmUxYTU1`

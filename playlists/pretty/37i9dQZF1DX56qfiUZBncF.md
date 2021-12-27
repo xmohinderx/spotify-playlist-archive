@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,887 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,890 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/track/1eJaHVCXkDnZcB9yB8buJ9) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Give Me Space \(feat\. The Kite String Tangle\)](https://open.spotify.com/album/0jmztT0knaYPwbO9D7kgwT) | 3:43 |
 | 100 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 |
 
-Snapshot ID: `MTY0MDU3OTUxMSwwMDAwMDAwMDVhNzMyNWNmOWIzMmQyM2ZkNmY1MzZjM2Y0ZjgzMDlm`
+Snapshot ID: `MTY0MDYwMTk5MCwwMDAwMDAwMDVhNzMyNWNmOWIzMmQyM2ZkNmY1MzZjM2Y0ZjgzMDlm`

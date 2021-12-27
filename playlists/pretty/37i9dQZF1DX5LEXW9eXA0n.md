@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: KangHyeWon\(강혜원\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,571 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,695 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 49 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 50 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/3fLufMRaQboaen5AGMdCLT) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The 1st Mini Album '광화문에서 At Gwanghwamun'](https://open.spotify.com/album/1GtAHSUYEs5Jlx3ftm9Y5v) | 4:42 |
 
-Snapshot ID: `MTY0MDU3OTUxNywwMDAwMDAwMDQ5NGI0OTA4MzNiMDk0ZWZmMjRiNGMxMzliZjU0ODgx`
+Snapshot ID: `MTY0MDYwMTk5NiwwMDAwMDAwMDQ5NGI0OTA4MzNiMDk0ZWZmMjRiNGMxMzliZjU0ODgx`

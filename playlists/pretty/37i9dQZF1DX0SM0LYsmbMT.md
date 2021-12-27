@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982,134 likes - 300 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,186 likes - 300 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Midnight Cruisin'](https://open.spotify.com/track/0e3ist1DMoAGBCV7tyNaZ1) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [Smooth](https://open.spotify.com/album/0N6QIOAvhMzSpWXtE154Uj) | 2:12 |
 | 300 | [Moment of Clarity](https://open.spotify.com/track/3B2BXQ91FmeobGDDK5ZW9T) | [Wacho](https://open.spotify.com/artist/6fBCb271VXZBhTA3qhXdZU) | [Moment of Clarity](https://open.spotify.com/album/3J80etu3ELt8kVCheKFunj) | 2:46 |
 
-Snapshot ID: `MTY0MDU3OTQzMSwwMDAwMDAwMDVmMTRmMmU0MGM1YjY2N2JmZWFhZTZhMTZlNGNiOWQ0`
+Snapshot ID: `MTY0MDYwMTkxMywwMDAwMDAwMDVmMTRmMmU0MGM1YjY2N2JmZWFhZTZhMTZlNGNiOWQ0`

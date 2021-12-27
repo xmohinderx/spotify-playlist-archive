@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner ta journée\.  Photo: Ingrid St\-Pierre
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,657 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,655 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Les adieux](https://open.spotify.com/track/3PBofYxGj3mMOmvn1Ft1kM) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Les adieux](https://open.spotify.com/album/0W0b90RgNWquPQLLhEcMlD) | 2:52 |
 | 100 | [Ma belle Clodie](https://open.spotify.com/track/6dIDM0vzyZqsqjODV3JK2a) | [Lauma](https://open.spotify.com/artist/7cHW7ZcuXJbucvesjvD4GK) | [Pixels](https://open.spotify.com/album/160lLNQ7uEPxrhosSwa5pk) | 5:02 |
 
-Snapshot ID: `MTY0MDU3OTYyOCwwMDAwMDAwMGIxYTJjZjM1Y2U1ZTJjYzAyYjBiMjcyMzU2ODQ0ZDdh`
+Snapshot ID: `MTY0MDYwMjEwMiwwMDAwMDAwMGIxYTJjZjM1Y2U1ZTJjYzAyYjBiMjcyMzU2ODQ0ZDdh`

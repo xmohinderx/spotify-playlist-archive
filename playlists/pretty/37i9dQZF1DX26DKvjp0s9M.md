@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > All your indie favorites\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,318 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,396 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [My Girls](https://open.spotify.com/track/1kn0qoZsAYz2IEOSmWGrvX) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/02vTLsOXcSItxqbLMCsaRo) | 5:40 |
 | 100 | [Gretel](https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 3:10 |
 
-Snapshot ID: `MTY0MDU3OTQ2MCwwMDAwMDAwMGI1NGRhMmI5OTZkODdkN2FhZTU3ZDFkYTQxZWNlNzAw`
+Snapshot ID: `MTYzODk3ODEwMywwMDAwMDAzYTAwMDAwMTdkOWFiNTI4YWMwMDAwMDE3YzgwZGQ2MDdm`

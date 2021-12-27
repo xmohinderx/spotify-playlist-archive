@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: Fleet Foxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,987 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,020 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 99 | [Canyon](https://open.spotify.com/track/2SzIui6zoL8iXbKn6nU7sr) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 2:55 |
 | 100 | [Shake](https://open.spotify.com/track/5m1L3o7fOfLFyw6VwumROL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 4:01 |
 
-Snapshot ID: `MTY0MDU3OTU4MywwMDAwMDAwMDBmNjVjM2U2MjgzNzQ0ZjYzZTczZDJiNmQ4OGFiODgy`
+Snapshot ID: `MTY0MDYwMjA1OSwwMDAwMDAwMDBmNjVjM2U2MjgzNzQ0ZjYzZTczZDJiNmQ4OGFiODgy`

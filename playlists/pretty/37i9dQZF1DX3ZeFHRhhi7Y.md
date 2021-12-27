@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: IVE\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,565 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,772 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 98 | [SUMMERIDE](https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SUMMERIDE](https://open.spotify.com/album/5mZSzANMkDsJlbTTxugNNo) | 3:38 |
 | 99 | [SWING](https://open.spotify.com/track/0ZtRAKwEaEzbApyv7vZRFd) | [LUCY](https://open.spotify.com/artist/5G6kdMp4tAcaH4J2RQa0Ij), [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [SWING](https://open.spotify.com/album/6VmURVgBakY7aT5Odlwinv) | 3:33 |
 
-Snapshot ID: `MTY0MDU3OTQ4NCwwMDAwMDAwMGRjODhjNjQ5YjVkOGM2NTZkMDZjNzQzZDRmODkzNDcw`
+Snapshot ID: `MTY0MDYwMTk2NCwwMDAwMDAwMGRjODhjNjQ5YjVkOGM2NTZkMDZjNzQzZDRmODkzNDcw`

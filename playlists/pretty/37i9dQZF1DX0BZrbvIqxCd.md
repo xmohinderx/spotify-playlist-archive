@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,531 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,528 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Bullet for Your Sweetheart](https://open.spotify.com/track/4Z4EeEBGhvcoBwQmHIl0km) | [Make Out Monday](https://open.spotify.com/artist/3GIXsr5vAVkwN5i0noYsBp) | [Visions of Hollywood](https://open.spotify.com/album/4wX8RD86rnLDEjpKrG8Pxr) | 3:07 |
 | 100 | [Out For Blood](https://open.spotify.com/track/4x241uAmPrxKZdCZKt2r5t) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Out For Blood](https://open.spotify.com/album/1HpntKICUDQq2auvGXclE4) | 3:36 |
 
-Snapshot ID: `MTY0MDU3OTQyNCwwMDAwMDAwMDY3YWE5YjhjN2NhZTBlNTQ0ODdmMmM4MzAyNWRlMTcz`
+Snapshot ID: `MTY0MDYwMTkwNiwwMDAwMDAwMDY3YWE5YjhjN2NhZTBlNTQ0ODdmMmM4MzAyNWRlMTcz`

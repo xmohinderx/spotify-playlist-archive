@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,898 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,908 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 49 | [What Christmas Means to Me \- from "The Best Man Holiday Original Motion Picture Soundtrack"](https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 2:24 |
 | 50 | [Silent Night](https://open.spotify.com/track/5P2cn4Xn6XX9QXS9HGMJ38) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [A Motown Holiday](https://open.spotify.com/album/2UQr1aieOS6AkM82LCU9JB) | 4:01 |
 
-Snapshot ID: `MTY0MDU3OTQ5MSwwMDAwMDAwMGExNzNhNDk4OWNlMTBjNjg3M2RkZTI2Mjc0NmY3N2Q1`
+Snapshot ID: `MTY0MDYwMTk3MSwwMDAwMDAwMGExNzNhNDk4OWNlMTBjNjg3M2RkZTI2Mjc0NmY3N2Q1`

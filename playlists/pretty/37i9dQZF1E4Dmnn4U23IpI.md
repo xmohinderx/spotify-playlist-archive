@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Quixotic, Lucy In Disguise, Frankmusik and more
+> With TOKYO ROSE, Kat Von D, Stewart Lockwood and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 9,904 likes - 50 songs - 3 hr 53 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Cross the Line](https://open.spotify.com/track/7bvM0exJGW8mRV7Yy1KW2p) | [Lost Years](https://open.spotify.com/artist/04an0WtFSvVqQkGrgIxq1Y) | [Venom](https://open.spotify.com/album/2m1jnt85SigOHlBUi4TJv5) | 4:03 |
 | 50 | [Bad Dream Baby](https://open.spotify.com/track/5GQyYSGz8bymILpekzEy7L) | [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Bad Dream Baby](https://open.spotify.com/album/1Wii6am038MI8SRIoovpqr) | 5:15 |
 
-Snapshot ID: `MTY0MDU3OTY0OSwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`
+Snapshot ID: `MTY0MDYwMjEyMywwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`

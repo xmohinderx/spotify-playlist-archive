@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,138 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,220 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Stair at the light](https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Stair at the light](https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ) | 3:02 |
 | 100 | [Hebele Hubulu](https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt) | [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Hebele Hubulu & Belantash](https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj) | 8:04 |
 
-Snapshot ID: `MTY0MDU3OTYzMywwMDAwMDAwMDlhODdjYWJjZDliODUwMWJlOTk3ZDhmY2EyOThlMTQ4`
+Snapshot ID: `MTY0MDYwMjEwNywwMDAwMDAwMDlhODdjYWJjZDliODUwMWJlOTk3ZDhmY2EyOThlMTQ4`

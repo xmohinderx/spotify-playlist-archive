@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the new tunes in the Thrash world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,537 likes - 120 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,546 likes - 120 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Fear Campaign](https://open.spotify.com/track/0WSImTNa6ISr9GrONB9t5D) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Fear Campaign](https://open.spotify.com/album/7cxb2UhwQ7Kk4ikq6bsgDS) | 3:57 |
 | 120 | [For the Horde](https://open.spotify.com/track/1KOKew94NrIZITnpQAMa6p) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Ride Forth](https://open.spotify.com/album/5BIzHmMiJJoHFo8tLL9S87) | 4:40 |
 
-Snapshot ID: `MTY0MDU3OTQxNiwwMDAwMDAwMDdjNjk1MmI1NjgzZGU2ZWU5YzczZGE5NGYxMWJlOGI1`
+Snapshot ID: `MTY0MDYwMTg5OSwwMDAwMDAwMDdjNjk1MmI1NjgzZGU2ZWU5YzczZGE5NGYxMWJlOGI1`

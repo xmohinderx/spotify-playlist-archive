@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,434 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,457 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 99 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 100 | [Spaceman](https://open.spotify.com/track/3TG88ES1Z5sMfuondaDZXV) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Spaceman](https://open.spotify.com/album/5IEec55pLIuXucwelz1kkS) | 3:16 |
 
-Snapshot ID: `MTY0MDU3OTM2MywwMDAwMDAwMGMxYjIyNmRhYjY2MjgxMzAxOTE3MzZmMjI4ZGZkMGRm`
+Snapshot ID: `MTY0MDYwMTg0NywwMDAwMDAwMGMxYjIyNmRhYjY2MjgxMzAxOTE3MzZmMjI4ZGZkMGRm`

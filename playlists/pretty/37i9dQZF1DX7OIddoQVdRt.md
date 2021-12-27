@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,934 likes - 40 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,948 likes - 40 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [Not Holding Back](https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR) | 12:27 |
 | 40 | [Overflow](https://open.spotify.com/track/6BMKu4bu0kDdPYviP1Umrz) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i) | [Overflow](https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4) | 4:25 |
 
-Snapshot ID: `MTY0MDU3OTU1MiwwMDAwMDAwMDAzYTg2NWY4NTkyODUzMGVkYzEzZWU2NmE4MWQyYzlm`
+Snapshot ID: `MTY0MDYwMjAyOSwwMDAwMDAwMDAzYTg2NWY4NTkyODUzMGVkYzEzZWU2NmE4MWQyYzlm`

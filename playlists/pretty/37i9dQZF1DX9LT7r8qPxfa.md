@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,033 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,043 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Oliver](https://open.spotify.com/track/0hLobhgfROgP7n3MkBS9rc) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Oliver](https://open.spotify.com/album/5QqaHzWUNFyUGQ4vhYosqx) | 5:15 |
 | 100 | [Mortals](https://open.spotify.com/track/05ysa8MWYb7MvixPonb1Fp) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Mortals](https://open.spotify.com/album/3H7MViLKyTi0IjwbJY1pwm) | 3:08 |
 
-Snapshot ID: `MTY0MDU3OTU4MCwwMDAwMDAwMDQyMWRmYzhkNGNhNjc3MGNjYzk5MjI5ODU2YzU3Mzky`
+Snapshot ID: `MTY0MDYwMjA1NiwwMDAwMDAwMDQyMWRmYzhkNGNhNjc3MGNjYzk5MjI5ODU2YzU3Mzky`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > Beats to relax, study, and focus..\. and warm your heart for Xmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,443,260 likes - 812 songs - 1 day 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,443,288 likes - 812 songs - 1 day 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -821,4 +821,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 811 | [good nothing](https://open.spotify.com/track/4Y7Z7CtSQciy99gjmvZCf4) | [Koaraktor](https://open.spotify.com/artist/6wn1ulTOgegggm9vCwK9Ql) | [good nothing](https://open.spotify.com/album/2TmZWfmzPQIWFsZXUisSbZ) | 1:37 |
 | 812 | [Yolofi](https://open.spotify.com/track/4nOTHXqmH2UEuvQaabWW5S) | [Digga Mindz](https://open.spotify.com/artist/3Lv7ncqaGnKo3E1z81unqU) | [Yolofi](https://open.spotify.com/album/0KAzECmokbzDwfQCYidVPk) | 2:06 |
 
-Snapshot ID: `MTY0MDU3OTM3NSwwMDAwMDAwMDFiZmNmNmJlZWMxMzBjNDU0OGM4NWIzNTMzODc2NTk5`
+Snapshot ID: `MTY0MDYwMTg1OSwwMDAwMDAwMDFiZmNmNmJlZWMxMzBjNDU0OGM4NWIzNTMzODc2NTk5`

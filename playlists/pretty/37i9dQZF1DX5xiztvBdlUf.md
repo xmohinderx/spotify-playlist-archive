@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,746 likes - 80 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,773 likes - 80 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Freedom for my People](https://open.spotify.com/track/7wOirxr2EhVVFeG8Rs0Jnx) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Freedom for my People](https://open.spotify.com/album/43Izsae53Gq995HRWRDoTu) | 4:57 |
 | 80 | [KayCee](https://open.spotify.com/track/1kaVJgf1xCcoDHYGqa1vZv) | [Nico Pusch](https://open.spotify.com/artist/6mbgZyWRlDKMVMALyV28sl) | [KayCee](https://open.spotify.com/album/1QtaRf7p4nPjhke9wFZORf) | 5:42 |
 
-Snapshot ID: `MTY0MDU3OTUyOCwwMDAwMDAwMDZhMjIwMmFkN2I1MWVlYmI3NzBmNzQ4OGM5NTY2NjYw`
+Snapshot ID: `MTY0MDYwMjAwNiwwMDAwMDAwMDZhMjIwMmFkN2I1MWVlYmI3NzBmNzQ4OGM5NTY2NjYw`

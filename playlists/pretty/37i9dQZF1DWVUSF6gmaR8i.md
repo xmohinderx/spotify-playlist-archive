@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,405 likes - 40 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,410 likes - 40 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 39 | [All the Way from Memphis](https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Mott \(Expanded Edition\)](https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s) | 5:02 |
 | 40 | [Under My Skin](https://open.spotify.com/track/234AYE6GUkpgfruH5S4z3E) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) | [Happenstance \(Deluxe Version\)](https://open.spotify.com/album/66p6CIMdxQFO3Igg9xo14a) | 4:12 |
 
-Snapshot ID: `MTY0MDU3OTM1OSwwMDAwMDAwMDJlYzM4YWFiNTcxNDdmNzQxYmE5MGMyYjMwNjg4Njlj`
+Snapshot ID: `MTY0MDYwMTg0MywwMDAwMDAwMDJlYzM4YWFiNTcxNDdmNzQxYmE5MGMyYjMwNjg4Njlj`

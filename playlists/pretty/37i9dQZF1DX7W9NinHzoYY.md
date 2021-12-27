@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W9NinHzoYY.md) - [plain]
 
 > Hear Xavier Omär's breakout track &quot;Blind Man&quot; and other essential jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,527 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,530 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

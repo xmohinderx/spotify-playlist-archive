@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,313 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,325 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Come Back](https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Come Back](https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi) | 4:37 |
 | 60 | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq) | 2:44 |
 
-Snapshot ID: `MTY0MDU3OTQ1NSwwMDAwMDAwMDQ3N2I3NjJmNTUzNGE5ZDIzYmQwNjFhYTg5NGUxZmMw`
+Snapshot ID: `MTY0MDYwMTkzNiwwMDAwMDAwMDQ3N2I3NjJmNTUzNGE5ZDIzYmQwNjFhYTg5NGUxZmMw`

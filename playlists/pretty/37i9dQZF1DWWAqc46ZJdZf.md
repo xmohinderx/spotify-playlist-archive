@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,108 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,084 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Melanated](https://open.spotify.com/track/0ojNk5JVukyByGIps1Sw42) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Melanated](https://open.spotify.com/album/0AJBYPB9XN3To4eKbQIOfk) | 3:12 |
 | 60 | [Little Ghetto Boy](https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Come Back Charleston Blue](https://open.spotify.com/album/2LBcd80fBY2o4pCJUWhLRb) | 3:52 |
 
-Snapshot ID: `MTY0MDU3OTM3MCwwMDAwMDAwMDQyYmQyYWU2ZGM3NTk4OTA5ZDE1MTIyMTE1NDhjNTAy`
+Snapshot ID: `MTY0MDYwMTg1NCwwMDAwMDAwMDQyYmQyYWU2ZGM3NTk4OTA5ZDE1MTIyMTE1NDhjNTAy`

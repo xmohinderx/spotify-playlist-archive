@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,920 likes - 100 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,967 likes - 100 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Master Of The Sky](https://open.spotify.com/track/7IDflO9LXzeeUX2DiW3P1G) | [Moon Coven](https://open.spotify.com/artist/6Ktl9VWpqA6DwgrQQpdwFd) | [Haramukh High / Master Of The Sky](https://open.spotify.com/album/3iPfYwvyUleBF8z4y1cPE0) | 5:34 |
 | 100 | [Woven](https://open.spotify.com/track/0igHoyE7n6beXfJ1LWXGlm) | [Warish](https://open.spotify.com/artist/26K17LixWjA53Lm1XDBo8C) | [Woven](https://open.spotify.com/album/598iHPVUmnGuqi2QaiH3rq) | 3:24 |
 
-Snapshot ID: `MTY0MDU3OTY0NCwwMDAwMDAwMDA1YTc4ZjZiMzVmYWQ4YzkzYjE1YTJlOWM2NGRjMTgx`
+Snapshot ID: `MTY0MDYwMjExOCwwMDAwMDAwMDA1YTc4ZjZiMzVmYWQ4YzkzYjE1YTJlOWM2NGRjMTgx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 
 > 100% amazing female singers\. Enjoy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580,647 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580,693 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9loJQLuEvap.md) - [plain]
 | 49 | [He Wasn't Man Enough](https://open.spotify.com/track/6hheXAlIc9Dh1ZcFaaZaeH) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Playlist: The Very Best Of Toni Braxton](https://open.spotify.com/album/0Ehl4kMmLUL8ViTI1reMrV) | 4:22 |
 | 50 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 
-Snapshot ID: `MTY0MDU3OTU4NCwwMDAwMDAwMDhhMzc3OWJmZWQwODA4OGEzNjkwODE1MTMxYjM4NDNm`
+Snapshot ID: `MTY0MDYwMjA2MCwwMDAwMDAwMDhhMzc3OWJmZWQwODA4OGEzNjkwODE1MTMxYjM4NDNm`

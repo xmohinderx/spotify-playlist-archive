@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,854 likes - 400 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,852 likes - 400 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 399 | [Ljóma](https://open.spotify.com/track/6Pko3DcmXsGbMOeiiYNVF7) | [Shel Alyse](https://open.spotify.com/artist/01CktpdDnrnnfx3wKMbnPT) | [Ljóma](https://open.spotify.com/album/05yodSTO8kMnX0EZQ9Ak30) | 2:39 |
 | 400 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 |
 
-Snapshot ID: `MTY0MDU3OTUzMiwwMDAwMDAwMGMzZTIwY2QxZTFkZThjNmMyOWJjNjA1Nzk0YzM4ZmE0`
+Snapshot ID: `MTY0MDYwMjAxMCwwMDAwMDAwMGMzZTIwY2QxZTFkZThjNmMyOWJjNjA1Nzk0YzM4ZmE0`

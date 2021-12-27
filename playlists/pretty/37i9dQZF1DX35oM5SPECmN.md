@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,413,332 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,413,321 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 74 | [Options Open](https://open.spotify.com/track/4v9GgfhZAlC3cx2zjKtr51) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 3:48 |
 | 75 | [All the Time](https://open.spotify.com/track/52El1xcHuTy4u68E9GSvqB) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [All the Time](https://open.spotify.com/album/3xuRhuNqL0QNgY10f419KL) | 3:59 |
 
-Snapshot ID: `MTY0MDU3OTQ3NSwwMDAwMDAwMDFlM2Q1YTBlYmNlYmVjMjA2MjEzM2YxNDQzYzVhNTli`
+Snapshot ID: `MTY0MDYwMTk1NiwwMDAwMDAwMDFlM2Q1YTBlYmNlYmVjMjA2MjEzM2YxNDQzYzVhNTli`

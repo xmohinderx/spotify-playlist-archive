@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,656 likes - 147 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,689 likes - 147 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 146 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
 | 147 | [Limbo](https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo/Lagune](https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ) | 3:10 |
 
-Snapshot ID: `MTY0MDU3OTQ2MSwwMDAwMDAwMDM0Y2U1ZjIxNTkxMmRkMjY5Mzk1MTBjNmU4YTg0NjU5`
+Snapshot ID: `MTY0MDYwMTk0MywwMDAwMDAwMDM0Y2U1ZjIxNTkxMmRkMjY5Mzk1MTBjNmU4YTg0NjU5`

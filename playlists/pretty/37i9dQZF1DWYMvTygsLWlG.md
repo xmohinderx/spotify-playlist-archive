@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,746,063 likes - 150 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746,152 likes - 150 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [Set Fire to the Rain](https://open.spotify.com/track/5PKWUDfQFtc5qqo8cs1gQp) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:02 |
 | 150 | [On My Way \(Marry Me\)](https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On My Way \(Marry Me\)](https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx) | 3:12 |
 
-Snapshot ID: `MTY0MDU3OTQwMywwMDAwMDAwMDdiNjQ1MzA3OGM2MTNhOGUwMWExNTcyNzQ4ZDhjMGRl`
+Snapshot ID: `MTYzNzY1OTQ5MywwMDAwMDA1NjAwMDAwMTdkNGMxY2M1NjAwMDAwMDE2ZDE1MzNkZmI5`

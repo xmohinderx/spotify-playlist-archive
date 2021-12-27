@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Dua Lipa & Elton John.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,265,419 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,265,453 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Memory \- Feather Remix](https://open.spotify.com/track/1Wpe3EXorasdlnzUOX472Z) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi) | [Memory Remixes](https://open.spotify.com/album/3JUtKvXn5NWDyCeEyaHlMK) | 3:06 |
 | 100 | [All About You \(feat\. Foster The People\) \- Tensnake Remix](https://open.spotify.com/track/1DeI7qWSf8BRIIOtcbEssN) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [All About You \(feat\. Foster The People\) \[Tensnake Remix\]](https://open.spotify.com/album/6Dwgd1sa4nYfzbW9eI7Vt6) | 5:26 |
 
-Snapshot ID: `MTY0MDU3OTYyNiwwMDAwMDAwMDUxMTFhYWI5NjRlYzIxMjI1YzM0ZWRmYTg3OTEyMTYw`
+Snapshot ID: `MTY0MDYwMjEwMCwwMDAwMDAwMDUxMTFhYWI5NjRlYzIxMjI1YzM0ZWRmYTg3OTEyMTYw`

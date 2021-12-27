@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982,015 likes - 300 songs - 17 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,047 likes - 300 songs - 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Be As You Are \- Acoustic](https://open.spotify.com/track/4t03qcATBoSFWGDDCo29v3) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Be As You Are \(Acoustic\)](https://open.spotify.com/album/09aTBn50hvsrcAzSuPq0oq) | 3:54 |
 | 300 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 |
 
-Snapshot ID: `MTY0MDU3OTU2NiwwMDAwMDAwMDVmNWVmZTZiMDgwOTRlMjcwMTRhMTg3MjAwMGE3NzAw`
+Snapshot ID: `MTY0MDYwMjA0MywwMDAwMDAwMDVmNWVmZTZiMDgwOTRlMjcwMTRhMTg3MjAwMGE3NzAw`

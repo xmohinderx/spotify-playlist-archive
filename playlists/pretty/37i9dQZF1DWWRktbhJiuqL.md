@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,434,898 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434,938 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 99 | [Since You Been Gone](https://open.spotify.com/track/0tMm5BfVLypKykJnoXsEVL) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Classic Power Ballads](https://open.spotify.com/album/35WWJwY2TZq6bdyvbiByiT) | 3:17 |
 | 100 | [Fool in the Rain \- 1990 Remaster](https://open.spotify.com/track/62p6fF2r4NY6pwZbxxvmr8) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(1994 Remaster\)](https://open.spotify.com/album/4wVHvawxZy52Oemd4sGyUm) | 6:12 |
 
-Snapshot ID: `MTY0MDU3OTM3OCwwMDAwMDAwMDUyODZmM2VkY2FlN2JmYzE4MDY2MjI4NTg5MTRjNTQ1`
+Snapshot ID: `MTY0MDYwMTg2MSwwMDAwMDAwMDUyODZmM2VkY2FlN2JmYzE4MDY2MjI4NTg5MTRjNTQ1`

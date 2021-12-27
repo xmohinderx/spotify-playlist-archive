@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,608 likes - 80 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,607 likes - 80 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Undercurrent](https://open.spotify.com/track/2TC8zSdhsE7Rd5SmVTRFwd) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Undercurrent](https://open.spotify.com/album/4MJ3GzvCQ78ky7ghnhkjzv) | 2:07 |
 | 80 | [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 |
 
-Snapshot ID: `MTY0MDU3OTQ4NiwwMDAwMDAwMDQ5M2Y4YzkwNDlkZGE5YmRmMjI1OGQyZWI3OTgyNzk3`
+Snapshot ID: `MTY0MDYwMTk2NiwwMDAwMDAwMDQ5M2Y4YzkwNDlkZGE5YmRmMjI1OGQyZWI3OTgyNzk3`
