@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 316403,
       "name": "AllyCator",
       "url": "https://open.spotify.com/track/1KSEiT9O35eLhTUZ0JidHc"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 185139,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/74OJcb0urbXBKWVkGd4hxg"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 192000,
       "name": "B\u00f3 m\u00f9",
       "url": "https://open.spotify.com/track/4UVPRsqHVlIebCbifU26V6"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 185538,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/3CMwVMznjJKjWVFLayfHoW"
@@ -330,6 +330,24 @@
       "duration_ms": 200000,
       "name": "Dessous la mere",
       "url": "https://open.spotify.com/track/5hKWeX4AmRMCNNBKxrD2AF"
+    },
+    {
+      "album": {
+        "name": "Diamond Shine",
+        "url": "https://open.spotify.com/album/16GjOVmgFii8TdG06IKuxV"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
+        }
+      ],
+      "date_added": "2021-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Diamond Shine",
+      "url": "https://open.spotify.com/track/3xcztXKdCQVxuQtPibei57"
     },
     {
       "album": {
@@ -434,7 +452,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 198240,
       "name": "Emotional World",
       "url": "https://open.spotify.com/track/6PxDKdFNU3yaDY1gCLjtTj"
@@ -470,7 +488,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 214945,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 287786,
       "name": "Into The Blue",
       "url": "https://open.spotify.com/track/5HRtJMdJWaRmyHi5minx38"
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 353333,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/2Ja6olyQK3JtLf1pvcgM8z"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 270344,
       "name": "Nocturne No 20 - Chill With Me Mix",
       "url": "https://open.spotify.com/track/2cGPrSLattyj0N1FToPcmz"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 286820,
       "name": "Solitary Fields",
       "url": "https://open.spotify.com/track/782tgZqcyFOMpHKV7aUb2X"
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 167237,
       "name": "Trois Fois",
       "url": "https://open.spotify.com/track/0bekzPhna4CgcyKvW7VRDR"
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Walking On the Sand",
       "url": "https://open.spotify.com/track/6WE6BnufTYe0ztSuzw22ga"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 202290,
       "name": "You - Spa/Relax",
       "url": "https://open.spotify.com/track/5gFDZ3ICCRjVq5gtcVXzkt"

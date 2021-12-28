@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 238439,
       "name": "Apollo - Acoustic Version",
       "url": "https://open.spotify.com/track/4z4T6CL0ByjV5sEmwjtT6T"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 254529,
       "name": "Atlantis - Acoustic Version",
       "url": "https://open.spotify.com/track/6rUgmZtH7GMCDMMkYAOslN"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 147514,
       "name": "Bad",
       "url": "https://open.spotify.com/track/5fiyuKLoOKKFbJBOp8gNiW"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 209774,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2m3ouxt4GwarBCRCmwDJdO"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 340000,
       "name": "Embrace - Lowland Classical Remix",
       "url": "https://open.spotify.com/track/7B6aUliCHEhaWDaUBZGWqj"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 186754,
       "name": "Find You + Spectrum + Clarity + Stay the Night",
       "url": "https://open.spotify.com/track/6HuetsfttCsDk6hx41OQ7S"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 463800,
       "name": "Good For Me - Live At The Hollywood Bowl",
       "url": "https://open.spotify.com/track/5BGuLjBnOy1tNMSHlUFseX"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 250506,
       "name": "Happier - Stripped",
       "url": "https://open.spotify.com/track/2FkQbpFk34QN97I3OHmfaA"
@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
+      },
+      "artists": [
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Imagination - Piano Vocal Ballad",
+      "url": "https://open.spotify.com/track/54WnFonOaZWr4VRWjNA0P9"
+    },
+    {
+      "album": {
         "name": "Into The Sunset (Acoustic)",
         "url": "https://open.spotify.com/album/0ELMBo0Cua6Tzcr5vCSZ78"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 181235,
       "name": "Into The Sunset - Acoustic",
       "url": "https://open.spotify.com/track/2ckJlAv1EZ8JRLDE2HNv2O"
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 243573,
       "name": "King - Acoustic",
       "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
@@ -1098,10 +1116,36 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 206666,
       "name": "Let Me Love You - Andrew Watt Acoustic Remix",
       "url": "https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu"
+    },
+    {
+      "album": {
+        "name": "Lighter (feat. KSI & Ella Henderson) [Acoustic]",
+        "url": "https://open.spotify.com/album/6INxj18FKxPT0rnS5ZZ7rL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151974,
+      "name": "Lighter (feat. KSI & Ella Henderson) - Acoustic",
+      "url": "https://open.spotify.com/track/7AKVU7SsXyPlWvRJPSTWHV"
     },
     {
       "album": {
@@ -1304,7 +1348,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/7BRYEE8wi0gye3T5V7zro9"
@@ -1352,6 +1396,28 @@
       "duration_ms": 239453,
       "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
       "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
+    },
+    {
+      "album": {
+        "name": "Tell Me You Love Me (Deluxe)",
+        "url": "https://open.spotify.com/album/2LGlGo4wHdPF2ZV1h0eX1A"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "No Promises - Acoustic",
+      "url": "https://open.spotify.com/track/10tuukId64A915wwQ9HzhK"
     },
     {
       "album": {
@@ -1728,7 +1794,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 160395,
       "name": "Red Lights - 3LAU's Acoustic Version",
       "url": "https://open.spotify.com/track/1DRi4qnbpeo8hPGIYVeRPP"
@@ -1914,7 +1980,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
@@ -1932,7 +1998,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 198985,
       "name": "Shivers - Acoustic Version",
       "url": "https://open.spotify.com/track/7pp1dAz4SXWz052k2idxTn"
@@ -2002,7 +2068,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 189660,
       "name": "Smoke Filled Room - Acoustic Session",
       "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
@@ -2082,7 +2148,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 288026,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/3u5DJhyNjkFCeCywlEK5JO"
@@ -2254,7 +2320,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 212692,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - Acoustic",
       "url": "https://open.spotify.com/track/0qynC1yRTNWI7JEsKV9dwg"
@@ -2290,7 +2356,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 260839,
       "name": "Thing Called Love",
       "url": "https://open.spotify.com/track/6J6AUucDtx9c0cjzjBUUtS"
@@ -2540,7 +2606,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 199750,
       "name": "Winterburn - Geert Huinink Orchestral Version",
       "url": "https://open.spotify.com/track/1xMCUb9iBxgjyYQF5Lfwwy"

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Spike Lee Jawn",
+        "url": "https://open.spotify.com/album/7JOKRvAKfLJ8sIBD3b1mCA"
+      },
+      "artists": [
+        {
+          "name": "theMIND",
+          "url": "https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP"
+        },
+        {
+          "name": "Krystal Metcalfe",
+          "url": "https://open.spotify.com/artist/6ctaYEvBlm9mw2Sr0fADf7"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251522,
+      "name": "A Spike Lee Jawn",
+      "url": "https://open.spotify.com/track/1mVwiaFemt52tNFQJLOpN2"
+    },
+    {
+      "album": {
         "name": "According To You",
         "url": "https://open.spotify.com/album/4ghBbVW4BChwFam44puXov"
       },
@@ -46,7 +68,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 204000,
       "name": "Again",
       "url": "https://open.spotify.com/track/3TgQIP81Ha5lyDOLWemQ78"
@@ -72,7 +94,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 243786,
       "name": "All I Need (with Mahalia & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/68j5DYmCikBzcp60Sv6xWO"
@@ -126,7 +148,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 190263,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/3YUeUS5imOjS9wqj0xhGYV"
@@ -156,7 +178,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 209134,
       "name": "Ally - Headnodic Remix",
       "url": "https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn"
@@ -174,7 +196,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 254620,
       "name": "Audrey Tell Me",
       "url": "https://open.spotify.com/track/2rzLMSlgENndN9bZ3QKnJv"
@@ -196,7 +218,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 212280,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2ywblqGc9Uvw5aZAzCqTU8"
@@ -324,7 +346,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 237579,
       "name": "Borders",
       "url": "https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu"
@@ -360,7 +382,7 @@
       ],
       "date_added": "2020-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 138000,
       "name": "Cauliflower",
       "url": "https://open.spotify.com/track/4Vp0zrHb37MuYWmzsbXQWa"
@@ -382,7 +404,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 249662,
       "name": "Change For Me (With Samm Henshaw)",
       "url": "https://open.spotify.com/track/7mEfwGs3l9NQSllJfKQlKY"
@@ -418,7 +440,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 176680,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v"
@@ -472,7 +494,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 194106,
       "name": "Content",
       "url": "https://open.spotify.com/track/2WBNAefaMsZBO9lL0UCQnU"
@@ -634,7 +656,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 293666,
       "name": "Distracted",
       "url": "https://open.spotify.com/track/1BWPQ3okXEbZTPI3sJ0Ywi"
@@ -678,7 +700,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 161003,
       "name": "Do That (feat. FHAT)",
       "url": "https://open.spotify.com/track/0RtkiBgYQmkiDg8ntoJxzT"
@@ -704,7 +726,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 176250,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr"
@@ -744,7 +766,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 198414,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/0g1BHzpPDPBmxHAPJuPPod"
@@ -762,7 +784,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 214933,
       "name": "Final Piece",
       "url": "https://open.spotify.com/track/5uTn8XYjxNe15vRIvid1Fl"
@@ -780,7 +802,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 193263,
       "name": "Find Your Way",
       "url": "https://open.spotify.com/track/3HjNo1wj4yCrHIBNzShzmg"
@@ -878,7 +900,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 160462,
       "name": "Free Facts",
       "url": "https://open.spotify.com/track/0gE1msPgOERcj1PHEfy0QV"
@@ -944,7 +966,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 168045,
       "name": "Givin'",
       "url": "https://open.spotify.com/track/0miEcUq0VOQnaJ1oJL4Qum"
@@ -1002,7 +1024,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 214000,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7KMIMHMUV8kZJmeX8F7zuN"
@@ -1068,6 +1090,24 @@
       "duration_ms": 196290,
       "name": "Ice Cold",
       "url": "https://open.spotify.com/track/56Yxprnbo79DpT8GTKPXlZ"
+    },
+    {
+      "album": {
+        "name": "The Wild Card",
+        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247786,
+      "name": "In It To Win",
+      "url": "https://open.spotify.com/track/41b2WXj5ZzBpPoVx7WvHMg"
     },
     {
       "album": {
@@ -1144,7 +1184,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 238624,
       "name": "Keepin' Me Under",
       "url": "https://open.spotify.com/track/4OvTmsRwU5YH9dRqC6rojB"
@@ -1184,7 +1224,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 240330,
       "name": "Last 100",
       "url": "https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S"
@@ -1262,7 +1302,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 212841,
       "name": "Lost a Little",
       "url": "https://open.spotify.com/track/41sV7uznvg52Cp9MDI9sqa"
@@ -1280,7 +1320,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 206960,
       "name": "Love and Unity",
       "url": "https://open.spotify.com/track/4WIzg3UhvjsGviCPNu4hQd"
@@ -1328,7 +1368,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 208296,
       "name": "Love Knows",
       "url": "https://open.spotify.com/track/25N5AzQceftj1O8kLLGie5"
@@ -1346,7 +1386,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 185733,
       "name": "Macaroni Salad",
       "url": "https://open.spotify.com/track/5p8RR3x2fsDLxBhPAvi5Qh"
@@ -1470,7 +1510,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216224,
       "name": "Next Spot",
       "url": "https://open.spotify.com/track/2oGcLgE0gF1UTepHw9K69G"
@@ -1492,7 +1532,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 248159,
       "name": "Noa Noa",
       "url": "https://open.spotify.com/track/27OctETisMkxIypWYruUUG"
@@ -1562,7 +1602,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 213101,
       "name": "Now We're Cooking",
       "url": "https://open.spotify.com/track/5B9kAjQ1JEdaQvhLsBVxjk"
@@ -1580,7 +1620,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 163263,
       "name": "Orange Tracksuit",
       "url": "https://open.spotify.com/track/7iy5y0YQX7MoFmP8G9Dyvg"
@@ -1598,7 +1638,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 204210,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/2WwxprzPDdUqmUF8dcHGSI"
@@ -1660,7 +1700,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 214285,
       "name": "Paper Cuts",
       "url": "https://open.spotify.com/track/0YQNTxIYrILQE7B8QP49f3"
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 129230,
       "name": "Right There",
       "url": "https://open.spotify.com/track/02urcBVsMSr13r3iZZNwvX"
@@ -1922,7 +1962,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 218418,
       "name": "Say What's on Your Mind",
       "url": "https://open.spotify.com/track/1DEFCYIVCDmqUnaI2k4lLP"
@@ -1944,10 +1984,28 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 184650,
       "name": "See You",
       "url": "https://open.spotify.com/track/5GZFPLrGgPH0cG2R12aaVM"
+    },
+    {
+      "album": {
+        "name": "She Funked Me",
+        "url": "https://open.spotify.com/album/02Ti50wKt5CeySWFYngvXX"
+      },
+      "artists": [
+        {
+          "name": "Cassowary",
+          "url": "https://open.spotify.com/artist/3T3Ta5gL9MFTQ9xuZ0h9Dy"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "She Funked Me",
+      "url": "https://open.spotify.com/track/5x6KuClP6lLCvgjXUbLKGb"
     },
     {
       "album": {
@@ -1992,7 +2050,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 177538,
       "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
       "url": "https://open.spotify.com/track/0xHeGspdxuVIm49iNXDO2u"
@@ -2072,7 +2130,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 188468,
       "name": "Somebody Like Me (feat. Brasstracks)",
       "url": "https://open.spotify.com/track/0MiywregjNJedadEvRcVDU"
@@ -2138,7 +2196,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 202909,
       "name": "Sounds of Violence",
       "url": "https://open.spotify.com/track/1bZTCOvByHuzAhGtrpKXrg"
@@ -2156,7 +2214,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 207721,
       "name": "Space",
       "url": "https://open.spotify.com/track/0nFAyUvyui8s3dfnS0iYXW"
@@ -2196,7 +2254,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 200064,
       "name": "Spin Around",
       "url": "https://open.spotify.com/track/1AIxRO2siLiccrD1nkQvjG"
@@ -2254,7 +2312,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 190689,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/57sInFXtiUWZvj2oxtAf0A"
@@ -2272,7 +2330,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 174520,
       "name": "Sure Don't Miss You",
       "url": "https://open.spotify.com/track/4afpgzmy9O1JB3Vovb3qb0"
@@ -2374,7 +2432,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 115954,
       "name": "Thank You Master (For My Soul)",
       "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
@@ -2487,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Til' The End",
+        "url": "https://open.spotify.com/album/1pTYH3a3ZhOWjKWnLrNLC8"
+      },
+      "artists": [
+        {
+          "name": "Dupont Brass",
+          "url": "https://open.spotify.com/artist/0k65PL08B1OYc76Wlh2hjT"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Til' The End",
+      "url": "https://open.spotify.com/track/637xhnFza81m9ZAXTOYFkI"
+    },
+    {
+      "album": {
         "name": "Goods the EP",
         "url": "https://open.spotify.com/album/5KVRW2jFTfNdSvW3qPJiyi"
       },
@@ -2498,7 +2574,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 261293,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7eKt06H4E9atyWYWmdo7x7"
@@ -2534,7 +2610,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 171232,
       "name": "trouble",
       "url": "https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD"
@@ -2570,10 +2646,28 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Up to You",
       "url": "https://open.spotify.com/track/1ypLtUSLjbvO3oscbw18kR"
+    },
+    {
+      "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/4QECHmiMhtkrT06Z1A6pTf"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2021-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264145,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y"
     },
     {
       "album": {
@@ -2588,7 +2682,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 252838,
       "name": "What's Up What's Down",
       "url": "https://open.spotify.com/track/27ULQxLIwvRWdBEkfyD3lV"
@@ -2686,7 +2780,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
@@ -2758,7 +2852,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 274250,
       "name": "You and You - Single Edit",
       "url": "https://open.spotify.com/track/1jEe3EaNbkGecUBHKMcReK"

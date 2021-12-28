@@ -182,10 +182,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 213720,
       "name": "Cold Times",
       "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
+    },
+    {
+      "album": {
+        "name": "Eliot Bronson",
+        "url": "https://open.spotify.com/album/6jfNS8a4el9axJwjqq91oQ"
+      },
+      "artists": [
+        {
+          "name": "Eliot Bronson",
+          "url": "https://open.spotify.com/artist/404FGezj0LKlz93eSqqKuI"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213172,
+      "name": "Comin' For Ya North Georgia Blues",
+      "url": "https://open.spotify.com/track/0vqeMxEGBrbH1VHE88qV3L"
     },
     {
       "album": {
@@ -254,7 +272,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 262536,
       "name": "Dance For Love",
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 217466,
       "name": "Fine and Mellow",
       "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
@@ -585,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Holly",
+        "url": "https://open.spotify.com/album/1Q2XIzf9j68gTi9MuY4fwD"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163346,
+      "name": "Holly",
+      "url": "https://open.spotify.com/track/3YYmCD8ERuxyMu6GDhWDQF"
+    },
+    {
+      "album": {
         "name": "Honest Man",
         "url": "https://open.spotify.com/album/4syDqjDLtyOd7T70QkUQ60"
       },
@@ -596,7 +632,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 212706,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/0KRBAOHg8LuG07fF2jrsrK"
@@ -846,7 +882,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 218749,
       "name": "King of Bohemia",
       "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
@@ -1120,7 +1156,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 146200,
       "name": "Never Had Nobody Like You",
       "url": "https://open.spotify.com/track/7LT6dkoxfUavcBDe7RYgog"
@@ -1210,7 +1246,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 140198,
       "name": "Oh Dear Louis",
       "url": "https://open.spotify.com/track/7ENAaurcGdJwtfPGmjKFxJ"
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 166106,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 260308,
       "name": "Party City",
       "url": "https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO"
@@ -1516,7 +1552,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 202400,
       "name": "Say It",
       "url": "https://open.spotify.com/track/4hqsg6viSC2UoLKUydMFOO"
@@ -1650,7 +1686,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 236920,
       "name": "Southern Bells",
       "url": "https://open.spotify.com/track/2QWJaT6j18Ay35M2eTlbVo"
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 240026,
       "name": "Tell the Falling Sun",
       "url": "https://open.spotify.com/track/247qxelzjSgKDWINzRJ7Pf"
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 190600,
       "name": "The Ruse",
       "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
@@ -1888,7 +1924,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 202320,
       "name": "Trouble Is",
       "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"

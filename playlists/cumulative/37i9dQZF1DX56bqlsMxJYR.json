@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 158426,
       "name": "(How Much Is) That Doggie in the Window",
       "url": "https://open.spotify.com/track/1mMSH14XSSjzLvNuf62azx"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 165933,
       "name": "(Love Is Like A) Heat Wave - Single Version",
       "url": "https://open.spotify.com/track/4y5c6RsmHzrNHqL1n8hMyI"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 142906,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 141666,
       "name": "Charlie Brown",
       "url": "https://open.spotify.com/track/6Q0aBakbTsjQO6iGdxmXlx"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 161640,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/78VG6M1i7JQXBdygmWFwye"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 163045,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/1Vr6JSWTpl5MIxUHOJ3nny"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 117266,
       "name": "I'm In Love Again",
       "url": "https://open.spotify.com/track/64tWwNVw8RPIY2N4IYGUBk"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 143800,
       "name": "Itsy Bitsy Teenie Weenie Yellow Polka-Dot Bikini",
       "url": "https://open.spotify.com/track/3Aug2RunJbjGiz2CTtWu5l"
@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "The Essential Elvis Presley",
+        "url": "https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2020-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "Love Me Tender",
+      "url": "https://open.spotify.com/track/7LSGjWtza5Y8itm6Cpbj1s"
+    },
+    {
+      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 130892,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 141933,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt"
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 130093,
       "name": "Shout Shout (Knock Yourself Out)",
       "url": "https://open.spotify.com/track/5x6EGByCHCfGtVCwg1Z1PG"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 156680,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW"
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 151413,
       "name": "Things",
       "url": "https://open.spotify.com/track/7EME8xI4YLbUUT8qVKgBoR"
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 150746,
       "name": "Twist and Shout",
       "url": "https://open.spotify.com/track/7liNRTr5Px7I3R96mDucjw"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
@@ -2124,7 +2142,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 121705,
       "name": "Wonderful World (Re-Record)",
       "url": "https://open.spotify.com/track/43LT5KZkhHbSqOjOUeQbh6"
@@ -2222,6 +2240,24 @@
       "duration_ms": 225426,
       "name": "You've Lost That Lovin' Feelin'",
       "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
+    },
+    {
+      "album": {
+        "name": "The Ames Brothers Volume 2",
+        "url": "https://open.spotify.com/album/3N3zdZQ8DDHcRFiFg1jYH5"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "date_added": "2020-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175612,
+      "name": "You, You, You",
+      "url": "https://open.spotify.com/track/7iv8br1y5Hv63QX5Z2HFjv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX56bqlsMxJYR"

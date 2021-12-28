@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUifRttnt99X.md) - [plain]
 
 > An essential collection of songs from the <a href="spotify:artist:2H5elA2mJKrHmqkN9GSfkz">folk icon</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,145 likes - 59 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,148 likes - 59 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

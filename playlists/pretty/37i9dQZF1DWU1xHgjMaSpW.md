@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1xHgjMaSpW.md) - [plain]
 
 > All Mighty Merle...All The Time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,696 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,709 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,45 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
   "name": "Spilled Ink",
-  "num_followers": 563888,
+  "num_followers": 564144,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDYwMTgwOCwwMDAwMDAwMDJlY2E3ZTFiZGQyMTkxNDRjZjA4NWFjOThiMDk5Y2Ex",
+  "snapshot_id": "MTY0MDY1MTc5MiwwMDAwMDAwMDRiZjdjNjFlOGY1OTM1YTMzMzdhZTY4MzVkNWRlMWU4",
   "tracks": [
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Headshots (4r Da Locals)",
+        "url": "https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 193208,
+      "name": "Headshots (4r Da Locals)",
+      "url": "https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "LAW OF AVERAGES",
+        "url": "https://open.spotify.com/album/138cEdPW5rqGndgVYmYwet"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 139050,
+      "name": "LAW OF AVERAGES",
+      "url": "https://open.spotify.com/track/5H9dz6nY2JtAvtSkX8Xj5K"
+    },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
@@ -31,42 +63,18 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Headshots (4r Da Locals)",
-        "url": "https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1"
+        "name": "Peaks N Pitfalls",
+        "url": "https://open.spotify.com/album/0ZyQCcrEs9zGWadDPdZCjE"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
         }
       ],
-      "duration_ms": 193208,
-      "name": "Headshots (4r Da Locals)",
-      "url": "https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "La Maquina",
-        "url": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Scatter Brain (feat. Ludacris & JID)",
-      "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
+      "duration_ms": 191481,
+      "name": "Peaks N Pitfalls",
+      "url": "https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR"
     },
     {
       "added_at": "2021-09-03 12:49:20",
@@ -115,58 +123,6 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Allegedly",
-        "url": "https://open.spotify.com/album/0mgkc7j1fry0jeUUb4Q11W"
-      },
-      "artists": [
-        {
-          "name": "Medhane",
-          "url": "https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i"
-        }
-      ],
-      "duration_ms": 122692,
-      "name": "Allegedly",
-      "url": "https://open.spotify.com/track/2HXsIxIW4PXJI4etLWyXR9"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/2HXNzxTADIP8471UeJXDWw"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 248810,
-      "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/5aULAy3NUfelCYKub4mOS9"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Truffles",
-        "url": "https://open.spotify.com/album/5UwoNjOPVBSOlAQU8AfvGE"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Truffles",
-      "url": "https://open.spotify.com/track/6YasuOZcSrwQvHNbsxuPPW"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
         "name": "Skegee",
         "url": "https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL"
       },
@@ -179,6 +135,38 @@
       "duration_ms": 186167,
       "name": "Skegee",
       "url": "https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Only For Dolphins",
+        "url": "https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 140613,
+      "name": "Cliff Hanger",
+      "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Shooter",
+        "url": "https://open.spotify.com/album/1ZgqJABKkJtvJrNH64SF2J"
+      },
+      "artists": [
+        {
+          "name": "Swavay",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "duration_ms": 235023,
+      "name": "Shooter",
+      "url": "https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz"
     },
     {
       "added_at": "2021-09-03 12:49:20",
@@ -203,46 +191,42 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "RUN THE WORLD",
-        "url": "https://open.spotify.com/album/06spODPScUqLi5jMPKq93q"
+        "name": "Shame On You",
+        "url": "https://open.spotify.com/album/64baftC5M1GdUCl6q4CTyh"
       },
       "artists": [
         {
-          "name": "Hush Forte",
-          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
         }
       ],
-      "duration_ms": 178536,
-      "name": "RUN THE WORLD",
-      "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
+      "duration_ms": 199803,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/0d33DG1uICHiennWuQUjzs"
     },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)",
-        "url": "https://open.spotify.com/album/2v0dFHtUFXzuryOvgTYk9r"
+        "name": "La Maquina",
+        "url": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         },
         {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)",
-      "url": "https://open.spotify.com/track/4BZYQk0qoFTnTKY90Q8iBZ"
+      "duration_ms": 209117,
+      "name": "Scatter Brain (feat. Ludacris & JID)",
+      "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
     },
     {
       "added_at": "2021-09-03 12:49:20",
@@ -263,18 +247,22 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Niagara",
-        "url": "https://open.spotify.com/album/3wINP6SbT7TqiaYGo3Lj8f"
+        "name": "Burden of Proof",
+        "url": "https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3"
       },
       "artists": [
         {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 124872,
-      "name": "Weight",
-      "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
+      "duration_ms": 198998,
+      "name": "One Way Flight (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
     },
     {
       "added_at": "2021-09-03 12:49:20",
@@ -299,110 +287,62 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "For Real (feat. Kemba)",
-        "url": "https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8"
+        "name": "BUZZCUT (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/71qxIkZvfyFGQKUe9YA0ry"
       },
       "artists": [
         {
-          "name": "Jharrel Jerome",
-          "url": "https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4"
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
         },
         {
-          "name": "Kemba",
-          "url": "https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM"
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
         }
       ],
-      "duration_ms": 185306,
-      "name": "For Real (feat. Kemba)",
-      "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
+      "duration_ms": 201160,
+      "name": "BUZZCUT (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6"
     },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "LAW OF AVERAGES",
-        "url": "https://open.spotify.com/album/138cEdPW5rqGndgVYmYwet"
+        "name": "Lamb Over Rice",
+        "url": "https://open.spotify.com/album/3BPX4x5EQOd9vzpPC2rMrm"
       },
       "artists": [
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 139050,
-      "name": "LAW OF AVERAGES",
-      "url": "https://open.spotify.com/track/5H9dz6nY2JtAvtSkX8Xj5K"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Top of the Morning",
-        "url": "https://open.spotify.com/album/68saJJF1CRfBTqekk2oP5t"
-      },
-      "artists": [
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 214137,
-      "name": "Top of the Morning",
-      "url": "https://open.spotify.com/track/7GDwVJttKCeqfeANTwe9y3"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Sprague Street",
-        "url": "https://open.spotify.com/album/63KIa8D5Lb7J9nivOZRWKM"
-      },
-      "artists": [
-        {
-          "name": "Kipp Stone",
-          "url": "https://open.spotify.com/artist/3KSsoLvVR3TTJpzRReIs3X"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         },
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 257832,
-      "name": "Sprague Street",
-      "url": "https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx"
+      "duration_ms": 274133,
+      "name": "Dmtri",
+      "url": "https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc"
     },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Myself (feat. DEVN)",
-        "url": "https://open.spotify.com/album/79Xrj6MlB0gQoXphSn8NFs"
+        "name": "How You Live It (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/1DnwUfn1lj7Zas2vNNrhsT"
       },
       "artists": [
         {
-          "name": "Lute",
-          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
+          "name": "Nyck Caution",
+          "url": "https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt"
         },
         {
-          "name": "DEVN",
-          "url": "https://open.spotify.com/artist/2pLG1DAWil29V9CrbvuFN4"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 172524,
-      "name": "Myself (feat. DEVN)",
-      "url": "https://open.spotify.com/track/7mlOsqmNcuZK9c43W1p2hD"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Peaks N Pitfalls",
-        "url": "https://open.spotify.com/album/0ZyQCcrEs9zGWadDPdZCjE"
-      },
-      "artists": [
-        {
-          "name": "GRIP",
-          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
-        }
-      ],
-      "duration_ms": 191481,
-      "name": "Peaks N Pitfalls",
-      "url": "https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR"
+      "duration_ms": 180680,
+      "name": "How You Live It (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/6dW64vFw23XYoPihztXZuv"
     },
     {
       "added_at": "2021-09-03 12:49:20",
@@ -427,46 +367,98 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "BUZZCUT (feat. Danny Brown)",
-        "url": "https://open.spotify.com/album/71qxIkZvfyFGQKUe9YA0ry"
+        "name": "Myself (feat. DEVN)",
+        "url": "https://open.spotify.com/album/79Xrj6MlB0gQoXphSn8NFs"
       },
       "artists": [
         {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+          "name": "Lute",
+          "url": "https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK"
         },
         {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+          "name": "DEVN",
+          "url": "https://open.spotify.com/artist/2pLG1DAWil29V9CrbvuFN4"
         }
       ],
-      "duration_ms": 201160,
-      "name": "BUZZCUT (feat. Danny Brown)",
-      "url": "https://open.spotify.com/track/3uOIoS7lOvzQAtbbyttHp6"
+      "duration_ms": 172524,
+      "name": "Myself (feat. DEVN)",
+      "url": "https://open.spotify.com/track/7mlOsqmNcuZK9c43W1p2hD"
     },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+        "name": "Chicken N Dumplins",
+        "url": "https://open.spotify.com/album/3eJJmcOAr0FVxGgQM5nUJi"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
         }
       ],
-      "duration_ms": 146419,
-      "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
-      "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
+      "duration_ms": 226173,
+      "name": "Chicken N Dumplins",
+      "url": "https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "This Thing Of Ours",
+        "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+        }
+      ],
+      "duration_ms": 177373,
+      "name": "TV Dinners (feat. Boldy James & Sideshow)",
+      "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Top of the Morning",
+        "url": "https://open.spotify.com/album/68saJJF1CRfBTqekk2oP5t"
+      },
+      "artists": [
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 214137,
+      "name": "Top of the Morning",
+      "url": "https://open.spotify.com/track/7GDwVJttKCeqfeANTwe9y3"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "For Real (feat. Kemba)",
+        "url": "https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8"
+      },
+      "artists": [
+        {
+          "name": "Jharrel Jerome",
+          "url": "https://open.spotify.com/artist/08ir3R5W3Str9JizW5eht4"
+        },
+        {
+          "name": "Kemba",
+          "url": "https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "For Real (feat. Kemba)",
+      "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
     },
     {
       "added_at": "2021-09-03 12:49:20",
@@ -499,162 +491,6 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 116829,
-      "name": "Theme For The People",
-      "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Lamb Over Rice",
-        "url": "https://open.spotify.com/album/3BPX4x5EQOd9vzpPC2rMrm"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 274133,
-      "name": "Dmtri",
-      "url": "https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "God's Bathroom Floor",
-        "url": "https://open.spotify.com/album/64Z4NTJZWPJFh2PzeDuwsL"
-      },
-      "artists": [
-        {
-          "name": "Atmosphere",
-          "url": "https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "God's Bathroom Floor",
-      "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Chicken N Dumplins",
-        "url": "https://open.spotify.com/album/3eJJmcOAr0FVxGgQM5nUJi"
-      },
-      "artists": [
-        {
-          "name": "GRIP",
-          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Chicken N Dumplins",
-      "url": "https://open.spotify.com/track/0d6nLPB8mwKp2qYJupyPuY"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "The Process (feat. Kay Franklin)",
-        "url": "https://open.spotify.com/album/5VUSnVUX8RMXv3I1DsuyKk"
-      },
-      "artists": [
-        {
-          "name": "Neek Bucks",
-          "url": "https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc"
-        },
-        {
-          "name": "Kay Franklin",
-          "url": "https://open.spotify.com/artist/24EY6rZFOruUXOcoqxUW21"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "The Process (feat. Kay Franklin)",
-      "url": "https://open.spotify.com/track/59OyFXckWQoTn73T5SZkiM"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Judas and the Black Messiah: The Inspired Album",
-        "url": "https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Rich Nigga Problems",
-      "url": "https://open.spotify.com/track/3EwSEyZNGySU5H0Ve1QIWQ"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Shooter",
-        "url": "https://open.spotify.com/album/1ZgqJABKkJtvJrNH64SF2J"
-      },
-      "artists": [
-        {
-          "name": "Swavay",
-          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
-        }
-      ],
-      "duration_ms": 235023,
-      "name": "Shooter",
-      "url": "https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Burden of Proof",
-        "url": "https://open.spotify.com/album/6xlQNGdro3cCcn8v1ZEGm3"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 198998,
-      "name": "One Way Flight (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/03jnWnj2qOrYofsyCTuHC6"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "The Light Pack",
-        "url": "https://open.spotify.com/album/14EzA7MWoKYPjzjeT4gtj3"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 125680,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5LyK4EaVofQjOvJ4OGhdfv"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
         "name": "LUMBERJACK",
         "url": "https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e"
       },
@@ -667,30 +503,6 @@
       "duration_ms": 138312,
       "name": "LUMBERJACK",
       "url": "https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "The Narcissist",
-        "url": "https://open.spotify.com/album/6Z4JqTlrnnjT2UM9FEFvwQ"
-      },
-      "artists": [
-        {
-          "name": "Brady Watt",
-          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 137688,
-      "name": "The Narcissist",
-      "url": "https://open.spotify.com/track/6zBiYnh5AmAWtkO709qTZb"
     },
     {
       "added_at": "2021-09-03 12:49:20",
@@ -723,6 +535,26 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
+        "name": "Sink",
+        "url": "https://open.spotify.com/album/6e6elVmUC70lrRndssuAk5"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "duration_ms": 124931,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/6SGtzveb9eeXkSYqkyLk21"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/26bwkDvo9hJSK7O1SUELQ3"
       },
@@ -732,49 +564,321 @@
           "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
         }
       ],
-      "duration_ms": 179250,
-      "name": "Cassius",
-      "url": "https://open.spotify.com/track/3Uqv1FU5OwU6hVOdj81VQa"
+      "duration_ms": 186000,
+      "name": "No M\u00e1s!",
+      "url": "https://open.spotify.com/track/3Sxd2zTEoWwMPAVbBJGwAC"
     },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Alfredo",
-        "url": "https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N"
+        "name": "The Process (feat. Kay Franklin)",
+        "url": "https://open.spotify.com/album/5VUSnVUX8RMXv3I1DsuyKk"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Neek Bucks",
+          "url": "https://open.spotify.com/artist/43khwEflLhLeFZ6gx8QIzc"
+        },
+        {
+          "name": "Kay Franklin",
+          "url": "https://open.spotify.com/artist/24EY6rZFOruUXOcoqxUW21"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "The Process (feat. Kay Franklin)",
+      "url": "https://open.spotify.com/track/59OyFXckWQoTn73T5SZkiM"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "BOZOS",
+        "url": "https://open.spotify.com/album/1grHcnMMW7aLjUY11KJtH2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 169453,
+      "name": "BOZOS",
+      "url": "https://open.spotify.com/track/6SD90udaKP3jfdz0c9p8Om"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)",
+        "url": "https://open.spotify.com/album/2v0dFHtUFXzuryOvgTYk9r"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)",
+      "url": "https://open.spotify.com/track/4BZYQk0qoFTnTKY90Q8iBZ"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Golden Eye",
+        "url": "https://open.spotify.com/album/2WjzdNogZj7xnPhweKEHzD"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Golden Eye",
+      "url": "https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 146419,
+      "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+      "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Bo Jackson",
+        "url": "https://open.spotify.com/album/1KHFw3hsKvNGGCkXKQMrbT"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         },
         {
           "name": "The Alchemist",
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 239026,
-      "name": "God Is Perfect",
-      "url": "https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl"
+      "duration_ms": 226800,
+      "name": "Fake Flowers",
+      "url": "https://open.spotify.com/track/6kdYgh9p7t8wlxljk8KGJg"
     },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "The Tree Act",
-        "url": "https://open.spotify.com/album/6btEzFDxqJg0AYDtORkVE8"
+        "name": "La Maquina",
+        "url": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz"
       },
       "artists": [
         {
-          "name": "Nappy Nina",
-          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 134674,
-      "name": "Treehouse",
-      "url": "https://open.spotify.com/track/09AnQUhsPhrCKTAjaKowpR"
+      "duration_ms": 265384,
+      "name": "200 Pies (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/7FoLi3HouGfytmOekWmglN"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/4ilCXDgIrmipXEBBBjMOiK"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Dropout Boogie",
+      "url": "https://open.spotify.com/track/7pNGCmzKPTPUbAE7gAttTE"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/2HXNzxTADIP8471UeJXDWw"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 248810,
+      "name": "Look Over Your Shoulder (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5aULAy3NUfelCYKub4mOS9"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Judas and the Black Messiah: The Inspired Album",
+        "url": "https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Rich Nigga Problems",
+      "url": "https://open.spotify.com/track/3EwSEyZNGySU5H0Ve1QIWQ"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/35ZiUwGPSNxSSMVbt8WSgr"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "duration_ms": 241005,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/7F4W2OMucMWyC9LewpsCX0"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Young King",
+        "url": "https://open.spotify.com/album/5y9QMoOaXExN62vtUI4lTf"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Young King",
+      "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Burning Bush",
+        "url": "https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB"
+      },
+      "artists": [
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/5NFQr1KZQS9V6SDSrmU0q3"
+        }
+      ],
+      "duration_ms": 211848,
+      "name": "Burning Bush",
+      "url": "https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "RUN THE WORLD",
+        "url": "https://open.spotify.com/album/06spODPScUqLi5jMPKq93q"
+      },
+      "artists": [
+        {
+          "name": "Hush Forte",
+          "url": "https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "RUN THE WORLD",
+      "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/6Z4JqTlrnnjT2UM9FEFvwQ"
+      },
+      "artists": [
+        {
+          "name": "Brady Watt",
+          "url": "https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 137688,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/6zBiYnh5AmAWtkO709qTZb"
     },
     {
       "added_at": "2021-09-03 12:49:20",
@@ -807,170 +911,114 @@
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "BOZOS",
-        "url": "https://open.spotify.com/album/1grHcnMMW7aLjUY11KJtH2"
+        "name": "CINCORIGINALS",
+        "url": "https://open.spotify.com/album/0Dig7jayR5ts18aaMPFbPP"
       },
       "artists": [
         {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 169453,
-      "name": "BOZOS",
-      "url": "https://open.spotify.com/track/6SD90udaKP3jfdz0c9p8Om"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "This Thing Of Ours",
-        "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
         },
         {
-          "name": "Sideshow",
-          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
         }
       ],
-      "duration_ms": 177373,
-      "name": "TV Dinners (feat. Boldy James & Sideshow)",
-      "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+      "duration_ms": 261517,
+      "name": "FATHER FIGURE",
+      "url": "https://open.spotify.com/track/4tamxu3gTVkEDzgpTDvDv0"
     },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Dangerookipawaa Freestyle",
-        "url": "https://open.spotify.com/album/3f53BJvrCgMNXuyju8EBUi"
+        "name": "Pravda",
+        "url": "https://open.spotify.com/album/42w0ZyrhB52x32OJkJXfH1"
       },
       "artists": [
         {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 227063,
-      "name": "Dangerookipawaa Freestyle",
-      "url": "https://open.spotify.com/track/0yL0He951vlMYygPzSEEJ0"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "The Stellar Ray Theory",
-        "url": "https://open.spotify.com/album/2iWgPWVmzXBCyACc353XhR"
-      },
-      "artists": [
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
         {
           "name": "Mach-Hommy",
           "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
         }
       ],
-      "duration_ms": 194652,
-      "name": "The Stellar Ray Theory",
-      "url": "https://open.spotify.com/track/52emBfS1l9frzMlxvaRSbE"
+      "duration_ms": 359480,
+      "name": "Pravda",
+      "url": "https://open.spotify.com/track/5z32oXMF5FgR8jFy7aOkAq"
     },
     {
       "added_at": "2021-09-03 12:49:20",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7"
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/3wINP6SbT7TqiaYGo3Lj8f"
       },
       "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 124872,
+      "name": "Weight",
+      "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "God's Bathroom Floor",
+        "url": "https://open.spotify.com/album/64Z4NTJZWPJFh2PzeDuwsL"
+      },
+      "artists": [
+        {
+          "name": "Atmosphere",
+          "url": "https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "God's Bathroom Floor",
+      "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
+    },
+    {
+      "added_at": "2021-09-03 12:49:20",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/7ziMuGcC9aJh8HCHQltupF"
+      },
+      "artists": [
+        {
+          "name": "Flatbush Zombies",
+          "url": "https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC"
+        },
+        {
+          "name": "Zombie Juice",
+          "url": "https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR"
+        },
         {
           "name": "Erick the Architect",
           "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "FARR",
-          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
         }
       ],
-      "duration_ms": 223641,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/26tRs1uVatxA2XXvsavBcW"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 164938,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Burning Bush",
-        "url": "https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB"
-      },
-      "artists": [
-        {
-          "name": "GRIP",
-          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/5NFQr1KZQS9V6SDSrmU0q3"
-        }
-      ],
-      "duration_ms": 211848,
-      "name": "Burning Bush",
-      "url": "https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "G.R.A.M.S.",
-        "url": "https://open.spotify.com/album/1UQHTiRtuGTCTvwIFDcKkZ"
-      },
-      "artists": [
-        {
-          "name": "Jayy Grams",
-          "url": "https://open.spotify.com/artist/6q8DZBLBYqEUdKZl54sqGd"
-        }
-      ],
-      "duration_ms": 195367,
-      "name": "Moment of Truth",
-      "url": "https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU"
-    },
-    {
-      "added_at": "2021-09-03 12:49:20",
-      "album": {
-        "name": "Teriyaki",
-        "url": "https://open.spotify.com/album/6w7cg9sdj8gwmi27nvGoOQ"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Teriyaki",
-      "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
+      "duration_ms": 194746,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/42dLRNmTqdwPZIiG0NRBWH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia"

@@ -226,7 +226,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 171093,
       "name": "All In the Wrist",
       "url": "https://open.spotify.com/track/13cM3Tbw3vs0hEwTi3JwJx"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 166956,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/4oqVeCZeDdWwX8M7aC9oB3"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 225621,
       "name": "Another Win",
       "url": "https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 197241,
       "name": "As I Went Down",
       "url": "https://open.spotify.com/track/0snyCglbmJqRxzuQBubLID"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 257842,
       "name": "Attributes of Mercy",
       "url": "https://open.spotify.com/track/4sZHFjBABsitGtUnjFdzxd"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 196056,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 248934,
       "name": "Baby Boy (feat. Kaeli Roselle)",
       "url": "https://open.spotify.com/track/3nxipxyGXTIU2yHAJbBeZA"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 229982,
       "name": "Bars Hill",
       "url": "https://open.spotify.com/track/3aPzoTiciNzXuqCaqzFzLp"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 163373,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/2pwP92X4fpMnbvxvIU9cL7"
@@ -708,10 +708,36 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 179277,
       "name": "Bless God",
       "url": "https://open.spotify.com/track/1g8tR1awNj30526ul1vdp5"
+    },
+    {
+      "album": {
+        "name": "Summer's Back",
+        "url": "https://open.spotify.com/album/3dXWmQO0fM5Gj9S8sv4YjW"
+      },
+      "artists": [
+        {
+          "name": "JStu",
+          "url": "https://open.spotify.com/artist/1XPqOoA9Vz9PbFELTX7gHh"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147329,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/7nIcSHlvM81ek3T4CmnyPM"
     },
     {
       "album": {
@@ -953,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Change the Channel",
+        "url": "https://open.spotify.com/album/7BsU7piQMlUAv8MZ6IvaiW"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270998,
+      "name": "Change The Channel",
+      "url": "https://open.spotify.com/track/5CSmjkOlfKgu2TfTkAKm0D"
+    },
+    {
+      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
       },
@@ -968,6 +1012,32 @@
       "duration_ms": 168004,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP"
+    },
+    {
+      "album": {
+        "name": "Clocked In (feat. Aklesso & Derek Minor)",
+        "url": "https://open.spotify.com/album/35vRMyqv8TeWFwCuSRlaCt"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266550,
+      "name": "Clocked In (feat. Aklesso & Derek Minor)",
+      "url": "https://open.spotify.com/track/4MR9wuxQ5Euw2Ng46ZpuiE"
     },
     {
       "album": {
@@ -1111,6 +1181,28 @@
     },
     {
       "album": {
+        "name": "Crucify Him",
+        "url": "https://open.spotify.com/album/2ZOdoiSKgepz7uQK9RI2SW"
+      },
+      "artists": [
+        {
+          "name": "KJ-52",
+          "url": "https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/5XVCohNKVr8dPM68CwCY51"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159038,
+      "name": "Crucify Him",
+      "url": "https://open.spotify.com/track/6aIOlcNK46y5ZYJCDHW00X"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/0r4OA7mOtPjXsL48uVrgp8"
       },
@@ -1166,7 +1258,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 154000,
       "name": "Designer Diamonds",
       "url": "https://open.spotify.com/track/4bgkBZVmmBbdjl3DbSRnGc"
@@ -1192,7 +1284,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 205692,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/0IZD3tqWMmrgyeQrle3fqa"
@@ -1210,7 +1302,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 178257,
       "name": "Die For You - the warehouse sessions",
       "url": "https://open.spotify.com/track/3MBqpiYpy3UVAZfhYy8RLI"
@@ -1312,7 +1404,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 171428,
       "name": "Edicius.",
       "url": "https://open.spotify.com/track/6qPZ3JckEYNbskPjLgiyBg"
@@ -1442,7 +1534,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 184271,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
@@ -1478,7 +1570,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "Fair",
       "url": "https://open.spotify.com/track/6Q1UA2q17PA2I2wZCE2rMc"
@@ -1500,7 +1592,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 161816,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/766Qs72aW1J2A6LsSLwXRB"
@@ -1544,7 +1636,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 199399,
       "name": "FIELDHOUSE FREESTYLE",
       "url": "https://open.spotify.com/track/2HPVgwLLVYsnwkrywsmFAh"
@@ -1588,7 +1680,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 176640,
       "name": "Firestick (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/3w9dvOygKRnYSTd0ungAN4"
@@ -1716,7 +1808,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 195004,
       "name": "FRONT ROW",
       "url": "https://open.spotify.com/track/2eKAGXhvlPxUsGe4PXVR73"
@@ -1844,7 +1936,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 195589,
       "name": "Gotta Wait (feat. Eris Ford)",
       "url": "https://open.spotify.com/track/19o1cnz9syo7tH9zUwpelk"
@@ -1884,7 +1976,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 209911,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/3FqNcQgyWwBBa63Ix0wR1X"
@@ -1920,7 +2012,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 160000,
       "name": "Hard Life",
       "url": "https://open.spotify.com/track/1nwX36WCJWiPChGGIxswan"
@@ -1978,6 +2070,32 @@
       "duration_ms": 209951,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
+    },
+    {
+      "album": {
+        "name": "How We Coming",
+        "url": "https://open.spotify.com/album/5lfyHVueIdICtBubN9DuJd"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192873,
+      "name": "How We Coming",
+      "url": "https://open.spotify.com/track/3EDBibqyd4DIRAvcygDLjW"
     },
     {
       "album": {
@@ -2058,7 +2176,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 161101,
       "name": "i'm back",
       "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
@@ -2252,7 +2370,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 178200,
       "name": "JUDAS",
       "url": "https://open.spotify.com/track/3i5fHqS5KufGtVx6VlXqF5"
@@ -2300,7 +2418,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 245713,
       "name": "Keep Your Word (feat. Mariah Anae)",
       "url": "https://open.spotify.com/track/6jTl8ASbM9j4Ap0lpIIt8t"
@@ -2326,7 +2444,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 153749,
       "name": "Kung Fu",
       "url": "https://open.spotify.com/track/5nD0Po382MQJjhgYz34k9o"
@@ -2348,7 +2466,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 161818,
       "name": "Land Mines (feat. Aaron Cole)",
       "url": "https://open.spotify.com/track/11oYWcEKYqHOngt78zz1au"
@@ -2480,7 +2598,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 215189,
       "name": "Lights in the City",
       "url": "https://open.spotify.com/track/0Ungs1C2UKbCJabb94wity"
@@ -2510,6 +2628,24 @@
       "duration_ms": 191716,
       "name": "LIKE YOU (feat. Tauren Wells & TobyMac)",
       "url": "https://open.spotify.com/track/0EOIXfewSRoiO4lqwhAHrA"
+    },
+    {
+      "album": {
+        "name": "Lincoln",
+        "url": "https://open.spotify.com/album/1BgrsZr2sx0dEiK18sZGd9"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267469,
+      "name": "Lincoln",
+      "url": "https://open.spotify.com/track/7KsSc1CI3GAbcsqv2t0G6K"
     },
     {
       "album": {
@@ -2550,7 +2686,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 209302,
       "name": "Love Your Neighbor",
       "url": "https://open.spotify.com/track/3aCCPNjccDGxtvM78Y7s3F"
@@ -2650,7 +2786,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 187403,
       "name": "MIRACLE",
       "url": "https://open.spotify.com/track/1K6HOrE3e67HwlEq7ax9cR"
@@ -2712,7 +2848,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 229744,
       "name": "Mosaics",
       "url": "https://open.spotify.com/track/4trScQCJ6McnyPct3sLbuJ"
@@ -2748,7 +2884,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 177812,
       "name": "MPJ Freestyle",
       "url": "https://open.spotify.com/track/0XoPboJxZKZCu1YwIgaKHm"
@@ -2810,7 +2946,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 150000,
       "name": "Narcoleptik (feat. KMO Shamaal)",
       "url": "https://open.spotify.com/track/7r9MGAOe3wW8RBZ6X5MLTt"
@@ -2832,7 +2968,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 181558,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/2nGr6tipAPJNYZbnShEB1y"
@@ -2876,7 +3012,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 243460,
       "name": "New Skies",
       "url": "https://open.spotify.com/track/7dhzAFqDTOTUNVnb7rkygk"
@@ -2894,7 +3030,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 154538,
       "name": "No Cap",
       "url": "https://open.spotify.com/track/5Jj4i0SbJq1Fd8m3t0F8Uv"
@@ -3060,7 +3196,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 169841,
       "name": "Not Normal",
       "url": "https://open.spotify.com/track/1keMi9lLQJBOPH4Fx15oeR"
@@ -3082,7 +3218,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 179583,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3wCmNjOiXyDRNXFpLiPgFP"
@@ -3126,7 +3262,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 142545,
       "name": "On To Somethin",
       "url": "https://open.spotify.com/track/6NUOLU5ueaH0xObaascfXf"
@@ -3302,10 +3438,32 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 184956,
       "name": "Paid For It (Remix)",
       "url": "https://open.spotify.com/track/5i56CtffCGlvGXn0KdtaaB"
+    },
+    {
+      "album": {
+        "name": "Less Is More",
+        "url": "https://open.spotify.com/album/5o5sGCSVgd723x2SiAXnww"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Past That (feat. V.Rose)",
+      "url": "https://open.spotify.com/track/4RAZVw5hRhcbO9RSD68C89"
     },
     {
       "album": {
@@ -3320,7 +3478,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 172872,
       "name": "Patek",
       "url": "https://open.spotify.com/track/6cxg5uaRx7AAZQWTcDOH28"
@@ -3350,7 +3508,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 96000,
       "name": "PETER BAND$ (feat. Hulvey)",
       "url": "https://open.spotify.com/track/0LBVVvUKz6LwnvVNvWtgB1"
@@ -3398,7 +3556,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 162298,
       "name": "POPFUNKO",
       "url": "https://open.spotify.com/track/6LUGkT9EOGmXKbxSqxtfNw"
@@ -3446,7 +3604,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 196266,
       "name": "Price (feat. Eshon Burgundy)",
       "url": "https://open.spotify.com/track/3yeXapHL4Seqxx02IEocw8"
@@ -3468,7 +3626,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 162666,
       "name": "prove it",
       "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
@@ -3669,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "everywhere + nowhere",
+        "url": "https://open.spotify.com/album/7gUHT1RKm9105NtC9tDuJe"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302060,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/1R4kuiADwioE3Qlh80nmaO"
+    },
+    {
+      "album": {
         "name": "Scam Likely",
         "url": "https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG"
       },
@@ -3750,7 +3926,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 213791,
       "name": "Silence",
       "url": "https://open.spotify.com/track/3ah4rwiAyuL3VK29FFGYeb"
@@ -3992,7 +4168,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 168000,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7LAlNgKirDEsFESE0v3FAK"
@@ -4058,10 +4234,28 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 298942,
       "name": "Terraform (feat. Brandi Price)",
       "url": "https://open.spotify.com/track/6cZXAkMHY6HCYGQU3Uru9A"
+    },
+    {
+      "album": {
+        "name": "For the Love of Money",
+        "url": "https://open.spotify.com/album/79goInVRpwSXbqcmRbtOpQ"
+      },
+      "artists": [
+        {
+          "name": "Eshon Burgundy",
+          "url": "https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/5dGjFxlQaByznBTsP4v8CU"
     },
     {
       "album": {
@@ -4106,7 +4300,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 199736,
       "name": "That's a Lie - Remix",
       "url": "https://open.spotify.com/track/0j6XcCJz5QoX8iLroYmJ2W"
@@ -4124,7 +4318,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 209293,
       "name": "The Art of Flying",
       "url": "https://open.spotify.com/track/1i9Mq7XyeY4xE00ADR1UO9"
@@ -4180,6 +4374,28 @@
       "duration_ms": 207129,
       "name": "The Power",
       "url": "https://open.spotify.com/track/5SCTC7J7goC0GzPAVHG6oa"
+    },
+    {
+      "album": {
+        "name": "The Void (Acoustic)",
+        "url": "https://open.spotify.com/album/2F5CI8TcsqP8mL8nwKtffl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Luke Smith",
+          "url": "https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A"
+        },
+        {
+          "name": "Sophia Rebekah Mitchell",
+          "url": "https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "The Void - Acoustic",
+      "url": "https://open.spotify.com/track/1J1vTIWiWVWNRCIHQRTwtr"
     },
     {
       "album": {
@@ -4282,10 +4498,28 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 169604,
       "name": "Too Far In Love",
       "url": "https://open.spotify.com/track/5jJitdFoXDG4NOE1EKOPzi"
+    },
+    {
+      "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/1CPKTm68pKVIhAEL7ho4uG"
+      },
+      "artists": [
+        {
+          "name": "Butterfly Ali",
+          "url": "https://open.spotify.com/artist/3kjcPBROf41pWXnGJFU8Oi"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143221,
+      "name": "Truth Is",
+      "url": "https://open.spotify.com/track/2TIh3Qm02Nm5rxgnOZc0dR"
     },
     {
       "album": {
@@ -4322,7 +4556,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 193920,
       "name": "Ugh Ugh",
       "url": "https://open.spotify.com/track/12HVeLLj7WuSyA0S1aizzA"
@@ -4344,7 +4578,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 193432,
       "name": "Undone Ties",
       "url": "https://open.spotify.com/track/2IXeVc8U90gCkiTzXhT8dr"
@@ -4380,7 +4614,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 178000,
       "name": "Vegan Burgers",
       "url": "https://open.spotify.com/track/6ANM43VAfA3x4pYciR1xC5"
@@ -4458,7 +4692,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 252638,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4VZd9wwGkiKbnTUchUYzSP"
@@ -4527,6 +4761,32 @@
     },
     {
       "album": {
+        "name": "Terraform: The People",
+        "url": "https://open.spotify.com/album/6sE9d6HcymH41mlxmB6qwI"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        },
+        {
+          "name": "DJ Mal-Ski",
+          "url": "https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223224,
+      "name": "We All In (feat. Lecrae)",
+      "url": "https://open.spotify.com/track/3M1iIXPHJUmiO5aTtdvZmA"
+    },
+    {
+      "album": {
         "name": "We Are The Culture",
         "url": "https://open.spotify.com/album/2h3CNW0i03oB9rDly9NVP2"
       },
@@ -4542,7 +4802,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 214028,
       "name": "We Are The Culture",
       "url": "https://open.spotify.com/track/0VCuE9mdmEZqnpKugQgFcs"
@@ -4786,7 +5046,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 190480,
       "name": "Worship in the Moshpit",
       "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
@@ -4892,7 +5152,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 196030,
       "name": "You Know.",
       "url": "https://open.spotify.com/track/4C60kok7hce68VwW09K230"
@@ -4932,7 +5192,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 153600,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/4SFF3yfErafpFtVVfjkXTk"

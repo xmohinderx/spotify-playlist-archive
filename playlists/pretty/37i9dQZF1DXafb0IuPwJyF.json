@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: milet\u00d7Aimer\u00d7\u5e7e\u7530\u308a\u3089",
   "name": "Tokyo Super Hits!",
-  "num_followers": 552609,
+  "num_followers": 552789,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDUzMDgwMCwwMDAwMDJlMDAwMDAwMTdkZjc0MTZlMDQwMDAwMDE3ZGY0MWI5ZDhj",
+  "snapshot_id": "MTY0MDYyMzg5MSwwMDAwMDJlMTAwMDAwMTdkZmNjZGUzY2EwMDAwMDE3ZGY0MWI5ZDhj",
   "tracks": [
     {
       "added_at": "2021-12-26 15:00:00",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-12-26 15:00:00",
       "album": {
-        "name": "Doughnut",
-        "url": "https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "Doughnut",
-      "url": "https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy"
-    },
-    {
-      "added_at": "2021-12-26 15:00:00",
-      "album": {
         "name": "\u4e00\u9014",
         "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 190606,
       "name": "\u4e00\u9014",
       "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
+    },
+    {
+      "added_at": "2021-12-26 15:00:00",
+      "album": {
+        "name": "Doughnut",
+        "url": "https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "Doughnut",
+      "url": "https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy"
     },
     {
       "added_at": "2021-12-26 15:00:00",

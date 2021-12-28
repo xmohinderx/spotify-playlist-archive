@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82CY3GzF2m6.md) - [plain]
 
 > The best of Nirvana, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,719 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,012 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

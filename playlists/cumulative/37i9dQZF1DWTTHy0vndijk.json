@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 208735,
       "name": "5 More Minutes",
       "url": "https://open.spotify.com/track/3epPI6Bx5IeRtPMNFG5976"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 255567,
       "name": "Allegro Cantabile",
       "url": "https://open.spotify.com/track/7eufeVpHKJY8KdElThuv2h"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 217066,
       "name": "BUTTERFLY",
       "url": "https://open.spotify.com/track/33PStuI2gJCeZcYQIOHXAU"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 208862,
       "name": "CHEER UP",
       "url": "https://open.spotify.com/track/1D7e4LrjdB4mKaI9XYrmPY"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 220293,
       "name": "Chococo",
       "url": "https://open.spotify.com/track/3uJiBnEDBji3kNOA22exfL"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 202426,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/3ZWCWArPYr1v0iF763oSOz"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 180809,
       "name": "Dance The Night Away",
       "url": "https://open.spotify.com/track/5ilOXZ0vqTX69rjRubPivH"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 189426,
       "name": "DAZZLE DAZZLE",
       "url": "https://open.spotify.com/track/3cGOBTvkKS4aCsWRR2VPke"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 213325,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/4SCRUC5lDUwbdZHQuGp2Z2"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
@@ -560,6 +560,24 @@
       "duration_ms": 220560,
       "name": "Dun Dun Dance",
       "url": "https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF"
+    },
+    {
+      "album": {
+        "name": "OH MY GIRL 6th Mini Album [REMEMBER ME]",
+        "url": "https://open.spotify.com/album/5cWzZxmpNNedvZLCXnFE3E"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212741,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4BQrEOiu5dLYNl7kpNRNvS"
     },
     {
       "album": {
@@ -700,7 +718,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 191378,
       "name": "Glass Shoes",
       "url": "https://open.spotify.com/track/1VNuUzsWTp1WGf3mMeItvp"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 180756,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/1KFwBOa8gDqT7Avua2yxfe"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 186895,
       "name": "Heart Shaker",
       "url": "https://open.spotify.com/track/6WJWTeZExNu0X42hiegRVs"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Hwi hwi",
       "url": "https://open.spotify.com/track/3pPbm1d9G0jAHIoLa4ls9H"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 224160,
       "name": "I don't Know",
       "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 208261,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/2npcFmrEQwYjNzBx74y7Ib"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 214750,
       "name": "Mr. Chu",
       "url": "https://open.spotify.com/track/61NMqZzdUmRHw1KdS1honh"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 209093,
       "name": "mumumumuch",
       "url": "https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z"
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 183746,
       "name": "NINETEEN",
       "url": "https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 223453,
       "name": "No Oh Oh",
       "url": "https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr"
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 215091,
       "name": "OOH-AHH\ud558\uac8c Like OOH-AHH",
       "url": "https://open.spotify.com/track/41r0BLWVIdo7CaKowcUDgM"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 200082,
       "name": "Pinocchio",
       "url": "https://open.spotify.com/track/5IHqT5CMbpc35bh5aomwNK"
@@ -1464,6 +1482,24 @@
       "duration_ms": 191973,
       "name": "Ponzona",
       "url": "https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1"
+    },
+    {
+      "album": {
+        "name": "Pretty Girl (2nd Mini Album)",
+        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209920,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
     },
     {
       "album": {
@@ -1514,7 +1550,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
@@ -1568,7 +1604,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 209104,
       "name": "Rough",
       "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
@@ -1622,7 +1658,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 187575,
       "name": "SEMINA",
       "url": "https://open.spotify.com/track/0wVLIpc1C3nSwvKNtkPrq3"
@@ -1640,7 +1676,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 190250,
       "name": "SNAPSHOT",
       "url": "https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ"
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 205253,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/69jrdIrRPKGi8WZUHbOQY0"
@@ -1694,7 +1730,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 191426,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 198536,
       "name": "Sunny Summer",
       "url": "https://open.spotify.com/track/7IE8eERSpTC9Jaw3arl99B"
@@ -1802,7 +1838,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 158893,
       "name": "Swim Away",
       "url": "https://open.spotify.com/track/0ejKDNqpEx3Dx2umKGk2lD"
@@ -1874,7 +1910,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 195257,
       "name": "The Blue Bird",
       "url": "https://open.spotify.com/track/6emq7eKDjBS9PbxAPXwdDi"
@@ -1910,7 +1946,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 179763,
       "name": "Tiki-Taka(99%)",
       "url": "https://open.spotify.com/track/2gLAfzOB7angHctZ0IQAtu"
@@ -1946,7 +1982,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 210878,
       "name": "Triangle",
       "url": "https://open.spotify.com/track/442KH2XPdpjhrj2AiqFB6l"
@@ -2076,7 +2112,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 208773,
       "name": "Warning (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU"
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 202330,
       "name": "We, First",
       "url": "https://open.spotify.com/track/0y1LIecRU2h6RcMIQ4P5vt"
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 233185,
       "name": "When We Were Us (Beautiful Days)",
       "url": "https://open.spotify.com/track/5MehjK6vlW3nE268Ys0dxv"
@@ -2263,6 +2299,24 @@
     },
     {
       "album": {
+        "name": "WINDY DAY",
+        "url": "https://open.spotify.com/album/4myoH0xndN3zGsEOJvuMgv"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249682,
+      "name": "WINDY DAY",
+      "url": "https://open.spotify.com/track/4c0P6s4blpNIldqJ5a6oKr"
+    },
+    {
+      "album": {
         "name": "GFRIEND Summer Mini Album 'Sunny Summer'",
         "url": "https://open.spotify.com/album/65HAyK45TFC2MJSufJwzji"
       },
@@ -2310,7 +2364,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 199060,
       "name": "You&I",
       "url": "https://open.spotify.com/track/2QiWUA1Jk1QZ2aYH87dfrC"

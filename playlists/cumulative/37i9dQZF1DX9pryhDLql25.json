@@ -16,7 +16,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 165653,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/07j5RLJHwsm4cUb3GGoW3w"
@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Tenderheart",
+        "url": "https://open.spotify.com/album/3Wx7SJbPGyMrTuiBf4U3QU"
+      },
+      "artists": [
+        {
+          "name": "Sam Outlaw",
+          "url": "https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226101,
+      "name": "Bottomless Mimosas",
+      "url": "https://open.spotify.com/track/1pAwto1TwLjGVC11CY6XS1"
+    },
+    {
+      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 193244,
       "name": "Call Me In The Afternoon",
       "url": "https://open.spotify.com/track/5vVHhJr6OpVuHMt1TuHT35"
@@ -308,7 +326,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 170840,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/4KmylOc7EVRfTfy6OImJPX"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 211986,
       "name": "Dive Bar Sweetheart",
       "url": "https://open.spotify.com/track/2szFs9met2afF0shZ80UX3"
@@ -398,7 +416,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 319706,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/52duG8ozTHVfGR87UGuqUt"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 201426,
       "name": "Fuck Up",
       "url": "https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 226373,
       "name": "Housebroken Man",
       "url": "https://open.spotify.com/track/1LqsC52W6xIfohpYXYyhYA"
@@ -770,10 +788,28 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 252506,
       "name": "Hurtin' (On the Bottle)",
       "url": "https://open.spotify.com/track/5cTjO1vlSiN9Xs6xDxWOrI"
+    },
+    {
+      "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/34RIeuzZA8ySXCbsEd62jG"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162070,
+      "name": "I Get No Joy",
+      "url": "https://open.spotify.com/track/4arr0qyAa5BW0X0EXZwZDu"
     },
     {
       "album": {
@@ -788,7 +824,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 261730,
       "name": "I'll Be the One",
       "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
@@ -842,7 +878,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 229600,
       "name": "Janglin",
       "url": "https://open.spotify.com/track/62RIzPoxJjgEvze5GCrmzX"
@@ -878,7 +914,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 231826,
       "name": "Just One of the Guys",
       "url": "https://open.spotify.com/track/2tmL6BDmK6SwOt2ETIgmfo"
@@ -914,7 +950,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 146106,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
@@ -968,7 +1004,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
@@ -1004,7 +1040,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 290706,
       "name": "Love Ain't Enough",
       "url": "https://open.spotify.com/track/2cNxCW2Sas3PA4LKfDc6lY"
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 290728,
       "name": "Love Ain't Enough",
       "url": "https://open.spotify.com/track/2sgbm2X8Ye9YIzvEUFGoar"
@@ -1112,7 +1148,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/4iaGeV4WFvP2ynbqCIyTpS"
@@ -1166,7 +1202,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 153548,
       "name": "Party Boy",
       "url": "https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og"
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 298760,
       "name": "Pretty Pimpin",
       "url": "https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl"
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 249866,
       "name": "Sunday Morning Coming Down - Live",
       "url": "https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS"
@@ -1476,7 +1512,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 280320,
       "name": "Tennessee Song",
       "url": "https://open.spotify.com/track/1FEVjTvRUuDJn2HKtSrz1U"
@@ -1512,7 +1548,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 242137,
       "name": "The Devil Is All Around",
       "url": "https://open.spotify.com/track/5zILnyMhgATe9WMFDMhTMe"
@@ -1606,7 +1642,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 165613,
       "name": "Thirteen Sad Farewells",
       "url": "https://open.spotify.com/track/03RFScByLwJTxTme6n4BpP"
@@ -1660,7 +1696,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 233921,
       "name": "Trinity Lane",
       "url": "https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4"
@@ -1696,7 +1732,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 142443,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/3ZAJJoHHCVGLIoScl26Hf4"
@@ -1786,7 +1822,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 227553,
       "name": "When You're Ready",
       "url": "https://open.spotify.com/track/7MkkZ2luXmVSBz7vM9MIvR"

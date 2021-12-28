@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 190606,
       "name": "Ain't Great (Reimagined)",
       "url": "https://open.spotify.com/track/0x5A9QV12kA4zbn9xwd488"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 264305,
       "name": "Back Together",
       "url": "https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 258000,
       "name": "California (Acoustic)",
       "url": "https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 184991,
       "name": "Colorado - Unmasked",
       "url": "https://open.spotify.com/track/6VZj6nkop6qRj73Sot3xl4"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 224066,
       "name": "Colorblind - Acoustic",
       "url": "https://open.spotify.com/track/0Q0ZwpPIBqGFQGQy415wpX"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 209869,
       "name": "Dead & Gone - Acoustic",
       "url": "https://open.spotify.com/track/0QELebUemGEIB0R2mg59Cn"
@@ -502,10 +502,28 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 214944,
       "name": "Dearly Departed - Acoustic",
       "url": "https://open.spotify.com/track/24pC3mU0uKALRZGoWJphoY"
+    },
+    {
+      "album": {
+        "name": "December (Acoustic)",
+        "url": "https://open.spotify.com/album/3KGZp21en9EZVv7fnlEjbv"
+      },
+      "artists": [
+        {
+          "name": "Roseview",
+          "url": "https://open.spotify.com/artist/0oLsYVo4HsQqqY93I3j4B6"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231691,
+      "name": "December - Acoustic",
+      "url": "https://open.spotify.com/track/7B9uWbksb8XaAgqQylPKwq"
     },
     {
       "album": {
@@ -578,10 +596,28 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 275140,
       "name": "Down Through",
       "url": "https://open.spotify.com/track/0YCwiFdDBzZJ7DtOBhCBfi"
+    },
+    {
+      "album": {
+        "name": "Virtue",
+        "url": "https://open.spotify.com/album/31yuSCo1TGv8PXEAMqsjJt"
+      },
+      "artists": [
+        {
+          "name": "William Ryan Key",
+          "url": "https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240946,
+      "name": "Downtown (Up North)",
+      "url": "https://open.spotify.com/track/6Veo9O3o0lFRDqHL03AGY7"
     },
     {
       "album": {
@@ -614,7 +650,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Drop Dead (Acoustic)",
       "url": "https://open.spotify.com/track/55QnOHqLBk1YiCk7p4lKkG"
@@ -668,7 +704,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 213600,
       "name": "End of an Era (Acoustic)",
       "url": "https://open.spotify.com/track/1MOdasYTTObANkLfUkcDtF"
@@ -686,7 +722,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 202554,
       "name": "England's Dreaming - Acoustic",
       "url": "https://open.spotify.com/track/0fayk6BY25voQ46iYRrNHn"
@@ -722,7 +758,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 222840,
       "name": "Fashion Forward (Acoustic)",
       "url": "https://open.spotify.com/track/76EMDlutzJg3c3gUlWKf57"
@@ -758,7 +794,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 211736,
       "name": "Find Peace",
       "url": "https://open.spotify.com/track/1mG0m0t1Rx5RLDns55a4HJ"
@@ -780,6 +816,24 @@
       "duration_ms": 191640,
       "name": "Flatline (Acoustic)",
       "url": "https://open.spotify.com/track/3eSJmY6cL6274iOKhDwIyc"
+    },
+    {
+      "album": {
+        "name": "Footprints (Acoustic)",
+        "url": "https://open.spotify.com/album/22QJjaz22HnJbgPBeQz9rj"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179893,
+      "name": "Footprints - Acoustic",
+      "url": "https://open.spotify.com/track/4vYbjfD6l8LNYlcdYnHBDm"
     },
     {
       "album": {
@@ -830,7 +884,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 203210,
       "name": "From The Outside - Acoustic",
       "url": "https://open.spotify.com/track/6jnOgu9AWyTGRJCrlrAKzq"
@@ -848,7 +902,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 204253,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/2VPq0IUugnOWLcAT5MbFIu"
@@ -888,7 +942,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 171000,
       "name": "Hated (Acoustic Version)",
       "url": "https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8"
@@ -1054,7 +1108,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 163999,
       "name": "I've Given Up on You",
       "url": "https://open.spotify.com/track/5bxythiVpxTD2nHZMmD8m1"
@@ -1220,7 +1274,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 179347,
       "name": "Leave It All Behind - Acoustic",
       "url": "https://open.spotify.com/track/021zb89IodxPOcPZheUwVl"
@@ -1256,7 +1310,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 184490,
       "name": "Little Dove",
       "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
@@ -1274,7 +1328,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 196289,
       "name": "Little One (Acoustic)",
       "url": "https://open.spotify.com/track/2B8p1NMeBV5jEXKVANgrDo"
@@ -1292,7 +1346,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 213742,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW"
@@ -1310,7 +1364,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 237714,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/5lJmNEGml8HW0GkMBnfikG"
@@ -1353,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Missing out Again",
+        "url": "https://open.spotify.com/album/0RqgQZNyP2Ttz8pUmldwi4"
+      },
+      "artists": [
+        {
+          "name": "Heavy Things",
+          "url": "https://open.spotify.com/artist/6A0ejxipRaytN3ndpuXnQk"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "Missing out Again - Acoustic",
+      "url": "https://open.spotify.com/track/3N2aYAQYQgps3g6erSkbgD"
+    },
+    {
+      "album": {
         "name": "Molecules",
         "url": "https://open.spotify.com/album/4Tv4LiINdDHw7BNMArGdyL"
       },
@@ -1368,7 +1440,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 289120,
       "name": "Molecules",
       "url": "https://open.spotify.com/track/7qBiZ71Ly8dsxKcWZmsD0B"
@@ -1552,7 +1624,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 224974,
       "name": "Patience",
       "url": "https://open.spotify.com/track/1xwJpkTCba8guExNTHFd1H"
@@ -1577,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Alone in the Dark",
+        "url": "https://open.spotify.com/album/0TlOemPEohRjRYtVV4u7NC"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246500,
+      "name": "Peace of Mind - Acoustic",
+      "url": "https://open.spotify.com/track/1coIjlaBlQw11S1OPu2AcW"
+    },
+    {
+      "album": {
         "name": "Lie to Me",
         "url": "https://open.spotify.com/album/6I0naPXaPOIFFmqOMlzQYB"
       },
@@ -1588,7 +1678,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 202746,
       "name": "Pieces (Acoustic)",
       "url": "https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx"
@@ -1624,7 +1714,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 169930,
       "name": "Playing Fiction (Acoustic)",
       "url": "https://open.spotify.com/track/17PGUJ8kvyyMaRzQKbcWMN"
@@ -1660,7 +1750,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 229565,
       "name": "Right Here (Acoustic)",
       "url": "https://open.spotify.com/track/5UMNl7HXpYBFrgNC8ko6Jc"
@@ -1736,7 +1826,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 203791,
       "name": "Send Help",
       "url": "https://open.spotify.com/track/1cqSgH6m4nrW1xsTtX6OUj"
@@ -1780,7 +1870,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 215979,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/4MUvToqpjVcQVcVD5snNnp"
@@ -1816,10 +1906,28 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 197361,
       "name": "Something Wonderful - Alternate Version",
       "url": "https://open.spotify.com/track/1vu42HClZIiqLgRzTU2jUc"
+    },
+    {
+      "album": {
+        "name": "Reperception, Vol. 2",
+        "url": "https://open.spotify.com/album/6tbeFvz9fMiBvqr2kOszpu"
+      },
+      "artists": [
+        {
+          "name": "Softspoken",
+          "url": "https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Soundship (Reperception)",
+      "url": "https://open.spotify.com/track/49UTGk5dq6qZG3lI5LwPLM"
     },
     {
       "album": {
@@ -1852,7 +1960,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 186160,
       "name": "Story Of My Bros - Acoustic",
       "url": "https://open.spotify.com/track/4lHy961n9KMbzwOM4ewgHP"
@@ -1870,10 +1978,28 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Stranger - Revisited",
       "url": "https://open.spotify.com/track/0VJNvMNrEYxLHtJKjrK1T1"
+    },
+    {
+      "album": {
+        "name": "Stuck in the Middle",
+        "url": "https://open.spotify.com/album/6Gi3gRUyEUpEiUBSDT49RP"
+      },
+      "artists": [
+        {
+          "name": "Storyteller",
+          "url": "https://open.spotify.com/artist/2bhEQqmUj9qtDOcqj8AZzB"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204610,
+      "name": "Stuck in the Middle",
+      "url": "https://open.spotify.com/track/2Hny8YWKP3zJqPy5VysSos"
     },
     {
       "album": {
@@ -1960,7 +2086,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "The Bowery",
       "url": "https://open.spotify.com/track/2NtmgvClt1V6bETsKbBYD5"
@@ -2144,7 +2270,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 202920,
       "name": "Tracks",
       "url": "https://open.spotify.com/track/1WXq7yfGDqp24hK7q1oFut"
@@ -2180,7 +2306,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 227300,
       "name": "Undersize",
       "url": "https://open.spotify.com/track/4bChSnQPzc0j9yijlJbZYQ"
@@ -2288,7 +2414,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 206557,
       "name": "Without My Ring (I Think I Want You)",
       "url": "https://open.spotify.com/track/2nIkWia8VMuHL51ipVFL3P"

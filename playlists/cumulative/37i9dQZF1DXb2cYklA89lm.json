@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 117533,
       "name": "2,3,4",
       "url": "https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN"
@@ -38,6 +38,24 @@
       "duration_ms": 198480,
       "name": "A Night to Dismember",
       "url": "https://open.spotify.com/track/4av2c22txXYZvO2AYnui6m"
+    },
+    {
+      "album": {
+        "name": "Return of the Infamous Four",
+        "url": "https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l"
+      },
+      "artists": [
+        {
+          "name": "Drunktank",
+          "url": "https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Army of Darkness",
+      "url": "https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03"
     },
     {
       "album": {
@@ -88,7 +106,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 185280,
       "name": "Black Jack Death Bet",
       "url": "https://open.spotify.com/track/3QGVVYsXDDKMio22eEAvYI"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 207066,
       "name": "Dead to You - Dead to Me",
       "url": "https://open.spotify.com/track/2QW2o4xCgyENRu9HBtzTLr"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 265144,
       "name": "Decompose",
       "url": "https://open.spotify.com/track/58QdFjoa1UytClOVUfnWqe"
@@ -456,7 +474,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 215292,
       "name": "King of the Waves",
       "url": "https://open.spotify.com/track/56rkUIGHMGCfCFZOdpr57t"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 192957,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/64j5jHLIqjlM5Sw2fZkgOt"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 238280,
       "name": "Mark of the Devil",
       "url": "https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 134520,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB"
@@ -676,7 +694,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 204890,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/27AFFzQFa89pmV7PlJJKeW"
@@ -694,7 +712,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 209973,
       "name": "Night Flier",
       "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 188678,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/1iTIMvI2O7z769aVrQa8uz"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 212000,
       "name": "Ravenous",
       "url": "https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 193339,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 145541,
       "name": "They're Inside",
       "url": "https://open.spotify.com/track/2trEgoZgPLKyaek0vg9Gfb"
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 148766,
       "name": "Walk Through Walls",
       "url": "https://open.spotify.com/track/4QCeZwh8Df8L8GiSXHloKr"

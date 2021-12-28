@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AUVnnnNUND.md) - [plain]
 
 > Eagles, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,654 likes - 46 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,727 likes - 46 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

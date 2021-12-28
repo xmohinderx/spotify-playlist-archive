@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Joshwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,730 likes - 195 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,815 likes - 195 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

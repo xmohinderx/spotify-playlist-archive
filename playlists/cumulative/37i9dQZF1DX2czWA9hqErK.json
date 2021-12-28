@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 203880,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/2zSOKTYjqEFfJEsUrMkmKs"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 171329,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/3p3gtW1UzNZs1sGEtrNN2N"
@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Paradise Heights",
+        "url": "https://open.spotify.com/album/5truT1ytaeAQFiq6BNPI9d"
+      },
+      "artists": [
+        {
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130093,
+      "name": "Back Of My Hand",
+      "url": "https://open.spotify.com/track/2tNGLZLYpG7LUc8PuBXAb6"
+    },
+    {
+      "album": {
         "name": "Back to Friends",
         "url": "https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 207960,
       "name": "Be My Own Boyfriend",
       "url": "https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 228798,
       "name": "Call Me A Dreamer",
       "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 232040,
       "name": "christmas morning",
       "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
@@ -460,7 +478,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 170434,
       "name": "Cross My Mind",
       "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
@@ -611,6 +629,24 @@
     },
     {
       "album": {
+        "name": "When I Close My Eyes",
+        "url": "https://open.spotify.com/album/6JkrpiVpnhPrCpiVtDPN2f"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn"
+    },
+    {
+      "album": {
         "name": "Godlight",
         "url": "https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N"
       },
@@ -662,7 +698,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 188443,
       "name": "Happy Just To Know",
       "url": "https://open.spotify.com/track/53qdE4yFweq6kbO2MQ44Ul"
@@ -774,6 +810,24 @@
       "duration_ms": 165943,
       "name": "Holding on to Letting Go",
       "url": "https://open.spotify.com/track/3R8YZSqMrMEY2Axj8A8LZo"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/59ts6XXulJTUa0A7icpNVf"
+      },
+      "artists": [
+        {
+          "name": "Tom King",
+          "url": "https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197104,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5ZUVTwOlbNCsz8be7oe8yp"
     },
     {
       "album": {
@@ -900,7 +954,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 173322,
       "name": "I'm So Happy - Acoustic",
       "url": "https://open.spotify.com/track/3tnNZ5fg5AHlFwTW8j9ywH"
@@ -918,7 +972,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 180157,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/6jPUxIR9fs2goSay9egLxz"
@@ -1091,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/0AaaRwz24KqFzKlqYUfUuZ"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reid",
+          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192306,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/7gL0h7uIZ6JA2tPv5OLTI8"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/14ecs1rWP4SrH5rT8sU6Ox"
       },
@@ -1102,7 +1174,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 214942,
       "name": "Lost",
       "url": "https://open.spotify.com/track/0D9FOgEG9uZm8EsE5q2Y6F"
@@ -1120,7 +1192,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 224093,
       "name": "Lost Keys",
       "url": "https://open.spotify.com/track/2UFnAnx5ZC0RgCqVSlA1Zj"
@@ -1290,7 +1362,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 247289,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH"
@@ -1312,6 +1384,24 @@
       "duration_ms": 159381,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/2okt1sEb4uh6OkLJ4cgMWx"
+    },
+    {
+      "album": {
+        "name": "Need A Word With Cupid",
+        "url": "https://open.spotify.com/album/31dkZSwlb6nZWHKBxWF1HV"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191715,
+      "name": "Need A Word With Cupid",
+      "url": "https://open.spotify.com/track/3iRJaRyvZpDcSqJ9NnPKBg"
     },
     {
       "album": {
@@ -1612,7 +1702,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 220720,
       "name": "Short Sighted",
       "url": "https://open.spotify.com/track/25hKDHLSeH6M4J47pMXu9T"
@@ -1630,10 +1720,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 182180,
       "name": "Simple",
       "url": "https://open.spotify.com/track/7hVK6T6lsXFeTIxTlHGhGU"
+    },
+    {
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/6lUCT1qB82RuUgawuWvlO6"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/5nz0KE3qltISzUI9v5qPoh"
     },
     {
       "album": {
@@ -1742,7 +1850,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 198369,
       "name": "Something Sentimental",
       "url": "https://open.spotify.com/track/6mnqCMfVvuXz1rN7upr13S"
@@ -1832,7 +1940,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 216053,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/2RwAlmqqMPsBMYC4PewkEt"
@@ -1868,7 +1976,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 174380,
       "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
@@ -1922,7 +2030,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 217026,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/5XBobVYataJuVgG2os9ndV"
@@ -1958,7 +2066,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 208213,
       "name": "used to you",
       "url": "https://open.spotify.com/track/5RiaulO1Xfn5k00SEah0PL"
@@ -2066,7 +2174,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 193881,
       "name": "You",
       "url": "https://open.spotify.com/track/5FgiHNFQZTX1rZIrmYhrPq"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 178050,
       "name": "23",
       "url": "https://open.spotify.com/track/4jeUxze0mlpF0DzpyW8bCp"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 154986,
       "name": "Be Bad",
       "url": "https://open.spotify.com/track/3dx6B82IgGC39Ty8iX55f6"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 210226,
       "name": "BRB",
       "url": "https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 267564,
       "name": "Dreaming About You",
       "url": "https://open.spotify.com/track/6jOLeru4jXgsv6Nvedsb8B"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 252680,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 235016,
       "name": "Listen",
       "url": "https://open.spotify.com/track/2McVIa6OZY0AIDCOTsSBpe"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 205531,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/6N3N0dbTQQM9rfJFLBswlp"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 123141,
       "name": "Molly",
       "url": "https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 183591,
       "name": "Ontario",
       "url": "https://open.spotify.com/track/2FpB6kC0HTFwuCuD9vljrL"
@@ -848,6 +848,24 @@
       "duration_ms": 210027,
       "name": "Preaching To The Choir",
       "url": "https://open.spotify.com/track/3DKzKLzJcMtPQvSEaoX62t"
+    },
+    {
+      "album": {
+        "name": "Prepping Men",
+        "url": "https://open.spotify.com/album/2fjUWbly9lPnBV9oNgT5MV"
+      },
+      "artists": [
+        {
+          "name": "Lilith Merlot",
+          "url": "https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196592,
+      "name": "Prepping Men",
+      "url": "https://open.spotify.com/track/48DpAeJiYiIDLBxah8djKg"
     },
     {
       "album": {
@@ -978,7 +996,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 234253,
       "name": "Seven Days of Rain",
       "url": "https://open.spotify.com/track/5P5r3OPbXUMZDMhHuOunv3"
@@ -1151,6 +1169,32 @@
     },
     {
       "album": {
+        "name": "Stranger (feat. Saba & Jarreau Vandal)",
+        "url": "https://open.spotify.com/album/5gEWaVbQBsHwZGt1vBUWBV"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219451,
+      "name": "Stranger (feat. Saba & Jarreau Vandal)",
+      "url": "https://open.spotify.com/track/1b7TYKwABkacRzPqSErH9u"
+    },
+    {
+      "album": {
         "name": "OVERCOME",
         "url": "https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu"
       },
@@ -1180,7 +1224,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 185217,
       "name": "Surf Rising",
       "url": "https://open.spotify.com/track/0kswVkde2bn0lVt7ptPKMa"
@@ -1386,7 +1430,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 139293,
       "name": "Window",
       "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"

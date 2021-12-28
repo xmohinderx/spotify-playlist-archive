@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
   "name": "EDM Top 100",
-  "num_followers": 48563,
+  "num_followers": 48561,
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA0NixkZmM5YWEwMTk2OTUxY2UzOWE3MjFkN2E5OWQ4YmE0ZjlmMzJjYTEx",
+  "snapshot_id": "MTA0NyxhMWEzOTMzOGM5MDQ3N2YwZjQzNzY1ODAxNjhkNjRmNTNhN2I3MWI2",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -733,6 +733,34 @@
       "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
     },
     {
+      "added_at": "2021-08-16 15:42:05",
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
       "added_at": "2021-08-28 15:41:06",
       "album": {
         "name": "Domino (feat. Oxia)",
@@ -795,34 +823,6 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2021-08-16 15:42:05",
-      "album": {
-        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162603,
-      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
       "added_at": "2021-07-23 08:52:04",
@@ -1169,26 +1169,6 @@
       "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
     },
     {
-      "added_at": "2021-12-22 15:41:02",
-      "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
-    },
-    {
       "added_at": "2021-06-21 23:50:07",
       "album": {
         "name": "Sorry",
@@ -1207,6 +1187,26 @@
       "duration_ms": 165000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
+    },
+    {
+      "added_at": "2021-12-22 15:41:02",
+      "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
       "added_at": "2021-11-13 15:46:02",
@@ -1353,20 +1353,28 @@
       "url": "https://open.spotify.com/track/5MN68joMsXEr6ss8gwHqCU"
     },
     {
-      "added_at": "2021-12-21 15:45:02",
+      "added_at": "2021-12-27 15:41:01",
       "album": {
-        "name": "Wait A Minute",
-        "url": "https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc"
       },
       "artists": [
         {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Wait A Minute",
-      "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
+      "duration_ms": 205560,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR"
     },
     {
       "added_at": "2021-04-29 23:01:06",
@@ -1389,20 +1397,20 @@
       "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
     },
     {
-      "added_at": "2021-11-15 15:46:02",
+      "added_at": "2021-12-21 15:45:02",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+        "name": "Wait A Minute",
+        "url": "https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+      "duration_ms": 215000,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
     },
     {
       "added_at": "2021-06-25 17:34:07",
@@ -1423,6 +1431,22 @@
       "duration_ms": 139639,
       "name": "Bandaid",
       "url": "https://open.spotify.com/track/5UrXbEy5JaWwV6COcCA2Nu"
+    },
+    {
+      "added_at": "2021-11-15 15:46:02",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2021-12-06 15:41:03",
@@ -1449,26 +1473,6 @@
       "url": "https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS"
     },
     {
-      "added_at": "2021-08-28 15:41:06",
-      "album": {
-        "name": "Bad Habits (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "Bad Habits - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
-    },
-    {
       "added_at": "2021-04-22 23:01:06",
       "album": {
         "name": "Unconditionally",
@@ -1493,6 +1497,26 @@
       "url": "https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3"
     },
     {
+      "added_at": "2021-08-28 15:41:06",
+      "album": {
+        "name": "Bad Habits (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 194331,
+      "name": "Bad Habits - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
+    },
+    {
       "added_at": "2021-12-13 15:41:03",
       "album": {
         "name": "Pepas (Robin Schulz Remix)",
@@ -1511,26 +1535,6 @@
       "duration_ms": 280002,
       "name": "Pepas - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
-    },
-    {
-      "added_at": "2021-12-01 15:42:03",
-      "album": {
-        "name": "Lose Somebody",
-        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
     },
     {
       "added_at": "2021-03-05 23:01:05",
@@ -1573,6 +1577,26 @@
       "url": "https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51"
     },
     {
+      "added_at": "2021-12-01 15:42:03",
+      "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
+    },
+    {
       "added_at": "2021-12-22 15:41:02",
       "album": {
         "name": "Ya Kidding",
@@ -1587,22 +1611,6 @@
       "duration_ms": 238080,
       "name": "Ya Kidding",
       "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
-    },
-    {
-      "added_at": "2021-12-17 15:50:02",
-      "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2021-04-29 23:01:06",
@@ -1629,24 +1637,20 @@
       "url": "https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f"
     },
     {
-      "added_at": "2021-12-22 15:41:02",
+      "added_at": "2021-12-17 15:50:02",
       "album": {
-        "name": "You Get",
-        "url": "https://open.spotify.com/album/3ziW1uZqINQsp7eGhNjII8"
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
       },
       "artists": [
         {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         }
       ],
-      "duration_ms": 185333,
-      "name": "You Get",
-      "url": "https://open.spotify.com/track/4ml5STv8W2b2SK2nAQKB06"
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2021-05-06 23:01:06",
@@ -1671,6 +1675,26 @@
       "duration_ms": 200975,
       "name": "Head Up In The Clouds",
       "url": "https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR"
+    },
+    {
+      "added_at": "2021-12-22 15:41:02",
+      "album": {
+        "name": "You Get",
+        "url": "https://open.spotify.com/album/3ziW1uZqINQsp7eGhNjII8"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "You Get",
+      "url": "https://open.spotify.com/track/4ml5STv8W2b2SK2nAQKB06"
     },
     {
       "added_at": "2021-12-22 15:41:02",
@@ -1725,26 +1749,6 @@
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
     },
     {
-      "added_at": "2021-12-17 15:50:02",
-      "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
       "added_at": "2020-12-16 10:55:04",
       "album": {
         "name": "Diamonds",
@@ -1765,6 +1769,26 @@
       "url": "https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8"
     },
     {
+      "added_at": "2021-12-17 15:50:02",
+      "album": {
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
+    },
+    {
       "added_at": "2021-12-22 15:41:02",
       "album": {
         "name": "You Give Me A Feeling",
@@ -1783,6 +1807,22 @@
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"
+    },
+    {
+      "added_at": "2021-04-29 23:01:06",
+      "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/37pe9MY7jGryHnAep9PDBk"
+      },
+      "artists": [
+        {
+          "name": "mavzy grx",
+          "url": "https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR"
+        }
+      ],
+      "duration_ms": 157221,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/7cN7s2AvXLQHg6S5AyXf6v"
     },
     {
       "added_at": "2021-12-11 15:41:02",
@@ -1813,38 +1853,6 @@
       "url": "https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi"
     },
     {
-      "added_at": "2021-04-29 23:01:06",
-      "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/37pe9MY7jGryHnAep9PDBk"
-      },
-      "artists": [
-        {
-          "name": "mavzy grx",
-          "url": "https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR"
-        }
-      ],
-      "duration_ms": 157221,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/7cN7s2AvXLQHg6S5AyXf6v"
-    },
-    {
-      "added_at": "2021-12-22 15:41:02",
-      "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/6GPpTnaD8d7EzO1E2zlPIY"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        }
-      ],
-      "duration_ms": 154642,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/4wAB0TsHw6Ggv1axTDEZfk"
-    },
-    {
       "added_at": "2020-12-16 10:55:04",
       "album": {
         "name": "Want U To Myself",
@@ -1865,6 +1873,22 @@
       "url": "https://open.spotify.com/track/0FHKZ1sDMl3p51DP4jjwm6"
     },
     {
+      "added_at": "2021-12-22 15:41:02",
+      "album": {
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/6GPpTnaD8d7EzO1E2zlPIY"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "duration_ms": 154642,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/4wAB0TsHw6Ggv1axTDEZfk"
+    },
+    {
       "added_at": "2021-12-20 15:44:02",
       "album": {
         "name": "Stereo Love",
@@ -1883,30 +1907,6 @@
       "duration_ms": 146190,
       "name": "Stereo Love",
       "url": "https://open.spotify.com/track/4Ef3ODp0REOFXMgDL4S5fM"
-    },
-    {
-      "added_at": "2021-12-26 15:46:01",
-      "album": {
-        "name": "For You (Deeperlove Remix)",
-        "url": "https://open.spotify.com/album/4S7mFciWbBmkMAk5gOKMec"
-      },
-      "artists": [
-        {
-          "name": "The Disco Boys",
-          "url": "https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X"
-        },
-        {
-          "name": "Deeperlove",
-          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
-        },
-        {
-          "name": "Manfred Mann's Earth Band",
-          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
-        }
-      ],
-      "duration_ms": 146408,
-      "name": "For You - Deeperlove Remix",
-      "url": "https://open.spotify.com/track/547LWbvqDFeNS6xuK3XjLH"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1933,6 +1933,30 @@
       "url": "https://open.spotify.com/track/5At3exVBWkAfqJGsRG8Z5L"
     },
     {
+      "added_at": "2021-12-26 15:46:01",
+      "album": {
+        "name": "For You (Deeperlove Remix)",
+        "url": "https://open.spotify.com/album/4S7mFciWbBmkMAk5gOKMec"
+      },
+      "artists": [
+        {
+          "name": "The Disco Boys",
+          "url": "https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X"
+        },
+        {
+          "name": "Deeperlove",
+          "url": "https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm"
+        },
+        {
+          "name": "Manfred Mann's Earth Band",
+          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
+        }
+      ],
+      "duration_ms": 146408,
+      "name": "For You - Deeperlove Remix",
+      "url": "https://open.spotify.com/track/547LWbvqDFeNS6xuK3XjLH"
+    },
+    {
       "added_at": "2021-12-22 15:41:02",
       "album": {
         "name": "Pump The Brakes",
@@ -1947,26 +1971,6 @@
       "duration_ms": 220581,
       "name": "Pump The Brakes",
       "url": "https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg"
-    },
-    {
-      "added_at": "2021-12-25 15:46:02",
-      "album": {
-        "name": "Somebody Loves You",
-        "url": "https://open.spotify.com/album/384wdo2pTwbY6w1Es8KmlU"
-      },
-      "artists": [
-        {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
-        }
-      ],
-      "duration_ms": 344571,
-      "name": "Somebody Loves You",
-      "url": "https://open.spotify.com/track/2gpRQZBb6E3iA5NBOOUNNV"
     },
     {
       "added_at": "2020-12-02 10:55:04",
@@ -1993,28 +1997,24 @@
       "url": "https://open.spotify.com/track/529UH7VifSxUbFryjZeFpg"
     },
     {
-      "added_at": "2021-12-21 15:45:02",
+      "added_at": "2021-12-25 15:46:02",
       "album": {
-        "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
+        "name": "Somebody Loves You",
+        "url": "https://open.spotify.com/album/384wdo2pTwbY6w1Es8KmlU"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "High Jinx",
-          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
         }
       ],
-      "duration_ms": 183750,
-      "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
-      "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
+      "duration_ms": 344571,
+      "name": "Somebody Loves You",
+      "url": "https://open.spotify.com/track/2gpRQZBb6E3iA5NBOOUNNV"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -2041,20 +2041,28 @@
       "url": "https://open.spotify.com/track/6liZV0Nrz90vVrxuNwKRI4"
     },
     {
-      "added_at": "2021-12-07 15:44:06",
+      "added_at": "2021-12-21 15:45:02",
       "album": {
-        "name": "It Gets Better",
-        "url": "https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6"
+        "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "High Jinx",
+          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
         }
       ],
-      "duration_ms": 184611,
-      "name": "It Gets Better",
-      "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
+      "duration_ms": 183750,
+      "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
+      "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
     }
   ],
   "url": "https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD"

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Dark Child",
+        "url": "https://open.spotify.com/album/514G60yXX7mHxl67i5DYld"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237122,
+      "name": "Dark Child - Single Edit",
+      "url": "https://open.spotify.com/track/4puHB4a2PUyJViWnJcJEv0"
+    },
+    {
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT"
       },
@@ -294,7 +312,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 210924,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5"
@@ -598,7 +616,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 171666,
       "name": "Lines",
       "url": "https://open.spotify.com/track/1g3XJKmd9JwCNc3LK0y62k"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 198823,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx"
