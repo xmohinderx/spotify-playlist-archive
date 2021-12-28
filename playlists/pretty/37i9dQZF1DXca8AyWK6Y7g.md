@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Indie, pop, and everything in between to bring you good energy and good vibes\. Cover: chloe moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,503 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,507 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 |
 | 150 | [New York](https://open.spotify.com/track/5bGTC0fJjJ2W4FwxSTVvZo) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [New York](https://open.spotify.com/album/3zPivWoN3l92IvD5QxI7Uv) | 3:46 |
 
-Snapshot ID: `MTY0MDY1MjEwNywwMDAwMDAwMDEwN2NmNTZmYmE2N2U1ZWNjMmY5MDU0Y2Q0Y2ViZDgw`
+Snapshot ID: `MTY0MDY1MzE4NywwMDAwMDAwMDEwN2NmNTZmYmE2N2U1ZWNjMmY5MDU0Y2Q0Y2ViZDgw`

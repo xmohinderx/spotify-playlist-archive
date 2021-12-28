@@ -1,0 +1,981 @@
+{
+  "description": "Catch the most-streamed romantic tracks in 2021. Cover: Harnoor",
+  "name": "Punjabi Pyar",
+  "num_followers": 61126,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTYzODQxODc3NiwwMDAwMDQzMzAwMDAwMTdkNzk1ZTdmZjAwMDAwMDE3ZDc2NzM2Yjg0",
+  "tracks": [
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Waalian",
+        "url": "https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Waalian",
+      "url": "https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Bachalo",
+        "url": "https://open.spotify.com/album/3KSE24dHweGL1Ent5wkmYZ"
+      },
+      "artists": [
+        {
+          "name": "Akhil",
+          "url": "https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1"
+        }
+      ],
+      "duration_ms": 165108,
+      "name": "Bachalo",
+      "url": "https://open.spotify.com/track/1v8NfOckFEnck9gp7iyetm"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Gucci",
+        "url": "https://open.spotify.com/album/2c5DFrT8ceNAIr7A0QXecf"
+      },
+      "artists": [
+        {
+          "name": "Aroob Khan",
+          "url": "https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/7GG8loWh3JFsNtWGps6ALe"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Parshawan",
+        "url": "https://open.spotify.com/album/6w6MwWpj1oR3lKpQPc8caY"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Parshawan",
+      "url": "https://open.spotify.com/track/6IaHIJYxIG8xbosaRr25AC"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Sira E Hou",
+        "url": "https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Sira E Hou",
+      "url": "https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Dooja Pyaar",
+        "url": "https://open.spotify.com/album/0afQrKmoC6O3Pm8kTWgs7E"
+      },
+      "artists": [
+        {
+          "name": "Akhil",
+          "url": "https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Dooja Pyaar",
+      "url": "https://open.spotify.com/track/4MqRN7DQQXxxU4eZdC0zcb"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/2SuM7r0dc3cpegQeGyJcWZ"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        }
+      ],
+      "duration_ms": 198619,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5FTcLPsQFX2NZaBQHbTz06"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Libaas",
+        "url": "https://open.spotify.com/album/1zCJSedSGgctXkJ3HnQCfC"
+      },
+      "artists": [
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
+        }
+      ],
+      "duration_ms": 267029,
+      "name": "Libaas",
+      "url": "https://open.spotify.com/track/0vqw3BCyNr3DDVBmjD21H8"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Tu Hi Das De",
+        "url": "https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW"
+      },
+      "artists": [
+        {
+          "name": "Tedi Pagg",
+          "url": "https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca"
+        },
+        {
+          "name": "Simar Panag",
+          "url": "https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC"
+        },
+        {
+          "name": "Mickey Singh",
+          "url": "https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t"
+        }
+      ],
+      "duration_ms": 172831,
+      "name": "Tu Hi Das De",
+      "url": "https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Oye Hoye Hoye",
+        "url": "https://open.spotify.com/album/2e3nyvQs2wwXQ7EGJHnxCv"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gill",
+          "url": "https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Dhanashree",
+          "url": "https://open.spotify.com/artist/5DxxK2XiSaYG6cfI8bzmm5"
+        }
+      ],
+      "duration_ms": 172330,
+      "name": "Oye Hoye Hoye",
+      "url": "https://open.spotify.com/track/7wNKW6AIOMNxmvRnQf2VzC"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        },
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Gminxr",
+          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
+        }
+      ],
+      "duration_ms": 206060,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Vail",
+        "url": "https://open.spotify.com/album/0SUKbK4r6wQS0t9gdMsIdm"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "duration_ms": 200755,
+      "name": "Vail",
+      "url": "https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Chan Vekhya",
+        "url": "https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Chan Vekhya",
+      "url": "https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Ma Belle",
+        "url": "https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Amari",
+          "url": "https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u"
+        }
+      ],
+      "duration_ms": 160824,
+      "name": "Ma Belle",
+      "url": "https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Keh Len De",
+        "url": "https://open.spotify.com/album/5XAtOSRyn0dDnrZBcjVQoi"
+      },
+      "artists": [
+        {
+          "name": "Kaka",
+          "url": "https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux"
+        },
+        {
+          "name": "Inder Chahal",
+          "url": "https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk"
+        },
+        {
+          "name": "Himanshi Khurana",
+          "url": "https://open.spotify.com/artist/6JZPJPlOcGSQaVLQKJ1qQ3"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Keh Len De",
+      "url": "https://open.spotify.com/track/3CHZhkihLupVrfYIyg869S"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Moosetape",
+        "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "duration_ms": 230068,
+      "name": "US (feat. Raja Kumari)",
+      "url": "https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Bhabi",
+        "url": "https://open.spotify.com/album/2aB58jJjLQB1xJLcaeq6Jj"
+      },
+      "artists": [
+        {
+          "name": "Kamal Khaira",
+          "url": "https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi"
+        }
+      ],
+      "duration_ms": 155502,
+      "name": "Bhabi",
+      "url": "https://open.spotify.com/track/3RRvzCenxnnrZwmZ3MiGkP"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/6aAjFIfvmY4gKgsmmuazwy"
+      },
+      "artists": [
+        {
+          "name": "Maninder Buttar",
+          "url": "https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "duration_ms": 237259,
+      "name": "Pani Di Gal",
+      "url": "https://open.spotify.com/track/410NHwz8mMvM0AYxKJooy3"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Paagla",
+        "url": "https://open.spotify.com/album/7ucqStPOMhaUWxrOfJKke9"
+      },
+      "artists": [
+        {
+          "name": "Akhil",
+          "url": "https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1"
+        }
+      ],
+      "duration_ms": 223783,
+      "name": "Paagla",
+      "url": "https://open.spotify.com/track/7mW3mM1aovDaOnSyK5e9W8"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Khabbi Seat",
+        "url": "https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "Sweetaj Brar",
+          "url": "https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk"
+        }
+      ],
+      "duration_ms": 204130,
+      "name": "Khabbi Seat",
+      "url": "https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3azqNOHGjcHr3ONccmxHDO"
+      },
+      "artists": [
+        {
+          "name": "Akhil",
+          "url": "https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/31XW6duAPURc4PBLFD3hUu"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/4jr7TFjvNTgjuh74o4JV1l"
+      },
+      "artists": [
+        {
+          "name": "Armaan Bedil",
+          "url": "https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3"
+        }
+      ],
+      "duration_ms": 192307,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/1GYP7zyrNGJi8pEZt91vnL"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Lost Love",
+        "url": "https://open.spotify.com/album/1ZNMYg10x172dC5eYfMlEF"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "duration_ms": 226785,
+      "name": "Lost Love",
+      "url": "https://open.spotify.com/track/2L1cfBLg1wNI5ZIpAAv6Wc"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Uchiyaan Dewaraan",
+        "url": "https://open.spotify.com/album/6MyTdWlbXDZcpGDXDBGW0G"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        },
+        {
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        }
+      ],
+      "duration_ms": 227976,
+      "name": "Uchiyaan Dewaraan",
+      "url": "https://open.spotify.com/track/1CYn0jiSz0gubTpYJbuTMS"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Khyaal Rakhya Kar",
+        "url": "https://open.spotify.com/album/6Ghe7DUVuvs6hCzCdz3prE"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "duration_ms": 190494,
+      "name": "Khyaal Rakhya Kar",
+      "url": "https://open.spotify.com/track/2RKGtM8v2JM72Gyo1wLmgg"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Titliaan",
+        "url": "https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        },
+        {
+          "name": "Sargun Mehta",
+          "url": "https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Titliaan",
+      "url": "https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Distance Love",
+        "url": "https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY"
+      },
+      "artists": [
+        {
+          "name": "Grewal",
+          "url": "https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6"
+        },
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        }
+      ],
+      "duration_ms": 210681,
+      "name": "Distance Love",
+      "url": "https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Suit Purane",
+        "url": "https://open.spotify.com/album/2HXJnIbm2a140pa9f4j1zX"
+      },
+      "artists": [
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        },
+        {
+          "name": "Inder Chahal",
+          "url": "https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Suit Purane",
+      "url": "https://open.spotify.com/track/3JmpJDQTyYnLlQSDVFR1vT"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/37nWpT1gls52Tu6pymuPw3"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "duration_ms": 266005,
+      "name": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Koi Hor",
+        "url": "https://open.spotify.com/album/0O4yf1FCBxwNw2XpFHbMiA"
+      },
+      "artists": [
+        {
+          "name": "Dilnoor",
+          "url": "https://open.spotify.com/artist/50tXZuZyML8SQweztignbv"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        }
+      ],
+      "duration_ms": 282500,
+      "name": "Koi Hor",
+      "url": "https://open.spotify.com/track/2hN1rqSmyACedLtyZP7TvO"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Faraar",
+        "url": "https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF"
+      },
+      "artists": [
+        {
+          "name": "Akull",
+          "url": "https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss"
+        }
+      ],
+      "duration_ms": 192912,
+      "name": "Faraar",
+      "url": "https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Not by Chance",
+        "url": "https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Money Musik",
+          "url": "https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Saada Pyaar",
+      "url": "https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Ranjha (From \"Shershaah\")",
+        "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "duration_ms": 228855,
+      "name": "Ranjha (From \"Shershaah\")",
+      "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Saiyaan",
+        "url": "https://open.spotify.com/album/0Diu3K0PxRPqNH5qTMcdcl"
+      },
+      "artists": [
+        {
+          "name": "Jass Manak",
+          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+        }
+      ],
+      "duration_ms": 175882,
+      "name": "Saiyaan",
+      "url": "https://open.spotify.com/track/6QgW1YysLYl1kZJo3AdAIB"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Schedule",
+        "url": "https://open.spotify.com/album/0XtDEAGgkFrbNNaukE8pEF"
+      },
+      "artists": [
+        {
+          "name": "Tegi Pannu",
+          "url": "https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "duration_ms": 148376,
+      "name": "Schedule",
+      "url": "https://open.spotify.com/track/5eGsHi6RcL33gb9k89UYaB"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Kya Baat Ay",
+        "url": "https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "duration_ms": 179444,
+      "name": "Kya Baat Ay",
+      "url": "https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Raule",
+        "url": "https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Raule",
+      "url": "https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Kangana",
+        "url": "https://open.spotify.com/album/7di7ujp5QZBz8ugDAMk9qN"
+      },
+      "artists": [
+        {
+          "name": "Abeer Arora",
+          "url": "https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR"
+        }
+      ],
+      "duration_ms": 222142,
+      "name": "Kangana",
+      "url": "https://open.spotify.com/track/2hQ9Vp3f9eOU2ynadCssjW"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Meharvaani",
+          "url": "https://open.spotify.com/artist/6wGyFlOL5zJjl1YTi5Jzkk"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Shining Koka",
+      "url": "https://open.spotify.com/track/010ixs5vNGeCMJ30C9HnTI"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Pasand Bangi",
+        "url": "https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 225912,
+      "name": "Pasand Bangi",
+      "url": "https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Cooper (feat. Gurlez Akhtar)",
+        "url": "https://open.spotify.com/album/6GXPVaPJPeQFhcheqd1tP7"
+      },
+      "artists": [
+        {
+          "name": "Jovan Dhillon",
+          "url": "https://open.spotify.com/artist/2EW4LUtzs9hLVAZTRzphS0"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 168157,
+      "name": "Cooper (feat. Gurlez Akhtar)",
+      "url": "https://open.spotify.com/track/6CP0jsIBEM5VEEKLr4tf69"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Above All",
+        "url": "https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Love Like Me",
+      "url": "https://open.spotify.com/track/5mBR7WfEebvABTN4N69M5M"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Top Notch Gabru",
+        "url": "https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG"
+      },
+      "artists": [
+        {
+          "name": "Vicky",
+          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        }
+      ],
+      "duration_ms": 158294,
+      "name": "Top Notch Gabru",
+      "url": "https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Lambo Car",
+        "url": "https://open.spotify.com/album/6tAGlCN5ToaR5o7hG4IBGL"
+      },
+      "artists": [
+        {
+          "name": "Guri",
+          "url": "https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/0Y1YOEVDYNn3UjVuXljM2m"
+        },
+        {
+          "name": "Neha Sharma",
+          "url": "https://open.spotify.com/artist/3XLZGHc3hdywEa50EiMrEt"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Lambo Car",
+      "url": "https://open.spotify.com/track/7hzjokqjgAolbg3xqeG21k"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Marjaawaan (From \"BellBottom\") - Single",
+        "url": "https://open.spotify.com/album/5p9PjysGBFUg57pxmGhqvh"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 225956,
+      "name": "Marjaawaan (From \"BellBottom\")",
+      "url": "https://open.spotify.com/track/6nDFhdxDZBbwEDbsJYVdqS"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Pagal Nahi Hona (feat. Sonu Sood)",
+        "url": "https://open.spotify.com/album/0JTBanRxutQ7j4bRNgjh40"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        },
+        {
+          "name": "Sonu Sood",
+          "url": "https://open.spotify.com/artist/1RViT01v3KsUvaEQk136nY"
+        }
+      ],
+      "duration_ms": 226046,
+      "name": "Pagal Nahi Hona (feat. Sonu Sood)",
+      "url": "https://open.spotify.com/track/1BPnrHYkrXc28xp66lB2CZ"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Teri Sardarni",
+        "url": "https://open.spotify.com/album/3ruy1JXCCcVL4mfQlkjiuG"
+      },
+      "artists": [
+        {
+          "name": "Kay Vee Singh",
+          "url": "https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n"
+        }
+      ],
+      "duration_ms": 227532,
+      "name": "Teri Sardarni",
+      "url": "https://open.spotify.com/track/3W4dGZMlTGDAfB3WoSI3qA"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 187894,
+      "name": "Shraab Wargi",
+      "url": "https://open.spotify.com/track/7Cx9BdsrVLSPpYaQi8vxd4"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "8 Raflaan (feat. Gurlez Akhtar)",
+        "url": "https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 115257,
+      "name": "8 Raflaan (feat. Gurlez Akhtar)",
+      "url": "https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5"
+    },
+    {
+      "added_at": "2021-12-02 04:19:36",
+      "album": {
+        "name": "Snitches Get Stitches",
+        "url": "https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Aj Kal Ve",
+      "url": "https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt"
+}

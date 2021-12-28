@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,362 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,364 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Ocho](https://open.spotify.com/track/5SHrFAnxCwUkt8fh1r3qLd) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Ocho](https://open.spotify.com/album/4tQk8SwZ5dF5n5LihU6KJz) | 2:39 |
 | 100 | [Destemperado](https://open.spotify.com/track/6wg23d1pHboNW9vsmuIEpc) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 2:28 |
 
-Snapshot ID: `MTY0MDY1MTk2MCwwMDAwMDAwMGFkNDk1NmY1YmJlODhjMTY3ZmMyYTMyNWJjMjY5OGI5`
+Snapshot ID: `MTY0MDY1Mjk4OSwwMDAwMDAwMGFkNDk1NmY1YmJlODhjMTY3ZmMyYTMyNWJjMjY5OGI5`

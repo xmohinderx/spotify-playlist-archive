@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,620 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,621 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 99 | [Loving You \(One Last Time\) \- Lounge Version](https://open.spotify.com/track/2zkFPayhYuzsTnSkvLVOvx) | [Shade](https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc), [Thyra](https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G) | [Loving You \(One Last Time\) \[Lounge Version\]](https://open.spotify.com/album/4Rrn0ZojUyq1Mb6r7AqhBV) | 3:34 |
 | 100 | [Artemis](https://open.spotify.com/track/74OJcb0urbXBKWVkGd4hxg) | [Quenzon](https://open.spotify.com/artist/164svUMph3V3YVfziE8P0o) | [Artemis](https://open.spotify.com/album/4wowoNjSgtPNl6keFKwE71) | 3:05 |
 
-Snapshot ID: `MTY0MDY1MjExNywwMDAwMDAwMGE1Yjc2ZWQ3NDdjM2NiNjFkNDU0NzgxNGNkYjM5ZWI5`
+Snapshot ID: `MTY0MDY1MzIwMCwwMDAwMDAwMGE1Yjc2ZWQ3NDdjM2NiNjFkNDU0NzgxNGNkYjM5ZWI5`

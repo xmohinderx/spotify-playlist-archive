@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,402 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,404 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Dle Yaman \(116 Deep Mix\)](https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [Dle Yaman \(116 Deep Mix\)](https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj) | 7:18 |
 | 100 | [Zagora](https://open.spotify.com/track/4SNEe0K9EmOa1zXBrjjoHM) | [So Dubbed](https://open.spotify.com/artist/7iIpChHfPHBIC5Yzt32xse), [Ravin](https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb) | [Zagora](https://open.spotify.com/album/2m3l8T67d9WqovM8yLfaeJ) | 5:25 |
 
-Snapshot ID: `MTY0MDY1MjExNSwwMDAwMDAwMDAyN2E3ZmExNzdmN2ExZmQyMDUxNDVhNTk1NzIwYWYx`
+Snapshot ID: `MTY0MDY1MzE5NywwMDAwMDAwMDAyN2E3ZmExNzdmN2ExZmQyMDUxNDVhNTk1NzIwYWYx`

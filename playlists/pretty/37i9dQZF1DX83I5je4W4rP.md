@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,274 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,276 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Snowman \(with Dirty Heads\)](https://open.spotify.com/track/1BzKS4LnJQdRotvaaP7gRB) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Snowman \(with Dirty Heads\)](https://open.spotify.com/album/7xa1P8sTjIeCuZDSUCM7nU) | 3:47 |
 | 100 | [Set Sail](https://open.spotify.com/track/2nkuZha8Oe9puQ8ZX1P9ha) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Set Sail](https://open.spotify.com/album/14emdMLeIWpokV9l8Xgobb) | 3:36 |
 
-Snapshot ID: `MTY0MDY1MjAzOCwwMDAwMDAwMDJiYjRjNjAwNzY2Mzg3ZGY4YWI3Y2RjOGY1Y2ZmZjdh`
+Snapshot ID: `MTY0MDY1MzA5NCwwMDAwMDAwMDJiYjRjNjAwNzY2Mzg3ZGY4YWI3Y2RjOGY1Y2ZmZjdh`

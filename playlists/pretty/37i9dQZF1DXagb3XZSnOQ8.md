@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagb3XZSnOQ8.md) - [plain]
 
 > The best of Iron Maiden\. All in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,540 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,541 likes - 50 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

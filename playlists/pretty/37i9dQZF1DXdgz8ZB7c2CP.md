@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Tails.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,284 likes - 125 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,282 likes - 125 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [Context](https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Context](https://open.spotify.com/album/4xQ4aw8SmHshUSTLYDsa9B) | 4:00 |
 | 125 | [Waiting On You](https://open.spotify.com/track/0xjZJqMYwv7oNB4KsJiUUM) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7), [Majent](https://open.spotify.com/artist/6pTVLPzvYW3SvwfyjDxtXX) | [Waiting On You](https://open.spotify.com/album/4iEqVIn2EUWpk9tOoM9KdG) | 3:03 |
 
-Snapshot ID: `MTY0MDY1MjEyNSwwMDAwMDAwMDBkYjBhYmU1N2Y2ZGJjNDYzYmI2ZmQzMjhlOWU4Y2Y0`
+Snapshot ID: `MTY0MDY1MzIxMywwMDAwMDAwMDBkYjBhYmU1N2Y2ZGJjNDYzYmI2ZmQzMjhlOWU4Y2Y0`

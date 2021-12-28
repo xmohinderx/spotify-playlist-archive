@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,062,604 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,062,622 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Someone New](https://open.spotify.com/track/2GkPTpFLY0NG8jrAHPoSnn) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Someone New](https://open.spotify.com/album/3d2Dy9McSVkr079xuAhHNl) | 3:02 |
 | 100 | [Life Goes On \- Alok Remix](https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Life Goes On \(Alok Remix\)](https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8) | 2:37 |
 
-Snapshot ID: `MTY0MDY1MjEyNywwMDAwMDAwMDQ3NjE3Yzk2YzVmMTA3MDVkMWYwZWYwZWVjNzE1OTk2`
+Snapshot ID: `MTY0MDY1MzIxNiwwMDAwMDAwMDQ3NjE3Yzk2YzVmMTA3MDVkMWYwZWYwZWVjNzE1OTk2`

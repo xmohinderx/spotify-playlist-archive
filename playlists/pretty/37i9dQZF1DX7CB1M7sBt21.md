@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,096 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,097 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [All of My Love](https://open.spotify.com/track/33uKyhQ4EsYvjeQZmgnHvX) | [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP), [Backs](https://open.spotify.com/artist/5tcUxI9b1o0wySvepf23vh) | [All of My Love](https://open.spotify.com/album/2gmI233u5cCirdT2uAMZTG) | 2:39 |
 | 80 | [Peru](https://open.spotify.com/track/5GTboKbndutgM0oJOMpzTC) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/76fUJrrJWxbtURfKeTHbVV) | 2:27 |
 
-Snapshot ID: `MTY0MDY1MjAyNywwMDAwMDAwMGEwZjA0MDU2ZGY3NjlkY2NjYmMyM2QzMzRiZmY1ZmIx`
+Snapshot ID: `MTY0MDY1MzA3OCwwMDAwMDAwMGEwZjA0MDU2ZGY3NjlkY2NjYmMyM2QzMzRiZmY1ZmIx`

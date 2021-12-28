@@ -1,0 +1,62 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain](/playlists/plain/37i9dQZF1DX3vtLopew4fC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3vtLopew4fC)
+
+### [EQUAL Canada](https://open.spotify.com/playlist/37i9dQZF1DX3vtLopew4fC)
+
+> Listen to women in Canada, at full volume\. Cover: Rochelle Jordan
+
+[Spotify](https://open.spotify.com/user/spotify) - 5,756 likes - 50 songs - 2 hr 41 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [ALL ALONG](https://open.spotify.com/track/11Q12uGLdf1ZmbcCbevWAY) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL) | 3:23 |
+| 2 | [THE WAY I FEEL](https://open.spotify.com/track/3sUznPWwYhczB0v6SFkgc0) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [THE WAY I FEEL](https://open.spotify.com/album/7mzTwyIJGqxoejmhBXOMnX) | 3:33 |
+| 3 | [Wet x3](https://open.spotify.com/track/3Js9HDMcXtQIpYorsbERcD) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Taraval](https://open.spotify.com/artist/7nfNAw10popYtPuxLEUjrF) | [DJ\-Kicks: Jessy Lanza](https://open.spotify.com/album/3RVxiA5FxTloZGWsdPZVXs) | 4:56 |
+| 4 | [A Collage for Jake and Emilie](https://open.spotify.com/track/7y63H3pvIqgwXiZZloPESs) | [Ciel](https://open.spotify.com/artist/1Rv2Pete1cFEKlDYk0hjWl) | [All We Have Is Each Other](https://open.spotify.com/album/7kZ62OCO66vFsiDMzlbw7J) | 4:38 |
+| 5 | [Buttercup](https://open.spotify.com/track/6RfiWrAnIPxuWdMkZ1nALV) | [Peach](https://open.spotify.com/artist/5e6DBZg0HJywmjj9BX9iIN) | [Buttercup](https://open.spotify.com/album/7nsWGTBZzNXdqumFbKAorc) | 5:55 |
+| 6 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 |
+| 7 | [Must Be](https://open.spotify.com/track/7KpTMWKwHL4aX0bzUtyzXK) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m) | [Must Be](https://open.spotify.com/album/62YfeP2rYk9xIP3NsQsoat) | 2:13 |
+| 8 | [hurt less](https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [overkill](https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH) | 2:45 |
+| 9 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 3:34 |
+| 10 | [Waves Of Love](https://open.spotify.com/track/7FKHOjtCDh4kv3npLlqx3e) | [Kennedy Rd.](https://open.spotify.com/artist/1ZtRTibAPAEbO8iydpyzWu) | [Waves Of Love \- Vol 1](https://open.spotify.com/album/21ry79SyedhRneG6N2ghOY) | 2:45 |
+| 11 | [On s'aimera toujours](https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:28 |
+| 12 | [Brutal](https://open.spotify.com/track/0bCru2ovpMwBY1dZdrKRms) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Brutal](https://open.spotify.com/album/79sn46ySVe1GiIQREIv169) | 3:05 |
+| 13 | [Failed English](https://open.spotify.com/track/7kj0SRhn9ovQ8N5dBtCPna) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Failed English](https://open.spotify.com/album/1BVE4R2Ze79EwSJ55Ha5hW) | 2:43 |
+| 14 | [Banana Split](https://open.spotify.com/track/2tPIe6AVKw9nhma2tZSY04) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Banana Split](https://open.spotify.com/album/0U2I09LvvQU5Lq9pK8OzMq) | 3:29 |
+| 15 | [Polytics](https://open.spotify.com/track/29DpuCxcRK8igslbq7RSD4) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Polytics](https://open.spotify.com/album/3znffL5bZo1Fkjj5j2xKjj) | 2:35 |
+| 16 | [Anchor](https://open.spotify.com/track/2iGAdora1U8vGEKQ9foxz5) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Anchor](https://open.spotify.com/album/0wfJCxMu61yNmW9QOcxtDV) | 3:08 |
+| 17 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 |
+| 18 | [Party 22](https://open.spotify.com/track/2cW6YjxfNnDycOoE95xwfa) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Party 22](https://open.spotify.com/album/75eIzhuTaVE3zUcYpLBn72) | 1:49 |
+| 19 | [Colonizer](https://open.spotify.com/track/3v7XROQmV57vMOcj12764w) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Colonizer](https://open.spotify.com/album/1A6MOV2krH3nDJyuPKbPfa) | 4:24 |
+| 20 | [That I Won't Do](https://open.spotify.com/track/3mZnzp5DzIxmnSYrUBME8b) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [That I Won't Do](https://open.spotify.com/album/1YrYPr2CJZztg9s3RdUdNo) | 2:42 |
+| 21 | [Same Old Mistake](https://open.spotify.com/track/0esji3PRFprTRKNAP5OASW) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Same Old Mistake](https://open.spotify.com/album/6vjaaocW1oiMF3DYwV0CRQ) | 3:15 |
+| 22 | [Rhythm of You](https://open.spotify.com/track/00cThe80WMLCYyXsjytrOq) | [Jenna Bennett](https://open.spotify.com/artist/01F4laId5DDuQ2UdV9ihcC) | [Rhythm of You](https://open.spotify.com/album/1quh5KBdh5voOJCYqnRgNx) | 2:16 |
+| 23 | [Time](https://open.spotify.com/track/5532nyuvgtokwp4EBVs9Eq) | [Gaby Harvey](https://open.spotify.com/artist/2viTeSP7GAq0XGW6q8n0nt) | [Time](https://open.spotify.com/album/7fnieJvggdTT5l7gpBjWkY) | 2:22 |
+| 24 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
+| 25 | [Selfish](https://open.spotify.com/track/4y3jlIv1tEecRRmp3rUovX) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/5l7N5sEr1ALaHvBuMEZ5a0) | 2:41 |
+| 26 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 |
+| 27 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 |
+| 28 | [Next To Pop](https://open.spotify.com/track/1XMaAhHrv3WVBmmzS7G8Df) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw), [Boy6lue](https://open.spotify.com/artist/0vnrSHSfHH5SiucZ1ESawP) | [Chung Shui](https://open.spotify.com/album/71M5kWhRglaMXjbyLzxvRM) | 3:22 |
+| 29 | [LOGIC \(Lucky Charm Freestyle\)](https://open.spotify.com/track/1CepULbsK4Vfrpp0u9BD70) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [LOGIC \(Lucky Charm Freestyle\)](https://open.spotify.com/album/1O5oh3scGUepEIw1DYftEK) | 2:36 |
+| 30 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 |
+| 31 | [En deux mots](https://open.spotify.com/track/1qB60w534lMjIHtih7n6CV) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [En deux mots](https://open.spotify.com/album/0HQJVt3EWi7nBnqinX8wIF) | 3:47 |
+| 32 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
+| 33 | [Country Queen](https://open.spotify.com/track/66UoGh7GDMKWubZf6Dg73J) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Country Queen](https://open.spotify.com/album/4Q9HJJxuSUdfULtzS44gR7) | 3:17 |
+| 34 | [So So \(feat\. Dai Burger\)](https://open.spotify.com/track/69uVWhBBO5CUJIITkFzvum) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [Stock Exchange](https://open.spotify.com/album/1Riy0kKOJRtpGB9ewzBpJN) | 2:39 |
+| 35 | [Paper Walls](https://open.spotify.com/track/3p7bWzqLgmHc172MBh7Vd2) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Spiral](https://open.spotify.com/album/59d750ai99PfyZ5zTUQWfY) | 3:39 |
+| 36 | [MTL me déteste](https://open.spotify.com/track/0noGq7yYjc1GXxXSJHuCfD) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [MTL me déteste](https://open.spotify.com/album/77LvEnRscXyt8QjUE5B2Zo) | 3:13 |
+| 37 | [How to Love a Girl](https://open.spotify.com/track/5FnttztYfU8teEIxwbbYzo) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [How to Love a Girl](https://open.spotify.com/album/7LdbjY22hzHrurNVvqvKpv) | 3:35 |
+| 38 | [Prodigal Daughter](https://open.spotify.com/track/0vVNkREdbjIihEogQa34WF) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Prodigal Daughter](https://open.spotify.com/album/0iqIh9TV94i4EPz557xN9A) | 2:55 |
+| 39 | [Love Turns Lonely](https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Love Turns Lonely](https://open.spotify.com/album/73gPLcREEBeTaX81GEup7e) | 2:47 |
+| 40 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 |
+| 41 | [Hazy](https://open.spotify.com/track/7AI6XwCGXT1TILIydEJzcA) | [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Hazy](https://open.spotify.com/album/0l5z1E8WwW8PPHz886dsm9) | 3:01 |
+| 42 | [Miss Blumenfeld](https://open.spotify.com/track/2f7CfX2zBPlg8jcbX9JLQd) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Miss Blumenfeld](https://open.spotify.com/album/5pXSIXb3yETE3TNKrNKqmV) | 2:54 |
+| 43 | [Drown](https://open.spotify.com/track/03OGqamSZts80DF1SaBLku) | [LISE](https://open.spotify.com/artist/3dHRLZ9iTiUDiPNc4P6GU1) | [Drown](https://open.spotify.com/album/3coPuRYxCX4HpWfKbtIRRq) | 3:14 |
+| 44 | [Quand je serai grande](https://open.spotify.com/track/0D7L6sRUjVbzQ4XXPLYEWA) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Quand je serai grande](https://open.spotify.com/album/5kPdG7i7cYtzYMX6HjKbs2) | 3:19 |
+| 45 | [at night](https://open.spotify.com/track/29tkdmHwF6rT5kZLVrynEm) | [ashlye](https://open.spotify.com/artist/0hrJhSHQnYYivAaBnpMckg) | [at night](https://open.spotify.com/album/2VQ2XblT88RrwJhfhzLeoe) | 2:55 |
+| 46 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 |
+| 47 | [So Quick](https://open.spotify.com/track/5R8M7QLz9fDYrgDRz3LaI1) | [Shanuka](https://open.spotify.com/artist/57wiktlw2QICiizAd9s2ny) | [So Quick](https://open.spotify.com/album/6QM5pGjE3xO7tzfkkntSky) | 2:16 |
+| 48 | [FOR ME](https://open.spotify.com/track/6SCpR5CoMdbPJnwPHDErQ6) | [Broco](https://open.spotify.com/artist/1vcvlxsVaMndbUyyXnUS9L) | [FOR ME](https://open.spotify.com/album/5wyI5Q6tud3rmrra1QvYPL) | 2:59 |
+| 49 | [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 |
+| 50 | [How Could You Not Know](https://open.spotify.com/track/437U5nrp0JDZgdXfqETElJ) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [How Could You Not Know](https://open.spotify.com/album/0I2fa8NymAcQ2IcWPInISt) | 2:47 |
+
+Snapshot ID: `MTYzODkzOTYwMCwwMDAwMDAxMzAwMDAwMTdkOTg2OWE0ZGMwMDAwMDE3ZDk2OTVkYWY2`

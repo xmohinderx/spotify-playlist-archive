@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,004 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,002 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 85 | [Kaksi](https://open.spotify.com/track/6htL2c5qW0IhL6QgCawXsK) | [Ukkonen](https://open.spotify.com/artist/7gAih0l51IrX04F2wKSR4L) | [Erriapo](https://open.spotify.com/album/25kRg1Ggrgm1mw5i5C17k8) | 6:59 |
 | 86 | [Blank Pages](https://open.spotify.com/track/47D774OTQbbGPU6fTMTgya) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [A Chorus of Storytellers](https://open.spotify.com/album/6WmTiX3fSgwC6QO1QScVD4) | 4:28 |
 
-Snapshot ID: `MTY0MDY1MTk3MywwMDAwMDAwMDdiNTYyMDk0MjM2ZGI5YmIzZmZlMTA1YzM5OTBmN2Fi`
+Snapshot ID: `MTY0MDY1MzAwOSwwMDAwMDAwMDdiNTYyMDk0MjM2ZGI5YmIzZmZlMTA1YzM5OTBmN2Fi`

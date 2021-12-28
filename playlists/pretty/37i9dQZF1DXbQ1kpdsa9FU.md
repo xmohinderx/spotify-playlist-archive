@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,214 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,212 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [The Heart Of Worship](https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:18 |
 | 100 | [God, You’re So Good \- Live](https://open.spotify.com/track/3OBG99yPHZwjhPpALz17jm) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [God, You're So Good \(Live\)](https://open.spotify.com/album/60oSR3Ij3WnoVvZGPqD12G) | 7:06 |
 
-Snapshot ID: `MTY0MDY1MjA5MSwwMDAwMDAwMGI2N2FkNmU2MmYxODEzNjAyODk3MGJjOWIwMDBiNDFi`
+Snapshot ID: `MTY0MDY1MzE2MywwMDAwMDAwMGI2N2FkNmU2MmYxODEzNjAyODk3MGJjOWIwMDBiNDFi`

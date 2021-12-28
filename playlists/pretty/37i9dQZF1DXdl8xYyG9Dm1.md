@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=4mLu7AObRVe3gsSn4kDpjw"> A\-Reece </a>  and <a href="https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR?si=xVwLdOd2TTekWZ7e7xb9Gw"> Jay Jody </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,647 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,649 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [KingSize](https://open.spotify.com/track/3Up92OTxG9rcnWCGrB26w9) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [FUEGO](https://open.spotify.com/album/2UBVY8AKfYWYJuIwamCbuE) | 3:40 |
 | 70 | [Link Up](https://open.spotify.com/track/0CKZ0eCTKaaJh1vQjO27fC) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:19 |
 
-Snapshot ID: `MTY0MDY1MjEyNSwwMDAwMDAwMGNhMmQ2MzUzMDFlNDIyNjU3YjNlMTFmYzA5MzExM2Jh`
+Snapshot ID: `MTY0MDY1MzIxMywwMDAwMDAwMGNhMmQ2MzUzMDFlNDIyNjU3YjNlMTFmYzA5MzExM2Jh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,101 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,103 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [The Angry River \(feat\. Father John Misty and S.I\. Istwa\) \[Theme From the HBO® Series True Detective\]](https://open.spotify.com/track/1gZmLcA6IqI4YGhKIfFO8E) | [The Hat](https://open.spotify.com/artist/0UiSKMMZHzAvON7xNNeTnh), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT), [S.I\. Istwa](https://open.spotify.com/artist/23DkZl7xuseePWZqXE1qUr) | [The Angry River \(feat\. Father John Misty and S.I\. Istwa\) \[From the HBO® Series True Detective\]](https://open.spotify.com/album/5bCMuYl8KZARE7qDtwM4EN) | 2:55 |
 | 100 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 |
 
-Snapshot ID: `MTY0MDY1MTk5MCwwMDAwMDAwMGQyMDAwOTNkOGU5NGVlMjg5ODNjNjYzY2VjNGFiMzVl`
+Snapshot ID: `MTY0MDY1MzAyOSwwMDAwMDAwMGQyMDAwOTNkOGU5NGVlMjg5ODNjNjYzY2VjNGFiMzVl`

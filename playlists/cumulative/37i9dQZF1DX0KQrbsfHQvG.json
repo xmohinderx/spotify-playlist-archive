@@ -38,7 +38,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 189262,
       "name": "21st Century Liability",
       "url": "https://open.spotify.com/track/5WAsLiCOLiz2iwJLcuJEgb"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 229666,
       "name": "Capital G",
       "url": "https://open.spotify.com/track/0TSkgwKqFVzPmTzdQ6KtV1"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 196120,
       "name": "Fuck Authority",
       "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 157656,
       "name": "Heart Afire",
       "url": "https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 204026,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1caNzSrwm2CP4GNHLjdgmg"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 214170,
       "name": "None Of The Above",
       "url": "https://open.spotify.com/track/0qochh4sUrYpilQZKTtutC"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 202666,
       "name": "Pirates, Punks & Politics (feat. Perry Farrell)",
       "url": "https://open.spotify.com/track/2yaxqzBs3ayn3wfWxUzAkK"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
@@ -1270,6 +1270,28 @@
       "duration_ms": 233586,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf"
     },
     {
       "album": {
@@ -1422,7 +1444,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 179600,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig"
@@ -1660,7 +1682,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 211026,
       "name": "Weather Strike",
       "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"

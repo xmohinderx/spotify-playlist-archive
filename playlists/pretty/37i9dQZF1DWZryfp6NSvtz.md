@@ -1,0 +1,52 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain](/playlists/plain/37i9dQZF1DWZryfp6NSvtz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZryfp6NSvtz)
+
+### [All New Rock](https://open.spotify.com/playlist/37i9dQZF1DWZryfp6NSvtz)
+
+> All new, all rock\. Cover: Johnny Marr
+
+[Spotify](https://open.spotify.com/user/spotify) - 297,355 likes - 40 songs - 2 hr 13 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Hideaway Girl](https://open.spotify.com/track/5LsZQhyNjRMbgbsOQimOrx) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Fever Dreams Pt\. 2](https://open.spotify.com/album/0ILtAeS79hO8hBfdMVcCVj) | 3:25 |
+| 2 | [Leading](https://open.spotify.com/track/1hKwgDLMXRMYF5ELuVr6ni) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Leading](https://open.spotify.com/album/1vLgVmLSQgEEM8SBZ4QQQd) | 3:05 |
+| 3 | [Witching Hour](https://open.spotify.com/track/78aetcHwGy7IjRT31X7XiO) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [Witching Hour](https://open.spotify.com/album/0YFCDxRrN3uxSSyYT5Nm78) | 4:09 |
+| 4 | [Lost Meaning](https://open.spotify.com/track/3lp7Podb05vFu4ghQ4AWjV) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Lost Meaning](https://open.spotify.com/album/4bqWiqFCLeCet10f1rzCUe) | 4:31 |
+| 5 | [Fall From Grace](https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Fall From Grace](https://open.spotify.com/album/5hdLUzCRY0TJ9tEzVWtjuG) | 3:48 |
+| 6 | [Petrichor](https://open.spotify.com/track/5cMoth993LZmKWhWx1rkjp) | [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Petrichor](https://open.spotify.com/album/4vGt9ABvSz8IYyVmqkcx13) | 4:03 |
+| 7 | [A Passenger](https://open.spotify.com/track/3x925Igx98XHatZS4gbVSM) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [A Passenger](https://open.spotify.com/album/6xHDptvq5QoO4iyf9XUnBq) | 3:15 |
+| 8 | [Tarkine](https://open.spotify.com/track/6dHumzm8uj8gUhkvN3ViHL) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Tarkine](https://open.spotify.com/album/2ztHHoeXMB6qnvuQvz4jb1) | 4:20 |
+| 9 | [Reap A Hurricane](https://open.spotify.com/track/6HtG17GT7yVuZiwhcPWPOY) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Reap A Hurricane](https://open.spotify.com/album/3eUtW3WFfthYpb1Amei78r) | 3:15 |
+| 10 | [Fired Up](https://open.spotify.com/track/5i744YirtqrceHoZUgRNTW) | [Nathan Gray](https://open.spotify.com/artist/6xA7mRcYzlhungf2mEebib) | [Rebel Songs](https://open.spotify.com/album/6mcaJ4F4NDowklyBl1eSzV) | 2:44 |
+| 11 | [Traces](https://open.spotify.com/track/109xuxOggU79GWWtVdiAle) | [Healing](https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0) | [Traces](https://open.spotify.com/album/08syVyLh4gUmnF4nllmjUe) | 4:52 |
+| 12 | [Heroine](https://open.spotify.com/track/7IUN2oyr0tfsjb39FtKeYg) | [Your Favorite Color](https://open.spotify.com/artist/0svp2p0UowZkieevH4358o) | [Heroine](https://open.spotify.com/album/6e9LHebjWrj6qfxwHIMXZS) | 3:11 |
+| 13 | [crashing down](https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [crashing down](https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf) | 2:19 |
+| 14 | [Weight of the World](https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Weight of the World](https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr) | 3:12 |
+| 15 | [TRAVIS](https://open.spotify.com/track/7or0qYep2EYHNYOtMugkJq) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [TRAVIS](https://open.spotify.com/album/2Ot8UD3DUyO3K3zAKlZxmK) | 2:21 |
+| 16 | [Way Back When](https://open.spotify.com/track/0sHwaKBOtXCz4vrlVFafXv) | [Rozei](https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ) | [Way Back When](https://open.spotify.com/album/4dclpKjcjXDAL8UllLWrTC) | 2:14 |
+| 17 | [Died Enough For You](https://open.spotify.com/track/6S0TwVjLseHPFL8HWMC4z3) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Died Enough For You](https://open.spotify.com/album/5vh86Lj3MiRCJytUbtIZUO) | 3:36 |
+| 18 | [Ghost](https://open.spotify.com/track/3uzfPguUqOgJb5z6TvAWxF) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [Ghost](https://open.spotify.com/album/6muKJ0I1CaMCbXItAotJRd) | 2:33 |
+| 19 | [Benediction \(I Hope that You Feel Loved\)](https://open.spotify.com/track/1HLGJHRDJjNPjOapXHaZuo) | [When the Clock Strikes](https://open.spotify.com/artist/3n7oA0vf8A2X0GqEv2GDDy) | [Benediction \(I Hope that You Feel Loved\)](https://open.spotify.com/album/2Bci2GwXjJIukZs3ba9cOm) | 4:13 |
+| 20 | [Clearview](https://open.spotify.com/track/5GT7fRtPrfhjJScixSFdZW) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Clearview](https://open.spotify.com/album/5SkKB1BbGRpD1EHKiXjHjg) | 2:44 |
+| 21 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 |
+| 22 | [Honest To God](https://open.spotify.com/track/3c1voznEmMmlbiva6dYwpr) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Honest To God](https://open.spotify.com/album/5NXw5BXBXyeq5N2xXszX3j) | 3:18 |
+| 23 | [Don't Stop](https://open.spotify.com/track/23GDOl0H4WjfgZyraoms6v) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Don't Stop](https://open.spotify.com/album/44Qb6Wa5dt8y2jSpCSlPmH) | 1:45 |
+| 24 | [Beautiful Out](https://open.spotify.com/track/3w3QOkPyhaGPaechBsxTE0) | [Worst Party Ever](https://open.spotify.com/artist/2bLENLdxlsq2xbvzMa1SUG) | [Beautiful Out](https://open.spotify.com/album/0MLwq2J3bl3yWfT554oNum) | 2:19 |
+| 25 | [I Heard You Bought a Gun](https://open.spotify.com/track/4mjzA3I0QhNNA3WRMqHK5t) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [you'll be dead before you know it](https://open.spotify.com/album/6KLiLpuoG3C6f6FuA7AICj) | 2:26 |
+| 26 | [Legacy](https://open.spotify.com/track/7wWx2lAtdRthW0xh0kIP6d) | [Artifas](https://open.spotify.com/artist/1ViEvkP8Zh035Af9o1z5Ql) | [Legacy](https://open.spotify.com/album/1RTOEMMosBfWvV1NdgDqOg) | 3:37 |
+| 27 | [Simple Things](https://open.spotify.com/track/3XA0KbULj4u7giqendm6MK) | [Jennings Couch](https://open.spotify.com/artist/43RClIsYeah1rNFfJq25b6) | [Simple Things](https://open.spotify.com/album/5ZUfsd4YxMbrwiSAmi08nh) | 2:20 |
+| 28 | [Dreaming On](https://open.spotify.com/track/3C5DBTeeFndaikRL8yMofn) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Born a Rockstar: The Collection](https://open.spotify.com/album/4eIKCV32h4GPtrvJ0eBPBl) | 2:42 |
+| 29 | [Beatin'](https://open.spotify.com/track/5FVFZ5CDMZXqsZhNNe2aZX) | [SCREEEWS](https://open.spotify.com/artist/5CUqscnBkpCR2lOSs8cJyG) | [Beatin'](https://open.spotify.com/album/7E1Qc1TZxgOafd2EBraaJD) | 4:05 |
+| 30 | [PARADOX](https://open.spotify.com/track/6V6ED9h3ps0gzcClRMxSKu) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [PARADOX](https://open.spotify.com/album/4e3wxS32d1955Ff27puwg4) | 3:24 |
+| 31 | [Love Letters & Hate Mail](https://open.spotify.com/track/3PIHaYNKryFyx2KRRldq4Q) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Love Letters & Hate Mail EP](https://open.spotify.com/album/6yzHyjo5mXtksnU5eHuKzR) | 3:25 |
+| 32 | [The Halo Project: Not the One to Blame](https://open.spotify.com/track/5huIbGhqXYXgeXEaOj78wi) | [Scott Labbe](https://open.spotify.com/artist/00nDXmI902QlDjTzsj6XG3), [Fifth Freedom](https://open.spotify.com/artist/5q8TGTIty67zNTTHSwq0sI) | [The Halo Project: Not the One to Blame](https://open.spotify.com/album/7DfhJSe47P9a47a7GrokZg) | 3:22 |
+| 33 | [Chase the Moments](https://open.spotify.com/track/5OFbDOko9s1cXgtB59Ksyu) | [Dead On A Sunday](https://open.spotify.com/artist/2y19rzmHIF4YOLHm7AW0pl), [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Chase the Moments](https://open.spotify.com/album/2YIaoKwQa6PgGuuaSDGjha) | 3:28 |
+| 34 | [How Sweet the Light](https://open.spotify.com/track/13otiEEMhA0cDd1pNmto9w) | [Urge Overkill](https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4) | [How Sweet the Light](https://open.spotify.com/album/4oCKPUqaHOflsgjEbpvCBq) | 3:30 |
+| 35 | [REAL LIFE](https://open.spotify.com/track/3t6NH0KadnwhuFbMcCU3tF) | [Trey Warner](https://open.spotify.com/artist/6ZxcUXGkKYUmET4NzPKxij) | [DOING MY OWN THING](https://open.spotify.com/album/56e0w6ACYXeYkU4JUcWlLi) | 3:34 |
+| 36 | [Gene's Song](https://open.spotify.com/track/7gm7urxj38T7wgxcPxFUI4) | [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Gene's Song](https://open.spotify.com/album/61RTWCgWdYpwdMCqvq1HtG) | 4:31 |
+| 37 | [Moondrag](https://open.spotify.com/track/526XDBEtPBzKRT2kfKyJaj) | [Komodor](https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt) | [Nasty Habits](https://open.spotify.com/album/4behQrjEW7SRwoQyjfb6UC) | 3:00 |
+| 38 | [Mind In Chains](https://open.spotify.com/track/5c9fSMqM1S47tiBEsqz6Pq) | [Empire of Gold](https://open.spotify.com/artist/7jNvmZiCMzJyjUG31PeZ99) | [Saudade](https://open.spotify.com/album/2yms01MjH57O0Cv7UxrYm2) | 4:36 |
+| 39 | [Overcast](https://open.spotify.com/track/6WvYTNpeHwpiDNTwDrTEGF) | [Squidge](https://open.spotify.com/artist/7CEFw3kYtLhLujzJYIsBNg) | [Overcast / Tiramisu](https://open.spotify.com/album/4cNQNXR9owGCH548syx5WK) | 4:04 |
+| 40 | [Around](https://open.spotify.com/track/12ADB05Jkoyuk5q28fP2oS) | [Charlotte & the Harlots](https://open.spotify.com/artist/5YTuqZnrBrGCPB2M5w5dGW) | [Around](https://open.spotify.com/album/5dRnM5Gf9SR3IIik6idOde) | 3:05 |
+
+Snapshot ID: `MTYzOTY5NTYwMCwwMDAwMDJmMTAwMDAwMTdkYzU3OTRhM2MwMDAwMDE3ZGI4OGM3M2Fm`

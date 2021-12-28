@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,546,753 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,546,749 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 59 | [It Must Be True Love](https://open.spotify.com/track/4fs7A0HgWe9guaNh3jPBFz) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Trojan Lovers Collection](https://open.spotify.com/album/1nmApsog19BD430O3mPzXm) | 3:24 |
 | 60 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
 
-Snapshot ID: `MTY0MDY1MjA5MiwwMDAwMDAwMGVmNzhhYjgxYjVlMzllMjc1ZTU2NGU0NjZiNTI0MWE5`
+Snapshot ID: `MTY0MDY1MzE2NCwwMDAwMDAwMGVmNzhhYjgxYjVlMzllMjc1ZTU2NGU0NjZiNTI0MWE5`

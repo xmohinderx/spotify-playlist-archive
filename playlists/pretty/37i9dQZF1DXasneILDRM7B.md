@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,383 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,389 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Pressure](https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:05 |
 | 100 | [I've Been Dead All Day](https://open.spotify.com/track/55RUp308pgoV1T7yUGjw6D) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Vacancy](https://open.spotify.com/album/67rOh6Ndflg99VO0wgZUIF) | 3:14 |
 
-Snapshot ID: `MTY0MDY1MjA4MywwMDAwMDAwMDY1YjUxMjBhOTczODgzYTc2MTAxZTU0NjJhYWJmMjdk`
+Snapshot ID: `MTY0MDY1MzE1MywwMDAwMDAwMDY1YjUxMjBhOTczODgzYTc2MTAxZTU0NjJhYWJmMjdk`

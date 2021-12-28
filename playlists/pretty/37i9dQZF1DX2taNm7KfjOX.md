@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Hand Habits
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,701 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,704 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [The Love](https://open.spotify.com/track/62LTppMMcW65EGe7gKs5nL) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [The Love](https://open.spotify.com/album/26cjoxtd6SxMvyy8xzLeXs) | 2:38 |
 | 150 | [Hear It Again](https://open.spotify.com/track/4CLPOmWL4IPkLa7vC0RFQU) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Hear It Again](https://open.spotify.com/album/6vR4nfemxHqPfzlv4dVp8i) | 3:53 |
 
-Snapshot ID: `MTY0MDY1MTk1MCwwMDAwMDAwMDc2ZWY4OWU4ZjM5MzVlMGY0ZTA2Y2ViMmEyOGJiOGFi`
+Snapshot ID: `MTY0MDY1Mjk3NSwwMDAwMDAwMDc2ZWY4OWU4ZjM5MzVlMGY0ZTA2Y2ViMmEyOGJiOGFi`

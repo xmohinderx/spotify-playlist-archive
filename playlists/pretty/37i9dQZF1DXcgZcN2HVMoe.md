@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,502 likes - 250 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,504 likes - 250 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 249 | [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 |
 | 250 | [Gonna Be Alright](https://open.spotify.com/track/1si9NdGIgzOvt9iutjL7G3) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Gonna Be Alright](https://open.spotify.com/album/00p8obmJfzvDLXACx2VNVn) | 3:14 |
 
-Snapshot ID: `MTY0MDY1MjEwOSwwMDAwMDAwMGIxYzA4MzQyMjBjNWM3MDUyNjJlY2VkYWFmNTQ3YTky`
+Snapshot ID: `MTY0MDY1MzE5MCwwMDAwMDAwMGIxYzA4MzQyMjBjNWM3MDUyNjJlY2VkYWFmNTQ3YTky`

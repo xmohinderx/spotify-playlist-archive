@@ -46,7 +46,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 148112,
       "name": "All In My Head (feat. grandson)",
       "url": "https://open.spotify.com/track/0fgOMdk0vVlIcOlqZtg6cx"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 214520,
       "name": "Blood // Water",
       "url": "https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 202754,
       "name": "Chosen Ones",
       "url": "https://open.spotify.com/track/5B68sCt7ZmqOXLsLw4FB3G"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 189479,
       "name": "England Screams",
       "url": "https://open.spotify.com/track/21XAGAUNCh1INwlr98XjBu"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "MAKE BELIEVE",
       "url": "https://open.spotify.com/track/2E1K4gYnfHGsZLldIQzucF"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 157223,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3cNhxhJQz1QF1aSqqj9ix5"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 167343,
       "name": "My Name Is Thunder",
       "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 217714,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/5TjFxHpoDtVtLxIRezZhbR"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 185379,
       "name": "Ready For War (feat. Joe Buras of Born Of Osiris)",
       "url": "https://open.spotify.com/track/1lYXxGp7yHS4mTweHvmVtE"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 237203,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/35rozLoS6QLE8HX8qswM3k"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 277555,
       "name": "The Change (feat. DMA'S)",
       "url": "https://open.spotify.com/track/28MN5zcvOPm5OD49gOsBZ8"
@@ -3156,6 +3156,28 @@
       "duration_ms": 187000,
       "name": "Wouldn\u2019t Change A Thing",
       "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
+    },
+    {
+      "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/0UqEIFa92Mrjr3BT1ShIDL"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l"
+        },
+        {
+          "name": "Matty McDonald",
+          "url": "https://open.spotify.com/artist/6alaCEzPwrS1kaxQ07vtyw"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199374,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/2hwgLB5lv2AZrxAj9Q4Ywl"
     },
     {
       "album": {

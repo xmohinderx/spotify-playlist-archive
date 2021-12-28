@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,661 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,660 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 |
 | 100 | [Shelter](https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Roxanne Emery](https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM) | [Shelter](https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN) | 2:49 |
 
-Snapshot ID: `MTY0MDY1MTk5NCwwMDAwMDAwMGM5MDdjZjBmYzMzZmQ0MThkZDE0Mjk0MDEzMTQ2MzQx`
+Snapshot ID: `MTY0MDY1MzAzMywwMDAwMDAwMGM5MDdjZjBmYzMzZmQ0MThkZDE0Mjk0MDEzMTQ2MzQx`

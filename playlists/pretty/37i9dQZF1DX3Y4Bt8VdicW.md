@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 
 > Get into the inspired sounds of <a href="spotify:artist:2kGBy2WHvF0VdZyqiVCkDT">Father John Misty</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,270 likes - 27 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,272 likes - 27 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 | 26 | [True Affection](https://open.spotify.com/track/4qG7NaN5VGPE2HPFKFHKCs) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7) | 3:56 |
 | 27 | [Just Dumb Enough to Try](https://open.spotify.com/track/39OpvqhCIgPCKxJLpvudC4) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Disappointing Diamonds Are the Rarest of Them All / Just Dumb Enough to Try](https://open.spotify.com/album/1djJva9yAucJBNCaAthjbq) | 4:02 |
 
-Snapshot ID: `MTY0MDY1MTk2MCwwMDAwMDAwMDU3OGY0ODk5NGZkODY5YjhiN2ExMGYzY2E3YTBjYzA0`
+Snapshot ID: `MTY0MDY1Mjk5MCwwMDAwMDAwMDU3OGY0ODk5NGZkODY5YjhiN2ExMGYzY2E3YTBjYzA0`

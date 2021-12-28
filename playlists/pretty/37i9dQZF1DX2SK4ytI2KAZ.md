@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > ALT the Good Vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,567 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,570 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 119 | [Why Did You Run?](https://open.spotify.com/track/3IMh0b6bFDuFNB7F0E0A9h) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Why Did You Run?](https://open.spotify.com/album/4sQoMHf0N0lmmpKwHFUrmj) | 3:53 |
 | 120 | [OK OK](https://open.spotify.com/track/0UCSqy0XuSN3FUITKjtljZ) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [OK OK](https://open.spotify.com/album/17htbKcPmAWkYatIbrwSla) | 2:17 |
 
-Snapshot ID: `MTY0MDY1MTk0MiwwMDAwMDAwMDcxNzE1YjgwNjkyOTUyMjYxZjg5NWFlNzY4MjY1YWEw`
+Snapshot ID: `MTY0MDY1Mjk2NSwwMDAwMDAwMDcxNzE1YjgwNjkyOTUyMjYxZjg5NWFlNzY4MjY1YWEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794,316 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,313 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [These Kids We Knew](https://open.spotify.com/track/6wDsrOCRrgQhLXySBOaUcC) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [These Kids We Knew](https://open.spotify.com/album/1otew6tcC33qdKae8c8mqr) | 2:28 |
 | 100 | [For the Sky](https://open.spotify.com/track/0x4y7ilgQ7cNQeGAhwd4FR) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt), [Ed Droste](https://open.spotify.com/artist/0XF81i7F5hTlfNMHlTNptl) | [For the Sky](https://open.spotify.com/album/6eQdIC478LBfqDGruaJivl) | 4:25 |
 
-Snapshot ID: `MTY0MDY1MjExMCwwMDAwMDAwMGVmYzE4YzIzMzYyNGRjZTJkNDFmNDZkNjhmZTY2MTk0`
+Snapshot ID: `MTY0MDY1MzE5MSwwMDAwMDAwMGVmYzE4YzIzMzYyNGRjZTJkNDFmNDZkNjhmZTY2MTk0`

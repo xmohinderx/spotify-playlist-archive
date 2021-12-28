@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Don Diablo, Calvin Harris, Pharrell Williams and more
+> With Bruno Mars, PARTYNEXTDOOR, R\. City, Maren Morris and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

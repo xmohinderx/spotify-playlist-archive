@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 140173,
       "name": "10 Outta 10",
       "url": "https://open.spotify.com/track/7pLekRLFessQEXoPhw5jB3"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 199991,
       "name": "Batty Rider Shorts",
       "url": "https://open.spotify.com/track/0umOVszFJr1XMGBXK1i4xK"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 189750,
       "name": "Blaze Away",
       "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 171720,
       "name": "Copines",
       "url": "https://open.spotify.com/track/65PsPkMG2QiFM8N5qnuv4B"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 183099,
       "name": "Distance",
       "url": "https://open.spotify.com/track/69f1steoIMhN1skPkBR6rB"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 204828,
       "name": "Fast Wine",
       "url": "https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 261914,
       "name": "Freedom Fighter",
       "url": "https://open.spotify.com/track/4wCkYx8eZZUYXtlbvoQ6h8"
@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 233253,
       "name": "Hold You - Hold Yuh",
       "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 149643,
       "name": "Hot Topicz",
       "url": "https://open.spotify.com/track/2pyLZLboSKOLKII3uacUsP"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 164135,
       "name": "Karma Riddim",
       "url": "https://open.spotify.com/track/3ilMKDKPxTeboM0BpXPyjk"
@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 205162,
       "name": "Madiba Riddim",
       "url": "https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP"
@@ -2737,6 +2737,40 @@
     },
     {
       "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/7x8LCbnByf0yGkHeEV9jdy"
+      },
+      "artists": [
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        },
+        {
+          "name": "KD Soundsystem",
+          "url": "https://open.spotify.com/artist/7yPOMcYNwv9by1xUxAljPA"
+        },
+        {
+          "name": "Ovano",
+          "url": "https://open.spotify.com/artist/25H0faXHYciO3kWOCfdn03"
+        },
+        {
+          "name": "De La Wave",
+          "url": "https://open.spotify.com/artist/4VbNnzxRC4n2O9402FHNsM"
+        },
+        {
+          "name": "Kuejo Blaq",
+          "url": "https://open.spotify.com/artist/1p0fPVaMeckLjGr5aQ4OPL"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172248,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/4zjA6RlphwqfTkZgtNif92"
+    },
+    {
+      "album": {
         "name": "Mover (with Konshens)",
         "url": "https://open.spotify.com/album/4RLeaweA0BWCclJaYHuWhQ"
       },
@@ -2898,7 +2932,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 202013,
       "name": "No Letting Go",
       "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
@@ -2942,7 +2976,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
@@ -3126,7 +3160,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 155137,
       "name": "Oso Deh",
       "url": "https://open.spotify.com/track/2PebmrsrzbKxn4worrNdrx"
@@ -3258,7 +3292,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 207324,
       "name": "People",
       "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
@@ -3470,7 +3504,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 163777,
       "name": "Rum & Soca",
       "url": "https://open.spotify.com/track/1DOPGpgJEv3vI228L66zqC"
@@ -3620,7 +3654,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 189596,
       "name": "Shaku Shaku",
       "url": "https://open.spotify.com/track/1TCMIBKmQGJ27Rm04bs7dI"
@@ -3824,7 +3858,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 193200,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0fQeh4MYcX7VvRwfeSjnwz"
@@ -4196,7 +4230,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
@@ -4340,6 +4374,28 @@
       "duration_ms": 140500,
       "name": "Waist",
       "url": "https://open.spotify.com/track/09GxVTSERxrO6vWrVunG28"
+    },
+    {
+      "album": {
+        "name": "We Can (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/6MhwOilsUaISxb4VnIuxpl"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "We Can (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/7LRJmZ6G5qHQEG2CGeTCji"
     },
     {
       "album": {
@@ -4528,7 +4584,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 204081,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4"
@@ -4546,7 +4602,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 199200,
       "name": "Yuh Know",
       "url": "https://open.spotify.com/track/5Ymzzusy4IzDkh9an3nOxW"

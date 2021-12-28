@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > tfw ur crushing so hard it hurts
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,621 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,633 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 69 | [Aeroplane](https://open.spotify.com/track/0KZsNuPlsR2670u3uHJaza) | [Greer](https://open.spotify.com/artist/39v5154nNeWJGatKDkLGu9) | [Aeroplane](https://open.spotify.com/album/5niosuCjmc3WpdkcEZ7Uoc) | 3:49 |
 | 70 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 |
 
-Snapshot ID: `MTY0MDY1MjEwOCwwMDAwMDAwMDFmNGQ4OWE0YTFkOGM2OGJjZjg3OWNhMzQwYzE3OTZl`
+Snapshot ID: `MTY0MDY1MzE4OCwwMDAwMDAwMDFmNGQ4OWE0YTFkOGM2OGJjZjg3OWNhMzQwYzE3OTZl`

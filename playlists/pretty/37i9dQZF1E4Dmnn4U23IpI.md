@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With LeBrock, Absinth3, Kalax and more
+> With Volkor X, Charlie Simpson, Timecop1983 and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 9,913 likes - 50 songs - 3 hr 57 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Dark Knights](https://open.spotify.com/track/3pYZWiTEG4Zrca9jZCwkWk) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Jonny Craig](https://open.spotify.com/artist/3QfTyz2s6mHThR7xWokfjs) | [Dark Knights](https://open.spotify.com/album/7uSJ1fmMCya3TfmXK0WkL5) | 2:29 |
 | 50 | [Time Lapse](https://open.spotify.com/track/7oMI71Jb3USQX5ILk5lp6x) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Kalax](https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS) | 4:19 |
 
-Snapshot ID: `MTY0MDY1MjEzMiwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`
+Snapshot ID: `MTY0MDY1MzIyMCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`

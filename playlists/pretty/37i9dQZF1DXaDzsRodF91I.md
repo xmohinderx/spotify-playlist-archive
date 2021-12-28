@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,445 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,448 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [White Iverson](https://open.spotify.com/track/5tPGwhsq2EzPsPKZK5SjxO) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [Chin Up, Kid, Pt\. 2](https://open.spotify.com/album/6lPU0c5vjHDSojLrQ4gJBR) | 4:17 |
 | 100 | [Can’t Feel My Face](https://open.spotify.com/track/4dZEkHDfbTIOWaO5RP3F8e) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/0QnLGxrlc61tSudHIZr4Sz) | 3:21 |
 
-Snapshot ID: `MTY0MDY1MjA3MywwMDAwMDAwMDZlYmQ2YWNhMjhmOGM0NmZhMDk3OWQ2N2JkNjA3M2Uy`
+Snapshot ID: `MTY0MDY1MzEzOSwwMDAwMDAwMDZlYmQ2YWNhMjhmOGM0NmZhMDk3OWQ2N2JkNjA3M2Uy`

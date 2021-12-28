@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Bonobo and Jordan Rakei
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,882 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,884 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Moves](https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/3ZkymHWkq4HgtD200354OI) | 3:43 |
 | 70 | [Cute](https://open.spotify.com/track/6wbDXy6VCM9D0G8cLvhKUd) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J), [ZULA](https://open.spotify.com/artist/6tWqBIxAeRmld2npkzFZf3) | [Cute](https://open.spotify.com/album/51IqICZxYZc1R5j4Teh7XL) | 3:03 |
 
-Snapshot ID: `MTY0MDY1MjEyMiwwMDAwMDAwMGJjMzI4NzM5ZjE3ZjFjMzhlMWYyNmRhMDI1YjY4YTEw`
+Snapshot ID: `MTY0MDY1MzIwOSwwMDAwMDAwMGJjMzI4NzM5ZjE3ZjFjMzhlMWYyNmRhMDI1YjY4YTEw`

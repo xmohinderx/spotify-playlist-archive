@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LOYALS, Ollie Wride, Ed Patrick and more
+> With La Bouquet, Handsome Ghost, Patternist and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 924 likes - 50 songs - 3 hr 17 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Monsters](https://open.spotify.com/track/3PEFIZR2rbENyadO5n690Z) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Monsters](https://open.spotify.com/album/6T3USLBDKSe0UWytow3x0i) | 4:36 |
 | 50 | [I Think I'm in Love?](https://open.spotify.com/track/4cePGpMed4Ly1ybmaK04mm) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [Get in My Arms](https://open.spotify.com/album/2RAeZ4l4q0phX0OLz8bb85) | 3:17 |
 
-Snapshot ID: `MTY0MDY1MjEzMiwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MDY1MzIyMSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

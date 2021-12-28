@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: St\. Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,392 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,395 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Good Dancers](https://open.spotify.com/track/4lkfU7mlHJIHVi2jYCIcO0) | [The Sleepy Jackson](https://open.spotify.com/artist/4p8paFuSiFNTvYFXNr5kIr) | [Lovers](https://open.spotify.com/album/4Pw2iHkDUNVlFiWMZFOeGz) | 4:12 |
 | 150 | [Sunder](https://open.spotify.com/track/40fJLwKFxTruHgLUkFH0DU) | [Hibou](https://open.spotify.com/artist/60S3PHPmmVaBxa0zrcAiHq) | [Hibou](https://open.spotify.com/album/6qXnFyqPO869XScbRye58W) | 3:19 |
 
-Snapshot ID: `MTY0MDY1MjA1MCwwMDAwMDAwMDk5ZDM2Y2NlZDQ1OWU5ZTU2YWY5ZGQxODBiZmI3Y2E2`
+Snapshot ID: `MTY0MDY1MzEwOSwwMDAwMDAwMDk5ZDM2Y2NlZDQ1OWU5ZTU2YWY5ZGQxODBiZmI3Y2E2`

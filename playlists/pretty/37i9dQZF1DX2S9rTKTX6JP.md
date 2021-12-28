@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,106 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,107 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Heroes](https://open.spotify.com/track/3lmOamtAvijhSI7BbJz83C) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom \(Deluxe\)](https://open.spotify.com/album/2GQc28K68aHREbSgRPo7uo) | 4:08 |
 | 100 | [Breakdown \- Live](https://open.spotify.com/track/2VABnLXiKxZhFvDRUSHr3q) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Breakdown / A Face In The Crowd \(Live\)](https://open.spotify.com/album/6AmTuwJu8STQrIcPfMBPKN) | 2:43 |
 
-Snapshot ID: `MTY0MDY1MTk0MSwwMDAwMDAwMDljMzc0MzRiNTk4MGM2ZWQ0NzU5ZTk5ZWU4ZWVkZDhl`
+Snapshot ID: `MTY0MDY1Mjk2NCwwMDAwMDAwMDljMzc0MzRiNTk4MGM2ZWQ0NzU5ZTk5ZWU4ZWVkZDhl`

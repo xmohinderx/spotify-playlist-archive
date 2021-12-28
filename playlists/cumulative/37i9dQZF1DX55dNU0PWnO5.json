@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 297643,
       "name": "19",
       "url": "https://open.spotify.com/track/7G37IzJIxkrZFeIBzPqvoH"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 195633,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/0if7xE45Jdg7QiJcXqMA12"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 195633,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/6OV5AAEspMRkv7uVsNQiRk"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 96693,
       "name": "Ancient Futurism",
       "url": "https://open.spotify.com/track/2yhOvH2rS924c8bnPLCEbI"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 196235,
       "name": "Bopatron",
       "url": "https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 88200,
       "name": "Complete",
       "url": "https://open.spotify.com/track/66UyVneJHbPxJtyMo59ywk"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 198500,
       "name": "CYPReSSES",
       "url": "https://open.spotify.com/track/17vwQOObhFSyQ4oGSqlisH"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 234133,
       "name": "Dance Desire",
       "url": "https://open.spotify.com/track/1kDLuI1oC6XSvaNpAqFGkv"
@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Beats on Road Vol. 1",
+        "url": "https://open.spotify.com/album/3NDzzMLYecGbgFY4TRRgBX"
+      },
+      "artists": [
+        {
+          "name": "Robot Orchestra",
+          "url": "https://open.spotify.com/artist/69CjG40nknFw4W8vrmdgHV"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171219,
+      "name": "DustyRhodes",
+      "url": "https://open.spotify.com/track/0p86NW8fZx444PaWFtFiQz"
+    },
+    {
+      "album": {
         "name": "EAV (Elia Bishara Remix)",
         "url": "https://open.spotify.com/album/5eG9SYzeKrnU0TjwGMQgcR"
       },
@@ -818,7 +836,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 299213,
       "name": "Flight",
       "url": "https://open.spotify.com/track/7cT65ZTOYYCFCQ2Ry4coL7"
@@ -876,7 +894,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 310865,
       "name": "G Flex",
       "url": "https://open.spotify.com/track/7xVtleeM321K9OPhgytOZa"
@@ -912,7 +930,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 198196,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/2C4MJ87AqYq10L67Spy9NE"
@@ -952,7 +970,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 267500,
       "name": "Half-Bloom",
       "url": "https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 131607,
       "name": "Houseboat Party",
       "url": "https://open.spotify.com/track/47US7CPJSJ8B4kXLUmez7c"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 371029,
       "name": "If U Strike Me Down",
       "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 293306,
       "name": "No Sleep Til MTL",
       "url": "https://open.spotify.com/track/4gUlRAieJFmg3np9cyE7pj"
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 216847,
       "name": "Saga of Robert and Lauryn",
       "url": "https://open.spotify.com/track/6wLsSF1scWTuKUCcFtsFM5"
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 123925,
       "name": "Smoothman",
       "url": "https://open.spotify.com/track/4TNryKx5swcMlRv6wfdyCk"
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 75000,
       "name": "Space 3",
       "url": "https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc"
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 299653,
       "name": "Speak No Evil (Night Dreamer)",
       "url": "https://open.spotify.com/track/27uch9EAZVr8BW6MmqprZy"
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 381413,
       "name": "Squarepusher Theme",
       "url": "https://open.spotify.com/track/4edrhanho86qAWRHNfHo5x"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 333818,
       "name": "When We Gather",
       "url": "https://open.spotify.com/track/2DgrhZQkh0EOEFoDpr4mxh"

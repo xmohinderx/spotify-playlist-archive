@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Zero Dark Thirty](https://open.spotify.com/track/7H2Y5DWXu15KR0cwvKIx3q) | [Amir Alexander](https://open.spotify.com/artist/4wJcjOk4QBK7fyeW34sdk1) | [Zero Dark Thirty](https://open.spotify.com/album/4EjJGlHNHY3FjbtlnASAQM) | 8:19 |
 | 80 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 |
 
-Snapshot ID: `MTY0MDY1MjA2OSwwMDAwMDAwMDFiZGZkNWFjNDA0MTVlOGJlN2I0MTczZGU1MzFkZDkx`
+Snapshot ID: `MTY0MDY1MzEzNCwwMDAwMDAwMDFiZGZkNWFjNDA0MTVlOGJlN2I0MTczZGU1MzFkZDkx`

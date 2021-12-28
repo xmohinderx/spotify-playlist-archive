@@ -1,0 +1,921 @@
+{
+  "description": "La Joaqui y m\u00e1s mujeres, a todo volumen.",
+  "name": "EQUAL Argentina",
+  "num_followers": 12846,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MDY1Mjk1OCwwMDAwMDAwMGY3OTZjMTFiYTAzZDVkNDI2NjcxMDIzZGIzN2FkZmYz",
+  "tracks": [
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Cristianas",
+        "url": "https://open.spotify.com/album/1PqHQVuTUIctPdnwMH3aZF"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 171157,
+      "name": "Cristianas",
+      "url": "https://open.spotify.com/track/1eaPEMcksRVTM18pwfltIE"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "TOLKIN YIT",
+        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 141407,
+      "name": "TOLKIN YIT",
+      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Lo Que Hace Conmigo",
+        "url": "https://open.spotify.com/album/2jZjeC7vzZeI6INgrouhe4"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 183962,
+      "name": "Lo Que Hace Conmigo",
+      "url": "https://open.spotify.com/track/4lu9U6plEfjvQE6hncdEOL"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/3Ml6pL8bPw1uEddzVWPBjY"
+      },
+      "artists": [
+        {
+          "name": "Flor Linyera",
+          "url": "https://open.spotify.com/artist/3dP0J9HeTsNAm5qEnoDziz"
+        }
+      ],
+      "duration_ms": 182662,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/78E8UFcMXaqHcVszojrRN3"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "MAFIOSA",
+        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
+      },
+      "artists": [
+        {
+          "name": "Nathy Peluso",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 266217,
+      "name": "MAFIOSA",
+      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "TURRA",
+        "url": "https://open.spotify.com/album/2g1zRrhhMX2cnyoP8HvgH7"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "TURRA",
+      "url": "https://open.spotify.com/track/4w3R0drhPCc7zeO2OtBV8r"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "TARJETA GOLD",
+        "url": "https://open.spotify.com/album/4hCx1wdfVDmZPRwxiqB4W0"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 185336,
+      "name": "TARJETA GOLD",
+      "url": "https://open.spotify.com/track/6PQC4GNmRv0dL3PCJuKMia"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Superheroina",
+        "url": "https://open.spotify.com/album/3UiAN5iws5x4aH03QFml8b"
+      },
+      "artists": [
+        {
+          "name": "Mechi Pieretti",
+          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
+        }
+      ],
+      "duration_ms": 166305,
+      "name": "Superheroina",
+      "url": "https://open.spotify.com/track/6XpkDZFeB3yF3QiiM7GZWc"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/4rZKPa22cJANy9iGQEsdcv"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "La Finesse",
+          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+        }
+      ],
+      "duration_ms": 120500,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/03JGUeD6yTpCbWMPa6VSRt"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Pega\u00edta",
+        "url": "https://open.spotify.com/album/5Ejhti8KwTfYle82IGluhV"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Pega\u00edta",
+      "url": "https://open.spotify.com/track/12b0uQb7e3PfBug4Qu5UU2"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Refix",
+        "url": "https://open.spotify.com/album/6JNY4TqZRwjnI47Q73lN5j"
+      },
+      "artists": [
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Refix",
+      "url": "https://open.spotify.com/track/3QJMu7OYarjBc4OApftxLg"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "SIT DOWN",
+        "url": "https://open.spotify.com/album/6jFvLTVNJvNhPCCW6BRTzH"
+      },
+      "artists": [
+        {
+          "name": "Femigangsta",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 165308,
+      "name": "SIT DOWN",
+      "url": "https://open.spotify.com/track/1BWWFhvabH2hquJrzV0uxf"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Ni Lo Pensemos",
+        "url": "https://open.spotify.com/album/3LlG3zOCDmuSGii7KdnHZu"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Ni Lo Pensemos",
+      "url": "https://open.spotify.com/track/47WiORtatRcT5lI6EokFXe"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1F5zDyjWNyOXLBaOUDzVpf"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/4i1vORCFsX121xefJA7Fg6"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Soltera (feat. Cazzu)",
+        "url": "https://open.spotify.com/album/1v1IUycUQT7BsColcjDhbQ"
+      },
+      "artists": [
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 169499,
+      "name": "Soltera (feat. Cazzu)",
+      "url": "https://open.spotify.com/track/1nshWo2nGPZJ5qNINOlCTo"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Broadway",
+        "url": "https://open.spotify.com/album/6XxIhYo3F1JrTUCLxaITvc"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 173148,
+      "name": "Broadway",
+      "url": "https://open.spotify.com/track/4MD6EczUiJiRy4wGPNaSVo"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Recalienta",
+        "url": "https://open.spotify.com/album/5R757Dq6goWEZpF0Sym23i"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 198377,
+      "name": "Recalienta",
+      "url": "https://open.spotify.com/track/2O0WiTabKj4e5CdY1mIFe4"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "TOMBOY",
+        "url": "https://open.spotify.com/album/0XaeHTW1cCDE6OSGp0FAju"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/3J0SkqYQdqWG5iQjhnFTJh"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "HYBRIDA",
+        "url": "https://open.spotify.com/album/6GLHIt5OGCAKl41BpMqe5F"
+      },
+      "artists": [
+        {
+          "name": "KIRA1312",
+          "url": "https://open.spotify.com/artist/4fL2sWaz1Q2PX2d15e0w5E"
+        }
+      ],
+      "duration_ms": 179834,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/45NJejtBuU9Sh8VPn2j4Ds"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Promenade",
+        "url": "https://open.spotify.com/album/4Ooh15vF1xD5zVVCKa5Fnr"
+      },
+      "artists": [
+        {
+          "name": "Greta Dumont",
+          "url": "https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk"
+        },
+        {
+          "name": "Punga",
+          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
+        }
+      ],
+      "duration_ms": 131538,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5fkkqFLFS8QopwusHTKAza"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Solita (Remix)",
+        "url": "https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C"
+      },
+      "artists": [
+        {
+          "name": "Mechi Pieretti",
+          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Solita - Remix",
+      "url": "https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/1nhsbhOUpQRUi2lT0AoTK8"
+      },
+      "artists": [
+        {
+          "name": "THE COLORATED",
+          "url": "https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK"
+        },
+        {
+          "name": "Elsidechain",
+          "url": "https://open.spotify.com/artist/0DubQNvKAkkXWIIC2jImhU"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/741q0GDvqVWefSAZC8ixpO"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6rW2eJMKgMM7fcWRUZ6g6x"
+      },
+      "artists": [
+        {
+          "name": "Dakillah",
+          "url": "https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Bipolar",
+      "url": "https://open.spotify.com/track/2C12teb4pJtRH7apSYEI8e"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Ni tan Bien",
+        "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 193930,
+      "name": "Cintura",
+      "url": "https://open.spotify.com/track/1s6ZRDmdRmqXPAAiaxDCUh"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Pajuerana",
+        "url": "https://open.spotify.com/album/3iArBl0mLLBkWmRmVcLc7n"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Remix",
+          "url": "https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m"
+        }
+      ],
+      "duration_ms": 187812,
+      "name": "\u00bfQuie\u0301n Sos?",
+      "url": "https://open.spotify.com/track/2XxTAnUbJZe4OdFCA2Ew1V"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Ni Cabida",
+        "url": "https://open.spotify.com/album/4mi82OLovsoe2MJxFuRdSI"
+      },
+      "artists": [
+        {
+          "name": "DJ M\u00c4MI",
+          "url": "https://open.spotify.com/artist/1K6cDuo2mI7CvYIxrRNeOP"
+        },
+        {
+          "name": "Brenda Asnicar",
+          "url": "https://open.spotify.com/artist/0E8wKk7IC4Se6Z3gS7S3Uv"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ni Cabida",
+      "url": "https://open.spotify.com/track/7Gf5ougqHiTgWSDjPUwvUP"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/4AxZkzNbnlduaqPnevI6Xb"
+      },
+      "artists": [
+        {
+          "name": "Faraonika",
+          "url": "https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk"
+        }
+      ],
+      "duration_ms": 243179,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/5YswXNZQeNvqN04sN7ycyj"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/4WSINjUDwvesrZ8azdkRhd"
+      },
+      "artists": [
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/0s9X5ram6hySzreyeTikTw"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/6PXxcZ9wQu4tLIJvL42WOw"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        },
+        {
+          "name": "La Finesse",
+          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+        }
+      ],
+      "duration_ms": 154564,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/4QXjF2n7YiPFp7xeGKfdhr"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "LA NI\u00d1A DE FUEGO",
+        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "AL\u00d3",
+      "url": "https://open.spotify.com/track/77dtgKfZagJibMdlkvaMCe"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Del Barrio a la Tarima",
+        "url": "https://open.spotify.com/album/0OXCgo2aIBPP7U5peZX3w1"
+      },
+      "artists": [
+        {
+          "name": "La Negra Buggiani",
+          "url": "https://open.spotify.com/artist/2DwAWHzRcLRtEAumThBOCB"
+        },
+        {
+          "name": "Tinx",
+          "url": "https://open.spotify.com/artist/4Sppxqjz2b8Gk7ACi2WlOn"
+        }
+      ],
+      "duration_ms": 215539,
+      "name": "Lxs Frikis",
+      "url": "https://open.spotify.com/track/1p4WmjWW56HzDz5CxaRVYs"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "I'm Sexy",
+        "url": "https://open.spotify.com/album/27kcEjGB3vMMNLVkjMjzKF"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        }
+      ],
+      "duration_ms": 193448,
+      "name": "I'm Sexy",
+      "url": "https://open.spotify.com/track/7a5JG6ll35Hz12TmDeMhsJ"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Love y Confusi\u00f3n",
+        "url": "https://open.spotify.com/album/60ZnQ3bJdv3uaGVKFgwb4A"
+      },
+      "artists": [
+        {
+          "name": "Fresakill",
+          "url": "https://open.spotify.com/artist/2LQI1PAIvff27dFWy6BlEA"
+        },
+        {
+          "name": "Flor Linyera",
+          "url": "https://open.spotify.com/artist/3dP0J9HeTsNAm5qEnoDziz"
+        },
+        {
+          "name": "ROMEA",
+          "url": "https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Love y Confusi\u00f3n",
+      "url": "https://open.spotify.com/track/59uZ9EEHzvetNzMyCFlv3j"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "CULEO",
+        "url": "https://open.spotify.com/album/6bRXwbgA3wZCZxatEGUtTO"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "La Finesse",
+          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "CULEO",
+      "url": "https://open.spotify.com/track/07hJaF724pwSuKqQV8jYsb"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "KILOWA",
+        "url": "https://open.spotify.com/album/1U4rNnGAuoDm01x3kOHnU9"
+      },
+      "artists": [
+        {
+          "name": "Critical Baby",
+          "url": "https://open.spotify.com/artist/5am7WMRpHfR8rOsCdDsZLl"
+        }
+      ],
+      "duration_ms": 132552,
+      "name": "KILOWA",
+      "url": "https://open.spotify.com/track/54acJyeShQSK5DfEdW7J7n"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Todo Rosa",
+        "url": "https://open.spotify.com/album/6MIpmR1HYKRXPmXe7VA0dJ"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        },
+        {
+          "name": "Ferla",
+          "url": "https://open.spotify.com/artist/3mnC4xKYX84yK9yRGC6AZW"
+        }
+      ],
+      "duration_ms": 192934,
+      "name": "Todo Rosa",
+      "url": "https://open.spotify.com/track/0HDVApchfoNIfFPsbtTfPT"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "MENTIRA",
+        "url": "https://open.spotify.com/album/504276CKzXYa8wQ1ZUoHEn"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 172561,
+      "name": "MENTIRA",
+      "url": "https://open.spotify.com/track/1Pu4cnq4smdcFpDkYNfAPM"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "MU\u00d1EKI77A",
+        "url": "https://open.spotify.com/album/23nUmJfhFY43KUuWAJgvby"
+      },
+      "artists": [
+        {
+          "name": "MU\u00d1EKI77A",
+          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
+        }
+      ],
+      "duration_ms": 177936,
+      "name": "MU\u00d1EKI77A",
+      "url": "https://open.spotify.com/track/3ukqytkHDAwYKuPlqrMKYh"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Luro y Mitre",
+        "url": "https://open.spotify.com/album/4m3KbfH4VtQkyiwRWG4gId"
+      },
+      "artists": [
+        {
+          "name": "Shitstem",
+          "url": "https://open.spotify.com/artist/1gYX86oU6Db846X9wHkjyo"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Luro y Mitre",
+      "url": "https://open.spotify.com/track/6i6YBRXm0VTFiv2kZIgVCi"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Intima",
+        "url": "https://open.spotify.com/album/6wiiBiKiKn4L3PqnmAJkyy"
+      },
+      "artists": [
+        {
+          "name": "Sassyggirl",
+          "url": "https://open.spotify.com/artist/1ZQkPQNVDMxVNpJx6lQ7HR"
+        },
+        {
+          "name": "Tomasa del Real",
+          "url": "https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD"
+        },
+        {
+          "name": "Lizz",
+          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
+        },
+        {
+          "name": "DJ Sustancia",
+          "url": "https://open.spotify.com/artist/5i4Sx94vXjon4B5IPzdTZ9"
+        }
+      ],
+      "duration_ms": 247130,
+      "name": "La Bella Bellaki",
+      "url": "https://open.spotify.com/track/0kExgLrS36TtLnKtKpcgbF"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/1ZJrtTQKqixv607QAnNMuS"
+      },
+      "artists": [
+        {
+          "name": "Marte Lupardo",
+          "url": "https://open.spotify.com/artist/1oIAFHDNTaevByZvdcm5AY"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/71mtW8nPlnNY6BjmYlK7IX"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "L4 N1374 D3 L4 51RV13N74",
+        "url": "https://open.spotify.com/album/4sBe40BBVXEjEIwNGWcsPW"
+      },
+      "artists": [
+        {
+          "name": "SASHA SATHYA",
+          "url": "https://open.spotify.com/artist/2EyTh5jHaNswRWXuzt0e33"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "PARA KE APRENDA$",
+      "url": "https://open.spotify.com/track/2mDlZxbKY5V9ThdMXGqcVo"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Maxi Sayes",
+          "url": "https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ"
+        },
+        {
+          "name": "ALOT",
+          "url": "https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV"
+        }
+      ],
+      "duration_ms": 151926,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/3vQPYEDLHBNaCVhIWX5kdY"
+      },
+      "artists": [
+        {
+          "name": "La Propia",
+          "url": "https://open.spotify.com/artist/2EqQOCt3WLFplspArshnNh"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Secuencia",
+      "url": "https://open.spotify.com/track/3ZxuSorn7fyuiZhGKouVHI"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Sabrosura",
+        "url": "https://open.spotify.com/album/6vBQS8taignBDv8F10VUKj"
+      },
+      "artists": [
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 122727,
+      "name": "M\u00f3jate",
+      "url": "https://open.spotify.com/track/6I4gdufJ2tWpFNHZtTyvxg"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Enemiga",
+        "url": "https://open.spotify.com/album/02shE5igup0plU3ae23SIw"
+      },
+      "artists": [
+        {
+          "name": "A.M.I.G.A",
+          "url": "https://open.spotify.com/artist/0uyr1e5knDdGEAdyEtQ5Hu"
+        },
+        {
+          "name": "Kira",
+          "url": "https://open.spotify.com/artist/5FNcbjpgzlwiZSzfBIX7CL"
+        },
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        }
+      ],
+      "duration_ms": 286732,
+      "name": "Enemiga",
+      "url": "https://open.spotify.com/track/38pWZZvVayAJbwJfkF9U8T"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "(NO) ESTOY SOLA",
+        "url": "https://open.spotify.com/album/6gA2ZhgwyBdSmtW4Dxks48"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 213490,
+      "name": "Rapunzel",
+      "url": "https://open.spotify.com/track/3NzAJIXpPqRQiHJpiffFNN"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "F.A.T.U.M",
+        "url": "https://open.spotify.com/album/1MM6zWlp51WIGXwXwPL1Z4"
+      },
+      "artists": [
+        {
+          "name": "Nomusa",
+          "url": "https://open.spotify.com/artist/0TrzUJMTGiRkt5GMOOObWa"
+        },
+        {
+          "name": "Pobvio",
+          "url": "https://open.spotify.com/artist/5K7DnZFhwHZLGI8fCavJfU"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Hiperemotiva",
+      "url": "https://open.spotify.com/track/4HWliyQYdgT0kZVDM9kW4b"
+    },
+    {
+      "added_at": "2021-12-17 03:00:00",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/6Vg8b7ib6pgEj7JG0rQOOm"
+      },
+      "artists": [
+        {
+          "name": "Kobra Kei",
+          "url": "https://open.spotify.com/artist/3jZBz8zwL89UHOwIscWATb"
+        }
+      ],
+      "duration_ms": 270059,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/3G57CT7X2RlgcfgR9xuYEA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2ArBUudJwM5"
+}

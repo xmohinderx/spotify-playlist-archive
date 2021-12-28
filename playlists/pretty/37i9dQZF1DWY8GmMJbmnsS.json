@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDY1MTg3NSwwMDAwMDAwMDU4YWViYTc3ZWI3Y2M1MzA3Y2E3NzMxOTEyN2ViODdk",
+  "snapshot_id": "MTY0MDY1Mjg3MywwMDAwMDAwMDAxMDhiMjNhZTU2Njg3YTkzODY1YzIwNGNiZjI3NTA4",
   "tracks": [
     {
       "added_at": "2018-12-11 20:42:57",
@@ -27,22 +27,6 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
         "name": "At Last The Very Best Of",
         "url": "https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
       },
@@ -55,22 +39,6 @@
       "duration_ms": 181973,
       "name": "At Last",
       "url": "https://open.spotify.com/track/1hXIdXjAI4nWz4qnJ28iO2"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "What's Going On - 40th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "What's Going On - Original Single Mix",
-      "url": "https://open.spotify.com/track/0wNP3UlDMf2CxPyJyNOHVD"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -91,6 +59,38 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "What's Going On - 40th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "What's Going On - Original Single Mix",
+      "url": "https://open.spotify.com/track/0wNP3UlDMf2CxPyJyNOHVD"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
       },
@@ -103,38 +103,6 @@
       "duration_ms": 174800,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "The Complete A & B Sides 1961 - 1968",
-        "url": "https://open.spotify.com/album/3diIigsNRRY0MlVBcnFC9Y"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "People Get Ready - Single Version",
-      "url": "https://open.spotify.com/track/0izzSOqBR4gdzCCWRnrzPd"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Portrait of a Legend (Remastered)",
-        "url": "https://open.spotify.com/album/2o79MAXD7xbq0E1SEugdeC"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/2xjcw8yUWX6lCJciwiW9Q0"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -155,34 +123,34 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "This Is Clarence Carter",
-        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
+        "name": "Tell Mama The Complete Muscle Shoals Sessions",
+        "url": "https://open.spotify.com/album/6EKXFcbBuv4U6ZZTGQhLyS"
       },
       "artists": [
         {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 153680,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/7r3Hwig1mvtlVq0ZbJ09Wb"
+      "duration_ms": 156666,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/7keRsHHqmuFRv8agWvaYxE"
     },
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Number 1's",
-        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
+        "name": "The Complete A & B Sides 1961 - 1968",
+        "url": "https://open.spotify.com/album/3diIigsNRRY0MlVBcnFC9Y"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
         }
       ],
-      "duration_ms": 177306,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/5jWZR3cKUChstrHpNnTPCS"
+      "duration_ms": 159266,
+      "name": "People Get Ready - Single Version",
+      "url": "https://open.spotify.com/track/0izzSOqBR4gdzCCWRnrzPd"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -203,50 +171,34 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Tell Mama The Complete Muscle Shoals Sessions",
-        "url": "https://open.spotify.com/album/6EKXFcbBuv4U6ZZTGQhLyS"
+        "name": "This Is Clarence Carter",
+        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
         }
       ],
-      "duration_ms": 156666,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/7keRsHHqmuFRv8agWvaYxE"
-    },
-    {
-      "added_at": "2021-01-05 21:36:28",
-      "album": {
-        "name": "Georgia on My Mind (Original Master Recording)",
-        "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 217414,
-      "name": "Georgia on My Mind - Original Master Recording",
-      "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
+      "duration_ms": 153680,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/7r3Hwig1mvtlVq0ZbJ09Wb"
     },
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Great Songs And Performances That Inspired The Motown 25th Anniversary Television Special",
-        "url": "https://open.spotify.com/album/4BNk1DYAcQiRC45zk123v3"
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
       "artists": [
         {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 167466,
-      "name": "Ooo Baby Baby - Album Version / Stereo",
-      "url": "https://open.spotify.com/track/4oLmEUe7TmZPrIoRf7DXyw"
+      "duration_ms": 322866,
+      "name": "I Love You More Than You'll Ever Know",
+      "url": "https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -267,18 +219,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+      "duration_ms": 177306,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/5jWZR3cKUChstrHpNnTPCS"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -299,6 +251,38 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "Great Songs And Performances That Inspired The Motown 25th Anniversary Television Special",
+        "url": "https://open.spotify.com/album/4BNk1DYAcQiRC45zk123v3"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Ooo Baby Baby - Album Version / Stereo",
+      "url": "https://open.spotify.com/track/4oLmEUe7TmZPrIoRf7DXyw"
+    },
+    {
+      "added_at": "2021-01-05 21:36:28",
+      "album": {
+        "name": "Georgia on My Mind (Original Master Recording)",
+        "url": "https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 217414,
+      "name": "Georgia on My Mind - Original Master Recording",
+      "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "Motown: The Complete No. 1's",
         "url": "https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF"
       },
@@ -311,6 +295,38 @@
       "duration_ms": 165733,
       "name": "I Wish It Would Rain",
       "url": "https://open.spotify.com/track/2dQx3sIylsbvagZCNf69h4"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Portrait of a Legend (Remastered)",
+        "url": "https://open.spotify.com/album/2o79MAXD7xbq0E1SEugdeC"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/2xjcw8yUWX6lCJciwiW9Q0"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -347,38 +363,6 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
         "name": "Let's Get It On (Expanded Edition)",
         "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
       },
@@ -407,6 +391,38 @@
       "duration_ms": 157266,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 325946,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -475,22 +491,6 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 322866,
-      "name": "I Love You More Than You'll Ever Know",
-      "url": "https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
         "name": "What's Going On - 40th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "I Learned the Hard Way",
-        "url": "https://open.spotify.com/album/7HeoMx4J2lWyL3PF1z39oE"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 201613,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/3kBdQ0SCr6cWDhXsS5g69l"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "I Learned the Hard Way",
+        "url": "https://open.spotify.com/album/7HeoMx4J2lWyL3PF1z39oE"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 201613,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3kBdQ0SCr6cWDhXsS5g69l"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY8GmMJbmnsS"

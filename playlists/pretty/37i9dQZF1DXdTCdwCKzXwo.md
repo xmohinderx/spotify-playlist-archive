@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Classic alternative\. These early pioneers brought the underground to the foreground\. Cover: Lou Reed
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,883 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,887 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Cheree \- 1998 Remastered Version](https://open.spotify.com/track/3RH28o7i7Ly4c7yEEPH4Zq) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Suicide \(1998 Remastered Version\)](https://open.spotify.com/album/7lHdDQ8qsbcNWkEYtcIiHF) | 3:42 |
 | 75 | [Cavern](https://open.spotify.com/track/37wuwV4Y7v2e3kLyvt2fAI) | [Liquid Liquid](https://open.spotify.com/artist/4LIRWeEa6WgyAzH1mjYAPx) | [Liquid Liquid](https://open.spotify.com/album/6FIRPA2iT1Oebq8raCjnvg) | 5:19 |
 
-Snapshot ID: `MTY0MDY1MjEyMCwwMDAwMDAwMDMyOWE1MDg3ZWEyMWEyOWVlNTBkNGUxZmQwZTk3MDVi`
+Snapshot ID: `MTY0MDY1MzIwNSwwMDAwMDAwMDMyOWE1MDg3ZWEyMWEyOWVlNTBkNGUxZmQwZTk3MDVi`

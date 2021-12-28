@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,139 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,144 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 | 89 | [North East South West](https://open.spotify.com/track/0M6VQJRyLpg9RC4im1rVZj) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Near To The Wild Heart Of Life](https://open.spotify.com/album/26ZXAfEXcFBGqK7rLbCraB) | 4:20 |
 | 90 | [Painted By Numbers](https://open.spotify.com/track/0vKt8MR7mVWJ7uWH93HYzl) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Dying to Say This to You \(Premium Download Version\)](https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG) | 3:19 |
 
-Snapshot ID: `MTY0MDY1MjA5MCwwMDAwMDAwMGVkMDMzMzBmNGNhYTM5MGYwMGJlZGQzNTBhOGMwOGY0`
+Snapshot ID: `MTY0MDY1MzE2MiwwMDAwMDAwMGVkMDMzMzBmNGNhYTM5MGYwMGJlZGQzNTBhOGMwOGY0`

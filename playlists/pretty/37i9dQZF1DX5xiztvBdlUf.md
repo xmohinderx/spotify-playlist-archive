@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,890 likes - 80 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,888 likes - 80 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Second Chance](https://open.spotify.com/track/71y1XeA2RIcAfYOht1CxGa) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 7:45 |
 | 80 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
 
-Snapshot ID: `MTY0MDY1MjAwNywwMDAwMDAwMDMzY2MzMGFlMjVjZGQzNzA1NmE3ZTBmNjViMWIyYzI5`
+Snapshot ID: `MTY0MDY1MzA1MSwwMDAwMDAwMDMzY2MzMGFlMjVjZGQzNzA1NmE3ZTBmNjViMWIyYzI5`

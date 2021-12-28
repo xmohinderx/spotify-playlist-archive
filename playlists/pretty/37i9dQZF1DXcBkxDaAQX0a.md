@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,685 likes - 74 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,684 likes - 74 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 73 | [In the End](https://open.spotify.com/track/06tEEh5HjpoTXs08JZKO8i) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [In the End](https://open.spotify.com/album/7wmC4xvcJfWrqwfzSGvybM) | 3:01 |
 | 74 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/0y4MhPQnBLxVqcSPgzOstx) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH) | 3:10 |
 
-Snapshot ID: `MTY0MDY1MjEwMiwwMDAwMDAwMDA1MDk3NmQ0YWUzYWI3Yzk3YjVmNDA1YmFjYmEwMzNj`
+Snapshot ID: `MTY0MDY1MzE4MSwwMDAwMDAwMDA1MDk3NmQ0YWUzYWI3Yzk3YjVmNDA1YmFjYmEwMzNj`

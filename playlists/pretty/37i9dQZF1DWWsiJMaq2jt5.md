@@ -1,0 +1,62 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain](/playlists/plain/37i9dQZF1DWWsiJMaq2jt5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWsiJMaq2jt5)
+
+### [EQUAL Polska](https://open.spotify.com/playlist/37i9dQZF1DWWsiJMaq2jt5)
+
+> Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Kaśka Sochacka
+
+[Spotify](https://open.spotify.com/user/spotify) - 5,740 likes - 50 songs - 2 hr 51 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Niebo było różowe](https://open.spotify.com/track/4srUcUkIP3NejBuRvQz3Gv) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Ministory](https://open.spotify.com/album/6PU2uJ7Mhd6Y0jwqfzC5Kl) | 4:14 |
+| 2 | [Czy masz jak ja?](https://open.spotify.com/track/4ggEwdFC2VoR2BXgR3qGwW) | [Karolina Stanisławczyk](https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t) | [Czy masz jak ja?](https://open.spotify.com/album/3e4uOHJWH3HIo6Q0OzlAvZ) | 2:45 |
+| 3 | [Fade](https://open.spotify.com/track/3KBkPhNYfmNrlJqeRkHwjJ) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Caught in the Night](https://open.spotify.com/album/7FzOeMRnElWLcJsXGdTui2) | 2:43 |
+| 4 | [Duch](https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Duch](https://open.spotify.com/album/2AU8LM1soAwmbearqrb60K) | 4:01 |
+| 5 | [Kokieterka](https://open.spotify.com/track/0yqCYvPXP2p6Uh9vKhkq7P) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [Kokieterka](https://open.spotify.com/album/27kx8IlI2tZ5yu6UDx3DES) | 2:21 |
+| 6 | [Jak To Jest](https://open.spotify.com/track/3ZkoEiIvhkLrPYob8P9gKy) | [Jagoda Kret](https://open.spotify.com/artist/1crECa5RK4wfYX9QtHJtv3) | [O samym braku stabilności](https://open.spotify.com/album/6MiO8RLYc76BHjntwHmrlL) | 2:58 |
+| 7 | [Toxic Love](https://open.spotify.com/track/3jx1xxck1fPTpY4jt0wZAQ) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Toxic Love](https://open.spotify.com/album/1aRe0KwUo3Wc6KkqqzIno7) | 2:43 |
+| 8 | [Chillout](https://open.spotify.com/track/45pMBZJgGcFW4FJFqMVGED) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L) | [Chillout](https://open.spotify.com/album/6KyNj6gZY2Vgw08X5YxTqs) | 2:58 |
+| 9 | [Oko Cyklonu](https://open.spotify.com/track/247hJVFIJ2NNjZ9EgrNJic) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [Oko Cyklonu](https://open.spotify.com/album/2De7g1XWu3XeIoQsRjjo0g) | 2:59 |
+| 10 | [Pinokio](https://open.spotify.com/track/1TVynVbBZ19FH4nBW5ukaX) | [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn) | [Pinokio](https://open.spotify.com/album/4d9vtoP2xSrTInDQq1ssJz) | 3:22 |
+| 11 | [Na dworze chłód](https://open.spotify.com/track/7HW0khyvcUiU9gCER0NTNf) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [Na dworze chłód](https://open.spotify.com/album/1UWlj8L89GgI8Femx5BGxV) | 3:26 |
+| 12 | [Nowa Ja](https://open.spotify.com/track/08Qxl7kZyE6qmNzeDL36tM) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Nowa Ja](https://open.spotify.com/album/3Dq3MA2Ua1FZOAoETsGZTb) | 3:43 |
+| 13 | [neonowe laczki](https://open.spotify.com/track/3sGp9q6sshUt9VW1fmEKwa) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [jestem bryska \(mini album\)](https://open.spotify.com/album/1ISHwlVjnCcLugN8H8xpJa) | 2:29 |
+| 14 | [Pada](https://open.spotify.com/track/5J8Jzlb8VsisnjVBSUxqcI) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Pada](https://open.spotify.com/album/2PDkdjiVyuXfaVn180mywk) | 2:46 |
+| 15 | [Nie śmiem \(tam, gdzie trzeba\)](https://open.spotify.com/track/5u9sp629AnRPGfkV4A83ny) | [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Nie śmiem \(tam, gdzie trzeba\)](https://open.spotify.com/album/5C7kNy7rdYcLJQLW3ekwTo) | 3:53 |
+| 16 | [Na uboczu](https://open.spotify.com/track/2C8zSzeHSujJx79NfJsHF0) | [Amelia Andryszczyk](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk) | [Na uboczu](https://open.spotify.com/album/2kkYxB9RgeLCfIMfjbdVos) | 3:07 |
+| 17 | [Offline](https://open.spotify.com/track/0XiZKXNdAWXF8T5GciMkPO) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Offline](https://open.spotify.com/album/3cltz8M6LM74kB1YYomnS7) | 2:36 |
+| 18 | [Bletki](https://open.spotify.com/track/2hiLN7uZTZtuP2wJhLxe80) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Bletki](https://open.spotify.com/album/0amh56YAQxSZqfL7nn8yjo) | 3:22 |
+| 19 | [Dandelions](https://open.spotify.com/track/74sXwCL8E8hOuQgv7540Oy) | [Ania Szarmach](https://open.spotify.com/artist/1LuaIftFN5BzXzUSKewJTL) | [Dandelions](https://open.spotify.com/album/4jRwKqfScNB0nsdmcWPg60) | 3:35 |
+| 20 | [pełnia](https://open.spotify.com/track/25lszbKMLuHrgLk8iIglvC) | [Guest Julka](https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ) | [pełnia](https://open.spotify.com/album/3Ic0z4RCTAv37M0fpCza9Z) | 3:34 |
+| 21 | [Dziewczyna szamana](https://open.spotify.com/track/3x1RuhJeDvJarVjNDJV5rX) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Dziewczyna szamana](https://open.spotify.com/album/5xa1SuxlodbscAVfwm3ia4) | 6:34 |
+| 22 | [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 |
+| 23 | [Czerwone Korale](https://open.spotify.com/track/5h43JTRW2DL9P2mLT6BeLQ) | [Marisol](https://open.spotify.com/artist/5oBe3ZLAxyhcl6w05EnZfF), [Ola Bird](https://open.spotify.com/artist/3Zp731uRE5DetTNcJjcLO6) | [Czerwone Korale](https://open.spotify.com/album/3eLKLxvuzO5FKsbFF19CJe) | 3:53 |
+| 24 | [CHAOS](https://open.spotify.com/track/0IU2d424H77c86vWrrwGBh) | [Dominika Plonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dafeat](https://open.spotify.com/artist/2Ujn6zr81UqOdSN8tvOjLA) | [CHAOS](https://open.spotify.com/album/6CUExAdIUHeHPG59cqlwdT) | 1:54 |
+| 25 | [Szok](https://open.spotify.com/track/374KHwaFV6y2CoV7S6SfUE) | [MONAMI](https://open.spotify.com/artist/4fnnGpxSK0LXjgUgMHeeCx) | [Szok](https://open.spotify.com/album/52gF326ByBkLe3LB8RhYW1) | 2:36 |
+| 26 | [Jesień](https://open.spotify.com/track/0lOoC5vkY8rpZhZUCDdaxo) | [SABINA](https://open.spotify.com/artist/0iPraaPlcEhdbhEVtaZ598) | [Jesień](https://open.spotify.com/album/1mIssvIzGGQvoqBeSRnZH6) | 3:37 |
+| 27 | [The Darkness](https://open.spotify.com/track/0dyLeoZvRfoH5z4chOwbsQ) | [bazOOms](https://open.spotify.com/artist/1Eu0LSoDhFgb4QzQQwAAGV) | [The Darkness](https://open.spotify.com/album/7bSJdsZl229NP1qbz4Dk7r) | 3:01 |
+| 28 | [Zapnij Pasy](https://open.spotify.com/track/3iHX5Wpeb1U9lH4U3EmzGO) | [Sabina Szewczyk](https://open.spotify.com/artist/1Ofkj69uBttIicwL9skzh6) | [Zapnij Pasy](https://open.spotify.com/album/51xjwSlBURqVWuUyIPtFiK) | 5:37 |
+| 29 | [Ponad to](https://open.spotify.com/track/1muGL3kxCkAkwUG96vNDu7) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Wybory](https://open.spotify.com/album/5GJS7S7mocBabkAQ9mInV2) | 4:04 |
+| 30 | [tacy sami](https://open.spotify.com/track/0vtx0aJBuH2JCdDYpRvvVB) | [Sylvia Novak](https://open.spotify.com/artist/14obnajHVbTi4l9bafAfYA) | [tacy sami](https://open.spotify.com/album/6DeYUXUem8SzKPuVgqG40o) | 3:18 |
+| 31 | [Żart](https://open.spotify.com/track/3YjXZk1QMwbQejvKWqbyZq) | [ECHO](https://open.spotify.com/artist/2cchSCI5bRBAzEriwtZHYG) | [Długie noce](https://open.spotify.com/album/4HP3ynvZOwv16hXBurnRc4) | 3:47 |
+| 32 | [Trust me](https://open.spotify.com/track/7pZLO4oJ38FKtBt9yfOMkO) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Trust me](https://open.spotify.com/album/6Qv0SHKHK3U6jZfYo7ALcK) | 1:49 |
+| 33 | [Lip Gloss](https://open.spotify.com/track/1KThD6GTG7Q9XZMjNGHtgx) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS), [Meggie](https://open.spotify.com/artist/7t3XoLpmZ9eA9etClJALWL), [Marina Music](https://open.spotify.com/artist/4gCDPR9RFHtwzKhoteq1j3) | [Lip Gloss](https://open.spotify.com/album/08p61kFmETyKzo6S9VzPoa) | 3:10 |
+| 34 | [Tiger](https://open.spotify.com/track/0dCDdCHUUOUdzjzi6OUCCo) | [MIN t](https://open.spotify.com/artist/3XWDa6sNlKADEYRI1mDvWs) | [Shot to Pieces](https://open.spotify.com/album/0aSvkGMZuWia04hAe1NBsV) | 4:15 |
+| 35 | [Życie 2D](https://open.spotify.com/track/5gmzVb0AdhFtvIm3tmMwq5) | [SONIA](https://open.spotify.com/artist/72df4j6ONtlu01RCWPmxjD) | [Życie 2D](https://open.spotify.com/album/2MKZRarnsFMzMovGAm8oCu) | 3:01 |
+| 36 | [Kot](https://open.spotify.com/track/0oVvZZgmSwTu181h0sQ5Yh) | [IVO](https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D), [St\. Elmo](https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy) | [Kot](https://open.spotify.com/album/2ill88gbPVyTIeKgcFliEv) | 3:26 |
+| 37 | [mp3](https://open.spotify.com/track/0sxV9ElWhSLM7LdiHWmtiY) | [Marzena Ryt](https://open.spotify.com/artist/3P8bFZF5Nz4sy49ByfB8Q8) | [mp3](https://open.spotify.com/album/5u20UPm1JyBo2P4DgPCHew) | 3:27 |
+| 38 | [To Proste](https://open.spotify.com/track/0YNf50gO66gXDn2zGvN5Uj) | [Dagga](https://open.spotify.com/artist/0I41eRborhL06flPueNFLE) | [To Proste](https://open.spotify.com/album/2W1gOtNls6OM0IhUMAHROJ) | 3:28 |
+| 39 | [Jak chcesz](https://open.spotify.com/track/2NZU4CbqtDy1iCDSUi8Fmh) | [Kixi](https://open.spotify.com/artist/6mAicfExIN7O30EmhYnA1V) | [Jak chcesz](https://open.spotify.com/album/5VHfnzHATj99ZKEqxTv9ro) | 2:51 |
+| 40 | [Dopamina](https://open.spotify.com/track/3hFEHBcb907cT9bIsn0l4G) | [Weronika Wardak](https://open.spotify.com/artist/5KJtjh0YF3gq5cGOe23J97) | [Dopamina](https://open.spotify.com/album/6Io7lKWJwkjfzj0eGjg8PQ) | 4:01 |
+| 41 | [Idealnie](https://open.spotify.com/track/3d6y9e4rVzAwO5fzc9o0dk) | [Bednarska](https://open.spotify.com/artist/4EG1JZ4lgnLJclAkORNt55) | [Idealnie](https://open.spotify.com/album/0M2mUEht9RLmDG0BFZ6WPo) | 4:11 |
+| 42 | [Kurz](https://open.spotify.com/track/7Mxso7qb1s68GrBWxSQTUj) | [Natalia Łotecka](https://open.spotify.com/artist/5LW1BnYyf8nPmVtiJfvfUU) | [Kurz](https://open.spotify.com/album/4AHaY8ZKRvzwBlKbgIFBaW) | 3:36 |
+| 43 | [Deep Ocean Love](https://open.spotify.com/track/79gSaAfgGXPBXz6T9U1cRO) | [Alia Fay](https://open.spotify.com/artist/592n9jWsXiAHOOQ7OvGrpS) | [Deep Ocean Love](https://open.spotify.com/album/6lfvI1OrA6ofbVBqE84Hst) | 3:37 |
+| 44 | [CNOTY NIEWIEŚCIE](https://open.spotify.com/track/23yaQfQLP5QU92NyXLptbS) | [Zui](https://open.spotify.com/artist/1p9gb5cprkEk0iZShbcRas) | [CNOTY NIEWIEŚCIE](https://open.spotify.com/album/67flDb8dAdv0hqgrOZVNb9) | 2:54 |
+| 45 | [My Name](https://open.spotify.com/track/1lYDL1a55nebkGiLVIGwmf) | [KLARA](https://open.spotify.com/artist/5PbHVhDvM11TMTREEivglw) | [My Name](https://open.spotify.com/album/3TOSJ67NQtagInv1LkUa2Q) | 3:08 |
+| 46 | [Więcej](https://open.spotify.com/track/1Qsba4a3wZOc0vw8IoH7Yb) | [Natalia Szczypuła](https://open.spotify.com/artist/67tEvvPeEJgi7Xqt5AWWNP) | [Więcej](https://open.spotify.com/album/5XRi40ZzsUufhLjnCilkBG) | 4:28 |
+| 47 | [To Wszystko](https://open.spotify.com/track/4v3F0Y97embPLBpLf4AwlF) | [Stashka](https://open.spotify.com/artist/35hjoqsmmrZ2sdvDnYLf2s) | [To Wszystko](https://open.spotify.com/album/2BRYEBiH61O2lkKExxiRfv) | 3:04 |
+| 48 | [Work\-life balance](https://open.spotify.com/track/0JNNZX6K4H1Jjz6si9gJxC) | [Lalu Slavicka](https://open.spotify.com/artist/7MO2PbLSyUD1CTKQYBUrYx) | [Work\-life balance](https://open.spotify.com/album/1EW2Zi3bJS4LPlOi64C3N9) | 4:11 |
+| 49 | [Azyl](https://open.spotify.com/track/6nAh9ULooYSnUsn6h1b1S1) | [Agnieszka Musiał](https://open.spotify.com/artist/4uOBCZk1MpMzmpOnAtN8qc) | [Azyl](https://open.spotify.com/album/7aKmMb8OnHc38PES5XSAQh) | 4:33 |
+| 50 | [Basic B\*tch](https://open.spotify.com/track/5MKF41suBLGMjswjzAPtCz) | [Inee](https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih) | [Basic B\*tch](https://open.spotify.com/album/3cDYmRERD2qgAYvaIRlJ7u) | 2:58 |
+
+Snapshot ID: `MTYzODkxODAwMCwwMDAwMDAwZDAwMDAwMTdkOTcyMDBkZTIwMDAwMDE3ZDcyM2RjMDFm`

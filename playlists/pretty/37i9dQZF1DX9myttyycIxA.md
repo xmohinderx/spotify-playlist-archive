@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Hana Vu
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,971 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,973 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Threatening Each Other re: Capitalism](https://open.spotify.com/track/4lUVbiWiti2F0oOU8SqV1u) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Threatening Each Other re: Capitalism](https://open.spotify.com/album/4ktz8o1d44KMsltBIBzu8L) | 4:43 |
 | 100 | [Housekeys](https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Housekeys](https://open.spotify.com/album/0NE4GXtHwL82n1NVKQa23k) | 3:44 |
 
-Snapshot ID: `MTY0MDY1MjA2NSwwMDAwMDAwMDFmMzY2OGRhNjc1MTljOTU1NWViNmRjYTcyN2Q4NzAy`
+Snapshot ID: `MTY0MDY1MzEyOCwwMDAwMDAwMDFmMzY2OGRhNjc1MTljOTU1NWViNmRjYTcyN2Q4NzAy`

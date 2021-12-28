@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,825 likes - 115 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,833 likes - 115 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [The Keys](https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4) | [Matt Duncan](https://open.spotify.com/artist/7gRH7pJQJaAvrwvi8STYEl) | [Soft Times](https://open.spotify.com/album/2m5JZAFs0blQ8S4Gm8VJ7a) | 3:37 |
 | 115 | [Believe in Me](https://open.spotify.com/track/60pHETtVZP4hddnCg1sKpb) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Bright Moments](https://open.spotify.com/album/79A60jmAsN0A0vmbqosE6w) | 4:05 |
 
-Snapshot ID: `MTY0MDY1MjA5NSwwMDAwMDAwMDA5ZTJkZmZmYzA4MTY2ZTQwMTYzNTJlNTU5MzNkODUw`
+Snapshot ID: `MTY0MDY1MzE3MCwwMDAwMDAwMDA5ZTJkZmZmYzA4MTY2ZTQwMTYzNTJlNTU5MzNkODUw`

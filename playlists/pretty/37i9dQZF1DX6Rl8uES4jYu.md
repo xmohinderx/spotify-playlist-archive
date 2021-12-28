@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,273 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,274 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [Sure Don't Miss You](https://open.spotify.com/track/4afpgzmy9O1JB3Vovb3qb0) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/4pRCXsCz9B7zkeNimzPyNE) | 2:54 |
 | 80 | [Perfection](https://open.spotify.com/track/35n9OXJ7r0kV9yzy1nacu9) | [Senpu](https://open.spotify.com/artist/2utKMTsyw0yoHczz98ORLU), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [Peace Is Not a Dream](https://open.spotify.com/album/7BF6R30txLIaDWIR93wLEz) | 3:53 |
 
-Snapshot ID: `MTY0MDY1MjAxNywwMDAwMDAwMDk1OTAzNTlmMDQ4Y2JjYjMxMDNlMzViYjc3ODZjMzll`
+Snapshot ID: `MTY0MDY1MzA2NSwwMDAwMDAwMDYxYTA4ODQwYzI2ZDVjN2M1YWY5OTMwZjgxNjQwZTVi`

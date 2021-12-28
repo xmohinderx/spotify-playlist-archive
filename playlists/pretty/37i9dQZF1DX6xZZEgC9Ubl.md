@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > emo feels for the misunderstood\. remembering Juice WRLD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,275 likes - 150 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,304 likes - 150 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [Bad Hoe](https://open.spotify.com/track/6OGvHDjNLuEJoBc8BEQWBP) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sometimes Sorry Isn't Enough](https://open.spotify.com/album/3fzX6NA9OnZBoHBv5vLJ2n) | 3:27 |
 | 150 | [Exhausted](https://open.spotify.com/track/7l5B1ilLEOxqp9V2LZyKIg) | [Lxst](https://open.spotify.com/artist/2vxh38hZKAV0DlSpnv7cqT) | [Lost](https://open.spotify.com/album/6N7VOYNSZYsqm1oL4o1rlt) | 2:25 |
 
-Snapshot ID: `MTY0MDY1MjAyMywwMDAwMDAwMDdhYjU0MjhiMDE5ZWI5Nzk0YWMzMzkwNzY4N2ViMDhi`
+Snapshot ID: `MTY0MDY1MzA3MywwMDAwMDAwMDdhYjU0MjhiMDE5ZWI5Nzk0YWMzMzkwNzY4N2ViMDhi`

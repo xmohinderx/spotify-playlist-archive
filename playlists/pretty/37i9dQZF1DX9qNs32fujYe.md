@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,562 likes - 140 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,561 likes - 140 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [Vote of No Confidence](https://open.spotify.com/track/0u7ZOU5XNVukkKjGf7YeYQ) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [I Will Be Gone](https://open.spotify.com/album/3hGFrVDa7GSUMkJ5KaNlml) | 6:05 |
 | 140 | [Higher](https://open.spotify.com/track/00U3KfqUWAsJV8GE2mi14b) | [NorthTale](https://open.spotify.com/artist/0cxYOcvgOWW1MJEoWeuCvg) | [Higher](https://open.spotify.com/album/3pp9yIzgFspykfMxcUhf54) | 3:45 |
 
-Snapshot ID: `MTY0MDY1MjA2NSwwMDAwMDAwMDdhMTgwZTA1MjkyMDYwNTU3ZmY1NzNhNjFmNjc3ZDhh`
+Snapshot ID: `MTY0MDY1MzEyOSwwMDAwMDAwMDdhMTgwZTA1MjkyMDYwNTU3ZmY1NzNhNjFmNjc3ZDhh`

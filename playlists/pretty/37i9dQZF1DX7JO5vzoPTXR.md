@@ -1,0 +1,52 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain](/playlists/plain/37i9dQZF1DX7JO5vzoPTXR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7JO5vzoPTXR)
+
+### [Created by Women](https://open.spotify.com/playlist/37i9dQZF1DX7JO5vzoPTXR)
+
+> Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE?si=GPDQpygtSJOb3jufW0Qvog">Trousdale</a>
+
+[Spotify](https://open.spotify.com/user/spotify) - 39,544 likes - 40 songs - 2 hr 20 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 |
+| 2 | [This Time](https://open.spotify.com/track/21KH3KOkTjqPM0lCoba0UC) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [This Time](https://open.spotify.com/album/20uKxxvwArcDBwXpZr7MlL) | 3:33 |
+| 3 | [New York](https://open.spotify.com/track/5bGTC0fJjJ2W4FwxSTVvZo) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [New York](https://open.spotify.com/album/3zPivWoN3l92IvD5QxI7Uv) | 3:46 |
+| 4 | [Little Bird](https://open.spotify.com/track/2PnlWt31Q4XOw5JWnQU6cW) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Echo Mountain \(EP\)](https://open.spotify.com/album/7KeUivH5PenmVlTEKyhDqp) | 2:50 |
+| 5 | [Fix You](https://open.spotify.com/track/4W2Jjny3buPAFV717WbYPw) | [Emily Vaughn](https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2) | [Silver Linings](https://open.spotify.com/album/2mlaknGD9LFKAx1n49HUit) | 2:33 |
+| 6 | [Chosen](https://open.spotify.com/track/1Afkb5r8LZ6WESWZM0LUQ9) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 4:35 |
+| 7 | [River](https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:05 |
+| 8 | [Long Time Coming](https://open.spotify.com/track/6wqklV8uJbFbEHeyrOmXUO) | [TOMI](https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz) | [Used To](https://open.spotify.com/album/4hl5Rah3cAm4KRZAdx3Jvr) | 3:14 |
+| 9 | [If I Don’t Hear From You Tonight](https://open.spotify.com/track/661gsg4lHFXpeOGA6SUHNu) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [If I Don't Hear From You Tonight](https://open.spotify.com/album/2hgcgaZZ4dEZfIdq6X02pa) | 3:37 |
+| 10 | [December](https://open.spotify.com/track/1Nj8MB0m0Neq0QWodv9JGB) | [Willa Amai](https://open.spotify.com/artist/0iP3BGoRpnHIZRVnEQLlHF) | [December](https://open.spotify.com/album/1p06PRgEHSoEz0wSco56D3) | 2:57 |
+| 11 | [Honey](https://open.spotify.com/track/77EPrIPeOQwbFhZKxN9fpL) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Unconditional](https://open.spotify.com/album/00mGia1ICQJU32dMiWOtfJ) | 3:21 |
+| 12 | [Fantasy](https://open.spotify.com/track/4JSOtJJkeR7A33cAG85CyV) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Fantasy](https://open.spotify.com/album/40gEvsYXDuib5nCnbSphbe) | 3:14 |
+| 13 | [Machote](https://open.spotify.com/track/2TqYC6Gn7vDhL8f2wWCYTB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:57 |
+| 14 | [Ngithande](https://open.spotify.com/track/1agIW3bi7CYFvFoPzOyeXF) | [Yemisi Fancy](https://open.spotify.com/artist/3y2n36KRSMi8SIyZ2QsiQo) | [100% HER Contemporary Songs](https://open.spotify.com/album/3dhsJaOxFtezDOVzPoLRkY) | 3:24 |
+| 15 | [When I Don't Have You](https://open.spotify.com/track/6lbvpxfZWWnttBeFZHZL0U) | [Idarose](https://open.spotify.com/artist/1KtWTt471icGsQwTn6z9ls) | [When I Don't Have You](https://open.spotify.com/album/2GjQ26YdkNXNS0gQdukNO9) | 3:07 |
+| 16 | [Heatwave](https://open.spotify.com/track/6rKD9axpeGAKgytwctW7f4) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:44 |
+| 17 | [Bir Düşün](https://open.spotify.com/track/48M4ozXOpf56r4VcTCkyWX) | [Lin Pesto](https://open.spotify.com/artist/37xM7I9e6MS4pyOWpzUqYo) | [Bir Düşün](https://open.spotify.com/album/2aa5pZ10orY9SYlgyuZ1D4) | 3:28 |
+| 18 | [Ticket To Heaven](https://open.spotify.com/track/2IH961sZoEIIo6XxBtPbX9) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Don't Sleep](https://open.spotify.com/album/71vXspFj2kT6IQn1IuNpEd) | 4:17 |
+| 19 | [THE WAY I FEEL](https://open.spotify.com/track/3sUznPWwYhczB0v6SFkgc0) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [THE WAY I FEEL](https://open.spotify.com/album/7mzTwyIJGqxoejmhBXOMnX) | 3:33 |
+| 20 | [A Beautiful Noise](https://open.spotify.com/track/28m84EzeAOlqrJQ3GHzs8C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [A Beautiful Noise](https://open.spotify.com/album/51t2sNnEACFJewZa81WPuU) | 3:19 |
+| 21 | [Whisky N Wine](https://open.spotify.com/track/706c6g5AnaY8yMDVLhAPxF) | [Aria Lisslo](https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl) | [Whisky N Wine](https://open.spotify.com/album/7GErF7vnrvrFN1TtobapJI) | 4:00 |
+| 22 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 |
+| 23 | [Jazz In The Park W/Tea](https://open.spotify.com/track/2RrrZf7as7ZpilkOknbRFu) | [Jen Miller](https://open.spotify.com/artist/4G1fAATvPm48oMzez32icF) | [100% HER](https://open.spotify.com/album/4c8qCznUZNz4H5xoYrdA0B) | 3:30 |
+| 24 | [Love Decayed](https://open.spotify.com/track/3aPO7oL0EZD7ah2qHxxgid) | [NightNight](https://open.spotify.com/artist/57aPmHVR3ivBoWpcbkTv85) | [Love Decayed](https://open.spotify.com/album/2peGhjkaDhBcpdMoEHi6i5) | 4:57 |
+| 25 | [CU L8R](https://open.spotify.com/track/2k3v2UvufG3UV7QH3Q8jwG) | [TAY](https://open.spotify.com/artist/124brnNKXdM8FFxZuRhV30) | [modern talk](https://open.spotify.com/album/4hkfqWBX93dESnGXxHNEHd) | 3:18 |
+| 26 | [no escribo canciones](https://open.spotify.com/track/46433oXquJsUD6bdTcz784) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:09 |
+| 27 | [Lovin's for Fools](https://open.spotify.com/track/4GTllOYj20KLNq6gbBrXUJ) | [Sarah Siskind](https://open.spotify.com/artist/7DTJb0KDf8RFxGoiyN9Nnf) | [Studio \. Living Room](https://open.spotify.com/album/4A87ghg04rPWdpbu1YT9xG) | 4:12 |
+| 28 | [Much Bigger Than I](https://open.spotify.com/track/29jibvi8OUYxc048K1HnLD) | [Charmie](https://open.spotify.com/artist/1oBTcNjxCkZrIZitgo3Hm1) | [Much Bigger Than I](https://open.spotify.com/album/2WQUmpsxxGLLcC5ZLua5k1) | 3:17 |
+| 29 | [Tell Meh](https://open.spotify.com/track/6H91nAFa5XRSRpf0BffLE4) | [Comfy Bella](https://open.spotify.com/artist/78h0Yr3AVMbIbUw4vMYwuH) | [Tell Meh](https://open.spotify.com/album/6ydH8sJeVoq4epHnsNILJg) | 4:37 |
+| 30 | [Big Bang](https://open.spotify.com/track/6NP3tRIq8pj0AbEX4ioiSc) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/3RJKjaiYUYLEi7fVtlQAOJ) | 2:49 |
+| 31 | [Overwhelmed](https://open.spotify.com/track/69YtbnALqh0dhXeyJe1WO0) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN) | 0:52 |
+| 32 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 |
+| 33 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 |
+| 34 | [Mantequilla](https://open.spotify.com/track/41w5I0tYohtHkqpbNNWcpK) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Mantequilla](https://open.spotify.com/album/4NK445aqlt017jEkN9L5Vx) | 2:45 |
+| 35 | [CHILDREN OF THE SON](https://open.spotify.com/track/1ogERapvhNPt4wZCx0Ac87) | [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w), [Brielle](https://open.spotify.com/artist/2iNiSOXG7MjwwwypRYxCtR) | [Groove Theory, Vol\. 1](https://open.spotify.com/album/1Z2wosTCeeh4tcYeLjBJF5) | 4:14 |
+| 36 | [Renegade](https://open.spotify.com/track/33dLscuyKhP40qkGbnjqWr) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [The Lullaby Album](https://open.spotify.com/album/7JX8l0n0eOW12vwuhxFucz) | 3:23 |
+| 37 | [SPACE](https://open.spotify.com/track/0oedTfz3uuPFxmrDVwB0Gc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SPACE](https://open.spotify.com/album/212R86ZzivVW2nNLidAvfO) | 2:03 |
+| 38 | [One Foot in Front of the Other](https://open.spotify.com/track/5yrx4rgrtXHEWZWbS84Ebc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 3:12 |
+| 39 | [Real Enough To Feel Good](https://open.spotify.com/track/4nOg2QiFCMJN5R124BQiZg) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 5:06 |
+| 40 | [Dancing In The Living Room](https://open.spotify.com/track/1Y2drdMPyCwRxTCnUmadFh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:16 |
+
+Snapshot ID: `MTY0MDY1MzA4MiwwMDAwMDAwMDA3MTg2MWI1MjI4OGUxYmUwMTY1NTg5N2I4ZDg0MDk1`

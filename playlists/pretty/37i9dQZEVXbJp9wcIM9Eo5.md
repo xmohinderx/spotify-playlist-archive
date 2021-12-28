@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJp9wcIM9Eo5.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Honduras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,989 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,990 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

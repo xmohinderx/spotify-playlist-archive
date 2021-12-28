@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982,088 likes - 300 songs - 17 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,084 likes - 300 songs - 17 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Over My Head \(Cable Car\) \- Live at Sirius Radio, NYC, NY \- May 2006](https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Over My Head \(Cable Car\)](https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz) | 3:50 |
 | 300 | [Breathe \- Acoustic](https://open.spotify.com/track/4F1J6Ne5nUZ3YN8wqDJWEY) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/4qVIONl6OrewOLxlWf7QaL) | 4:05 |
 
-Snapshot ID: `MTY0MDY1MjA0NiwwMDAwMDAwMGMzZTY1ODY4MWY2NzI5ODgxZDY3YjkzZTNhZTU2NTY1`
+Snapshot ID: `MTY0MDY1MzEwNCwwMDAwMDAwMGMzZTY1ODY4MWY2NzI5ODgxZDY3YjkzZTNhZTU2NTY1`

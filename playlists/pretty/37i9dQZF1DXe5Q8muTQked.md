@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with a mix of covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,830 likes - 250 songs - 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,831 likes - 250 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 | 249 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 |
 | 250 | [When I'm Gone](https://open.spotify.com/track/6cDHqIoWHmkGE7V7kWJZFJ) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [Wild Card](https://open.spotify.com/album/3HaN8jyz7S3POpsPTym57Q) | 2:33 |
 
-Snapshot ID: `MTY0MDY1MjEyOCwwMDAwMDAwMGRjZDlmNDVjMTJlMTk0MjhmY2E5MDEzNzJhODQwZjEw`
+Snapshot ID: `MTY0MDY1MzIxNywwMDAwMDAwMGRjZDlmNDVjMTJlMTk0MjhmY2E5MDEzNzJhODQwZjEw`

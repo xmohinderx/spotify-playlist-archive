@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,612 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,618 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 74 | [in my head](https://open.spotify.com/track/4KNyf2UaWSyqQtsutwwoch) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [in my head](https://open.spotify.com/album/6OoUTCimsfbH6YSQGo5lFA) | 3:08 |
 | 75 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 |
 
-Snapshot ID: `MTY0MDY1MjA4OSwwMDAwMDAwMDk0ZDJhOGZlMjUwOGFlNDQ4OTcyNmM0MDBhOGU2YmZh`
+Snapshot ID: `MTY0MDY1MzE2MCwwMDAwMDAwMDk0ZDJhOGZlMjUwOGFlNDQ4OTcyNmM0MDBhOGU2YmZh`

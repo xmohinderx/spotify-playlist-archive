@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > This is the best of today's true alternative rock scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,017 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,020 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 149 | [Me.TV \(feat\. Bobby Gillespie\)](https://open.spotify.com/track/7aIEOtCR4HhoDreA6syizW) | [Never Not Nothing](https://open.spotify.com/artist/5tSGiNtq3vtp0dkqEefuDC), [Bobby Gillespie](https://open.spotify.com/artist/77aJXR27gzqvC7CEko5h3o) | [Me.TV \(feat\. Bobby Gillespie\)](https://open.spotify.com/album/3mrpnZpsLBfvQfry8QDw27) | 3:34 |
 | 150 | [Fast Forward](https://open.spotify.com/track/4LShYaypRgtyXOeBKoPaO9) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Fast Forward](https://open.spotify.com/album/0aruiDx5jNCwEpVFzXthSB) | 3:14 |
 
-Snapshot ID: `MTY0MDY1MjA3MSwwMDAwMDAwMGI3MTY3ZWUzM2M1M2E4Y2MyNWZkODBlMzczMzg3YmUx`
+Snapshot ID: `MTY0MDY1MzEzNywwMDAwMDAwMGI3MTY3ZWUzM2M1M2E4Y2MyNWZkODBlMzczMzg3YmUx`

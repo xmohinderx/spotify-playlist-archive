@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,997,837 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,997,840 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [Lay By Me](https://open.spotify.com/track/4l6boTiX3Erh3HYpKOa0D6) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Lay By Me](https://open.spotify.com/album/6RZ6Kas2zRvJo0d6CZUfMZ) | 2:50 |
 | 100 | [I Was Made For Loving You](https://open.spotify.com/track/4Qfs616g34Yct9ayS4c8Yw) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile \(Deluxe\)](https://open.spotify.com/album/62JKNwPI9GOvNyusFfCRFA) | 3:08 |
 
-Snapshot ID: `MTY0MDY1MjA5NiwwMDAwMDAwMDA1YmE4ZjFiMmM1NDQ4MmQ5MmYzYzUwZGI1NGFmMjdk`
+Snapshot ID: `MTY0MDY1MzE3MiwwMDAwMDAwMDA1YmE4ZjFiMmM1NDQ4MmQ5MmYzYzUwZGI1NGFmMjdk`

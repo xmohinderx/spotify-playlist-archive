@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,212,167 likes - 303 songs - 20 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,212,175 likes - 303 songs - 20 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 302 | [Chateau \- Holmsey Remix](https://open.spotify.com/track/1J2IGKsTJZDRy1MO3DJPsG) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr), [Holmsey](https://open.spotify.com/artist/1MLYmLwA6D9xQUwsHdDYKI) | [Chateau \(Holmsey Remix\)](https://open.spotify.com/album/4RdQAts3q3WmEJmZKNjdUK) | 4:00 |
 | 303 | [Be with You](https://open.spotify.com/track/20gwOq3uQBnI2gbxLrIZEc) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:09 |
 
-Snapshot ID: `MTY0MDY1MjAxOCwwMDAwMDAwMGZjYzlmOTUxZGViZjEzOWY3YjE2OGU0MGIxMjUwOTc3`
+Snapshot ID: `MTY0MDY1MzA2NSwwMDAwMDAwMGZjYzlmOTUxZGViZjEzOWY3YjE2OGU0MGIxMjUwOTc3`

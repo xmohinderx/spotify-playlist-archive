@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 227076,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0SXtIKwGuLlHJ7Q7gwo0Te"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 172821,
       "name": "Down Days",
       "url": "https://open.spotify.com/track/7zbHLUYieIVy0Qb8ciRbmx"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 176505,
       "name": "I Will Follow You Into The Dark",
       "url": "https://open.spotify.com/track/5aLtfA57cXVEtLQIzv0y2v"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 192306,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/7gL0h7uIZ6JA2tPv5OLTI8"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 275113,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5HzQDTbgRVfDgjxgwQ6lmt"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 191715,
       "name": "Need A Word With Cupid",
       "url": "https://open.spotify.com/track/3iRJaRyvZpDcSqJ9NnPKBg"
@@ -1586,10 +1586,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 243464,
       "name": "R\u00f3is\u00edn",
       "url": "https://open.spotify.com/track/5efHoPUOCPywINwkok3U13"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5vcLgFSiyypgDgR3qzPsS6"
+      },
+      "artists": [
+        {
+          "name": "Harry Pane",
+          "url": "https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213381,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/22GqKGx91w1CBrEpnkSIFT"
     },
     {
       "album": {
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 182180,
       "name": "Simple",
       "url": "https://open.spotify.com/track/7hVK6T6lsXFeTIxTlHGhGU"
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 239179,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/2SY4ep4NQaArath0ze4gTg"
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 174380,
       "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
       "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring LEISURE
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,661 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,662 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [I Can Talk \- Myd Remix](https://open.spotify.com/track/2D2U8aGdcw70wM4nZI76Rg) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [I Can Talk \(Myd Remix\)](https://open.spotify.com/album/4J8ElqYIBtGmg32y3lv1bh) | 3:33 |
 | 100 | [Good 2 Yourself](https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Good 2 Yourself](https://open.spotify.com/album/3Crx0tSFjXYhJVERZJ5hXl) | 3:50 |
 
-Snapshot ID: `MTY0MDY1MjA0MCwwMDAwMDAwMDkwOTU0ZjI0N2E2NTRkNTFjMDIwNDYyN2FkYTE4NjBm`
+Snapshot ID: `MTY0MDY1MzA5NywwMDAwMDAwMDkwOTU0ZjI0N2E2NTRkNTFjMDIwNDYyN2FkYTE4NjBm`

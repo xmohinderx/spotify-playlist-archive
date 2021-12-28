@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The pulse of the best music and sounds in Christian Hip Hop\.  Cover: Lecrae and 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,944 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,943 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 79 | [Crucify Him](https://open.spotify.com/track/6aIOlcNK46y5ZYJCDHW00X) | [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [JONAH](https://open.spotify.com/artist/5XVCohNKVr8dPM68CwCY51) | [Crucify Him](https://open.spotify.com/album/2ZOdoiSKgepz7uQK9RI2SW) | 2:39 |
 | 80 | [Safe Place](https://open.spotify.com/track/1R4kuiADwioE3Qlh80nmaO) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [everywhere + nowhere](https://open.spotify.com/album/7gUHT1RKm9105NtC9tDuJe) | 5:02 |
 
-Snapshot ID: `MTY0MDY1MjA5OSwwMDAwMDAwMGMwZmVhNTM4YTg3ZmQ3NGQ3ZTljODk4YjVmMjhhYzkx`
+Snapshot ID: `MTY0MDY1MzE3NiwwMDAwMDAwMGMwZmVhNTM4YTg3ZmQ3NGQ3ZTljODk4YjVmMjhhYzkx`

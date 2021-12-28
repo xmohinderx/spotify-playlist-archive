@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,311,432 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,311,445 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 99 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 100 | [Got To Give It Up \(Part 1\)](https://open.spotify.com/track/1jogl9f7HlgoN817JlwqgY) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Number 1's](https://open.spotify.com/album/3iNpxjTJ8kBPtN3kAFh43X) | 4:12 |
 
-Snapshot ID: `MTY0MDY1MjA2MywwMDAwMDAwMDhkN2M3YWY3NmQ5Mjg4YmE4NzJkZDEwNTc3ZWMxYWU4`
+Snapshot ID: `MTY0MDY1MzEyNSwwMDAwMDAwMDhkN2M3YWY3NmQ5Mjg4YmE4NzJkZDEwNTc3ZWMxYWU4`

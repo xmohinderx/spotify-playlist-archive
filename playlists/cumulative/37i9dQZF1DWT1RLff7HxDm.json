@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 368213,
       "name": "A Better Man",
       "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 303168,
       "name": "Born Under A Bad Sign - Live",
       "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 922505,
       "name": "How Many More Times - Live",
       "url": "https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 275033,
       "name": "Keep Coming Back - Live",
       "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 335955,
       "name": "Let Me Love You Baby - Live",
       "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 345270,
       "name": "Let The Good Times Roll - Live",
       "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 261874,
       "name": "Lonesome Whistle Blues - Live",
       "url": "https://open.spotify.com/track/75QEITVgnbtUomK27erkds"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 298777,
       "name": "Night Train - Live",
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 497133,
       "name": "Pocket Full of Dust (Live)",
       "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 615573,
       "name": "Red Light - Live",
       "url": "https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 396682,
       "name": "Tell Her You Belong To Me (Live)",
       "url": "https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-28",
       "duration_ms": 600506,
       "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
       "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 354893,
       "name": "True Lies",
       "url": "https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 329840,
       "name": "Watchagonnado (Live)",
       "url": "https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z"
@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Live In Concert",
+        "url": "https://open.spotify.com/album/2O6PBRZYz7a9wEUbE7SZkS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaeshammer",
+          "url": "https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07"
+        },
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm"
+    },
+    {
+      "album": {
         "name": "Why Does It Take So Long To Say Goodbye (Live)",
         "url": "https://open.spotify.com/album/3CDI2rvne7PElFMRn7rLL9"
       },
@@ -1352,7 +1374,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 574040,
       "name": "Why Does It Take So Long To Say Goodbye - Live",
       "url": "https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs"

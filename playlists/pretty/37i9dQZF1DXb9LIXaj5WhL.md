@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,195,127 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,195,129 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [Untouchable Face](https://open.spotify.com/track/2E8AVQcuYSlXm12g112Kef) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Dilate](https://open.spotify.com/album/4KE4xztIchTBItYOnCT3FU) | 4:39 |
 | 75 | [Stellar \- Acoustic](https://open.spotify.com/track/65QweyWLYg5kapDDE8teNn) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:15 |
 
-Snapshot ID: `MTY0MDY1MjA4OCwwMDAwMDAwMDA5NDBlMTI3Nzc4YTdhM2ZiYzBlYmRkYWFiZDIyYzQ1`
+Snapshot ID: `MTY0MDY1MzE1OSwwMDAwMDAwMDA5NDBlMTI3Nzc4YTdhM2ZiYzBlYmRkYWFiZDIyYzQ1`

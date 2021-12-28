@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft Sega Bodega
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,387 likes - 125 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,393 likes - 125 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [Polly](https://open.spotify.com/track/6LQOd5wz3RmBFFZxdhSfLT) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/35CHoLB0GEwYlOomriifC6) | 3:38 |
 | 125 | [Heaven Fell \(Reprise\)](https://open.spotify.com/track/2pUarDBfmUqw328dcU5Ubq) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Heaven Fell](https://open.spotify.com/album/5b0BcHLVRtJ3xGPpV3AaYI) | 2:26 |
 
-Snapshot ID: `MTY0MDY1MjA4MiwwMDAwMDAwMGU1OWIzYjAxOWMyOTQxN2YyMWM2MzU0MGE0MTQwYWMx`
+Snapshot ID: `MTY0MDY1MzE1MiwwMDAwMDAwMGU1OWIzYjAxOWMyOTQxN2YyMWM2MzU0MGE0MTQwYWMx`

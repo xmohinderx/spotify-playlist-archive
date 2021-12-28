@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Rodney Crowell
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,629 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,630 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Let's Have a Good Thing Together](https://open.spotify.com/track/0Erb8wHT9YOyi6iYg0JgbB) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [I'm a Song](https://open.spotify.com/album/28f3FK6jtEB8oICONdPz0z) | 2:09 |
 | 150 | [Tell Me Anything \(Turn To Gold\)](https://open.spotify.com/track/6QBbiKbwPbTkg13qSUHicJ) | [Chuck Prophet](https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT) | [Night Surfer](https://open.spotify.com/album/6sHcPAdczA2XTY3w1MMN6J) | 3:22 |
 
-Snapshot ID: `MTY0MDY1MjAzNiwwMDAwMDAwMDM0NTA1NjA1YjlkY2YzYzJkODQxZmQyMjk1MmNlZjhl`
+Snapshot ID: `MTY0MDY1MzA5MSwwMDAwMDAwMDM0NTA1NjA1YjlkY2YzYzJkODQxZmQyMjk1MmNlZjhl`
