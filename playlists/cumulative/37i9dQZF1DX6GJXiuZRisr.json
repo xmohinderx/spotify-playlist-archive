@@ -232,10 +232,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 332146,
       "name": "Beyond Control",
       "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+    },
+    {
+      "album": {
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
     },
     {
       "album": {
@@ -250,7 +268,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 178420,
       "name": "Breathe Me In",
       "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
@@ -290,7 +308,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 195360,
       "name": "bygones",
       "url": "https://open.spotify.com/track/61VpTyZBzCFtkPpii7pYWl"
@@ -312,7 +330,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 210963,
       "name": "Calling Out Your Name - Radio Edit",
       "url": "https://open.spotify.com/track/4Zd0Bqfka9K3m3Mv1eibaP"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Cure Or Remedy",
       "url": "https://open.spotify.com/track/3iGHGIAwH96Ri9NuBGkdeV"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 182400,
       "name": "Discopolis 2.0 - MEDUZA Remix",
       "url": "https://open.spotify.com/track/1zu8sQCLjW5jtzf7JVpGop"
@@ -590,7 +608,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 255375,
       "name": "Escalus",
       "url": "https://open.spotify.com/track/2ySk8ecOEBzNckGLKA6TEZ"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 439437,
       "name": "Face The Sun",
       "url": "https://open.spotify.com/track/1NBGV6jaSjoCtdhwQlaj1n"
@@ -800,7 +818,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 204686,
       "name": "Future",
       "url": "https://open.spotify.com/track/4Gvh60vRr6cKdB3RVtBiOg"
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 225245,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/1dyNtDn8U344aEntrBkQFq"
@@ -1273,6 +1291,24 @@
     },
     {
       "album": {
+        "name": "Bound By Time",
+        "url": "https://open.spotify.com/album/3sifGWnEOsOcRu5d6NazlE"
+      },
+      "artists": [
+        {
+          "name": "Leossa",
+          "url": "https://open.spotify.com/artist/1DxrLM2jS3lshF3s8BPHQs"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281951,
+      "name": "Lavirra - Edit",
+      "url": "https://open.spotify.com/track/4P0LVOqZiKdHObiWi2HhND"
+    },
+    {
+      "album": {
         "name": "Deep State",
         "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
       },
@@ -1364,7 +1400,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 183350,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/3BaywzVZGn8Z1kmVGUvmCz"
@@ -1462,7 +1498,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Necessary Evil",
       "url": "https://open.spotify.com/track/7iDmdm79hvjnMqZe5oF69h"
@@ -1828,7 +1864,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 177203,
       "name": "Reaction (feat. Jodie Knight)",
       "url": "https://open.spotify.com/track/4FHxkl2hihkgRUQNRUSHAI"
@@ -1912,7 +1948,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 320853,
       "name": "Risky Business",
       "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
@@ -1956,7 +1992,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 250587,
       "name": "Say",
       "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 243870,
       "name": "Stay Curious",
       "url": "https://open.spotify.com/track/2TrBUx5NKNRD3haOx9vgcO"
@@ -2288,7 +2324,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 250080,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/5DCQiBkk4jqj3y7ozW6DuG"
@@ -2306,7 +2342,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 265832,
       "name": "The Blame - Single Edit",
       "url": "https://open.spotify.com/track/4dffcyDgshaZyEQaMDkOVB"
@@ -2360,7 +2396,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 444875,
       "name": "The Time Has Come",
       "url": "https://open.spotify.com/track/17gYLgUI2kHsmR8wLeLFUY"
@@ -2378,7 +2414,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 215250,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
@@ -2430,7 +2466,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
@@ -2536,7 +2572,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 244014,
       "name": "Touch - Dezza Remix",
       "url": "https://open.spotify.com/track/1at5qehGeavNrpmcHgfekA"
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 269460,
       "name": "Twin Souls",
       "url": "https://open.spotify.com/track/0XXWZcLfM8drFINoxPx5fC"
@@ -2620,7 +2656,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 260750,
       "name": "Unfolding",
       "url": "https://open.spotify.com/track/6YMaVo9FZy0aDrntxEwA72"
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 211475,
       "name": "Vallut Bass",
       "url": "https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo"
@@ -2740,7 +2776,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 210491,
       "name": "Weight Of The World",
       "url": "https://open.spotify.com/track/7tjxcrVxHH7fPvkTdcqFcB"
@@ -2836,7 +2872,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 219518,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd"
@@ -2854,7 +2890,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/22UPkpMAwkxdsZnuS1tAxW"

@@ -370,7 +370,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 234213,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/4t03qcATBoSFWGDDCo29v3"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 245555,
       "name": "Breathe - Acoustic",
       "url": "https://open.spotify.com/track/4F1J6Ne5nUZ3YN8wqDJWEY"
@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Feel So Close",
+        "url": "https://open.spotify.com/album/62WTjygikgpKrpBKd07x1x"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2021-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206364,
+      "name": "Feel So Close",
+      "url": "https://open.spotify.com/track/1WtXpaF4v2ukGOsjoxPcyF"
+    },
+    {
+      "album": {
         "name": "Find You (Acoustic)",
         "url": "https://open.spotify.com/album/7nS4bQIffpjMbB9CbLBGlq"
       },
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 219221,
       "name": "Human - Jim Eno Sessions",
       "url": "https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm"
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 189614,
       "name": "Swan Song - Acoustic",
       "url": "https://open.spotify.com/track/5vj7xvilPeCv3DQgpy9auU"
@@ -4736,7 +4754,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 226379,
       "name": "Taped up Heart (feat. Clara Mae) - Acoustic",
       "url": "https://open.spotify.com/track/1JO2oS5Gv04NoUQsR2GtZc"

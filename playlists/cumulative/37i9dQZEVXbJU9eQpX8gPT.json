@@ -574,7 +574,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 240933,
       "name": "Ailleurs (feat. Lefa)",
       "url": "https://open.spotify.com/track/5ofWgZMhsgL70B1HtdTRwO"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 229454,
       "name": "Gaw El Banat",
       "url": "https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH"
@@ -3536,6 +3536,24 @@
       "duration_ms": 99000,
       "name": "Intro",
       "url": "https://open.spotify.com/track/3X1MX1CndIuTxV9OgA51EE"
+    },
+    {
+      "album": {
+        "name": "Love Yourself \u8f49 'Tear'",
+        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196998,
+      "name": "Intro: Singularity",
+      "url": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV"
     },
     {
       "album": {
@@ -7710,7 +7728,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 216063,
       "name": "Stigma",
       "url": "https://open.spotify.com/track/3LTwMQ9kkn5VVhP3jipBlR"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/4jUgVrUXUs4rSTAPJZUpEO"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 155386,
       "name": "Beat Down Babylon",
       "url": "https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 203093,
       "name": "Cool Breeze",
       "url": "https://open.spotify.com/track/2TF9pM5gfqgtrKHMYOKxPd"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 145933,
       "name": "Don De Lion",
       "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "Funkey Funkey Reggay",
       "url": "https://open.spotify.com/track/1TnIDb52hYg5P5kHLUyTqX"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 218200,
       "name": "Guns Of Brixton",
       "url": "https://open.spotify.com/track/5qmnNMX75aVplvqQdkgX9Y"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 201213,
       "name": "Illya Kuryakin",
       "url": "https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 153320,
       "name": "It Mek",
       "url": "https://open.spotify.com/track/4UjAUBivCvCFc5La3N4FS2"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 204213,
       "name": "It Must Be True Love",
       "url": "https://open.spotify.com/track/4fs7A0HgWe9guaNh3jPBFz"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 175026,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Monkey Man",
+        "url": "https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR"
+    },
+    {
+      "album": {
         "name": "This Is Trojan Boss Reggae",
         "url": "https://open.spotify.com/album/7gSBUPAK5KmKyfsA8AsfUx"
       },
@@ -970,6 +988,24 @@
       "duration_ms": 207186,
       "name": "My Conversation",
       "url": "https://open.spotify.com/track/2wIOKiZfp8h9ROw3eBAfcc"
+    },
+    {
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Lynn Taitt & The Jets",
+          "url": "https://open.spotify.com/artist/2Fmwp5N1JzqKMTFtCryUuf"
+        }
+      ],
+      "date_added": "2021-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/0xnpRZaTwiMcJWL8Sv1U2R"
     },
     {
       "album": {
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 200800,
       "name": "Sensimilea",
       "url": "https://open.spotify.com/track/21BiCaMzG9Lfs0Pj5ItwX0"
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 179293,
       "name": "Stalag 17",
       "url": "https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl"
@@ -1226,7 +1262,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 194653,
       "name": "Sun Moon and Star",
       "url": "https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0"
@@ -1352,7 +1388,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 161973,
       "name": "The Tide Is High - Stereo Version",
       "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
@@ -1388,7 +1424,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 181413,
       "name": "This Is Reggae Music",
       "url": "https://open.spotify.com/track/10McHNtBiND3fSJMuLqJql"
@@ -1424,7 +1460,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 174160,
       "name": "Train To Skaville",
       "url": "https://open.spotify.com/track/466HPqJP2wrgOyI222XvPs"

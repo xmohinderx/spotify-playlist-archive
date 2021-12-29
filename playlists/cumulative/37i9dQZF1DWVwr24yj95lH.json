@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Churn",
+        "url": "https://open.spotify.com/album/6vnsykSsmiy1etv3krbC5T"
+      },
+      "artists": [
+        {
+          "name": "Seven Mary Three",
+          "url": "https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362200,
+      "name": "Cumbersome",
+      "url": "https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR"
+    },
+    {
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/4jMvOGmPkg1LoUwAENluAH"
       },
@@ -380,6 +398,24 @@
       "duration_ms": 250546,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "album": {
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/12gGF8RinPYXZ5eqCFjhFg"
+      },
+      "artists": [
+        {
+          "name": "Oleander",
+          "url": "https://open.spotify.com/artist/7038Bglq6YmpBu6wPvQJiz"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212950,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/3zfVj6UVenatGKid6QirRW"
     },
     {
       "album": {
@@ -455,6 +491,24 @@
     },
     {
       "album": {
+        "name": "No Name Face",
+        "url": "https://open.spotify.com/album/73VoR62ltV5NrQfdK06CC6"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216066,
+      "name": "Hanging By A Moment",
+      "url": "https://open.spotify.com/track/1cRNEme8Bp7V8eNIAeyiAk"
+    },
+    {
+      "album": {
         "name": "Dosage",
         "url": "https://open.spotify.com/album/10h0WKev2yYudLvXIVvSFP"
       },
@@ -488,7 +542,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
@@ -506,7 +560,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 281226,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm"
@@ -668,7 +722,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 290013,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/45chhYFgWlUNobpEMq7PxP"
@@ -884,7 +938,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 231693,
       "name": "Real World",
       "url": "https://open.spotify.com/track/70fe354BpVKEvMY0de78YO"
@@ -1050,6 +1104,24 @@
       "duration_ms": 251840,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2e9ZCaqv3uF5AX7QLIh9h1"
+    },
+    {
+      "album": {
+        "name": "The Long Road",
+        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
     },
     {
       "album": {

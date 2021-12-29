@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG97QsiXgEX.md) - [plain]
 
 > The essential Muse, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,052 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,215 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

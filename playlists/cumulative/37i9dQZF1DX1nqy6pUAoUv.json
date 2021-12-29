@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
+    },
+    {
+      "album": {
         "name": "American Flowers",
         "url": "https://open.spotify.com/album/1ySjZoIQXVfB2d8NO1bvOk"
       },
@@ -42,10 +60,28 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 295533,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
+    },
+    {
+      "album": {
+        "name": "Answers (Acoustic)",
+        "url": "https://open.spotify.com/album/7dUwxuMBTGEprZv2i06YyN"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190229,
+      "name": "Answers (Acoustic)",
+      "url": "https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz"
     },
     {
       "album": {
@@ -85,6 +121,24 @@
     },
     {
       "album": {
+        "name": "At the Purchaser's Option",
+        "url": "https://open.spotify.com/album/0PjqX2LHyWPUzp7wdVMdQi"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256560,
+      "name": "At the Purchaser's Option",
+      "url": "https://open.spotify.com/track/1TEZxIrbnjr7fCZWoXSFap"
+    },
+    {
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -100,7 +154,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 234826,
       "name": "Avalon (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
@@ -188,7 +242,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 234200,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/5cH2yuvqPh7IsqetGmSoAE"
@@ -264,7 +318,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 177480,
       "name": "Brand New Day - Live",
       "url": "https://open.spotify.com/track/3WD8P9edih2uKioQu218Ct"
@@ -391,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+    },
+    {
+      "album": {
         "name": "Dance Around the Room with Me",
         "url": "https://open.spotify.com/album/7EqXhW9ViNXbBFKMr8Urqb"
       },
@@ -420,7 +492,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 293093,
       "name": "Debtors' Prison",
       "url": "https://open.spotify.com/track/5dyQtYRxhnBUs9rwuGCcGi"
@@ -548,7 +620,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 187240,
       "name": "Filled With Wonder Once Again",
       "url": "https://open.spotify.com/track/0sK5rMYKs8CZUyZDCak2Rk"
@@ -646,7 +718,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 217816,
       "name": "Give a Little Love (feat. Sufjan Stevens)",
       "url": "https://open.spotify.com/track/0FfcviVA8x0FaVIwwZVUJE"
@@ -686,7 +758,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 202996,
       "name": "Grow Old with Me",
       "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
@@ -740,7 +812,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 249213,
       "name": "Heart to Ride",
       "url": "https://open.spotify.com/track/3ksOjny1fxhYeRAMunOLcv"
@@ -780,6 +852,24 @@
       "duration_ms": 351193,
       "name": "Hills of Mexico",
       "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/6JsxLyhFwGTNFiM8ld8RJU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Duncan",
+          "url": "https://open.spotify.com/artist/76QuBzf0cdwd8G8IMrbllG"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167952,
+      "name": "Holding You There",
+      "url": "https://open.spotify.com/track/2XkMwuRLWYaGfpNd9jpdDU"
     },
     {
       "album": {
@@ -831,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Head Above The Water",
+        "url": "https://open.spotify.com/album/6ma04X4LKQaCj8FAohLjye"
+      },
+      "artists": [
+        {
+          "name": "Brigid Mae Power",
+          "url": "https://open.spotify.com/artist/4uBunSqfCPl9OrLhRifPwK"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318309,
+      "name": "I Had To Keep My Circle Small",
+      "url": "https://open.spotify.com/track/4sRX7hi80Jq2viQpqZYo7S"
+    },
+    {
+      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -875,6 +983,28 @@
     },
     {
       "album": {
+        "name": "If I Could Only Fly / True Love's Flame",
+        "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        },
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269500,
+      "name": "If I Could Only Fly",
+      "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "album": {
         "name": "If We Were Vampires",
         "url": "https://open.spotify.com/album/4mwBBYV7dU6LbnOWKdIk1k"
       },
@@ -904,7 +1034,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 223860,
       "name": "In A Bind - Strings Version",
       "url": "https://open.spotify.com/track/2AQVquEBrCXizzLs6Leku5"
@@ -926,6 +1056,42 @@
       "duration_ms": 236394,
       "name": "In the Kingdom of Dreams",
       "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/4gjnVj1b9IpYMayBwuYxZE"
+      },
+      "artists": [
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254633,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/5lrhQBbSjwKolAVGvl2MQS"
+    },
+    {
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Chaney",
+          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243026,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7"
     },
     {
       "album": {
@@ -1030,10 +1196,50 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "album": {
+        "name": "Love & Revelation",
+        "url": "https://open.spotify.com/album/5QT49UMm1gBAUszWaxmpaL"
+      },
+      "artists": [
+        {
+          "name": "Over the Rhine",
+          "url": "https://open.spotify.com/artist/1z26dqCz3PySR4G7HWsn93"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252880,
+      "name": "Los Lunas",
+      "url": "https://open.spotify.com/track/4a3qPo0Jl2ws3tpHlz8SlS"
+    },
+    {
+      "album": {
+        "name": "Love and Chains",
+        "url": "https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT"
+      },
+      "artists": [
+        {
+          "name": "Vivian Leva",
+          "url": "https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H"
+        },
+        {
+          "name": "Riley Calcagno",
+          "url": "https://open.spotify.com/artist/2n5rNh7Wb7FFhnijzCPfii"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217746,
+      "name": "Love and Chains",
+      "url": "https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ"
     },
     {
       "album": {
@@ -1048,7 +1254,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 267080,
       "name": "Love Part Three",
       "url": "https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx"
@@ -1120,10 +1326,32 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 173231,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/10JRIlS2NWwUlEePtwaUhX"
+    },
+    {
+      "album": {
+        "name": "Minneapolis Cold",
+        "url": "https://open.spotify.com/album/0fFFWq9vCPF9dmnCLWvRNe"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        },
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239596,
+      "name": "Minneapolis Cold",
+      "url": "https://open.spotify.com/track/36OJDRPWTJGiIBTA3aCNGG"
     },
     {
       "album": {
@@ -1138,7 +1366,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/5PY0OvDT2tnAykdiUQayF8"
@@ -1192,7 +1420,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 221476,
       "name": "neve give up",
       "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
@@ -1235,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "No Memories of Tomorrow",
+        "url": "https://open.spotify.com/album/50IwxoFBnldrROnNPRLLfV"
+      },
+      "artists": [
+        {
+          "name": "Graeme James",
+          "url": "https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260793,
+      "name": "No Memories of Tomorrow",
+      "url": "https://open.spotify.com/track/3y43rqeDhiDuEnBPgQxFQw"
+    },
+    {
+      "album": {
         "name": "No Summer",
         "url": "https://open.spotify.com/album/5lGTDW0jIkmQio3Kozn9fl"
       },
@@ -1246,7 +1492,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 231338,
       "name": "No Summer",
       "url": "https://open.spotify.com/track/3DeRxZx9NeymcEKzDqY79r"
@@ -1293,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Occasionally",
+        "url": "https://open.spotify.com/album/18lSgXpfbwoFVCCmBOa4q1"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/7luFyU5iwLO0AFXb8DubYS"
+    },
+    {
+      "album": {
         "name": "On The Road Again",
         "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
       },
@@ -1326,6 +1590,24 @@
       "duration_ms": 224066,
       "name": "Over That Road I'm Bound To Go",
       "url": "https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s"
+    },
+    {
+      "album": {
+        "name": "A Small Death",
+        "url": "https://open.spotify.com/album/0IlD7PgLdse459NTcrFfHw"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207426,
+      "name": "Pastime",
+      "url": "https://open.spotify.com/track/55IxMup3rI2FliLgTRIw1F"
     },
     {
       "album": {
@@ -1376,7 +1658,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
@@ -1401,6 +1683,54 @@
     },
     {
       "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282586,
+      "name": "Quasheba, Quasheba",
+      "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
+    },
+    {
+      "album": {
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
+      },
+      "artists": [
+        {
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276576,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
       },
@@ -1416,6 +1746,24 @@
       "duration_ms": 238560,
       "name": "River",
       "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
+    },
+    {
+      "album": {
+        "name": "River Floor",
+        "url": "https://open.spotify.com/album/7yBghFRECy1ZbyIu1PFRyX"
+      },
+      "artists": [
+        {
+          "name": "Joe Henry",
+          "url": "https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274742,
+      "name": "River Floor",
+      "url": "https://open.spotify.com/track/1IFfxA7q1t1Pd06KFYrwQK"
     },
     {
       "album": {
@@ -1524,7 +1872,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 246052,
       "name": "The Harbour",
       "url": "https://open.spotify.com/track/2ouDv9jiD2j4dKhoFLVhb2"
@@ -1542,7 +1890,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 260303,
       "name": "The Lonely Persistence of Time",
       "url": "https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p"
@@ -1582,7 +1930,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 235893,
       "name": "The Queen of Hearts",
       "url": "https://open.spotify.com/track/3hZSjTEvT5ftkQvLEMuUZz"
@@ -1616,6 +1964,24 @@
       "duration_ms": 260832,
       "name": "The Roving",
       "url": "https://open.spotify.com/track/17lBx44cu6JhILH7ifq6sI"
+    },
+    {
+      "album": {
+        "name": "The Scene Is Dead",
+        "url": "https://open.spotify.com/album/19yPKlsL79WqndC089E1NH"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221853,
+      "name": "The Scene Is Dead",
+      "url": "https://open.spotify.com/track/4EJmVBdSjVDCPKHcv8q2kF"
     },
     {
       "album": {
@@ -1673,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "album": {
         "name": "Transformation",
         "url": "https://open.spotify.com/album/4PBqsWrjVRREqQk02rKhAL"
       },
@@ -1684,7 +2068,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 211786,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/3vuhk4DMMf4bQePny04bhs"
@@ -1727,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Boots No. 2: The Lost Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/7ku4wGBtFXYISQhh612mak"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Valley Of Tears",
+      "url": "https://open.spotify.com/track/0Zn1G3kuPFWI49YA8ULVEN"
+    },
+    {
+      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1742,6 +2144,32 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "album": {
+        "name": "Wade In The Water (Feat. The War and Treaty, with The Blind Boys of Alabama)",
+        "url": "https://open.spotify.com/album/5nCjw9lzzU26lf5IgYmjuO"
+      },
+      "artists": [
+        {
+          "name": "Matt Rollings",
+          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189702,
+      "name": "Wade In The Water (Feat. The War and Treaty, with The Blind Boys of Alabama)",
+      "url": "https://open.spotify.com/track/2gjB0dkFCQMwhy58wf7zix"
     },
     {
       "album": {
@@ -1792,7 +2220,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 245546,
       "name": "What Then Cried Jo Soap",
       "url": "https://open.spotify.com/track/2mJmHq00bqo5hpsF5sEB4K"
@@ -1832,6 +2260,24 @@
       "duration_ms": 272080,
       "name": "Wild Turkey",
       "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "album": {
+        "name": "Wildflowers in the Graveyard",
+        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
+      },
+      "artists": [
+        {
+          "name": "Amber Rubarth",
+          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
+        }
+      ],
+      "date_added": "2021-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180977,
+      "name": "Wildflowers in the Graveyard",
+      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
     },
     {
       "album": {
@@ -1922,7 +2368,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 164224,
       "name": "zombie girl",
       "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"

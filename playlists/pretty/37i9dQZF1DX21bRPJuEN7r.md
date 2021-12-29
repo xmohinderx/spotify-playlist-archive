@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21bRPJuEN7r.md) - [plain]
 
 > Updated every week @Composer Weekly\. An introduction to composer Michael Nyman, one of the most influential and popular classical composers of our time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,310 likes - 30 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,299 likes - 30 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

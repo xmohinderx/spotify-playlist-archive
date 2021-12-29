@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/3pssxznFPsw3TO2ns1Mey3"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275253,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/2JCskibhK5KQk8v8An371h"
+    },
+    {
+      "album": {
+        "name": "Aldri i livet",
+        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188796,
+      "name": "Aldri i livet",
+      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+    },
+    {
+      "album": {
         "name": "Alt det som skinner",
         "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
       },
@@ -52,7 +88,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 244120,
       "name": "Bestevenn",
       "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
@@ -70,7 +106,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 193425,
       "name": "Bror",
       "url": "https://open.spotify.com/track/5TWg0DczP5O3aJyVyD0mlh"
@@ -142,7 +178,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
@@ -200,10 +236,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 193079,
       "name": "Det begynner \u00e5 bli et liv",
       "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
+    },
+    {
+      "album": {
+        "name": "Det e Svolv\u00e6r",
+        "url": "https://open.spotify.com/album/023W0Yd6Wyka9DnP819GPe"
+      },
+      "artists": [
+        {
+          "name": "Ola Bremnes",
+          "url": "https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217453,
+      "name": "Det e Svolv\u00e6r",
+      "url": "https://open.spotify.com/track/7aqK2UARpJ7iJuL5FHU4ck"
     },
     {
       "album": {
@@ -218,7 +272,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 254380,
       "name": "Det Hainnle Om \u00c5 Leve",
       "url": "https://open.spotify.com/track/2WJ14O84lqRcgjPOSgf6tI"
@@ -236,7 +290,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 236573,
       "name": "Det magiske ordet unnskyld",
       "url": "https://open.spotify.com/track/6DJ0AMxcMofBkTbwPlQ0D6"
@@ -301,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Ei kvinnehand",
+        "url": "https://open.spotify.com/album/16xFeS64qgOjf0L6v0Nugg"
+      },
+      "artists": [
+        {
+          "name": "Maria Solheim",
+          "url": "https://open.spotify.com/artist/50dO3ZgIhCt8OEmmMougtn"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244386,
+      "name": "Ei kvinnehand",
+      "url": "https://open.spotify.com/track/2uelFmwzrlRwkbfdcoPDTO"
+    },
+    {
+      "album": {
         "name": "Bestevenn (Bonus Version)",
         "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
       },
@@ -319,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Elefanten i rommet",
+        "url": "https://open.spotify.com/album/1Vn36wOWVOcjy4MHsZhc1N"
+      },
+      "artists": [
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226453,
+      "name": "Elefanten i rommet",
+      "url": "https://open.spotify.com/track/4051cW2QEyKfTfLeLgyzOb"
+    },
+    {
+      "album": {
         "name": "En Natt Forbi",
         "url": "https://open.spotify.com/album/1mUhRc2K1cwRNuZXUcjUPy"
       },
@@ -330,10 +420,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 181493,
       "name": "En Natt Forbi",
       "url": "https://open.spotify.com/track/7FBCKAfx2enIPOziuQJBbX"
+    },
+    {
+      "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/3dZvVLGKN6rDgnZGnbNVyW"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/6SlE2MU3PsOO7NrPIIFRHm"
     },
     {
       "album": {
@@ -352,6 +460,24 @@
       "duration_ms": 266328,
       "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
       "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "album": {
+        "name": "Finn Veien Engel (New Version)",
+        "url": "https://open.spotify.com/album/7wcbrQi9tIPwNN5R9g87vE"
+      },
+      "artists": [
+        {
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184827,
+      "name": "Finn Veien Engel - New version",
+      "url": "https://open.spotify.com/track/57okbLO40Q3aH4SgcAfmSS"
     },
     {
       "album": {
@@ -504,7 +630,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 268366,
       "name": "Ikke deg",
       "url": "https://open.spotify.com/track/6CWyZcIAv53L2x8Nv1eu5N"
@@ -544,7 +670,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 233980,
       "name": "Jeg ror alene",
       "url": "https://open.spotify.com/track/2FvoA1uCruAwjV49IXQgQz"
@@ -562,7 +688,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 223706,
       "name": "Jeg Vet",
       "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
@@ -580,7 +706,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 339546,
       "name": "Julinetter",
       "url": "https://open.spotify.com/track/3i6Rpq73XBlzSwFtltygLm"
@@ -656,10 +782,50 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 191173,
       "name": "Liten fuggel",
       "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
+    },
+    {
+      "album": {
+        "name": "L\u00f8vblad i vinden",
+        "url": "https://open.spotify.com/album/28PEXasrDwsRhOOxovjXIk"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197186,
+      "name": "L\u00f8vblad i vinden",
+      "url": "https://open.spotify.com/track/38J3Av5XTtizhvtOHUDE1o"
+    },
+    {
+      "album": {
+        "name": "Mitt Andre Hjem",
+        "url": "https://open.spotify.com/album/4WChofZor5RuSged93ZT0c"
+      },
+      "artists": [
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+        },
+        {
+          "name": "Knut Bj\u00f8rnar Asphol",
+          "url": "https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212388,
+      "name": "Mitt Andre Hjem",
+      "url": "https://open.spotify.com/track/1PERYAkdjl7H6sobYpuLvO"
     },
     {
       "album": {
@@ -674,7 +840,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 141120,
       "name": "Mitt Hjerte Er Ditt",
       "url": "https://open.spotify.com/track/6T95elNl2CwTnJXAUUq9LI"
@@ -692,7 +858,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 202000,
       "name": "Mitt lille land",
       "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
@@ -732,7 +898,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 186552,
       "name": "Pusterom",
       "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
@@ -779,6 +945,42 @@
     },
     {
       "album": {
+        "name": "Sm\u00e5`n",
+        "url": "https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191902,
+      "name": "Sm\u00e5`n",
+      "url": "https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE"
+    },
+    {
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+    },
+    {
+      "album": {
         "name": "3 sanger",
         "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
       },
@@ -797,6 +999,24 @@
     },
     {
       "album": {
+        "name": "S\u00e5 syng eg da ein song for deg",
+        "url": "https://open.spotify.com/album/6Prh2JMSdlVuPUUKADBujR"
+      },
+      "artists": [
+        {
+          "name": "Ine Hoem",
+          "url": "https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242866,
+      "name": "S\u00e5 syng eg da ein song for deg",
+      "url": "https://open.spotify.com/track/5JNfXFtBW50P3OftyAhNnr"
+    },
+    {
+      "album": {
         "name": "S\u00f8tten \u00e5r",
         "url": "https://open.spotify.com/album/0NPTQWIsR2doVbxKgmdZcz"
       },
@@ -812,6 +1032,42 @@
       "duration_ms": 285653,
       "name": "S\u00f8tten \u00e5r",
       "url": "https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3"
+    },
+    {
+      "album": {
+        "name": "Tapt Paradis",
+        "url": "https://open.spotify.com/album/1gXiFPsVZDEMa2supiGnjx"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386333,
+      "name": "Tapt Paradis",
+      "url": "https://open.spotify.com/track/5nxWnKvhtGxvPl7tkR9jvi"
+    },
+    {
+      "album": {
+        "name": "Tar du imot meg? - en flyktning synger H\u00e4ndel",
+        "url": "https://open.spotify.com/album/1SXDYfUkGECaWM5V6WVaYT"
+      },
+      "artists": [
+        {
+          "name": "Lars Martin Myhre",
+          "url": "https://open.spotify.com/artist/5pmGOqAGCrrD4Y89zUJknI"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217453,
+      "name": "Tar du i mot meg? - en flyktning synger H\u00e4ndel",
+      "url": "https://open.spotify.com/track/67O3bDK9Euq9EuqEDSIuFM"
     },
     {
       "album": {
@@ -896,6 +1152,28 @@
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/42ABcWYV6yzewALbyw4eEF"
+    },
+    {
+      "album": {
+        "name": "Synger Grieg med Bugge",
+        "url": "https://open.spotify.com/album/3HdAF62AQQmTxrTA7qzimL"
+      },
+      "artists": [
+        {
+          "name": "Lars Lillo-Stenberg",
+          "url": "https://open.spotify.com/artist/0NQ2GtKrBJ7KXkVcMUeZU4"
+        },
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Ved Rondane",
+      "url": "https://open.spotify.com/track/3HLVO8u3OJTqkmlqpcjFyt"
     },
     {
       "album": {

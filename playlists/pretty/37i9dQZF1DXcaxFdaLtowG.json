@@ -1,40 +1,32 @@
 {
   "description": "The legendary Bollywood singer's classics.",
   "name": "This Is Asha Bhosle",
-  "num_followers": 21442,
+  "num_followers": 21495,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDY1MzE4OCwwMDAwMDAwMDFlMGRjNDBlZmViNzE4NjcwOGIwNjBmNGY3ZjEzY2U3",
+  "snapshot_id": "MTY0MDczODYyNiwwMDAwMDAwMDdjMTAyY2NjMTUxMWRjZDc2YTc4NzJmMDgyMDA2NTQ1",
   "tracks": [
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Yaadon Ki Baaraat",
-        "url": "https://open.spotify.com/album/7lvval1dYHbpAAGm0pzSDr"
+        "name": "Top Mohammed Rafi (Remastered)",
+        "url": "https://open.spotify.com/album/308bR3iQF9DIhCLBylkZEs"
       },
       "artists": [
         {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
           "name": "Asha Bhosle",
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Zeenat Aman",
-          "url": "https://open.spotify.com/artist/1sHUscd4sd03BO3QaGauYE"
-        },
-        {
-          "name": "Anil Dhawan",
-          "url": "https://open.spotify.com/artist/3ELP64MFW761SWJWoR90v9"
-        },
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 314253,
-      "name": "Chura Liya Hai Tumne Jo Dil Ko With Dialogues",
-      "url": "https://open.spotify.com/track/4G7mYDYTIOKFvQ12HSRwNE"
+      "duration_ms": 275015,
+      "name": "Chura Liya Hai Tum Ne Jo Dil Ko (From Yaadon Ki Baaraat )",
+      "url": "https://open.spotify.com/track/5E2N7r35SOxlt8WpxNFYcG"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -55,30 +47,26 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Shaan",
-        "url": "https://open.spotify.com/album/7gvT1psTdUXs1WtgZmyBDe"
+        "name": "Aradhana",
+        "url": "https://open.spotify.com/album/6JMDMWGW8AZu0J2IRHUQWA"
       },
       "artists": [
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        },
         {
           "name": "Asha Bhosle",
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         },
         {
-          "name": "Usha Mangeshkar",
-          "url": "https://open.spotify.com/artist/3R2OMv8JpXLy6ZIW7Qxz59"
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "S. D. Burman",
+          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
         }
       ],
-      "duration_ms": 426506,
-      "name": "Janu Meri Jaan - Shaan / Soundtrack Version",
-      "url": "https://open.spotify.com/track/3mLhme6vdUX2wTgv7cVUtb"
+      "duration_ms": 233299,
+      "name": "Gun Guna Rahe Hai Bhanvare",
+      "url": "https://open.spotify.com/track/7C5ni0UvBhAORIMKgcpbf9"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -107,50 +95,6 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Jeeva (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1cVjMpF7djd8SgTnRZo3Fu"
-      },
-      "artists": [
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        },
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Amit Kumar",
-          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
-        }
-      ],
-      "duration_ms": 479686,
-      "name": "Roj Roj Aankhon Tale",
-      "url": "https://open.spotify.com/track/0Zi7sEsBzNZXPb39JzurlN"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/6SgnpI7uyQkDr8F1TzmR66"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Kalyanji-Anandji",
-          "url": "https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq"
-        }
-      ],
-      "duration_ms": 253773,
-      "name": "Yeh Mera Dil Yaar Ka Diwana",
-      "url": "https://open.spotify.com/track/4vJIdH3pjMCnFOiEEpWpB3"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
         "name": "Utsav (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5pn21vv9EAB6IVA2DuUxk1"
       },
@@ -175,18 +119,22 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Namak Halaal",
-        "url": "https://open.spotify.com/album/6GlN0CagcUrcVteJChncZE"
+        "name": "Naya Daur",
+        "url": "https://open.spotify.com/album/2IbrOFdDiFrSb5IProlmIj"
       },
       "artists": [
         {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         }
       ],
-      "duration_ms": 411160,
-      "name": "Thodisi Jo Pee Lee Hai",
-      "url": "https://open.spotify.com/track/2kfi9465WRbNRTmlQuMGqS"
+      "duration_ms": 295926,
+      "name": "Uden Jab Jab Zulfen Teri",
+      "url": "https://open.spotify.com/track/0xDdcB0gypop2DwJU2O1xG"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -220,21 +168,37 @@
       },
       "artists": [
         {
-          "name": "Shashi Kapoor",
-          "url": "https://open.spotify.com/artist/0CfWyW7pOVz3vD42BOBdHM"
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "duration_ms": 411160,
+      "name": "Thodisi Jo Pee Lee Hai",
+      "url": "https://open.spotify.com/track/2kfi9465WRbNRTmlQuMGqS"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Jeeva (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1cVjMpF7djd8SgTnRZo3Fu"
+      },
+      "artists": [
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         },
         {
           "name": "Asha Bhosle",
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         },
         {
-          "name": "Bappi Lahiri",
-          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+          "name": "Amit Kumar",
+          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
         }
       ],
-      "duration_ms": 379813,
-      "name": "Raat Baaqi Baat Baaqi",
-      "url": "https://open.spotify.com/track/0uYROCXW2Eo3HCBK3lROBd"
+      "duration_ms": 479686,
+      "name": "Roj Roj Aankhon Tale",
+      "url": "https://open.spotify.com/track/0Zi7sEsBzNZXPb39JzurlN"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -291,22 +255,50 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Naya Daur",
-        "url": "https://open.spotify.com/album/2IbrOFdDiFrSb5IProlmIj"
+        "name": "Namak Halaal",
+        "url": "https://open.spotify.com/album/6GlN0CagcUrcVteJChncZE"
       },
       "artists": [
         {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+          "name": "Shashi Kapoor",
+          "url": "https://open.spotify.com/artist/0CfWyW7pOVz3vD42BOBdHM"
         },
         {
           "name": "Asha Bhosle",
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
         }
       ],
-      "duration_ms": 295926,
-      "name": "Uden Jab Jab Zulfen Teri",
-      "url": "https://open.spotify.com/track/0xDdcB0gypop2DwJU2O1xG"
+      "duration_ms": 379813,
+      "name": "Raat Baaqi Baat Baaqi",
+      "url": "https://open.spotify.com/track/0uYROCXW2Eo3HCBK3lROBd"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Khel Khel Mein",
+        "url": "https://open.spotify.com/album/5ow6tD5KwB9SKdfjsDKAga"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Ek Main Aur Ek Tu",
+      "url": "https://open.spotify.com/track/0m23fTE5D9lfYyVyfm5RoL"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -335,32 +327,36 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Yaadon Ki Baaraat",
-        "url": "https://open.spotify.com/album/7lvval1dYHbpAAGm0pzSDr"
+        "name": "Shaan",
+        "url": "https://open.spotify.com/album/7gvT1psTdUXs1WtgZmyBDe"
       },
       "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
         {
           "name": "Mohammed Rafi",
           "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
         },
         {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Usha Mangeshkar",
+          "url": "https://open.spotify.com/artist/3R2OMv8JpXLy6ZIW7Qxz59"
         }
       ],
-      "duration_ms": 287840,
-      "name": "Chura Liya Hai Tumne Jo Dil Ko",
-      "url": "https://open.spotify.com/track/2yRBJpAD66GuNRKQ8bKXtY"
+      "duration_ms": 426506,
+      "name": "Janu Meri Jaan - Shaan / Soundtrack Version",
+      "url": "https://open.spotify.com/track/3mLhme6vdUX2wTgv7cVUtb"
     },
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Purani Jeans Kishore Collection (Vol.1)",
-        "url": "https://open.spotify.com/album/47qD2FJ63mexaYJTKRmOoI"
+        "name": "Dilli Ka Thug",
+        "url": "https://open.spotify.com/album/45Fd3urpMLMCbjqiHYWEBD"
       },
       "artists": [
         {
@@ -372,9 +368,9 @@
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         }
       ],
-      "duration_ms": 221920,
-      "name": "Kehdoon Tumhen - From \"Deewaar\"",
-      "url": "https://open.spotify.com/track/5frRYI0khL5GH9SF02iKSy"
+      "duration_ms": 201160,
+      "name": "Yeh Raaten Yeh Mausam",
+      "url": "https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -447,6 +443,26 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
+        "name": "Aitbaar",
+        "url": "https://open.spotify.com/album/2Fa8CRd9mRqvbyEmRdBZt3"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Bhupinder",
+          "url": "https://open.spotify.com/artist/0LeUpBwj8bn5l7YR5RNK3R"
+        }
+      ],
+      "duration_ms": 404106,
+      "name": "Kisi Nazar Ko Tera Intezar",
+      "url": "https://open.spotify.com/track/04Erz9shwLnOL55apcDEAG"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
         "name": "Caravan",
         "url": "https://open.spotify.com/album/7EV3gFg3EXqdp1mbnDMUuS"
       },
@@ -471,32 +487,8 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Hum Kisise Kum Naheen",
-        "url": "https://open.spotify.com/album/3cX3m40aOlPHvHV05TzDkO"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        }
-      ],
-      "duration_ms": 329720,
-      "name": "Ye Ladka Hay Allah Kaisa Hai Diwana",
-      "url": "https://open.spotify.com/track/43vzwkho3DVRDhXyp79tOJ"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Master Blaster - Asha Bhosle",
-        "url": "https://open.spotify.com/album/1a6ATBfFr0KT08XOpjz3dK"
+        "name": "Purani Jeans Kishore Collection (Vol.1)",
+        "url": "https://open.spotify.com/album/47qD2FJ63mexaYJTKRmOoI"
       },
       "artists": [
         {
@@ -508,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         }
       ],
-      "duration_ms": 356586,
-      "name": "Dillagi Ne Di Hawa - From Dostana",
-      "url": "https://open.spotify.com/track/4kpyNMvKPLD1mbCxbH8n8d"
+      "duration_ms": 221920,
+      "name": "Kehdoon Tumhen - From \"Deewaar\"",
+      "url": "https://open.spotify.com/track/5frRYI0khL5GH9SF02iKSy"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -575,42 +567,26 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Top Mohammed Rafi (Remastered)",
-        "url": "https://open.spotify.com/album/308bR3iQF9DIhCLBylkZEs"
+        "name": "Hum Kisise Kum Naheen",
+        "url": "https://open.spotify.com/album/3cX3m40aOlPHvHV05TzDkO"
       },
       "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
         {
           "name": "Mohammed Rafi",
           "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
         },
         {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 275015,
-      "name": "Chura Liya Hai Tum Ne Jo Dil Ko (From Yaadon Ki Baaraat )",
-      "url": "https://open.spotify.com/track/5E2N7r35SOxlt8WpxNFYcG"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Baton Baton Mein",
-        "url": "https://open.spotify.com/album/0xzbISh3qrD67H4jqBTnHr"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Amit Kumar",
-          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
-        }
-      ],
-      "duration_ms": 211617,
-      "name": "Na Bole Tum Na Maine Kuchh Kaha",
-      "url": "https://open.spotify.com/track/4JvuEZPB6C7ZQ8XFUmFLJ4"
+      "duration_ms": 329720,
+      "name": "Ye Ladka Hay Allah Kaisa Hai Diwana",
+      "url": "https://open.spotify.com/track/43vzwkho3DVRDhXyp79tOJ"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -635,8 +611,8 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Chhail Chhabeela",
-        "url": "https://open.spotify.com/album/6RkDoxP5yAse82RzourKxt"
+        "name": "Teesri Manzil",
+        "url": "https://open.spotify.com/album/62V4SVnyV18fi2aGhHZQku"
       },
       "artists": [
         {
@@ -644,89 +620,17 @@
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         },
         {
-          "name": "Shabbir Kumar",
-          "url": "https://open.spotify.com/artist/3M8OKPsQvP1U8WkG5lY4Vy"
-        }
-      ],
-      "duration_ms": 474749,
-      "name": "O Mundeya Mainnu Das De",
-      "url": "https://open.spotify.com/track/7xblHcDxpqpkGim0NOl7Ni"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Mere Sanam",
-        "url": "https://open.spotify.com/album/2PUgKWiQr6smLPGGRhChOo"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Yeh Hai Reshmi Zulfon Ka Andhera",
-      "url": "https://open.spotify.com/track/5cW39Th955ZBQQXipdl6GP"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Umrao Jaan",
-        "url": "https://open.spotify.com/album/287E82IXHXGCN742yboFbb"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        }
-      ],
-      "duration_ms": 343453,
-      "name": "In Ankhon Ki Masti",
-      "url": "https://open.spotify.com/track/0gWDDSHXescfwtvkx6pYJQ"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Dilli Ka Thug",
-        "url": "https://open.spotify.com/album/45Fd3urpMLMCbjqiHYWEBD"
-      },
-      "artists": [
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        },
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Yeh Raaten Yeh Mausam",
-      "url": "https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Khel Khel Mein",
-        "url": "https://open.spotify.com/album/5ow6tD5KwB9SKdfjsDKAga"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
         },
         {
           "name": "R. D. Burman",
           "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 290146,
-      "name": "Ek Main Aur Ek Tu",
-      "url": "https://open.spotify.com/track/0m23fTE5D9lfYyVyfm5RoL"
+      "duration_ms": 415236,
+      "name": "O Haseena Zulfonwale Jane Jahan",
+      "url": "https://open.spotify.com/track/6kXGGT1zngi3GsxgCbxclU"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -747,6 +651,74 @@
       "duration_ms": 257706,
       "name": "Abhi na jao chhod kar",
       "url": "https://open.spotify.com/track/1lT4nCJVT3mlW6HuZCle6p"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Buddha Mil Gaya",
+        "url": "https://open.spotify.com/album/0mX9Ey6vkMQMMeSGccOgzm"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 288315,
+      "name": "Bhali Bhali Si Ek Surat",
+      "url": "https://open.spotify.com/track/1K5cHoOpTCuKdvaANsWrDp"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Baton Baton Mein",
+        "url": "https://open.spotify.com/album/0xzbISh3qrD67H4jqBTnHr"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Amit Kumar",
+          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
+        }
+      ],
+      "duration_ms": 211617,
+      "name": "Na Bole Tum Na Maine Kuchh Kaha",
+      "url": "https://open.spotify.com/track/4JvuEZPB6C7ZQ8XFUmFLJ4"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Paying Guest",
+        "url": "https://open.spotify.com/album/4wAP1tDAOmmTYLhxiLHcJa"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "S. D. Burman",
+          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "Chhod Do Aanchal Zamana Kya Kahega",
+      "url": "https://open.spotify.com/track/4gSg57VPQCijuhSlyGq1hN"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -788,15 +760,35 @@
           "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 415236,
-      "name": "O Haseena Zulfonwale Jane Jahan",
-      "url": "https://open.spotify.com/track/6kXGGT1zngi3GsxgCbxclU"
+      "duration_ms": 300088,
+      "name": "O Mere Sona Re Sona",
+      "url": "https://open.spotify.com/track/3wY157vtLumAlFxBKTeInE"
     },
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Caravan",
-        "url": "https://open.spotify.com/album/7EV3gFg3EXqdp1mbnDMUuS"
+        "name": "Timeless Kishore",
+        "url": "https://open.spotify.com/album/2SqCHkwHu08ODngct8JRRv"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "duration_ms": 353106,
+      "name": "Jaane Jaan Dhoondata - From \"Jawani Diwani\"",
+      "url": "https://open.spotify.com/track/6Fdg2TXeZes5rSYYfrJ1hV"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Audiobiography",
+        "url": "https://open.spotify.com/album/7CvDdMoS3ZgmlPVNE56eMd"
       },
       "artists": [
         {
@@ -804,13 +796,13 @@
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         },
         {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
         }
       ],
-      "duration_ms": 312466,
-      "name": "Daiya Yeh Main Kahan Phasi",
-      "url": "https://open.spotify.com/track/4BEj7I354g1DtdJA78B0GR"
+      "duration_ms": 276133,
+      "name": "Kya Dekhte Ho - From \"Qurbani\"",
+      "url": "https://open.spotify.com/track/2DVbXBwctoSZ8IMX6JilBe"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -835,8 +827,24 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Hum Kisise Kum Naheen",
-        "url": "https://open.spotify.com/album/3cX3m40aOlPHvHV05TzDkO"
+        "name": "Muqaddar Ka Sikandar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Uvb08lPZhexcv1mYGe7L5"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "duration_ms": 335005,
+      "name": "O Saathi Re - Female Vocals",
+      "url": "https://open.spotify.com/track/1dYOciuxgvYcepVR1ZmQNk"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Satte Pe Satta",
+        "url": "https://open.spotify.com/album/1a6VZwmYX6TwvQOTdkvKgJ"
       },
       "artists": [
         {
@@ -850,11 +858,83 @@
         {
           "name": "R. D. Burman",
           "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Bhupinder Singh",
+          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
+        },
+        {
+          "name": "Sapan Chakraborty",
+          "url": "https://open.spotify.com/artist/7z3MqKz5P7DjYSEIRHMSws"
+        },
+        {
+          "name": "Basu",
+          "url": "https://open.spotify.com/artist/0KEPRHdQVOWu0XcQQ9VCvn"
         }
       ],
-      "duration_ms": 232146,
-      "name": "Mil Gaya Humko Saathi Mil Gaya",
-      "url": "https://open.spotify.com/track/0rIN0YJe3Zxjz4x3jpKHeN"
+      "duration_ms": 345480,
+      "name": "Dukki Pe Dukki Ho - From 'Satte Pe Satta' / Soundtrack Version",
+      "url": "https://open.spotify.com/track/4rJn0Bgx9w9Z1chKR3MHpn"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Ijaazat",
+        "url": "https://open.spotify.com/album/6Ai791nEFNPtZfs8oHY0Zj"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 398973,
+      "name": "Mera Kuchh Samaan",
+      "url": "https://open.spotify.com/track/2en58opvPKM0Ek6OFpcGJx"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Yaadon Ki Baaraat",
+        "url": "https://open.spotify.com/album/7lvval1dYHbpAAGm0pzSDr"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Chura Liya Hai Tumne Jo Dil Ko",
+      "url": "https://open.spotify.com/track/2yRBJpAD66GuNRKQ8bKXtY"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Umrao Jaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "duration_ms": 370026,
+      "name": "Dil Cheez Kya Hai",
+      "url": "https://open.spotify.com/track/3BERM98uzP2orrHk96PPvS"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -879,34 +959,62 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Aitbaar",
-        "url": "https://open.spotify.com/album/2Fa8CRd9mRqvbyEmRdBZt3"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Bhupinder",
-          "url": "https://open.spotify.com/artist/0LeUpBwj8bn5l7YR5RNK3R"
-        }
-      ],
-      "duration_ms": 404106,
-      "name": "Kisi Nazar Ko Tera Intezar",
-      "url": "https://open.spotify.com/track/04Erz9shwLnOL55apcDEAG"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Pukar",
-        "url": "https://open.spotify.com/album/6mLcUrX2fVlMwC1nQzouOW"
+        "name": "Master Blaster - Asha Bhosle",
+        "url": "https://open.spotify.com/album/1a6ATBfFr0KT08XOpjz3dK"
       },
       "artists": [
         {
           "name": "Kishore Kumar",
           "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
         },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "duration_ms": 356586,
+      "name": "Dillagi Ne Di Hawa - From Dostana",
+      "url": "https://open.spotify.com/track/4kpyNMvKPLD1mbCxbH8n8d"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Namak Halaal",
+        "url": "https://open.spotify.com/album/6GlN0CagcUrcVteJChncZE"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "duration_ms": 335958,
+      "name": "Jawani Jan-E-Man",
+      "url": "https://open.spotify.com/track/6X4bexIzuwXBaqBTyRROB0"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Umrao Jaan",
+        "url": "https://open.spotify.com/album/287E82IXHXGCN742yboFbb"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "duration_ms": 343453,
+      "name": "In Ankhon Ki Masti",
+      "url": "https://open.spotify.com/track/0gWDDSHXescfwtvkx6pYJQ"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/4ubLVMeFUL1uaW5DbDfUta"
+      },
+      "artists": [
         {
           "name": "Asha Bhosle",
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
@@ -916,125 +1024,9 @@
           "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 384360,
-      "name": "Bachke Rehna Re Baba - Pukar / Soundtrack Version",
-      "url": "https://open.spotify.com/track/2wK3g7TTQa9AJMKcuYKbon"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Teesri Manzil",
-        "url": "https://open.spotify.com/album/62V4SVnyV18fi2aGhHZQku"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        }
-      ],
-      "duration_ms": 300088,
-      "name": "O Mere Sona Re Sona",
-      "url": "https://open.spotify.com/track/3wY157vtLumAlFxBKTeInE"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Chalti Ka Naam Gaadi",
-        "url": "https://open.spotify.com/album/6fDgdTncQer8TPTu8T7snN"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        },
-        {
-          "name": "S. D. Burman",
-          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
-        }
-      ],
-      "duration_ms": 264706,
-      "name": "Haal Kaisa Hai Janab Ka",
-      "url": "https://open.spotify.com/track/3uvvmqUNKEzZtZWOQrQqq0"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Kala Pani",
-        "url": "https://open.spotify.com/album/7mJh1ocWFwnqzNNtHzhzVo"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "S. D. Burman",
-          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Achha Ji Main Haari Chalo",
-      "url": "https://open.spotify.com/track/5ceKyCGIpjceDJhOT9pE7r"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Aradhana",
-        "url": "https://open.spotify.com/album/6JMDMWGW8AZu0J2IRHUQWA"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "S. D. Burman",
-          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
-        }
-      ],
-      "duration_ms": 233299,
-      "name": "Gun Guna Rahe Hai Bhanvare",
-      "url": "https://open.spotify.com/track/7C5ni0UvBhAORIMKgcpbf9"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Magical Moments",
-        "url": "https://open.spotify.com/album/24lMAJGFDJpS4c96bRqzMk"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        }
-      ],
-      "duration_ms": 338226,
-      "name": "Maar Gayi Mujhe Teree Judaai - From \"Judaai\"",
-      "url": "https://open.spotify.com/track/0D78yIXerrhTPpJEMO9mRs"
+      "duration_ms": 205191,
+      "name": "Kya Ghazab Karte Ho Ji",
+      "url": "https://open.spotify.com/track/2NJar6TvqiITh3XhuPzHH0"
     },
     {
       "added_at": "2021-09-15 07:15:06",
@@ -1059,42 +1051,46 @@
     {
       "added_at": "2021-09-15 07:15:06",
       "album": {
-        "name": "Shree 420",
-        "url": "https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE"
+        "name": "Khel Khel Mein",
+        "url": "https://open.spotify.com/album/5ow6tD5KwB9SKdfjsDKAga"
       },
       "artists": [
         {
           "name": "Asha Bhosle",
           "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
         },
-        {
-          "name": "Manna Dey",
-          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
-        }
-      ],
-      "duration_ms": 349622,
-      "name": "Mud Mud Ke Na Dekh Mud Mud Ke",
-      "url": "https://open.spotify.com/track/2CVbWaV06m6bE5HTTOyjV4"
-    },
-    {
-      "added_at": "2021-09-15 07:15:06",
-      "album": {
-        "name": "Timeless Kishore",
-        "url": "https://open.spotify.com/album/2SqCHkwHu08ODngct8JRRv"
-      },
-      "artists": [
         {
           "name": "Kishore Kumar",
           "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
         },
         {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 353106,
-      "name": "Jaane Jaan Dhoondata - From \"Jawani Diwani\"",
-      "url": "https://open.spotify.com/track/6Fdg2TXeZes5rSYYfrJ1hV"
+      "duration_ms": 316466,
+      "name": "Khullam Khulla Pyar Karenge",
+      "url": "https://open.spotify.com/track/05wx2CKrtC8ziwKa0HUuHm"
+    },
+    {
+      "added_at": "2021-09-15 07:15:06",
+      "album": {
+        "name": "Jewel Thief",
+        "url": "https://open.spotify.com/album/4jZrGQuOgNfS4oAHHPmaNa"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "S. D. Burman",
+          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
+        }
+      ],
+      "duration_ms": 317880,
+      "name": "Raat Akeli Hai Bujh Gaye Die",
+      "url": "https://open.spotify.com/track/7dTO8sygT29fjknptjtL8j"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcaxFdaLtowG"

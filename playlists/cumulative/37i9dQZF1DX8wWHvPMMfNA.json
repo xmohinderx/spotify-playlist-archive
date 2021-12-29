@@ -230,10 +230,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 216640,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ"
+    },
+    {
+      "album": {
+        "name": "The Procrastinator",
+        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415360,
+      "name": "Dear Sir",
+      "url": "https://open.spotify.com/track/3HHAG4smOvTfKfkDqpBe7X"
     },
     {
       "album": {

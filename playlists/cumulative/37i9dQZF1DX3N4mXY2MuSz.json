@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "Punk Goes Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0p6PEWx2uh0CiGHZ0mebKd"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Alonge",
+          "url": "https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207255,
+      "name": "12 Days of a Pop-Punk Christmas",
+      "url": "https://open.spotify.com/track/1a2mtUawZqoRyk89h651U1"
+    },
+    {
+      "album": {
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/63QIhwRmBIAkVk80gz1rN0"
+      },
+      "artists": [
+        {
+          "name": "The Dollyrots",
+          "url": "https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164655,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
+    },
+    {
+      "album": {
         "name": "Gift Wrapped: 20 Songs That Keep On Giving",
         "url": "https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY"
       },
@@ -34,7 +70,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 224586,
       "name": "All I Want for Christmas Is You - 2005",
       "url": "https://open.spotify.com/track/48wRnWDekEx5bCOA9oeVF4"
@@ -56,6 +92,24 @@
       "duration_ms": 175453,
       "name": "Alone This Holiday",
       "url": "https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM"
+    },
+    {
+      "album": {
+        "name": "Angels We Have Heard On High",
+        "url": "https://open.spotify.com/album/5I62hbC0Y0xxSJ8Xj9LKJ3"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158493,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/469YC4Vq8lAhCsightbkDH"
     },
     {
       "album": {
@@ -124,7 +178,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 239306,
       "name": "Boxing Day",
       "url": "https://open.spotify.com/track/0HQLq1DUWyhMN2gWXBQ89Y"
@@ -146,6 +200,24 @@
       "duration_ms": 107063,
       "name": "Carol Of The Beers",
       "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
+    },
+    {
+      "album": {
+        "name": "Christmas Spirit...In My House",
+        "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
     },
     {
       "album": {
@@ -196,7 +268,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 201827,
       "name": "Christmas Brings Me Down",
       "url": "https://open.spotify.com/track/1I4qVaU1b7qPwUYdOgzaP7"
@@ -239,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Christmas Lullaby",
+        "url": "https://open.spotify.com/album/4QCofUG55C0lck6URon2Pn"
+      },
+      "artists": [
+        {
+          "name": "CJ Ramone",
+          "url": "https://open.spotify.com/artist/3jVd6Z5yEh5SSdvzkzUbUp"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184532,
+      "name": "Christmas Lullaby",
+      "url": "https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq"
+    },
+    {
+      "album": {
         "name": "Christmas Song",
         "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
       },
@@ -250,7 +340,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 174000,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
@@ -290,6 +380,28 @@
       "duration_ms": 171145,
       "name": "Christmas, Baby Please Come Home",
       "url": "https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt"
+    },
+    {
+      "album": {
+        "name": "Come on Christmas",
+        "url": "https://open.spotify.com/album/4ZHVwJlVzsiSr5E9Vow4lX"
+      },
+      "artists": [
+        {
+          "name": "Auralnauts",
+          "url": "https://open.spotify.com/artist/6ua5bXYLeRXtovhoxtYzdX"
+        },
+        {
+          "name": "Willeson",
+          "url": "https://open.spotify.com/artist/2Ng2jaFTEumoW4umXLpb1v"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240846,
+      "name": "Come on Christmas",
+      "url": "https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6"
     },
     {
       "album": {
@@ -340,7 +452,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 81080,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/72SMf00Vym1waEzDIvp7kK"
@@ -358,10 +470,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 216609,
       "name": "Ex-Miss",
       "url": "https://open.spotify.com/track/5ePMKmAPkbS0TiSHbH6nGO"
+    },
+    {
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
+      },
+      "artists": [
+        {
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209566,
+      "name": "Father Christmas",
+      "url": "https://open.spotify.com/track/0OjYZyTNS29ITihMR93RT2"
     },
     {
       "album": {
@@ -556,7 +686,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 221040,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg"
@@ -578,6 +708,24 @@
       "duration_ms": 183000,
       "name": "Holiday Records",
       "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
+    },
+    {
+      "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159752,
+      "name": "I Had a Heart",
+      "url": "https://open.spotify.com/track/5TRyTuddHqiyP9MN2Wv7Zr"
     },
     {
       "album": {
@@ -610,7 +758,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 197133,
       "name": "I Won't Be Home For Christmas",
       "url": "https://open.spotify.com/track/4biAdEhtvPPBYa4ryLFR5t"
@@ -744,10 +892,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 207213,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/0m1CYy1kamZJZqHvuRG7Dh"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/7gMcoHELaPG7uhvMVNOWIo"
+      },
+      "artists": [
+        {
+          "name": "The Tossers",
+          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303139,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/5EcEAeUw7wiMUhiyvsXhDB"
     },
     {
       "album": {
@@ -913,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Punk Rawk Christmas",
+        "url": "https://open.spotify.com/album/03Yu39wnJq2h27z71bbrJn"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Punk Rawk Christmas",
+      "url": "https://open.spotify.com/track/0qyUkrTBc82ho8PQIdBILl"
+    },
+    {
+      "album": {
         "name": "Attack of the Killer B-Sides",
         "url": "https://open.spotify.com/album/6vzC3ouCJBHTO5KqQ2lnea"
       },
@@ -924,7 +1108,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 222653,
       "name": "Right Where You Want Me to Be",
       "url": "https://open.spotify.com/track/1pcL2LXuaO01180QkIxkSG"
@@ -964,6 +1148,24 @@
       "duration_ms": 159133,
       "name": "Rudy Christmas A Jail",
       "url": "https://open.spotify.com/track/1iICcD096UT9ckrlTent5j"
+    },
+    {
+      "album": {
+        "name": "Cool Tide Carrolls",
+        "url": "https://open.spotify.com/album/6TpqnjXLkdjjjzhnvKkHSg"
+      },
+      "artists": [
+        {
+          "name": "Burning Nickels",
+          "url": "https://open.spotify.com/artist/4IEPtQMika3qFNFPAFHrSZ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150136,
+      "name": "Rum Nogs",
+      "url": "https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6"
     },
     {
       "album": {
@@ -1014,7 +1216,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 192440,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl"
@@ -1032,7 +1234,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 216115,
       "name": "Snow",
       "url": "https://open.spotify.com/track/4DOeT5Ilj6zK1F4HUxzXK8"
@@ -1057,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Christmas Spirit...In My House",
+        "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122093,
+      "name": "Spirit In My House",
+      "url": "https://open.spotify.com/track/4SU6JMTMcMg9e1K3Ic5kdD"
+    },
+    {
+      "album": {
         "name": "sympathy 4 the grinch",
         "url": "https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt"
       },
@@ -1068,7 +1288,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 131780,
       "name": "sympathy 4 the grinch",
       "url": "https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB"
@@ -1328,7 +1548,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Remastered 2011 / Edited Version",
       "url": "https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7"
@@ -1353,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "X-mas Has Been X'ed",
+      "url": "https://open.spotify.com/track/36xdZ8BJLBHs3dXpeSwg2x"
+    },
+    {
+      "album": {
         "name": "Horror Xmas",
         "url": "https://open.spotify.com/album/2To5Y08bzMfSKgssrxaGqp"
       },
@@ -1368,6 +1606,24 @@
       "duration_ms": 132637,
       "name": "You're a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/0idMyK2CdvZSPmDDZjCseL"
+    },
+    {
+      "album": {
+        "name": "Believers Never Die - Greatest Hits",
+        "url": "https://open.spotify.com/album/1uIgPRSggJqaVxJAwUpPok"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221013,
+      "name": "Yule Shoot Your Eye Out - Bonus Track",
+      "url": "https://open.spotify.com/track/0YIyNI01NwcDANAruPq7bg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3N4mXY2MuSz"

@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 305360,
       "name": "B.L.M",
       "url": "https://open.spotify.com/track/5jvVBreQOSEW2r78oC0CoZ"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 194825,
       "name": "Beatdown Generation",
       "url": "https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 128893,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/1G0sX22yArZuXOQV2O5Qyr"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 206163,
       "name": "Cold in the City",
       "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 194840,
       "name": "Delinquent Song",
       "url": "https://open.spotify.com/track/44XOi657umNvDxNw8JvljD"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 254720,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 157306,
       "name": "El Coo Cooi",
       "url": "https://open.spotify.com/track/0zlopFajzHstoO61ahQ5eG"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 102826,
       "name": "Friday",
       "url": "https://open.spotify.com/track/7IjLHbXOVXZNxJiiNHL6hF"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 95500,
       "name": "Future Version",
       "url": "https://open.spotify.com/track/03VKi7ZYa1pvUKeZ8TfrOP"
@@ -665,6 +665,42 @@
     },
     {
       "album": {
+        "name": "Gym Rat",
+        "url": "https://open.spotify.com/album/738JSEWRZmyRuF5HUJ3uyI"
+      },
+      "artists": [
+        {
+          "name": "Cherry Poppin' Daddies",
+          "url": "https://open.spotify.com/artist/1stGNsBocVFM9MfQtySETw"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Gym Rat",
+      "url": "https://open.spotify.com/track/3bAhlP0RhgkiX7zS3bRcZh"
+    },
+    {
+      "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/1QPu6Qxn7usNRPzTP7dEqz"
+      },
+      "artists": [
+        {
+          "name": "Rundown Kreeps",
+          "url": "https://open.spotify.com/artist/381G0ZYECiMOAbCfo8VTvM"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184550,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/4nmFwseaCqbT3PZ1Vz92mw"
+    },
+    {
+      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/0KWBkdZl57m7EJK9AWJcxm"
       },
@@ -676,7 +712,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 164092,
       "name": "Hello Again",
       "url": "https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA"
@@ -712,7 +748,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 226413,
       "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
       "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
@@ -784,7 +820,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 200470,
       "name": "I Don't Wanna Go",
       "url": "https://open.spotify.com/track/4zwvaQEyXRf2EZfEStlN0u"
@@ -802,7 +838,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 211511,
       "name": "I Think I've Had an Apostrophe",
       "url": "https://open.spotify.com/track/4xEzJmAo1s5VqW1iLW1kxf"
@@ -824,6 +860,24 @@
       "duration_ms": 124296,
       "name": "If I Could Only Listen to My Heart",
       "url": "https://open.spotify.com/track/0bIcOHJmmumvvdsHmnFEy1"
+    },
+    {
+      "album": {
+        "name": "Until This Shakes Apart",
+        "url": "https://open.spotify.com/album/1NBcD5YIWTEo4Lp4t7xK5V"
+      },
+      "artists": [
+        {
+          "name": "Five Iron Frenzy",
+          "url": "https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190421,
+      "name": "In Through the out Door",
+      "url": "https://open.spotify.com/track/1iBqOig7UJw4KP0Sb9vDlE"
     },
     {
       "album": {
@@ -928,7 +982,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 204534,
       "name": "Libriyum",
       "url": "https://open.spotify.com/track/7M4lhJlyieKjpi5LLhpDgw"
@@ -982,7 +1036,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 143630,
       "name": "Livin' the Apocalypse",
       "url": "https://open.spotify.com/track/78OHoxC6DGg05MVo5ly1wh"
@@ -1018,7 +1072,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 221400,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp"
@@ -1108,7 +1162,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
@@ -1144,7 +1198,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 190333,
       "name": "Mirror In the Bathroom",
       "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
@@ -1180,7 +1234,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 182256,
       "name": "Morbid Obsessions",
       "url": "https://open.spotify.com/track/3C54o5nN9ceHwab9tH2EWh"
@@ -1288,7 +1342,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 240186,
       "name": "No Place Like (Not Being) Home",
       "url": "https://open.spotify.com/track/2b8JJGU8BxKcxuk7HUHXqa"
@@ -1378,7 +1432,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 148936,
       "name": "Parallelograms",
       "url": "https://open.spotify.com/track/7bi2zhU91Ln6ZfLsHAR3Tb"
@@ -1432,7 +1486,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 160173,
       "name": "Random I Am",
       "url": "https://open.spotify.com/track/6KD0rivlHgYNgjGtA3pFIW"
@@ -1706,7 +1760,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 186092,
       "name": "Sorry I'm Not Sorry",
       "url": "https://open.spotify.com/track/0Mw4u65T9yresmckoafAa6"
@@ -1724,7 +1778,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 194640,
       "name": "Sound of a Revolution",
       "url": "https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr"
@@ -1760,7 +1814,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 72600,
       "name": "Step One",
       "url": "https://open.spotify.com/track/4DuqrGxVmRTBqhDv8yTTKZ"
@@ -1796,7 +1850,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 220580,
       "name": "Strange Days",
       "url": "https://open.spotify.com/track/7oHNMdhyc1cmPhI0cF15We"
@@ -2154,7 +2208,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 192093,
       "name": "Turning Japanese",
       "url": "https://open.spotify.com/track/7rn79EumoC0ANZSpo1iqMD"
@@ -2172,7 +2226,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 204641,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo"
@@ -2262,7 +2316,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 188250,
       "name": "Wake Up, The Monster Said",
       "url": "https://open.spotify.com/track/3LyhwdYWw11L7evg7EliIl"
@@ -2460,7 +2514,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 164586,
       "name": "You Don't Know Anything About Me",
       "url": "https://open.spotify.com/track/1GHBEny7Y5XkYC3qaHXYsO"
@@ -2496,7 +2550,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 165418,
       "name": "Your Way, Your Time",
       "url": "https://open.spotify.com/track/3BS3XXGm0TJfSbwGzoYzN6"

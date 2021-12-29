@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "9 PM",
+        "url": "https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F"
+      },
+      "artists": [
+        {
+          "name": "COLIN",
+          "url": "https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "9 PM",
+      "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
+    },
+    {
+      "album": {
         "name": "Adore",
         "url": "https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 146309,
       "name": "Africa to the World",
       "url": "https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq"
@@ -70,7 +88,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 144000,
       "name": "Agoura Eyes",
       "url": "https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7"
@@ -110,7 +128,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 222992,
       "name": "All Equal",
       "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
@@ -186,10 +204,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 336000,
       "name": "Apart & Beyond",
       "url": "https://open.spotify.com/track/1FODiQJw75rxHyV2LZ8xIr"
+    },
+    {
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
+      },
+      "artists": [
+        {
+          "name": "Lak Host",
+          "url": "https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
     },
     {
       "album": {
@@ -208,6 +244,24 @@
       "duration_ms": 197058,
       "name": "Back to Java",
       "url": "https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ"
+    },
+    {
+      "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/3BIefweoHMJZJhDsbn0t5q"
+      },
+      "artists": [
+        {
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168521,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV"
     },
     {
       "album": {
@@ -388,7 +442,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 152000,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV"
@@ -406,7 +460,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 166779,
       "name": "Demurity",
       "url": "https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O"
@@ -460,7 +514,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 242086,
       "name": "Deviation",
       "url": "https://open.spotify.com/track/5jAFlzqIDDBJzer8jIrNXT"
@@ -745,6 +799,68 @@
     },
     {
       "album": {
+        "name": "SLCT Takeover Vol. 1 (Instrumental)",
+        "url": "https://open.spotify.com/album/7AUJ2hfbg68b8vuUQ0DgDy"
+      },
+      "artists": [
+        {
+          "name": "Nahra",
+          "url": "https://open.spotify.com/artist/4MKfFnhGNxVnw0dgpgCBeQ"
+        },
+        {
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191614,
+      "name": "Idiot (SLCT Remix) (Instrumental Version)",
+      "url": "https://open.spotify.com/track/5PprWUDtMegwUWZkPwHjDQ"
+    },
+    {
+      "album": {
+        "name": "In the Mirror",
+        "url": "https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127636,
+      "name": "In the Mirror",
+      "url": "https://open.spotify.com/track/205U3hn1052lvW97Adry7h"
+    },
+    {
+      "album": {
+        "name": "Informalit\u00e9",
+        "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
+      },
+      "artists": [
+        {
+          "name": "Nyhuis",
+          "url": "https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171704,
+      "name": "Informalit\u00e9",
+      "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
+    },
+    {
+      "album": {
         "name": "Huaraz",
         "url": "https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf"
       },
@@ -814,6 +930,24 @@
       "duration_ms": 205255,
       "name": "Liftoff",
       "url": "https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1"
+    },
+    {
+      "album": {
+        "name": "Looking for You",
+        "url": "https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN"
+      },
+      "artists": [
+        {
+          "name": "Novino",
+          "url": "https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115188,
+      "name": "Looking for You",
+      "url": "https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv"
     },
     {
       "album": {
@@ -1048,7 +1182,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 179478,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
@@ -1073,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Off Grid Lullaby",
+        "url": "https://open.spotify.com/album/2NCXQnN56pYAbDsAOY69ND"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Monk",
+          "url": "https://open.spotify.com/artist/6U6uoRX5edXTEcEFyzEinn"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131320,
+      "name": "Off Grid Lullaby",
+      "url": "https://open.spotify.com/track/36Qu69Yh1qYjj03A1J6k2R"
+    },
+    {
+      "album": {
         "name": "Oh La La",
         "url": "https://open.spotify.com/album/4BNRC7NznGNmAQIa11ZKCc"
       },
@@ -1084,7 +1236,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 194400,
       "name": "Oh La La",
       "url": "https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9"
@@ -1146,6 +1298,42 @@
       "duration_ms": 459661,
       "name": "Ours - Hermanez Remix",
       "url": "https://open.spotify.com/track/7e93cN9QsW1gJZWRXvkEsa"
+    },
+    {
+      "album": {
+        "name": "Palm Beach",
+        "url": "https://open.spotify.com/album/2E678lyyte3DaqRa14PkUD"
+      },
+      "artists": [
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217043,
+      "name": "Palm Beach",
+      "url": "https://open.spotify.com/track/6nR1DVH1bd69bmDlrjDNvf"
+    },
+    {
+      "album": {
+        "name": "Portimao",
+        "url": "https://open.spotify.com/album/4xERM1hwtquFCNTuw4e1zE"
+      },
+      "artists": [
+        {
+          "name": "Manic Twister",
+          "url": "https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206017,
+      "name": "Portimao",
+      "url": "https://open.spotify.com/track/5ABEwAmOIvGgTWQtBvmGHQ"
     },
     {
       "album": {
@@ -1236,7 +1424,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 199714,
       "name": "Romantic Seas",
       "url": "https://open.spotify.com/track/1Y24a9yOtzQsd27w8RtJNk"
@@ -1315,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Solar Sun",
+        "url": "https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh"
+      },
+      "artists": [
+        {
+          "name": "Kate Paul",
+          "url": "https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232241,
+      "name": "Solar Sun",
+      "url": "https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf"
+    },
+    {
+      "album": {
         "name": "Standing with You",
         "url": "https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk"
       },
@@ -1380,7 +1586,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 167239,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV"
@@ -1470,7 +1676,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 160166,
       "name": "Sunny Cruisin",
       "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
@@ -1643,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Unfading",
+        "url": "https://open.spotify.com/album/37wVWvWgPPCoZUlgpJ9Z06"
+      },
+      "artists": [
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Unfading",
+      "url": "https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE"
+    },
+    {
+      "album": {
         "name": "Unhappy Alien",
         "url": "https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx"
       },
@@ -1654,7 +1878,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 198260,
       "name": "Unhappy Alien",
       "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
@@ -1730,6 +1954,28 @@
       "duration_ms": 133608,
       "name": "Wasting Love",
       "url": "https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Morais Jr",
+          "url": "https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb"
+        },
+        {
+          "name": "Ayla Nova",
+          "url": "https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151525,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
     },
     {
       "album": {

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Above The Rim",
+        "url": "https://open.spotify.com/album/2Pei4jzhzQtaqGs9J2fDcS"
+      },
+      "artists": [
+        {
+          "name": "The Lady Of Rage",
+          "url": "https://open.spotify.com/artist/5CxwOBCoGSvWxfDgNoa1Nv"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288333,
+      "name": "Afro Puffs",
+      "url": "https://open.spotify.com/track/2sK1a4QxXQm6Jq8z2R1WgO"
+    },
+    {
+      "album": {
         "name": "Diamond Princess",
         "url": "https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ"
       },
@@ -24,6 +42,24 @@
       "duration_ms": 261986,
       "name": "B R Right (feat. Ludacris)",
       "url": "https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4"
+    },
+    {
+      "album": {
+        "name": "Broken Silence",
+        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "B. K. Anthem",
+      "url": "https://open.spotify.com/track/3liGFAshsmzJZW17h9Kebe"
     },
     {
       "album": {
@@ -96,7 +132,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 180093,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
@@ -118,10 +154,36 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 238386,
       "name": "Ching Ching",
       "url": "https://open.spotify.com/track/4YqYDP9MoPeBh1AqmzxD8g"
+    },
+    {
+      "album": {
+        "name": "Bad As I Wanna B",
+        "url": "https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK"
+      },
+      "artists": [
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Bad Boy",
+          "url": "https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277466,
+      "name": "Cold Rock a Party (feat. Missy Misdemeanor Elliott) - Bad Boy Remix",
+      "url": "https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx"
     },
     {
       "album": {
@@ -339,6 +401,28 @@
     },
     {
       "album": {
+        "name": "ANUTHAFUNKDAFIEDTANTRUM",
+        "url": "https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0"
+      },
+      "artists": [
+        {
+          "name": "Da Brat",
+          "url": "https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf"
+        },
+        {
+          "name": "T-Boz",
+          "url": "https://open.spotify.com/artist/5z67HRLMUYoZhaZPWUoV94"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ghetto Love (feat. T-Boz)",
+      "url": "https://open.spotify.com/track/5iJkSPVhITJvlYW3U3BxtS"
+    },
+    {
+      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
@@ -481,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Let There Be Eve...Ruff Ryders' First Lady",
+        "url": "https://open.spotify.com/album/4DcAYtMoE3O9B8uKrsExqE"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260306,
+      "name": "Love Is Blind",
+      "url": "https://open.spotify.com/track/0H2jfzzREOr9MF95HB7ry6"
+    },
+    {
+      "album": {
         "name": "La Bella Mafia",
         "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
       },
@@ -518,6 +620,24 @@
       "duration_ms": 279306,
       "name": "Moment 4 Life",
       "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
+    },
+    {
+      "album": {
+        "name": "Thug Misses",
+        "url": "https://open.spotify.com/album/2YlBIBovRPmkzO2fHyT5JA"
+      },
+      "artists": [
+        {
+          "name": "Khia",
+          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "My Neck, My Back",
+      "url": "https://open.spotify.com/track/04NMCxLqlXuyONlkdH4rY2"
     },
     {
       "album": {
@@ -660,7 +780,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 309487,
       "name": "Roxanne's Revenge",
       "url": "https://open.spotify.com/track/2sftlrkrHgbmUa577QsOMm"
@@ -700,7 +820,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 284866,
       "name": "Stand Up (Featuring Ghostface Killah) (feat. Ghostface Killah)",
       "url": "https://open.spotify.com/track/1OthLEsS1Qc4zwEjJ2E2Xx"
@@ -790,7 +910,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 194266,
       "name": "Tight",
       "url": "https://open.spotify.com/track/2c3JFVHCIcupZ6C9eBZJP0"
@@ -844,7 +964,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 229333,
       "name": "What They Call Me",
       "url": "https://open.spotify.com/track/79qSLBw54yfALjCp41cTkn"

@@ -1,317 +1,13 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
   "name": "Coffee and Piano",
-  "num_followers": 253888,
+  "num_followers": 254180,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDY1Mjk4OCwwMDAwMDAwMGU4NjY3OTBhYTFiMDA3NWVjZjI5YjBmNzY5ZDYzZDQ5",
+  "snapshot_id": "MTY0MDczODQyMiwwMDAwMDAwMDcxYTZkM2NkNjk2ZTM3YzZkMWMxYmFiN2JhMTNiZDJj",
   "tracks": [
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/0OrUjYU6DLkVUto4eodrha"
-      },
-      "artists": [
-        {
-          "name": "Stephen Thorpe",
-          "url": "https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD"
-        }
-      ],
-      "duration_ms": 106006,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7atZZz7sWJxeHpKLFof03X"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj"
-      },
-      "artists": [
-        {
-          "name": "Megan Wofford",
-          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
-        }
-      ],
-      "duration_ms": 146145,
-      "name": "Beginning",
-      "url": "https://open.spotify.com/track/0xfBAFqqp2bMbtRV2AIWRe"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Time Will Tell",
-        "url": "https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S"
-      },
-      "artists": [
-        {
-          "name": "Lea Lewis",
-          "url": "https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z"
-        }
-      ],
-      "duration_ms": 127582,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
-      },
-      "artists": [
-        {
-          "name": "Jakob Ahlbom",
-          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Dimman",
-      "url": "https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Humbly",
-        "url": "https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I"
-      },
-      "artists": [
-        {
-          "name": "Gail Singleton",
-          "url": "https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw"
-        }
-      ],
-      "duration_ms": 132428,
-      "name": "Humbly",
-      "url": "https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45"
-      },
-      "artists": [
-        {
-          "name": "Geir Gudmundson",
-          "url": "https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Dolce Far Niente",
-        "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
-      },
-      "artists": [
-        {
-          "name": "Heddwch",
-          "url": "https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Dolce Far Niente",
-      "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Little Memories",
-        "url": "https://open.spotify.com/album/5x8nMcUaYAE7mPNy4n9Zzh"
-      },
-      "artists": [
-        {
-          "name": "Megan Wofford",
-          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
-        }
-      ],
-      "duration_ms": 157026,
-      "name": "Little Memories",
-      "url": "https://open.spotify.com/track/7yqt5FexPi4P2h8KVawKDm"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/7KvfRrJ0eVVqLZ2W9CThwK"
-      },
-      "artists": [
-        {
-          "name": "Milo Edale",
-          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3uFDsOUgxcEV2PvBxf9B2Z"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Hiro",
-        "url": "https://open.spotify.com/album/0cd4CYjdiGoF4RfSZYIWRg"
-      },
-      "artists": [
-        {
-          "name": "Sight of Wonders",
-          "url": "https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD"
-        }
-      ],
-      "duration_ms": 159151,
-      "name": "Hiro",
-      "url": "https://open.spotify.com/track/3QVAtsZYZhTvAK995bxUkY"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Winter Unflorished",
-        "url": "https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8"
-      },
-      "artists": [
-        {
-          "name": "James DiResta",
-          "url": "https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Can\u00b4t Help Smiling",
-      "url": "https://open.spotify.com/track/2iVPty0FBstGSURghngIgo"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Mind Wide Open",
-        "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
-      },
-      "artists": [
-        {
-          "name": "Dan Volker",
-          "url": "https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Mind Wide Open",
-      "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Harbour",
-        "url": "https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi"
-      },
-      "artists": [
-        {
-          "name": "Lydia Barnes",
-          "url": "https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN"
-        }
-      ],
-      "duration_ms": 237250,
-      "name": "Like A Whisper",
-      "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Morgensol",
-        "url": "https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk"
-      },
-      "artists": [
-        {
-          "name": "Bolethe Kristensen",
-          "url": "https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Morgensol",
-      "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Looking Forward, Looking Backward",
-        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
-      },
-      "artists": [
-        {
-          "name": "Robin Bennich",
-          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
-        }
-      ],
-      "duration_ms": 177875,
-      "name": "Looking Forward, Looking Backward",
-      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "hopes",
-        "url": "https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "supine",
-      "url": "https://open.spotify.com/track/7IMGJM5S0YYcQhvtdeJH14"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Beyond Imagination",
-        "url": "https://open.spotify.com/album/0se06XbSZrjmsMLnuSFnrt"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 271897,
-      "name": "Beyond Imagination",
-      "url": "https://open.spotify.com/track/5z40PeXEmVwWes8PQI7oZq"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "You Are Peace",
-        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 204911,
-      "name": "You Are Peace",
-      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Forelsket",
-        "url": "https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N"
-      },
-      "artists": [
-        {
-          "name": "Idun Vinter",
-          "url": "https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m"
-        }
-      ],
-      "duration_ms": 170374,
-      "name": "Forelsket",
-      "url": "https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9"
-    },
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
@@ -327,150 +23,6 @@
       "duration_ms": 128500,
       "name": "We Will Make It",
       "url": "https://open.spotify.com/track/7yVh5SkxIS6OpNlL8gf2Qx"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Rites of Passage",
-        "url": "https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h"
-      },
-      "artists": [
-        {
-          "name": "Chris Donner",
-          "url": "https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "West Virginia",
-      "url": "https://open.spotify.com/track/2733cS6pVTBtpTCrf8lbeQ"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "In The Mood For Dreaming",
-        "url": "https://open.spotify.com/album/29HPgBWHyeiRju7jogQNhT"
-      },
-      "artists": [
-        {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "In The Mood For Dreaming",
-      "url": "https://open.spotify.com/track/163EpITIjkN1ky0odOKy1b"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "If you ever change your mind",
-        "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
-      },
-      "artists": [
-        {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "If you ever change your mind",
-      "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Whenever You Are With Me",
-        "url": "https://open.spotify.com/album/1uKbXNyPfiNS2vIxTj7QiA"
-      },
-      "artists": [
-        {
-          "name": "Aron Risa",
-          "url": "https://open.spotify.com/artist/4ZBYqZ6jRnD5xPtLWDvexS"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Whenever You Are With Me",
-      "url": "https://open.spotify.com/track/2E4e5HgV9h58cJdYcZpEX0"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Envision",
-        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
-      },
-      "artists": [
-        {
-          "name": "Amaranth Cove",
-          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "Moving Towards Fine",
-      "url": "https://open.spotify.com/track/2apnPHVAbn0ny2K8RowbpN"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Bluebird (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/1DsyDD6mimG3xUjdCvPFSz"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 204629,
-      "name": "Bluebird (Solo Piano Version)",
-      "url": "https://open.spotify.com/track/3LQwGnHo2iHiRGbLl5aPXQ"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Maurice",
-        "url": "https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3"
-      },
-      "artists": [
-        {
-          "name": "Oscar Sergel",
-          "url": "https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8"
-        }
-      ],
-      "duration_ms": 167043,
-      "name": "Maurice",
-      "url": "https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3aN17LcVzjDKxp7FXowuhO"
-      },
-      "artists": [
-        {
-          "name": "Patrick Buote",
-          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
-        }
-      ],
-      "duration_ms": 185457,
-      "name": "Personne d'autre que toi",
-      "url": "https://open.spotify.com/track/4M7jagkEBHpniJmWdntxNR"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Sleeping Like the Birchwood",
-        "url": "https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg"
-      },
-      "artists": [
-        {
-          "name": "Rand Aldo",
-          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sleeping like the Birchwood",
-      "url": "https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6"
     },
     {
       "added_at": "2021-12-21 23:28:22",
@@ -491,18 +43,114 @@
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
-        "name": "Tras Salome\u0301",
-        "url": "https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo"
+        "name": "In The Mood For Dreaming",
+        "url": "https://open.spotify.com/album/29HPgBWHyeiRju7jogQNhT"
       },
       "artists": [
         {
-          "name": "Mirta da Silva",
-          "url": "https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj"
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Tras Salome\u0301",
-      "url": "https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx"
+      "duration_ms": 183250,
+      "name": "In The Mood For Dreaming",
+      "url": "https://open.spotify.com/track/163EpITIjkN1ky0odOKy1b"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Divisio",
+        "url": "https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "Now and Then",
+      "url": "https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Maurice",
+        "url": "https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3"
+      },
+      "artists": [
+        {
+          "name": "Oscar Sergel",
+          "url": "https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8"
+        }
+      ],
+      "duration_ms": 167043,
+      "name": "Maurice",
+      "url": "https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Envision",
+        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
+      },
+      "artists": [
+        {
+          "name": "Amaranth Cove",
+          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "Moving Towards Fine",
+      "url": "https://open.spotify.com/track/2apnPHVAbn0ny2K8RowbpN"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj"
+      },
+      "artists": [
+        {
+          "name": "Megan Wofford",
+          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
+        }
+      ],
+      "duration_ms": 146145,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/0xfBAFqqp2bMbtRV2AIWRe"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3aN17LcVzjDKxp7FXowuhO"
+      },
+      "artists": [
+        {
+          "name": "Patrick Buote",
+          "url": "https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74"
+        }
+      ],
+      "duration_ms": 185457,
+      "name": "Personne d'autre que toi",
+      "url": "https://open.spotify.com/track/4M7jagkEBHpniJmWdntxNR"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Home For Someone",
+        "url": "https://open.spotify.com/album/7EvULz6e12nqEWNSr3g77I"
+      },
+      "artists": [
+        {
+          "name": "Zinna Blanc",
+          "url": "https://open.spotify.com/artist/0qoowD3vsyfw8qzylIN9nx"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Home For Someone",
+      "url": "https://open.spotify.com/track/4dSSFaVIaF3G0yYOkegjYo"
     },
     {
       "added_at": "2021-12-21 23:28:22",
@@ -523,194 +171,50 @@
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
-        "name": "Blue Aurora",
-        "url": "https://open.spotify.com/album/3BQjjetj53tqBx2KgLNlHc"
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/4rvQEuLUZZGCov0t4LU6rX"
       },
       "artists": [
         {
-          "name": "Kim Alvez",
-          "url": "https://open.spotify.com/artist/24U3alIirCYs7TMOlIVEAv"
+          "name": "Jenna Elizabeth",
+          "url": "https://open.spotify.com/artist/5If5kZtYCXDNwUSgVqu5Fr"
         }
       ],
-      "duration_ms": 134722,
-      "name": "Blue Aurora",
-      "url": "https://open.spotify.com/track/2XUDxWhpULyCwZ6tSyAULr"
+      "duration_ms": 166919,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3KVJnT6tvkitcYUQzUQ8vm"
     },
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
-        "name": "Kiku Rain",
-        "url": "https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8"
+        "name": "Harbour",
+        "url": "https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi"
       },
       "artists": [
         {
-          "name": "Cora Zea",
-          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
+          "name": "Lydia Barnes",
+          "url": "https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN"
         }
       ],
-      "duration_ms": 172757,
-      "name": "Kiku Rain",
-      "url": "https://open.spotify.com/track/1a3kw1TPNYW49QNgLs7vhM"
+      "duration_ms": 237250,
+      "name": "Like A Whisper",
+      "url": "https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ"
     },
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/1bJt5dNbsCzyrzMCdF4Ebq"
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd"
       },
       "artists": [
         {
-          "name": "Olga Menchki",
-          "url": "https://open.spotify.com/artist/7JORhwq0wyUPMHaYjASzLS"
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
         }
       ],
-      "duration_ms": 129465,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/7chUrds11BR9cV2sUv32or"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/3Ko0u1P4mxYYrCHKgx5OdE"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 136124,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/7Myr2rQatgwZshajT4pOCj"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Dawnlight",
-        "url": "https://open.spotify.com/album/0v8BLjOTYduBjeMpVnd5G6"
-      },
-      "artists": [
-        {
-          "name": "Helmut Schenker",
-          "url": "https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK"
-        }
-      ],
-      "duration_ms": 184384,
-      "name": "Dawnlight",
-      "url": "https://open.spotify.com/track/5Oxc4DbQ5xIeOeFcW6rFOz"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "The Grass",
-        "url": "https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX"
-      },
-      "artists": [
-        {
-          "name": "Brandon Cason",
-          "url": "https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "The Grass",
-      "url": "https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
-      },
-      "artists": [
-        {
-          "name": "Jakob Ahlbom",
-          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
-        }
-      ],
-      "duration_ms": 137290,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "A bed of tulips",
-        "url": "https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc"
-      },
-      "artists": [
-        {
-          "name": "Luanna Averie",
-          "url": "https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB"
-        }
-      ],
-      "duration_ms": 160250,
-      "name": "A bed of tulips",
-      "url": "https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "A Quiet Triumph",
-        "url": "https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj"
-      },
-      "artists": [
-        {
-          "name": "Jean DeVoite",
-          "url": "https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf"
-        }
-      ],
-      "duration_ms": 124175,
-      "name": "A Quiet Triumph",
-      "url": "https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Pour toujours",
-        "url": "https://open.spotify.com/album/7LKE5eTxL5yz4ScnNJ1OhZ"
-      },
-      "artists": [
-        {
-          "name": "Bernadette Boulet",
-          "url": "https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw"
-        }
-      ],
-      "duration_ms": 144576,
-      "name": "Pour toujours",
-      "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Circumstances",
-        "url": "https://open.spotify.com/album/7Jn5nOh3o6ttSCTsZLmK1f"
-      },
-      "artists": [
-        {
-          "name": "Deborah Fulmen",
-          "url": "https://open.spotify.com/artist/3u1wiRKUBM08aAzGxjNwZb"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Circumstances",
-      "url": "https://open.spotify.com/track/7FyzToHhKG9b9gS19kWg8a"
-    },
-    {
-      "added_at": "2021-12-21 23:28:22",
-      "album": {
-        "name": "Hidden Depth",
-        "url": "https://open.spotify.com/album/7x1LzLQlWwtPTCCEH6ytbM"
-      },
-      "artists": [
-        {
-          "name": "Megan Wofford",
-          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
-        }
-      ],
-      "duration_ms": 196568,
-      "name": "Dear Mama",
-      "url": "https://open.spotify.com/track/1qUVgTwfcnO0GXOD89SCwz"
+      "duration_ms": 154374,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t"
     },
     {
       "added_at": "2021-12-21 23:28:22",
@@ -731,6 +235,362 @@
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
+        "name": "Mind Wide Open",
+        "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
+      },
+      "artists": [
+        {
+          "name": "Dan Volker",
+          "url": "https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Mind Wide Open",
+      "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Beyond Imagination",
+        "url": "https://open.spotify.com/album/0se06XbSZrjmsMLnuSFnrt"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 271897,
+      "name": "Beyond Imagination",
+      "url": "https://open.spotify.com/track/5z40PeXEmVwWes8PQI7oZq"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Dolce Far Niente",
+        "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
+      },
+      "artists": [
+        {
+          "name": "Heddwch",
+          "url": "https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Dolce Far Niente",
+      "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Dimman",
+      "url": "https://open.spotify.com/track/0VCR5yJWXT3FQHuBFPhTm2"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Bluebird (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/1DsyDD6mimG3xUjdCvPFSz"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 204629,
+      "name": "Bluebird (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/3LQwGnHo2iHiRGbLl5aPXQ"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Mansellastica",
+        "url": "https://open.spotify.com/album/57UbkSTXlX14SUDc7yakvx"
+      },
+      "artists": [
+        {
+          "name": "Neil Mansella",
+          "url": "https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/2I9qjveKy0l2SqyDb1F9jj"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/1bJt5dNbsCzyrzMCdF4Ebq"
+      },
+      "artists": [
+        {
+          "name": "Olga Menchki",
+          "url": "https://open.spotify.com/artist/7JORhwq0wyUPMHaYjASzLS"
+        }
+      ],
+      "duration_ms": 129465,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/7chUrds11BR9cV2sUv32or"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Kiku Rain",
+        "url": "https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8"
+      },
+      "artists": [
+        {
+          "name": "Cora Zea",
+          "url": "https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg"
+        }
+      ],
+      "duration_ms": 172757,
+      "name": "Kiku Rain",
+      "url": "https://open.spotify.com/track/1a3kw1TPNYW49QNgLs7vhM"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "hopes",
+        "url": "https://open.spotify.com/album/2XdFgoXMYe0EXNtvJv3VA8"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "supine",
+      "url": "https://open.spotify.com/track/7IMGJM5S0YYcQhvtdeJH14"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/66857ii6GRtCy0WcRgrk6c"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/2StF1wwPwe1QFeIOilnkDK"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/0OrUjYU6DLkVUto4eodrha"
+      },
+      "artists": [
+        {
+          "name": "Stephen Thorpe",
+          "url": "https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD"
+        }
+      ],
+      "duration_ms": 106006,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7atZZz7sWJxeHpKLFof03X"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Looking Forward, Looking Backward",
+        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
+      },
+      "artists": [
+        {
+          "name": "Robin Bennich",
+          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
+        }
+      ],
+      "duration_ms": 177875,
+      "name": "Looking Forward, Looking Backward",
+      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Bouyant",
+        "url": "https://open.spotify.com/album/33OCaMvYFiTmjxUlRFbNmb"
+      },
+      "artists": [
+        {
+          "name": "Cedric Grey",
+          "url": "https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO"
+        }
+      ],
+      "duration_ms": 117875,
+      "name": "Bouyant",
+      "url": "https://open.spotify.com/track/5Y20UnPaxMhE5BaXvOuThw"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Little Memories",
+        "url": "https://open.spotify.com/album/5x8nMcUaYAE7mPNy4n9Zzh"
+      },
+      "artists": [
+        {
+          "name": "Megan Wofford",
+          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
+        }
+      ],
+      "duration_ms": 157026,
+      "name": "Little Memories",
+      "url": "https://open.spotify.com/track/7yqt5FexPi4P2h8KVawKDm"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S"
+      },
+      "artists": [
+        {
+          "name": "Lea Lewis",
+          "url": "https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z"
+        }
+      ],
+      "duration_ms": 127582,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Hiro",
+        "url": "https://open.spotify.com/album/0cd4CYjdiGoF4RfSZYIWRg"
+      },
+      "artists": [
+        {
+          "name": "Sight of Wonders",
+          "url": "https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD"
+        }
+      ],
+      "duration_ms": 159151,
+      "name": "Hiro",
+      "url": "https://open.spotify.com/track/3QVAtsZYZhTvAK995bxUkY"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Helga's Song",
+        "url": "https://open.spotify.com/album/1lBVc3NtgFQWUTwAeRTFuZ"
+      },
+      "artists": [
+        {
+          "name": "Rina Rinoa",
+          "url": "https://open.spotify.com/artist/2laxJgZexYugQwiBrw3PzY"
+        }
+      ],
+      "duration_ms": 136862,
+      "name": "Snow Thoughts",
+      "url": "https://open.spotify.com/track/1ZPPRdWEGr12Map8bAcJMR"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Fields of Gold",
+        "url": "https://open.spotify.com/album/1MSTcPEOnMjUJ2FX7gB2z4"
+      },
+      "artists": [
+        {
+          "name": "Gordon Matthew Thomas Sumner",
+          "url": "https://open.spotify.com/artist/4d4MQI2dt3yVSJixoVNfgK"
+        },
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "duration_ms": 224689,
+      "name": "Fields of Gold",
+      "url": "https://open.spotify.com/track/0x7k2hGRMup7V0Fh8nqlFg"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "You Are Peace",
+        "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 204911,
+      "name": "You Are Peace",
+      "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/3WEsCcZ8AXkt9jzWa84TUn"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
+        }
+      ],
+      "duration_ms": 137290,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/2CVoj73sTbBrfBoQTEk7yO"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Emotional State",
+        "url": "https://open.spotify.com/album/7chN0A9m3xKUja0y0zzVpb"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Green",
+          "url": "https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd"
+        }
+      ],
+      "duration_ms": 264512,
+      "name": "Melancholy",
+      "url": "https://open.spotify.com/track/25kDEZNeYdOa61StT88v4G"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
         "name": "Lilou",
         "url": "https://open.spotify.com/album/3w2Xr6OoZWYIFuYmLw1ovD"
       },
@@ -747,34 +607,130 @@
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
-        "name": "Fragment",
-        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
+        "name": "Humbly",
+        "url": "https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I"
       },
       "artists": [
         {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+          "name": "Gail Singleton",
+          "url": "https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw"
         }
       ],
-      "duration_ms": 185390,
-      "name": "Cessura",
-      "url": "https://open.spotify.com/track/7uvey8m0ZfknE25sBVWoGY"
+      "duration_ms": 132428,
+      "name": "Humbly",
+      "url": "https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT"
     },
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq"
+        "name": "Circumstances",
+        "url": "https://open.spotify.com/album/7Jn5nOh3o6ttSCTsZLmK1f"
       },
       "artists": [
         {
-          "name": "Lihua Zhao",
-          "url": "https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe"
+          "name": "Deborah Fulmen",
+          "url": "https://open.spotify.com/artist/3u1wiRKUBM08aAzGxjNwZb"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA"
+      "duration_ms": 166000,
+      "name": "Circumstances",
+      "url": "https://open.spotify.com/track/7FyzToHhKG9b9gS19kWg8a"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Forelsket",
+        "url": "https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N"
+      },
+      "artists": [
+        {
+          "name": "Idun Vinter",
+          "url": "https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m"
+        }
+      ],
+      "duration_ms": 170374,
+      "name": "Forelsket",
+      "url": "https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/7KvfRrJ0eVVqLZ2W9CThwK"
+      },
+      "artists": [
+        {
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3uFDsOUgxcEV2PvBxf9B2Z"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Akeleie",
+        "url": "https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP"
+      },
+      "artists": [
+        {
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Akeleie",
+      "url": "https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "If you ever change your mind",
+        "url": "https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "If you ever change your mind",
+      "url": "https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Morgensol",
+        "url": "https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk"
+      },
+      "artists": [
+        {
+          "name": "Bolethe Kristensen",
+          "url": "https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Morgensol",
+      "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Soft Waves and Relaxing Piano",
+        "url": "https://open.spotify.com/album/6MwZDExAHrpKWbTmnGDf7Y"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Brandt",
+          "url": "https://open.spotify.com/artist/4k5hcVGerX1LVQ79iXD52S"
+        }
+      ],
+      "duration_ms": 209408,
+      "name": "Soft Waves and Relaxing Piano 2",
+      "url": "https://open.spotify.com/track/1uwgFTlhVezGm03UgDZ6jX"
     },
     {
       "added_at": "2021-12-21 23:28:22",
@@ -795,18 +751,66 @@
     {
       "added_at": "2021-12-21 23:28:22",
       "album": {
-        "name": "Forever in your arms",
-        "url": "https://open.spotify.com/album/55HHyCZLRi0RCo1qoBoJZV"
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
       },
       "artists": [
         {
-          "name": "Sophie Nichols",
-          "url": "https://open.spotify.com/artist/2Vud9HNRfM5SLNkqdmPUa3"
+          "name": "VIbeke Holst-Tofte",
+          "url": "https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h"
         }
       ],
-      "duration_ms": 166276,
-      "name": "Forever in your arms",
-      "url": "https://open.spotify.com/track/5dbsWC1EVqbhHcRbJr4vjF"
+      "duration_ms": 141342,
+      "name": "Silentium",
+      "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Lucid Dreamin' II",
+        "url": "https://open.spotify.com/album/7jufASRTIagXI2lw0SYz6W"
+      },
+      "artists": [
+        {
+          "name": "Arelius",
+          "url": "https://open.spotify.com/artist/5EPSFsZ4hH2NhjBNsVwQfH"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0LRjR9cx8rJDYTRIHq7rxp"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Memoir",
+        "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
+      },
+      "artists": [
+        {
+          "name": "Pied-\u00e0-Terre",
+          "url": "https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Memoir",
+      "url": "https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n"
+    },
+    {
+      "added_at": "2021-12-21 23:28:22",
+      "album": {
+        "name": "Der Wandervogel",
+        "url": "https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "duration_ms": 160368,
+      "name": "Der Wandervogel",
+      "url": "https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3TPMgP3ojGS"

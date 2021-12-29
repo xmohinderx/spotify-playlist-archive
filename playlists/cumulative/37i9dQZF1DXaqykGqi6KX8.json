@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 184682,
       "name": "Ahlan Wa Sahlan",
       "url": "https://open.spotify.com/track/2jyCql7bHLtn3K7Z6E04b5"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 229960,
       "name": "Ala Remshe",
       "url": "https://open.spotify.com/track/3PC9Eih4l2RUMXoIUWzbmM"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 69083,
       "name": "Asl",
       "url": "https://open.spotify.com/track/3y5i78fcWnHxu1g67brpOP"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 340426,
       "name": "Forever and A Day",
       "url": "https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd"
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Gnawi",
+        "url": "https://open.spotify.com/album/41p0qWCRG9MT7Rtirx1y2B"
+      },
+      "artists": [
+        {
+          "name": "Al-Qasar",
+          "url": "https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357934,
+      "name": "Gnawi",
+      "url": "https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el"
+    },
+    {
+      "album": {
         "name": "Sofia",
         "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
       },
@@ -257,6 +275,42 @@
     },
     {
       "album": {
+        "name": "The Revelations",
+        "url": "https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG"
+      },
+      "artists": [
+        {
+          "name": "Ambrotype",
+          "url": "https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 666510,
+      "name": "I Am the Beast",
+      "url": "https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8"
+    },
+    {
+      "album": {
+        "name": "Beauty & The East",
+        "url": "https://open.spotify.com/album/4qMzRLbzpN3idUrdXJakhx"
+      },
+      "artists": [
+        {
+          "name": "The Kordz",
+          "url": "https://open.spotify.com/artist/4WPWekPBzsyjbhozJbmaGK"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "Insomnia Kid",
+      "url": "https://open.spotify.com/track/1fnCKZ8ikOhckUwvBMGLLW"
+    },
+    {
+      "album": {
         "name": "Past, Present...Torture",
         "url": "https://open.spotify.com/album/0PJej8Xn6NmepdlJpO8BJh"
       },
@@ -268,10 +322,46 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 161720,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5sjx2BzDr9YK5At7XgLGds"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/4Ygb9xxtYpsMO0LBtztXWc"
+      },
+      "artists": [
+        {
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108559,
+      "name": "Jasmin",
+      "url": "https://open.spotify.com/track/6xIo0HSCFkIlrosMSQUrDS"
+    },
+    {
+      "album": {
+        "name": "Wa Ma Khufiya Kana A'atham",
+        "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
+      },
+      "artists": [
+        {
+          "name": "Narjahanam",
+          "url": "https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311955,
+      "name": "Kahf Alkhulood",
+      "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
     },
     {
       "album": {
@@ -286,7 +376,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 242000,
       "name": "Khoroto (Gultrah Sound System)",
       "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
@@ -340,7 +430,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 342266,
       "name": "Leap of Faith",
       "url": "https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH"
@@ -383,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Moongod",
+        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
+      },
+      "artists": [
+        {
+          "name": "Aeternam",
+          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341175,
+      "name": "Moongod",
+      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
+    },
+    {
+      "album": {
         "name": "No Holding Back",
         "url": "https://open.spotify.com/album/0SMDWB7t0LsVgWb5eC3n2B"
       },
@@ -398,6 +506,42 @@
       "duration_ms": 282790,
       "name": "No Holding Back",
       "url": "https://open.spotify.com/track/3Xzwv8OlCT65i73QpicPlO"
+    },
+    {
+      "album": {
+        "name": "GILGAMESH",
+        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
+      },
+      "artists": [
+        {
+          "name": "Acrassicauda",
+          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226795,
+      "name": "Quest For Eternity",
+      "url": "https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE"
+    },
+    {
+      "album": {
+        "name": "Riot Against Riot",
+        "url": "https://open.spotify.com/album/3U2yfv1nXbqz2WqmzFDro6"
+      },
+      "artists": [
+        {
+          "name": "Blaakyum",
+          "url": "https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323009,
+      "name": "Riot Against Riot",
+      "url": "https://open.spotify.com/track/3Fz8IcdXklVz1Kr9SHFcFe"
     },
     {
       "album": {
@@ -430,7 +574,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 248660,
       "name": "Shokran (Thank You)",
       "url": "https://open.spotify.com/track/3jCPmClsW1pHGCRGpvgnDe"
@@ -502,10 +646,46 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 188734,
       "name": "The Cost Of Everything And The Value Of Nothing",
       "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
+    },
+    {
+      "album": {
+        "name": "Garden of Dystopia",
+        "url": "https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9"
+      },
+      "artists": [
+        {
+          "name": "Divine Disorder",
+          "url": "https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484600,
+      "name": "The Gambit",
+      "url": "https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH"
+    },
+    {
+      "album": {
+        "name": "Summoning the Bygones",
+        "url": "https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx"
+      },
+      "artists": [
+        {
+          "name": "BILOCATE",
+          "url": "https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524840,
+      "name": "The Tragedy Within",
+      "url": "https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC"
     },
     {
       "album": {
@@ -520,7 +700,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 240000,
       "name": "The Twelth Gate",
       "url": "https://open.spotify.com/track/1SkWDSHs825x3os2JtxKBQ"

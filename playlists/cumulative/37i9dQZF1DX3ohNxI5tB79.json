@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "Queen & Slim: The Soundtrack",
+        "url": "https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        },
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339846,
+      "name": "Soul Sista - Remix / From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO"
+    },
+    {
+      "album": {
         "name": "Underneath the Surface",
         "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xV5uMmkUPl.md) - [plain]
 
 > Lo nuevo y lo esencial de René.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,515 likes - 19 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,544 likes - 19 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

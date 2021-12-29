@@ -1,13 +1,33 @@
 {
-  "description": "Future K-Pop hits! Cover: MINHO",
+  "description": "Future K-Pop hits! Cover: BamBam, SEULGI",
   "name": "K-Pop Rising",
-  "num_followers": 622648,
+  "num_followers": 623169,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMDA3NSwwMDAwMDIyYzAwMDAwMTdkZWFiMjA2NTIwMDAwMDE3ZGVhYjE5NWU4",
+  "snapshot_id": "MTY0MDY4NDA1OCwwMDAwMDIyZDAwMDAwMTdlMDA2M2Y4ZDUwMDAwMDE3ZTAwNjNiNWVk",
   "tracks": [
+    {
+      "added_at": "2021-12-28 09:34:18",
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Who Are You (Feat. SEULGI of Red Velvet)",
+      "url": "https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL"
+    },
     {
       "added_at": "2021-12-24 04:27:55",
       "album": {

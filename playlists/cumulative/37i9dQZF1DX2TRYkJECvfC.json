@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0WatRmyFsbWvxsn62abO9k"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286271,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY"
+    },
+    {
+      "album": {
         "name": "Take Flight",
         "url": "https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR"
       },
@@ -488,7 +506,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 287773,
       "name": "Bo & Wing",
       "url": "https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 223706,
       "name": "Bring It Back - Phaze Dee Edit",
       "url": "https://open.spotify.com/track/5xilFpTdCilXSJuAPbzTCU"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 231600,
       "name": "Celtic Girl - Andrew Meller Remix",
       "url": "https://open.spotify.com/track/4MLlxPNKp25tgIxU09cYXA"
@@ -908,7 +926,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 266300,
       "name": "Dilla 4 Life",
       "url": "https://open.spotify.com/track/7aUXv3MJYpYgcpVgJVbqaP"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 381639,
       "name": "Erhu",
       "url": "https://open.spotify.com/track/0sXODNdDzktWJGs5X8lIym"
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 351428,
       "name": "Fig Spread",
       "url": "https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 418657,
       "name": "Free - HOSH Edit",
       "url": "https://open.spotify.com/track/2Of6ELgB41N4REAnQvbpwD"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 373562,
       "name": "Inspired",
       "url": "https://open.spotify.com/track/1Bii3LSvFNeRTrW4s0Kj4m"
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 324000,
       "name": "Keep On Reachin - Main Mix",
       "url": "https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG"
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 469995,
       "name": "Muy\u00e8",
       "url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c"
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 479000,
       "name": "Robots With Soul Part 1 - Original Mix",
       "url": "https://open.spotify.com/track/6VR7ss1z27BJr67VrL4hC6"
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 534500,
       "name": "Robots With Soul Part 2 - Original Mix",
       "url": "https://open.spotify.com/track/5y6CnB9Q3WDQvVG5rwoYZ1"
@@ -3098,10 +3116,36 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 503500,
       "name": "She's A Replicant - Afriqua Remix",
       "url": "https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/7vNzxzPntk22ND2FtukCls"
+      },
+      "artists": [
+        {
+          "name": "Matvey Emerson",
+          "url": "https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa"
+        },
+        {
+          "name": "Alex Hook",
+          "url": "https://open.spotify.com/artist/5crDtS0zvUv8JInPEHiige"
+        },
+        {
+          "name": "Gosha",
+          "url": "https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344537,
+      "name": "Shine - Original Mix",
+      "url": "https://open.spotify.com/track/3VJaqeaWFRZYoGeDKJbkqu"
     },
     {
       "album": {
@@ -3254,7 +3298,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 287750,
       "name": "Solace",
       "url": "https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5"
@@ -3338,7 +3382,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 415238,
       "name": "Spectrum - Original",
       "url": "https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV"
@@ -3356,7 +3400,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 170181,
       "name": "Stop That Man",
       "url": "https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ"
@@ -3476,7 +3520,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 441289,
       "name": "Supervivencia - Original Mix",
       "url": "https://open.spotify.com/track/4bJlbvjScvFlkzuHU1AC0n"
@@ -3625,6 +3669,40 @@
     },
     {
       "album": {
+        "name": "The Melody (Henrik Schwarz Remix)",
+        "url": "https://open.spotify.com/album/3PwiGONOF33KuHMmCmyUxM"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        },
+        {
+          "name": "Francesco Tristano",
+          "url": "https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj"
+        },
+        {
+          "name": "Les Si\u00e8cles",
+          "url": "https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds"
+        },
+        {
+          "name": "Fran\u00e7ois-Xavier Roth",
+          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461680,
+      "name": "The Melody - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p"
+    },
+    {
+      "album": {
         "name": "the mirror",
         "url": "https://open.spotify.com/album/1TEjpHuMWHgpxmE1MPzCFX"
       },
@@ -3766,7 +3844,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 408027,
       "name": "Transit of Venus",
       "url": "https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac"
@@ -3802,7 +3880,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 433920,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6nhUxgNa071Y79ihXy8K1c"
@@ -4238,7 +4316,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 471473,
       "name": "Yini - Serge Devant Remix",
       "url": "https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp"
@@ -4314,7 +4392,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 466608,
       "name": "Zikaron",
       "url": "https://open.spotify.com/track/69a3g97juYgOj3nFT6xX5d"

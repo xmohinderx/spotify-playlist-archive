@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc"
+      },
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
+    },
+    {
+      "album": {
         "name": "Feargal Sharkey",
         "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
       },
@@ -70,7 +92,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
@@ -770,7 +792,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 258786,
       "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
       "url": "https://open.spotify.com/track/6qB7YcFpeBEQa0D6QO482y"
@@ -806,7 +828,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 313186,
       "name": "Little Jeannie",
       "url": "https://open.spotify.com/track/19Kf8FxBJ5a1Bb8uKCrIIe"
@@ -882,6 +904,24 @@
       "duration_ms": 234466,
       "name": "Mary's Prayer",
       "url": "https://open.spotify.com/track/6G3afsR0udhKnAU0Tut25j"
+    },
+    {
+      "album": {
+        "name": "The Complete John Waite, Volume One: Falling Backwards",
+        "url": "https://open.spotify.com/album/7GiN5fqIgGCmdLDsPxzFqO"
+      },
+      "artists": [
+        {
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270573,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/2Hw5F4S5TFmrpBoWXc2Awx"
     },
     {
       "album": {
@@ -1044,10 +1084,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 232240,
       "name": "She's Like the Wind",
       "url": "https://open.spotify.com/track/3d4I2tQUz16S8gesU2pLSM"
+    },
+    {
+      "album": {
+        "name": "Introducing The Hardline According To Terence Trent D'Arby",
+        "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
+      },
+      "artists": [
+        {
+          "name": "Sananda Maitreya",
+          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276533,
+      "name": "Sign Your Name",
+      "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
     },
     {
       "album": {
@@ -1069,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/3nNWO9HUzi1xmWdd8779Uo"
+      },
+      "artists": [
+        {
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/4sr4NdrPfds9Qfors9UkiO"
+    },
+    {
+      "album": {
         "name": "Carry On Up The Charts",
         "url": "https://open.spotify.com/album/497CgsHDSzUL42ErcTIJEV"
       },
@@ -1084,6 +1160,24 @@
       "duration_ms": 244666,
       "name": "Song For Whoever - Single Version",
       "url": "https://open.spotify.com/track/1zb6cUXJ1RtnOrtn3dgo6h"
+    },
+    {
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5"
+      },
+      "artists": [
+        {
+          "name": "Alison Moyet",
+          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184333,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/1yPTBZpq4KNX0cVWVa1agf"
     },
     {
       "album": {
@@ -1134,7 +1228,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 268200,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
@@ -1178,6 +1272,24 @@
       "duration_ms": 299413,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/11zWfCQaGkXJ9uIXROr4pa"
+    },
+    {
+      "album": {
+        "name": "Magical Ring",
+        "url": "https://open.spotify.com/album/1HQJUZCAhN3e3LR43VVa5j"
+      },
+      "artists": [
+        {
+          "name": "Clannad",
+          "url": "https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149026,
+      "name": "Theme from Harry's Game - Remastered",
+      "url": "https://open.spotify.com/track/2hcxPnu5RljXH0eMOtctuF"
     },
     {
       "album": {
@@ -1236,6 +1348,24 @@
       "duration_ms": 232666,
       "name": "Together In Electric Dreams - Remastered / From \"Electric Dreams\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/0Ytxje4D5iXTHN3MOCC5jS"
+    },
+    {
+      "album": {
+        "name": "True - The Digital E.P.",
+        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329146,
+      "name": "True - Single Edit",
+      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "album": {
@@ -1380,7 +1510,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 509066,
       "name": "Why Worry?",
       "url": "https://open.spotify.com/track/0NL5lqKSd0obXvKwfvyTKw"
@@ -1398,7 +1528,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 286880,
       "name": "Wicked Game - Remastered",
       "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"

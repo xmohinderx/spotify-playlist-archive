@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,760 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,762 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 102 | [Spies Are Watching Me](https://open.spotify.com/track/5ATO1YI02clN5wDx4ttu6y) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Sir Jean](https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0) | [On te l'avait dit](https://open.spotify.com/album/7eaE1DXc4HXmlUqtwRIIuG) | 7:12 |
 | 103 | [Love Injection](https://open.spotify.com/track/2N6xewRtVIdrK3IRZavCCA) | [Trussel](https://open.spotify.com/artist/5jNe1T4XPwKjEJlDoVzDkK) | [Love Injection](https://open.spotify.com/album/4NEUyCC5YaMRw5Q2fmuBAZ) | 7:56 |
 | 104 | [Music](https://open.spotify.com/track/69R1ksDuwkkH21wsoBzIQq) | [One Way](https://open.spotify.com/artist/001aJOc7CSQVo3XzoLG4DK), [Al Hudson](https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS) | [One Way \(Expanded Version\)](https://open.spotify.com/album/2X6vMcJYHhVfOT1c9sVraP) | 7:18 |
-| 105 | [Hold Onto Your Mind](https://open.spotify.com/track/2WDIAiAY53lAxDSxedRPib) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb) | [Mixed Up Minds, Part 8: Obscure Rock And Pop From The British Isles, 1970\-1974](https://open.spotify.com/album/66P5PGewdm4zQJwTcgTmGq) | 3:47 |
+| 105 | [Hold Onto Your Mind](https://open.spotify.com/track/2WDIAiAY53lAxDSxedRPib) | [Andwella](https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb) | [Mixed up Minds, Part 8: Obscure Rock and Pop from the British Isles, 1970\-1974](https://open.spotify.com/album/66P5PGewdm4zQJwTcgTmGq) | 3:47 |
 | 106 | [212 N\. 12th](https://open.spotify.com/track/4ZtxNGolmtYsuT7oH64mvn) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4) | [Anthology \(Salsoul\)](https://open.spotify.com/album/02skJ4yZguBuoMmsjvIhIy) | 8:32 |
 | 107 | [212 N\. 12th](https://open.spotify.com/track/3ornZU2Je9lXXjejZ8snBO) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4) | [Anthology, Vol\. 2](https://open.spotify.com/album/5GkT14uosW4ANqEMXK4IuS) | 8:32 |
 | 108 | [Baby Love \- Chord Mix](https://open.spotify.com/track/7isGgqGIHqvLk3mFofkMGZ) | [Cassio](https://open.spotify.com/artist/1b8gFWnWcujN6S2hvFnKZi) | [Easy Street Classics: The New Jersey House Vibe Vol\. 1](https://open.spotify.com/album/2IQbDgyAMGRBFHZpKLbDo6) | 6:35 |

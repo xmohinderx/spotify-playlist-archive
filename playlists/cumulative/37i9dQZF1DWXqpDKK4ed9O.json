@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2EAC4DlyUFDdi1VwnmfU7n"
@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236973,
+      "name": "Baby, Baby",
+      "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
+    },
+    {
+      "album": {
         "name": "Back At One",
         "url": "https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm"
       },
@@ -176,7 +194,7 @@
     {
       "album": {
         "name": "Falling Into You",
-        "url": "https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC"
+        "url": "https://open.spotify.com/album/1yeREaGQMCMNaN7HtMIyNa"
       },
       "artists": [
         {
@@ -189,7 +207,43 @@
       "date_removed": null,
       "duration_ms": 273066,
       "name": "Because You Loved Me",
+      "url": "https://open.spotify.com/track/2PZGLmbjABSqsEeznQJFSu"
+    },
+    {
+      "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/08aLDHdtfHxjtOmEHusqGC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-29",
+      "duration_ms": 273066,
+      "name": "Because You Loved Me",
       "url": "https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N"
+    },
+    {
+      "album": {
+        "name": "The Best Of Boyz II Men 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/1aVyRcDS6m2qIyiSgCj4ge"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348893,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/1c48FSKfpobDF3VzopU10V"
     },
     {
       "album": {
@@ -346,6 +400,24 @@
       "duration_ms": 332960,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "album": {
+        "name": "98 Degrees And Rising",
+        "url": "https://open.spotify.com/album/5QmzvShOSXdLds65q3jbxx"
+      },
+      "artists": [
+        {
+          "name": "98\u00ba",
+          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "I Do (Cherish You)",
+      "url": "https://open.spotify.com/track/6BoueSxgJU2heOvYVDTBuk"
     },
     {
       "album": {
@@ -569,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+    },
+    {
+      "album": {
         "name": "All The Way... A Decade Of Song",
         "url": "https://open.spotify.com/album/05HEjdd9s8Egs5aa3r0YIF"
       },
@@ -764,7 +854,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 288173,
       "name": "The Power Of Love - Radio Edit",
       "url": "https://open.spotify.com/track/4hNnlZ2ro9G7npTrV08LS3"
@@ -854,7 +944,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 277200,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/69MmmKaqTGd2lBh1qNVpeP"

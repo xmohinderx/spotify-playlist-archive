@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
+      },
+      "artists": [
+        {
+          "name": "Manuel Esperon",
+          "url": "https://open.spotify.com/artist/4R2lVKHhuxpVXjOsgIQKjr"
+        },
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "Ay Jalisco",
+      "url": "https://open.spotify.com/track/3xI51SnRTo8nhSwnq00fFI"
+    },
+    {
+      "album": {
         "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
         "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
       },
@@ -196,7 +218,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 176386,
       "name": "El Caporal de Chihuahua",
       "url": "https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD"
@@ -232,7 +254,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 134906,
       "name": "El Fandanguero",
       "url": "https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW"
@@ -286,7 +308,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 191133,
       "name": "El mariachi",
       "url": "https://open.spotify.com/track/6lBalxphK1ccXVwlxYng9H"
@@ -326,6 +348,24 @@
       "duration_ms": 186453,
       "name": "El Mezcalito",
       "url": "https://open.spotify.com/track/5W2NjVnqgsyLRzCBJA2wNj"
+    },
+    {
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174306,
+      "name": "El Pajaro Carpintero",
+      "url": "https://open.spotify.com/track/08fOgmsOmZyzXvly76Mp7K"
     },
     {
       "album": {
@@ -549,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Sones",
+        "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Tecalitlan",
+          "url": "https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204538,
+      "name": "Fiesta Charra",
+      "url": "https://open.spotify.com/track/5YVxMf12hVXHLWoNssn1In"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2NWbP3D49SbIgp2U9I84yj"
       },
@@ -560,7 +618,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 136493,
       "name": "Gavilancito Sangre Cruzada",
       "url": "https://open.spotify.com/track/4qKnjzcIukPfpquVZW8Lnw"
@@ -697,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178386,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+    },
+    {
+      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
       },
@@ -806,6 +882,24 @@
       "duration_ms": 168133,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW"
+    },
+    {
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "La espiga (Arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/40LeyzfJWpC9564x1SmiyX"
     },
     {
       "album": {
@@ -953,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124333,
+      "name": "Las Alazanas",
+      "url": "https://open.spotify.com/track/7Gk2XiFsPv7w4kGY4VU5qI"
+    },
+    {
+      "album": {
         "name": "Recuerdos De Mi Tierra",
         "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
       },
@@ -1036,10 +1148,28 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 241948,
       "name": "Popurri de Sones Jalisciences",
       "url": "https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L"
+    },
+    {
+      "album": {
+        "name": "Bicentenario",
+        "url": "https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Popurri de Sones Jarochos",
+      "url": "https://open.spotify.com/track/2TYitjWzuBzwuX6bPJn3uK"
     },
     {
       "album": {
@@ -1072,7 +1202,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 322168,
       "name": "Popurr\u00ed de Sones",
       "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
@@ -1278,7 +1408,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 193133,
       "name": "Zopilote Mojado",
       "url": "https://open.spotify.com/track/266tI89XpbXj8V7ZJH8P57"

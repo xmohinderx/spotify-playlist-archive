@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 408189,
       "name": "Ali Ben Hamdouch",
       "url": "https://open.spotify.com/track/6n2yPHqYi8k5mR8sUhTqJ4"
@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Gnawa Njoum Experience",
+        "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
+      },
+      "artists": [
+        {
+          "name": "Gnawa Njoum Experience",
+          "url": "https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375120,
+      "name": "Baba Arabi",
+      "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
+    },
+    {
+      "album": {
         "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
         "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
@@ -136,6 +154,24 @@
       "duration_ms": 375760,
       "name": "Baba Mimoun (Father Mimoun)",
       "url": "https://open.spotify.com/track/5M71QfNOpiXVn8oMRDoS0N"
+    },
+    {
+      "album": {
+        "name": "Exile",
+        "url": "https://open.spotify.com/album/6OZheEwdy4ckrFIYUM6X2C"
+      },
+      "artists": [
+        {
+          "name": "Nuru Kane",
+          "url": "https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179640,
+      "name": "Bambala",
+      "url": "https://open.spotify.com/track/1MRufqwOqcz0tVPlymfIEi"
     },
     {
       "album": {
@@ -158,6 +194,62 @@
       "duration_ms": 444786,
       "name": "Bambraka",
       "url": "https://open.spotify.com/track/1m4tIPPUrlO4OIjz2A3u81"
+    },
+    {
+      "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323615,
+      "name": "Bangara",
+      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
+    },
+    {
+      "album": {
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+        },
+        {
+          "name": "Amida Boussou",
+          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
+        },
+        {
+          "name": "Hassan Boussou",
+          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
+        },
+        {
+          "name": "Abdelkebir Merchane",
+          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
+        },
+        {
+          "name": "Zef Zaf",
+          "url": "https://open.spotify.com/artist/1cs08TsXSdpGOwfbOmm4yq"
+        },
+        {
+          "name": "Abdelkebir Amlil",
+          "url": "https://open.spotify.com/artist/7GhnTjzgICUgcz64gGZuGh"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306680,
+      "name": "Bangoro",
+      "url": "https://open.spotify.com/track/5lggd6SKPuOpHN8g7vAc9W"
     },
     {
       "album": {
@@ -212,7 +304,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 323848,
       "name": "Baniyorkoy",
       "url": "https://open.spotify.com/track/6ISbel4AdYheOCO65DX94A"
@@ -248,7 +340,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 569226,
       "name": "Bilaji",
       "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
@@ -396,10 +488,28 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 400744,
       "name": "Finkoum Ya Albouhala",
       "url": "https://open.spotify.com/track/3tasYylFyl52FR6Py5lPAB"
+    },
+    {
+      "album": {
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481255,
+      "name": "Foulani Hiriza / Soye",
+      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
     },
     {
       "album": {
@@ -547,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Soir\u00e9es Gnawa Neurasys Remaster, Vol. 5",
+        "url": "https://open.spotify.com/album/1yADz9TsbPu4nrlIPOwL02"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434155,
+      "name": "La Illaha Illa Allah",
+      "url": "https://open.spotify.com/track/3WMv8hXHCZAzITR77sFL6G"
+    },
+    {
+      "album": {
         "name": "Jah Gnawi",
         "url": "https://open.spotify.com/album/5KH1pCLPYV90Z3hJ7gvu8u"
       },
@@ -576,7 +704,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 292520,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
@@ -791,6 +919,44 @@
     },
     {
       "album": {
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Kasri",
+          "url": "https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61"
+        },
+        {
+          "name": "Amida Boussou",
+          "url": "https://open.spotify.com/artist/6foiKtwIs8aHwyDupk2ZO5"
+        },
+        {
+          "name": "Hassan Boussou",
+          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
+        },
+        {
+          "name": "Abdelkebir Merchane",
+          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
+        },
+        {
+          "name": "Zef Zaf",
+          "url": "https://open.spotify.com/artist/1cs08TsXSdpGOwfbOmm4yq"
+        },
+        {
+          "name": "Abdelkebir Amlil",
+          "url": "https://open.spotify.com/artist/7GhnTjzgICUgcz64gGZuGh"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569160,
+      "name": "Sidi Koumy",
+      "url": "https://open.spotify.com/track/15pwgz1YF0jYkXhGsZTCnD"
+    },
+    {
+      "album": {
         "name": "The Fire Within: Gnawa Music of Morocco",
         "url": "https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk"
       },
@@ -802,7 +968,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 239693,
       "name": "Sidi Musa",
       "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
@@ -932,7 +1098,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 513816,
       "name": "Youbati - Boulila",
       "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"

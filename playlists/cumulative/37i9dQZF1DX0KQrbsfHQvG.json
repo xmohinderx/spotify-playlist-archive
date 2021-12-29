@@ -38,7 +38,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 189262,
       "name": "21st Century Liability",
       "url": "https://open.spotify.com/track/5WAsLiCOLiz2iwJLcuJEgb"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "Berkeley's On Fire",
       "url": "https://open.spotify.com/track/0qQdqHBetnQZprhYBgJ9yh"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 178592,
       "name": "Bodied",
       "url": "https://open.spotify.com/track/3C7fssc2tiauEx2Z82evXo"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
@@ -566,7 +566,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 196120,
       "name": "Fuck Authority",
       "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 157656,
       "name": "Heart Afire",
       "url": "https://open.spotify.com/track/0xkCk9M0ebmQ3mysO27xlD"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 204026,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1caNzSrwm2CP4GNHLjdgmg"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 203590,
       "name": "Music in My Head",
       "url": "https://open.spotify.com/track/4K5DVRPZZ1ODCwHSNhIshu"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 190266,
       "name": "REV001",
       "url": "https://open.spotify.com/track/1848Fg5mU5Dk14CaahuasP"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 244680,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/0ueQD7R66pzETMuAdKHKAc"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 230680,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf"
@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "The Doomed",
+        "url": "https://open.spotify.com/album/4uHOQCxpSE2W3U7uaTd6Mg"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281780,
+      "name": "The Doomed",
+      "url": "https://open.spotify.com/track/54RaEDwHbCJKMdDq68EyKE"
+    },
+    {
+      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/7rgq4mAjZOPGVJCRF56FU4"
       },
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 179600,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 244741,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/2wLAE0dOBrxmKFql0qpsw5"
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 188493,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/3UbIhHCEYbH7ayc76IB0Q9"
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 171809,
       "name": "Walking In My Shoes",
       "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"

@@ -1,0 +1,909 @@
+{
+  "description": "Hit music from Ethiopia's finest.",
+  "name": "Ethio-Pop",
+  "num_followers": 10430,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTU5NTMyNjkyMywwMDAwMDAwOTAwMDAwMTczNzBlNTAzZmQwMDAwMDE3MGM0YWY2MjY4",
+  "tracks": [
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE"
+      },
+      "artists": [
+        {
+          "name": "Rophnan",
+          "url": "https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w"
+        }
+      ],
+      "duration_ms": 229812,
+      "name": "Get to Work",
+      "url": "https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR"
+    },
+    {
+      "added_at": "2020-07-21 10:22:03",
+      "album": {
+        "name": "Wegegta",
+        "url": "https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R"
+      },
+      "artists": [
+        {
+          "name": "Betty G",
+          "url": "https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Birabiroye",
+      "url": "https://open.spotify.com/track/63CHnczvavEof74GIzfmp5"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Asira Andu Getsoche",
+        "url": "https://open.spotify.com/album/27bquKGjQcjSFpBk5ybE3H"
+      },
+      "artists": [
+        {
+          "name": "Sami Dan",
+          "url": "https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY"
+        }
+      ],
+      "duration_ms": 273159,
+      "name": "123",
+      "url": "https://open.spotify.com/track/1ndWXkJUryhxsTjyMWL58l"
+    },
+    {
+      "added_at": "2020-07-21 10:22:03",
+      "album": {
+        "name": "Lerasih New",
+        "url": "https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv"
+      },
+      "artists": [
+        {
+          "name": "Jano Band",
+          "url": "https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm"
+        }
+      ],
+      "duration_ms": 382026,
+      "name": "Keteraraw Mado",
+      "url": "https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Siiyaadee",
+        "url": "https://open.spotify.com/album/0NESdLGWsLfnD8ZJm9Hurc"
+      },
+      "artists": [
+        {
+          "name": "Helen Berhe",
+          "url": "https://open.spotify.com/artist/7DVyaUx8Tu6oGmbDTSXPBO"
+        }
+      ],
+      "duration_ms": 330384,
+      "name": "Maalan Jiraa",
+      "url": "https://open.spotify.com/track/145cR7hHK6yfZFWgKdKqEn"
+    },
+    {
+      "added_at": "2020-07-21 10:22:03",
+      "album": {
+        "name": "Habesha",
+        "url": "https://open.spotify.com/album/7xeGTsVCULFt42tcgv85zK"
+      },
+      "artists": [
+        {
+          "name": "Amanuel Yemane",
+          "url": "https://open.spotify.com/artist/34vR4pOtaY9230Nmc1BKP8"
+        }
+      ],
+      "duration_ms": 297217,
+      "name": "Nigerewa",
+      "url": "https://open.spotify.com/track/3DvQz7jA79KweYLM4yRQJ8"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE"
+      },
+      "artists": [
+        {
+          "name": "Rophnan",
+          "url": "https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w"
+        }
+      ],
+      "duration_ms": 259130,
+      "name": "Lingerish",
+      "url": "https://open.spotify.com/track/3bGYH5jipEhhVSQtCek73t"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Kal Bekal",
+        "url": "https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l"
+      },
+      "artists": [
+        {
+          "name": "Bisrat Surafel",
+          "url": "https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH"
+        }
+      ],
+      "duration_ms": 275356,
+      "name": "Yebet Sira",
+      "url": "https://open.spotify.com/track/7uhafRBxioI4l74qEluOo6"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Checheho",
+        "url": "https://open.spotify.com/album/3hbNRs65PT6F0HoTIF1Ziv"
+      },
+      "artists": [
+        {
+          "name": "Aster Aweke",
+          "url": "https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L"
+        }
+      ],
+      "duration_ms": 369440,
+      "name": "Checheho",
+      "url": "https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Nahom's Favorite, Vol. 16",
+        "url": "https://open.spotify.com/album/3ef6vyNLF0MGhFSZvLcXcL"
+      },
+      "artists": [
+        {
+          "name": "Ephrem Tamiru",
+          "url": "https://open.spotify.com/artist/2R863D7ulLA8AJRllmiW60"
+        },
+        {
+          "name": "Gosayie Tesfaye",
+          "url": "https://open.spotify.com/artist/5nUICzCLIY5eYGqvpttE9J"
+        }
+      ],
+      "duration_ms": 397133,
+      "name": "Balgeru, Vol. 3",
+      "url": "https://open.spotify.com/track/35RzQeM58TA744ln3HaRDA"
+    },
+    {
+      "added_at": "2020-07-21 10:22:03",
+      "album": {
+        "name": "Vol. \u136a",
+        "url": "https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf"
+      },
+      "artists": [
+        {
+          "name": "Nhatty Man",
+          "url": "https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Yemegemeriyaye",
+      "url": "https://open.spotify.com/track/71DGTsCqCWt63Rb6KZ4mUL"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Arada, Vol. 2",
+        "url": "https://open.spotify.com/album/553m78LUWrXYmYPoGF18La"
+      },
+      "artists": [
+        {
+          "name": "Teddy Yo",
+          "url": "https://open.spotify.com/artist/6keR1xz9mkzbtLykVlJAGl"
+        },
+        {
+          "name": "Gentle Man",
+          "url": "https://open.spotify.com/artist/3wGiJCIx14bdgxj6jAtQOW"
+        },
+        {
+          "name": "King Kong",
+          "url": "https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY"
+        },
+        {
+          "name": "Yemaryam",
+          "url": "https://open.spotify.com/artist/4cNckHBJe98kv0yi6cvgRi"
+        }
+      ],
+      "duration_ms": 198112,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/5WUkmyLtLykEzctv4HRr7Z"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Ethiopia",
+        "url": "https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Afro",
+          "url": "https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p"
+        }
+      ],
+      "duration_ms": 445213,
+      "name": "Mar Eske Tuwaf (Fiqir Eske Meqabir)",
+      "url": "https://open.spotify.com/track/7aRNqr3q0Cg064SNLUpX37"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Keras Gar Negeger",
+        "url": "https://open.spotify.com/album/6AxXfgZACYYxYWdp6mwBr2"
+      },
+      "artists": [
+        {
+          "name": "Sami Dan",
+          "url": "https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY"
+        }
+      ],
+      "duration_ms": 302639,
+      "name": "Tefa Yemileyen",
+      "url": "https://open.spotify.com/track/7FTywuxqZm5nFhoZGP0xn2"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Wegegta",
+        "url": "https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R"
+      },
+      "artists": [
+        {
+          "name": "Betty G",
+          "url": "https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV"
+        }
+      ],
+      "duration_ms": 193278,
+      "name": "Bado",
+      "url": "https://open.spotify.com/track/6DJRq42LKg4I0z0BWFPQZA"
+    },
+    {
+      "added_at": "2020-07-03 07:13:13",
+      "album": {
+        "name": "To Know Without Knowing",
+        "url": "https://open.spotify.com/album/70dZnG0Bfa3a0GZKGzhTaa"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "Black Jesus Experience",
+          "url": "https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4"
+        }
+      ],
+      "duration_ms": 380419,
+      "name": "Mulatu",
+      "url": "https://open.spotify.com/track/0LhzIa0cXP8DJEs1nOCXZG"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Betam New Emiwodish",
+        "url": "https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ"
+      },
+      "artists": [
+        {
+          "name": "Dawit Tsige",
+          "url": "https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ"
+        }
+      ],
+      "duration_ms": 338364,
+      "name": "Betam New Emewodish",
+      "url": "https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Ethiopian Slow Romantic Collection - Vol.2",
+        "url": "https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip"
+      },
+      "artists": [
+        {
+          "name": "Wondimu Jira",
+          "url": "https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4"
+        }
+      ],
+      "duration_ms": 270838,
+      "name": "Gudaye Nesh",
+      "url": "https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Live In Paris",
+        "url": "https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Ahmed",
+          "url": "https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha"
+        }
+      ],
+      "duration_ms": 383093,
+      "name": "D\u00e8ra",
+      "url": "https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Vol. \u136a",
+        "url": "https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf"
+      },
+      "artists": [
+        {
+          "name": "Nhatty Man",
+          "url": "https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1"
+        }
+      ],
+      "duration_ms": 260847,
+      "name": "Ykomal Woy",
+      "url": "https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Nahiom Favorites, Vol. 19",
+        "url": "https://open.spotify.com/album/4DfZwvE1S6ZimCJ7dEYwXg"
+      },
+      "artists": [
+        {
+          "name": "Buzuayew Demissie",
+          "url": "https://open.spotify.com/artist/2Wm17zcM0MLD7TQBS1lgPq"
+        }
+      ],
+      "duration_ms": 356280,
+      "name": "Tizita",
+      "url": "https://open.spotify.com/track/784q54gDzR98Mfd56z56OF"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Ende Kal",
+        "url": "https://open.spotify.com/album/1b6gLk9kr3bObvC0u7R9Vo"
+      },
+      "artists": [
+        {
+          "name": "Eyob Mekonen",
+          "url": "https://open.spotify.com/artist/5hn5axBeYPCxuGA07FE731"
+        }
+      ],
+      "duration_ms": 386429,
+      "name": "Debzezesh",
+      "url": "https://open.spotify.com/track/5nUbqoz7j9btdIZkkuJL5a"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Andiken",
+        "url": "https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf"
+      },
+      "artists": [
+        {
+          "name": "Dawit Mellesse",
+          "url": "https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V"
+        }
+      ],
+      "duration_ms": 329720,
+      "name": "Endet Lichal",
+      "url": "https://open.spotify.com/track/1o7uMGTxPvKVsS8H5g8kEw"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Gerager",
+        "url": "https://open.spotify.com/album/5NpaDCWohCCTFJL4iWWtFa"
+      },
+      "artists": [
+        {
+          "name": "Zebiba Girma",
+          "url": "https://open.spotify.com/artist/5Tu7xzkOlzjuxouXfUefHb"
+        }
+      ],
+      "duration_ms": 253362,
+      "name": "Gerager",
+      "url": "https://open.spotify.com/track/1JU3NgOVMalFQ64EDh8ljr"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Wegegta",
+        "url": "https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R"
+      },
+      "artists": [
+        {
+          "name": "Betty G",
+          "url": "https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV"
+        }
+      ],
+      "duration_ms": 245113,
+      "name": "Geriye",
+      "url": "https://open.spotify.com/track/0RpIZYbiYCUhct3IID6Ty2"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Zaray Yehun Nege",
+        "url": "https://open.spotify.com/album/18uNT4E2ZaHcx5tLOoX1EH"
+      },
+      "artists": [
+        {
+          "name": "Lij Michael",
+          "url": "https://open.spotify.com/artist/0HLyF2eZjPgqtyMp3pwxce"
+        }
+      ],
+      "duration_ms": 220746,
+      "name": "Zemenay Mariye",
+      "url": "https://open.spotify.com/track/5pCITb1hiPJhRAGlh42hIC"
+    },
+    {
+      "added_at": "2019-11-25 12:46:00",
+      "album": {
+        "name": "Rega",
+        "url": "https://open.spotify.com/album/6V0xmnyjX86ZfvuUTVKaLB"
+      },
+      "artists": [
+        {
+          "name": "Jano Band",
+          "url": "https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm"
+        },
+        {
+          "name": "Ahadu",
+          "url": "https://open.spotify.com/artist/656D6SvS3ESkvQdroZMC6W"
+        },
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/2WrgUQR8a2v9yu8ViT1aIH"
+        }
+      ],
+      "duration_ms": 255596,
+      "name": "Rega",
+      "url": "https://open.spotify.com/track/5srRfLAfga930OVMWupdB7"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Fikir Beamargna",
+        "url": "https://open.spotify.com/album/0rYlsn4ivsz2EMPtv4S66x"
+      },
+      "artists": [
+        {
+          "name": "Abdu Kiar",
+          "url": "https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Fiker Beamargna",
+      "url": "https://open.spotify.com/track/3u0vFUuILcUmhQXUzBHt7F"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Arifzefen Singles Collection, Vol. I",
+        "url": "https://open.spotify.com/album/7uiQJEWNzZt6puyMWX2J2d"
+      },
+      "artists": [
+        {
+          "name": "Teddy Afro",
+          "url": "https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p"
+        }
+      ],
+      "duration_ms": 319948,
+      "name": "Abebayewosh",
+      "url": "https://open.spotify.com/track/5xgAoUsx0TV1bbYzTpxvgj"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Ethiopia",
+        "url": "https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Afro",
+          "url": "https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p"
+        }
+      ],
+      "duration_ms": 477680,
+      "name": "Atse Tewodros",
+      "url": "https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Kal Bekal",
+        "url": "https://open.spotify.com/album/0pwi6ih9AabLeTFP8qjy9l"
+      },
+      "artists": [
+        {
+          "name": "Bisrat Surafel",
+          "url": "https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH"
+        }
+      ],
+      "duration_ms": 319921,
+      "name": "Godanaw",
+      "url": "https://open.spotify.com/track/7bTnPv7Wi0rLvgWvC6uxvo"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Andiken",
+        "url": "https://open.spotify.com/album/4uj9CkcVsJMJYLTVWGKeAf"
+      },
+      "artists": [
+        {
+          "name": "Dawit Mellesse",
+          "url": "https://open.spotify.com/artist/6iGBGaxHab6voJ9yrhPR0V"
+        }
+      ],
+      "duration_ms": 373640,
+      "name": "Konjo Bager",
+      "url": "https://open.spotify.com/track/0YMIDzzUtGmPVGMhBXDkzB"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Mengedegna",
+        "url": "https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3"
+      },
+      "artists": [
+        {
+          "name": "Kako Getachew",
+          "url": "https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu"
+        }
+      ],
+      "duration_ms": 293384,
+      "name": "Gude",
+      "url": "https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Tikur Anbessa",
+        "url": "https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8"
+      },
+      "artists": [
+        {
+          "name": "Abdu Kiar",
+          "url": "https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "Altelashim",
+      "url": "https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Vol. \u136a",
+        "url": "https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf"
+      },
+      "artists": [
+        {
+          "name": "Nhatty Man",
+          "url": "https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1"
+        }
+      ],
+      "duration_ms": 310677,
+      "name": "Twek",
+      "url": "https://open.spotify.com/track/3OADWQ0NN2leWsq7nWOcdi"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Lerasih New",
+        "url": "https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv"
+      },
+      "artists": [
+        {
+          "name": "Jano Band",
+          "url": "https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm"
+        }
+      ],
+      "duration_ms": 299706,
+      "name": "Hager Alegn",
+      "url": "https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Nahom Favorite, Vol. 14 (Best Collections)",
+        "url": "https://open.spotify.com/album/3M5gXrIX9VhqPfsvfOHI51"
+      },
+      "artists": [
+        {
+          "name": "Natti Haile",
+          "url": "https://open.spotify.com/artist/7wqwO7cnVqGdHenEADW9k2"
+        }
+      ],
+      "duration_ms": 295600,
+      "name": "Bob Marly",
+      "url": "https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "'Sey",
+        "url": "https://open.spotify.com/album/2n1YBeI82wlaiLQkg1POZ0"
+      },
+      "artists": [
+        {
+          "name": "Ephrem Amare",
+          "url": "https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95"
+        }
+      ],
+      "duration_ms": 285021,
+      "name": "'Sey",
+      "url": "https://open.spotify.com/track/6q26FbrCmwzSr869JeYXaT"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Tilobign",
+        "url": "https://open.spotify.com/album/0r806TJjYUw4g4d5LEoSh9"
+      },
+      "artists": [
+        {
+          "name": "Rahel Getu",
+          "url": "https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ"
+        }
+      ],
+      "duration_ms": 295994,
+      "name": "Tilobign",
+      "url": "https://open.spotify.com/track/57eim2kUA5BYD7m6fdLeDM"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Mengedegna",
+        "url": "https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3"
+      },
+      "artists": [
+        {
+          "name": "Muluken Dawit",
+          "url": "https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV"
+        }
+      ],
+      "duration_ms": 282632,
+      "name": "Ena",
+      "url": "https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "The Ethiopian Millennium Collection - 6-cd Box Set",
+        "url": "https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4"
+      },
+      "artists": [
+        {
+          "name": "Abinet Agonafir",
+          "url": "https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j"
+        }
+      ],
+      "duration_ms": 304453,
+      "name": "Disc 1: Sitalekish Des Alishign (A. Agonafir)",
+      "url": "https://open.spotify.com/track/6Hux3tjwWhozjKoOajz9nb"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Yeaddis Ken Tsehay",
+        "url": "https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF"
+      },
+      "artists": [
+        {
+          "name": "Hayleyesus Feyssa",
+          "url": "https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i"
+        }
+      ],
+      "duration_ms": 422773,
+      "name": "Ayeneye",
+      "url": "https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Wegegta",
+        "url": "https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R"
+      },
+      "artists": [
+        {
+          "name": "Betty G",
+          "url": "https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Mengedegna",
+      "url": "https://open.spotify.com/track/6FLzUgglQPqA78lKior10y"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Yebleniloo",
+        "url": "https://open.spotify.com/album/7xF9to8GK2yUYND3JRZBMa"
+      },
+      "artists": [
+        {
+          "name": "Selamawit Yohannes",
+          "url": "https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8"
+        }
+      ],
+      "duration_ms": 291781,
+      "name": "Yebleniloo",
+      "url": "https://open.spotify.com/track/5Jl2tQyJUmFJRcdAtLrbfo"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Teddy",
+        "url": "https://open.spotify.com/album/5h1VNzRDbt6hayX9hgHuf8"
+      },
+      "artists": [
+        {
+          "name": "Theodros Kassahun",
+          "url": "https://open.spotify.com/artist/2CMA5fXRHJUfaokzsmGucv"
+        }
+      ],
+      "duration_ms": 337040,
+      "name": "Shegnehush",
+      "url": "https://open.spotify.com/track/4bUns4JjV5XAYlSx0i9lYI"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Lageba New",
+        "url": "https://open.spotify.com/album/1leaV7ZRJi3Cf3raJd62SW"
+      },
+      "artists": [
+        {
+          "name": "Gildo Kassa",
+          "url": "https://open.spotify.com/artist/6vL0Hxfu0HWRHF33vKlHIS"
+        }
+      ],
+      "duration_ms": 221681,
+      "name": "Lageba New",
+      "url": "https://open.spotify.com/track/1fzfKZnrbsziirj0RvGdxV"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Sew, Pt. 1 Mot",
+        "url": "https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet"
+      },
+      "artists": [
+        {
+          "name": "Dawit Cherent",
+          "url": "https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1"
+        }
+      ],
+      "duration_ms": 316026,
+      "name": "Fiker",
+      "url": "https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Atiyo",
+        "url": "https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV"
+      },
+      "artists": [
+        {
+          "name": "Ephrem Amare",
+          "url": "https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95"
+        }
+      ],
+      "duration_ms": 290843,
+      "name": "Atiyo",
+      "url": "https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Ethiopia",
+        "url": "https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Afro",
+          "url": "https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p"
+        }
+      ],
+      "duration_ms": 397093,
+      "name": "Ethiopia",
+      "url": "https://open.spotify.com/track/6QGdSpLFgV2XSFETaDXf0Z"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Yene Zema",
+        "url": "https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf"
+      },
+      "artists": [
+        {
+          "name": "Dawit Tsige",
+          "url": "https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q"
+        }
+      ],
+      "duration_ms": 232275,
+      "name": "Chall Zendero",
+      "url": "https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r"
+    },
+    {
+      "added_at": "2018-10-04 10:38:09",
+      "album": {
+        "name": "Lerasih New",
+        "url": "https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv"
+      },
+      "artists": [
+        {
+          "name": "Jano Band",
+          "url": "https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm"
+        }
+      ],
+      "duration_ms": 294733,
+      "name": "Kenat Wediya",
+      "url": "https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF"
+    },
+    {
+      "added_at": "2020-05-15 06:47:27",
+      "album": {
+        "name": "Lijay",
+        "url": "https://open.spotify.com/album/2z3hyHFNHnQ3h9R36uUvzO"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "Black Jesus Experience",
+          "url": "https://open.spotify.com/artist/4zoaPormj8VuScjdQX9Rh4"
+        }
+      ],
+      "duration_ms": 324608,
+      "name": "Lijay",
+      "url": "https://open.spotify.com/track/57BxU4uqdbl6TITWtnQDMw"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/1aDK3U8NLFyi5zBYLRFxUK"
+      },
+      "artists": [
+        {
+          "name": "Yohana",
+          "url": "https://open.spotify.com/artist/2noU35ow21LQjXl4msANBG"
+        }
+      ],
+      "duration_ms": 259369,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5hiih9ZGthFog3buukf7Ss"
+    },
+    {
+      "added_at": "2020-06-05 12:00:08",
+      "album": {
+        "name": "Weni",
+        "url": "https://open.spotify.com/album/7vdf2o4j9g5Yq6U1yxTJ5c"
+      },
+      "artists": [
+        {
+          "name": "Timnit Welday",
+          "url": "https://open.spotify.com/artist/5zLVjV7HLXnaNAmR4ilnRm"
+        }
+      ],
+      "duration_ms": 261990,
+      "name": "Weni",
+      "url": "https://open.spotify.com/track/6p6EtFi1gebyBR0gkXYEbS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8Q8vgP3md04"
+}

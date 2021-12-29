@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 161306,
       "name": "Bits & Pieces",
       "url": "https://open.spotify.com/track/2muPf36lYJMIqGzI3h8JTQ"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 231333,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/6nLWRaQyv7SbwUTC1n3Lmg"
+      },
+      "artists": [
+        {
+          "name": "Sykamore",
+          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155093,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/7hmNm4msXbykTrRw7YOJgu"
+    },
+    {
+      "album": {
         "name": "Come In (But Don't Make Yourself Comfortable)",
         "url": "https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 199413,
       "name": "Drag It Out",
       "url": "https://open.spotify.com/track/06uF7nCt1WzRjZJrOhSMu8"
@@ -344,7 +362,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 164701,
       "name": "Every Last Thing",
       "url": "https://open.spotify.com/track/5qQNPkFOoOPT4IAlmHX0yH"
@@ -514,7 +532,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 201480,
       "name": "Getting Good",
       "url": "https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52"
@@ -626,7 +644,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 206906,
       "name": "Growing Old Young",
       "url": "https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2"
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 166928,
       "name": "Me About Me",
       "url": "https://open.spotify.com/track/5T6blAaKgFyfRZ7yyK4SoQ"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/4ZwLDLTkFfy45yYA39kYOQ"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 200541,
       "name": "Not Your Girl",
       "url": "https://open.spotify.com/track/6FlDHz8m1LARwqKCuDfvmF"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 243923,
       "name": "Overnight Sensation",
       "url": "https://open.spotify.com/track/2TJAXndPE9w8eYX7Diyl0O"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 216266,
       "name": "Road Less Traveled",
       "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 166185,
       "name": "Shoulda",
       "url": "https://open.spotify.com/track/3eEPoXCE8euzeFobYQTK9M"
@@ -1666,7 +1684,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 187121,
       "name": "Sister",
       "url": "https://open.spotify.com/track/39O2sUSkGz1fxBjihGRlve"
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 242005,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 177857,
       "name": "Table For One Drinking For Two",
       "url": "https://open.spotify.com/track/6Qi5Bc5qDoYt7P9H2lTTiR"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 200440,
       "name": "The Woman I've Become",
       "url": "https://open.spotify.com/track/3Sov5oiUCNxw1SvljM31V9"
@@ -2054,7 +2072,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 203384,
       "name": "Thirties",
       "url": "https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ"
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 187440,
       "name": "What The Stars See (feat. Karen Fairchild & Lindsay Ell)",
       "url": "https://open.spotify.com/track/76chhJiVuMIdu3Ppx6EYXa"
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 216546,
       "name": "Wild Frontier",
       "url": "https://open.spotify.com/track/57gjWu6xmWpk0XoNEIi08w"

@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 204354,
       "name": "Best Behavior",
       "url": "https://open.spotify.com/track/3wb6i8PrbGwneMBvE6ZJis"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 105515,
       "name": "Big",
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 481813,
       "name": "Broke",
       "url": "https://open.spotify.com/track/7tNoESflewtLqMdvgUuE3e"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 149666,
       "name": "Calling It",
       "url": "https://open.spotify.com/track/1V4GgaXzuPn4lOWtx33crz"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 289111,
       "name": "Chondromalacia Patella",
       "url": "https://open.spotify.com/track/4fduOgyq6d5DBlnST7h9VR"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 226973,
       "name": "Courtesy Call",
       "url": "https://open.spotify.com/track/3abS9KDClZlCFY7n1g5HEZ"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 264436,
       "name": "Daily Routine",
       "url": "https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 173000,
       "name": "Detainer Man",
       "url": "https://open.spotify.com/track/7fMaXnJ5ENukSySob1d07z"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 146978,
       "name": "Don't Cling To Life",
       "url": "https://open.spotify.com/track/0KWnYZSO5GAzCJrgr4oGNr"
@@ -650,10 +650,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 331693,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
+    },
+    {
+      "album": {
+        "name": "Fantasy Island",
+        "url": "https://open.spotify.com/album/1nJK1gMPEJHS1L3TYWDfQI"
+      },
+      "artists": [
+        {
+          "name": "Clinic",
+          "url": "https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155493,
+      "name": "Fine Dining",
+      "url": "https://open.spotify.com/track/31MASht0doFNCs2ev9tMqV"
     },
     {
       "album": {
@@ -819,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Going Soft",
+        "url": "https://open.spotify.com/album/6im74GDpv2EQ1isZ2KouqP"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "Going Soft",
+      "url": "https://open.spotify.com/track/4gCWOLLQDJsGS4U5cGA4mi"
+    },
+    {
+      "album": {
         "name": "Good Time Charlie",
         "url": "https://open.spotify.com/album/4S61h0CKciUdMo51bM3SAR"
       },
@@ -866,10 +902,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 157146,
       "name": "Gotta Do More Gotta Be More",
       "url": "https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom"
+    },
+    {
+      "album": {
+        "name": "Measure",
+        "url": "https://open.spotify.com/album/3zOosGBkqCzJTmC6W2brtt"
+      },
+      "artists": [
+        {
+          "name": "Heavy Lungs",
+          "url": "https://open.spotify.com/artist/07eIrj0b3z5mgvtkDmWoxo"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Half Full",
+      "url": "https://open.spotify.com/track/6u10BK0FWxt58u6lMobxi5"
     },
     {
       "album": {
@@ -938,7 +992,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 175800,
       "name": "Homo Sapien",
       "url": "https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF"
@@ -1190,7 +1244,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 214551,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/19PvZLD2TpIzc7JqcTRxa0"
@@ -1226,7 +1280,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 214440,
       "name": "Love Me Do Again",
       "url": "https://open.spotify.com/track/0T4hPBqUrXIY3BGUh3sYgF"
@@ -1316,7 +1370,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 330400,
       "name": "Miami Lounge",
       "url": "https://open.spotify.com/track/0k6aOvZvxHCvkrngINKWG5"
@@ -1392,7 +1446,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 272500,
       "name": "Narrator - Edit",
       "url": "https://open.spotify.com/track/0kU1dKmPqpSjHBMQ0lU9z1"
@@ -1500,7 +1554,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 177120,
       "name": "Nite Expo",
       "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
@@ -1518,7 +1572,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 239033,
       "name": "Nothing Feels Natural",
       "url": "https://open.spotify.com/track/7jFM0wZch8oJVRVQMl2nvV"
@@ -1554,7 +1608,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 214578,
       "name": "One Rizla",
       "url": "https://open.spotify.com/track/2ibdYmH7GRHNnUcBa6kbnG"
@@ -1594,6 +1648,28 @@
       "duration_ms": 375626,
       "name": "Paddling",
       "url": "https://open.spotify.com/track/1pftKU2VwJglYdQPYaFFMI"
+    },
+    {
+      "album": {
+        "name": "Beyondless",
+        "url": "https://open.spotify.com/album/5H8wFFblf7YvGc7LbBzuR9"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        },
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219327,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/2V4U5hZOUnY1jzhNZpcrAD"
     },
     {
       "album": {
@@ -1644,7 +1720,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 241532,
       "name": "Petty Thieving",
       "url": "https://open.spotify.com/track/3dxAvrqRv4KENeZTpACrnJ"
@@ -1680,7 +1756,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Queen Sophie for President",
       "url": "https://open.spotify.com/track/3cJK07DfDHv3dLqRETQdNm"
@@ -1716,7 +1792,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
@@ -1738,7 +1814,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 224180,
       "name": "Rumpus Room",
       "url": "https://open.spotify.com/track/2fQ3EXY5NVpgql5Bg8gHoY"
@@ -1774,7 +1850,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 167926,
       "name": "Salami",
       "url": "https://open.spotify.com/track/33iMLPqQFfTXnEnMaO3BiM"
@@ -1828,10 +1904,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Sekwar",
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
+      "album": {
+        "name": "Useless Coordinates",
+        "url": "https://open.spotify.com/album/6VWhzAf4eA5pvKr0qMlKYj"
+      },
+      "artists": [
+        {
+          "name": "Drahla",
+          "url": "https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/0vMTSRlRofM60LZmWP04ZC"
     },
     {
       "album": {
@@ -1846,7 +1940,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 207066,
       "name": "She Will",
       "url": "https://open.spotify.com/track/345yzi3WeMTpMTl3Nyvjjk"
@@ -1864,7 +1958,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 168133,
       "name": "Shiny New Model",
       "url": "https://open.spotify.com/track/5Blr6wOtVsOujq4YsTDETf"
@@ -1882,7 +1976,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 252411,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/07cUDeewEa1wMfKHUakxtK"
@@ -1954,7 +2048,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 336624,
       "name": "Slow (Loud)",
       "url": "https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs"
@@ -1972,7 +2066,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 300820,
       "name": "Sludge",
       "url": "https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy"
@@ -2048,7 +2142,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 237546,
       "name": "Sports",
       "url": "https://open.spotify.com/track/56yeb6zxKn9aNjLyvbs1BM"
@@ -2084,7 +2178,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 185080,
       "name": "Stimulus for Living",
       "url": "https://open.spotify.com/track/6ZuhUEBqrXxvsrxAymcwzh"
@@ -2142,7 +2236,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 276002,
       "name": "Sunglasses - Edit",
       "url": "https://open.spotify.com/track/449tx8bd5PFEw5dT0KPpLz"
@@ -2204,6 +2298,24 @@
       "duration_ms": 268985,
       "name": "Switching On - IDLES Remix",
       "url": "https://open.spotify.com/track/5o351ccYqmwl4Nc5E7YE2z"
+    },
+    {
+      "album": {
+        "name": "Taking On Time",
+        "url": "https://open.spotify.com/album/3KfdysWJU39uXlmN5ivR4S"
+      },
+      "artists": [
+        {
+          "name": "Sinead O Brien",
+          "url": "https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188986,
+      "name": "Taking On Time",
+      "url": "https://open.spotify.com/track/1b0UgeaxiNubfHilAf4AWh"
     },
     {
       "album": {
@@ -2290,7 +2402,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 235306,
       "name": "The Hype",
       "url": "https://open.spotify.com/track/7zgfVkrjf2B9qWE1CUaXyr"
@@ -2326,7 +2438,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 207193,
       "name": "Theme from Krill",
       "url": "https://open.spotify.com/track/67ttNRUJGWnjeLOQjCtMSV"
@@ -2344,7 +2456,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 200107,
       "name": "These Are Not Your Memories",
       "url": "https://open.spotify.com/track/3IibriQcR33GG9ZDkBdLiT"
@@ -2362,7 +2474,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 179975,
       "name": "This Blue Mob",
       "url": "https://open.spotify.com/track/7wvtVjlEWjGy6Vyt7FQCbb"
@@ -2434,7 +2546,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 248408,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/072FXhjdSibK3wSavEBnIc"
@@ -2510,7 +2622,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 234560,
       "name": "Uber Alles",
       "url": "https://open.spotify.com/track/3gQpvTd6fWeAT5RuqgTwei"
@@ -2568,6 +2680,24 @@
       "duration_ms": 187626,
       "name": "Water in the Well",
       "url": "https://open.spotify.com/track/38UnguvFOM6pfME9l9zig4"
+    },
+    {
+      "album": {
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+      },
+      "artists": [
+        {
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
     },
     {
       "album": {

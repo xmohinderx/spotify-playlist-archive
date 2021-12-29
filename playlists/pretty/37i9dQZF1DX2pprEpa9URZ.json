@@ -1,41 +1,13 @@
 {
   "description": "This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.",
   "name": "Org\u00e1nica",
-  "num_followers": 571122,
+  "num_followers": 571451,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDY1Mjk3MywwMDAwMDAwMGEwZDZkMGVlYTAyYWU2OTdmMjVmMjljMDUzMTBhYmNm",
+  "snapshot_id": "MTY0MDczODQwNiwwMDAwMDAwMGZjMTk0YTBhNjc3Njc4OWJhZjM0YzhmZWU3MzgyN2U1",
   "tracks": [
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Feather (The Remixes)",
-        "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
-      },
-      "artists": [
-        {
-          "name": "Nhii",
-          "url": "https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X"
-        },
-        {
-          "name": "Pippermint",
-          "url": "https://open.spotify.com/artist/3U05nJox1ck1J6Cgvu9ANF"
-        },
-        {
-          "name": "Madmotormiquel",
-          "url": "https://open.spotify.com/artist/0aiPokyV5CIqT8kmoYoHg1"
-        },
-        {
-          "name": "Iorie",
-          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
-        }
-      ],
-      "duration_ms": 427102,
-      "name": "Feather - Iorie & Madmotormiquel Remix",
-      "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
-    },
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
@@ -75,6 +47,22 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
         "name": "Drum 'N' Feels",
         "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
       },
@@ -95,110 +83,46 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+        "name": "Feather (The Remixes)",
+        "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
       },
       "artists": [
         {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Amazon",
-        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
-      },
-      "artists": [
-        {
-          "name": "Beyhude",
-          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
-        }
-      ],
-      "duration_ms": 544182,
-      "name": "Amazon",
-      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Aruna Chandra",
-        "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
-      },
-      "artists": [
-        {
-          "name": "Mashti",
-          "url": "https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf"
+          "name": "Nhii",
+          "url": "https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X"
         },
         {
-          "name": "Deep Dive Corp.",
-          "url": "https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb"
+          "name": "Pippermint",
+          "url": "https://open.spotify.com/artist/3U05nJox1ck1J6Cgvu9ANF"
         },
         {
-          "name": "David Devanagari",
-          "url": "https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3"
+          "name": "Madmotormiquel",
+          "url": "https://open.spotify.com/artist/0aiPokyV5CIqT8kmoYoHg1"
+        },
+        {
+          "name": "Iorie",
+          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
         }
       ],
-      "duration_ms": 538000,
-      "name": "Aruna Chandra",
-      "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+      "duration_ms": 427102,
+      "name": "Feather - Iorie & Madmotormiquel Remix",
+      "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
     },
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Neunivai",
-        "url": "https://open.spotify.com/album/5ZGmSUDJLrZKYaHj3vvVn2"
+        "name": "AKKAN",
+        "url": "https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3"
       },
       "artists": [
         {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+          "name": "Akkan",
+          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
         }
       ],
-      "duration_ms": 261639,
-      "name": "Neunivai - Original Mix",
-      "url": "https://open.spotify.com/track/3jCB8uRUxUjownKn5xaQzE"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Maasai (Doctor Flake Remix)",
-        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
-      },
-      "artists": [
-        {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
-        }
-      ],
-      "duration_ms": 470837,
-      "name": "Maasai - Doctor Flake Remix",
-      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
+      "duration_ms": 270992,
+      "name": "Bananat",
+      "url": "https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -219,18 +143,54 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Childhood",
-        "url": "https://open.spotify.com/album/2aqZyP9x7G7Sr5B0dJZfmf"
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
       "artists": [
         {
-          "name": "KIDS\u00d8",
-          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
         }
       ],
-      "duration_ms": 242145,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/017gRJ8IE2WZHWkt3S3XFo"
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Minimuzikhol Benefit Compilation",
+        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
+      },
+      "artists": [
+        {
+          "name": "TUTAN",
+          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
+        }
+      ],
+      "duration_ms": 366886,
+      "name": "Mazbata",
+      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -279,22 +239,74 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+        "name": "Respira + Remixes",
+        "url": "https://open.spotify.com/album/63U9HK7VyHXBuxnzhTuFyV"
       },
       "artists": [
         {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
         },
         {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+          "name": "San Miguel",
+          "url": "https://open.spotify.com/artist/67FqTi4AEY5O8Xa3i5EAe2"
         }
       ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+      "duration_ms": 538040,
+      "name": "Respira - San Miguel Remix",
+      "url": "https://open.spotify.com/track/35ghbtx6xt8cSCvJXwUkLF"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+      },
+      "artists": [
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Amazon",
+        "url": "https://open.spotify.com/album/2c3Jig1ItqfgOFQLwT0b9z"
+      },
+      "artists": [
+        {
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+        }
+      ],
+      "duration_ms": 544182,
+      "name": "Amazon",
+      "url": "https://open.spotify.com/track/1shr9FbwrECsQ3i9hJtz5y"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "The Deep South",
+        "url": "https://open.spotify.com/album/5Gnnle3P6DoHp5vtqkN0P0"
+      },
+      "artists": [
+        {
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
+        }
+      ],
+      "duration_ms": 383775,
+      "name": "Pastorcita",
+      "url": "https://open.spotify.com/track/2bq3BcwuIjsvS18KXgqzZV"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -319,54 +331,22 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+        "name": "Ostium",
+        "url": "https://open.spotify.com/album/7A5NsAUgMhprAD70IHezfN"
       },
       "artists": [
         {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
-      },
-      "artists": [
-        {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+          "name": "Dandara",
+          "url": "https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4"
         },
         {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+          "name": "Alex Fogo",
+          "url": "https://open.spotify.com/artist/1CytOTz7mCq0dtYEjeLDXR"
         }
       ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+      "duration_ms": 408000,
+      "name": "Ostium",
+      "url": "https://open.spotify.com/track/3yL7kzJIDk6wkoAVBh0wxH"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -387,166 +367,102 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+        "name": "Calido",
+        "url": "https://open.spotify.com/album/4Q6skYgXLAI7Cgs6ddw6xN"
       },
       "artists": [
         {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+          "name": "Rey&Kjavik",
+          "url": "https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz"
         }
       ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+      "duration_ms": 353585,
+      "name": "Calido",
+      "url": "https://open.spotify.com/track/7BG0uaqYbhpq4ZjYDURkf6"
     },
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Twilight (Acid Pauli Remix)",
-        "url": "https://open.spotify.com/album/0yYzUOlhkeVAqvf6DJitKX"
+        "name": "Whistleman EP",
+        "url": "https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70"
       },
       "artists": [
         {
-          "name": "Noema",
-          "url": "https://open.spotify.com/artist/3jSvMIKT2Eo5mNvYN9ownN"
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 479920,
+      "name": "Whistleman",
+      "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Milambi",
+        "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         },
         {
-          "name": "Acid Pauli",
-          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 439453,
-      "name": "Twilight - Acid Pauli Remix",
-      "url": "https://open.spotify.com/track/4HS2UZ8hhIeUTtNZQwpJZu"
+      "duration_ms": 193278,
+      "name": "Milambi",
+      "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
     },
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
       },
       "artists": [
         {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Filinta (Remixes)",
-        "url": "https://open.spotify.com/album/0kUAstyyjQxG13cKqjhItw"
+        "name": "Neunivai",
+        "url": "https://open.spotify.com/album/5ZGmSUDJLrZKYaHj3vvVn2"
       },
       "artists": [
         {
-          "name": "Headwaters",
-          "url": "https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm"
-        },
-        {
-          "name": "Spaniol",
-          "url": "https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1"
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
         }
       ],
-      "duration_ms": 403933,
-      "name": "Filinta - Spaniol Remix",
-      "url": "https://open.spotify.com/track/3Ea68m51Xmg5JbZ3i8DEhO"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Recollection EP (Incl. Zigan Aldi Remix)",
-        "url": "https://open.spotify.com/album/4qi7HeM3CAQDUzyZjhccyX"
-      },
-      "artists": [
-        {
-          "name": "Literatura",
-          "url": "https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc"
-        },
-        {
-          "name": "Zigan Aldi",
-          "url": "https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1"
-        }
-      ],
-      "duration_ms": 551751,
-      "name": "Recollection - Zigan Aldi Remix",
-      "url": "https://open.spotify.com/track/0SAjLXaOeCjGYJPFJmkJ6q"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 309847,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Dimitro",
-        "url": "https://open.spotify.com/album/1OnoE2oVTfjoLzqwXSSiBv"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        },
-        {
-          "name": "Elis Dubaz",
-          "url": "https://open.spotify.com/artist/4KUPRBpCJo6FHTsqdakd2x"
-        }
-      ],
-      "duration_ms": 278569,
-      "name": "Dimitro",
-      "url": "https://open.spotify.com/track/0vUB2nn0o2el8Q5Z2Bdf55"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Eta",
-        "url": "https://open.spotify.com/album/6LJI7ED8PSSVJmcC5k7x4L"
-      },
-      "artists": [
-        {
-          "name": "Israel Vich",
-          "url": "https://open.spotify.com/artist/6gWRPpUuV4FoXcRFIu3OAA"
-        },
-        {
-          "name": "Yong Jai Kim",
-          "url": "https://open.spotify.com/artist/6EmHBMBurb9mY1dWqW3qrD"
-        }
-      ],
-      "duration_ms": 369092,
-      "name": "El Viento",
-      "url": "https://open.spotify.com/track/2JqDN350J5Ldv08Coi31Z3"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Mencitaimu",
-        "url": "https://open.spotify.com/album/6gfwj35LdW08bmGXxNXvYf"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 488187,
-      "name": "Mencitaimu",
-      "url": "https://open.spotify.com/track/0pivFXWc9scNbb0HChzrRq"
+      "duration_ms": 261639,
+      "name": "Neunivai - Original Mix",
+      "url": "https://open.spotify.com/track/3jCB8uRUxUjownKn5xaQzE"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -571,34 +487,82 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Minimuzikhol Benefit Compilation",
-        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/2aqZyP9x7G7Sr5B0dJZfmf"
       },
       "artists": [
         {
-          "name": "TUTAN",
-          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
         }
       ],
-      "duration_ms": 366886,
-      "name": "Mazbata",
-      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
+      "duration_ms": 242145,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/017gRJ8IE2WZHWkt3S3XFo"
     },
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
       "artists": [
         {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
         }
       ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Mencitaimu",
+        "url": "https://open.spotify.com/album/6gfwj35LdW08bmGXxNXvYf"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "duration_ms": 488187,
+      "name": "Mencitaimu",
+      "url": "https://open.spotify.com/track/0pivFXWc9scNbb0HChzrRq"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/4LUzjDXCsQcyZdcayooGT3"
+      },
+      "artists": [
+        {
+          "name": "Raw Main",
+          "url": "https://open.spotify.com/artist/65E9rTNIH8GfUwyLyiLQfg"
+        }
+      ],
+      "duration_ms": 487043,
+      "name": "Koba",
+      "url": "https://open.spotify.com/track/2RQ5PrAyD1LN9bw6RBA6Tf"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Yuddhapot",
+        "url": "https://open.spotify.com/album/70yCZo1P0cu68tWa0pFSdo"
+      },
+      "artists": [
+        {
+          "name": "Zuma Dionys",
+          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
+        }
+      ],
+      "duration_ms": 469000,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4e9UIKY0dESrEdVGlxeVRW"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -619,22 +583,326 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Respira + Remixes",
-        "url": "https://open.spotify.com/album/63U9HK7VyHXBuxnzhTuFyV"
+        "name": "Shanti",
+        "url": "https://open.spotify.com/album/6CLfLgYKumgb703dvio9Ak"
       },
       "artists": [
         {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        },
-        {
-          "name": "San Miguel",
-          "url": "https://open.spotify.com/artist/67FqTi4AEY5O8Xa3i5EAe2"
+          "name": "Rapossa",
+          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
         }
       ],
-      "duration_ms": 538040,
-      "name": "Respira - San Miguel Remix",
-      "url": "https://open.spotify.com/track/35ghbtx6xt8cSCvJXwUkLF"
+      "duration_ms": 503400,
+      "name": "Oriental Tales",
+      "url": "https://open.spotify.com/track/1ljBBK6uIhjuxmL7etHP39"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+      },
+      "artists": [
+        {
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+        },
+        {
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+        }
+      ],
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
+      },
+      "artists": [
+        {
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
+        },
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Aruna Chandra",
+        "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
+      },
+      "artists": [
+        {
+          "name": "Mashti",
+          "url": "https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf"
+        },
+        {
+          "name": "Deep Dive Corp.",
+          "url": "https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb"
+        },
+        {
+          "name": "David Devanagari",
+          "url": "https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3"
+        }
+      ],
+      "duration_ms": 538000,
+      "name": "Aruna Chandra",
+      "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "What Are You Into EP",
+        "url": "https://open.spotify.com/album/183EsSJ8hyU265cYqlqIue"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        }
+      ],
+      "duration_ms": 300668,
+      "name": "When The Interlude Sounds Like Falling Rain",
+      "url": "https://open.spotify.com/track/5lWVqc9kPplvlDmLtFls02"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Human Nature (Night)",
+        "url": "https://open.spotify.com/album/6HqvZTY7Gmp0pIub9JfkXi"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 374828,
+      "name": "Rio Secreto",
+      "url": "https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Words Don't Come Easy, Pt. 6",
+        "url": "https://open.spotify.com/album/0MhcYIMgVVrf3dusIES3ej"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Can You See What I See",
+      "url": "https://open.spotify.com/track/1EbwNU8Iz75oAHWW6mtVDe"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Dimitro",
+        "url": "https://open.spotify.com/album/1OnoE2oVTfjoLzqwXSSiBv"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        },
+        {
+          "name": "Elis Dubaz",
+          "url": "https://open.spotify.com/artist/4KUPRBpCJo6FHTsqdakd2x"
+        }
+      ],
+      "duration_ms": 278569,
+      "name": "Dimitro",
+      "url": "https://open.spotify.com/track/0vUB2nn0o2el8Q5Z2Bdf55"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Kanasi",
+        "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
+      },
+      "artists": [
+        {
+          "name": "Solidmind",
+          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
+        }
+      ],
+      "duration_ms": 387898,
+      "name": "Kanasi",
+      "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/6XbjotcFUn4IhsYqqYm47B"
+      },
+      "artists": [
+        {
+          "name": "Sam Shure",
+          "url": "https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN"
+        }
+      ],
+      "duration_ms": 388477,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/79HMJ5AO1qCA4JLZAsrM5j"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 309847,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Sagas of Iziki | Chapter 2",
+        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
+      },
+      "artists": [
+        {
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        },
+        {
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
+        },
+        {
+          "name": "Olith",
+          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
+        }
+      ],
+      "duration_ms": 544250,
+      "name": "Osuga",
+      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+      },
+      "artists": [
+        {
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+        }
+      ],
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Maasai (Doctor Flake Remix)",
+        "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+        }
+      ],
+      "duration_ms": 470837,
+      "name": "Maasai - Doctor Flake Remix",
+      "url": "https://open.spotify.com/track/5G2pbqhXrpVbGOYoWaz04J"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/6vnISnsKqacZiW8HTPh2US"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 465975,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6RoewzonORYsuQGYuCXW27"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Fire in the Jungle",
+        "url": "https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 331114,
+      "name": "Lenny in the Sea with Dolphins",
+      "url": "https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -675,90 +943,34 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "AKKAN",
-        "url": "https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3"
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
       "artists": [
         {
-          "name": "Akkan",
-          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
         }
       ],
-      "duration_ms": 270992,
-      "name": "Bananat",
-      "url": "https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA"
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Shanti",
-        "url": "https://open.spotify.com/album/6CLfLgYKumgb703dvio9Ak"
-      },
-      "artists": [
-        {
-          "name": "Rapossa",
-          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
-        }
-      ],
-      "duration_ms": 503400,
-      "name": "Oriental Tales",
-      "url": "https://open.spotify.com/track/1ljBBK6uIhjuxmL7etHP39"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Milambi",
-        "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
       "artists": [
         {
           "name": "Pablo Nouvelle",
           "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 193278,
-      "name": "Milambi",
-      "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Experiencing a Significant Gravitas Shortfall",
-        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
-      },
-      "artists": [
-        {
-          "name": "Commoner",
-          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
-        },
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
-      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -803,274 +1015,38 @@
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "What Are You Into EP",
-        "url": "https://open.spotify.com/album/183EsSJ8hyU265cYqlqIue"
+        "name": "Somedays",
+        "url": "https://open.spotify.com/album/11bNGrz5NhtrsM6nZZj4t9"
       },
       "artists": [
         {
-          "name": "Nandu",
-          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
         }
       ],
-      "duration_ms": 300668,
-      "name": "When The Interlude Sounds Like Falling Rain",
-      "url": "https://open.spotify.com/track/5lWVqc9kPplvlDmLtFls02"
+      "duration_ms": 463216,
+      "name": "Somedays",
+      "url": "https://open.spotify.com/track/0YGlbch9J2niPHEfAwul3a"
     },
     {
       "added_at": "2021-12-17 17:46:26",
       "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
       },
       "artists": [
         {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Fire in the Jungle",
-        "url": "https://open.spotify.com/album/0yGRysFayBSC8MZOyFW7ZH"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 331114,
-      "name": "Lenny in the Sea with Dolphins",
-      "url": "https://open.spotify.com/track/3T1kFqevhSk1AvF72lf3VL"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Whistleman EP",
-        "url": "https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 479920,
-      "name": "Whistleman",
-      "url": "https://open.spotify.com/track/386PnZfbszq42M8GprZnVt"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Calido",
-        "url": "https://open.spotify.com/album/4Q6skYgXLAI7Cgs6ddw6xN"
-      },
-      "artists": [
-        {
-          "name": "Rey&Kjavik",
-          "url": "https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Calido",
-      "url": "https://open.spotify.com/track/7BG0uaqYbhpq4ZjYDURkf6"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Arany",
-        "url": "https://open.spotify.com/album/3Y3Nrekr5drfde0VfrhIuq"
-      },
-      "artists": [
-        {
-          "name": "Mathami",
-          "url": "https://open.spotify.com/artist/2em5hJBFIDNzicDqyi7xcV"
-        }
-      ],
-      "duration_ms": 353125,
-      "name": "Arany",
-      "url": "https://open.spotify.com/track/66kVnZ3f3Uh52vQF2ayomh"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h"
-      },
-      "artists": [
-        {
-          "name": "Planet Caravan",
-          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
-        }
-      ],
-      "duration_ms": 385702,
-      "name": "Flou",
-      "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Ostium",
-        "url": "https://open.spotify.com/album/7A5NsAUgMhprAD70IHezfN"
-      },
-      "artists": [
-        {
-          "name": "Dandara",
-          "url": "https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4"
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
         },
         {
-          "name": "Alex Fogo",
-          "url": "https://open.spotify.com/artist/1CytOTz7mCq0dtYEjeLDXR"
+          "name": "Tim Jules",
+          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
         }
       ],
-      "duration_ms": 408000,
-      "name": "Ostium",
-      "url": "https://open.spotify.com/track/3yL7kzJIDk6wkoAVBh0wxH"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "I am I",
-        "url": "https://open.spotify.com/album/0794RuukkOlKPpFQ9ruDrE"
-      },
-      "artists": [
-        {
-          "name": "Latteo",
-          "url": "https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv"
-        }
-      ],
-      "duration_ms": 404000,
-      "name": "I am I",
-      "url": "https://open.spotify.com/track/6wYjMwScxU3eWFWLgo94Pd"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Hoom Side of the Sun, Vol. 03",
-        "url": "https://open.spotify.com/album/5fygnw3bpNm9VC7G1X9ABe"
-      },
-      "artists": [
-        {
-          "name": "Armen Miran",
-          "url": "https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy"
-        }
-      ],
-      "duration_ms": 425621,
-      "name": "So It Goes",
-      "url": "https://open.spotify.com/track/5ClxAzprojFOLUBxLWRXn4"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Human Nature (Night)",
-        "url": "https://open.spotify.com/album/6HqvZTY7Gmp0pIub9JfkXi"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 374828,
-      "name": "Rio Secreto",
-      "url": "https://open.spotify.com/track/6Dtmck4yTQkCEjnOhKfOBh"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Grain of Life",
-        "url": "https://open.spotify.com/album/3vGBaof9Le3GLWPpUTN5cg"
-      },
-      "artists": [
-        {
-          "name": "Nhii",
-          "url": "https://open.spotify.com/artist/6doAywRfMwvRw4N6e3LR7X"
-        },
-        {
-          "name": "Sarkis Mikael",
-          "url": "https://open.spotify.com/artist/5bdaeSGBTGVLdu1oC2qIMl"
-        },
-        {
-          "name": "Juandros",
-          "url": "https://open.spotify.com/artist/34tjnA6Wfgotxy9B3FQaEk"
-        }
-      ],
-      "duration_ms": 375407,
-      "name": "Kotosis",
-      "url": "https://open.spotify.com/track/2eXznFTqDfPzXnplvl1is5"
-    },
-    {
-      "added_at": "2021-12-17 17:46:26",
-      "album": {
-        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
-        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
-      },
-      "artists": [
-        {
-          "name": "Urban Village",
-          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
-        },
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 384330,
-      "name": "Izivunguvungu - Chlo\u00e9 Remix",
-      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+      "duration_ms": 286392,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
     },
     {
       "added_at": "2021-12-17 17:46:26",
@@ -1087,6 +1063,26 @@
       "duration_ms": 332142,
       "name": "Beat Cari",
       "url": "https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT"
+    },
+    {
+      "added_at": "2021-12-17 17:46:26",
+      "album": {
+        "name": "Twilight (Acid Pauli Remix)",
+        "url": "https://open.spotify.com/album/0yYzUOlhkeVAqvf6DJitKX"
+      },
+      "artists": [
+        {
+          "name": "Noema",
+          "url": "https://open.spotify.com/artist/3jSvMIKT2Eo5mNvYN9ownN"
+        },
+        {
+          "name": "Acid Pauli",
+          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
+        }
+      ],
+      "duration_ms": 439453,
+      "name": "Twilight - Acid Pauli Remix",
+      "url": "https://open.spotify.com/track/4HS2UZ8hhIeUTtNZQwpJZu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pprEpa9URZ"

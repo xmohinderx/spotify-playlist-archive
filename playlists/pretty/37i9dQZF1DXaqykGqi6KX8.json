@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
   "name": "Arab Metal",
-  "num_followers": 22586,
+  "num_followers": 22604,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDY1MzE1MiwwMDAwMDAwMDgxYTQzZTNlY2U3Y2M3Nzk1MTdiOTQwYjIxMTM4YzE0",
+  "snapshot_id": "MTY0MDczODU5MCwwMDAwMDAwMGIzMjEzN2FjYTVkOGFmOTljZDg0OTA5MmU1YTNhMWM1",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -91,38 +91,6 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Ruins of Empires",
-        "url": "https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6"
-      },
-      "artists": [
-        {
-          "name": "Aeternam",
-          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
-        }
-      ],
-      "duration_ms": 290687,
-      "name": "Damascus Gate",
-      "url": "https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Ma Adesh Feeha (We've Had It)",
-        "url": "https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW"
-      },
-      "artists": [
-        {
-          "name": "Khalas",
-          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
-        }
-      ],
-      "duration_ms": 248660,
-      "name": "Shokran (Thank You)",
-      "url": "https://open.spotify.com/track/3jCPmClsW1pHGCRGpvgnDe"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
         "name": "Znousland 2",
         "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
       },
@@ -135,6 +103,38 @@
       "duration_ms": 215000,
       "name": "Sidi Arbi",
       "url": "https://open.spotify.com/track/34hbQxtu8e8tw1mDvVkIIT"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq"
+      },
+      "artists": [
+        {
+          "name": "Acyl",
+          "url": "https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F"
+        }
+      ],
+      "duration_ms": 336346,
+      "name": "Son of Muhieddine",
+      "url": "https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+      },
+      "artists": [
+        {
+          "name": "Nawather",
+          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+        }
+      ],
+      "duration_ms": 302601,
+      "name": "Daret Layyem",
+      "url": "https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -155,18 +155,82 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Past, Present...Torture",
-        "url": "https://open.spotify.com/album/0PJej8Xn6NmepdlJpO8BJh"
+        "name": "Ruins of Empires",
+        "url": "https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6"
       },
       "artists": [
         {
-          "name": "Nervecell",
-          "url": "https://open.spotify.com/artist/1jLaEpl7d58FaOQTsHI1RI"
+          "name": "Aeternam",
+          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
         }
       ],
-      "duration_ms": 161720,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/5sjx2BzDr9YK5At7XgLGds"
+      "duration_ms": 290687,
+      "name": "Damascus Gate",
+      "url": "https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Jaish Al-Namrood",
+        "url": "https://open.spotify.com/album/1O7jI1plBcowuQ8cjShyb6"
+      },
+      "artists": [
+        {
+          "name": "Al-Namrood",
+          "url": "https://open.spotify.com/artist/7sY9ff50OQVYxudOXLnQ3E"
+        }
+      ],
+      "duration_ms": 307640,
+      "name": "Atba'a Al-Namrood",
+      "url": "https://open.spotify.com/track/483Ijr8RgQkWYvJ3R9g3zh"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Blinding the Masses",
+        "url": "https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr"
+      },
+      "artists": [
+        {
+          "name": "Scarab",
+          "url": "https://open.spotify.com/artist/1FJcBa1k4iWsMsj0FYZGF4"
+        }
+      ],
+      "duration_ms": 300253,
+      "name": "Ankh",
+      "url": "https://open.spotify.com/track/2QX8MH41UYIYKEfodmfRJd"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Arabic Rock Orchestra",
+        "url": "https://open.spotify.com/album/2K3NavDtqMRQW1bEPQ9tAu"
+      },
+      "artists": [
+        {
+          "name": "Khalas",
+          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Mejwez",
+      "url": "https://open.spotify.com/track/0Ti4bbSLBtIP2pJHHmQgqR"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wa Ma Khufiya Kana A'atham",
+        "url": "https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38"
+      },
+      "artists": [
+        {
+          "name": "Narjahanam",
+          "url": "https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy"
+        }
+      ],
+      "duration_ms": 311955,
+      "name": "Kahf Alkhulood",
+      "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -196,169 +260,9 @@
           "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
         }
       ],
-      "duration_ms": 302601,
-      "name": "Daret Layyem",
-      "url": "https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "The Order Of Amenti",
-        "url": "https://open.spotify.com/album/3ZICoVkNWfn9ers5Dsa6v6"
-      },
-      "artists": [
-        {
-          "name": "Crescent",
-          "url": "https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "The Twelth Gate",
-      "url": "https://open.spotify.com/track/1SkWDSHs825x3os2JtxKBQ"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "GILGAMESH",
-        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
-      },
-      "artists": [
-        {
-          "name": "Acrassicauda",
-          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
-        }
-      ],
-      "duration_ms": 188734,
-      "name": "The Cost Of Everything And The Value Of Nothing",
-      "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Timeless Truths",
-        "url": "https://open.spotify.com/album/2cRzUDMv0vyRrufvKT7tSA"
-      },
-      "artists": [
-        {
-          "name": "Luay Rifai",
-          "url": "https://open.spotify.com/artist/36iwFNTe4PEIY0Bhpryu8g"
-        }
-      ],
-      "duration_ms": 342266,
-      "name": "Leap of Faith",
-      "url": "https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Shehili",
-        "url": "https://open.spotify.com/album/0sOf9sCBeRktaDMu5tGpNw"
-      },
-      "artists": [
-        {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
-        }
-      ],
-      "duration_ms": 69083,
-      "name": "Asl",
-      "url": "https://open.spotify.com/track/3y5i78fcWnHxu1g67brpOP"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Sidi Arbi 2",
-        "url": "https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj"
-      },
-      "artists": [
-        {
-          "name": "Znous",
-          "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Sidi Arbi 2",
-      "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq"
-      },
-      "artists": [
-        {
-          "name": "Acyl",
-          "url": "https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F"
-        }
-      ],
-      "duration_ms": 336346,
-      "name": "Son of Muhieddine",
-      "url": "https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Arabic Rock Orchestra",
-        "url": "https://open.spotify.com/album/2K3NavDtqMRQW1bEPQ9tAu"
-      },
-      "artists": [
-        {
-          "name": "Khalas",
-          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Mejwez",
-      "url": "https://open.spotify.com/track/0Ti4bbSLBtIP2pJHHmQgqR"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Ahlan Wa Sahlan",
-        "url": "https://open.spotify.com/album/1bCDFZGI02ikwSwDT4RDgK"
-      },
-      "artists": [
-        {
-          "name": "Al-Qasar",
-          "url": "https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r"
-        }
-      ],
-      "duration_ms": 184682,
-      "name": "Ahlan Wa Sahlan",
-      "url": "https://open.spotify.com/track/2jyCql7bHLtn3K7Z6E04b5"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
-      },
-      "artists": [
-        {
-          "name": "Nawather",
-          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
-        }
-      ],
-      "duration_ms": 377472,
-      "name": "Kont Trab",
-      "url": "https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "Desert Call",
-        "url": "https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt"
-      },
-      "artists": [
-        {
-          "name": "Myrath",
-          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
-        }
-      ],
-      "duration_ms": 340426,
-      "name": "Forever and A Day",
-      "url": "https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd"
+      "duration_ms": 240507,
+      "name": "Time to Raise the Curtains",
+      "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -379,6 +283,22 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
+        "name": "Moongod",
+        "url": "https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa"
+      },
+      "artists": [
+        {
+          "name": "Aeternam",
+          "url": "https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s"
+        }
+      ],
+      "duration_ms": 341175,
+      "name": "Moongod",
+      "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
         "name": "Emissaries",
         "url": "https://open.spotify.com/album/1U7kNAiW1wSPMbDNrPoipu"
       },
@@ -395,18 +315,50 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Jaish Al-Namrood",
-        "url": "https://open.spotify.com/album/1O7jI1plBcowuQ8cjShyb6"
+        "name": "Beauty & The East",
+        "url": "https://open.spotify.com/album/4qMzRLbzpN3idUrdXJakhx"
       },
       "artists": [
         {
-          "name": "Al-Namrood",
-          "url": "https://open.spotify.com/artist/7sY9ff50OQVYxudOXLnQ3E"
+          "name": "The Kordz",
+          "url": "https://open.spotify.com/artist/4WPWekPBzsyjbhozJbmaGK"
         }
       ],
-      "duration_ms": 307640,
-      "name": "Atba'a Al-Namrood",
-      "url": "https://open.spotify.com/track/483Ijr8RgQkWYvJ3R9g3zh"
+      "duration_ms": 272400,
+      "name": "Insomnia Kid",
+      "url": "https://open.spotify.com/track/1fnCKZ8ikOhckUwvBMGLLW"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "The Revelations",
+        "url": "https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG"
+      },
+      "artists": [
+        {
+          "name": "Ambrotype",
+          "url": "https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD"
+        }
+      ],
+      "duration_ms": 666510,
+      "name": "I Am the Beast",
+      "url": "https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+      },
+      "artists": [
+        {
+          "name": "Nawather",
+          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+        }
+      ],
+      "duration_ms": 377472,
+      "name": "Kont Trab",
+      "url": "https://open.spotify.com/track/3wULkaOnTXCGpK5MA3kqbe"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -427,8 +379,8 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Znousland 2",
-        "url": "https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e"
+        "name": "Sidi Arbi 2",
+        "url": "https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj"
       },
       "artists": [
         {
@@ -436,57 +388,105 @@
           "url": "https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Khoroto (Gultrah Sound System)",
-      "url": "https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx"
+      "duration_ms": 231000,
+      "name": "Sidi Arbi 2",
+      "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
     },
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Blinding the Masses",
-        "url": "https://open.spotify.com/album/2HLTq9907TMPpJdphQRZYr"
+        "name": "GILGAMESH",
+        "url": "https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y"
       },
       "artists": [
         {
-          "name": "Scarab",
-          "url": "https://open.spotify.com/artist/1FJcBa1k4iWsMsj0FYZGF4"
+          "name": "Acrassicauda",
+          "url": "https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG"
         }
       ],
-      "duration_ms": 300253,
-      "name": "Ankh",
-      "url": "https://open.spotify.com/track/2QX8MH41UYIYKEfodmfRJd"
+      "duration_ms": 226795,
+      "name": "Quest For Eternity",
+      "url": "https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE"
     },
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw"
+        "name": "Riot Against Riot",
+        "url": "https://open.spotify.com/album/3U2yfv1nXbqz2WqmzFDro6"
       },
       "artists": [
         {
-          "name": "Nawather",
-          "url": "https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI"
+          "name": "Blaakyum",
+          "url": "https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB"
         }
       ],
-      "duration_ms": 240507,
-      "name": "Time to Raise the Curtains",
-      "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"
+      "duration_ms": 323009,
+      "name": "Riot Against Riot",
+      "url": "https://open.spotify.com/track/3Fz8IcdXklVz1Kr9SHFcFe"
     },
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Arabic Rock Orchestra",
-        "url": "https://open.spotify.com/album/2K3NavDtqMRQW1bEPQ9tAu"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/4Ygb9xxtYpsMO0LBtztXWc"
       },
       "artists": [
         {
-          "name": "Khalas",
-          "url": "https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX"
+          "name": "Myrath",
+          "url": "https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Ala Remshe",
-      "url": "https://open.spotify.com/track/3PC9Eih4l2RUMXoIUWzbmM"
+      "duration_ms": 108559,
+      "name": "Jasmin",
+      "url": "https://open.spotify.com/track/6xIo0HSCFkIlrosMSQUrDS"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Gnawi",
+        "url": "https://open.spotify.com/album/41p0qWCRG9MT7Rtirx1y2B"
+      },
+      "artists": [
+        {
+          "name": "Al-Qasar",
+          "url": "https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r"
+        }
+      ],
+      "duration_ms": 357934,
+      "name": "Gnawi",
+      "url": "https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Garden of Dystopia",
+        "url": "https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9"
+      },
+      "artists": [
+        {
+          "name": "Divine Disorder",
+          "url": "https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz"
+        }
+      ],
+      "duration_ms": 484600,
+      "name": "The Gambit",
+      "url": "https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "Summoning the Bygones",
+        "url": "https://open.spotify.com/album/5zy8rUbB55HkaiMx0jyAkx"
+      },
+      "artists": [
+        {
+          "name": "BILOCATE",
+          "url": "https://open.spotify.com/artist/1id7fKgL1T5sh5MMBeviJe"
+        }
+      ],
+      "duration_ms": 524840,
+      "name": "The Tragedy Within",
+      "url": "https://open.spotify.com/track/0pYtMLPKmN2ROSZ46O4DEC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaqykGqi6KX8"

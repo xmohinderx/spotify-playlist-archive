@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Holiday Wishes",
+        "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166146,
+      "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
+    },
+    {
+      "album": {
         "name": "Blame It On The Mistletoe",
         "url": "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs"
       },
@@ -74,7 +96,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 185739,
       "name": "Blame It On The Mistletoe",
       "url": "https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1"
@@ -117,6 +139,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl sans faim",
+        "url": "https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b"
+      },
+      "artists": [
+        {
+          "name": "Patrick Norman",
+          "url": "https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206226,
+      "name": "Bonjour, No\u00ebl!",
+      "url": "https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY"
+    },
+    {
+      "album": {
         "name": "25 ans de succ\u00e8s",
         "url": "https://open.spotify.com/album/2DMirWRKjwEGaUZ5Vg3t7I"
       },
@@ -146,7 +186,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 210898,
       "name": "Boom boom (version fran\u00e7aise)",
       "url": "https://open.spotify.com/track/06uWk75nWt4bF0Wzyq4ySn"
@@ -164,7 +204,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 173333,
       "name": "C'est fort, c'est No\u00ebl",
       "url": "https://open.spotify.com/track/3TOYD8TolVZYsifa0IjnnG"
@@ -225,6 +265,24 @@
     },
     {
       "album": {
+        "name": "C'est No\u00ebl, je m'en fous",
+        "url": "https://open.spotify.com/album/3ylnYUKj77fN8RSlTnfEis"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196979,
+      "name": "C'est No\u00ebl, je m'en fous",
+      "url": "https://open.spotify.com/track/7kqTx49wL7kTBRHG5Z85dR"
+    },
+    {
+      "album": {
         "name": "Christmas Ain't Enough",
         "url": "https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh"
       },
@@ -240,6 +298,24 @@
       "duration_ms": 252222,
       "name": "Christmas Ain't Enough",
       "url": "https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi"
+    },
+    {
+      "album": {
+        "name": "Christmas Alone",
+        "url": "https://open.spotify.com/album/1EzpPcosEWSMJvKQu6UVXc"
+      },
+      "artists": [
+        {
+          "name": "Skye Wells",
+          "url": "https://open.spotify.com/artist/5Uh1ldj8Xk3WcWPKbwo5zJ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229987,
+      "name": "Christmas Alone",
+      "url": "https://open.spotify.com/track/5bTnCvXkxrVuYa0yclJk5k"
     },
     {
       "album": {
@@ -276,7 +352,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 201586,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9"
@@ -370,6 +446,24 @@
       "duration_ms": 138866,
       "name": "Douce nuit sainte nuit",
       "url": "https://open.spotify.com/track/4qbRqSZjfjl0LZydge2kMK"
+    },
+    {
+      "album": {
+        "name": "Un air d'hiver",
+        "url": "https://open.spotify.com/album/0RUe6nqKd06UO2DZmCjOCy"
+      },
+      "artists": [
+        {
+          "name": "Marc Hervieux",
+          "url": "https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Doux No\u00ebl",
+      "url": "https://open.spotify.com/track/77YWf8hm0teYjhoL5S8bLV"
     },
     {
       "album": {
@@ -502,7 +596,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 223240,
       "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
       "url": "https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP"
@@ -542,7 +636,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 260493,
       "name": "I'll Know My Savior (Christmas All Around)",
       "url": "https://open.spotify.com/track/7f3kwHaROm8btPEh4I4f8y"
@@ -618,7 +712,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 242506,
       "name": "Jolis sapins",
       "url": "https://open.spotify.com/track/6qH7KJZXbfjmTlz0d18R7n"
@@ -679,6 +773,24 @@
     },
     {
       "album": {
+        "name": "La parade",
+        "url": "https://open.spotify.com/album/5ftndmQQiLF9QXMXW0CT6x"
+      },
+      "artists": [
+        {
+          "name": "Maryse Letarte",
+          "url": "https://open.spotify.com/artist/526r8qKsRfi46SMfj1Vu5n"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240082,
+      "name": "La parade",
+      "url": "https://open.spotify.com/track/15VnTTNsbsVtMP64sUT6ix"
+    },
+    {
+      "album": {
         "name": "Que les f\u00eates commencent !",
         "url": "https://open.spotify.com/album/5FPBRIRMvJjNOZPDxsCaEU"
       },
@@ -726,7 +838,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 125133,
       "name": "Le bonhomme de neige",
       "url": "https://open.spotify.com/track/4pUFUaLBirtTa3jwSCEfin"
@@ -780,7 +892,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 171560,
       "name": "Le petit renne au nez rouge",
       "url": "https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf"
@@ -906,7 +1018,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
@@ -1018,7 +1130,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 276200,
       "name": "Minuit, chr\u00e9tiens",
       "url": "https://open.spotify.com/track/0kGfNwm2SyhhcddlMpvvUr"
@@ -1036,7 +1148,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 189666,
       "name": "Mon Beau Sapin",
       "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
@@ -1152,6 +1264,24 @@
       "duration_ms": 141344,
       "name": "No\u00ebl bleu",
       "url": "https://open.spotify.com/track/1G4p0IIz67npCVFUMnZkL1"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl c'est l'amour",
+        "url": "https://open.spotify.com/album/2pmCmRrTwxywfvEksgORQ6"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le Arsenault",
+          "url": "https://open.spotify.com/artist/5CuuZ2ZYcRmrb40SLP3nTe"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185704,
+      "name": "No\u00ebl c'est l'amour",
+      "url": "https://open.spotify.com/track/6d0iSkeq3lfYpJyYbG9EAh"
     },
     {
       "album": {
@@ -1279,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl en couleurs",
+        "url": "https://open.spotify.com/album/3M6iYeGQdBQvdkUB1ePWo2"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Charlebois",
+          "url": "https://open.spotify.com/artist/1ZpQxjYp7XxsPmXFc6Txlk"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "No\u00ebl en couleurs",
+      "url": "https://open.spotify.com/track/2WZyoFP6GQB1IwdKIUIoa5"
+    },
+    {
+      "album": {
         "name": "No\u00ebl ensemble",
         "url": "https://open.spotify.com/album/0wqjebViFWZ16hBqaWMzpl"
       },
@@ -1377,6 +1525,28 @@
     },
     {
       "album": {
+        "name": "No\u00ebl sans toi",
+        "url": "https://open.spotify.com/album/7g77kTJYJpbQnWxcSpUf2y"
+      },
+      "artists": [
+        {
+          "name": "Francis Bedard",
+          "url": "https://open.spotify.com/artist/3h8yd5Ig09beZqG3Gdg0u3"
+        },
+        {
+          "name": "Karine Ste-Marie",
+          "url": "https://open.spotify.com/artist/4H5cvLwGYL8Cbgi52U4NPv"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200859,
+      "name": "No\u00ebl sans toi",
+      "url": "https://open.spotify.com/track/6VWZDtjMRhShV1er2J5vVG"
+    },
+    {
+      "album": {
         "name": "No\u00ebl Sous Les *Cocottiers (feat. FAB) [Radio Edit]",
         "url": "https://open.spotify.com/album/0MeMGp6lj7nFnv4HLp39AG"
       },
@@ -1392,10 +1562,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 166000,
       "name": "No\u00ebl Sous Les *Cocottiers - Radio Edit",
       "url": "https://open.spotify.com/track/0xsl0XCKxGkGf36nqRYptQ"
+    },
+    {
+      "album": {
+        "name": "Chansons tristes pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "No\u00ebl sous les tropiques",
+      "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
     },
     {
       "album": {
@@ -1454,6 +1642,46 @@
       "duration_ms": 212394,
       "name": "No\u00ebl \u00e0 trois",
       "url": "https://open.spotify.com/track/5aIYR5KTWTXQVphJBbJhl2"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl, toi et moi",
+        "url": "https://open.spotify.com/album/7lx3Hq5iyRyYF86IgVB8vS"
+      },
+      "artists": [
+        {
+          "name": "Celeste Levis",
+          "url": "https://open.spotify.com/artist/2e4rlu6Fjr4xHPMMoxhjLJ"
+        },
+        {
+          "name": "JOLY",
+          "url": "https://open.spotify.com/artist/1GMFIqvJnNslwBqOFyYXHx"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "No\u00ebl, toi et moi",
+      "url": "https://open.spotify.com/track/6OWR8MklCbwvKAxX82jgxW"
+    },
+    {
+      "album": {
+        "name": "Nuit de d\u00e9cembre",
+        "url": "https://open.spotify.com/album/6IXBkRg6oZOKJKT3ZlqoxR"
+      },
+      "artists": [
+        {
+          "name": "Marc-Andr\u00e9 Sauvageau",
+          "url": "https://open.spotify.com/artist/4DLF8mpfWId0kKYVc9T8VD"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212625,
+      "name": "Nuit de d\u00e9cembre",
+      "url": "https://open.spotify.com/track/6ZlVsxj1dJoHUPlJIZycLI"
     },
     {
       "album": {
@@ -1540,10 +1768,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 174000,
       "name": "Promenade en tra\u00eeneau",
       "url": "https://open.spotify.com/track/2ki6KKT9xdW8ipd7o1jWRc"
+    },
+    {
+      "album": {
+        "name": "Joyeux No\u00ebl et bonne ann\u00e9e",
+        "url": "https://open.spotify.com/album/4rwdFdwkoCgsc4wlyFKzG3"
+      },
+      "artists": [
+        {
+          "name": "Raffy",
+          "url": "https://open.spotify.com/artist/5PW85Meg3JSYjhl9aOOZRz"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236908,
+      "name": "Promenade en tra\u00eeneau",
+      "url": "https://open.spotify.com/track/47CEnviJEZLJ0e7LstG1rx"
     },
     {
       "album": {
@@ -1576,7 +1822,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 244013,
       "name": "River",
       "url": "https://open.spotify.com/track/5DAeQJd1dKgA42CyAryzDy"
@@ -1750,7 +1996,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 164400,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/25X1hTpfK2faJKuTeFi6Cj"
@@ -1772,6 +2018,24 @@
       "duration_ms": 186162,
       "name": "Toute seule pour No\u00ebl",
       "url": "https://open.spotify.com/track/6HbakdV227EMrteosQ8Tyb"
+    },
+    {
+      "album": {
+        "name": "Un No\u00ebl en lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6lD7RvDhjPxIlPCTfvVSIi"
+      },
+      "artists": [
+        {
+          "name": "Chris Riopel",
+          "url": "https://open.spotify.com/artist/0dWuNRMHyuyf1YyVpC8EcD"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Un No\u00ebl en lumi\u00e8re",
+      "url": "https://open.spotify.com/track/1TEtNjczlVVv4ndJvmxauQ"
     },
     {
       "album": {
@@ -1866,6 +2130,42 @@
       "duration_ms": 225840,
       "name": "Wonderful Christmastime (Edited Version) [Remastered]",
       "url": "https://open.spotify.com/track/1F8tXdM8cz9bH5PiK1SuAB"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la fin d\u00e9cembre",
+        "url": "https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3"
+      },
+      "artists": [
+        {
+          "name": "Lydia&Sebastien",
+          "url": "https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189916,
+      "name": "\u00c0 la fin d\u00e9cembre",
+      "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"
+    },
+    {
+      "album": {
+        "name": "\u00c0 soir c'est No\u00ebl",
+        "url": "https://open.spotify.com/album/14PccyfM5layefTF0yAB1z"
+      },
+      "artists": [
+        {
+          "name": "Marc Picard",
+          "url": "https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143408,
+      "name": "\u00c0 soir c'est No\u00ebl",
+      "url": "https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J"
     },
     {
       "album": {

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 225755,
       "name": "(I Am) Human",
       "url": "https://open.spotify.com/track/0X9veVzkoydHcP4FqON9cS"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 185168,
       "name": "Above",
       "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Close",
       "url": "https://open.spotify.com/track/7AfdVEahsy8xQDrtJ28Z28"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 218120,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/58wBsn1tDEgUzgLu5wqI8E"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 266803,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/6o1BLNPAcJNiCLJVLRqGrN"
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Heatwave EP",
+        "url": "https://open.spotify.com/album/175AoJCvfqtXmRh9Umhyi3"
+      },
+      "artists": [
+        {
+          "name": "Longhair",
+          "url": "https://open.spotify.com/artist/2WF22b2JvLtjctIrrpN0LE"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312915,
+      "name": "Heatwave - Original Mix",
+      "url": "https://open.spotify.com/track/6iccdEeAj5VRj9sxGktXpr"
+    },
+    {
+      "album": {
         "name": "Holding You",
         "url": "https://open.spotify.com/album/6uMnvI7PP9J0S3tpQJf625"
       },
@@ -532,7 +550,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 299534,
       "name": "Idle",
       "url": "https://open.spotify.com/track/4nV7NfTgDupppPZf5ARmLY"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 372897,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0riJCeCbLqBwoVSnG3FMXM"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 277503,
       "name": "Memoria",
       "url": "https://open.spotify.com/track/71aAjtAtvLgTdmLOt5syln"
@@ -914,7 +932,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 198946,
       "name": "Nite Glo",
       "url": "https://open.spotify.com/track/7kuW6Ho3HAoYzE1qkDkDRv"
@@ -950,7 +968,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 304660,
       "name": "Nocturnal Lady",
       "url": "https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq"
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 333653,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 252803,
       "name": "Pithy",
       "url": "https://open.spotify.com/track/7uPiExBiGuH8ocfFezmWuM"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 296250,
       "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
       "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 234838,
       "name": "Retina",
       "url": "https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 390491,
       "name": "Thinkin'",
       "url": "https://open.spotify.com/track/6K7t4N9zurx5u0Wy19F4Mo"
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 250430,
       "name": "Tom's Bar",
       "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"

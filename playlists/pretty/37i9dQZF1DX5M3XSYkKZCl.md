@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M3XSYkKZCl.md) - [plain]
 
 > A 50\-track introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era\. Including highlights from the operas of Verdi, Puccini, Donizetti and many more, plus Italian folk songs and pop crossover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,362 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,432 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

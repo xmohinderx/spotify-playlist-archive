@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,310 likes - 51 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,746 likes - 51 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VulteLVOkq.md) - [plain]
 | 50 | [Wonderful Crazy Night](https://open.spotify.com/track/0Y3j5jrjyHX9K8UYwPdHie) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night](https://open.spotify.com/album/10BzXBAjOIr8EkDsIYrY1B) | 3:13 |
 | 51 | [Breaking Hearts \(Ain't What It Used To Be\)](https://open.spotify.com/track/3w7ALluoTA0KCX0m4DBa7V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts \(Remastered\)](https://open.spotify.com/album/7jKGIW8OzSkaHUuEINdGE3) | 3:33 |
 
-Snapshot ID: `MTY0MDY1MzA4NiwwMDAwMDAwMDFlYTU2NTBjMzdlN2YzZGQxYWI0NDEwZGYzYTFkOTQ4`
+Snapshot ID: `MTY0MDczODUyMiwwMDAwMDAwMDFlYTU2NTBjMzdlN2YzZGQxYWI0NDEwZGYzYTFkOTQ4`

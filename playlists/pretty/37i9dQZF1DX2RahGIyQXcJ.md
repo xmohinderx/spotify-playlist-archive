@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Featuring today's dopest Desi MCs from across the globe\. Cover: Shamoon Ismail
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,912 likes - 63 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,941 likes - 63 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

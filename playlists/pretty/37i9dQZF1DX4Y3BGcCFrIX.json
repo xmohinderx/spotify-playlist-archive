@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks featuring the mother of Bollywood music.",
   "name": "This Is Lata Mangeshkar",
-  "num_followers": 41554,
+  "num_followers": 41599,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDY1MzAxMiwwMDAwMDAwMDFkY2U0MDcxNzhkOGRiZWMyZmZlNTA5YzhlNmFmZDZh",
+  "snapshot_id": "MTY0MDczODQ0NywwMDAwMDAwMDMyOTkyZmM3NGE4NzcwZTA0MzA4OGNhMmFiMDdjZWU0",
   "tracks": [
     {
       "added_at": "2021-09-28 06:37:16",
@@ -83,8 +83,8 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Heera Panna",
-        "url": "https://open.spotify.com/album/4W2Ld9wP6QDP9ZsaQ3HIwV"
+        "name": "Sabse Bada Rupaiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6SJJS82yNidMn3soszEqBu"
       },
       "artists": [
         {
@@ -94,15 +94,31 @@
         {
           "name": "Lata Mangeshkar",
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 347318,
-      "name": "Panna Ki Tamanna Hai",
-      "url": "https://open.spotify.com/track/0XprgFKfXIDkgHZ4iYVIjk"
+      "duration_ms": 307040,
+      "name": "Vada Karo Jaanam",
+      "url": "https://open.spotify.com/track/5xkUKF8bx9lon72L0k7q6t"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Audiobiography",
+        "url": "https://open.spotify.com/album/74imffxOs12wZQXMdGVEjn"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Yunhi Tum Mujhse - From \"Sachaa Jhutha\"",
+      "url": "https://open.spotify.com/track/3LhDCvh1v5go9wLln5jsfQ"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -123,6 +139,26 @@
       "duration_ms": 260426,
       "name": "Pyar Hua Iqrar Hua",
       "url": "https://open.spotify.com/track/3B3MQlP4NPAxE2HEE2sEsS"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Flash Back - Lata Mangeshkar with Tabassum",
+        "url": "https://open.spotify.com/album/6Ux6Eczfu1lFP1KHIVnubx"
+      },
+      "artists": [
+        {
+          "name": "Tabassum",
+          "url": "https://open.spotify.com/artist/1nnDcAGbCZYOMCsddidWCX"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Bahon Mein Chale Aao (From \"Anamika\")",
+      "url": "https://open.spotify.com/track/2q3VUz3UgA3PVFFRJOMObF"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -151,26 +187,6 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Flash Back - Lata Mangeshkar with Tabassum",
-        "url": "https://open.spotify.com/album/6Ux6Eczfu1lFP1KHIVnubx"
-      },
-      "artists": [
-        {
-          "name": "Tabassum",
-          "url": "https://open.spotify.com/artist/1nnDcAGbCZYOMCsddidWCX"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Bahon Mein Chale Aao (From \"Anamika\")",
-      "url": "https://open.spotify.com/track/2q3VUz3UgA3PVFFRJOMObF"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
         "name": "Chhaya",
         "url": "https://open.spotify.com/album/7acuUKblUroGXELECF4m9M"
       },
@@ -191,150 +207,6 @@
       "duration_ms": 235333,
       "name": "Itna Na Mujhse Tu Pyar Badha",
       "url": "https://open.spotify.com/track/3vLFA2nTU6usnRbYrmVo6f"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/1wBLGZuOt7UJV7Pv9u4cxS"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Jo Wada Kiya Woh Nibhana Padega - Happy",
-      "url": "https://open.spotify.com/track/4MbatWSKrUNttg8wnb1gnV"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Ghar",
-        "url": "https://open.spotify.com/album/5fICh4j205nDQ9tAR5omRP"
-      },
-      "artists": [
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Aap Ki Ankhon Mein Kuch",
-      "url": "https://open.spotify.com/track/2hWUcbgPqVsvsgHMWEvSUe"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Lag Ja Gale - Best of Lata Mangeshkar and Madan Mohan",
-        "url": "https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow"
-      },
-      "artists": [
-        {
-          "name": "Bhupinder Singh",
-          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 498544,
-      "name": "Dil Dhundta Hai (From \"Mausam\")",
-      "url": "https://open.spotify.com/track/3XKJIxFhfBifApOXa50w87"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "The Legend Forever - Lata Mangeshkar - Vol.4",
-        "url": "https://open.spotify.com/album/3QOAAJBkBjqoc6xLVnTqcK"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 346520,
-      "name": "Aayegi Zaroor Chitthi - Dulhan / Soundtrack Version",
-      "url": "https://open.spotify.com/track/4GDhR7LNoSzkk1Ksp8b5fg"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Phir Kab Milogi",
-        "url": "https://open.spotify.com/album/2EeGcLGnMIf034LszEfrn5"
-      },
-      "artists": [
-        {
-          "name": "Mukesh",
-          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        }
-      ],
-      "duration_ms": 383066,
-      "name": "Kahin Karti Hogi Woh Mera Intezar",
-      "url": "https://open.spotify.com/track/1iOzuFQ2yzncVwuHXFCOsu"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Chori Chori",
-        "url": "https://open.spotify.com/album/0POb5F8yL6bRxZNw50CxWl"
-      },
-      "artists": [
-        {
-          "name": "Manna Dey",
-          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 269626,
-      "name": "Yeh Raat Bheegi Bheegi",
-      "url": "https://open.spotify.com/track/3vwI7iTw0lu7WmSXaTUkda"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Master Blaster - Mohammed Rafi",
-        "url": "https://open.spotify.com/album/1KJHVORK5N7Zm7TLTC57RF"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Janam Janam Ka Saath Hai - Bheegi Palken / Soundtrack Version",
-      "url": "https://open.spotify.com/track/2leUS7rxmZw6WVevuFjvXT"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -363,30 +235,146 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Dil To Pagal Hai",
-        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
+        "name": "Sunny (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0dLpwIpgiQkcGGoFmUjArH"
       },
       "artists": [
         {
-          "name": "Uttam Singh",
-          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 328757,
+      "name": "Jaane Kya Baat Hai",
+      "url": "https://open.spotify.com/track/5pqYCdrseet7xqaRoX9oe3"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Apne Huye Paraye",
+        "url": "https://open.spotify.com/album/4qI4CUG7wF5kEeBueIgr0A"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 322266,
+      "name": "Bahar Ban Ke Woh Muskuraye",
+      "url": "https://open.spotify.com/track/764V8EJcwXhgCyivL2NfxV"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Lag Ja Gale - Best of Lata Mangeshkar and Madan Mohan",
+        "url": "https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow"
+      },
+      "artists": [
+        {
+          "name": "Bhupinder Singh",
+          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 498544,
+      "name": "Dil Dhundta Hai (From \"Mausam\")",
+      "url": "https://open.spotify.com/track/3XKJIxFhfBifApOXa50w87"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Master Blaster - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/1KJHVORK5N7Zm7TLTC57RF"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Janam Janam Ka Saath Hai - Bheegi Palken / Soundtrack Version",
+      "url": "https://open.spotify.com/track/2leUS7rxmZw6WVevuFjvXT"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Phir Kab Milogi",
+        "url": "https://open.spotify.com/album/2EeGcLGnMIf034LszEfrn5"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
         },
         {
           "name": "Lata Mangeshkar",
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         },
         {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Anand Bakshi",
-          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 318432,
-      "name": "Dholna",
-      "url": "https://open.spotify.com/track/6O8ZM3IKYcSBzpnuxpCAQr"
+      "duration_ms": 383066,
+      "name": "Kahin Karti Hogi Woh Mera Intezar",
+      "url": "https://open.spotify.com/track/1iOzuFQ2yzncVwuHXFCOsu"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/5fICh4j205nDQ9tAR5omRP"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Aap Ki Ankhon Mein Kuch",
+      "url": "https://open.spotify.com/track/2hWUcbgPqVsvsgHMWEvSUe"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Shree 420 (The Bollywood Soundtrack)",
+        "url": "https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5"
+      },
+      "artists": [
+        {
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Pyar Hua Iqrar Hua",
+      "url": "https://open.spotify.com/track/2QGilBp4UILvAbBwykuq7p"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -419,8 +407,8 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Amrapali",
-        "url": "https://open.spotify.com/album/1JDEpIs2dfjTZwqrMucZA4"
+        "name": "Aakash Deep",
+        "url": "https://open.spotify.com/album/4vF76Jx3wW2l1PheAX2Iqe"
       },
       "artists": [
         {
@@ -428,29 +416,9 @@
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         }
       ],
-      "duration_ms": 263466,
-      "name": "Tadap Yeh Din Raat Ki",
-      "url": "https://open.spotify.com/track/6VZNYQwZjC5PFdCyHMtyym"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Sunny (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0dLpwIpgiQkcGGoFmUjArH"
-      },
-      "artists": [
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 328757,
-      "name": "Jaane Kya Baat Hai",
-      "url": "https://open.spotify.com/track/5pqYCdrseet7xqaRoX9oe3"
+      "duration_ms": 217280,
+      "name": "Dil Ka Diya Jalake Gaya Yeh Koi",
+      "url": "https://open.spotify.com/track/6IWWSUMj29z64UAFCeDXdW"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -468,29 +436,9 @@
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         }
       ],
-      "duration_ms": 257386,
-      "name": "Yunhi Tum Mujhse - From \"Sachaa Jhutha\"",
-      "url": "https://open.spotify.com/track/3LhDCvh1v5go9wLln5jsfQ"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Shree 420 (The Bollywood Soundtrack)",
-        "url": "https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5"
-      },
-      "artists": [
-        {
-          "name": "Manna Dey",
-          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Pyar Hua Iqrar Hua",
-      "url": "https://open.spotify.com/track/2QGilBp4UILvAbBwykuq7p"
+      "duration_ms": 256000,
+      "name": "Mujhe Chu Rahi Hain Teri Garam Sansen - From \"Swayamvar\"",
+      "url": "https://open.spotify.com/track/2rhkXGVSAPLyDChG4DiPf3"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -535,46 +483,30 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Abhimaan",
-        "url": "https://open.spotify.com/album/537PJ2yj9yNMsB7ROJ5RX3"
+        "name": "Dil To Pagal Hai",
+        "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
       },
       "artists": [
+        {
+          "name": "Uttam Singh",
+          "url": "https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ"
+        },
         {
           "name": "Lata Mangeshkar",
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         },
         {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         },
         {
-          "name": "S. D. Burman",
-          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
         }
       ],
-      "duration_ms": 272373,
-      "name": "Teri Bindiya Re",
-      "url": "https://open.spotify.com/track/70KrzTE7kTQ41eGHI3JON1"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Roti",
-        "url": "https://open.spotify.com/album/6kh8wgRD8UMX2tkZwtKD6v"
-      },
-      "artists": [
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "Gore Rang Pe Itna Gumaan Na Kar - Roti / Soundtrack Version",
-      "url": "https://open.spotify.com/track/6ISF8WtUVBrjXB1rL1PMFu"
+      "duration_ms": 318432,
+      "name": "Dholna",
+      "url": "https://open.spotify.com/track/6O8ZM3IKYcSBzpnuxpCAQr"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -599,6 +531,50 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
+        "name": "Aan Milo Sajna",
+        "url": "https://open.spotify.com/album/3Sbla7PCiO6EWtQYReib8C"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        }
+      ],
+      "duration_ms": 304853,
+      "name": "Tere Kaaran Mere Saajan",
+      "url": "https://open.spotify.com/track/4z4i6sZhN10UIty1ayDKbr"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Heera Panna",
+        "url": "https://open.spotify.com/album/4W2Ld9wP6QDP9ZsaQ3HIwV"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 347318,
+      "name": "Panna Ki Tamanna Hai",
+      "url": "https://open.spotify.com/track/0XprgFKfXIDkgHZ4iYVIjk"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
         "name": "Sitara",
         "url": "https://open.spotify.com/album/7IXDTtThw4zG4hOxUYbJ9d"
       },
@@ -619,226 +595,6 @@
       "duration_ms": 333840,
       "name": "Thodi Si Zamin Thoda Aasman",
       "url": "https://open.spotify.com/track/3pA83f6IQZEIIM9XAkoI1l"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Mohabbatein",
-        "url": "https://open.spotify.com/album/2HeqbIcBcggDsgNCHcGN1h"
-      },
-      "artists": [
-        {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Anand Bakshi",
-          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
-        }
-      ],
-      "duration_ms": 473025,
-      "name": "Humko Humise Chura Lo",
-      "url": "https://open.spotify.com/track/4T3VAoUDvCJkX5OSYXnng0"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Veer - Zaara",
-        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
-      },
-      "artists": [
-        {
-          "name": "Madan Mohan",
-          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Roop Kumar Rathod",
-          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
-        }
-      ],
-      "duration_ms": 331676,
-      "name": "Tere Liye",
-      "url": "https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Audiobiography",
-        "url": "https://open.spotify.com/album/74imffxOs12wZQXMdGVEjn"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Mujhe Chu Rahi Hain Teri Garam Sansen - From \"Swayamvar\"",
-      "url": "https://open.spotify.com/track/2rhkXGVSAPLyDChG4DiPf3"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Agar Tum Na Hote (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6gdqMOTSUgCUu2JFnGdPlp"
-      },
-      "artists": [
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 254184,
-      "name": "Agar Tum Na Hote - Female Version",
-      "url": "https://open.spotify.com/track/6bd3RszjfhMqkVH0zIUFSo"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Aap Ki Kasam",
-        "url": "https://open.spotify.com/album/4YPVstRTfhGu3OIH1LwRTD"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        },
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Suno Kaho Suna",
-      "url": "https://open.spotify.com/track/24SjmxSt4YvMvkVmMHVVzv"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Kabhi Kabhie",
-        "url": "https://open.spotify.com/album/3RLXcdSQn4OGJ8DW7NrXmr"
-      },
-      "artists": [
-        {
-          "name": "Mukesh",
-          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 298579,
-      "name": "Kabhi Kabhi Mere Dil Mein Duet",
-      "url": "https://open.spotify.com/track/46bHffIYlRKDZJG1Wbv8vi"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
-      },
-      "artists": [
-        {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 471946,
-      "name": "Kabhi Khushi Kabhie Gham",
-      "url": "https://open.spotify.com/track/0eGtFJBfYUKF2CvNZJEu3M"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Someone Somewhere Is Made For You",
-        "url": "https://open.spotify.com/album/6vIogxAiazPupurS4PvDkZ"
-      },
-      "artists": [
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 314706,
-      "name": "Wada Karo - From \"Aa Gale Lag Jaa\"",
-      "url": "https://open.spotify.com/track/6PTn66QzyMC8qVV7vNMRXE"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Lagaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1emmJiAJRnSYETup4o1UsM"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 318946,
-      "name": "O Paalanhaare",
-      "url": "https://open.spotify.com/track/5wPr9KuSfGBwGCi6NgJoVv"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Souten",
-        "url": "https://open.spotify.com/album/1hEOLp9WJdxJuGq6Z6Un31"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 332120,
-      "name": "Zindagi Pyar Ka Geet Hai",
-      "url": "https://open.spotify.com/track/5he6mJa7T7DiS8Pjx6djcV"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -888,53 +644,205 @@
           "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
         }
       ],
-      "duration_ms": 422713,
-      "name": "Aankhein Khuli",
-      "url": "https://open.spotify.com/track/16XEVyPh5NT31CAAqPbxQF"
+      "duration_ms": 473025,
+      "name": "Humko Humise Chura Lo",
+      "url": "https://open.spotify.com/track/4T3VAoUDvCJkX5OSYXnng0"
     },
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Apnapan",
-        "url": "https://open.spotify.com/album/6SKRYoUaR1YqzDOphEiVd8"
+        "name": "Kabhi Kabhie",
+        "url": "https://open.spotify.com/album/3RLXcdSQn4OGJ8DW7NrXmr"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 298579,
+      "name": "Kabhi Kabhi Mere Dil Mein Duet",
+      "url": "https://open.spotify.com/track/46bHffIYlRKDZJG1Wbv8vi"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "duration_ms": 331676,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Agar Tum Na Hote (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6gdqMOTSUgCUu2JFnGdPlp"
+      },
+      "artists": [
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 254184,
+      "name": "Agar Tum Na Hote - Female Version",
+      "url": "https://open.spotify.com/track/6bd3RszjfhMqkVH0zIUFSo"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Jeevan Mrityu",
+        "url": "https://open.spotify.com/album/2Iz6hOLAjiEv1EOQZzjegl"
       },
       "artists": [
         {
           "name": "Lata Mangeshkar",
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         },
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Jhilmil Sitaron Ka Angan Hoga",
+      "url": "https://open.spotify.com/track/5ylj3USvmqVK6tVWVon6Ww"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 471946,
+      "name": "Kabhi Khushi Kabhie Gham",
+      "url": "https://open.spotify.com/track/0eGtFJBfYUKF2CvNZJEu3M"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Lagaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1emmJiAJRnSYETup4o1UsM"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 318946,
+      "name": "O Paalanhaare",
+      "url": "https://open.spotify.com/track/5wPr9KuSfGBwGCi6NgJoVv"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Aap Ki Kasam",
+        "url": "https://open.spotify.com/album/4YPVstRTfhGu3OIH1LwRTD"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Karvaten Badalte Rahe",
+      "url": "https://open.spotify.com/track/7yJVavhTsIrjM1KleXlpHR"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "The Golden Melodies, Vol. 2",
+        "url": "https://open.spotify.com/album/0MJcWnYNg4EPOVuCr3dmSg"
+      },
+      "artists": [
         {
           "name": "Mohammed Rafi",
           "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
         },
         {
-          "name": "Laxmikant\u2013Pyarelal",
-          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         }
       ],
-      "duration_ms": 421600,
-      "name": "Aadmi Musafir Hai - Happy",
-      "url": "https://open.spotify.com/track/47V0qQLPR02UhzcDvAsL1k"
+      "duration_ms": 343040,
+      "name": "Patta Patta Buta Buta - From \"Ek Nazar\"",
+      "url": "https://open.spotify.com/track/42F2etplqkWIsQKv1MnvDg"
     },
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Aan Milo Sajna",
-        "url": "https://open.spotify.com/album/3Sbla7PCiO6EWtQYReib8C"
+        "name": "Chori Chori",
+        "url": "https://open.spotify.com/album/0POb5F8yL6bRxZNw50CxWl"
       },
       "artists": [
         {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+          "name": "Manna Dey",
+          "url": "https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU"
         },
         {
-          "name": "Laxmikant\u2013Pyarelal",
-          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         }
       ],
-      "duration_ms": 304853,
-      "name": "Tere Kaaran Mere Saajan",
-      "url": "https://open.spotify.com/track/4z4i6sZhN10UIty1ayDKbr"
+      "duration_ms": 269626,
+      "name": "Yeh Raat Bheegi Bheegi",
+      "url": "https://open.spotify.com/track/3vwI7iTw0lu7WmSXaTUkda"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -963,8 +871,24 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Silsila (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3QyzsjSnEUqIcCuUrXYYuv"
+        "name": "Parasmani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vlM3GvYhfYrZWiGIs01TK"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "Ooi Maa Ooi Maa Yeh Kya Ho Gaya",
+      "url": "https://open.spotify.com/track/4PLRQcijKQ4Hk8rV9vwczo"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Revival Vol.10 Betaab Dil Ki Tamanna",
+        "url": "https://open.spotify.com/album/7vhreuqKL8lSLeE7jNfKnN"
       },
       "artists": [
         {
@@ -972,23 +896,63 @@
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         },
         {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        },
-        {
-          "name": "Amitabh Bachchan",
-          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+          "name": "Shankar Jaikishan",
+          "url": "https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc"
         }
       ],
-      "duration_ms": 355733,
-      "name": "Dekha Ek Khwab (with Dialogues)",
-      "url": "https://open.spotify.com/track/4OvDkKNj49Zecu365xMAQN"
+      "duration_ms": 250933,
+      "name": "Tadap Yeh Dih Raat Ki Revival Film - Amrapali",
+      "url": "https://open.spotify.com/track/0DvUGOhswbzz6fkbPwKFSJ"
     },
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Suvarna Sundari",
-        "url": "https://open.spotify.com/album/4PPqd1TB24RcJTVVhgLZEo"
+        "name": "Ayee Milan Ki Bela",
+        "url": "https://open.spotify.com/album/0ve89LL4uQky14f5YoQeHu"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Tumko Hamari Umar Lag Jaye",
+      "url": "https://open.spotify.com/track/5PA6sNZtSjyG7uwgs68Tz7"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Mohabbatein",
+        "url": "https://open.spotify.com/album/2HeqbIcBcggDsgNCHcGN1h"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        }
+      ],
+      "duration_ms": 422713,
+      "name": "Aankhein Khuli",
+      "url": "https://open.spotify.com/track/16XEVyPh5NT31CAAqPbxQF"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Haath Ki Safai",
+        "url": "https://open.spotify.com/album/3AfHPm8e04JZutUrGtqDWg"
       },
       "artists": [
         {
@@ -998,11 +962,31 @@
         {
           "name": "Mohammed Rafi",
           "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Kalyanji-Anandji",
+          "url": "https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq"
         }
       ],
-      "duration_ms": 387280,
-      "name": "Kuhu Kuhu Bole Koyalia",
-      "url": "https://open.spotify.com/track/3Yanh45JlqZFt6OvPuoC4t"
+      "duration_ms": 287504,
+      "name": "Wada Kar Le Sajna",
+      "url": "https://open.spotify.com/track/3J8ueXZ1M2QsPznc4T9oSj"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Shree 420",
+        "url": "https://open.spotify.com/album/0WzbgAopzfxj49ucK5RXmE"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 127733,
+      "name": "O Janewale Mud Ke Zara",
+      "url": "https://open.spotify.com/track/4x1mkBZCtJlYtDTyEmuPXK"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -1027,32 +1011,8 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Masoom",
-        "url": "https://open.spotify.com/album/5Im41mOYI5crAdGK3Rzcn6"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        },
-        {
-          "name": "R. D. Burman",
-          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "Tujhse Naraz Nahin Zindagi - Lata Mangeshkar",
-      "url": "https://open.spotify.com/track/4M6QtwT7kFCMqztO4E96kk"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "The Golden Melodies, Vol. 2",
-        "url": "https://open.spotify.com/album/0MJcWnYNg4EPOVuCr3dmSg"
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/1wBLGZuOt7UJV7Pv9u4cxS"
       },
       "artists": [
         {
@@ -1064,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         }
       ],
-      "duration_ms": 343040,
-      "name": "Patta Patta Buta Buta - From \"Ek Nazar\"",
-      "url": "https://open.spotify.com/track/42F2etplqkWIsQKv1MnvDg"
+      "duration_ms": 195800,
+      "name": "Jo Wada Kiya Woh Nibhana Padega - Happy",
+      "url": "https://open.spotify.com/track/4MbatWSKrUNttg8wnb1gnV"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -1119,8 +1079,28 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Haath Ki Safai",
-        "url": "https://open.spotify.com/album/3AfHPm8e04JZutUrGtqDWg"
+        "name": "Prem Pujari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4km18oNszsUd067elMhTw9"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "duration_ms": 304813,
+      "name": "Shokhiyon Mein Ghola Jaye",
+      "url": "https://open.spotify.com/track/5ebdGvBpzZl1PKiedwm6AP"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Sachaa Jhutha",
+        "url": "https://open.spotify.com/album/5VFC5NmbiFSCSsVMOTiJOo"
       },
       "artists": [
         {
@@ -1130,21 +1110,17 @@
         {
           "name": "Lata Mangeshkar",
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Kalyanji-Anandji",
-          "url": "https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Hum Ko Mohabbat Ho Gai Hai",
-      "url": "https://open.spotify.com/track/7rkUGVsS7ATTGLovasie9B"
+      "duration_ms": 289866,
+      "name": "Kehdo Kehdo - Sachaa Jhutha / Soundtrack Version",
+      "url": "https://open.spotify.com/track/00Sh9dNsH8p16ykGD5LDfm"
     },
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Guide",
-        "url": "https://open.spotify.com/album/1I60Zkmz3nddV5WFOU6o2T"
+        "name": "Ajanabee",
+        "url": "https://open.spotify.com/album/3ozn64E1BMlkTkquFBwyn2"
       },
       "artists": [
         {
@@ -1152,55 +1128,23 @@
           "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
         },
         {
-          "name": "S. D. Burman",
-          "url": "https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Aaj Phir Jeene Ki Tamanna Hai",
-      "url": "https://open.spotify.com/track/5SOz11mekUwr7kQm8dpHqs"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Revival Vol.10 Betaab Dil Ki Tamanna",
-        "url": "https://open.spotify.com/album/7vhreuqKL8lSLeE7jNfKnN"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
         },
         {
-          "name": "Shankar Jaikishan",
-          "url": "https://open.spotify.com/artist/1Ss4YdByiwTuR5Fh9e89sc"
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Tadap Yeh Dih Raat Ki Revival Film - Amrapali",
-      "url": "https://open.spotify.com/track/0DvUGOhswbzz6fkbPwKFSJ"
+      "duration_ms": 270733,
+      "name": "Hum Dono Do Premi",
+      "url": "https://open.spotify.com/track/3Cx7kRThxe9AYG0u68ldK3"
     },
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Kanyadaan",
-        "url": "https://open.spotify.com/album/5XWUKjR44OaBxzAFxfFTEe"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 275539,
-      "name": "Mil Gaye Mil Gaye Aaj Mere Sanam",
-      "url": "https://open.spotify.com/track/5eij7xjeKfMcCslKbmfgpE"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Haath Ki Safai",
-        "url": "https://open.spotify.com/album/3AfHPm8e04JZutUrGtqDWg"
+        "name": "Talash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nZEgKrXNKXfFlfIS0jbDz"
       },
       "artists": [
         {
@@ -1210,15 +1154,11 @@
         {
           "name": "Mohammed Rafi",
           "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "Kalyanji-Anandji",
-          "url": "https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq"
         }
       ],
-      "duration_ms": 287504,
-      "name": "Wada Kar Le Sajna",
-      "url": "https://open.spotify.com/track/3J8ueXZ1M2QsPznc4T9oSj"
+      "duration_ms": 283466,
+      "name": "Palkon Ke Peechhe Se",
+      "url": "https://open.spotify.com/track/3V4xJQuAip7DMc1Q49fnMN"
     },
     {
       "added_at": "2021-09-28 06:37:16",
@@ -1243,8 +1183,88 @@
     {
       "added_at": "2021-09-28 06:37:16",
       "album": {
-        "name": "Samundar",
-        "url": "https://open.spotify.com/album/2vyA6TXiTOmksyxg3IsheV"
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/5fICh4j205nDQ9tAR5omRP"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 329659,
+      "name": "Aajkal Paon Zaamin Par Nahin Padte",
+      "url": "https://open.spotify.com/track/4GQ2SQDXKdBDE8TAQ69jS1"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Do Raaste",
+        "url": "https://open.spotify.com/album/2oEgFRmtUznVrmsylWeSCS"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        }
+      ],
+      "duration_ms": 329274,
+      "name": "Chup Gaye Sare Nazare",
+      "url": "https://open.spotify.com/track/6DuEwqeZzkPJlczCKPq1VD"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Silsila",
+        "url": "https://open.spotify.com/album/7vLbhMgxPh61vW6beUZWn5"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        }
+      ],
+      "duration_ms": 474906,
+      "name": "Yeh Kahan Aa Gaye Hum",
+      "url": "https://open.spotify.com/track/2zN2Gj1ymGyG5FjZY70P1f"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Dil Apna Aur Preet Parai",
+        "url": "https://open.spotify.com/album/17R7D9hwGGT7XCyB6JDGuU"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Dil Apna Aur Preet Parai",
+      "url": "https://open.spotify.com/track/0FpImGWI1bRwZEjBEW029g"
+    },
+    {
+      "added_at": "2021-09-28 06:37:16",
+      "album": {
+        "name": "Alag Alag",
+        "url": "https://open.spotify.com/album/23kZk2SrHsiBgsNLg1kGwP"
       },
       "artists": [
         {
@@ -1256,45 +1276,9 @@
           "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
         }
       ],
-      "duration_ms": 479813,
-      "name": "Ae Sagar Ki Laheron",
-      "url": "https://open.spotify.com/track/6oNmIsNVtVMDmWO6jSikiX"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "Kabhi Kabhie",
-        "url": "https://open.spotify.com/album/3RLXcdSQn4OGJ8DW7NrXmr"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        },
-        {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
-        }
-      ],
-      "duration_ms": 302400,
-      "name": "Tere Chehre Se Nazar Nahin",
-      "url": "https://open.spotify.com/track/3z7jy3126KF930xKvLCD94"
-    },
-    {
-      "added_at": "2021-09-28 06:37:16",
-      "album": {
-        "name": "The Golden Melodies, Vol. 2",
-        "url": "https://open.spotify.com/album/5fJf33FPGQh460EuCkT3tk"
-      },
-      "artists": [
-        {
-          "name": "Lata Mangeshkar",
-          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "Mere Peeko (Waqt Beeja Tha), Pt. 1 - From \"Ghulami\"",
-      "url": "https://open.spotify.com/track/05O3dK5DA2lS5CyTjUPfuy"
+      "duration_ms": 411271,
+      "name": "Dil Mein Aag Lagaye",
+      "url": "https://open.spotify.com/track/5PiAYf5oVZRMafMnId0AOY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4Y3BGcCFrIX"

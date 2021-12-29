@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Before You Let Me Go",
+        "url": "https://open.spotify.com/album/1W9yQ05UVOZDwT6u5DrnEs"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222628,
+      "name": "Before You Let Me Go",
+      "url": "https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY"
+    },
+    {
+      "album": {
         "name": "Here in Chicago",
         "url": "https://open.spotify.com/album/3X9fRjiT3HMkHgv1ZC7wsP"
       },
@@ -317,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Black Boots And Leather Rebellion",
+        "url": "https://open.spotify.com/album/5bUXsJJChr9ugC6zD9Bmj4"
+      },
+      "artists": [
+        {
+          "name": "Lowell",
+          "url": "https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222150,
+      "name": "Black Boots And Leather Rebellion",
+      "url": "https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER"
       },
@@ -328,7 +364,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 171000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv"
@@ -566,7 +602,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 167960,
       "name": "Dressed for the Weather",
       "url": "https://open.spotify.com/track/1T3OnKkjWl07lml6es5Gzz"
@@ -602,7 +638,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 127080,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/4VKvrqnpMqW8IATrhGsU8v"
@@ -696,7 +732,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 210516,
       "name": "Election Night",
       "url": "https://open.spotify.com/track/4YtuMlqBjqZKTNl5roHdnw"
@@ -740,6 +776,24 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/4klVYwt72so3CYGFh1sTEe"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192489,
+      "name": "Far from Home",
+      "url": "https://open.spotify.com/track/1VUbViOlLsvXeb6Aiv3A63"
     },
     {
       "album": {
@@ -826,7 +880,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 142150,
       "name": "Four Tequilas Down",
       "url": "https://open.spotify.com/track/7ilxwPIQLBWPIQa1gxYow6"
@@ -906,6 +960,24 @@
       "duration_ms": 223281,
       "name": "Future Memories",
       "url": "https://open.spotify.com/track/4UMa4gdhtHPV7mDMoZoVDn"
+    },
+    {
+      "album": {
+        "name": "Get More Rest",
+        "url": "https://open.spotify.com/album/1QNvfTMX7nmn0uoeHi3l5p"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dunlap",
+          "url": "https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237451,
+      "name": "Get More Rest",
+      "url": "https://open.spotify.com/track/0x6p5TFeH5kCZunuF6XXQ7"
     },
     {
       "album": {
@@ -1028,7 +1100,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 220171,
       "name": "Happier Without Me",
       "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
@@ -1053,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Have You Thought About Me With Somebody Else",
+        "url": "https://open.spotify.com/album/6wjxvxjZygpj0H0vGGHyld"
+      },
+      "artists": [
+        {
+          "name": "Georgia Greene",
+          "url": "https://open.spotify.com/artist/4gG86DjoxWcWl5fkltnt6J"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166113,
+      "name": "Have You Thought About Me With Somebody Else",
+      "url": "https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq"
+    },
+    {
+      "album": {
         "name": "Headspace (feat. Ruston Kelly)",
         "url": "https://open.spotify.com/album/2EAFibiF5phk9RysDbCH3h"
       },
@@ -1072,6 +1162,24 @@
       "duration_ms": 257066,
       "name": "Headspace (feat. Ruston Kelly)",
       "url": "https://open.spotify.com/track/7rBRsvMrISY6SH3lxD06eE"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1I3tvqOiq8b4smMJGafzBS"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1LaZaREKW44rOo2vIrZnJ0"
     },
     {
       "album": {
@@ -1140,7 +1248,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 202706,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4HoL1fewA33MBWjTWikc5D"
@@ -1158,10 +1266,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 196333,
       "name": "Hurt Like That",
       "url": "https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz"
+    },
+    {
+      "album": {
+        "name": "Hymn for Her",
+        "url": "https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        },
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "Hymn for Her (feat. Lydia Clowes)",
+      "url": "https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF"
     },
     {
       "album": {
@@ -1313,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/5k9tVBLPmASFALptyHgbhW"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168186,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/38gXTVJbL0PuLu2D5TsnDp"
+    },
+    {
+      "album": {
         "name": "The Lemonade Stand",
         "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
       },
@@ -1360,10 +1508,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 174598,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr"
+    },
+    {
+      "album": {
+        "name": "Beautiful Ramblings of a Restless Mind",
+        "url": "https://open.spotify.com/album/7dLRlhbhVCbq3evSYLPYzt"
+      },
+      "artists": [
+        {
+          "name": "Francisco Martin",
+          "url": "https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186601,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/04ZNuBUb2OAM4RUPi6s67q"
     },
     {
       "album": {
@@ -1667,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "I Go",
+        "url": "https://open.spotify.com/album/69FbpS7n7mAwdGpYAzGdiw"
+      },
+      "artists": [
+        {
+          "name": "Beth Whitney",
+          "url": "https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236653,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/30GvcF5Wfe6alZGKm6hPp8"
+    },
+    {
+      "album": {
         "name": "Woman on the Internet",
         "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
       },
@@ -1750,7 +1934,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 142777,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN"
@@ -1779,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Dark River",
+        "url": "https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
+    },
+    {
+      "album": {
         "name": "October Sky",
         "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
       },
@@ -1797,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Kumamoto",
+        "url": "https://open.spotify.com/album/0A0b98wgcg0d9Dw6uG1IzO"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160760,
+      "name": "Past Life",
+      "url": "https://open.spotify.com/track/3YnqTS15HGxAXbwrNHxgRM"
+    },
+    {
+      "album": {
         "name": "Pennsylvania",
         "url": "https://open.spotify.com/album/6oWu0iKXpWw6OJzCe363Xq"
       },
@@ -1808,7 +2028,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 162400,
       "name": "Pennsylvania",
       "url": "https://open.spotify.com/track/2Oj7LiOt7bXagVCvoA0OPw"
@@ -1978,7 +2198,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 243776,
       "name": "River",
       "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
@@ -1996,7 +2216,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 256311,
       "name": "Roof of the World",
       "url": "https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U"
@@ -2054,6 +2274,24 @@
       "duration_ms": 209785,
       "name": "second",
       "url": "https://open.spotify.com/track/29Br7mFmSGM3W9ptFNg4Qc"
+    },
+    {
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "See the World",
+      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
     },
     {
       "album": {
@@ -2408,7 +2646,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 255190,
       "name": "They Are You",
       "url": "https://open.spotify.com/track/5FdtgW0zQFghZjsLlu1cPv"
@@ -2466,10 +2704,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 200837,
       "name": "Till It Hurts",
       "url": "https://open.spotify.com/track/1du95sy36LOvI8FtkHUWT8"
+    },
+    {
+      "album": {
+        "name": "Tractor",
+        "url": "https://open.spotify.com/album/1p0cwpoCTRfDYEvE5hoaRs"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Tractor",
+      "url": "https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR"
     },
     {
       "album": {
@@ -2687,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "All Our Worries Are Poems - Pt. 1",
+        "url": "https://open.spotify.com/album/0kuDcko7yASKGCak5F9uPs"
+      },
+      "artists": [
+        {
+          "name": "Andreas Moe",
+          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191572,
+      "name": "Wholeheartedly",
+      "url": "https://open.spotify.com/track/57Gcs9Mo5wvO8gvp3fsle5"
+    },
+    {
+      "album": {
         "name": "Why It Hurts",
         "url": "https://open.spotify.com/album/1yxv6R35y0kE6QUqXS9lSS"
       },
@@ -2756,7 +3030,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-29",
       "duration_ms": 213133,
       "name": "Witness (feat. Rajiv Dhall)",
       "url": "https://open.spotify.com/track/27beSL5WLfpRYnZBBZ60Dd"
@@ -2814,6 +3088,24 @@
       "duration_ms": 200893,
       "name": "You're My Home",
       "url": "https://open.spotify.com/track/14SJVGT1fq5ZnrRnpHS7TU"
+    },
+    {
+      "album": {
+        "name": "Zebra",
+        "url": "https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37"
+      },
+      "artists": [
+        {
+          "name": "COLETON RUBIN",
+          "url": "https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185146,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue"
