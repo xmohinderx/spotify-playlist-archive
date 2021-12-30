@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u062d\u062c\u0627\u062c",
+  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u0639\u0627\u0634\u0648\u0631",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 212957,
       "name": "Abia El Donia",
       "url": "https://open.spotify.com/track/6hioBIoRNttVg7pvZ9qnrd"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 218709,
       "name": "An El Awan",
       "url": "https://open.spotify.com/track/1iUN70RBPfcqbT1PbohVuS"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 243977,
       "name": "Ana Roht Minnak",
       "url": "https://open.spotify.com/track/1rPbqAS7xqPrP66daAl0F6"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 190965,
       "name": "Arosty",
       "url": "https://open.spotify.com/track/2IEWP8OvgxXZcpx7h2rFF4"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 231803,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4ZkUiyfLp12nbQ9zSymqRi"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 228600,
       "name": "El Halazona",
       "url": "https://open.spotify.com/track/69yrkIjdgcPmdTQZPhLw1p"
@@ -298,6 +298,24 @@
       "duration_ms": 198298,
       "name": "El Sahra Hatehlaw",
       "url": "https://open.spotify.com/track/3kv5O5KkAubpO7HMGaHShN"
+    },
+    {
+      "album": {
+        "name": "El Waet El Helo",
+        "url": "https://open.spotify.com/album/1rMpu4AUSF7K4XfvG2M5cw"
+      },
+      "artists": [
+        {
+          "name": "Samira Said",
+          "url": "https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224103,
+      "name": "El Waet El Helo",
+      "url": "https://open.spotify.com/track/1YwxteiMeYqd6O164xxTZw"
     },
     {
       "album": {
@@ -378,6 +396,24 @@
       "duration_ms": 142397,
       "name": "Falatet Meny",
       "url": "https://open.spotify.com/track/0MMxozXjLBkQFqOPuUEPwG"
+    },
+    {
+      "album": {
+        "name": "Fe Ghamdet Ein",
+        "url": "https://open.spotify.com/album/4DOOS738mtFoi5RPXirohC"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Fe Ghamdet Ein",
+      "url": "https://open.spotify.com/track/235YSol46U2FzhLEXNgcTP"
     },
     {
       "album": {
@@ -659,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Cigara",
+        "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298681,
+      "name": "Layali Taweela",
+      "url": "https://open.spotify.com/track/0hA2CXgMOXTAuwV9iDNZEq"
+    },
+    {
+      "album": {
         "name": "Leilet El Omr",
         "url": "https://open.spotify.com/album/0NnIrYnPUcdOfZqAH5ONCw"
       },
@@ -767,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Mehtag L Wogodk",
+        "url": "https://open.spotify.com/album/7KTZ8xngdzDldsNugnDGqN"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179624,
+      "name": "Mehtag L Wogodk",
+      "url": "https://open.spotify.com/track/4XIaNcYyKQC3uipgLSKE1e"
+    },
+    {
+      "album": {
         "name": "Melkak Hayaty",
         "url": "https://open.spotify.com/album/5u21VlCnmDiYXz4Nzj3SqH"
       },
@@ -782,6 +854,24 @@
       "duration_ms": 283002,
       "name": "Melkak Hayaty",
       "url": "https://open.spotify.com/track/4ld5JwlPAYzqw4Hl276tgB"
+    },
+    {
+      "album": {
+        "name": "Mesh Nadman",
+        "url": "https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175911,
+      "name": "Mesh Nadman",
+      "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
     },
     {
       "album": {
@@ -854,7 +944,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 258000,
       "name": "Resala Mennak",
       "url": "https://open.spotify.com/track/1ChC38YBlUIrbbTkG6zGcZ"
@@ -915,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Cigara",
+        "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211451,
+      "name": "Ta3ala Adalla3ak",
+      "url": "https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS"
+    },
+    {
+      "album": {
         "name": "Tannesh",
         "url": "https://open.spotify.com/album/0tvgJ1DmR6qmbUvpauxZnb"
       },
@@ -930,6 +1038,24 @@
       "duration_ms": 167111,
       "name": "Tannesh",
       "url": "https://open.spotify.com/track/0rcn4mXRKFJ5c9kipAVrUy"
+    },
+    {
+      "album": {
+        "name": "Tegy Ntrahn",
+        "url": "https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240673,
+      "name": "Tegy Ntrahn",
+      "url": "https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39"
     },
     {
       "album": {

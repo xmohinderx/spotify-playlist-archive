@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 120000,
       "name": "9 PM",
       "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 146309,
       "name": "Africa to the World",
       "url": "https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 222992,
       "name": "All Equal",
       "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 168607,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/56AuxQI50J898m8QTtHxQR"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 161454,
       "name": "All Roads Lead Here (Edit)",
       "url": "https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW"
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Sycamore",
+        "url": "https://open.spotify.com/album/0vhhS4tteJrfvlBIJRdQid"
+      },
+      "artists": [
+        {
+          "name": "Permaculti",
+          "url": "https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298680,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/5O1L8o8fmUdVaf88z5dfWB"
+    },
+    {
+      "album": {
         "name": "Can't Stop Loving You",
         "url": "https://open.spotify.com/album/159aFoIEDa6yd3iLaRoGgk"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 152164,
       "name": "Can't Stop Loving You",
       "url": "https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq"
@@ -442,7 +460,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV"
@@ -514,7 +532,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 242086,
       "name": "Deviation",
       "url": "https://open.spotify.com/track/5jAFlzqIDDBJzer8jIrNXT"
@@ -536,6 +554,24 @@
       "duration_ms": 151632,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Worry",
+        "url": "https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276961,
+      "name": "Don\u2019t Worry",
+      "url": "https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ"
     },
     {
       "album": {
@@ -854,7 +890,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
@@ -926,10 +962,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 205255,
       "name": "Liftoff",
       "url": "https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1"
+    },
+    {
+      "album": {
+        "name": "Like a Dream",
+        "url": "https://open.spotify.com/album/4g5d8VnrJiTZiohvi4WUWL"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151794,
+      "name": "Like a Dream",
+      "url": "https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp"
     },
     {
       "album": {
@@ -969,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
+      },
+      "artists": [
+        {
+          "name": "Lui Mafuta",
+          "url": "https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350929,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
+    },
+    {
+      "album": {
         "name": "Love Tonight",
         "url": "https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV"
       },
@@ -980,7 +1052,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 174739,
       "name": "Love Tonight",
       "url": "https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj"
@@ -1218,7 +1290,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 131320,
       "name": "Off Grid Lullaby",
       "url": "https://open.spotify.com/track/36Qu69Yh1qYjj03A1J6k2R"
@@ -1236,7 +1308,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Oh La La",
       "url": "https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9"
@@ -1406,7 +1478,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 152727,
       "name": "Romance",
       "url": "https://open.spotify.com/track/22wyV35EezfLo1x4ppf1dq"
@@ -1575,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Room for Thought",
+        "url": "https://open.spotify.com/album/5EjPFBdTPs7tFd2N1K9spD"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144905,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW"
+    },
+    {
+      "album": {
         "name": "Step By Step",
         "url": "https://open.spotify.com/album/488BJzweFOikT4WEI2PD0N"
       },
@@ -1586,7 +1676,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 167239,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV"
@@ -1972,7 +2062,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
@@ -2026,7 +2116,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 188281,
       "name": "White Sand",
       "url": "https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs"

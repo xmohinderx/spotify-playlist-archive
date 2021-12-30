@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
   "name": "Top 50 - Morocco",
-  "num_followers": 11331,
+  "num_followers": 11354,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NjkzOTk5MjY4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk0MDgzMDcxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Salade Coco",
         "url": "https://open.spotify.com/album/4WMyOG6VuYgUJABGPES4iA"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Haram (Pablo II)",
         "url": "https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD"
@@ -97,39 +97,7 @@
       "url": "https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Sac",
-      "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Nadi Canadi",
-        "url": "https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        }
-      ],
-      "duration_ms": 221379,
-      "name": "Nadi Canadi",
-      "url": "https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Cam\u00e9l\u00e9on",
         "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
@@ -145,7 +113,39 @@
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Nadi Canadi",
+        "url": "https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "duration_ms": 221379,
+      "name": "Nadi Canadi",
+      "url": "https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Sac",
+      "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "J'en ai marre !",
         "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "MILANO",
         "url": "https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ"
@@ -181,23 +181,7 @@
       "url": "https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Love Yourself \u8f49 'Tear'",
-        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 196998,
-      "name": "Intro: Singularity",
-      "url": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "\u0645\u0631\u0641\u0648\u0636",
         "url": "https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p"
@@ -213,23 +197,7 @@
       "url": "https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Sfina",
-        "url": "https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS"
-      },
-      "artists": [
-        {
-          "name": "Mons",
-          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
-        }
-      ],
-      "duration_ms": 210841,
-      "name": "Sfina",
-      "url": "https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "HKAYA",
         "url": "https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw"
@@ -245,7 +213,7 @@
       "url": "https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Vangogh",
         "url": "https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j"
@@ -261,7 +229,23 @@
       "url": "https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Sfina",
+        "url": "https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "duration_ms": 210841,
+      "name": "Sfina",
+      "url": "https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Khalass",
         "url": "https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7"
@@ -277,7 +261,7 @@
       "url": "https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Vangogh",
         "url": "https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j"
@@ -293,7 +277,39 @@
       "url": "https://open.spotify.com/track/5LyViLHbmjbJgQwwNgKEEH"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 177705,
+      "name": "Jefe",
+      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "RS3",
+        "url": "https://open.spotify.com/album/2OsLIuY9JqqkpI0f9KTflW"
+      },
+      "artists": [
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "RS3",
+      "url": "https://open.spotify.com/track/2fe4vq7z5vXpZoFBPtlDaU"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "R&B KINGZ",
         "url": "https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh"
@@ -313,71 +329,47 @@
       "url": "https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+        "name": "Enty Hayaty",
+        "url": "https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
         }
       ],
-      "duration_ms": 177705,
-      "name": "Jefe",
-      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
+      "duration_ms": 255978,
+      "name": "Enty Hayaty",
+      "url": "https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "RS3",
-        "url": "https://open.spotify.com/album/2OsLIuY9JqqkpI0f9KTflW"
+        "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA"
       },
       "artists": [
         {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "RS3",
-      "url": "https://open.spotify.com/track/2fe4vq7z5vXpZoFBPtlDaU"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Arabi",
-        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
-      },
-      "artists": [
+          "name": "Mohamed Rifai",
+          "url": "https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W"
+        },
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "Hind Sdassi",
+          "url": "https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm"
         }
       ],
-      "duration_ms": 165714,
-      "name": "7ali Ya 7ali",
-      "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
+      "duration_ms": 239253,
+      "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Sucr\u00e9 Sal\u00e9",
-        "url": "https://open.spotify.com/album/4Dtmqw1CiozN3bFYyiuuZj"
-      },
-      "artists": [
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 140457,
-      "name": "Sucr\u00e9 Sal\u00e9",
-      "url": "https://open.spotify.com/track/4zYbjpZN7B298nBrKbXeyr"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd"
@@ -401,27 +393,55 @@
       "url": "https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "Enty Hayaty",
-        "url": "https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN"
+        "name": "Arabi",
+        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
       },
       "artists": [
         {
-          "name": "Saad Lamjarred",
-          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
-        },
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
         }
       ],
-      "duration_ms": 255978,
-      "name": "Enty Hayaty",
-      "url": "https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m"
+      "duration_ms": 165714,
+      "name": "7ali Ya 7ali",
+      "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Sucr\u00e9 Sal\u00e9",
+        "url": "https://open.spotify.com/album/4Dtmqw1CiozN3bFYyiuuZj"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 140457,
+      "name": "Sucr\u00e9 Sal\u00e9",
+      "url": "https://open.spotify.com/track/4zYbjpZN7B298nBrKbXeyr"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 209946,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -441,27 +461,27 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA"
+        "name": "Ya Hmed",
+        "url": "https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf"
       },
       "artists": [
         {
-          "name": "Mohamed Rifai",
-          "url": "https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W"
+          "name": "Mehdi Mozayine",
+          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
         },
         {
-          "name": "Hind Sdassi",
-          "url": "https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm"
+          "name": "Madara",
+          "url": "https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7"
         }
       ],
-      "duration_ms": 239253,
-      "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn"
+      "duration_ms": 209309,
+      "name": "Ya Hmed",
+      "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Ma Nabni",
         "url": "https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO"
@@ -485,95 +505,23 @@
       "url": "https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
+        "name": "Butter (Hotter, Sweeter, Cooler)",
+        "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 209946,
-      "name": "Christmas Tree",
-      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
+      "duration_ms": 164441,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Ya Hmed",
-        "url": "https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Mozayine",
-          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
-        },
-        {
-          "name": "Madara",
-          "url": "https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7"
-        }
-      ],
-      "duration_ms": 209309,
-      "name": "Ya Hmed",
-      "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Arabi",
-        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        },
-        {
-          "name": "Nouvo",
-          "url": "https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Moral",
-      "url": "https://open.spotify.com/track/2yGcGAhdIGiObLOnmsAoFT"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Arabi",
-        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 200599,
-      "name": "Zahri",
-      "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Au clair de la rue (Part.2)",
-        "url": "https://open.spotify.com/album/01yBge2y28BW4sCyh6QM71"
-      },
-      "artists": [
-        {
-          "name": "Benab",
-          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
-        }
-      ],
-      "duration_ms": 199353,
-      "name": "Mon poto",
-      "url": "https://open.spotify.com/track/2Mhn2jv81zNuuRvdlYOYlM"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -601,7 +549,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Deghri Deghri",
         "url": "https://open.spotify.com/album/3WcHikXDcd7HopAj1IVD7j"
@@ -617,7 +565,59 @@
       "url": "https://open.spotify.com/track/2DPkmFqCCEIJGjlVnsPU7A"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Arabi",
+        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
+        {
+          "name": "Nouvo",
+          "url": "https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Moral",
+      "url": "https://open.spotify.com/track/2yGcGAhdIGiObLOnmsAoFT"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 233265,
+      "name": "Inner Child",
+      "url": "https://open.spotify.com/track/25MHcbjvSdcfTiFgbKJiZF"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Arabi",
+        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 200599,
+      "name": "Zahri",
+      "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Trap Roumi V2",
         "url": "https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly"
@@ -633,27 +633,23 @@
       "url": "https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "Cam\u00e9l\u00e9on",
-        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
+        "name": "Au clair de la rue (Part.2)",
+        "url": "https://open.spotify.com/album/01yBge2y28BW4sCyh6QM71"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
         }
       ],
-      "duration_ms": 285560,
-      "name": "Obscurit\u00e9 (feat. Hamza)",
-      "url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
+      "duration_ms": 199353,
+      "name": "Mon poto",
+      "url": "https://open.spotify.com/track/2Mhn2jv81zNuuRvdlYOYlM"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -669,23 +665,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Cam\u00e9l\u00e9on",
-        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "ALOHA!",
-      "url": "https://open.spotify.com/track/22YGEzwGJwqoFKJ0URX1cl"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -705,7 +685,39 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Cam\u00e9l\u00e9on",
+        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "ALOHA!",
+      "url": "https://open.spotify.com/track/22YGEzwGJwqoFKJ0URX1cl"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "KNZ",
         "url": "https://open.spotify.com/album/31YwWDm009EZqc9penbagV"
@@ -721,43 +733,27 @@
       "url": "https://open.spotify.com/track/3YqEI4fpQFI8cYZiZzOyFj"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "MCHRDOUL",
-        "url": "https://open.spotify.com/album/1id4zKfODioF2bmqYEP4mh"
+        "name": "Cam\u00e9l\u00e9on",
+        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
       },
       "artists": [
         {
-          "name": "Pause",
-          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         },
         {
-          "name": "Soukaina fahsi",
-          "url": "https://open.spotify.com/artist/0UCqlloLt5fQJA3I8KKMme"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 184058,
-      "name": "MCHRDOUL",
-      "url": "https://open.spotify.com/track/4PRj087uqj9SpKUSjQEcXn"
+      "duration_ms": 285560,
+      "name": "Obscurit\u00e9 (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "VVS",
-      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Laar Ya Laar",
         "url": "https://open.spotify.com/album/4cpHlMvyOBWGHGAa9sufhw"
@@ -777,23 +773,7 @@
       "url": "https://open.spotify.com/track/6p1nVQXxuS3bI5jXxwZnnF"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Ya Hasra",
         "url": "https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20"
@@ -809,7 +789,39 @@
       "url": "https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
+      "album": {
+        "name": "Lili",
+        "url": "https://open.spotify.com/album/5UBFKS0W4dd1rxEk9psKwr"
+      },
+      "artists": [
+        {
+          "name": "Plylist",
+          "url": "https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW"
+        }
+      ],
+      "duration_ms": 183770,
+      "name": "Lili",
+      "url": "https://open.spotify.com/track/7jXw9LPDWtOJO4cycQ9Wh1"
+    },
+    {
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "DNT",
         "url": "https://open.spotify.com/album/70eYleipLTc6AsrsdJW00j"
@@ -833,39 +845,43 @@
       "url": "https://open.spotify.com/track/5oYDdxcQiRynnznfGqyjKk"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "MCHRDOUL",
+        "url": "https://open.spotify.com/album/1id4zKfODioF2bmqYEP4mh"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        },
+        {
+          "name": "Soukaina fahsi",
+          "url": "https://open.spotify.com/artist/0UCqlloLt5fQJA3I8KKMme"
         }
       ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+      "duration_ms": 184058,
+      "name": "MCHRDOUL",
+      "url": "https://open.spotify.com/track/4PRj087uqj9SpKUSjQEcXn"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
-        "name": "Lili",
-        "url": "https://open.spotify.com/album/5UBFKS0W4dd1rxEk9psKwr"
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
       "artists": [
         {
-          "name": "Plylist",
-          "url": "https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 183770,
-      "name": "Lili",
-      "url": "https://open.spotify.com/track/7jXw9LPDWtOJO4cycQ9Wh1"
+      "duration_ms": 187027,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
     },
     {
-      "added_at": "2021-12-28 09:34:28",
+      "added_at": "2021-12-29 08:51:11",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -879,26 +895,6 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2021-12-28 09:34:28",
-      "album": {
-        "name": "Cam\u00e9l\u00e9on",
-        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Lefa",
-          "url": "https://open.spotify.com/artist/25yJrwrn5I0EUdQEiTtNSO"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Ailleurs (feat. Lefa)",
-      "url": "https://open.spotify.com/track/5ofWgZMhsgL70B1HtdTRwO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJU9eQpX8gPT"

@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 265280,
       "name": "All For Love (feat. Bucie)",
       "url": "https://open.spotify.com/track/73J7ROhWCZB9UDHombzlSr"
@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181120,
+      "name": "Dirty Wine (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/47AMYhY7w49L3rv6UZdlXV"
+    },
+    {
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
       },
@@ -600,7 +622,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 230557,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/4yFQ8dqrFKghN8uGfQoUca"
@@ -736,6 +758,24 @@
       "duration_ms": 219946,
       "name": "Mamacita (feat. Wizkid)",
       "url": "https://open.spotify.com/track/5lZ8wDFNEFnFq3ahC08yBX"
+    },
+    {
+      "album": {
+        "name": "Master Groove",
+        "url": "https://open.spotify.com/album/6533uOhO0WDdMzgsd8LWyK"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179439,
+      "name": "Master Groove",
+      "url": "https://open.spotify.com/track/6NynQjhojcFZ9iYhuezO6B"
     },
     {
       "album": {

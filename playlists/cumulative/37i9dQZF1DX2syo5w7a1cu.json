@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Crash! Boom! Bang! (2009 Version)",
+        "url": "https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301493,
+      "name": "Crash! Boom! Bang!",
+      "url": "https://open.spotify.com/track/1eHt31KceBrXEDEV6zNXtT"
+    },
+    {
+      "album": {
         "name": "Flowers - the Hits Collection",
         "url": "https://open.spotify.com/album/6n58xEuzzCQJZ68dady1x0"
       },
@@ -913,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
+    },
+    {
+      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
@@ -989,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Warm Your Heart",
+        "url": "https://open.spotify.com/album/3kKV9kaJUOtL98njVrt03f"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265373,
+      "name": "Everybody Plays The Fool",
+      "url": "https://open.spotify.com/track/0mKqVghILq1TmTDHiaRf9d"
+    },
+    {
+      "album": {
         "name": "Both Sides (2015 Remaster)",
         "url": "https://open.spotify.com/album/6ZqIHdXihVs8ZTaENaN7nZ"
       },
@@ -1018,7 +1072,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 258240,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/1S1TItTK7HaRDnfj1vZ80Q"
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 262200,
       "name": "Home",
       "url": "https://open.spotify.com/track/4QwkQu5sOkGel6S2b7ZYn6"
@@ -2042,7 +2096,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 298773,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/1MAqR81Tz28IIqMJ2KUDAO"
@@ -2262,7 +2316,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 221160,
       "name": "More Than Words - Radio Edit",
       "url": "https://open.spotify.com/track/4sagNFI6iRtqK0bYxZ1yQY"
@@ -2378,6 +2432,24 @@
       "duration_ms": 274266,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo"
+    },
+    {
+      "album": {
+        "name": "Northern Star",
+        "url": "https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281240,
+      "name": "Northern Star",
+      "url": "https://open.spotify.com/track/1NRl73336Q4SFLH2DqurzS"
     },
     {
       "album": {
@@ -2500,7 +2572,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 286533,
       "name": "One Shining Moment",
       "url": "https://open.spotify.com/track/7jrhMa8pAPzBHqf1nbIPkQ"
@@ -2814,7 +2886,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 266026,
       "name": "Senza Una Donna - English Version",
       "url": "https://open.spotify.com/track/5Z19GK3mj0wrb4jMnjiE0D"
@@ -2980,7 +3052,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
@@ -3052,7 +3124,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 189826,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
@@ -3546,7 +3618,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 278066,
       "name": "Unpretty",
       "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"
@@ -3622,6 +3694,24 @@
       "duration_ms": 252613,
       "name": "Walking in Memphis",
       "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Water Runs Dry",
+      "url": "https://open.spotify.com/track/1i1H1aogIEHNLtNLxCxQsF"
     },
     {
       "album": {

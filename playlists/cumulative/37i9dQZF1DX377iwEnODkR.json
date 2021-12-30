@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 399000,
       "name": "April",
       "url": "https://open.spotify.com/track/75iEaKMPTVWHMgpSOiU1p1"
@@ -168,10 +168,36 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 325640,
       "name": "Balloons",
       "url": "https://open.spotify.com/track/2pdulgTSVNLaZkwCi32Jk3"
+    },
+    {
+      "album": {
+        "name": "Time's Tales",
+        "url": "https://open.spotify.com/album/40hNiRNaSRYfvAHWTDM0BV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Ballard",
+          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
+        },
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436933,
+      "name": "Beat Street",
+      "url": "https://open.spotify.com/track/12Q6JVKygj2YDSoq59BGXW"
     },
     {
       "album": {
@@ -190,7 +216,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 216000,
       "name": "Bess, You Is My Woman Now",
       "url": "https://open.spotify.com/track/4xKnHOH5tgGWa5Bh01tMjC"
@@ -422,7 +448,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 514186,
       "name": "Credo",
       "url": "https://open.spotify.com/track/5XRXIhr3IniPQWbWO8nzvn"
@@ -440,7 +466,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 550333,
       "name": "Crooked Creek",
       "url": "https://open.spotify.com/track/10TiIsRhDW0795Msycgs8E"
@@ -532,7 +558,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 248800,
       "name": "Deadeye",
       "url": "https://open.spotify.com/track/7dUW9K3L7bus0hfv84sSRD"
@@ -742,7 +768,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 425482,
       "name": "Eulogy (Goodbye Old Chap)",
       "url": "https://open.spotify.com/track/1mgorKdk2RHqZhWc8i6Iha"
@@ -1226,7 +1252,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 258213,
       "name": "Hero's Theme",
       "url": "https://open.spotify.com/track/60mSAsjWcsr04CB7JYW5DL"
@@ -1856,7 +1882,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 404200,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/6HSQ6rqJXiRlwHCOQjoTJv"
@@ -2108,7 +2134,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 309533,
       "name": "Nu, Nu.... Pr\u00e6cis Nu",
       "url": "https://open.spotify.com/track/3ZufAwoZNwoSrMeM9QjgJA"
@@ -2279,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "From This Place",
+        "url": "https://open.spotify.com/album/5PfjsKZLI9whAwPSfNgnES"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499783,
+      "name": "Pathmaker",
+      "url": "https://open.spotify.com/track/48B6om9G4wTxDRsNZjuiKO"
+    },
+    {
+      "album": {
         "name": "Happening: Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/3LESItMfXvwTo1F7rXYRr1"
       },
@@ -2326,7 +2370,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 462146,
       "name": "Pg54",
       "url": "https://open.spotify.com/track/6RUy8aStZgJXRx21xlivBC"
@@ -2502,7 +2546,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 571560,
       "name": "Red River Revel",
       "url": "https://open.spotify.com/track/0obAe4GiBcoLJo33hzKAzH"
@@ -2850,7 +2894,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 389026,
       "name": "Smoking Gun - Live",
       "url": "https://open.spotify.com/track/1FlIvBLYq0iQxCw8r3XM0W"
@@ -2886,7 +2930,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 339133,
       "name": "Soul of Things, Var. 1",
       "url": "https://open.spotify.com/track/2QSyn85Y1xARhs14V6yDK8"
@@ -3170,7 +3214,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 315520,
       "name": "The Admiral",
       "url": "https://open.spotify.com/track/7zKpgrCY4a2SBQscjvODaP"
@@ -3243,6 +3287,54 @@
     },
     {
       "album": {
+        "name": "The Time Verses",
+        "url": "https://open.spotify.com/album/2tk2C3w6TG9dOxQwCRbsL9"
+      },
+      "artists": [
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        },
+        {
+          "name": "Dan Weiss",
+          "url": "https://open.spotify.com/artist/66o87gept0Bh7KEWo6iej1"
+        },
+        {
+          "name": "Jacob Sacks",
+          "url": "https://open.spotify.com/artist/7lIgVWvRJOTLxc4qJYSG1P"
+        },
+        {
+          "name": "Eivind Opsvik",
+          "url": "https://open.spotify.com/artist/1SGYzb7ZRMCvE9ssIPvFg5"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368875,
+      "name": "The Reason to Return",
+      "url": "https://open.spotify.com/track/3Jd61d8akPyakQSojJCc4n"
+    },
+    {
+      "album": {
+        "name": "Daylight Ghosts",
+        "url": "https://open.spotify.com/album/7Lprshau5nbcax2L08U1rN"
+      },
+      "artists": [
+        {
+          "name": "Craig Taborn",
+          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "The Shining One",
+      "url": "https://open.spotify.com/track/5egpzsnbOBzZPFaqbHyzh9"
+    },
+    {
+      "album": {
         "name": "The Shooter",
         "url": "https://open.spotify.com/album/3gtWM4KeDVeyD7pPh5nzry"
       },
@@ -3254,7 +3346,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 445000,
       "name": "The Shooter",
       "url": "https://open.spotify.com/track/50A6IPAZj9akFJILz0JgkM"
@@ -3272,7 +3364,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 309200,
       "name": "They Aren't Perfect And Neither Am I",
       "url": "https://open.spotify.com/track/2JWffJXmKbQ2tBjSazoOlQ"
@@ -3418,6 +3510,36 @@
       "duration_ms": 346216,
       "name": "Upside",
       "url": "https://open.spotify.com/track/2X9KdOdntMaDNvcXaM43FT"
+    },
+    {
+      "album": {
+        "name": "Guardians of the Heart Machine",
+        "url": "https://open.spotify.com/album/42Bf0gsyJAsJs3s8ia5Yzh"
+      },
+      "artists": [
+        {
+          "name": "Seamus Blake",
+          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
+        },
+        {
+          "name": "Tony Tixier",
+          "url": "https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX"
+        },
+        {
+          "name": "Florent Nisse",
+          "url": "https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA"
+        },
+        {
+          "name": "Gautier Garrigue",
+          "url": "https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429773,
+      "name": "Vaporbabe",
+      "url": "https://open.spotify.com/track/7eRBpbZYc4HIsK2ZZy0dyK"
     },
     {
       "album": {
@@ -3572,7 +3694,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 511653,
       "name": "What Was That?",
       "url": "https://open.spotify.com/track/6n4kMtvDbs9ZEZeXZ0O7UO"
@@ -3608,7 +3730,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 362050,
       "name": "White Out",
       "url": "https://open.spotify.com/track/3zObNJYCesciBhygFnnHbo"

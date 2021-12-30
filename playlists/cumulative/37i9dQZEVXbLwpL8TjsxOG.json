@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -3553,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Joyce To The World",
+        "url": "https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "\u5148\u54ed\u70ba\u656c",
+      "url": "https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t"
+    },
+    {
+      "album": {
         "name": "\u5148\u54ed\u70ba\u656c",
         "url": "https://open.spotify.com/album/0gFvFiJYdnFH8zACLXmImt"
       },
@@ -4344,10 +4362,28 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 218917,
       "name": "\u6700\u96e3\u884c\u7684\u8def",
       "url": "https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n"
+    },
+    {
+      "album": {
+        "name": "Joyce To The World",
+        "url": "https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "\u6700\u96e3\u884c\u7684\u8def",
+      "url": "https://open.spotify.com/track/2VxhivipIOgAvnUw7KVha2"
     },
     {
       "album": {
@@ -5140,7 +5176,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 191886,
       "name": "\u8dcc\u5622\u5514\u597d\u6435",
       "url": "https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8"
@@ -5574,7 +5610,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 242646,
       "name": "\u9be8\u843d",
       "url": "https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd"

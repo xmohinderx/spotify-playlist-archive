@@ -24,7 +24,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 281960,
       "name": "#1 Stunna",
       "url": "https://open.spotify.com/track/7kBdenpTmgWfAz9clmBcok"
@@ -162,10 +162,32 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 312960,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5q186AzhWeOEoFnApajHgR"
+    },
+    {
+      "album": {
+        "name": "Ice Cream Man",
+        "url": "https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL"
+      },
+      "artists": [
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        },
+        {
+          "name": "Mia X",
+          "url": "https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu"
+        }
+      ],
+      "date_added": "2021-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308973,
+      "name": "Bout It, Bout It II",
+      "url": "https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt"
     },
     {
       "album": {
@@ -356,6 +378,24 @@
       "duration_ms": 250493,
       "name": "Grove St. Party (feat. Kebo Gotti)",
       "url": "https://open.spotify.com/track/2e9EZ2V5QGGZPMJacO3y0Y"
+    },
+    {
+      "album": {
+        "name": "Flockaveli",
+        "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
+      },
+      "artists": [
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246386,
+      "name": "Hard in Da Paint",
+      "url": "https://open.spotify.com/track/3XQY8kDjI8LARMIC9xkxQk"
     },
     {
       "album": {
@@ -558,7 +598,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 286973,
       "name": "John",
       "url": "https://open.spotify.com/track/7HaggpJGAfEgH8wyMLOIPl"
@@ -598,7 +638,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217426,
       "name": "Left, Right, Left",
       "url": "https://open.spotify.com/track/0vk5b6kj3QISHg4fpRPi6n"
@@ -854,7 +894,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
@@ -1142,7 +1182,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 274333,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"

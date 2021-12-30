@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQeR9oTmnyj.md) - [plain]
 
 > An introduction to <a href="spotify:user:spotify:playlist:37i9dQZF1DWXXW8bE6k5tq">John Williams'</a> soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,612 likes - 58 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,714 likes - 58 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

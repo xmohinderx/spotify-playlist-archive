@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2EAC4DlyUFDdi1VwnmfU7n"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 236973,
       "name": "Baby, Baby",
       "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 273066,
       "name": "Because You Loved Me",
       "url": "https://open.spotify.com/track/2PZGLmbjABSqsEeznQJFSu"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 273066,
       "name": "Because You Loved Me",
       "url": "https://open.spotify.com/track/6hRcrByB9i6rYRiHNh170N"
@@ -350,7 +350,7 @@
     {
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD"
+        "url": "https://open.spotify.com/album/6mcwghwWeSp1Ol1IpsYDOM"
       },
       "artists": [
         {
@@ -361,6 +361,24 @@
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266733,
+      "name": "How Do I Live",
+      "url": "https://open.spotify.com/track/5VJlvaPufnazmTvt2sHQqc"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-30",
       "duration_ms": 266973,
       "name": "How Do I Live",
       "url": "https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8"
@@ -414,7 +432,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 228066,
       "name": "I Do (Cherish You)",
       "url": "https://open.spotify.com/track/6BoueSxgJU2heOvYVDTBuk"
@@ -450,7 +468,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 239960,
       "name": "I Love You Always Forever",
       "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
@@ -490,6 +508,24 @@
       "duration_ms": 263800,
       "name": "I Wanna Love You Forever",
       "url": "https://open.spotify.com/track/5gZEhPrN1VLqTG1nIAXeNK"
+    },
+    {
+      "album": {
+        "name": "The Hits--Chapter One",
+        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
     },
     {
       "album": {
@@ -746,10 +782,28 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 218733,
       "name": "Save The Best For Last",
       "url": "https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM"
+    },
+    {
+      "album": {
+        "name": "The Best Of Vanessa Williams 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/2W4O6fmk96K7vLxExDzWST"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Save The Best For Last",
+      "url": "https://open.spotify.com/track/4yRUjOBsj0cpjabtum0fML"
     },
     {
       "album": {
@@ -872,7 +926,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 234333,
       "name": "The Song Remembers When",
       "url": "https://open.spotify.com/track/4dS7TYCTGKyhs9ZDt8iPcT"
@@ -944,7 +998,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 277200,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/69MmmKaqTGd2lBh1qNVpeP"

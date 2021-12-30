@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=hTuGyuSCT4KAnrtqV1oWAg\">Zakes Bantwini</a>",
   "name": "mint South Africa",
-  "num_followers": 46189,
+  "num_followers": 46223,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI5Njc0MCwwMDAwMDMyOTAwMDAwMTdkZTk0ZGY0ZmEwMDAwMDE3ZDdiZDdjMWY0",
+  "snapshot_id": "MTY0MDc5MTI5OCwwMDAwMDMyYTAwMDAwMTdlMDZjODUyNTYwMDAwMDE3ZDdiZDdjMWY0",
   "tracks": [
     {
       "added_at": "2021-12-23 21:59:00",
@@ -65,6 +65,34 @@
       "url": "https://open.spotify.com/track/4FbPuTDvkTA7VGMPJD16Xi"
     },
     {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Inkozi",
+        "url": "https://open.spotify.com/album/5aZZ2kX4Z3phwMFnbKrjKi"
+      },
+      "artists": [
+        {
+          "name": "Native Tribe",
+          "url": "https://open.spotify.com/artist/0UERNMh2GUYxeNlI151GfE"
+        },
+        {
+          "name": "Da Q-Bic",
+          "url": "https://open.spotify.com/artist/0y1IsLnNOTfRm0Rpjz51Q7"
+        },
+        {
+          "name": "Thab De Soul",
+          "url": "https://open.spotify.com/artist/6rOQUGz2uvmVZ6EEjZfIew"
+        },
+        {
+          "name": "Shona SA",
+          "url": "https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk"
+        }
+      ],
+      "duration_ms": 462370,
+      "name": "Inkozi",
+      "url": "https://open.spotify.com/track/0j5BwHH947W9bRWhqZHz4w"
+    },
+    {
       "added_at": "2021-12-09 21:59:00",
       "album": {
         "name": "La Fleur",
@@ -99,6 +127,26 @@
       "duration_ms": 493520,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0rmFBhKvt0KZI10t2coIYK"
+    },
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Belongs to Africa (Hot TuneiK Remix)",
+        "url": "https://open.spotify.com/album/1GBeqy43xlKJAczsYojAYz"
+      },
+      "artists": [
+        {
+          "name": "Ritmicki Hram",
+          "url": "https://open.spotify.com/artist/19aIuLyRNkFQpay1uOeZTE"
+        },
+        {
+          "name": "Hot Tuneik",
+          "url": "https://open.spotify.com/artist/5GiCK1PDfbgG6GBCbq9Nn0"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "Belongs to Africa - Hot TuneiK Remix",
+      "url": "https://open.spotify.com/track/0wWVoNbHbJiV1XNWe8Vzix"
     },
     {
       "added_at": "2021-12-23 21:59:00",
@@ -177,6 +225,62 @@
       "url": "https://open.spotify.com/track/6AWG94PiLOenHLjrBcctqE"
     },
     {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/5tj5P6BuJ4LyYNyPD4n6G7"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "duration_ms": 278442,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/5nYMLSYNPq1NtmWauaxMJw"
+    },
+    {
+      "added_at": "2021-10-21 21:59:00",
+      "album": {
+        "name": "iMali",
+        "url": "https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "duration_ms": 436000,
+      "name": "iMali (Ft. Nana Atta)",
+      "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
+    },
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Acid Green",
+        "url": "https://open.spotify.com/album/7yfb3uTVuaqCR4sWZ8bmcH"
+      },
+      "artists": [
+        {
+          "name": "Ivory Child",
+          "url": "https://open.spotify.com/artist/4jsTcZXYvEJt2Gshh6cIPk"
+        }
+      ],
+      "duration_ms": 503606,
+      "name": "Acid Green",
+      "url": "https://open.spotify.com/track/2LyZRiWU2C7DlO4N9WKa9b"
+    },
+    {
       "added_at": "2021-12-23 21:59:00",
       "album": {
         "name": "The Warrior's Prayer",
@@ -215,30 +319,6 @@
       "duration_ms": 498849,
       "name": "Breaking Hearts feat. Amos - Black Coffee Remix",
       "url": "https://open.spotify.com/track/67Jq82bDcQipORC0yBiZcc"
-    },
-    {
-      "added_at": "2021-10-21 21:59:00",
-      "album": {
-        "name": "iMali",
-        "url": "https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN"
-      },
-      "artists": [
-        {
-          "name": "Karyendasoul",
-          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
-        },
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Nana Atta",
-          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
-        }
-      ],
-      "duration_ms": 436000,
-      "name": "iMali (Ft. Nana Atta)",
-      "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
     },
     {
       "added_at": "2021-12-23 21:59:00",
@@ -289,26 +369,6 @@
       "url": "https://open.spotify.com/track/2Iy2zGCf7ZC0SXJqZqrqiQ"
     },
     {
-      "added_at": "2021-12-23 21:59:00",
-      "album": {
-        "name": "Howling Moon (Original)",
-        "url": "https://open.spotify.com/album/2liKn4J5FZDBbHl5rIvoIh"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "Kieran Fowkes",
-          "url": "https://open.spotify.com/artist/2V01K4FD01MOv7eLqQMitQ"
-        }
-      ],
-      "duration_ms": 418158,
-      "name": "Howling Moon - Original Mix",
-      "url": "https://open.spotify.com/track/2aLi5lXLTj9KIs0x5iMQz8"
-    },
-    {
       "added_at": "2021-11-25 21:59:00",
       "album": {
         "name": "The Lands, Pt. 2",
@@ -323,6 +383,26 @@
       "duration_ms": 415634,
       "name": "Tribute To Dr Phill Rsa",
       "url": "https://open.spotify.com/track/3TPrilYtzd5vXC2Or5soNx"
+    },
+    {
+      "added_at": "2021-12-02 22:00:52",
+      "album": {
+        "name": "Ghetto King",
+        "url": "https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Skillz",
+          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
+        }
+      ],
+      "duration_ms": 495700,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/0Fv98w83b3DRRdcDXbxHFt"
     },
     {
       "added_at": "2021-12-23 21:59:00",
@@ -349,26 +429,6 @@
       "url": "https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq"
     },
     {
-      "added_at": "2021-12-02 22:00:52",
-      "album": {
-        "name": "Ghetto King",
-        "url": "https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r"
-      },
-      "artists": [
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Skillz",
-          "url": "https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf"
-        }
-      ],
-      "duration_ms": 495700,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/0Fv98w83b3DRRdcDXbxHFt"
-    },
-    {
       "added_at": "2021-12-23 21:59:00",
       "album": {
         "name": "Iris (Atmos Blaq Remix)",
@@ -387,6 +447,26 @@
       "duration_ms": 455788,
       "name": "Iris - Atmos Blaq Remix",
       "url": "https://open.spotify.com/track/1eAZwmJYmqgT6nXP0ljUHN"
+    },
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "High Ibiza",
+        "url": "https://open.spotify.com/album/3cyhCDZcIm0ow00iYYpnlp"
+      },
+      "artists": [
+        {
+          "name": "Dimension Tribe",
+          "url": "https://open.spotify.com/artist/34CkXsjlBDBdIYThETJHhK"
+        },
+        {
+          "name": "Lord",
+          "url": "https://open.spotify.com/artist/46Br1jGl5tGhHOJWXUaFA8"
+        }
+      ],
+      "duration_ms": 345782,
+      "name": "High Ibiza",
+      "url": "https://open.spotify.com/track/6JSOoZd2M8DJ0aF6UecIVp"
     },
     {
       "added_at": "2021-12-23 21:59:00",
@@ -411,6 +491,22 @@
       "duration_ms": 472195,
       "name": "Nothing to Say",
       "url": "https://open.spotify.com/track/3MUCJAkvXkifvqzbrJgdYh"
+    },
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "I realy loved you",
+        "url": "https://open.spotify.com/album/5GrvQpWQtHenxerenONY1O"
+      },
+      "artists": [
+        {
+          "name": "Pando G",
+          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+        }
+      ],
+      "duration_ms": 251406,
+      "name": "I realy loved you",
+      "url": "https://open.spotify.com/track/3iH0xwLMQXekhFNo2Ztooi"
     },
     {
       "added_at": "2021-12-09 21:59:00",
@@ -453,6 +549,22 @@
       "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/748rrZ0mCvCQ6a1iTOfRKn"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "duration_ms": 450019,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/44lLQ17ZeYu8sPfibMv9cm"
+    },
+    {
       "added_at": "2021-10-28 21:59:00",
       "album": {
         "name": "African Electronic Dance Music",
@@ -473,6 +585,26 @@
       "url": "https://open.spotify.com/track/3hKwgPKqfjeHrHHawdYVgs"
     },
     {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Turn Your Life Around",
+        "url": "https://open.spotify.com/album/2Kz0MBeHWIjOq8ZecXANoo"
+      },
+      "artists": [
+        {
+          "name": "Col Lawton",
+          "url": "https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm"
+        },
+        {
+          "name": "deep75",
+          "url": "https://open.spotify.com/artist/4cVVwGAvElzVhIxUOkx1FE"
+        }
+      ],
+      "duration_ms": 396229,
+      "name": "Turn Your Life Around - Original",
+      "url": "https://open.spotify.com/track/4M8hLrsz72XpbMqibVNF5o"
+    },
+    {
       "added_at": "2021-11-25 21:59:00",
       "album": {
         "name": "The Couza - EP (Radio Edits)",
@@ -491,6 +623,22 @@
       "duration_ms": 433019,
       "name": "Usana Lwam - Edit",
       "url": "https://open.spotify.com/track/5qbGs2K5CAQefg5cNC50PN"
+    },
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "The Border Lands",
+        "url": "https://open.spotify.com/album/53fLCJiZxbwAV9WYfEYXZZ"
+      },
+      "artists": [
+        {
+          "name": "Tswex Malabola",
+          "url": "https://open.spotify.com/artist/6cTBXiyGb4MACMv1WjgLKs"
+        }
+      ],
+      "duration_ms": 400039,
+      "name": "Mabele",
+      "url": "https://open.spotify.com/track/4YupfisjrO7n5pz2mk55pS"
     },
     {
       "added_at": "2021-12-09 21:59:00",
@@ -515,6 +663,26 @@
       "duration_ms": 231982,
       "name": "Broken Melodies - Radio Edit",
       "url": "https://open.spotify.com/track/5z6Ix0BSqfpd9WJzNxbMDW"
+    },
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Jungle Friends",
+        "url": "https://open.spotify.com/album/1Awwc7DyVStZvjAyc0mTfv"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Sega SA",
+          "url": "https://open.spotify.com/artist/6G85Sco2sF1MauFHJY4r4V"
+        }
+      ],
+      "duration_ms": 494614,
+      "name": "Jungle Friends",
+      "url": "https://open.spotify.com/track/6qMV3JtBkDK0hCcHpcUCf2"
     },
     {
       "added_at": "2021-12-02 22:00:52",
@@ -1129,30 +1297,6 @@
       "url": "https://open.spotify.com/track/3IiBcPj0UoVcVHWrlzqD0u"
     },
     {
-      "added_at": "2021-10-07 21:59:00",
-      "album": {
-        "name": "Mama (Da Capo's Touch)",
-        "url": "https://open.spotify.com/album/3CRw6YSsrFJQLjD3kVjM1i"
-      },
-      "artists": [
-        {
-          "name": "Josiah De Disciple",
-          "url": "https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte"
-        },
-        {
-          "name": "Boohle",
-          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
-        },
-        {
-          "name": "Da Capo",
-          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
-        }
-      ],
-      "duration_ms": 449491,
-      "name": "Mama (Da Capo's Touch)",
-      "url": "https://open.spotify.com/track/6BLMoJcHmJiYfFRPKWOaEw"
-    },
-    {
       "added_at": "2021-11-18 21:59:00",
       "album": {
         "name": "Amen To Afro (Vol.1)",
@@ -1309,42 +1453,6 @@
       "url": "https://open.spotify.com/track/2yejkesACbQlEGlzZQgpOy"
     },
     {
-      "added_at": "2021-10-28 21:59:00",
-      "album": {
-        "name": "Throwing Stones",
-        "url": "https://open.spotify.com/album/3Qn7O6GFuZUXxRMqX3kgtz"
-      },
-      "artists": [
-        {
-          "name": "Thabang Baloyi",
-          "url": "https://open.spotify.com/artist/4BSvfdxoMXSLPXXwtVA1PG"
-        }
-      ],
-      "duration_ms": 361026,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/1ANPgOywNsk7GckKcDsvSe"
-    },
-    {
-      "added_at": "2021-10-28 21:59:00",
-      "album": {
-        "name": "Ambedo",
-        "url": "https://open.spotify.com/album/0QjgDpz5KdIfCUJRKv3SmH"
-      },
-      "artists": [
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        },
-        {
-          "name": "Simeon",
-          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
-        }
-      ],
-      "duration_ms": 407586,
-      "name": "Ambedo",
-      "url": "https://open.spotify.com/track/0rxu6nhX9UU9Svf7m1SK9n"
-    },
-    {
       "added_at": "2021-11-11 21:59:00",
       "album": {
         "name": "Flames",
@@ -1389,34 +1497,6 @@
       "url": "https://open.spotify.com/track/7B1Kij7knvV5Ph5zOJUDRI"
     },
     {
-      "added_at": "2021-10-07 21:59:00",
-      "album": {
-        "name": "Woman (Fka Mash Afro Glitch)",
-        "url": "https://open.spotify.com/album/2mYZRzHQKM03wCKCiZx2CQ"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Andrew Pololos",
-          "url": "https://open.spotify.com/artist/4L4Ztz8S7RAQxrFgEZS5dm"
-        },
-        {
-          "name": "Mopao Mumu",
-          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        }
-      ],
-      "duration_ms": 232223,
-      "name": "Woman - Fka Mash Afro Glitch",
-      "url": "https://open.spotify.com/track/6z1uimwgcEHaENaxOBDbIj"
-    },
-    {
       "added_at": "2021-11-04 21:59:00",
       "album": {
         "name": "Answers",
@@ -1435,46 +1515,6 @@
       "duration_ms": 239005,
       "name": "Answers - Radio Edit",
       "url": "https://open.spotify.com/track/0Gj9sN8Zd6tdUf549M6Rva"
-    },
-    {
-      "added_at": "2020-11-02 04:24:34",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS"
-      },
-      "artists": [
-        {
-          "name": "Lemon & Herb",
-          "url": "https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        },
-        {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
-        }
-      ],
-      "duration_ms": 313026,
-      "name": "Andifuni Ngawe",
-      "url": "https://open.spotify.com/track/5owaEYXYYnTvw15uOl5E6S"
-    },
-    {
-      "added_at": "2021-10-28 21:59:00",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/4Gk0v9Nk4PHBspU5qy0vvR"
-      },
-      "artists": [
-        {
-          "name": "AfroNerd",
-          "url": "https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD"
-        }
-      ],
-      "duration_ms": 374048,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/1oImDYLrL8K1JUjnEQh3ul"
     },
     {
       "added_at": "2021-10-14 21:59:00",
@@ -1543,102 +1583,6 @@
       "duration_ms": 436000,
       "name": "Love Glow - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/5j117W760OT6QfyM1XXgYn"
-    },
-    {
-      "added_at": "2021-10-21 21:59:00",
-      "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/2uQuP1wn17cLSE7w6aqyCL"
-      },
-      "artists": [
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        },
-        {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
-        },
-        {
-          "name": "Xelimpilo",
-          "url": "https://open.spotify.com/artist/24OmnANkxuP4oRprsghris"
-        }
-      ],
-      "duration_ms": 241983,
-      "name": "Memeza - Radio Edit",
-      "url": "https://open.spotify.com/track/1Z53ugoPTZOlgLHDHS1BK7"
-    },
-    {
-      "added_at": "2021-10-21 21:59:00",
-      "album": {
-        "name": "Out of Africa",
-        "url": "https://open.spotify.com/album/7yLiwC4leVxILTgFXJfxYX"
-      },
-      "artists": [
-        {
-          "name": "Thandi Draai",
-          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
-        },
-        {
-          "name": "Candy Man",
-          "url": "https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor"
-        }
-      ],
-      "duration_ms": 453338,
-      "name": "Out of Africa",
-      "url": "https://open.spotify.com/track/7F9ilCsP3fM0hCggluGRcO"
-    },
-    {
-      "added_at": "2021-10-21 21:59:00",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/0Lh1cfF3HY82AHQtJCJxMj"
-      },
-      "artists": [
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        },
-        {
-          "name": "Jason Scoble",
-          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
-        }
-      ],
-      "duration_ms": 372381,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2qQHhFuxRb3FL3wDfsi35O"
-    },
-    {
-      "added_at": "2021-10-07 21:59:00",
-      "album": {
-        "name": "Tshinela",
-        "url": "https://open.spotify.com/album/6hzsxspqVPQjgzxhq9TSVH"
-      },
-      "artists": [
-        {
-          "name": "Kid Fonque",
-          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
-        },
-        {
-          "name": "Jonny Miller",
-          "url": "https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        },
-        {
-          "name": "Fernando Damon",
-          "url": "https://open.spotify.com/artist/68s8IpfYxLOG5E9k6RUKE4"
-        },
-        {
-          "name": "Khensy",
-          "url": "https://open.spotify.com/artist/4jOzoKagU60KweoyVXvPt6"
-        }
-      ],
-      "duration_ms": 435652,
-      "name": "Tshinela - Fka Mash Re-Glitch",
-      "url": "https://open.spotify.com/track/0GHuC1j5UuT3iJbSjgpU9p"
     },
     {
       "added_at": "2021-11-25 21:59:00",

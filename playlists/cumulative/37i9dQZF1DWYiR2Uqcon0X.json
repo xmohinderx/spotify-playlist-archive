@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 189099,
       "name": "Breaking Hearts The Hard Way",
       "url": "https://open.spotify.com/track/4bhDhtSwRVRNoLZIy5cbfM"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 181524,
       "name": "It Don't Work Like That",
       "url": "https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb"
@@ -1425,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "A Hundred Miles Or More: A Collection",
+        "url": "https://open.spotify.com/album/2i3Fr0qXGyR57MfWNPcMKP"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260826,
+      "name": "Whiskey Lullaby",
+      "url": "https://open.spotify.com/track/0f7OHfUNNs5DGTijGFPalp"
+    },
+    {
+      "album": {
         "name": "Wild Honey",
         "url": "https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 242840,
       "name": "You and Tequila (feat. Grace Potter)",
       "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"

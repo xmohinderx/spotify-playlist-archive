@@ -490,7 +490,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 238003,
       "name": "Chocolate - Acoustic Version",
       "url": "https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz"
@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Fetish (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/3x97AnoAAIBGJuqZSTtVte"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2021-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186112,
+      "name": "Fetish (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/4lnAN2S1fcI0SjxEbksZVr"
+    },
+    {
+      "album": {
         "name": "Flashlight (From \"Pitch Perfect 2\" Soundtrack)",
         "url": "https://open.spotify.com/album/7JsgaEeIsP8gpRxmA30ErD"
       },
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 174666,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
@@ -1900,7 +1922,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 270846,
       "name": "Japanese Denim",
       "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
@@ -2894,6 +2916,24 @@
       "duration_ms": 194453,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/37R0bQOQj5a7DOqh1TGzvB"
+    },
+    {
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/0DiDStADDVh3SvAsoJAFMk"
     },
     {
       "album": {
@@ -4630,7 +4670,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 224740,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
@@ -4756,7 +4796,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 191826,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > Joe Bonamassa is taking over to share tracks of his new album, alongside his current blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,765 likes - 49 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,831 likes - 49 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 48 | [Generation Calling](https://open.spotify.com/track/2OIQxtcOQODZMzfWKCuhmY) | [Bluhauz](https://open.spotify.com/artist/3qoRE55TbnjvrjEzZd8sEL) | [Bluhauz](https://open.spotify.com/album/4cV8uUMMlKNxZA7ZNY1ONt) | 4:16 |
 | 49 | [Keep Your Light on Mama](https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 3:23 |
 
-Snapshot ID: `MTY0MDczODYzMCwwMDAwMDAwMGUxMDRiOTYzN2MxNTViODM2NmRjZjI1ZGQyNDZlZTk2`
+Snapshot ID: `MTY0MDgyNTA5NSwwMDAwMDAwMGUxMDRiOTYzN2MxNTViODM2NmRjZjI1ZGQyNDZlZTk2`

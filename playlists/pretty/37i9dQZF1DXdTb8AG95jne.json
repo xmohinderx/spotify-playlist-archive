@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \bHa Hyunsang(\ud558\ud604\uc0c1)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
-  "num_followers": 338841,
+  "num_followers": 339117,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDczODY0NCwwMDAwMDAwMGI0ZDFjOWRiNWMwNTQxMzZmZTRiOThiZTc2ZjNhZWVi",
+  "snapshot_id": "MTY0MDgyNTEwOSwwMDAwMDAwMGQ3YjAyNTkxNTEwZjZlY2JkNTE3YTBiNGEyZTk0NzJl",
   "tracks": [
     {
       "added_at": "2021-12-21 09:42:06",
@@ -63,22 +63,18 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "5.2 (Feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -103,18 +99,18 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+        "name": "1",
+        "url": "https://open.spotify.com/album/2uv3GEXDIyG4LQXdpjaeby"
       },
       "artists": [
         {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
         }
       ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+      "duration_ms": 223400,
+      "name": "No One Told Me Why",
+      "url": "https://open.spotify.com/track/4p2F176QbCzx8tyxwGmpym"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -135,34 +131,22 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "One another (2020)",
-        "url": "https://open.spotify.com/album/2bxPT0H1Dxyp0TIvjV5aP7"
+        "name": "5.2 (Feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
       "artists": [
         {
-          "name": "We Are The Night",
-          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "One another - 2020",
-      "url": "https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/2uv3GEXDIyG4LQXdpjaeby"
-      },
-      "artists": [
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
         {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
         }
       ],
-      "duration_ms": 223400,
-      "name": "No One Told Me Why",
-      "url": "https://open.spotify.com/track/4p2F176QbCzx8tyxwGmpym"
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -183,54 +167,50 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "NEXT EPISODE",
-        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+        "name": "Lovers In The Night",
+        "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
       },
       "artists": [
         {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        },
-        {
-          "name": "Lee Sun Hee",
-          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
         }
       ],
-      "duration_ms": 233416,
-      "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
-      "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
+      "duration_ms": 210546,
+      "name": "Lovers In The Night",
+      "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
     },
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "GAUSSIAN",
-        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
+        "name": "Fighting! \uc751\uc6d0\ud574",
+        "url": "https://open.spotify.com/album/2DGqiNKAYJIJuqcQfKU2Hi"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "Eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
         }
       ],
-      "duration_ms": 207413,
-      "name": "MIMI",
-      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
+      "duration_ms": 185986,
+      "name": "Fighting! \uc751\uc6d0\ud574",
+      "url": "https://open.spotify.com/track/6jD4BKw85zAOpK9DCx6uYm"
     },
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "silence",
-        "url": "https://open.spotify.com/album/0JLXXdA1ENNyfyj6oKGbsq"
+        "name": "friend to lover",
+        "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
       },
       "artists": [
         {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 278880,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/0lLvhwKky1WGu6jYJ1vUgV"
+      "duration_ms": 187946,
+      "name": "friend to lover",
+      "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -251,50 +231,18 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "Lovers In The Night",
-        "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
+        "name": "in the bed",
+        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 210546,
-      "name": "Lovers In The Night",
-      "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Good bye blue days",
-        "url": "https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 251349,
-      "name": "Good bye blue days",
-      "url": "https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "a car going nowhere",
-        "url": "https://open.spotify.com/album/6bmqmW6zsY9fAdsI7k0E1b"
-      },
-      "artists": [
-        {
-          "name": "ESAE",
-          "url": "https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "a car going nowhere",
-      "url": "https://open.spotify.com/track/15iXRayrmpaA6QmtEKqpX4"
+      "duration_ms": 265058,
+      "name": "in the bed",
+      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -319,98 +267,174 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "in the bed",
-        "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
+        "name": "Dawn Defibrillation, Vol. 1",
+        "url": "https://open.spotify.com/album/17nfUzuIgnYoYTsPzvXopO"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        },
+        {
+          "name": "YAYYOUNG",
+          "url": "https://open.spotify.com/artist/1YMr7hWr93dxFKIPsxxEdL"
         }
       ],
-      "duration_ms": 265058,
-      "name": "in the bed",
-      "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
+      "duration_ms": 210373,
+      "name": "Insomnia (feat. YAYYOUNG)",
+      "url": "https://open.spotify.com/track/3PWgyj5ae8qTqSrVRxG19k"
     },
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "Milky Way Love",
-        "url": "https://open.spotify.com/album/2cJ4lRsviJYOqZXiwrfLa4"
+        "name": "a car going nowhere",
+        "url": "https://open.spotify.com/album/6bmqmW6zsY9fAdsI7k0E1b"
       },
       "artists": [
         {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+          "name": "ESAE",
+          "url": "https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr"
         }
       ],
-      "duration_ms": 231137,
-      "name": "Milky Way Love",
-      "url": "https://open.spotify.com/track/4z9Xk5Yh7ZmA2lGPSrsG9n"
+      "duration_ms": 227604,
+      "name": "a car going nowhere",
+      "url": "https://open.spotify.com/track/15iXRayrmpaA6QmtEKqpX4"
     },
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "The Land of Fantasy",
-        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+        "name": "ARE YOU THERE",
+        "url": "https://open.spotify.com/album/67NbgsJ02X78ydRgMxRjUU"
       },
       "artists": [
         {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        },
+        {
+          "name": "JIAN",
+          "url": "https://open.spotify.com/artist/4eIoxNh0xJ6x7iCf7r2hSb"
         }
       ],
-      "duration_ms": 222999,
-      "name": "I Know Where The Rainbow has Fallen",
-      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
+      "duration_ms": 217453,
+      "name": "THE",
+      "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
     },
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "5.1",
-        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
+        "name": "silence",
+        "url": "https://open.spotify.com/album/0JLXXdA1ENNyfyj6oKGbsq"
       },
       "artists": [
         {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
         }
       ],
-      "duration_ms": 232893,
-      "name": "Winter Breath",
-      "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
+      "duration_ms": 278880,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/0lLvhwKky1WGu6jYJ1vUgV"
     },
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "Your Voice Makes Me Dream",
-        "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
       },
       "artists": [
         {
-          "name": "Dinner Coat",
-          "url": "https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV"
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Your Voice Makes Me Dream",
-      "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
+      "duration_ms": 233416,
+      "name": "Hey kid, Close your eyes (with Lee Sun Hee)",
+      "url": "https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk"
     },
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "Photograph \uc0ac\uc9c4\ucca9",
-        "url": "https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc"
+        "name": "Don't be sad",
+        "url": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
       },
       "artists": [
         {
-          "name": "Dasutt",
-          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
         }
       ],
-      "duration_ms": 254053,
-      "name": "Photograph \uc0ac\uc9c4\ucca9",
-      "url": "https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22"
+      "duration_ms": 210850,
+      "name": "Don't be sad",
+      "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "\uc624\ud0a4\ub098\uc640 Okinawa",
+        "url": "https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 348445,
+      "name": "\uc624\ud0a4\ub098\uc640 Okinawa",
+      "url": "https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "GAUSSIAN",
+        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Instant Lover",
+        "url": "https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 269775,
+      "name": "Instant Lover",
+      "url": "https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -427,6 +451,38 @@
       "duration_ms": 216510,
       "name": "Two Days",
       "url": "https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Winter \ub208",
+      "url": "https://open.spotify.com/track/2E69ooAhWV1QIZ86MMLk85"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Again, Spring Days",
+        "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 226559,
+      "name": "Let's Meet In Spring",
+      "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -455,54 +511,6 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "friend to lover",
-        "url": "https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 187946,
-      "name": "friend to lover",
-      "url": "https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Don't be sad",
-        "url": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 210850,
-      "name": "Don't be sad",
-      "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Dreamcatcher \ub4dc\ub9bc\uce90\ucc98",
-        "url": "https://open.spotify.com/album/6OtpkxHRV3EGjzOgaPSmtl"
-      },
-      "artists": [
-        {
-          "name": "We Are The Night",
-          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "Dreamcatcher \ub4dc\ub9bc\uce90\ucc98",
-      "url": "https://open.spotify.com/track/6Jx06CqjXLM7VYljqkCRcL"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -519,38 +527,106 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "Closely Far Away",
-        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
+        "name": "3108",
+        "url": "https://open.spotify.com/album/0pwKuUl5Rx2o2GWsARCCOU"
       },
       "artists": [
         {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+          "name": "Ha Hyunsang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
         }
       ],
-      "duration_ms": 194546,
-      "name": "Closely Far Away",
-      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
+      "duration_ms": 178266,
+      "name": "3108",
+      "url": "https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc"
     },
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "RAL 9002",
-        "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
+        "name": "Goodbye, fall",
+        "url": "https://open.spotify.com/album/2E82nqjerYIM9TrlNZeXND"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
         }
       ],
-      "duration_ms": 189533,
-      "name": "RAL 9002",
-      "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
+      "duration_ms": 221129,
+      "name": "Goodbye, fall",
+      "url": "https://open.spotify.com/track/0LBSNshLNvYTiP6b4K1RzD"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Story Line",
+        "url": "https://open.spotify.com/album/5QoTyucanJ6ilfPNENdseH"
+      },
+      "artists": [
+        {
+          "name": "The Night Of Seokyo",
+          "url": "https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx"
+        },
+        {
+          "name": "Dawon",
+          "url": "https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw"
+        }
+      ],
+      "duration_ms": 216490,
+      "name": "Story Line (Feat.Dawon) (Korean ver.)",
+      "url": "https://open.spotify.com/track/51ZLM32YbcAQ1aSl292T5N"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Dawn Defibrillation, Vol. 3",
+        "url": "https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        },
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Concrete (feat. CHEEZE)",
+      "url": "https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Good bye blue days",
+        "url": "https://open.spotify.com/album/6fujCf3YvZsPCsXIKRMbUe"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 251349,
+      "name": "Good bye blue days",
+      "url": "https://open.spotify.com/track/0FseBo4lh1WeuvvIKAwsMR"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Modern, Mild",
+        "url": "https://open.spotify.com/album/2pEKX0SvaeJ289AtEEieL9"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -567,142 +643,6 @@
       "duration_ms": 270461,
       "name": "I was wrong",
       "url": "https://open.spotify.com/track/2Nudb9hCRVGqePHBBedTic"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "One Another",
-        "url": "https://open.spotify.com/album/1NsVlv4D9l1GHn6nXOzAiz"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "One Another",
-      "url": "https://open.spotify.com/track/189vi3KtFMw8bH2dKiXtD1"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Islet",
-        "url": "https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        }
-      ],
-      "duration_ms": 181697,
-      "name": "Islet",
-      "url": "https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/2PAEA9SgGyEu2fjuqvUyzM"
-      },
-      "artists": [
-        {
-          "name": "Sunday Moon",
-          "url": "https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn"
-        }
-      ],
-      "duration_ms": 238774,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/0XLORO8d7WV66y49E7bxrI"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Snow in Seoul",
-        "url": "https://open.spotify.com/album/1XbTgdcRQ4ss531LtZdXX7"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Benaddict",
-          "url": "https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz"
-        }
-      ],
-      "duration_ms": 269722,
-      "name": "Snow in Seoul",
-      "url": "https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Dawn Defibrillation, Vol. 1",
-        "url": "https://open.spotify.com/album/17nfUzuIgnYoYTsPzvXopO"
-      },
-      "artists": [
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        },
-        {
-          "name": "YAYYOUNG",
-          "url": "https://open.spotify.com/artist/1YMr7hWr93dxFKIPsxxEdL"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Insomnia (feat. YAYYOUNG)",
-      "url": "https://open.spotify.com/track/3PWgyj5ae8qTqSrVRxG19k"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Things I Loved Most 2",
-        "url": "https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf"
-      },
-      "artists": [
-        {
-          "name": "KYUL",
-          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
-        }
-      ],
-      "duration_ms": 210581,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "\uc624\ud0a4\ub098\uc640 Okinawa",
-        "url": "https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M"
-      },
-      "artists": [
-        {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-        }
-      ],
-      "duration_ms": 348445,
-      "name": "\uc624\ud0a4\ub098\uc640 Okinawa",
-      "url": "https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE"
     },
     {
       "added_at": "2021-12-21 09:42:06",
@@ -727,6 +667,186 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
+        "name": "Indica (feat. Motte)",
+        "url": "https://open.spotify.com/album/5tfF5EUJI70rGfFrwPHwn5"
+      },
+      "artists": [
+        {
+          "name": "Land of Peace",
+          "url": "https://open.spotify.com/artist/5k0xHB7GIhrTwAAK9wWtfg"
+        },
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "duration_ms": 194909,
+      "name": "Indica (feat. Motte)",
+      "url": "https://open.spotify.com/track/4lZTygIDDA87R9TWyJxXEc"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Koh",
+        "url": "https://open.spotify.com/album/1BYZllRHEx6mKOi2aKiEjM"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 299428,
+      "name": "Koh",
+      "url": "https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Traveller, No.101",
+        "url": "https://open.spotify.com/album/1h8ZiPrGqNQzyJVBSj6X7e"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "duration_ms": 234701,
+      "name": "Where are you",
+      "url": "https://open.spotify.com/track/6j0CMk5tIEl57UuO9PrLpX"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/0G7mGBC8pHJoEAYqy5o1Uy"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/2HpiCVq8cCc0T2YFf4nMiR"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "RAL 9002",
+        "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "RAL 9002",
+      "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/2PAEA9SgGyEu2fjuqvUyzM"
+      },
+      "artists": [
+        {
+          "name": "Sunday Moon",
+          "url": "https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn"
+        }
+      ],
+      "duration_ms": 238774,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/0XLORO8d7WV66y49E7bxrI"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "fool",
+        "url": "https://open.spotify.com/album/16YHVI5MAqFtYOLqrJAB9j"
+      },
+      "artists": [
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        },
+        {
+          "name": "Hayne",
+          "url": "https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL"
+        },
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        }
+      ],
+      "duration_ms": 130333,
+      "name": "fool",
+      "url": "https://open.spotify.com/track/41c8b3Nj6DCoaKrdaim47d"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "8%",
+        "url": "https://open.spotify.com/album/4A2zt7AYTnaI3TMdSKh3TB"
+      },
+      "artists": [
+        {
+          "name": "HAIL",
+          "url": "https://open.spotify.com/artist/6ay9YyFyAgf6eORHdLKKDf"
+        }
+      ],
+      "duration_ms": 230531,
+      "name": "8%",
+      "url": "https://open.spotify.com/track/5b8kLu7ws92PZNztnAfhTr"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/7K8YzXvTz5vOfLiRmgqH9J"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/0Ol1mhlclpCQlBUF8OPZW0"
+        },
+        {
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Tree (Feat. Eily)",
+      "url": "https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
+        "name": "Closely Far Away",
+        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Closely Far Away",
+      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
+    },
+    {
+      "added_at": "2021-12-21 09:42:06",
+      "album": {
         "name": "pigfrog",
         "url": "https://open.spotify.com/album/2BtpxA0g6PcyMzg30T7c0Z"
       },
@@ -743,122 +863,18 @@
     {
       "added_at": "2021-12-21 09:42:06",
       "album": {
-        "name": "3108",
-        "url": "https://open.spotify.com/album/0pwKuUl5Rx2o2GWsARCCOU"
+        "name": "Beside",
+        "url": "https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt"
       },
       "artists": [
         {
-          "name": "Ha Hyunsang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
         }
       ],
-      "duration_ms": 178266,
-      "name": "3108",
-      "url": "https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/2Mw3tpyBFi65jX9hgBXP17"
-      },
-      "artists": [
-        {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
-        }
-      ],
-      "duration_ms": 331000,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Afterlife (Feat. OOHYO)",
-        "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
-      },
-      "artists": [
-        {
-          "name": "Space Cowboy",
-          "url": "https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 270713,
-      "name": "Afterlife (Feat. OOHYO)",
-      "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "Northern Light",
-        "url": "https://open.spotify.com/album/3CfKLDPqXyRbjcIWk2ShQ5"
-      },
-      "artists": [
-        {
-          "name": "Joohyo",
-          "url": "https://open.spotify.com/artist/2A7bNE2vH60u6TrY50jdy4"
-        }
-      ],
-      "duration_ms": 241451,
-      "name": "Northern Light",
-      "url": "https://open.spotify.com/track/1CRpDZ0XPU77yoJu2mJZir"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "co",
-        "url": "https://open.spotify.com/album/48z6zKbAYLyrUjawzSnCwM"
-      },
-      "artists": [
-        {
-          "name": "O3ohn",
-          "url": "https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI"
-        }
-      ],
-      "duration_ms": 132437,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/6YBR8tsZZjbZRATuFPNPVu"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "ARE YOU THERE",
-        "url": "https://open.spotify.com/album/67NbgsJ02X78ydRgMxRjUU"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        },
-        {
-          "name": "JIAN",
-          "url": "https://open.spotify.com/artist/4eIoxNh0xJ6x7iCf7r2hSb"
-        }
-      ],
-      "duration_ms": 217453,
-      "name": "THE",
-      "url": "https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU"
-    },
-    {
-      "added_at": "2021-12-21 09:42:06",
-      "album": {
-        "name": "I Feel Like I'd Have To Do Something",
-        "url": "https://open.spotify.com/album/2ZhRMgJQ1upVD8p3ssaZun"
-      },
-      "artists": [
-        {
-          "name": "Brocccoli You Too?",
-          "url": "https://open.spotify.com/artist/1PgKa72aXVTY8GmUaGkvwl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Struggling",
-      "url": "https://open.spotify.com/track/50EwAI9bolehhOwR0BxjfX"
+      "duration_ms": 234000,
+      "name": "Beside",
+      "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne"

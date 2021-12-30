@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 251400,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/3ZUEdWfVROkbgOsG53ctme"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 169180,
       "name": "Chasing Stars (feat. James Bay) [VIP]",
       "url": "https://open.spotify.com/track/47crMnBBovP3ErVw07kadS"
@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "A State Of Trance Year Mix 2021 (Mixed by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/4OaMsk8VihZmMNIx8oYdoo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88813,
+      "name": "Leave A Little Love (Mixed) - Club Mix",
+      "url": "https://open.spotify.com/track/0oGKDmrn3HQ4ih50iWD7sl"
+    },
+    {
+      "album": {
         "name": "Leave A Little Love (Club Mix)",
         "url": "https://open.spotify.com/album/5nV1iCvWWEWgJwwwn6jtHH"
       },
@@ -864,7 +886,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 373124,
       "name": "Silenced By The Night [Alesso vs. Keane] - Alesso Remix",
       "url": "https://open.spotify.com/track/1HTh4meXIkX5JHVYs8DQ6r"
@@ -886,6 +908,24 @@
       "duration_ms": 154031,
       "name": "Somebody To Use",
       "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
+    },
+    {
+      "album": {
+        "name": "Somebody To Use",
+        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191618,
+      "name": "Somebody To Use - Toxic Mix",
+      "url": "https://open.spotify.com/track/1fU9jcKCej9LobWUT6K7Fo"
     },
     {
       "album": {
@@ -1146,6 +1186,28 @@
       "duration_ms": 336613,
       "name": "Under Control (feat. Hurts) - Extended Mix",
       "url": "https://open.spotify.com/track/3IRopjEQzdRC8oP98yUikY"
+    },
+    {
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
       "album": {

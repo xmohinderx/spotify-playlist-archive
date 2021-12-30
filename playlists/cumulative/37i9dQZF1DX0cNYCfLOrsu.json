@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/5cghqe2AGIOh6vEhGya2Bz"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152656,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2BcL1wkyjPn8JGiDtSU5pD"
+    },
+    {
+      "album": {
         "name": "Batty Rider Shorts",
         "url": "https://open.spotify.com/album/3Wgc0ssm8QiWJ8UecTW8ex"
       },
@@ -96,6 +114,28 @@
       "duration_ms": 199991,
       "name": "Batty Rider Shorts",
       "url": "https://open.spotify.com/track/0umOVszFJr1XMGBXK1i4xK"
+    },
+    {
+      "album": {
+        "name": "Belong with Me",
+        "url": "https://open.spotify.com/album/2tkbDJZRQbYmAyyQAxTeD4"
+      },
+      "artists": [
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176367,
+      "name": "Belong with Me",
+      "url": "https://open.spotify.com/track/3RvWNXxM9TCffELMiAtV19"
     },
     {
       "album": {
@@ -132,7 +172,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 200370,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/2kksFG87MypmLRTw8laNY9"
@@ -150,10 +190,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 165480,
       "name": "Budum",
       "url": "https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK"
+    },
+    {
+      "album": {
+        "name": "Bumpa",
+        "url": "https://open.spotify.com/album/3nccXj310EwGo2VYTjjpMU"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mercedez",
+          "url": "https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122264,
+      "name": "Bumpa",
+      "url": "https://open.spotify.com/track/3tZEeX4uToXoW3xeUQWin8"
     },
     {
       "album": {
@@ -392,7 +450,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 167966,
       "name": "Dumpling - dEVOLVE Remix",
       "url": "https://open.spotify.com/track/7weMVtvIvwNK6mqJd8BvNX"
@@ -476,7 +534,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 157361,
       "name": "Face & Figga",
       "url": "https://open.spotify.com/track/2bWnWaD1QC8hC26IdWmxdl"
@@ -498,6 +556,28 @@
       "duration_ms": 204500,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4C1Smq2t3MVOPzsUPWW0oX"
+    },
+    {
+      "album": {
+        "name": "Fine Dine",
+        "url": "https://open.spotify.com/album/1NJGdaRwqm6cDYyXu7y7Yg"
+      },
+      "artists": [
+        {
+          "name": "Shauna Shadae",
+          "url": "https://open.spotify.com/artist/3emXVifDxKaDkNSJ3MX0wr"
+        },
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208426,
+      "name": "Fine Dine",
+      "url": "https://open.spotify.com/track/3r9rBLRYvaImpuBfwSZcg7"
     },
     {
       "album": {
@@ -542,6 +622,24 @@
       "duration_ms": 166504,
       "name": "Gal a Get More",
       "url": "https://open.spotify.com/track/3gPRyYL4h3E0VUkstlTLSK"
+    },
+    {
+      "album": {
+        "name": "Gal Yuh Body Hot",
+        "url": "https://open.spotify.com/album/5P7oFZBpqVZf2sZPyKYksL"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226246,
+      "name": "Gal Yuh Body Hot",
+      "url": "https://open.spotify.com/track/2jPlPtYwsBM3RUZDI530E8"
     },
     {
       "album": {
@@ -648,7 +746,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 145671,
       "name": "Green Dreams",
       "url": "https://open.spotify.com/track/0fDkjehk7tnIvkjDwka5Fv"
@@ -692,7 +790,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 165534,
       "name": "Heavy!",
       "url": "https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf"
@@ -710,7 +808,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 190641,
       "name": "Hydraulics Wine",
       "url": "https://open.spotify.com/track/49KfUKEaWAaYDkOkeztx3c"
@@ -757,6 +855,28 @@
     },
     {
       "album": {
+        "name": "Instruction (Gallong Gyal)",
+        "url": "https://open.spotify.com/album/32ilBI5QkdTWpgVSqIGtiD"
+      },
+      "artists": [
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        },
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171068,
+      "name": "Instruction (Gallong Gyal)",
+      "url": "https://open.spotify.com/track/24uqbhdWIuExI9rGFJXd9Z"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -780,6 +900,64 @@
       "duration_ms": 197022,
       "name": "Intercourse (feat. Popcaan & Mustard)",
       "url": "https://open.spotify.com/track/05b94NgTfntKGZra5TMEcx"
+    },
+    {
+      "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+    },
+    {
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/0Mbjwil51uX1EE2nARbl0f"
+      },
+      "artists": [
+        {
+          "name": "Leaha",
+          "url": "https://open.spotify.com/artist/1QKXXl3OKfTUTcXg0z1ntp"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185103,
+      "name": "LIGHTS",
+      "url": "https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug"
+    },
+    {
+      "album": {
+        "name": "The Art of Flex",
+        "url": "https://open.spotify.com/album/3SzwtY32eeDhTg8W4G1RhF"
+      },
+      "artists": [
+        {
+          "name": "Nessa Preppy",
+          "url": "https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150329,
+      "name": "Lime Light",
+      "url": "https://open.spotify.com/track/5AbcWeVLIUgIzrbZIGPVak"
     },
     {
       "album": {
@@ -968,10 +1146,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 141111,
       "name": "Pressure Dem",
       "url": "https://open.spotify.com/track/6UzhbdHb7d8DzlrXMpM7b4"
+    },
+    {
+      "album": {
+        "name": "Proper Paper",
+        "url": "https://open.spotify.com/album/1or2Ipcprc2k8s9hikqryA"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233072,
+      "name": "Proper Paper",
+      "url": "https://open.spotify.com/track/4py6tQGaMCXcepJSWw1oBV"
     },
     {
       "album": {
@@ -1062,7 +1258,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 154285,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa"
@@ -1232,7 +1428,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 176453,
       "name": "Tek Weh Yuhself",
       "url": "https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu"
@@ -1286,7 +1482,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 140388,
       "name": "TIP (The Party)",
       "url": "https://open.spotify.com/track/7JN94B0MwRWK4GuX7n7dhM"
@@ -1514,6 +1710,28 @@
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
+    },
+    {
+      "album": {
+        "name": "Whine & Kotch - Single",
+        "url": "https://open.spotify.com/album/7GEez0YRjAId4UcKWjd9R4"
+      },
+      "artists": [
+        {
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Whine & Kotch - Raw",
+      "url": "https://open.spotify.com/track/4MfOIakexlZ7kIvMQOlCwm"
     },
     {
       "album": {

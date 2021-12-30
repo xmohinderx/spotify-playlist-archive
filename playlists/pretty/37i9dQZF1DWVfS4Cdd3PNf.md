@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > 100 highlight tracks from 100 great operas, including masterpieces of baroque era \(Monteverdi, Rameau, Gluck\) all the way to 20th century and contemporary classics \(Ligeti, Saariaho, John Adams\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,282 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,338 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -596,7 +596,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Cursive",
       "url": "https://open.spotify.com/track/5Iy1wdO0tMaHwKnfFYtlel"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 231573,
       "name": "Dynamite - Acoustic",
       "url": "https://open.spotify.com/track/1PGGhSINHbLygmtcI2hhJv"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/1VbhR6D6zUoSTBzvnRonXO"
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 236786,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX"
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 185864,
       "name": "Prism of Love (Piano Acoustic)",
       "url": "https://open.spotify.com/track/6gPTlMJWFcjmY6FGjRWwYK"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 199933,
       "name": "So Lonely",
       "url": "https://open.spotify.com/track/0radB77nHaNbfMRcBNmyD0"
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 232712,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/2JUaGpCrD8tywgj9MeLFbb"
@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 255205,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3UNuVVGosJLfLCsWHEhr5U"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 268360,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5Kwi8hF3UyV8FfmzrdkDqE"
@@ -3374,7 +3374,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 208746,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/7dSuhaIbrLsBueK1rnI4bv"
@@ -3728,7 +3728,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 174730,
       "name": "Why",
       "url": "https://open.spotify.com/track/6z9VXT3rQMzY6zQaQAts2t"
@@ -3934,6 +3934,24 @@
       "duration_ms": 224743,
       "name": "You Said You'd Grow Old With Me",
       "url": "https://open.spotify.com/track/41WTP0gosjYD74B06uS2tL"
+    },
+    {
+      "album": {
+        "name": "Aquilo",
+        "url": "https://open.spotify.com/album/44tUgx0z8pXtozzfofp7Hi"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253927,
+      "name": "You There",
+      "url": "https://open.spotify.com/track/3LSY9s9h6RmHRTXOtRA5oK"
     },
     {
       "album": {

@@ -38,7 +38,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 294152,
       "name": "Abrete",
       "url": "https://open.spotify.com/track/18uSijEt6xcpnRnd6mnzGd"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 163970,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/0RJs8drfEtEtUWy5Ujwbup"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 344320,
       "name": "Arturo Almonte",
       "url": "https://open.spotify.com/track/54iycgJoJ2Vx1TgAW2lETM"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 167813,
       "name": "Comiendo Gallina",
       "url": "https://open.spotify.com/track/1178yPG7zYNGgyIPUmCE4p"
@@ -171,6 +171,42 @@
     },
     {
       "album": {
+        "name": "Dos X Uno",
+        "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259573,
+      "name": "Con el Agua y el Jab\u00f3n",
+      "url": "https://open.spotify.com/track/1VeE2eQetaWW9OYtXBjv1l"
+    },
+    {
+      "album": {
+        "name": "Dos X Uno",
+        "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306333,
+      "name": "Con el Agua y el Jab\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/39iwcYBNRMWekv9PFEEAC4"
+    },
+    {
+      "album": {
         "name": "El Bombazo Tipico",
         "url": "https://open.spotify.com/album/4MuSBTg9lWtOjLeoBZWRfe"
       },
@@ -182,10 +218,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 343293,
       "name": "Cuando Volveras",
       "url": "https://open.spotify.com/track/6TcrExP8tPoHHiKP07k67r"
+    },
+    {
+      "album": {
+        "name": "WWW.TIPICO.COM",
+        "url": "https://open.spotify.com/album/3Ue6WLLV8B9JU4z9lxx3P5"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223813,
+      "name": "Cumande",
+      "url": "https://open.spotify.com/track/6vkTSOXiHEOnehe7ydVP9e"
     },
     {
       "album": {
@@ -218,10 +272,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 284760,
       "name": "Cumande",
       "url": "https://open.spotify.com/track/6V5xHNN6A1WefkSKgQkOsS"
+    },
+    {
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/5Q8p7lerPqauI6Hz9kSAN6"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336226,
+      "name": "Dile Que Vuelva",
+      "url": "https://open.spotify.com/track/2HDynkWGsEg1pGoTEZlN9S"
     },
     {
       "album": {
@@ -236,7 +308,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 365600,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/2vJJxPOAPHPYBJqEHl64Oi"
@@ -272,10 +344,46 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 491200,
       "name": "El Baile Del Perrito",
       "url": "https://open.spotify.com/track/0uDxsPAVs2Hu6OQ7XlUWo2"
+    },
+    {
+      "album": {
+        "name": "Two Strong Live (Summer Latino, Vol.2)",
+        "url": "https://open.spotify.com/album/1McWsUpoxjfln3hhXWq5d6"
+      },
+      "artists": [
+        {
+          "name": "Banda Real",
+          "url": "https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581224,
+      "name": "El Bajadero",
+      "url": "https://open.spotify.com/track/5BHuc3GhczyXa6QQNnt52C"
+    },
+    {
+      "album": {
+        "name": "El Mambologo, Vol. 1",
+        "url": "https://open.spotify.com/album/5rMGC8QMMc7aPOkIfrGnpE"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316734,
+      "name": "El Bombillo",
+      "url": "https://open.spotify.com/track/617MHqWbykfuGSjEeYBDaW"
     },
     {
       "album": {
@@ -290,7 +398,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 370746,
       "name": "El bombillo del amor",
       "url": "https://open.spotify.com/track/5maDHYJu4stFMR42yAx8mP"
@@ -308,10 +416,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 338226,
       "name": "El Conejo De La Vecina",
       "url": "https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d"
+    },
+    {
+      "album": {
+        "name": "Sabor Criollo (M\u00fasica T\u00edpica)",
+        "url": "https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy"
+      },
+      "artists": [
+        {
+          "name": "El Ciego De Nagua",
+          "url": "https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277986,
+      "name": "El Diente de Oro",
+      "url": "https://open.spotify.com/track/7fSnl9iRCYNX6N4SPPxzf3"
     },
     {
       "album": {
@@ -405,6 +531,24 @@
     },
     {
       "album": {
+        "name": "J&N T\u00edpico",
+        "url": "https://open.spotify.com/album/2YGedb8ZzxjStjW0WoiOXa"
+      },
+      "artists": [
+        {
+          "name": "Maria Diaz",
+          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223480,
+      "name": "El Hombre Que Quise",
+      "url": "https://open.spotify.com/track/7cjfLQUTKuxPD2xf75EtWo"
+    },
+    {
+      "album": {
         "name": "Tipicazos",
         "url": "https://open.spotify.com/album/5tIuwjIPjjZ5PdnFGtTPjs"
       },
@@ -416,7 +560,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 266040,
       "name": "El Lio",
       "url": "https://open.spotify.com/track/1lS7ofUp2X3G9OoZE2Ozap"
@@ -434,10 +578,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 331128,
       "name": "El Maiz",
       "url": "https://open.spotify.com/track/1tJeQmdfy7J21xfdlOCQRS"
+    },
+    {
+      "album": {
+        "name": "Kiko el Presidente: Live from Santiago",
+        "url": "https://open.spotify.com/album/5Iw0HyzfuxfD5aLECUD1nM"
+      },
+      "artists": [
+        {
+          "name": "Kiko El Presidente",
+          "url": "https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483303,
+      "name": "El N\u00famero Telef\u00f3nico",
+      "url": "https://open.spotify.com/track/0H7LGh228bDHFMJzh0ZWyQ"
     },
     {
       "album": {
@@ -459,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Los Numero 1",
+        "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Gutierrez",
+          "url": "https://open.spotify.com/artist/4USRigxRhhSovt62npVWv1"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300760,
+      "name": "El Pompo",
+      "url": "https://open.spotify.com/track/7HgiICdOqo0M8mliWTfqdx"
+    },
+    {
+      "album": {
         "name": "From Santo Domingo: Live!",
         "url": "https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z"
       },
@@ -470,7 +650,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 335266,
       "name": "El Refr\u00e1n",
       "url": "https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH"
@@ -506,7 +686,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 218186,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/4SPXM0ZcKDnKfQh0bXZV7a"
@@ -542,7 +722,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 247092,
       "name": "Esta Noche Me Emborracho",
       "url": "https://open.spotify.com/track/2isA1Ifv91JCSh8Kn0xTl0"
@@ -567,6 +747,32 @@
     },
     {
       "album": {
+        "name": "Merengues Con el Alma",
+        "url": "https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f"
+      },
+      "artists": [
+        {
+          "name": "Trio Reynoso",
+          "url": "https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q"
+        },
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        },
+        {
+          "name": "Miguel Santana",
+          "url": "https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151044,
+      "name": "Juanita Morel",
+      "url": "https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH"
+    },
+    {
+      "album": {
         "name": "Out of Control",
         "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
       },
@@ -578,7 +784,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 250613,
       "name": "La Batata",
       "url": "https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa"
@@ -596,7 +802,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 433162,
       "name": "La Botija",
       "url": "https://open.spotify.com/track/4sSqHPIeN1R4leCYs4HVxu"
@@ -632,7 +838,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 358608,
       "name": "La Chiflera",
       "url": "https://open.spotify.com/track/21eBgrmvfG9cAmilH0V6zL"
@@ -650,7 +856,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 224306,
       "name": "La Cosquillita",
       "url": "https://open.spotify.com/track/0zF6NArj1CGJIdkZX3Yzoy"
@@ -668,7 +874,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 371613,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/6U9qD39KThuIceRgmSyGaJ"
@@ -729,6 +935,24 @@
     },
     {
       "album": {
+        "name": "La Grama Chapia",
+        "url": "https://open.spotify.com/album/4961HTA2TtwYlVYMdka1yR"
+      },
+      "artists": [
+        {
+          "name": "Raquel Arias",
+          "url": "https://open.spotify.com/artist/49P6VROZM32gIQyX9CvJE8"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279092,
+      "name": "La Grama Chapia",
+      "url": "https://open.spotify.com/track/09oNG7yDALMj4KbYZqv6zS"
+    },
+    {
+      "album": {
         "name": "Dos X Uno",
         "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
       },
@@ -740,7 +964,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 270106,
       "name": "La Historia de Amor",
       "url": "https://open.spotify.com/track/2bvUMCgyJKmhDcaBaL9SX3"
@@ -812,7 +1036,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 173360,
       "name": "La Pava",
       "url": "https://open.spotify.com/track/5MFurpjWaE0RP7O5fpxkNz"
@@ -830,7 +1054,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 284600,
       "name": "La Pimienta es la Que Pica",
       "url": "https://open.spotify.com/track/1cwD4kYEcYmLCPj42Ym8Yx"
@@ -848,10 +1072,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 308493,
       "name": "La Queja",
       "url": "https://open.spotify.com/track/4zlyMC48VaNlwsKWfsYJPR"
+    },
+    {
+      "album": {
+        "name": "La Caba\u00f1a",
+        "url": "https://open.spotify.com/album/0RdcZm4JIUfIyTfN7exGIV"
+      },
+      "artists": [
+        {
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223346,
+      "name": "La Querida Tipica",
+      "url": "https://open.spotify.com/track/7oez5wsiPo24mYY0jzQIxN"
     },
     {
       "album": {
@@ -891,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "I'm in Love with the Coco (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0U2TX1yxtxVWwsRv4bcnm6"
+      },
+      "artists": [
+        {
+          "name": "Tipico Urbano",
+          "url": "https://open.spotify.com/artist/5JVkZJXmCM6VWYKrnX6n6h"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504320,
+      "name": "Las Sure\u00f1as",
+      "url": "https://open.spotify.com/track/6Tfl1LgHlkyueZPJzIhTcy"
+    },
+    {
+      "album": {
         "name": "Two Strong Live (Summer Latino, Vol.2)",
         "url": "https://open.spotify.com/album/1McWsUpoxjfln3hhXWq5d6"
       },
@@ -906,6 +1166,24 @@
       "duration_ms": 572003,
       "name": "Los Algodones",
       "url": "https://open.spotify.com/track/25TUx9I6yjv0YXGhPttvvg"
+    },
+    {
+      "album": {
+        "name": "Dos X Uno",
+        "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
+      },
+      "artists": [
+        {
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257959,
+      "name": "Mara Pic\u00e1 (Marapica)",
+      "url": "https://open.spotify.com/track/3G6xUS4mqqEX9qUhOipSNM"
     },
     {
       "album": {
@@ -938,7 +1216,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 265848,
       "name": "Mejor Que Yo No",
       "url": "https://open.spotify.com/track/0ULfbeJ2mRmu0zcX1GLkNk"
@@ -956,7 +1234,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 335412,
       "name": "Moreno Tejada",
       "url": "https://open.spotify.com/track/7tGAWlnetlM44sXwF9Rs9w"
@@ -974,7 +1252,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 262400,
       "name": "Navidad Sin Mi Madre",
       "url": "https://open.spotify.com/track/2lZCupBD2NIlB9NFyXSkBf"
@@ -1046,7 +1324,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 245707,
       "name": "Pero Dime",
       "url": "https://open.spotify.com/track/7IvRwaxB2Wl64RrV9U5Kga"
@@ -1064,7 +1342,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 310005,
       "name": "Por Mujeres Voy a Morir",
       "url": "https://open.spotify.com/track/4z91y2K61tnG3IgZZtq84H"
@@ -1082,7 +1360,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 357000,
       "name": "Porque Te Fuiste Dulce Amor",
       "url": "https://open.spotify.com/track/2teVg77oXxa7UOSochwdEo"
@@ -1154,7 +1432,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 267937,
       "name": "Sabes Que No",
       "url": "https://open.spotify.com/track/1WRvRgSGMeps30zPtPHoce"
@@ -1172,7 +1450,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 227532,
       "name": "Sal\u00f3n de Belleza",
       "url": "https://open.spotify.com/track/7rdUMHIGaRO7l6JbP3zZnk"
@@ -1226,10 +1504,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 312683,
       "name": "Soliman",
       "url": "https://open.spotify.com/track/62NJaHU2OwiPCkYbvsFA6f"
+    },
+    {
+      "album": {
+        "name": "Dos X Uno",
+        "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256626,
+      "name": "Ta' Afixi\u00e1",
+      "url": "https://open.spotify.com/track/5F6BW5s3HrS3wbVleG4bfg"
     },
     {
       "album": {
@@ -1244,7 +1540,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 215386,
       "name": "Ta' Buena",
       "url": "https://open.spotify.com/track/3BgSFrdupRytjDZw2BcwHn"
@@ -1287,6 +1583,42 @@
     },
     {
       "album": {
+        "name": "La Reina del Soberano",
+        "url": "https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv"
+      },
+      "artists": [
+        {
+          "name": "Fefita La Grande",
+          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305773,
+      "name": "Tipico Caliente",
+      "url": "https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE"
+    },
+    {
+      "album": {
+        "name": "WWW.TIPICO.COM",
+        "url": "https://open.spotify.com/album/3Ue6WLLV8B9JU4z9lxx3P5"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Manuel",
+          "url": "https://open.spotify.com/artist/3cGFGn2zZeO4G30YGGEslB"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239160,
+      "name": "Un Amigo Mio",
+      "url": "https://open.spotify.com/track/22rcH9nCg6yf0cPNXWpSy1"
+    },
+    {
+      "album": {
         "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
         "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
       },
@@ -1302,6 +1634,42 @@
       "duration_ms": 284413,
       "name": "Vamos Pa la Playa",
       "url": "https://open.spotify.com/track/0S5e0l6A8iZhUl2WQCFecX"
+    },
+    {
+      "album": {
+        "name": "Muy Loco",
+        "url": "https://open.spotify.com/album/6SXxDhaRk2ezuJZC9vrGuD"
+      },
+      "artists": [
+        {
+          "name": "Yiki Lee",
+          "url": "https://open.spotify.com/artist/288FjEmxkMZJKZjYfDkd1A"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357433,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/6aeAgCXriC5ikrMjEr7DRA"
+    },
+    {
+      "album": {
+        "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
+        "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251112,
+      "name": "Yo Era el Amor de Su Vida",
+      "url": "https://open.spotify.com/track/3j4cpkEiQ0X19hnOpTSq8k"
     },
     {
       "album": {
@@ -1341,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Merengues T\u00edpicos, Vol. 1",
+        "url": "https://open.spotify.com/album/5EZB4tvAG8NpJ67jD0muQQ"
+      },
+      "artists": [
+        {
+          "name": "La Kerubanda",
+          "url": "https://open.spotify.com/artist/2CF3riSlFTYdGXOu6GKK4l"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261735,
+      "name": "Yo Te Quiero a Ti",
+      "url": "https://open.spotify.com/track/5hcBXqCFmp2wTxrpgCeOhz"
+    },
+    {
+      "album": {
         "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
         "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
       },
@@ -1352,7 +1738,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 340373,
       "name": "Yo Te Quiero a Ti",
       "url": "https://open.spotify.com/track/22OGlQVgXvtSiUA8Nj7EJJ"

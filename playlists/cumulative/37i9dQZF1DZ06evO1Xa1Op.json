@@ -434,7 +434,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 304973,
       "name": "Kala",
       "url": "https://open.spotify.com/track/0cXMDLtctwEmb7V8usAdPV"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 250013,
       "name": "Kana Kassy",
       "url": "https://open.spotify.com/track/7tcbDEhAJ3cAwsPazkQnpW"
@@ -689,6 +689,28 @@
     },
     {
       "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197106,
+      "name": "Samba Geladio",
+      "url": "https://open.spotify.com/track/21FynyuRsfsnWNoLkmPDt9"
+    },
+    {
+      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -766,6 +788,28 @@
       "duration_ms": 362546,
       "name": "Soukora (with Ry Cooder)",
       "url": "https://open.spotify.com/track/0WON7ccM42foBwZikHsf7v"
+    },
+    {
+      "album": {
+        "name": "In the Heart of the Moon",
+        "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "Soumbou ya ya",
+      "url": "https://open.spotify.com/track/1NLomex6hDLDMCej9NR0BN"
     },
     {
       "album": {

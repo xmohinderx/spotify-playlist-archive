@@ -475,6 +475,28 @@
     },
     {
       "album": {
+        "name": "l\u1eeda g\u1ea7n r\u01a1m l\u00e2u ng\u00e0y c\u0169ng b\u00e9n",
+        "url": "https://open.spotify.com/album/3QmjIV0jHDEUKRz8WfmXM8"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        },
+        {
+          "name": "39 Kingdom",
+          "url": "https://open.spotify.com/artist/2JnQtHnHjylFjCDkYAiH1E"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "l\u1eeda g\u1ea7n r\u01a1m l\u00e2u ng\u00e0y c\u0169ng b\u00e9n",
+      "url": "https://open.spotify.com/track/1Xmoej3kUKCFl9tvLsVe6U"
+    },
+    {
+      "album": {
         "name": "Tr\u1ea1m Kh\u00f4ng Gian S\u1ed1 0 (Unplugged)",
         "url": "https://open.spotify.com/album/5ScazWOt0AHFU5tiJCtcuA"
       },
@@ -674,7 +696,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 236247,
       "name": "Ph\u1eadn Hoa R\u01a1i",
       "url": "https://open.spotify.com/track/6dkCXQoMZoEonJbbFYH83r"

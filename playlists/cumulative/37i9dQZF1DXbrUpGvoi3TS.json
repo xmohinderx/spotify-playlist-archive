@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 213680,
       "name": "All I Ever Need",
       "url": "https://open.spotify.com/track/50x8pt9ZLSXqd3dF3YJYqm"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Crying My Eyes Out",
+        "url": "https://open.spotify.com/album/2oydmC0JBXnX4FVYEBHOLd"
+      },
+      "artists": [
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176539,
+      "name": "Crying My Eyes Out",
+      "url": "https://open.spotify.com/track/1e6McS5TlhjM3NRJMLfYPr"
+    },
+    {
+      "album": {
         "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
       },
@@ -478,7 +496,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 260004,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
@@ -514,7 +532,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 197846,
       "name": "Dear No One",
       "url": "https://open.spotify.com/track/3VYuMDBmfuAC8pxFtzC11Z"
@@ -698,7 +716,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 185946,
       "name": "Half Light",
       "url": "https://open.spotify.com/track/1iZn69GnmLDNkvWiw6W4Jd"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 193080,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
@@ -770,7 +788,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 252320,
       "name": "Helium - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
       "url": "https://open.spotify.com/track/5fc6rQgAKiLutfUYWQ6QnJ"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 170830,
       "name": "Lay By Me",
       "url": "https://open.spotify.com/track/4l6boTiX3Erh3HYpKOa0D6"
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 232338,
       "name": "Like I'm Gonna Lose You",
       "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 275280,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 270453,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/4wSV5rzG9GW7KIamDBYv1P"
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 181408,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/0yc37FvbXRwwFaQxzpxbsd"
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 286865,
       "name": "The Enemy",
       "url": "https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O"

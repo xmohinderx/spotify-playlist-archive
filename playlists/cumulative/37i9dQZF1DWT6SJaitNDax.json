@@ -54,7 +54,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 154000,
       "name": "A Million",
       "url": "https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 212623,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4dAJrbncWn7odU6KKwkZGV"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 189106,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/6BtXtwOOy9CfpdlClUscJv"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 160264,
       "name": "Baajo",
       "url": "https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187782,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 179461,
       "name": "Champion",
       "url": "https://open.spotify.com/track/2fY21NO9Y9Z2pWCdMTeXkR"
@@ -937,6 +937,28 @@
     },
     {
       "album": {
+        "name": "Dumebi (Remix)",
+        "url": "https://open.spotify.com/album/45diWaSnnKol5bg1iQruOc"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187926,
+      "name": "Dumebi (Remix)",
+      "url": "https://open.spotify.com/track/1GxRU2jUq6Xt5vwi1vrDyK"
+    },
+    {
+      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
       },
@@ -1102,7 +1124,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 200400,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/63MDlT75I1QKngHOVjvuTk"
@@ -1354,7 +1376,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "Guestlist",
       "url": "https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB"
@@ -1434,7 +1456,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 151456,
       "name": "HOLD ON",
       "url": "https://open.spotify.com/track/5KloByKt08LUcD2zKtARf3"
@@ -1694,7 +1716,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 156454,
       "name": "Koroba",
       "url": "https://open.spotify.com/track/6MzjLOHzkqoi7667ysz41k"
@@ -1760,7 +1782,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 213266,
       "name": "Lenu - Remix",
       "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
@@ -1898,7 +1920,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 238016,
       "name": "MAD",
       "url": "https://open.spotify.com/track/6mGUY6CaFbnK9a6YxV5lpJ"
@@ -1920,7 +1942,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 184797,
       "name": "Make Up Your Mind (feat. Tekno)",
       "url": "https://open.spotify.com/track/3LbXzCehkT8acW8FsPpPKt"
@@ -2008,7 +2030,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 173076,
       "name": "Money (feat. Teni)",
       "url": "https://open.spotify.com/track/0UkW1yMHOylGGr6HbUuh3I"
@@ -2026,7 +2048,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 206000,
       "name": "MOSLADO",
       "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 230973,
       "name": "Nobody (Amapiano)",
       "url": "https://open.spotify.com/track/7bwMgt5a2vGunZbqfQGYSN"
@@ -2234,7 +2256,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 182639,
       "name": "Oreke",
       "url": "https://open.spotify.com/track/7EFnbc7UnvOyFcb6IhJq9v"
@@ -2330,7 +2352,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 184433,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/0eqCKOEU3ZVuLFFsmupw5r"
@@ -2348,7 +2370,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 208692,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/02FYtL48KCMi11uRttaMeH"
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 234161,
       "name": "plenty feat. Sons of Sonix",
       "url": "https://open.spotify.com/track/213lc71WFDmKgHDFhR55rP"
@@ -2772,7 +2794,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 228932,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy"
@@ -2916,7 +2938,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 148000,
       "name": "So Lovely",
       "url": "https://open.spotify.com/track/0u3gigxw11WMwQryCLnXi2"
@@ -3046,7 +3068,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 228681,
       "name": "Surround Me",
       "url": "https://open.spotify.com/track/12yQgyLlpnI6EweSDsxs9i"
@@ -3148,7 +3170,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
@@ -3192,7 +3214,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 202012,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5"
@@ -3248,7 +3270,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 185652,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/3ZUWEJ3Vl7xsxydVMM6Ebv"
@@ -3296,7 +3318,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217710,
       "name": "Whine It (feat. Sauti Sol)",
       "url": "https://open.spotify.com/track/5mFGk1g417gDhAvrafXjEK"
@@ -3348,7 +3370,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 164347,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/6iRQXwzwaVMB59J7MuFloK"
@@ -3384,7 +3406,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 213373,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL"

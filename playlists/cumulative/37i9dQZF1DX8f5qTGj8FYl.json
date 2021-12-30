@@ -218,7 +218,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 191946,
       "name": "Boiling Pot",
       "url": "https://open.spotify.com/track/561DcDl3hPXFdW9bI7mTbn"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 343080,
       "name": "Broasted Or Fried",
       "url": "https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 226500,
       "name": "Cinnamon Babka",
       "url": "https://open.spotify.com/track/0uumBUb47WpPMNovu2YfvV"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 152344,
       "name": "Colonel Panic",
       "url": "https://open.spotify.com/track/1TllJ3vB5l9NL3IgAvC684"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 174740,
       "name": "Do Yourself a Favor",
       "url": "https://open.spotify.com/track/1efJcsv7o0rXQbZJBB0B9a"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 357480,
       "name": "Down Frenchmen St",
       "url": "https://open.spotify.com/track/64yrmj2YIDvn3HgPsa3KyC"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 183223,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 299000,
       "name": "Funkafized",
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 155429,
       "name": "Get Funked",
       "url": "https://open.spotify.com/track/38sBy1Ig1pojTtcsOpNIYN"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Help",
+        "url": "https://open.spotify.com/album/6lWd8T8d7iBIlJSl4eiLh9"
+      },
+      "artists": [
+        {
+          "name": "Hot Damn Horns & The Soul Machine",
+          "url": "https://open.spotify.com/artist/5qfEwrYeKLDNXgyBHj6UIH"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216440,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/0tdSXxG5GIFHRP4pBXJoS9"
+    },
+    {
+      "album": {
         "name": "Here We Go! (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2HZqw2eugGypZO5ZuNauxZ"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 127532,
       "name": "Here We Go!",
       "url": "https://open.spotify.com/track/5qC0s0cGubyzJ0NLyJ6oTS"
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 412733,
       "name": "In the Groove",
       "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 222944,
       "name": "Jump Up - 7\" edit",
       "url": "https://open.spotify.com/track/6UAvcih8yeFJgSe6Hj8AGQ"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 287645,
       "name": "Kong",
       "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 308546,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/2dXr3hdVlw1jaYaeNZR8tN"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 201680,
       "name": "Rubberneck",
       "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 488031,
       "name": "Spherical (Tiny Room Sessions)",
       "url": "https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U"
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 120185,
       "name": "Stay In Your Lane",
       "url": "https://open.spotify.com/track/06rsFCBNsgVgMYXe6il6ZG"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 293880,
       "name": "THE CRISIS GENERATOR",
       "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 234360,
       "name": "Under Krameria",
       "url": "https://open.spotify.com/track/4xnhEYjnjGBMQIMk3Kq4u5"
@@ -2062,6 +2080,24 @@
       "duration_ms": 353546,
       "name": "Voyager One (feat. Nate Smith & Bobby Sparks II)",
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
+    },
+    {
+      "album": {
+        "name": "We Need Love",
+        "url": "https://open.spotify.com/album/3XbT6tlyYKnWYbNLAG6kYp"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180157,
+      "name": "We Need Love",
+      "url": "https://open.spotify.com/track/6bEZVAjmga92R5uTPPxAGz"
     },
     {
       "album": {

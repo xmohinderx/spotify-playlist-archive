@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1C9bnJXVI4K.md) - [plain]
 
 > Playful poems and amusing rhymes for the young at heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,078 likes - 41 songs - 52 min 17 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,079 likes - 41 songs - 52 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

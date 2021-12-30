@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 171897,
       "name": "Anthony Kiedis",
       "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 214346,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 194946,
       "name": "Betcha Wouldn't Hurt Me",
       "url": "https://open.spotify.com/track/5UCaHq0Qlm42mbmVp4V4rk"
@@ -458,6 +458,24 @@
       "duration_ms": 390200,
       "name": "Changes, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/0LvIzl2lUEHABTypnv32im"
+    },
+    {
+      "album": {
+        "name": "Chess EP",
+        "url": "https://open.spotify.com/album/3mHiKTsOCWP6lOmYF6fzQH"
+      },
+      "artists": [
+        {
+          "name": "Joon Moon",
+          "url": "https://open.spotify.com/artist/0SYUPmAqWcyik557LEq2Z0"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183478,
+      "name": "Chess - Opium Factory Remix",
+      "url": "https://open.spotify.com/track/3NZEdsk7NgbwTpIVmwNdvb"
     },
     {
       "album": {
@@ -744,7 +762,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 282728,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/4fDcbHuBbX9qlNSQWnkrHw"
@@ -788,7 +806,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 222626,
       "name": "Elasto",
       "url": "https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo"
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0p92TJPcRHCbcSk3wCwWBz"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 249024,
       "name": "Live On",
       "url": "https://open.spotify.com/track/69AKIOHQKkvr70BxFS6FA2"
@@ -1492,7 +1510,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 168173,
       "name": "My Stove's On Fire",
       "url": "https://open.spotify.com/track/7CqtU7m36JwR5rxyKKxgGN"
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 199215,
       "name": "Pig",
       "url": "https://open.spotify.com/track/7lNv1uR1e9JndPOPxrx2fo"
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 207133,
       "name": "Show Me More",
       "url": "https://open.spotify.com/track/603iVka7FkEfoO0qi1hnf8"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 146680,
       "name": "Somebody Made For Me",
       "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 306935,
       "name": "Spread Lurve - Original Mix",
       "url": "https://open.spotify.com/track/4clEDm1xBMwAl4uKo3wCFt"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217066,
       "name": "The Keys",
       "url": "https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4"
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 174959,
       "name": "wyd",
       "url": "https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR"

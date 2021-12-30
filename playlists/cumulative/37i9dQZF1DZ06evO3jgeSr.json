@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 75346,
       "name": "'Till Forever",
       "url": "https://open.spotify.com/track/7vVywc6HuOtPzwdMkSxhI2"
@@ -126,12 +126,48 @@
           "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
         }
       ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305626,
+      "name": "Blue Lady",
+      "url": "https://open.spotify.com/track/1kdp5JKEEHxDmU0VEvKVG9"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 246866,
       "name": "Cannock Chase",
       "url": "https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177546,
+      "name": "Come on Michael",
+      "url": "https://open.spotify.com/track/4eiQHWqJPu4iUFaVsUqzbm"
     },
     {
       "album": {
@@ -186,6 +222,24 @@
       "duration_ms": 348280,
       "name": "Down - 2006 Remaster",
       "url": "https://open.spotify.com/track/4xGy9REHUd7RPZOEhIl9Zu"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "Dreamer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4gV1QbhEUbgvHnvSSxyrZH"
     },
     {
       "album": {
@@ -434,7 +488,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 167493,
       "name": "Love Song for Someone",
       "url": "https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L"
@@ -614,7 +668,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 305466,
       "name": "Samaritans",
       "url": "https://open.spotify.com/track/4ZdYII20MN9mFPkzj8agPl"
@@ -632,7 +686,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 130533,
       "name": "Saved",
       "url": "https://open.spotify.com/track/2Sc7BHveG5jN9IzPaiInsC"
@@ -668,7 +722,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 157213,
       "name": "Solid Love - 2006 Remaster",
       "url": "https://open.spotify.com/track/6xwqazotUkJLHyNSs2mxKj"
@@ -783,6 +837,24 @@
     },
     {
       "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337866,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/5GdsbtfTztKiR3mP7TsVDb"
+    },
+    {
+      "album": {
         "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
       },
@@ -870,6 +942,24 @@
       "duration_ms": 142266,
       "name": "Words",
       "url": "https://open.spotify.com/track/403OoxbU1lvuPlkaXMNxdc"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181186,
+      "name": "You and I Should Be Together",
+      "url": "https://open.spotify.com/track/4ms845MWQUI7CXPBeGpIZR"
     },
     {
       "album": {

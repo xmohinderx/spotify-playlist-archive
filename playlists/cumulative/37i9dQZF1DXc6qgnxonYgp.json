@@ -906,7 +906,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 200283,
       "name": "Kuruvi - Dinesh K & Charles Bosco Collabo",
       "url": "https://open.spotify.com/track/6Ks9YSXoWHi2kB4rH3tS79"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 215884,
       "name": "Laash",
       "url": "https://open.spotify.com/track/6mj3FPYhJKc5XCOwH5SHva"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 269333,
       "name": "Lyrical Crime",
       "url": "https://open.spotify.com/track/1WnY7mnjjImeSb4FylOoN8"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 210717,
       "name": "Savadi",
       "url": "https://open.spotify.com/track/54OfF7DAB19wrSJQvAXenZ"
@@ -1650,6 +1650,32 @@
       "duration_ms": 176000,
       "name": "Sirai Konda",
       "url": "https://open.spotify.com/track/4WQbCWQgC3SLaG7Js1qlJE"
+    },
+    {
+      "album": {
+        "name": "Sol Penne",
+        "url": "https://open.spotify.com/album/1GioLKwDMojnRPBNbMhk0s"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Rowdies",
+          "url": "https://open.spotify.com/artist/5bi4MqssTjHcHUPtLdVmBX"
+        },
+        {
+          "name": "J Afsar",
+          "url": "https://open.spotify.com/artist/7E5LwvNx4e0fCOvPKFpm9A"
+        },
+        {
+          "name": "RapForce",
+          "url": "https://open.spotify.com/artist/41XSjOKaJLnQqRscyLkCWK"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198349,
+      "name": "Sol Penne",
+      "url": "https://open.spotify.com/track/4ru0poP6MXjZeISRp0sEDa"
     },
     {
       "album": {
@@ -1986,7 +2012,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217535,
       "name": "Uppu Mutteh",
       "url": "https://open.spotify.com/track/2VyZfvrzealmWVYsyaGpl0"
@@ -2192,7 +2218,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 218000,
       "name": "Vendum Vendaam",
       "url": "https://open.spotify.com/track/7JlxhQmUcHRWaIpUjWEyaF"
@@ -2222,6 +2248,32 @@
       "duration_ms": 176680,
       "name": "Vera Maari",
       "url": "https://open.spotify.com/track/4zSDTWYIakyqb4NNctrZDH"
+    },
+    {
+      "album": {
+        "name": "Virus",
+        "url": "https://open.spotify.com/album/7xRhx66zTnXR3IKbMaUInu"
+      },
+      "artists": [
+        {
+          "name": "Imman Vijay",
+          "url": "https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3"
+        },
+        {
+          "name": "Mc Azy",
+          "url": "https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G"
+        },
+        {
+          "name": "DJ Mei",
+          "url": "https://open.spotify.com/artist/63mLmMogRbD71GsyaIYMXU"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/1XITQUMLKoUTl39XrGGZ99"
     },
     {
       "album": {

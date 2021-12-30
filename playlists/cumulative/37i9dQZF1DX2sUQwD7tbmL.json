@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 268868,
       "name": "Access",
       "url": "https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 157935,
       "name": "Adult",
       "url": "https://open.spotify.com/track/7aPVj4na1QheevNbrv5uwC"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 170794,
       "name": "All In",
       "url": "https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 279573,
       "name": "Amateur",
       "url": "https://open.spotify.com/track/39MzfwZjkbGSbnccjf5E5j"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 258733,
       "name": "Bad To Worse",
       "url": "https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl"
@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Better off Alone",
+        "url": "https://open.spotify.com/album/5fvpmXNBEOdgxP6ZoOlYlZ"
+      },
+      "artists": [
+        {
+          "name": "Okey Dokey",
+          "url": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240098,
+      "name": "Better off Alone",
+      "url": "https://open.spotify.com/track/5v2Abx4cG0ficwE2hQgKUv"
+    },
+    {
+      "album": {
         "name": "Big Fat Mouth",
         "url": "https://open.spotify.com/album/5zV5ZxYZ42GF1wGO7RI587"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 158388,
       "name": "Blocked",
       "url": "https://open.spotify.com/track/6jOE4zzFlCUb0zFmxLzNH2"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 166909,
       "name": "Blue Ceiling",
       "url": "https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 227722,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu"
@@ -560,7 +578,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 233933,
       "name": "Brian's Movie",
       "url": "https://open.spotify.com/track/2B8A2Ww4nBypZqhRZVqJPV"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 239490,
       "name": "Bummer Summerrr",
       "url": "https://open.spotify.com/track/2ft8yvLo7cKzjLOaRfFRCr"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 157000,
       "name": "Checkin' Out",
       "url": "https://open.spotify.com/track/0VUqkakeW5chSQ6eK621Rh"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 175106,
       "name": "Cuff Your Jeans",
       "url": "https://open.spotify.com/track/71ygECRAwecbpqK5MYlpVq"
@@ -902,7 +920,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 225893,
       "name": "Easier Said Than Done",
       "url": "https://open.spotify.com/track/6oAD3YoVRl1RsNfVsBTmM9"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 246200,
       "name": "Funky Galileo",
       "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 276764,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4WsIARXwddxyLdL0kEnSvm"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/4lHn71Qf2WBpIFcQ3PMnnO"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 257693,
       "name": "Hands Down",
       "url": "https://open.spotify.com/track/0dqJjKKxuKD5Dt3QH2n4CG"
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 308733,
       "name": "Harmony Hall",
       "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 162344,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4B5OY3ZpcDgnhvJh7RJlhd"
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 169266,
       "name": "Johnny & Jonnie",
       "url": "https://open.spotify.com/track/682pVIYG5WT39UktvX1NwS"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 153959,
       "name": "MANY FACES",
       "url": "https://open.spotify.com/track/27cWalfVkjaY21WxHiR426"
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 132892,
       "name": "Receive",
       "url": "https://open.spotify.com/track/6mI9mXAyLw9f8R1HHC89yi"
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/1B63r7wZYOff831F0ysehg"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 222804,
       "name": "The Hardest Part [Feat. Tennis]",
       "url": "https://open.spotify.com/track/3HgSzOf6AyAm0QzWNTnpqP"
@@ -2828,7 +2846,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 193165,
       "name": "Things I Thought Were Mine",
       "url": "https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE"
@@ -2882,7 +2900,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 201178,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/3gvq5SzpE8JjmVycZjDt94"
@@ -2954,7 +2972,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 231700,
       "name": "What Have You Got To Lose",
       "url": "https://open.spotify.com/track/4bkv6P3v8ZvyfdPLvtTo7H"
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 299242,
       "name": "You Won't",
       "url": "https://open.spotify.com/track/2G8oGywOTdmVsxq7BEJWU6"
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 203641,
       "name": "Your Drugs",
       "url": "https://open.spotify.com/track/6PPxKutSxVks6WoVHGvXDs"

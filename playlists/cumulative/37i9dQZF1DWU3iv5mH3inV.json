@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 205053,
       "name": "A Caco Pelao",
       "url": "https://open.spotify.com/track/6OjgtPe2y5cPtXbSQoIgGW"
@@ -194,10 +194,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 172878,
       "name": "Brum Brum",
       "url": "https://open.spotify.com/track/7J2W6n9CZDPmSVRjvEqkCQ"
+    },
+    {
+      "album": {
+        "name": "Dembow Exitos",
+        "url": "https://open.spotify.com/album/4mDjlwLI6EL6dP2f7qNxYg"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Cacao",
+      "url": "https://open.spotify.com/track/66pasDZqv03zKaxEvaM06B"
     },
     {
       "album": {
@@ -216,6 +234,28 @@
       "duration_ms": 181655,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7lhZb7Mc2QCXtetUjVljjl"
+    },
+    {
+      "album": {
+        "name": "Careta",
+        "url": "https://open.spotify.com/album/75biirYSgyUZ85zGeSkTPz"
+      },
+      "artists": [
+        {
+          "name": "La Manta",
+          "url": "https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV"
+        },
+        {
+          "name": "Neno Man",
+          "url": "https://open.spotify.com/artist/143I1xeiJLsFTxHvcDHSEr"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216999,
+      "name": "Careta",
+      "url": "https://open.spotify.com/track/2lBcOUfEHhXgGfySoP9yMo"
     },
     {
       "album": {
@@ -474,7 +514,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 146896,
       "name": "Digo E",
       "url": "https://open.spotify.com/track/4mGmgfGjUHJw2fUiuVMKWY"
@@ -499,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Dominican Playero 40",
+        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
+      },
+      "artists": [
+        {
+          "name": "RMT",
+          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201039,
+      "name": "Dominican Playero 40",
+      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
+    },
+    {
+      "album": {
         "name": "Exitos del Dembow",
         "url": "https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0"
       },
@@ -510,10 +568,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 191706,
       "name": "El Cajeroyor",
       "url": "https://open.spotify.com/track/2mDULtk5UUtrd8CPtFRlbQ"
+    },
+    {
+      "album": {
+        "name": "Ahora Venimo' Con Rango",
+        "url": "https://open.spotify.com/album/0Qwqq5uobfICw2CYAlzfiU"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147054,
+      "name": "El Chiva",
+      "url": "https://open.spotify.com/track/6RwI2ttaWWptIzIQvj3G68"
     },
     {
       "album": {
@@ -554,6 +630,24 @@
       "duration_ms": 169293,
       "name": "El Motorcito",
       "url": "https://open.spotify.com/track/1c89Peahzqvhcs9UtiT879"
+    },
+    {
+      "album": {
+        "name": "El Pito",
+        "url": "https://open.spotify.com/album/4leBZ02Z9lNTFqLGy2UNP3"
+      },
+      "artists": [
+        {
+          "name": "Tinyo RD",
+          "url": "https://open.spotify.com/artist/7FExQUSqb35u9aqZJZCjP6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137796,
+      "name": "El Pito",
+      "url": "https://open.spotify.com/track/6kGIoTCT8vpYlqEkaITyHJ"
     },
     {
       "album": {
@@ -626,10 +720,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 162362,
       "name": "Ella Tato",
       "url": "https://open.spotify.com/track/3NPypQCx1TbOgTnAnIYwf5"
+    },
+    {
+      "album": {
+        "name": "Exitos del Dembow",
+        "url": "https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221880,
+      "name": "Embute Tuyo",
+      "url": "https://open.spotify.com/track/4iz4TeiYvipnR0Uxm40w3f"
     },
     {
       "album": {
@@ -648,6 +764,24 @@
       "duration_ms": 155107,
       "name": "Engorilao",
       "url": "https://open.spotify.com/track/5s41yFuX41Qom3b1fEKrhf"
+    },
+    {
+      "album": {
+        "name": "Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "Fuin Fuan",
+      "url": "https://open.spotify.com/track/56EaO15oQUW0LrdcPIqOsT"
     },
     {
       "album": {
@@ -680,7 +814,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 182479,
       "name": "Guayabu",
       "url": "https://open.spotify.com/track/4ham8pWNaq8hCNtBXcQSiB"
@@ -698,10 +832,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 162533,
       "name": "Hoy Me Desacato",
       "url": "https://open.spotify.com/track/7AjhX1xGxAaaogwOchMGU0"
+    },
+    {
+      "album": {
+        "name": "La Libreta",
+        "url": "https://open.spotify.com/album/09g0zjpbw9hYlpZPLDrXzj"
+      },
+      "artists": [
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220055,
+      "name": "Humo - Remix",
+      "url": "https://open.spotify.com/track/0uwmNfJDOgKoCm6xZGijhh"
     },
     {
       "album": {
@@ -742,7 +898,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 163800,
       "name": "Klok Con Klok",
       "url": "https://open.spotify.com/track/0WlCyTEeJHHtqdIjNVnQbz"
@@ -848,7 +1004,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 157431,
       "name": "La Malondra (Bella Ciao)",
       "url": "https://open.spotify.com/track/2Du0czDUGHDzOUQdgmGtnL"
@@ -882,7 +1038,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 274840,
       "name": "La Nota Se Me Encampana (with Tali Goya, Ceky Viciny, Quimico Ultra Mega & Shelow Shaq) - Remix",
       "url": "https://open.spotify.com/track/43vpumD5K15N6Vb0kpuZCi"
@@ -952,7 +1108,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 221040,
       "name": "Le Gusta Eso (Remix)",
       "url": "https://open.spotify.com/track/2DpZybvFSbqGi78Oym9z8f"
@@ -1032,7 +1188,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 164164,
       "name": "Los Pomposo",
       "url": "https://open.spotify.com/track/6VrOzFtjAylmaRV5OsCFeo"
@@ -1068,10 +1224,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 186723,
       "name": "Marianela",
       "url": "https://open.spotify.com/track/5AaHjij4q5xMPhOYoanpMP"
+    },
+    {
+      "album": {
+        "name": "Me Desacate & Prendi",
+        "url": "https://open.spotify.com/album/2tat3WQKWA5Wb7ZcUsGSEr"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167053,
+      "name": "Me Desacate & Prendi",
+      "url": "https://open.spotify.com/track/7rbm01DKKYOustL7IJK7F8"
+    },
+    {
+      "album": {
+        "name": "Me Hace Falta",
+        "url": "https://open.spotify.com/album/51VSHnV0c3CxMBbK4E92dc"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181446,
+      "name": "Me Hace Falta",
+      "url": "https://open.spotify.com/track/2vxzGIhlnYI01Crj22uTdA"
     },
     {
       "album": {
@@ -1086,7 +1278,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 199615,
       "name": "Me Tienen Dema (Golo Golo)",
       "url": "https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru"
@@ -1206,7 +1398,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192708,
       "name": "Muevete Jevi",
       "url": "https://open.spotify.com/track/5kPwL6WDISXxt74V7tCsOV"
@@ -1259,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "No Son de Na",
+        "url": "https://open.spotify.com/album/5mR7iINhZaV4XB4p3YlmF0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Titerito",
+          "url": "https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185966,
+      "name": "No Son de Na",
+      "url": "https://open.spotify.com/track/0PcglxPqsxB82pFalqxgqa"
+    },
+    {
+      "album": {
         "name": "El Hombre",
         "url": "https://open.spotify.com/album/4PmIVwteqF16NOwoc2N0Pv"
       },
@@ -1288,7 +1498,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 245815,
       "name": "Pepe - Original",
       "url": "https://open.spotify.com/track/1uv33oIeP72uccwM5dJJQS"
@@ -1346,7 +1556,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 160705,
       "name": "Pikilao",
       "url": "https://open.spotify.com/track/7Dml63sMhK1AID2g8KNkfW"
@@ -1364,7 +1574,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 135314,
       "name": "Plakiti",
       "url": "https://open.spotify.com/track/6j1d2scxQfnwSRb0Pssryv"
@@ -1404,7 +1614,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "Prendi",
       "url": "https://open.spotify.com/track/38FFVJJUFMn0D5jS2H32FH"
@@ -1468,7 +1678,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 288574,
       "name": "Punto 40 (Remix) (feat. Bryant Grety, Bulin 47, El Cherry Scom, Ceky Viciny, Fr Lirical & Rambo Man) - Mix Version",
       "url": "https://open.spotify.com/track/3veEqKHMkLmfOumWDNLSm0"
@@ -1497,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Queee Fueee",
+        "url": "https://open.spotify.com/album/5yZiA2ItI59sD8BpMaHvvT"
+      },
+      "artists": [
+        {
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191033,
+      "name": "Queee Fueee",
+      "url": "https://open.spotify.com/track/5zQJjdOgZ86Vjdjm2ykHjh"
+    },
+    {
+      "album": {
         "name": "Lava Urbana 2018",
         "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
       },
@@ -1508,7 +1736,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 170000,
       "name": "Rapidito",
       "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
@@ -1544,7 +1772,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 204630,
       "name": "Rebota",
       "url": "https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE"
@@ -1647,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/0ccgB65isfALJfUtH5rsfb"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211515,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/6NtlO37F4rjD1Z11jnV1rJ"
+    },
+    {
+      "album": {
         "name": "El Hombre",
         "url": "https://open.spotify.com/album/4PmIVwteqF16NOwoc2N0Pv"
       },
@@ -1704,7 +1950,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 175307,
       "name": "Sube El Dembow",
       "url": "https://open.spotify.com/track/50BABfW3u8HQrCZ44XMPd7"
@@ -1762,7 +2008,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 1228199,
       "name": "Superman Sin Capa Remix / Sientate en ese Deo / Dale Paya / Trompeta / Tan Celoso / La Malondra / Hoy Me Desacato",
       "url": "https://open.spotify.com/track/1942qHTkX9BH5eWlcFUzDY"
@@ -1835,6 +2081,32 @@
     },
     {
       "album": {
+        "name": "Te Lo Vamo a Da",
+        "url": "https://open.spotify.com/album/6AWNqra7swVsTsUZUkwdKI"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195734,
+      "name": "Te Lo Vamo a Da",
+      "url": "https://open.spotify.com/track/15TcdGsX08XSZ4B8hXN2sy"
+    },
+    {
+      "album": {
         "name": "Te Me Va Dobla",
         "url": "https://open.spotify.com/album/4YV1b1CNbhjXJvLmruXpZi"
       },
@@ -1868,7 +2140,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217600,
       "name": "Teachan",
       "url": "https://open.spotify.com/track/4phP7BK5Pkgkhxk2Ipfjaz"
@@ -1952,7 +2224,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 209760,
       "name": "Tirando Paquetico",
       "url": "https://open.spotify.com/track/0ooZuYAlfScKXknRfYHeTP"
@@ -2037,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Tu Vecino",
+        "url": "https://open.spotify.com/album/4V1Olj6gUBJLtYsDU6F1UF"
+      },
+      "artists": [
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Tu Vecino",
+      "url": "https://open.spotify.com/track/2ZwwhQPsMhF980XXbcYnRG"
+    },
+    {
+      "album": {
         "name": "Tumbala",
         "url": "https://open.spotify.com/album/7EAR33CSxep3Fxrv4Wf0MM"
       },
@@ -2048,10 +2338,56 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 186240,
       "name": "Tumbala",
       "url": "https://open.spotify.com/track/48HoWzu1Fe4QHUSilVHJGy"
+    },
+    {
+      "album": {
+        "name": "Tusi Quiere Vol 2",
+        "url": "https://open.spotify.com/album/6VIBheP2VlG1SnHNsioLRa"
+      },
+      "artists": [
+        {
+          "name": "Jay Flow Music",
+          "url": "https://open.spotify.com/artist/64NcK3T6wfdOI9yQp7UiKq"
+        },
+        {
+          "name": "Amara Ignacia",
+          "url": "https://open.spotify.com/artist/7MYzfaerN2x9e6UGRkUQLM"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Shelo",
+          "url": "https://open.spotify.com/artist/3yVK2HqNKKReejFoMLfXYw"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Carlitos Klein",
+          "url": "https://open.spotify.com/artist/4GTtu4oc6mDQWN9QhBSWhQ"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501207,
+      "name": "Tusi Quiere Vol 2",
+      "url": "https://open.spotify.com/track/6PFcqAASJqKW8RumgjtsPN"
     },
     {
       "album": {
@@ -2096,7 +2432,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 219973,
       "name": "Ven Meneate - Remix",
       "url": "https://open.spotify.com/track/6cPlC7b4KxzkCYB4bJZ8jI"
@@ -2150,7 +2486,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 359074,
       "name": "Versace - Remix",
       "url": "https://open.spotify.com/track/4y4SfmkcTnFYClU3xhXgrD"
@@ -2224,7 +2560,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 188893,
       "name": "Yo Lo Cojo",
       "url": "https://open.spotify.com/track/15f7OgSGn8g36CHvQSToza"

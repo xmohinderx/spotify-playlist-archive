@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "So Icy Princess",
+        "url": "https://open.spotify.com/album/3Auk6Wl8cYEGo8LkTA3Z6W"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "date_added": "2021-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243252,
+      "name": "1017 (feat. Gucci Mane & Yung Mal)",
+      "url": "https://open.spotify.com/track/0t0qLzCLI1mlQKbFyzlIEv"
+    },
+    {
+      "album": {
         "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
       },
@@ -38,7 +64,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 121364,
       "name": "Bad Bitch Anthem",
       "url": "https://open.spotify.com/track/2iSSej4XF1TvnL957k86vP"
@@ -372,7 +398,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 219706,
       "name": "End Like That",
       "url": "https://open.spotify.com/track/7m60tOsgFlWoLTk1Y8zAHJ"
@@ -390,7 +416,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 168093,
       "name": "FDH",
       "url": "https://open.spotify.com/track/7hRbS8uL6VXwTgSAg3BGSw"
@@ -466,7 +492,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 213311,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ"
@@ -854,7 +880,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 125675,
       "name": "Run Me My Money",
       "url": "https://open.spotify.com/track/5e2GpbPELieepYsdPRgoNA"

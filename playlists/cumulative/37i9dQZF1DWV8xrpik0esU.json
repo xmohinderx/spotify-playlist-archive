@@ -70,7 +70,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/4cqHVuDLFbO1XCr4nmks4S"
@@ -672,10 +672,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/7FrMtidZwT7Q8vKNgR96Q6"
+    },
+    {
+      "album": {
+        "name": "Growing, Pains",
+        "url": "https://open.spotify.com/album/5NAjugq4ZHmBQjtlX3foA7"
+      },
+      "artists": [
+        {
+          "name": "Billie Myers",
+          "url": "https://open.spotify.com/artist/2ZqXK2gIDbfE7aOvkNObPW"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270160,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/0cCbK9QWZXDLc8a6hTI7Eb"
     },
     {
       "album": {
@@ -690,7 +708,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 242106,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/6DRNqyHyHySMMS1GkXt1Jy"
@@ -708,7 +726,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 216040,
       "name": "Life",
       "url": "https://open.spotify.com/track/5LGqFIVBf3ZUeFBpc87CFS"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 277333,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/4jFxD1ap00GeFesop82Nfs"

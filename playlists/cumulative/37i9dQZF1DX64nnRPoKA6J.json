@@ -34,7 +34,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 201160,
       "name": "Accidently Kelly Street",
       "url": "https://open.spotify.com/track/6Tgjsd4bD8eb74HOTCr6LC"
@@ -124,10 +124,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 206466,
       "name": "Apple Eyes",
       "url": "https://open.spotify.com/track/7DVr6Az7HukAZeK7v3cGZx"
+    },
+    {
+      "album": {
+        "name": "Whaler",
+        "url": "https://open.spotify.com/album/2oKbwv9ClTQKWHHTKCqN59"
+      },
+      "artists": [
+        {
+          "name": "Sophie B. Hawkins",
+          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248893,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/6S8ZXzeXsfCj8qi9179McI"
     },
     {
       "album": {
@@ -178,7 +196,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
@@ -394,7 +412,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 265200,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/1Hh5gDiXZGhtKfHzJYYhSJ"
@@ -466,10 +484,28 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 216773,
       "name": "Have A Look",
       "url": "https://open.spotify.com/track/5VFkGPOMHDLwe3ZMlrizPX"
+    },
+    {
+      "album": {
+        "name": "Outside Looking In: The Best Of The Gin Blossoms",
+        "url": "https://open.spotify.com/album/4lTXWu1mQo8m8BKwU8Rp6f"
+      },
+      "artists": [
+        {
+          "name": "Gin Blossoms",
+          "url": "https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "Hey Jealousy",
+      "url": "https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N"
     },
     {
       "album": {
@@ -618,7 +654,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 244015,
       "name": "Jackie - Radio Edit",
       "url": "https://open.spotify.com/track/325FgLfQLrjhAeLCBVNvLt"
@@ -636,7 +672,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/2McbI8WrvqqK6Ew5VgllX3"
@@ -654,7 +690,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 256519,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/2ADU49RKktDsdPj0vKqJ6j"
@@ -676,6 +712,42 @@
       "duration_ms": 266560,
       "name": "Life Is A Highway",
       "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
+    },
+    {
+      "album": {
+        "name": "The Essential Shawn Mullins",
+        "url": "https://open.spotify.com/album/56a0jajgyzAVEAYBJc8BG6"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mullins",
+          "url": "https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330666,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5sMUwUR3JI2woCOrNbizUt"
+    },
+    {
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304960,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh"
     },
     {
       "album": {
@@ -726,7 +798,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217106,
       "name": "Mysterious Girl - Radio Edit",
       "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
@@ -906,7 +978,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
@@ -924,7 +996,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 209253,
       "name": "Sister",
       "url": "https://open.spotify.com/track/3VWUscWqo4tv3IBpCZXMpx"
@@ -978,7 +1050,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 184333,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
@@ -1014,7 +1086,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 248466,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/2GRnDQCkcN6BoujfUgywOW"
@@ -1324,7 +1396,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 278066,
       "name": "Unpretty",
       "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 238435,
       "name": "2much",
       "url": "https://open.spotify.com/track/0ShhMU4mTH4zvBnjmHuMmi"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 181360,
       "name": "BNR",
       "url": "https://open.spotify.com/track/54uXC93r53jOJFuhMueold"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 156026,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192459,
       "name": "Cruel World - Jim-E Stack Remix",
       "url": "https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 228817,
       "name": "Drama",
       "url": "https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "FORCE OF HABIT",
       "url": "https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 102160,
       "name": "Hey Boy (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7twY0ucjaUFUNfjkCHj1Cs"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 121618,
       "name": "Home",
       "url": "https://open.spotify.com/track/6zuvB7LsseXwZX5uPg85NP"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 177634,
       "name": "i know why you stay out",
       "url": "https://open.spotify.com/track/2xYzZbcky4jNfiH5A9eX7n"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 199613,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/3itTjtSUO9mC7if5prxrTn"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 219340,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 183894,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 336506,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/3MwTZfoEs3bZTqH5FEA61R"
@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Stayback",
+        "url": "https://open.spotify.com/album/2ZnoQZiVe89PHupw5S0Atk"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159859,
+      "name": "Stayback",
+      "url": "https://open.spotify.com/track/1eaaALv53LViUGtOQ63jEn"
+    },
+    {
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 173349,
       "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 252409,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 250113,
       "name": "TRAP PHONE",
       "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 203325,
       "name": "Your World",
       "url": "https://open.spotify.com/track/6HaEWa2XBunQIjtTxcniNn"

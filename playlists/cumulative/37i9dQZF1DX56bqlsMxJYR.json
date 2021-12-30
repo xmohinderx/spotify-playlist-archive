@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 165933,
       "name": "(Love Is Like A) Heat Wave - Single Version",
       "url": "https://open.spotify.com/track/4y5c6RsmHzrNHqL1n8hMyI"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 143893,
       "name": "Ain't That A Shame",
       "url": "https://open.spotify.com/track/6pTybvSMcw5spOS7d656rn"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 147841,
       "name": "Duke of Earl",
       "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 161640,
       "name": "Everybody Loves Somebody",
       "url": "https://open.spotify.com/track/78VG6M1i7JQXBdygmWFwye"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 252879,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/5WElvv9RgXsbxIYwfY9mPk"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 119266,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/5Fwif6oyL2EjXAFTGL909U"
@@ -1112,10 +1112,28 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 173533,
       "name": "Leader Of The Pack",
       "url": "https://open.spotify.com/track/6wzLLGFlWQ5jqTL13MU069"
+    },
+    {
+      "album": {
+        "name": "Holidays & Hits",
+        "url": "https://open.spotify.com/album/5tnzZOPPSeafBICfszjSkK"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2020-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145586,
+      "name": "Looking Back - Remastered 2005",
+      "url": "https://open.spotify.com/track/0KM29sd6s7Tg70vl2Kmfic"
     },
     {
       "album": {
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 162413,
       "name": "Love Me Tender",
       "url": "https://open.spotify.com/track/7LSGjWtza5Y8itm6Cpbj1s"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 155706,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 141933,
       "name": "Sea Of Love",
       "url": "https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt"
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 147266,
       "name": "Surf City",
       "url": "https://open.spotify.com/track/1Oewmmr12xuhgzvUJ9Q0cf"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 260973,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/6fgjU6IfBOXHI3OKtndEeE"
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 150866,
       "name": "Take Good Care Of My Baby - 1990 Remastered",
       "url": "https://open.spotify.com/track/1MR7XamWS0XH6vZxeeRdE0"
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 188466,
       "name": "That's Amore - 1996 Digital Remaster",
       "url": "https://open.spotify.com/track/7ha6LU5Dle7FGBh0I9LZIa"
@@ -2001,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Till I Waltz Again With You",
+        "url": "https://open.spotify.com/album/16YSrvXWcfeqUcHBGhCRmT"
+      },
+      "artists": [
+        {
+          "name": "Teresa Brewer",
+          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
+        }
+      ],
+      "date_added": "2020-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Till I Waltz Again With You",
+      "url": "https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM"
+    },
+    {
+      "album": {
         "name": "Tossin' and Turnin'",
         "url": "https://open.spotify.com/album/31JyXxhju4kXiYJwdjb3u3"
       },
@@ -2127,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best of Connie Francis",
+        "url": "https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "date_added": "2020-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159773,
+      "name": "Where The Boys Are",
+      "url": "https://open.spotify.com/track/6N3LlP0e7sWkNaTw8aXEnX"
+    },
+    {
+      "album": {
         "name": "The Complete Best Of",
         "url": "https://open.spotify.com/album/4uDButkVrJfajurDPoxoDC"
       },
@@ -2160,7 +2214,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
@@ -2178,7 +2232,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 157760,
       "name": "Wipe Out - Hit Version / Extended Ending",
       "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"

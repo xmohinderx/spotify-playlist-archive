@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 366319,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 346096,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/7DpfOkks38EfsrVcG9Zmhw"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 204000,
       "name": "Don't Judge Me (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 278460,
       "name": "Famous For (I Believe) [Sunday A.M. Version]",
       "url": "https://open.spotify.com/track/3O1OvEm2Kho4oEAMnnLXaP"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 232345,
       "name": "Gotta Have You (feat. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles)",
       "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 164480,
       "name": "Hallelujah (You Get The Glory) - Live",
       "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 243613,
       "name": "I Need A Word",
       "url": "https://open.spotify.com/track/08fVVLmIVyjN23nSuUVQc1"
@@ -538,6 +538,24 @@
       "duration_ms": 260431,
       "name": "I See Miracles",
       "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307973,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
     },
     {
       "album": {
@@ -694,7 +712,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 251258,
       "name": "Love Theory",
       "url": "https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 223666,
       "name": "Praise on the Inside",
       "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
@@ -906,7 +924,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 312146,
       "name": "Praying and Believing",
       "url": "https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0CZmy9ctYRi2Ux5uFLGqSr"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 245901,
       "name": "Strong God",
       "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 257093,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 193791,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/0njqt2jPYkAK7zIwSdkFU8"
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 379562,
       "name": "Your Great Name",
       "url": "https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU"

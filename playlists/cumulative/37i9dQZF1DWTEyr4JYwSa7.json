@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Au dernier no\u00ebl",
+        "url": "https://open.spotify.com/album/6KyQ8S9HFMhmPIf7qzXVq4"
+      },
+      "artists": [
+        {
+          "name": "Dominique Hudson",
+          "url": "https://open.spotify.com/artist/5jUUxz4x0tzHtghlDNyBLa"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Au dernier no\u00ebl",
+      "url": "https://open.spotify.com/track/307I3vdjraPWXhb6bgcOfE"
+    },
+    {
+      "album": {
         "name": "Au Ville La Veille De No\u00ebl",
         "url": "https://open.spotify.com/album/2RwGK7SjNZCtXoWsOCMQOO"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
@@ -114,7 +132,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 191973,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/7DFM6TtxQO6rc3UUXgZa3J"
@@ -186,10 +204,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 210898,
       "name": "Boom boom (version fran\u00e7aise)",
       "url": "https://open.spotify.com/track/06uWk75nWt4bF0Wzyq4ySn"
+    },
+    {
+      "album": {
+        "name": "C comme \u00e7a (Fa la la)",
+        "url": "https://open.spotify.com/album/6U1vTeU355ogJZBz8GUdwM"
+      },
+      "artists": [
+        {
+          "name": "LGS",
+          "url": "https://open.spotify.com/artist/0CEcOFQhp0vr9O0m8i41Py"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174259,
+      "name": "C comme \u00e7a (Fa la la)",
+      "url": "https://open.spotify.com/track/4n135bn5mc0BCodofB6ZPp"
     },
     {
       "album": {
@@ -226,6 +262,42 @@
       "duration_ms": 152040,
       "name": "C'est l'hiver",
       "url": "https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX"
+    },
+    {
+      "album": {
+        "name": "Meilleurs V\u0153ux",
+        "url": "https://open.spotify.com/album/3zh9efvRmwBvAbcKLOP3os"
+      },
+      "artists": [
+        {
+          "name": "Tocad\u00e9o",
+          "url": "https://open.spotify.com/artist/6Eobl6c1IhZ8TAmobjE5OJ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "C'est l'hiver",
+      "url": "https://open.spotify.com/track/5ag4ILeyhzjyqJPkSy9StD"
+    },
+    {
+      "album": {
+        "name": "Joyeux No\u00ebl (Live)",
+        "url": "https://open.spotify.com/album/19kLfZz5niWnL35nzP6dXz"
+      },
+      "artists": [
+        {
+          "name": "Suzie Villeneuve",
+          "url": "https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145109,
+      "name": "C'est l'hiver - Live",
+      "url": "https://open.spotify.com/track/75FP9LzNnCPxa8PnCgK46A"
     },
     {
       "album": {
@@ -276,7 +348,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 196979,
       "name": "C'est No\u00ebl, je m'en fous",
       "url": "https://open.spotify.com/track/7kqTx49wL7kTBRHG5Z85dR"
@@ -312,7 +384,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 229987,
       "name": "Christmas Alone",
       "url": "https://open.spotify.com/track/5bTnCvXkxrVuYa0yclJk5k"
@@ -334,7 +406,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 264277,
       "name": "Christmas Calling (V.F.) (en duo avec Marie-Mai)",
       "url": "https://open.spotify.com/track/2pajilVcYtLqZ2AaCUNgjl"
@@ -406,7 +478,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 182520,
       "name": "Cozy Little Christmas",
       "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
@@ -478,7 +550,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 144600,
       "name": "Falalalala",
       "url": "https://open.spotify.com/track/78B6bSEWXuQtxUF32eSSVM"
@@ -574,7 +646,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 213880,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"
@@ -636,7 +708,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 260493,
       "name": "I'll Know My Savior (Christmas All Around)",
       "url": "https://open.spotify.com/track/7f3kwHaROm8btPEh4I4f8y"
@@ -654,7 +726,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
@@ -694,6 +766,28 @@
       "duration_ms": 193000,
       "name": "Je ne veux que toi",
       "url": "https://open.spotify.com/track/4sfH4oxRuHyW872VznZOsz"
+    },
+    {
+      "album": {
+        "name": "Le Rythme de No\u00ebl",
+        "url": "https://open.spotify.com/album/4sQqmvczfwEgV1fCirUCYT"
+      },
+      "artists": [
+        {
+          "name": "Marie Eve Janvier",
+          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
+        },
+        {
+          "name": "Jean-Fran\u00e7ois Breau",
+          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Je t'offre mon c\u0153ur",
+      "url": "https://open.spotify.com/track/68CPOCS5H1BJc4DTiwuOGY"
     },
     {
       "album": {
@@ -737,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Joyeux No\u00ebl \u00e0 toi mon coeur",
+        "url": "https://open.spotify.com/album/6lLzLbxJLwqMzVCnSrfGEC"
+      },
+      "artists": [
+        {
+          "name": "Mc12",
+          "url": "https://open.spotify.com/artist/0OOebPIB8ejer3GJlLskoN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180041,
+      "name": "Joyeux No\u00ebl \u00e0 toi mon coeur",
+      "url": "https://open.spotify.com/track/7hXETOkibmEro2iXlmaIhg"
+    },
+    {
+      "album": {
         "name": "No\u00ebl avec Johanne Blouin",
         "url": "https://open.spotify.com/album/3ICqbJzXdMxLefiKylcBHf"
       },
@@ -752,6 +864,42 @@
       "duration_ms": 176200,
       "name": "L'enfant au tambour",
       "url": "https://open.spotify.com/track/5sALb1rfz4Z4GPEWBVzsdK"
+    },
+    {
+      "album": {
+        "name": "Le Rythme de No\u00ebl",
+        "url": "https://open.spotify.com/album/4sQqmvczfwEgV1fCirUCYT"
+      },
+      "artists": [
+        {
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256373,
+      "name": "L'enfant au tambour",
+      "url": "https://open.spotify.com/track/6STVZnxaPSs6uTvXWJ56NP"
+    },
+    {
+      "album": {
+        "name": "Chansons hivernales",
+        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259146,
+      "name": "L'oiseau rare",
+      "url": "https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU"
     },
     {
       "album": {
@@ -784,7 +932,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 240082,
       "name": "La parade",
       "url": "https://open.spotify.com/track/15VnTTNsbsVtMP64sUT6ix"
@@ -838,7 +986,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 125133,
       "name": "Le bonhomme de neige",
       "url": "https://open.spotify.com/track/4pUFUaLBirtTa3jwSCEfin"
@@ -982,10 +1130,50 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 186376,
       "name": "Le sentier de neige",
       "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
+    },
+    {
+      "album": {
+        "name": "La tour de b\u00e9belles",
+        "url": "https://open.spotify.com/album/6b7M7bwX4DSOvvN0rxYKmD"
+      },
+      "artists": [
+        {
+          "name": "Shilvi",
+          "url": "https://open.spotify.com/artist/6lPtV4QMcounmL4iNB7edn"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Les soeurs crevette",
+      "url": "https://open.spotify.com/track/1ELX43S4uTTUavCNWQ1Bgx"
+    },
+    {
+      "album": {
+        "name": "La liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/0wizE1OyonMq8qDAGLQI0S"
+      },
+      "artists": [
+        {
+          "name": "Le Trio BBQ",
+          "url": "https://open.spotify.com/artist/4eYSfHNMKYJpkCuLiDRcZq"
+        },
+        {
+          "name": "VoxA4",
+          "url": "https://open.spotify.com/artist/4t3amHinUf5SzX1XfPuLIs"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239287,
+      "name": "Lettre \u00e0 Papa No\u00ebl",
+      "url": "https://open.spotify.com/track/7iShfGuLfzObfU7hcXeXZ6"
     },
     {
       "album": {
@@ -1040,6 +1228,24 @@
       "duration_ms": 197105,
       "name": "Mam pis Pap",
       "url": "https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw"
+    },
+    {
+      "album": {
+        "name": "Mon No\u00ebl country",
+        "url": "https://open.spotify.com/album/3XUQrvVGUqdC0xJi5Hmjqt"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Labb\u00e9",
+          "url": "https://open.spotify.com/artist/5n2DEamuK1JpqzZDuGAYVQ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212653,
+      "name": "Maman embrasse le P\u00e8re No\u00ebl",
+      "url": "https://open.spotify.com/track/40czHpX9BPYNh6T5M4fJYN"
     },
     {
       "album": {
@@ -1148,7 +1354,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 189666,
       "name": "Mon Beau Sapin",
       "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
@@ -1184,7 +1390,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 161013,
       "name": "My Kind Of Present",
       "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
@@ -1260,10 +1466,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 141344,
       "name": "No\u00ebl bleu",
       "url": "https://open.spotify.com/track/1G4p0IIz67npCVFUMnZkL1"
+    },
+    {
+      "album": {
+        "name": "Les nuits de Repentigny",
+        "url": "https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255327,
+      "name": "No\u00ebl brun",
+      "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
     },
     {
       "album": {
@@ -1282,6 +1506,24 @@
       "duration_ms": 185704,
       "name": "No\u00ebl c'est l'amour",
       "url": "https://open.spotify.com/track/6d0iSkeq3lfYpJyYbG9EAh"
+    },
+    {
+      "album": {
+        "name": "No\u00ebl, C'est L'amour",
+        "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
+      },
+      "artists": [
+        {
+          "name": "Boum Ding Band",
+          "url": "https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397400,
+      "name": "No\u00ebl C'est L'amour",
+      "url": "https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW"
     },
     {
       "album": {
@@ -1357,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl dans la t\u00eate (Version intime)",
+        "url": "https://open.spotify.com/album/0oqPZvKGuoRexLBZPe8Qzb"
+      },
+      "artists": [
+        {
+          "name": "Melissa Ouimet",
+          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217454,
+      "name": "No\u00ebl dans la t\u00eate - Version intime",
+      "url": "https://open.spotify.com/track/5Xb8MXHwaZWSyV8IwBAfhC"
+    },
+    {
+      "album": {
         "name": "No\u00ebl dans tes bras",
         "url": "https://open.spotify.com/album/3rfYEWBgdDXqINFpxp3ehS"
       },
@@ -1372,7 +1632,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192422,
       "name": "No\u00ebl dans tes bras",
       "url": "https://open.spotify.com/track/6iTjWXdSNQNqQLTF3oBkyD"
@@ -1420,7 +1680,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 160000,
       "name": "No\u00ebl en couleurs",
       "url": "https://open.spotify.com/track/2WZyoFP6GQB1IwdKIUIoa5"
@@ -1507,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl No\u00ebl des fr\u00e8res lemay",
+        "url": "https://open.spotify.com/album/59YqHJt0iWF2EyzFMewtFy"
+      },
+      "artists": [
+        {
+          "name": "Les Fr\u00e8res Lemay",
+          "url": "https://open.spotify.com/artist/5fjBetcHajIgEvRX8uwMRk"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117783,
+      "name": "No\u00ebl No\u00ebl des fr\u00e8res lemay",
+      "url": "https://open.spotify.com/track/0Nl7H6t83Tx57rlVchQI3o"
+    },
+    {
+      "album": {
         "name": "No\u00ebl s'invite chez moi",
         "url": "https://open.spotify.com/album/1UM1dsc6uEq1shAjueNg7A"
       },
@@ -1518,7 +1796,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 195504,
       "name": "No\u00ebl s'invite chez moi",
       "url": "https://open.spotify.com/track/73BqI9Ip6zXD23w2scAJ7T"
@@ -1540,7 +1818,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 200859,
       "name": "No\u00ebl sans toi",
       "url": "https://open.spotify.com/track/6VWZDtjMRhShV1er2J5vVG"
@@ -1685,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl",
+        "url": "https://open.spotify.com/album/1h7LjXhFLMg1AbA1cEsWoV"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Gagnon",
+          "url": "https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/1wWO2ST0HyWfEMdThb9sat"
+    },
+    {
+      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
       },
@@ -1696,7 +1992,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
@@ -1714,10 +2010,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 169640,
       "name": "Petit gar\u00e7on",
       "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
+    },
+    {
+      "album": {
+        "name": "Joyeux flocons",
+        "url": "https://open.spotify.com/album/12anct0inm697Zxlj7M1uQ"
+      },
+      "artists": [
+        {
+          "name": "Maria Cannelloni",
+          "url": "https://open.spotify.com/artist/5oAx0L1GraGw9OHLUce1iM"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194993,
+      "name": "Petits coeurs boum boum",
+      "url": "https://open.spotify.com/track/2GJpVA7oInXCtLDaSk76ak"
     },
     {
       "album": {
@@ -1750,10 +2064,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/5WT7czkl5fzyFAdAFjAPmg"
+    },
+    {
+      "album": {
+        "name": "Chic de ville (avec \"Pour le r\u00e9veillon\")",
+        "url": "https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr"
+      },
+      "artists": [
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Pour le r\u00e9veillon",
+      "url": "https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH"
     },
     {
       "album": {
@@ -1768,7 +2100,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Promenade en tra\u00eeneau",
       "url": "https://open.spotify.com/track/2ki6KKT9xdW8ipd7o1jWRc"
@@ -1793,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "P\u00e8re No\u00ebl arrive ce soir",
+      "url": "https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
       },
@@ -1804,7 +2154,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 245040,
       "name": "River",
       "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
@@ -1822,7 +2172,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "River",
       "url": "https://open.spotify.com/track/5DAeQJd1dKgA42CyAryzDy"
@@ -1840,7 +2190,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -1880,7 +2230,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
@@ -2050,7 +2400,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -2144,7 +2494,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 189916,
       "name": "\u00c0 la fin d\u00e9cembre",
       "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"
@@ -2169,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "No\u00ebl Des Anges",
+        "url": "https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jalbert",
+          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "\u00c7a Berger",
+      "url": "https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn"
+    },
+    {
+      "album": {
         "name": "\u00c7a sent No\u00ebl",
         "url": "https://open.spotify.com/album/2bj08RpbpHeWkegauOZjT7"
       },
@@ -2180,7 +2548,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192558,
       "name": "\u00c7a sent No\u00ebl",
       "url": "https://open.spotify.com/track/0GDSLNLq2nHFlNKtM8lxG5"

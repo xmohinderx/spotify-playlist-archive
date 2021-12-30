@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHwQpcoF2cC.md) - [plain]
 
 > The best recent metal tracks\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,630 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,707 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

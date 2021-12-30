@@ -226,7 +226,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 261760,
       "name": "Bezal Menak",
       "url": "https://open.spotify.com/track/0oEOQk7TmqYEhjl5gECVd3"
@@ -378,6 +378,24 @@
       "duration_ms": 358000,
       "name": "El Bahr Azra",
       "url": "https://open.spotify.com/track/44CxqDnC7m9NGEMDRl8vh3"
+    },
+    {
+      "album": {
+        "name": "Gonon El Desco",
+        "url": "https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3"
+      },
+      "artists": [
+        {
+          "name": "Ezzat Abou Ouf",
+          "url": "https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 561786,
+      "name": "El Layla El Kebera",
+      "url": "https://open.spotify.com/track/3zIrlJmUysULejWsHG0nGm"
     },
     {
       "album": {
@@ -526,7 +544,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 150866,
       "name": "I Love You Lina",
       "url": "https://open.spotify.com/track/4a2AUYDT9qsCKE69u4WVn4"
@@ -598,7 +616,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 189124,
       "name": "La Coladera",
       "url": "https://open.spotify.com/track/5WHNfAOD9O6xC5s8jrzTlJ"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 395733,
       "name": "Lambada Leblada",
       "url": "https://open.spotify.com/track/4u81tPM2hFKSiJDIpbjdah"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 309525,
       "name": "Sahranin",
       "url": "https://open.spotify.com/track/7C4xC1KnhC5Jp3ZQFOqdvI"
@@ -902,6 +920,24 @@
       "duration_ms": 182000,
       "name": "Sid Redad",
       "url": "https://open.spotify.com/track/4cQKZXBIHEkrtOV6tnL4nS"
+    },
+    {
+      "album": {
+        "name": "Metisstyles",
+        "url": "https://open.spotify.com/album/6nmxAKzwHZbZV7n7Gr7rhZ"
+      },
+      "artists": [
+        {
+          "name": "Cheb Tarik",
+          "url": "https://open.spotify.com/artist/5P3WRbEbFnkjJ3U4CE1NSE"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367653,
+      "name": "Sidi Rabi",
+      "url": "https://open.spotify.com/track/1U8ZZkkNM9dwdq01hNZXy6"
     },
     {
       "album": {
@@ -1024,10 +1060,28 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 236846,
       "name": "Ya Galbi Laih",
       "url": "https://open.spotify.com/track/4MHkmCgmLXAisJKuvbXwE4"
+    },
+    {
+      "album": {
+        "name": "Ya Leila",
+        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260167,
+      "name": "Ya Leila Disco",
+      "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
     },
     {
       "album": {

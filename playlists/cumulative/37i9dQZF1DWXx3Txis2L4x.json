@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 226613,
       "name": "Between Wounds",
       "url": "https://open.spotify.com/track/772FnT40LPQX1j2vx9BDzh"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 146133,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 201556,
       "name": "Figure Eight",
       "url": "https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192520,
       "name": "I Would",
       "url": "https://open.spotify.com/track/7eU3TOEqEX6rK1Y9t7vthS"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 235400,
       "name": "My God Is The Sun",
       "url": "https://open.spotify.com/track/1Pc3gTtQG4Cq1x81NcXtCN"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 205960,
       "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 314573,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5BfbdJLRp9gUyyxeGJUECL"
@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332413,
+      "name": "The Borders",
+      "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
+    },
+    {
+      "album": {
         "name": "Cyr",
         "url": "https://open.spotify.com/album/0PMkOv68OP1MZWRpz8c9Fi"
       },
@@ -726,6 +744,24 @@
       "duration_ms": 263733,
       "name": "The Colour Of Love",
       "url": "https://open.spotify.com/track/1L1HpEtjT1SSwTAJSBHKhJ"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
     },
     {
       "album": {
@@ -816,6 +852,24 @@
       "duration_ms": 177220,
       "name": "What You Make It",
       "url": "https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd"
+    },
+    {
+      "album": {
+        "name": "Everything Not Saved Will Be Lost Pt. 1",
+        "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185610,
+      "name": "White Onions",
+      "url": "https://open.spotify.com/track/36GhBMw1CVJpsrazHYbXQy"
     },
     {
       "album": {

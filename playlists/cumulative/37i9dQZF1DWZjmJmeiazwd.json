@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3VeGGiOMKW1t0bTZR9nLex"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2020-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198204,
+      "name": "11:11 - Radio Edit",
+      "url": "https://open.spotify.com/track/3hTpoe9foSCDu6NS0vlHQS"
+    },
+    {
+      "album": {
         "name": "abcdefu (angrier)",
         "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
       },
@@ -762,7 +780,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 191986,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/21qKs2K0O9MCK9qVeHpEO0"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 231106,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
@@ -2022,7 +2040,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 174240,
       "name": "The Ceiling",
       "url": "https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2"
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 181706,
       "name": "The End of the Game",
       "url": "https://open.spotify.com/track/3JNxuA0OA1n5SHfOQn7FYb"
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"

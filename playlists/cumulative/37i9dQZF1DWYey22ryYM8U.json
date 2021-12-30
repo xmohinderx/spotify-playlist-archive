@@ -148,7 +148,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 174005,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/6fxlcTylxj06V5MRoCdtKP"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 209500,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/5nwKrZxqJST4jFgYf9TuBx"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 291533,
       "name": "A\u00f1oranza",
       "url": "https://open.spotify.com/track/20rgOJWz8xHUn75OtCYsde"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 200437,
       "name": "Borracho Y Loco",
       "url": "https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 220893,
       "name": "Con los Ojos Cerrados",
       "url": "https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk"
@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/04Ya0U1YV5HmpuXasjnDpp"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "David Kada",
+          "url": "https://open.spotify.com/artist/1mW8Ifff475lUj6Xj44we4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/7dySLMBYZOxtPDjWuvzBPd"
+    },
+    {
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
       },
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 324839,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/70LGyyGv8M9Wx0pAA4srD5"
@@ -1186,7 +1208,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 257483,
       "name": "La Pel\u00edcula II",
       "url": "https://open.spotify.com/track/5WZPTq3NoLhIys3RyPF5Ye"
@@ -1244,6 +1266,28 @@
       "duration_ms": 241760,
       "name": "Lo Que Te Di",
       "url": "https://open.spotify.com/track/0W8NvcMsIuygeFnfNz2KnC"
+    },
+    {
+      "album": {
+        "name": "O Embaixador in Cariri - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3C9ZJaOENH5Held20rJ0x8"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237508,
+      "name": "Lo Que T\u00fa y Yo Vivimos (feat. Gente de Zona) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6poj56vC9JUu1yHTsv92WA"
     },
     {
       "album": {
@@ -1400,7 +1444,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 212045,
       "name": "Me Tienes Mal",
       "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
@@ -1494,7 +1538,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 261500,
       "name": "M\u00e1gicas Princesas",
       "url": "https://open.spotify.com/track/7IKHR9KFJ4Z37CjJZEAC7u"
@@ -1742,7 +1786,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 336947,
       "name": "Paula C.",
       "url": "https://open.spotify.com/track/7FZ5WSbcZxfq6ij4PZgzja"
@@ -1854,7 +1898,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 239263,
       "name": "Qu\u00edtame Ese Hombre",
       "url": "https://open.spotify.com/track/2gYCWZ8uaR3X0QCiRaAujn"
@@ -1906,6 +1950,24 @@
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
+    },
+    {
+      "album": {
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222019,
+      "name": "Se\u00f1orita Por Favor",
+      "url": "https://open.spotify.com/track/1Dn8Kkt9ZPOmULlsAfN7Kc"
     },
     {
       "album": {
@@ -1985,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "Sin Amenazas",
+        "url": "https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258760,
+      "name": "Sin Amenazas",
+      "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
+    },
+    {
+      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/7iySuoiTKC8ImCNs1Lw41O"
       },
@@ -1996,7 +2076,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 215500,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/51Qo4o1rz2FJ5h0ie2Okjt"
@@ -2116,7 +2196,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 225106,
       "name": "Tan Buena",
       "url": "https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s"
@@ -2152,7 +2232,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 204564,
       "name": "Te Quiero a Morir",
       "url": "https://open.spotify.com/track/3f0O8XWSxYA2zxLCpq95Wl"
@@ -2347,6 +2427,32 @@
     },
     {
       "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226187,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
+    },
+    {
+      "album": {
         "name": "Mas De Mi",
         "url": "https://open.spotify.com/album/21Q82X4xEiZNbFHEmhZTX3"
       },
@@ -2482,7 +2588,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 273376,
       "name": "Voy a Extra\u00f1arte",
       "url": "https://open.spotify.com/track/0xaDp6ShQCF9q0NSqQry85"

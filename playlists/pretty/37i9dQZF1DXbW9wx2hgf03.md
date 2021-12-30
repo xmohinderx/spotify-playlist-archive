@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbW9wx2hgf03.md) - [plain]
 
 > Immerse yourself in the sounds of The Godfather of Grime \- Wiley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,561 likes - 47 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,567 likes - 47 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

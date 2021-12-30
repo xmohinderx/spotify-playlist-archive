@@ -90,7 +90,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "3 Miniatures: No. 1. Menuet",
       "url": "https://open.spotify.com/track/2q7C8Une4GcKgAmVouR0bh"
@@ -112,7 +112,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 146800,
       "name": "3 Piezas: Chacarera Ututa",
       "url": "https://open.spotify.com/track/7dYaj0LEC7ok3OZ48rvKSw"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 138240,
       "name": "7 South American Dances: No. 7. Gato y Malambo [Argentina]",
       "url": "https://open.spotify.com/track/6maUyjmJwKqDZjqQ3PwFDK"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 438767,
       "name": "Barroso: Brazil",
       "url": "https://open.spotify.com/track/1tNjOJh2aWr3yW8IIWJqox"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 204120,
       "name": "Basque Suite No. 1: III. Fandango Boleroa (Fandango-Bolero)",
       "url": "https://open.spotify.com/track/06rBz9Ezp7vQNivwaWBlj0"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 466533,
       "name": "Caligrama",
       "url": "https://open.spotify.com/track/2XrMO6QoDgAmUYS277xx2H"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 1047240,
       "name": "Cantata criolla, \"Florentino, el que canto con el Diablo\": I. Lento e cadencioso",
       "url": "https://open.spotify.com/track/22wp4bP3NliRBNdNCDA92i"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 214240,
       "name": "Castillos de Espana II: Torija (Elegia)",
       "url": "https://open.spotify.com/track/3tTs2Giw2JSAwzfU7opxlq"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 105106,
       "name": "Chansons et danses: Danse",
       "url": "https://open.spotify.com/track/1JrN1mcbV2dbBj9VQ8hMvq"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 353266,
       "name": "Concertino Allegretto",
       "url": "https://open.spotify.com/track/1fZxW6poFRxzoSFQTFRQJu"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 531973,
       "name": "Concierto Caribeno: I. Allegro",
       "url": "https://open.spotify.com/track/43JEZcLb9xNy1fiaCOm71R"
@@ -802,10 +802,36 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 689560,
       "name": "Concierto de Aranjuez for Guitar and Orchestra: 2. Adagio",
       "url": "https://open.spotify.com/track/0DvLcwb4v0rPmJ8S8R9thy"
+    },
+    {
+      "album": {
+        "name": "Piazzolla: Concerto pour bandon\u00e9on",
+        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        },
+        {
+          "name": "Orquestra De Cambra Teatre Lliure",
+          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
+        },
+        {
+          "name": "Josep Pons",
+          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408933,
+      "name": "Concierto para bandone\u00f3n: I. Allegro marcato",
+      "url": "https://open.spotify.com/track/3fDXVWLRYb5LeVTJYYGzJu"
     },
     {
       "album": {
@@ -854,7 +880,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 298666,
       "name": "Congada",
       "url": "https://open.spotify.com/track/1AMBETgRqnvMokCPgKFGRz"
@@ -916,7 +942,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 132586,
       "name": "Corta-Jaca",
       "url": "https://open.spotify.com/track/4FWgDfDjjPKVU0dt30svfP"
@@ -942,7 +968,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 242000,
       "name": "Damunt de tu, nomes les flors",
       "url": "https://open.spotify.com/track/0zA1k3SVTNouRMrsuZgk8F"
@@ -964,7 +990,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 370773,
       "name": "Dan-Son",
       "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
@@ -986,7 +1012,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 159186,
       "name": "Danza Brasilera",
       "url": "https://open.spotify.com/track/35yuAaaJb2EMgSSD5Q8ou6"
@@ -1182,7 +1208,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 277106,
       "name": "El Horizonte",
       "url": "https://open.spotify.com/track/5KFACUtaVZ5LBQj89SrYeX"
@@ -1204,7 +1230,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 299373,
       "name": "El pelele (The Straw Man)",
       "url": "https://open.spotify.com/track/3t5jpyh08F4jMy6ZK18CBx"
@@ -1226,7 +1252,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 271752,
       "name": "El rancho abandonado, Op. 32, No. 4",
       "url": "https://open.spotify.com/track/3laIWTVdXASANIYiCGm6Ul"
@@ -1304,7 +1330,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 443320,
       "name": "Encantamiento (version for flute and harp)",
       "url": "https://open.spotify.com/track/5bEpYJ2aztcFu5ygcue4FO"
@@ -1352,7 +1378,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 176520,
       "name": "Estancia / Danzas del Ballet: 1. Las tradbajadores agr\u00edcolas - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/0SgQK6JWAWJ205yQauy9xe"
@@ -1378,7 +1404,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 223613,
       "name": "Estancia / Danzas del Ballet: 2. Danza del trigo - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/1kjle7ZNexMYUXzGbJI4zI"
@@ -1404,7 +1430,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 118213,
       "name": "Estancia / Danzas del Ballet: 3. Los peones de hacienda - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/0e3dZBAIU40GtrBeEl9wuZ"
@@ -1522,7 +1548,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 328573,
       "name": "Five Tango Sensations: Asleep - Dreaming",
       "url": "https://open.spotify.com/track/5DMk4aG97MCz8WhrtUQJ4y"
@@ -1590,7 +1616,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 228600,
       "name": "Gardel: Por una cabeza",
       "url": "https://open.spotify.com/track/1Q0tSZgzOurosLtZ1r6PrU"
@@ -1656,7 +1682,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 316480,
       "name": "Guastavino: 3 Romances Argentinos: I. Las ni\u00f1as de Santa Fe (Live)",
       "url": "https://open.spotify.com/track/6YNE1CO3l2jGkPPm21vTF4"
@@ -1712,7 +1738,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 415760,
       "name": "Guitar Concerto: I. Allegro",
       "url": "https://open.spotify.com/track/1lgVPHLboYhlxDIHN5kRnd"
@@ -1804,7 +1830,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 117120,
       "name": "Ilhas: VII. Ilhas afortunadas (Islands of Happiness)",
       "url": "https://open.spotify.com/track/6TlwvVShCZAyanrIL4vh8V"
@@ -1940,7 +1966,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 248493,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/5nYEjku0xTg5ADlxgBwmhR"
@@ -2059,6 +2085,32 @@
     },
     {
       "album": {
+        "name": "Spain and the New World - Renaissance music from Aragon and Mexico",
+        "url": "https://open.spotify.com/album/3oqwVXqencj7tskMeuZkau"
+      },
+      "artists": [
+        {
+          "name": "Juan de Lienas",
+          "url": "https://open.spotify.com/artist/01bcKKbxVmqtgEu2bhMg9M"
+        },
+        {
+          "name": "The Hilliard Ensemble",
+          "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531533,
+      "name": "Lienas: Codex del Convento del Carmen: Salve Regina, a 4",
+      "url": "https://open.spotify.com/track/5SIJnspxiztsn23Crb1kqx"
+    },
+    {
+      "album": {
         "name": "first things first",
         "url": "https://open.spotify.com/album/62X0Jj0lhqRQOS6LYii82Q"
       },
@@ -2074,7 +2126,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 365013,
       "name": "Live Water",
       "url": "https://open.spotify.com/track/0lNqq59xKZKh5LreNHmqIl"
@@ -2148,7 +2200,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 377443,
       "name": "Metro Chabacano",
       "url": "https://open.spotify.com/track/3ueWArpEPFXPQDx5r9fjmH"
@@ -2170,7 +2222,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 167133,
       "name": "Military Tap",
       "url": "https://open.spotify.com/track/3ZFbViV2Q1qYfrZn4u1zIQ"
@@ -2230,7 +2282,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 231426,
       "name": "Misa Criolla: 1. Kyrie",
       "url": "https://open.spotify.com/track/1yE8Lp9dcpZx9FLjGkkStQ"
@@ -2280,7 +2332,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 419000,
       "name": "Misa Criolla: 2. Gloria (carnavalito-yarav\u00ed)",
       "url": "https://open.spotify.com/track/76vva6m7qajQ039LW8u6Zv"
@@ -2368,7 +2420,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 278360,
       "name": "Netzahualcoyotl",
       "url": "https://open.spotify.com/track/1FWP5AgtgugvINzIJL8T0p"
@@ -2412,7 +2464,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 298960,
       "name": "Noturno, Op. 10",
       "url": "https://open.spotify.com/track/0JFRvjl9jJajC4jsM6Cr1m"
@@ -2468,7 +2520,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 661292,
       "name": "Obertura Festiva, Op. 21",
       "url": "https://open.spotify.com/track/0Y2ygqrT7PQvtPT5kW3RAF"
@@ -2580,7 +2632,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 524960,
       "name": "Piano Concerto No.1 (1961): 1. Cadenza & Variations (1-10) - Coda",
       "url": "https://open.spotify.com/track/7jhC72I1J6BXZTTGAmApYn"
@@ -2610,7 +2662,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 447546,
       "name": "Piano Concerto: III",
       "url": "https://open.spotify.com/track/4AIzqs3EfJlFOVIAH48eJJ"
@@ -2632,7 +2684,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 79960,
       "name": "Piano Sonata: III. Presto",
       "url": "https://open.spotify.com/track/0JfMzP9XcKjicackTeoBCN"
@@ -2662,7 +2714,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 335333,
       "name": "Piazzolla: Estaci\u00f3nes porte\u00f1as: I. Verano Porte\u00f1o",
       "url": "https://open.spotify.com/track/2Rng45EgVYKORVBUHDN51E"
@@ -2714,7 +2766,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 418546,
       "name": "Ponce: Balada Mexicana",
       "url": "https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh"
@@ -2758,7 +2810,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 261066,
       "name": "Preludios vascos: Ilargitan, emazte-gayanerontz (Singing in the Moonlight)",
       "url": "https://open.spotify.com/track/2984ksgOAipLblINlsI56V"
@@ -2808,7 +2860,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 422293,
       "name": "P\u00e1ramo",
       "url": "https://open.spotify.com/track/0Na9GMQBVdlo60fgtT9qoO"
@@ -2878,7 +2930,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 129853,
       "name": "Recife dos Corais",
       "url": "https://open.spotify.com/track/2B7jBDBXH6mmjokE5gAXy3"
@@ -2982,10 +3034,28 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 639333,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/7isrbJ7o97E1t7DeUk3eex"
+    },
+    {
+      "album": {
+        "name": "Roque Cordero, Jes\u00fas Pinz\u00f3n and Joaqu\u00ecn Nin-Culmell Premiere Recordings",
+        "url": "https://open.spotify.com/album/6kJgghWHk7PBj6ufv3Gi8B"
+      },
+      "artists": [
+        {
+          "name": "The Louisville Orchestra",
+          "url": "https://open.spotify.com/artist/0BaIYBNbIxaBF9warrkUXO"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1484213,
+      "name": "Roque Cordero - Symphony No. 2",
+      "url": "https://open.spotify.com/track/1RJVSUV2IgW2fOS9aRJY3Y"
     },
     {
       "album": {
@@ -3004,10 +3074,36 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 293626,
       "name": "Salvador",
       "url": "https://open.spotify.com/track/0tOXHPyhru9y71Mn1E1lZg"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
+      },
+      "artists": [
+        {
+          "name": "Evencio Castellanos",
+          "url": "https://open.spotify.com/artist/3rnxEg3Y3CuqOH88NtWL8V"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 975706,
+      "name": "Santa Cruz de Pacairigua (Suite Sinf\u00f3nica) - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
+      "url": "https://open.spotify.com/track/3dI5CEoPnGbiInVQaQrKVu"
     },
     {
       "album": {
@@ -3022,7 +3118,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 449079,
       "name": "Saudade Do Brasil",
       "url": "https://open.spotify.com/track/6YKSWANjLaLYGrRHvoDF5C"
@@ -3092,7 +3188,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 397213,
       "name": "Sensemay\u00e1 - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/4jbRomCJd6g411vGxmc10Z"
@@ -3162,7 +3258,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 733440,
       "name": "Sinfonia india, \"Symphony No. 2\"",
       "url": "https://open.spotify.com/track/1llnYCpqmQ6kiIa4K06Mwo"
@@ -3335,6 +3431,28 @@
     },
     {
       "album": {
+        "name": "Villa-Lobos, H.: The Complete String Quartets",
+        "url": "https://open.spotify.com/album/4xTmBSbtKoQUOcSC9TYfR4"
+      },
+      "artists": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Cuarteto Latinoamericano",
+          "url": "https://open.spotify.com/artist/3zZfi0cvqvHHJZILFiYZdv"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393000,
+      "name": "String Quartet No. 3: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/4cLMfShZClhJFkI2M9fTSh"
+    },
+    {
+      "album": {
         "name": "Gianneo: Complete Works for String Quartet, Vol. 1",
         "url": "https://open.spotify.com/album/1t6iUL2NZxtbGTbPc7jMsy"
       },
@@ -3398,7 +3516,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 116760,
       "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
       "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
@@ -3424,7 +3542,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 421693,
       "name": "Suite para cuerdas - (Version For Orchestra): Fuga con Pajarillo - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/47nFLP9Vs9MjrwLj6GOCX5"
@@ -3450,7 +3568,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 477186,
       "name": "Symphonic Scherzo, Op. 30, \"El festin de los enanos\"",
       "url": "https://open.spotify.com/track/00BNoSSYtv2huW6gtmFJL9"
@@ -3702,7 +3820,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 290000,
       "name": "Transmutango",
       "url": "https://open.spotify.com/track/67Lcv3YtTbizoz8ZIDgXgB"
@@ -3788,7 +3906,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 739706,
       "name": "Trio, Op. 30",
       "url": "https://open.spotify.com/track/2tWfUGDJ6mssvisbwGrnXU"
@@ -3810,7 +3928,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 162346,
       "name": "Triste No. 4",
       "url": "https://open.spotify.com/track/7yIjo6VNjB4JOyxe8pRPg6"
@@ -3854,7 +3972,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 369146,
       "name": "Turina: Piano Trio No. 2 in B Minor, Op. 76: I. Lento - Allegro molto moderato",
       "url": "https://open.spotify.com/track/5mW3YQOgzXWUsanW6GU3q3"
@@ -3898,7 +4016,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 220413,
       "name": "Vals Poetico: Vals poetico: Vals de salon",
       "url": "https://open.spotify.com/track/1zjeUfuWsXdBlr491jFNJv"
@@ -3950,7 +4068,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 340293,
       "name": "Violin Concerto Op.11: 3rd movement: Allegro vivace",
       "url": "https://open.spotify.com/track/5Nk0dSovEOwcmonzZX9lQ3"
@@ -3980,7 +4098,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 500506,
       "name": "Zigeunerweisen, Op. 20 (version for violin and orchestra)",
       "url": "https://open.spotify.com/track/4mYb9VUXuYh0TyAQP94v8y"
@@ -4010,7 +4128,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 414973,
       "name": "Zumaya : Celebren, publiquen",
       "url": "https://open.spotify.com/track/5kGCoVyNdJ3lQ4kprRhpMQ"
@@ -4036,7 +4154,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 92600,
       "name": "\u00c0 toute \u00e2me qui pleure",
       "url": "https://open.spotify.com/track/5v6mXRJGpKjzmGOneToFEC"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 185142,
       "name": "2:50",
       "url": "https://open.spotify.com/track/5xlxSHnvXwT66JWYwDkEFE"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217746,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/3LCdO528GxAl5pRvaQgOZd"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX"
@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157040,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
+    },
+    {
+      "album": {
         "name": "Estar\u00e9",
         "url": "https://open.spotify.com/album/3ROG3LFdMU7AzmCob5d7N3"
       },
@@ -884,7 +906,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 195837,
       "name": "Estar\u00e9",
       "url": "https://open.spotify.com/track/21uCtbQOGTIcd3yZCZPvIQ"
@@ -1432,7 +1454,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 205369,
       "name": "Mejores Amigos",
       "url": "https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1"
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 185865,
       "name": "Mis Ojos Lloran Por Ti",
       "url": "https://open.spotify.com/track/57x2wvpsHJK0tXLfDJovwc"
@@ -1839,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Perderme En Ti",
+        "url": "https://open.spotify.com/album/59RS2bgrbBfBhLHL5qTCc4"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226132,
+      "name": "Perderme en ti",
+      "url": "https://open.spotify.com/track/4Iak0UOzYRjHNMMxMajkz3"
+    },
+    {
+      "album": {
         "name": "Terral",
         "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
@@ -1872,7 +1912,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 183546,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0gWbAFRcUyZKdfUxEOuOiD"
@@ -2010,7 +2050,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 226240,
       "name": "Qui\u00e9reme Despacito",
       "url": "https://open.spotify.com/track/4oSmllN9KoFbU1qcn7KbCG"
@@ -2116,7 +2156,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 162066,
       "name": "Si Tu No Bailas Conmigo",
       "url": "https://open.spotify.com/track/4TOe4WfqNiBwuS0Wi63xc5"
@@ -2174,7 +2214,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 324773,
       "name": "Si t\u00fa no vuelves - MTV Unplugged",
       "url": "https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV"
@@ -2272,7 +2312,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 244040,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
@@ -2402,7 +2442,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 246440,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/5nAiSK9L3OG1v3HEgZmnoz"
@@ -2724,7 +2764,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 291493,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
@@ -2760,7 +2800,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 222213,
       "name": "Volv\u00ed a Nacer",
       "url": "https://open.spotify.com/track/6Al0Kpd4VrRZ0Z4kTThNPa"

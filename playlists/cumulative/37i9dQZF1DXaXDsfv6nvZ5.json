@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 168000,
       "name": "Ambience",
       "url": "https://open.spotify.com/track/1o2DoGaoIMHOqkB5XwCsrt"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 176825,
       "name": "Can We Be Friends?",
       "url": "https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 219351,
       "name": "DON'T PLAY WITH MY HEART",
       "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 174728,
       "name": "Good Morning Gorgeous",
       "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 335731,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53"
@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "Make the Most (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/00hw6ckfLMdkkHyCOwit3g"
+      },
+      "artists": [
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213851,
+      "name": "Make the Most (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/5NWgHc5T5HlG0Nz9FgmZT1"
+    },
+    {
+      "album": {
         "name": "Ledisi Sings Nina",
         "url": "https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc"
       },
@@ -702,7 +724,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 318521,
       "name": "Neva Gonna Break My Heart Again",
       "url": "https://open.spotify.com/track/7c9d8GYjOixUL7I3o2BJn0"
@@ -782,7 +804,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 200840,
       "name": "Rich Kids",
       "url": "https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd"
@@ -866,6 +888,28 @@
       "duration_ms": 251920,
       "name": "Slow Down - Acoustic",
       "url": "https://open.spotify.com/track/3ugCSRkkewHctDELil9Ixq"
+    },
+    {
+      "album": {
+        "name": "Something Keeps Calling (feat. Rob Bacon)",
+        "url": "https://open.spotify.com/album/2bbtGylMVav9dn2QWNiGIw"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        },
+        {
+          "name": "Rob \"Fonksta\" Bacon",
+          "url": "https://open.spotify.com/artist/0PBJAklxGVi4C4OOVPRmaO"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284573,
+      "name": "Something Keeps Calling (feat. Rob Bacon)",
+      "url": "https://open.spotify.com/track/2TuRqxy7EI8gMGDQFt3iTV"
     },
     {
       "album": {
@@ -1018,7 +1062,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 304826,
       "name": "Wake Up (feat. Sa-Roc)",
       "url": "https://open.spotify.com/track/2YjUR0XRhaLa080fcd5r5t"

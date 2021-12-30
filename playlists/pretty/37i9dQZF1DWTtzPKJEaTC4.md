@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:2Kx7MNY7cI1ENniW7vT30N">Norah Jones</a> is taking over this holiday edition of Digs Jazz to share her jazzy Christmas favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,436 likes - 31 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,459 likes - 31 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

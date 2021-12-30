@@ -1,31 +1,35 @@
 {
   "description": "Essential Alesso originals and remixes.",
   "name": "This Is Alesso",
-  "num_followers": 146018,
+  "num_followers": 146104,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDczODUyNSwwMDAwMDAwMGI5Zjg4ZGQwYWU1OGZkNDVjOGMwNzliYjVlMDQwYjc1",
+  "snapshot_id": "MTY0MDgyNDk4MywwMDAwMDAwMDdhNjYzYjFmN2EwOWE0YzczNTVhOWIxYjExNTNlN2Iy",
   "tracks": [
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
-        "name": "Somebody To Use",
-        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
       },
       "artists": [
         {
           "name": "Alesso",
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 154031,
-      "name": "Somebody To Use",
-      "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
         "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
@@ -53,7 +57,7 @@
       "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Chasing Stars (feat. James Bay)",
         "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
@@ -77,7 +81,7 @@
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
@@ -97,47 +101,7 @@
       "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Leave A Little Love",
-        "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "Leave A Little Love",
-      "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Midnight (feat. Liam Payne)",
-        "url": "https://open.spotify.com/album/4Cq0dfyCX1msQ6ZRbdT4YG"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 220140,
-      "name": "Midnight (feat. Liam Payne)",
-      "url": "https://open.spotify.com/track/4ZTTUAjJCd4NMZmIU7RB4c"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
@@ -161,7 +125,47 @@
       "url": "https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Midnight (feat. Liam Payne)",
+        "url": "https://open.spotify.com/album/4Cq0dfyCX1msQ6ZRbdT4YG"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 220140,
+      "name": "Midnight (feat. Liam Payne)",
+      "url": "https://open.spotify.com/track/4ZTTUAjJCd4NMZmIU7RB4c"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
@@ -181,7 +185,7 @@
       "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
@@ -201,7 +205,7 @@
       "url": "https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "REMEDY",
         "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
@@ -217,7 +221,23 @@
       "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Somebody To Use",
+        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 154031,
+      "name": "Somebody To Use",
+      "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Calling (Lose My Mind)",
         "url": "https://open.spotify.com/album/2fI3bvXQeO3ZRgHKI5MTLe"
@@ -241,31 +261,7 @@
       "url": "https://open.spotify.com/track/34NNeV9jfgNgaALgUr0u9V"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Chasing Stars (Stripped)",
-        "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 164927,
-      "name": "Chasing Stars (feat. James Bay) [Stripped]",
-      "url": "https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
@@ -289,7 +285,7 @@
       "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "I Wanna Know",
         "url": "https://open.spotify.com/album/717X9LkHS8UXp8nb79Jnh6"
@@ -309,115 +305,23 @@
       "url": "https://open.spotify.com/track/2kYqdSlrtovVMMIn6ykzba"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
-        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
-        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+        "name": "Somebody To Use",
+        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
       },
       "artists": [
         {
           "name": "Alesso",
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+      "duration_ms": 191618,
+      "name": "Somebody To Use - Toxic Mix",
+      "url": "https://open.spotify.com/track/1fU9jcKCej9LobWUT6K7Fo"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Chasing Stars (Stripped)",
-        "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Chasing Stars (feat. James Bay) [VIP]",
-      "url": "https://open.spotify.com/track/47crMnBBovP3ErVw07kadS"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Years",
-        "url": "https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Years",
-      "url": "https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "City Of Dreams",
-        "url": "https://open.spotify.com/album/3mDXpAc8LCT6ssObfK7mym"
-      },
-      "artists": [
-        {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Ruben Haze",
-          "url": "https://open.spotify.com/artist/5nkzSFYwr8GJcwHT6vbbYL"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "City Of Dreams - Radio Edit",
-      "url": "https://open.spotify.com/track/54ZPmGE1uOG9IYoUBSRSp7"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Sad Song (feat. TINI)",
-        "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 154024,
-      "name": "Sad Song (feat. TINI)",
-      "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Something Just Like This (Remixes)",
         "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
@@ -441,7 +345,71 @@
       "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "City Of Dreams",
+        "url": "https://open.spotify.com/album/3mDXpAc8LCT6ssObfK7mym"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ruben Haze",
+          "url": "https://open.spotify.com/artist/5nkzSFYwr8GJcwHT6vbbYL"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "City Of Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/54ZPmGE1uOG9IYoUBSRSp7"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Sad Song (feat. TINI)",
+        "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 154024,
+      "name": "Sad Song (feat. TINI)",
+      "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "THE END",
         "url": "https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e"
@@ -461,7 +429,7 @@
       "url": "https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
@@ -481,7 +449,7 @@
       "url": "https://open.spotify.com/track/2ToIksTPpJ4csKPEOdUEyM"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0aoPXd30dX02Jm9FkDgWUE"
@@ -497,7 +465,51 @@
       "url": "https://open.spotify.com/track/3d9JucRI60arArgQXqtfjJ"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Chasing Stars (Stripped)",
+        "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "Chasing Stars (feat. James Bay) [Stripped]",
+      "url": "https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Take My Breath Away",
         "url": "https://open.spotify.com/album/30EbNBBriMXKYEG54aL8nr"
@@ -513,27 +525,7 @@
       "url": "https://open.spotify.com/track/5iAfLe0T0yRIYbL2v58Mzv"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sirena",
-          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Sweet Escape",
-      "url": "https://open.spotify.com/track/6vPJvkEuWZPcv58NnQ3dBR"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Is That For Me",
         "url": "https://open.spotify.com/album/1LtTYrAjvMjXTAo8U70eWL"
@@ -553,7 +545,47 @@
       "url": "https://open.spotify.com/track/2KwojFDebQV4J2b0JMRR5Q"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Leave A Little Love (Club Mix)",
+        "url": "https://open.spotify.com/album/5nV1iCvWWEWgJwwwn6jtHH"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "Leave A Little Love - Club Mix",
+      "url": "https://open.spotify.com/track/2SPZAzJWwy0IXTbmqdzsVM"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sirena",
+          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Sweet Escape",
+      "url": "https://open.spotify.com/track/6vPJvkEuWZPcv58NnQ3dBR"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Pressure (The Remixes)",
         "url": "https://open.spotify.com/album/7CAu0Fk9xQxFCKgOBylOMM"
@@ -581,27 +613,7 @@
       "url": "https://open.spotify.com/track/582JLMTy2WCHPgKFJ4xCq7"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Leave A Little Love (Club Mix)",
-        "url": "https://open.spotify.com/album/5nV1iCvWWEWgJwwwn6jtHH"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "Leave A Little Love - Club Mix",
-      "url": "https://open.spotify.com/track/2SPZAzJWwy0IXTbmqdzsVM"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/23yCVntK9nAjsZXHqX6hGS"
@@ -621,43 +633,7 @@
       "url": "https://open.spotify.com/track/7JHdotEeGSIbtFuo4dVvsC"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "ALESSO MIXTAPE - PROGRESSO VOLUME 1",
-        "url": "https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "TIME",
-      "url": "https://open.spotify.com/track/108r6pnZHStBIktpyyps9w"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "One Last Time",
-        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 240383,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Titanium (feat. Sia)",
         "url": "https://open.spotify.com/album/7blIKgWQs6pk2xdCzDk3gB"
@@ -677,10 +653,10 @@
       "url": "https://open.spotify.com/track/1fI5yYMJEYkAHI5YRdnikY"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
-        "name": "PROGRESSO VOL 2",
-        "url": "https://open.spotify.com/album/0SkgI9DVsKoNpkM7JUWaGS"
+        "name": "ALESSO MIXTAPE - PROGRESSO VOLUME 1",
+        "url": "https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE"
       },
       "artists": [
         {
@@ -688,28 +664,12 @@
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         }
       ],
-      "duration_ms": 228395,
-      "name": "TOGETHER",
-      "url": "https://open.spotify.com/track/0hvOu1yvUgbjNrzXfWVLYS"
+      "duration_ms": 166000,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/108r6pnZHStBIktpyyps9w"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "If It Wasn't For You",
-      "url": "https://open.spotify.com/track/0R3aF3iq67sbMgqe0A4nup"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Calling (Lose My Mind)",
         "url": "https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc"
@@ -733,10 +693,10 @@
       "url": "https://open.spotify.com/track/2M8hogIUDLzlx3ac9yTiAI"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
-        "name": "Heroes (we could be) [The Remixes]",
-        "url": "https://open.spotify.com/album/03cpWxb3t38YrVTxBI62og"
+        "name": "A State Of Trance Year Mix 2021 (Mixed by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/4OaMsk8VihZmMNIx8oYdoo"
       },
       "artists": [
         {
@@ -744,16 +704,52 @@
           "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Heroes (we could be) - Branchez Remix",
-      "url": "https://open.spotify.com/track/3wyJ90In0gjiWYgXniY4Op"
+      "duration_ms": 88813,
+      "name": "Leave A Little Love (Mixed) - Club Mix",
+      "url": "https://open.spotify.com/track/0oGKDmrn3HQ4ih50iWD7sl"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 240383,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 232480,
+      "name": "If It Wasn't For You",
+      "url": "https://open.spotify.com/track/0R3aF3iq67sbMgqe0A4nup"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
@@ -773,7 +769,27 @@
       "url": "https://open.spotify.com/track/6wZYxok5OMWAZh8r91vFEL"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Heroes (we could be) [The Remixes]",
+        "url": "https://open.spotify.com/album/03cpWxb3t38YrVTxBI62og"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Heroes (we could be) - Branchez Remix",
+      "url": "https://open.spotify.com/track/3wyJ90In0gjiWYgXniY4Op"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Pressure (Alesso Radio Edit)",
         "url": "https://open.spotify.com/album/1TpzXbZdjk34I5i3LnrUjp"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/4ZJjf1jKxiHTcBnF7K6TLW"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Mi Gente (with Willy William) [Alesso Remix]",
         "url": "https://open.spotify.com/album/52AwG4XGwdtoQmjuDX0Pdh"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/4uLObuemgRYF5b96UpqjH3"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "This Summer (Maroon 5 vs. Alesso)",
         "url": "https://open.spotify.com/album/6fdOFgB93CtMLBKusqFDdD"
@@ -845,7 +861,51 @@
       "url": "https://open.spotify.com/track/1r36CeHucX7V6tuK78Iw3Q"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 162139,
+      "name": "Get To Know Me",
+      "url": "https://open.spotify.com/track/32lyOiqQrmCUICCcBfkBeG"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "I Wanna Know (The Remixes)",
+        "url": "https://open.spotify.com/album/5hJZzQwrDN0vzS5LLLafq5"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "duration_ms": 327053,
+      "name": "I Wanna Know - Alesso & Deniz Koyu Remix",
+      "url": "https://open.spotify.com/track/7HwGFDbX9zC4R4fgFUZBrD"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
         "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
@@ -873,47 +933,7 @@
       "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "I Wanna Know (The Remixes)",
-        "url": "https://open.spotify.com/album/5hJZzQwrDN0vzS5LLLafq5"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        }
-      ],
-      "duration_ms": 327053,
-      "name": "I Wanna Know - Alesso & Deniz Koyu Remix",
-      "url": "https://open.spotify.com/track/7HwGFDbX9zC4R4fgFUZBrD"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Tilted Towers",
-        "url": "https://open.spotify.com/album/1ROknPR3DQnKIqajsMzw85"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 259475,
-      "name": "Tilted Towers",
-      "url": "https://open.spotify.com/track/5hdAQegqnitMjNacfLOHQd"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "ALESSO MIXTAPE - PROGRESSO VOLUME 1",
         "url": "https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE"
@@ -929,127 +949,7 @@
       "url": "https://open.spotify.com/track/2LLXE4cV9Fcusx2WiSIhwC"
     },
     {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "TIME (Alesso & Deniz Koyu Remix)",
-        "url": "https://open.spotify.com/album/75FRR5VgQfUAGYw8nazMrI"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "TIME - Alesso & Deniz Koyu Remix",
-      "url": "https://open.spotify.com/track/6EHfy60U5dH5QJcQKdbNPQ"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Kisses",
-        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 162139,
-      "name": "Get To Know Me",
-      "url": "https://open.spotify.com/track/32lyOiqQrmCUICCcBfkBeG"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "City Of Dreams",
-        "url": "https://open.spotify.com/album/3mDXpAc8LCT6ssObfK7mym"
-      },
-      "artists": [
-        {
-          "name": "Dirty South",
-          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Ruben Haze",
-          "url": "https://open.spotify.com/artist/5nkzSFYwr8GJcwHT6vbbYL"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "City Of Dreams - Original Mix",
-      "url": "https://open.spotify.com/track/5DKHdWT3u5mOu3dm8A8P1V"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "PAYDAY",
-      "url": "https://open.spotify.com/track/0yr4DKIedcAD4av7wKzHRO"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Noonie Bao",
-          "url": "https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO"
-        }
-      ],
-      "duration_ms": 251400,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/3ZUEdWfVROkbgOsG53ctme"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
-      "album": {
-        "name": "Silenced By The Night (Alesso Remix)",
-        "url": "https://open.spotify.com/album/5AeIaYONwneTOcR0rRguYz"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 373124,
-      "name": "Silenced By The Night [Alesso vs. Keane] - Alesso Remix",
-      "url": "https://open.spotify.com/track/1HTh4meXIkX5JHVYs8DQ6r"
-    },
-    {
-      "added_at": "2021-11-18 16:00:00",
+      "added_at": "2021-12-29 17:00:00",
       "album": {
         "name": "Under Control (feat. Hurts)",
         "url": "https://open.spotify.com/album/5PXsUtfvYHPvlvGRVuwNOp"
@@ -1071,6 +971,98 @@
       "duration_ms": 336613,
       "name": "Under Control (feat. Hurts) - Extended Mix",
       "url": "https://open.spotify.com/track/3IRopjEQzdRC8oP98yUikY"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "TIME (Alesso & Deniz Koyu Remix)",
+        "url": "https://open.spotify.com/album/75FRR5VgQfUAGYw8nazMrI"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "TIME - Alesso & Deniz Koyu Remix",
+      "url": "https://open.spotify.com/track/6EHfy60U5dH5QJcQKdbNPQ"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "PROGRESSO VOL 2",
+        "url": "https://open.spotify.com/album/0SkgI9DVsKoNpkM7JUWaGS"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "TOGETHER",
+      "url": "https://open.spotify.com/track/0hvOu1yvUgbjNrzXfWVLYS"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "PAYDAY",
+      "url": "https://open.spotify.com/track/0yr4DKIedcAD4av7wKzHRO"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "Tilted Towers",
+        "url": "https://open.spotify.com/album/1ROknPR3DQnKIqajsMzw85"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 259475,
+      "name": "Tilted Towers",
+      "url": "https://open.spotify.com/track/5hdAQegqnitMjNacfLOHQd"
+    },
+    {
+      "added_at": "2021-12-29 17:00:00",
+      "album": {
+        "name": "City Of Dreams",
+        "url": "https://open.spotify.com/album/3mDXpAc8LCT6ssObfK7mym"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ruben Haze",
+          "url": "https://open.spotify.com/artist/5nkzSFYwr8GJcwHT6vbbYL"
+        }
+      ],
+      "duration_ms": 405000,
+      "name": "City Of Dreams - Original Mix",
+      "url": "https://open.spotify.com/track/5DKHdWT3u5mOu3dm8A8P1V"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7nGw3hwYw03"

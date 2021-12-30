@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Get on top of Bollywood's newest and all time hits \- Raataan Lambiyan and Ranjha from Shershaah, Param Sundari, Shayad,  Channa Mereya and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more\. Listen to Bollywood's best only on this playlist!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 212,128 likes - 119 songs - 7 hr 15 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 212,148 likes - 119 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

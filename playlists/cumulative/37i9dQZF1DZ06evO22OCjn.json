@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211832,
+      "name": "Giddem",
+      "url": "https://open.spotify.com/track/55ylfI9v88iPOCgjAAdwMe"
+    },
+    {
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -278,7 +296,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 241162,
       "name": "Gwarn",
       "url": "https://open.spotify.com/track/0tyxItDX02rgv4wXimjIoE"
@@ -300,7 +318,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 202446,
       "name": "Heaven's Gate (feat. Lily Allen)",
       "url": "https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64"
@@ -336,7 +354,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 214026,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/114wpeBKwODd7Nu0HAUtMT"
@@ -1028,6 +1046,36 @@
       "duration_ms": 213373,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL"
+    },
+    {
+      "album": {
+        "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
+        "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
+      },
+      "artists": [
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Preck",
+          "url": "https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY"
+        },
+        {
+          "name": "Nelson Tivane",
+          "url": "https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214408,
+      "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
+      "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
     },
     {
       "album": {

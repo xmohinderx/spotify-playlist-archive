@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Yuvarathnaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,141 likes - 97 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,188 likes - 97 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 11 | [Alayanthe](https://open.spotify.com/track/50PNNOrbKonA67aZGR4Dn0) | [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA) | [Yaarigebeko Ee Loka](https://open.spotify.com/album/1qMPwN3NBUhzV7UMJEDRVP) | 4:52 |
 | 12 | [Mugulu Naguvalle](https://open.spotify.com/track/6OiSszkHj6TYWyQ0wH4TLF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Mugulu Naguvalle \- Shyam singha Roy\-Kannada](https://open.spotify.com/album/2r5Nsuq8us7R0eKIv37FXd) | 4:21 |
 | 13 | [Baanu Bhoomi \(From "Rider"\)](https://open.spotify.com/track/0sYvZ1brE8S3rUpak3XZBX) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Baanu Bhoomi \(From "Rider"\)](https://open.spotify.com/album/72jWk75FUE1WPuV5tremjS) | 3:18 |
-| 14 | [Arere Idenidu \(From "Arere Idenidu"\)](https://open.spotify.com/track/3Vj25vzDSdS4mhWV63Vg2o) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Ganesh Govindaswamy](https://open.spotify.com/artist/1pi35viD12i4twm8olEXpw) | [Arere Idenidu \(From "Arere Idenidu"\)](https://open.spotify.com/album/2U6FmRGWvzCl3WLuV1fG9z) | 3:31 |
+| 14 | [Arere Idenidu \(From "Sakuchi"\)](https://open.spotify.com/track/3Vj25vzDSdS4mhWV63Vg2o) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Ganesh Govindaswamy](https://open.spotify.com/artist/1pi35viD12i4twm8olEXpw) | [Arere Idenidu \(From "Sakuchi"\)](https://open.spotify.com/album/2U6FmRGWvzCl3WLuV1fG9z) | 3:31 |
 | 15 | [Angel Angel \(From "Hare Rama Hare Krishna"\)](https://open.spotify.com/track/33TUH8JbkiOwELVLpvrqsq) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Rita](https://open.spotify.com/artist/5IBFFb0fp0qRYH9Set3ISz) | [Angel Angel \(From "Hare Rama Hare Krishna"\)](https://open.spotify.com/album/5vABbOm69COHdLVMoftKft) | 4:27 |
 | 16 | [Malebille \(From "Drishya 2"\)](https://open.spotify.com/track/0LiycRaNtxazhfkCreyU5n) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Malebille \(From "Drishya 2"\)](https://open.spotify.com/album/5GNfYlf7ty37y4e8tgEpHA) | 4:25 |
 | 17 | [Yenilla Anno \(From "Namma Hudugaru"\)](https://open.spotify.com/track/4xLPs8X5nr8wbatKRi8I91) | [Sangeetha Ravindranath](https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43), [Shafi Kollam](https://open.spotify.com/artist/0udTsqVsPijUXCJgdVKYWp), [Abhimann Roy](https://open.spotify.com/artist/5fyJuumOXQwePtPK9suY88) | [Yenilla Anno \(From "Namma Hudugaru"\)](https://open.spotify.com/album/0sKmizHZw9ObXkyvqgV3wL) | 4:55 |

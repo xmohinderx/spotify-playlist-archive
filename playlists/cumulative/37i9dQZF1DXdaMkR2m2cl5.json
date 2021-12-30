@@ -34,7 +34,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 231066,
       "name": "A Light On In The Dark",
       "url": "https://open.spotify.com/track/6JbfmKceztqS3SYfA9CwQR"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 260010,
       "name": "All I Know Is",
       "url": "https://open.spotify.com/track/6ERFuCVkwAcOpWELq71Gxt"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 199760,
       "name": "Already Forgiven",
       "url": "https://open.spotify.com/track/6dvatfTLfYEI2JFlMVWcaG"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 249586,
       "name": "Are You There",
       "url": "https://open.spotify.com/track/05MZBY1x9KH898nvlfgHiD"
@@ -132,6 +132,24 @@
       "duration_ms": 184301,
       "name": "As It Is",
       "url": "https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc"
+    },
+    {
+      "album": {
+        "name": "Atlantis (Demo)",
+        "url": "https://open.spotify.com/album/3Pju42faS8LGEJEnk6ygNm"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270106,
+      "name": "Atlantis - Demo",
+      "url": "https://open.spotify.com/track/1HHFwFLJkGLe0tYS2i17gV"
     },
     {
       "album": {
@@ -218,7 +236,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 235640,
       "name": "Boys",
       "url": "https://open.spotify.com/track/39kdh33tGQuSINsUasOl8v"
@@ -294,7 +312,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 354842,
       "name": "Crack The Case",
       "url": "https://open.spotify.com/track/2JtC5mhcW0RoTJGoVkfgB7"
@@ -406,7 +424,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 184500,
       "name": "Crow Song",
       "url": "https://open.spotify.com/track/18ioEXs8XbRmYiREQ8W6jI"
@@ -519,6 +537,24 @@
     },
     {
       "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195845,
+      "name": "Drinking Song",
+      "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+    },
+    {
+      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
       },
@@ -606,7 +642,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 284880,
       "name": "Feet On The Dashboard",
       "url": "https://open.spotify.com/track/0YbAkvT3mvybfRUpqGv6R5"
@@ -668,7 +704,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 181754,
       "name": "God Knows Why",
       "url": "https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2"
@@ -726,7 +762,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 199146,
       "name": "Green Room (feat. Ed Droste)",
       "url": "https://open.spotify.com/track/1zaoc2J0SYRYE5sSjzXNyb"
@@ -816,7 +852,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 249213,
       "name": "Heart To Ride",
       "url": "https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ"
@@ -834,7 +870,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192733,
       "name": "Hold Me Like A Fire",
       "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
@@ -860,6 +896,32 @@
       "duration_ms": 218146,
       "name": "Holllllogram",
       "url": "https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ"
+    },
+    {
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        },
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221546,
+      "name": "I Knew I Could Fly",
+      "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
     },
     {
       "album": {
@@ -1062,7 +1124,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 209819,
       "name": "Latch",
       "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
@@ -1170,7 +1232,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 228120,
       "name": "Little Bit Sweet",
       "url": "https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE"
@@ -1250,7 +1312,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Lucky for You",
       "url": "https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i"
@@ -1376,7 +1438,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 218628,
       "name": "Neon Skyline",
       "url": "https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa"
@@ -1452,6 +1514,24 @@
       "duration_ms": 155352,
       "name": "Pharmakon",
       "url": "https://open.spotify.com/track/2J2oWsC3KGoqdUMIwcMRMU"
+    },
+    {
+      "album": {
+        "name": "Power Over Me",
+        "url": "https://open.spotify.com/album/7ohVCsxjU81BfXDGj6W8Ba"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200435,
+      "name": "Power Over Me - Acoustic",
+      "url": "https://open.spotify.com/track/47rNYq9IUveetu35c65xTw"
     },
     {
       "album": {
@@ -1632,7 +1712,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
@@ -1650,7 +1730,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
@@ -1758,7 +1838,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/3s71tbgmSN9TfJLj4D18Mt"
@@ -1798,6 +1878,24 @@
       "duration_ms": 242562,
       "name": "The Pool",
       "url": "https://open.spotify.com/track/3PXbcti7P1ZekivSWu48A3"
+    },
+    {
+      "album": {
+        "name": "The Running Styles of New York",
+        "url": "https://open.spotify.com/album/3FngH5IRWvC0DFC7FbIVZy"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311613,
+      "name": "The Running Styles of New York",
+      "url": "https://open.spotify.com/track/6qBIXzZBsQC6n4OmumpcHc"
     },
     {
       "album": {
@@ -1870,7 +1968,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 239960,
       "name": "The Woods - Acoustic",
       "url": "https://open.spotify.com/track/6uaIMhUZXMuT2Zz0vxrFiR"
@@ -1964,7 +2062,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 254970,
       "name": "Truly Known",
       "url": "https://open.spotify.com/track/1u4bHS7EJGixyxQKMehaJe"
@@ -1982,7 +2080,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 233400,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L"
@@ -2000,7 +2098,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 402335,
       "name": "Two Kids",
       "url": "https://open.spotify.com/track/0Tgnh0C7IvD8sKOYWjh6VH"
@@ -2018,7 +2116,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 171970,
       "name": "Uh Huh - Acoustic",
       "url": "https://open.spotify.com/track/7lqJKQZ3YmtS2fsELnpNk3"
@@ -2040,7 +2138,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 157068,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/1qIktGpjJbiikPxFDbuh1L"
@@ -2058,7 +2156,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 191493,
       "name": "We Fall In",
       "url": "https://open.spotify.com/track/396KYYOGDOwE7YooXmFedN"
@@ -2119,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "Why Woman",
+      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
+    },
+    {
+      "album": {
         "name": "Wildwood Flower",
         "url": "https://open.spotify.com/album/7aMiIpr39dyEbykG95vGDo"
       },
@@ -2166,7 +2282,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 265189,
       "name": "Your Love is Holy",
       "url": "https://open.spotify.com/track/008EXmFGIPz7DWuOVIl5hP"

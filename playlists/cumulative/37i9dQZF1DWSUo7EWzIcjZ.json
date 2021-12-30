@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 273293,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/64UoPaVdLy0lOc2bJOMVrt"
@@ -56,6 +56,42 @@
       "duration_ms": 220386,
       "name": "A Mover la Colita",
       "url": "https://open.spotify.com/track/7BIrBjymiQDaR3VfGWj8WX"
+    },
+    {
+      "album": {
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223059,
+      "name": "A Mover la Colita",
+      "url": "https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO"
+    },
+    {
+      "album": {
+        "name": "El Arrollador",
+        "url": "https://open.spotify.com/album/0EnSVKULe1MN6qZjLukamq"
+      },
+      "artists": [
+        {
+          "name": "Pochi Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/1gCNIckvK4GTbbRa8c3CLi"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "A Usted Lo Botan",
+      "url": "https://open.spotify.com/track/4cNifPGHLoNzJCMXZAF2g7"
     },
     {
       "album": {
@@ -88,7 +124,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 264226,
       "name": "Adolescente",
       "url": "https://open.spotify.com/track/5KqK2s5ZYMLFFNXjJSNgCc"
@@ -146,6 +182,24 @@
       "duration_ms": 254213,
       "name": "Amaneciendo",
       "url": "https://open.spotify.com/track/766T4qLT0fBFmO10TE22nT"
+    },
+    {
+      "album": {
+        "name": "Siempre Yo",
+        "url": "https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI"
+      },
+      "artists": [
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270666,
+      "name": "Amor Magico",
+      "url": "https://open.spotify.com/track/2VtzepnoI82CSMoVkbopcu"
     },
     {
       "album": {
@@ -214,7 +268,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 226946,
       "name": "Besos Callejeros",
       "url": "https://open.spotify.com/track/4M6tc479GdZSFyyPLhwOLl"
@@ -232,10 +286,28 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 234288,
       "name": "Borr\u00f3n y Cuenta Nueva",
       "url": "https://open.spotify.com/track/5hfRgnCUHb6BmNGq7P2FVq"
+    },
+    {
+      "album": {
+        "name": "Merengue Exitos",
+        "url": "https://open.spotify.com/album/014lrTIQrjrGVQOTPrYKY7"
+      },
+      "artists": [
+        {
+          "name": "Merengue Exitos",
+          "url": "https://open.spotify.com/artist/5fb57nU7czfRxNAzrwIsts"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295426,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/2pag7Y4noCdbVHEfKDKzzq"
     },
     {
       "album": {
@@ -376,7 +448,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 313808,
       "name": "Cobarde Cobarde",
       "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
@@ -455,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242613,
+      "name": "Con las Manos en la Masa",
+      "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
+    },
+    {
+      "album": {
         "name": "El Gran Mayimbe",
         "url": "https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC"
       },
@@ -502,7 +592,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 252734,
       "name": "Cuando Llegara",
       "url": "https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb"
@@ -538,10 +628,28 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 298106,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
+    },
+    {
+      "album": {
+        "name": "!Ay Doctor!",
+        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300280,
+      "name": "Cuarto de Hotel",
+      "url": "https://open.spotify.com/track/2OAtnmvc8oGGLElCFitxKy"
     },
     {
       "album": {
@@ -916,10 +1024,28 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 266040,
       "name": "El Repollo",
       "url": "https://open.spotify.com/track/7m63pqOrurvUXIMkVtE6YO"
+    },
+    {
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237826,
+      "name": "El Silencio, Tu Y Yo",
+      "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
     },
     {
       "album": {
@@ -952,7 +1078,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 255698,
       "name": "En el Fin de Semana",
       "url": "https://open.spotify.com/track/4djMEKq1oCMjUGrRNLNJt9"
@@ -970,10 +1096,32 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 298333,
       "name": "Entre Tu Cuerpo y el Mio",
       "url": "https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae"
+    },
+    {
+      "album": {
+        "name": "20 Exitos Originales",
+        "url": "https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1"
+      },
+      "artists": [
+        {
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
+        },
+        {
+          "name": "Los Vecinos",
+          "url": "https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298106,
+      "name": "Entre Tu Cuerpo y el Mio",
+      "url": "https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO"
     },
     {
       "album": {
@@ -1060,7 +1208,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 267335,
       "name": "Faltaste a la Cita",
       "url": "https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR"
@@ -1136,6 +1284,24 @@
       "duration_ms": 315800,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos - Cinco A\u00f1os De Platino",
+        "url": "https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241960,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/0M72uHdSxJeBFulYmXmIeR"
     },
     {
       "album": {
@@ -1240,7 +1406,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 230906,
       "name": "La Faldita",
       "url": "https://open.spotify.com/track/6vdT2tWueaglX1g7yfa5yg"
@@ -1265,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "La Fiesta Esta Buena",
+        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247379,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+    },
+    {
+      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1276,7 +1460,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 259519,
       "name": "La Loba",
       "url": "https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk"
@@ -1312,7 +1496,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 285800,
       "name": "La Nave Del Olvido",
       "url": "https://open.spotify.com/track/7KCj9ZAENKI71pJvF2bfnU"
@@ -1330,7 +1514,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 339760,
       "name": "La Primera Piedra",
       "url": "https://open.spotify.com/track/5yIkrvLKrR9Kbiu4LHQEkZ"
@@ -1474,7 +1658,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 350360,
       "name": "La Vida Sigue Igual",
       "url": "https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O"
@@ -1492,7 +1676,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 243306,
       "name": "Las Pequenas Cosas",
       "url": "https://open.spotify.com/track/4r3h9lDQADzUjf4KaRMIAp"
@@ -1510,7 +1694,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 243435,
       "name": "Las Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe"
@@ -1546,7 +1730,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 264800,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE"
@@ -1564,7 +1748,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 300733,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/0sapw9idh1PKHHShgx2EjF"
@@ -1640,7 +1824,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 226053,
       "name": "Maria (Guayando, Guayando)",
       "url": "https://open.spotify.com/track/44TX1WaaVTVTPheQljLnnM"
@@ -1694,7 +1878,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 247493,
       "name": "Me Enamore De Ti",
       "url": "https://open.spotify.com/track/2ny5mfflZhPtorz8lO8RMs"
@@ -1712,7 +1896,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 286346,
       "name": "Me Muero por Ella",
       "url": "https://open.spotify.com/track/6DOrwB5ioj8VkWtSXVl87x"
@@ -1770,6 +1954,24 @@
       "duration_ms": 278760,
       "name": "Medley",
       "url": "https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD"
+    },
+    {
+      "album": {
+        "name": "Raices",
+        "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311800,
+      "name": "Medley \"Rescate Tipico\" No.1: Pajaro Perlu / Fiesta Y Serrucho / El Diente De Oro / Abusadora",
+      "url": "https://open.spotify.com/track/3Nq4SfYlza7lTKqP5wPHl2"
     },
     {
       "album": {
@@ -2036,7 +2238,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 256173,
       "name": "Noche de Fantasia",
       "url": "https://open.spotify.com/track/7i9CXLMIX9jY4InTyEhYnL"
@@ -2054,7 +2256,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 276160,
       "name": "Noche Eterna",
       "url": "https://open.spotify.com/track/0Qyeb26NIFE2fHrX1uNewL"
@@ -2133,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Atado A Ti",
+        "url": "https://open.spotify.com/album/6EyPW31osPnN1mp6knlMFm"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298760,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/2qZq7rvnpSjkqNixLsF0SC"
+    },
+    {
+      "album": {
         "name": "Juan and Nelson Records - 20 Exitos",
         "url": "https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw"
       },
@@ -2162,7 +2382,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 265532,
       "name": "Oye Abre Tus Ojos",
       "url": "https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z"
@@ -2198,7 +2418,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 230876,
       "name": "Peluche",
       "url": "https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f"
@@ -2491,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
+        "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
+      },
+      "artists": [
+        {
+          "name": "Peter Cruz",
+          "url": "https://open.spotify.com/artist/624La0EtrGIQnHyM76BkIq"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245016,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/2KserR4WEVdrloo5eHsic6"
+    },
+    {
+      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/3HIcBXjftRC3MuQg3ORYSo"
       },
@@ -2600,7 +2838,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192840,
       "name": "Siervo de Amor",
       "url": "https://open.spotify.com/track/3wkEaHWxtjjvJMVHCxjGuJ"
@@ -2744,7 +2982,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 204591,
       "name": "Te Amo Demasiado",
       "url": "https://open.spotify.com/track/14qT9NjEZuvzPqYnS0G9Mj"
@@ -2762,7 +3000,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 259360,
       "name": "Te Buscare",
       "url": "https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI"
@@ -2798,7 +3036,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 265680,
       "name": "Te Compro Tu Novia",
       "url": "https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4"
@@ -2834,7 +3072,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 234600,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"
@@ -2874,6 +3112,24 @@
       "duration_ms": 270733,
       "name": "Todo Aquello Que Escrib\u00ed",
       "url": "https://open.spotify.com/track/44g3IuSUbFt0NmuFHZ9tJ0"
+    },
+    {
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "Todo Es Para Ti",
+      "url": "https://open.spotify.com/track/6lrWqDn3NKNnmhVn9ifjoX"
     },
     {
       "album": {
@@ -2924,7 +3180,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 241320,
       "name": "Tu Mujer",
       "url": "https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod"
@@ -2942,7 +3198,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 294026,
       "name": "Tu Vas a Volar",
       "url": "https://open.spotify.com/track/63UMjW3BogcZsHsRO9EcDo"
@@ -3036,7 +3292,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 214254,
       "name": "Un Sobrinito de Champagne",
       "url": "https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN"
@@ -3058,6 +3314,24 @@
       "duration_ms": 247200,
       "name": "Una Fotografia",
       "url": "https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB"
+    },
+    {
+      "album": {
+        "name": "Vete Y Dile",
+        "url": "https://open.spotify.com/album/2YCyR7ThO9WYIrQVGVPWex"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296586,
+      "name": "Vete Y Dile",
+      "url": "https://open.spotify.com/track/1iLUBSgZa6UpvxMMnwn4AP"
     },
     {
       "album": {

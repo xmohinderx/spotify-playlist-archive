@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Greatness 2.0",
+        "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Abeg",
+      "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
+    },
+    {
+      "album": {
         "name": "Antidote (feat. Adekunle Gold)",
         "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
       },
@@ -117,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Be Gone",
+        "url": "https://open.spotify.com/album/57SiNP6XejV7EoMYrtZOnh"
+      },
+      "artists": [
+        {
+          "name": "RnB Princess",
+          "url": "https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg"
+        },
+        {
+          "name": "Fuga the Pirate",
+          "url": "https://open.spotify.com/artist/1TaUSVCGJ2XePcUOhxYwyf"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149031,
+      "name": "Be Gone",
+      "url": "https://open.spotify.com/track/4dWQPivfUCTOp5ihmq8Yxc"
+    },
+    {
+      "album": {
         "name": "Beautifully",
         "url": "https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx"
       },
@@ -146,7 +194,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 174500,
       "name": "Before You Wake Up",
       "url": "https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV"
@@ -212,7 +260,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 164347,
       "name": "Can You See Her (Acoustic)",
       "url": "https://open.spotify.com/track/6d3anVSGv5OlBamDWEuoEH"
@@ -292,7 +340,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 188823,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
@@ -368,7 +416,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 136170,
       "name": "Do You",
       "url": "https://open.spotify.com/track/5vy09xIeMnSBMzSMFORP4G"
@@ -473,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Figurine - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4sZuXwDg2vdiRdoKf2y2BI"
+      },
+      "artists": [
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219671,
+      "name": "Figurine - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1KI9l7LmnXGvIyry0vqNnk"
+    },
+    {
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -514,7 +580,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 156022,
       "name": "Fiya",
       "url": "https://open.spotify.com/track/1Qv0mZ7vP0fCYqKQgPYOfu"
@@ -609,6 +675,42 @@
     },
     {
       "album": {
+        "name": "Hopeless Place",
+        "url": "https://open.spotify.com/album/4PYdU9KnQadcLIvKMLeV3b"
+      },
+      "artists": [
+        {
+          "name": "Kkeda",
+          "url": "https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "Hopeless Place",
+      "url": "https://open.spotify.com/track/6bMnInhzH6gpqY0tOdI2cP"
+    },
+    {
+      "album": {
+        "name": "I Won't",
+        "url": "https://open.spotify.com/album/4pOMgLprmTbfz94bkv42bu"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/7zHrarw8FTc8ikzPKnXIzw"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "I Won't",
+      "url": "https://open.spotify.com/track/6ohlE4CmBQitfRvvB5aBuy"
+    },
+    {
+      "album": {
         "name": "In My Dreams Last Night",
         "url": "https://open.spotify.com/album/3IArDU57iCdwaSv5qT3dhC"
       },
@@ -620,7 +722,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 218823,
       "name": "In My Dreams Last Night",
       "url": "https://open.spotify.com/track/0Tupq0XA3sxGgbqMHsqVM7"
@@ -682,6 +784,24 @@
       "duration_ms": 213030,
       "name": "It's Okay to Cry",
       "url": "https://open.spotify.com/track/5X99Res0qG01SxTy5puWFU"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
     },
     {
       "album": {
@@ -836,6 +956,50 @@
       "duration_ms": 238016,
       "name": "MAD",
       "url": "https://open.spotify.com/track/6mGUY6CaFbnK9a6YxV5lpJ"
+    },
+    {
+      "album": {
+        "name": "Mayana",
+        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
+    },
+    {
+      "album": {
+        "name": "Milele",
+        "url": "https://open.spotify.com/album/1l6eZ2RICsffC8CKNJbuWn"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204790,
+      "name": "Milele",
+      "url": "https://open.spotify.com/track/0y2qVXYOckABR6ZJT5QiYs"
     },
     {
       "album": {
@@ -1036,7 +1200,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 212307,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
@@ -1098,10 +1262,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 186873,
       "name": "Searching",
       "url": "https://open.spotify.com/track/7AKiA7fmXGjBqozZzKhhDu"
+    },
+    {
+      "album": {
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/6qqM3masriqBhSobcZVmAt"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/7k5p0y3ujvszuxWoeJJpxO"
     },
     {
       "album": {
@@ -1626,7 +1808,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 179191,
       "name": "You",
       "url": "https://open.spotify.com/track/3mPNiVNsCpGFjV4y7IaOrX"

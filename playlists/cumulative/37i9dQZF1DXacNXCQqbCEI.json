@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
+    },
+    {
+      "album": {
         "name": "Antares",
         "url": "https://open.spotify.com/album/4vgoQuq5sAPGOsHzlPCmaa"
       },
@@ -122,10 +140,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 246116,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7"
+    },
+    {
+      "album": {
+        "name": "Baquin\u00e9",
+        "url": "https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG"
+      },
+      "artists": [
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272427,
+      "name": "Baquin\u00e9",
+      "url": "https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2"
     },
     {
       "album": {
@@ -187,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome) / Ahomale",
+        "url": "https://open.spotify.com/album/2BfPF9Oz6HmnMh88pkVYUF"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
+      "url": "https://open.spotify.com/track/1zgrb8rh6QpZrDZVTdbSfU"
+    },
+    {
+      "album": {
         "name": "B\u00faho",
         "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
       },
@@ -220,6 +274,24 @@
       "duration_ms": 248571,
       "name": "Canario",
       "url": "https://open.spotify.com/track/6NmWZzCK8iVMXDzUQHRsPb"
+    },
+    {
+      "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz"
+      },
+      "artists": [
+        {
+          "name": "EVHA",
+          "url": "https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293750,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug"
     },
     {
       "album": {
@@ -274,7 +346,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 307830,
       "name": "Ch'usay",
       "url": "https://open.spotify.com/track/704xWR1nWpxhFRBbB8sboj"
@@ -340,7 +412,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 290156,
       "name": "Cuco Picogordo De La Espan\u0303ola",
       "url": "https://open.spotify.com/track/2mv6A1cfHwgYe61Ffv2eVd"
@@ -423,6 +495,28 @@
     },
     {
       "album": {
+        "name": "El Alma del Mundo",
+        "url": "https://open.spotify.com/album/0hZR9449Uaoe5hs3cxMQlW"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+        },
+        {
+          "name": "EKA",
+          "url": "https://open.spotify.com/artist/15P0IoBGJxlligBew7c7wc"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "El Alma del Mundo",
+      "url": "https://open.spotify.com/track/511oG5pe1WMrmGHed4VaGP"
+    },
+    {
+      "album": {
         "name": "El Cafetal",
         "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
       },
@@ -482,7 +576,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 235032,
       "name": "El Mago Georges",
       "url": "https://open.spotify.com/track/1CJ5JejmIAEtShoxy8DQHU"
@@ -573,6 +667,28 @@
     },
     {
       "album": {
+        "name": "Las Frutas EP",
+        "url": "https://open.spotify.com/album/0Xg7V0xcI1R4WOsraOg8c3"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Gotopo",
+          "url": "https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213124,
+      "name": "Eso",
+      "url": "https://open.spotify.com/track/3qetNN5FwmaJ56SSD2tsZF"
+    },
+    {
+      "album": {
         "name": "Supernatural Love",
         "url": "https://open.spotify.com/album/6l6TX9RcpFLmY2H3PgSiqn"
       },
@@ -584,7 +700,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 284493,
       "name": "Fuego Que Te Llama",
       "url": "https://open.spotify.com/track/6d3iveqfwdbzSKPSEqEe2k"
@@ -704,7 +820,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 303197,
       "name": "Koro Kemboro",
       "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
@@ -726,6 +842,32 @@
       "duration_ms": 300000,
       "name": "La Cumbia De La Ansiedad",
       "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
+    },
+    {
+      "album": {
+        "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
+        "url": "https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324556,
+      "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
+      "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
     },
     {
       "album": {
@@ -806,6 +948,24 @@
       "duration_ms": 240000,
       "name": "Manana Tepotzlan",
       "url": "https://open.spotify.com/track/6o5CnQ64kggC3sEnIUpEl5"
+    },
+    {
+      "album": {
+        "name": "Marimba Tamb\u00f3",
+        "url": "https://open.spotify.com/album/3bKcrO1iIfu2L8eznLVyLs"
+      },
+      "artists": [
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255360,
+      "name": "Marimba Tamb\u00f3",
+      "url": "https://open.spotify.com/track/2rNagq4lJvSat406m0mBGs"
     },
     {
       "album": {
@@ -982,7 +1142,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 157746,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
@@ -1040,7 +1200,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 250769,
       "name": "Portales",
       "url": "https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3"
@@ -1098,7 +1258,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 222787,
       "name": "P\u00e1jaro",
       "url": "https://open.spotify.com/track/0kPq2bsyrh9T9t5tjCdGdX"
@@ -1120,6 +1280,28 @@
       "duration_ms": 220866,
       "name": "P\u00e1jaro Cenzontle",
       "url": "https://open.spotify.com/track/0QVaOOXa9KflHlSeV6Adkh"
+    },
+    {
+      "album": {
+        "name": "Que Bailen",
+        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314009,
+      "name": "Que Bailen",
+      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
     },
     {
       "album": {
@@ -1152,7 +1334,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 257454,
       "name": "Quinito en Islandia - Re-Masterizada 2020 - Galleticas Version",
       "url": "https://open.spotify.com/track/1RCuM3AeMJC5kUZBEbFUH6"
@@ -1262,7 +1444,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
@@ -1280,7 +1462,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 347763,
       "name": "Siete",
       "url": "https://open.spotify.com/track/0G1rTJ4blA2SxXRB8QrEOw"
@@ -1298,7 +1480,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 255976,
       "name": "Sola",
       "url": "https://open.spotify.com/track/7gg0tvjM35o0UQMG2e9XZi"
@@ -1338,7 +1520,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
@@ -1356,7 +1538,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/3NEVeetLmkytUgwca0pwi3"
@@ -1452,7 +1634,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 181914,
       "name": "Sue\u00f1o Marino",
       "url": "https://open.spotify.com/track/7dSKq6FktDcVoWXwbPIRMw"
@@ -1521,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n para un amigo EP",
+        "url": "https://open.spotify.com/album/4Y72rXWdSgWLZ9w8q3sruJ"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "El Le\u00f3n Pardo",
+          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511936,
+      "name": "Todo Te Lo Llevaste",
+      "url": "https://open.spotify.com/track/1fuKpGNhiT2t5w9AFHnedq"
+    },
+    {
+      "album": {
         "name": "Vayay\u00f3",
         "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
       },
@@ -1532,7 +1736,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
@@ -1550,7 +1754,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 230400,
       "name": "Viene de Mi",
       "url": "https://open.spotify.com/track/5YsWsf7LF92DPsBPFpP7va"

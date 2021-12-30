@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 438640,
       "name": "Blues Function",
       "url": "https://open.spotify.com/track/55cpqzYGlvah8FSmlxroCQ"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 265893,
       "name": "Camouflage - Rudy Van Gelder Edition/1998 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 444626,
       "name": "Out Of The Night - Rudy Van Gelder Edition / 1999 Digital Remaster / 24-Bit Mastering",
       "url": "https://open.spotify.com/track/1tboD29pvEqSOHz6fLGauk"
@@ -2042,6 +2042,24 @@
       "duration_ms": 283882,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/6ZZTeKUYnl493X7myMxfeS"
+    },
+    {
+      "album": {
+        "name": "Volume Two",
+        "url": "https://open.spotify.com/album/7JJjXLVOKnpL94UVRIKksn"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345400,
+      "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9n1kQRulpEn"

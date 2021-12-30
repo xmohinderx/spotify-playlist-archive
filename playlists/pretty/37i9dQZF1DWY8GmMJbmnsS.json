@@ -1,45 +1,13 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: <a href=\"spotify:artist:3rRmDmzPcAFwcUDvG5gBqO\">Percy Sledge</a>",
   "name": "Timeless Soul Ballads",
-  "num_followers": 300688,
+  "num_followers": 300735,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDczODMwNywwMDAwMDAwMDc5YzkwMWUwNGEwZTY4NzVlZGI5ODQ0YzNmZTRhM2E4",
+  "snapshot_id": "MTY0MDgyNDc0NywwMDAwMDAwMDQxMDk4NjRiNWM5OWEyYWFlYWE1OTYzM2FhNzFjZmVi",
   "tracks": [
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "A Change Is Gonna Come",
-        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Stax-Volt: The Complete Singles 1959-1968",
-        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Try A Little Tenderness",
-      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
-    },
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
@@ -75,6 +43,38 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Stax-Volt: The Complete Singles 1959-1968",
+        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Try A Little Tenderness",
+      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "What's Going On - 40th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
       },
@@ -87,22 +87,6 @@
       "duration_ms": 226133,
       "name": "What's Going On - Original Single Mix",
       "url": "https://open.spotify.com/track/0wNP3UlDMf2CxPyJyNOHVD"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -123,54 +107,6 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
         "name": "This Is Clarence Carter",
         "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
       },
@@ -183,38 +119,6 @@
       "duration_ms": 153680,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/7r3Hwig1mvtlVq0ZbJ09Wb"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "At Last The Very Best Of",
-        "url": "https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/1hXIdXjAI4nWz4qnJ28iO2"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -235,6 +139,102 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3AGszO88qhYdEvhs6pjsHW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/7FwkoTz8Ic8C5YaE9XXGIU"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "At Last The Very Best Of",
+        "url": "https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/1hXIdXjAI4nWz4qnJ28iO2"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -247,38 +247,6 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Portrait of a Legend (Remastered)",
-        "url": "https://open.spotify.com/album/2o79MAXD7xbq0E1SEugdeC"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/2xjcw8yUWX6lCJciwiW9Q0"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 322866,
-      "name": "I Love You More Than You'll Ever Know",
-      "url": "https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -313,6 +281,38 @@
       "url": "https://open.spotify.com/track/4oLmEUe7TmZPrIoRf7DXyw"
     },
     {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Portrait of a Legend (Remastered)",
+        "url": "https://open.spotify.com/album/2o79MAXD7xbq0E1SEugdeC"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/2xjcw8yUWX6lCJciwiW9Q0"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 322866,
+      "name": "I Love You More Than You'll Ever Know",
+      "url": "https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG"
+    },
+    {
       "added_at": "2021-01-05 21:36:28",
       "album": {
         "name": "Georgia on My Mind (Original Master Recording)",
@@ -327,38 +327,6 @@
       "duration_ms": 217414,
       "name": "Georgia on My Mind - Original Master Recording",
       "url": "https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Hey Jude",
-        "url": "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Let's Get It On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -395,6 +363,38 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "Let's Get It On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Hey Jude",
+        "url": "https://open.spotify.com/album/3i8EJ0Ypi3qptjM2Q3DLIL"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/1MMp1H2Kib2BCDtdL5nL63"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -427,24 +427,8 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+        "name": "The Very Best Of Dusty Springfield",
+        "url": "https://open.spotify.com/album/3BMtVA6jcl1GzwfIO4HD48"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+      "duration_ms": 170333,
+      "name": "You Don't Have To Say You Love Me",
+      "url": "https://open.spotify.com/track/0zpGOqyqTEzWGkvZGdALMX"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -471,6 +455,22 @@
       "duration_ms": 180200,
       "name": "Let's Talk It Over",
       "url": "https://open.spotify.com/track/1ZnphXcGuAlLpw2lkRB9It"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 325946,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -507,6 +507,22 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "I Learned the Hard Way",
         "url": "https://open.spotify.com/album/7HeoMx4J2lWyL3PF1z39oE"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 201613,
       "name": "Money",
       "url": "https://open.spotify.com/track/3kBdQ0SCr6cWDhXsS5g69l"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "The Very Best Of Dusty Springfield",
-        "url": "https://open.spotify.com/album/3BMtVA6jcl1GzwfIO4HD48"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "You Don't Have To Say You Love Me",
-      "url": "https://open.spotify.com/track/0zpGOqyqTEzWGkvZGdALMX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY8GmMJbmnsS"

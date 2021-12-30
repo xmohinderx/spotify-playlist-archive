@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIPSKePHmRn.md) - [plain]
 
 > Remembering the amazing <a href="spotify:artist:6LufpoVlIYKQCu9Gjpk8B7">artist</a> \(1956–2016\)\. You will be missed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,277 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,288 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

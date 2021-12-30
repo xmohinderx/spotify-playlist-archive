@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: aespa",
+  "description": "Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: IU",
   "name": "K-Pop Daebak",
   "tracks": [
     {
@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 211346,
       "name": "For You (Holiday Remix) - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5"
@@ -900,6 +900,24 @@
       "duration_ms": 231466,
       "name": "Universe (Let's Play Ball)",
       "url": "https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262120,
+      "name": "Winter Sleep",
+      "url": "https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB"
     },
     {
       "album": {

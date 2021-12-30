@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 250405,
       "name": "A Folk Singer From Outer Space",
       "url": "https://open.spotify.com/track/36uU2KHot3kUhFjCvTbSXE"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 212354,
       "name": "Blind in the Fray",
       "url": "https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1"
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Little May",
+        "url": "https://open.spotify.com/album/00UxqHa2736DcXKCZGF4i9"
+      },
+      "artists": [
+        {
+          "name": "Little May",
+          "url": "https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195735,
+      "name": "Boardwalks",
+      "url": "https://open.spotify.com/track/3jDF66ZATb0FcHNnOqeyDK"
+    },
+    {
+      "album": {
         "name": "Breast of Glass/Frolic",
         "url": "https://open.spotify.com/album/1i5BixhgJGlO0os0MbtHEm"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 241639,
       "name": "Breast of Glass",
       "url": "https://open.spotify.com/track/04KKr7Ri3H3lVTVdNxcyK1"
@@ -312,6 +330,24 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "album": {
+        "name": "Colder Heavens",
+        "url": "https://open.spotify.com/album/1NZp71mLzKkFFDj5RpK9Oi"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
     },
     {
       "album": {
@@ -806,7 +842,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 270226,
       "name": "Leave Me Now",
       "url": "https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz"
@@ -1325,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
+    },
+    {
+      "album": {
         "name": "Clocks",
         "url": "https://open.spotify.com/album/1AcCa9sbuK1rxiZzXptOMZ"
       },
@@ -1690,7 +1744,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 182374,
       "name": "Try to Make a Fire Burn Again",
       "url": "https://open.spotify.com/track/6rKfnpSyHhdVrukCPZT3hK"
@@ -1798,7 +1852,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 152952,
       "name": "Waiting Around",
       "url": "https://open.spotify.com/track/6WQlGuh6c4jciXEyM2rVGX"
@@ -1834,7 +1888,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217133,
       "name": "Water in the Barrel",
       "url": "https://open.spotify.com/track/7elXaVsrVrwczas2crAE0U"

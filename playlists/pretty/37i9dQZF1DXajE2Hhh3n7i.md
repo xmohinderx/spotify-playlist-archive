@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajE2Hhh3n7i.md) - [plain]
 
 > It's a Felabration\. The <a href="spotify:artist:5CG9X521RDFWCuAhlo6QoR">Black President</a>'s grooves still resonate—preorder the Erykah Badu\-curated <a href="https://regulartrademark.fela.net/products/fela\-kuti\-box\-set\-4\-curated\-by\-erykah\-badu?variant=1711344746520">Fela Kuti Box Set \#4</a>, out Dec 15.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,939 likes - 50 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,981 likes - 50 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

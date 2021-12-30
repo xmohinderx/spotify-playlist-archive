@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Q60SopbIW.md) - [plain]
 
 > Get deep into The Flaming Lips with this career\-spanning playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,939 likes - 49 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,951 likes - 49 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

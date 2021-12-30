@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 185786,
       "name": "A H7 E",
       "url": "https://open.spotify.com/track/5xyCLB8PVyxYIJJdw42oZp"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 211800,
       "name": "Bare s\u00e5 du vett det",
       "url": "https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 229433,
       "name": "Berre i natt",
       "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
@@ -332,10 +332,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 178103,
       "name": "Det \u00e5rn\u00e6r s\u00e6",
       "url": "https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp"
+    },
+    {
+      "album": {
+        "name": "Du + Jeg = Helvete (Figure Eight)",
+        "url": "https://open.spotify.com/album/2n08hNDHvuA6t4Ubvs2wtG"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "Kappa Laks",
+          "url": "https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Du + Jeg = Helvete (Figure Eight)",
+      "url": "https://open.spotify.com/track/4BEnuYgI3SM81ehvW7lPfH"
     },
     {
       "album": {
@@ -386,7 +408,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 236386,
       "name": "Ei runde til",
       "url": "https://open.spotify.com/track/660vI3gYDKGe8p3hEfNvwT"
@@ -466,7 +488,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 187909,
       "name": "Et Sted P\u00e5 Montebello",
       "url": "https://open.spotify.com/track/1CLFHU0oSSepQGeVPnaVHq"
@@ -506,10 +528,36 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 151304,
       "name": "Flaska",
       "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+    },
+    {
+      "album": {
+        "name": "FREDAG",
+        "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
+      },
+      "artists": [
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168398,
+      "name": "FREDAG",
+      "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
     },
     {
       "album": {
@@ -600,7 +648,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 123461,
       "name": "Harryhandel Halleluja",
       "url": "https://open.spotify.com/track/2nERzk99mUpwd8XrBOVADz"
@@ -734,7 +782,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 179500,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d"
@@ -756,6 +804,50 @@
       "duration_ms": 145666,
       "name": "H\u00e6ljetur",
       "url": "https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS"
+    },
+    {
+      "album": {
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
+    },
+    {
+      "album": {
+        "name": "Jag Gillar Dig",
+        "url": "https://open.spotify.com/album/3GJX0NsF7t5wOgdlhYLqn2"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        },
+        {
+          "name": "MC Gr\u00fcber",
+          "url": "https://open.spotify.com/artist/0yf7wmHhxJrbmKakyPqdWH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146560,
+      "name": "Jag Gillar Dig",
+      "url": "https://open.spotify.com/track/5pl2W8X6SDrxE55gRBTFmj"
     },
     {
       "album": {
@@ -850,7 +942,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 186453,
       "name": "K\u00e6m Tok Ho Me S\u00e6",
       "url": "https://open.spotify.com/track/5GPa945q93slwVFDuNgtMs"
@@ -868,7 +960,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 196308,
       "name": "La dagen vare evig",
       "url": "https://open.spotify.com/track/1NKmAhNvaG6ulJigH0OGmM"
@@ -949,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Mcdonalds",
+        "url": "https://open.spotify.com/album/4oLEUIj1vMpVxFbJ1j7Nb8"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Mcdonalds",
+      "url": "https://open.spotify.com/track/4um6ufqR4iLTP11FnrrXfJ"
+    },
+    {
+      "album": {
         "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
         "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
       },
@@ -982,10 +1092,46 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/3jky5ngzze3qNFigQCaP8L"
+    },
+    {
+      "album": {
+        "name": "Norske rednecks",
+        "url": "https://open.spotify.com/album/30S8kPqmcDPTVr4xBSAglF"
+      },
+      "artists": [
+        {
+          "name": "Byting",
+          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173978,
+      "name": "Norske rednecks",
+      "url": "https://open.spotify.com/track/0dD5RMYPOYVzGDOhGJWgsF"
+    },
+    {
+      "album": {
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/0kFw68XIGOIjPDa39wgSKb"
+      },
+      "artists": [
+        {
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "N\u00e5 Er Det Fredan Igjen",
+      "url": "https://open.spotify.com/track/6zYOdvNQuHxUQtmktw2vwo"
     },
     {
       "album": {
@@ -1000,7 +1146,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 183958,
       "name": "N\u00e5 er det helg",
       "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
@@ -1018,7 +1164,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 169466,
       "name": "N\u00e5 Koser Vi Oss",
       "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
@@ -1097,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "P\u00e5'n igjen",
+        "url": "https://open.spotify.com/album/2SMqoxFDfII83BER8hvtm3"
+      },
+      "artists": [
+        {
+          "name": "BEIST",
+          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208031,
+      "name": "P\u00e5'n igjen",
+      "url": "https://open.spotify.com/track/5Msl0GQxuRnzPPYyGXT2Fa"
+    },
+    {
+      "album": {
         "name": "Ragga runt",
         "url": "https://open.spotify.com/album/2UUUaYP34NrB0e2gQ7H6uD"
       },
@@ -1138,6 +1302,46 @@
       "duration_ms": 135227,
       "name": "Raggarbil",
       "url": "https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK"
+    },
+    {
+      "album": {
+        "name": "Rett Ut Av Rehab",
+        "url": "https://open.spotify.com/album/0EsF8pGhd04FZFwbYW1ilI"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pimp-Lotion",
+          "url": "https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143181,
+      "name": "Rett Ut Av Rehab",
+      "url": "https://open.spotify.com/track/2AmSuzgwMHKpP8i3cMvDWr"
+    },
+    {
+      "album": {
+        "name": "Rompa mi",
+        "url": "https://open.spotify.com/album/2AJkF1bVcZvVnZqTBFATCs"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Linni Meister",
+          "url": "https://open.spotify.com/artist/4YaUbZmPC6MY6Rl1rBTDuR"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207659,
+      "name": "Rompa mi",
+      "url": "https://open.spotify.com/track/4xh1HYiuwF8B200hbKW5Ic"
     },
     {
       "album": {
@@ -1246,7 +1450,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 206053,
       "name": "Sj\u00e5 sole",
       "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
@@ -1300,7 +1504,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 163212,
       "name": "Snakkes",
       "url": "https://open.spotify.com/track/3gApFQhR9CEqjkCFG1WlKM"
@@ -1434,7 +1638,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 199266,
       "name": "Tempo Corvette",
       "url": "https://open.spotify.com/track/3ucFRyoQVvYhq0M0DSPdc5"
@@ -1492,7 +1696,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 180967,
       "name": "Vi tar det igjen neste \u00e5r",
       "url": "https://open.spotify.com/track/0xwR5vB4PYsfBgWhTSXpXV"

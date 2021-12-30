@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 463545,
       "name": "Beautiful Blue Sky",
       "url": "https://open.spotify.com/track/2lp3ycHVNMK2xZ5GFMwEtX"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 481813,
       "name": "Broke",
       "url": "https://open.spotify.com/track/7tNoESflewtLqMdvgUuE3e"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 149666,
       "name": "Calling It",
       "url": "https://open.spotify.com/track/1V4GgaXzuPn4lOWtx33crz"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 213626,
       "name": "Camel Crew",
       "url": "https://open.spotify.com/track/41CGrgMGCVSpWGZKTKmOLF"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 226973,
       "name": "Courtesy Call",
       "url": "https://open.spotify.com/track/3abS9KDClZlCFY7n1g5HEZ"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 212910,
       "name": "Creatures",
       "url": "https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 185248,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP"
@@ -628,10 +628,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 216284,
       "name": "Down in the Basement",
       "url": "https://open.spotify.com/track/3EQGADvujDRkbRVBXV0fr8"
+    },
+    {
+      "album": {
+        "name": "Everything Is Great",
+        "url": "https://open.spotify.com/album/6lwo9ZWMrK0rsLNrpXh4ut"
+      },
+      "artists": [
+        {
+          "name": "SERF",
+          "url": "https://open.spotify.com/artist/3AHSGaERoeo0QGCb7QxmQW"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260540,
+      "name": "Everything Is Great",
+      "url": "https://open.spotify.com/track/12l74YlyXFIMB4Th2j7u8Y"
     },
     {
       "album": {
@@ -668,7 +686,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 155493,
       "name": "Fine Dining",
       "url": "https://open.spotify.com/track/31MASht0doFNCs2ev9tMqV"
@@ -722,7 +740,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 222840,
       "name": "Four Wheel Drive",
       "url": "https://open.spotify.com/track/17TtXWJsfYiRy3FUvdJWAT"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 203400,
       "name": "Going Soft",
       "url": "https://open.spotify.com/track/4gCWOLLQDJsGS4U5cGA4mi"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 157199,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU"
@@ -920,7 +938,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 259120,
       "name": "Half Full",
       "url": "https://open.spotify.com/track/6u10BK0FWxt58u6lMobxi5"
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 175800,
       "name": "Homo Sapien",
       "url": "https://open.spotify.com/track/4mflFeaji6SfBoJUaLuozF"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 313720,
       "name": "John L",
       "url": "https://open.spotify.com/track/2qm9mgnZbLX1l7mbxmgzLt"
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 220693,
       "name": "Kebab Spider",
       "url": "https://open.spotify.com/track/14jchGOlTJQ91SNYVCSTLr"
@@ -1269,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "It's a Myth",
+        "url": "https://open.spotify.com/album/6dfVH3U3qwJ7Cd8LgGL9wb"
+      },
+      "artists": [
+        {
+          "name": "Sneaks",
+          "url": "https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197613,
+      "name": "Look Like That",
+      "url": "https://open.spotify.com/track/0IgZLkEVQE9fQXbuhWbGes"
+    },
+    {
+      "album": {
         "name": "Love Me Do Again",
         "url": "https://open.spotify.com/album/4T4T30hUA1MfwaZiMaz1eM"
       },
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 330400,
       "name": "Miami Lounge",
       "url": "https://open.spotify.com/track/0k6aOvZvxHCvkrngINKWG5"
@@ -1500,7 +1536,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 203028,
       "name": "Never",
       "url": "https://open.spotify.com/track/5S20zPPPfh0gQYYYaQQJUB"
@@ -1536,7 +1572,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 204306,
       "name": "Nigel Hitter",
       "url": "https://open.spotify.com/track/5sV5xcygaRKdwL48GIvj1a"
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 177120,
       "name": "Nite Expo",
       "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
@@ -1572,7 +1608,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 239033,
       "name": "Nothing Feels Natural",
       "url": "https://open.spotify.com/track/7jFM0wZch8oJVRVQMl2nvV"
@@ -1590,7 +1626,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 223067,
       "name": "NOTICE OF FORECLOSURE",
       "url": "https://open.spotify.com/track/2PCnHuNdckPK468Y3Gkm3a"
@@ -1666,7 +1702,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 219327,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/2V4U5hZOUnY1jzhNZpcrAD"
@@ -1702,7 +1738,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 413721,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1ulRN20ts4efc3DHKABsVu"
@@ -1720,7 +1756,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 241532,
       "name": "Petty Thieving",
       "url": "https://open.spotify.com/track/3dxAvrqRv4KENeZTpACrnJ"
@@ -1738,10 +1774,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 305899,
       "name": "Processed By The Boys",
       "url": "https://open.spotify.com/track/5iOgwvHcgvW7EMaMDt79aT"
+    },
+    {
+      "album": {
+        "name": "Protathlitis",
+        "url": "https://open.spotify.com/album/20yOzSVl5p33yp4py4cxgu"
+      },
+      "artists": [
+        {
+          "name": "MAZOHA",
+          "url": "https://open.spotify.com/artist/0hlfPCo0jrznvYgctoK3e6"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272665,
+      "name": "Protathlitis",
+      "url": "https://open.spotify.com/track/3El123DgjXaQvGUDEYD0Pl"
     },
     {
       "album": {
@@ -1774,7 +1828,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 108444,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/0u2kTKd00Jk9UEbn9CxrYj"
@@ -1792,7 +1846,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
@@ -1850,7 +1904,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 167926,
       "name": "Salami",
       "url": "https://open.spotify.com/track/33iMLPqQFfTXnEnMaO3BiM"
@@ -1922,7 +1976,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 141040,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0vMTSRlRofM60LZmWP04ZC"
@@ -2066,7 +2120,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 300820,
       "name": "Sludge",
       "url": "https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy"
@@ -2106,7 +2160,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 236653,
       "name": "South",
       "url": "https://open.spotify.com/track/7pMZ71tatoBEvhpM5ZaIS2"
@@ -2142,7 +2196,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 237546,
       "name": "Sports",
       "url": "https://open.spotify.com/track/56yeb6zxKn9aNjLyvbs1BM"
@@ -2178,7 +2232,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 185080,
       "name": "Stimulus for Living",
       "url": "https://open.spotify.com/track/6ZuhUEBqrXxvsrxAymcwzh"
@@ -2196,7 +2250,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 200000,
       "name": "Stoned Again - Live",
       "url": "https://open.spotify.com/track/1fwPnO7m3MdoOCYQg7iM4N"
@@ -2272,7 +2326,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 222840,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS"
@@ -2312,7 +2366,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 188986,
       "name": "Taking On Time",
       "url": "https://open.spotify.com/track/1b0UgeaxiNubfHilAf4AWh"
@@ -2546,7 +2600,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 248408,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/072FXhjdSibK3wSavEBnIc"
@@ -2622,7 +2676,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 234560,
       "name": "Uber Alles",
       "url": "https://open.spotify.com/track/3gQpvTd6fWeAT5RuqgTwei"
@@ -2694,7 +2748,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
@@ -2752,7 +2806,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 143822,
       "name": "Who\u2019s Got Time?",
       "url": "https://open.spotify.com/track/6rNIOIuVgJeftM3T0f0AVg"

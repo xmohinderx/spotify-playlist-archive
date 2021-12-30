@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9DmOVVVkdh.md) - [plain]
 
 > This story collection is sure to please even the biggest animal lover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,684 likes - 42 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,683 likes - 42 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

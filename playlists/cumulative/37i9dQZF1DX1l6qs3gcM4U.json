@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Acerta",
+        "url": "https://open.spotify.com/album/01XtjVLIMkMasJ6OJLYiSn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235244,
+      "name": "Acerta",
+      "url": "https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb"
+    },
+    {
+      "album": {
         "name": "Ado\u00e7o",
         "url": "https://open.spotify.com/album/3YUW6ZXd6useT4DogVHd6N"
       },
@@ -52,7 +74,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 183824,
       "name": "Ado\u00e7o",
       "url": "https://open.spotify.com/track/61MbzsETAezqjjsx15Lh5U"
@@ -74,6 +96,28 @@
       "duration_ms": 200940,
       "name": "Africana",
       "url": "https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT"
+    },
+    {
+      "album": {
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214353,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "album": {
@@ -113,6 +157,32 @@
     },
     {
       "album": {
+        "name": "Conex\u00f5es Angola & Brasil",
+        "url": "https://open.spotify.com/album/3DdYxPf8B8tsWQTDWuzrr2"
+      },
+      "artists": [
+        {
+          "name": "Helio Baiano",
+          "url": "https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB"
+        },
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        },
+        {
+          "name": "Itary",
+          "url": "https://open.spotify.com/artist/73JleuMWIuH1oUwF1bpd3w"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221136,
+      "name": "Beijei",
+      "url": "https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ"
+    },
+    {
+      "album": {
         "name": "Bela",
         "url": "https://open.spotify.com/album/6wYlnMmxyiCqrQqiW2fDtA"
       },
@@ -142,7 +212,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 291960,
       "name": "Belissima",
       "url": "https://open.spotify.com/track/720YR0UhybUYFQUU4ZAWwP"
@@ -164,10 +234,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 173844,
       "name": "Boda",
       "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
+    },
+    {
+      "album": {
+        "name": "Cada Detalhe Teu",
+        "url": "https://open.spotify.com/album/7LvYLQTaKMrhRZq2vrSn6G"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208562,
+      "name": "Cada Detalhe Teu",
+      "url": "https://open.spotify.com/track/2Vwgxwetkkc87mAcjM0rgw"
+    },
+    {
+      "album": {
+        "name": "Cara Trancada",
+        "url": "https://open.spotify.com/album/1K4ppTJiB80RfqNKA0B7rI"
+      },
+      "artists": [
+        {
+          "name": "KONSTANTINO",
+          "url": "https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "Cara Trancada",
+      "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
     },
     {
       "album": {
@@ -211,6 +317,60 @@
     },
     {
       "album": {
+        "name": "Cigana Linda",
+        "url": "https://open.spotify.com/album/0cuU1N758RKwWSrTFf2IvK"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218871,
+      "name": "Cigana Linda",
+      "url": "https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI"
+    },
+    {
+      "album": {
+        "name": "Comment vivre sans toi",
+        "url": "https://open.spotify.com/album/78MJrZeQPFSxILprjOulwB"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "Comment vivre sans toi",
+      "url": "https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk"
+    },
+    {
+      "album": {
+        "name": "Could've Been (Kizomba)",
+        "url": "https://open.spotify.com/album/6qIdA3p9mLWsRO9OQvKlgj"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270146,
+      "name": "Could've Been - Kizomba",
+      "url": "https://open.spotify.com/track/1F1EJj1aVtbeI0y0hcFtRh"
+    },
+    {
+      "album": {
         "name": "Cuiar Assim",
         "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
       },
@@ -248,6 +408,24 @@
       "duration_ms": 214492,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/7smOsCISsw5wc4UHBfq2Tb"
+    },
+    {
+      "album": {
+        "name": "Novelas",
+        "url": "https://open.spotify.com/album/4SgROO0cwGappbjyiztgHZ"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222928,
+      "name": "Desculpa",
+      "url": "https://open.spotify.com/track/5cw7KhORjRNFEP5Yyfs98O"
     },
     {
       "album": {
@@ -314,10 +492,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 165203,
       "name": "Dor d'um Kriolu",
       "url": "https://open.spotify.com/track/3oMBUqIQYJMsLdPcyCgdNo"
+    },
+    {
+      "album": {
+        "name": "Dpos D'Quarentena",
+        "url": "https://open.spotify.com/album/6CkuiZSgHAYVAM37aqdt7M"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174003,
+      "name": "Dpos D'Quarentena",
+      "url": "https://open.spotify.com/track/0ccb5rbfpzKAgfKmZNfzeN"
     },
     {
       "album": {
@@ -332,7 +528,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 174501,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/63advOBOXbhkDmNXVHlCvw"
@@ -350,7 +546,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 204531,
       "name": "Escola",
       "url": "https://open.spotify.com/track/1WpDYqttO9wySpUvvk9tXG"
@@ -379,6 +575,24 @@
     },
     {
       "album": {
+        "name": "Estragar o que Est\u00e1 Bom",
+        "url": "https://open.spotify.com/album/0pbURzL14oQNK9djUqAciy"
+      },
+      "artists": [
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180007,
+      "name": "Estragar o que Est\u00e1 Bom",
+      "url": "https://open.spotify.com/track/0TeztqSxQL0OdnYR3XQV1R"
+    },
+    {
+      "album": {
         "name": "Evil Tarraxo",
         "url": "https://open.spotify.com/album/5mB7ThxpT7RWg6k99XV4AU"
       },
@@ -398,10 +612,54 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 233145,
       "name": "Evil Tarraxo",
       "url": "https://open.spotify.com/track/4jEswQpBN1ju5ioo12w3YF"
+    },
+    {
+      "album": {
+        "name": "Exagerar",
+        "url": "https://open.spotify.com/album/6J7kWxePr4CNZNx7V4YzyE"
+      },
+      "artists": [
+        {
+          "name": "Djou Pi",
+          "url": "https://open.spotify.com/artist/7zoCFjOke0HUugBtUIQTMJ"
+        },
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Exagerar",
+      "url": "https://open.spotify.com/track/6WZuamKbhEv7uJnSPWtzAv"
+    },
+    {
+      "album": {
+        "name": "Faz De Mim",
+        "url": "https://open.spotify.com/album/1D0MX6LR1AcT4OckPFp8e4"
+      },
+      "artists": [
+        {
+          "name": "Bonif\u00e1cio Aurio",
+          "url": "https://open.spotify.com/artist/7kQhpoev6cS1UlSpx9Dl5f"
+        },
+        {
+          "name": "KONSTANTINO",
+          "url": "https://open.spotify.com/artist/4zdhRvYNGW2zd5f4yarhdJ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240612,
+      "name": "Faz De Mim",
+      "url": "https://open.spotify.com/track/76rfT1Ff6qXWnTiOWrj4BL"
     },
     {
       "album": {
@@ -420,6 +678,24 @@
       "duration_ms": 166000,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/362ZNrWuatoPVRTI7AEAzb"
+    },
+    {
+      "album": {
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202113,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
     },
     {
       "album": {
@@ -559,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Zolana",
+        "url": "https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234971,
+      "name": "Kuyuyu",
+      "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
+    },
+    {
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/46hdoSNACICzcXfEOsfFqi"
       },
@@ -574,7 +868,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 202516,
       "name": "Magia",
       "url": "https://open.spotify.com/track/7ISGcym2XbHCaIMAfN3OSl"
@@ -618,7 +912,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 244785,
       "name": "Malembe Malembe",
       "url": "https://open.spotify.com/track/5u2FrLHKEoKjUMguaffQ0t"
@@ -665,6 +959,42 @@
     },
     {
       "album": {
+        "name": "Meu Marido",
+        "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219218,
+      "name": "Meu Marido",
+      "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
+    },
+    {
+      "album": {
+        "name": "Bipolar - L\u00e1grimas",
+        "url": "https://open.spotify.com/album/0CizG5qdjlUBc1nf5tRTtF"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Milagre",
+      "url": "https://open.spotify.com/track/1tekQ79Ve4kYKdtApLu6wX"
+    },
+    {
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -698,7 +1028,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 200115,
       "name": "Na Bo Mon",
       "url": "https://open.spotify.com/track/0AePxcA9kgGpXBO91QJqc3"
@@ -720,7 +1050,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 218181,
       "name": "Na Via",
       "url": "https://open.spotify.com/track/0QUHa76fheJJ4dFetV2MhV"
@@ -822,7 +1152,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 244929,
       "name": "Nubian Queen",
       "url": "https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2"
@@ -1004,7 +1334,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 228217,
       "name": "Pra Cuiar Mais (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/2j1UBahUo1bbMu6rHC5GnE"
@@ -1052,7 +1382,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 273937,
       "name": "Presa",
       "url": "https://open.spotify.com/track/2pSOoP6FLJWeRBxdvhyvkJ"
@@ -1095,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Quem \u00c9 ?",
+        "url": "https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199219,
+      "name": "Quem \u00c9 ?",
+      "url": "https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY"
+    },
+    {
+      "album": {
         "name": "Newborn",
         "url": "https://open.spotify.com/album/2e4NJhy245HEz7npStshbg"
       },
@@ -1106,7 +1454,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 176477,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/6n2wC4XVCaSVpJMxBPrJMN"
@@ -1215,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Sinto Falta",
+        "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202397,
+      "name": "Sinto Falta",
+      "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
+    },
+    {
+      "album": {
         "name": "So Nos",
         "url": "https://open.spotify.com/album/79gYsZpsUqalrUuRL633ck"
       },
@@ -1226,10 +1592,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 201780,
       "name": "So Nos",
       "url": "https://open.spotify.com/track/1BYeVkjrSN7APBly0piieC"
+    },
+    {
+      "album": {
+        "name": "Aquarius EP",
+        "url": "https://open.spotify.com/album/6YX9gRuU594JQFyndoFXQt"
+      },
+      "artists": [
+        {
+          "name": "Denis Gra\u00e7a",
+          "url": "https://open.spotify.com/artist/1cT0pBQ6D82GzRBeoMiXkV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226363,
+      "name": "So Observo",
+      "url": "https://open.spotify.com/track/4DRvNUiiqMcAffIwUJ6iAl"
     },
     {
       "album": {
@@ -1328,7 +1712,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
@@ -1412,7 +1796,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 206290,
       "name": "Tudo por Amor",
       "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
@@ -1434,7 +1818,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 195408,
       "name": "UH",
       "url": "https://open.spotify.com/track/5LgphYNfWHIwIRUqNCWcOM"
@@ -1518,7 +1902,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 261407,
       "name": "Water",
       "url": "https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X"

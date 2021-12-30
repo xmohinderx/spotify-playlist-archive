@@ -522,7 +522,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 127400,
       "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
       "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 237931,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/5EWbjEQCRhU1l3zvEYucig"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 269418,
       "name": "everything i wanted - Recorded live at Abbey Road Studios, London",
       "url": "https://open.spotify.com/track/7AAMDhzVpaQi6kqjPXSkXi"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "High Horse",
       "url": "https://open.spotify.com/track/3gOkRSnm9jzoAQvLPvlvhB"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 262826,
       "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 211011,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3ThAExlMNs4A86hime1qNG"
@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
+    },
+    {
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/1dh2pFzrKtkLeuQ8uoMX0U"
       },
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 257306,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/4JPM6TuFJgccpoKLKmleDD"
@@ -2939,6 +2957,40 @@
     },
     {
       "album": {
+        "name": "TROLLS Holiday In Harmony",
+        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
+    },
+    {
+      "album": {
         "name": "Sings Kacey Musgraves",
         "url": "https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl"
       },
@@ -2950,7 +3002,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 217524,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR"
@@ -3062,7 +3114,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 183272,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF"
@@ -3218,7 +3270,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/3Jy394MtpM2xciRBTzxBlg"
@@ -3280,7 +3332,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
@@ -3722,7 +3774,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 222146,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy"
@@ -3794,7 +3846,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 266793,
       "name": "Why Georgia (RAWsession) [originally by John Mayer]",
       "url": "https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q"

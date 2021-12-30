@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Desecrate EP",
+        "url": "https://open.spotify.com/album/3SGeq0w2IngcxPkj7adHVD"
+      },
+      "artists": [
+        {
+          "name": "Gawm",
+          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150489,
+      "name": "Desecrate",
+      "url": "https://open.spotify.com/track/570FKlNY5Rw3oBYObR90je"
+    },
+    {
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/2Z2FA1PG9oa7LpxBZRXGBm"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 268800,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs"
@@ -568,7 +586,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 205480,
       "name": "Different Worlds",
       "url": "https://open.spotify.com/track/240IKl4yYUPjffy6x8Ym6z"
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/6SRtJnv0NAEIMRLYoCKgoP"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Jump Out",
       "url": "https://open.spotify.com/track/7oJfSplYb4omWhFM5ttmcf"
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 202736,
       "name": "KENKA",
       "url": "https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ"
@@ -2562,7 +2580,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 232137,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6ZT3s43kO7TpVJbrl6UREX"
@@ -2824,7 +2842,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 206400,
       "name": "Spark (with Dia Frampton)",
       "url": "https://open.spotify.com/track/6Xw4u2Jz9DIYUQ9KTCxoBU"
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 240705,
       "name": "Unlucky",
       "url": "https://open.spotify.com/track/0J1LHPRO4y7yDRFscEaOGk"
@@ -3442,7 +3460,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 256551,
       "name": "WITH U",
       "url": "https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW"

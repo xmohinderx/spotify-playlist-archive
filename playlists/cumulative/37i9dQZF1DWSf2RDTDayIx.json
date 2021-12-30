@@ -494,7 +494,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 195962,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/3Ku6ddOAjolofrpU0rwWBj"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 238264,
       "name": "Carry Us",
       "url": "https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 169538,
       "name": "Chucks",
       "url": "https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192786,
       "name": "Come Into My World (with NERVO)",
       "url": "https://open.spotify.com/track/4obdrS0MedggXXBHehsu9N"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 147096,
       "name": "Don't Wait Up",
       "url": "https://open.spotify.com/track/5r0yfDnWywWGSkYbWcnVM8"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 216770,
       "name": "Dopamine (feat. Eyelar)",
       "url": "https://open.spotify.com/track/62102D1yfhWdzW39Vj06FR"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 213387,
       "name": "Everything's Gonna Be Alright (feat. London Community Gospel Choir)",
       "url": "https://open.spotify.com/track/6e9zuRnA4Vsg3PO6I1CMte"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 245471,
       "name": "Feed The Fire (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR"
@@ -1332,6 +1332,24 @@
       "duration_ms": 219230,
       "name": "GOLDEN",
       "url": "https://open.spotify.com/track/6QWB8L8CgRGLxFi34PD382"
+    },
+    {
+      "album": {
+        "name": "Good Day Bad Day",
+        "url": "https://open.spotify.com/album/4wBJRggQfJF9Swtb9Y4qH6"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194886,
+      "name": "Good Day Bad Day",
+      "url": "https://open.spotify.com/track/2gvk0tcgT5cm97I1TWHAQa"
     },
     {
       "album": {
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 216875,
       "name": "Miami Love",
       "url": "https://open.spotify.com/track/53OEYbMYlGvqnS8aOko969"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 210820,
       "name": "Money Money",
       "url": "https://open.spotify.com/track/6G5FowwtZDxaRO5jf3l9rV"
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 234758,
       "name": "Most Precious Love",
       "url": "https://open.spotify.com/track/5EOLXVT47Ardn1lRWndbF4"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 189075,
       "name": "Self Care (with COIN)",
       "url": "https://open.spotify.com/track/3mvwfSbI3vM5mu7D9RDfFh"
@@ -3360,7 +3378,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 135865,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/1dBpg8a8jwAkaSbROiehr9"

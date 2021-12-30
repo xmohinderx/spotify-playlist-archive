@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 159973,
       "name": "Jingle Bells (feat. The Puppini Sisters)",
       "url": "https://open.spotify.com/track/5qXUIehZetSx94f6QNT88w"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 164080,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
@@ -867,6 +867,28 @@
     },
     {
       "album": {
+        "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters",
+        "url": "https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Poppa Santa Claus - Single Version",
+      "url": "https://open.spotify.com/track/3By2EZ4GEcaiLQRfyyf8vP"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/2BXwG5kAyv8nni947HldZT"
       },
@@ -918,6 +940,28 @@
       "duration_ms": 135760,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP"
+    },
+    {
+      "album": {
+        "name": "The Complete Decca Singles Vol. 4: 1950-1955",
+        "url": "https://open.spotify.com/album/4FkA8KBzq4EfkdxM0x00bV"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189497,
+      "name": "Santa Claus Got Stuck (In My Chimney)",
+      "url": "https://open.spotify.com/track/0ZgXBiDC9TW81HGVA0m7qz"
     },
     {
       "album": {

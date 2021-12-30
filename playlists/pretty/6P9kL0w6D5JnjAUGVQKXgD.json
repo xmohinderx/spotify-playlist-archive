@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
   "name": "EDM Top 100",
-  "num_followers": 48559,
+  "num_followers": 48558,
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA0OSw0MzU4NDIyOTc4OWMxY2I5NmUxYmY2YWNiYmUwMmE2ZjE5NWU1MGE5",
+  "snapshot_id": "MTA1MCwxNzEwNjVlNjM5M2E1MzIwMTM3NjFiYzU2NzhjMDY4ZjMxN2YzY2I1",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -621,6 +621,22 @@
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
+      "added_at": "2021-07-14 08:40:04",
+      "album": {
+        "name": "This Is House",
+        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
+      },
+      "artists": [
+        {
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "This Is House",
+      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
+    },
+    {
       "added_at": "2021-11-08 15:41:02",
       "album": {
         "name": "Bad Trip (feat. \u00d8ZMA)",
@@ -663,22 +679,6 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2021-07-14 08:40:04",
-      "album": {
-        "name": "This Is House",
-        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
-      },
-      "artists": [
-        {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "This Is House",
-      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
     },
     {
       "added_at": "2021-09-11 15:41:06",
@@ -777,6 +777,26 @@
       "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
     },
     {
+      "added_at": "2021-11-19 15:46:04",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
+    },
+    {
       "added_at": "2021-12-22 15:41:02",
       "album": {
         "name": "Morenita",
@@ -857,26 +877,6 @@
       "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
     },
     {
-      "added_at": "2021-12-01 15:42:03",
-      "album": {
-        "name": "Firestone",
-        "url": "https://open.spotify.com/album/4JVCsRgCU1j17JcNGdwXNw"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Conrad Sewell",
-          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
-        }
-      ],
-      "duration_ms": 273684,
-      "name": "Firestone",
-      "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
-    },
-    {
       "added_at": "2021-05-20 23:01:05",
       "album": {
         "name": "Music Is My Suicide",
@@ -901,10 +901,10 @@
       "url": "https://open.spotify.com/track/4ZOmpwhNsdiguAZjptcpBF"
     },
     {
-      "added_at": "2021-11-19 15:46:04",
+      "added_at": "2021-12-01 15:42:03",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+        "name": "Firestone",
+        "url": "https://open.spotify.com/album/4JVCsRgCU1j17JcNGdwXNw"
       },
       "artists": [
         {
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
         }
       ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
+      "duration_ms": 273684,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
     },
     {
       "added_at": "2021-10-18 15:41:06",

@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 180095,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 198511,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 192574,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 194666,
       "name": "Been Through That",
       "url": "https://open.spotify.com/track/2cZbLHnTKtdSYUsVYlrnSi"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 155454,
       "name": "Beluga v2 (feat. Berhana)",
       "url": "https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 237049,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "On A Virgo Mind",
+        "url": "https://open.spotify.com/album/09Uyj0lcbXUL2FzIiA3NSE"
+      },
+      "artists": [
+        {
+          "name": "McClenney",
+          "url": "https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170419,
+      "name": "call waiting",
+      "url": "https://open.spotify.com/track/7qUsTlk0PuRtkA3daJTMWf"
+    },
+    {
+      "album": {
         "name": "Candy Drip",
         "url": "https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV"
       },
@@ -662,7 +680,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 183947,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/6xszMomofJTQMICSVVNNDL"
@@ -738,7 +756,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 159053,
       "name": "Coffee Bean",
       "url": "https://open.spotify.com/track/5vELlkkfUGP2OJ32wqrMKa"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 160346,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/7ghQR7IEqOXnWu7qfHvw2W"
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 220290,
       "name": "Fellowship (Remix) ft. Ambr\u00e9 & Alex Isley",
       "url": "https://open.spotify.com/track/23quKa0BHCq8CKcoFKbHRL"
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 180575,
       "name": "Fiji Fine",
       "url": "https://open.spotify.com/track/3Q0S0vFNDJviYsMaeo4wIi"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 197675,
       "name": "Ghostin'",
       "url": "https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F"
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 137647,
       "name": "Golden pt. 2 (feat. Mereba)",
       "url": "https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz"
@@ -1355,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/1vCKYpbMa1kg52IoOiCtaM"
+      },
+      "artists": [
+        {
+          "name": "Shamiya Battles",
+          "url": "https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161186,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/3p9zEhikB0h8QF3YbfNUcM"
+    },
+    {
+      "album": {
         "name": "Gravity (feat. Tyler, The Creator)",
         "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
@@ -1392,7 +1428,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 225853,
       "name": "Greed",
       "url": "https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z"
@@ -1410,7 +1446,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 196596,
       "name": "HEADLINE",
       "url": "https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn"
@@ -1432,7 +1468,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 193533,
       "name": "Heart Storm (with NAO)",
       "url": "https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t"
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 186368,
       "name": "Intruded",
       "url": "https://open.spotify.com/track/0sWSdNGH0bsD3NqjXvSacf"
@@ -1640,7 +1676,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 209226,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl"
@@ -1770,7 +1806,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 194415,
       "name": "Magazines",
       "url": "https://open.spotify.com/track/6I9gDbfmE9hmHHWQVmvkGZ"
@@ -1810,7 +1846,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 186506,
       "name": "Mask Off (Feelings)",
       "url": "https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl"
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 238260,
       "name": "mine",
       "url": "https://open.spotify.com/track/11Alrz5mSQvQNt6VYtCh4t"
@@ -2100,7 +2136,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 188280,
       "name": "my slime",
       "url": "https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6"
@@ -2260,7 +2296,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 179407,
       "name": "NTWFL",
       "url": "https://open.spotify.com/track/5os9QmT7EZmtPBBypqB42g"
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 210400,
       "name": "Pine",
       "url": "https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f"
@@ -2438,7 +2474,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 155573,
       "name": "Raindrops (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY"
@@ -2510,7 +2546,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 212415,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2I8ShBtMUKGgjZjgoV8ell"
@@ -2608,7 +2644,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 146304,
       "name": "royal flush",
       "url": "https://open.spotify.com/track/7bNbfwfW69j5vNmJ1JvNqi"
@@ -2626,7 +2662,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 171568,
       "name": "RUBBER BANDS",
       "url": "https://open.spotify.com/track/4Ui0mQgS3pDEjFXmDnBo24"
@@ -2960,7 +2996,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 588139,
       "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
@@ -3138,7 +3174,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 187951,
       "name": "Touch Me (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
@@ -3232,7 +3268,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 184906,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
@@ -3298,7 +3334,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"

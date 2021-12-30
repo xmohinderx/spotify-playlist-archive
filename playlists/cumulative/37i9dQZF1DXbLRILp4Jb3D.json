@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 186466,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/0ghEk3N94LCRv1BbdIi0N6"
@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152013,
+      "name": "El Piojo y la Pulga",
+      "url": "https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA"
+    },
+    {
+      "album": {
         "name": "Conciencia Musical para Ni\u00f1os",
         "url": "https://open.spotify.com/album/6ufal3clyi5V10KiAqFmTe"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 121813,
       "name": "En la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/6tmCiEf2w2Dz4vsDIoQRKX"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 227120,
       "name": "La Bella Y La Bestia",
       "url": "https://open.spotify.com/track/0iWWDZBPji1gS2hfFtvcRD"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 173546,
       "name": "M\u00e1s feliz",
       "url": "https://open.spotify.com/track/5cR6UA26Lmrifs0qKxwpof"
@@ -639,6 +657,46 @@
     },
     {
       "album": {
+        "name": "Ag\u00fcita de Lim\u00f3n Con Ch\u00eda",
+        "url": "https://open.spotify.com/album/5hd7XnjV5mYGkZZlMFrpWx"
+      },
+      "artists": [
+        {
+          "name": "Mariana Mallol",
+          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
+        },
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154640,
+      "name": "Sin Miedo",
+      "url": "https://open.spotify.com/track/3pKJorxzBf2Mad3wfm8iGY"
+    },
+    {
+      "album": {
+        "name": "Marc Anthony For Babies",
+        "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony For Babies",
+          "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292440,
+      "name": "Tu Amor Me Hace Bien",
+      "url": "https://open.spotify.com/track/0emtVBWAk55CUfzJQ5MWRE"
+    },
+    {
+      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -726,7 +784,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 255000,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4"

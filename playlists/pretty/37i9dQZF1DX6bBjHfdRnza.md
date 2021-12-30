@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Top 100 tracks from Fresh Finds: Dance in 2021\. Cover: Barry Can't Swim, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,113 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,297 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

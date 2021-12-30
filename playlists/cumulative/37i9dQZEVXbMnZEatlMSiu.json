@@ -723,6 +723,28 @@
     },
     {
       "album": {
+        "name": "DEATH TRIP",
+        "url": "https://open.spotify.com/album/3n4hIndd4ApUv0FUG2KbLO"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        },
+        {
+          "name": "Soft Lipa",
+          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222687,
+      "name": "DEATH TRIP",
+      "url": "https://open.spotify.com/track/77nvm4SGjSDyAjdBpBCxuO"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -4332,7 +4354,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 278677,
       "name": "\u600e\u9ebc\u5fd8\u8a18\u4e86\u4f60 (feat.\u9b4f\u5982\u6600)",
       "url": "https://open.spotify.com/track/4a1lAgW1N5l2LJT5oInbRc"
@@ -5350,7 +5372,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "\u842c\u5343\u82b1\u854a\u6148\u6bcd\u60b2\u54c0",
       "url": "https://open.spotify.com/track/5Wyq70ysHQp0jaMhPKrza4"
@@ -5734,7 +5756,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 285000,
       "name": "\u9589\u4e0a\u773c\u775b\u6703\u60f3\u8d77\u7684\u4eba (\u96fb\u5f71\u300a\u4e00\u676f\u71b1\u5976\u8336\u7684\u7b49\u5f85\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI"

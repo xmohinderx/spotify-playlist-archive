@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Living Room",
+        "url": "https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325000,
+      "name": "Almost Grown",
+      "url": "https://open.spotify.com/track/5lTPGDWxdEKVRc4gKpUPmg"
+    },
+    {
+      "album": {
         "name": "Weed Garden",
         "url": "https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 111710,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx"
@@ -150,7 +168,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 199090,
       "name": "Butterflies (feat. Samuel Choi)",
       "url": "https://open.spotify.com/track/2KWUaIx78CzNbx6xR9VrLd"
@@ -168,7 +186,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 205656,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0suTkdTp0b4TJ74WXBavVq"
@@ -204,7 +222,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 217519,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/67abo3o0GemMBmypVt6A92"
@@ -222,7 +240,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 201706,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/6FNOTA9gcK03rocm5fYTL5"
@@ -240,7 +258,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/4If5wEl5u76l2FcrGNE5AE"
@@ -280,6 +298,24 @@
       "duration_ms": 170434,
       "name": "Cross My Mind",
       "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
+    },
+    {
+      "album": {
+        "name": "Unsettled",
+        "url": "https://open.spotify.com/album/5K7ifZ9QwmOqLTvIKX4fGm"
+      },
+      "artists": [
+        {
+          "name": "Lola Jane",
+          "url": "https://open.spotify.com/artist/71TkfNLSDuL1j8mU6gJBZW"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "Dear...",
+      "url": "https://open.spotify.com/track/2xoEhOh8J9tIPA0uFutXkB"
     },
     {
       "album": {
@@ -370,7 +406,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 211677,
       "name": "for life",
       "url": "https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy"
@@ -424,7 +460,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
@@ -464,7 +500,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 134742,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/7AoCNArsiCSt4vr2dqAjJx"
@@ -590,7 +626,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 231654,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/5ufN0FRT3UQXRSq0Ibhbv6"
@@ -890,7 +926,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
@@ -1002,7 +1038,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 252853,
       "name": "My Life",
       "url": "https://open.spotify.com/track/2hPY2x0M6k8pQiBxeCzD5T"
@@ -1020,7 +1056,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
@@ -1280,7 +1316,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 163586,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/2ZIbiTRemxHiYAPg0UqoLY"
@@ -1410,7 +1446,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 300295,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K"
@@ -1446,7 +1482,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 227027,
       "name": "Stupid Me",
       "url": "https://open.spotify.com/track/2YlCAofl2PplOmHSZQRTLk"
@@ -1540,7 +1576,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
@@ -1652,7 +1688,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 201053,
       "name": "We Were Never Friends",
       "url": "https://open.spotify.com/track/0txG3MJ2CO3031axdnyyTD"

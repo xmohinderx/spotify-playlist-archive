@@ -710,7 +710,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -6252,6 +6252,24 @@
       "duration_ms": 159146,
       "name": "Tipo Gin - Ao Vivo",
       "url": "https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S"
+    },
+    {
+      "album": {
+        "name": "Tirar Bilhete",
+        "url": "https://open.spotify.com/album/1LARFxMfvrS6hr8F2sA3uG"
+      },
+      "artists": [
+        {
+          "name": "Plut\u00f3nio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185254,
+      "name": "Tirar Bilhete",
+      "url": "https://open.spotify.com/track/3lq7iyMDvegqcMcSi3qAlI"
     },
     {
       "album": {

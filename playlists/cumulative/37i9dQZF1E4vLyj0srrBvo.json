@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Alice Glass, Purity Ring, Kilo Kish and more",
+  "description": "With Ariel Pink, Shygirl, Caroline Polachek and more",
   "name": "Grimes Radio",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2020-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 261946,
       "name": "A Lot's Gonna Change",
       "url": "https://open.spotify.com/track/5qspeKX1xBacLJMm2t3Yc0"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2020-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 251440,
       "name": "Baptism",
       "url": "https://open.spotify.com/track/1Ow9ZsMYJ1XmaXmUeKYJGT"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2021-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 260413,
       "name": "Be a Body",
       "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2020-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 164253,
       "name": "BODY/PRISON",
       "url": "https://open.spotify.com/track/4pYuPkr13zQbrrDChQrfQs"
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-06",
+      "date_removed": null,
       "duration_ms": 145654,
       "name": "Caladan",
       "url": "https://open.spotify.com/track/5VtrilMNGhibqhCpzzi6S1"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 228400,
       "name": "Celestica",
       "url": "https://open.spotify.com/track/5QmolkpuE6IfPdr7j2MGn5"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 190990,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5VQJSlO979CuYLiu8zyHtT"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 151866,
       "name": "Daddy AF",
       "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 224109,
       "name": "Darkseid",
       "url": "https://open.spotify.com/track/0TlBuH1azntROo6SCNe3Kb"
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 237480,
       "name": "Delete Forever",
       "url": "https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej"
@@ -2532,7 +2532,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 230270,
       "name": "Delicate Weapon",
       "url": "https://open.spotify.com/track/1hT3eaGzrcFriQtgGdvsZv"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 183078,
       "name": "Easily",
       "url": "https://open.spotify.com/track/6NEyZ1rdMgO90cZ7U4UjO5"
@@ -3117,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "FAIR GAME",
+        "url": "https://open.spotify.com/album/30CZtMCeKytiLQ0J6XfYmY"
+      },
+      "artists": [
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "FAIR GAME",
+      "url": "https://open.spotify.com/track/0xcEqifa3OUHuM49wOdTRP"
+    },
+    {
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR"
       },
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 223226,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5UKj2UGT4AMc1GMLk5S5sw"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 238960,
       "name": "fallen alien",
       "url": "https://open.spotify.com/track/2uZkWDubNphtNJxUbvCLd7"
@@ -3272,7 +3290,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192080,
       "name": "Feel It All Around",
       "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
@@ -3344,7 +3362,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 209760,
       "name": "Fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
@@ -3650,7 +3668,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 223236,
       "name": "Girls Just Wanna Have Some",
       "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
@@ -3730,7 +3748,7 @@
       ],
       "date_added": "2021-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 240759,
       "name": "Go",
       "url": "https://open.spotify.com/track/6U6UC3Xg5ukTBQIy245bAo"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 252920,
       "name": "Hard To Say Goodbye",
       "url": "https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq"
@@ -3914,7 +3932,7 @@
       ],
       "date_added": "2020-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 231853,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
@@ -3932,7 +3950,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 173026,
       "name": "Heavy Water/I'd Rather Be Sleeping",
       "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
@@ -3986,7 +4004,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 248706,
       "name": "Hey Moon",
       "url": "https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq"
@@ -4222,7 +4240,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 250615,
       "name": "I Don't Want It At All",
       "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
@@ -4258,7 +4276,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 74725,
       "name": "I Wanna C U",
       "url": "https://open.spotify.com/track/4BD3sl4HjTAzWGVIP8LLm4"
@@ -4294,7 +4312,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 245133,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/04sx4DemzEp9Dzopqge2QX"
@@ -4384,7 +4402,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 307400,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV"
@@ -4658,7 +4676,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 176346,
       "name": "Jackie",
       "url": "https://open.spotify.com/track/1tEePg2AqDdRWLgYovr3yE"
@@ -4730,7 +4748,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 146413,
       "name": "Just Wait Til Next Year",
       "url": "https://open.spotify.com/track/7uTG1u7UjDRZe0wEcDR2Xj"
@@ -4748,7 +4766,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 305506,
       "name": "Kerosene!",
       "url": "https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ"
@@ -5174,7 +5192,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-21",
+      "date_removed": null,
       "duration_ms": 196764,
       "name": "Liquorice",
       "url": "https://open.spotify.com/track/3LmlegS3av5opwiIMVDbgI"
@@ -5546,7 +5564,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 197757,
       "name": "Man To Man",
       "url": "https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo"
@@ -5730,7 +5748,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 181173,
       "name": "Mercurial World",
       "url": "https://open.spotify.com/track/30YK7cZlruEW0Clyxwk2nH"
@@ -5892,7 +5910,7 @@
       ],
       "date_added": "2020-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 353732,
       "name": "Movies",
       "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
@@ -6188,7 +6206,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 246733,
       "name": "NICE OUT",
       "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
@@ -6210,7 +6228,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 238293,
       "name": "Nightmusic",
       "url": "https://open.spotify.com/track/1KIb20Sgqg4XiRIPaEBwDv"
@@ -6384,7 +6402,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 184746,
       "name": "Official",
       "url": "https://open.spotify.com/track/38ybr0LS9XLUcqg8Yo62Wj"
@@ -6496,7 +6514,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 217298,
       "name": "Ordinary Guy (feat. The Mattson 2)",
       "url": "https://open.spotify.com/track/3NXLWgZATF6TFYP70dEfcA"
@@ -6550,7 +6568,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 160169,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA"
@@ -6670,7 +6688,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 213937,
       "name": "Pang",
       "url": "https://open.spotify.com/track/5bcJwBywjaz78KTf374PCb"
@@ -6930,7 +6948,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 185278,
       "name": "Play Destroy",
       "url": "https://open.spotify.com/track/3X3FzrA32EbYvu3n3526w4"
@@ -7312,7 +7330,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 106102,
       "name": "Romanticist",
       "url": "https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY"
@@ -7366,7 +7384,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 253108,
       "name": "Rose Quartz",
       "url": "https://open.spotify.com/track/0u1yF7JbPlDjqWUKZk4FaR"
@@ -7402,7 +7420,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-14",
+      "date_removed": null,
       "duration_ms": 308680,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6"
@@ -7608,7 +7626,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 245897,
       "name": "Secrets (Your Fire)",
       "url": "https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb"
@@ -7684,7 +7702,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 224527,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
@@ -7846,7 +7864,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 165329,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/13yxz52EwElyue9PLrqcZY"
@@ -8298,7 +8316,7 @@
       ],
       "date_added": "2020-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 203994,
       "name": "STFU!",
       "url": "https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw"
@@ -8320,7 +8338,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 232876,
       "name": "Stupid Boy (feat. Big Freedia)",
       "url": "https://open.spotify.com/track/56P7blUafQK9P8LKda9Y6P"
@@ -8356,7 +8374,7 @@
       ],
       "date_added": "2020-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-17",
+      "date_removed": null,
       "duration_ms": 229026,
       "name": "Super Duper Party People",
       "url": "https://open.spotify.com/track/7ktS8xxspFseXxQecbg5Ll"
@@ -8504,7 +8522,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 348440,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg"
@@ -8774,7 +8792,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 255851,
       "name": "Time to Walk Away",
       "url": "https://open.spotify.com/track/01AbB47Hm60LTIStyzMb2g"
@@ -8810,7 +8828,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 138630,
       "name": "Tiro",
       "url": "https://open.spotify.com/track/0TcbMBsLnhquWjhsxIN1BW"
@@ -8918,7 +8936,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 184760,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH"
@@ -8936,7 +8954,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 241632,
       "name": "Troubled Paradise",
       "url": "https://open.spotify.com/track/30qNNWs5kUgcviZxOrQRTo"
@@ -9070,7 +9088,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 232933,
       "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
       "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
@@ -9200,7 +9218,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 225734,
       "name": "Venus Fly",
       "url": "https://open.spotify.com/track/1QxbBB80IuPwhwW1ygGfPh"
@@ -9244,7 +9262,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 252115,
       "name": "Violence - Club Mix",
       "url": "https://open.spotify.com/track/57HNTVH3qpDVOGEzFB1dda"
@@ -9730,7 +9748,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 174483,
       "name": "X",
       "url": "https://open.spotify.com/track/2W2QiVQs0TugOUUYWgnV8E"
@@ -9770,7 +9788,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 219506,
       "name": "You Don\u2019t Get Me High Anymore",
       "url": "https://open.spotify.com/track/3gkSQbWTDBh0ZKq85WmJDz"
@@ -9788,7 +9806,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 204391,
       "name": "You Lose!",
       "url": "https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp"

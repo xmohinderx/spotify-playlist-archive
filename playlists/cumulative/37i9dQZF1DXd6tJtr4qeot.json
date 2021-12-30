@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Cheshire Cat",
+        "url": "https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
+    },
+    {
+      "album": {
         "name": "Off The Leash",
         "url": "https://open.spotify.com/album/3nIof6pCfhhWAmK8LykMJ1"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 194453,
       "name": "Chip",
       "url": "https://open.spotify.com/track/2SnZayZg4eTZ4592TmK6CN"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 133293,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2XTggG0CO00DkQy3U9rj1e"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 230640,
       "name": "Drunken Lullabies",
       "url": "https://open.spotify.com/track/3nhJpxZXEQTsZwrDUihXQf"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/6YjciGk65aCrZAXjaQVG6C"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 184840,
       "name": "I Don't Wanna Be An Asshole Anymore",
       "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
@@ -545,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Everything Sucks",
+        "url": "https://open.spotify.com/album/3rTW8Hvrgq0QV8EKsWYQ56"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135133,
+      "name": "I'm The One",
+      "url": "https://open.spotify.com/track/4d9LC9QoGja5M3en0HWUq1"
+    },
+    {
+      "album": {
         "name": "Home From Home",
         "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
@@ -556,7 +592,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 206080,
       "name": "Kemp",
       "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
@@ -574,7 +610,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 200786,
       "name": "Lean On Sheena",
       "url": "https://open.spotify.com/track/7IR7GUO0dUyUsBp7BfQ3vJ"
@@ -646,7 +682,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 173493,
       "name": "Mexican Radio",
       "url": "https://open.spotify.com/track/6mFRfprP5OTvr82GzGhHXJ"
@@ -718,7 +754,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 160893,
       "name": "My Girlfriend's Dead",
       "url": "https://open.spotify.com/track/2JzI278tX8YUCelGMZjPO8"
@@ -934,7 +970,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "She's Got The Look",
       "url": "https://open.spotify.com/track/0IPpDL2ZVlARtmACSzsXlc"
@@ -952,7 +988,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 110826,
       "name": "Skate Or Die",
       "url": "https://open.spotify.com/track/174t68Pnn9wb1UgM7fCRmY"
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 254200,
       "name": "Thrash Unreal",
       "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 150293,
       "name": "True Believers",
       "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"
@@ -1204,7 +1240,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"

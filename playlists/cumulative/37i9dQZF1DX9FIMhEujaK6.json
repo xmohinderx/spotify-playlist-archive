@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 336885,
       "name": "Burnt Orange",
       "url": "https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 240000,
       "name": "Close",
       "url": "https://open.spotify.com/track/7AfdVEahsy8xQDrtJ28Z28"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 218120,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/58wBsn1tDEgUzgLu5wqI8E"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 276506,
       "name": "Feels Like This",
       "url": "https://open.spotify.com/track/35Tg9pIOjlr5P5ze87COLT"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 312915,
       "name": "Heatwave - Original Mix",
       "url": "https://open.spotify.com/track/6iccdEeAj5VRj9sxGktXpr"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 308877,
       "name": "Holding You",
       "url": "https://open.spotify.com/track/5XkXjjM3TCqi6k1N4vSH2G"
@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/0z6AGDemMBYhvKzkgw7c9J"
+      },
+      "artists": [
+        {
+          "name": "Sam Goku",
+          "url": "https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523223,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/4sSYEvtIDlWsFv7og6gWce"
+    },
+    {
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/2uwQGLZKdEHJMfEYgPTlZ3"
       },
@@ -968,7 +986,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 304660,
       "name": "Nocturnal Lady",
       "url": "https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 333653,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM"
@@ -1062,7 +1080,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 252803,
       "name": "Pithy",
       "url": "https://open.spotify.com/track/7uPiExBiGuH8ocfFezmWuM"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 246065,
       "name": "The Message",
       "url": "https://open.spotify.com/track/3HszkoBsOy2VLTcznQ64qR"
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 351080,
       "name": "Together",
       "url": "https://open.spotify.com/track/0fMK1HCL3szYzYyIpIfn9E"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 250430,
       "name": "Tom's Bar",
       "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 177534,
       "name": "Unearth",
       "url": "https://open.spotify.com/track/1WOT5mxOjnf2HBKQN4Zmop"

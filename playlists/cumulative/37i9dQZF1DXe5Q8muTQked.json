@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 260040,
       "name": "A Song for You",
       "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
@@ -110,6 +110,24 @@
       "duration_ms": 227064,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/3bRyDv7psns9UXFqVSHjhL"
+    },
+    {
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/2IcmfT1b5m1wWrJI1ZVAUa"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251760,
+      "name": "All the Best",
+      "url": "https://open.spotify.com/track/2qlPUVwqf40yTNzNhZExIE"
     },
     {
       "album": {
@@ -376,7 +394,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 245053,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT"
@@ -448,7 +466,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 183857,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/6ceHZRSLwsZoJsAoeP4zz1"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 175615,
       "name": "Boom Clap",
       "url": "https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 241193,
       "name": "Brass in Pocket",
       "url": "https://open.spotify.com/track/1NUpIqsrU4UBxNvmeznDQK"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
@@ -708,7 +726,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 193946,
       "name": "Can't Help Falling In Love - Recorded Live at Daytrotter",
       "url": "https://open.spotify.com/track/5GBWQszdw6PtAN0Negzut6"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 220288,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/1CnS2tWH47p4qFd3D3H261"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 246093,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/3EJaUuGn4gtGa7u0vswTGv"
@@ -888,7 +906,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 223173,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV"
@@ -924,7 +942,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 131440,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4d0CFrVqgqmw5qZxouAad0"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 227500,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 208234,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/4OjY3fZTuzTMUzd8txpOcJ"
@@ -1198,6 +1216,24 @@
       "duration_ms": 222106,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/3fRMhYmj4LTX6qh0SiBq0w"
+    },
+    {
+      "album": {
+        "name": "She Will Have Her Way - The Songs Of Tim & Neil Finn",
+        "url": "https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Blasko",
+          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/0OUWImDyxZMP0myhpiwQpo"
     },
     {
       "album": {
@@ -1476,7 +1512,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 222741,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/1JiHcWvhF1CKccD8H3oiFm"
@@ -1494,7 +1530,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 265687,
       "name": "Everything Is Free - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx"
@@ -1512,7 +1548,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 274185,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/05CQBqtPTeNq33iNe8Ref3"
@@ -1548,7 +1584,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 271386,
       "name": "Fall At Your Feet",
       "url": "https://open.spotify.com/track/4HopuG8wQBlvXQ6xwA79FG"
@@ -1650,7 +1686,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 240566,
       "name": "Fight Song",
       "url": "https://open.spotify.com/track/1e7HQG3E9nsK5JiwsHtVdu"
@@ -1748,7 +1784,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 160160,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/4B1oEy7m2dl1osmBE6L3AE"
@@ -1802,7 +1838,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 191333,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/3pTjdUeogTd4xIOMpYwxJi"
@@ -1900,7 +1936,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 243804,
       "name": "Girl Crush - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8"
@@ -1954,7 +1990,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 215062,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/15F2UPxCIGHNoi8DK23eaf"
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 101026,
       "name": "Golden Slumbers",
       "url": "https://open.spotify.com/track/5biwmu0S2C3wQUbKjJ6VrM"
@@ -2120,7 +2156,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 278611,
       "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
@@ -2174,7 +2210,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 230225,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
@@ -2232,7 +2268,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 238360,
       "name": "Here Comes The Sun (feat. dodie)",
       "url": "https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK"
@@ -2290,7 +2326,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 271573,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
@@ -2504,7 +2540,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 380866,
       "name": "I Believe in You (Afternoon Rehearsal) - Rehearsal Performance at Madison Square Garden, New York, NY - October 1992",
       "url": "https://open.spotify.com/track/0kLBqQUEnI4PaqHu7OcElj"
@@ -2576,7 +2612,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 192639,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
@@ -2906,7 +2942,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 179160,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6ip0gPo3JlemCTjXNyv4Vl"
@@ -2942,7 +2978,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 203306,
       "name": "If I Fell - Acoustic",
       "url": "https://open.spotify.com/track/1M0i7gzsHulM28i7dgE32t"
@@ -3238,7 +3274,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 242280,
       "name": "Just Breathe (feat. Lukas Nelson)",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
@@ -3346,7 +3382,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 228480,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
@@ -3454,7 +3490,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 172149,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/5fa6CrQwHwthEoCvTtd5Ig"
@@ -3822,7 +3858,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 149173,
       "name": "Maps - Single Version",
       "url": "https://open.spotify.com/track/0pqU55UfyCSLyTFHjdYqQP"
@@ -3942,7 +3978,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 210914,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/7FU341yLQyBaWMWHk4hxuR"
@@ -4036,7 +4072,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 198500,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/7lCzEKcxTwvRlAT2hOwBIp"
@@ -4098,7 +4134,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 249440,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/3Vp1ShzJnzjtMbGucz0c16"
@@ -4116,7 +4152,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 192793,
       "name": "Nobody 'Cept You",
       "url": "https://open.spotify.com/track/6Q51bhCC3buPPpFps0yOdz"
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 272001,
       "name": "Ode to My Family",
       "url": "https://open.spotify.com/track/7aVmUCeBxzfyqqKwFyrYux"
@@ -4250,7 +4286,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 229845,
       "name": "Out of the Woods (Acoustic) [feat. Jake Coco]",
       "url": "https://open.spotify.com/track/7zPRddWOwc5yH7ugaT6lpP"
@@ -4304,7 +4340,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 218760,
       "name": "Perfect Places - Live From BBC Radio 2",
       "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
@@ -4384,7 +4420,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 367333,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
@@ -4666,7 +4702,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
@@ -4684,7 +4720,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 293466,
       "name": "Simple Twist Of Fate",
       "url": "https://open.spotify.com/track/7bKJtDh41HViUzl3Hthc3U"
@@ -4702,7 +4738,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
@@ -4868,7 +4904,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 192770,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7GgfdituLOQ7pCA7Klexyj"
@@ -5038,7 +5074,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 235466,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/6tXrb9kJTmgGOZqpq1powO"
@@ -5262,7 +5298,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 205786,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M"
@@ -5280,7 +5316,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 243209,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5wSvem3XjbOc9fRxAVtCV4"
@@ -5298,7 +5334,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 189799,
       "name": "The Partisan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
@@ -5316,7 +5352,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 206796,
       "name": "The Safety Dance",
       "url": "https://open.spotify.com/track/4vLryDdvtjFg1Buitj696E"
@@ -5370,7 +5406,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 220621,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/5VYafNKWKEbNr2BsYoABDo"
@@ -5392,10 +5428,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/6nRenEga4WTc8Da7kigrBO"
+    },
+    {
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133506,
+      "name": "Till There Was You - Remastered 2009",
+      "url": "https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm"
     },
     {
       "album": {
@@ -5576,7 +5630,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 190400,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2ArKgz2x8fL8z2KeYXlgLX"
@@ -5638,7 +5692,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 181359,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/1HzvUIPRlPvu2azFG8MbwT"
@@ -5786,7 +5840,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 186000,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/11OAeshF0YfaeckhW3iKpk"
@@ -5898,7 +5952,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 208663,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/6DShJaoYtJeepxw7HLdSdt"
@@ -5920,7 +5974,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 274931,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl"
@@ -5956,7 +6010,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 211626,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/5YQdjvqe9fCrrkbU6BPtjQ"
@@ -6010,7 +6064,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 331373,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK"
@@ -6118,10 +6172,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 297112,
       "name": "Wonderful (Recorded Live at Kcsn, Los Angeles)",
       "url": "https://open.spotify.com/track/6MdAwOYUTYDTOv0kb10Oq7"
+    },
+    {
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/6v5VheA381OPWwqRt0E9mm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248280,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/7m2VsHmjyXZegtndWPgxOw"
     },
     {
       "album": {
@@ -6162,7 +6234,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 213750,
       "name": "Wrecking Ball - Acoustic",
       "url": "https://open.spotify.com/track/6qjfaap6n00ayRLpKRitPE"
@@ -6278,7 +6350,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 131186,
       "name": "Yesterday - The Voice Performance",
       "url": "https://open.spotify.com/track/1vwS6VySlFAoxGIlz8Lgz6"
@@ -6394,7 +6466,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 201160,
       "name": "You Turn Me On, I'm A Radio",
       "url": "https://open.spotify.com/track/2TUSsSw38J1S1BHI78XMYT"
@@ -6484,7 +6556,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 202657,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5F0oU6oawDaAdNAaRX0I8z"

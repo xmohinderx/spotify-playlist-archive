@@ -432,7 +432,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 277266,
       "name": "Enghave Lys (Reimagined by Alex Somers)",
       "url": "https://open.spotify.com/track/3fub1SpvG7w6JzIiuq72Lw"
@@ -458,6 +458,24 @@
       "duration_ms": 267330,
       "name": "Escape - Hania Rani Remix",
       "url": "https://open.spotify.com/track/6MpiBJNEoqRTLVapGwvgSc"
+    },
+    {
+      "album": {
+        "name": "Entanglement",
+        "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
+      },
+      "artists": [
+        {
+          "name": "Rooydad",
+          "url": "https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Everything in Life is Vibration",
+      "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
     },
     {
       "album": {
@@ -508,10 +526,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 282760,
       "name": "Fastelavn",
       "url": "https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn"
+    },
+    {
+      "album": {
+        "name": "Finding solace in the stars",
+        "url": "https://open.spotify.com/album/17twwmQ7sZhUQ4rG5Eg71h"
+      },
+      "artists": [
+        {
+          "name": "Nsee",
+          "url": "https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm"
+        },
+        {
+          "name": "VOISART",
+          "url": "https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178317,
+      "name": "Finding solace in the stars",
+      "url": "https://open.spotify.com/track/3RF3QEGZwyQFHl6KICwnN5"
     },
     {
       "album": {
@@ -552,7 +592,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 238223,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
@@ -1501,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Scott and Kate Part 2",
+        "url": "https://open.spotify.com/album/6YcckpMztmNbdEIvFblBRu"
+      },
+      "artists": [
+        {
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169898,
+      "name": "Scott and Kate Part 2",
+      "url": "https://open.spotify.com/track/3MLo3dIZ3iy6ZCjifr6q0D"
+    },
+    {
+      "album": {
         "name": "Post-Svalbard",
         "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
       },
@@ -1708,7 +1766,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 233386,
       "name": "Until I Fall",
       "url": "https://open.spotify.com/track/21rJ7124q6HabUFNXJTN7x"
@@ -1832,7 +1890,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 256000,
       "name": "Where the Time Went",
       "url": "https://open.spotify.com/track/7aOIhjNkj1zeFOkRuLsGXF"

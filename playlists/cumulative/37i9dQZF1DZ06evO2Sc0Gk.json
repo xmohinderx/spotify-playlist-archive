@@ -997,6 +997,36 @@
     },
     {
       "album": {
+        "name": "LionHeart",
+        "url": "https://open.spotify.com/album/4Ylt64ChFosTnOL1VrD1rn"
+      },
+      "artists": [
+        {
+          "name": "Geko",
+          "url": "https://open.spotify.com/artist/5vfmmb3UHpuQWJ55JP9slk"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Eugy",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240080,
+      "name": "Right Here (feat. Mr Eazi, Maleek Berry & Eugy)",
+      "url": "https://open.spotify.com/track/0xNbSPzZGrGZ6EqiT1R4Yj"
+    },
+    {
+      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
       },
@@ -1130,7 +1160,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 179750,
       "name": "Tall Shade",
       "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"

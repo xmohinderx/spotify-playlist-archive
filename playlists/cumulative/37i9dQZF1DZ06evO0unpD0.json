@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 283520,
       "name": "Baba",
       "url": "https://open.spotify.com/track/2NE2p5hRU0ICJP7tOvbUPN"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 462160,
       "name": "Gaffou",
       "url": "https://open.spotify.com/track/3j1VHaFQzIf84NqQxWQTHD"
@@ -350,6 +350,24 @@
       "duration_ms": 245973,
       "name": "Kalabancoro",
       "url": "https://open.spotify.com/track/0nj4U1atLpsFiimJSZu7Qq"
+    },
+    {
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Karifa",
+      "url": "https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP"
     },
     {
       "album": {
@@ -769,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Souvent",
+      "url": "https://open.spotify.com/track/7pTBsCyeQ5fIt4u7e0aAaH"
+    },
+    {
+      "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
       },
@@ -834,7 +870,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 330240,
       "name": "Tono",
       "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
@@ -874,6 +910,24 @@
       "duration_ms": 349933,
       "name": "Tu Vas Me Manquer",
       "url": "https://open.spotify.com/track/5f1cJCTLgiXHNzB1bkxSUJ"
+    },
+    {
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285866,
+      "name": "Wamba",
+      "url": "https://open.spotify.com/track/4Mr2YyX1Sk0vSJlOwOoQ5J"
     },
     {
       "album": {

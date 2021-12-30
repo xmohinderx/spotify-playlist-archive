@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 408189,
       "name": "Ali Ben Hamdouch",
       "url": "https://open.spotify.com/track/6n2yPHqYi8k5mR8sUhTqJ4"
@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Gnawa Fusion, Vol. 1",
+        "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
+      },
+      "artists": [
+        {
+          "name": "Hamid El Gnawi",
+          "url": "https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254275,
+      "name": "Baba Al Arabi",
+      "url": "https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72"
+    },
+    {
+      "album": {
         "name": "Gnawa Njoum Experience",
         "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 179640,
       "name": "Bambala",
       "url": "https://open.spotify.com/track/1MRufqwOqcz0tVPlymfIEi"
@@ -264,7 +282,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 440011,
       "name": "Bania Bambara",
       "url": "https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs"
@@ -304,7 +322,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 323848,
       "name": "Baniyorkoy",
       "url": "https://open.spotify.com/track/6ISbel4AdYheOCO65DX94A"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 259735,
       "name": "Banwar",
       "url": "https://open.spotify.com/track/3v1bN0te9KGmCHBtesBQPn"
@@ -441,6 +459,42 @@
     },
     {
       "album": {
+        "name": "El Ghaba",
+        "url": "https://open.spotify.com/album/6lSSJcyIWmBpdw2VqKn3ci"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 832840,
+      "name": "Chorfa",
+      "url": "https://open.spotify.com/track/0nmDCBvIy4gDP1fyDInu1I"
+    },
+    {
+      "album": {
+        "name": "El Ghaba",
+        "url": "https://open.spotify.com/album/6lSSJcyIWmBpdw2VqKn3ci"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474333,
+      "name": "El Ghaba",
+      "url": "https://open.spotify.com/track/1nY3pSoPw1OisHDjoPGXNa"
+    },
+    {
+      "album": {
         "name": "Sewarye gnawa influences",
         "url": "https://open.spotify.com/album/2qxTnxIo0aPJBLSGfmP1Ib"
       },
@@ -488,7 +542,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 400744,
       "name": "Finkoum Ya Albouhala",
       "url": "https://open.spotify.com/track/3tasYylFyl52FR6Py5lPAB"
@@ -668,7 +722,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 434155,
       "name": "La Illaha Illa Allah",
       "url": "https://open.spotify.com/track/3WMv8hXHCZAzITR77sFL6G"
@@ -704,7 +758,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 292520,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
@@ -744,7 +798,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 550106,
       "name": "Marhba / Gnawa Sidi Mimoun",
       "url": "https://open.spotify.com/track/75eTOivMFcLFmyIKtQrN98"
@@ -762,7 +816,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 410573,
       "name": "Mimouna Gnawa",
       "url": "https://open.spotify.com/track/7ahy3fhvPApYDTYtI8jHJN"
@@ -802,7 +856,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 546400,
       "name": "Moussa bahri",
       "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
@@ -836,7 +890,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 362093,
       "name": "Mrahba",
       "url": "https://open.spotify.com/track/2zKuTLrINginlVwg75onMg"
@@ -968,7 +1022,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 239693,
       "name": "Sidi Musa",
       "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
@@ -1004,7 +1058,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-30",
       "duration_ms": 312581,
       "name": "Soudani",
       "url": "https://open.spotify.com/track/4PH29GIlJAYrQse5wQ1fIV"
@@ -1098,7 +1152,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 513816,
       "name": "Youbati - Boulila",
       "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
