@@ -120,7 +120,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 151200,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
@@ -270,7 +270,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 156635,
       "name": "BANG (with Helion)",
       "url": "https://open.spotify.com/track/4CNSKwiJTxrYCtFIOqVXGw"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 165424,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/5oYxTKVCBNxuhgKV9HvqL8"
@@ -402,6 +402,24 @@
       "duration_ms": 170693,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2Cm2RXqtcJtiWpSJrxuYwA"
+    },
+    {
+      "album": {
+        "name": "Can We Press Rewind",
+        "url": "https://open.spotify.com/album/7iX129qNimoj1Xz68sl7ZV"
+      },
+      "artists": [
+        {
+          "name": "Henry Himself",
+          "url": "https://open.spotify.com/artist/0YZmiBsdXDNlyLfWVh7Fb7"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Can We Press Rewind",
+      "url": "https://open.spotify.com/track/5UjWcGDDvh3oa8q4huzoNI"
     },
     {
       "album": {
@@ -692,7 +710,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 175785,
       "name": "Fanny And The Wee",
       "url": "https://open.spotify.com/track/5WHPsg0Imug3nqXtPZikzz"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 192000,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 189453,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1ENLs7fAW0Aij4DoABmWKm"
@@ -1065,6 +1083,40 @@
     },
     {
       "album": {
+        "name": "Glowing Up (feat. Tudor & TUSO)",
+        "url": "https://open.spotify.com/album/0XvmM4PIFj3iQc3C06hVWd"
+      },
+      "artists": [
+        {
+          "name": "Milwin",
+          "url": "https://open.spotify.com/artist/4weeCf9AotK7ovljqidJnG"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        },
+        {
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+        },
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        },
+        {
+          "name": "TUSO",
+          "url": "https://open.spotify.com/artist/5qjGDxraw3yFjg9AwiW9OH"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174248,
+      "name": "Glowing Up (feat. Tudor & TUSO)",
+      "url": "https://open.spotify.com/track/4JR7hMybbPl8jjJxXDxRXd"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2aVSBztzusv4115llxvybG"
       },
@@ -1160,7 +1212,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 208840,
       "name": "Hashish de blaa",
       "url": "https://open.spotify.com/track/3xBwIEVxgGCjDSKMpUnwTK"
@@ -1330,7 +1382,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 199764,
       "name": "In & Out",
       "url": "https://open.spotify.com/track/7HCXtYPQka5aa8DflAUZI2"
@@ -1374,7 +1426,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 144079,
       "name": "Kraken",
       "url": "https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka"
@@ -1716,7 +1768,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 214501,
       "name": "Midnight Runners",
       "url": "https://open.spotify.com/track/6SOzKLfNIPUFCbhYQ5vCF3"
@@ -1738,7 +1790,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 158000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89"
@@ -1844,7 +1896,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 217740,
       "name": "Nordic Invasion",
       "url": "https://open.spotify.com/track/6tFZX0gaddiXIgj5MUPY3I"
@@ -1896,7 +1948,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
@@ -1966,7 +2018,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 173709,
       "name": "Paradise - Topic Remix",
       "url": "https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j"
@@ -1988,7 +2040,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 142500,
       "name": "Pasta & Vin",
       "url": "https://open.spotify.com/track/6M2cedsUtEFPAY2vIdy6H0"
@@ -2028,7 +2080,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 219310,
       "name": "PCP",
       "url": "https://open.spotify.com/track/72H8hxvjqEzfsb3uB4gzvo"
@@ -2068,7 +2120,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 141411,
       "name": "PO PO PULL UP",
       "url": "https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp"
@@ -2130,7 +2182,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 188346,
       "name": "Pull Me Closer - Armin van Buuren Remix",
       "url": "https://open.spotify.com/track/7Bkm11YEID3T4NSrUJjNPD"
@@ -2188,7 +2240,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 159640,
       "name": "Rampage (Free Fire Rampage Theme Song)",
       "url": "https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE"
@@ -2316,7 +2368,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 166948,
       "name": "Ron Weesley Is Dead",
       "url": "https://open.spotify.com/track/74iPP56k9Tur0GAIYKTn3q"
@@ -2394,7 +2446,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 183750,
       "name": "Save My Life (feat. Lovespeake)",
       "url": "https://open.spotify.com/track/1w8DxFHDDInmn5TovLKKrW"
@@ -2460,7 +2512,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 144280,
       "name": "Selskabet 2021",
       "url": "https://open.spotify.com/track/400NglZCQ1v3zANvpTXS5K"
@@ -2732,7 +2784,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 221647,
       "name": "Stars Don't Shine (feat. Global Dan)",
       "url": "https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16"
@@ -2998,7 +3050,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 161104,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/7hBE2hLEihxmVPYZhkNxgA"
@@ -3060,7 +3112,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 194571,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0"
@@ -3254,7 +3306,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 166440,
       "name": "Trombone",
       "url": "https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq"
@@ -3350,7 +3402,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 159379,
       "name": "Watch You Die",
       "url": "https://open.spotify.com/track/0YPqcXgz1OZ4MwyPRYjff9"
@@ -3372,7 +3424,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 181896,
       "name": "We Are Here Now",
       "url": "https://open.spotify.com/track/4UVuGgYk3qlAfR8DGH30C4"
@@ -3424,7 +3476,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 194676,
       "name": "What Was in That Glass",
       "url": "https://open.spotify.com/track/1r9ecngPLiwB5J06DWH4Ts"
@@ -3526,7 +3578,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 127504,
       "name": "Wunderbaum",
       "url": "https://open.spotify.com/track/55vGtHtFuUKnliuEJ9gFEQ"

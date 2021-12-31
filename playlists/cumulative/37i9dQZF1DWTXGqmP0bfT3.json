@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "The Violent Sleep of Reason",
+        "url": "https://open.spotify.com/album/15tjbu79Nh8XPk2TtmY04L"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274586,
+      "name": "Born in Dissonance",
+      "url": "https://open.spotify.com/track/0s2jyCzxpTshZGC0w0wbL1"
+    },
+    {
+      "album": {
         "name": "Brotherhood of the Snake",
         "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 236333,
       "name": "Drink Drank Drunk",
       "url": "https://open.spotify.com/track/5A7ZY7Ne45YzSCVmQYggkP"
@@ -924,6 +942,24 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/5aNH8inF5BsbThDeOLs7zs"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237320,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2jzqAyRGrsWrt45t5kGmfi"
     },
     {
       "album": {
@@ -1233,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Deathless",
+        "url": "https://open.spotify.com/album/7k0crayXxhuHFfEjRh2fP7"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "I.H.E.",
+      "url": "https://open.spotify.com/track/1c5FP1UuxzD4ZSoNoKmNfy"
+    },
+    {
+      "album": {
         "name": "Disarm the Descent (Special Edition)",
         "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
       },
@@ -1424,7 +1478,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 204933,
       "name": "Last Call for Alcohol",
       "url": "https://open.spotify.com/track/0PpwlEkocq2ii1L9UELKMo"
@@ -1575,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "About That Life",
+        "url": "https://open.spotify.com/album/3926CVdjmoTObtSVsKG2YY"
+      },
+      "artists": [
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "Middle Fingers Up",
+      "url": "https://open.spotify.com/track/14ZX4MpuG9XW1MaZY5drY0"
+    },
+    {
+      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
@@ -1644,6 +1716,24 @@
       "duration_ms": 270706,
       "name": "Night of the Werewolves",
       "url": "https://open.spotify.com/track/1BZ6VNjPOcf1ysNMARzirk"
+    },
+    {
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256533,
+      "name": "Of Wolf And Man",
+      "url": "https://open.spotify.com/track/2J8jdenoxkPXs44G9xcncc"
     },
     {
       "album": {
@@ -1856,7 +1946,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 214986,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/1kM2VS4HfIU6gNl1LTOQk0"
@@ -1964,7 +2054,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 207200,
       "name": "Royals",
       "url": "https://open.spotify.com/track/51OeSEP85etN0dhX9Vbp8v"
@@ -2018,7 +2108,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 218442,
       "name": "Shaped by Fire",
       "url": "https://open.spotify.com/track/1I7yVk8T0iBMpQXWX71GPs"
@@ -2072,7 +2162,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 239493,
       "name": "Son of a Wolf",
       "url": "https://open.spotify.com/track/69A78zQYA5z0mqmkNZd7rz"
@@ -2148,6 +2238,24 @@
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+    },
+    {
+      "album": {
+        "name": "Incarnate",
+        "url": "https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226013,
+      "name": "Strength of the Mind",
+      "url": "https://open.spotify.com/track/6AjXt5W30GHH3pZPrYK6TH"
     },
     {
       "album": {

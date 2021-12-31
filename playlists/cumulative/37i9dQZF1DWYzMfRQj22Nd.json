@@ -176,7 +176,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 277241,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0RpsN5i29wzKUXUBRX0AVO"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 248372,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 213297,
       "name": "Better Off Without You (High Contrast Remix feat. Shift K3Y)",
       "url": "https://open.spotify.com/track/4EsFXXYwZYh4GD37aff1Db"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 184871,
       "name": "Chicane - Kumarion Remix",
       "url": "https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 301070,
       "name": "Dawnbreaker",
       "url": "https://open.spotify.com/track/3ychV6Y7TGNXNQlQFzQWVk"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 227657,
       "name": "Demand",
       "url": "https://open.spotify.com/track/6uL5PowSCbpgBABwfsa3ZV"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 299530,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/6eim9waz372dV7a13FvQ7r"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 279169,
       "name": "Fall Beneath You",
       "url": "https://open.spotify.com/track/0VzdZGGsJjOZMUHwlZ7uAs"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 292173,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 171034,
       "name": "Fisher",
       "url": "https://open.spotify.com/track/7nCLDQaSVDubzrvOQ3r0l7"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 230984,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/1MKUYM2oiCX4AtyuEocHBe"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 290344,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/77VtotY5X2jt4SKVbNBZ0d"
@@ -1128,6 +1128,32 @@
       "duration_ms": 360000,
       "name": "Games",
       "url": "https://open.spotify.com/track/4qZkFcpbvgqs7LgGHRgmXa"
+    },
+    {
+      "album": {
+        "name": "Playing In The Dark",
+        "url": "https://open.spotify.com/album/6SoIcnKddNcjL0GkjyTClJ"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Dynamite MC",
+          "url": "https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl"
+        },
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228538,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/6aXRILTdr65hT9dZRpYOJ7"
     },
     {
       "album": {
@@ -1200,7 +1226,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -1360,7 +1386,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 226206,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1zo0vyy8vdtZqNfnIwZJf9"
@@ -1404,7 +1430,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 190909,
       "name": "Holding On (feat. Leo The Kind)",
       "url": "https://open.spotify.com/track/6qa8nhtZCylZU8qBD2KzTU"
@@ -1488,7 +1514,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 230961,
       "name": "Instinct",
       "url": "https://open.spotify.com/track/7eaF4wiEcDvtW9I16O4vrF"
@@ -1580,7 +1606,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 251553,
       "name": "Lakota",
       "url": "https://open.spotify.com/track/4KqZo6zGnp8OEbaV2dEcBS"
@@ -1620,7 +1646,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 251030,
       "name": "Let It Slide",
       "url": "https://open.spotify.com/track/45CXdDHgb5u5oylgMa13RJ"
@@ -1693,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Like Whoa",
+        "url": "https://open.spotify.com/album/73j4aMlvc94y6wEsHupA0e"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Like Whoa",
+      "url": "https://open.spotify.com/track/2fucip6EHODOa8wwSkRF5N"
+    },
+    {
+      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/1URc0VaTzXSYvl3C76qdKp"
       },
@@ -1734,7 +1778,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 230480,
       "name": "Lonely (with Chandler Leighton) [Friction Remix]",
       "url": "https://open.spotify.com/track/6JWBrFsMLq5tAXMhahEKWy"
@@ -1898,7 +1942,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 204827,
       "name": "Miracle - REAPER Remix",
       "url": "https://open.spotify.com/track/41JyOI4feB5z5vK6asNeo5"
@@ -2022,7 +2066,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 194882,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1QgYm6U7EX2Bhpj3BOTLHQ"
@@ -2114,7 +2158,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 233095,
       "name": "One Day At A Time",
       "url": "https://open.spotify.com/track/1oXdYtT3GQ3eSHt4PX4sHT"
@@ -2216,7 +2260,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 209651,
       "name": "Payback",
       "url": "https://open.spotify.com/track/0UHeE47Px036a6hiMfUd3C"
@@ -2458,7 +2502,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 247586,
       "name": "Reason",
       "url": "https://open.spotify.com/track/3BhECsg8J4eoepgo3LoGlW"
@@ -2542,7 +2586,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 181569,
       "name": "RELOAD",
       "url": "https://open.spotify.com/track/6zCNAB1z3QdxklS8Hpo8yA"
@@ -2604,7 +2648,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 275862,
       "name": "Run Tings",
       "url": "https://open.spotify.com/track/0pTPFRllyljfjmAXRhmmNl"
@@ -2684,7 +2728,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 223143,
       "name": "Secret",
       "url": "https://open.spotify.com/track/2CKvhcxC6vuommXliI7CTJ"
@@ -2702,10 +2746,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 260689,
       "name": "See It Thru",
       "url": "https://open.spotify.com/track/7EFrOOnUKLolvsMKlfv3zc"
+    },
+    {
+      "album": {
+        "name": "Set It Off (feat. Jeru The Damaja)",
+        "url": "https://open.spotify.com/album/0p4AcAccytQADrKZkicltt"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Jeru The Damaja",
+          "url": "https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/0E0kfeUYrxB9mlv5vOSKU7"
     },
     {
       "album": {
@@ -2720,7 +2786,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 223526,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/3q2uX1BAjCiKmhEQiqWZTD"
@@ -2982,7 +3048,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 186206,
       "name": "The Step - Pola & Bryson Remix",
       "url": "https://open.spotify.com/track/4OJL3pgbQFEBS5jnv1ejqh"
@@ -3004,7 +3070,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 180790,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/14m8zaNe63k0jBzsCs1Flv"
@@ -3022,7 +3088,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 232686,
       "name": "There and Back",
       "url": "https://open.spotify.com/track/4H3mLpYw9fgx0FHNanYLAd"
@@ -3062,7 +3128,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 285833,
       "name": "Together Again (I Pray)",
       "url": "https://open.spotify.com/track/72DrNkZ3qRLmxbTCBcgR9D"
@@ -3128,7 +3194,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 226206,
       "name": "Used to This",
       "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"
@@ -3146,7 +3212,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 202068,
       "name": "Visions",
       "url": "https://open.spotify.com/track/6RCj3fC9noAbICYFX6ieNY"

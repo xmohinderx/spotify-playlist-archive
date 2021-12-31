@@ -302,7 +302,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "album": {
         "name": "Malvad\u00e3o 3",
         "url": "https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl"
       },
@@ -770,6 +788,48 @@
       "duration_ms": 172018,
       "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
       "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
+    },
+    {
+      "album": {
+        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Daniela Sierra",
+          "url": "https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f"
+        },
+        {
+          "name": "Juanse Diez",
+          "url": "https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK"
+        },
+        {
+          "name": "Isabel Garc\u00e9s",
+          "url": "https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY"
+        },
+        {
+          "name": "Olga Luc\u00eda Vives",
+          "url": "https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22"
+        },
+        {
+          "name": "Elenco de Encanto",
+          "url": "https://open.spotify.com/artist/7yunuNilTB1HH7WnIXcCnY"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "No se habla de Bruno",
+      "url": "https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv"
     },
     {
       "album": {
@@ -1129,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "TO THE",
+        "url": "https://open.spotify.com/album/2CZxED1GDIM7fV6ODe6rMf"
+      },
+      "artists": [
+        {
+          "name": "GoldSkull",
+          "url": "https://open.spotify.com/artist/13GA8qxVLDZs0oh1zZ872C"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152160,
+      "name": "TO THE",
+      "url": "https://open.spotify.com/track/3kvm9xedJN0uVx9kFmcFdf"
+    },
+    {
+      "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
       },
@@ -1140,7 +1218,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
@@ -1200,7 +1278,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/7xeE24WnWUXDwgqGiaeshi"

@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 186988,
       "name": "Over",
       "url": "https://open.spotify.com/track/5dl66CllFRkUQbQ6YfuwjA"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 239946,
       "name": "Right There",
       "url": "https://open.spotify.com/track/06Xzb5VNN5wE9MWNEF84Fa"
@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Taking me there",
+        "url": "https://open.spotify.com/album/5yIllyI3UH5vHi9SzdazIT"
+      },
+      "artists": [
+        {
+          "name": "Kenza Blanka",
+          "url": "https://open.spotify.com/artist/4xps0WT8z5HjLqO33bbIec"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172146,
+      "name": "Taking me there",
+      "url": "https://open.spotify.com/track/1Wfcg2yCd4zIzoStBzRdO2"
+    },
+    {
+      "album": {
         "name": "The Beat Never Goes Off (feat. MC Abdul & Noel Kharman)",
         "url": "https://open.spotify.com/album/5GLmvO7Q8nbYW6yIjt7cJZ"
       },
@@ -1862,6 +1880,24 @@
       "duration_ms": 201857,
       "name": "The Big Chill",
       "url": "https://open.spotify.com/track/6tL9rtiton1r2DtYlDBsJo"
+    },
+    {
+      "album": {
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/2ridtCRegwAWPogc0howcY"
+      },
+      "artists": [
+        {
+          "name": "Rhita Nattah",
+          "url": "https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193388,
+      "name": "The Calling",
+      "url": "https://open.spotify.com/track/6GeJhsWvyRghhVha88TCNG"
     },
     {
       "album": {

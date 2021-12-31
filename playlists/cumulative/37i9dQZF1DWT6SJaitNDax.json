@@ -190,7 +190,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 189106,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/6BtXtwOOy9CfpdlClUscJv"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 208000,
       "name": "Attention",
       "url": "https://open.spotify.com/track/4rEuaYXYUrHtcpIo26pxAt"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 155044,
       "name": "Body",
       "url": "https://open.spotify.com/track/6mMs3kv7TmqF2v8S3YlvoO"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 187782,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 179080,
       "name": "CHOP N PRAY",
       "url": "https://open.spotify.com/track/0NtyyD2hX0VY9jKVsEVHTF"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 250350,
       "name": "Curious (feat. Jimi Tents & Garren)",
       "url": "https://open.spotify.com/track/5ELIl3vnSY0mF7jpf7lyhC"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 202944,
       "name": "Dollas and Cents",
       "url": "https://open.spotify.com/track/0BfJzdrAcLIQIYNP98zaO0"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 187926,
       "name": "Dumebi (Remix)",
       "url": "https://open.spotify.com/track/1GxRU2jUq6Xt5vwi1vrDyK"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/63MDlT75I1QKngHOVjvuTk"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 160733,
       "name": "I No Go Give Up On You",
       "url": "https://open.spotify.com/track/5gj2HpTTav81pD714RdU1O"
@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
+    },
+    {
+      "album": {
         "name": "Joro",
         "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
       },
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 262736,
       "name": "Joro",
       "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 328766,
       "name": "Ke Star - Remix",
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 188910,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 210826,
       "name": "Love Nobody",
       "url": "https://open.spotify.com/track/2pg8Vb16ItDI2bovhZalrQ"
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 238016,
       "name": "MAD",
       "url": "https://open.spotify.com/track/6mGUY6CaFbnK9a6YxV5lpJ"
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 173999,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/4u6JtcrqFz1kw8wTahLGbI"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "MOSLADO",
       "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
@@ -2234,10 +2252,44 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 183092,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/6DaBr6zT7hlxNchzYVgPds"
+    },
+    {
+      "album": {
+        "name": "On It (feat. PnB Rock & K1NG)",
+        "url": "https://open.spotify.com/album/6Ib3QrAdsIXiJH8DqkjGmc"
+      },
+      "artists": [
+        {
+          "name": "Crumz",
+          "url": "https://open.spotify.com/artist/5nt98wJxVusArWyEJuNymn"
+        },
+        {
+          "name": "Not3s",
+          "url": "https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO"
+        },
+        {
+          "name": "S1mba",
+          "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "K1NG",
+          "url": "https://open.spotify.com/artist/4VHLPOtj6jnjbe9kIxFHA9"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201326,
+      "name": "On It (feat. PnB Rock & K1NG)",
+      "url": "https://open.spotify.com/track/7DOR5ABi2gXg4Ju9qnf6yQ"
     },
     {
       "album": {
@@ -2256,7 +2308,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 182639,
       "name": "Oreke",
       "url": "https://open.spotify.com/track/7EFnbc7UnvOyFcb6IhJq9v"
@@ -2282,7 +2334,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 235560,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/53LQQoBP6sBVFvNr3q3Fa0"
@@ -2388,7 +2440,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 194851,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/13iAeDhYtRuuWdcNLZftY2"
@@ -2626,7 +2678,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 135680,
       "name": "Rumour",
       "url": "https://open.spotify.com/track/4TF0cJ1HCQzA8upuEtXsiJ"
@@ -2794,7 +2846,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 228932,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy"
@@ -2828,7 +2880,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 228571,
       "name": "Slow Down (feat. H.E.R., DaVido, & Oxlade) - P2J Remix",
       "url": "https://open.spotify.com/track/5VXX29Dqo6mw7kVBNnsign"
@@ -2898,7 +2950,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 187867,
       "name": "Smooth MF",
       "url": "https://open.spotify.com/track/4bjIb86XioJUc5wZeFtxaz"
@@ -3068,7 +3120,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 228681,
       "name": "Surround Me",
       "url": "https://open.spotify.com/track/12yQgyLlpnI6EweSDsxs9i"
@@ -3134,7 +3186,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 171000,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4JP3dHzz9RwACJZePm2vqL"
@@ -3170,7 +3222,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
@@ -3214,7 +3266,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 202012,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5"
@@ -3270,7 +3322,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 185652,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/3ZUWEJ3Vl7xsxydVMM6Ebv"
@@ -3348,7 +3400,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 189354,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/5Gf30Ezykm4MhgzvaPL2Ei"
@@ -3406,7 +3458,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 213373,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL"

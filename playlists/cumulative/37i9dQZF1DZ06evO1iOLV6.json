@@ -89,6 +89,32 @@
     },
     {
       "album": {
+        "name": "Dance, Vol. 1",
+        "url": "https://open.spotify.com/album/1TqeVetMJteizoDDEIZDqw"
+      },
+      "artists": [
+        {
+          "name": "Henry Knight",
+          "url": "https://open.spotify.com/artist/4xjNGIY2iJZwaFJnEPQ1r9"
+        },
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246492,
+      "name": "Bami Mujo (feat. Yung L & Patoranking)",
+      "url": "https://open.spotify.com/track/7JB8DUFRFWhAPd1bhEZRuo"
+    },
+    {
+      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/2lKgeWMfVOQ9USzl6DzN4l"
       },
@@ -504,7 +530,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 224026,
       "name": "Heal D World",
       "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
@@ -570,7 +596,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 234312,
       "name": "Jama",
       "url": "https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y"
@@ -976,6 +1002,24 @@
       "duration_ms": 218488,
       "name": "Suh Different",
       "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/1m0vtbXSdmJ9lz8iBPBtlC"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202343,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4IW5rI50E0ioz1Vd2NTaMa"
     },
     {
       "album": {

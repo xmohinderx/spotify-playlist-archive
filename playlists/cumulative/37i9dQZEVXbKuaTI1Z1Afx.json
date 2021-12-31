@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 194050,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf"
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244067,
+      "name": "Habang Buhay",
+      "url": "https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5"
       },
@@ -586,7 +604,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
@@ -1127,6 +1145,46 @@
     },
     {
       "album": {
+        "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Garfield",
+          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
+        },
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164163,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR"
+    },
+    {
+      "album": {
+        "name": "TO THE",
+        "url": "https://open.spotify.com/album/2CZxED1GDIM7fV6ODe6rMf"
+      },
+      "artists": [
+        {
+          "name": "GoldSkull",
+          "url": "https://open.spotify.com/artist/13GA8qxVLDZs0oh1zZ872C"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152160,
+      "name": "TO THE",
+      "url": "https://open.spotify.com/track/3kvm9xedJN0uVx9kFmcFdf"
+    },
+    {
+      "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
       },
@@ -1138,7 +1196,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"

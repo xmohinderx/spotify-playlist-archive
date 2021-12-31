@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 
 > Check out the winners of this year's Mnet Asian Music Awards!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,043 likes - 33 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,073 likes - 33 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

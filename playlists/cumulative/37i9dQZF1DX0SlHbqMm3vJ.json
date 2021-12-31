@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "Before You Wake Up",
       "url": "https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 164347,
       "name": "Can You See Her (Acoustic)",
       "url": "https://open.spotify.com/track/6d3anVSGv5OlBamDWEuoEH"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 168000,
       "name": "Caribbeana",
       "url": "https://open.spotify.com/track/77TunfSjNZ2RLAwvF77hVo"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 188823,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 153402,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/4vHIN4313pVSEf7D2ylO3C"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 219671,
       "name": "Figurine - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1KI9l7LmnXGvIyry0vqNnk"
@@ -631,6 +631,28 @@
     },
     {
       "album": {
+        "name": "Madina to the Universe",
+        "url": "https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198472,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz"
+    },
+    {
+      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/4LIZDD51I8rr6OpdEX7S9a"
       },
@@ -686,7 +708,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 162800,
       "name": "Hopeless Place",
       "url": "https://open.spotify.com/track/6bMnInhzH6gpqY0tOdI2cP"
@@ -704,7 +726,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 172235,
       "name": "I Won't",
       "url": "https://open.spotify.com/track/6ohlE4CmBQitfRvvB5aBuy"
@@ -722,7 +744,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 218823,
       "name": "In My Dreams Last Night",
       "url": "https://open.spotify.com/track/0Tupq0XA3sxGgbqMHsqVM7"
@@ -787,6 +809,28 @@
     },
     {
       "album": {
+        "name": "Journey Back Home",
+        "url": "https://open.spotify.com/album/2Had8Ig2siiYE7PYVYv4iS"
+      },
+      "artists": [
+        {
+          "name": "Bankulli",
+          "url": "https://open.spotify.com/artist/5vaAZTnLCHp0garbEDlorS"
+        },
+        {
+          "name": "TOME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224225,
+      "name": "Journey Back Home",
+      "url": "https://open.spotify.com/track/3YoHYLrPxsEyOPtnzZso0n"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/7M0apWqmNtMxPhT9DWa7mx"
       },
@@ -798,10 +842,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1Sn5yLukK2QIzzj9cBixle"
+      },
+      "artists": [
+        {
+          "name": "Tolani",
+          "url": "https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191518,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/5scse2pEzUWzbcleDSJ29o"
     },
     {
       "album": {
@@ -937,6 +999,24 @@
     },
     {
       "album": {
+        "name": "M D D W",
+        "url": "https://open.spotify.com/album/7HxZJFjebeHjJcKya0ebY7"
+      },
+      "artists": [
+        {
+          "name": "RnB Princess",
+          "url": "https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201774,
+      "name": "M D D W",
+      "url": "https://open.spotify.com/track/1nJzOnVqkx3jQDDVHriT6E"
+    },
+    {
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/0zlsKxFVoZdXOJKtfx6Qwa"
       },
@@ -970,7 +1050,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
@@ -996,7 +1076,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 204790,
       "name": "Milele",
       "url": "https://open.spotify.com/track/0y2qVXYOckABR6ZJT5QiYs"
@@ -1160,7 +1240,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 249256,
       "name": "Paralysed",
       "url": "https://open.spotify.com/track/0xj0FbSGbOmSsryG7K5beu"
@@ -1178,7 +1258,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 122020,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/6NtOTnvDhbzaxpxkjBEx8x"
@@ -1200,7 +1280,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF"
@@ -1262,7 +1342,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 186873,
       "name": "Searching",
       "url": "https://open.spotify.com/track/7AKiA7fmXGjBqozZzKhhDu"
@@ -1494,7 +1574,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 167584,
       "name": "STONES",
       "url": "https://open.spotify.com/track/00ti8nTfpzn8rGt9tqBfTI"
@@ -1808,7 +1888,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 179191,
       "name": "You",
       "url": "https://open.spotify.com/track/3mPNiVNsCpGFjV4y7IaOrX"

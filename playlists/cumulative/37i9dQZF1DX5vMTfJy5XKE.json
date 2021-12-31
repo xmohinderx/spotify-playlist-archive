@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "For Christmas",
+        "url": "https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198088,
+      "name": "Blame It on the Mistletoe",
+      "url": "https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh"
+    },
+    {
+      "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/4KRdBwVmISlc4j5EVmDBpe"
       },
@@ -494,7 +512,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 178656,
       "name": "Christmas Show - Bonus Track",
       "url": "https://open.spotify.com/track/2i8m7x84erxs9CTyUIUIz3"
@@ -512,7 +530,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 133633,
       "name": "christmas vacation",
       "url": "https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc"
@@ -672,7 +690,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 249853,
       "name": "Favorite Tings",
       "url": "https://open.spotify.com/track/48w7HvN7eiCX2vrc82M2KU"
@@ -774,7 +792,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "Going Home For Christmas",
       "url": "https://open.spotify.com/track/78YuTWiJjwAveV660bsbis"
@@ -796,7 +814,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 232102,
       "name": "Gone for Christmas (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
@@ -890,7 +908,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 207930,
       "name": "Happy Xmas (War is Over)",
       "url": "https://open.spotify.com/track/7faG1XjcABFEEHc1HNnoJs"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 159412,
       "name": "How Christmas Is Supposed To Be (feat. Sheridan Smith)",
       "url": "https://open.spotify.com/track/3zw1izLVNY4kWcIyrRULeM"
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 146622,
       "name": "I've Got My Love to Keep Me Warm (feat. Kudisan Kai)",
       "url": "https://open.spotify.com/track/3WSNLppkYIiqSpPYKjlJA4"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 165830,
       "name": "I\u2019ll Be Home For Christmas",
       "url": "https://open.spotify.com/track/3gkDQzMSAsVcxGTCvTcl4B"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 188320,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1vLPyotXnRlM2EJIHK16LW"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 307440,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/35L5f32OEgIu5yLVfJHFtJ"
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 193749,
       "name": "Perfect Holiday",
       "url": "https://open.spotify.com/track/7uurWnQa19yid3vd4rslmc"
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 162895,
       "name": "Pretty Paper",
       "url": "https://open.spotify.com/track/02N6DYWfmvh8IPhak3uDrl"
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 240193,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/1BJaAa8yxm779DP5kKZJyw"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 214513,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/1uJ7bM5eeC2PfwHZM37avh"
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 98000,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4kzmxJ4HiMrinPH0WbRqPC"
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 121931,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS"
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 154838,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/6VLmJP1iksTWbIpGZEgeGO"

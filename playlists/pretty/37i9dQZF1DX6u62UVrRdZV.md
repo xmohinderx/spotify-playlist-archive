@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,444 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,436 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

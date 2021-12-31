@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -46,7 +46,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 170501,
       "name": "1985",
       "url": "https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 185168,
       "name": "Above",
       "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 289670,
       "name": "Ain't Got Time",
       "url": "https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 326242,
       "name": "Blind Spot",
       "url": "https://open.spotify.com/track/3bOvyoDhBUnLf8NisLxGn6"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 170881,
       "name": "Cig Angel",
       "url": "https://open.spotify.com/track/4AMw3vWRQxJJSCv0WVvofD"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 186000,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/0jX4GHNCQr7Fq0GvXWuF3t"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 306696,
       "name": "EKG - Club Mix",
       "url": "https://open.spotify.com/track/3R6FntVNKj4DNywzoXb8uv"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 227070,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/76KumSfWF8BFG9mi1d6U3Q"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Flame - Vzion & Orchi Remix",
       "url": "https://open.spotify.com/track/5sLrA7GDesEZfAapaDYjIC"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 194666,
       "name": "For You & I",
       "url": "https://open.spotify.com/track/5Vj7O3T5u0wHuFD99x2Rv1"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5PI0KCcfghR4Xg0w6xuoZ0"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 218306,
       "name": "Gold Chains",
       "url": "https://open.spotify.com/track/0T7PAJKN2k6k7kBSWIcw34"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 230400,
       "name": "Groove 32",
       "url": "https://open.spotify.com/track/3Zr60HMgmHnA4gg0gMTVkO"
@@ -1232,6 +1232,28 @@
       "duration_ms": 245123,
       "name": "Half Hour Verve",
       "url": "https://open.spotify.com/track/141xElf21pwBjWf9EXYmCu"
+    },
+    {
+      "album": {
+        "name": "Hands On",
+        "url": "https://open.spotify.com/album/6H1ArOOmdPY8XYp1x1pXem"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "JMF",
+          "url": "https://open.spotify.com/artist/6V5X6OhHNqA0q01XiQHF8I"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366545,
+      "name": "Hands On",
+      "url": "https://open.spotify.com/track/0YmU22gCHDKFejuvI8nDou"
     },
     {
       "album": {
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 172866,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/2UWyaEEAjiLEhrNcwiKXKY"
@@ -1334,7 +1356,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 254156,
       "name": "I Had To Slow It Down",
       "url": "https://open.spotify.com/track/6a6wnYqP8F7rK9lrNK8ARn"
@@ -1418,7 +1440,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "It's Nice to Be Alive",
       "url": "https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4"
@@ -1600,7 +1622,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 291960,
       "name": "Lovely Lonely",
       "url": "https://open.spotify.com/track/78KA3kXEWMoSaDwzSwbXkb"
@@ -1618,7 +1640,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 128000,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm"
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 240924,
       "name": "Mine",
       "url": "https://open.spotify.com/track/25VKwAAJ7YLvpTJ02yNV5x"
@@ -1698,7 +1720,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 342426,
       "name": "Morley's Preference",
       "url": "https://open.spotify.com/track/68HmXDuMXYeyhEhJCrXOKe"
@@ -1760,7 +1782,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
@@ -1880,7 +1902,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 258250,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/1q1wxTHRtt7TR9GJhhZA8b"
@@ -1928,7 +1950,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 247619,
       "name": "No Fuss No Fight - Radio Edit",
       "url": "https://open.spotify.com/track/6AtGyzSSN3Js4fSRPimqxK"
@@ -2088,7 +2110,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 323892,
       "name": "Rawl Aredo",
       "url": "https://open.spotify.com/track/4HOCzvFcxkCRfxHX8yDTap"
@@ -2124,7 +2146,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 272573,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/69aJGjfpWk9mrw6amJM6jC"
@@ -2248,7 +2270,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 171416,
       "name": "Sirens feat. KALLITECHNIS",
       "url": "https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH"
@@ -2278,7 +2300,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 187651,
       "name": "Slow It Down - WaTa Remix",
       "url": "https://open.spotify.com/track/4hixQjNyyJVjFg1GNBhr4Q"
@@ -2344,7 +2366,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 208518,
       "name": "Suffer and Swim",
       "url": "https://open.spotify.com/track/5FAfSZWgGvX8feO5M0mBUe"
@@ -2388,7 +2410,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 244706,
       "name": "swag w/ kav",
       "url": "https://open.spotify.com/track/7lPt8ISy7ax86QSfl4I3Z7"
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 299688,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5qeIAwW9nhHzpiKkPHusPY"
@@ -2556,7 +2578,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6Lxi9O5CWRgjrqvWdbn2lT"

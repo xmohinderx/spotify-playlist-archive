@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FLzW9rNIxr.md) - [plain]
 
 > They have not been wasting their young years \- they have been making some of the most beautiful music in the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,824 likes - 31 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,868 likes - 31 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

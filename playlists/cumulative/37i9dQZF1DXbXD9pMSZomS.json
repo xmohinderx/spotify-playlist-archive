@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 290431,
       "name": "1759 (Outro)",
       "url": "https://open.spotify.com/track/1s2JjSKiQNUwk7tR67ojnw"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 491530,
       "name": "A Lil' Anxious",
       "url": "https://open.spotify.com/track/6eM3r9ku8I63L8xgKRkjo1"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 285772,
       "name": "Alfa - Original Mix",
       "url": "https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 312304,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 245863,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/1zlRyggzGQWbRCSMUCDjtu"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 349560,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "C'est Tout",
+        "url": "https://open.spotify.com/album/6uzaasbV4aqTMRQL7mQUco"
+      },
+      "artists": [
+        {
+          "name": "DJ Balaton",
+          "url": "https://open.spotify.com/artist/79GRHH0mBDlVsB9vu559s8"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458359,
+      "name": "C'est tout",
+      "url": "https://open.spotify.com/track/3Dub7V42DzrdgC5ZzXvOzD"
+    },
+    {
+      "album": {
         "name": "Sloh Remixes",
         "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
       },
@@ -400,7 +418,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 225493,
       "name": "Cami - Edamame Remix",
       "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
@@ -436,7 +454,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 208000,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
@@ -534,7 +552,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 379784,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/3NN6YXqfnhqrzyTM2idZdo"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 264984,
       "name": "Doorsteps",
       "url": "https://open.spotify.com/track/6EV84s3YMoU6prWqHlMD4X"
@@ -734,7 +752,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 172124,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/0toIIfv4yFxvmJKXqdkt0c"
@@ -944,7 +962,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 381662,
       "name": "Kokiri Forest",
       "url": "https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/1eaFEHIMGrTJ5hyPoPhq9v"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 202137,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3GcQOMGQ8cXwitx8Koe7NG"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 105071,
       "name": "Melatonin",
       "url": "https://open.spotify.com/track/4pMiSXlSsVtGWmSf7BbbvC"
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 144000,
       "name": "memento",
       "url": "https://open.spotify.com/track/2YUcBQNLbqA8TEjvJfTbY2"
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 161400,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
@@ -1322,7 +1340,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 117660,
       "name": "Polar Circle",
       "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
@@ -1384,10 +1402,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 128450,
       "name": "Pyrexia",
       "url": "https://open.spotify.com/track/3zczBLZYI46fBVs36Cr1ne"
+    },
+    {
+      "album": {
+        "name": "Rift Vision 001",
+        "url": "https://open.spotify.com/album/4U8scggEIqRUwhM2LznBFI"
+      },
+      "artists": [
+        {
+          "name": "Lauren Ritter",
+          "url": "https://open.spotify.com/artist/3tPKumydOBlF2yLF0krfsL"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371612,
+      "name": "Quartz",
+      "url": "https://open.spotify.com/track/4D179b9FABEloN1rEYxqgT"
     },
     {
       "album": {
@@ -1402,7 +1438,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 401937,
       "name": "Qu\u00e9 Pas\u00f3",
       "url": "https://open.spotify.com/track/2x78SfBIHTqXnMZeysg2Gl"
@@ -1420,7 +1456,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 415999,
       "name": "Radiate",
       "url": "https://open.spotify.com/track/48P4RxHWG5pklN7z0saJdT"
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 279719,
       "name": "Super Solid - Radio Edit",
       "url": "https://open.spotify.com/track/4F2r6VndVq8LC2ZoPPQMwP"
@@ -1572,7 +1608,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
@@ -1750,7 +1786,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Voyagers",
       "url": "https://open.spotify.com/track/31wIzUj1Uw1olBO9Vlh0Tz"
@@ -1768,7 +1804,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 142300,
       "name": "wantuback",
       "url": "https://open.spotify.com/track/4U3jZQF6mMTwotTroneb9P"
@@ -1812,7 +1848,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 176482,
       "name": "YOU CAN DO IT",
       "url": "https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv"

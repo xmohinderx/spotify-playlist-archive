@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 158493,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/08AK8kZVQIt5XRjgbbW4c3"
@@ -350,10 +350,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 159152,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6fpvMHuOB3C9SCrtMGzJaO"
+    },
+    {
+      "album": {
+        "name": "Drunk Talk",
+        "url": "https://open.spotify.com/album/70LL7AKZhpdb1lhAY8QGvG"
+      },
+      "artists": [
+        {
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188579,
+      "name": "Drunk Talk",
+      "url": "https://open.spotify.com/track/6RsD5yjmpKekn3nBsv8ZyO"
     },
     {
       "album": {
@@ -368,7 +386,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 227755,
       "name": "Ever After",
       "url": "https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr"
@@ -742,10 +760,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 225468,
       "name": "I Feel It Too",
       "url": "https://open.spotify.com/track/7q1HTi8JRpHEr73M6m0Z9h"
+    },
+    {
+      "album": {
+        "name": "I Love Your Smile",
+        "url": "https://open.spotify.com/album/0bQ6i9463hxM5YLIvzAYJ4"
+      },
+      "artists": [
+        {
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134168,
+      "name": "I Love Your Smile",
+      "url": "https://open.spotify.com/track/0tFvZDDjgzoIrWaLykgvRa"
     },
     {
       "album": {
@@ -760,7 +796,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 247102,
       "name": "I See Blue",
       "url": "https://open.spotify.com/track/7McmRLT362Fss7WAUk670c"
@@ -1030,7 +1066,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 151101,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2LWFPBG7hlEpMy2b2LUu5A"
@@ -1158,7 +1194,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 289463,
       "name": "Midnight Waves",
       "url": "https://open.spotify.com/track/6C9ZOJVzjZAQ9Hk7URLRqO"
@@ -1224,7 +1260,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 224500,
       "name": "My Alibi",
       "url": "https://open.spotify.com/track/7qouDrj5jN3SuW8QwRpZad"
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 157141,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU"
@@ -1396,7 +1432,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 156428,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/6fSwN09SuOX7nnkOXyUvH7"
@@ -1484,7 +1520,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 145321,
       "name": "Running Through the Night",
       "url": "https://open.spotify.com/track/4nrFhh3yvOyhTkQBUC3Xyd"
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 146017,
       "name": "Safe To Say",
       "url": "https://open.spotify.com/track/5S9uRQ803fJlDnW2GCeuCK"
@@ -1594,7 +1630,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 123348,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4tL8PWUGzqtUbPROYVcAqg"
@@ -1918,7 +1954,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 167875,
       "name": "What They Call Love",
       "url": "https://open.spotify.com/track/3G954hH4NT5HmtGInACyi9"

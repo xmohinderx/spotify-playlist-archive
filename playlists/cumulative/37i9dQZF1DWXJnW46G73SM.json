@@ -276,7 +276,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 240343,
       "name": "El Mawdou3",
       "url": "https://open.spotify.com/track/2s4nQbVCaFH2m12kzddHCL"
@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Katr Min Orbak",
+        "url": "https://open.spotify.com/album/3jKzcf98QNkMJrLZ9eGk8Q"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187938,
+      "name": "Katr Min Orbak",
+      "url": "https://open.spotify.com/track/25PxqBg1eC40lRZtXiHYQk"
+    },
+    {
+      "album": {
         "name": "Kol Elly Fi Alby",
         "url": "https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0"
       },
@@ -814,7 +832,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 255295,
       "name": "Maqbalsh Aayesh",
       "url": "https://open.spotify.com/track/02NfyEEdo2gLpGg7VVRdtC"
@@ -930,6 +948,28 @@
       "duration_ms": 168285,
       "name": "Moody Aali",
       "url": "https://open.spotify.com/track/1JIeyLYiovSeXrj3EONekE"
+    },
+    {
+      "album": {
+        "name": "Paris Duba\u00ef",
+        "url": "https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186616,
+      "name": "Paris Duba\u00ef",
+      "url": "https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf"
     },
     {
       "album": {
@@ -1167,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u064a\u0646\u064a \u0648 \u0628\u064a\u0646\u0643",
+        "url": "https://open.spotify.com/album/1Xpv9bpRG0pmvFf2AnjFwg"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Alsahli",
+          "url": "https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183372,
+      "name": "\u0628\u064a\u0646\u064a \u0648 \u0628\u064a\u0646\u0643",
+      "url": "https://open.spotify.com/track/56JILjgRCIRy3hPxr9Eu5K"
+    },
+    {
+      "album": {
         "name": "\u0633\u0648\u0643\u0633\u064a\u0647",
         "url": "https://open.spotify.com/album/2Wu6uUUCLxq99a0DnuMvpa"
       },
@@ -1244,6 +1302,24 @@
       "duration_ms": 250484,
       "name": "\u0644\u0645\u0627 \u062a\u062d\u0633",
       "url": "https://open.spotify.com/track/5gTOE3Z7sTgN26AQo15cjU"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062a\u0645\u0643\u0646\u0647",
+        "url": "https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum"
+      },
+      "artists": [
+        {
+          "name": "Lamis Kan",
+          "url": "https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158318,
+      "name": "\u0645\u062a\u0645\u0643\u0646\u0647",
+      "url": "https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM"

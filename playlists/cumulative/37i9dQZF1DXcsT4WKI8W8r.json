@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 160346,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/4ywfuHVfB8wvm8tHWHK5QI"
@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159168,
+      "name": "Bet You Wanna (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/1hPkiovjTqiJAJen4uyNRg"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW"
       },
@@ -358,7 +380,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU"
@@ -430,7 +452,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
@@ -488,7 +510,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
@@ -690,7 +712,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 181520,
       "name": "comethru",
       "url": "https://open.spotify.com/track/6fFTPGGItuEpjwXRUIr4rk"
@@ -878,7 +900,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 175952,
       "name": "elephant in the room",
       "url": "https://open.spotify.com/track/61jjgVlNSJtLQ06Gy28mtA"
@@ -1012,7 +1034,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 203094,
       "name": "Finally Free - From \"Smallfoot\"",
       "url": "https://open.spotify.com/track/7xQxjMokrYnY8n9w19FZqr"
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 174493,
       "name": "going out",
       "url": "https://open.spotify.com/track/4fVRuWru6EQ8fGMeCPP431"
@@ -1142,7 +1164,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 165298,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/0rGdsj1LUxGrnTjWSl8PGW"
@@ -1160,7 +1182,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 190933,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y"
@@ -1214,7 +1236,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 217760,
       "name": "Hurts To Be Hurt",
       "url": "https://open.spotify.com/track/7FW5m5TX7Z0ql49YNgWiqk"
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 165526,
       "name": "LET IT GO (feat. Justin Bieber & 21 Savage)",
       "url": "https://open.spotify.com/track/1cEhrSF6EylAEqdhUGuNpX"
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 169353,
       "name": "Love To Go",
       "url": "https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ"
@@ -2182,7 +2204,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 164577,
       "name": "Needed",
       "url": "https://open.spotify.com/track/3V12MJj9mQlIVovOTcH71v"
@@ -2332,7 +2354,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 202486,
       "name": "Oops (I'm Sorry)",
       "url": "https://open.spotify.com/track/485KVYPmRISdLpKbaSJ81u"
@@ -2368,7 +2390,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 179340,
       "name": "Play Human",
       "url": "https://open.spotify.com/track/4gDoMkkh8Ky770Y05Hc3Ts"
@@ -2560,7 +2582,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 187729,
       "name": "Religion",
       "url": "https://open.spotify.com/track/0YT1UVqGD6wAWaTVRo0bGY"
@@ -2655,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Know-It-All (Deluxe)",
+        "url": "https://open.spotify.com/album/3rDbA12I5duZnlwakqDdZa"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230226,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/0prNGof3XqfTvNDxHonvdK"
+    },
+    {
+      "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/7lKcUee1PLUqxlKcDNZQbM"
       },
@@ -2724,7 +2764,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
@@ -2884,7 +2924,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 167800,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/63HPS15Kvde81RVcgTe8aR"
@@ -2920,7 +2960,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 205320,
       "name": "spark",
       "url": "https://open.spotify.com/track/3S8ltNG88j9u6JHGa0b7um"
@@ -3040,7 +3080,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 265381,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH"
@@ -3098,7 +3138,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "The Least That I Could Do",
       "url": "https://open.spotify.com/track/7B0agS1sIVLUGYG5oVHZ3V"
@@ -3174,7 +3214,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 198624,
       "name": "Thelma and Louise",
       "url": "https://open.spotify.com/track/0p1l3kDnO0y7GHGqyoJiJx"
@@ -3210,7 +3250,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 171360,
       "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
       "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
@@ -3282,7 +3322,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX"

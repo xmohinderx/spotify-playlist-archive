@@ -814,7 +814,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 193148,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/6WX6YUtobLydEjuvFqVggj"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 161605,
       "name": "Dirrt",
       "url": "https://open.spotify.com/track/0h3jDrGXvkETn0xJRcZOJ9"
@@ -2412,6 +2412,24 @@
       "duration_ms": 146419,
       "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
       "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
+    },
+    {
+      "album": {
+        "name": "juggernaut (Prod. by PLVSTIC)",
+        "url": "https://open.spotify.com/album/0VvyEZ46jEtwX9VWhkQZJC"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136798,
+      "name": "juggernaut (Prod. by PLVSTIC)",
+      "url": "https://open.spotify.com/track/57V0VhEg1CAkPXeaCLikNW"
     },
     {
       "album": {
@@ -5646,7 +5664,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 127058,
       "name": "\u0410\u0437\u0431\u0443\u043a\u0430",
       "url": "https://open.spotify.com/track/6bqT9F2wP82zkBqMpIz0G5"
@@ -8374,7 +8392,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 202040,
       "name": "\u041a\u0443\u043a\u043b\u0430 \u043a\u043e\u043b\u0434\u0443\u043d\u0430",
       "url": "https://open.spotify.com/track/2DYzsMQpO7xOw7b3JwyIWP"
@@ -9000,7 +9018,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 166160,
       "name": "\u041c\u044b \u0432\u0441\u0435 \u0443\u043c\u0440\u0435\u043c",
       "url": "https://open.spotify.com/track/0zBQznV5QeLsqPz5sgU2hq"

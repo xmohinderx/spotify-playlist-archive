@@ -468,7 +468,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 147760,
       "name": "Intandane",
       "url": "https://open.spotify.com/track/2jMbbolEHHIzHlqg0ZNpiT"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 178836,
       "name": "Jol'inkomo - Mono Version",
       "url": "https://open.spotify.com/track/5FTTPWCrARiEajTfdzr4D9"
@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Miriam Makeba",
+        "url": "https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199840,
+      "name": "Mbube",
+      "url": "https://open.spotify.com/track/5arMcy1mhCAPd3zGzx3uJJ"
+    },
+    {
+      "album": {
         "name": "Miriam's Goodbye to Africa",
         "url": "https://open.spotify.com/album/2Ag9Zu0N5KMNwCZ6nnspnI"
       },
@@ -724,7 +742,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 240600,
       "name": "Quit It",
       "url": "https://open.spotify.com/track/5M2RyoYc95uC79sFUp2EJ1"
@@ -782,6 +800,24 @@
       "duration_ms": 170882,
       "name": "Ring Bell, Ring Bell - Mono Version",
       "url": "https://open.spotify.com/track/5EiTIXOr8FXC6jHNNYjVbU"
+    },
+    {
+      "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292320,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/7wRrVZt1Xq7iCbq6AYrthq"
     },
     {
       "album": {
@@ -836,7 +872,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 256680,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
@@ -854,10 +890,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 165813,
       "name": "Sunrise, Sunset (From the Broadway Musical \"Fiddler On the Roof\")",
       "url": "https://open.spotify.com/track/7x71ai4plaSJN7TiXoKrZ0"
+    },
+    {
+      "album": {
+        "name": "The Click Song",
+        "url": "https://open.spotify.com/album/660kKC1wgzwtHYOn5aza9N"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153373,
+      "name": "The Click Song",
+      "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
     },
     {
       "album": {
@@ -934,7 +988,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 475627,
       "name": "Warrior Mbube",
       "url": "https://open.spotify.com/track/6h8EgWXQRKv1zmiD8ZNWWC"
@@ -988,7 +1042,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 165532,
       "name": "West Wind - Mono Version",
       "url": "https://open.spotify.com/track/1U6Wz3sxQdVS9Fb5fkGDXc"
@@ -1046,6 +1100,24 @@
       "duration_ms": 319626,
       "name": "Xica da Silva",
       "url": "https://open.spotify.com/track/5T6KniOzIj3Bh7DDNzrGhJ"
+    },
+    {
+      "album": {
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171001,
+      "name": "Yetentu Tizaleny - Mono Version",
+      "url": "https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w"

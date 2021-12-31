@@ -1,12 +1,12 @@
 {
   "description": "Holdin' it down for the westside. Cover: Blxst",
   "name": "Westside Story",
-  "num_followers": 678667,
+  "num_followers": 678738,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTg2NjE4NywwMDAwMDUwMzAwMDAwMTdkY2ZhNDNmODEwMDAwMDE3ZDdkN2NhOWNl",
+  "snapshot_id": "MTY0MDkwOTExNywwMDAwMDUwNDAwMDAwMTdlMGRjZTE4ZjEwMDAwMDE3ZDdkN2NhOWNl",
   "tracks": [
     {
       "added_at": "2021-12-17 05:00:00",
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 204626,
-      "name": "25 million",
-      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
+      "duration_ms": 200958,
+      "name": "thailand",
+      "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -135,6 +135,22 @@
       "duration_ms": 177440,
       "name": "Big Steppin'",
       "url": "https://open.spotify.com/track/3mEvoHooPhGoCEPllsAHbH"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -371,22 +387,6 @@
       "duration_ms": 115822,
       "name": "STOP IT",
       "url": "https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 200958,
-      "name": "thailand",
-      "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
     },
     {
       "added_at": "2021-12-03 05:00:00",

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 301994,
       "name": "-27",
       "url": "https://open.spotify.com/track/6rUYK7cpwxyBia9qYtwxUd"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 205624,
       "name": "Apnea - Instrumental",
       "url": "https://open.spotify.com/track/12200irx8PX7uEm3u8FJEE"
@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Into the Great Divide",
+        "url": "https://open.spotify.com/album/6wrPyQSP6GQOaMne01mH6s"
+      },
+      "artists": [
+        {
+          "name": "Into The Great Divide",
+          "url": "https://open.spotify.com/artist/0zIU8Wb36oXdRLXvqACQ5K"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272880,
+      "name": "Chapter 4: Tests & Enemies",
+      "url": "https://open.spotify.com/track/0B3CZlYaVRzTpAqfFoV4my"
+    },
+    {
+      "album": {
         "name": "Sculpture",
         "url": "https://open.spotify.com/album/5jD81VgX8p3EzIwQIhrHiE"
       },
@@ -726,7 +744,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 286080,
       "name": "Decayer",
       "url": "https://open.spotify.com/track/6BZFeisu2l3kkVm2C2hYzK"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 249373,
       "name": "Fracture - Bonus Instrumental",
       "url": "https://open.spotify.com/track/3ElhKMgLvETrc4j0A2qroS"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 288500,
       "name": "Laughing with Such Abandon",
       "url": "https://open.spotify.com/track/3fyGSHl08qE7kzCnBLF7aV"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 296867,
       "name": "MEGALOVANIA",
       "url": "https://open.spotify.com/track/1yINJ8uEWPLNTg7ca3kp5k"
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 239750,
       "name": "Null Point (feat. Sithu Aye)",
       "url": "https://open.spotify.com/track/3VURA6hWcr7VBrdzOVZXfO"
@@ -1790,7 +1808,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 275973,
       "name": "Release",
       "url": "https://open.spotify.com/track/2uCb8cFfuvltKgQdU6B6zI"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 321476,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/4dtivLmhG37pJI3t9PT8MX"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 325913,
       "name": "Seres (la macchina ha superato l'uomo)",
       "url": "https://open.spotify.com/track/5tKSKEsfwZYcS2wmfPA67k"
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 232542,
       "name": "Signals - Instrumental",
       "url": "https://open.spotify.com/track/2DQeD4Y1LDOtKgE0jWqezB"
@@ -2086,7 +2104,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 209333,
       "name": "Storm",
       "url": "https://open.spotify.com/track/7j5qDqtGGMZ8aFNsOX43A8"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 243840,
       "name": "Troya (Gates Open)",
       "url": "https://open.spotify.com/track/4G9l5AlsJ6ZthF2cyoFmdo"

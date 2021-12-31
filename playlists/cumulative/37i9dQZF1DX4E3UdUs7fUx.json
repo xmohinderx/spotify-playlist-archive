@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 250405,
       "name": "A Folk Singer From Outer Space",
       "url": "https://open.spotify.com/track/36uU2KHot3kUhFjCvTbSXE"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 212354,
       "name": "Blind in the Fray",
       "url": "https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 195735,
       "name": "Boardwalks",
       "url": "https://open.spotify.com/track/3jDF66ZATb0FcHNnOqeyDK"
@@ -218,10 +218,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 241639,
       "name": "Breast of Glass",
       "url": "https://open.spotify.com/track/04KKr7Ri3H3lVTVdNxcyK1"
+    },
+    {
+      "album": {
+        "name": "Open Season (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+      },
+      "artists": [
+        {
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150521,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
     },
     {
       "album": {
@@ -362,7 +380,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 209680,
       "name": "Diane",
       "url": "https://open.spotify.com/track/0TNo6QGomZYTL9qkb1zsNq"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 230508,
       "name": "Grey County Blues",
       "url": "https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj"
@@ -842,7 +860,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 270226,
       "name": "Leave Me Now",
       "url": "https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz"
@@ -950,7 +968,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 153533,
       "name": "Love Is Tall",
       "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 187411,
       "name": "Mountain Falls for the Sea",
       "url": "https://open.spotify.com/track/7oRtHBBKdsl4XLQBWjWDDW"
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 210689,
       "name": "St. Augustine",
       "url": "https://open.spotify.com/track/6dG4m4wqyU4jeeb1JYWQj6"
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 135077,
       "name": "Sweet Return",
       "url": "https://open.spotify.com/track/3LApsNoXrlZHPIhGNdo8P1"
@@ -1733,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Top to Toe",
+        "url": "https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216415,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
+    },
+    {
+      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/6ke1877tfbBGWSlHFwxomE"
       },
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 182374,
       "name": "Try to Make a Fire Burn Again",
       "url": "https://open.spotify.com/track/6rKfnpSyHhdVrukCPZT3hK"
@@ -1888,7 +1924,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 217133,
       "name": "Water in the Barrel",
       "url": "https://open.spotify.com/track/7elXaVsrVrwczas2crAE0U"

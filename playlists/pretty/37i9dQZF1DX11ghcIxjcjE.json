@@ -1,175 +1,15 @@
 {
-  "description": "Grunge will live forever.",
+  "description": "Grunge will live forever. Cover: Pearl Jam",
   "name": "Grunge Forever",
-  "num_followers": 1104950,
+  "num_followers": 1105506,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODMxMDkxOSwwMDAwMDA0OTAwMDAwMTdkNzJmMGJlZWEwMDAwMDE3ZDcyZTM2NjQx",
+  "snapshot_id": "MTY0MDg4NzMyMywwMDAwMDA0YzAwMDAwMTdlMGM4MThiNjkwMDAwMDE3ZDcyZTM2NjQx",
   "tracks": [
     {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
-        "url": "https://open.spotify.com/album/7mhk75WqSVNIvxZumfCdvu"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/4OaV9UYQ3EfrBRPjoO6u7c"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 292580,
-      "name": "Even Flow",
-      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Would?",
-      "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/3ztCt91U2wGkDZuzbCwH6H"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Core",
-        "url": "https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 310346,
-      "name": "Plush",
-      "url": "https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
-        "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Jeremy",
-        "url": "https://open.spotify.com/album/1WJ3UbOi2QYGuRgXCc9FIV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 303586,
-      "name": "Yellow Ledbetter",
-      "url": "https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Superunknown (20th Anniversary)",
-        "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "Fell On Black Days",
-      "url": "https://open.spotify.com/track/3vBA9cISon26MlnDWdKSSQ"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Interstate Love Song",
-      "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Facelift",
-        "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
-      },
-      "artists": [
-        {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        }
-      ],
-      "duration_ms": 285200,
-      "name": "Man in the Box",
-      "url": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Bleach: Deluxe Edition",
         "url": "https://open.spotify.com/album/2Lfy46M23IUeiDATnra0Bl"
@@ -185,7 +25,7 @@
       "url": "https://open.spotify.com/track/0O4Yt3iHNIZGFE3uhFLu6I"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
@@ -201,71 +41,23 @@
       "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
-        "name": "Hunger Strike (25th Anniversary Mix)",
-        "url": "https://open.spotify.com/album/5lZMq9bGOLJXJQ05BBX6zL"
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
       },
       "artists": [
         {
-          "name": "Temple Of The Dog",
-          "url": "https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd"
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 246266,
-      "name": "Hunger Strike - 25th Anniversary Mix",
-      "url": "https://open.spotify.com/track/2EiA1EfoX6jFGVCGqkBiT6"
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/3ztCt91U2wGkDZuzbCwH6H"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Today - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3cahGAUUQ0n55EjLBs2Wjo"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Core",
-        "url": "https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 332626,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0elH6ukMGLyCHJavHutEza"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Candlebox",
-        "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
-      },
-      "artists": [
-        {
-          "name": "Candlebox",
-          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
-        }
-      ],
-      "duration_ms": 299733,
-      "name": "Far Behind",
-      "url": "https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Dirt",
         "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
@@ -276,12 +68,28 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 338226,
-      "name": "Down In A Hole",
-      "url": "https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"
+      "duration_ms": 206773,
+      "name": "Would?",
+      "url": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Core",
+        "url": "https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 310346,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "In Utero - 20th Anniversary Remaster",
         "url": "https://open.spotify.com/album/4HACR8HgOYj1HH4vCZ3MVi"
@@ -297,7 +105,7 @@
       "url": "https://open.spotify.com/track/5sWMEcMemPH3Bc8hxeivIi"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
@@ -308,76 +116,92 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 318226,
-      "name": "Jeremy",
-      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
+      "duration_ms": 292580,
+      "name": "Even Flow",
+      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
+        "name": "Facelift",
+        "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 298253,
-      "name": "Cherub Rock - Remastered 2011",
-      "url": "https://open.spotify.com/track/0F2LiyHp9E0pAanpfnzHNp"
+      "duration_ms": 285200,
+      "name": "Man in the Box",
+      "url": "https://open.spotify.com/track/6gZVQvQZOFpzIy3HblJ20F"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
-        "name": "Sixteen Stone (Remastered)",
-        "url": "https://open.spotify.com/album/2tvQxqjYZn9tUZ0D6ZGEJC"
+        "name": "Badmotorfinger (25th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4aMtDUIct8FPhAhsPU7c5z"
       },
       "artists": [
         {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 266493,
-      "name": "Glycerine - Remastered",
-      "url": "https://open.spotify.com/track/2nzlgHTbUDzuRtTFoX3qfJ"
+      "duration_ms": 311000,
+      "name": "Outshined",
+      "url": "https://open.spotify.com/track/5RHMIAMbad22ckCLBKoAEb"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/24eGklcEnMaVcGXzmJSeoD"
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
       },
       "artists": [
         {
-          "name": "Mad Season",
-          "url": "https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z"
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
         }
       ],
-      "duration_ms": 302693,
-      "name": "River Of Deceit",
-      "url": "https://open.spotify.com/track/3e2fDgC93LGc9Lbdvr6I9k"
+      "duration_ms": 193613,
+      "name": "Interstate Love Song",
+      "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+        "name": "Jeremy",
+        "url": "https://open.spotify.com/album/1WJ3UbOi2QYGuRgXCc9FIV"
       },
       "artists": [
         {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 217106,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+      "duration_ms": 303586,
+      "name": "Yellow Ledbetter",
+      "url": "https://open.spotify.com/track/3bE5slaVEfaDreqARl6k4M"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "This Is a Call",
+      "url": "https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Superunknown (20th Anniversary)",
         "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
@@ -388,60 +212,12 @@
           "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 246920,
-      "name": "Spoonman",
-      "url": "https://open.spotify.com/track/2tkyEHSkv0I3l4OkBe1FnO"
+      "duration_ms": 283026,
+      "name": "Fell On Black Days",
+      "url": "https://open.spotify.com/track/3vBA9cISon26MlnDWdKSSQ"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
-      },
-      "artists": [
-        {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Daughter (Remastered)",
-      "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604"
-      },
-      "artists": [
-        {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Lump",
-      "url": "https://open.spotify.com/track/2JdzB67NvIa90K4gEZPLeX"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Nevermind (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
@@ -457,7 +233,231 @@
       "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "Jeremy",
+      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Hunger Strike (25th Anniversary Mix)",
+        "url": "https://open.spotify.com/album/5lZMq9bGOLJXJQ05BBX6zL"
+      },
+      "artists": [
+        {
+          "name": "Temple Of The Dog",
+          "url": "https://open.spotify.com/artist/0iHb0mCbqZTYeb4y9Pirrd"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Hunger Strike - 25th Anniversary Mix",
+      "url": "https://open.spotify.com/track/2EiA1EfoX6jFGVCGqkBiT6"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Daughter (Remastered)",
+      "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 338226,
+      "name": "Down In A Hole",
+      "url": "https://open.spotify.com/track/7FRfYOql61DGDp9VPPe2qA"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Singles - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 345133,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4QglwXpVgc088RhQOp42vx"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/7mhk75WqSVNIvxZumfCdvu"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/4OaV9UYQ3EfrBRPjoO6u7c"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Core",
+        "url": "https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 332626,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0elH6ukMGLyCHJavHutEza"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Badmotorfinger (25th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/4aMtDUIct8FPhAhsPU7c5z"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Rusty Cage",
+      "url": "https://open.spotify.com/track/2hQTu9qTfqXAh5PtSbEm18"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Candlebox",
+        "url": "https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb"
+      },
+      "artists": [
+        {
+          "name": "Candlebox",
+          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
+        }
+      ],
+      "duration_ms": 299733,
+      "name": "Far Behind",
+      "url": "https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "I'll Stick Around",
+      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Sixteen Stone (Remastered)",
+        "url": "https://open.spotify.com/album/2tvQxqjYZn9tUZ0D6ZGEJC"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Glycerine - Remastered",
+      "url": "https://open.spotify.com/track/2nzlgHTbUDzuRtTFoX3qfJ"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Jar Of Flies",
+        "url": "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Nutshell",
+      "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Superunknown (20th Anniversary)",
+        "url": "https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Spoonman",
+      "url": "https://open.spotify.com/track/2tkyEHSkv0I3l4OkBe1FnO"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Temple Of The Dog (Deluxe Edition)",
         "url": "https://open.spotify.com/album/54OgudGxTodEydf94N5BOW"
@@ -473,103 +473,7 @@
       "url": "https://open.spotify.com/track/43MISNkxKhfhjk2PD4VKeQ"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Mother Love Bone",
-        "url": "https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab"
-      },
-      "artists": [
-        {
-          "name": "Mother Love Bone",
-          "url": "https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0"
-        }
-      ],
-      "duration_ms": 381493,
-      "name": "Crown Of Thorns",
-      "url": "https://open.spotify.com/track/2dLBo6rg8B2OuhuCETN9Dd"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Heretics",
-        "url": "https://open.spotify.com/album/6iLnTLBRtx064EEer404cr"
-      },
-      "artists": [
-        {
-          "name": "Toadies",
-          "url": "https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO"
-        }
-      ],
-      "duration_ms": 354493,
-      "name": "Possum Kingdom",
-      "url": "https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Rotting Pinata",
-        "url": "https://open.spotify.com/album/1V76gZ6Ln4ubw7aiok7Qoa"
-      },
-      "artists": [
-        {
-          "name": "Sponge",
-          "url": "https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Plowed",
-      "url": "https://open.spotify.com/track/3vaONhSGEscyYeYoGpMLW4"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Boggy Depot",
-        "url": "https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5"
-      },
-      "artists": [
-        {
-          "name": "Jerry Cantrell",
-          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cut You In",
-      "url": "https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Pretend We're Dead",
-      "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "1000 Smiling Knuckles",
-        "url": "https://open.spotify.com/album/6eEONt3JiPOcm8IoYRCtH0"
-      },
-      "artists": [
-        {
-          "name": "Skin Yard",
-          "url": "https://open.spotify.com/artist/0sPa3yPonEuDbDhBzz7g4E"
-        }
-      ],
-      "duration_ms": 294760,
-      "name": "Burn a Hole",
-      "url": "https://open.spotify.com/track/7fJZisLc35j8EbIQxTFx8b"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Nevermind (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
@@ -585,10 +489,106 @@
       "url": "https://open.spotify.com/track/1f3yAtsJtY87CTmM8RLnxf"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
-        "name": "Live Through This",
-        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+        "name": "Core",
+        "url": "https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Sex Type Thing",
+      "url": "https://open.spotify.com/track/2nWjhmRImt6LScZIPQMBnM"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/24eGklcEnMaVcGXzmJSeoD"
+      },
+      "artists": [
+        {
+          "name": "Mad Season",
+          "url": "https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "River Of Deceit",
+      "url": "https://open.spotify.com/track/3e2fDgC93LGc9Lbdvr6I9k"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 374333,
+      "name": "Rooster",
+      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/4lxW0axOKlImAQ0akMRz61"
+      },
+      "artists": [
+        {
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+        }
+      ],
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Mother Love Bone",
+        "url": "https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab"
+      },
+      "artists": [
+        {
+          "name": "Mother Love Bone",
+          "url": "https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0"
+        }
+      ],
+      "duration_ms": 381493,
+      "name": "Crown Of Thorns",
+      "url": "https://open.spotify.com/track/2dLBo6rg8B2OuhuCETN9Dd"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Pretty On The Inside",
+        "url": "https://open.spotify.com/album/335Wo8YySOsJdc0QV9ANvK"
       },
       "artists": [
         {
@@ -596,12 +596,60 @@
           "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Doll Parts",
-      "url": "https://open.spotify.com/track/49t1GWE6ZiEoBgN92oMDdM"
+      "duration_ms": 177226,
+      "name": "Teenage Whore",
+      "url": "https://open.spotify.com/track/5L3H63sBURBch3bUJ2acIJ"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Boggy Depot",
+        "url": "https://open.spotify.com/album/6AK1eIMwW1LxFNlqwiDED5"
+      },
+      "artists": [
+        {
+          "name": "Jerry Cantrell",
+          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Cut You In",
+      "url": "https://open.spotify.com/track/0ecuZefr04QYl0cGpT53Nz"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Heretics",
+        "url": "https://open.spotify.com/album/6iLnTLBRtx064EEer404cr"
+      },
+      "artists": [
+        {
+          "name": "Toadies",
+          "url": "https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO"
+        }
+      ],
+      "duration_ms": 354493,
+      "name": "Possum Kingdom",
+      "url": "https://open.spotify.com/track/7geL2YhrXDr9tFjoNJMaSZ"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Rotting Pinata",
+        "url": "https://open.spotify.com/album/1V76gZ6Ln4ubw7aiok7Qoa"
+      },
+      "artists": [
+        {
+          "name": "Sponge",
+          "url": "https://open.spotify.com/artist/2JXDwIo5HsiwTcTPQytrZ8"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Plowed",
+      "url": "https://open.spotify.com/track/3vaONhSGEscyYeYoGpMLW4"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Between The Eyes",
         "url": "https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc"
@@ -617,39 +665,39 @@
       "url": "https://open.spotify.com/track/6qJw4fs0BB5pxYvb9RXuJk"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/5xxeAo8AVneH1OKO5vR604"
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
       },
       "artists": [
         {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/3VEFybccRTeWSZRkJxDuNR"
+      "duration_ms": 235093,
+      "name": "Pretend We're Dead",
+      "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
-        "name": "Eight Arms To Hold You",
-        "url": "https://open.spotify.com/album/1hqpIXsb19ux5c0rXNlJbq"
+        "name": "Mother Love Bone",
+        "url": "https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab"
       },
       "artists": [
         {
-          "name": "Veruca Salt",
-          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+          "name": "Mother Love Bone",
+          "url": "https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0"
         }
       ],
-      "duration_ms": 198762,
-      "name": "Volcano Girls",
-      "url": "https://open.spotify.com/track/6ifDwKH8OlIWPcXuWMyST2"
+      "duration_ms": 221160,
+      "name": "This Is Shangrila",
+      "url": "https://open.spotify.com/track/5bgyaidikHcXFd0o3Pp7A1"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Singles - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC"
@@ -665,23 +713,7 @@
       "url": "https://open.spotify.com/track/4EiLHuUSKTlaGmdR17J2tc"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
-      "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
-      },
-      "artists": [
-        {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Revolve",
-      "url": "https://open.spotify.com/track/09hctAvAEUpm7MKl1RBK2j"
-    },
-    {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Inhaler",
         "url": "https://open.spotify.com/album/4WpEzQ3Vc4qG1Ro41EG88K"
@@ -697,7 +729,55 @@
       "url": "https://open.spotify.com/track/3YsG8BwqrJzM3DOqYpFLp0"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Above (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn"
+      },
+      "artists": [
+        {
+          "name": "Mad Season",
+          "url": "https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "I Don't Know Anything",
+      "url": "https://open.spotify.com/track/5DRUgJmwLvCHQjiFzb4LSQ"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
+      },
+      "artists": [
+        {
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Revolve",
+      "url": "https://open.spotify.com/track/09hctAvAEUpm7MKl1RBK2j"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "1000 Smiling Knuckles",
+        "url": "https://open.spotify.com/album/6eEONt3JiPOcm8IoYRCtH0"
+      },
+      "artists": [
+        {
+          "name": "Skin Yard",
+          "url": "https://open.spotify.com/artist/0sPa3yPonEuDbDhBzz7g4E"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Burn a Hole",
+      "url": "https://open.spotify.com/track/7fJZisLc35j8EbIQxTFx8b"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Sweet Oblivion",
         "url": "https://open.spotify.com/album/3SOcm48I0DOX1KEHF2IEVY"
@@ -713,7 +793,23 @@
       "url": "https://open.spotify.com/track/0donjzZGsCA2PfPUA4EdMN"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Superfuzz Bigmuff",
+        "url": "https://open.spotify.com/album/6YbDNY7VkyBqbO9rBmqVAN"
+      },
+      "artists": [
+        {
+          "name": "Mudhoney",
+          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "Touch Me I'm Sick",
+      "url": "https://open.spotify.com/track/6wqCxCqYo91ITacXydBobx"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/3gddM4c24OsUsD35q9qdFT"
@@ -729,7 +825,23 @@
       "url": "https://open.spotify.com/track/50f5BoytJN3FrlUtDgltO5"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Doll Parts",
+      "url": "https://open.spotify.com/track/49t1GWE6ZiEoBgN92oMDdM"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Where You Been [Digital Version] [with Bonus Track]",
         "url": "https://open.spotify.com/album/1qeu2eJJWAn1cLSW0EOZij"
@@ -745,7 +857,39 @@
       "url": "https://open.spotify.com/track/5vlvuYDeC10hTC82qT6In3"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Shitlist",
+      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Eight Arms To Hold You",
+        "url": "https://open.spotify.com/album/1hqpIXsb19ux5c0rXNlJbq"
+      },
+      "artists": [
+        {
+          "name": "Veruca Salt",
+          "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
+        }
+      ],
+      "duration_ms": 198762,
+      "name": "Volcano Girls",
+      "url": "https://open.spotify.com/track/6ifDwKH8OlIWPcXuWMyST2"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Return To Olympus",
         "url": "https://open.spotify.com/album/10qfgSLG6xxI1OEQX9oZAE"
@@ -761,7 +905,7 @@
       "url": "https://open.spotify.com/track/5eXJylmFFCqixTxJGYKny8"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/5GFkxEk3O1X6QZnhVISTx3"
@@ -777,7 +921,7 @@
       "url": "https://open.spotify.com/track/2BabU2GZT5laWFWslSeUIo"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Dry as a Bone / Rehab Doll",
         "url": "https://open.spotify.com/album/53fNxdiYiPEaFwNxIjuNR0"
@@ -793,7 +937,7 @@
       "url": "https://open.spotify.com/track/7HvRYprYqG9Plg5qjZ4yfH"
     },
     {
-      "added_at": "2021-11-30 22:21:59",
+      "added_at": "2021-12-30 15:16:20",
       "album": {
         "name": "Piece Of Cake",
         "url": "https://open.spotify.com/album/3CNnWJLxLMowI9DYqgLLeq"
@@ -807,6 +951,22 @@
       "duration_ms": 154346,
       "name": "Suck You Dry - 2008 Remaster",
       "url": "https://open.spotify.com/track/3Fg4SlOiqKDodVJbAM2Gut"
+    },
+    {
+      "added_at": "2021-12-30 15:16:20",
+      "album": {
+        "name": "Dead Beats",
+        "url": "https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA"
+      },
+      "artists": [
+        {
+          "name": "Blood Circus",
+          "url": "https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Six Foot Under",
+      "url": "https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX11ghcIxjcjE"

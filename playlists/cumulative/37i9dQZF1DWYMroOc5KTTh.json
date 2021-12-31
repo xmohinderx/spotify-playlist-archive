@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/52t3lx38kiruAIGY2gISfc"
@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Body Positivity",
+        "url": "https://open.spotify.com/album/53EaOMQA6NlBuXtSPSmtY9"
+      },
+      "artists": [
+        {
+          "name": "Star Slinger",
+          "url": "https://open.spotify.com/artist/4GyYa2wB1SohURhDwDCCnQ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Body Positivity",
+      "url": "https://open.spotify.com/track/6KSjdSoFDgKHbGvB3Lzi2R"
+    },
+    {
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
@@ -154,7 +172,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
@@ -190,7 +208,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 291463,
       "name": "Calico",
       "url": "https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ"
@@ -212,6 +230,24 @@
       "duration_ms": 254871,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4M1Ge6mFbDrV1LdQFiVtRE"
+      },
+      "artists": [
+        {
+          "name": "Aevion",
+          "url": "https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250862,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
     },
     {
       "album": {
@@ -252,10 +288,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 245601,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g"
+    },
+    {
+      "album": {
+        "name": "Miss Anthropocene (Rave Edition)",
+        "url": "https://open.spotify.com/album/5CQbuEmt9rY7yS2xPiXxw7"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Delete Forever - Channel Tres Remix",
+      "url": "https://open.spotify.com/track/1ELKvt9xRUcwr8zK4LLiM7"
     },
     {
       "album": {
@@ -288,7 +346,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 235513,
       "name": "Drink This Water",
       "url": "https://open.spotify.com/track/40uxM76zg95u2dsn1qILFG"
@@ -419,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Fruit Punch",
+        "url": "https://open.spotify.com/album/7GedFW6ha4qFhf7JELVK8e"
+      },
+      "artists": [
+        {
+          "name": "Jay Faded",
+          "url": "https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170375,
+      "name": "Fruit Punch",
+      "url": "https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB"
+    },
+    {
+      "album": {
         "name": "GLY",
         "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
       },
@@ -470,7 +546,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 238333,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/0b4FAp9BjRoh9MmCs3TI0D"
@@ -488,7 +564,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 230551,
       "name": "Greatest Love - Edit",
       "url": "https://open.spotify.com/track/6wmtEikDlY2JbV0nlrscxy"
@@ -506,10 +582,54 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 206500,
       "name": "I'm a Kid",
       "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
+    },
+    {
+      "album": {
+        "name": "Joyfulness",
+        "url": "https://open.spotify.com/album/6n8v9B5GDwqDvtFoiybePk"
+      },
+      "artists": [
+        {
+          "name": "Hector Plimmer",
+          "url": "https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV"
+        },
+        {
+          "name": "Alexa Harley",
+          "url": "https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164874,
+      "name": "Joyfulness - Radio Edit",
+      "url": "https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH"
+    },
+    {
+      "album": {
+        "name": "Keep Me In The Dark (feat. Jim Junior)",
+        "url": "https://open.spotify.com/album/0c7XA5RkZVU6Cbl4tfyP8M"
+      },
+      "artists": [
+        {
+          "name": "Black Saint",
+          "url": "https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5"
+        },
+        {
+          "name": "Jim Junior",
+          "url": "https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187194,
+      "name": "Keep Me In The Dark (feat. Jim Junior)",
+      "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
     },
     {
       "album": {
@@ -575,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Lightenup (Alex Metric Remix)",
+        "url": "https://open.spotify.com/album/5CD57eZyNcQPV9kzXSkVnR"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438717,
+      "name": "Lightenup - Alex Metric Remix",
+      "url": "https://open.spotify.com/track/1rIPNuXlthhSUphhva5d5y"
+    },
+    {
+      "album": {
         "name": "Little Girl",
         "url": "https://open.spotify.com/album/65Omxu0Zx1jcdJhLJ4OuRw"
       },
@@ -611,6 +753,46 @@
     },
     {
       "album": {
+        "name": "Make It Better",
+        "url": "https://open.spotify.com/album/3Gwu3IgvHqRz4CIAqGJkzp"
+      },
+      "artists": [
+        {
+          "name": "Child Of The Parish",
+          "url": "https://open.spotify.com/artist/0Ts7cCLH53aCD2WE3PHdMn"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218046,
+      "name": "Make It Better",
+      "url": "https://open.spotify.com/track/13BOL5TQDF3mEZ9uRh25ud"
+    },
+    {
+      "album": {
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "album": {
         "name": "Ndeko Solo",
         "url": "https://open.spotify.com/album/6EJmG2vGlkqjgl9J9RP6Y0"
       },
@@ -622,7 +804,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 263878,
       "name": "Ndeko Solo",
       "url": "https://open.spotify.com/track/3fsaBPSlFoPMx3hnO0vmL9"
@@ -775,6 +957,24 @@
     },
     {
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/1R8SYFomn8PdIAYlGgzwjr"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259146,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/0BeR2mw32K0N5PrtRxWrZl"
+    },
+    {
+      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/6At9zWklU7p32WDdskTrrV"
       },
@@ -804,7 +1004,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 239677,
       "name": "Second Story Sunlight",
       "url": "https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7"
@@ -826,10 +1026,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 204500,
       "name": "September",
       "url": "https://open.spotify.com/track/0vO9JzWoVdo7T9BKDvTGvY"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/61AStQYO30jVau93JxRtXP"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
     },
     {
       "album": {
@@ -869,6 +1087,46 @@
     },
     {
       "album": {
+        "name": "So High (feat. Maths Time Joy)",
+        "url": "https://open.spotify.com/album/5nel6SmpP1TrXX3Ci9XXPx"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        },
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232062,
+      "name": "So High (feat. Maths Time Joy)",
+      "url": "https://open.spotify.com/track/6dJjTYKHnGWsoEciR4F2YL"
+    },
+    {
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/1rD8ALkiUVpxWmxSZPIVU8"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198523,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4ARjCGggd0yAjlXd2vmx5D"
+    },
+    {
+      "album": {
         "name": "SUNRISE (feat. Arlo Parks)",
         "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
       },
@@ -884,7 +1142,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 176666,
       "name": "SUNRISE (feat. Arlo Parks)",
       "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
@@ -902,7 +1160,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 215979,
       "name": "The Last Time I Saw You",
       "url": "https://open.spotify.com/track/6gHcbKtydW4jO5scP8J0qn"
@@ -931,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Trouble to Share",
+        "url": "https://open.spotify.com/album/1RbB0Hxt0Yb0al0DSMBQJF"
+      },
+      "artists": [
+        {
+          "name": "Just Jack",
+          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Trouble to Share",
+      "url": "https://open.spotify.com/track/65lZrz3d2nPrryy7VawRai"
+    },
+    {
+      "album": {
         "name": "U Never Know",
         "url": "https://open.spotify.com/album/4FGT6kv2JmZS4ZU5SHgJ9P"
       },
@@ -942,7 +1218,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 250485,
       "name": "U Never Know",
       "url": "https://open.spotify.com/track/6ngfBeWnkydrBRrhqvxiXu"

@@ -111,6 +111,28 @@
     },
     {
       "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "all good (feat. Future)",
+      "url": "https://open.spotify.com/track/4tEArA9SQlyNrBHpjNZAWM"
+    },
+    {
+      "album": {
         "name": "DS2 (Deluxe)",
         "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
       },
@@ -402,7 +424,7 @@
       ],
       "date_added": "2019-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 220706,
       "name": "Killed Before",
       "url": "https://open.spotify.com/track/0jPLBur1qXRfj3pbuJSX03"
@@ -504,6 +526,28 @@
       "duration_ms": 178786,
       "name": "Mink Flow",
       "url": "https://open.spotify.com/track/1KF7iLK6wK3hjjtqxjRiym"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273577,
+      "name": "N 2 Deep",
+      "url": "https://open.spotify.com/track/34D6FJysnQioVingDKufuf"
     },
     {
       "album": {

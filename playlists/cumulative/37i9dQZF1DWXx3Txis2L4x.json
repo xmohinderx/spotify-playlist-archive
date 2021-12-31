@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 114666,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 226613,
       "name": "Between Wounds",
       "url": "https://open.spotify.com/track/772FnT40LPQX1j2vx9BDzh"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 201556,
       "name": "Figure Eight",
       "url": "https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 220910,
       "name": "Heart Mind Body & Soul",
       "url": "https://open.spotify.com/track/2FJtn12N5v2i4x3eEae32K"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 192520,
       "name": "I Would",
       "url": "https://open.spotify.com/track/7eU3TOEqEX6rK1Y9t7vthS"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 208974,
       "name": "Journey of the Prairie King",
       "url": "https://open.spotify.com/track/6tzuQuosgeRizkqLzfOXzr"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 250222,
       "name": "Ohms",
       "url": "https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 314573,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5BfbdJLRp9gUyyxeGJUECL"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 199453,
       "name": "Saturday Superhouse",
       "url": "https://open.spotify.com/track/1WRG8FZVdM1lhizxoXRPr3"
@@ -636,6 +636,24 @@
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+    },
+    {
+      "album": {
+        "name": "Silverspoon",
+        "url": "https://open.spotify.com/album/5Q7GZBylEhHpoiEualKJie"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222588,
+      "name": "Silverspoon",
+      "url": "https://open.spotify.com/track/6I3l3hVdt7JyfZC112hweJ"
     },
     {
       "album": {
@@ -711,6 +729,24 @@
     },
     {
       "album": {
+        "name": "The Haze",
+        "url": "https://open.spotify.com/album/12sNQhAIKd2ymuGrIk4gnx"
+      },
+      "artists": [
+        {
+          "name": "Pulled Apart By Horses",
+          "url": "https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "The Big What If",
+      "url": "https://open.spotify.com/track/5S9nq3W1Vzw8L3mXl0L4G9"
+    },
+    {
+      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -722,7 +758,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 332413,
       "name": "The Borders",
       "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
@@ -758,7 +794,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
@@ -794,7 +830,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 195680,
       "name": "The River",
       "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
@@ -855,6 +891,24 @@
     },
     {
       "album": {
+        "name": "White Flag",
+        "url": "https://open.spotify.com/album/6DfSN8W4AwOI1sr7a0nJZ3"
+      },
+      "artists": [
+        {
+          "name": "Normandie",
+          "url": "https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225731,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/0Sie4zIpI18dBZ0ptyo0SP"
+    },
+    {
+      "album": {
         "name": "Everything Not Saved Will Be Lost Pt. 1",
         "url": "https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc"
       },
@@ -866,7 +920,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 185610,
       "name": "White Onions",
       "url": "https://open.spotify.com/track/36GhBMw1CVJpsrazHYbXQy"

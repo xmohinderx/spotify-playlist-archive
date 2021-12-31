@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhBhYl3ZMvY.md) - [plain]
 
 > Catch all the essential tracks by the multitalented Rihanna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304,805 likes - 48 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,580 likes - 48 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -112,7 +112,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 243786,
       "name": "All I Need (with Mahalia & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/68j5DYmCikBzcp60Sv6xWO"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 159629,
       "name": "All This Life",
       "url": "https://open.spotify.com/track/1hjcNJETMy5NYuQkRtsKpC"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 162062,
       "name": "All Together Now",
       "url": "https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2020-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 138000,
       "name": "Cauliflower",
       "url": "https://open.spotify.com/track/4Vp0zrHb37MuYWmzsbXQWa"
@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/57VWVqpSTU1u7fuOEeS20p"
+      },
+      "artists": [
+        {
+          "name": "Early Eyes",
+          "url": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/4cJ2FwivZpSQ5Tx98w1hgK"
+    },
+    {
+      "album": {
         "name": "Citrus",
         "url": "https://open.spotify.com/album/04GX57XcprIl7mxLyoLXDm"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 218156,
       "name": "Citrus",
       "url": "https://open.spotify.com/track/1q6vmLQcqhMfvzWmQYxl1K"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 176680,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v"
@@ -534,7 +552,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 189346,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3hVdcBGWtrrcYFYIPm3JZN"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 242750,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/7471rZWt1MAHHS54AUd0cy"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 241253,
       "name": "Good People",
       "url": "https://open.spotify.com/track/7M7wlgmhKhfZq7UN4U8wmC"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 247786,
       "name": "In It To Win",
       "url": "https://open.spotify.com/track/41b2WXj5ZzBpPoVx7WvHMg"
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 151324,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/0VpjgAzEZ0Vi8qLFv4E1wx"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 240330,
       "name": "Last 100",
       "url": "https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S"
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 206960,
       "name": "Love and Unity",
       "url": "https://open.spotify.com/track/4WIzg3UhvjsGviCPNu4hQd"
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 196733,
       "name": "More",
       "url": "https://open.spotify.com/track/5fkAuH8tIC537wT67dwrDn"
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 274922,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/4g32SGaFLUyj0TgwoIt1OX"
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 213101,
       "name": "Now We're Cooking",
       "url": "https://open.spotify.com/track/5B9kAjQ1JEdaQvhLsBVxjk"
@@ -1656,7 +1674,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 204210,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/2WwxprzPDdUqmUF8dcHGSI"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 214285,
       "name": "Paper Cuts",
       "url": "https://open.spotify.com/track/0YQNTxIYrILQE7B8QP49f3"
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 152390,
       "name": "PINK FAMILY",
       "url": "https://open.spotify.com/track/0B2uxDcDlrhe2HU2vmdJST"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 252203,
       "name": "Pixelated - Nicolaas Remix",
       "url": "https://open.spotify.com/track/0WVYZueJD5wlU8Rm8oUYY5"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 236564,
       "name": "Pocono Bay",
       "url": "https://open.spotify.com/track/6fRadAe1s2Znk4iPBKgQxv"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 222640,
       "name": "Princess Pouty",
       "url": "https://open.spotify.com/track/6lwFOodKFZd0ro8bcIxlWg"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 129230,
       "name": "Right There",
       "url": "https://open.spotify.com/track/02urcBVsMSr13r3iZZNwvX"
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 243920,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/2QhNFaJB5OWywH55GG1hNQ"
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 237748,
       "name": "Slush",
       "url": "https://open.spotify.com/track/65G9ljHILZ3jYtQwnBIWSt"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 190335,
       "name": "Someone's Gotta Do It",
       "url": "https://open.spotify.com/track/7JcvgejXVOux8USK59xL61"
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 192120,
       "name": "Space Jam",
       "url": "https://open.spotify.com/track/7rAHX5CJ4Knb1MFTua55wP"
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 190689,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/57sInFXtiUWZvj2oxtAf0A"
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 196722,
       "name": "Switch",
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 200115,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/6Mm7nCTVVduH0uehfNfITB"
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Til' The End",
       "url": "https://open.spotify.com/track/637xhnFza81m9ZAXTOYFkI"
@@ -2632,6 +2650,28 @@
       "duration_ms": 171232,
       "name": "trouble",
       "url": "https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD"
+    },
+    {
+      "album": {
+        "name": "Turn Me Up",
+        "url": "https://open.spotify.com/album/42PxlWO8vKHRzGRquHvhhy"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233429,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/7KKB3IMxdBwiAvayp6m8DE"
     },
     {
       "album": {
@@ -2722,7 +2762,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 354613,
       "name": "Where Do I Go From Here",
       "url": "https://open.spotify.com/track/6GgilVSiwORRZpxDVS5VrZ"
@@ -2758,7 +2798,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 212065,
       "name": "Wild (Golden Child) - Japan Bonus Track",
       "url": "https://open.spotify.com/track/23XhwutrIEirC0lz1sAERf"
@@ -2798,7 +2838,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
@@ -2816,7 +2856,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 201290,
       "name": "Work Hard, REST",
       "url": "https://open.spotify.com/track/4JeYxdxqCONYZYrlm9nXtO"
@@ -2834,7 +2874,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 160560,
       "name": "Ya Feelin' Good?",
       "url": "https://open.spotify.com/track/68dUug5nr1tqRvzI8wa7Yw"

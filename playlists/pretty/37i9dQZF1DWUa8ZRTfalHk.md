@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow are on Spotify today\. Cover: Sadie Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,388,882 likes - 86 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,389,273 likes - 86 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

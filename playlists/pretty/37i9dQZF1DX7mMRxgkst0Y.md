@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mMRxgkst0Y.md) - [plain]
 
 > Their finest work, in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,871 likes - 62 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,879 likes - 62 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yNDQ30MDO6.md) - [plain]
 
 > The best of Biffy Clyro, all in one place\. Mon the Biff!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,161 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,181 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

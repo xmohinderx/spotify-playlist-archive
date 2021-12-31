@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,295 likes - 292 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,829 likes - 292 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -301,4 +301,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 291 | [Kalmte](https://open.spotify.com/track/1Mvt8IaW1Pl48tFkXXuUuQ) | [Chaima Bergevoet](https://open.spotify.com/artist/5fjdDidIgzZ6pFIXk3q5Bj) | [Kalmte](https://open.spotify.com/album/6b0e71St6KUs0eI0IcQXGr) | 3:23 |
 | 292 | [Polar Drone](https://open.spotify.com/track/6SxcRJNPDlwiciVkzxu0oC) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Drones](https://open.spotify.com/album/0aB0sdg1xr6Yr8K2AVhaYy) | 3:35 |
 
-Snapshot ID: `MTY0MDEwOTYzMCwwMDAwMDA2ZTAwMDAwMTdkZGUyNmU1YzQwMDAwMDE2ZDE1MGZmMDc4`
+Snapshot ID: `MTY0MDg5MjY0NiwwMDAwMDA2ZjAwMDAwMTdlMGNkMmMyODkwMDAwMDE2ZDE1MGZmMDc4`

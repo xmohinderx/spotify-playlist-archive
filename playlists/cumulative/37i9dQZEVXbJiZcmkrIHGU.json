@@ -1823,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "Brooklyn",
+        "url": "https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182618,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -3668,7 +3690,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 155870,
       "name": "ES IST WIE ES IST",
       "url": "https://open.spotify.com/track/7xx6S5PsAV7rziVCjCzDrl"
@@ -12547,6 +12569,24 @@
     },
     {
       "album": {
+        "name": "TO THE",
+        "url": "https://open.spotify.com/album/2CZxED1GDIM7fV6ODe6rMf"
+      },
+      "artists": [
+        {
+          "name": "GoldSkull",
+          "url": "https://open.spotify.com/artist/13GA8qxVLDZs0oh1zZ872C"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152160,
+      "name": "TO THE",
+      "url": "https://open.spotify.com/track/3kvm9xedJN0uVx9kFmcFdf"
+    },
+    {
+      "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
       },
@@ -12558,7 +12598,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"

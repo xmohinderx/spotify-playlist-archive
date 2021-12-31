@@ -24,7 +24,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 401160,
       "name": "Aaja Aaja Main Hoon Pyar Tera",
       "url": "https://open.spotify.com/track/1lV5gycJ3If4AmNletSLsg"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 384360,
       "name": "Bachke Rehna Re Baba - Pukar / Soundtrack Version",
       "url": "https://open.spotify.com/track/2wK3g7TTQa9AJMKcuYKbon"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 250493,
       "name": "Chhod Do Aanchal Zamana Kya Kahega",
       "url": "https://open.spotify.com/track/4gSg57VPQCijuhSlyGq1hN"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 314253,
       "name": "Chura Liya Hai Tumne Jo Dil Ko With Dialogues",
       "url": "https://open.spotify.com/track/4G7mYDYTIOKFvQ12HSRwNE"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 370026,
       "name": "Dil Cheez Kya Hai",
       "url": "https://open.spotify.com/track/3BERM98uzP2orrHk96PPvS"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 356586,
       "name": "Dillagi Ne Di Hawa - From Dostana",
       "url": "https://open.spotify.com/track/4kpyNMvKPLD1mbCxbH8n8d"
@@ -591,6 +591,28 @@
     },
     {
       "album": {
+        "name": "Anhonee",
+        "url": "https://open.spotify.com/album/7Hhw2MjEeK9CzErC4vftfj"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Laxmikant\u2013Pyarelal",
+          "url": "https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320773,
+      "name": "Hungama Ho Gaya",
+      "url": "https://open.spotify.com/track/6c3laaeBowkSLUziUrSgi5"
+    },
+    {
+      "album": {
         "name": "Umrao Jaan",
         "url": "https://open.spotify.com/album/287E82IXHXGCN742yboFbb"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 343453,
       "name": "In Ankhon Ki Masti",
       "url": "https://open.spotify.com/track/0gWDDSHXescfwtvkx6pYJQ"
@@ -624,10 +646,32 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 529635,
       "name": "Intaha Ho Gai Intezar Ki",
       "url": "https://open.spotify.com/track/61OuMhMwq1ukmfrOnrrQGV"
+    },
+    {
+      "album": {
+        "name": "Sharaabi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0fQmme0tNylGuXmgyta7t3"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529733,
+      "name": "Intaha Ho Gai Intezar Ki",
+      "url": "https://open.spotify.com/track/6eVk7jmEp8aObKsjZwkaCe"
     },
     {
       "album": {
@@ -646,7 +690,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 303346,
       "name": "Jaane Do Naa - From \"Saagar\"",
       "url": "https://open.spotify.com/track/7nuUMsmN9dYAztgze03ZOt"
@@ -716,7 +760,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 335958,
       "name": "Jawani Jan-E-Man",
       "url": "https://open.spotify.com/track/6X4bexIzuwXBaqBTyRROB0"
@@ -808,7 +852,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 316466,
       "name": "Khullam Khulla Pyar Karenge",
       "url": "https://open.spotify.com/track/05wx2CKrtC8ziwKa0HUuHm"
@@ -896,7 +940,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 205191,
       "name": "Kya Ghazab Karte Ho Ji",
       "url": "https://open.spotify.com/track/2NJar6TvqiITh3XhuPzHH0"
@@ -1010,7 +1054,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 398973,
       "name": "Mera Kuchh Samaan",
       "url": "https://open.spotify.com/track/2en58opvPKM0Ek6OFpcGJx"
@@ -1036,7 +1080,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 232146,
       "name": "Mil Gaya Humko Saathi Mil Gaya",
       "url": "https://open.spotify.com/track/0rIN0YJe3Zxjz4x3jpKHeN"
@@ -1058,7 +1102,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 349622,
       "name": "Mud Mud Ke Na Dekh Mud Mud Ke",
       "url": "https://open.spotify.com/track/2CVbWaV06m6bE5HTTOyjV4"
@@ -1372,7 +1416,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 273335,
       "name": "Tere Bina Ek Pal",
       "url": "https://open.spotify.com/track/7pxGeTTGKvy6qtC2CVfLJm"
@@ -1456,7 +1500,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 281546,
       "name": "Typewriter Tip Tip Tip",
       "url": "https://open.spotify.com/track/3F4UtwguBOrZiDlt4h0GoA"
@@ -1522,7 +1566,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "Yeh Hai Reshmi Zulfon Ka Andhera",
       "url": "https://open.spotify.com/track/5cW39Th955ZBQQXipdl6GP"

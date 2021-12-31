@@ -764,7 +764,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 243226,
       "name": "Coming Out of the Dark",
       "url": "https://open.spotify.com/track/505MTNh5kvgYCmroWGCTTF"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 265373,
       "name": "Everybody Plays The Fool",
       "url": "https://open.spotify.com/track/0mKqVghILq1TmTDHiaRf9d"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 258240,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/1S1TItTK7HaRDnfj1vZ80Q"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 336160,
       "name": "Heaven For Everyone - Remastered 2011",
       "url": "https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 262200,
       "name": "Home",
       "url": "https://open.spotify.com/track/4QwkQu5sOkGel6S2b7ZYn6"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 411146,
       "name": "Jesus to a Child",
       "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 281240,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1NRl73336Q4SFLH2DqurzS"
@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 286533,
       "name": "One Shining Moment",
       "url": "https://open.spotify.com/track/7jrhMa8pAPzBHqf1nbIPkQ"
@@ -2598,6 +2598,24 @@
       "duration_ms": 281066,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
+    },
+    {
+      "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340200,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
     },
     {
       "album": {
@@ -2886,7 +2904,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 266026,
       "name": "Senza Una Donna - English Version",
       "url": "https://open.spotify.com/track/5Z19GK3mj0wrb4jMnjiE0D"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 189826,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"

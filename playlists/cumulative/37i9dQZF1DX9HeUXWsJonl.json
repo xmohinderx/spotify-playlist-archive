@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Lamma",
+        "url": "https://open.spotify.com/album/2qtvzn4F3p3I7tQcq8xtNF"
+      },
+      "artists": [
+        {
+          "name": "Mortadha Ftiti",
+          "url": "https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205176,
+      "name": "Lamma",
+      "url": "https://open.spotify.com/track/76dTTUyLKgEuKRuImvjlQj"
+    },
+    {
+      "album": {
         "name": "Ma Nabni",
         "url": "https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO"
       },
@@ -730,6 +748,24 @@
       "duration_ms": 240000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4309E381wM4XchDUk4xgeg"
+    },
+    {
+      "album": {
+        "name": "Rabi M3ak",
+        "url": "https://open.spotify.com/album/34gcB07Z9ydYO7bfVMKKsN"
+      },
+      "artists": [
+        {
+          "name": "Hamouda",
+          "url": "https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Rabi M3ak",
+      "url": "https://open.spotify.com/track/1uxdCqmbqzC2SdjxElnx4A"
     },
     {
       "album": {

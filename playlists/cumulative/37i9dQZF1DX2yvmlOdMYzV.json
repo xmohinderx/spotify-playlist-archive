@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e"
+      },
+      "artists": [
+        {
+          "name": "Eddy Rock",
+          "url": "https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132154,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh"
+    },
+    {
+      "album": {
         "name": "Apathy",
         "url": "https://open.spotify.com/album/71WgldxC8RmuVjVvHN48r9"
       },
@@ -255,6 +273,24 @@
     },
     {
       "album": {
+        "name": "colo(u)rs",
+        "url": "https://open.spotify.com/album/4PxZgS3FxsNaMTOag2Vn5M"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187030,
+      "name": "colo(u)rs",
+      "url": "https://open.spotify.com/track/7JVlElUz583S3EJIjeEYmR"
+    },
+    {
+      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk"
       },
@@ -284,10 +320,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 278391,
       "name": "curly",
       "url": "https://open.spotify.com/track/1Qvwp3DULKe2pJ3Nlqqf6j"
+    },
+    {
+      "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "D'Evils",
+      "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
     },
     {
       "album": {
@@ -346,6 +400,28 @@
       "duration_ms": 220401,
       "name": "Desoleil (Brilliant Corners)",
       "url": "https://open.spotify.com/track/5rYTMjVkGioNF4MpSQISlg"
+    },
+    {
+      "album": {
+        "name": "Do 2 Me",
+        "url": "https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf"
+      },
+      "artists": [
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        },
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Do 2 Me",
+      "url": "https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w"
     },
     {
       "album": {
@@ -617,6 +693,32 @@
     },
     {
       "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU"
+      },
+      "artists": [
+        {
+          "name": "vsteeze",
+          "url": "https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl"
+        },
+        {
+          "name": "Funky DL",
+          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
+        },
+        {
+          "name": "PF Elle",
+          "url": "https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177248,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ"
+    },
+    {
+      "album": {
         "name": "Guilty Conscience (Tame Impala Remix)",
         "url": "https://open.spotify.com/album/01vW1gstMnLr5gWd03tlC5"
       },
@@ -690,7 +792,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB"
@@ -748,6 +850,28 @@
       "duration_ms": 232906,
       "name": "i only want you when i'm fucked up",
       "url": "https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq"
+    },
+    {
+      "album": {
+        "name": "I Think You Should Know",
+        "url": "https://open.spotify.com/album/6sJQvH4jUungjzE4P0wHIy"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201681,
+      "name": "I Think You Should Know",
+      "url": "https://open.spotify.com/track/0MRCdC2CM5hDqX0udNEuBr"
     },
     {
       "album": {
@@ -827,6 +951,24 @@
     },
     {
       "album": {
+        "name": "IDWL",
+        "url": "https://open.spotify.com/album/5zcTmGVDbf8KdP6pNaXhlP"
+      },
+      "artists": [
+        {
+          "name": "CUBE",
+          "url": "https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220363,
+      "name": "IDWL",
+      "url": "https://open.spotify.com/track/4FxIGIFx8t2KfuTInsFN0T"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/5LTnPoGjyuWwLwOcLJzFL3"
       },
@@ -838,7 +980,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 128000,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN"
@@ -910,7 +1052,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 73897,
       "name": "kometostai.aintreallynootherwaytoputitro",
       "url": "https://open.spotify.com/track/2VUMXJ651NZmzUcJvPEhit"
@@ -950,7 +1092,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 201253,
       "name": "Lava/Treacle",
       "url": "https://open.spotify.com/track/3U8dhK8wiVtsdmj7jwUJlB"
@@ -1048,7 +1190,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 238122,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/7DHrin6fl2RV6ND1k3MF9y"
@@ -1131,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "Me & Mrs. Wong",
+        "url": "https://open.spotify.com/album/416QmA6TRGNkxjKp4i9b8b"
+      },
+      "artists": [
+        {
+          "name": "Slodown",
+          "url": "https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl"
+        },
+        {
+          "name": "Dumbfoundead",
+          "url": "https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230842,
+      "name": "Me & Mrs. Wong",
+      "url": "https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx"
+    },
+    {
+      "album": {
         "name": "MHS",
         "url": "https://open.spotify.com/album/70bf7jpi0uG2p3fZYWa5SC"
       },
@@ -1200,7 +1364,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 191946,
       "name": "My World",
       "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
@@ -1378,10 +1542,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 203056,
       "name": "Poison",
       "url": "https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u"
+    },
+    {
+      "album": {
+        "name": "PRETTY.",
+        "url": "https://open.spotify.com/album/2Ikb79E7Qi4yqzNxqovztu"
+      },
+      "artists": [
+        {
+          "name": "Willum Maindo",
+          "url": "https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176751,
+      "name": "PRETTY.",
+      "url": "https://open.spotify.com/track/0xUTuscCV7C6l7VHoqJIxo"
     },
     {
       "album": {
@@ -1451,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "ROLLA",
+        "url": "https://open.spotify.com/album/29FTSpA2recQP47Z4H6Qqm"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232682,
+      "name": "ROLLA",
+      "url": "https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB"
+    },
+    {
+      "album": {
         "name": "Scrimmage (Remix)",
         "url": "https://open.spotify.com/album/29QSUuMItml4GM3ktc4M2m"
       },
@@ -1496,7 +1696,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 216021,
       "name": "Shibari Moon",
       "url": "https://open.spotify.com/track/5s4uHZwSbk8XbjARwTzIw4"
@@ -1608,7 +1808,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 230973,
       "name": "Somehow.",
       "url": "https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp"
@@ -1673,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Stole My Love",
+        "url": "https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE"
+      },
+      "artists": [
+        {
+          "name": "Jay Isaiah",
+          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "Stole My Love",
+      "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"
+    },
+    {
+      "album": {
         "name": "SULA (Paperback)",
         "url": "https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK"
       },
@@ -1688,6 +1906,28 @@
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi"
+    },
+    {
+      "album": {
+        "name": "Tales By Moonlight (Ft Amaarae)",
+        "url": "https://open.spotify.com/album/6jNc9ab3Twwr4U3iBQM7wq"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Tales By Moonlight (Ft Amaarae)",
+      "url": "https://open.spotify.com/track/2XNYdSnpZvwlFr9gGWM8uX"
     },
     {
       "album": {
@@ -1724,7 +1964,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 227253,
       "name": "Too Much to Ask",
       "url": "https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1"
@@ -1844,7 +2084,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 172240,
       "name": "Where U At?",
       "url": "https://open.spotify.com/track/6wE9qLKJu7DovH54rvrSVs"
@@ -1967,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/439j1V3GK4ef3Ou2dzp9Xa"
+      },
+      "artists": [
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129071,
+      "name": "You",
+      "url": "https://open.spotify.com/track/68Q8gyJ6Jy9yGJ0h99hfuM"
+    },
+    {
+      "album": {
         "name": "You're Too Precious",
         "url": "https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q"
       },
@@ -1978,7 +2236,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 223900,
       "name": "You're Too Precious",
       "url": "https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w"

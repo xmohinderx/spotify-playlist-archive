@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 235326,
       "name": "Apagar La Luz",
       "url": "https://open.spotify.com/track/3eR9XcBDfh0OptPk1FQkk6"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 306866,
       "name": "Carnival (feat. Solis & Randy Valentine)",
       "url": "https://open.spotify.com/track/3FEN1Usl4Z4IceFbBZ1rmI"
@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "De Aqu\u00ed Son",
+        "url": "https://open.spotify.com/album/260g05EqAq0W9HZZTDDD3K"
+      },
+      "artists": [
+        {
+          "name": "Son de Aqu\u00ed",
+          "url": "https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262373,
+      "name": "Con el Sol de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0X8FKQkmmxoZFwgUajjn0s"
+    },
+    {
+      "album": {
         "name": "Vibra Sound",
         "url": "https://open.spotify.com/album/7ddnRdS833NXAVvmi0ehKD"
       },
@@ -342,7 +360,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 212533,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
@@ -386,7 +404,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 141334,
       "name": "Cuando Calienta el Sol",
       "url": "https://open.spotify.com/track/0B6i8rjZIiScILFxfA638l"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 217827,
       "name": "Fishaman (feat. Elkin Robinson)",
       "url": "https://open.spotify.com/track/3rMqitYF1U4IHqEQjWhmJP"
@@ -861,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Neigborhood Rules",
+        "url": "https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232342,
+      "name": "Laba Laba Craven",
+      "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
+    },
+    {
+      "album": {
         "name": "Las Ganas de Vivir",
         "url": "https://open.spotify.com/album/7DbFbonfYLMLt1etSjftAH"
       },
@@ -876,7 +912,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 233000,
       "name": "Las Ganas de Vivir",
       "url": "https://open.spotify.com/track/5JKsY1CEoZhfg5KAqu7eML"
@@ -920,6 +956,28 @@
       "duration_ms": 217717,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
+    },
+    {
+      "album": {
+        "name": "Llena Mi Vida",
+        "url": "https://open.spotify.com/album/7xlXTMCcCDO7aapw0CRd7G"
+      },
+      "artists": [
+        {
+          "name": "Bamboo",
+          "url": "https://open.spotify.com/artist/4Mp4FOTjHHQlFJki4p1lpZ"
+        },
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265299,
+      "name": "Llena Mi Vida",
+      "url": "https://open.spotify.com/track/1rSDWwJkMrxCChahQDnkfu"
     },
     {
       "album": {
@@ -1082,7 +1140,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 382333,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/4zRbnZkeN4TNBJgGcTDMqG"
@@ -1133,6 +1191,28 @@
     },
     {
       "album": {
+        "name": "Radiante",
+        "url": "https://open.spotify.com/album/3KnKXcmHFsu5GsDREoxtQW"
+      },
+      "artists": [
+        {
+          "name": "De Bruces A Mi",
+          "url": "https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg"
+        },
+        {
+          "name": "Pablo Molina",
+          "url": "https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189806,
+      "name": "Mi Dulce Amor",
+      "url": "https://open.spotify.com/track/5IMiNgnJHMzSva0maocFXB"
+    },
+    {
+      "album": {
         "name": "Fronteras",
         "url": "https://open.spotify.com/album/1QrRY5KwBMVGpxW3zak2zk"
       },
@@ -1144,7 +1224,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 384733,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/15ebddPrc4HYVk9qM3trIi"
@@ -1354,7 +1434,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 309213,
       "name": "Por Cultivar Marihuana",
       "url": "https://open.spotify.com/track/3hcGo9ePUX6CFqB1NpZE9L"
@@ -1372,7 +1452,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 251878,
       "name": "Puedo esperarte",
       "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
@@ -1408,7 +1488,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 276845,
       "name": "Quinto Sol",
       "url": "https://open.spotify.com/track/4Appg2ESRHrO2D5NyuRc6X"
@@ -1496,7 +1576,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 198826,
       "name": "Reverdeciendo",
       "url": "https://open.spotify.com/track/1x5xeLTf0SAzXVCQ4ymqrV"
@@ -1514,7 +1594,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 252253,
       "name": "Revolucionario",
       "url": "https://open.spotify.com/track/5XYDJ2lnwf712Ojud1TLHE"
@@ -1579,6 +1659,36 @@
     },
     {
       "album": {
+        "name": "Sentimiento Colectivo",
+        "url": "https://open.spotify.com/album/7e75vjhSH4p79UErg0u8hy"
+      },
+      "artists": [
+        {
+          "name": "Colectivo Ley De Origen",
+          "url": "https://open.spotify.com/artist/5J6qDQo17awBaFEmOGhfb3"
+        },
+        {
+          "name": "David Kawooq",
+          "url": "https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ"
+        },
+        {
+          "name": "Lengualerta",
+          "url": "https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW"
+        },
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188816,
+      "name": "Sentimiento Colectivo",
+      "url": "https://open.spotify.com/track/5Mt39ZADBRZMNeKG4DxDJP"
+    },
+    {
+      "album": {
         "name": "25 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
       },
@@ -1612,6 +1722,24 @@
       "duration_ms": 248780,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
+    },
+    {
+      "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/4tx8t2F5LBamtUKg4Wk7ik"
+      },
+      "artists": [
+        {
+          "name": "Los Aguas Aguas",
+          "url": "https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264707,
+      "name": "Siempre",
+      "url": "https://open.spotify.com/track/7d42VpwmsJhlBcfOJ5XQu0"
     },
     {
       "album": {
@@ -1666,6 +1794,24 @@
       "duration_ms": 211680,
       "name": "Sin Ti (feat. Quique Neira)",
       "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
+    },
+    {
+      "album": {
+        "name": "Sisters",
+        "url": "https://open.spotify.com/album/4CvPKgGnPxfiE2X2Tm4Hmx"
+      },
+      "artists": [
+        {
+          "name": "Panal",
+          "url": "https://open.spotify.com/artist/49pcyFdsrBRYnbTXZUOurP"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203568,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/64javozcRkMoxYdbhIiUXo"
     },
     {
       "album": {
@@ -1843,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "Vendedores da F\u00e9",
+        "url": "https://open.spotify.com/album/03MWGQ1wufbxPEyguWJk3x"
+      },
+      "artists": [
+        {
+          "name": "Bloco do Caos",
+          "url": "https://open.spotify.com/artist/44nuOAoL0OIc2QmKfO0nnl"
+        },
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258687,
+      "name": "Vendedores da F\u00e9",
+      "url": "https://open.spotify.com/track/0WtKKoo9qwV1Q2z8THLGRd"
+    },
+    {
+      "album": {
         "name": "Gondwana En Vivo En Buenos Aires",
         "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
@@ -1916,7 +2084,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 249986,
       "name": "Vocabulario B\u00e1sico",
       "url": "https://open.spotify.com/track/1bFbEZctiGZItamYIBlRAL"

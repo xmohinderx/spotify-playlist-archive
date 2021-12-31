@@ -1,13 +1,29 @@
 {
   "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=hTuGyuSCT4KAnrtqV1oWAg\">Zakes Bantwini</a>",
   "name": "mint South Africa",
-  "num_followers": 46223,
+  "num_followers": 46246,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "MTY0MDc5MTI5OCwwMDAwMDMyYTAwMDAwMTdlMDZjODUyNTYwMDAwMDE3ZDdiZDdjMWY0",
   "tracks": [
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Do What You Love",
+        "url": "https://open.spotify.com/album/1tI5rxGJAHnY6lMeNb3KlB"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 452418,
+      "name": "Do What You Love",
+      "url": "https://open.spotify.com/track/2muTRl2whyxtWuJERhwtrs"
+    },
     {
       "added_at": "2021-12-23 21:59:00",
       "album": {
@@ -47,6 +63,22 @@
       "duration_ms": 367785,
       "name": "Dtjoh (feat. Jessica LM)",
       "url": "https://open.spotify.com/track/5xMvII7rTQXy5npCqrhLEM"
+    },
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Spaceline Suburbian",
+        "url": "https://open.spotify.com/album/5a021HAlmb18hLZbwHpgbs"
+      },
+      "artists": [
+        {
+          "name": "Lucid Deep",
+          "url": "https://open.spotify.com/artist/0YhuvmUbwLACBPyC7wqgti"
+        }
+      ],
+      "duration_ms": 383825,
+      "name": "Teenage Fantasy",
+      "url": "https://open.spotify.com/track/4jFCETcf8uaR2NjywOXx11"
     },
     {
       "added_at": "2021-12-23 21:59:00",

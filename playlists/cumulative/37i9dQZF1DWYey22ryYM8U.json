@@ -148,7 +148,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 174005,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/6fxlcTylxj06V5MRoCdtKP"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 209500,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/5nwKrZxqJST4jFgYf9TuBx"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 291533,
       "name": "A\u00f1oranza",
       "url": "https://open.spotify.com/track/20rgOJWz8xHUn75OtCYsde"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 231515,
       "name": "Como Abeja a la Flor",
       "url": "https://open.spotify.com/track/1XSIDSBoFIlXEy9WpxSMdo"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 220893,
       "name": "Con los Ojos Cerrados",
       "url": "https://open.spotify.com/track/0sHZajNhJcmvkIQS4bCEIk"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 238706,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/2yvjjJrWzVzA2zg4VsoEmo"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 234480,
       "name": "La Demanda",
       "url": "https://open.spotify.com/track/3zVibdZHsVH05p5Crux6xX"
@@ -1164,10 +1164,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 324839,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/70LGyyGv8M9Wx0pAA4srD5"
+    },
+    {
+      "album": {
+        "name": "La Latina",
+        "url": "https://open.spotify.com/album/54cmjFWKuTIFuvknQlrcVe"
+      },
+      "artists": [
+        {
+          "name": "Michael Stuart",
+          "url": "https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210528,
+      "name": "La Latina",
+      "url": "https://open.spotify.com/track/2PpsZRMsFNDcJPJul0khH4"
     },
     {
       "album": {
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 237508,
       "name": "Lo Que T\u00fa y Yo Vivimos (feat. Gente de Zona) - Ao Vivo",
       "url": "https://open.spotify.com/track/6poj56vC9JUu1yHTsv92WA"
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 242342,
       "name": "Morir Solo",
       "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
@@ -1564,6 +1582,24 @@
       "duration_ms": 245163,
       "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
       "url": "https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG"
+    },
+    {
+      "album": {
+        "name": "Ta\u00f1\u00f3n Pal' Combo Es Lo Que Hay",
+        "url": "https://open.spotify.com/album/0VSHWr0Nz2qMRIOFQ2qwHa"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/40vpI6DtJU1EwFpnCrpWcb"
     },
     {
       "album": {
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 222019,
       "name": "Se\u00f1orita Por Favor",
       "url": "https://open.spotify.com/track/1Dn8Kkt9ZPOmULlsAfN7Kc"
@@ -2076,7 +2112,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 215500,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/51Qo4o1rz2FJ5h0ie2Okjt"
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 248173,
       "name": "Tranquila Bebe",
       "url": "https://open.spotify.com/track/22RujpXV39rRPZ4CHK8wwY"
@@ -2326,7 +2362,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 239666,
       "name": "Tu Eres Ajena",
       "url": "https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n"
@@ -2398,7 +2434,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 257010,
       "name": "Un Beso de Su Boca",
       "url": "https://open.spotify.com/track/1Ql6nNEgjJbVo52HeDUV2Q"
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Una Mentirita",
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"

@@ -177,6 +177,24 @@
     },
     {
       "album": {
+        "name": "allthefeels",
+        "url": "https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2"
+      },
+      "artists": [
+        {
+          "name": "emawk",
+          "url": "https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206060,
+      "name": "bayridge",
+      "url": "https://open.spotify.com/track/6GijrCnVsghoXzLOt2elDw"
+    },
+    {
+      "album": {
         "name": "Black Rain (Jayda G Remix)",
         "url": "https://open.spotify.com/album/3vxagOTOtePoyP0zYZl0Fs"
       },
@@ -284,6 +302,24 @@
       "duration_ms": 279240,
       "name": "Can't Believe It",
       "url": "https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG"
+    },
+    {
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/2ClfWMCvHw0GhAKAS5EVMa"
+      },
+      "artists": [
+        {
+          "name": "Master Soul Boy",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144567,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG"
     },
     {
       "album": {
@@ -415,6 +451,28 @@
     },
     {
       "album": {
+        "name": "Funny Thing About Love",
+        "url": "https://open.spotify.com/album/6VeNlwGaLoFL2B8rcVgDf9"
+      },
+      "artists": [
+        {
+          "name": "BabyJake",
+          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "Funny Thing About Love (with Bipolar Sunshine)",
+      "url": "https://open.spotify.com/track/4u1uoGRnt2bAvan9JYLvjN"
+    },
+    {
+      "album": {
         "name": "Garden Party",
         "url": "https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9"
       },
@@ -500,7 +558,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 366545,
       "name": "Hands On",
       "url": "https://open.spotify.com/track/0YmU22gCHDKFejuvI8nDou"
@@ -522,7 +580,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 225600,
       "name": "IN PINK (feat. Mndsgn)",
       "url": "https://open.spotify.com/track/2hh57Boyz8tUEFxvyurmeb"
@@ -540,7 +598,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 264560,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/5Qg1StPjfDnTY42zF7i02d"
@@ -623,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237517,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
+    },
+    {
+      "album": {
         "name": "Life Vest",
         "url": "https://open.spotify.com/album/31aRS632oWnSjqYFvA4eve"
       },
@@ -638,7 +714,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 159829,
       "name": "Life Vest",
       "url": "https://open.spotify.com/track/3xykBxrjAoAgl7A4akYnXZ"
@@ -660,7 +736,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 191537,
       "name": "Lights Up (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/0M4GK1taHqdIOuvXnEJFiw"
@@ -682,6 +758,24 @@
       "duration_ms": 175866,
       "name": "Liz",
       "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
+    },
+    {
+      "album": {
+        "name": "Lonely As I Ever Was",
+        "url": "https://open.spotify.com/album/2zzmIdVneqgcQVkKicolqF"
+      },
+      "artists": [
+        {
+          "name": "Spencer.",
+          "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233722,
+      "name": "Lonely As I Ever Was",
+      "url": "https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz"
     },
     {
       "album": {
@@ -787,6 +881,54 @@
     },
     {
       "album": {
+        "name": "Ghost Notes",
+        "url": "https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265056,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe"
+    },
+    {
+      "album": {
+        "name": "No Other Feeling",
+        "url": "https://open.spotify.com/album/3lKMgWojUxZSoGtkoEm3Y3"
+      },
+      "artists": [
+        {
+          "name": "vbnd",
+          "url": "https://open.spotify.com/artist/5KbEFz293OMDqqk9ajZKZV"
+        },
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        },
+        {
+          "name": "Connor Newton",
+          "url": "https://open.spotify.com/artist/4zBZenWQC57ImSgLUQv6kJ"
+        },
+        {
+          "name": "Jesse McMillan",
+          "url": "https://open.spotify.com/artist/79SmH0JMryZccWEErneAir"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255818,
+      "name": "No Other Feeling",
+      "url": "https://open.spotify.com/track/77V4RwChUT3LFMyhulCOdp"
+    },
+    {
+      "album": {
         "name": "Nobody's Fault",
         "url": "https://open.spotify.com/album/3fOuk1pJcFtx9LLJqO0ShO"
       },
@@ -809,6 +951,28 @@
     },
     {
       "album": {
+        "name": "PART 1: WWYD?",
+        "url": "https://open.spotify.com/album/1BE6pGMVQh8wSnPp2hfGGs"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224881,
+      "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
+      "url": "https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7"
+    },
+    {
+      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/25HC3XL5abbniok4YslEQr"
       },
@@ -820,7 +984,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/6q3qQZ5TU2UwatDd42YwZ8"
@@ -908,6 +1072,24 @@
       "duration_ms": 244933,
       "name": "Send My Love",
       "url": "https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr"
+    },
+    {
+      "album": {
+        "name": "Ovall",
+        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Slow Motion Town",
+      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
     },
     {
       "album": {
@@ -1093,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/1UHp6VpoVu9tCdc33Ulr4g"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv"
+    },
+    {
+      "album": {
         "name": "Unguarded",
         "url": "https://open.spotify.com/album/3YJWBkSP4HvPFrPZ1gVYuY"
       },
@@ -1104,7 +1304,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 254120,
       "name": "Unguarded",
       "url": "https://open.spotify.com/track/6k6uRwezixEQx90AGTNFWQ"
@@ -1122,7 +1322,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 244748,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
@@ -1184,7 +1384,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 192656,
       "name": "Wifi Beach",
       "url": "https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF"
@@ -1228,7 +1428,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"

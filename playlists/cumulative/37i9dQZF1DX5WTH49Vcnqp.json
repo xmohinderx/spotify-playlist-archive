@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "music that's hard to define but easy to love. Cover: Mitski\n",
+  "description": "music that's hard to define but easy to love. Cover: Hermitude\n",
   "name": "Front Left",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 220332,
       "name": "Bound (with Blood Orange)",
       "url": "https://open.spotify.com/track/7fjNxhYa8qXGhrrJhY3hZL"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 222800,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m"
@@ -582,10 +582,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 266992,
       "name": "Fuzz Jam",
       "url": "https://open.spotify.com/track/1HCryhiL05CN22G3YgWWlA"
+    },
+    {
+      "album": {
+        "name": "LuckyMe Advent Calendar 21",
+        "url": "https://open.spotify.com/album/6vFVVgCoPzP6YggRI7lPnO"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211139,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0GPZVVuQ291PJKvKWpp9cF"
     },
     {
       "album": {
@@ -760,6 +782,28 @@
       "duration_ms": 193246,
       "name": "How Far We've Come",
       "url": "https://open.spotify.com/track/7voaVp5u0HdNDuNcSMg9mS"
+    },
+    {
+      "album": {
+        "name": "hurt myself",
+        "url": "https://open.spotify.com/album/2BOwR2blb9HlRzO9l28X4d"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ice",
+          "url": "https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z"
+        },
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "hurt myself",
+      "url": "https://open.spotify.com/track/4Pxi7M3fCCBDG0EfC17eHw"
     },
     {
       "album": {
@@ -1370,6 +1414,24 @@
       "duration_ms": 177570,
       "name": "Smash the Machine",
       "url": "https://open.spotify.com/track/5hWTFIYmkjcFqzEUwK8vxq"
+    },
+    {
+      "album": {
+        "name": "St Claire",
+        "url": "https://open.spotify.com/album/0FGb6D2noXEeAY7PVLA3Uh"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214337,
+      "name": "St Claire",
+      "url": "https://open.spotify.com/track/1eNxXBnlIOOCqTwcNiornC"
     },
     {
       "album": {

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "The best newly released songs of the week. Cover: Mew Suppasit, Sam Kim",
+  "description": "The best newly released songs of the week. Cover: Alesso, Katy Perry",
   "name": "New Music Friday Malaysia",
   "tracks": [
+    {
+      "album": {
+        "name": "B",
+        "url": "https://open.spotify.com/album/1oa0yAgQb7U76deNPnzN06"
+      },
+      "artists": [
+        {
+          "name": "GJ",
+          "url": "https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh"
+        },
+        {
+          "name": "Cantika Abigail",
+          "url": "https://open.spotify.com/artist/4cqipNDGUMbuHZaS9WNFZ3"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192490,
+      "name": "2am Calls",
+      "url": "https://open.spotify.com/track/3h0IvDPAvhhKkO7OlvK4No"
+    },
     {
       "album": {
         "name": "A Gift!",
@@ -16,7 +38,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 237348,
       "name": "A Gift!",
       "url": "https://open.spotify.com/track/7q92TuZKxN4C2FRZuWU8yY"
@@ -38,7 +60,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 188333,
       "name": "A Merry Feeling",
       "url": "https://open.spotify.com/track/7qS5awG1zfGCIgTDfQnU1d"
@@ -56,10 +78,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 200250,
       "name": "Alone (feat. SOLE, Dvwn)",
       "url": "https://open.spotify.com/track/3oCYvFL2nrk1ryuFx46ZL0"
+    },
+    {
+      "album": {
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264613,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs"
     },
     {
       "album": {
@@ -74,7 +114,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 222690,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/0T2JQndAZ8UaDdBHWTY6wS"
@@ -96,10 +136,46 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 231373,
       "name": "Before 4:30 (She Said\u2026)",
       "url": "https://open.spotify.com/track/6eXHtOGepsKaJ6UzN42YlG"
+    },
+    {
+      "album": {
+        "name": "Bertenang",
+        "url": "https://open.spotify.com/album/6VLQV2IHaVunlZg3JdgnBh"
+      },
+      "artists": [
+        {
+          "name": "Najwa Latif",
+          "url": "https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198854,
+      "name": "Bertenang",
+      "url": "https://open.spotify.com/track/3WkuHiTXVlvkR7dl5UpmGz"
+    },
+    {
+      "album": {
+        "name": "blink",
+        "url": "https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ"
+      },
+      "artists": [
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "blink",
+      "url": "https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG"
     },
     {
       "album": {
@@ -122,10 +198,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 120959,
       "name": "Body Mind Soul (with Benny Benassi feat. Kyle Reynolds)",
       "url": "https://open.spotify.com/track/4eaEUmyOmuIkDslaf7xw0f"
+    },
+    {
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/5TbP8D9Q2grAqw30g0KhmA"
+      },
+      "artists": [
+        {
+          "name": "Patricia Kelly",
+          "url": "https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7"
+        },
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154919,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/5BiQyAVI7VZOlVco1usWJH"
     },
     {
       "album": {
@@ -140,7 +238,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 283493,
       "name": "Breaking Each Other's Hearts",
       "url": "https://open.spotify.com/track/6FzMIRJ6zBDWjtTW4yx4Zy"
@@ -162,7 +260,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 262941,
       "name": "christmas night",
       "url": "https://open.spotify.com/track/4Ax5qYTX4ZA7BiPOgqlzXE"
@@ -184,7 +282,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 155698,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7oT74IUwjrHseRdUT2tSYa"
@@ -202,10 +300,46 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 231583,
       "name": "Comfort Creature",
       "url": "https://open.spotify.com/track/3xGgIHMW8Vv1791uGlHk9B"
+    },
+    {
+      "album": {
+        "name": "Red Moon: Contact",
+        "url": "https://open.spotify.com/album/4IRiZ78pJy4dOK6WmVT177"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/0ieh3n8JX4uqgicXCmPKAe"
+    },
+    {
+      "album": {
+        "name": "COSMIC ANOMALY",
+        "url": "https://open.spotify.com/album/2cICgXPKh2TvVZ4pvy358b"
+      },
+      "artists": [
+        {
+          "name": "Nahtan",
+          "url": "https://open.spotify.com/artist/7MVfnZqBCCMtY3ZN40hoX7"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288776,
+      "name": "COSMIC ANOMALY",
+      "url": "https://open.spotify.com/track/2RYdurfQ9Rki8qtRVRjr1D"
     },
     {
       "album": {
@@ -224,7 +358,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 168515,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/4RxTUxyNf3NFE4eqZqIfcf"
@@ -246,10 +380,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 180000,
       "name": "cry (reimagined)",
       "url": "https://open.spotify.com/track/1ZQUwU4TYWLS1oCOxyLWYR"
+    },
+    {
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/5WcH7hKHsz8C5rIjTa11ZP"
+      },
+      "artists": [
+        {
+          "name": "Dialog Senja",
+          "url": "https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228887,
+      "name": "December",
+      "url": "https://open.spotify.com/track/3RCFh2ThOaWvDTiMLetFrQ"
     },
     {
       "album": {
@@ -268,10 +420,72 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 141679,
       "name": "december",
       "url": "https://open.spotify.com/track/6Y6PjsfnxsIsH6gzPOxqbY"
+    },
+    {
+      "album": {
+        "name": "Delete",
+        "url": "https://open.spotify.com/album/4g0mklmiaGLzswAAKOQJq3"
+      },
+      "artists": [
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/74j3N4pVlEwaEro7eCzvac"
+    },
+    {
+      "album": {
+        "name": "Discoteca",
+        "url": "https://open.spotify.com/album/7r6a9NnWydms4uIjf9bH5C"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225853,
+      "name": "Discoteca",
+      "url": "https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh"
+    },
+    {
+      "album": {
+        "name": "Double Jump",
+        "url": "https://open.spotify.com/album/1psB1k0xRM7I2OM1zHfgSP"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence",
+          "url": "https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu"
+        },
+        {
+          "name": "Brae",
+          "url": "https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150555,
+      "name": "Double Jump",
+      "url": "https://open.spotify.com/track/6hr3cYYXvzF473sSnchaPb"
     },
     {
       "album": {
@@ -290,7 +504,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 169492,
       "name": "Dreading the New Year",
       "url": "https://open.spotify.com/track/3yb47YKrrOuZSzZAs65vVD"
@@ -308,10 +522,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 204933,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+    },
+    {
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/1MJwR5F0fNTPSocVylBL7s"
+      },
+      "artists": [
+        {
+          "name": "Samuel Seo",
+          "url": "https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227148,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/0i2J3DyqIjGq5oPNROdgeO"
     },
     {
       "album": {
@@ -326,7 +558,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 268954,
       "name": "Earthquakes",
       "url": "https://open.spotify.com/track/5NpgrrXkYqwQhId8RDfozQ"
@@ -344,7 +576,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 248213,
       "name": "Emma",
       "url": "https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2"
@@ -362,7 +594,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 194221,
       "name": "Everysunrise",
       "url": "https://open.spotify.com/track/7FgIyU5i7Y2Eo8coZ1eeNW"
@@ -384,7 +616,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 197139,
       "name": "Everything You Do",
       "url": "https://open.spotify.com/track/4vy6Lc1ko2F0CF4Elc2dMj"
@@ -410,10 +642,50 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 165818,
       "name": "fake friends",
       "url": "https://open.spotify.com/track/51KRizdOCpCXx6q651hvis"
+    },
+    {
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/6JgorUUmVkGRLA98oFtOTM"
+      },
+      "artists": [
+        {
+          "name": "D'Sound",
+          "url": "https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235452,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6To6PWMUYOAMIcxyWZyxpc"
+    },
+    {
+      "album": {
+        "name": "Forever Friend",
+        "url": "https://open.spotify.com/album/0CWi2VgbN42XsBVvYBoIcj"
+      },
+      "artists": [
+        {
+          "name": "Mia Insyirah",
+          "url": "https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2"
+        },
+        {
+          "name": "Artificial.Music",
+          "url": "https://open.spotify.com/artist/2URqgkr1adMj2ad6DnTalm"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187812,
+      "name": "Forever Friend",
+      "url": "https://open.spotify.com/track/2CijmYFsQRgiLgCrubMspR"
     },
     {
       "album": {
@@ -440,10 +712,76 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 218500,
       "name": "Forever Lasting Joy",
       "url": "https://open.spotify.com/track/1jdCXfv0wOXSlb6nw42BxS"
+    },
+    {
+      "album": {
+        "name": "Getting Late (feat. Danni Carra)",
+        "url": "https://open.spotify.com/album/1U1KPw61pnyjLktp0nCiPj"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Getting Late (feat. Danni Carra)",
+      "url": "https://open.spotify.com/track/2wG7MgpfXMCzQcTPCt78Tb"
+    },
+    {
+      "album": {
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/1m6tY0dv3DgARjYlq8ksmi"
+      },
+      "artists": [
+        {
+          "name": "lilong",
+          "url": "https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/3xXJoQsT3wH9dSPg0y2Md1"
+    },
+    {
+      "album": {
+        "name": "Go Mode (feat. ISM)",
+        "url": "https://open.spotify.com/album/5tvklG15QtgJvoFnE2aQS8"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "ISM",
+          "url": "https://open.spotify.com/artist/1PmIns535yeirIKo6HpHMe"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170703,
+      "name": "Go Mode (feat. ISM)",
+      "url": "https://open.spotify.com/track/1XYFQv9t9lD5iNHPC25L3m"
     },
     {
       "album": {
@@ -462,10 +800,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 165293,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q"
+    },
+    {
+      "album": {
+        "name": "Good Behaviour",
+        "url": "https://open.spotify.com/album/4bAfpIai1dvdqA0UgA5r7c"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243038,
+      "name": "Good Behaviour",
+      "url": "https://open.spotify.com/track/3nnvLEArRQf6HgpC8VNqgK"
     },
     {
       "album": {
@@ -484,7 +840,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 174053,
       "name": "Happy Christmas My Dear",
       "url": "https://open.spotify.com/track/3z0GfQCW7MAyoqfGbuymvD"
@@ -502,7 +858,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 423438,
       "name": "Heart of a Child",
       "url": "https://open.spotify.com/track/6Ytimgwukz0kp6Slrtv2jO"
@@ -520,7 +876,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 204333,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7"
@@ -538,10 +894,86 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 181347,
       "name": "Hoe Games",
       "url": "https://open.spotify.com/track/6ytpkxTqX6awQAvxU5Tccx"
+    },
+    {
+      "album": {
+        "name": "2021 Winter SMTOWN : SMCU EXPRESS",
+        "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
+      },
+      "artists": [
+        {
+          "name": "SMTOWN",
+          "url": "https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333399,
+      "name": "Hope from KWANGYA",
+      "url": "https://open.spotify.com/track/41Ne4OIfSkf6NgAwGVwWpJ"
+    },
+    {
+      "album": {
+        "name": "In My Mood",
+        "url": "https://open.spotify.com/album/4kDg9ONmPA44i1ilMQtQA6"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "In My Mood",
+      "url": "https://open.spotify.com/track/3vZvHyE5Vpjqxyh0TPOO73"
+    },
+    {
+      "album": {
+        "name": "It's Fine",
+        "url": "https://open.spotify.com/album/4eaqBdiH9nqwFlE08MbOEt"
+      },
+      "artists": [
+        {
+          "name": "Kaden",
+          "url": "https://open.spotify.com/artist/4HAUAcZBmLf0xxtdE2RziC"
+        },
+        {
+          "name": "Ahasver",
+          "url": "https://open.spotify.com/artist/7a2z5YMOm8kFh0W0ryIyaj"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150447,
+      "name": "It's Fine",
+      "url": "https://open.spotify.com/track/3KBB98Ol2DtiEyDIAGj8Uk"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7xvBDLMzETFjQSzpHKDO5J"
+      },
+      "artists": [
+        {
+          "name": "Ezza Wan",
+          "url": "https://open.spotify.com/artist/2rkNfHlDA0t9QY9LKtZHTG"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195008,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/2HTrp0XWOhqCGvGkSz7elI"
     },
     {
       "album": {
@@ -556,10 +988,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "album": {
+        "name": "Lonely Winter",
+        "url": "https://open.spotify.com/album/2a0n42rbPAz0JgQqoLUnpc"
+      },
+      "artists": [
+        {
+          "name": "Imhavingabadday.",
+          "url": "https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192244,
+      "name": "Lonely Winter",
+      "url": "https://open.spotify.com/track/7c8rXgRsYlpV2EJUwCNTFG"
     },
     {
       "album": {
@@ -578,10 +1028,46 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 282852,
       "name": "Made for Mermaid",
       "url": "https://open.spotify.com/track/2kLTL9QiAF0PDCuSKFAYYI"
+    },
+    {
+      "album": {
+        "name": "Madeleine",
+        "url": "https://open.spotify.com/album/7mKN1i8ZgERfSeMnM23IWd"
+      },
+      "artists": [
+        {
+          "name": "LUAMEL",
+          "url": "https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224213,
+      "name": "Madeleine",
+      "url": "https://open.spotify.com/track/65YXY9hqvvsvfT5xHb44lF"
+    },
+    {
+      "album": {
+        "name": "DREAMLAND (DELUXE)",
+        "url": "https://open.spotify.com/album/7yMUYER67OvjIuGqBgrdZO"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "Mannequins & Egos",
+      "url": "https://open.spotify.com/track/4bCFw61qA3pmWIzR6ULCMY"
     },
     {
       "album": {
@@ -596,10 +1082,108 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 208694,
       "name": "Mon Soleil - from \"Emily in Paris\" soundtrack",
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
+    },
+    {
+      "album": {
+        "name": "N o o N",
+        "url": "https://open.spotify.com/album/5il9QjoszOMgc3H7S4OTTP"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199175,
+      "name": "N o o N",
+      "url": "https://open.spotify.com/track/34p27cOsC6Y6FBNEAoHMkU"
+    },
+    {
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/3Xl7A2itvMwMNCZHHt1rJz"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "New Year",
+      "url": "https://open.spotify.com/track/6bShTGSDyuUezAmkIAF4s5"
+    },
+    {
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/6Y7fCc18cmVYNCs4wHpPpc"
+      },
+      "artists": [
+        {
+          "name": "Stamp",
+          "url": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
+        },
+        {
+          "name": "Christopher Chu",
+          "url": "https://open.spotify.com/artist/1Qy8AVuvIVgC27FXE8Nvhl"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/45qZ8r4atGNjdFhhBy2Cvw"
+    },
+    {
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "album": {
+        "name": "One Conversation",
+        "url": "https://open.spotify.com/album/4zxn58VwU6cymtbP3zdGw7"
+      },
+      "artists": [
+        {
+          "name": "Yung Bright",
+          "url": "https://open.spotify.com/artist/0YnURC4kKD8ivGRxGKN5Hz"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "One Conversation",
+      "url": "https://open.spotify.com/track/0SGZVoQsEuOeEeKaeQpoZt"
     },
     {
       "album": {
@@ -618,7 +1202,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
@@ -648,10 +1232,54 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 193846,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/53tUZo31InCSrlTA4YW19w"
+    },
+    {
+      "album": {
+        "name": "PINK",
+        "url": "https://open.spotify.com/album/2jGdmNiKx25GpbK6Te4kWH"
+      },
+      "artists": [
+        {
+          "name": "GIANT PINK",
+          "url": "https://open.spotify.com/artist/4yvE3ttbP5uRwBQ0ZrhOPi"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171746,
+      "name": "PINK",
+      "url": "https://open.spotify.com/track/6mQBQbR7H3UJZcHZESQ0WU"
+    },
+    {
+      "album": {
+        "name": "PROTO TYPE (feat. Basick & San E)",
+        "url": "https://open.spotify.com/album/0BMiqu4DUcqu1ktR8li84d"
+      },
+      "artists": [
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        },
+        {
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+        },
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208531,
+      "name": "PROTO TYPE (feat. Basick & San E)",
+      "url": "https://open.spotify.com/track/2jY41YUnPCcHCKXiR47KFB"
     },
     {
       "album": {
@@ -670,10 +1298,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 184615,
       "name": "Push It Down (OST. Indonesia Esports Legends)",
       "url": "https://open.spotify.com/track/3tQJQSVayhD77dpccPqTFV"
+    },
+    {
+      "album": {
+        "name": "Quantum Love Story",
+        "url": "https://open.spotify.com/album/6IvKITrGcqTltSVVi3R5hD"
+      },
+      "artists": [
+        {
+          "name": "Saints Of March",
+          "url": "https://open.spotify.com/artist/5V6VULW61srEPyFrdgS9qT"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221176,
+      "name": "Quantum Love Story",
+      "url": "https://open.spotify.com/track/0IJXklyUAWAe6RyvfOtxCp"
     },
     {
       "album": {
@@ -688,7 +1334,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 184069,
       "name": "R.I.P.",
       "url": "https://open.spotify.com/track/1GyscxE7G8aAuR9FSFLkYI"
@@ -710,10 +1356,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 185480,
       "name": "Real Thing (feat. Elohim)",
       "url": "https://open.spotify.com/track/5wb8h2gUzyhmCwOtGp29z4"
+    },
+    {
+      "album": {
+        "name": "ROMADIW",
+        "url": "https://open.spotify.com/album/4MAouXbCXW1kvaN4xv3N1C"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199599,
+      "name": "ROMADIW",
+      "url": "https://open.spotify.com/track/7KYxCBxCcAUx6la1F0rWlL"
     },
     {
       "album": {
@@ -728,7 +1392,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 186300,
       "name": "Run to you - Christmas Special",
       "url": "https://open.spotify.com/track/2LeNMdCRoqrLue1lsCMW5i"
@@ -750,10 +1414,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 168770,
       "name": "SAVAGE",
       "url": "https://open.spotify.com/track/3qNYLmg7rLNCxRtvH6Odgu"
+    },
+    {
+      "album": {
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/4ZFRAcSLdsAGSgyrHB31KH"
+      },
+      "artists": [
+        {
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/4AfQOvbsAltnzGVziGmRqn"
     },
     {
       "album": {
@@ -768,7 +1450,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 168986,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
@@ -786,10 +1468,54 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 203400,
       "name": "Shark",
       "url": "https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw"
+    },
+    {
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/36kp4SVbHt0SqhAGpdFsK9"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/01yhPS4Pn3chM0sc3gcs6B"
+    },
+    {
+      "album": {
+        "name": "Sky High (feat. Non\u00f4)",
+        "url": "https://open.spotify.com/album/3vtdsgEmhYh46FzlQLzXWF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Sky High (feat. Non\u00f4)",
+      "url": "https://open.spotify.com/track/6yHR35fYbMEaDz2or8YsH1"
     },
     {
       "album": {
@@ -804,10 +1530,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 240449,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68"
+    },
+    {
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2"
     },
     {
       "album": {
@@ -826,7 +1574,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 202720,
       "name": "STAY",
       "url": "https://open.spotify.com/track/3vBwpaajHJQaqJkE7Xsv5H"
@@ -844,7 +1592,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 265998,
       "name": "Stay Positive",
       "url": "https://open.spotify.com/track/6s8wcZG7Iq5SgoNuhCeAeT"
@@ -862,10 +1610,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 177745,
       "name": "Stop",
       "url": "https://open.spotify.com/track/05LHZjqO6lYYmQK5kHxsm0"
+    },
+    {
+      "album": {
+        "name": "Sweater",
+        "url": "https://open.spotify.com/album/1tB4AOQQy6NWdHqGAXbkVD"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Sweater",
+      "url": "https://open.spotify.com/track/1SnR1IiRx2dUJcRwGYNvg5"
     },
     {
       "album": {
@@ -880,10 +1646,54 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 213606,
       "name": "Takluk Cinta",
       "url": "https://open.spotify.com/track/3n24b3ld1AMM9fMDui8gDX"
+    },
+    {
+      "album": {
+        "name": "TUJU UNTUK KAMU 18/19",
+        "url": "https://open.spotify.com/album/6klHAEwTFk5lR71RbRwKOb"
+      },
+      "artists": [
+        {
+          "name": "Tuju",
+          "url": "https://open.spotify.com/artist/3DpduguWUTtn3NQ1PFr2Kd"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318620,
+      "name": "Tenaga",
+      "url": "https://open.spotify.com/track/5QeeXqYDRCi9LiaQQvZOh2"
+    },
+    {
+      "album": {
+        "name": "The Good Days Boys Playlist 1",
+        "url": "https://open.spotify.com/album/5qQ6xIXc6aVePk5GcAV92Z"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162445,
+      "name": "The Good Days Boys",
+      "url": "https://open.spotify.com/track/4pF4jl2H1m5UVlKT8rE7vE"
     },
     {
       "album": {
@@ -898,7 +1708,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 218181,
       "name": "The One Who Wins",
       "url": "https://open.spotify.com/track/6PNBcD4FpmSnoBhcM10uwv"
@@ -920,7 +1730,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 168960,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/3y9PWDNJCRdunQ0ADjOHUK"
@@ -946,10 +1756,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 141312,
       "name": "Typical (feat. Lars Martin)",
       "url": "https://open.spotify.com/track/0zbCQ5BMhpFfKWcpEuzqVd"
+    },
+    {
+      "album": {
+        "name": "EPISODE 6: UGLY",
+        "url": "https://open.spotify.com/album/0L7Pn96iL4d6oSZYk1QAxa"
+      },
+      "artists": [
+        {
+          "name": "Josie Dunne",
+          "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118085,
+      "name": "UGLY",
+      "url": "https://open.spotify.com/track/2dhPuSbG7blYN5tc6VxzHq"
     },
     {
       "album": {
@@ -964,10 +1792,46 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 239958,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/7JZatkSCWyR1EUE4PZKBtU"
+    },
+    {
+      "album": {
+        "name": "unusual",
+        "url": "https://open.spotify.com/album/1y4LfGwz1Q2qiqDsd5eFI4"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "unusual",
+      "url": "https://open.spotify.com/track/5idFQaXtDbOeSx9mNAaEG6"
+    },
+    {
+      "album": {
+        "name": "Vanilla Ice Cream",
+        "url": "https://open.spotify.com/album/0xv3zhCfQjHLlWnTeU0Cm6"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205221,
+      "name": "Vanilla Ice Cream",
+      "url": "https://open.spotify.com/track/5nK8YwcjEblpT8RCYgGq0o"
     },
     {
       "album": {
@@ -986,10 +1850,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 189473,
       "name": "Wait",
       "url": "https://open.spotify.com/track/5xAHw57A56rNzHIYCv0U6m"
+    },
+    {
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7LvXbhUz6MqZ7RwrDyw4JI"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123135,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/46z6ENU51UUGeRam2fWrQW"
     },
     {
       "album": {
@@ -1012,7 +1894,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 190261,
       "name": "Wave Gods",
       "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
@@ -1034,10 +1916,72 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 167676,
       "name": "We Good (From The TV Show \"DAVE\")",
       "url": "https://open.spotify.com/track/2rKPqxCmMQ68wYV1ArFvNy"
+    },
+    {
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "album": {
+        "name": "Where My Girls At",
+        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
+      },
+      "artists": [
+        {
+          "name": "VENUS",
+          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164526,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Who Are You (Feat. SEULGI of Red Velvet)",
+      "url": "https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL"
     },
     {
       "album": {
@@ -1052,7 +1996,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 176540,
       "name": "Win Anyway",
       "url": "https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF"
@@ -1070,10 +2014,46 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 194405,
       "name": "Winter",
       "url": "https://open.spotify.com/track/7xpdQCezgE9ufrX8MSfNcj"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262120,
+      "name": "Winter Sleep",
+      "url": "https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB"
+    },
+    {
+      "album": {
+        "name": "\u4ee5\u5e74\u70ba\u55ae\u4f4d\u7684\u611b\u60c5(\u96fb\u5f71\u300a\u4ee5\u5e74\u70ba\u55ae\u4f4d\u7684\u6200\u611b\u300b\u7247\u5c3e\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "\u4ee5\u5e74\u70ba\u55ae\u4f4d\u7684\u611b\u60c5(\u96fb\u5f71\u300a\u4ee5\u5e74\u70ba\u55ae\u4f4d\u7684\u6200\u611b\u300b\u7247\u5c3e\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4"
     },
     {
       "album": {
@@ -1088,7 +2068,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 188397,
       "name": "\u5012\u6d41\u65f6\u95f4",
       "url": "https://open.spotify.com/track/0s46SmBykd4tqLxJ9AT7eB"
@@ -1110,10 +2090,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 300485,
       "name": "\u5206\u624b\u5427 - \u6efe\u77f340 \u6efe\u77f3\u649e\u6a02\u968a 40\u5718\u62da\u7d93\u5178 (\u539f\u5531:\u5f35\u9707\u5dbd)",
       "url": "https://open.spotify.com/track/1hkJUyfsZ6aw7TeHjW4t2r"
+    },
+    {
+      "album": {
+        "name": "\u60a3\u5f97\u5ba0\u7231",
+        "url": "https://open.spotify.com/album/087mcwzSegpEezwYNHjaXE"
+      },
+      "artists": [
+        {
+          "name": "Ren Ran",
+          "url": "https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253125,
+      "name": "\u60a3\u5f97\u5ba0\u7231",
+      "url": "https://open.spotify.com/track/69l2bZ1igqrQbiS6ZSdbZd"
     },
     {
       "album": {
@@ -1128,7 +2126,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 265721,
       "name": "\u6700\u6700\u611b",
       "url": "https://open.spotify.com/track/5L6dV3kZ6DuOTXM9N2YNpR"

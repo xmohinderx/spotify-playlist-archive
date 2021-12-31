@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "4am",
       "url": "https://open.spotify.com/track/0DTDQgTl6dfdFCCr8ZdE7T"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "alone < /3",
       "url": "https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 157216,
       "name": "At the Party",
       "url": "https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 219216,
       "name": "Can you",
       "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 196007,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 180693,
       "name": "Come and Go",
       "url": "https://open.spotify.com/track/4tN0ytPJ4ig51FVchYxHHB"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 104470,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/1WurdHYjLIZKqCCOLe9lQb"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 163500,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 174062,
       "name": "Good Love 2.0",
       "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 108304,
       "name": "GOR!LLAZ",
       "url": "https://open.spotify.com/track/5pcO248MInWTjo87ex4CxY"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 147685,
       "name": "I Like What I Like",
       "url": "https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Ija - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
@@ -1124,10 +1124,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu"
+    },
+    {
+      "album": {
+        "name": "Less Like",
+        "url": "https://open.spotify.com/album/6BLQDI9duVfrkQ8tjNeqRn"
+      },
+      "artists": [
+        {
+          "name": "Hollis",
+          "url": "https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "Less Like",
+      "url": "https://open.spotify.com/track/5iEvWfUIV8sWCU5thnoXHt"
     },
     {
       "album": {
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 169796,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 183655,
       "name": "MADAME",
       "url": "https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5"
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 181040,
       "name": "Nobody Knows We Are Fun",
       "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 156909,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 165305,
       "name": "Play Fair",
       "url": "https://open.spotify.com/track/1A5RzIhd6iGOxH3bxyEmSk"
@@ -1388,6 +1406,24 @@
       "duration_ms": 154437,
       "name": "PrettyGirlBop",
       "url": "https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm"
+    },
+    {
+      "album": {
+        "name": "Racist, Sexist Boy (Live at LA Public Library)",
+        "url": "https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125695,
+      "name": "Racist, Sexist Boy - Live at LA Public Library",
+      "url": "https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY"
     },
     {
       "album": {
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 173008,
       "name": "Rings of Saturn",
       "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
@@ -1803,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Unfamiliar Faces",
+        "url": "https://open.spotify.com/album/5LQcOO6gfzCEk8zbffdTI8"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209714,
+      "name": "Unfamiliar Faces",
+      "url": "https://open.spotify.com/track/5fgQ8FZ4bfTs9Pk4oG6imi"
+    },
+    {
+      "album": {
         "name": "universe",
         "url": "https://open.spotify.com/album/5D6dyK4L4TSJrUtKzfPnma"
       },
@@ -1832,7 +1886,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 207090,
       "name": "Wake up",
       "url": "https://open.spotify.com/track/0GhnPw6g8hIsvbwWenUyqc"

@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 186950,
       "name": "31",
       "url": "https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i"
@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
+    },
+    {
+      "album": {
         "name": "Melancholia, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0HaiAHJ2dETG2ezbTHDRi7"
       },
@@ -208,10 +226,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 250999,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6ChPSpcpyuFT8C5HMTlezz"
+    },
+    {
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0fL3Kkh9t8rv1BkpckEqHD"
+      },
+      "artists": [
+        {
+          "name": "Chance",
+          "url": "https://open.spotify.com/artist/4qtH69NwjHUulLj4verBCJ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209572,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/5zbTSY9o6rRNbcoN2yPosM"
     },
     {
       "album": {
@@ -346,7 +382,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 243124,
       "name": "For a Long Time \uc624\ub798\ub3c4\ub85d \ubc18\uc9dd\uc774\uac8c",
       "url": "https://open.spotify.com/track/1iyrKf79eBRdPoxQ1zawzu"
@@ -476,7 +512,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 244382,
       "name": "goodnight, dear",
       "url": "https://open.spotify.com/track/3c8LgCeqvBz0qtCRrS72yD"
@@ -494,7 +530,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 213800,
       "name": "Headache",
       "url": "https://open.spotify.com/track/6R4Lv4Bx0qhyVlVwurGzdf"
@@ -552,7 +588,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 263453,
       "name": "How Is Your Night",
       "url": "https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase"
@@ -588,7 +624,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 245533,
       "name": "I wanna go out",
       "url": "https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y"
@@ -624,7 +660,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 219355,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W"
@@ -642,7 +678,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 189066,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
@@ -682,7 +718,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 227872,
       "name": "I'm Late but I'm OK",
       "url": "https://open.spotify.com/track/1FtgzOwryldXWIjxmTqOoE"
@@ -736,7 +772,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Just thinking about you",
       "url": "https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB"
@@ -758,6 +794,24 @@
       "duration_ms": 188666,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+    },
+    {
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Like Us",
+      "url": "https://open.spotify.com/track/5HvwHlHx4eyYh7cmI8xr64"
     },
     {
       "album": {
@@ -790,7 +844,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 226083,
       "name": "Maze in the Mirror",
       "url": "https://open.spotify.com/track/2tYA2hPbaJqshY73q15wJz"
@@ -808,7 +862,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 186642,
       "name": "My Day",
       "url": "https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq"
@@ -826,7 +880,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 174520,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
@@ -844,7 +898,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 183840,
       "name": "My Yellow",
       "url": "https://open.spotify.com/track/2QZ67tcgnbqziznZl6tC2k"
@@ -888,7 +942,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 287386,
       "name": "Oh, My Sun",
       "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
@@ -978,7 +1032,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 194892,
       "name": "Running - Acoustic",
       "url": "https://open.spotify.com/track/5MQoTAOrOjNafc4VPav9Rn"
@@ -996,7 +1050,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
@@ -1130,7 +1184,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 207773,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m"
@@ -1148,7 +1202,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 216493,
       "name": "Spring Flowers",
       "url": "https://open.spotify.com/track/63tzhE9woGEnPVhgWzUTtk"
@@ -1296,7 +1350,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 145360,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
@@ -1390,7 +1444,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "want to go to sleep",
       "url": "https://open.spotify.com/track/6h8kbx5JGBhXNaoxlZrtyE"
@@ -1462,7 +1516,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
@@ -1480,7 +1534,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 237106,
       "name": "will be happy",
       "url": "https://open.spotify.com/track/2tqwVC2POBU8BrHlzgkRK2"
@@ -1502,7 +1556,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 241470,
       "name": "With me \uc624\ub298\uc774 \uc9c0\ub098\uba74",
       "url": "https://open.spotify.com/track/12NNRxfewZV8ey2qxQv9pa"
@@ -1542,7 +1596,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 213125,
       "name": "You're here with Rain \ube44 \uc624\ub294 \ub0a0\uc774 \uc88b\uc544\uc9c8 \uac83 \uac19\uc544 (With Chamsom)",
       "url": "https://open.spotify.com/track/3sHe6Zqj9BVYqNHmV8YvOx"
@@ -1590,7 +1644,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 258961,
       "name": "YOUR SONG",
       "url": "https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD"

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "A Medio Camino",
+        "url": "https://open.spotify.com/album/3033huz0Hl5KYYPH0LXkQS"
+      },
+      "artists": [
+        {
+          "name": "Aver\u00edas",
+          "url": "https://open.spotify.com/artist/1IyoBgQQHhhmXKQBTbzpA8"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170573,
+      "name": "A Medio Camino",
+      "url": "https://open.spotify.com/track/2vC9Mj3hcLo6gpLSKWONvR"
+    },
+    {
+      "album": {
         "name": "A volar (feat. Lido Pimienta)",
         "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 209121,
       "name": "Activ\u00edctima",
       "url": "https://open.spotify.com/track/22mdJjwKLG0LkavrkLEj0H"
@@ -100,10 +118,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 206032,
       "name": "Ahots Hari",
       "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
+    },
+    {
+      "album": {
+        "name": "Aitormena",
+        "url": "https://open.spotify.com/album/102DUYMhYmzYN11gsOszXg"
+      },
+      "artists": [
+        {
+          "name": "Iseo",
+          "url": "https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170024,
+      "name": "Aitormena",
+      "url": "https://open.spotify.com/track/0Tei9Df9ToODKMjoDQ26cP"
     },
     {
       "album": {
@@ -140,7 +176,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 341037,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
@@ -158,7 +194,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 279440,
       "name": "Alfonsina y el Mar",
       "url": "https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ"
@@ -202,7 +238,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 189313,
       "name": "Alma Mantra",
       "url": "https://open.spotify.com/track/5LA6XlS8iZGbRlO4Z6lr4G"
@@ -308,7 +344,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 231500,
       "name": "brotes (versi\u00f3n ac\u00fastica)",
       "url": "https://open.spotify.com/track/2glJdcppaKzD5mtDaLc0K2"
@@ -398,7 +434,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 331442,
       "name": "Casida de la Rosa",
       "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
@@ -517,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
+    },
+    {
+      "album": {
         "name": "Sof\u00e1",
         "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
       },
@@ -594,6 +648,28 @@
       "duration_ms": 348840,
       "name": "Derecho de Nacimiento (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy"
+    },
+    {
+      "album": {
+        "name": "Destino trocado",
+        "url": "https://open.spotify.com/album/7Hx7ZqnKldsGScVBTy4uut"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Borra",
+          "url": "https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon"
+        },
+        {
+          "name": "Lola Membrillo",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148038,
+      "name": "Destino trocado",
+      "url": "https://open.spotify.com/track/55kgTXqfcM3ixK0oc4gkeX"
     },
     {
       "album": {
@@ -696,7 +772,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 297773,
       "name": "El don de la ternura",
       "url": "https://open.spotify.com/track/4UjvNMH8l88rk7OmLXtyIK"
@@ -748,6 +824,28 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/15MrK18b57Reu75doUBMxb"
+    },
+    {
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        },
+        {
+          "name": "Ernesto Snajer",
+          "url": "https://open.spotify.com/artist/2lsW2v88mmr3SCDpKFlUao"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181798,
+      "name": "El Tiempo Est\u00e1 Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
     },
     {
       "album": {
@@ -820,7 +918,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 197485,
       "name": "Enredaderas",
       "url": "https://open.spotify.com/track/7jznLltf0c64ROOQCIEP97"
@@ -838,7 +936,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 291093,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/3h3OZvh4BysVSIeyd0Qfji"
@@ -896,7 +994,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 186232,
       "name": "Fluya",
       "url": "https://open.spotify.com/track/428Td36ZF4FyzY6lKrHczS"
@@ -1335,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Los P\u00e1jaros de Ciudad",
+        "url": "https://open.spotify.com/album/5ZFzN977yU8AAMkUmZwVfQ"
+      },
+      "artists": [
+        {
+          "name": "Laura Murcia",
+          "url": "https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199920,
+      "name": "Los P\u00e1jaros de Ciudad",
+      "url": "https://open.spotify.com/track/07IHpkOUmcE2wlNbWYnxQ9"
+    },
+    {
+      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -1444,7 +1560,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 333409,
       "name": "Migas",
       "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
@@ -1593,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "No Fer Tant",
+        "url": "https://open.spotify.com/album/1VHlNUJepNTcoygNb5NC2K"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152264,
+      "name": "No Fer Tant",
+      "url": "https://open.spotify.com/track/2lx42rIGTfQzs3kGNPxnGf"
+    },
+    {
+      "album": {
         "name": "El Vuelo",
         "url": "https://open.spotify.com/album/11ZYjr4BcCTyu8kAcZ6gA9"
       },
@@ -1608,7 +1742,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 329062,
       "name": "No Pasar\u00e1n",
       "url": "https://open.spotify.com/track/01qqX42EpmyAS6mOTKzBB0"
@@ -1728,7 +1862,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 100467,
       "name": "Ponme",
       "url": "https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5"
@@ -1764,7 +1898,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 237613,
       "name": "Pura Flor",
       "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
@@ -1916,7 +2050,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 354887,
       "name": "Ruegos y Dem\u00e1s",
       "url": "https://open.spotify.com/track/7fWlwO4QBU6TEg3sadKJCS"
@@ -1970,7 +2104,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 213830,
       "name": "Sal",
       "url": "https://open.spotify.com/track/5OvUfM106u76qTySjzr6W9"
@@ -1988,7 +2122,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 302976,
       "name": "Sana sana",
       "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
@@ -2036,7 +2170,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 183744,
       "name": "Selv\u00e1tica",
       "url": "https://open.spotify.com/track/13EXXLcCFp8RAJa4F8PqfQ"
@@ -2218,7 +2352,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 196506,
       "name": "Temes",
       "url": "https://open.spotify.com/track/0dszpdR645HWyHjnCLMexZ"
@@ -2298,7 +2432,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 210200,
       "name": "Toca",
       "url": "https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4"
@@ -2360,7 +2494,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 181093,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/7AYiZYUZuplwc9krvnYEGK"
@@ -2436,7 +2570,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 180757,
       "name": "Un d\u00eda lo encontr\u00e9",
       "url": "https://open.spotify.com/track/3oUpoOrGSqMWXtDnZMBRtZ"
@@ -2620,7 +2754,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 311054,
       "name": "Vamos los Dos (con 82 Artistas)",
       "url": "https://open.spotify.com/track/0B76jmUwpgUmtbIKdIlVZc"
@@ -2664,7 +2798,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Verde Nocturno",
       "url": "https://open.spotify.com/track/5jf5mhtgQ3uaLE8wv3Xg0K"
@@ -2682,10 +2816,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 215786,
       "name": "Vidrieritas",
       "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
+    },
+    {
+      "album": {
+        "name": "Viento",
+        "url": "https://open.spotify.com/album/6AaumDD4kbBMzZyO94VB9M"
+      },
+      "artists": [
+        {
+          "name": "Natalia Vega",
+          "url": "https://open.spotify.com/artist/5ksEvufQxwKs7S2DZb8mxK"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219474,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/7F5YuObBApawjkj91ltz9f"
     },
     {
       "album": {
@@ -2722,7 +2874,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 196762,
       "name": "Y Arder\u00e1n",
       "url": "https://open.spotify.com/track/1OlodnuRTxve00lxntQVqC"
@@ -2766,7 +2918,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 250946,
       "name": "\u00daltimo Aliento",
       "url": "https://open.spotify.com/track/3osCap9ViWOWhYk8FOWZdZ"

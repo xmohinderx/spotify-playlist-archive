@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 205733,
       "name": "Crazy For Your Love",
       "url": "https://open.spotify.com/track/13p0TeLG8v8x11RUIInwAL"
@@ -852,6 +852,24 @@
       "duration_ms": 173093,
       "name": "Girls Night Out",
       "url": "https://open.spotify.com/track/5uK1WDVWhds3PSgKWB24yM"
+    },
+    {
+      "album": {
+        "name": "Kentucky Hearts",
+        "url": "https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168666,
+      "name": "Give Me One More Chance",
+      "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
     },
     {
       "album": {
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 215026,
       "name": "I Wouldn't Have Missed It for the World",
       "url": "https://open.spotify.com/track/31kFcCyEcb6vvmyyFbKCE8"
@@ -1278,7 +1296,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 217826,
       "name": "I Wouldn't Have Missed It For The World",
       "url": "https://open.spotify.com/track/7sNKhnl4MZnHdMzvmC4jG5"
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 203026,
       "name": "Old Flames Can't Hold a Candle to You",
       "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"

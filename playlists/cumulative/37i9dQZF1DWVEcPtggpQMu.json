@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 197567,
       "name": "Block B",
       "url": "https://open.spotify.com/track/1hGq5XLxw5QJ6NG356GTmf"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 181004,
       "name": "l.i.l. (lonely in love)",
       "url": "https://open.spotify.com/track/7aPnIgKYvSnGTcUrTyOy13"
@@ -412,6 +412,24 @@
       "duration_ms": 268178,
       "name": "LET ME KNOW",
       "url": "https://open.spotify.com/track/3JnGKi6e8sWOAkDo8ULfhn"
+    },
+    {
+      "album": {
+        "name": "Lifespan",
+        "url": "https://open.spotify.com/album/4wVUM88NJbyzhtZSF4859v"
+      },
+      "artists": [
+        {
+          "name": "Thab6ix",
+          "url": "https://open.spotify.com/artist/1HdIkHRe9CHV2ASXkwJ7oE"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107964,
+      "name": "Lifespan",
+      "url": "https://open.spotify.com/track/3TZtaOPcjABHxsuXLG1nBq"
     },
     {
       "album": {
@@ -1030,6 +1048,24 @@
       "duration_ms": 261340,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/0MHnB8ECLzM4LEDjLLgdm8"
+    },
+    {
+      "album": {
+        "name": "Tlhale",
+        "url": "https://open.spotify.com/album/7Ie353ysPP2wCZOu5kJvRD"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Tlhale",
+      "url": "https://open.spotify.com/track/45rVGqesBqBjumX8nsfk3c"
     },
     {
       "album": {

@@ -298,7 +298,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-05",
+      "date_removed": null,
       "duration_ms": 187484,
       "name": "Ale jazz!",
       "url": "https://open.spotify.com/track/0IiNfOoR2hkB0FznzscP5T"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 193488,
       "name": "Ca\u0142y hajs",
       "url": "https://open.spotify.com/track/4Q5tf4EFmf3DjObv8a8YvF"
@@ -6116,7 +6116,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 165645,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/01AnaOESGIDMJiTXrvAY1M"
@@ -7026,7 +7026,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 157953,
       "name": "Ratuj",
       "url": "https://open.spotify.com/track/3tW8M4Jrrw9K5atA2YpMOF"
@@ -8092,7 +8092,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-12",
+      "date_removed": null,
       "duration_ms": 225948,
       "name": "ten Stan",
       "url": "https://open.spotify.com/track/6lfg5PabZsH0WAMzllXWLK"
@@ -8894,6 +8894,36 @@
       "duration_ms": 164360,
       "name": "XO",
       "url": "https://open.spotify.com/track/0LhrIUtHuMMCNnpMUJTACr"
+    },
+    {
+      "album": {
+        "name": "YO MAMALE",
+        "url": "https://open.spotify.com/album/2Z2goAUBtvOVhdykvrLJnE"
+      },
+      "artists": [
+        {
+          "name": "FRIZ",
+          "url": "https://open.spotify.com/artist/6K02Q2fEVl7WMmMqN85tIc"
+        },
+        {
+          "name": "MASNY BEN",
+          "url": "https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU"
+        },
+        {
+          "name": "mgng",
+          "url": "https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc"
+        },
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "YO MAMALE",
+      "url": "https://open.spotify.com/track/6UQWIXmtV5GLwzLOtjTVPM"
     },
     {
       "album": {

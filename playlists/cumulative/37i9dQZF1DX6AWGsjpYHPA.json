@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Burning Plain",
+        "url": "https://open.spotify.com/album/6N0mndapBpl8Z2KH0xpXu4"
+      },
+      "artists": [
+        {
+          "name": "Cochemea",
+          "url": "https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293746,
+      "name": "Burning Plain",
+      "url": "https://open.spotify.com/track/7xTuPspAQq5eYeqfFXFOZw"
+    },
+    {
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
@@ -184,6 +202,42 @@
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
+      "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe"
+      },
+      "artists": [
+        {
+          "name": "Anthony Naples",
+          "url": "https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299821,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/6WX84e2SacFICy3HoWjYaH"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/09bDlTcjEzOeMZJCjKwxF0"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/19ISEtEat3oefNy4yVFLFK"
     },
     {
       "album": {
@@ -216,7 +270,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 316866,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
@@ -242,10 +296,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 284666,
       "name": "Cosmosis",
       "url": "https://open.spotify.com/track/4q2Jdr5xFZPcNVMtsxjW6v"
+    },
+    {
+      "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "album": {
@@ -388,7 +460,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 532313,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
@@ -406,7 +478,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 180500,
       "name": "Fonction Naturelle",
       "url": "https://open.spotify.com/track/6WhWYLxIDeUDTtKmp8F7mX"
@@ -442,7 +514,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
@@ -460,7 +532,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 185929,
       "name": "Human Race",
       "url": "https://open.spotify.com/track/2pLqaNLScfyPB76HX0cnL4"
@@ -626,7 +698,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 155653,
       "name": "Koko",
       "url": "https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI"
@@ -680,10 +752,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 278386,
       "name": "Leaves Against The Sky",
       "url": "https://open.spotify.com/track/0ZVzN7tnseNSxtnAhTNK39"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193401,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
     },
     {
       "album": {
@@ -698,7 +788,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 253440,
       "name": "Like My Way",
       "url": "https://open.spotify.com/track/4iELCZDu8BTCgP0MWNLQ9u"
@@ -835,6 +925,42 @@
     },
     {
       "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
+    },
+    {
+      "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274213,
+      "name": "Nakamarra",
+      "url": "https://open.spotify.com/track/1WCbWyu8mRrOk5Su9yPnkO"
+    },
+    {
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -872,10 +998,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 353695,
       "name": "Nineteen Ninety",
       "url": "https://open.spotify.com/track/1Rk6DIreZBbisRdjn9qXlj"
+    },
+    {
+      "album": {
+        "name": "NYCBB",
+        "url": "https://open.spotify.com/album/0IFVaajtSom4dIKY8oLHg8"
+      },
+      "artists": [
+        {
+          "name": "1000 Beasts",
+          "url": "https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9"
+        },
+        {
+          "name": "C\u00e9lia Tiab",
+          "url": "https://open.spotify.com/artist/6l5RzWFu2h9nHQJDMqbXRj"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256250,
+      "name": "NYCBB",
+      "url": "https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2"
     },
     {
       "album": {
@@ -898,6 +1046,42 @@
       "duration_ms": 207591,
       "name": "O Baixo do Kassin",
       "url": "https://open.spotify.com/track/2rqbQFXEwBboCYy2uwSoxM"
+    },
+    {
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04"
+    },
+    {
+      "album": {
+        "name": "Outlook Remains Untouched",
+        "url": "https://open.spotify.com/album/3UXZO8203DQInQGskJLBoy"
+      },
+      "artists": [
+        {
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391111,
+      "name": "Outlook Remains Untouched",
+      "url": "https://open.spotify.com/track/5XkFY9AdesErbMzRpBo4Ja"
     },
     {
       "album": {
@@ -1112,7 +1296,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
@@ -1178,7 +1362,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 208518,
       "name": "Suffer and Swim",
       "url": "https://open.spotify.com/track/5FAfSZWgGvX8feO5M0mBUe"
@@ -1266,6 +1450,24 @@
       "duration_ms": 213020,
       "name": "Tartarugu\u00ea",
       "url": "https://open.spotify.com/track/5T2HsiUYo0ENMbu1PbKJgV"
+    },
+    {
+      "album": {
+        "name": "Jewels from the Sun EP",
+        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290847,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     },
     {
       "album": {
@@ -1364,7 +1566,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 287002,
       "name": "Too Soon You're Old",
       "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
@@ -1393,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Universal Insanity",
+        "url": "https://open.spotify.com/album/1OMIi4qsKlROBKp2sZEdFy"
+      },
+      "artists": [
+        {
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406660,
+      "name": "Universal Insanity",
+      "url": "https://open.spotify.com/track/16H5KPPLFLzvW0oZjJjwwe"
+    },
+    {
+      "album": {
         "name": "Best of The Black President",
         "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
       },
@@ -1408,6 +1628,24 @@
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "album": {
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4MKG9oZywXfTaITZ9swOB1"
+      },
+      "artists": [
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262092,
+      "name": "We Go Again",
+      "url": "https://open.spotify.com/track/1ZuM7USvEryCw7eDwAvhTw"
     },
     {
       "album": {

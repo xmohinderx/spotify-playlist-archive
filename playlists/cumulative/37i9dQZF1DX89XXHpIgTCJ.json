@@ -242,7 +242,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 233760,
       "name": "Fight Like A Brave",
       "url": "https://open.spotify.com/track/6NeRpRTcFftvt3j1vF4Pcw"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 273373,
       "name": "I Make My Own Rules",
       "url": "https://open.spotify.com/track/1D63x39D8J3oKbqLUCk5gg"
@@ -455,6 +455,32 @@
     },
     {
       "album": {
+        "name": "93PUNX",
+        "url": "https://open.spotify.com/album/13VX4SeBbXuZEihnA91GSo"
+      },
+      "artists": [
+        {
+          "name": "93PUNX",
+          "url": "https://open.spotify.com/artist/0qfeDvoajHGoVkmIW7fgra"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2021-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182960,
+      "name": "it\u2019s a bad dream (Feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/4o2pCUcxHc8wabzbNi5naZ"
+    },
+    {
+      "album": {
         "name": "Unsung: The Best Of Helmet 1991-1997",
         "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
       },
@@ -488,7 +514,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
@@ -536,7 +562,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 231173,
       "name": "Let It Rock",
       "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
@@ -628,7 +654,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 173326,
       "name": "Made An America",
       "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
@@ -828,6 +854,24 @@
       "duration_ms": 219053,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/0EcdmJCR4pURncLgeeBYvl"
+    },
+    {
+      "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/6aK5j6uQmTduQkgtVQasMN"
+      },
+      "artists": [
+        {
+          "name": "Stuck Mojo",
+          "url": "https://open.spotify.com/artist/4Bqt1X3kNYGUWtbs0fCKTB"
+        }
+      ],
+      "date_added": "2021-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232813,
+      "name": "Rising",
+      "url": "https://open.spotify.com/track/0dPW4wary96t6iIzwPoqjU"
     },
     {
       "album": {
@@ -1108,7 +1152,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 249986,
       "name": "We Care a Lot",
       "url": "https://open.spotify.com/track/0LGLroYa8j2Y2gcYxCNuKz"
@@ -1130,7 +1174,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 238066,
       "name": "We Made It (feat. Linkin Park)",
       "url": "https://open.spotify.com/track/26jVcJqG66nj36jRqPBp2U"
@@ -1148,7 +1192,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 146693,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/75qe37gZ8SfRg0N8fGbvrD"

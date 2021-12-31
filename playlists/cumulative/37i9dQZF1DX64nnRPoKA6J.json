@@ -124,7 +124,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 206466,
       "name": "Apple Eyes",
       "url": "https://open.spotify.com/track/7DVr6Az7HukAZeK7v3cGZx"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 252760,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 269093,
       "name": "Can't Stop This Thing We Started",
       "url": "https://open.spotify.com/track/4e80zUwo7YuhNHs9OokSG0"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 189906,
       "name": "Come On Over (All I Want Is You)",
       "url": "https://open.spotify.com/track/3W3MNXiYjuK1r1LIFyQqja"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 236066,
       "name": "Hey Jealousy",
       "url": "https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 197693,
       "name": "I Think I'm in Love with You",
       "url": "https://open.spotify.com/track/34PsixEmIceg39NpaYxBsH"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 227640,
       "name": "I Touch Myself",
       "url": "https://open.spotify.com/track/6oNvmplQGUkmAh441Teows"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 244015,
       "name": "Jackie - Radio Edit",
       "url": "https://open.spotify.com/track/325FgLfQLrjhAeLCBVNvLt"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 206400,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/2McbI8WrvqqK6Ew5VgllX3"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 256519,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/2ADU49RKktDsdPj0vKqJ6j"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 304960,
       "name": "Mama",
       "url": "https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh"
@@ -784,6 +784,24 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/3p5TJ1ksja0twSGpqPUU19"
+      },
+      "artists": [
+        {
+          "name": "Merril Bainbridge",
+          "url": "https://open.spotify.com/artist/0lSDlT2Z5EvUGNIl7WQ7k0"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Mouth",
+      "url": "https://open.spotify.com/track/11Ki2bHWXTEug0DAfKcDDD"
     },
     {
       "album": {
@@ -906,7 +924,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 260893,
       "name": "Pash",
       "url": "https://open.spotify.com/track/03Bgy8sbBMxyQ3yYNwhTxR"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 184333,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"

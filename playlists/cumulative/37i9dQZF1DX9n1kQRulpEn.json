@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 438640,
       "name": "Blues Function",
       "url": "https://open.spotify.com/track/55cpqzYGlvah8FSmlxroCQ"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 376666,
       "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Song For My Father",
+        "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326786,
+      "name": "The Kicker - Rudy Van Gelder Edition/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/03GekuTeEoSNyD3Ggg1xZD"
+    },
+    {
+      "album": {
         "name": "Further Explorations By The Horace Silver Quintet",
         "url": "https://open.spotify.com/album/0CwBhf4CsMHvZcBlQpqjwN"
       },
@@ -1962,7 +1980,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 511853,
       "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 283882,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/6ZZTeKUYnl493X7myMxfeS"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 345400,
       "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"

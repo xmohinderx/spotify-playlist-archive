@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "El Ni\u00f1o Jesus - Single",
+        "url": "https://open.spotify.com/album/2Y8Xbcwhyx5cw4UoeiMhJE"
+      },
+      "artists": [
+        {
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "El Ni\u00f1o Jesus",
+      "url": "https://open.spotify.com/track/5nkotu365Il2wz2JnPYCNY"
+    },
+    {
+      "album": {
         "name": "El Regalo",
         "url": "https://open.spotify.com/album/0i9y0jCd5ToVNQTscDYfYn"
       },
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 209640,
       "name": "Santa Claus Is Comin\u2019 To Town",
       "url": "https://open.spotify.com/track/2m8DBsZnH9whNkbSjnbRGJ"

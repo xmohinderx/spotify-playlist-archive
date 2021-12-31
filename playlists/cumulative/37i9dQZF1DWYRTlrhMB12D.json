@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 279463,
       "name": "Aa Chal Ke Tujhe",
       "url": "https://open.spotify.com/track/53keqrDTkt1GE9hJgUoql4"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 374256,
       "name": "Aaj Mausam Bada Beimaan Hai",
       "url": "https://open.spotify.com/track/5fW4gRS99wXOOuYRV03W5X"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 238266,
       "name": "Aaj Phir Jeene Ki Tamanna Hai",
       "url": "https://open.spotify.com/track/2DG0ccrVYIh3qk3ske5jTz"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 200320,
       "name": "Aye Gulbadan",
       "url": "https://open.spotify.com/track/2JDPBGGSbNsvazs6gf6OSX"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 241666,
       "name": "Bahon Mein Chale Aao",
       "url": "https://open.spotify.com/track/2IWhu2HrHttIUcw0Omn1Gr"
@@ -354,6 +354,28 @@
       "duration_ms": 294493,
       "name": "Chahoonga Main Tujhe",
       "url": "https://open.spotify.com/track/5DZBeP8uHa6iQiWuYOgRRC"
+    },
+    {
+      "album": {
+        "name": "Mere Jeevan Saathi",
+        "url": "https://open.spotify.com/album/0LgDRtuJbng7HyGRHhdJGX"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269551,
+      "name": "Chala Jata Hoon",
+      "url": "https://open.spotify.com/track/4MiiZH1ONmjTVEFbGURgMC"
     },
     {
       "album": {
@@ -430,7 +452,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 279754,
       "name": "Do Lafzon Ki Hai Dil Ki Kahani - Asha Bhosle",
       "url": "https://open.spotify.com/track/72B7rdPUVvEbap8RvIQbVk"
@@ -448,7 +470,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 206893,
       "name": "Ehsan Tera Hoga Mujh Par",
       "url": "https://open.spotify.com/track/7nNDC2XCZG9ei1DskgQ72r"
@@ -536,7 +558,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 290400,
       "name": "Isharon Isharon Men Dil Lenewale",
       "url": "https://open.spotify.com/track/1xNN6c8eW8Mm9uz9nVqln9"
@@ -616,7 +638,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 197106,
       "name": "Jata Kahan Hai Diwane",
       "url": "https://open.spotify.com/track/5cQzW3GYUl3TidsZr9Lb4t"
@@ -710,7 +732,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 262896,
       "name": "Kya Hua Tera Vada (From \"Hum Kisi Se Kum Nahin\") [1977]",
       "url": "https://open.spotify.com/track/6RIFzPzdDl31gcCEolcpeF"
@@ -768,6 +790,24 @@
       "duration_ms": 204040,
       "name": "Main Pal Do Pal Ka Shair Hoon",
       "url": "https://open.spotify.com/track/3P30d9Ayuy7IW88RvAvFMl"
+    },
+    {
+      "album": {
+        "name": "Hum Dono (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5j7tLPiLgd645zG6qc5oit"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Main Zindagi Ka Saath Nibhata Chala Gaya",
+      "url": "https://open.spotify.com/track/07Fwpys1NEj18b4LBoIeCy"
     },
     {
       "album": {
@@ -858,10 +898,28 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 300640,
       "name": "Mere Sapnon Ki Rani (From \"Aradhana\")",
       "url": "https://open.spotify.com/track/3cWgUwwFeydGWc5vLjr5UC"
+    },
+    {
+      "album": {
+        "name": "Sahib Bibi Aur Ghulam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JtG7x9ZjQf6AZnOTsx0IQ"
+      },
+      "artists": [
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "Na Jao Saiyan Chhuda Ke Baiyan",
+      "url": "https://open.spotify.com/track/0ZuHdH0acs3EmaukBgzJQk"
     },
     {
       "album": {
@@ -988,7 +1046,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 284133,
       "name": "Pyar Diwana Hota Hai (From \"Kati Patang\")",
       "url": "https://open.spotify.com/track/6MYmHgOoy0BLOtdL2Zug6e"
@@ -1046,7 +1104,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 261279,
       "name": "Tere Mere Sapne Ab Ek Rang Hain",
       "url": "https://open.spotify.com/track/0bkZP6HJBDA0kBbMYKXsWj"
@@ -1064,7 +1122,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 283146,
       "name": "Teri Galiyon Mein",
       "url": "https://open.spotify.com/track/1KL9KL7o8af7b93kgQS85z"
@@ -1176,7 +1234,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 226680,
       "name": "Yeh Mera Diwanapan Hai",
       "url": "https://open.spotify.com/track/6O9tpC8F1dzV1JhkiGQ5iU"
@@ -1220,7 +1278,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 201160,
       "name": "Yeh Raaten Yeh Mausam",
       "url": "https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J"
@@ -1238,7 +1296,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 276855,
       "name": "Yeh Sham Mastani",
       "url": "https://open.spotify.com/track/3BjAnJwtlVoS7m3kdb6Y8i"

@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "All the Lost Souls",
+        "url": "https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234640,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG"
+    },
+    {
+      "album": {
         "name": "Up To Now",
         "url": "https://open.spotify.com/album/61ydlH3GzijGrRrivGZASi"
       },
@@ -814,7 +832,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 302760,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/7zw9OxtVotLfxlfavSADXQ"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 221360,
       "name": "I'm All About You",
       "url": "https://open.spotify.com/track/4osyhAKfnSADr7f4kOLS86"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 255333,
       "name": "Love",
       "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 212000,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/7zAiHY1YvdzGmvSXaLyBy4"
@@ -2820,6 +2838,24 @@
       "duration_ms": 185013,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm"
+    },
+    {
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/1meis09isQJFDA65afUTt8"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/1ER1LD0u0mgQZV0QE7cyVY"
     },
     {
       "album": {

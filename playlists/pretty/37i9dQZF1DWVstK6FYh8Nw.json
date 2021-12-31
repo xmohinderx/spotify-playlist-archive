@@ -1,12 +1,12 @@
 {
   "description": "The Atlanta-born <a href=\"spotify:artist:1RyvyyTE3xzB2ZywiAwp0i\">rapper</a>'s dopest songs plus his latest bangers.",
   "name": "This Is Future",
-  "num_followers": 472042,
+  "num_followers": 472168,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTI4OTE1MiwwMDAwMDAyNzAwMDAwMTc5N2M1ZDJmNWYwMDAwMDE2ZDAwYzJhMDBh",
+  "snapshot_id": "MTY0MDkwOTQyNSwwMDAwMDAyODAwMDAwMTdlMGRkMmNhOWYwMDAwMDE2ZDAwYzJhMDBh",
   "tracks": [
     {
       "added_at": "2019-01-08 22:36:46",
@@ -43,6 +43,42 @@
       "duration_ms": 167551,
       "name": "Trillionaire (feat. Youngboy Never Broke Again)",
       "url": "https://open.spotify.com/track/740kQ8xwSGloumdiKR5Cwz"
+    },
+    {
+      "added_at": "2019-01-08 22:36:46",
+      "album": {
+        "name": "March Madness",
+        "url": "https://open.spotify.com/album/17jrvK2s43hnAYpays9tyb"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 244613,
+      "name": "March Madness",
+      "url": "https://open.spotify.com/track/6hVGw7yVUd2bpdHMPCWrtN"
+    },
+    {
+      "added_at": "2021-12-31 00:10:25",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "all good (feat. Future)",
+      "url": "https://open.spotify.com/track/4tEArA9SQlyNrBHpjNZAWM"
     },
     {
       "added_at": "2019-01-19 04:15:42",
@@ -83,38 +119,6 @@
     {
       "added_at": "2019-01-08 22:36:46",
       "album": {
-        "name": "March Madness",
-        "url": "https://open.spotify.com/album/17jrvK2s43hnAYpays9tyb"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 244613,
-      "name": "March Madness",
-      "url": "https://open.spotify.com/track/6hVGw7yVUd2bpdHMPCWrtN"
-    },
-    {
-      "added_at": "2019-01-08 22:36:46",
-      "album": {
-        "name": "DS2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Trap Niggas",
-      "url": "https://open.spotify.com/track/6elNeXUhiuHPD9hH5rocQi"
-    },
-    {
-      "added_at": "2019-01-08 22:36:46",
-      "album": {
         "name": "EVOL",
         "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
       },
@@ -131,6 +135,42 @@
       "duration_ms": 313546,
       "name": "Low Life (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
+    },
+    {
+      "added_at": "2021-12-31 00:10:25",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 273577,
+      "name": "N 2 Deep",
+      "url": "https://open.spotify.com/track/34D6FJysnQioVingDKufuf"
+    },
+    {
+      "added_at": "2019-01-08 22:36:46",
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Trap Niggas",
+      "url": "https://open.spotify.com/track/6elNeXUhiuHPD9hH5rocQi"
     },
     {
       "added_at": "2019-01-08 22:36:46",
@@ -919,22 +959,6 @@
       "duration_ms": 158933,
       "name": "(Bonus) Itchin",
       "url": "https://open.spotify.com/track/53CUl8RvJqbBPm31SiSg7Q"
-    },
-    {
-      "added_at": "2019-01-08 22:36:46",
-      "album": {
-        "name": "SUPER SLIMEY",
-        "url": "https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Killed Before",
-      "url": "https://open.spotify.com/track/0jPLBur1qXRfj3pbuJSX03"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVstK6FYh8Nw"

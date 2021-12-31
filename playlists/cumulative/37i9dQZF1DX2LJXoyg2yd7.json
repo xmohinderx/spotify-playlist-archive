@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 834946,
       "name": "Sirr Hobbi",
       "url": "https://open.spotify.com/track/1wwznXiE8586TWHuSFk3GO"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 398506,
       "name": "Ya Gharami",
       "url": "https://open.spotify.com/track/2rsf0YkKKEjgkcxhX3sizU"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 406693,
       "name": "Ya Saher Aleainain",
       "url": "https://open.spotify.com/track/569GHmdXGxgsAgvqZFx4jF"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 384182,
       "name": "\u0623\u063a\u0644\u0649 \u0639\u0634\u0642",
       "url": "https://open.spotify.com/track/1fSeLSobV3N2IxcgHRvv2L"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 280421,
       "name": "\u0634\u0648\u0641 \u0644\u064a \u062d\u0644",
       "url": "https://open.spotify.com/track/0CZDJbxXCs2V9Gjk7M8nrF"
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "\u0644\u062d\u0627\u0644\u0643 - Single",
+        "url": "https://open.spotify.com/album/2A13FGu17s6NRMGE0URQFo"
+      },
+      "artists": [
+        {
+          "name": "Faisal Abdulkareem",
+          "url": "https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255793,
+      "name": "\u0644\u062d\u0627\u0644\u0643",
+      "url": "https://open.spotify.com/track/0Tec7sBAIDpulSB1RNgwro"
+    },
+    {
+      "album": {
         "name": "\u0644\u0645\u0646 \u0627\u0634\u0643\u064a\u0647 - Single",
         "url": "https://open.spotify.com/album/78f9KtgEFjvevF1eyMQKOO"
       },
@@ -640,7 +658,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 305964,
       "name": "\u0645\u0627\u0623\u062c\u0645\u0644\u0643",
       "url": "https://open.spotify.com/track/2DTzFjkDOAt8E8qUEpLb0b"
@@ -694,7 +712,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 336483,
       "name": "\u064a\u0627 \u062c\u0627\u0646\u064a\u0627\u062a \u0627\u0644\u0639\u0646\u0627\u0642\u064a\u062f",
       "url": "https://open.spotify.com/track/3HIM2MSek0HBoMJU2HOnNQ"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 512026,
       "name": "\u064a\u0627 \u0645\u0647\u0627\u062c\u0631",
       "url": "https://open.spotify.com/track/7lCGZKNM9OzhPtRTyamcbN"
@@ -838,7 +856,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 381857,
       "name": "\u064a\u0627\u0644\u0628\u0639\u064a\u062f",
       "url": "https://open.spotify.com/track/2AytFH0o2V70r3kVvXYaUc"

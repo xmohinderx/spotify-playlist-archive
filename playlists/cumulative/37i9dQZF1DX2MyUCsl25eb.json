@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 258733,
       "name": "Bad To Worse",
       "url": "https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 198253,
       "name": "Dirty Nikes",
       "url": "https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 243186,
       "name": "Happy & Sad",
       "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 308404,
       "name": "Hood of My Car",
       "url": "https://open.spotify.com/track/2NBStpICFAoI4SVKOPHSwN"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 214066,
       "name": "It Wasn't Easy To Be Happy For You",
       "url": "https://open.spotify.com/track/092F4qgjmKNXeMZxWeeQAn"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 201226,
       "name": "Paul Newman Daytona Rolex",
       "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 192221,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/5OKQlPktbklnSDGm5MqDZB"
@@ -1550,10 +1550,28 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 260959,
       "name": "Way With Words",
       "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
+    },
+    {
+      "album": {
+        "name": "We\u2019ll Be Alright",
+        "url": "https://open.spotify.com/album/7kpo8rHIFoa15JMwzxBDdf"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2021-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233425,
+      "name": "We'll Be Alright",
+      "url": "https://open.spotify.com/track/6klNPAhUTmsYNlWbOyVbsy"
     },
     {
       "album": {
@@ -1611,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/5u6B01T3unVu8ZuHUxGiID"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "Why Not",
+      "url": "https://open.spotify.com/track/1u4vnt92EF8arsXwCtGsdP"
+    },
+    {
+      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6DAIeGoDd4yYGKF21Tgmjz"
       },
@@ -1622,7 +1662,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 202547,
       "name": "Woman - Single Version",
       "url": "https://open.spotify.com/track/3f1njJx1iKrDjq9TZPfY3E"
@@ -1658,7 +1698,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 138586,
       "name": "Year From Now",
       "url": "https://open.spotify.com/track/2XbHQSvl64ZzEkzV91j1WC"
@@ -1712,7 +1752,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 208064,
       "name": "You Love Are My Only",
       "url": "https://open.spotify.com/track/4MVqOvkS751uyilBIQqeMO"

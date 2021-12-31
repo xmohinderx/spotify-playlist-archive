@@ -34,7 +34,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 273106,
       "name": "Ain't No Cure For Love",
       "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 268853,
       "name": "Be for Real",
       "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 241666,
       "name": "Bird On A Wire",
       "url": "https://open.spotify.com/track/7gPOHdd9ATgveYMpxcSdZQ"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 225213,
       "name": "Chelsea Hotel No. 2",
       "url": "https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 339133,
       "name": "Famous Blue Raincoat",
       "url": "https://open.spotify.com/track/23LCJxdqRMYlnVj5Qg5JuU"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 189840,
       "name": "Heart With No Companion",
       "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 221093,
       "name": "I Can't Forget",
       "url": "https://open.spotify.com/track/3GCzg2RU8nuLIF8TkL8AeC"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 373013,
       "name": "Light As the Breeze",
       "url": "https://open.spotify.com/track/66hjGTu0eQpAQKsgVYN4qZ"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 245493,
       "name": "Passing Through - Live",
       "url": "https://open.spotify.com/track/28ToQqj0nuWMDPvGhCTL0I"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 297866,
       "name": "Priests",
       "url": "https://open.spotify.com/track/2oSuNL0HLPFVe9VKpMVPOj"
@@ -752,10 +752,28 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 200080,
       "name": "Sisters Of Mercy",
       "url": "https://open.spotify.com/track/2ptC6OVpapv1Y2tXZ6ExPG"
+    },
+    {
+      "album": {
+        "name": "Bathhouse Betty",
+        "url": "https://open.spotify.com/album/73NZUZBj0TJbzaEdW503Yn"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "date_added": "2018-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226106,
+      "name": "Song of Bernadette",
+      "url": "https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT"
     },
     {
       "album": {
@@ -770,7 +788,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 246773,
       "name": "Story Of Isaac",
       "url": "https://open.spotify.com/track/2DQGsNHnqxDuI9bGnGI9uH"
@@ -896,7 +914,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 213019,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/0qPgVf2honwvo1D1y2yAQV"

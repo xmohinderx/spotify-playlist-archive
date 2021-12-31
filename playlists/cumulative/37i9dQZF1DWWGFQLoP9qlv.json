@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 248946,
       "name": "A Whiter Shade Of Pale",
       "url": "https://open.spotify.com/track/3qitymULqEibr7yknRMKU4"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 424000,
       "name": "Brothers In Arms",
       "url": "https://open.spotify.com/track/7EmSPZ9f1AiLR9eVHNSI62"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 235440,
       "name": "Crocodile Rock",
       "url": "https://open.spotify.com/track/4v6koasIv1ksU2P9iWqfRV"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 256666,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/7woZGXjtaYwuvSoU1zToB3"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 270773,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/1dv3ePjze9tPq2pk8eWJdR"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 178840,
       "name": "Gimme Some Lovin' - Single Mix",
       "url": "https://open.spotify.com/track/3EOZLnmwc7i7VFAtM5uNN4"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
@@ -648,6 +648,24 @@
       "duration_ms": 160133,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
+    },
+    {
+      "album": {
+        "name": "Confessions of the Mind (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12YClBmrcVkW7GqtR5jtkh"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262266,
+      "name": "He Ain't Heavy He's My Brother - 1998 Remaster",
+      "url": "https://open.spotify.com/track/6k5QsifpMWtY5ilnzBZ0u4"
     },
     {
       "album": {
@@ -968,7 +986,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 510933,
       "name": "Money For Nothing",
       "url": "https://open.spotify.com/track/4WfGrAJVC3A5xhUTja0gUG"
@@ -1026,6 +1044,24 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "album": {
+        "name": "The Rise & Fall",
+        "url": "https://open.spotify.com/album/0ff45kporrpU0rREwqevo1"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203120,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/3zKjn4QnDvi8pCu8brRM7v"
     },
     {
       "album": {
@@ -1440,7 +1476,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 288733,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
@@ -1534,7 +1570,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 243493,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6"

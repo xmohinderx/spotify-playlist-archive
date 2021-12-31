@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 222826,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 215493,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/7zEjlLTAVkJImpHA8Lc1we"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 362200,
       "name": "Cumbersome",
       "url": "https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 212950,
       "name": "Fight",
       "url": "https://open.spotify.com/track/3zfVj6UVenatGKid6QirRW"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 281226,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm"
@@ -618,6 +618,24 @@
       "duration_ms": 231480,
       "name": "I Hate Everything About You",
       "url": "https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx"
+    },
+    {
+      "album": {
+        "name": "So Much For The Afterglow",
+        "url": "https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "I Will Buy You A New Life",
+      "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
     },
     {
       "album": {
@@ -938,7 +956,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 231693,
       "name": "Real World",
       "url": "https://open.spotify.com/track/70fe354BpVKEvMY0de78YO"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 251840,
       "name": "So Happy",
       "url": "https://open.spotify.com/track/2e9ZCaqv3uF5AX7QLIh9h1"

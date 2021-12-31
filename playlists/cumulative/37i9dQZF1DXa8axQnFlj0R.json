@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 245535,
       "name": "ANSWERS",
       "url": "https://open.spotify.com/track/6bm9OoERWQ8zfnIcN0pykg"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "The Old Pine E.P.",
+        "url": "https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289074,
+      "name": "Follaton Wood",
+      "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
+    },
+    {
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/5EY9uxrUOSqG64coGCPA6q"
       },
@@ -666,6 +684,24 @@
       "duration_ms": 157493,
       "name": "Give Me A Minute",
       "url": "https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla"
+    },
+    {
+      "album": {
+        "name": "Subject To Change",
+        "url": "https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160720,
+      "name": "Glad I Got You",
+      "url": "https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw"
     },
     {
       "album": {
@@ -952,6 +988,24 @@
       "duration_ms": 161239,
       "name": "Lover, I",
       "url": "https://open.spotify.com/track/01mIMINaQNlKX8m02pj1ti"
+    },
+    {
+      "album": {
+        "name": "Cavetown",
+        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265010,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN"
     },
     {
       "album": {
@@ -1316,7 +1370,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 87272,
       "name": "Same Way",
       "url": "https://open.spotify.com/track/6RgLvP8QbbgX81koDnNAcI"

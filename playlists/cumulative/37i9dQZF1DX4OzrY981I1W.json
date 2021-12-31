@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "(what i wish just one person would say to me)",
+      "url": "https://open.spotify.com/track/68BpjQ7Vc8uUHvUKMcLLHe"
+    },
+    {
+      "album": {
         "name": "our little angel - EP",
         "url": "https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6"
       },
@@ -74,7 +92,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
@@ -153,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Yesterday Park",
+        "url": "https://open.spotify.com/album/58IaRbT0b0LjYj0EIODPT2"
+      },
+      "artists": [
+        {
+          "name": "ISLAND",
+          "url": "https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0gEl3OkfuBT0GpNbRitxgo"
+    },
+    {
+      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -222,6 +258,24 @@
       "duration_ms": 208765,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/7q2vQa5a1LCqEbssxR1QXF"
+    },
+    {
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/4pT8v3CWFQci5DQRUVmI3G"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251436,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/3x5VSETP4fRjK2MoZfyVlE"
     },
     {
       "album": {
@@ -459,6 +513,28 @@
     },
     {
       "album": {
+        "name": "GPS (w/ Felly)",
+        "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168316,
+      "name": "GPS (w/ Felly)",
+      "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "album": {
         "name": "Hallucinogenics (feat. Lana Del Rey)",
         "url": "https://open.spotify.com/album/41tUnMTVSyImoq1Dyr5UhX"
       },
@@ -535,6 +611,24 @@
     },
     {
       "album": {
+        "name": "how i'm feeling",
+        "url": "https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Woods",
+          "url": "https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "how i'm feeling",
+      "url": "https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo"
+    },
+    {
+      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob"
       },
@@ -546,7 +640,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 195044,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w"
@@ -564,7 +658,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 223533,
       "name": "I Don't Want to Talk",
       "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
@@ -636,7 +730,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 209013,
       "name": "in the darkness",
       "url": "https://open.spotify.com/track/2zxe1bIcH0mHSMwuc9Fh1k"
@@ -672,7 +766,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 247613,
       "name": "Just Like A Movie",
       "url": "https://open.spotify.com/track/0Jgbauc8Nv2OOjR5ERW28B"
@@ -1220,7 +1314,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
@@ -1299,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+    },
+    {
+      "album": {
         "name": "Shame, Shame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl"
       },
@@ -1346,10 +1458,28 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 182266,
       "name": "You Know It",
       "url": "https://open.spotify.com/track/169pWCmfvVazzcL4EXFPgL"
+    },
+    {
+      "album": {
+        "name": "places i\u2019ve lived",
+        "url": "https://open.spotify.com/album/5upABJYpPbI6bGWI4UlaEM"
+      },
+      "artists": [
+        {
+          "name": "Bestfriend",
+          "url": "https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244829,
+      "name": "You Want Everyone To Love You",
+      "url": "https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk"
     },
     {
       "album": {

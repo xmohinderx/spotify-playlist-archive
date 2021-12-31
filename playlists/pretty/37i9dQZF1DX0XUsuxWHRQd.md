@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Kodak Black, Rod Wave and Roddy Ricch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,265,516 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,266,728 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love & War](https://open.spotify.com/track/1WGmhglF1ghRiHsx4YUq86) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Love & War](https://open.spotify.com/album/720wVklJFHQgiLQuPpdCla) | 3:59 |
+| 1 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
 | 2 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 |
 | 3 | [By Your Side](https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [By Your Side](https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5) | 3:14 |
 | 4 | [thailand](https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:20 |
-| 5 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 |
-| 6 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 |
+| 5 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 |
+| 6 | [Love & War](https://open.spotify.com/track/1WGmhglF1ghRiHsx4YUq86) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Love & War](https://open.spotify.com/album/720wVklJFHQgiLQuPpdCla) | 3:59 |
 | 7 | [Too Easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Too Easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe) | 3:17 |
 | 8 | [moved to miami \(feat\. Lil Baby\)](https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:42 |
 | 9 | [LLC \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blockchain](https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [What A Life](https://open.spotify.com/track/5bjTLWk5cBOACEVPl3oqkU) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [What A Life](https://open.spotify.com/album/32OzT7FCnSUIqGZLTxJCzF) | 2:58 |
 | 50 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX) | 2:28 |
 
-Snapshot ID: `MTY0MDQ1MDU5NiwwMDAwMDYwZjAwMDAwMTdkZjI3OTlmYmYwMDAwMDE3ZGU5MWUzZmE2`
+Snapshot ID: `MTY0MDgzMzI1NCwwMDAwMDYxMDAwMDAwMTdlMDk0ODg1OGEwMDAwMDE3ZGU5MWUzZmE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8N0xov3IdrH.md) - [plain]
 
 > From early performances to iconic Grateful Dead, enjoy key picks that highlight the folk, bluegrass, and old time virtuosity of Jerry Garcia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,155 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,163 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

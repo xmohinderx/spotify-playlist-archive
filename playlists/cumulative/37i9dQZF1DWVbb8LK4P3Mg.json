@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 200267,
       "name": "A Slippery Christmas (Feat. Chan)",
       "url": "https://open.spotify.com/track/06m4f8pAOZbrPSw54xDYPj"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 219800,
       "name": "Christmas Train",
       "url": "https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 188833,
       "name": "Fa La La",
       "url": "https://open.spotify.com/track/1MxfYcDldrmqS0ppZ1SyBd"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 324964,
       "name": "For The Reason That it's Christmas (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4\ub77c\ub294 \uc774\uc720)",
       "url": "https://open.spotify.com/track/3ZFQIKZwvk7SnnUWARrGyi"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 204336,
       "name": "Hi, Merry Christmas",
       "url": "https://open.spotify.com/track/0oUYIuuFDzbyDcQpsRV6bd"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 204500,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4lJhsgN4GVDWOsZTpYN1Sb"
@@ -1139,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "Merry Christmas JAM!",
+        "url": "https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi"
+      },
+      "artists": [
+        {
+          "name": "SWEET SORROW",
+          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
+        },
+        {
+          "name": "Choi Joon",
+          "url": "https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175480,
+      "name": "Merry Christmas JAM!",
+      "url": "https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW"
+    },
+    {
+      "album": {
         "name": "merry merry",
         "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
       },
@@ -1240,7 +1262,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "My Christmas Day's For You - 2021",
       "url": "https://open.spotify.com/track/3IToKKHkdw19GKoZRnc3MY"
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 216776,
       "name": "My Winter Wonderland",
       "url": "https://open.spotify.com/track/078ruO4bb8PNlWo5BAwTZv"
@@ -1330,7 +1352,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 216565,
       "name": "Our Christmas",
       "url": "https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx"
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 197480,
       "name": "Santa For You",
       "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
@@ -1366,7 +1388,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 228511,
       "name": "Shhhh",
       "url": "https://open.spotify.com/track/3QtbPhZDz5tH830gBQAgFL"
@@ -1410,7 +1432,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 172236,
       "name": "SLOW DANCE (Feat. Rico, KRRSYBEAR)",
       "url": "https://open.spotify.com/track/0SONv4gf53rhrmJlcfkPhG"
@@ -1450,7 +1472,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 158880,
       "name": "Snowball (feat. Vanilla Acoustic)",
       "url": "https://open.spotify.com/track/2R9WJNssa0syWlYmoytmMo"
@@ -1572,7 +1594,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 228508,
       "name": "Special Christmas",
       "url": "https://open.spotify.com/track/4qQ9W8npEcg3uHyzxc8wRm"
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 222160,
       "name": "Starship Planet 2016 - Love Wishes",
       "url": "https://open.spotify.com/track/7rHnD8s71BcgDebwESWAKG"
@@ -1704,7 +1726,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 207036,
       "name": "The First Noel + Oh Holy Night",
       "url": "https://open.spotify.com/track/5dy4boImHwApBOQQxdO5QJ"
@@ -1962,7 +1984,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 193670,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/2fn95gdp0R3lYFCqRBAXVv"
@@ -2034,7 +2056,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 239777,
       "name": "Winter Land",
       "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
@@ -2070,7 +2092,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 276636,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/3a80t6zePME9Xi72jg2jsa"

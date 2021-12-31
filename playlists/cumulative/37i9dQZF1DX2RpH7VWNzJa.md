@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 | 2021-11-12 |  |
 | [A cuestas](https://open.spotify.com/track/0RIGC0Kd7LmmjQMZih4w0V) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [A cuestas](https://open.spotify.com/album/7K25pKqNWYeW1jmuM2lJ0D) | 3:14 | 2021-11-12 |  |
 | [Aire](https://open.spotify.com/track/77gQSJlncgT3HWmBfy9CQ9) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3hrl3lXAs1oAfDegWOE4to) | 2:54 | 2021-11-12 |  |
 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 | 2021-11-12 |  |
@@ -22,7 +23,7 @@
 | [Destino](https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Destino](https://open.spotify.com/album/2y2xsvO5g0sSo2ERMlsZNf) | 3:04 | 2021-11-12 |  |
 | [Dime la verdad](https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0), [Drunk and Drops](https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG) | [Dime la verdad](https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC) | 3:00 | 2021-11-12 |  |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-11-12 |  |
-| [Egoísmo](https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Egoísmo](https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm) | 3:00 | 2021-11-12 |  |
+| [Egoísmo](https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Egoísmo](https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm) | 3:00 | 2021-11-12 | 2021-12-31 |
 | [El Club de los Ojos Tristes](https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R) | [Estrada](https://open.spotify.com/artist/1E7tZNnbAqVH2FL2B8JDVU), [Luis Díaz](https://open.spotify.com/artist/35PlzNU9nTOWZZzLzGYWsr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [El Club de los Ojos Tristes](https://open.spotify.com/album/05AdODG6bouWeGMGVVoqfp) | 4:22 | 2021-11-12 |  |
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2021-11-12 |  |
 | [Ella Tú y Yo](https://open.spotify.com/track/5E91XW9FMz9Bh5UCBBBfyL) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:27 | 2021-11-12 |  |
@@ -35,6 +36,7 @@
 | [lo que pasó](https://open.spotify.com/track/6xS02EfbvnneFWCM90PJFG) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [lo que pasó](https://open.spotify.com/album/7FsquZmPaXaNImnGHMnFUH) | 2:30 | 2021-11-12 |  |
 | [Malabares](https://open.spotify.com/track/3TArda30KGDCgfB3U9fmrC) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Malabares](https://open.spotify.com/album/4r7TvqBqEcQZq95ySGFi71) | 3:26 | 2021-11-12 |  |
 | [Manos vacías](https://open.spotify.com/track/39u0EhY4dzaXRmXHeSg9SX) | [Sebastian Urdiales](https://open.spotify.com/artist/1nRt9Sjc0cEhI62heTLp35) | [2001](https://open.spotify.com/album/7r0TJdYwYDjYv8XNIkGCaG) | 3:11 | 2021-11-12 |  |
+| [ME ENCANTA EL EXCESO](https://open.spotify.com/track/5NQfXYpbujH50LeF65icHb) | [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh) | [CiClos, Pt\. 1](https://open.spotify.com/album/0plLW33J3wLK35VjRo4KQE) | 3:25 | 2021-11-12 |  |
 | [Me Encanta Todo Lo Tuyo](https://open.spotify.com/track/6NHjr1XoiD305MLDr06uOm) | [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Me Encanta Todo Lo Tuyo](https://open.spotify.com/album/40HJi0nzOlsSWWKMlkPVyb) | 2:26 | 2021-11-12 |  |
 | [Me sabe mal](https://open.spotify.com/track/3FnmU5kBbYvoW3AltpMtth) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg), [Ocean Beats](https://open.spotify.com/artist/7bhKV9voFaydt5tPYeFFRd) | [Me sabe mal](https://open.spotify.com/album/6L1gZjZcAVCjKFuAEKJ3px) | 3:54 | 2021-11-12 |  |
 | [my future \- spanish version](https://open.spotify.com/track/38m0prhs1ExF3q6dQHTMCm) | [Maya](https://open.spotify.com/artist/7mUqcsNRIqgaLB8ZXJOg4Q) | [my future \(spanish version\)](https://open.spotify.com/album/5MwNfos4sRG3x31ahJAkPW) | 3:20 | 2021-11-12 |  |
@@ -55,6 +57,6 @@
 | [Sad Girl](https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Sad Girl](https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW) | 3:28 | 2021-11-12 |  |
 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 | 2021-11-12 |  |
 | [un niño](https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/2JVdfTCrsfqvlCo43jkelD) | 3:05 | 2021-11-12 |  |
-| [Ya No Es Igual](https://open.spotify.com/track/1jRm8Ajv9u915YwHEyHDV8) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:43 | 2021-11-12 |  |
+| [Ya No Es Igual](https://open.spotify.com/track/1jRm8Ajv9u915YwHEyHDV8) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:43 | 2021-11-12 | 2021-12-31 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

@@ -154,7 +154,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 293826,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 190000,
       "name": "Don't Be So Shy - Filatov & Karas Remix",
       "url": "https://open.spotify.com/track/5Sod5qQTp8Nj4n5dTjttQG"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 191626,
       "name": "Hello",
       "url": "https://open.spotify.com/track/54fyVsVauzPwruLvGnBe3i"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 275533,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 264893,
       "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
       "url": "https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 243160,
       "name": "Livin' la Vida Loca",
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 252133,
       "name": "Macarena - Bayside Boys Remix",
       "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 235466,
       "name": "One More Time - Radio Edit [Short Radio Edit]",
       "url": "https://open.spotify.com/track/2Uy6EhQXAYkXA6MohPgjpV"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "Played-A-Live (The Bongo Song) - Radio Edit",
       "url": "https://open.spotify.com/track/2MDdh4rbNNBiy8l6XgI6E9"
@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/78r5vrR1Wf60JPgFQ1drwr"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2gSyc23Hua25fqSFpgAh6W"
+    },
+    {
+      "album": {
         "name": "#willpower (Deluxe)",
         "url": "https://open.spotify.com/album/6H7mXPXFFDOpby7Xcke1vh"
       },
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 199480,
       "name": "Sexy And I Know It",
       "url": "https://open.spotify.com/track/70Vdd1gx5tn84jkAU31ASv"
@@ -2818,7 +2836,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 241633,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/27nwEgQCOV0qivrYAnk45P"
@@ -3156,7 +3174,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 216733,
       "name": "We Are Family",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 207546,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/6nRwc5GgNvBMkKaynhQzrm"

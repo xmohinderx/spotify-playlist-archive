@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 134652,
       "name": "A Drive Through the Countryside",
       "url": "https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 199840,
       "name": "A Sea of Roses",
       "url": "https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 260010,
       "name": "All I Know Is",
       "url": "https://open.spotify.com/track/6ERFuCVkwAcOpWELq71Gxt"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 270106,
       "name": "Atlantis - Demo",
       "url": "https://open.spotify.com/track/1HHFwFLJkGLe0tYS2i17gV"
@@ -243,6 +243,32 @@
     },
     {
       "album": {
+        "name": "What If / By The River (Mahogany Sessions)",
+        "url": "https://open.spotify.com/album/6krYdlpN1lleR7wwVprxKI"
+      },
+      "artists": [
+        {
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        },
+        {
+          "name": "London Contemporary Voices",
+          "url": "https://open.spotify.com/artist/4AP9UXcQ9PWrnHsR8vnwsE"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372526,
+      "name": "By the River - Mahogany Sessions",
+      "url": "https://open.spotify.com/track/1B8VfDUVMJnUdonnGA5h1P"
+    },
+    {
+      "album": {
         "name": "Call Me When You Land",
         "url": "https://open.spotify.com/album/30CoHXRDdptOwXzGvct7Cp"
       },
@@ -312,7 +338,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
@@ -402,7 +428,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 354842,
       "name": "Crack The Case",
       "url": "https://open.spotify.com/track/2JtC5mhcW0RoTJGoVkfgB7"
@@ -870,7 +896,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 192733,
       "name": "Hold Me Like A Fire",
       "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
@@ -1124,7 +1150,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 209819,
       "name": "Latch",
       "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
@@ -1232,7 +1258,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 228120,
       "name": "Little Bit Sweet",
       "url": "https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE"
@@ -1330,7 +1356,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 234306,
       "name": "May Your Kindness Remain",
       "url": "https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG"
@@ -1438,7 +1464,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 218628,
       "name": "Neon Skyline",
       "url": "https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa"
@@ -1460,6 +1486,24 @@
       "duration_ms": 223506,
       "name": "Northsiders",
       "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/378rFsWTa7DZ8nZVHSaA18"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS"
     },
     {
       "album": {
@@ -1528,7 +1572,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 200435,
       "name": "Power Over Me - Acoustic",
       "url": "https://open.spotify.com/track/47rNYq9IUveetu35c65xTw"
@@ -1658,7 +1702,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 205080,
       "name": "Sit Here And Love Me",
       "url": "https://open.spotify.com/track/3HNmRvdUy8Ms0iefdvM0nk"
@@ -1694,7 +1738,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 231893,
       "name": "Spark, Set Fire",
       "url": "https://open.spotify.com/track/00vPAsfTwvicR45W2PE20o"
@@ -1730,7 +1774,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 201893,
       "name": "Strange Girl",
       "url": "https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx"
@@ -1932,7 +1976,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 326160,
       "name": "The West Coast Of Clare",
       "url": "https://open.spotify.com/track/5Jd4WYKDUvvGQyAkkMLSsP"
@@ -1994,6 +2038,28 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
+    },
+    {
+      "album": {
+        "name": "Thousand (acoustic)",
+        "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        },
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202720,
+      "name": "Thousand - Acoustic",
+      "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
     },
     {
       "album": {
@@ -2156,7 +2222,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 191493,
       "name": "We Fall In",
       "url": "https://open.spotify.com/track/396KYYOGDOwE7YooXmFedN"

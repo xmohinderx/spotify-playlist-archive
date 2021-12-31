@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Do What You Love",
+        "url": "https://open.spotify.com/album/1tI5rxGJAHnY6lMeNb3KlB"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452418,
+      "name": "Do What You Love",
+      "url": "https://open.spotify.com/track/2muTRl2whyxtWuJERhwtrs"
+    },
+    {
+      "album": {
         "name": "Virtuoso",
         "url": "https://open.spotify.com/album/1OOZE1qHZBXcsk5fkXyrWF"
       },
@@ -1642,6 +1660,24 @@
       "duration_ms": 528215,
       "name": "Steeldrum",
       "url": "https://open.spotify.com/track/1j27kaooLZUv8F6bHoL4gZ"
+    },
+    {
+      "album": {
+        "name": "Spaceline Suburbian",
+        "url": "https://open.spotify.com/album/5a021HAlmb18hLZbwHpgbs"
+      },
+      "artists": [
+        {
+          "name": "Lucid Deep",
+          "url": "https://open.spotify.com/artist/0YhuvmUbwLACBPyC7wqgti"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383825,
+      "name": "Teenage Fantasy",
+      "url": "https://open.spotify.com/track/4jFCETcf8uaR2NjywOXx11"
     },
     {
       "album": {

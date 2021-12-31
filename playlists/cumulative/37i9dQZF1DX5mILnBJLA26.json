@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 309000,
       "name": "Mntakababa",
       "url": "https://open.spotify.com/track/2erWcFpZnShzhWHOKiOClY"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 379806,
       "name": "Space Dance",
       "url": "https://open.spotify.com/track/5Ajx9fy3KfTJASRwdO7AZn"
@@ -1785,6 +1785,32 @@
     },
     {
       "album": {
+        "name": "Tell Somebody",
+        "url": "https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8"
+      },
+      "artists": [
+        {
+          "name": "Effyzzie Music",
+          "url": "https://open.spotify.com/artist/6t4HMpwMpyeEmGv1QvEVPS"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237599,
+      "name": "Tell Somebody",
+      "url": "https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd"
+    },
+    {
+      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/7D5LZZgdfL5i3q7xovszWT"
       },
@@ -1882,6 +1908,32 @@
       "duration_ms": 216315,
       "name": "Top Level (feat. Kamo Mphela & The Lowkeys) - Radio Edit",
       "url": "https://open.spotify.com/track/0a5VoKokh5joG0G0FaesLe"
+    },
+    {
+      "album": {
+        "name": "Tse Nnyane (feat. Kosha Za)",
+        "url": "https://open.spotify.com/album/3bVbGSSWfib2ieASTewxwG"
+      },
+      "artists": [
+        {
+          "name": "Vusi Ma R5",
+          "url": "https://open.spotify.com/artist/5Qz8cKu03cNqHkazo1kzjn"
+        },
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        },
+        {
+          "name": "Kosha Za",
+          "url": "https://open.spotify.com/artist/34PLxRxa19AreqpYv7ASt4"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269035,
+      "name": "Tse Nnyane (feat. Kosha Za)",
+      "url": "https://open.spotify.com/track/3cLYhJp7pe8r5fvwUA368f"
     },
     {
       "album": {

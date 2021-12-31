@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: HYBS",
+  "description": "Current indie tunes from Asia and around the world. Cover: lilong",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 192786,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 398053,
       "name": "Always Together With You",
       "url": "https://open.spotify.com/track/0piWYpm3L2Ss0UOAH0hl4G"
@@ -78,6 +78,24 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu"
+    },
+    {
+      "album": {
+        "name": "BITTER!",
+        "url": "https://open.spotify.com/album/2yxSGQpEACIqYfmgf1TwGM"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "BITTER!",
+      "url": "https://open.spotify.com/track/47bqDSq66FiXyPjixsFphC"
     },
     {
       "album": {
@@ -110,7 +128,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 199711,
       "name": "Blue Hippo",
       "url": "https://open.spotify.com/track/1kKHlRNEXpIkYARjFXGmnm"
@@ -204,7 +222,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 175440,
       "name": "Cantares",
       "url": "https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl"
@@ -348,7 +366,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 252319,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0lowUGykAmoNY1sYsHcEPK"
@@ -442,7 +460,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 171901,
       "name": "Fade Into A Dream",
       "url": "https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l"
@@ -478,7 +496,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 203886,
       "name": "Famous - Single Version",
       "url": "https://open.spotify.com/track/3Mfg7kJLvEPBMnIwSly02u"
@@ -503,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/1m6tY0dv3DgARjYlq8ksmi"
+      },
+      "artists": [
+        {
+          "name": "lilong",
+          "url": "https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/3xXJoQsT3wH9dSPg0y2Md1"
+    },
+    {
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ"
       },
@@ -514,7 +550,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 140760,
       "name": "Glory",
       "url": "https://open.spotify.com/track/77fRc8iT858bzRdcR4k8T8"
@@ -536,6 +572,24 @@
       "duration_ms": 183786,
       "name": "GO TO HELL",
       "url": "https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz"
+    },
+    {
+      "album": {
+        "name": "Good Behaviour",
+        "url": "https://open.spotify.com/album/5evJhPMfeMuqgIJQF7ARYZ"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243038,
+      "name": "Good Behaviour",
+      "url": "https://open.spotify.com/track/4vqkuf2iiz4eRMHZakL94e"
     },
     {
       "album": {
@@ -568,7 +622,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 186642,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5"
@@ -594,6 +648,42 @@
       "duration_ms": 188216,
       "name": "hello there feat. Plastic Plastic",
       "url": "https://open.spotify.com/track/6BewAtDSkxHMh5vTskjJs7"
+    },
+    {
+      "album": {
+        "name": "HMU",
+        "url": "https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118821,
+      "name": "HMU",
+      "url": "https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi"
+    },
+    {
+      "album": {
+        "name": "HUOY",
+        "url": "https://open.spotify.com/album/6dR6kGtYcMAKFC0PJFBbic"
+      },
+      "artists": [
+        {
+          "name": "Joel See",
+          "url": "https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202926,
+      "name": "HUOY",
+      "url": "https://open.spotify.com/track/6gE9RjMPBlUXQo4HVkYSEC"
     },
     {
       "album": {
@@ -651,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Just A Little While",
+        "url": "https://open.spotify.com/album/3IOaxvwYaDmoQ36meh2niy"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162608,
+      "name": "Just A Little While",
+      "url": "https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb"
+    },
+    {
+      "album": {
         "name": "Left Outside Alone",
         "url": "https://open.spotify.com/album/5Lb8TICdBMs0TtqFAMkw7r"
       },
@@ -662,7 +770,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 211455,
       "name": "Left Outside Alone",
       "url": "https://open.spotify.com/track/0f2HmgvT2HN7BCQ14AvuxR"
@@ -709,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Lonely Winter",
+        "url": "https://open.spotify.com/album/2a0n42rbPAz0JgQqoLUnpc"
+      },
+      "artists": [
+        {
+          "name": "Imhavingabadday.",
+          "url": "https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192244,
+      "name": "Lonely Winter",
+      "url": "https://open.spotify.com/track/7c8rXgRsYlpV2EJUwCNTFG"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/6Hs4hl7bsGLefnPMY31cng"
       },
@@ -749,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Madeleine",
+        "url": "https://open.spotify.com/album/7mKN1i8ZgERfSeMnM23IWd"
+      },
+      "artists": [
+        {
+          "name": "LUAMEL",
+          "url": "https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224213,
+      "name": "Madeleine",
+      "url": "https://open.spotify.com/track/65YXY9hqvvsvfT5xHb44lF"
+    },
+    {
+      "album": {
         "name": "MAGAZINE",
         "url": "https://open.spotify.com/album/5GOW52attS62W49TYwNQwa"
       },
@@ -760,7 +904,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 168753,
       "name": "MAGAZINE",
       "url": "https://open.spotify.com/track/6FwYZxdc4xJxEdIQjZtGvP"
@@ -833,6 +977,24 @@
     },
     {
       "album": {
+        "name": "N o o N",
+        "url": "https://open.spotify.com/album/5il9QjoszOMgc3H7S4OTTP"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199175,
+      "name": "N o o N",
+      "url": "https://open.spotify.com/track/34p27cOsC6Y6FBNEAoHMkU"
+    },
+    {
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz"
       },
@@ -844,7 +1006,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 172495,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea"
@@ -902,7 +1064,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 190653,
       "name": "On the Floor",
       "url": "https://open.spotify.com/track/0qmrZ3CCRrdh0gxDKjmD6G"
@@ -946,7 +1108,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 255772,
       "name": "Only Love (with Brijean)",
       "url": "https://open.spotify.com/track/2ZwTxsb7hV27jVELUYHBoL"
@@ -971,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "SALES LP",
+        "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Pope Is a Rockstar",
+      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+    },
+    {
+      "album": {
         "name": "Prada / Rakata",
         "url": "https://open.spotify.com/album/77PE5FgPHyF4uUyaZMszch"
       },
@@ -982,7 +1162,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 163348,
       "name": "Prada",
       "url": "https://open.spotify.com/track/6miahXSZE01l2lNDqNCfxQ"
@@ -1000,7 +1180,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 217320,
       "name": "psycho killa",
       "url": "https://open.spotify.com/track/6tFsTN9jmdz4DACp1P7nO1"
@@ -1018,7 +1198,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 184069,
       "name": "R.I.P.",
       "url": "https://open.spotify.com/track/1GyscxE7G8aAuR9FSFLkYI"
@@ -1036,7 +1216,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 131906,
       "name": "Reason",
       "url": "https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK"
@@ -1126,7 +1306,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 242149,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
@@ -1246,7 +1426,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 197513,
       "name": "Sorry for Me",
       "url": "https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg"
@@ -1366,7 +1546,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 193369,
       "name": "The Hardest Cut",
       "url": "https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM"
@@ -1402,7 +1582,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 183906,
       "name": "Theworstthing",
       "url": "https://open.spotify.com/track/2zcqL8jheETC85OYOgaBl8"
@@ -1420,7 +1600,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 428000,
       "name": "Tip Trip (Trip To The Tip)",
       "url": "https://open.spotify.com/track/4wmo0XNrJftCA1AAePN1u4"
@@ -1546,7 +1726,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 171346,
       "name": "Won't You Stay",
       "url": "https://open.spotify.com/track/1bgchbkTDEsWjdzena7Ng2"
@@ -1604,7 +1784,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 348709,
       "name": "\u0e09\u0e31\u0e19\u0e41\u0e25\u0e30\u0e19\u0e49\u0e33\u0e15\u0e32 (Drops)",
       "url": "https://open.spotify.com/track/5bP0HldyZMVnO0lFxvg4PB"

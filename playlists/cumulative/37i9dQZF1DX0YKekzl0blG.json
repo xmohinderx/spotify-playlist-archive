@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 215720,
       "name": "Flux",
       "url": "https://open.spotify.com/track/3motGmEfXRYg9uYLfeMef4"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 225253,
       "name": "Geraldine",
       "url": "https://open.spotify.com/track/0x7L1Jp3nvOeaKVg0GGSyt"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 200200,
       "name": "Good Fortune",
       "url": "https://open.spotify.com/track/7hEnqdq7DwBCJxjDd7xMKP"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 185266,
       "name": "Graffiti",
       "url": "https://open.spotify.com/track/7mS5J9JuB4mo6VgvUj0fDZ"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 179586,
       "name": "Grass",
       "url": "https://open.spotify.com/track/3KRerNe53NjOmr7ozedcPq"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 209026,
       "name": "I'd Rather Dance With You",
       "url": "https://open.spotify.com/track/4hGOhC87bn7JBdYykOJJvJ"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 217733,
       "name": "I'm Not Gonna Teach Your Boyfriend How To Dance With You",
       "url": "https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 160720,
       "name": "Islands",
       "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "With Love And Squalor",
+        "url": "https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa"
+      },
+      "artists": [
+        {
+          "name": "We Are Scientists",
+          "url": "https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192311,
+      "name": "Nobody Move, Nobody Get Hurt",
+      "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
+    },
+    {
+      "album": {
         "name": "St. Jude",
         "url": "https://open.spotify.com/album/3fKNYg9Ti0jyxtYBTtlRL4"
       },
@@ -1046,6 +1064,24 @@
       "duration_ms": 243973,
       "name": "Not Nineteen Forever",
       "url": "https://open.spotify.com/track/19CIsQ1HElu4XHdLCMlSqu"
+    },
+    {
+      "album": {
+        "name": "Turn On The Bright Lights",
+        "url": "https://open.spotify.com/album/3o0yqWz9EsyBSmMFiq6lwl"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251293,
+      "name": "Obstacle 1",
+      "url": "https://open.spotify.com/track/15YJouNHJaoBqGTmdBleMX"
     },
     {
       "album": {
@@ -1096,7 +1132,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 233373,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/4JMEhtQ4qQ5mwN7eTLpDpG"
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 347880,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 390013,
       "name": "Someone Great",
       "url": "https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW"
@@ -1442,6 +1478,24 @@
       "duration_ms": 321133,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/6hDjYcGWihB1FxwzXgeCWr"
+    },
+    {
+      "album": {
+        "name": "Give Up",
+        "url": "https://open.spotify.com/album/6gVh93AuS8pdZpAfVmhBM9"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266346,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/0vD4P4669qdPvVQbNclFZR"
     },
     {
       "album": {
@@ -1528,7 +1582,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 216040,
       "name": "The Beginning Of The Twist",
       "url": "https://open.spotify.com/track/5WO4u8XmvXocAsK9rIMTwJ"
@@ -1690,7 +1744,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 277466,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/7e7KneZN3eFpHyfo9DOJyf"

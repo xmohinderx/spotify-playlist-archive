@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 436933,
       "name": "Beat Street",
       "url": "https://open.spotify.com/track/12Q6JVKygj2YDSoq59BGXW"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Bess, You Is My Woman Now",
       "url": "https://open.spotify.com/track/4xKnHOH5tgGWa5Bh01tMjC"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 248800,
       "name": "Deadeye",
       "url": "https://open.spotify.com/track/7dUW9K3L7bus0hfv84sSRD"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 445910,
       "name": "Enneadic",
       "url": "https://open.spotify.com/track/25Fmiy6OrLrjm3NRONUJQ4"
@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "The Bikini Tapes",
+        "url": "https://open.spotify.com/album/0GTkunNBXfKmJzx4ZWaDG6"
+      },
+      "artists": [
+        {
+          "name": "Atomic",
+          "url": "https://open.spotify.com/artist/5MaqvdfplsuBzHTHrBxjr6"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513799,
+      "name": "Feets from above - Live",
+      "url": "https://open.spotify.com/track/3jWmV8sTtG0jzSqWj42QAh"
+    },
+    {
+      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
       },
@@ -926,7 +944,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 428040,
       "name": "Ferguson - An American Tradition",
       "url": "https://open.spotify.com/track/34HVeQkYhiUhyaK5a6JHIv"
@@ -952,7 +970,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 339440,
       "name": "Fig Foot",
       "url": "https://open.spotify.com/track/1HaZ1JfPZKZpgwFS9RdMTp"
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 378653,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0MgPSNp7JmzXqF4iJ6WeRF"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 373866,
       "name": "Hele verden er en boble",
       "url": "https://open.spotify.com/track/1S3hGL4XiVjwlmQg8cDw0x"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 370386,
       "name": "Hood",
       "url": "https://open.spotify.com/track/69nKM3aVwwzkureddtdeDN"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 378429,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/1nHKsXSKmpBBES8sSJ9obO"
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 347520,
       "name": "Louise",
       "url": "https://open.spotify.com/track/763lFmk6LHwIUjlgGGuguR"
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 309533,
       "name": "Nu, Nu.... Pr\u00e6cis Nu",
       "url": "https://open.spotify.com/track/3ZufAwoZNwoSrMeM9QjgJA"
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 253866,
       "name": "Odd Man Out",
       "url": "https://open.spotify.com/track/3MxUzXd5CuMJQIjbJk3CSE"
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 527453,
       "name": "Omega",
       "url": "https://open.spotify.com/track/66BFIziKeKtVwWVYNPXgFc"
@@ -2272,7 +2290,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 294173,
       "name": "On the Precipice",
       "url": "https://open.spotify.com/track/5skYlWwJzKSOTFDBSuwXOj"
@@ -2370,7 +2388,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 462146,
       "name": "Pg54",
       "url": "https://open.spotify.com/track/6RUy8aStZgJXRx21xlivBC"
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 508592,
       "name": "Swirlaround",
       "url": "https://open.spotify.com/track/0Tf5VBmeYnKVCI7TEeKBcz"
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 445000,
       "name": "The Shooter",
       "url": "https://open.spotify.com/track/50A6IPAZj9akFJILz0JgkM"
@@ -3462,7 +3480,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 494226,
       "name": "Two Jimmys",
       "url": "https://open.spotify.com/track/2885VcgZkAHG4Ocv6g1MTC"
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2021-12-31",
       "duration_ms": 429773,
       "name": "Vaporbabe",
       "url": "https://open.spotify.com/track/7eRBpbZYc4HIsK2ZZy0dyK"
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 511653,
       "name": "What Was That?",
       "url": "https://open.spotify.com/track/6n4kMtvDbs9ZEZeXZ0O7UO"
