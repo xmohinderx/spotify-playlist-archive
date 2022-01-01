@@ -2,7 +2,7 @@
 
 ### [New Joints](https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi)
 
-> New joints of the week featuring Fredo Bang, Spotemgotem, Lil Dicky, and more\. Cover: Nas
+> New joints of the week featuring Nas, Fredo Bang, Spotemgotem, and more\. Cover: Roddy Ricch
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

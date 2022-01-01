@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUR9QvMCPsb.md) - [plain]
 
 > Readings from some of the best minds of the beat generation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,329 likes - 211 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,330 likes - 211 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

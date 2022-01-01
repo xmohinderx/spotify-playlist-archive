@@ -524,7 +524,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 212706,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/0KRBAOHg8LuG07fF2jrsrK"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 267371,
       "name": "Morning Terrors Nights of Dread",
       "url": "https://open.spotify.com/track/419cNVI2TzuYFlXmp4BNDU"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 260308,
       "name": "Party City",
       "url": "https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO"
@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169120,
+      "name": "Quit You",
+      "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
+    },
+    {
+      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
       },
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 201666,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/3dEWwyEuqeNFH0V9OvyRWv"
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 247426,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 236920,
       "name": "Southern Bells",
       "url": "https://open.spotify.com/track/2QWJaT6j18Ay35M2eTlbVo"
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 240026,
       "name": "Tell the Falling Sun",
       "url": "https://open.spotify.com/track/247qxelzjSgKDWINzRJ7Pf"
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 155773,
       "name": "The Denial Twist",
       "url": "https://open.spotify.com/track/7BMgx9rf5sNUCUGXnKKoew"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 227092,
       "name": "To the Boys",
       "url": "https://open.spotify.com/track/52dhb3ZAR5RRN695C7z3UG"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"

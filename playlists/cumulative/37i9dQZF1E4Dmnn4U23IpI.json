@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Lucy In Disguise, FM-84, September 87 and more",
+  "description": "With FM-84, Clive Farrington, Mitch Murder and more",
   "name": "The Midnight Radio",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 278909,
       "name": "1987",
       "url": "https://open.spotify.com/track/580CcfTxe8eNCcXlTizmPr"
@@ -136,6 +136,24 @@
       "duration_ms": 267693,
       "name": "A Real Hero",
       "url": "https://open.spotify.com/track/6ei4QrpcciclGH593uHKo8"
+    },
+    {
+      "album": {
+        "name": "After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7dszm1dxmXo1Tgw97QOPeA"
+      },
+      "artists": [
+        {
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225513,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/7D4EF8Z3Q8jmfW545xJIDu"
     },
     {
       "album": {
@@ -302,7 +320,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 154000,
       "name": "At Last Light",
       "url": "https://open.spotify.com/track/4i93JSawJVKYbAlji0cssN"
@@ -404,7 +422,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 312857,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/6YnM4UTacCdkWwAX5uzxLP"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215040,
       "name": "Beyond Memory",
       "url": "https://open.spotify.com/track/7zmbtfKgZMTQ1GlqBno5T5"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 336413,
       "name": "Black Blood Red Kiss",
       "url": "https://open.spotify.com/track/3L5OGCMGh4Vhql02c2zHcW"
@@ -554,7 +572,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 233454,
       "name": "Brawl",
       "url": "https://open.spotify.com/track/3AlajV0n2kqydfIJP0zFXD"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 243838,
       "name": "Cross the Line",
       "url": "https://open.spotify.com/track/7bvM0exJGW8mRV7Yy1KW2p"
@@ -796,7 +814,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Crystal Waves (From \"Wave Break\")",
       "url": "https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer"
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 230948,
       "name": "Disco Pervert",
       "url": "https://open.spotify.com/track/56L12g138Yq665PGuP7pj5"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 313326,
       "name": "Echoes In Time",
       "url": "https://open.spotify.com/track/3GrvlmYvl4yO05W2XfL3Ww"
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 182750,
       "name": "Erased",
       "url": "https://open.spotify.com/track/200Cyt2C6ZNPtiivdz4Dhr"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201643,
       "name": "Half-Life",
       "url": "https://open.spotify.com/track/3AqgKDuiWSz6sVphzyOT32"
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 239339,
       "name": "Kitsune",
       "url": "https://open.spotify.com/track/6RlRl5irhdt6ZVnLvpp1K7"
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 267740,
       "name": "Let\u2019s Cruise",
       "url": "https://open.spotify.com/track/2ewvKapM7AtD3ADdj7TCaM"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 275875,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6CRQ5l0JsU35hBNkz3vfcb"
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-18",
+      "date_removed": null,
       "duration_ms": 180606,
       "name": "Moshi Moshi",
       "url": "https://open.spotify.com/track/0kKkUdnNDmErLEZxopA2vg"
@@ -2383,6 +2401,28 @@
     },
     {
       "album": {
+        "name": "Nightcall (feat. NINA)",
+        "url": "https://open.spotify.com/album/1jRh4YBaL055wAAKrqsvof"
+      },
+      "artists": [
+        {
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        },
+        {
+          "name": "NINA",
+          "url": "https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246106,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/2o7kljiAHz8ypMLVmzmFqg"
+    },
+    {
+      "album": {
         "name": "Nightdrive",
         "url": "https://open.spotify.com/album/0HS2rhWZNWH898BcnbxcyA"
       },
@@ -2484,7 +2524,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 257816,
       "name": "Odyssey Point",
       "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
@@ -2604,7 +2644,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 249836,
       "name": "Outrun This!",
       "url": "https://open.spotify.com/track/02fSxVKwfRglhkXt03wVJg"
@@ -2694,7 +2734,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215980,
       "name": "R.E.D.M",
       "url": "https://open.spotify.com/track/6rryVRJYEsn79paUKEzOOF"
@@ -2748,7 +2788,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 347493,
       "name": "Rise the Midnight Girl",
       "url": "https://open.spotify.com/track/7x54Ia2d2ZkQ58zqw8MESv"
@@ -3168,7 +3208,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 273472,
       "name": "Take Flight",
       "url": "https://open.spotify.com/track/7Hp4SrtQicQtSgPLxKB574"
@@ -3230,7 +3270,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 235106,
       "name": "The Best Thing",
       "url": "https://open.spotify.com/track/6s4xmXtMT7WVbmCTjC48MP"
@@ -3338,7 +3378,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 328661,
       "name": "The Last Man on Earth - Original Mix",
       "url": "https://open.spotify.com/track/3SWg8HDCdqfN7Xy5VIZa75"
@@ -3616,7 +3656,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 403200,
       "name": "Warp Drive",
       "url": "https://open.spotify.com/track/3s4hxwmmzhCT0Z4g94cY3N"
@@ -3728,7 +3768,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 268536,
       "name": "Wild Ones",
       "url": "https://open.spotify.com/track/03FPFGGmCFCFX9X7vNB3JW"
@@ -3746,7 +3786,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 307213,
       "name": "Woken Furies",
       "url": "https://open.spotify.com/track/1gGNnSJrFVe4LCnP0nCbDJ"

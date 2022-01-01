@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228586,
+      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
+    },
+    {
+      "album": {
         "name": "Are You in Love?",
         "url": "https://open.spotify.com/album/1qn64Ce1nAksES6KVbnxYf"
       },
@@ -236,7 +254,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 235640,
       "name": "Boys",
       "url": "https://open.spotify.com/track/39kdh33tGQuSINsUasOl8v"
@@ -327,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4xnVEOwaNKhm2Z9LsfY968"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/5NzFmQddbHBGBvoOlHjfqr"
+    },
+    {
+      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz"
       },
@@ -356,7 +392,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 326160,
       "name": "Cherry Baby",
       "url": "https://open.spotify.com/track/6fQqDqpmwk55pNMiF0n5mL"
@@ -378,6 +414,24 @@
       "duration_ms": 240146,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "album": {
+        "name": "Seedlings All",
+        "url": "https://open.spotify.com/album/4uKlGigpwjW316iLF8HwQj"
+      },
+      "artists": [
+        {
+          "name": "Josienne Clarke and Ben Walker",
+          "url": "https://open.spotify.com/artist/3Vur5nBUAcGQjXZyk32WV1"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280373,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/5qQRUbrPsWR2aOgqcVOJO6"
     },
     {
       "album": {
@@ -450,7 +504,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184500,
       "name": "Crow Song",
       "url": "https://open.spotify.com/track/18ioEXs8XbRmYiREQ8W6jI"
@@ -486,7 +540,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 303320,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/0L9WXYWHUMtTDkxBl6Y6M5"
@@ -556,7 +610,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 235449,
       "name": "Drift (Acoustic)",
       "url": "https://open.spotify.com/track/2g4R92yMTh8dXcgfWBgx1N"
@@ -668,7 +722,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 284880,
       "name": "Feet On The Dashboard",
       "url": "https://open.spotify.com/track/0YbAkvT3mvybfRUpqGv6R5"
@@ -712,7 +766,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
@@ -1132,7 +1186,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 163893,
       "name": "Keep 'Em on They Toes",
       "url": "https://open.spotify.com/track/0f388trqcZyqGbPJUqGWpx"
@@ -1150,7 +1204,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 209819,
       "name": "Latch",
       "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
@@ -1338,7 +1392,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 136000,
       "name": "Lucky for You",
       "url": "https://open.spotify.com/track/19jTCAxeVnkwKnWHSsdg0i"
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 237120,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6zmANU5l4qCHQrI5cZhSS2"
@@ -1464,7 +1518,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 218628,
       "name": "Neon Skyline",
       "url": "https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa"
@@ -1655,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2020-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+    },
+    {
+      "album": {
         "name": "Siren Song",
         "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
       },
@@ -1756,7 +1828,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
@@ -1936,7 +2008,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 311613,
       "name": "The Running Styles of New York",
       "url": "https://open.spotify.com/track/6qBIXzZBsQC6n4OmumpcHc"
@@ -2204,7 +2276,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 157068,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/1qIktGpjJbiikPxFDbuh1L"
@@ -2222,7 +2294,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 191493,
       "name": "We Fall In",
       "url": "https://open.spotify.com/track/396KYYOGDOwE7YooXmFedN"
@@ -2276,7 +2348,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204528,
       "name": "White Bird",
       "url": "https://open.spotify.com/track/7n0oyohwoDeRqD5ktNGBQr"
@@ -2348,7 +2420,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 265189,
       "name": "Your Love is Holy",
       "url": "https://open.spotify.com/track/008EXmFGIPz7DWuOVIl5hP"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20xDs0SXeZu.md) - [plain]
 
 > Classical music from the classical era\. Light, clear and beautiful\. Music by Beethoven, Mozart and Haydn\. The sons of J.S Bach\. Schubert and Salieri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,163 likes - 50 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,160 likes - 50 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

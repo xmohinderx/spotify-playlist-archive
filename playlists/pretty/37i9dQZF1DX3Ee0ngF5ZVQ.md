@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now\. Cover: Wade Bowen
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,617 likes - 140 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,622 likes - 140 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

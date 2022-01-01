@@ -34,7 +34,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 341800,
       "name": "A New Day Has Come",
       "url": "https://open.spotify.com/track/1Hck0Y3AgGLIvv9pRuq3ti"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 255560,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/0RFgvrhkf9FiDRLA0BhzpZ"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Chariot - Stripped",
+        "url": "https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268666,
+      "name": "Follow Through - Stripped Version",
+      "url": "https://open.spotify.com/track/4DWzzBSM3GJBf7VQUugrYe"
+    },
+    {
+      "album": {
         "name": "By My Side (Retrospective)",
         "url": "https://open.spotify.com/album/3LBTIeX3u0zodXW4Hu7qXQ"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205160,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7ra7mVrA3SGTNzImA7UacC"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 191813,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4QfNOZN7vrQCQKK1ZJ3XPb"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq"
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178600,
       "name": "It's So Hard to Say Goodbye to Yesterday",
       "url": "https://open.spotify.com/track/3I9oojmw2NH3yCkVtV3DtV"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 243213,
       "name": "Like A Star",
       "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 250266,
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "url": "https://open.spotify.com/track/1ip2IGDWMrUmlaepEbWlL8"
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 229813,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/0HnaqUxvHP5LaWdmWwJpiS"
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 239933,
       "name": "Meet Virginia",
       "url": "https://open.spotify.com/track/4ocbH5ZJqajZIpUrqRUoue"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u"
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
@@ -2620,7 +2638,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 177831,
       "name": "Open up Your Eyes",
       "url": "https://open.spotify.com/track/4xbHz6WrKIZaIb7omWi7Jr"
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 228293,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1CkvWZme3pRgbzaxZnTl5X"
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 255893,
       "name": "Ships In The Night",
       "url": "https://open.spotify.com/track/0RUXHlYhA057fCOe2vqIqu"
@@ -3702,7 +3720,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189333,
       "name": "The Other",
       "url": "https://open.spotify.com/track/1lntL1cI2UIWlxjL5QiN8g"
@@ -3720,7 +3738,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
@@ -4152,7 +4170,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 175480,
       "name": "Who Says",
       "url": "https://open.spotify.com/track/0HLWvLKQWpFdPhgk6ym58n"

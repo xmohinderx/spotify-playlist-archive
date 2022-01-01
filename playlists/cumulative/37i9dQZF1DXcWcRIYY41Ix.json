@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 172094,
       "name": "A 200 mil",
       "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 341037,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189313,
       "name": "Alma Mantra",
       "url": "https://open.spotify.com/track/5LA6XlS8iZGbRlO4Z6lr4G"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 264160,
       "name": "Coplas (feat. Perot\u00e1 Ching\u00f3)",
       "url": "https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9"
@@ -651,6 +651,28 @@
     },
     {
       "album": {
+        "name": "Despi\u00e9rtame Cuando Llegues",
+        "url": "https://open.spotify.com/album/59rjllBcpSAVjwlPGeqD8z"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Despi\u00e9rtame Cuando Llegues",
+      "url": "https://open.spotify.com/track/4YgfqwmFPUyRighlXA9kLa"
+    },
+    {
+      "album": {
         "name": "Destino trocado",
         "url": "https://open.spotify.com/album/7Hx7ZqnKldsGScVBTy4uut"
       },
@@ -728,7 +750,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 238000,
       "name": "El Agua Y La Miel / Milagro (Demo)",
       "url": "https://open.spotify.com/track/3Ujdh4BxO47sP3pkFxw7lm"
@@ -838,7 +860,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/15MrK18b57Reu75doUBMxb"
@@ -860,7 +882,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181798,
       "name": "El Tiempo Est\u00e1 Despu\u00e9s",
       "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
@@ -882,7 +904,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 297000,
       "name": "El Viejo Comunista (Feat. Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 197485,
       "name": "Enredaderas",
       "url": "https://open.spotify.com/track/7jznLltf0c64ROOQCIEP97"
@@ -994,7 +1016,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 264341,
       "name": "Flores Muertas - Exasperaci\u00f3n",
       "url": "https://open.spotify.com/track/1vqms5cN3piIB1VdH0zsfI"
@@ -1019,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/2FJbtOAdbdLSimMwyY5DKn"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217656,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/3Oswitzte0cJTr4VMloflx"
+    },
+    {
+      "album": {
         "name": "Como el Mar",
         "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
       },
@@ -1030,7 +1070,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 245593,
       "name": "Fui y Volv\u00ed",
       "url": "https://open.spotify.com/track/4tPCZE71EqxyNnuqcf5WD8"
@@ -1230,7 +1270,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 193838,
       "name": "La LLorona (A Guitarra y Voz Desde Casa)",
       "url": "https://open.spotify.com/track/2O3GGAQw18PISYdsx4aaBk"
@@ -1288,7 +1328,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 303849,
       "name": "La Maza - En Vivo Desde Fonobox",
       "url": "https://open.spotify.com/track/66N4z49zmWLC1oOsXRqu09"
@@ -1339,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "La Quimerita",
+        "url": "https://open.spotify.com/album/24iqwRhlBDcDlkUwDFZqL9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190020,
+      "name": "La Quimerita",
+      "url": "https://open.spotify.com/track/7Cvvi9V0dEnpGeY3axVNGP"
+    },
+    {
+      "album": {
         "name": "Las Cinco Disonante",
         "url": "https://open.spotify.com/album/0IG5NKTssLEZqXZq1u19uD"
       },
@@ -1350,7 +1408,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 323408,
       "name": "Las Cinco Disonante",
       "url": "https://open.spotify.com/track/0jgdxy6KbfweX6liNYOoGv"
@@ -1462,7 +1520,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 199920,
       "name": "Los P\u00e1jaros de Ciudad",
       "url": "https://open.spotify.com/track/07IHpkOUmcE2wlNbWYnxQ9"
@@ -1578,7 +1636,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 333409,
       "name": "Migas",
       "url": "https://open.spotify.com/track/3LzLD8MNdZ2IpLO2aKiQj6"
@@ -1618,7 +1676,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 240449,
       "name": "Moment\u00e1nea",
       "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
@@ -1720,10 +1778,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 312413,
       "name": "Ni\u00f1a de mis ojos",
       "url": "https://open.spotify.com/track/1sicJa9Y4jg67tHPHIsIoo"
+    },
+    {
+      "album": {
+        "name": "Las canciones que escrib\u00ed mientras volaba",
+        "url": "https://open.spotify.com/album/2xnYo9d4AVFfTaDRXzgpjy"
+      },
+      "artists": [
+        {
+          "name": "Juanito Makand\u00e9",
+          "url": "https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222839,
+      "name": "Ni\u00f1a voladora",
+      "url": "https://open.spotify.com/track/6t9ot6JHFylOIfKRRvxIS8"
     },
     {
       "album": {
@@ -1760,7 +1836,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 329062,
       "name": "No Pasar\u00e1n",
       "url": "https://open.spotify.com/track/01qqX42EpmyAS6mOTKzBB0"
@@ -1782,7 +1858,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 245534,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/5Rns0JAdfVtIVPvBBvPbXF"
@@ -1800,10 +1876,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 134956,
       "name": "Paciencia",
       "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
+    },
+    {
+      "album": {
+        "name": "Pajarillo Negro",
+        "url": "https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE"
+      },
+      "artists": [
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "Pajarillo Negro",
+      "url": "https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78"
     },
     {
       "album": {
@@ -1836,7 +1930,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 210760,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS"
@@ -1858,7 +1952,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173453,
       "name": "Peligrosamente Dark (feat. Silvana Estrada)",
       "url": "https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv"
@@ -1916,7 +2010,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 237613,
       "name": "Pura Flor",
       "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
@@ -1996,7 +2090,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 336306,
       "name": "Rara Bien",
       "url": "https://open.spotify.com/track/4lSs7nqYqxXjWiiNehh3Ji"
@@ -2312,7 +2406,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 232357,
       "name": "Tabaibas",
       "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
@@ -2370,7 +2464,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196506,
       "name": "Temes",
       "url": "https://open.spotify.com/track/0dszpdR645HWyHjnCLMexZ"
@@ -2410,7 +2504,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 167513,
       "name": "Terra banyada",
       "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
@@ -2468,7 +2562,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "Toca",
       "url": "https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4"
@@ -2490,7 +2584,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185503,
       "name": "Todas las Banderas",
       "url": "https://open.spotify.com/track/5nRPc1sVXv0kgq8AG0KdMU"
@@ -2512,7 +2606,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
@@ -2534,6 +2628,24 @@
       "duration_ms": 181093,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/7AYiZYUZuplwc9krvnYEGK"
+    },
+    {
+      "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Membrillo",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "album": {
@@ -2790,7 +2902,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 311054,
       "name": "Vamos los Dos (con 82 Artistas)",
       "url": "https://open.spotify.com/track/0B76jmUwpgUmtbIKdIlVZc"
@@ -2834,7 +2946,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 194000,
       "name": "Verde Nocturno",
       "url": "https://open.spotify.com/track/5jf5mhtgQ3uaLE8wv3Xg0K"
@@ -2852,7 +2964,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215786,
       "name": "Vidrieritas",
       "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
@@ -2892,7 +3004,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 195240,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/1Xzn8guV6Xwux2sS786EwA"

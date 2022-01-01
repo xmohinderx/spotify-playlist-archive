@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 248372,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184871,
       "name": "Chicane - Kumarion Remix",
       "url": "https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220000,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/6FGayqvQemkqpDhHmoJawA"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 227657,
       "name": "Demand",
       "url": "https://open.spotify.com/track/6uL5PowSCbpgBABwfsa3ZV"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 333034,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/26McQHo7fTFzFCA5qz709g"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 292173,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 270344,
       "name": "Got to see her VIP - VIP",
       "url": "https://open.spotify.com/track/03WYP3YdGXKsIW6Jcudyan"
@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 226206,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1zo0vyy8vdtZqNfnIwZJf9"
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "Holding On (feat. Leo The Kind)",
       "url": "https://open.spotify.com/track/6qa8nhtZCylZU8qBD2KzTU"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 342892,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6tZNjx8aR2gNMcsbx8la8r"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 218720,
       "name": "Lost In Motion",
       "url": "https://open.spotify.com/track/5Vc54NSRF6CrQZsnWJZ7ct"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 196655,
       "name": "Met Her At A Dance In Leicester (feat. UK Apache)",
       "url": "https://open.spotify.com/track/7tUx5m8e0jzm3kRv9nhoRU"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204827,
       "name": "Miracle - REAPER Remix",
       "url": "https://open.spotify.com/track/41JyOI4feB5z5vK6asNeo5"
@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Need You Closer",
+        "url": "https://open.spotify.com/album/7plSn2xro5Xrt3DpDiaa6L"
+      },
+      "artists": [
+        {
+          "name": "Jakaro",
+          "url": "https://open.spotify.com/artist/0CdpdIpmPtMKOLseB4WJ5a"
+        },
+        {
+          "name": "Kristina Antuna",
+          "url": "https://open.spotify.com/artist/41dAIf2IkI9w4bldfUKQHC"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Need You Closer",
+      "url": "https://open.spotify.com/track/4ejWvl4FLFW0ySxqbaZRGY"
+    },
+    {
+      "album": {
         "name": "Nemesis",
         "url": "https://open.spotify.com/album/2gy1bZfF5ZbM2Jn2BeHdRl"
       },
@@ -2069,6 +2091,28 @@
     },
     {
       "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/6qYEhoD50aq5DJBxnSCYGW"
+      },
+      "artists": [
+        {
+          "name": "DJ Rap",
+          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320021,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/1w8LpjmZeBTY3PFeY1Es1A"
+    },
+    {
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/0jRKTrIWx0RhPzRLHILVRO"
       },
@@ -2084,7 +2128,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 194882,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1QgYm6U7EX2Bhpj3BOTLHQ"
@@ -2158,7 +2202,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 295372,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0Me1TVXnyI1jfmhF1bfpys"
@@ -2198,7 +2242,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 233095,
       "name": "One Day At A Time",
       "url": "https://open.spotify.com/track/1oXdYtT3GQ3eSHt4PX4sHT"
@@ -2220,7 +2264,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 192068,
       "name": "Open Up",
       "url": "https://open.spotify.com/track/2BuiY8NPxcQ0Ydmyl4WMPr"
@@ -2260,7 +2304,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258000,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/65K9J0rl5YTkdO1cosjbcx"
@@ -2402,7 +2446,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 263024,
       "name": "Quantum",
       "url": "https://open.spotify.com/track/4lqJ4VWhsBeOxkO7yfk5MV"
@@ -2542,7 +2586,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 247586,
       "name": "Reason",
       "url": "https://open.spotify.com/track/3BhECsg8J4eoepgo3LoGlW"
@@ -2582,7 +2626,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 402326,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/36tSyKYCVlhSvEhZl1fB8h"
@@ -2626,7 +2670,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181569,
       "name": "RELOAD",
       "url": "https://open.spotify.com/track/6zCNAB1z3QdxklS8Hpo8yA"
@@ -2710,7 +2754,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 209137,
       "name": "RUNAWAY (feat. Josh Rubin)",
       "url": "https://open.spotify.com/track/16Df0dHOZk8miL46zPDaZ5"
@@ -2768,7 +2812,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 223143,
       "name": "Secret",
       "url": "https://open.spotify.com/track/2CKvhcxC6vuommXliI7CTJ"
@@ -2786,7 +2830,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 260689,
       "name": "See It Thru",
       "url": "https://open.spotify.com/track/7EFrOOnUKLolvsMKlfv3zc"
@@ -2888,7 +2932,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 280603,
       "name": "Sidestep",
       "url": "https://open.spotify.com/track/6B43OuVBkeGFxhpY2HBdo2"
@@ -2950,7 +2994,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 182072,
       "name": "Stronger (feat. Elanese) - Mod3no Remix",
       "url": "https://open.spotify.com/track/5gzKw3VEqg3RNfVThegHKK"
@@ -3128,7 +3172,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 232686,
       "name": "There and Back",
       "url": "https://open.spotify.com/track/4H3mLpYw9fgx0FHNanYLAd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB?si=ebt0DFdHT5ufCbsE6bCfBQ"> Muthoni Drummer Queen </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,815 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,847 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

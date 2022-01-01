@@ -276,7 +276,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 276252,
       "name": "Cactus Tree - 2021 Remaster",
       "url": "https://open.spotify.com/track/6ah4KE4F2xwbS1qByjFmZj"
@@ -402,10 +402,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205733,
       "name": "Country Road",
       "url": "https://open.spotify.com/track/1105xyHTDp3bZQa1cpoCyX"
+    },
+    {
+      "album": {
+        "name": "Judee Sill",
+        "url": "https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf"
+      },
+      "artists": [
+        {
+          "name": "Judee Sill",
+          "url": "https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165480,
+      "name": "Crayon Angels",
+      "url": "https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT"
     },
     {
       "album": {
@@ -474,7 +492,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 288000,
       "name": "Everything Is Free",
       "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
@@ -890,7 +908,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 314080,
       "name": "It Ain't Over Yet",
       "url": "https://open.spotify.com/track/7GJlAXotjV4uNS1seUDcVE"
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 272333,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ"
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 350560,
       "name": "Mercy Now",
       "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 177760,
       "name": "Oh Dear, What Can The Matter Be",
       "url": "https://open.spotify.com/track/580Am1PtXEC1hVVibksKRE"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 290733,
       "name": "One Of These Things First",
       "url": "https://open.spotify.com/track/0hNVjU6JKydHts0SAjHCno"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 200240,
       "name": "That's the Way That the World Goes 'Round",
       "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258333,
       "name": "The Watchman's Gone",
       "url": "https://open.spotify.com/track/2aWxDsPrW9boRYyWLF6sst"
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 210666,
       "name": "These Days",
       "url": "https://open.spotify.com/track/1MD4tX2g5hx0D2WQ6JsC2m"
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 253573,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ"

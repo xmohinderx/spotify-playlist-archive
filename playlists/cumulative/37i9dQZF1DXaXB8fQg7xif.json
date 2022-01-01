@@ -342,7 +342,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 168576,
       "name": "Alors On Danse - DubDogz Remix",
       "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 211200,
       "name": "Bailar Riddim",
       "url": "https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 194761,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1Ckah0ICBG4AoAY0x6LbSF"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196899,
       "name": "California Dreamin' (feat. High Jinx)",
       "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2020-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 182500,
       "name": "Dare Me",
       "url": "https://open.spotify.com/track/77BDJDKKWm11KXQh0Sv4Jf"
@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 144761,
       "name": "Driver Seat",
       "url": "https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo"
@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
@@ -3632,7 +3632,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 211451,
       "name": "Feel The Energy",
       "url": "https://open.spotify.com/track/1G4FRQ4zQRgewsYvJhT7Rn"
@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 189910,
       "name": "Fine Lines",
       "url": "https://open.spotify.com/track/4yZFRsi0Jn2Ws7bLeyY67b"
@@ -4641,6 +4641,32 @@
     },
     {
       "album": {
+        "name": "Good Luck (PS1 Remix)",
+        "url": "https://open.spotify.com/album/4T3g98OUQjo3XNQ7pMpTZs"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        },
+        {
+          "name": "PS1",
+          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146669,
+      "name": "Good Luck (feat. Pia Mia) - PS1 Remix",
+      "url": "https://open.spotify.com/track/3txlbadheKtYDsywClnjMU"
+    },
+    {
+      "album": {
         "name": "Good Ones (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
       },
@@ -5105,6 +5131,28 @@
     },
     {
       "album": {
+        "name": "Human (feat. Echoes)",
+        "url": "https://open.spotify.com/album/0LsQJbzouY38Os8GXxn5dO"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Echoes",
+          "url": "https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Human (feat. Echoes)",
+      "url": "https://open.spotify.com/track/4G4patpYxsF6ovHZOX9wgR"
+    },
+    {
+      "album": {
         "name": "Hypnotized EP",
         "url": "https://open.spotify.com/album/5Fx02RNnBLcFhSaxKyZW9H"
       },
@@ -5160,7 +5208,7 @@
       ],
       "date_added": "2020-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 177631,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/1E6eBDvEvVMz3PIUIkWs1y"
@@ -5518,7 +5566,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
@@ -6078,6 +6126,24 @@
       "duration_ms": 152581,
       "name": "Let Me Think About It (Celebration Mix)",
       "url": "https://open.spotify.com/track/2HnbQUKe1joI2tSFuUhqZs"
+    },
+    {
+      "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148693,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
     },
     {
       "album": {
@@ -6738,7 +6804,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 159344,
       "name": "Make It Good",
       "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
@@ -6888,7 +6954,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 285375,
       "name": "Marea (We\u2019ve Lost Dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
@@ -8056,7 +8122,7 @@
       ],
       "date_added": "2020-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM"
@@ -8184,7 +8250,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 143280,
       "name": "Oohla Oohla",
       "url": "https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn"
@@ -8206,7 +8272,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 143280,
       "name": "Oohla Oohla",
       "url": "https://open.spotify.com/track/7chO7fuXHHB3nZVjEQMXwx"
@@ -8236,6 +8302,36 @@
     {
       "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/6e2w4Ki9ij6579ot9qx6nq"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/1UkJVfMgamPjhP478ZGEr6"
+    },
+    {
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
       "artists": [
@@ -8258,10 +8354,32 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "album": {
+        "name": "Overpass Graffiti (TCTS Remix)",
+        "url": "https://open.spotify.com/album/1v4uBCAiRxSw9tnujr5oXo"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276295,
+      "name": "Overpass Graffiti - TCTS Remix",
+      "url": "https://open.spotify.com/track/7aJipE69xCCq3Upw8w9JOf"
     },
     {
       "album": {
@@ -8720,7 +8838,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201176,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4VWCn553TnAjZn7Vv57BWP"
@@ -9050,6 +9168,28 @@
       "duration_ms": 219052,
       "name": "Real Love x Sunchyme (feat. Jess Glynne) [VIP Mash-up]",
       "url": "https://open.spotify.com/track/17fPLuA4TttWwfNcf833J1"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
       "album": {
@@ -9590,7 +9730,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 125846,
       "name": "See Me Fall",
       "url": "https://open.spotify.com/track/17UzpGcbxDFds1D9QahiR6"
@@ -9722,7 +9862,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 147976,
       "name": "Sicko Drop",
       "url": "https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb"
@@ -10448,7 +10588,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173809,
       "name": "tell me what you\u2019re thinking",
       "url": "https://open.spotify.com/track/5ym3bCHNv6OoDuQ96lNu3y"
@@ -10580,7 +10720,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189523,
       "name": "The Sequel",
       "url": "https://open.spotify.com/track/3f0C4VBTbLlEsCyybHELPW"
@@ -10660,7 +10800,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 194904,
       "name": "Think About Us - 90's Club Mix",
       "url": "https://open.spotify.com/track/6FANeHrcPH8cDFUgty6jDS"
@@ -11455,6 +11595,28 @@
     },
     {
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF"
+      },
+      "artists": [
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170022,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
+    },
+    {
+      "album": {
         "name": "Welcome To The People",
         "url": "https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF"
       },
@@ -11946,6 +12108,32 @@
       "duration_ms": 218293,
       "name": "Young Forever",
       "url": "https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1"
+    },
+    {
+      "album": {
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/5ycJofS2JNGjRmxOPWg5zG"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/4SL2iWHt3azgITI04G5NpY"
     },
     {
       "album": {

@@ -1574,6 +1574,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Summer House!](/playlists/pretty/37i9dQZF1DX05r4Oy3Ln97.md)
 - [Summer Indie](/playlists/pretty/37i9dQZF1DWVsh2vXzlKFb.md)
 - [Summer Party](/playlists/pretty/37i9dQZF1DX5Ozry5U6G0d.md)
+- [Summer Rock Vibes](/playlists/pretty/37i9dQZF1DWU3bkMPOyjie.md)
 - [Summer Throwback](/playlists/pretty/37i9dQZF1DXd1MXcE8WTXq.md)
 - [Summer Vibes](/playlists/pretty/37i9dQZF1DWVLVzn60NyuA.md)
 - [Summertime Vibes](/playlists/pretty/5v2J2noHVxPWgSrOw6lZsp.md)

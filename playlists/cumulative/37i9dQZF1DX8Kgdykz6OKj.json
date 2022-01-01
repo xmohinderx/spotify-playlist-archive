@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220400,
       "name": "A Little Of This",
       "url": "https://open.spotify.com/track/47vzQk78oRe1g9vpT5663T"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 203706,
       "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
       "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 238666,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4sdP88Ei3DfoJ5necptBsA"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 128955,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/73IZLLvCZMDUWfmqZaLwEs"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 157603,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/09udibRKZh5eQWyb90JHy8"
@@ -326,10 +326,44 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 164633,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4rcPzQInR0HHyrTtppZT9m"
+    },
+    {
+      "album": {
+        "name": "Burnt Out",
+        "url": "https://open.spotify.com/album/3YwrbLpDkvMOMbWmbkg1B2"
+      },
+      "artists": [
+        {
+          "name": "Syrup",
+          "url": "https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc"
+        },
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        },
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Burnt Out",
+      "url": "https://open.spotify.com/track/4meQGI49dD8lCvG0PGckdO"
     },
     {
       "album": {
@@ -738,7 +772,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 213533,
       "name": "Eucalyptus",
       "url": "https://open.spotify.com/track/4XJcBj7q9szzwLAtYrdwmQ"
@@ -756,7 +790,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 214973,
       "name": "Fabrics",
       "url": "https://open.spotify.com/track/6hlLKByDfmpoQQrfag0LzV"
@@ -826,10 +860,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "album": {
+        "name": "Fossils",
+        "url": "https://open.spotify.com/album/5Tc9dB08xZSu8OpaF9iBLG"
+      },
+      "artists": [
+        {
+          "name": "Loop Faction",
+          "url": "https://open.spotify.com/artist/1f0dZqs2JpuHbHDtxaNdKq"
+        },
+        {
+          "name": "illiterate",
+          "url": "https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167953,
+      "name": "Fossils",
+      "url": "https://open.spotify.com/track/1xw0CwUE6XgVGnTkNMjrFg"
     },
     {
       "album": {
@@ -1060,7 +1116,7 @@
           "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
         },
         {
-          "name": "\uff4a\uff41\uff52\uff4a\uff41\uff52\uff4a\uff52",
+          "name": "jarjarjr",
           "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
         }
       ],
@@ -1140,7 +1196,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 156386,
       "name": "Hi(gh)",
       "url": "https://open.spotify.com/track/0pknQqT6b6vfh1bRFrL5QQ"
@@ -1218,7 +1274,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 158137,
       "name": "I Ain't Finished Yet",
       "url": "https://open.spotify.com/track/2VnRyG7aChzsHCGTZkKQvl"
@@ -1243,6 +1299,28 @@
     },
     {
       "album": {
+        "name": "Practice Makes Perfect",
+        "url": "https://open.spotify.com/album/0LAddiAmugmRMt6fCvBnrx"
+      },
+      "artists": [
+        {
+          "name": "EllMatic",
+          "url": "https://open.spotify.com/artist/6DyhWc1O1h5v5olTLhKv3M"
+        },
+        {
+          "name": "MpDrees24",
+          "url": "https://open.spotify.com/artist/64pPHAyVpCJBYmDpsNEnOM"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171061,
+      "name": "Irreversible",
+      "url": "https://open.spotify.com/track/4GODOFCGfppXsod6Jogh5R"
+    },
+    {
+      "album": {
         "name": "2nd Exit",
         "url": "https://open.spotify.com/album/3OZksagLNqEbzxPgR26xry"
       },
@@ -1254,7 +1332,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 176884,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/6565wKrasU4x0H3jhZJIrd"
@@ -1346,7 +1424,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185270,
       "name": "KING",
       "url": "https://open.spotify.com/track/7s4V6in43JXuOqzUuOSvTZ"
@@ -1512,7 +1590,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 336866,
       "name": "Luv(sic.) pt3 (feat. Shing02)",
       "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
@@ -1534,7 +1612,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 198000,
       "name": "M25",
       "url": "https://open.spotify.com/track/3JA4ZZRN9sUAbjMzAs7vxi"
@@ -1552,10 +1630,36 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 281840,
       "name": "Mellow My Man",
       "url": "https://open.spotify.com/track/71RgnWLv0ktFfH3cvB7XzU"
+    },
+    {
+      "album": {
+        "name": "Morning Walk",
+        "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
+      },
+      "artists": [
+        {
+          "name": "AzMattic",
+          "url": "https://open.spotify.com/artist/7rhDsO4kzCqco9ySbFdKDY"
+        },
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        },
+        {
+          "name": "Chill Select",
+          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193450,
+      "name": "Morning Walk",
+      "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
     },
     {
       "album": {
@@ -1600,7 +1704,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
@@ -1670,7 +1774,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 214700,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3euwxpQ0BRPGxy8qg1zijH"
@@ -1722,7 +1826,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
@@ -1747,6 +1851,36 @@
     },
     {
       "album": {
+        "name": "Dispo II Dispo",
+        "url": "https://open.spotify.com/album/5czPDlSnae2TBPzfzAIPWk"
+      },
+      "artists": [
+        {
+          "name": "Flatpocket",
+          "url": "https://open.spotify.com/artist/1C3kvlK0zb8LkXCu5KQSAn"
+        },
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        },
+        {
+          "name": "Lazy Jones",
+          "url": "https://open.spotify.com/artist/28rEEGnYrfwBxrVVUsolgX"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92053,
+      "name": "One from the Tap",
+      "url": "https://open.spotify.com/track/24d3VWoefNmKBRpOS1Le4d"
+    },
+    {
+      "album": {
         "name": "Oracle",
         "url": "https://open.spotify.com/album/25XeFcEHMvNJHI2YSFLCdz"
       },
@@ -1762,7 +1896,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 183448,
       "name": "Oracle",
       "url": "https://open.spotify.com/track/1DnHVfyOCinVjp1fJBCT4I"
@@ -1846,7 +1980,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 347133,
       "name": "Park Bench People (Alternate Version)",
       "url": "https://open.spotify.com/track/4D1DI7aIuxDmaXAAKrcO50"
@@ -1868,7 +2002,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 146513,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3ztH9nb2vdLrcHpBSzkRnq"
@@ -1934,7 +2068,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
@@ -1994,6 +2128,24 @@
       "duration_ms": 187666,
       "name": "Recalibrate",
       "url": "https://open.spotify.com/track/2KPxboNfXjvDQY33woze93"
+    },
+    {
+      "album": {
+        "name": "Rose Shades",
+        "url": "https://open.spotify.com/album/598dvuuWlbz0MxXz30LPtK"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214173,
+      "name": "Rose Shades",
+      "url": "https://open.spotify.com/track/6rqqMyBXYEOZCPiH2vuptp"
     },
     {
       "album": {
@@ -2068,7 +2220,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 150927,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5RvjgWuFAHA4SmYkU8xDEA"
@@ -2164,7 +2316,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 189916,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2WH14gINyIA1wmj3E4Ui1F"
@@ -2246,7 +2398,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 160508,
       "name": "Super Fly Funk",
       "url": "https://open.spotify.com/track/16dyAuXav2Oxrl5IABKscC"
@@ -2400,7 +2552,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "The Process",
       "url": "https://open.spotify.com/track/0a0Uoa9hQbK8sYk0f6PgvO"
@@ -2478,6 +2630,32 @@
       "duration_ms": 232475,
       "name": "THE WORD",
       "url": "https://open.spotify.com/track/6fdO1Q9BsT2WbhFFLzgkNr"
+    },
+    {
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/3gPsrwtiHSBJrnvdNCMrsk"
+      },
+      "artists": [
+        {
+          "name": "Ezy",
+          "url": "https://open.spotify.com/artist/0l2bNB6pslXlkccCthuqzf"
+        },
+        {
+          "name": "Simon Dufour",
+          "url": "https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw"
+        },
+        {
+          "name": "Aaron Day",
+          "url": "https://open.spotify.com/artist/7iIKqzMPFhySieiHdJv0zp"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251590,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/1g5d90XIFHNllQ1Vq1rjMs"
     },
     {
       "album": {
@@ -2621,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "What Am I to Do?",
+        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244733,
+      "name": "What Am I to Do?",
+      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "album": {
         "name": "A Beautiful Revolution (Pt 1)",
         "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
       },
@@ -2706,7 +2906,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 230404,
       "name": "Who's on the Playlist",
       "url": "https://open.spotify.com/track/0Bjm2IaLuaY6ttrj9Bv1Dz"

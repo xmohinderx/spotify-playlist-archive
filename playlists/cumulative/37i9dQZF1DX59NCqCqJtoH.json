@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 175321,
       "name": "afterthoughts",
       "url": "https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8"
@@ -96,10 +96,28 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 160104,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6tAqYm2Wcy2yrPixShJMS6"
+    },
+    {
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/0fgl599pd0rY0p5hDZCcLP"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205905,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/2lf0nT2QF3AXBuOLGKwLnv"
     },
     {
       "album": {
@@ -194,7 +212,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 141333,
       "name": "basketball",
       "url": "https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206"
@@ -212,7 +230,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 256688,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
@@ -266,7 +284,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 186666,
       "name": "Call U Tomorrow",
       "url": "https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4"
@@ -426,10 +444,28 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 89652,
       "name": "Dead and Cold",
       "url": "https://open.spotify.com/track/1A43TfohQt3H6K5zg28ExD"
+    },
+    {
+      "album": {
+        "name": "Demons and Monsters",
+        "url": "https://open.spotify.com/album/7ppPbLDYHP6zPdUTwHQQ2g"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197881,
+      "name": "Demons and Monsters",
+      "url": "https://open.spotify.com/track/6pgSQuEY2hJhRkC4YpZfJQ"
     },
     {
       "album": {
@@ -578,7 +614,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178782,
       "name": "expectations",
       "url": "https://open.spotify.com/track/7oIvIMsfp6KuWhe22RU2Cg"
@@ -638,7 +674,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 169840,
       "name": "falling",
       "url": "https://open.spotify.com/track/11dOflbG7PpOepza4U553L"
@@ -696,6 +732,24 @@
       "duration_ms": 257266,
       "name": "Feeling Whitney",
       "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/4UzuKBUSCR8CRbFPwSg53i"
+      },
+      "artists": [
+        {
+          "name": "badly",
+          "url": "https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185192,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/0MHHr2RhELZjSaMQiMF0d9"
     },
     {
       "album": {
@@ -758,10 +812,28 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 158015,
       "name": "game over",
       "url": "https://open.spotify.com/track/3Vh9V3v9DylAevq2CQAJ2l"
+    },
+    {
+      "album": {
+        "name": "Hate Me!",
+        "url": "https://open.spotify.com/album/4gW6jGSRkv5NEg9JkqQMRW"
+      },
+      "artists": [
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154739,
+      "name": "Hate Me!",
+      "url": "https://open.spotify.com/track/6GyNzLfyPlqOanu8S31vaH"
     },
     {
       "album": {
@@ -940,7 +1012,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 178480,
       "name": "I Can't Hate You",
       "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
@@ -1038,7 +1110,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 125052,
       "name": "i still think of you",
       "url": "https://open.spotify.com/track/7BrbGr8S8rjrnlGLqtfFwA"
@@ -1146,7 +1218,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "If I Really Love You",
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
@@ -1288,7 +1360,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 98638,
       "name": "just friends now",
       "url": "https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v"
@@ -1394,7 +1466,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 176367,
       "name": "lose",
       "url": "https://open.spotify.com/track/74NGwGnDUHnsHWM54qAEqV"
@@ -1604,7 +1676,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 160200,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/1y1RZ1WceXGSr0X7Q6mG0M"
@@ -1651,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "One Way!",
+        "url": "https://open.spotify.com/album/6hVJx6AudFaeCyHCECXHcy"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "One Way!",
+      "url": "https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi"
+    },
+    {
+      "album": {
         "name": "Orange Hoodie",
         "url": "https://open.spotify.com/album/7kjDSALwRw5EjnkNzTyc5t"
       },
@@ -1662,7 +1752,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 179427,
       "name": "Orange Hoodie",
       "url": "https://open.spotify.com/track/7zznnb4017w7BwU5tMiBi9"
@@ -1720,7 +1810,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 149610,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/2Wiv1ix0un7a0fx7nDrRU8"
@@ -1814,7 +1904,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 128729,
       "name": "Second Place",
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
@@ -1832,7 +1922,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 177899,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/3fTd1AN7VM33g7OElNPJGb"
@@ -1912,7 +2002,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 180269,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF"
@@ -2058,7 +2148,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 304500,
       "name": "Tears, 2016",
       "url": "https://open.spotify.com/track/1BisD4JGmDWFPbSJz25j3V"
@@ -2084,6 +2174,28 @@
       "duration_ms": 229157,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0WUEI3wb6ei1gRvCJChfxA"
+    },
+    {
+      "album": {
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
     },
     {
       "album": {
@@ -2172,7 +2284,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 203526,
       "name": "There\u2019s No Insurance For a Broken Heart",
       "url": "https://open.spotify.com/track/24vHN1HCkhlQ0t29PTmagg"
@@ -2266,7 +2378,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 140982,
       "name": "Try to Be Better (Again)",
       "url": "https://open.spotify.com/track/6uPSExSu4Xt7HrtJRR1a2P"
@@ -2320,7 +2432,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 271420,
       "name": "Ur Gonna Wish U Believed Me",
       "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
@@ -2396,7 +2508,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "when the hospital was my home (feat. Rxseboy)",
       "url": "https://open.spotify.com/track/5qwfWcdl8h0EhhSVTTH8gN"
@@ -2472,7 +2584,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 179444,
       "name": "You Wouldn't Care Anyway",
       "url": "https://open.spotify.com/track/55pMIzRovz8UgtED49aJQq"

@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 188129,
       "name": "Above It All",
       "url": "https://open.spotify.com/track/0J3e3pldo7uAns4dpLxLR0"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220657,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1DT9IvbYb9QCqpnGbsPJVj"
@@ -134,6 +134,32 @@
       "duration_ms": 185600,
       "name": "All Night (feat. Ally Brooke) - Zero Days Remix",
       "url": "https://open.spotify.com/track/2afCjVAtVunsZMXlC4O6Ck"
+    },
+    {
+      "album": {
+        "name": "All on Me (Brennan Heart VIP Mix)",
+        "url": "https://open.spotify.com/album/5jlp7eKi4lFXQYzqQ5O56U"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Andreas Moe",
+          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183009,
+      "name": "All on Me - Brennan Heart VIP Mix",
+      "url": "https://open.spotify.com/track/6ZkenobbZ5In6pAvIT3C7I"
     },
     {
       "album": {
@@ -204,7 +230,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 179200,
       "name": "Angels & Demons",
       "url": "https://open.spotify.com/track/0YVx5YZIgfYHzlq19hqDeE"
@@ -244,7 +270,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1MPqK7mzwIYSLxrM2UVQs7"
@@ -280,7 +306,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 221622,
       "name": "Away From Here",
       "url": "https://open.spotify.com/track/6o4kZyzIAXsY2TaBCjK3Xn"
@@ -306,7 +332,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 153624,
       "name": "Bass Attack",
       "url": "https://open.spotify.com/track/3idlXH9t69kYKh6Y2KBOpx"
@@ -394,7 +420,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178717,
       "name": "Bodyshock",
       "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
@@ -566,7 +592,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 245750,
       "name": "Champion",
       "url": "https://open.spotify.com/track/3gDpNo17M8tOu9M0ZbeBMn"
@@ -752,7 +778,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 226147,
       "name": "Connected",
       "url": "https://open.spotify.com/track/1DtVFVNnnsUwvsJUa87uOm"
@@ -922,7 +948,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Different",
       "url": "https://open.spotify.com/track/5V36Ex7BD1FIidVCKVSKdm"
@@ -944,7 +970,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 232506,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/1I4jKdWVIbCGJKtJBva2fe"
@@ -966,7 +992,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215504,
       "name": "Discover",
       "url": "https://open.spotify.com/track/6kAkda1mvbIr1J6gE5YMMy"
@@ -1492,7 +1518,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 182727,
       "name": "Fire And Ice - Radio Edit",
       "url": "https://open.spotify.com/track/4tQOschUTYTa8jWH6iFWhd"
@@ -1572,7 +1598,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176659,
       "name": "For You",
       "url": "https://open.spotify.com/track/5VGRWK6AgM3BifNn5WPsXs"
@@ -1744,7 +1770,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 265489,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0RoQmGvoaqrE8pkfB5bQtq"
@@ -2066,7 +2092,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 180761,
       "name": "Hit 'Em",
       "url": "https://open.spotify.com/track/06wgx2IGE8gme8tJpQQtVk"
@@ -2356,7 +2382,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 179635,
       "name": "Keep On Rockin'",
       "url": "https://open.spotify.com/track/03Gu5zrOY4mCq0RSQNELM7"
@@ -2404,7 +2430,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 144016,
       "name": "Kunai",
       "url": "https://open.spotify.com/track/6YNkhnU2trzwKIL7Dgcdlj"
@@ -2546,7 +2572,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 171971,
       "name": "Life In Reverse",
       "url": "https://open.spotify.com/track/0yPFuWtbg4rQfz7aJJe4jF"
@@ -2962,7 +2988,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 190451,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/6AgG8WZqYsJZWb1yZjULE8"
@@ -3038,7 +3064,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 234844,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/6qRZNvECX7DllIpLdlbUk6"
@@ -3100,7 +3126,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 230321,
       "name": "Orange Heart",
       "url": "https://open.spotify.com/track/3fZIBSibgTdC4gaqoXmk8G"
@@ -3122,7 +3148,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Our Church",
       "url": "https://open.spotify.com/track/6jzqY97VGs6UqEhAVOuGRz"
@@ -3522,7 +3548,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201864,
       "name": "Ready to Rave (Bass Modulators Remix)",
       "url": "https://open.spotify.com/track/7xfQpFEwYH6ENl4fuMQqMJ"
@@ -3566,7 +3592,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220235,
       "name": "Remember The Name",
       "url": "https://open.spotify.com/track/4CCphVci1l3uZqoNl0SIZP"
@@ -3724,7 +3750,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 194520,
       "name": "Shady People",
       "url": "https://open.spotify.com/track/21WeEP1WFMO0wIzQRVzVd8"
@@ -3790,7 +3816,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 220903,
       "name": "Show It",
       "url": "https://open.spotify.com/track/349WqcWdoFn8SpuPqabADv"
@@ -4136,7 +4162,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 235322,
       "name": "Strongest Formation",
       "url": "https://open.spotify.com/track/65J9Ruvl07VyCn29etCz5k"
@@ -4356,7 +4382,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 179201,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/0BGDmwplApiVRFvhKlKBOr"
@@ -4378,7 +4404,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 212800,
       "name": "The 9th Gate",
       "url": "https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG"
@@ -4400,7 +4426,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 228285,
       "name": "The Calling (Da Tweekaz Remix)",
       "url": "https://open.spotify.com/track/4aRwjepcGUhXP5MLOncvdT"
@@ -4426,7 +4452,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 263800,
       "name": "The Elite",
       "url": "https://open.spotify.com/track/6RbtosFO5C2pMbPaFeMf9b"
@@ -4448,7 +4474,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Enemy (You Cannot See)",
       "url": "https://open.spotify.com/track/0GAIAbeS07Run8u9BOtT3P"
@@ -4802,7 +4828,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206225,
       "name": "Times Gettin' Hard (JNXD Remix)",
       "url": "https://open.spotify.com/track/1wsh0kiEkZLNTjvFryHAYA"
@@ -4926,7 +4952,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 192000,
       "name": "Twilight Zone - Edit",
       "url": "https://open.spotify.com/track/09BxJMIz6CkunwqTPgpEWV"
@@ -4948,7 +4974,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184800,
       "name": "Two of Us",
       "url": "https://open.spotify.com/track/14f5wrDaYMep8wWSjPo0j3"
@@ -5324,7 +5350,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220772,
       "name": "Whiskey",
       "url": "https://open.spotify.com/track/31mjoUHs9Zdt2Eks0MJNqI"
@@ -5382,7 +5408,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 195200,
       "name": "World Renowned",
       "url": "https://open.spotify.com/track/6LNfKW19l2ETXWiOlguLf7"
@@ -5448,7 +5474,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204514,
       "name": "Young Birds",
       "url": "https://open.spotify.com/track/1PmgovGYAQd1Zmn8npdYbY"

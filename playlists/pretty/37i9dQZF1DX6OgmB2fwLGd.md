@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: yvngxchris
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,468 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,609 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 11 | [bitch im joe biden](https://open.spotify.com/track/14hW7QNB7jEQYQVcdN79Xu) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [bitch im joe biden](https://open.spotify.com/album/1Kqk8PBnJOv7FgfCer68nH) | 1:48 |
 | 12 | [Come Thru \(feat\. Shady Moon & Ciscaux\)](https://open.spotify.com/track/7zjO4Hy7TjwyGTJmOwaYJs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Come Thru \(feat\. Shady Moon & Ciscaux\)](https://open.spotify.com/album/4gZDq5nTla6IdrJlC6ha4R) | 2:28 |
 | 13 | [RICH BOY](https://open.spotify.com/track/56rLW4cKE1A6ckp48OPhQS) | [payton](https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze) | [RICH BOY](https://open.spotify.com/album/05Mxsv56M4jUAVxu4z28pK) | 1:51 |
-| 14 | [Shake](https://open.spotify.com/track/18pZAkoz9eNXd6gpy48RQL) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Aura The Scientist](https://open.spotify.com/artist/6yhVRNHwPXfDwLbm1hourj) | [ISHOWSPEED](https://open.spotify.com/album/0A289AosxAJWEwIS8ILlqQ) | 2:36 |
+| 14 | [Shake](https://open.spotify.com/track/18pZAkoz9eNXd6gpy48RQL) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Aura The Scientist](https://open.spotify.com/artist/4gTlq0DUpq2DYYgTEQeD9O) | [ISHOWSPEED](https://open.spotify.com/album/0A289AosxAJWEwIS8ILlqQ) | 2:36 |
 | 15 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 |
 | 16 | [Want Me](https://open.spotify.com/track/1kWjuuleSkjjdncR75pGcj) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Want Me](https://open.spotify.com/album/48QabKYCn7iLJuZy8oDS8k) | 1:10 |
 | 17 | [Go](https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Go](https://open.spotify.com/album/0fas0oNoInW2Y68mdaW0Gf) | 2:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSp9aN7lDNHp.md) - [plain]
 
 > A selection of the best songs from their albums and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,626 likes - 30 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,648 likes - 30 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

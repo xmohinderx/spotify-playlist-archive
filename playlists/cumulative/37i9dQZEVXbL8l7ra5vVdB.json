@@ -324,7 +324,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 167272,
       "name": "Aomine Daiki",
       "url": "https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193148,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/6WX6YUtobLydEjuvFqVggj"
@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -2335,6 +2353,42 @@
     },
     {
       "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -2444,7 +2498,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 136798,
       "name": "juggernaut (Prod. by PLVSTIC)",
       "url": "https://open.spotify.com/track/57V0VhEg1CAkPXeaCLikNW"
@@ -2692,6 +2746,46 @@
       "duration_ms": 130979,
       "name": "LEMONHEAD (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR"
+    },
+    {
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
       "album": {
@@ -3064,7 +3158,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -3390,6 +3484,28 @@
       "duration_ms": 213080,
       "name": "Moulin Rouge (feat. JABO)",
       "url": "https://open.spotify.com/track/5EOuZpEGPBYMpNY4QJ1Mnh"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "album": {
@@ -4347,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "album": {
         "name": "Scaled And Icy",
         "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
@@ -4398,7 +4532,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 143708,
       "name": "shadowfiend",
       "url": "https://open.spotify.com/track/0xEET0hVtwAEI5iVMWmD5C"
@@ -4616,6 +4750,24 @@
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
       "album": {
@@ -7420,7 +7572,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 133984,
       "name": "\u0414\u043e\u0440\u0430\u0434\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/4mTPviBGRgjPxeaQFnBDW3"
@@ -7714,6 +7866,24 @@
       "duration_ms": 95533,
       "name": "\u0417\u0432\u0435\u0437\u0434\u0430 \u0443\u043f\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/2398GSLbctyjLClJrqskt2"
+    },
+    {
+      "album": {
+        "name": "\u041b\u0443\u0447\u0448\u0438\u0435 \u043f\u0435\u0441\u043d\u0438",
+        "url": "https://open.spotify.com/album/7syIAi9nO83mbXH67Q8kfK"
+      },
+      "artists": [
+        {
+          "name": "Nina Brodskaya",
+          "url": "https://open.spotify.com/artist/0PfdjUGLBBkOb7APG7MLR6"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184536,
+      "name": "\u0417\u0432\u0435\u043d\u0438\u0442 \u044f\u043d\u0432\u0430\u0440\u0441\u043a\u0430\u044f \u0432\u044c\u044e\u0433\u0430",
+      "url": "https://open.spotify.com/track/1NEI55hYR02EGUOffbHob2"
     },
     {
       "album": {
@@ -9651,6 +9821,42 @@
     },
     {
       "album": {
+        "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f",
+        "url": "https://open.spotify.com/album/75uIlTRvw7JjbRYl3tn1Qi"
+      },
+      "artists": [
+        {
+          "name": "Diskoteka Avariya",
+          "url": "https://open.spotify.com/artist/2NL5u7aIFrmuOHbYBYWjun"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311688,
+      "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f",
+      "url": "https://open.spotify.com/track/2CZPJLTtQ8fNps1iOw4xfb"
+    },
+    {
+      "album": {
+        "name": "\u0427\u0438\u0442\u0430 \u0414\u0440\u0438\u0442\u0430",
+        "url": "https://open.spotify.com/album/6bhs5CVBzNK2EcdxgVs3mv"
+      },
+      "artists": [
+        {
+          "name": "Verka Serduchka",
+          "url": "https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143386,
+      "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f",
+      "url": "https://open.spotify.com/track/3e4ksSBSoDqTDOCGDwyMQ8"
+    },
+    {
+      "album": {
         "name": "\u041d\u043e\u043a\u0430\u0443\u0442",
         "url": "https://open.spotify.com/album/0xHuKlQBi0j8DJV6NZXNd3"
       },
@@ -10174,7 +10380,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 116404,
       "name": "\u043f\u043b\u0430\u0447\u044c",
       "url": "https://open.spotify.com/track/3yCKABoZU3FVFuyVBc5VlM"
@@ -10250,7 +10456,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 112682,
       "name": "\u041f\u043e\u0433\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W"
@@ -10940,7 +11146,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 131333,
       "name": "\u0441\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/2mKa6WpSZ97avRyIlPKRK8"
@@ -11603,6 +11809,24 @@
     },
     {
       "album": {
+        "name": "\u0417\u0438\u043c\u043d\u044f\u044f \u043c\u0435\u043b\u043e\u0434\u0438\u044f",
+        "url": "https://open.spotify.com/album/7KBOy9KA1UWRL0xGSF6scX"
+      },
+      "artists": [
+        {
+          "name": "Larisa Dolina",
+          "url": "https://open.spotify.com/artist/3vfSJC5qMqgPTnSkiNKiQu"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140222,
+      "name": "\u0422\u0440\u0438 \u0431\u0435\u043b\u044b\u0445 \u043a\u043e\u043d\u044f",
+      "url": "https://open.spotify.com/track/2Tk3nkjHg82bLnjZPOrtVT"
+    },
+    {
+      "album": {
         "name": "\u041f\u043b\u043e\u0445\u0438\u0435 \u043f\u0440\u0438\u0432\u044b\u0447\u043a\u0438",
         "url": "https://open.spotify.com/album/07XD5SrW52HHGYwAsFmZI5"
       },
@@ -11890,7 +12114,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 192879,
       "name": "\u0424\u0418\u0422\u0418\u041b\u042c",
       "url": "https://open.spotify.com/track/1YADTnjt9bhRYc2Qm6ymDn"
@@ -11926,7 +12150,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 156000,
       "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
       "url": "https://open.spotify.com/track/1ghdJUMhmLEpUitNwyNMWH"

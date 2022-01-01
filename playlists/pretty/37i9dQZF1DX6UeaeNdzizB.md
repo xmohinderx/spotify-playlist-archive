@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UeaeNdzizB.md) - [plain]
 
 > The <a href="spotify:artist:0n94vC3S9c3mb2HyNAOcjg">Seattle group</a>'s essential tracks, all in a single playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,662 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,673 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

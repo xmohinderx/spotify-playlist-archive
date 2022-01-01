@@ -34,7 +34,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 238435,
       "name": "2much",
       "url": "https://open.spotify.com/track/0ShhMU4mTH4zvBnjmHuMmi"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 142626,
       "name": "3000 Miles (Baby Baby)",
       "url": "https://open.spotify.com/track/3Xsmpypmc2DcxQBbmnnrB5"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231807,
       "name": "Are You Even Real?",
       "url": "https://open.spotify.com/track/2k0HXdTDW28JFAaS8TaHeA"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 192459,
       "name": "Cruel World - Jim-E Stack Remix",
       "url": "https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 248883,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/0Nm7Bew0ZXCxXbnv3m7X4t"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 171977,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 188426,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 243560,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/43oLxXiNcylpsTwcyhGkpN"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2QdSGpeLF0ZlAmhsf2lWhv"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 271578,
       "name": "Lucy - Gentle Dom Remix",
       "url": "https://open.spotify.com/track/5N8vDHwjXE8YB7nDKopI90"
@@ -1082,6 +1082,24 @@
       "duration_ms": 128360,
       "name": "Lumbago",
       "url": "https://open.spotify.com/track/3UR9JqoEaQc2qhsMTDgOiz"
+    },
+    {
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
+      },
+      "artists": [
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
     },
     {
       "album": {
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 219340,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 187120,
       "name": "Old Bone",
       "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 336506,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/3MwTZfoEs3bZTqH5FEA61R"
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 181120,
       "name": "Supermodel",
       "url": "https://open.spotify.com/track/5wTVNpi5WDByxBgKgUE6MU"
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 181253,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF"
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 203325,
       "name": "Your World",
       "url": "https://open.spotify.com/track/6HaEWa2XBunQIjtTxcniNn"

@@ -24,7 +24,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 416321,
       "name": "Abalele",
       "url": "https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217777,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 231471,
       "name": "Ameno Amapiano - Remix",
       "url": "https://open.spotify.com/track/3JIWSOzzlJfyf2Y1i54QeX"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 238576,
       "name": "Berna",
       "url": "https://open.spotify.com/track/6UqvKN9wgDiZ25SFAJE3Va"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208758,
       "name": "Cool Me Down (feat. Wizkid)",
       "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 179775,
       "name": "Dumebi",
       "url": "https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 152941,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5ba4KjrBg1k5KYZjYx0UVZ"
@@ -672,6 +672,24 @@
       "duration_ms": 201600,
       "name": "Forever (Remix)",
       "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2019-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187609,
+      "name": "Gbona",
+      "url": "https://open.spotify.com/track/0DrzsBstN5rObzTuX8DSro"
     },
     {
       "album": {
@@ -866,7 +884,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176320,
       "name": "Jeje de Whine",
       "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 262736,
       "name": "Joro",
       "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216428,
       "name": "Kilofese - Remix",
       "url": "https://open.spotify.com/track/56zrSYTUQR8iiFShUQqPRe"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 189795,
       "name": "Nu Riddim",
       "url": "https://open.spotify.com/track/7oqwSF22Sh08PT2eX6o7mE"
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 195789,
       "name": "One Leg Up",
       "url": "https://open.spotify.com/track/23WUYrTGdeVdahNXCUPSwr"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 191976,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 223967,
       "name": "REQUIRE",
       "url": "https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD"
@@ -1423,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "Sound from Africa",
+        "url": "https://open.spotify.com/album/0diuKnu6lrcGqDtHiQQJcU"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2021-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179688,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/6o8QA4uKuvLV3AsSVOqeIj"
+    },
+    {
+      "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
       },
@@ -1452,7 +1492,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -1638,7 +1678,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 214408,
       "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
       "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"

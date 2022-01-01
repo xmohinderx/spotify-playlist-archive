@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "12 AM Shuffle",
       "url": "https://open.spotify.com/track/0xAjCLCwfRUZQe6t2G2Ywe"
@@ -100,6 +100,24 @@
       "duration_ms": 184505,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6t0sQM20nfzukV8mzsFEWe"
+    },
+    {
+      "album": {
+        "name": "Night Bass Freshmen Vol 6",
+        "url": "https://open.spotify.com/album/4HaQp7QwyYbcjz5m4lAFHz"
+      },
+      "artists": [
+        {
+          "name": "Shahay",
+          "url": "https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265320,
+      "name": "Asquerosa",
+      "url": "https://open.spotify.com/track/5eMDSOp94CwdbgduVHApEj"
     },
     {
       "album": {
@@ -176,7 +194,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 198980,
       "name": "Badman",
       "url": "https://open.spotify.com/track/7xrLwvKLrZfzLvoBOdoEUf"
@@ -356,7 +374,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 180850,
       "name": "Beat Like This",
       "url": "https://open.spotify.com/track/6zm3myLdhev6UuL8xOewow"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184687,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 243870,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/0UzGLQkMItEJc1NW3vrwTK"
@@ -958,7 +976,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 234330,
       "name": "Dancerteria",
       "url": "https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 222746,
       "name": "deeper",
       "url": "https://open.spotify.com/track/5Qb1L6fvkn9fLWKlyTvqiJ"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200625,
       "name": "Downstairs (feat. Jaquell) - AC Slater Remix",
       "url": "https://open.spotify.com/track/4mJE8x9qBYJXtsbgCabL4R"
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 220650,
       "name": "Faded",
       "url": "https://open.spotify.com/track/4m2EC8p4YY3pLdmLM6hegJ"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 137255,
       "name": "Famous Last Words",
       "url": "https://open.spotify.com/track/6poUGr8xrWtCxttBIbiS15"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186239,
       "name": "Girls",
       "url": "https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 251811,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/4NnLO3LzdT7vKxY1b6KTdK"
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 175161,
       "name": "Good Dope - SLVR Remix",
       "url": "https://open.spotify.com/track/4vdTMntJIJZsL7Xdf5h6z8"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200476,
       "name": "Hell (Jero Remix)",
       "url": "https://open.spotify.com/track/11GJxCZp15FW0rRxTZvPKq"
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 141796,
       "name": "I'm The Most Wanted",
       "url": "https://open.spotify.com/track/7hwCox7RGu8s1TInDoFwtA"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 170476,
       "name": "Lift",
       "url": "https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz"
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 160081,
       "name": "Light Show",
       "url": "https://open.spotify.com/track/5vCQx3NZg5e54gMgprzYqG"
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 181417,
       "name": "LO*E DR*G",
       "url": "https://open.spotify.com/track/1JfryJlUV7RuCdTOSSVbwN"
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 183701,
       "name": "Love Is Coming Down",
       "url": "https://open.spotify.com/track/48dEIGE6vrPalLnkZH9KXI"
@@ -2196,7 +2214,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "McLovin",
       "url": "https://open.spotify.com/track/1oSSriyVC0PHUNcfkoSMyK"
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Move Like Dolphin",
       "url": "https://open.spotify.com/track/5npvPgwC0AuJlneOgS5Uks"
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200366,
       "name": "Next Level - Habstrakt Remix",
       "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/5odJuVd3QpK7A96wfdf421"
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "Old School",
       "url": "https://open.spotify.com/track/0RzusHyWJSvNh4NRjtOdOb"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 238080,
       "name": "Only Fans Song",
       "url": "https://open.spotify.com/track/2fY70bBq6Bz14N74M6AegY"
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 147031,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/3TKYpVvhTKoKl5vIrX96AD"
@@ -2658,6 +2676,24 @@
       "duration_ms": 184906,
       "name": "Renegade Master (Back Once Again) [Volac Remix]",
       "url": "https://open.spotify.com/track/1cycPybSk3hzUNOGZ7l1Ya"
+    },
+    {
+      "album": {
+        "name": "Thing + Represent",
+        "url": "https://open.spotify.com/album/7cda4GMBkL9VXDmu7n9nda"
+      },
+      "artists": [
+        {
+          "name": "Hotfire",
+          "url": "https://open.spotify.com/artist/1qNnOOSKdsCMmGIxeCdjtm"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Represent",
+      "url": "https://open.spotify.com/track/0m1T6bvHN1TtWJD88cgXLo"
     },
     {
       "album": {
@@ -2746,7 +2782,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 144590,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6fp8ij0afP7qdZHlk7gyco"
@@ -3032,7 +3068,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220645,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/4fA42eD8kLaTFipNqHPy7S"
@@ -3236,7 +3272,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 125714,
       "name": "THICCC",
       "url": "https://open.spotify.com/track/3IacquZeDsE8aSudQ0GwIK"
@@ -3276,7 +3312,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 245760,
       "name": "Trippy - Kage VIP",
       "url": "https://open.spotify.com/track/7Kyy0UW9DFDbLd2dmgqjQR"
@@ -3342,7 +3378,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 161280,
       "name": "Void",
       "url": "https://open.spotify.com/track/0bP2hNFQL5GPRe9p34F13Q"
@@ -3408,7 +3444,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 158735,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/2fkPBzNXh8a8vuJWVqdlxl"

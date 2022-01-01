@@ -60,7 +60,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 259386,
       "name": "Actualize",
       "url": "https://open.spotify.com/track/4V8MJ9W3DfxSWDTpmDXHD5"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 118739,
       "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell - Single",
       "url": "https://open.spotify.com/track/6bGXVgsRSvvDgqcvUDaU38"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 216006,
       "name": "Benny",
       "url": "https://open.spotify.com/track/4xtA92JBIShJB38xpUi54N"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 138791,
       "name": "Beyond The Rift",
       "url": "https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib"
@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "Just Feelin' It",
+        "url": "https://open.spotify.com/album/0h9t713CAy7J1nz3oQeB9y"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318200,
+      "name": "Coming Right At ya",
+      "url": "https://open.spotify.com/track/0sMFKh1kcox1e2oZ0sHMG6"
+    },
+    {
+      "album": {
         "name": "Transformation",
         "url": "https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS"
       },
@@ -310,7 +328,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 385533,
       "name": "Cosmic Joke",
       "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
@@ -346,7 +364,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 146306,
       "name": "Countdown",
       "url": "https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 380373,
       "name": "Groovin' High",
       "url": "https://open.spotify.com/track/3Ct7wdx4Ht0c7ck0OeY5ub"
@@ -680,7 +698,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 309839,
       "name": "Just Letting Go",
       "url": "https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 240339,
       "name": "Love on the Run",
       "url": "https://open.spotify.com/track/5qxN363wsERfecdjGiReyy"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 317346,
       "name": "Me & My Bass Guitar",
       "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
@@ -888,7 +906,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200803,
       "name": "Nona Manis",
       "url": "https://open.spotify.com/track/21YTXtdSYjHoPpQYlw8iCB"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 154361,
       "name": "Off The Cuff",
       "url": "https://open.spotify.com/track/6aGE12dPzbEVEL47yb3F5d"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 179350,
       "name": "Pra Chanel",
       "url": "https://open.spotify.com/track/4Yr0b24l0NiM3jeUaBx4SG"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 240933,
       "name": "Soldier of the Groove",
       "url": "https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 212441,
       "name": "The Rugged Truth",
       "url": "https://open.spotify.com/track/5tbu6qMdDcnfTSTy7tLeuB"
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258312,
       "name": "Trust and Faith",
       "url": "https://open.spotify.com/track/2fooyGgpvP6IfAmueqdEBP"
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 264000,
       "name": "Twilight - Radio Edit",
       "url": "https://open.spotify.com/track/5cKoSv9uuKyRYb1rWa665T"

@@ -314,7 +314,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 219618,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
       "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 208120,
       "name": "Drive Out - The Attik Radio Edit",
       "url": "https://open.spotify.com/track/607x2jQgIQdhqGgYAah8OL"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 224693,
       "name": "Harder, Better, Faster, Stronger",
       "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 237386,
       "name": "Move For Me",
       "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Best of Alter Ego",
+        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "date_added": "2020-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
+    },
+    {
+      "album": {
         "name": "Hypnotica",
         "url": "https://open.spotify.com/album/2467y5gcxljWnMqbYwWxwu"
       },
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 357160,
       "name": "Summerfish - Scandall Sunset On Ibiza Instrumental",
       "url": "https://open.spotify.com/track/2rVoUSkbUS0dbKrHkZN2mi"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 453146,
       "name": "Sweet Misery",
       "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 365080,
       "name": "Swoon",
       "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189066,
       "name": "Tracking Treasure Down",
       "url": "https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U"
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 447080,
       "name": "Walking On Clouds",
       "url": "https://open.spotify.com/track/5Dx4wEpUGIdoSPNYoLVrmr"

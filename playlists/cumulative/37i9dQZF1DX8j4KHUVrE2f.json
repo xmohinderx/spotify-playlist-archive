@@ -196,7 +196,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 236106,
       "name": "Footprints in the Sand - Single Mix",
       "url": "https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 257306,
       "name": "If You're Not The One",
       "url": "https://open.spotify.com/track/7HhKuJbtiNbZsEDLNQvOnH"
@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Songs For You, Truths For Me",
+        "url": "https://open.spotify.com/album/2MYk6HYLJZAPo9h4yDmnvr"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234266,
+      "name": "Please Don't Stop The Rain",
+      "url": "https://open.spotify.com/track/6JPrLaK42BWulhkxmz6IFO"
+    },
+    {
+      "album": {
         "name": "Popstars",
         "url": "https://open.spotify.com/album/3RhyUw9EciePIQ8hapCIC5"
       },
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 259186,
       "name": "Queen of My Heart - Radio Edit",
       "url": "https://open.spotify.com/track/3LaOU1rxGZFPRC4I602Z3O"
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 314720,
       "name": "Run",
       "url": "https://open.spotify.com/track/4hrAKlxfblnG7llBEEX7TR"
@@ -1310,6 +1328,24 @@
       "duration_ms": 186440,
       "name": "Tears Dry On Their Own",
       "url": "https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227741,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/235LXPXfi0SmOaS9TaCh3c"
     },
     {
       "album": {
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222120,
       "name": "There You'll Be",
       "url": "https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq"
@@ -1454,7 +1490,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184413,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/4oKmnf4t9z2uEw0jN1GJ0z"
@@ -1512,6 +1548,24 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5j82yGNCjpk6R50LgR4hHG"
     },
     {
       "album": {

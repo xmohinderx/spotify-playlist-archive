@@ -186,7 +186,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 290386,
       "name": "Amor Narcotico",
       "url": "https://open.spotify.com/track/1UqyF5I7vz3gfk0Zc4L4HU"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 191960,
       "name": "Amor Sensible",
       "url": "https://open.spotify.com/track/4ERDIJmue9ZZY4nOdNZ7KR"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Azul (with Rodrigo Amarante)",
       "url": "https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH"
@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Como Ayer",
+        "url": "https://open.spotify.com/album/3rebn49jHNlKMocuvNGfLU"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218035,
+      "name": "Como Ayer",
+      "url": "https://open.spotify.com/track/4AiQjcvho0c3wc2TuDzy2F"
+    },
+    {
+      "album": {
         "name": "Conc\u00e9ntrica Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
       },
@@ -726,6 +744,24 @@
       "duration_ms": 162297,
       "name": "Conc\u00e9ntrica Canci\u00f3n",
       "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Amargo",
+        "url": "https://open.spotify.com/album/5RWkXdB3ezOthhANfmy2xh"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187013,
+      "name": "Coraz\u00f3n Amargo",
+      "url": "https://open.spotify.com/track/2JazgzpNBZj0d7bANPnX6W"
     },
     {
       "album": {
@@ -878,6 +914,28 @@
       "duration_ms": 230400,
       "name": "D\u00e9jame Pasar",
       "url": "https://open.spotify.com/track/5wZvk9ItEFxpTQpEXljqSm"
+    },
+    {
+      "album": {
+        "name": "El Solitario Amor",
+        "url": "https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO"
+      },
+      "artists": [
+        {
+          "name": "Adan Jodorowsky",
+          "url": "https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag"
+        },
+        {
+          "name": "The French Kiss",
+          "url": "https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175786,
+      "name": "El Solitario Amor",
+      "url": "https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo"
     },
     {
       "album": {
@@ -1326,7 +1384,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 203059,
       "name": "H\u00e1blame",
       "url": "https://open.spotify.com/track/1E64llQs6OpxOCkUDE7yp9"
@@ -1456,7 +1514,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 124685,
       "name": "La Creatividad",
       "url": "https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8"
@@ -1752,7 +1810,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 264933,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3Y6MLd4wP8h4LlFlZTTxjO"
@@ -1920,7 +1978,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 203679,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/67lKJlELZYh8ouJkp6keaf"
@@ -1938,7 +1996,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217761,
       "name": "No Me Gustan los Grises",
       "url": "https://open.spotify.com/track/7nwDOqPRUqHqlIwXpgRIIx"
@@ -2436,7 +2494,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "Pell\u00edzquenme",
       "url": "https://open.spotify.com/track/0VYWDJokuyS8K354XdaBuq"
@@ -2614,7 +2672,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 140975,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4UgxaVgMFnoZfAkoDqLwjE"
@@ -2782,7 +2840,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189654,
       "name": "Siempre Cerca - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK"
@@ -2952,7 +3010,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 192267,
       "name": "Te Quiero y Nada M\u00e1s",
       "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
@@ -3210,6 +3268,24 @@
       "duration_ms": 243253,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd"
+    },
+    {
+      "album": {
+        "name": "Vernos Crecer",
+        "url": "https://open.spotify.com/album/7MwSQE8GJj5snfBoZf6vLY"
+      },
+      "artists": [
+        {
+          "name": "Andrea Cruz",
+          "url": "https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175445,
+      "name": "Vernos Crecer",
+      "url": "https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7"
     },
     {
       "album": {

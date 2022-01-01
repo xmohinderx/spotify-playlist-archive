@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 362280,
       "name": "Cono",
       "url": "https://open.spotify.com/track/3Qx1zzq02YSVa1UMzApnQx"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 514200,
       "name": "Deri",
       "url": "https://open.spotify.com/track/1PXSEtSOVpFV1znyEWeoXz"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 462160,
       "name": "Gaffou",
       "url": "https://open.spotify.com/track/3j1VHaFQzIf84NqQxWQTHD"
@@ -328,6 +328,32 @@
       "duration_ms": 115923,
       "name": "Intro Mansa",
       "url": "https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT"
+    },
+    {
+      "album": {
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285619,
+      "name": "Itarafo",
+      "url": "https://open.spotify.com/track/1OgQX533cNtEUObx36QkUq"
     },
     {
       "album": {
@@ -454,7 +480,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 300482,
       "name": "Lerou Lerou",
       "url": "https://open.spotify.com/track/1VoXMjBDi4O1Z32zD69jUn"
@@ -834,7 +860,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 304944,
       "name": "Syrie",
       "url": "https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI"
@@ -888,7 +914,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 330240,
       "name": "Tono",
       "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
@@ -942,7 +968,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 285866,
       "name": "Wamba",
       "url": "https://open.spotify.com/track/4Mr2YyX1Sk0vSJlOwOoQ5J"
@@ -978,7 +1004,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 294620,
       "name": "Were Were",
       "url": "https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf"

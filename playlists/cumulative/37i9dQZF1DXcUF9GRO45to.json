@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 259386,
       "name": "A Glorious Time",
       "url": "https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 162039,
       "name": "Ai tant Montat",
       "url": "https://open.spotify.com/track/2tGrjlZ3zkEdr1JQVSl6Xf"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 232980,
       "name": "Animal",
       "url": "https://open.spotify.com/track/25hddSvMOSUdibBDdAFfev"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 257226,
       "name": "Asobi",
       "url": "https://open.spotify.com/track/28trZ8QrOP4Hudaw8jAcFv"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 212016,
       "name": "Chevalier Bulltoe",
       "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 294594,
       "name": "Cold Crusader",
       "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 243520,
       "name": "Death Sound",
       "url": "https://open.spotify.com/track/0BFNt26WzWcIkVyn6yPPD5"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 269120,
       "name": "Don't Follow Me",
       "url": "https://open.spotify.com/track/5Xbwp8PT55iYMkoECvE3BQ"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 182008,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
@@ -754,10 +754,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185218,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu"
+    },
+    {
+      "album": {
+        "name": "Hush Hush",
+        "url": "https://open.spotify.com/album/6RQuIKP2oBM5w9DDbkBUsw"
+      },
+      "artists": [
+        {
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176961,
+      "name": "Hush Hush",
+      "url": "https://open.spotify.com/track/3L2r7s8P53jfpoVa1fjtNb"
     },
     {
       "album": {
@@ -790,7 +808,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 283440,
       "name": "I See You Dead",
       "url": "https://open.spotify.com/track/4DAlJFTyn1MpQtfy7L5Ikx"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 234733,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/49Mg47fyRNRHP1pt8EIw9B"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 164068,
       "name": "It's About Time !",
       "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
@@ -916,10 +934,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 180614,
       "name": "Joy",
       "url": "https://open.spotify.com/track/6q3L0PXHNHM2wLRkpxINmH"
+    },
+    {
+      "album": {
+        "name": "Healing Is Not Linear",
+        "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
+      },
+      "artists": [
+        {
+          "name": "COLISION",
+          "url": "https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188440,
+      "name": "Knees",
+      "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
     },
     {
       "album": {
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 322119,
       "name": "Lust of the Dead",
       "url": "https://open.spotify.com/track/5TE5sZsPuChH5PzVNJ0aBR"
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176378,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/0GK8EEqEtmkWk3l0oktBgH"
@@ -1067,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum"
+      },
+      "artists": [
+        {
+          "name": "MSS FRNCE",
+          "url": "https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107456,
+      "name": "Pas la peine",
+      "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/1UsNAHV9iXUpZtfKQVM8bQ"
       },
@@ -1078,7 +1132,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 245653,
       "name": "Passing On",
       "url": "https://open.spotify.com/track/77RdXeklfjztw82RQxDYl4"
@@ -1150,7 +1204,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 291506,
       "name": "Quicklime",
       "url": "https://open.spotify.com/track/3BpT0RYpDTBvMLoIXa3udo"
@@ -1168,7 +1222,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 278801,
       "name": "R.I.P. in Peace",
       "url": "https://open.spotify.com/track/238vQOEsppkBCz57hy3mag"
@@ -1222,7 +1276,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 132061,
       "name": "Sane! Sane! Sane!",
       "url": "https://open.spotify.com/track/3g3kipiNq024hxd67t8Bmp"
@@ -1258,7 +1312,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206666,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3x2A78JLm8M8YGVFchcBSX"
@@ -1348,7 +1402,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205386,
       "name": "Sink",
       "url": "https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN"
@@ -1384,7 +1438,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 202719,
       "name": "Sometimes I Wanna Fight",
       "url": "https://open.spotify.com/track/55u6h5OS21Z7Zm0saxjpt4"
@@ -1564,7 +1618,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 209893,
       "name": "The Midnight Son",
       "url": "https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j"
@@ -1582,7 +1636,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 210315,
       "name": "The Shining of My Soul",
       "url": "https://open.spotify.com/track/6smtkTLehhZSseuFldnIRI"
@@ -1600,7 +1654,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 241812,
       "name": "Tree",
       "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
@@ -1622,7 +1676,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 323054,
       "name": "Two Rocks in a Whiskey",
       "url": "https://open.spotify.com/track/1SNc84gk62C61df7PoPTh0"
@@ -1683,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Wandering Life",
+        "url": "https://open.spotify.com/album/7dDOXyyR3MgSkqoZkW4MdV"
+      },
+      "artists": [
+        {
+          "name": "FUZETA",
+          "url": "https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212386,
+      "name": "Wandering Life",
+      "url": "https://open.spotify.com/track/1yAzT7gBa4nAn8SeUrwj3E"
+    },
+    {
+      "album": {
         "name": "What?",
         "url": "https://open.spotify.com/album/7Fz8X0lwUiiykWBsYooK0S"
       },
@@ -1694,7 +1766,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193481,
       "name": "What?",
       "url": "https://open.spotify.com/track/2nrolTBT7lRPdaFnfWxaKr"

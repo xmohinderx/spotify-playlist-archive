@@ -1,13 +1,57 @@
 {
   "description": "Immerse yourself in the brilliant sounds of Latin composers.",
   "name": "Top Latin Classical",
-  "num_followers": 23956,
+  "num_followers": 23958,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTAyNjMyMywwMDAwMDAwMGZhY2Y4YzdhNTY2YjMxMWFhN2IzNjU2MGJkOGYyMWIz",
+  "snapshot_id": "MTY0MTA3Mzk1MCwwMDAwMDAwMDUzODkyZjRhMmI5NTdjMDVmMThkNjc3M2JlMjdmN2Zl",
   "tracks": [
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Strauss Ii / Lehar / Tchaikovsky: Great Waltzes",
+        "url": "https://open.spotify.com/album/7hxbpxfpcs7oOwtOVuIUUw"
+      },
+      "artists": [
+        {
+          "name": "Juventino Rosas",
+          "url": "https://open.spotify.com/artist/07KnR00fN51QEaiiSKPMWt"
+        },
+        {
+          "name": "Mexico Festival Orchestra",
+          "url": "https://open.spotify.com/artist/0so2HSARafP9LUAZjUty7W"
+        },
+        {
+          "name": "Enrique B\u00e1tiz",
+          "url": "https://open.spotify.com/artist/1kOXPgXfJGjqSP90RndDly"
+        }
+      ],
+      "duration_ms": 375053,
+      "name": "Sobre las olas (Over the Waves)",
+      "url": "https://open.spotify.com/track/1LbVVxXczoJUiTBNAEov4C"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Sonidos Latinos",
+        "url": "https://open.spotify.com/album/0zsYRUl4gqxe6vggFXsk9h"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "David Russell",
+          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/2yw3zRz46K4FE9lZf3tfwb"
+    },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
@@ -27,78 +71,6 @@
       "duration_ms": 159186,
       "name": "Danza Brasilera",
       "url": "https://open.spotify.com/track/35yuAaaJb2EMgSSD5Q8ou6"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "M\u00fasica Cl\u00e1sica Esencial: M\u00e9xico",
-        "url": "https://open.spotify.com/album/73lmdNb6kgWbzZeX91UZeP"
-      },
-      "artists": [
-        {
-          "name": "Arturo M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        }
-      ],
-      "duration_ms": 290360,
-      "name": "Conga del Fuego",
-      "url": "https://open.spotify.com/track/7f9rdRLCsj6Yx7L0WMilPD"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Orbon, J.: 3 Versiones Sinfonicas / Villa-Lobos, H.: Bachianas Brasileiras No. 2 / Estevez, A.: Mediodia En El Llano",
-        "url": "https://open.spotify.com/album/0dgUU1N5iMoG0LFs25KUXC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/5gspFvrY66nnLgn1mt3wgN"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Eduardo Mata",
-          "url": "https://open.spotify.com/artist/7i9jFBWRCyfitbli34TKlt"
-        }
-      ],
-      "duration_ms": 733440,
-      "name": "Sinfonia india, \"Symphony No. 2\"",
-      "url": "https://open.spotify.com/track/1llnYCpqmQ6kiIa4K06Mwo"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Cabez\u00f3n: Obras de Musica",
-        "url": "https://open.spotify.com/album/0rxk7sCNWmNm3XApClzf7h"
-      },
-      "artists": [
-        {
-          "name": "Antonio de Cabez\u00f3n",
-          "url": "https://open.spotify.com/artist/00bJkDOSYA3OSGQlmjGCel"
-        },
-        {
-          "name": "Doulce M\u00e9moire",
-          "url": "https://open.spotify.com/artist/5oZ5F91lmyZ7D3hwbcqWZP"
-        },
-        {
-          "name": "Denis Raisin-Dadre",
-          "url": "https://open.spotify.com/artist/15cMhiB1Z0j9gG2Bu1qoJd"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "Diferencias Sobre el Canto de \"La Dama le Demanda\"",
-      "url": "https://open.spotify.com/track/2BIpt0QmVZkaUINTKFdZ4P"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -143,94 +115,46 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Brasileiro - Villa-Lobos & Friends",
-        "url": "https://open.spotify.com/album/2j4PtL0cg2lBWJC1RIyzSM"
+        "name": "M\u00fasica Cl\u00e1sica Esencial: M\u00e9xico",
+        "url": "https://open.spotify.com/album/73lmdNb6kgWbzZeX91UZeP"
       },
       "artists": [
         {
-          "name": "Heitor Villa-Lobos",
-          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+          "name": "Arturo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
         },
         {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
         }
       ],
-      "duration_ms": 174453,
-      "name": "Saudades das Selvas Brasilieras No. 2",
-      "url": "https://open.spotify.com/track/0VqwXKb0LvJ2lIm7MdY5Ua"
+      "duration_ms": 290360,
+      "name": "Conga del Fuego",
+      "url": "https://open.spotify.com/track/7f9rdRLCsj6Yx7L0WMilPD"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Can\u00e7ons i Danses Catalanes",
-        "url": "https://open.spotify.com/album/0XogdNJSzYejzvVE21WuZn"
+        "name": "Sones y Danzones de Buena Madera",
+        "url": "https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00"
       },
       "artists": [
         {
-          "name": "Miguel Llobet Sol\u00e9s",
-          "url": "https://open.spotify.com/artist/0Ag2rHCb9q0jmQ6Jaj1GUT"
+          "name": "Enrico Chapela",
+          "url": "https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K"
         },
         {
-          "name": "Franz Hal\u00e1sz",
-          "url": "https://open.spotify.com/artist/6u7TanQ3Tv1dx5RmaERfdV"
+          "name": "Cuarteto de Guitarras de la Ciudad de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV"
         }
       ],
-      "duration_ms": 96946,
-      "name": "Can\u00e7ons Populars: Can\u00e7ons Populars: El Testament d'Am\u00e8lia",
-      "url": "https://open.spotify.com/track/07LWnpMdekmEjaipVc0PV7"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "My Mexican Soul",
-        "url": "https://open.spotify.com/album/3NHax8WLDhWVnxp9XePSSj"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Pablo Moncayo",
-          "url": "https://open.spotify.com/artist/2QoJFCfERDHF3Pz4v1gLKp"
-        },
-        {
-          "name": "Alondra de la Parra",
-          "url": "https://open.spotify.com/artist/1WsQ6agpH5ybgaryTl3gyP"
-        },
-        {
-          "name": "Philharmonic Orchestra of the Americas",
-          "url": "https://open.spotify.com/artist/7FvTNyhhmleBNu8ycK1XTN"
-        }
-      ],
-      "duration_ms": 498360,
-      "name": "Huapango (1941)",
-      "url": "https://open.spotify.com/track/2eCnXbag0z8mKcWjc4GmVs"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Piazzolla et al : Mi Buenos Aires querido",
-        "url": "https://open.spotify.com/album/1O7WR5Ucg8yP3UnO9h4A3a"
-      },
-      "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        },
-        {
-          "name": "Rodolfo Mederos",
-          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
-        },
-        {
-          "name": "H\u00e9ctor Console",
-          "url": "https://open.spotify.com/artist/1WhJevvVMI2nQxyp2gYQTU"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Piazzolla: Estaci\u00f3nes porte\u00f1as: I. Verano Porte\u00f1o",
-      "url": "https://open.spotify.com/track/2Rng45EgVYKORVBUHDN51E"
+      "duration_ms": 370773,
+      "name": "Dan-Son",
+      "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -267,138 +191,130 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Padre Soler : Piano Sonatas",
-        "url": "https://open.spotify.com/album/0FPqP9RrVEhSok2ioKNthc"
+        "name": "Andr\u00e9s Segovia - The Art of Segovia",
+        "url": "https://open.spotify.com/album/2bhGWXqi8O70lawyh66yQT"
       },
       "artists": [
         {
-          "name": "Antonio Soler",
-          "url": "https://open.spotify.com/artist/5kUi36wXiRNh6Ib7DnIy4f"
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
         },
         {
-          "name": "Luis Fernando P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2MDkMAXgLEGJFogdR000Au"
+          "name": "Andr\u00e9s Segovia",
+          "url": "https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97"
         }
       ],
-      "duration_ms": 171453,
-      "name": "Sonata No. 84 in D Major, R;413",
-      "url": "https://open.spotify.com/track/5FUSvbQgDfugFP9rfO0EuH"
+      "duration_ms": 316440,
+      "name": "Recuerdos de la Alhambra",
+      "url": "https://open.spotify.com/track/0m1nzO14qaVyxmPjnX1fot"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Latin American Classics",
-        "url": "https://open.spotify.com/album/6Cj5av6vICqmIlxSdQByBi"
+        "name": "Brasileira: Piano Music by Brazilian Women",
+        "url": "https://open.spotify.com/album/3TIRZQoyWBzft19az195vq"
       },
       "artists": [
         {
-          "name": "Blas Galindo",
-          "url": "https://open.spotify.com/artist/57Mh9v8RT3E9oksab5DnO1"
+          "name": "Chiquinha Gonzaga",
+          "url": "https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX"
         },
         {
-          "name": "Mexico Festival Orchestra",
-          "url": "https://open.spotify.com/artist/0so2HSARafP9LUAZjUty7W"
-        },
-        {
-          "name": "Enrique B\u00e1tiz",
-          "url": "https://open.spotify.com/artist/1kOXPgXfJGjqSP90RndDly"
+          "name": "Luciana Soares",
+          "url": "https://open.spotify.com/artist/3AropKCRrGYNAarxwUMQNv"
         }
       ],
-      "duration_ms": 422066,
-      "name": "Sones de Mariachi",
-      "url": "https://open.spotify.com/track/14ussuaqe2rcAH7CcaT429"
+      "duration_ms": 132586,
+      "name": "Corta-Jaca",
+      "url": "https://open.spotify.com/track/4FWgDfDjjPKVU0dt30svfP"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Sonidos Latinos",
-        "url": "https://open.spotify.com/album/0zsYRUl4gqxe6vggFXsk9h"
+        "name": "Discoveries",
+        "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
       },
       "artists": [
         {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+          "name": "Arturo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
         },
         {
-          "name": "David Russell",
-          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/2yw3zRz46K4FE9lZf3tfwb"
+      "duration_ms": 582693,
+      "name": "Danz\u00f3n No. 2 - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
+      "url": "https://open.spotify.com/track/27LJbpGMwAIbVKaM2CRzdH"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Missa Criolla / Misa Luba / Missa Flamenca",
-        "url": "https://open.spotify.com/album/1NPftBkyWnGQfsAdcgCe2t"
+        "name": "Guitar Duet Recital: Rost, Monika / Rost, Jurgen \u2013 Sor, F. / Granados, E. / Albeniz, I. / Moreno Torroba, F. / Tarrega, F. / Ruiz-Pipo, A.",
+        "url": "https://open.spotify.com/album/08iBzJ4mxXvxOIKSzabMMi"
       },
       "artists": [
         {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+          "name": "Antonio Ruiz Pip\u00f3",
+          "url": "https://open.spotify.com/artist/5bVI5nXGQv5M3t4wDTvgai"
         },
         {
-          "name": "Jos\u00e9 Carreras",
-          "url": "https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15"
-        },
-        {
-          "name": "Arsenio Zambrano",
-          "url": "https://open.spotify.com/artist/5eLTuA84xZSX9HE7vsHyRl"
-        },
-        {
-          "name": "Domingo Cura",
-          "url": "https://open.spotify.com/artist/0PyBsZlcv8KxT5BsBFnmwG"
-        },
-        {
-          "name": "Jorge Padin",
-          "url": "https://open.spotify.com/artist/41qMRUWcVRpCTn3QPT1xk2"
-        },
-        {
-          "name": "Coral Salv\u00e9 de Laredo",
-          "url": "https://open.spotify.com/artist/3WVfLZkLr3o43nZ8GCgPTJ"
-        },
-        {
-          "name": "Sociedad Coral de Bilbao",
-          "url": "https://open.spotify.com/artist/1bGOmRwCCaWFNuWAmikCKd"
-        },
-        {
-          "name": "Jos\u00e9 Luis Ocejo",
-          "url": "https://open.spotify.com/artist/7BLX0PIcSZ7kL4KAVtDdXT"
-        },
-        {
-          "name": "Grupo Huancara",
-          "url": "https://open.spotify.com/artist/3ZAUCBR6oHii8CNJmO9bcb"
+          "name": "Jurgen Rost",
+          "url": "https://open.spotify.com/artist/3wB2sKN37cbPIh34S80KDQ"
         }
       ],
-      "duration_ms": 419000,
-      "name": "Misa Criolla: 2. Gloria (carnavalito-yarav\u00ed)",
-      "url": "https://open.spotify.com/track/76vva6m7qajQ039LW8u6Zv"
+      "duration_ms": 105106,
+      "name": "Chansons et danses: Danse",
+      "url": "https://open.spotify.com/track/1JrN1mcbV2dbBj9VQ8hMvq"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
-        "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
+        "name": "Caramelos Latinos",
+        "url": "https://open.spotify.com/album/7tk2T9GKnOr8W13A6Rsph7"
       },
       "artists": [
         {
-          "name": "Higinio Ruvalcaba",
-          "url": "https://open.spotify.com/artist/53QO9LxlP3crMgCjjQY5KB"
+          "name": "Camargo Guarnieri",
+          "url": "https://open.spotify.com/artist/0tYgOV6W1HbAeiSQJdiPO4"
         },
         {
-          "name": "Anabel Medrano",
-          "url": "https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR"
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
         },
         {
-          "name": "Ensamble Centenario",
-          "url": "https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto"
+          "name": "Maximiano Valdes",
+          "url": "https://open.spotify.com/artist/5wb064Qxd9rVhirUTLXex7"
         }
       ],
-      "duration_ms": 186066,
-      "name": "Chapultepec",
-      "url": "https://open.spotify.com/track/5akvXn1opgfn3sepBUFEyd"
+      "duration_ms": 138493,
+      "name": "Dansa brasileira",
+      "url": "https://open.spotify.com/track/6BSefJ7BVtgKwxtSE5rXHy"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Ginastera: Complete String Quartets",
+        "url": "https://open.spotify.com/album/5lEC4khYOafrBOMLuRCwwz"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Cuarteto Latinoamericano",
+          "url": "https://open.spotify.com/artist/3zZfi0cvqvHHJZILFiYZdv"
+        }
+      ],
+      "duration_ms": 326520,
+      "name": "String Quartet No. 2, Op. 26: I. Allegro rustico",
+      "url": "https://open.spotify.com/track/66wZgRWCSkw18kdOWzc8FV"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -423,46 +339,166 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Musica Mexicana Vol. 3: Halffter, Moncayo, Ponce, Revueltas",
-        "url": "https://open.spotify.com/album/4mPaMaGnZagPJqV60LwxmZ"
+        "name": "Carlos Guastavino: Melodias Argentinas",
+        "url": "https://open.spotify.com/album/1AH1QP1VSX7V4mLbmvfP2n"
       },
       "artists": [
         {
-          "name": "Rodolfo Halffter",
-          "url": "https://open.spotify.com/artist/4WlEV1n4F8X6urlgAavynV"
+          "name": "Carlos Guastavino",
+          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
         },
         {
-          "name": "Henryk Szeryng",
-          "url": "https://open.spotify.com/artist/1QoKB19XVwnNwlKDjyYYe8"
+          "name": "Marcela Roggeri",
+          "url": "https://open.spotify.com/artist/7eHNjAADUow33FO8ZXTnja"
         },
         {
-          "name": "Alfonso Moreno",
-          "url": "https://open.spotify.com/artist/6FSkPN6FmM8nCu7rniFHMS"
-        },
-        {
-          "name": "Enrique B\u00e1tiz",
-          "url": "https://open.spotify.com/artist/1kOXPgXfJGjqSP90RndDly"
+          "name": "Florent H\u00e9au",
+          "url": "https://open.spotify.com/artist/3TIlkDLL5iVkwYjKo5KUQZ"
         }
       ],
-      "duration_ms": 340293,
-      "name": "Violin Concerto Op.11: 3rd movement: Allegro vivace",
-      "url": "https://open.spotify.com/track/5Nk0dSovEOwcmonzZX9lQ3"
+      "duration_ms": 107213,
+      "name": "Encantamiento (Seis Canciones de Cuna)",
+      "url": "https://open.spotify.com/track/0uFjSoOR9qGHfuS5Q1GFai"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "M\u00e1s De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3SmxMoLAhe29pR4LNsVkcA"
+        "name": "Francisco Mignone - Piano Music",
+        "url": "https://open.spotify.com/album/3IANUezSoVobkjrCTwyxtA"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Clelia Iruzun",
+          "url": "https://open.spotify.com/artist/2DI5xad8sDfLriaSRzIDEA"
         }
       ],
-      "duration_ms": 284586,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/16OJaSoHprYI0EDgnNl3Dj"
+      "duration_ms": 77680,
+      "name": "Valsa-Choro no.11",
+      "url": "https://open.spotify.com/track/6qgLzpvEA5STcmJIbg4FVO"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Orbon: Symphonic Dances",
+        "url": "https://open.spotify.com/album/1AvSdNsFxGMS4aCEjyJzhS"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Orb\u00f3n",
+          "url": "https://open.spotify.com/artist/0Ry6CUEMeK7lj5Lg7BR7fi"
+        },
+        {
+          "name": "Hector Corpus Aguilar",
+          "url": "https://open.spotify.com/artist/3ZzhhrKDF866cI6nSMWAPu"
+        },
+        {
+          "name": "Alexandre Vassiliev",
+          "url": "https://open.spotify.com/artist/00DJdj4IhfDTYG2HQNqX01"
+        },
+        {
+          "name": "Oleg Lev",
+          "url": "https://open.spotify.com/artist/1OeZZUvF9IvzDNVPNoV4GK"
+        },
+        {
+          "name": "Vladimir Atapin",
+          "url": "https://open.spotify.com/artist/7pQFWllULz17xX3Ps7mm0t"
+        },
+        {
+          "name": "Asturias Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0AdDRD8CDdUoMbGZJTOAYU"
+        },
+        {
+          "name": "Maximiano Valdes",
+          "url": "https://open.spotify.com/artist/5wb064Qxd9rVhirUTLXex7"
+        }
+      ],
+      "duration_ms": 548893,
+      "name": "Concerto grosso: Moderato",
+      "url": "https://open.spotify.com/track/2lyarNPUaTgermoisCuAcn"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Estancia / Danzas del Ballet: 1. Las tradbajadores agr\u00edcolas - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
+      "url": "https://open.spotify.com/track/0SgQK6JWAWJ205yQauy9xe"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Paulic\u00e9ia - Obras para trompete solo",
+        "url": "https://open.spotify.com/album/1KceLB07MqcIjyQAJzNRMn"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Lacerda",
+          "url": "https://open.spotify.com/artist/5SyC88smBCwXHqsvYpWglQ"
+        },
+        {
+          "name": "Paulo Ronqui",
+          "url": "https://open.spotify.com/artist/3I2bJOdJGnySdCT2H9GpeD"
+        }
+      ],
+      "duration_ms": 441733,
+      "name": "Invoca\u00e7\u00e3o e ponto",
+      "url": "https://open.spotify.com/track/5hDU03yD35Za2u3ZPJvj6G"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Trigos: Clarinet Concerto, Concerto for Four Guitars and Danza Concertante",
+        "url": "https://open.spotify.com/album/4umR75hNtZtHH41VZftdsg"
+      },
+      "artists": [
+        {
+          "name": "Juan Trigos",
+          "url": "https://open.spotify.com/artist/1tqHIDp1iosh8g3WWuRr63"
+        },
+        {
+          "name": "Dieter Hennings Yeomans",
+          "url": "https://open.spotify.com/artist/1AnORztwF4tsnBGBouZ11E"
+        },
+        {
+          "name": "gonzalo salazar",
+          "url": "https://open.spotify.com/artist/62lUL5mciksm0wGBT2WydA"
+        },
+        {
+          "name": "Leopoldo Saracino",
+          "url": "https://open.spotify.com/artist/6FkzWuweX8f3sliNvZZ4mJ"
+        },
+        {
+          "name": "Emanuele Segre",
+          "url": "https://open.spotify.com/artist/0QcruZVtj2UvqCDz46a9JO"
+        },
+        {
+          "name": "Orchestra Sinfonica Tito Schipa",
+          "url": "https://open.spotify.com/artist/5XYxEKhlyQwRycsAuGglKf"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Concerto for 4 Guitars & Orchestra: VI. \u2014",
+      "url": "https://open.spotify.com/track/1XHQR0vbEu0Ntk37xPJh3A"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -499,346 +535,82 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Juan Orrego-Salas: Obertura Festiva, Op. 21 - Dimitri Shostakovich: Symphony No. 5 in D minor, Op. 47",
-        "url": "https://open.spotify.com/album/2E5Ocsp6VCGjElL63v7isK"
+        "name": "Irma Urteaga, Vol. 2: Sue\u00f1os de Yerma y Otras Obras de C\u00e1mara",
+        "url": "https://open.spotify.com/album/77vaaSzUw9TFw7mRG5u9CB"
       },
       "artists": [
         {
-          "name": "Juan Orrego-Salas",
-          "url": "https://open.spotify.com/artist/2phuw4FWYCLD3SN2BHpHxK"
+          "name": "Irma Urteaga",
+          "url": "https://open.spotify.com/artist/3lukHq55Q6zWOQkOL5lrtS"
         },
         {
-          "name": "Carlos Miguel Prieto",
-          "url": "https://open.spotify.com/artist/2CB2wXFPjoehJON13esAaV"
-        },
-        {
-          "name": "YOA Orchestra of the Americas",
-          "url": "https://open.spotify.com/artist/4y02klgX1yjG9HJAl7QGlx"
+          "name": "Cuarteto Koh-I-Noor",
+          "url": "https://open.spotify.com/artist/53IEOfnCBvU6jJRl1GSXfd"
         }
       ],
-      "duration_ms": 661292,
-      "name": "Obertura Festiva, Op. 21",
-      "url": "https://open.spotify.com/track/0Y2ygqrT7PQvtPT5kW3RAF"
+      "duration_ms": 583800,
+      "name": "Todav\u00eda Buenos Aires",
+      "url": "https://open.spotify.com/track/11hbPhsQoDAv1x9wRZZybK"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
+        "name": "Latino Gold",
+        "url": "https://open.spotify.com/album/4Psjj0vm9diuPFGJCXX3fg"
       },
       "artists": [
         {
-          "name": "Antonio Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/2WItKc8adQBeagkIY0R8Fp"
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         },
         {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
         }
       ],
-      "duration_ms": 481000,
-      "name": "Mediodia en el Llano - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
-      "url": "https://open.spotify.com/track/5YiZCSzpxQNJ3yeQIu1EHf"
+      "duration_ms": 202800,
+      "name": "The Motorcycle Diaries OST: De Ushuaia ala Quiaca",
+      "url": "https://open.spotify.com/track/3tbVEuphdCiUfZ2dMrRjJK"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Strauss Ii / Lehar / Tchaikovsky: Great Waltzes",
-        "url": "https://open.spotify.com/album/7hxbpxfpcs7oOwtOVuIUUw"
+        "name": "Guitar Music Of Argentina, Vol. 1",
+        "url": "https://open.spotify.com/album/31R0ygvpxn3FezwK0eaaS2"
       },
       "artists": [
         {
-          "name": "Juventino Rosas",
-          "url": "https://open.spotify.com/artist/07KnR00fN51QEaiiSKPMWt"
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
         },
         {
-          "name": "Mexico Festival Orchestra",
-          "url": "https://open.spotify.com/artist/0so2HSARafP9LUAZjUty7W"
-        },
-        {
-          "name": "Enrique B\u00e1tiz",
-          "url": "https://open.spotify.com/artist/1kOXPgXfJGjqSP90RndDly"
+          "name": "Victor Villadangos",
+          "url": "https://open.spotify.com/artist/4GOS7bvnz94dzQVeDgghaF"
         }
       ],
-      "duration_ms": 375053,
-      "name": "Sobre las olas (Over the Waves)",
-      "url": "https://open.spotify.com/track/1LbVVxXczoJUiTBNAEov4C"
+      "duration_ms": 146800,
+      "name": "3 Piezas: Chacarera Ututa",
+      "url": "https://open.spotify.com/track/7dYaj0LEC7ok3OZ48rvKSw"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Gianneo: Complete Works for String Quartet, Vol. 1",
-        "url": "https://open.spotify.com/album/1t6iUL2NZxtbGTbPc7jMsy"
+        "name": "Homages: A Musical Dedication",
+        "url": "https://open.spotify.com/album/4PXdLya8fAeFafa4XtIWsm"
       },
       "artists": [
         {
-          "name": "Luis Gianneo",
-          "url": "https://open.spotify.com/artist/6GbjnWeQqrEb6FvCY76V7W"
+          "name": "Luis de Narv\u00e1ez",
+          "url": "https://open.spotify.com/artist/4JMUY8vz7lmJsI6oaQ8G6Q"
         },
         {
-          "name": "Gianneo String Quartet",
-          "url": "https://open.spotify.com/artist/4B2b71Pej9MRtjAqhKnbQl"
+          "name": "Christoph Denoth",
+          "url": "https://open.spotify.com/artist/4mROVpgaeFTNmKG7dpsg8B"
         }
       ],
-      "duration_ms": 497853,
-      "name": "String Quartet No. 3: II. Adagio - Allegro moderato scherzoso",
-      "url": "https://open.spotify.com/track/5qxlhwd0PPWJsBVrfiX2MR"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Manuel de Falla: Noches en los jardines de Espa\u00f1a",
-        "url": "https://open.spotify.com/album/3r85Aw3DIDErCQEiYHk0lu"
-      },
-      "artists": [
-        {
-          "name": "Manuel de Falla",
-          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
-        },
-        {
-          "name": "Javier Perianes",
-          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
-        }
-      ],
-      "duration_ms": 616226,
-      "name": "Noches en los jardines de Espa\u00f1a: I. En el Generalife. Allegretto tranquillo e misterioso",
-      "url": "https://open.spotify.com/track/5sSNo5SWNWhC4pFsH5ta2C"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "La belle \u00e9poque",
-        "url": "https://open.spotify.com/album/5iP4IB4PuBnaZBMQSZ8b5k"
-      },
-      "artists": [
-        {
-          "name": "Carlos L\u00f3pez Buchardo",
-          "url": "https://open.spotify.com/artist/6zUBSpxpy1cnD780uW7eTL"
-        },
-        {
-          "name": "V\u00edctor Torres",
-          "url": "https://open.spotify.com/artist/5l59cyohKeqVm2EhQC4wGX"
-        },
-        {
-          "name": "Fernando Perez",
-          "url": "https://open.spotify.com/artist/0fQXQzuh8QBPeZEX0Zgj12"
-        }
-      ],
-      "duration_ms": 92600,
-      "name": "\u00c0 toute \u00e2me qui pleure",
-      "url": "https://open.spotify.com/track/5v6mXRJGpKjzmGOneToFEC"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Spanish Landscapes",
-        "url": "https://open.spotify.com/album/6obDUu18o6V1HF5l87bmaP"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Halffter",
-          "url": "https://open.spotify.com/artist/2haoq62QRffBi42wBW8hWn"
-        },
-        {
-          "name": "Leticia Moreno",
-          "url": "https://open.spotify.com/artist/3NqVtjj6GW1RvmCc1I56Ra"
-        },
-        {
-          "name": "Ana-Maria Vera",
-          "url": "https://open.spotify.com/artist/0MLMxpJmMPD5IEI40mBZG3"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "S\u00e9r\u00e9nade A Dulcin\u00e9e",
-      "url": "https://open.spotify.com/track/7nrOHamp4JnIVEZovQTdv6"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Rueda, J.: Piano Music (Sukarlan) - Piano Sonatas Nos. 1, 2 / 24 Interludes / Invenciones (Excerpts) / Mephisto",
-        "url": "https://open.spotify.com/album/54lz9BVaxJtYF98ibHvezs"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Rueda",
-          "url": "https://open.spotify.com/artist/4GI3W8M8sSGvc25hHxmYGV"
-        },
-        {
-          "name": "Ananda Sukarlan",
-          "url": "https://open.spotify.com/artist/6WZsacZrmavC0wPeI8wSiE"
-        }
-      ],
-      "duration_ms": 66426,
-      "name": "24 Interludes: No. 13. Notturno in Bali",
-      "url": "https://open.spotify.com/track/2LmA6CiHWNDnXjKdheXg7G"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Los Ministriles in the New World",
-        "url": "https://open.spotify.com/album/52hj8ELn2NHFWOAltXcvVc"
-      },
-      "artists": [
-        {
-          "name": "Francisco L\u00f3pez Capillas",
-          "url": "https://open.spotify.com/artist/0ToZl1R79RXftPg4ksBqUX"
-        },
-        {
-          "name": "Piffaro",
-          "url": "https://open.spotify.com/artist/1sPzg2H8uUdHl8mSGXMhHF"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Ego enim a 6",
-      "url": "https://open.spotify.com/track/24QHwHPMjY4J1EzV6lrUBd"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Nepomuceno: Piano Works",
-        "url": "https://open.spotify.com/album/4rzneRTrW8aWUUUqB4JDFp"
-      },
-      "artists": [
-        {
-          "name": "Alberto Nepomuceno",
-          "url": "https://open.spotify.com/artist/5BFlhpaPculZIatjhoistC"
-        },
-        {
-          "name": "Maria Ines Guimaraes",
-          "url": "https://open.spotify.com/artist/63TmQxkXbyBRfTV73Wtcv0"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Suite antiga, Op. 11: III. Air",
-      "url": "https://open.spotify.com/track/6PATT2nzYDJ7FytCXhHXLg"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Cancionero Musical De Palacio: Music of the Spanish Court",
-        "url": "https://open.spotify.com/album/1iZFoEYDppReBZ5C7tX5Al"
-      },
-      "artists": [
-        {
-          "name": "Juan del Encina",
-          "url": "https://open.spotify.com/artist/5NJtTf9cHuRJuxdtNRUnUb"
-        },
-        {
-          "name": "Accentus Ensemble",
-          "url": "https://open.spotify.com/artist/3JGfnzvYqgbqMXUVZqXuo3"
-        },
-        {
-          "name": "Thomas Wimmer",
-          "url": "https://open.spotify.com/artist/3AgIzHzt5UE5dKySowJWeJ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Todos los bienes del mundo",
-      "url": "https://open.spotify.com/track/1JjZ3pD2CzUDrqHA7ODPJe"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Carlos Gardel: 15 Tangos, Garello",
-        "url": "https://open.spotify.com/album/60C2tlWKI4oo9sDn2yPsUN"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        },
-        {
-          "name": "Michel Plasson",
-          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
-        },
-        {
-          "name": "Orchestre Du Capitole De Toulouse",
-          "url": "https://open.spotify.com/artist/5fzSy6oTpL9NifxnEd9rBb"
-        },
-        {
-          "name": "Julio Oscar Pane",
-          "url": "https://open.spotify.com/artist/3Mo69TvxbTVweDlgCic1um"
-        },
-        {
-          "name": "Raul Garello",
-          "url": "https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu"
-        },
-        {
-          "name": "Jos\u00e9 Alberto Giaimo",
-          "url": "https://open.spotify.com/artist/1C6vcV7wj6MnimFeTqwXz9"
-        },
-        {
-          "name": "Wolff",
-          "url": "https://open.spotify.com/artist/23oQW2xK5gkloER9vyQWtD"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Gardel: Por una cabeza",
-      "url": "https://open.spotify.com/track/1Q0tSZgzOurosLtZ1r6PrU"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Nuevo",
-        "url": "https://open.spotify.com/album/5T1rjmHd72fA8nS3ZjxKWD"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "Se Me Hizo Facil (It Was Easy for Me)",
-      "url": "https://open.spotify.com/track/674RbMSRGedOWl1J3172NI"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Salon Mexicano",
-        "url": "https://open.spotify.com/album/2uGnWrpeBh35LeIYUFkPfJ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Villanueva",
-          "url": "https://open.spotify.com/artist/3K2UjCh89fgZdPbANL9Ooo"
-        },
-        {
-          "name": "Jorge Federico Osorio",
-          "url": "https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Vals Poetico: Vals poetico: Vals de salon",
-      "url": "https://open.spotify.com/track/1zjeUfuWsXdBlr491jFNJv"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Andr\u00e9s Segovia - The Art of Segovia",
-        "url": "https://open.spotify.com/album/2bhGWXqi8O70lawyh66yQT"
-      },
-      "artists": [
-        {
-          "name": "Francisco T\u00e1rrega",
-          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
-        },
-        {
-          "name": "Andr\u00e9s Segovia",
-          "url": "https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97"
-        }
-      ],
-      "duration_ms": 316440,
-      "name": "Recuerdos de la Alhambra",
-      "url": "https://open.spotify.com/track/0m1nzO14qaVyxmPjnX1fot"
+      "duration_ms": 205640,
+      "name": "Diferencias sobre \"Gu\u00e1rdame las vacas\"",
+      "url": "https://open.spotify.com/track/4vz9LDIUrZXZ41M4OydhgD"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -863,186 +635,30 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Concert d'aujourd hui",
-        "url": "https://open.spotify.com/album/5Kf0vI2zpVirTQYd6hRxpg"
+        "name": "Piazzolla et al : Mi Buenos Aires querido",
+        "url": "https://open.spotify.com/album/1O7WR5Ucg8yP3UnO9h4A3a"
       },
       "artists": [
         {
-          "name": "Daniel Cat\u00e1n",
-          "url": "https://open.spotify.com/artist/4PV0mpTGjDzP1Qt9epPick"
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
         },
         {
-          "name": "Alejandro Vazquez",
-          "url": "https://open.spotify.com/artist/4wKoSUwlExjRfBm5XpTdmf"
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
         },
         {
-          "name": "Ruth Bennett",
-          "url": "https://open.spotify.com/artist/0jywBuJskQjOvvwz3FtPaC"
+          "name": "Rodolfo Mederos",
+          "url": "https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC"
+        },
+        {
+          "name": "H\u00e9ctor Console",
+          "url": "https://open.spotify.com/artist/1WhJevvVMI2nQxyp2gYQTU"
         }
       ],
-      "duration_ms": 443320,
-      "name": "Encantamiento (version for flute and harp)",
-      "url": "https://open.spotify.com/track/5bEpYJ2aztcFu5ygcue4FO"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Discoveries",
-        "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
-      },
-      "artists": [
-        {
-          "name": "Arturo M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 582693,
-      "name": "Danz\u00f3n No. 2 - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
-      "url": "https://open.spotify.com/track/27LJbpGMwAIbVKaM2CRzdH"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Passport",
-        "url": "https://open.spotify.com/album/78bV3TTvgzzUnGKith07Bz"
-      },
-      "artists": [
-        {
-          "name": "Enrique Rangel",
-          "url": "https://open.spotify.com/artist/3NzpmMhLgAyKbMlkesJh4S"
-        },
-        {
-          "name": "Rangel Arroyo Enrique",
-          "url": "https://open.spotify.com/artist/4yTrqkGrKvBTX0VtyCEGgX"
-        },
-        {
-          "name": "Brooklyn Rider",
-          "url": "https://open.spotify.com/artist/1yKtWbh9O4CvqvYIV3HMg9"
-        }
-      ],
-      "duration_ms": 244226,
-      "name": "La Muerte Chiquita",
-      "url": "https://open.spotify.com/track/4fyfaX4kWHJXpQGbpCj2lE"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Oswald: Piano Music",
-        "url": "https://open.spotify.com/album/5HEkdzfab3nOlV8WLHzNrk"
-      },
-      "artists": [
-        {
-          "name": "Henrique Oswald",
-          "url": "https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW"
-        },
-        {
-          "name": "Braz Velloso",
-          "url": "https://open.spotify.com/artist/1d71ZzlZwdrQ0iqegUYbfS"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Il neige",
-      "url": "https://open.spotify.com/track/7bLZo27yK3Z0ezI472Phe5"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "M\u00e9xico Entre 2 Siglos",
-        "url": "https://open.spotify.com/album/45qN2aXLpGlopIQc0pLMfS"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Castro",
-          "url": "https://open.spotify.com/artist/2y1bWFBk6n6Jue3kIEpGLq"
-        },
-        {
-          "name": "Edison Quintana",
-          "url": "https://open.spotify.com/artist/61A6vG5zAQYC4QdLjAiwnK"
-        }
-      ],
-      "duration_ms": 420786,
-      "name": "Vals Capricho, Op. 1",
-      "url": "https://open.spotify.com/track/37YQGJU1QX0wuCpmWaZB2J"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Choral Recital: Monteverdi Choir - Morales / Victoria, T.L. / Clements Non Papa / Mouton (Pilgrimage To Santiago)",
-        "url": "https://open.spotify.com/album/6f4RV4IncCRnZwsWWuuRvg"
-      },
-      "artists": [
-        {
-          "name": "Cristobal de Morales",
-          "url": "https://open.spotify.com/artist/18oieUOKaB87vkVcV6GX89"
-        },
-        {
-          "name": "The Monteverdi Choir",
-          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        }
-      ],
-      "duration_ms": 321493,
-      "name": "Officium defunctorum: Parce mihi Domine: Parce mihi Domine",
-      "url": "https://open.spotify.com/track/1aCHSyfTAkDZyF9nJemNCS"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Revueltas",
-          "url": "https://open.spotify.com/artist/5CAWUxlD1liCEp8V5gt5wn"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 397213,
-      "name": "Sensemay\u00e1 - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
-      "url": "https://open.spotify.com/track/4jbRomCJd6g411vGxmc10Z"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Garbizu, T: Music for Txistu and Piano",
-        "url": "https://open.spotify.com/album/3i2KWY3x1cVAlaigcVsvre"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s Garbizu",
-          "url": "https://open.spotify.com/artist/0GbxiGBxTxQ6cj3GcwraCF"
-        },
-        {
-          "name": "Jose Ignacio Ansorena",
-          "url": "https://open.spotify.com/artist/46YNk8V7jEvudai9cf3cUs"
-        },
-        {
-          "name": "Alvaro Cendoya",
-          "url": "https://open.spotify.com/artist/1jyT4Lhl2rlLEQivwIgDat"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Basque Suite No. 1: III. Fandango Boleroa (Fandango-Bolero)",
-      "url": "https://open.spotify.com/track/06rBz9Ezp7vQNivwaWBlj0"
+      "duration_ms": 335333,
+      "name": "Piazzolla: Estaci\u00f3nes porte\u00f1as: I. Verano Porte\u00f1o",
+      "url": "https://open.spotify.com/track/2Rng45EgVYKORVBUHDN51E"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1067,8 +683,72 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Ch\u00e1vez: Sinfonia India",
-        "url": "https://open.spotify.com/album/1nV7HUbptD2tjg1BN3uSl7"
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Estancia / Danzas del Ballet: 2. Danza del trigo - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
+      "url": "https://open.spotify.com/track/1kjle7ZNexMYUXzGbJI4zI"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Pasajes: M\u00e9xico",
+        "url": "https://open.spotify.com/album/5jQHjbLIwJmHnuwapsfteh"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Ortiz",
+          "url": "https://open.spotify.com/artist/2VyrDbh20OK1Go6FNGolN8"
+        },
+        {
+          "name": "Ensemble Int\u00e9grales",
+          "url": "https://open.spotify.com/artist/6GWva610KgBIXJohqHjwGr"
+        }
+      ],
+      "duration_ms": 771533,
+      "name": "Trifolium",
+      "url": "https://open.spotify.com/track/7nm4ewhheyxa0MhWcuqJs3"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Barroco Espa\u00f1ol Vol. 1",
+        "url": "https://open.spotify.com/album/5Qv4Q3GI4lyX7LphaG0Lyy"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Eduardo L\u00f3pez Banzo",
+          "url": "https://open.spotify.com/artist/4uv1y9qfR8UoCt13RXuyX3"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Canci\u00f3n a dos tiples",
+      "url": "https://open.spotify.com/track/6Rm8DWp4Ud46Km1Xoyr3Jk"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Complete Chamber Works of Carlos Chavez, Vol. 2",
+        "url": "https://open.spotify.com/album/5hmdbocy57PW1yfLElMSeG"
       },
       "artists": [
         {
@@ -1076,23 +756,263 @@
           "url": "https://open.spotify.com/artist/5gspFvrY66nnLgn1mt3wgN"
         },
         {
-          "name": "American Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/189I14HgoKkmB02CoEN2po"
-        },
-        {
-          "name": "Leon Botstein",
-          "url": "https://open.spotify.com/artist/7gqK96YJclypbnbReTm2xR"
+          "name": "Southwest Chamber Music",
+          "url": "https://open.spotify.com/artist/2YmcXiW6dM5x9xx7TygnYI"
         }
       ],
-      "duration_ms": 721706,
-      "name": "Sinfonia India (Live)",
-      "url": "https://open.spotify.com/track/2wOgj3KH0a9mIoYuBAhz9N"
+      "duration_ms": 233666,
+      "name": "Soli II for Wind Quintet: I. Preludio",
+      "url": "https://open.spotify.com/track/0r2Nq2Rg6Nbk6wDRGpohS5"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Caramelos Latinos",
-        "url": "https://open.spotify.com/album/7tk2T9GKnOr8W13A6Rsph7"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/64dgHfj409YVDSgWENjSwp"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Zumaya",
+          "url": "https://open.spotify.com/artist/3M3fqTnh2ScpwiARvQFVV4"
+        },
+        {
+          "name": "Chanticleer",
+          "url": "https://open.spotify.com/artist/4p6DfIA6NnKmWeRgDJPLT0"
+        },
+        {
+          "name": "Joseph Jennings",
+          "url": "https://open.spotify.com/artist/5A3ntUGTCKttzOwkoF9AUY"
+        },
+        {
+          "name": "Chanticleer Sinfonia",
+          "url": "https://open.spotify.com/artist/1FIIPUSC0NrlcglT6RP807"
+        }
+      ],
+      "duration_ms": 414973,
+      "name": "Zumaya : Celebren, publiquen",
+      "url": "https://open.spotify.com/track/5kGCoVyNdJ3lQ4kprRhpMQ"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "The Spanish Guitar",
+        "url": "https://open.spotify.com/album/6QFPfeSClfNtmZcJqRb59y"
+      },
+      "artists": [
+        {
+          "name": "Alonso Mudarra",
+          "url": "https://open.spotify.com/artist/7vAEvCZlKOLpLqHzfAPdej"
+        },
+        {
+          "name": "Jos\u00e9 Miguel Moreno",
+          "url": "https://open.spotify.com/artist/45pCHUTm1lBjwcyujEAYKD"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Fantasia que contrahaze la harpa en la manera de Ludovico",
+      "url": "https://open.spotify.com/track/6GtYl2uif2Jc5O7gsKnQTx"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Piazzolla, A.: Suite Punta Del Este / Bragato, J.: Graciela Y Buenos Aires / Arizaga, R.: Passacaglia",
+        "url": "https://open.spotify.com/album/2SYFKY89B2ORnmQXK6VuUf"
+      },
+      "artists": [
+        {
+          "name": "Camerata Bariloche",
+          "url": "https://open.spotify.com/artist/3vWOBUq3oL2UyI0FlKYDic"
+        }
+      ],
+      "duration_ms": 491360,
+      "name": "Graciela y Buenos Aires",
+      "url": "https://open.spotify.com/track/5ZaNOCU2RnxSDAQxKq0EcM"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Buchardo / Aguirre / Piazzolla / Gianneo / Guastavino / Giudice: Orchestral Works",
+        "url": "https://open.spotify.com/album/4AGCDj1MXrQ6wgCio5qbaG"
+      },
+      "artists": [
+        {
+          "name": "Luis Gianneo",
+          "url": "https://open.spotify.com/artist/6GbjnWeQqrEb6FvCY76V7W"
+        },
+        {
+          "name": "Entre Rios Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6VUKb3mF0ebh7f5g5UEmnj"
+        },
+        {
+          "name": "Gabriel Castagna",
+          "url": "https://open.spotify.com/artist/0lF53kr1siie3JEuHkzLJZ"
+        }
+      ],
+      "duration_ms": 714240,
+      "name": "El tarco en flor",
+      "url": "https://open.spotify.com/track/5ddx8RpbiAgyJHnqlXxHCy"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Oswald: Piano Music",
+        "url": "https://open.spotify.com/album/5HEkdzfab3nOlV8WLHzNrk"
+      },
+      "artists": [
+        {
+          "name": "Henrique Oswald",
+          "url": "https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW"
+        },
+        {
+          "name": "Braz Velloso",
+          "url": "https://open.spotify.com/artist/1d71ZzlZwdrQ0iqegUYbfS"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Il neige",
+      "url": "https://open.spotify.com/track/7bLZo27yK3Z0ezI472Phe5"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Horizontes Mexicanos",
+        "url": "https://open.spotify.com/album/4gnRkWqjY6kBC0H4hQI4wY"
+      },
+      "artists": [
+        {
+          "name": "Marcela Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3SaDhlzSlxggT0cmlAM0FI"
+        },
+        {
+          "name": "Trio d'argent",
+          "url": "https://open.spotify.com/artist/0YP7Ctb84cj55aRGhLG17l"
+        }
+      ],
+      "duration_ms": 277106,
+      "name": "El Horizonte",
+      "url": "https://open.spotify.com/track/5KFACUtaVZ5LBQj89SrYeX"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Copland: Appalachian Spring, Rodeo, Billy the Kid & Fanfare for the Common Man",
+        "url": "https://open.spotify.com/album/1sIKjNKPo058xiSZGm5wlm"
+      },
+      "artists": [
+        {
+          "name": "Aaron Copland",
+          "url": "https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "4 Dance Episodes from Rodeo: III. Saturday Night Waltz",
+      "url": "https://open.spotify.com/track/1RpiptI36V8HwVv4GZQfg9"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Ginastera: Complete Piano and Organ Music",
+        "url": "https://open.spotify.com/album/3oQwTHgBiBaxuyfFXIT1uQ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Fernando Viani",
+          "url": "https://open.spotify.com/artist/3rGPUve0f6F0dOLpo6KW6C"
+        }
+      ],
+      "duration_ms": 116760,
+      "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
+      "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "eXchange: Latin America",
+        "url": "https://open.spotify.com/album/6wG3I9GgIoOrmORPwsr7lg"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Zohn-Muldoon",
+          "url": "https://open.spotify.com/artist/3Ru2TrTHHC2bWnOyp2LAL3"
+        },
+        {
+          "name": "Andr\u00e9e Martin",
+          "url": "https://open.spotify.com/artist/7voKrKMsWSF3RlB4wvkp3s"
+        },
+        {
+          "name": "Oscar Espina-Ruiz",
+          "url": "https://open.spotify.com/artist/7iAvUH5g6E6alb2ky0rdmJ"
+        },
+        {
+          "name": "Gabriel Shuford",
+          "url": "https://open.spotify.com/artist/7eNxyy2yvLr9GiIOxTzCMp"
+        },
+        {
+          "name": "Tomm Roland",
+          "url": "https://open.spotify.com/artist/6yjevHeA7U2z95QCjktrhC"
+        },
+        {
+          "name": "David Russell",
+          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
+        },
+        {
+          "name": "Michael Aberback",
+          "url": "https://open.spotify.com/artist/0ghTVS74Szn28VVc0J9dvw"
+        },
+        {
+          "name": "Garbrielle Painter",
+          "url": "https://open.spotify.com/artist/1DGhgIehMQnvFGT8zZhWCH"
+        },
+        {
+          "name": "Paul Vaillancourt",
+          "url": "https://open.spotify.com/artist/1rZ3SvCcahh465PjNucYDh"
+        }
+      ],
+      "duration_ms": 422293,
+      "name": "P\u00e1ramo",
+      "url": "https://open.spotify.com/track/0Na9GMQBVdlo60fgtT9qoO"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "M\u00fasica Sacra do Brasil",
+        "url": "https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maur\u00edcio Nunes Garcia",
+          "url": "https://open.spotify.com/artist/1cXDibzdR0jcIjv5Vuqqt8"
+        },
+        {
+          "name": "Vox Brasiliensis",
+          "url": "https://open.spotify.com/artist/3A7W6Vmh2ufEM3adhnglrB"
+        },
+        {
+          "name": "Ricardo Kanji",
+          "url": "https://open.spotify.com/artist/31Ifo0Eh3EOzqR7Tjtfmdk"
+        }
+      ],
+      "duration_ms": 272413,
+      "name": "Abertura em R\u00e9",
+      "url": "https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Guarnieri: Symphonies Nos. 1 and 4 / Abertura Festiva",
+        "url": "https://open.spotify.com/album/7wxd10iJr1IJiAmOmgSMVt"
       },
       "artists": [
         {
@@ -1100,81 +1020,41 @@
           "url": "https://open.spotify.com/artist/0tYgOV6W1HbAeiSQJdiPO4"
         },
         {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+          "name": "Orquestra Sinf\u00f4nica Do Estado De S\u00e3o Paulo",
+          "url": "https://open.spotify.com/artist/3NhV0B71sAoZu1FGHG4bK4"
         },
         {
-          "name": "Maximiano Valdes",
-          "url": "https://open.spotify.com/artist/5wb064Qxd9rVhirUTLXex7"
+          "name": "John Neschling",
+          "url": "https://open.spotify.com/artist/3i6TvPQGfMvINJIHyTwm7o"
         }
       ],
-      "duration_ms": 138493,
-      "name": "Dansa brasileira",
-      "url": "https://open.spotify.com/track/6BSefJ7BVtgKwxtSE5rXHy"
+      "duration_ms": 269840,
+      "name": "Symphony No. 4, \"Brasilia\": I. Allegro energico",
+      "url": "https://open.spotify.com/track/2BW7AgbaTkxayVKWpeZa4G"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Tango: Zero Hour",
-        "url": "https://open.spotify.com/album/6NNvUtOmrKH7DlRUfnbx7d"
+        "name": "Piazzolla: Concerto pour bandon\u00e9on",
+        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
       "artists": [
         {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        },
+        {
+          "name": "Orquestra De Cambra Teatre Lliure",
+          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
+        },
+        {
+          "name": "Josep Pons",
+          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
         }
       ],
-      "duration_ms": 391440,
-      "name": "Milonga Del Angel",
-      "url": "https://open.spotify.com/track/1Gas3HGCmNODYQiMU13LqL"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Tango - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/5tfJfie0RagePlVh47166T"
-      },
-      "artists": [
-        {
-          "name": "Juan De Dios Filiberto",
-          "url": "https://open.spotify.com/artist/1cUlqu95TXcMcQUjdfzIgo"
-        },
-        {
-          "name": "Orchestra Ensemble",
-          "url": "https://open.spotify.com/artist/6x9yon9cIor9NI39q1UWJU"
-        },
-        {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Quejas de Bandone\u00f3n",
-      "url": "https://open.spotify.com/track/3eRRzQeUGOl40qbkhKJ63T"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Jes\u00fas de Monasterio: Obras para Viol\u00edn y Piano (El Patrimonio Musical Hispano 10)",
-        "url": "https://open.spotify.com/album/1GObKv94cditBSHp69a5dS"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas De Monasterio",
-          "url": "https://open.spotify.com/artist/4P0b4wCUvriCDV8b3IOd1N"
-        },
-        {
-          "name": "Manuel Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/7MI8pxE2MYfYC0rqKf5Htu"
-        },
-        {
-          "name": "Mar\u00eda Jesus Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4K7deOz4SzDb4Vj2ERopW8"
-        }
-      ],
-      "duration_ms": 387520,
-      "name": "Adi\u00f3s a la Alhambra",
-      "url": "https://open.spotify.com/track/1VuB26EoqmKBC7aSfOMVjN"
+      "duration_ms": 408933,
+      "name": "Concierto para bandone\u00f3n: I. Allegro marcato",
+      "url": "https://open.spotify.com/track/3fDXVWLRYb5LeVTJYYGzJu"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1196,9 +1076,137 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 204560,
-      "name": "Estancia / Danzas del Ballet: 4. Danza final (Malambo) - Live",
-      "url": "https://open.spotify.com/track/3miLxRVR1pUWByasPGjDLd"
+      "duration_ms": 118213,
+      "name": "Estancia / Danzas del Ballet: 3. Los peones de hacienda - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
+      "url": "https://open.spotify.com/track/0e3dZBAIU40GtrBeEl9wuZ"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Mauricio Kagel",
+        "url": "https://open.spotify.com/album/5tpvOyvDoPZbU65krfxXMr"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Kagel",
+          "url": "https://open.spotify.com/artist/0IdJUMh8xVuehu7qlMcDth"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 535800,
+      "name": "MM 51",
+      "url": "https://open.spotify.com/track/7L3hlyu3aSjCAAMvKBaj8C"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Golijov: La Pasi\u00f3n seg\u00fan San Marcos",
+        "url": "https://open.spotify.com/album/6GCzXHmFEaMZxlNAigTBke"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Golijov",
+          "url": "https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv"
+        },
+        {
+          "name": "Jessica Rivera",
+          "url": "https://open.spotify.com/artist/6sVDWBjob9Qtauu62oz8hG"
+        },
+        {
+          "name": "Members of the Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/5Jiq0apSUeflgRwXOUvmDv"
+        },
+        {
+          "name": "Mar\u00eda Guinand",
+          "url": "https://open.spotify.com/artist/1UGkyn1ev2gK0MQzXL09HG"
+        },
+        {
+          "name": "Orquesta La Pasi\u00f3n",
+          "url": "https://open.spotify.com/artist/1IAGTvTNkXFcI6pm6YBbVW"
+        }
+      ],
+      "duration_ms": 344120,
+      "name": "La Pasi\u00f3n seg\u00fan San Marcos: 26. L\u00faa descolorida (Aria de las l\u00e1grimas de Pedro)",
+      "url": "https://open.spotify.com/track/4lAMHkot4dp01mklUKz4Qm"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Missa Mexicana",
+        "url": "https://open.spotify.com/album/0Y8fsq4NJxfxq18u6jJRzo"
+      },
+      "artists": [
+        {
+          "name": "Juan Garcia de Zespedes",
+          "url": "https://open.spotify.com/artist/3OASqyuT3uKhAehy3Ei0j7"
+        },
+        {
+          "name": "Andrew Lawrence-King",
+          "url": "https://open.spotify.com/artist/3IaOjT4uvherNQzpFMKiEu"
+        },
+        {
+          "name": "The Harp Consort",
+          "url": "https://open.spotify.com/artist/3CEB3ot8CDIWKFzBRJvJ4n"
+        }
+      ],
+      "duration_ms": 265560,
+      "name": "Guaracha: Convidando est\u00e1 la noche",
+      "url": "https://open.spotify.com/track/5kdsTtAaMlmqgbWEfgX7r0"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Fiesta Criolla: Latin American Orchestral Works",
+        "url": "https://open.spotify.com/album/1u1nRSj56eWQ4hhAlkJl0O"
+      },
+      "artists": [
+        {
+          "name": "Juan Jos\u00e9 Castro",
+          "url": "https://open.spotify.com/artist/4KCKdpRgRq7yB8xY8TqJQf"
+        },
+        {
+          "name": "W\u00fcrttembergische Philharmonie Reutlingen",
+          "url": "https://open.spotify.com/artist/3aSDuAvPFkSnli24u0aZDp"
+        },
+        {
+          "name": "Gabriel Castagna",
+          "url": "https://open.spotify.com/artist/0lF53kr1siie3JEuHkzLJZ"
+        }
+      ],
+      "duration_ms": 573333,
+      "name": "Sinfonia Argentina: I. Arrabal: Allegro marcato",
+      "url": "https://open.spotify.com/track/4gGZ6RIhcRYgnCwqaxiBAJ"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Ginastera: Estancia, Variaciones concertantes & Concierto para arpa",
+        "url": "https://open.spotify.com/album/21WRmmxTW0LnBwMszmam2p"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Magdalena Barrera",
+          "url": "https://open.spotify.com/artist/7iWOWfhJbJtsoP7zlwFxZB"
+        },
+        {
+          "name": "Orquesta Ciudad De Granada",
+          "url": "https://open.spotify.com/artist/6cRtd92bKu8M5XBPzBnXJN"
+        },
+        {
+          "name": "Josep Pons",
+          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
+        }
+      ],
+      "duration_ms": 498133,
+      "name": "Concierto Para Arpa y Orquesta, Op. 25: III. Liberamente capriccioso - Vivace",
+      "url": "https://open.spotify.com/track/0YVnEhs2Cxet2ILbo5AriF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXajUXy2f1Dsi"

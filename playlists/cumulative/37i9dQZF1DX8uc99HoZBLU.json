@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 164277,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/4BeIdwrMlsBlVHgJHs9l6J"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 180912,
       "name": "Coffee Stained Smile",
       "url": "https://open.spotify.com/track/3VmuRlPx5dLJEmZcIiY6LQ"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 184363,
       "name": "Comfort Chain",
       "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193285,
       "name": "CRISIS",
       "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217149,
       "name": "High",
       "url": "https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 80842,
       "name": "I Just Want to Be the One You Love",
       "url": "https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 90315,
       "name": "i'm in love with u, sorry",
       "url": "https://open.spotify.com/track/5p684vIzF5LOkmHL3I0tyM"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 179680,
       "name": "Let's Hold Hands (feat. Melanie Faye)",
       "url": "https://open.spotify.com/track/2Gi5XHbTxLbzwjQQHky749"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 136822,
       "name": "o shit!",
       "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
@@ -1176,6 +1176,24 @@
       "duration_ms": 166137,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq"
+    },
+    {
+      "album": {
+        "name": "Sardine Song / Spirit Ditch",
+        "url": "https://open.spotify.com/album/6GnrVEBefmxllZVtKVswLy"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209387,
+      "name": "Sardine Song",
+      "url": "https://open.spotify.com/track/6cIKtihxWYkzkJHPQOiun1"
     },
     {
       "album": {
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 151693,
       "name": "summer depression",
       "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 172117,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z"
@@ -1428,7 +1446,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 131657,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/3u0kNxqOOC8SdoODpkmoZO"
@@ -1468,6 +1486,24 @@
       "duration_ms": 143640,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
+    },
+    {
+      "album": {
+        "name": "Tinder Song",
+        "url": "https://open.spotify.com/album/5WiUuc6jcsA4oWvT1wLk3h"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120375,
+      "name": "Tinder Song",
+      "url": "https://open.spotify.com/track/1JHOy566xSKwNPqaB9AF2i"
     },
     {
       "album": {
@@ -1583,6 +1619,28 @@
     },
     {
       "album": {
+        "name": "who put blood in my drink?",
+        "url": "https://open.spotify.com/album/54FKDtVVsCDnuKs8sRM7jr"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "sagun",
+          "url": "https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270011,
+      "name": "who put blood in my drink?",
+      "url": "https://open.spotify.com/track/5vthP2pdh6pP40S7S5js8N"
+    },
+    {
+      "album": {
         "name": "In Tongues",
         "url": "https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315"
       },
@@ -1612,7 +1670,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 154456,
       "name": "Y U Gotta B Like That",
       "url": "https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM"
@@ -1652,6 +1710,24 @@
       "duration_ms": 189160,
       "name": "Young",
       "url": "https://open.spotify.com/track/3OP8UeYimRl9HCNxMg7Ihl"
+    },
+    {
+      "album": {
+        "name": "Your Love \ub108\uc758 \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/1QpWw20dNbIjDISy39cNU7"
+      },
+      "artists": [
+        {
+          "name": "Peachy!",
+          "url": "https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237551,
+      "name": "Your Love \ub108\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5NgvQyEWxGxKcZkqIf6YQS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8uc99HoZBLU"

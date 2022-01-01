@@ -212,7 +212,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215111,
       "name": "Beat of My Heart",
       "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 222150,
       "name": "Black Boots And Leather Rebellion",
       "url": "https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200603,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/3vutFeUl31fjJyPpAGmLGf"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 210280,
       "name": "Control",
       "url": "https://open.spotify.com/track/2AQG1Jv6M9Ln47usagKN8z"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185533,
       "name": "Different Kinds of Light",
       "url": "https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 167426,
       "name": "eight hours",
       "url": "https://open.spotify.com/track/5cn3Zlb938iYc28dY5s3vm"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 212402,
       "name": "Forgetting",
       "url": "https://open.spotify.com/track/4gHqrWltyes1fgnHPzC9yX"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 142150,
       "name": "Four Tequilas Down",
       "url": "https://open.spotify.com/track/7ilxwPIQLBWPIQa1gxYow6"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 166113,
       "name": "Have You Thought About Me With Somebody Else",
       "url": "https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq"
@@ -1234,6 +1234,42 @@
       "duration_ms": 194000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/1LaZaREKW44rOo2vIrZnJ0"
+    },
+    {
+      "album": {
+        "name": "Hello Again",
+        "url": "https://open.spotify.com/album/0fJQzxKG61DHe5zWXWBQ5J"
+      },
+      "artists": [
+        {
+          "name": "Inland Sky",
+          "url": "https://open.spotify.com/artist/6lg6eOBmScDXCePKoyeiQL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189133,
+      "name": "Hello Again",
+      "url": "https://open.spotify.com/track/7f9d4kZEvzOZ0OcpFbUGvI"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Flood",
+        "url": "https://open.spotify.com/album/2fWY1arRSsfAETPsurkxkb"
+      },
+      "artists": [
+        {
+          "name": "Angel Snow",
+          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256760,
+      "name": "Here Comes the Flood",
+      "url": "https://open.spotify.com/track/3lz94fxTt6BHRjpzV3SvsH"
     },
     {
       "album": {
@@ -1320,7 +1356,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196333,
       "name": "Hurt Like That",
       "url": "https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz"
@@ -1400,6 +1436,24 @@
       "duration_ms": 172633,
       "name": "I Hope You Change Your Mind",
       "url": "https://open.spotify.com/track/46uPN63Jgen8ohoiBXFTAa"
+    },
+    {
+      "album": {
+        "name": "A Horrible Beautiful Dream",
+        "url": "https://open.spotify.com/album/4n7eKMhBd6yezgg46xeosc"
+      },
+      "artists": [
+        {
+          "name": "Sean McConnell",
+          "url": "https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "I Still Believe in You",
+      "url": "https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8"
     },
     {
       "album": {
@@ -1562,10 +1616,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 174598,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr"
+    },
+    {
+      "album": {
+        "name": "Let Love Heal (Live Deluxe)",
+        "url": "https://open.spotify.com/album/4ZzQw85IV7oCDZIbJHrpED"
+      },
+      "artists": [
+        {
+          "name": "Matt Costa",
+          "url": "https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199041,
+      "name": "Let Love Heal - Live Deluxe",
+      "url": "https://open.spotify.com/track/5oVb4u7s4QLh0hHzHkOXBz"
     },
     {
       "album": {
@@ -1580,7 +1652,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186601,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/04ZNuBUb2OAM4RUPi6s67q"
@@ -1598,7 +1670,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 256092,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/5qFRPfX8KnMsnlbNrjXxHR"
@@ -1772,7 +1844,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Losing from Within",
       "url": "https://open.spotify.com/track/32yqbK3xTvNU0EdA9BMi37"
@@ -1826,7 +1898,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 225744,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
@@ -1862,7 +1934,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201133,
       "name": "Mind of Its Own",
       "url": "https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD"
@@ -2054,6 +2126,24 @@
       "duration_ms": 142777,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/41UhyBzOfsI1mqBviJq6AN"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fault",
+        "url": "https://open.spotify.com/album/0sPBsZVSg9fP2iSHJPGrpU"
+      },
+      "artists": [
+        {
+          "name": "Natalie Schlabs",
+          "url": "https://open.spotify.com/artist/25YHQvJbJh2yW36lrZJ9e5"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229076,
+      "name": "Nobody's Fault",
+      "url": "https://open.spotify.com/track/12pAzc2hvw5kCsVlGKIlD5"
     },
     {
       "album": {
@@ -2422,7 +2512,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 257893,
       "name": "See the World",
       "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
@@ -2476,7 +2566,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 261472,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/0E2LmUQq8ud6OJz55gWgeI"
@@ -2614,6 +2704,24 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/2CtJDDZiXVryDNAlsGyK5W"
+    },
+    {
+      "album": {
+        "name": "Take Back Thy Gift",
+        "url": "https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193340,
+      "name": "Take Back Thy Gift",
+      "url": "https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k"
     },
     {
       "album": {
@@ -2892,7 +3000,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -3124,7 +3232,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 200346,
       "name": "Why It Hurts",
       "url": "https://open.spotify.com/track/79tW2TBIRnQBRdiGkC6xM0"
@@ -3272,7 +3380,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185146,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"

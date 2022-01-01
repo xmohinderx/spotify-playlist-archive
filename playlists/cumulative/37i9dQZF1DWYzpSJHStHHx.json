@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "DARLING",
+        "url": "https://open.spotify.com/album/5gfKoVTEJqa1mTuSczsgdL"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147653,
+      "name": "DARLING",
+      "url": "https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B"
+    },
+    {
+      "album": {
         "name": "Portamento",
         "url": "https://open.spotify.com/album/13F3zUhKQsEe4IG6DaMJCh"
       },
@@ -419,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Big Echo",
+        "url": "https://open.spotify.com/album/4GGwYDNw2tNHbmK93bygqm"
+      },
+      "artists": [
+        {
+          "name": "The Morning Benders",
+          "url": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317426,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J"
+    },
+    {
+      "album": {
         "name": "Fire Flower",
         "url": "https://open.spotify.com/album/2DHEZDsm02YY3MLxvNkPcA"
       },
@@ -491,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Full Size Render",
+        "url": "https://open.spotify.com/album/1ITm7iuEyilyq4EDMMzzRN"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178599,
+      "name": "Full Size Render",
+      "url": "https://open.spotify.com/track/13YkIo5DIQwpJvPjEzgY3D"
+    },
+    {
+      "album": {
         "name": "Glass Mood Ring",
         "url": "https://open.spotify.com/album/6s7MUx71VzXxbbtIG4Pgp0"
       },
@@ -538,7 +592,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 276746,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/3v1FPBfBPWPh1cXUJQut5V"
@@ -574,7 +628,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 161471,
       "name": "Hawaiian Boi",
       "url": "https://open.spotify.com/track/6EzFRLgOG9gXBg2OwREqJu"
@@ -610,7 +664,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 347000,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/6bKHrmhfMFhlXqYR6zfPt9"
@@ -628,7 +682,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200825,
       "name": "In the Country",
       "url": "https://open.spotify.com/track/5WDNpaLcznJ2Q8t5IAKPnZ"
@@ -664,7 +718,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/0ZAdCDeysyoh5BOpuSGKy3"
@@ -826,7 +880,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/4iq4RFWmQc3zFgBgyrpahF"
@@ -1204,7 +1258,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 245386,
       "name": "Something Here",
       "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"

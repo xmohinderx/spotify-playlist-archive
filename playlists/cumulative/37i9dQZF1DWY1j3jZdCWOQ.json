@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 164032,
       "name": "24 Hr Drive-Thru",
       "url": "https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "The Breakfast Club (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2"
+      },
+      "artists": [
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188237,
+      "name": "Don't Look At Me",
+      "url": "https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM"
+    },
+    {
+      "album": {
         "name": "Public Void",
         "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176988,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
@@ -362,10 +380,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "album": {
+        "name": "GO PHUCK URSELF",
+        "url": "https://open.spotify.com/album/4lLjJ7EIgNmk7VxoKgiLHa"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146451,
+      "name": "GO PHUCK URSELF",
+      "url": "https://open.spotify.com/track/21Q89OzFYAcYSNurWhz3Rk"
     },
     {
       "album": {
@@ -398,7 +434,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 170646,
       "name": "Halloweenie IV: Innards",
       "url": "https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2"
@@ -650,7 +686,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176280,
       "name": "Monday",
       "url": "https://open.spotify.com/track/0dZr5sBxsXdi2PgdtchNnJ"
@@ -812,7 +848,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 179556,
       "name": "Rough",
       "url": "https://open.spotify.com/track/4lalLstnInAdtSWUpOumhn"
@@ -960,7 +996,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 263773,
       "name": "Visitation Of The Ghost",
       "url": "https://open.spotify.com/track/0UspsjF4bHzpQdvHvKM3hV"

@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258211,
       "name": "ALIENS!",
       "url": "https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 132154,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 187030,
       "name": "colo(u)rs",
       "url": "https://open.spotify.com/track/7JVlElUz583S3EJIjeEYmR"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 278391,
       "name": "curly",
       "url": "https://open.spotify.com/track/1Qvwp3DULKe2pJ3Nlqqf6j"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 171818,
       "name": "D'Evils",
       "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 182552,
       "name": "dreaming",
       "url": "https://open.spotify.com/track/6mjCfixEcMad2k7OiMLhMJ"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 201681,
       "name": "I Think You Should Know",
       "url": "https://open.spotify.com/track/0MRCdC2CM5hDqX0udNEuBr"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 230842,
       "name": "Me & Mrs. Wong",
       "url": "https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx"
@@ -1382,6 +1382,24 @@
       "duration_ms": 239744,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV"
+    },
+    {
+      "album": {
+        "name": "Stop it God.",
+        "url": "https://open.spotify.com/album/4dPxQ0cyyeDt1S9gdFHa9k"
+      },
+      "artists": [
+        {
+          "name": "Zuli Jr.",
+          "url": "https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155840,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5lPr3yqIjtsQY316VjNXQO"
     },
     {
       "album": {
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205808,
       "name": "On One",
       "url": "https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6"
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 253622,
       "name": "Ooowee (feat. Elijah Dax)",
       "url": "https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 154200,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/4U7Mih8jHL0v5g6oksHMBm"
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 232682,
       "name": "ROLLA",
       "url": "https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB"
@@ -1786,7 +1804,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216021,
       "name": "Shibari Moon",
       "url": "https://open.spotify.com/track/5s4uHZwSbk8XbjARwTzIw4"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 255906,
       "name": "SULA (Paperback)",
       "url": "https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi"
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204444,
       "name": "Tales By Moonlight (Ft Amaarae)",
       "url": "https://open.spotify.com/track/2XNYdSnpZvwlFr9gGWM8uX"
@@ -2036,10 +2054,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 211090,
       "name": "Talk to Yuh",
       "url": "https://open.spotify.com/track/6fwV7mBG3K6eAmSfPmNtK6"
+    },
+    {
+      "album": {
+        "name": "Remain Calm",
+        "url": "https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130478,
+      "name": "Thrive",
+      "url": "https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW"
     },
     {
       "album": {
@@ -2054,7 +2090,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 227253,
       "name": "Too Much to Ask",
       "url": "https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1"
@@ -2210,7 +2246,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 199179,
       "name": "Whoa",
       "url": "https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0"

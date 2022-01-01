@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Mars Needs Guitars!",
+        "url": "https://open.spotify.com/album/7rmClKH1LJetmPtsKPJxYW"
+      },
+      "artists": [
+        {
+          "name": "Hoodoo Gurus",
+          "url": "https://open.spotify.com/artist/7HZQqtnOYmjJl8XAB3Vg8y"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "Bittersweet - 2005 Remaster",
+      "url": "https://open.spotify.com/track/7bpebmVx0rlF2Cp5G9wWrx"
+    },
+    {
+      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220000,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/338gPBomyqx33wfeF1AGOd"
@@ -412,7 +430,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 167160,
       "name": "Hazy Shade of Winter",
       "url": "https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 290946,
       "name": "If You Tolerate This Your Children Will Be Next",
       "url": "https://open.spotify.com/track/2r7y4HANK7b9KVZfz0g4Uq"
@@ -682,7 +700,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 202400,
       "name": "Look Sharp!",
       "url": "https://open.spotify.com/track/1PXshYSkA3gGYOrInU3lRE"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 249160,
       "name": "No Myth",
       "url": "https://open.spotify.com/track/3mlnJWidDh0ASIJYNXDWxH"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 256839,
       "name": "That Is Why",
       "url": "https://open.spotify.com/track/7eilLreA3JyO5IkSEYQTBt"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 367026,
       "name": "The Concept",
       "url": "https://open.spotify.com/track/702Gf3Gh3NsC1KbCFrlrpe"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204333,
       "name": "Walls Come Tumbling Down",
       "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 326979,
       "name": "African Shabtay",
       "url": "https://open.spotify.com/track/0KFqWGc2VNfpCbi6PuX218"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 420000,
       "name": "Amusement",
       "url": "https://open.spotify.com/track/5mUKcIhfS0oHhu2eNPoFjc"
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Beyond Now",
+        "url": "https://open.spotify.com/album/1Rgh4m6yVvWXteM0isgfPe"
+      },
+      "artists": [
+        {
+          "name": "Donny McCaslin",
+          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
+        }
+      ],
+      "date_added": "2021-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472933,
+      "name": "Beyond Now",
+      "url": "https://open.spotify.com/track/4p0pz1sMMFhB1gQ5OG93zm"
+    },
+    {
+      "album": {
         "name": "Separate Realities",
         "url": "https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT"
       },
@@ -128,6 +146,60 @@
       "duration_ms": 328786,
       "name": "Blast Off",
       "url": "https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy"
+    },
+    {
+      "album": {
+        "name": "Hymn Of The Seventh Galaxy",
+        "url": "https://open.spotify.com/album/0ddNu3IWO5iEHoBe9qOr5L"
+      },
+      "artists": [
+        {
+          "name": "Return To Forever",
+          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
+        }
+      ],
+      "date_added": "2021-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541173,
+      "name": "Captain Se\u00f1or Mouse",
+      "url": "https://open.spotify.com/track/1HSHOe07A4gtxBwSFhK5Pb"
+    },
+    {
+      "album": {
+        "name": "Lingua Franca",
+        "url": "https://open.spotify.com/album/2xoZN3Rk6x5Llp8PgJjwlh"
+      },
+      "artists": [
+        {
+          "name": "T.R.A.M",
+          "url": "https://open.spotify.com/artist/4rXMIjexfwIsaY2455P7jB"
+        }
+      ],
+      "date_added": "2021-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284186,
+      "name": "Consider Yourself Judged",
+      "url": "https://open.spotify.com/track/2L11VPEQ44OCSTjjHp4HdE"
+    },
+    {
+      "album": {
+        "name": "Cygnus",
+        "url": "https://open.spotify.com/album/1D3iPGr8efICqZvw0iGDzX"
+      },
+      "artists": [
+        {
+          "name": "Graham Costello",
+          "url": "https://open.spotify.com/artist/0xYwBFKd7O4dVfzHjJVWEd"
+        }
+      ],
+      "date_added": "2021-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257968,
+      "name": "Cygnus - Edit",
+      "url": "https://open.spotify.com/track/3GmaX8Rq12cmCbckxSYdOO"
     },
     {
       "album": {
@@ -160,7 +232,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 401866,
       "name": "Earthrise",
       "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
@@ -204,7 +276,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 373813,
       "name": "Extraction",
       "url": "https://open.spotify.com/track/00xDcOBS1NwrxZlh3XfVr6"
@@ -321,6 +393,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/7ysrGWtEz7mL0WNBKMFxCu"
+      },
+      "artists": [
+        {
+          "name": "Animal Society",
+          "url": "https://open.spotify.com/artist/1a727xBDJilvH2RUjU6hwd"
+        }
+      ],
+      "date_added": "2021-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 758017,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/5KJqZNbSanOpymduTRXdAK"
+    },
+    {
+      "album": {
         "name": "Rubicon",
         "url": "https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR"
       },
@@ -332,7 +422,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181708,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL"
@@ -404,7 +494,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 341640,
       "name": "Just Call Me Nige",
       "url": "https://open.spotify.com/track/1acyO8D2JMAxZtxUohyFZy"
@@ -535,6 +625,42 @@
     },
     {
       "album": {
+        "name": "Novruz",
+        "url": "https://open.spotify.com/album/5pUuSd6GdorUyn2dR0wGmm"
+      },
+      "artists": [
+        {
+          "name": "Isfar Sarabski",
+          "url": "https://open.spotify.com/artist/0x0L0GPzpsWGkB153avHaK"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332000,
+      "name": "Novruz",
+      "url": "https://open.spotify.com/track/5a4psUHksmJQl6OXWSAJLC"
+    },
+    {
+      "album": {
+        "name": "Ornithophobia",
+        "url": "https://open.spotify.com/album/71i59tB4Mw5xifmg0RRIoq"
+      },
+      "artists": [
+        {
+          "name": "Troyka",
+          "url": "https://open.spotify.com/artist/0BxmFQFbzdxyrUlumvE7zz"
+        }
+      ],
+      "date_added": "2021-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296106,
+      "name": "Ornithophobia",
+      "url": "https://open.spotify.com/track/7ltIEsCk076HtkZRJaoA9g"
+    },
+    {
+      "album": {
         "name": "Outcry",
         "url": "https://open.spotify.com/album/0xyPOCgXbaR8b4FYEmxNMp"
       },
@@ -562,7 +688,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 432011,
       "name": "Outcry",
       "url": "https://open.spotify.com/track/4gFVpvXL947NOItXJXDpdo"
@@ -584,6 +710,60 @@
       "duration_ms": 348733,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
+    },
+    {
+      "album": {
+        "name": "Planetary Prince",
+        "url": "https://open.spotify.com/album/6lJJ95URcncW4mCDW0SEI0"
+      },
+      "artists": [
+        {
+          "name": "Cameron Graves",
+          "url": "https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP"
+        }
+      ],
+      "date_added": "2021-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486744,
+      "name": "Planetary Prince",
+      "url": "https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K"
+    },
+    {
+      "album": {
+        "name": "Pok\u00e9mon Shock",
+        "url": "https://open.spotify.com/album/4fp0b0F4wKWSKCuAnUbzKO"
+      },
+      "artists": [
+        {
+          "name": "Ujig",
+          "url": "https://open.spotify.com/artist/6bLZsknTPFOSpFJ6GY56rr"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344013,
+      "name": "Pok\u00e9mon Shock",
+      "url": "https://open.spotify.com/track/2kps9ODbIyKaXAMMf9rNdh"
+    },
+    {
+      "album": {
+        "name": "Quarantin3",
+        "url": "https://open.spotify.com/album/7mUMcH5NS6wYMkkHnc7bGg"
+      },
+      "artists": [
+        {
+          "name": "Ask My Bull",
+          "url": "https://open.spotify.com/artist/56iAXqUTBHZyOxEe7tngzL"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383693,
+      "name": "Quarantin3",
+      "url": "https://open.spotify.com/track/5u6ghiYsLHJ0jzU6SPeIup"
     },
     {
       "album": {
@@ -686,7 +866,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 229389,
       "name": "Social Abstract",
       "url": "https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x"
@@ -832,7 +1012,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 183601,
       "name": "Taurian Matador",
       "url": "https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue"
@@ -886,7 +1066,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 347797,
       "name": "Triggers",
       "url": "https://open.spotify.com/track/3XyNup2HdXLDskqrjRNPrf"
@@ -988,7 +1168,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 407000,
       "name": "Whippersnapper",
       "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
@@ -1010,6 +1190,24 @@
       "duration_ms": 571323,
       "name": "Xavi",
       "url": "https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n"
+    },
+    {
+      "album": {
+        "name": "Zeal",
+        "url": "https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp"
+      },
+      "artists": [
+        {
+          "name": "Bill Laurance",
+          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383881,
+      "name": "Zeal",
+      "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9NNVWdU83m6"

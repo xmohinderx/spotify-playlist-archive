@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Nothing Is Wrong",
+        "url": "https://open.spotify.com/album/7tz6YwuJxHAXJj4WF0N9a5"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339493,
+      "name": "A Little Bit Of Everything",
+      "url": "https://open.spotify.com/track/2vjwNjq98BY9Fp5kIoiAKl"
+    },
+    {
+      "album": {
         "name": "Chapters (Deluxe)",
         "url": "https://open.spotify.com/album/4hynGWtmIAaKmaOm8snH71"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Almost Lover",
       "url": "https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA"
@@ -142,7 +160,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 251840,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 299333,
       "name": "Comfortable - EP Version",
       "url": "https://open.spotify.com/track/26PnyFUmYdeRG7nQrsTpHc"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 253933,
       "name": "Elephants",
       "url": "https://open.spotify.com/track/4k2ad5F7HEXt6Gsiom7jEy"
@@ -741,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285680,
+      "name": "I Told You Everything",
+      "url": "https://open.spotify.com/track/34hjaSM3UGwZUJNav8Tehi"
+    },
+    {
+      "album": {
         "name": "I Love You, Honeybear",
         "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
       },
@@ -806,7 +842,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 255302,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/215GJGpPr1OHHh514DlcDq"
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 230906,
       "name": "Looking for Someone",
       "url": "https://open.spotify.com/track/0nvFWYZiozjGMZ6viIKrTa"
@@ -1040,7 +1076,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 192934,
       "name": "Love Is a Terrible Thing",
       "url": "https://open.spotify.com/track/3NFDsbi0QPErMddPE2A9QF"
@@ -1394,7 +1430,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 299040,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4sS89nAQUy2fRZWbyJWDQV"
@@ -1430,7 +1466,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189240,
       "name": "Pills",
       "url": "https://open.spotify.com/track/4XYOnP0tFe8ifE3hHitQBF"
@@ -1672,7 +1708,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 284240,
       "name": "The Dumbing Down Of Love",
       "url": "https://open.spotify.com/track/42dbPf0M81U47xbawYssYR"

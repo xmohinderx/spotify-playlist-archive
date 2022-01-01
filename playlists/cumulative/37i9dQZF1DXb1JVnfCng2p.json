@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 499253,
       "name": "Blind Man, Blind Man - Remastered",
       "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 265893,
       "name": "Camouflage - Rudy Van Gelder Edition/1998 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
@@ -444,7 +444,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200733,
       "name": "Cotton Tail",
       "url": "https://open.spotify.com/track/4DZBP4gkJflnDTutn5d9D9"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 482186,
       "name": "French Spice - Remaster 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 392626,
       "name": "Goin' 'Way Blues",
       "url": "https://open.spotify.com/track/5GF9njagXNUFegdzVOTe8l"
@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Further Explorations By The Horace Silver Quintet",
+        "url": "https://open.spotify.com/album/0CwBhf4CsMHvZcBlQpqjwN"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413200,
+      "name": "Ill Wind - Remastered",
+      "url": "https://open.spotify.com/track/7EB7hB9slZb4xGNaeS4sT8"
+    },
+    {
+      "album": {
         "name": "The Hawk Flies High",
         "url": "https://open.spotify.com/album/6qUfLxjWpMlcX1f5P3tUFH"
       },
@@ -952,7 +970,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 729613,
       "name": "Midtown Blues",
       "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 358426,
       "name": "Wigglin' - Remastered",
       "url": "https://open.spotify.com/track/4N4bT7cB4Nu0BGIzaflIHM"

@@ -404,7 +404,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 150973,
       "name": "Akimbo",
       "url": "https://open.spotify.com/track/4Btg1zMSYU2iJ0mQGQGokv"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 194266,
       "name": "Attentat",
       "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-21",
+      "date_removed": null,
       "duration_ms": 356346,
       "name": "Bande organis\u00e9e",
       "url": "https://open.spotify.com/track/717QGTmZdkemDaCo1vQHG0"
@@ -1480,7 +1480,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-19",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2008,6 +2008,36 @@
       "duration_ms": 128500,
       "name": "Calabria (feat. Lujavo & Nito-Onna)",
       "url": "https://open.spotify.com/track/6FATmkWp2Y6neyi2VVBUuu"
+    },
+    {
+      "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258431,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
     },
     {
       "album": {
@@ -3067,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
+    },
+    {
+      "album": {
         "name": "Don't Wait Up",
         "url": "https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp"
       },
@@ -3194,7 +3242,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 227040,
       "name": "Du propre",
       "url": "https://open.spotify.com/track/17gkoi8EGPO1XssTOYK5ki"
@@ -3708,7 +3756,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-06-12",
+      "date_removed": null,
       "duration_ms": 156910,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3F1P0QzdXtBz0MXy7KIO5w"
@@ -3957,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Come into My Life",
+        "url": "https://open.spotify.com/album/2dNLeo3WYrq3tGLm4OIMcQ"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2"
+    },
+    {
+      "album": {
         "name": "Freestyle 5min #11",
         "url": "https://open.spotify.com/album/0sWZR8oqaOF2HKyTIb3u0E"
       },
@@ -4002,7 +4068,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-08-31",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -4780,7 +4846,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181375,
       "name": "Intro",
       "url": "https://open.spotify.com/track/1xYzN6PXSwoOChUJnq8eJU"
@@ -4856,6 +4922,28 @@
       "duration_ms": 165946,
       "name": "IVERSON",
       "url": "https://open.spotify.com/track/5ZjEm81TYFPfE6Ddc0memq"
+    },
+    {
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/4BBhjKBUJZxBGsmTCH4BHM"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
+      "url": "https://open.spotify.com/track/44BdgwXryaVltM1ixhWZoA"
     },
     {
       "album": {
@@ -5698,7 +5786,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 221781,
       "name": "La maison que je voulais",
       "url": "https://open.spotify.com/track/6xVRI3rGcsgi8ZCfdf90Oe"
@@ -5752,7 +5840,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 244000,
       "name": "La Qu\u00eate",
       "url": "https://open.spotify.com/track/0w6lsLBvhtGcqMYA7MB7r6"
@@ -7928,7 +8016,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -8012,7 +8100,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 179026,
       "name": "N.I",
       "url": "https://open.spotify.com/track/52UT99qy9z0YfQ0CQLCmAu"
@@ -8048,7 +8136,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-14",
+      "date_removed": null,
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
@@ -8138,7 +8226,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 237459,
       "name": "No Life",
       "url": "https://open.spotify.com/track/0iPf1xVxV7rlbG4wn3ANFa"
@@ -8214,7 +8302,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 227139,
       "name": "OG",
       "url": "https://open.spotify.com/track/4rhBWOjhizvPajnOhp7q5H"
@@ -8438,7 +8526,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215756,
       "name": "Outro",
       "url": "https://open.spotify.com/track/0rLLENEBErAJjcTFTnQxhq"
@@ -8742,7 +8830,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-17",
+      "date_removed": null,
       "duration_ms": 189933,
       "name": "Petrouchka (feat. PLK)",
       "url": "https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E"
@@ -9390,7 +9478,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 118796,
       "name": "Raspoutine",
       "url": "https://open.spotify.com/track/368KS9UNJ8cft7RJ1USwb9"
@@ -9412,7 +9500,7 @@
       ],
       "date_added": "2021-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-14",
+      "date_removed": null,
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
@@ -11118,7 +11206,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222448,
       "name": "Tu le sais",
       "url": "https://open.spotify.com/track/2s1lS0DxcxTB8Y6oFgVKqW"

@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 374256,
       "name": "Aaj Mausam Bada Beimaan Hai",
       "url": "https://open.spotify.com/track/5fW4gRS99wXOOuYRV03W5X"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 251414,
       "name": "Aaja Piya Tohe Pyar Doon (From \"Baharon Ke Sapne\")",
       "url": "https://open.spotify.com/track/7HCQpQGrg2FJT9mdBs75rm"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 265743,
       "name": "Aaja Sanam Madhur Chandni Men",
       "url": "https://open.spotify.com/track/4mvkokOAbfjx2J2TVgwVtf"
@@ -154,10 +154,36 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 296080,
       "name": "Aao Na Gale Lag Jao Na",
       "url": "https://open.spotify.com/track/0CYPWCzses6SznboW6cxbM"
+    },
+    {
+      "album": {
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/5fICh4j205nDQ9tAR5omRP"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Aap Ki Ankhon Mein Kuch",
+      "url": "https://open.spotify.com/track/2hWUcbgPqVsvsgHMWEvSUe"
     },
     {
       "album": {
@@ -194,7 +220,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258386,
       "name": "Abhi Na Jao Chhod Kar",
       "url": "https://open.spotify.com/track/2oaKoKA8bvgWfBi9M8wEVJ"
@@ -234,7 +260,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 237466,
       "name": "Ankhon Hi Ankhon Mein",
       "url": "https://open.spotify.com/track/4DrwGBkDCtQsA81GNPgvNA"
@@ -292,7 +318,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 339066,
       "name": "Aye-Dil-E-Nadan, Pt. 1",
       "url": "https://open.spotify.com/track/4GPR2blOOTmvo1cW2rTM7J"
@@ -415,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Dil Deke Dekho",
+        "url": "https://open.spotify.com/album/1XkOA0zjFuSj47GIwD3Qvr"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252586,
+      "name": "Dil Deke Dekho Dil Deke Dekho",
+      "url": "https://open.spotify.com/track/2uZ99ytApIF88OcrzP80MH"
+    },
+    {
+      "album": {
         "name": "Memoirically - Mohammed Rafi",
         "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
       },
@@ -426,7 +470,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 199119,
       "name": "Dil Ka Bhanwar Kare Pukar (From \"Tere Ghar Ke Samne\")",
       "url": "https://open.spotify.com/track/5jLLoCldTG8bsynJWI7jJT"
@@ -448,7 +492,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 207293,
       "name": "Dil Tadap Tadap Ke Kah Raha",
       "url": "https://open.spotify.com/track/3BhrEWJmIt4lgE5CHKc5cN"
@@ -488,7 +532,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206893,
       "name": "Ehsan Tera Hoga Mujh Par",
       "url": "https://open.spotify.com/track/7nNDC2XCZG9ei1DskgQ72r"
@@ -554,7 +598,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 388546,
       "name": "Gaadi Bula Rahi Hai",
       "url": "https://open.spotify.com/track/5hikDyf8SBJ00s80Bk7KTQ"
@@ -678,7 +722,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 197106,
       "name": "Jata Kahan Hai Diwane",
       "url": "https://open.spotify.com/track/5cQzW3GYUl3TidsZr9Lb4t"
@@ -732,7 +776,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 280080,
       "name": "Khoya Khoya Chand Khula Aasman",
       "url": "https://open.spotify.com/track/31h2OADQEXLYor3p2X81cQ"
@@ -790,7 +834,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 257613,
       "name": "Lag Ja Gale Se Phir",
       "url": "https://open.spotify.com/track/1kKxvLPfgpG5NRJ9MAmYsu"
@@ -869,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Ijaazat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1WYIGp9ZDGLiv5DVsz1lMR"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398973,
+      "name": "Mera Kuchh Samaan",
+      "url": "https://open.spotify.com/track/1ktCVRr2DZdKpDmhEuHBq2"
+    },
+    {
+      "album": {
         "name": "Lag Ja Gale - Best of Lata Mangeshkar and Madan Mohan",
         "url": "https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow"
       },
@@ -938,7 +1000,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 300640,
       "name": "Mere Sapnon Ki Rani (From \"Aradhana\")",
       "url": "https://open.spotify.com/track/3cWgUwwFeydGWc5vLjr5UC"
@@ -956,7 +1018,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 247546,
       "name": "Na Jao Saiyan Chhuda Ke Baiyan",
       "url": "https://open.spotify.com/track/0ZuHdH0acs3EmaukBgzJQk"
@@ -978,6 +1040,28 @@
       "duration_ms": 201346,
       "name": "Na Tum Hamen Jano - Male Vocals",
       "url": "https://open.spotify.com/track/63duKTfcFc60adEHebFkD9"
+    },
+    {
+      "album": {
+        "name": "Memoirically - Mohammed Rafi",
+        "url": "https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415236,
+      "name": "O Haseena Zulfonwale Jane Jahan (From \"Teesri Manzil\")",
+      "url": "https://open.spotify.com/track/1JHNf1BPNDQEVZehemIDay"
     },
     {
       "album": {
@@ -1010,7 +1094,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 335005,
       "name": "O Saathi Re - Female Vocals",
       "url": "https://open.spotify.com/track/1dYOciuxgvYcepVR1ZmQNk"
@@ -1086,7 +1170,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 284133,
       "name": "Pyar Diwana Hota Hai (From \"Kati Patang\")",
       "url": "https://open.spotify.com/track/6MYmHgOoy0BLOtdL2Zug6e"
@@ -1133,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "Aa Gale Lag Jaa",
+        "url": "https://open.spotify.com/album/3OnI8lR3OYG4XKSEtgudk2"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Sushma Shrestha",
+          "url": "https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Tera Mujhse - Aa Gale Lag Jaa / Soundtrack Version",
+      "url": "https://open.spotify.com/track/3Jj02N4CsUY8YAn2d03M4K"
+    },
+    {
+      "album": {
         "name": "Guide (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2vdYAsm1WgUauImlYaqRbU"
       },
@@ -1162,7 +1268,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 283146,
       "name": "Teri Galiyon Mein",
       "url": "https://open.spotify.com/track/1KL9KL7o8af7b93kgQS85z"
@@ -1223,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "C.I.D. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WwsIW6Jo34bhgjl4L9LKo"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Geeta Dutt",
+          "url": "https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248226,
+      "name": "Yeh Hai Bombay Meri Jaan",
+      "url": "https://open.spotify.com/track/15XBdkGcDy4WZJlWjF1gZc"
+    },
+    {
+      "album": {
         "name": "Silsila (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QyzsjSnEUqIcCuUrXYYuv"
       },
@@ -1238,7 +1366,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 474906,
       "name": "Yeh Kahan Aa Gaye Hum",
       "url": "https://open.spotify.com/track/1QIj8I43FGPhol27UIk7ix"
@@ -1314,7 +1442,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 336613,
       "name": "Yeh Raaten - From \"Julie\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/6jWYM50qljcVX5gypDKl2J"
@@ -1336,7 +1464,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201160,
       "name": "Yeh Raaten Yeh Mausam",
       "url": "https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J"

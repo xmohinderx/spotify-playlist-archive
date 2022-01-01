@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217040,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/0ZUF8IsGwFVBTMKi32BpjJ"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 322200,
       "name": "Baby I'm Ready",
       "url": "https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 238717,
       "name": "Back Together (feat. Rick James)",
       "url": "https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 299800,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 325493,
       "name": "Close the Door",
       "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 258933,
       "name": "Loved By You (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/4S3FRqrM3VyuajD7jFZcLm"
@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/2ahLt7NaAwx6sK1MkPPAD5"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207158,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/0jesM7wcZacJWJde6noqB9"
+    },
+    {
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 274706,
       "name": "Same Love",
       "url": "https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217054,
       "name": "Stay on Your Mind",
       "url": "https://open.spotify.com/track/7M2Y6k2KSpH28HUAFamMg5"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 243252,
       "name": "Stuck With Me",
       "url": "https://open.spotify.com/track/79krSKwLin119oRNcyfnRY"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 385505,
       "name": "Sweet Afternoon",
       "url": "https://open.spotify.com/track/7qv9C7XGzABH4S3HrmnsWq"
@@ -934,7 +952,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr"
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 316893,
       "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
       "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 322693,
       "name": "You're My Latest, Greatest Inspiration",
       "url": "https://open.spotify.com/track/24Uu2LvYtrQucgUL69WzMx"

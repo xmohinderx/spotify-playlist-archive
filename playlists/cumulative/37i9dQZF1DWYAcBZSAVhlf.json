@@ -212,7 +212,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 303493,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/5OKScc0MSa9Wl8g2zrulLn"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 249840,
       "name": "Dressed For Success",
       "url": "https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 319733,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3l0La6OOdycSjsDQ1uVJUb"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 254733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200826,
       "name": "Morning Train (Nine to Five) - Edit",
       "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 357146,
       "name": "Sisters Are Doin' It for Themselves - Remastered Version",
       "url": "https://open.spotify.com/track/6pPCOXIQeNMr1oCWJTomSf"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 229200,
       "name": "Tell Her About It",
       "url": "https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR"
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "80s 100 Hits",
+        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
+      },
+      "artists": [
+        {
+          "name": "Tight Fit",
+          "url": "https://open.spotify.com/artist/6NaacjWVEwO2la6AnxH0ZK"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "The Lion Sleeps Tonight",
+      "url": "https://open.spotify.com/track/1so85Or3C7J0sBnBOucVBA"
+    },
+    {
+      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
       },
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "The Motown Song (with The Temptations) - 2008 Remaster",
       "url": "https://open.spotify.com/track/2GZ0dVvRcmtojWuPgBfKIl"
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 257640,
       "name": "The Right Thing",
       "url": "https://open.spotify.com/track/2ZfALE4EncKJFqsEwDkrl9"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 298120,
       "name": "The Way You Make Me Feel - 2012 Remaster",
       "url": "https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208520,
       "name": "You Came - Single Version",
       "url": "https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 255293,
       "name": "You Can Leave Your Hat On",
       "url": "https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ"
@@ -1910,7 +1928,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204880,
       "name": "Young at Heart",
       "url": "https://open.spotify.com/track/5PwWIKBztoHDVAVcL3IH2X"

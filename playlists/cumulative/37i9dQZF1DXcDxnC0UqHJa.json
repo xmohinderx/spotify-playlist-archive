@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200705,
       "name": "Anthems For A Seventeen Year Old Girl",
       "url": "https://open.spotify.com/track/4theWoXNBRcNzY43Mwdl7V"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 155853,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/1DSnSVoW5ZC78QCWvb2cHY"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 259920,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 197306,
       "name": "Bluebird Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 174626,
       "name": "Color of the Blues (feat. Susan Tedeschi)",
       "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 275880,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 414586,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5qv0ohJV2QNwga79jLNDYQ"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 201173,
       "name": "How Sweet It Is",
       "url": "https://open.spotify.com/track/72obwZ3uN0QOg3FJrMVGWP"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 233000,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "The Family Album",
+        "url": "https://open.spotify.com/album/449bkc35qyRId5JYy8JNeI"
+      },
+      "artists": [
+        {
+          "name": "Matthew Barber & Jill Barber",
+          "url": "https://open.spotify.com/artist/368ITj3nE0l1DrS8Gkg20T"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262686,
+      "name": "If I Needed You",
+      "url": "https://open.spotify.com/track/0llpbPQLATUggJkRkZovL9"
+    },
+    {
+      "album": {
         "name": "Young Brigham",
         "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
       },
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 304693,
       "name": "If I Were A Carpenter",
       "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 294957,
       "name": "Mississippi Goddam (feat. Adia Victoria & Kyshona Armstrong)",
       "url": "https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm"
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206573,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/4QSydVI5rxWfRYlWHjF1Rd"
@@ -2634,7 +2652,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 165306,
       "name": "True Love Will Find You In The End",
       "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 187724,
       "name": "Walking on Sunshine",
       "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 170784,
       "name": "When The Party's Over",
       "url": "https://open.spotify.com/track/23wm1L965FPa1DXSnRGUqD"

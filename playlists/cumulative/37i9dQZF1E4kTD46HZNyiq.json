@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Sunglasses Kid, Great Good Fine Ok, The Chain Gang Of 1974 and more",
+  "description": "With Whole Doubts, Phangs, Great Good Fine Ok and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 203285,
       "name": "10th Avenue",
       "url": "https://open.spotify.com/track/2pdxTRTuNY3f4OSPjLAKIB"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 183460,
       "name": "Always Been U",
       "url": "https://open.spotify.com/track/35jQAfJWI7FlOo0MP1CV0W"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 265280,
       "name": "Annie",
       "url": "https://open.spotify.com/track/7ebOfMtf3soOxRTcmEghH8"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 236652,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/3o1acJkFAycmM28XB3e3Xj"
@@ -334,6 +334,24 @@
       "duration_ms": 245920,
       "name": "Bad Enough",
       "url": "https://open.spotify.com/track/1hGMEpBTCc5Ch2DiWtnnPZ"
+    },
+    {
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "album": {
@@ -550,7 +568,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 180706,
       "name": "Cheer Captain",
       "url": "https://open.spotify.com/track/1rW9uae4EZuui4vARG2IyI"
@@ -612,7 +630,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "comatose",
       "url": "https://open.spotify.com/track/5ivNQNApxeZA9Vp37KwjXU"
@@ -702,7 +720,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231493,
       "name": "Didn't Make It",
       "url": "https://open.spotify.com/track/3gYvFUEdWIlvxVxKfimAJr"
@@ -836,7 +854,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 195364,
       "name": "Eyes Wide",
       "url": "https://open.spotify.com/track/1VgSDNsbw9Hv5uWSAC4PDp"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 202718,
       "name": "Half-Saved",
       "url": "https://open.spotify.com/track/6kNLASo01nyX5DVB4UGYFK"
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 247879,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 198824,
       "name": "I Don't Feel Real",
       "url": "https://open.spotify.com/track/6MZYWdxGka0BnG3KYO739d"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 229320,
       "name": "I Don't Wanna",
       "url": "https://open.spotify.com/track/2HmvDlBGFjCl90aqdQRdLD"
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 251329,
       "name": "Juliette",
       "url": "https://open.spotify.com/track/3Qaq3lUUawG3MEWvRcNBcx"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193645,
       "name": "Love Like You Care",
       "url": "https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 249533,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/0NCXnRHDXYlpHpEhamDDpi"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 253666,
       "name": "Not Much",
       "url": "https://open.spotify.com/track/7jg7LVNFg6Euvm1wZySOrV"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 147031,
       "name": "Nothing Personal",
       "url": "https://open.spotify.com/track/74j1zzYiEeDgaCh37XqaAI"
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Once In A Lifetime - Single Version",
       "url": "https://open.spotify.com/track/6cLYgEHXAcgTR5PLE5MeVc"
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 295221,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/4O6pSwn4xxx8FdBBdqeEin"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 273650,
       "name": "Overtime",
       "url": "https://open.spotify.com/track/2HCGkkD6tG72xBD8dTdOX2"
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 174085,
       "name": "Rest of Our Lives",
       "url": "https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0"
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 208878,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/0I9deMawCrAn32ntJLYbsX"
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 209240,
       "name": "Steps",
       "url": "https://open.spotify.com/track/3YR1CSEZrjaCXdvyR1Uj8h"
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 199935,
       "name": "Sundane",
       "url": "https://open.spotify.com/track/7zuVoJFY7pKcMgk7jHABOJ"
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 235500,
       "name": "The Way You Feel",
       "url": "https://open.spotify.com/track/6ndqfbFirzCIoD19p949UW"
@@ -2910,7 +2928,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 259834,
       "name": "Time Lapse",
       "url": "https://open.spotify.com/track/7oMI71Jb3USQX5ILk5lp6x"
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 235573,
       "name": "Wallflowers",
       "url": "https://open.spotify.com/track/1jlYZtPqHOb8zueJ6X9QEO"
@@ -3106,7 +3124,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 197460,
       "name": "Wild",
       "url": "https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh"
@@ -3128,6 +3146,28 @@
       "duration_ms": 185000,
       "name": "XO",
       "url": "https://open.spotify.com/track/0HbUACbnUZ6NvgFvVyUuC3"
+    },
+    {
+      "album": {
+        "name": "reimagined",
+        "url": "https://open.spotify.com/album/2h1ywXX8GL0dHQW1yzU8Mf"
+      },
+      "artists": [
+        {
+          "name": "flor",
+          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
+        },
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205310,
+      "name": "yellow (feat. MisterWives)",
+      "url": "https://open.spotify.com/track/3YKuBuWyr6jgIdFOEhw2q4"
     },
     {
       "album": {

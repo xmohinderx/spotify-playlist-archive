@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 315414,
       "name": "Alma m\u00eda - Baiuca Remix",
       "url": "https://open.spotify.com/track/4l6mBSYOrtPMdGG4KzW6UW"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 289186,
       "name": "Altamar",
       "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 236786,
       "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
       "url": "https://open.spotify.com/track/1zgrb8rh6QpZrDZVTdbSfU"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 221133,
       "name": "Carin\u0303ito",
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 307830,
       "name": "Ch'usay",
       "url": "https://open.spotify.com/track/704xWR1nWpxhFRBbB8sboj"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 277546,
       "name": "Como Noide",
       "url": "https://open.spotify.com/track/2rO5c5C7ZjPhmvO05BfZ9B"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 317790,
       "name": "Currulao Version",
       "url": "https://open.spotify.com/track/0tCCY12EmCOF8KSbJjpKKo"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 308213,
       "name": "Efecto Manglar",
       "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208125,
       "name": "El Alma del Mundo",
       "url": "https://open.spotify.com/track/511oG5pe1WMrmGHed4VaGP"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 235032,
       "name": "El Mago Georges",
       "url": "https://open.spotify.com/track/1CJ5JejmIAEtShoxy8DQHU"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 262856,
       "name": "La Cosecha - Captain Planet Remix",
       "url": "https://open.spotify.com/track/2gult4wJ3eyiR18mTpZBk0"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 324556,
       "name": "La Ni\u00f1a del Volc\u00e1n (Polocorp Remix)",
       "url": "https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA"
@@ -1024,6 +1024,28 @@
       "duration_ms": 300000,
       "name": "Levanta Muertos",
       "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
+    },
+    {
+      "album": {
+        "name": "Maleza",
+        "url": "https://open.spotify.com/album/6r9lWGNWCFR0pvef7vMIGV"
+      },
+      "artists": [
+        {
+          "name": "Reptila",
+          "url": "https://open.spotify.com/artist/3iITPOD4UlvqOYr6OYEnWN"
+        },
+        {
+          "name": "Sarazul",
+          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259849,
+      "name": "Maleza",
+      "url": "https://open.spotify.com/track/6thXjSpWtLHJL72kXLgOkI"
     },
     {
       "album": {
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/7yoBYwXd4gtGBIygYefGOI"
@@ -1144,7 +1166,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 293283,
       "name": "Matiela Suto",
       "url": "https://open.spotify.com/track/7e31OKhHlh5pFh3Podo1RT"
@@ -1162,7 +1184,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 253626,
       "name": "Me Recordaras",
       "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
@@ -1342,7 +1364,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 157746,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
@@ -1360,7 +1382,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 489503,
       "name": "Paracai\u0301das",
       "url": "https://open.spotify.com/track/1U2VJnATZ5a0UwqJx1aHie"
@@ -1498,7 +1520,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 314009,
       "name": "Que Bailen",
       "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
@@ -1556,7 +1578,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 313360,
       "name": "Reasons to Fight (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG"
@@ -1596,7 +1618,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 192039,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet"
@@ -1614,10 +1636,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 285990,
       "name": "Sakoneta",
       "url": "https://open.spotify.com/track/49Dq0m0JDGJJfz8VqxIt81"
+    },
+    {
+      "album": {
+        "name": "Momoto",
+        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
+      },
+      "artists": [
+        {
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+        },
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427525,
+      "name": "Salamanquesa",
+      "url": "https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw"
     },
     {
       "album": {
@@ -1666,7 +1710,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
@@ -1834,7 +1878,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 239417,
       "name": "Sue\u00f1o en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5"
@@ -1900,6 +1944,28 @@
       "duration_ms": 199000,
       "name": "The Corsican - Original mix",
       "url": "https://open.spotify.com/track/2WUex4U9lUtK6aWJilMLb0"
+    },
+    {
+      "album": {
+        "name": "Tierra de King Coya",
+        "url": "https://open.spotify.com/album/4MHpj6HpDXlbgudewcu1sU"
+      },
+      "artists": [
+        {
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
+        },
+        {
+          "name": "La Walichera",
+          "url": "https://open.spotify.com/artist/7dzArOtUWlE21Aq9wccZEq"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297216,
+      "name": "Tierra de King Coya",
+      "url": "https://open.spotify.com/track/4qvaB7xmtq7XOv2W3lN53x"
     },
     {
       "album": {

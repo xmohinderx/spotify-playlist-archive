@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184158,
       "name": "2 You",
       "url": "https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 245426,
       "name": "Anxiety (Burlinda\u2019s Theme)",
       "url": "https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173266,
       "name": "Be Quiet (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/2xeW5CIB5XHkaDLYEFOSjs"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 188839,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 130532,
       "name": "Boyz II Men",
       "url": "https://open.spotify.com/track/5buGEKUWGl3pZYQ9sh3392"
@@ -226,6 +226,42 @@
       "duration_ms": 176825,
       "name": "Can We Be Friends?",
       "url": "https://open.spotify.com/track/0dQ5ByUHcI2ngYfUhCqNLP"
+    },
+    {
+      "album": {
+        "name": "Clear My Mind",
+        "url": "https://open.spotify.com/album/7DWz3qJP7YjXwhoEknFpz0"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155459,
+      "name": "Clear My Mind",
+      "url": "https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz"
+    },
+    {
+      "album": {
+        "name": "Comeback.",
+        "url": "https://open.spotify.com/album/0YPxsm4lh9nFvkGYNSYXsa"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "Comeback.",
+      "url": "https://open.spotify.com/track/4i1sWZe3erL8QVRCdwMoxT"
     },
     {
       "album": {
@@ -280,7 +316,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 166000,
       "name": "crush",
       "url": "https://open.spotify.com/track/0RVtptlBoUcVulumTGzmZE"
@@ -305,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z"
+      },
+      "artists": [
+        {
+          "name": "Miiesha",
+          "url": "https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196536,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj"
+    },
+    {
+      "album": {
         "name": "To Myself (Deluxe)",
         "url": "https://open.spotify.com/album/2RKhRRDOU32gaoNRrQICbG"
       },
@@ -316,10 +370,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 174208,
       "name": "Damn",
       "url": "https://open.spotify.com/track/3GI61nYQMfL6diHPFU0YLB"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6Ybk2UXncKCGUvi41vwcWR"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249494,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2b3y7M0vz0oqP5AwGguTV7"
     },
     {
       "album": {
@@ -341,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Element (from Insecure: Music From The HBO Original Series, Season 4)",
+        "url": "https://open.spotify.com/album/3bm7Dxp8qvUKvbXyf06tcu"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163096,
+      "name": "Element (from Insecure: Music From The HBO Original Series, Season 4)",
+      "url": "https://open.spotify.com/track/1ePRRO0RaVPy2diUURqb3I"
+    },
+    {
+      "album": {
         "name": "F.U.C.K.",
         "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
@@ -352,7 +446,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205373,
       "name": "F.U.C.K.",
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
@@ -388,7 +482,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 173760,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu"
@@ -406,7 +500,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196000,
       "name": "Fool 4 U",
       "url": "https://open.spotify.com/track/18GeUA2TkZDUOsRqbNj36C"
@@ -490,7 +584,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 156121,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx"
@@ -508,7 +602,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 157452,
       "name": "Get To You",
       "url": "https://open.spotify.com/track/6Nao5S6vnMgw10QZgaub1K"
@@ -548,7 +642,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 183731,
       "name": "Go There With You",
       "url": "https://open.spotify.com/track/4DHbBXZYwlFIVpcI8fC6Ue"
@@ -584,7 +678,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 230693,
       "name": "Hard 4 Me 2 Love You",
       "url": "https://open.spotify.com/track/4YF1ucCHnZHQFxeLxtPLpS"
@@ -620,7 +714,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
@@ -696,7 +790,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 188234,
       "name": "In My Corner",
       "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
@@ -718,7 +812,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173341,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/7A1xtIabfrZ5X3xIa7KqWj"
@@ -772,7 +866,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 177720,
       "name": "LOST YOU",
       "url": "https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs"
@@ -812,6 +906,24 @@
       "duration_ms": 160000,
       "name": "MIA",
       "url": "https://open.spotify.com/track/5KXkEQx57UUspGxofsA8be"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/6igqszsHOnDaH8Y0HR8z63"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168146,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/114OVh0TxTsEnyMQNAd74t"
     },
     {
       "album": {
@@ -990,7 +1102,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231483,
       "name": "Passionate",
       "url": "https://open.spotify.com/track/5yhxcKL2OEEJJLwn8Aekve"
@@ -1012,6 +1124,24 @@
       "duration_ms": 232096,
       "name": "Pick Up Your Feelings",
       "url": "https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/07cuDu48HGQ7imcSohcKXc"
+      },
+      "artists": [
+        {
+          "name": "Nesta",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203056,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u"
     },
     {
       "album": {
@@ -1062,7 +1192,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 186887,
       "name": "Same Mistakes",
       "url": "https://open.spotify.com/track/7drQynmcfwZhnAe31RoXgi"
@@ -1160,7 +1290,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222269,
       "name": "Set Him Up (feat. Ari Lennox)",
       "url": "https://open.spotify.com/track/0FhfNle9FovXRL03awCJbe"
@@ -1211,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "So Done (feat. Khalid)",
+        "url": "https://open.spotify.com/album/062XA53aUGExhE7e8ngYQO"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235785,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3X3TlieuOl8aWzw2HeigUo"
+    },
+    {
+      "album": {
         "name": "So Frequently",
         "url": "https://open.spotify.com/album/773nWzQZ7Uy2BekzwLAUYI"
       },
@@ -1222,7 +1374,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181813,
       "name": "So Frequently",
       "url": "https://open.spotify.com/track/5dpEHuTqnkM0SxzRpme5Bi"
@@ -1240,7 +1392,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 177445,
       "name": "Still Your Best",
       "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
@@ -1294,10 +1446,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196000,
       "name": "Summer 2020",
       "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "album": {
+        "name": "alone / the catch up",
+        "url": "https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188115,
+      "name": "the catch up",
+      "url": "https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs"
     },
     {
       "album": {
@@ -1319,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199540,
+      "name": "Time & Space",
+      "url": "https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb"
+    },
+    {
+      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -1330,7 +1518,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 168182,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
@@ -1352,6 +1540,24 @@
       "duration_ms": 207314,
       "name": "Tragic",
       "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
+    },
+    {
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209933,
+      "name": "Triggered (freestyle)",
+      "url": "https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE"
     },
     {
       "album": {

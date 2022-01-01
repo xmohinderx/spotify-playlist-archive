@@ -148,7 +148,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 174005,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/6fxlcTylxj06V5MRoCdtKP"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220320,
       "name": "A\u00f1os Luz",
       "url": "https://open.spotify.com/track/6hwmqR7uQhytLnJzt1RVPF"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 218996,
       "name": "C\u00e1ntalo",
       "url": "https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 324839,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/70LGyyGv8M9Wx0pAA4srD5"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 210528,
       "name": "La Latina",
       "url": "https://open.spotify.com/track/2PpsZRMsFNDcJPJul0khH4"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 257483,
       "name": "La Pel\u00edcula II",
       "url": "https://open.spotify.com/track/5WZPTq3NoLhIys3RyPF5Ye"
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "MAFIOSA",
+        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
+      },
+      "artists": [
+        {
+          "name": "Nathy Peluso",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266217,
+      "name": "MAFIOSA",
+      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
       },
@@ -1408,6 +1426,28 @@
       "duration_ms": 228966,
       "name": "Mala",
       "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
+    },
+    {
+      "album": {
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/3oUyYJZkXbamjwIaHjJO3l"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "Lirow",
+          "url": "https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203598,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/4sLW4tfhCMYPfiN7u8r9DT"
     },
     {
       "album": {
@@ -1462,7 +1502,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 212045,
       "name": "Me Tienes Mal",
       "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
@@ -1738,7 +1778,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 252946,
       "name": "Oye Mujer",
       "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
@@ -1822,7 +1862,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 336947,
       "name": "Paula C.",
       "url": "https://open.spotify.com/track/7FZ5WSbcZxfq6ij4PZgzja"
@@ -1848,6 +1888,24 @@
       "duration_ms": 203426,
       "name": "Payasos",
       "url": "https://open.spotify.com/track/1soECbw2IFdWt5W8Rb4uG7"
+    },
+    {
+      "album": {
+        "name": "Ruben Blades - Greatest Hits",
+        "url": "https://open.spotify.com/album/6JwZQl7WzZmOMj3bfoBuiE"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442600,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/5y37hGmb0LU3YiZRlFJGUR"
     },
     {
       "album": {
@@ -2094,7 +2152,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258760,
       "name": "Sin Amenazas",
       "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
@@ -2112,7 +2170,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215500,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/51Qo4o1rz2FJ5h0ie2Okjt"
@@ -2174,7 +2232,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 314474,
       "name": "Soy Cordobe\u0301s",
       "url": "https://open.spotify.com/track/1jJ6OaUu1suh9XLERl2cf6"
@@ -2192,7 +2250,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 290520,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/1siATRpCTikt3dpJiBonfk"
@@ -2232,7 +2290,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 225106,
       "name": "Tan Buena",
       "url": "https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s"
@@ -2268,7 +2326,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204564,
       "name": "Te Quiero a Morir",
       "url": "https://open.spotify.com/track/3f0O8XWSxYA2zxLCpq95Wl"
@@ -2380,7 +2438,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 301288,
       "name": "Tu Falta de Querer",
       "url": "https://open.spotify.com/track/5AQ5u6zEpcHqwnTuYFesR9"
@@ -2456,7 +2514,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217000,
       "name": "Una Mentirita",
       "url": "https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p"

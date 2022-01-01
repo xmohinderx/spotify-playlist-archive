@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 210405,
       "name": "airplane thoughts",
       "url": "https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 228922,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 175555,
       "name": "Catwalk (feat. Skeltal Ki)",
       "url": "https://open.spotify.com/track/2193DrgHsldAvZjmCVasNX"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 286093,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3T7lv6LiJSfOsZS9t6kcPp"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 194500,
       "name": "Daddy I Love Him",
       "url": "https://open.spotify.com/track/37mC2KemFKwFPHhEENjVR9"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 210253,
       "name": "ELECTRICITY",
       "url": "https://open.spotify.com/track/45evb9qLvaZipMbpwIz9eN"
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/1EdHFGfvFJsRf3D8mFyn7I"
+      },
+      "artists": [
+        {
+          "name": "Brandon Stansell",
+          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174826,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/1QbhEVCWcR734eY5RSHTN8"
+    },
+    {
+      "album": {
         "name": "flowers & sex",
         "url": "https://open.spotify.com/album/43yO5kDK1ryXFb87iAvUm6"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 143225,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/6WQfQs9evbcqVDIh3yRR3m"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 198853,
       "name": "Froot Loop",
       "url": "https://open.spotify.com/track/1rPMCtgZbMX7s7aHNN7WtV"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 196505,
       "name": "Getaway (feat. Tegan and Sara)",
       "url": "https://open.spotify.com/track/3GyyChTq6IZR8wtyTHh3eY"
@@ -784,7 +802,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186500,
       "name": "Girl From The Internet",
       "url": "https://open.spotify.com/track/2mKCMCSH5bNulbg8mU4E2c"
@@ -904,7 +922,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 201542,
       "name": "Got No Choice",
       "url": "https://open.spotify.com/track/0bZn83nTisBT1OCb7bA3rw"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 151642,
       "name": "Gucci Knife (feat. MASN)",
       "url": "https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi"
@@ -962,7 +980,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173271,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/71Uv6VSCYTjjXOEokJwpj4"
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 166113,
       "name": "Have You Thought About Me With Somebody Else",
       "url": "https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq"
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193533,
       "name": "Heart Storm (with NAO)",
       "url": "https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 165600,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/617rg45LEx76r1paWSNpZy"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 190984,
       "name": "Hell Is A Crowded Room",
       "url": "https://open.spotify.com/track/4AyMhWSYyJCqVCpODpoUB6"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 250613,
       "name": "Hot & Heavy",
       "url": "https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185698,
       "name": "I'll Answer (i love you mom)",
       "url": "https://open.spotify.com/track/3uyoqx222UxlCRhl3uYvs4"
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 174598,
       "name": "Late Bloomer",
       "url": "https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 197560,
       "name": "LIVIN",
       "url": "https://open.spotify.com/track/7qcSohP31AJwGykWKage79"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 209631,
       "name": "Love me for me",
       "url": "https://open.spotify.com/track/73MmbnDCRABCDJUcyWi6b1"
@@ -1584,7 +1602,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 184901,
       "name": "nothing but the love",
       "url": "https://open.spotify.com/track/2tW9lXMLknjIKFmWtMpf54"
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 195907,
       "name": "Pride First",
       "url": "https://open.spotify.com/track/4ZjCl1QB8VxPjkFPwSlrbi"
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 146331,
       "name": "Really, Really",
       "url": "https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4"
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 197243,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F"
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 214285,
       "name": "SFU",
       "url": "https://open.spotify.com/track/5uVAcFHtYKGGbgWc835OLx"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 220327,
       "name": "SHOW OFF (feat. Nicole Scherzinger)",
       "url": "https://open.spotify.com/track/1jpnnxTKqfvSWl6MccJjAd"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185231,
       "name": "Tender feat. Yoke Lore",
       "url": "https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv"
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216053,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/2RwAlmqqMPsBMYC4PewkEt"
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 233755,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5BzkZPufqKMVZ1i7aEBDU9"
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 224924,
       "name": "With You",
       "url": "https://open.spotify.com/track/60OOrdAxlAwamsHAhoJwBa"
@@ -2318,6 +2336,24 @@
       "duration_ms": 167280,
       "name": "Would You Die?",
       "url": "https://open.spotify.com/track/02LcesfK6OjwjYte9Utnhy"
+    },
+    {
+      "album": {
+        "name": "XOXOY2K / ask me",
+        "url": "https://open.spotify.com/album/2XrT7BOZzqCXKTnTaPblDK"
+      },
+      "artists": [
+        {
+          "name": "Alaska Thunderfuck",
+          "url": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "XOXOY2K",
+      "url": "https://open.spotify.com/track/48BnZIv8dDo91L13l7IeAt"
     },
     {
       "album": {

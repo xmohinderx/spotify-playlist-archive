@@ -1,37 +1,13 @@
 {
-  "description": "New joints of the week featuring Fredo Bang, Spotemgotem, Lil Dicky, and more. Cover: Nas",
+  "description": "New joints of the week featuring Nas, Fredo Bang, Spotemgotem, and more. Cover: Roddy Ricch",
   "name": "New Joints",
-  "num_followers": 131549,
+  "num_followers": 131600,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDA5MDAwMDAwMTdkZWFjZjY1MzQwMDAwMDE3ZGU1YzhlZjRk",
+  "snapshot_id": "MTY0MTA2NTA1NCwwMDAwMDA5MTAwMDAwMTdlMTcxOTgyYjAwMDAwMDE3ZTE3MTgwYzMw",
   "tracks": [
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 190261,
-      "name": "Wave Gods",
-      "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
-    },
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
@@ -51,62 +27,6 @@
       "duration_ms": 213453,
       "name": "don\u2019t i (feat. Gunna)",
       "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Fool for Love",
-        "url": "https://open.spotify.com/album/6MCNOxtviWOQ5JjJ8KBGqx"
-      },
-      "artists": [
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        }
-      ],
-      "duration_ms": 150324,
-      "name": "Fool for Love",
-      "url": "https://open.spotify.com/track/2fKgq4eJuQcXuzGDjFm5Vw"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "We Good (From The TV Show \"DAVE\")",
-        "url": "https://open.spotify.com/album/7r12oLHbuBAhYcEFAklRYE"
-      },
-      "artists": [
-        {
-          "name": "Lil Dicky",
-          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
-        },
-        {
-          "name": "GaTa",
-          "url": "https://open.spotify.com/artist/5eJwzR2zzh5zkXcUjZAvDL"
-        }
-      ],
-      "duration_ms": 167676,
-      "name": "We Good (From The TV Show \"DAVE\")",
-      "url": "https://open.spotify.com/track/2rKPqxCmMQ68wYV1ArFvNy"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Back From The Dead",
-        "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
-      },
-      "artists": [
-        {
-          "name": "SpotemGottem",
-          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
-        },
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
-        }
-      ],
-      "duration_ms": 162504,
-      "name": "On A Tee (feat. Icewear Vezzo)",
-      "url": "https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -135,34 +55,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Middle Man",
-        "url": "https://open.spotify.com/album/7vUo6VsYYgD7KBu4EiZBkG"
+        "name": "Fool for Love",
+        "url": "https://open.spotify.com/album/6MCNOxtviWOQ5JjJ8KBGqx"
       },
       "artists": [
         {
-          "name": "BigKayBeezy",
-          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Middle Man",
-      "url": "https://open.spotify.com/track/7cetyzjVJMwwLgbvBxahNf"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Self Made",
-        "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
-      },
-      "artists": [
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Self Made",
-      "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
+      "duration_ms": 150324,
+      "name": "Fool for Love",
+      "url": "https://open.spotify.com/track/2fKgq4eJuQcXuzGDjFm5Vw"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -187,22 +91,6 @@
       "duration_ms": 170711,
       "name": "Shmoney (feat. Quavo & Rowdy Rebel)",
       "url": "https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Hoe Games",
-        "url": "https://open.spotify.com/album/2epv0TAzQYGZ0LhLACKItq"
-      },
-      "artists": [
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        }
-      ],
-      "duration_ms": 181347,
-      "name": "Hoe Games",
-      "url": "https://open.spotify.com/track/6ytpkxTqX6awQAvxU5Tccx"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -239,6 +127,118 @@
       "duration_ms": 223030,
       "name": "My Escape",
       "url": "https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Bigger Than Life Or Death (Deluxe)",
+        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173477,
+      "name": "Dead Wrong (feat. Future)",
+      "url": "https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 190261,
+      "name": "Wave Gods",
+      "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "We Good (From The TV Show \"DAVE\")",
+        "url": "https://open.spotify.com/album/7r12oLHbuBAhYcEFAklRYE"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        },
+        {
+          "name": "GaTa",
+          "url": "https://open.spotify.com/artist/5eJwzR2zzh5zkXcUjZAvDL"
+        }
+      ],
+      "duration_ms": 167676,
+      "name": "We Good (From The TV Show \"DAVE\")",
+      "url": "https://open.spotify.com/track/2rKPqxCmMQ68wYV1ArFvNy"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Middle Man",
+        "url": "https://open.spotify.com/album/7vUo6VsYYgD7KBu4EiZBkG"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Middle Man",
+      "url": "https://open.spotify.com/track/7cetyzjVJMwwLgbvBxahNf"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Self Made",
+        "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Self Made",
+      "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Hoe Games",
+        "url": "https://open.spotify.com/album/2epv0TAzQYGZ0LhLACKItq"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 181347,
+      "name": "Hoe Games",
+      "url": "https://open.spotify.com/track/6ytpkxTqX6awQAvxU5Tccx"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -327,22 +327,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Bigger Than Life Or Death (Deluxe)",
-        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
         }
       ],
-      "duration_ms": 173477,
-      "name": "Dead Wrong (feat. Future)",
-      "url": "https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL"
+      "duration_ms": 162504,
+      "name": "On A Tee (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2"
     },
     {
       "added_at": "2021-12-24 05:00:00",

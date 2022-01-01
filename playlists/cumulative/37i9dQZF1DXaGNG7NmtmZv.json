@@ -106,7 +106,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 124373,
       "name": "Break Down the Walls",
       "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5wWmLdIYzxdh3mlkHwBVog"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 175413,
       "name": "Family Tree",
       "url": "https://open.spotify.com/track/3MRHzHjvLtvaLK4qORjxSj"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 172426,
       "name": "Few and Far Between",
       "url": "https://open.spotify.com/track/3DNCnnOLmDRtm3WHId4Gib"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 142586,
       "name": "For My Family",
       "url": "https://open.spotify.com/track/7Dj01umonxmUOIHKdusZi7"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 210626,
       "name": "Get This Right!",
       "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 170453,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 85800,
       "name": "Proud To Be DFL",
       "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 156693,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/2H7ECJNsqQDxOlisHd5n6k"
@@ -1100,6 +1100,24 @@
       "duration_ms": 197226,
       "name": "Wake the Dead",
       "url": "https://open.spotify.com/track/0Ux0LyZRoLFiXfyKZtt6IE"
+    },
+    {
+      "album": {
+        "name": "Death Is My Only Friend",
+        "url": "https://open.spotify.com/album/1qlYQd8Qo8NDI4AJ59gZ0D"
+      },
+      "artists": [
+        {
+          "name": "Death By Stereo",
+          "url": "https://open.spotify.com/artist/6ZnqizbzAJTqXgRTje6IcF"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Welcome To The Party",
+      "url": "https://open.spotify.com/track/2eAyeTCOUhZU1HOMCfG4jo"
     },
     {
       "album": {

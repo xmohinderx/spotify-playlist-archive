@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1984",
+        "url": "https://open.spotify.com/album/5ZFdhp6funk02EyD2Whp0b"
+      },
+      "artists": [
+        {
+          "name": "Mauve",
+          "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157358,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/0BhUDBjyi50j1kDfJLsyys"
+    },
+    {
+      "album": {
         "name": "9 PM",
         "url": "https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "9 PM",
       "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
@@ -34,7 +52,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 122076,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
@@ -70,7 +88,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 146309,
       "name": "Africa to the World",
       "url": "https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 144000,
       "name": "Agoura Eyes",
       "url": "https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7"
@@ -146,7 +164,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 168607,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/56AuxQI50J898m8QTtHxQR"
@@ -164,7 +182,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 161454,
       "name": "All Roads Lead Here (Edit)",
       "url": "https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW"
@@ -348,7 +366,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 190202,
       "name": "Bubinga",
       "url": "https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 298680,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/5O1L8o8fmUdVaf88z5dfWB"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216032,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/0ExYatKbwbodCrVuA0uEH7"
@@ -496,7 +514,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "Demurity",
       "url": "https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 242086,
       "name": "Deviation",
       "url": "https://open.spotify.com/track/5jAFlzqIDDBJzer8jIrNXT"
@@ -676,7 +694,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0hdeBcZl6rdXSScMS6prYJ"
@@ -694,7 +712,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 168900,
       "name": "Follow Up",
       "url": "https://open.spotify.com/track/7sxfrgHZkrpl74e7UlJGNH"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 205423,
       "name": "Fugue State",
       "url": "https://open.spotify.com/track/19YsbHChoiVouSEJHuWFxm"
@@ -886,7 +904,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 191614,
       "name": "Idiot (SLCT Remix) (Instrumental Version)",
       "url": "https://open.spotify.com/track/5PprWUDtMegwUWZkPwHjDQ"
@@ -926,7 +944,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205255,
       "name": "Liftoff",
       "url": "https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1"
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200697,
       "name": "Lupino",
       "url": "https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0"
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 131320,
       "name": "Off Grid Lullaby",
       "url": "https://open.spotify.com/track/36Qu69Yh1qYjj03A1J6k2R"
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206017,
       "name": "Portimao",
       "url": "https://open.spotify.com/track/5ABEwAmOIvGgTWQtBvmGHQ"
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Star System",
       "url": "https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 144905,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW"
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 167239,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV"
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "Sun Road",
       "url": "https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 160166,
       "name": "Sunny Cruisin",
       "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 198260,
       "name": "Unhappy Alien",
       "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"

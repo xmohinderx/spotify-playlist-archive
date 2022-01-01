@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 361586,
       "name": "A Better Place",
       "url": "https://open.spotify.com/track/2nntiOW25ByTmb0r944IqU"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 169453,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 184280,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/5TdTYpjLQv25ImZAX6s4Db"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 198093,
       "name": "Hymn for Her (feat. Lydia Clowes)",
       "url": "https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 176505,
       "name": "I Will Follow You Into The Dark",
       "url": "https://open.spotify.com/track/5aLtfA57cXVEtLQIzv0y2v"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 180157,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/6jPUxIR9fs2goSay9egLxz"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 163000,
       "name": "Keep Me - Acoustic",
       "url": "https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 255255,
       "name": "Know Me Again (with Cate)",
       "url": "https://open.spotify.com/track/503vjbISPH5hJbGpYOFAcN"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 224093,
       "name": "Lost Keys",
       "url": "https://open.spotify.com/track/2UFnAnx5ZC0RgCqVSlA1Zj"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 233440,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/01zA432f5V0ssx6YbMgk18"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 154186,
       "name": "More of You",
       "url": "https://open.spotify.com/track/3KwddnMagr7xnFFZTb4t7Z"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 191715,
       "name": "Need A Word With Cupid",
       "url": "https://open.spotify.com/track/3iRJaRyvZpDcSqJ9NnPKBg"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/1xca56AOpe6oNTAl9Ih239"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216053,
       "name": "The Lucky Ones",
       "url": "https://open.spotify.com/track/2RwAlmqqMPsBMYC4PewkEt"
@@ -2088,6 +2088,24 @@
       "duration_ms": 206840,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/3QorTmBB8lYdSO9bGglOrb"
+    },
+    {
+      "album": {
+        "name": "The Outside",
+        "url": "https://open.spotify.com/album/1QZwbhICVPiuWZWXYITgcT"
+      },
+      "artists": [
+        {
+          "name": "Craig Eddie",
+          "url": "https://open.spotify.com/artist/27O6Q2Y9ImQzCqrRLeRcZY"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153453,
+      "name": "The Outside",
+      "url": "https://open.spotify.com/track/3E73vIwmxgJxa4hoRB0jHI"
     },
     {
       "album": {
@@ -2307,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "WYD Now?",
+        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "WYD Now?",
+      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
+    },
+    {
+      "album": {
         "name": "I Heard A Whisper EP",
         "url": "https://open.spotify.com/album/4NTGktvxiRn29YeWicBXCa"
       },
@@ -2318,7 +2354,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 193881,
       "name": "You",
       "url": "https://open.spotify.com/track/5FgiHNFQZTX1rZIrmYhrPq"

@@ -92,7 +92,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/1rUu58wEd44nEzIbF2CYil"
@@ -294,6 +294,24 @@
       "duration_ms": 345840,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
+    },
+    {
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/7qfAtb6H7YD2u5EkYX7wow"
+      },
+      "artists": [
+        {
+          "name": "T'Pau",
+          "url": "https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247026,
+      "name": "China In Your Hand - Single Version",
+      "url": "https://open.spotify.com/track/3U9B0ZcnVPisVh9wGOg6qL"
     },
     {
       "album": {
@@ -438,7 +456,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 266960,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/0k9un4VZY52tvtxNhg6XLo"
@@ -853,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Raindancing (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Nd7hLMDdgniuc4o8XRXwU"
+      },
+      "artists": [
+        {
+          "name": "Alison Moyet",
+          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Is This Love? - 2009 Remastered",
+      "url": "https://open.spotify.com/track/4EY7mLPnM7PlpPRHAyNRyR"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5QOJKeyAEufK6kFefXMiHH"
       },
@@ -1044,7 +1080,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 218186,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/5Jc21xaya2MrHp2KOetrBq"
@@ -1152,7 +1188,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
@@ -1188,7 +1224,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215173,
       "name": "Raspberry Beret",
       "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
@@ -1282,7 +1318,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 266333,
       "name": "Slave To Love",
       "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Solid",
       "url": "https://open.spotify.com/track/4sr4NdrPfds9Qfors9UkiO"
@@ -1318,7 +1354,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 242706,
       "name": "Somewhere in My Heart",
       "url": "https://open.spotify.com/track/1cjXYzFXdHGppaMFFvU64g"
@@ -1408,7 +1444,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 256173,
       "name": "The Lady In Red",
       "url": "https://open.spotify.com/track/1523Yp80GgISzfWgBisj1l"
@@ -1426,7 +1462,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 268200,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
@@ -1484,10 +1520,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 149026,
       "name": "Theme from Harry's Game - Remastered",
       "url": "https://open.spotify.com/track/2hcxPnu5RljXH0eMOtctuF"
+    },
+    {
+      "album": {
+        "name": "The Sensual World",
+        "url": "https://open.spotify.com/album/4ZeZ9B0IZHk0zXB9lxZaGR"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "This Woman's Work",
+      "url": "https://open.spotify.com/track/4F6ihtOUcj1uLWdSkc1RzG"
     },
     {
       "album": {
@@ -1538,7 +1592,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 357826,
       "name": "Tinseltown in the Rain",
       "url": "https://open.spotify.com/track/5agxCIWiABK6l4ltmCAHoH"
@@ -1654,7 +1708,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 296013,
       "name": "Victims - 2002 Mix",
       "url": "https://open.spotify.com/track/7Fvd99niN50w4auw0MOTqK"
@@ -1726,7 +1780,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 509066,
       "name": "Why Worry?",
       "url": "https://open.spotify.com/track/0NL5lqKSd0obXvKwfvyTKw"

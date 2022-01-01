@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/2dQ2fB3gMPzY5abi0DwWxx"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
+    },
+    {
+      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 263733,
       "name": "Are You OK?",
       "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173006,
       "name": "Between Your Teeth",
       "url": "https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 202226,
       "name": "Birdcage",
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205902,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/3JvSdMghhVpTkn30dRl6v0"
@@ -239,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Caviar",
+        "url": "https://open.spotify.com/album/5VyfBBQi8Y8B20VTiS5ubz"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227492,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/3dVEczMTQzFRhbVW1IwfcD"
+    },
+    {
+      "album": {
         "name": "Cheer Captain",
         "url": "https://open.spotify.com/album/1o7tDvg8UBCf4Fzu1G6egP"
       },
@@ -250,7 +286,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 180706,
       "name": "Cheer Captain",
       "url": "https://open.spotify.com/track/1rW9uae4EZuui4vARG2IyI"
@@ -268,7 +304,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 207786,
       "name": "Circles In The Firing Line - Edit",
       "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
@@ -322,7 +358,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 190200,
       "name": "Craziest Things",
       "url": "https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf"
@@ -358,7 +394,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 163120,
       "name": "Deep Down Way Out",
       "url": "https://open.spotify.com/track/5UPXitLeEHQyL5TZRy47uN"
@@ -428,7 +464,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 191281,
       "name": "Dino's",
       "url": "https://open.spotify.com/track/45Q4nigFbMgJiif53Fj0am"
@@ -500,7 +536,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/78wvkEG8AhizCo20BeJjRF"
@@ -536,7 +572,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 267308,
       "name": "Fade",
       "url": "https://open.spotify.com/track/56u1PvRafzzWzljABNR1bn"
@@ -630,7 +666,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204609,
       "name": "Give It Hell",
       "url": "https://open.spotify.com/track/3HLfUZSknynfsgCRW9Tp2I"
@@ -702,7 +738,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 225083,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/12SNjNi5VAKp8e5aMMM9wf"
@@ -724,6 +760,24 @@
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "album": {
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/4WmmqIIKrqmoSVW4whdsVn"
+      },
+      "artists": [
+        {
+          "name": "Make Friends",
+          "url": "https://open.spotify.com/artist/7dxUKrjbdkaAl1nCCYblq7"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/1ppEEYAE2NnM3xk7rC7EQL"
     },
     {
       "album": {
@@ -853,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Isn\u2019t It",
+        "url": "https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC"
+      },
+      "artists": [
+        {
+          "name": "Kacy & Clayton",
+          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+        },
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124760,
+      "name": "Isn\u2019t It",
+      "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
+    },
+    {
+      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4"
       },
@@ -882,7 +958,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 245853,
       "name": "Ladybird",
       "url": "https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA"
@@ -1177,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "Out of My Province",
+        "url": "https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287146,
+      "name": "Oh Canada",
+      "url": "https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv"
+    },
+    {
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/5meArWE9yVvoIaDFPpPTkE"
       },
@@ -1188,7 +1282,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215556,
       "name": "On & On",
       "url": "https://open.spotify.com/track/65yBRgxgY5mHNkNPyjpqPu"
@@ -1206,7 +1300,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R"
@@ -1224,7 +1318,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200186,
       "name": "Only The Strong",
       "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
@@ -1293,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Pink Pools",
+        "url": "https://open.spotify.com/album/3hwL7txBctOFSiWmIaOofH"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Pink Pools",
+      "url": "https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP"
+    },
+    {
+      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
       },
@@ -1304,7 +1416,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 295333,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
@@ -1420,7 +1532,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193013,
       "name": "Slow (feat. Henjila)",
       "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
@@ -1438,7 +1550,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu"
@@ -1474,7 +1586,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 234159,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/3I377EfBKxfH93eexEoAaT"
@@ -1492,7 +1604,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
@@ -1510,7 +1622,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 248973,
       "name": "Sorry Kid - Edit",
       "url": "https://open.spotify.com/track/3vovrmRCW1gk3LX0LIYcbi"
@@ -1701,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1E2pCJo8kbB2og7YYiJMWx"
+    },
+    {
+      "album": {
         "name": "Up Granville",
         "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
@@ -1781,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "When",
+        "url": "https://open.spotify.com/album/3e6txUu0ecydkqHHdpExpk"
+      },
+      "artists": [
+        {
+          "name": "Ed Nash",
+          "url": "https://open.spotify.com/artist/4XQbatF1exGRw7gdiYMhsH"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345728,
+      "name": "When",
+      "url": "https://open.spotify.com/track/4SjQJG7we1POYEKye7YnNA"
+    },
+    {
+      "album": {
         "name": "Mouthfuls",
         "url": "https://open.spotify.com/album/09KwHJAnHnpbTWJv6mF3wx"
       },
@@ -1792,7 +1940,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/2Vy7B6YpJHfqSzMmheUfvy"

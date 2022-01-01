@@ -1,7 +1,7 @@
 {
   "description": "Inte bara nytt \u00e5r utan \u00e4ven ny musik! Happy New Music Friday!",
   "name": "New Music Friday Sweden",
-  "num_followers": 186167,
+  "num_followers": 186179,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-12-31 01:26:44",
       "album": {
+        "name": "Trying To Find A World That's Been And Gone: Part 1 (Demo)",
+        "url": "https://open.spotify.com/album/4TDOJNQ9HKTbOcqRHJ0LSV"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "Trying To Find A World That's Been And Gone: Part 1 (Demo)",
+      "url": "https://open.spotify.com/track/0AbncW9dVd4t74aq3Lhcib"
+    },
+    {
+      "added_at": "2021-12-31 01:26:44",
+      "album": {
         "name": "Breathe Me To Life (Ayahuasca)",
         "url": "https://open.spotify.com/album/6Yl9R6wwxOn6s5ZaQdroAu"
       },
@@ -1137,7 +1153,7 @@
         },
         {
           "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/184hue3jIod6ue7LuLXQhN"
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
         }
       ],
       "duration_ms": 218000,

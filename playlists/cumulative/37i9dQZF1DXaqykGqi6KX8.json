@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/3lTr2YYIhsGuvbZI4ZDwGY"
+      },
+      "artists": [
+        {
+          "name": "Benevolent",
+          "url": "https://open.spotify.com/artist/5wuGLHfb2t7AIIg5AgEMDZ"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320373,
+      "name": "12",
+      "url": "https://open.spotify.com/track/67Ds7V9onIBlErmkSWFtt6"
+    },
+    {
+      "album": {
         "name": "Adnan W Lena",
         "url": "https://open.spotify.com/album/2ZjrqIQrdGa5caXqBnH87z"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 249426,
       "name": "Children of Menace",
       "url": "https://open.spotify.com/track/0s1u8Wv0dRwizvnGgnXIjU"
@@ -218,7 +236,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 302601,
       "name": "Daret Layyem",
       "url": "https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza"
@@ -254,7 +272,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 432373,
       "name": "For the Unknown Is Horrid",
       "url": "https://open.spotify.com/track/1OHJZQs2Xm9OrAl7qyNRc2"
@@ -272,7 +290,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 340426,
       "name": "Forever and A Day",
       "url": "https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd"
@@ -308,7 +326,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 357934,
       "name": "Gnawi",
       "url": "https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 272400,
       "name": "Insomnia Kid",
       "url": "https://open.spotify.com/track/1fnCKZ8ikOhckUwvBMGLLW"
@@ -398,7 +416,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 239674,
       "name": "Inta Omri (You Are My Life)",
       "url": "https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb"
@@ -434,7 +452,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 108559,
       "name": "Jasmin",
       "url": "https://open.spotify.com/track/6xIo0HSCFkIlrosMSQUrDS"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 311955,
       "name": "Kahf Alkhulood",
       "url": "https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ"
@@ -524,7 +542,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 242155,
       "name": "Lay chafi",
       "url": "https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 342266,
       "name": "Leap of Faith",
       "url": "https://open.spotify.com/track/1lnPIy0Vp3sEnPnFidT3bH"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 249066,
       "name": "Mejwez",
       "url": "https://open.spotify.com/track/0Ti4bbSLBtIP2pJHHmQgqR"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 341175,
       "name": "Moongod",
       "url": "https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 282790,
       "name": "No Holding Back",
       "url": "https://open.spotify.com/track/3Xzwv8OlCT65i73QpicPlO"
@@ -632,7 +650,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 226795,
       "name": "Quest For Eternity",
       "url": "https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 323009,
       "name": "Riot Against Riot",
       "url": "https://open.spotify.com/track/3Fz8IcdXklVz1Kr9SHFcFe"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 248660,
       "name": "Shokran (Thank You)",
       "url": "https://open.spotify.com/track/3jCPmClsW1pHGCRGpvgnDe"
@@ -722,7 +740,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231000,
       "name": "Sidi Arbi 2",
       "url": "https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h"
@@ -740,7 +758,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 336346,
       "name": "Son of Muhieddine",
       "url": "https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 188734,
       "name": "The Cost Of Everything And The Value Of Nothing",
       "url": "https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 240507,
       "name": "Time to Raise the Curtains",
       "url": "https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte"

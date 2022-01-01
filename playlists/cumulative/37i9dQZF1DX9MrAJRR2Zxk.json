@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 224727,
       "name": "16 Shots",
       "url": "https://open.spotify.com/track/2169IKAivSUUFGcedGASXc"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 191600,
       "name": "Chun-Li",
       "url": "https://open.spotify.com/track/7I9svbEdAvJrXNdruNhad4"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 183533,
       "name": "Dutty Wine",
       "url": "https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200841,
       "name": "Only Man She Want",
       "url": "https://open.spotify.com/track/4RbnNenA9TFNUxAdsy76xe"
@@ -818,7 +818,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 190119,
       "name": "Pon Di Cocky",
       "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
@@ -840,6 +840,32 @@
       "duration_ms": 161200,
       "name": "Pour It Up",
       "url": "https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu"
+    },
+    {
+      "album": {
+        "name": "Major Lazer Essentials",
+        "url": "https://open.spotify.com/album/16vOvSLYIZO8xZOpBBQnBZ"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203180,
+      "name": "Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)",
+      "url": "https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX"
     },
     {
       "album": {

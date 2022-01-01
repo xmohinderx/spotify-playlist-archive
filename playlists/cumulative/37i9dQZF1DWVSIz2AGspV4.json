@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Ghyabe Wagaak",
+        "url": "https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246341,
+      "name": "Ghyabe Wagaak",
+      "url": "https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J"
+    },
+    {
+      "album": {
         "name": "Habib Rohi",
         "url": "https://open.spotify.com/album/7mfZ7wvLmIpwNE9cY0uQtN"
       },
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 272111,
       "name": "\u0634\u064a \u062e\u064a\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/7vY3YrizWZrTxUvrpkOiPl"

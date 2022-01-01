@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 211640,
       "name": "39 Steg",
       "url": "https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 123333,
       "name": "Abab",
       "url": "https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 150733,
       "name": "Allt jag s\u00e4ger",
       "url": "https://open.spotify.com/track/31r9OFgLc1d0zQG0aoX6Dk"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 198691,
       "name": "Andrahandssorteringen",
       "url": "https://open.spotify.com/track/5UwgoIA4wVNZSO1Cs3dYCB"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 175306,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/3fUUGJIm8JqnFX6elcbTHV"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 171373,
       "name": "Betongbarn",
       "url": "https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258733,
       "name": "Den H\u00e4r \u00c4r Till Er",
       "url": "https://open.spotify.com/track/4QihvZNdzxHc9Upqk7HFmC"
@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Sent ska cynikern vakna",
+        "url": "https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ"
+      },
+      "artists": [
+        {
+          "name": "Moment 23",
+          "url": "https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Du har fel",
+      "url": "https://open.spotify.com/track/3gZdETvAlIjb1P2fjRQegC"
+    },
+    {
+      "album": {
         "name": "MNW Klassiker - Imperiet",
         "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
       },
@@ -670,7 +688,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 150647,
       "name": "Egoist",
       "url": "https://open.spotify.com/track/1ZiVxfaAR6o2CAql1lnpWV"
@@ -688,7 +706,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 211148,
       "name": "En Ensam Cowboy",
       "url": "https://open.spotify.com/track/3A9OvdJHkB2RnwkpoQTlhy"
@@ -778,7 +796,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 177013,
       "name": "Ett meningsfullt liv",
       "url": "https://open.spotify.com/track/5IhtBlUlrruUbcfS3zREnN"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 123560,
       "name": "Feta gubbar",
       "url": "https://open.spotify.com/track/1jDhCPlyVmJ68UJ85fYHLk"
@@ -886,7 +904,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 164986,
       "name": "F\u00f6dd Att F\u00f6rlora",
       "url": "https://open.spotify.com/track/1xiTumVDynpu34QrVPUtV0"
@@ -944,7 +962,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 214592,
       "name": "Grabbarna p\u00e5 stan",
       "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205506,
       "name": "Hela hatet stormar",
       "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 250866,
       "name": "Herrarna I Sandl\u00e5dan",
       "url": "https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 128973,
       "name": "Idrottsl\u00e4rarn e str\u00e4ng!",
       "url": "https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 207866,
       "name": "Jag G\u00e5r Upp Och H\u00e5ller K\u00e4ften",
       "url": "https://open.spotify.com/track/0CyGNDM8ulsItXRJyi0iPI"
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 208866,
       "name": "Jag g\u00e5r upp och h\u00e5ller k\u00e4ften",
       "url": "https://open.spotify.com/track/6gVKoclWw9yiY1qTp26OKj"
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 174753,
       "name": "Jag l\u00e4mnar festen",
       "url": "https://open.spotify.com/track/665zznOCQhnpmpoax6rRQk"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 78800,
       "name": "Jag vill bli som far",
       "url": "https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 207693,
       "name": "Leningrad Skyline",
       "url": "https://open.spotify.com/track/3VskmKXoKImujhbFdJtvX5"
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189600,
       "name": "Lilla Bj\u00f6rn Och Lilla Tiger",
       "url": "https://open.spotify.com/track/4UTTtBZGgpaNCkYH1E3lIO"
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201093,
       "name": "Lyckliga land",
       "url": "https://open.spotify.com/track/2vQw6ZkLNtnN6oh78ZS0CU"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173143,
       "name": "L\u00e4gga Puzzel Med En Hammare",
       "url": "https://open.spotify.com/track/3hmlOXOplj48M0hTyZj6j7"
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 169786,
       "name": "Mina polare",
       "url": "https://open.spotify.com/track/4duuMoNTupPnonWGY8B7q0"
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 179522,
       "name": "Motstr\u00f6m",
       "url": "https://open.spotify.com/track/55r75mRCCSue44qYZRQGrB"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "N\u00e5gon form av svar",
       "url": "https://open.spotify.com/track/0Pkr9VNDGK0NUsVXJafmv9"
@@ -1796,10 +1814,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196840,
       "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
       "url": "https://open.spotify.com/track/1vB6h5iJTsJg0Z7DySHpJN"
+    },
+    {
+      "album": {
+        "name": "OS-Guld i h\u00f6jdhopp",
+        "url": "https://open.spotify.com/album/7yDRXR1hWI7e7Gait9gbyF"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83483,
+      "name": "OS-Guld i h\u00f6jdhopp",
+      "url": "https://open.spotify.com/track/6jdMz8tqMfOfk3kv0MRZ5U"
     },
     {
       "album": {
@@ -1868,7 +1904,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 190026,
       "name": "Patriarkatet",
       "url": "https://open.spotify.com/track/5qhAF20De3Qh3EOUORPPYE"
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 161236,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/1VwFou4F5pU4ABwqytvOHB"
@@ -2084,7 +2120,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 156800,
       "name": "Sid & Nancy",
       "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
@@ -2120,7 +2156,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 153053,
       "name": "Sla\u030ass som en tjej",
       "url": "https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa"
@@ -2300,7 +2336,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 235308,
       "name": "Tankar pa\u030a kammaren (\u00e4r det bara jag)",
       "url": "https://open.spotify.com/track/3qfYgvvsAcpIRz6re78bPV"
@@ -2336,7 +2372,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 132800,
       "name": "Tidens tempo",
       "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
@@ -2354,7 +2390,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 94976,
       "name": "Tillsammans",
       "url": "https://open.spotify.com/track/7ki08IykocIwKLEht3WoJ3"
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 180453,
       "name": "Tjyvarnas arme\u0301",
       "url": "https://open.spotify.com/track/1k7SMJdkS1Ih4hAkV2hRjo"
@@ -2480,7 +2516,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 100786,
       "name": "Vad har du gjort?",
       "url": "https://open.spotify.com/track/6wdwI3hB821ni3XJJTZCgO"
@@ -2498,7 +2534,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 195933,
       "name": "Vandrar v\u00e4gen",
       "url": "https://open.spotify.com/track/2nVc9atl0DHGOIokK2aS2B"
@@ -2606,7 +2642,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 169266,
       "name": "Vill inte va med",
       "url": "https://open.spotify.com/track/2i2sGdp41DUMH3VxUS6Zu9"
@@ -2678,7 +2714,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 155733,
       "name": "\u00c4gander\u00e4tt?",
       "url": "https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F"

@@ -5,6 +5,50 @@
   "tracks": [
     {
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
+      },
+      "artists": [
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        },
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343283,
+      "name": "2 Far Gone",
+      "url": "https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF"
+    },
+    {
+      "album": {
+        "name": "24-7",
+        "url": "https://open.spotify.com/album/4Y8UvKWlmb5gfvic5WzENa"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "24-7",
+      "url": "https://open.spotify.com/track/7F10hYiETMaHll3frl1lJG"
+    },
+    {
+      "album": {
         "name": "Angel Feed",
         "url": "https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP"
       },
@@ -74,10 +118,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231765,
       "name": "Beetle Juice",
       "url": "https://open.spotify.com/track/5bXfImRd5EX482Gc3bdarK"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4"
+      },
+      "artists": [
+        {
+          "name": "Rosie Frater-Taylor",
+          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351120,
+      "name": "Better Days - Full Length",
+      "url": "https://open.spotify.com/track/30zOLT8Rbxj0FTxQPhNmLj"
     },
     {
       "album": {
@@ -96,6 +158,32 @@
       "duration_ms": 255239,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5rcGQIrv6eUIyCBfWga363"
+    },
+    {
+      "album": {
+        "name": "Breathe Suite B",
+        "url": "https://open.spotify.com/album/68HVSiWgjCigjRCKUMG6Oh"
+      },
+      "artists": [
+        {
+          "name": "Ben Marc",
+          "url": "https://open.spotify.com/artist/4sxl9xjKCAmzbtkEHf5lkJ"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Rarelyalways",
+          "url": "https://open.spotify.com/artist/3c5Rhv29mDcpjzPxpwxdb9"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407551,
+      "name": "Breathe Suite B",
+      "url": "https://open.spotify.com/track/35vHk6BGTJxKqlTJnkJyWg"
     },
     {
       "album": {
@@ -176,7 +264,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 306012,
       "name": "Consortium",
       "url": "https://open.spotify.com/track/0hC7mPGowDqVgvgJJhYuOw"
@@ -336,7 +424,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 552706,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/2VhFXhN18TAUvT0kSgB30B"
@@ -384,7 +472,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 197872,
       "name": "Give A Little - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/6QvCnbVDTKqQyyJRsnLlIS"
@@ -435,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Howufeel",
+        "url": "https://open.spotify.com/album/3db4e8FxibeKil1hfQo6gE"
+      },
+      "artists": [
+        {
+          "name": "Dominic J Marshall",
+          "url": "https://open.spotify.com/artist/6m4qwDRKong4gGwvGtgFEZ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240947,
+      "name": "Howufeel",
+      "url": "https://open.spotify.com/track/4btEBsYlxoY0b8JC3GYAt0"
+    },
+    {
+      "album": {
         "name": "I'll Never Stop Loving You",
         "url": "https://open.spotify.com/album/5aONUFqQ5sHL9rxfe2P22x"
       },
@@ -468,7 +574,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 369160,
       "name": "If I Know",
       "url": "https://open.spotify.com/track/7EKgrGZqebKLFiNaLbvb7X"
@@ -522,7 +628,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258863,
       "name": "India",
       "url": "https://open.spotify.com/track/3v9EdwOJoKeMQsqiQpb8pH"
@@ -609,6 +715,28 @@
     },
     {
       "album": {
+        "name": "no song without you (remixes)",
+        "url": "https://open.spotify.com/album/5inpbJ69LftnwUoXChmJ3n"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257318,
+      "name": "la la la that\u2019s how it goes - Jordan Rakei Remix",
+      "url": "https://open.spotify.com/track/1N1s75g3zd1hDqDtwROlAA"
+    },
+    {
+      "album": {
         "name": "What Kinda Music",
         "url": "https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI"
       },
@@ -657,6 +785,32 @@
     },
     {
       "album": {
+        "name": "Lilac",
+        "url": "https://open.spotify.com/album/5l7E2prXULDHzCptRAwoUR"
+      },
+      "artists": [
+        {
+          "name": "Natty Reeves",
+          "url": "https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64"
+        },
+        {
+          "name": "Charlie Allen",
+          "url": "https://open.spotify.com/artist/4gMjamIE0ABwn5vsEzfn09"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193357,
+      "name": "Lilac",
+      "url": "https://open.spotify.com/track/210QQ9PIeYxjcHaMNNdzbJ"
+    },
+    {
+      "album": {
         "name": "Montara",
         "url": "https://open.spotify.com/album/42r3BOKVRiR4RjExtzQXtb"
       },
@@ -668,7 +822,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 351933,
       "name": "Montara",
       "url": "https://open.spotify.com/track/2Wj7zgUsolPMaSokDuZMFT"
@@ -690,6 +844,50 @@
       "duration_ms": 280800,
       "name": "Monument",
       "url": "https://open.spotify.com/track/41ZVxdu7KTYquKjdWStpf8"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/2iBo5HpWM0CJB7r9UT6nJI"
+      },
+      "artists": [
+        {
+          "name": "PYJ\u00c6N",
+          "url": "https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/1MoWsRjtJVoOHEVKRuyGHu"
+    },
+    {
+      "album": {
+        "name": "More Than A Hustler",
+        "url": "https://open.spotify.com/album/7DT75rrMoivVsOJOt6BMld"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157613,
+      "name": "More Than A Hustler",
+      "url": "https://open.spotify.com/track/6xWbJ9AyTNLFQurE2itHcH"
     },
     {
       "album": {
@@ -778,10 +976,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 467371,
       "name": "My Life (feat. James Coleman)",
       "url": "https://open.spotify.com/track/3b4LQJFtUKK1Ax947YouHl"
+    },
+    {
+      "album": {
+        "name": "Never Odd or Even",
+        "url": "https://open.spotify.com/album/3F96mitDz79X98YVBgbe9B"
+      },
+      "artists": [
+        {
+          "name": "Maliki",
+          "url": "https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271322,
+      "name": "Never Odd or Even",
+      "url": "https://open.spotify.com/track/15CgvAuQAy0FOPJYiJ2yTG"
     },
     {
       "album": {
@@ -796,7 +1012,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206095,
       "name": "Never Stopped for the Sun 'till Now",
       "url": "https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq"
@@ -851,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Not Today Mate",
+        "url": "https://open.spotify.com/album/6a1IXJ5uCSDmNngN10IZRV"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217093,
+      "name": "Not Today Mate",
+      "url": "https://open.spotify.com/track/7wkKPIBtnWwXpQxDXFSmQO"
+    },
+    {
+      "album": {
         "name": "Organic Rust",
         "url": "https://open.spotify.com/album/58s0ZZ32yklGzKK6h6C5nn"
       },
@@ -880,7 +1114,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 374875,
       "name": "Pigalle",
       "url": "https://open.spotify.com/track/2wxTz9nx62j9usQRJDKZD8"
@@ -959,6 +1193,44 @@
     },
     {
       "album": {
+        "name": "Safe, Pt. 1",
+        "url": "https://open.spotify.com/album/3FBvtyYY3Gmv1BnLTMyPcm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Casimir",
+          "url": "https://open.spotify.com/artist/3J4HhohiA3sFTwyHTBqKs1"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Rosie Turton",
+          "url": "https://open.spotify.com/artist/5XhOg4JXERUGJbf6DQTPdT"
+        },
+        {
+          "name": "Al MacSween",
+          "url": "https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu"
+        },
+        {
+          "name": "James Copus",
+          "url": "https://open.spotify.com/artist/3QKktO8tdBUJq3qhZ3Iqrg"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427121,
+      "name": "Safe, Pt. 1",
+      "url": "https://open.spotify.com/track/0t1GpwQNOhyngRVjO4vbt1"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/6peTH7gnZLB9adBPSjCcph"
       },
@@ -992,7 +1264,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184650,
       "name": "See You",
       "url": "https://open.spotify.com/track/5GZFPLrGgPH0cG2R12aaVM"
@@ -1039,6 +1311,44 @@
     },
     {
       "album": {
+        "name": "The Sounds of Afrotronica",
+        "url": "https://open.spotify.com/album/0NP9PKuMhqFWiVl6fpZlKI"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Kaidi & NK-OK",
+          "url": "https://open.spotify.com/artist/7jDA84G7dkwJAGstQhFbhd"
+        },
+        {
+          "name": "NK-OK",
+          "url": "https://open.spotify.com/artist/0X4mN9O6iEpMyA0O1WrQLn"
+        },
+        {
+          "name": "Kaidi Akinnibi",
+          "url": "https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ"
+        },
+        {
+          "name": "Namali Kwaten",
+          "url": "https://open.spotify.com/artist/2UKA85MNZtvTEEG7YneQLq"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Soul Makosa",
+      "url": "https://open.spotify.com/track/42N0Pb6xLVbqgDpOVRHCVo"
+    },
+    {
+      "album": {
         "name": "Source (Makaya McCraven Remix)",
         "url": "https://open.spotify.com/album/1HZuNYNiNy0yGE5FbxLBxq"
       },
@@ -1054,7 +1364,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 335479,
       "name": "Source - Makaya McCraven Remix",
       "url": "https://open.spotify.com/track/4GvCH247Cz1KHi1BTuAKyg"
@@ -1084,7 +1394,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 728346,
       "name": "Source [Feat. Ms MAURICE, Cassie Kinoshi, Richie Seivwright]",
       "url": "https://open.spotify.com/track/760WV9S8e01SgZzdkZYqvp"
@@ -1109,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/2KUcV4b4iV65ZxEXEho52D"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267856,
+      "name": "Spectre",
+      "url": "https://open.spotify.com/track/4hGMFPGgQ56bwUw8DQMOHa"
+    },
+    {
+      "album": {
         "name": "Ugh",
         "url": "https://open.spotify.com/album/0TpH80b4b3jpsZkfworv6M"
       },
@@ -1120,7 +1448,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 309452,
       "name": "Spooki",
       "url": "https://open.spotify.com/track/1OmRDsBv7CQaIjuPBLySHJ"
@@ -1200,7 +1528,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 183653,
       "name": "sweet wurli",
       "url": "https://open.spotify.com/track/3SMt4rUCBTQUEDwtpGZv71"
@@ -1252,7 +1580,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 272817,
       "name": "Talking to the Walls - Ash Walker Remix",
       "url": "https://open.spotify.com/track/0YZ0pUxBhyzdvVZifFRm5l"
@@ -1292,6 +1620,28 @@
       "duration_ms": 200200,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5hJexxZWaa2L7gqTha7nts"
+    },
+    {
+      "album": {
+        "name": "The Afternoon of Human Life",
+        "url": "https://open.spotify.com/album/1IfyoBGbOEf7Nl3glUaah2"
+      },
+      "artists": [
+        {
+          "name": "Slowly Rolling Camera",
+          "url": "https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423203,
+      "name": "The Afternoon of Human Life",
+      "url": "https://open.spotify.com/track/06Zwd53J0LySW31tdYEuz6"
     },
     {
       "album": {
@@ -1350,7 +1700,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 256453,
       "name": "The Spiral",
       "url": "https://open.spotify.com/track/4IyMVcUla2fue99pJpCquG"
@@ -1368,7 +1718,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 413213,
       "name": "The Unknown - Rework",
       "url": "https://open.spotify.com/track/45qxOEcnwOClF2dmMBArtQ"
@@ -1408,7 +1758,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 269573,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/7nlR2dYMSBaVNz259BQwFU"
@@ -1481,6 +1831,46 @@
     },
     {
       "album": {
+        "name": "Tresilian Bay",
+        "url": "https://open.spotify.com/album/0ZdDKBOtHMthjFrnLFa57Z"
+      },
+      "artists": [
+        {
+          "name": "Huw Marc Bennett",
+          "url": "https://open.spotify.com/artist/6uYq0k8pis5LPGzdFRM5FJ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Tresilian Bay",
+      "url": "https://open.spotify.com/track/6kDFZBk2uqdeWXvtPQUeYB"
+    },
+    {
+      "album": {
+        "name": "Undecided (with Marie Dahlstrom)",
+        "url": "https://open.spotify.com/album/43kqqRF5qRBIjZdBycQx9A"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176373,
+      "name": "Undecided (with Marie Dahlstrom)",
+      "url": "https://open.spotify.com/track/3iQFtE9AzKN95tOk58L3e7"
+    },
+    {
+      "album": {
         "name": "Watermelon Man (Under The Sun)",
         "url": "https://open.spotify.com/album/1EIRRthNuC6pViGRxe3yRh"
       },
@@ -1518,6 +1908,42 @@
       "duration_ms": 230470,
       "name": "What Kinda Music",
       "url": "https://open.spotify.com/track/4FQytrC7QjGy8mecYCnsuy"
+    },
+    {
+      "album": {
+        "name": "Withered",
+        "url": "https://open.spotify.com/album/6qkntCbKpkzXc4JdwZb8J0"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245865,
+      "name": "Withered",
+      "url": "https://open.spotify.com/track/1QDpEhAMGzBtFq5uYyKCk4"
+    },
+    {
+      "album": {
+        "name": "Yoshi Orange",
+        "url": "https://open.spotify.com/album/08WzD5IjqZ1OksyqUwfcID"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251278,
+      "name": "Yoshi Orange",
+      "url": "https://open.spotify.com/track/6DAXWnejJNzLIt6ShyUgdh"
     },
     {
       "album": {

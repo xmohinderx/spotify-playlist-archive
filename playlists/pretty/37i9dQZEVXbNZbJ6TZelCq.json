@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
   "name": "Top 50 - Romania",
-  "num_followers": 24550,
+  "num_followers": 24556,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk0MjU5MTExLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk0MzQ0NzczLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Banii",
+        "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 136875,
+      "name": "Banii",
+      "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Tabara",
         "url": "https://open.spotify.com/album/2exNG3M2R2vHPcnrSJPiVH"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/738G1vrNGeyXxJXxGo1CRj"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Abu Dhabi",
         "url": "https://open.spotify.com/album/1AX2IgsU9Hau9iili97z34"
@@ -73,27 +93,31 @@
       "url": "https://open.spotify.com/track/6hJ4YxUN9RRUm4E08qfDcs"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Banii",
-        "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 136875,
-      "name": "Banii",
-      "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -121,7 +145,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -141,43 +165,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "Biliard",
-        "url": "https://open.spotify.com/album/5okhrfzJDUmnWKOppGIXrd"
-      },
-      "artists": [
-        {
-          "name": "LilCagula",
-          "url": "https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO"
-        },
-        {
-          "name": "NL Moxxie",
-          "url": "https://open.spotify.com/artist/5r0djFCjeB0Sk60SN6tzJQ"
-        }
-      ],
-      "duration_ms": 183745,
-      "name": "Biliard",
-      "url": "https://open.spotify.com/track/5AE0pXOUeBM4HfTb3Bqk3p"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -197,7 +185,75 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Cum O Dai Tu",
         "url": "https://open.spotify.com/album/7eRYuKasLk4ia5sIDonv8e"
@@ -217,7 +273,91 @@
       "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Biliard",
+        "url": "https://open.spotify.com/album/5okhrfzJDUmnWKOppGIXrd"
+      },
+      "artists": [
+        {
+          "name": "LilCagula",
+          "url": "https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO"
+        },
+        {
+          "name": "NL Moxxie",
+          "url": "https://open.spotify.com/artist/5r0djFCjeB0Sk60SN6tzJQ"
+        }
+      ],
+      "duration_ms": 183745,
+      "name": "Biliard",
+      "url": "https://open.spotify.com/track/5AE0pXOUeBM4HfTb3Bqk3p"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "Hypeman",
+          "url": "https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Hadad",
         "url": "https://open.spotify.com/album/5m8HVTN2p17TTMhDMe3KMi"
@@ -237,191 +377,7 @@
       "url": "https://open.spotify.com/track/4Vo6kiK859AWquBYrUR3KU"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "ENZO FERRARI 2",
-        "url": "https://open.spotify.com/album/3I8JvRsTKAsc6NKIKhl5me"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        },
-        {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
-        }
-      ],
-      "duration_ms": 167437,
-      "name": "ENZO FERRARI 2",
-      "url": "https://open.spotify.com/track/2ZHK4gSu60cnRhPpIYDsJN"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "\u00ceN RAI",
-        "url": "https://open.spotify.com/album/68m2yIVEgvjkzHxWVnNzwv"
-      },
-      "artists": [
-        {
-          "name": "Nane",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
-        },
-        {
-          "name": "Delia",
-          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "\u00ceN RAI",
-      "url": "https://open.spotify.com/track/1HWGnsNTDgkmefYwMcMSqi"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "BALI",
-        "url": "https://open.spotify.com/album/3nbleWYGqaHVLppuarAWsw"
-      },
-      "artists": [
-        {
-          "name": "Mobtrap",
-          "url": "https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl"
-        },
-        {
-          "name": "Amuly",
-          "url": "https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "BALI",
-      "url": "https://open.spotify.com/track/3hoCtPKGTfEtVnQfpsBEUz"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Formula 1",
         "url": "https://open.spotify.com/album/0IJEzvpHsekm0pTsdeHyEa"
@@ -441,23 +397,187 @@
       "url": "https://open.spotify.com/track/1nyFOwgOfEMZUwrAdFSCCG"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "ENZO FERRARI 2",
+        "url": "https://open.spotify.com/album/3I8JvRsTKAsc6NKIKhl5me"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 167437,
+      "name": "ENZO FERRARI 2",
+      "url": "https://open.spotify.com/track/2ZHK4gSu60cnRhPpIYDsJN"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Buzele Cu Rosu Inchis",
+        "url": "https://open.spotify.com/album/2tRBImAHbEKIFXKa7KqUDY"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Buzele Cu Rosu Inchis",
+      "url": "https://open.spotify.com/track/6iIlBfytdQXhW12dohRrP5"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "S-Au Unit Legendele",
+        "url": "https://open.spotify.com/album/3T5S7SF79kBXXwfdLkQIeX"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "S-Au Unit Legendele",
+      "url": "https://open.spotify.com/track/113HXGuLmbYpbVWcfDNIX9"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "\u00ceN RAI",
+        "url": "https://open.spotify.com/album/68m2yIVEgvjkzHxWVnNzwv"
+      },
+      "artists": [
+        {
+          "name": "Nane",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        },
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "\u00ceN RAI",
+      "url": "https://open.spotify.com/track/1HWGnsNTDgkmefYwMcMSqi"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "BALI",
+        "url": "https://open.spotify.com/album/3nbleWYGqaHVLppuarAWsw"
+      },
+      "artists": [
+        {
+          "name": "Mobtrap",
+          "url": "https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl"
+        },
+        {
+          "name": "Amuly",
+          "url": "https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "BALI",
+      "url": "https://open.spotify.com/track/3hoCtPKGTfEtVnQfpsBEUz"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "N-Aud",
         "url": "https://open.spotify.com/album/42IOWEH9rXzB2Eas4ZEVXh"
@@ -477,23 +597,55 @@
       "url": "https://open.spotify.com/track/0VYVBOg9wXe2Dwhv6EL67K"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "2089",
-        "url": "https://open.spotify.com/album/6ke5zdv0C3F1GAKVdjFIhk"
+        "name": "Zeu",
+        "url": "https://open.spotify.com/album/6iXrf1y3dzmf0u0Y572bxq"
       },
       "artists": [
         {
-          "name": "Killa Fonic",
-          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+          "name": "Spike",
+          "url": "https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
-      "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
+      "duration_ms": 158112,
+      "name": "Zeu",
+      "url": "https://open.spotify.com/track/1BwDccvmbuyZMrQ8FGQlrh"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Manca-Ti-as Hazu",
+        "url": "https://open.spotify.com/album/2rBQZVtyDI9tSiVbECXhbb"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 215286,
+      "name": "Manca-Ti-as Hazu",
+      "url": "https://open.spotify.com/track/27M5JDWYLUVuxyMF0ek7SU"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
+      "album": {
+        "name": "Toate Diamantele",
+        "url": "https://open.spotify.com/album/2SI312CVTCV5s3yXASpL3X"
+      },
+      "artists": [
+        {
+          "name": "Luis Gabriel",
+          "url": "https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82"
+        }
+      ],
+      "duration_ms": 185782,
+      "name": "Toate Diamantele",
+      "url": "https://open.spotify.com/track/667WZUNLKbsaNtxtkqP9yo"
+    },
+    {
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Ora 6",
         "url": "https://open.spotify.com/album/2mwQaMrnWtO66MnIH53Am9"
@@ -525,119 +677,91 @@
       "url": "https://open.spotify.com/track/5BTzxmS3NYLIwBFEp6tCYw"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Industria M6",
-        "url": "https://open.spotify.com/album/73En8CG240kkHAEbHLteom"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Da Don",
-      "url": "https://open.spotify.com/track/5KWeSna3A5258uUNyiQvjj"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "name": "Azteca",
-          "url": "https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv"
-        },
-        {
-          "name": "Dj Sfera",
-          "url": "https://open.spotify.com/artist/41gj3lZnTOhVsORQ9EHQAz"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 177931,
-      "name": "Champs-\u00c9lys\u00e9es",
-      "url": "https://open.spotify.com/track/3yZRQkgxHkFQ6fSjMFNtwy"
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+        "name": "Se Misca Beat",
+        "url": "https://open.spotify.com/album/63Z7kRM91KvbJRJoO72IQE"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+      "duration_ms": 179025,
+      "name": "Se Misca Beat",
+      "url": "https://open.spotify.com/track/0TiPsHnzFxNw4ivIWEg70e"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "CEF 2",
-        "url": "https://open.spotify.com/album/52R7Z7j5Evq8WrT4HpdzjV"
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
       "artists": [
         {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
-        },
-        {
-          "name": "Niku X Aron",
-          "url": "https://open.spotify.com/artist/2f2pMnrSNsIIeAYGTu3OKY"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 147017,
-      "name": "CEF 2",
-      "url": "https://open.spotify.com/track/5W6T5Z2l3uvF4aeKpJ3wbS"
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+        "name": "Fac Deranj",
+        "url": "https://open.spotify.com/album/7olEprv4uV1VIcHhDpJnsD"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/4xVFzfXvMvhOe637MWicoj"
         }
       ],
-      "duration_ms": 97391,
-      "name": "BULIBA$HA",
-      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
+      "duration_ms": 212800,
+      "name": "Fac Deranj",
+      "url": "https://open.spotify.com/track/6zmcPaF3PZKgZv8sRsrLTy"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -653,71 +777,71 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+        "name": "Janes Romanes",
+        "url": "https://open.spotify.com/album/1yUnyHVYvVKJI6eTXLqVza"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Cristi Mega",
+          "url": "https://open.spotify.com/artist/0ujOKxbYEmzcCzt9Uh7dgA"
         }
       ],
-      "duration_ms": 169156,
-      "name": "Giulesti Crangasi",
-      "url": "https://open.spotify.com/track/6EIBhgEms3hJczZMzB7iTX"
+      "duration_ms": 202001,
+      "name": "Janes Romanes",
+      "url": "https://open.spotify.com/track/46DsHSqrMxCtIe7bQFrid3"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Sfarsitul lumii",
-        "url": "https://open.spotify.com/album/3FJApKAtboLFAva0fqC01E"
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
       "artists": [
         {
-          "name": "Andia",
-          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 197260,
-      "name": "Sfarsitul lumii",
-      "url": "https://open.spotify.com/track/3Vp1q7IslLXv6FpV9murz7"
+      "duration_ms": 263693,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Cod Rosu",
-        "url": "https://open.spotify.com/album/0Mfj33lCC36bXDGH6rpnVN"
+        "name": "Industria M6",
+        "url": "https://open.spotify.com/album/73En8CG240kkHAEbHLteom"
       },
       "artists": [
         {
-          "name": "YNY Sebi",
-          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
         }
       ],
-      "duration_ms": 182810,
-      "name": "Cod Rosu",
-      "url": "https://open.spotify.com/track/1ZezonUCbhJqz5uYb9XTFG"
+      "duration_ms": 156521,
+      "name": "Da Don",
+      "url": "https://open.spotify.com/track/5KWeSna3A5258uUNyiQvjj"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Rita",
         "url": "https://open.spotify.com/album/1kDsaG7riZfr6LxtTNOXZd"
@@ -737,23 +861,23 @@
       "url": "https://open.spotify.com/track/7d4RyD7PlTRY4spQM5CP5t"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Zeu",
-        "url": "https://open.spotify.com/album/6iXrf1y3dzmf0u0Y572bxq"
+        "name": "De Cand S-a Scumpit Benzina",
+        "url": "https://open.spotify.com/album/1qrYOZ0sBkWm5OSPZwhskf"
       },
       "artists": [
         {
-          "name": "Spike",
-          "url": "https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/4xVFzfXvMvhOe637MWicoj"
         }
       ],
-      "duration_ms": 158112,
-      "name": "Zeu",
-      "url": "https://open.spotify.com/track/1BwDccvmbuyZMrQ8FGQlrh"
+      "duration_ms": 231446,
+      "name": "De Cand S-a Scumpit Benzina",
+      "url": "https://open.spotify.com/track/46HWR2zlQ005AI7s73x7ml"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
@@ -769,131 +893,47 @@
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Pentru totdeauna",
-        "url": "https://open.spotify.com/album/0gicEXbShaVT0t2yi0B3Xy"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
       "artists": [
         {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Grasu XXL",
-          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 168391,
-      "name": "Pentru totdeauna",
-      "url": "https://open.spotify.com/track/57Ukaxs1uTMXiXLbzs1d1B"
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
-        "name": "Buzele Cu Rosu Inchis",
-        "url": "https://open.spotify.com/album/2tRBImAHbEKIFXKa7KqUDY"
+        "name": "CEF 2",
+        "url": "https://open.spotify.com/album/52R7Z7j5Evq8WrT4HpdzjV"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Buzele Cu Rosu Inchis",
-      "url": "https://open.spotify.com/track/6iIlBfytdQXhW12dohRrP5"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "N-avem Timp",
-        "url": "https://open.spotify.com/album/5b2AgL4GZgAZAkvnYZjVNL"
-      },
-      "artists": [
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 185945,
-      "name": "N-avem Timp",
-      "url": "https://open.spotify.com/track/30U6dxXpQfJVvsiGIrmP3H"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "Darbuka",
-        "url": "https://open.spotify.com/album/6WyaIF3CIxtFfXGqmN8p0U"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
         },
         {
-          "name": "Nane",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+          "name": "Niku X Aron",
+          "url": "https://open.spotify.com/artist/2f2pMnrSNsIIeAYGTu3OKY"
         }
       ],
-      "duration_ms": 152112,
-      "name": "Darbuka",
-      "url": "https://open.spotify.com/track/1T2LPdfVBRZABs6PCY9mJ2"
+      "duration_ms": 147017,
+      "name": "CEF 2",
+      "url": "https://open.spotify.com/track/5W6T5Z2l3uvF4aeKpJ3wbS"
     },
     {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "TIpa Noua",
-        "url": "https://open.spotify.com/album/103be0LIGm9qGlqyQvjkUV"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "TIpa Noua",
-      "url": "https://open.spotify.com/track/3CoEgSGqBtBTMuRp7aGzbf"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
+      "added_at": "2022-01-01 09:32:53",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -907,38 +947,6 @@
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "Janes Romanes",
-        "url": "https://open.spotify.com/album/1yUnyHVYvVKJI6eTXLqVza"
-      },
-      "artists": [
-        {
-          "name": "Cristi Mega",
-          "url": "https://open.spotify.com/artist/0ujOKxbYEmzcCzt9Uh7dgA"
-        }
-      ],
-      "duration_ms": 202001,
-      "name": "Janes Romanes",
-      "url": "https://open.spotify.com/track/46DsHSqrMxCtIe7bQFrid3"
-    },
-    {
-      "added_at": "2021-12-31 09:45:11",
-      "album": {
-        "name": "S-Au Unit Legendele",
-        "url": "https://open.spotify.com/album/3T5S7SF79kBXXwfdLkQIeX"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "S-Au Unit Legendele",
-      "url": "https://open.spotify.com/track/113HXGuLmbYpbVWcfDNIX9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNZbJ6TZelCq"
