@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > For those who like the newest songs loud\. Very loud\. Cover: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,675 likes - 155 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,706 likes - 155 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

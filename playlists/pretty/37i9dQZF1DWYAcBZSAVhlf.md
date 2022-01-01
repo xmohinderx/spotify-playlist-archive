@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,620 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,685 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 79 | [Love Train](https://open.spotify.com/track/1NUDglpwwjYElxi6siVRka) | [Holly Johnson](https://open.spotify.com/artist/6IDifUtaIPK4yuAiq5W2iG) | [Blast](https://open.spotify.com/album/2r9fw0nRxU66dI5B95GPNs) | 4:02 |
 | 80 | [Typical Male](https://open.spotify.com/track/2fjJt3OQ8MPaZ3LMzAWiTA) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Break Every Rule](https://open.spotify.com/album/1C9kaOfbTQ9dxYM4E2Yju2) | 4:16 |
 
-Snapshot ID: `MTY0MTAwNDQxMCwwMDAwMDAwMDViNDllOTcwNjRkY2NlN2VjOTEyNDIyZDAxYTlhODYx`
+Snapshot ID: `MTY0MTAyNDg5MiwwMDAwMDAwMDViNDllOTcwNjRkY2NlN2VjOTEyNDIyZDAxYTlhODYx`

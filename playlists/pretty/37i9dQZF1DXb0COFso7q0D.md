@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > Mexican Hits of Today! The playlist sin fronteras\. Cover: Fuerza Regida
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,810,374 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,810,406 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 49 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 |
 | 50 | [La Vida Es Un Juego](https://open.spotify.com/track/3peoAySRE6rnMfKLdSYfpp) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Líricas De Oro](https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX) | 3:46 |
 
-Snapshot ID: `MTY0MTAwNDY5NywwMDAwMDAwMGY1N2IxMTZhNDM3NWJiNTNkMzI0ZmRmZTkwNWVmMzY1`
+Snapshot ID: `MTY0MTAyNTE2NSwwMDAwMDAwMDMzZmQ0MzE0NzU1NmMzZDU1ODI3ZWNiNTA0ZWJlMjIy`

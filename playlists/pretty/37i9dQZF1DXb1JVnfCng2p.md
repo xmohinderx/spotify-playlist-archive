@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get in mood for dinner with some cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,569 likes - 75 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,577 likes - 75 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 74 | [Speak No Evil \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 8:23 |
 | 75 | [Young Bean](https://open.spotify.com/track/0jLNrHoBVaOm8V37QRRXEf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 6:03 |
 
-Snapshot ID: `MTY0MTAwNDY5NywwMDAwMDAwMDJiOTA0Y2ZkN2M4MTdmNzA3MDUyNDI0Mzg1OGMwODAz`
+Snapshot ID: `MTY0MTAyNTE2NSwwMDAwMDAwMDJiOTA0Y2ZkN2M4MTdmNzA3MDUyNDI0Mzg1OGMwODAz`

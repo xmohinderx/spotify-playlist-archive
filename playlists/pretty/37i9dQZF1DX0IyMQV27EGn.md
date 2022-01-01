@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and dark, alluring siren songs\. Cover: Ashley Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,661 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,678 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Listen Up](https://open.spotify.com/track/0g4v8zDxXSCwXZvae6dfQg) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Listen Up](https://open.spotify.com/album/1I1Ahe6u0yNUj0OCfgrsGr) | 3:10 |
 | 70 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 
-Snapshot ID: `MTY0MTAwNDQ1MCwwMDAwMDAwMGJlNzFjNmFlNDc2MTQ2YTI2NjE2Nzg5YTI0MjEwNThj`
+Snapshot ID: `MTY0MTAyNDkzMSwwMDAwMDAwMGJlNzFjNmFlNDc2MTQ2YTI2NjE2Nzg5YTI0MjEwNThj`

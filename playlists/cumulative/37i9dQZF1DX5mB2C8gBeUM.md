@@ -2,7 +2,7 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\.  Artist: HARDY
+> Country gone wild! You never know what you're gonna get\.  Artist: Wrabel and Cam
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

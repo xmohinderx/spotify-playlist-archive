@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Bettye LaVette
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,104 likes - 55 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,109 likes - 55 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 54 | [Call On God](https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Call on God \- Single](https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl) | 3:37 |
 | 55 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
 
-Snapshot ID: `MTY0MTAwNDY0MywwMDAwMDAwMDBmNzFhYTM1MzEwNzIzNTEwZGY3MWYxODkyMDdlYWY5`
+Snapshot ID: `MTY0MTAyNTExNCwwMDAwMDAwMDBmNzFhYTM1MzEwNzIzNTEwZGY3MWYxODkyMDdlYWY5`

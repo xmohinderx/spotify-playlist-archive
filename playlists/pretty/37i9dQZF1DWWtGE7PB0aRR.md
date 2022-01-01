@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Robin Trower
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,690 likes - 65 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,700 likes - 65 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Cry Me A River](https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5) | [The Steampacket](https://open.spotify.com/artist/5sPaD3cDvvV5gzjWmZCOr4) | [The First Super Group](https://open.spotify.com/album/7CtD9yd4joJ2EZOwYp4aE6) | 2:46 |
 | 65 | [Shapes of Things](https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 3:17 |
 
-Snapshot ID: `MTY0MTAwNDM4MiwwMDAwMDAwMDgwZjViM2I2NmU0ZTlmMTM1ZDUwMTU4NTFiYzBiZjJj`
+Snapshot ID: `MTY0MTAyNDg2NiwwMDAwMDAwMDgwZjViM2I2NmU0ZTlmMTM1ZDUwMTU4NTFiYzBiZjJj`

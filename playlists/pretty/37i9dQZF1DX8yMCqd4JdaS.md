@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yMCqd4JdaS.md) - [plain]
 
 > Sting, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,133 likes - 55 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,167 likes - 55 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

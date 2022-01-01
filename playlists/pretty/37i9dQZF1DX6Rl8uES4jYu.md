@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,340 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,339 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [Where Do I Go From Here](https://open.spotify.com/track/6GgilVSiwORRZpxDVS5VrZ) | [Soulpersona](https://open.spotify.com/artist/4SOCuwOpa0FUmQ57i9C362), [Princess Freesia](https://open.spotify.com/artist/7KGXDaB3Tmfz0Fpa74qnER) | [Extended Pleasure](https://open.spotify.com/album/3ajFuJCUGHt96d8EE9BmMn) | 5:54 |
 | 80 | [All Together Now](https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Jamz](https://open.spotify.com/album/0iXMyDCLh5QNIvZV36cO8C) | 2:42 |
 
-Snapshot ID: `MTY0MTAwNDYwNSwwMDAwMDAwMGZlODhjZjcyYjQxZjQ4YTY0NjFhYTI4NjcwOWVmZTRl`
+Snapshot ID: `MTY0MTAyNTA3NiwwMDAwMDAwMGZlODhjZjcyYjQxZjQ4YTY0NjFhYTI4NjcwOWVmZTRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,311 likes - 150 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,388 likes - 150 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 |
 | 150 | [If You're Thinking You Want A Stranger \(There's One Coming Home\)](https://open.spotify.com/track/1DffLkGx0GOaaRcaztOgdS) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits](https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c) | 2:56 |
 
-Snapshot ID: `MTY0MTAwNDYwNCwwMDAwMDAwMDJkNTk4ZTEwY2NjZDA2YjVhOWQyZmI0MzRiMjQ4ZmM3`
+Snapshot ID: `MTY0MTAyNTA3NSwwMDAwMDAwMDJkNTk4ZTEwY2NjZDA2YjVhOWQyZmI0MzRiMjQ4ZmM3`

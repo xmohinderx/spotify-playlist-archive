@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Kick back with the queens of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,259,216 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,259,386 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 69 | [Touch](https://open.spotify.com/track/5Ua3GXyHwiSfpNTMjq6m2z) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Deluxe\)](https://open.spotify.com/album/2GJLzxAajkFeyDPVH7X4Cs) | 3:33 |
 | 70 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 |
 
-Snapshot ID: `MTY0MTAwNDUyOSwwMDAwMDAwMDdkYTdjMTM2ZWVlNDY5NDA1N2VkYWRjZWJjOWQ0OTU5`
+Snapshot ID: `MTY0MTAyNTAwNSwwMDAwMDAwMDdkYTdjMTM2ZWVlNDY5NDA1N2VkYWRjZWJjOWQ0OTU5`

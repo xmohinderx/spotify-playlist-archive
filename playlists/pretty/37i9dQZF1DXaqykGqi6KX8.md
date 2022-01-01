@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,653 likes - 30 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,656 likes - 30 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 29 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |
 | 30 | [The Twelth Gate](https://open.spotify.com/track/1SkWDSHs825x3os2JtxKBQ) | [Crescent](https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz) | [The Order Of Amenti](https://open.spotify.com/album/3ZICoVkNWfn9ers5Dsa6v6) | 4:00 |
 
-Snapshot ID: `MTY0MTAwNDY5MywwMDAwMDAwMGFhYTJlOGJlNDgxODFhMDczN2U3ZmE2OGQ3NWVlNzA0`
+Snapshot ID: `MTY0MTAyNTE2MSwwMDAwMDAwMGFhYTJlOGJlNDgxODFhMDczN2U3ZmE2OGQ3NWVlNzA0`

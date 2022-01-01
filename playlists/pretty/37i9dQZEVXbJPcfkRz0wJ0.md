@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJPcfkRz0wJ0.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,883 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,913 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

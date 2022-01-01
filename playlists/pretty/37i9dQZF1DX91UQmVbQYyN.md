@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: FKA Twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,510 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,556 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [Knock Me Off My Feet](https://open.spotify.com/track/15GwXVerL8HSCf6zEf7aCG) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Knock Me Off My Feet](https://open.spotify.com/album/1ZvDkuuGB4JQc31jHdoQq0) | 3:07 |
 | 100 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 |
 
-Snapshot ID: `MTY0MTAwNDY1NiwwMDAwMDAwMDRhNDA4OWNmNjBjZDgzZTg2MTYyZWE4ZTFmNjY1NDlm`
+Snapshot ID: `MTY0MTAyNTEyNiwwMDAwMDAwMDRhNDA4OWNmNjBjZDgzZTg2MTYyZWE4ZTFmNjY1NDlm`

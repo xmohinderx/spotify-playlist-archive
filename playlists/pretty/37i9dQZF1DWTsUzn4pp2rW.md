@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,008 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,021 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 149 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
 | 150 | [I Will Fly](https://open.spotify.com/track/0IpMEZdKu7FB5KOpNEg8x3) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Journey](https://open.spotify.com/album/3SH84FCoy3IDaXQBZPBqsJ) | 3:40 |
 
-Snapshot ID: `MTY0MTAwNDMxOSwwMDAwMDAwMGVjMmE3NmRmMDIyNzA1NzJhMDZjNWZjODdhYTlkY2Mx`
+Snapshot ID: `MTY0MTAyNDgwNiwwMDAwMDAwMGVjMmE3NmRmMDIyNzA1NzJhMDZjNWZjODdhYTlkY2Mx`

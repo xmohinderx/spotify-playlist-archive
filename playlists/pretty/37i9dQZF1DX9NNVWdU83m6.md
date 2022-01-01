@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,490 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,497 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Trail of Thought](https://open.spotify.com/track/2vK4fWEYTYVMJAJ4ZuqpDK) | [Umbra](https://open.spotify.com/artist/4BfC304NqLQht44pZaTLGE) | [Umbra](https://open.spotify.com/album/65nEJHfAyMuUDMwnFq7Q6r) | 6:17 |
 | 50 | [Amusement](https://open.spotify.com/track/5mUKcIhfS0oHhu2eNPoFjc) | [EIKO＋ERIKO](https://open.spotify.com/artist/6b7oAa2JOCrhHAxDCqb7sz) | [Amusement](https://open.spotify.com/album/1PnWjfmh5UuuZTD2KVFau1) | 7:00 |
 
-Snapshot ID: `MTY0MTAwNDY2MywwMDAwMDAwMDcwNWI0MGNjZDQ2NjhkZTk5OWI2ZjUyNDdmOGUwNWE2`
+Snapshot ID: `MTY0MTAyNTEzMiwwMDAwMDAwMDcwNWI0MGNjZDQ2NjhkZTk5OWI2ZjUyNDdmOGUwNWE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,092 likes - 70 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,117 likes - 70 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 69 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
 | 70 | [House Of Jade \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:53 |
 
-Snapshot ID: `MTY0MTAwNDM3MywwMDAwMDAwMDI2YmYxMTQ0YTM0OGUxMzBiNTAwYjAyNDcwZTg3OGJj`
+Snapshot ID: `MTY0MTAyNDg1NywwMDAwMDAwMDI2YmYxMTQ0YTM0OGUxMzBiNTAwYjAyNDcwZTg3OGJj`

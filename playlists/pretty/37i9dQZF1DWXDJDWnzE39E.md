@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,936 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,954 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 |
 | 80 | [Radio Silence](https://open.spotify.com/track/57ptt4wnK1PjkPCiRrwKYL) | [A Light Divided](https://open.spotify.com/artist/5xnKKbSzhpsKoPiAjD2yvV) | [Radio Silence](https://open.spotify.com/album/25PoIyxB5owLh2UUp5LyR4) | 3:08 |
 
-Snapshot ID: `MTY0MTAwNDM4OSwwMDAwMDAwMGIzMDRiYzk5MGM0ZDE1NWQ4YThjZDI2ZGIwMGQ1NmYx`
+Snapshot ID: `MTY0MTAyNDg3MiwwMDAwMDAwMGIzMDRiYzk5MGM0ZDE1NWQ4YThjZDI2ZGIwMGQ1NmYx`

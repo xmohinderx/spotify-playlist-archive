@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,548,882 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,548,972 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 59 | [La La Bam\-Bam](https://open.spotify.com/track/7z9tKI5lpgMmvEsVpchGiz) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Total Reggae: Classic Roots](https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30) | 3:47 |
 | 60 | [Samfie Man](https://open.spotify.com/track/7lg50PPjR4ae8VaSXWp46z) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [The Best of The Pioneers](https://open.spotify.com/album/59qX9UWoEoXW5wpuv8FMks) | 2:57 |
 
-Snapshot ID: `MTY0MTAwNDcwNiwwMDAwMDAwMGI2OGM4MWUyNDllZjkwOTVjNWNiNjIxYWJiZjA2NGE0`
+Snapshot ID: `MTY0MTAyNTE3MywwMDAwMDAwMGI2OGM4MWUyNDllZjkwOTVjNWNiNjIxYWJiZjA2NGE0`

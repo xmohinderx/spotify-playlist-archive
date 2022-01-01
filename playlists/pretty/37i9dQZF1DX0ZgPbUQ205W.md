@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Relaxing sounds of modern jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,766 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,769 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Amarinthine](https://open.spotify.com/track/31c6uaIRRejku8CXA4ms92) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq) | [Warp](https://open.spotify.com/album/32XHiqhjVkOjYz0IHp2Vdv) | 3:03 |
 | 100 | [The Admiral](https://open.spotify.com/track/7zKpgrCY4a2SBQscjvODaP) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 5:15 |
 
-Snapshot ID: `MTY0MTAwNDQ1OCwwMDAwMDAwMDg5ZWQzZGVmZjYxNTcwM2QzNzE0YjljMDQ4NDk1NDQ5`
+Snapshot ID: `MTY0MTAyNDkzOCwwMDAwMDAwMDg5ZWQzZGVmZjYxNTcwM2QzNzE0YjljMDQ4NDk1NDQ5`

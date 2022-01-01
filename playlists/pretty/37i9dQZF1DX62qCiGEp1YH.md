@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62qCiGEp1YH.md) - [plain]
 
 > Embrace the mood of the season with harmonious, comforting songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,952 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,949 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62qCiGEp1YH.md) - [plain]
 | 99 | [thinking 2 much](https://open.spotify.com/track/4SRkSRxPeAydDA3HrNTiSs) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [thinking 2 much](https://open.spotify.com/album/4hYmm8aor6QOvz35TiSYiG) | 3:49 |
 | 100 | [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 |
 
-Snapshot ID: `MTY0MTAwNDU5MiwwMDAwMDAwMDg2ZWUzZjczZjhkNGI4M2YyZDdiNjQxY2UyZTIyZmM0`
+Snapshot ID: `MTY0MTAyNTA2NCwwMDAwMDAwMDg2ZWUzZjczZjhkNGI4M2YyZDdiNjQxY2UyZTIyZmM0`

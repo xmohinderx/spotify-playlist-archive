@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,264,321 likes - 200 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,264,411 likes - 200 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [Sorry](https://open.spotify.com/track/3UNuVVGosJLfLCsWHEhr5U) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sorry](https://open.spotify.com/album/2qMa1frD0Fhn5Tsa9CbE5M) | 4:15 |
 | 200 | [Sinking Ship](https://open.spotify.com/track/7orUPsozJ19Cyxv5ozoREr) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Expectations](https://open.spotify.com/album/13bRrqlPDErhpXDUxYQCUU) | 4:07 |
 
-Snapshot ID: `MTY0MTAwNDUzMCwwMDAwMDAwMDVkYzEzODc3YTdiYmExNzNhNDllMTM3OTE5ZmQyZDcz`
+Snapshot ID: `MTY0MTAyNTAwNiwwMDAwMDAwMDVkYzEzODc3YTdiYmExNzNhNDllMTM3OTE5ZmQyZDcz`

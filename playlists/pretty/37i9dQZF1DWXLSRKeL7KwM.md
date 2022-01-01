@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,933 likes - 150 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,011 likes - 150 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 149 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
 | 150 | [Comin' to Your City](https://open.spotify.com/track/56EYmR9IrFKKYdygcKXrvH) | [Big & Rich](https://open.spotify.com/artist/0oBEeN6BCxEgMogzThqrPf) | [Comin' to Your City](https://open.spotify.com/album/7zSqj9Mp9kc38v3Fiynoog) | 3:27 |
 
-Snapshot ID: `MTY0MTAwNDM5MiwwMDAwMDAwMDk2Y2M3OGY3ZmYxNDM4Y2FlODBhNjc5NjU4NDJkNzFj`
+Snapshot ID: `MTY0MTAyNDg3NSwwMDAwMDAwMDk2Y2M3OGY3ZmYxNDM4Y2FlODBhNjc5NjU4NDJkNzFj`

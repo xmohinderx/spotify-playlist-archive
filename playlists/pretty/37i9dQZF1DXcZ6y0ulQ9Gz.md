@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > Those songs you just love to love\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,214 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,224 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [Fall Apart](https://open.spotify.com/track/2uhbArFVZu4TV8XGvWvdGK) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [Worried Mind](https://open.spotify.com/album/4h0xoGomQxDmfgkzNFKDM2) | 4:36 |
 | 100 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 
-Snapshot ID: `MTY0MTAwNDcyOSwwMDAwMDAwMGY4NjYyYjI5OWM1NGIwYzI3ZGU3MjFkYzI5Mjc2NmZh`
+Snapshot ID: `MTY0MTAyNTE5NSwwMDAwMDAwMGY4NjYyYjI5OWM1NGIwYzI3ZGU3MjFkYzI5Mjc2NmZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,202 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,211 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 149 | [Have You Thought About Me With Somebody Else](https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq) | [Georgia Greene](https://open.spotify.com/artist/4gG86DjoxWcWl5fkltnt6J) | [Have You Thought About Me With Somebody Else](https://open.spotify.com/album/6wjxvxjZygpj0H0vGGHyld) | 2:46 |
 | 150 | [Still](https://open.spotify.com/track/5uhVnZboNh4duvA50RgNv5) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [Kennecott](https://open.spotify.com/album/1VZyPPPoDtEr7riz03EoPP) | 3:56 |
 
-Snapshot ID: `MTY0MTAwNDMyMywwMDAwMDAwMDdjMmM5ZTAyM2FjYjBmZTdlYjYxMjM4NjkyNjk1NjZj`
+Snapshot ID: `MTY0MTAyNDgwOSwwMDAwMDAwMDdjMmM5ZTAyM2FjYjBmZTdlYjYxMjM4NjkyNjk1NjZj`

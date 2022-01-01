@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982,354 likes - 300 songs - 17 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,383 likes - 300 songs - 17 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Pride \(In the Name of Love\)](https://open.spotify.com/track/2C1jkbtYDs3BQG4H7gAnYn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Pure..\. Acoustic](https://open.spotify.com/album/5VLrH7L6Vw0IMCwMghmTLq) | 4:07 |
 | 300 | [Breathe \- Acoustic](https://open.spotify.com/track/4F1J6Ne5nUZ3YN8wqDJWEY) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/4qVIONl6OrewOLxlWf7QaL) | 4:05 |
 
-Snapshot ID: `MTY0MTAwNDY0NCwwMDAwMDAwMGExYzY5YjIyNjk5NGRmMTBhNjNmMDAzMjBiNDM5ZTEy`
+Snapshot ID: `MTY0MTAyNTExNSwwMDAwMDAwMGExYzY5YjIyNjk5NGRmMTBhNjNmMDAzMjBiNDM5ZTEy`

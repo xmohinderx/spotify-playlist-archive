@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132,093 likes - 135 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,132,094 likes - 135 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 134 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 |
 | 135 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 |
 
-Snapshot ID: `MTY0MTAwNDUxNSwwMDAwMDAwMGVhOTg0YzkzZGEwMDM4NDI0YjlhYTkyODY3YmU4M2Ey`
+Snapshot ID: `MTY0MTAyNDk5MiwwMDAwMDAwMGVhOTg0YzkzZGEwMDM4NDI0YjlhYTkyODY3YmU4M2Ey`

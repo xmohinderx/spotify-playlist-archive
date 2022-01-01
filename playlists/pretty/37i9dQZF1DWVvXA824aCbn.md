@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,063 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,070 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 99 | [Infant Eyes](https://open.spotify.com/track/4PEO2xAMctCKn1D7ocUR8S) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 4:33 |
 | 100 | [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 |
 
-Snapshot ID: `MTY0MTAwNDM1OSwwMDAwMDAwMGUxNDE0ODk1ODY3ODc4MTZiYTY1ZTdjYTdiMDQ1N2Vi`
+Snapshot ID: `MTY0MTAyNDg0NSwwMDAwMDAwMGUxNDE0ODk1ODY3ODc4MTZiYTY1ZTdjYTdiMDQ1N2Vi`

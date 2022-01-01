@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana\. Cover: The Northern Belle
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,035 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,034 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 60 | [Holding Hands](https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI) | [The Sparks Flew Up](https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm) | 2:33 |
 
-Snapshot ID: `MTY0MTAwNDU1NiwwMDAwMDAwMDdlNGYzZjA1ZDBiNTBiOWJhZTFmYjY1NjE5ZTE0NDQ5`
+Snapshot ID: `MTY0MTAyNTAzMCwwMDAwMDAwMDdlNGYzZjA1ZDBiNTBiOWJhZTFmYjY1NjE5ZTE0NDQ5`

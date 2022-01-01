@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in jazz history\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,352,260 likes - 200 songs - 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,352,470 likes - 200 songs - 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 199 | [Hoe Down](https://open.spotify.com/track/7kDlGHJVjuMGVZWNDlH9Ru) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues and the Abstract Truth](https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ) | 4:41 |
 | 200 | [Splanky](https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:37 |
 
-Snapshot ID: `MTY0MTAwNDcwMywwMDAwMDAwMDRlMTJjYzI5MzlmYWZiM2JmN2ZkNzlmMjBkNDA5NGM4`
+Snapshot ID: `MTY0MTAyNTE3MCwwMDAwMDAwMDRlMTJjYzI5MzlmYWZiM2JmN2ZkNzlmMjBkNDA5NGM4`

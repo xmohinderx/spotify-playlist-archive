@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: KIM JAE HWAN \(김재환\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,222 likes - 58 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,252 likes - 58 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 57 | [Bruising](https://open.spotify.com/track/1fA5Eiu5GgHvJN5YogiAIa) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [After Summer](https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5) | 2:43 |
 | 58 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 |
 
-Snapshot ID: `MTY0MTAwNDY0OCwwMDAwMDAwMDZiNDBkYWNiNTBmYWM1ZTBkMjAzYWE4MDQyY2EzOWZh`
+Snapshot ID: `MTY0MTAyNTExOSwwMDAwMDAwMDZiNDBkYWNiNTBmYWM1ZTBkMjAzYWE4MDQyY2EzOWZh`

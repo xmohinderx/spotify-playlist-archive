@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > Slow burners for late nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,726 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,733 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 74 | [TRAP PHONE](https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [TRAP PHONE](https://open.spotify.com/album/4IhmhPD7eW7QSMR3pVrYet) | 4:10 |
 | 75 | [2much](https://open.spotify.com/track/0ShhMU4mTH4zvBnjmHuMmi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [2much](https://open.spotify.com/album/3WCaort7R4Y798LmjsuLeL) | 3:58 |
 
-Snapshot ID: `MTY0MTAwNDc0NiwwMDAwMDAwMDViYjc0NjU2NjMzNzI1ZjhkMDI4MzJmMTcyZjUwMzVh`
+Snapshot ID: `MTY0MTAyNTIxMSwwMDAwMDAwMDViYjc0NjU2NjMzNzI1ZjhkMDI4MzJmMTcyZjUwMzVh`

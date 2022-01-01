@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,414 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,418 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 49 | [All I Want for Christmas Is You](https://open.spotify.com/track/6vhYWdn4dx1y3Xc20gtUrh) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 4:25 |
 | 50 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |
 
-Snapshot ID: `MTY0MTAwNDQ4NSwwMDAwMDAwMGM5M2YwOTczNjNlNjg0NGQ0YzYzZjY0NWViM2Q3Mjk1`
+Snapshot ID: `MTY0MTAyNDk2NCwwMDAwMDAwMGM5M2YwOTczNjNlNjg0NGQ0YzYzZjY0NWViM2Q3Mjk1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIGqYf7WDxP.md) - [plain]
 
 > The best music for just chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,251 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,254 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIGqYf7WDxP.md) - [plain]
 | 99 | [I Am Here](https://open.spotify.com/track/4YiBVTLWDOqJbK7IZRuTFO) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [I Am Here](https://open.spotify.com/album/0DQZaLPYQfE2fISZRncLGO) | 3:47 |
 | 100 | [Everyone's the Same](https://open.spotify.com/track/0nR8gPc7acGtRzqibN4P7a) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Everyone's the Same](https://open.spotify.com/album/71MqQrmpPLbYuwATINhknV) | 2:45 |
 
-Snapshot ID: `MTY0MTAwNDcwMywwMDAwMDAwMGM3YjRiNjExYTY0OTVlNDg1MWU5OGZmNTE3OTYwOTNh`
+Snapshot ID: `MTY0MTAyNTE3MCwwMDAwMDAwMGM3YjRiNjExYTY0OTVlNDg1MWU5OGZmNTE3OTYwOTNh`

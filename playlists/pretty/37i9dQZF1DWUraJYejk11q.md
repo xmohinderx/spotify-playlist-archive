@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,891 likes - 100 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,895 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 99 | [Talk to Me](https://open.spotify.com/track/2bfLkpwxog2kK4QeJf6I3T) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 3:42 |
 | 100 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 |
 
-Snapshot ID: `MTY0MTAwNDMzOSwwMDAwMDAwMGIxN2ExYmJmOGEwMWNlMDQ0M2Y2NTM1YWYzNjc0Y2Nm`
+Snapshot ID: `MTY0MTAyNDgyNiwwMDAwMDAwMGIxN2ExYmJmOGEwMWNlMDQ0M2Y2NTM1YWYzNjc0Y2Nm`

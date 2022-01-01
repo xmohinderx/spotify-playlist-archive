@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 
 > Pop hits to keep your workout fresh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,548,882 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,548,961 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 | 99 | [2Drunk](https://open.spotify.com/track/33o0xXMPY41CWwDTnxyM5Z) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Spaceman](https://open.spotify.com/album/3FTjOu2zQLWcl1NVos4eAq) | 3:12 |
 | 100 | [Give It All](https://open.spotify.com/track/4LGllc1EIdhZLT4YqiPmHl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Give It All](https://open.spotify.com/album/2QinTlrTBSRVHUYvz6xp9f) | 2:55 |
 
-Snapshot ID: `MTY0MTAwNDYxNSwwMDAwMDAwMGVmOWFkYjk2MjliNWU3M2M2Y2UzZDY5MzM0MjFmNDAx`
+Snapshot ID: `MTY0MTAyNTA4NiwwMDAwMDAwMGVmOWFkYjk2MjliNWU3M2M2Y2UzZDY5MzM0MjFmNDAx`

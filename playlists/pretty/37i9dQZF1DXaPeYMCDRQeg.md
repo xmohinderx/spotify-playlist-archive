@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > Celebrating Black love, one song at a time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,689 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,708 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 79 | [Knocks Me Off My Feet](https://open.spotify.com/track/2Qc5WMlXBbvhfeiWczhK2s) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 3:36 |
 | 80 | [Decide](https://open.spotify.com/track/7kgkHtqxN1es6hHW6SQJPG) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Decide](https://open.spotify.com/album/1eqrynMJ4HC4MJ5ycoHMsW) | 3:51 |
 
-Snapshot ID: `MTY0MTAwNDY4MywwMDAwMDAwMDJmNjY2OTVlNDI5ZDA5NGJlOTRlMDA0YWJiZjA4M2Fj`
+Snapshot ID: `MTY0MTAyNTE1MiwwMDAwMDAwMDJmNjY2OTVlNDI5ZDA5NGJlOTRlMDA0YWJiZjA4M2Fj`

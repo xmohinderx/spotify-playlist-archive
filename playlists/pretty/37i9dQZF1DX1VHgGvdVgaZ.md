@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,445 likes - 72 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,452 likes - 72 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 71 | [Bho Shambho \- Instrumental](https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 6:02 |
 | 72 | [Thevaram Mangayarkarasi Bowli Adi](https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Mahathi Melodies](https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B) | 5:18 |
 
-Snapshot ID: `MTY0MTAwNDQ3NSwwMDAwMDAwMGQ3NTliNzExMzk2NGUxZWFmYmViM2U1OGVmNjEzM2Nl`
+Snapshot ID: `MTY0MTAyNDk1NSwwMDAwMDAwMGQ3NTliNzExMzk2NGUxZWFmYmViM2U1OGVmNjEzM2Nl`

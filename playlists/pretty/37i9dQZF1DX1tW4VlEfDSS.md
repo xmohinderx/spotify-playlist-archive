@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,630 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,636 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
 | 60 | [So Much Love \(feat\. Lloyd Wade\) \- Soda State Remix](https://open.spotify.com/track/08L01pJcsL4trIQrxSa8mj) | [Owen Westlake](https://open.spotify.com/artist/2OdSWlu6iOzT4YsRJuvC8I), [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH), [Lloyd Wade](https://open.spotify.com/artist/6lxTDIi9n3y6DWmL2w4nUs) | [So Much Love \(feat\. Lloyd Wade\) \[Soda State Remix\]](https://open.spotify.com/album/0uGKe7trLiVIJqBe0zofC4) | 4:23 |
 
-Snapshot ID: `MTY0MTAwNDQ4NywwMDAwMDAwMDIzYWVmZWUzZmVjZDAyM2M1ZDFhYTljZmIzZjcxNjBk`
+Snapshot ID: `MTY0MTAyNDk2NiwwMDAwMDAwMDIzYWVmZWUzZmVjZDAyM2M1ZDFhYTljZmIzZjcxNjBk`

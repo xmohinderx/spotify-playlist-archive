@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,961 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,967 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Honey Don't Leave L.A.](https://open.spotify.com/track/4JYMyddoksmabha0ZCltwA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 3:05 |
 | 80 | [Moonlighting](https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Another Year](https://open.spotify.com/album/2p2kou1Eo0lr9dADvLfjn7) | 4:13 |
 
-Snapshot ID: `MTY0MTAwNDYwOSwwMDAwMDAwMDM5MjgwZjM0ZDEyZTQ4MGNhZTkxODM4MzU5NmVkYmNk`
+Snapshot ID: `MTY0MTAyNTA4MSwwMDAwMDAwMDM5MjgwZjM0ZDEyZTQ4MGNhZTkxODM4MzU5NmVkYmNk`

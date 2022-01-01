@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,399 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,413 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Rae](https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:55 |
 | 100 | [Coyote](https://open.spotify.com/track/7ArPT2eBw3IVvnYFoChx7s) | [She Keeps Bees](https://open.spotify.com/artist/1dhUEswrKf1aUf6375EPSx) | [Coyote](https://open.spotify.com/album/3BY84BioTQ3iP4FGVYJ31w) | 4:05 |
 
-Snapshot ID: `MTY0MTAwNDY2MiwwMDAwMDAwMDQwYzZmZTg1ZTUyNzNjYjc4MDhlNmY1Y2RlNjBlYzdm`
+Snapshot ID: `MTY0MTAyNTEzMiwwMDAwMDAwMDQwYzZmZTg1ZTUyNzNjYjc4MDhlNmY1Y2RlNjBlYzdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,540 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,543 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Go Down in History](https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:39 |
 | 100 | [So Far Gone](https://open.spotify.com/track/34BZplPGP62rkyzCaoH7tK) | [Abandoned By Bears](https://open.spotify.com/artist/1ok9NNj6WIYbabBjhowQZP) | [So Far Gone](https://open.spotify.com/album/3oF7uik9qO9J1tOEi8ijhk) | 3:05 |
 
-Snapshot ID: `MTY0MTAwNDQ0NSwwMDAwMDAwMGYyOTRlNTgyYjg1OWNhZGIyMzVkMWViZDRmNmVlOTkw`
+Snapshot ID: `MTY0MTAyNDkyNiwwMDAwMDAwMGYyOTRlNTgyYjg1OWNhZGIyMzVkMWViZDRmNmVlOTkw`

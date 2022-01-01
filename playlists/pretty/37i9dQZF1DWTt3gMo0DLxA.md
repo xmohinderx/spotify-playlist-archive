@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,940 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,944 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 50 | [Iraga Iraga](https://open.spotify.com/track/5o5MuoOU2QHVVyWJdkTXGK) | [Rahul Sipligunj, Mohana Bhogaraju](https://open.spotify.com/artist/61QdqNUW0qSz0GoaeVe6Gw) | [Naa Peru Surya Naa Illu India](https://open.spotify.com/album/2bTvu2JbjPQFRPDdVo2Vae) | 4:00 |
 | 51 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 |
 
-Snapshot ID: `MTY0MTAwNDMyMCwwMDAwMDAwMGY3MDM1NjJhOWE5ODM1OTE3MWFkYjEwOGRhNzk0NzNm`
+Snapshot ID: `MTY0MTAyNDgwNiwwMDAwMDAwMGY3MDM1NjJhOWE5ODM1OTE3MWFkYjEwOGRhNzk0NzNm`

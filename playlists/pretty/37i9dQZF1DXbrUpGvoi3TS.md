@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,997,987 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,997,997 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [Lay By Me](https://open.spotify.com/track/4l6boTiX3Erh3HYpKOa0D6) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Lay By Me](https://open.spotify.com/album/6RZ6Kas2zRvJo0d6CZUfMZ) | 2:50 |
 | 100 | [Stone](https://open.spotify.com/track/6cRExfWfj87zhACU30aW7l) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Stone](https://open.spotify.com/album/5eVT96kMhD5GbHnqdy8LyK) | 3:36 |
 
-Snapshot ID: `MTY0MTAwNDcxNSwwMDAwMDAwMGVmZTM4N2MwYzliM2RlYTM0M2UzZTgwMGY4YzA5MTRk`
+Snapshot ID: `MTY0MTAyNTE4MSwwMDAwMDAwMGVmZTM4N2MwYzliM2RlYTM0M2UzZTgwMGY4YzA5MTRk`

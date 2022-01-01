@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > the resurgence is real\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,575 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,722 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Before We Knew](https://open.spotify.com/track/2tPXuksuhokCBYmAcKnx5B) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Before We Knew](https://open.spotify.com/album/6dwYzHRbq3591ac7ThF4rn) | 3:31 |
 | 100 | [i won't run](https://open.spotify.com/track/3ykvobAQxQ5VlcDOMKXI4M) | [Keanu Bicol](https://open.spotify.com/artist/24kKjYHpxr9bHyAJqChG68) | [i won't run](https://open.spotify.com/album/5MaMrXsh9tYod0w4iAE2jc) | 2:38 |
 
-Snapshot ID: `MTY0MTAwNDUxNSwwMDAwMDAwMDA5MDRkODU2Y2FhMmNlNjI1ODc3NTYyZDg4YWM0ZGVk`
+Snapshot ID: `MTY0MTAyNDk5MiwwMDAwMDAwMDA5MDRkODU2Y2FhMmNlNjI1ODc3NTYyZDg4YWM0ZGVk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,718 likes - 200 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,725 likes - 200 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [ALL IN \(Korean Ver.\)](https://open.spotify.com/track/6MNO35c8EUdXs1Zs4gD974) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN \(Korean Ver.\)](https://open.spotify.com/album/37vY3scs4ymxAWDoMIUUT5) | 3:04 |
 | 200 | [What The Flower](https://open.spotify.com/track/3uVqwK7jRfNb04b5i4hJqT) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:25 |
 
-Snapshot ID: `MTY0MTAwNDU4MSwwMDAwMDAwMGUwOTQ0MTJjNzQxMWMzOWY1YWUzNGQ4ZjVkMGU2ZWNh`
+Snapshot ID: `MTY0MTAyNTA1NCwwMDAwMDAwMGUwOTQ0MTJjNzQxMWMzOWY1YWUzNGQ4ZjVkMGU2ZWNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,936,628 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,936,771 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [Keep Holding On](https://open.spotify.com/track/58Mmq9tDlN7jiUqmvugggD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Keep Holding On](https://open.spotify.com/album/0cuF4UYoABFPKE6GZ6Lqq8) | 3:59 |
 | 150 | [Tee Shirt \- Soundtrack Version](https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Tee Shirt](https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD) | 2:39 |
 
-Snapshot ID: `MTY0MTAwNDM4NywwMDAwMDAwMDlmOTY0OTgxOWM2MDUxNTcyYzIxZjUzYjU0OGExYTYw`
+Snapshot ID: `MTY0MTAyNDg3MSwwMDAwMDAwMDlmOTY0OTgxOWM2MDUxNTcyYzIxZjUzYjU0OGExYTYw`

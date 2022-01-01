@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,607 likes - 90 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,625 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Bad Bad Love](https://open.spotify.com/track/152cWqveFZBFw8zVCeb63k) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Alexander](https://open.spotify.com/album/2HtJQaxA1TLBjMM0utAiVk) | 3:29 |
 | 90 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 |
 
-Snapshot ID: `MTY0MTAwNDM0MiwwMDAwMDAwMDc1MThkNGY3ZTU2MzgzMTIwZjM4YzY1ZGRmYmU5NDVi`
+Snapshot ID: `MTY0MTAyNDgyOCwwMDAwMDAwMDc1MThkNGY3ZTU2MzgzMTIwZjM4YzY1ZGRmYmU5NDVi`

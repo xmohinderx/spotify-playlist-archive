@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510,524 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,510,553 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 84 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 |
 | 85 | [Kiss Her](https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Kiss Her](https://open.spotify.com/album/4CR78cQqMeAlOVbmWswvOe) | 2:52 |
 
-Snapshot ID: `MTY0MTAwNDY0NSwwMDAwMDAwMGJlN2YzZGMzMzZjZGE3YjQ2ODk2ZWU4YjViZjYxYjZm`
+Snapshot ID: `MTY0MTAyNTExNiwwMDAwMDAwMGJlN2YzZGMzMzZjZGE3YjQ2ODk2ZWU4YjViZjYxYjZm`

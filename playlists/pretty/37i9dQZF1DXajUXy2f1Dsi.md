@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,954 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,956 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 49 | [Adiós a la Alhambra](https://open.spotify.com/track/1VuB26EoqmKBC7aSfOMVjN) | [Jesús De Monasterio](https://open.spotify.com/artist/4P0b4wCUvriCDV8b3IOd1N), [Manuel Guillén](https://open.spotify.com/artist/7MI8pxE2MYfYC0rqKf5Htu), [María Jesus García](https://open.spotify.com/artist/4K7deOz4SzDb4Vj2ERopW8) | [Jesús de Monasterio: Obras para Violín y Piano \(El Patrimonio Musical Hispano 10\)](https://open.spotify.com/album/1GObKv94cditBSHp69a5dS) | 6:27 |
 | 50 | [Estancia / Danzas del Ballet: 4\. Danza final \(Malambo\) \- Live](https://open.spotify.com/track/3miLxRVR1pUWByasPGjDLd) | [Alberto Ginastera](https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP) | 3:24 |
 
-Snapshot ID: `MTY0MTAwNDY5MiwwMDAwMDAwMGNlNDA0NGY2Mjc2YTRiNDAxNjA2ZTFmZWU5ZWVjOThl`
+Snapshot ID: `MTY0MTAyNTE2MCwwMDAwMDAwMGZhY2Y4YzdhNTY2YjMxMWFhN2IzNjU2MGJkOGYyMWIz`

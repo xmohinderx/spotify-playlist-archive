@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,059 likes - 115 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,061 likes - 115 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [In Your Eyes](https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [In Your Eyes](https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV) | 4:42 |
 | 115 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/01J26T3XB19o21N7XV4npl) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [5 Covers & A Song](https://open.spotify.com/album/2V8YaOsCv3YQd01aVnVa1I) | 4:54 |
 
-Snapshot ID: `MTY0MTAwNDcyMywwMDAwMDAwMDBlYTIzNzE4Yzc2NjJmMTNlN2NhMDUwOTFiYmYyNGRh`
+Snapshot ID: `MTY0MTAyNTE4OSwwMDAwMDAwMDBlYTIzNzE4Yzc2NjJmMTNlN2NhMDUwOTFiYmYyNGRh`

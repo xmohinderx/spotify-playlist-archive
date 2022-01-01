@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,663 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,662 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Sanremo](https://open.spotify.com/track/4HriEdz5wMfrp4tqPdaOED) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Sanremo](https://open.spotify.com/album/1zhMkaZCOY039KDkUl3QjC) | 3:21 |
 | 60 | [Need To Know](https://open.spotify.com/track/6EkQmHBoux7iqK4vjfHq4V) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Special Edition\)](https://open.spotify.com/album/1RcwvxkvyE60CTFNagElek) | 2:47 |
 
-Snapshot ID: `MTY0MTAwNDQzNSwwMDAwMDAwMDI5YzBkZjhiNWNhMTBjMDU1NzRlZDQ0ZjkxN2EzZmU1`
+Snapshot ID: `MTY0MTAyNDkxNiwwMDAwMDAwMDI5YzBkZjhiNWNhMTBjMDU1NzRlZDQ0ZjkxN2EzZmU1`

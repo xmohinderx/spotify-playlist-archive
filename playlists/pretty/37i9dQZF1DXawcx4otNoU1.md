@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > This is the perfect playlist for those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,179 likes - 112 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,278 likes - 112 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 111 | [The World's Smiling Now](https://open.spotify.com/track/0uih5xFdBDFIUrqqLbMbXh) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/36C2aKoHatN8ZQRmyW5z3z) | 4:53 |
 | 112 | [Beautiful](https://open.spotify.com/track/0Ri6sPso4CNTnHn7RroCt4) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera/Stripped](https://open.spotify.com/album/4hpmO3kS2S4wd8XQR8DFe0) | 3:58 |
 
-Snapshot ID: `MTY0MTAwNDY5NiwwMDAwMDAwMGY4ZTBjMjY3MTY0MGI5YTU0NDE4MDg5ZWI5NGNhODNk`
+Snapshot ID: `MTY0MTAyNTE2MywwMDAwMDAwMGY4ZTBjMjY3MTY0MGI5YTU0NDE4MDg5ZWI5NGNhODNk`

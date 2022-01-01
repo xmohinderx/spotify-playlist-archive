@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,068,158 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,068,327 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Not Ok \- Frank Walker Remix](https://open.spotify.com/track/6VP3410weACXiPCVLKSkOb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Not Ok \(Frank Walker Remix\)](https://open.spotify.com/album/0i8D6axM9VFpS6A6Pu4M7Z) | 3:03 |
 | 100 | [Rely](https://open.spotify.com/track/2OmwAeV7OLkd6XkzHqVYeG) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Future Kings](https://open.spotify.com/artist/4oDkont73KiwJOLTDJuSHV), [L'Tric](https://open.spotify.com/artist/4ZedOHbnyLaFvvMuY6uaOM) | [Rely](https://open.spotify.com/album/7pbrL2PZwX5XkUqG7tMqJF) | 2:53 |
 
-Snapshot ID: `MTY0MTAwNDc1OSwwMDAwMDAwMGU3Y2VhODlmNjkwZDg4MDMzOGY1NTEzODJiYTYwM2Q2`
+Snapshot ID: `MTY0MTAyNTIyNCwwMDAwMDAwMGU3Y2VhODlmNjkwZDg4MDMzOGY1NTEzODJiYTYwM2Q2`

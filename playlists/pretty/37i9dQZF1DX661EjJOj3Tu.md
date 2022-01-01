@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,281 likes - 100 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,299 likes - 100 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Como Traigo La Yuca \- Live](https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Live At The Village Vanguard](https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX) | 6:36 |
 | 100 | [Come Fly With Me](https://open.spotify.com/track/6OPXHnJY3NMn5Qr6K1Qqty) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/album/4aulK0TyjbHCKcUPtZBXYF) | 3:00 |
 
-Snapshot ID: `MTY0MTAwNDU5MywwMDAwMDAwMGVlZTRkY2ExNWZmMDM5NzJiODQ3ZTlmMjM5MDU1ZDA3`
+Snapshot ID: `MTY0MTAyNTA2NSwwMDAwMDAwMGVlZTRkY2ExNWZmMDM5NzJiODQ3ZTlmMjM5MDU1ZDA3`

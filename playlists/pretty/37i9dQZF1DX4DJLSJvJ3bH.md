@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,726 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,706 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 69 | [Christmas Cheer](https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:51 |
 | 70 | [Christmas Eve](https://open.spotify.com/track/7gXjaS8KmxBtsoyv6XNogg) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Let It Swing: A Jazz Christmas With Verve](https://open.spotify.com/album/2OVtgimkNWYBek4ue7gdL2) | 3:02 |
 
-Snapshot ID: `MTY0MTAwNDU0MCwwMDAwMDAwMGM1ZjM2NDMxZjY0ZDE0ZGIxMDk0ZTg2OGVhNjQ3NTEy`
+Snapshot ID: `MTY0MTAyNTAxNiwwMDAwMDAwMGM1ZjM2NDMxZjY0ZDE0ZGIxMDk0ZTg2OGVhNjQ3NTEy`

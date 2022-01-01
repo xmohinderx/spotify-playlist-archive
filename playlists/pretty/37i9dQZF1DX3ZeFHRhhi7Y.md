@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: IVE\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,876 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,053 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 98 | [WAVE](https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Album 'OK' Prologue : Be OK](https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR) | 3:19 |
 | 99 | [Make it](https://open.spotify.com/track/1sHEEu15zcW0654NkXGyaZ) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [MUST](https://open.spotify.com/album/135Mvw3dkU1VOpIkQA2pa8) | 2:59 |
 
-Snapshot ID: `MTY0MTAwNDUzMSwwMDAwMDAwMGZmYWQ4ZGQzMjc5YzAwNTNhZjZhNmJjMjk2ZTY1NTk4`
+Snapshot ID: `MTY0MTAyNTAwNywwMDAwMDAwMGZmYWQ4ZGQzMjc5YzAwNTNhZjZhNmJjMjk2ZTY1NTk4`

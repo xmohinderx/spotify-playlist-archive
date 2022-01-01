@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The pulse of the best music and sounds in Christian Hip Hop\.  Cover: Lecrae and 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,009 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,015 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 79 | [TIDAL WAVE](https://open.spotify.com/track/7LiqwJEzsr7wt0Fdsylc4M) | [Spencer Kane](https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb) | [TIDAL WAVE](https://open.spotify.com/album/1kqy6QTtfW2fglB0umPFms) | 3:53 |
 | 80 | [Deep End](https://open.spotify.com/track/3cYEVwZXZpdFAYSFhQVnKN) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Mog Trey](https://open.spotify.com/artist/6uBQ2Se4TsboLp4ybm5FvN) | [Deep End](https://open.spotify.com/album/6S4O1WabVhXOXLoolmkgcB) | 3:22 |
 
-Snapshot ID: `MTY0MTAwNDcxOCwwMDAwMDAwMDU4Yjg0OTEzNjYyNDE0NGZjNmQ2MDBhMWQ0YWQ2MGQy`
+Snapshot ID: `MTY0MTAyNTE4NCwwMDAwMDAwMDU4Yjg0OTEzNjYyNDE0NGZjNmQ2MDBhMWQ0YWQ2MGQy`

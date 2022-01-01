@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,655 likes - 70 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,681 likes - 70 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Beat Bop \- Edit](https://open.spotify.com/track/7vvuBvw121GTG6JH9IMDaS) | [Rammellzee](https://open.spotify.com/artist/2XH1sDAtO4ZqslKGfQynr3), [K\-Rob](https://open.spotify.com/artist/7eya8MYxqJhn7kB4EQet5o) | [Giant Single: Profile Records Rap Anthology](https://open.spotify.com/album/13JxcY9hKf4t6BGkrNbSwr) | 6:10 |
 | 70 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
 
-Snapshot ID: `MTY0MTAwNDUwNCwwMDAwMDAwMDQwNGQ3YTJlZjMyMzkzYjQ3OGYyMzFjNDZkODIxZWQ4`
+Snapshot ID: `MTY0MTAyNDk4MiwwMDAwMDAwMDQwNGQ3YTJlZjMyMzkzYjQ3OGYyMzFjNDZkODIxZWQ4`

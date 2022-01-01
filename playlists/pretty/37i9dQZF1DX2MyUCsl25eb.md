@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,624 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,617 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 74 | [You Love Are My Only](https://open.spotify.com/track/4MVqOvkS751uyilBIQqeMO) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [You Love Are My Only](https://open.spotify.com/album/14SvgWRH911Osk4VQIdRli) | 3:28 |
 | 75 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 |
 
-Snapshot ID: `MTY0MTAwNDQ5OSwwMDAwMDAwMGRhYzNhZjFmMDQ0ODZiZmI0ZjIxNGNiYWQxZTNiZmJj`
+Snapshot ID: `MTY0MTAyNDk3NywwMDAwMDAwMGRhYzNhZjFmMDQ0ODZiZmI0ZjIxNGNiYWQxZTNiZmJj`

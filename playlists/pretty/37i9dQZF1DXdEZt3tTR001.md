@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > Lay back\. Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,729 likes - 49 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,772 likes - 49 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 48 | [Stay Where You Are](https://open.spotify.com/track/1hCss2zjMPOdWFbr5Ryf3F) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/4gHiYSPUmmPoTT8h4AHHaS) | 3:29 |
 | 49 | [Think About You \- Acoustic](https://open.spotify.com/track/6e0n5SzuhpqqVLcHSvt7kZ) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [good to know \(Acoustic\)](https://open.spotify.com/album/6Nn09BzoctbIVRVQxL2Mg1) | 4:00 |
 
-Snapshot ID: `MTY0MTAwNDc0MiwwMDAwMDAwMGE1MzY1ZThiMmJiZmQ5MTAxYmFlOWU1YjAyYmNhNThh`
+Snapshot ID: `MTY0MTAyNTIwNywwMDAwMDAwMGE1MzY1ZThiMmJiZmQ5MTAxYmFlOWU1YjAyYmNhNThh`

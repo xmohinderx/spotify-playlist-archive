@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,060 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,057 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 |
 | 60 | [Ibiza](https://open.spotify.com/track/61CG5urc3Viv08uJeBOPxs) | [Sole Sole](https://open.spotify.com/artist/4yXtr3OVVcpDlFomRRVM7Z) | [Ibiza](https://open.spotify.com/album/1S0e7Dxz8E9mBUAnOjIhxx) | 2:48 |
 
-Snapshot ID: `MTY0MTAwNDQ0MywwMDAwMDAwMDU1ODBkMTYyMjQ0YjFkODM0OTdmYmMzMjYwNjdjOTZk`
+Snapshot ID: `MTY0MTAyNDkyNCwwMDAwMDAwMDU1ODBkMTYyMjQ0YjFkODM0OTdmYmMzMjYwNjdjOTZk`

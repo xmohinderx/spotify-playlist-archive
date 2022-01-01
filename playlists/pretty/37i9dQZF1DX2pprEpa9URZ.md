@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,527 likes - 60 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,582 likes - 60 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Flowers in Mind](https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz) | [Agawe](https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn) | [Solstice Vibes III](https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF) | 6:43 |
 | 60 | [As Time Goes By](https://open.spotify.com/track/4e9UIKY0dESrEdVGlxeVRW) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Yuddhapot](https://open.spotify.com/album/70yCZo1P0cu68tWa0pFSdo) | 7:49 |
 
-Snapshot ID: `MTY0MTAwNDUxMCwwMDAwMDAwMDY2NDgyYjdjYzViYmQ1ZjVkNDg4MjgxMTBhZjQ5OWZk`
+Snapshot ID: `MTY0MTAyNDk4NywwMDAwMDAwMDY2NDgyYjdjYzViYmQ1ZjVkNDg4MjgxMTBhZjQ5OWZk`

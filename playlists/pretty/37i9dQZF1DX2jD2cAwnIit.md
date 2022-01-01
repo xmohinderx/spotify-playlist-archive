@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jD2cAwnIit.md) - [plain]
 
 > Katy Perry all day\. All the hits and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,044 likes - 55 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,122 likes - 55 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jD2cAwnIit.md) - [plain]
 | 54 | [Mannequin](https://open.spotify.com/track/6m22NntKIuBJkD2Qmh58P9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:17 |
 | 55 | [By The Grace Of God](https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 4:27 |
 
-Snapshot ID: `MTY0MTAwNDUwNiwwMDAwMDAwMGIzYjA1MGY1MGRiNjg2OGE1ODQyMzdjYzIzYjcwZDBj`
+Snapshot ID: `MTY0MTAyNDk4NCwwMDAwMDAwMGIzYjA1MGY1MGRiNjg2OGE1ODQyMzdjYzIzYjcwZDBj`

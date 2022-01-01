@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,712 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,723 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [00000 Million](https://open.spotify.com/track/4tLyH16Ede8bJTXtE6iHah) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [00000 Million](https://open.spotify.com/album/59eEDBsPFsF8KGKg4JFc0c) | 3:20 |
 | 100 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
 
-Snapshot ID: `MTY0MTAwNDQwMSwwMDAwMDAwMDE4ZDQ0ZWIxMDUzZmE0YTFhMmNkZWY0OTI2ZGU5MjA1`
+Snapshot ID: `MTY0MTAyNDg4NCwwMDAwMDAwMDE4ZDQ0ZWIxMDUzZmE0YTFhMmNkZWY0OTI2ZGU5MjA1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,293 likes - 50 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,297 likes - 50 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Golden Calf](https://open.spotify.com/track/3fPHc6SaoMLYoIv3YbUh0I) | [Blaise Siwula](https://open.spotify.com/artist/7nYLrkvpbB4OYYKr4HLMVG), [John Loggia](https://open.spotify.com/artist/5KMa2fgocQFk6IAIMVRmyZ), [Aron Namenwirth](https://open.spotify.com/artist/1lGhUmYm7CSOMBrV7l1IpF) | [Past the Potatoes](https://open.spotify.com/album/2Lw5qjRfuLw9S1beyYzhAa) | 6:48 |
 | 50 | [Song for the Snake Man](https://open.spotify.com/track/1PyppsTQBbIkefIUGyyI9O) | [Will Glaser](https://open.spotify.com/artist/1AQl7L8PIcnQredglUoiQV), [Matthew Herd](https://open.spotify.com/artist/2nQ8ZFNjgaUG34nWbUlkSC), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N) | [Song for the Snake Man](https://open.spotify.com/album/5Gohh6O8VQ2FPFoPMUF49b) | 4:57 |
 
-Snapshot ID: `MTY0MTAwNDUzNSwwMDAwMDAwMDVhOWJiZTI3ZTVjMjMyMTBlMDVmMzg2ZmI3OTk0YzFl`
+Snapshot ID: `MTY0MTAyNTAxMSwwMDAwMDAwMDVhOWJiZTI3ZTVjMjMyMTBlMDVmMzg2ZmI3OTk0YzFl`

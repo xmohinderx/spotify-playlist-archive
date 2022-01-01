@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794,369 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,376 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [The Wave](https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [The Wave](https://open.spotify.com/album/3AnTgqHXi6YiCQMy3gcA9V) | 3:48 |
 | 100 | [These Kids We Knew](https://open.spotify.com/track/6wDsrOCRrgQhLXySBOaUcC) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [These Kids We Knew](https://open.spotify.com/album/1otew6tcC33qdKae8c8mqr) | 2:28 |
 
-Snapshot ID: `MTY0MTAwNDczNCwwMDAwMDAwMDgyYWRhZTg3NGMxNmJkNjczNTE2NTE4YjU2M2UwOTkx`
+Snapshot ID: `MTY0MTAyNTIwMCwwMDAwMDAwMDgyYWRhZTg3NGMxNmJkNjczNTE2NTE4YjU2M2UwOTkx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,558,982 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,558,988 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Homesick](https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/2n0aZMksvAjApZZzeH52l9) | 3:54 |
 | 100 | [Tides](https://open.spotify.com/track/3kE3j0x9BMdyFExd2ZOq5z) | [Louf](https://open.spotify.com/artist/6FuiYA7qfyWvCzyWxepEjy) | [Kilopascal EP](https://open.spotify.com/album/4RRbT9V4De1XeIybWemoDI) | 5:31 |
 
-Snapshot ID: `MTY0MTAwNDM5MiwwMDAwMDAwMGI5ZjBhMTc0Yjg4ZTEzZDc2ZWY3NzQxZjliNDNhYjYx`
+Snapshot ID: `MTY0MTAyNDg3NSwwMDAwMDAwMGI5ZjBhMTc0Yjg4ZTEzZDc2ZWY3NzQxZjliNDNhYjYx`

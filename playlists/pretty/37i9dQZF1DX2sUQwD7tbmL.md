@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > Happy songs by alternative bands\. Any listener can connect with these indie jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,524,605 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,524,670 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 |
 | 120 | [Hurt](https://open.spotify.com/track/4B5OY3ZpcDgnhvJh7RJlhd) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [Hurt](https://open.spotify.com/album/71Ba9ZmUAlX7pxHm1kQRCK) | 2:42 |
 
-Snapshot ID: `MTY0MTAwNDUxMSwwMDAwMDAwMDQwOGJjM2EwNDQ1NzRmZDUyYmIxYWJlOTg2YzI0MzFi`
+Snapshot ID: `MTY0MTAyNDk4OCwwMDAwMDAwMDQwOGJjM2EwNDQ1NzRmZDUyYmIxYWJlOTg2YzI0MzFi`

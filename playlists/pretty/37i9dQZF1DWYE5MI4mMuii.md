@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE5MI4mMuii.md) - [plain]
 
 > Time to put on your best dancing shoes \- the jukebox is on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,707 likes - 78 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,736 likes - 78 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE5MI4mMuii.md) - [plain]
 | 77 | [I Feel Free](https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 2:51 |
 | 78 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
 
-Snapshot ID: `MTY0MTAwNDQxMSwwMDAwMDAwMDg0NmZlNzdlMGI2MGExOTMwOGFiNzgwYzc5ZjVkYzk1`
+Snapshot ID: `MTY0MTAyNDg5NCwwMDAwMDAwMDg0NmZlNzdlMGI2MGExOTMwOGFiNzgwYzc5ZjVkYzk1`

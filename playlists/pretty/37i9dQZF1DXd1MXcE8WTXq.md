@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 
 > The biggest summer hits of all time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,339 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,338 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 | 79 | [Hot Stuff](https://open.spotify.com/track/2vaHFRlL8eLXKLhZ47CtpO) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/3pO9uRVL8kmoVfkcN73w3h) | 5:14 |
 | 80 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 |
 
-Snapshot ID: `MTY0MTAwNDczOCwwMDAwMDAwMDZlNmJhYzIwNGEwYTk5ZjczNWQ2NDMzZWY2OTJjOTFh`
+Snapshot ID: `MTY0MTAyNTIwMywwMDAwMDAwMDZlNmJhYzIwNGEwYTk5ZjczNWQ2NDMzZWY2OTJjOTFh`

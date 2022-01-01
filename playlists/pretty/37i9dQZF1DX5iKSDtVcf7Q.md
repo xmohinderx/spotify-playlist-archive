@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,161 likes - 104 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,160 likes - 104 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 103 | [Meanwhile Back At Mama's](https://open.spotify.com/track/2rO28hRLDbsenVjeWvwqQz) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Sundown Heaven Town \(Deluxe Edition\)](https://open.spotify.com/album/5d1gd7lRLgljr3YPnkfU7k) | 3:48 |
 | 104 | [You and the Radio](https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Heartbreak Tour + You and the Radio](https://open.spotify.com/album/6cReHCMwEQndsiAmNH9cd6) | 3:01 |
 
-Snapshot ID: `MTY0MTAwNDU4MiwwMDAwMDAwMDUyYjQ0YWExNGJjN2I4ZWE1MTk1YTBkMjcxOTNjYmQz`
+Snapshot ID: `MTY0MTAyNTA1NiwwMDAwMDAwMDUyYjQ0YWExNGJjN2I4ZWE1MTk1YTBkMjcxOTNjYmQz`

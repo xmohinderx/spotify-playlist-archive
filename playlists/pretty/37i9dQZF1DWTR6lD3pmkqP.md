@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Portico Quartet
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,754 likes - 250 songs - 20 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,761 likes - 250 songs - 20 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Dick Laurent Is Dead](https://open.spotify.com/track/4IKmppoWjz08tTF6CoTiPC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [Dick Laurent Is Dead](https://open.spotify.com/album/0ifa16tgj4yhUPgRVczwtf) | 4:47 |
 | 250 | [Peaks & Ferns](https://open.spotify.com/track/0vINbddFhMxPasIYiiTcLu) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matt Dal Din](https://open.spotify.com/artist/7M4LaKk6OEcNxF4cKKhEsX), [Ashton Sellars](https://open.spotify.com/artist/0yihh2mdPS2cIc1DoCktHm), [Aron Ottignon](https://open.spotify.com/artist/6iRKnXGoDegUsRqRZ5SBlK), [Lewis Moody](https://open.spotify.com/artist/60ybgvKZRtAZz7WxNMpJaV), [Jay Phelps](https://open.spotify.com/artist/7h9sXEJicjqVhAdBjCF66V) | [Crisis & Opportunity, Vol\. 2 \- Peaks](https://open.spotify.com/album/6eBaDGLTxVhEZPEdTnSYCS) | 3:39 |
 
-Snapshot ID: `MTY0MTAwNDMxMSwwMDAwMDAwMGY0YzY0YTdlZjU4NTk1OWY4NzRmMjdlNDRlZmQ5ODc0`
+Snapshot ID: `MTY0MTAyNDc5OCwwMDAwMDAwMGY0YzY0YTdlZjU4NTk1OWY4NzRmMjdlNDRlZmQ5ODc0`

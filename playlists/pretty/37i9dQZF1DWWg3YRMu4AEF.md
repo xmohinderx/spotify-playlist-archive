@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,583 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,631 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 | 49 | [Young Hearts Run Free](https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:08 |
 | 50 | [Make Me Smile \(Come up and See Me\) \- 2014 Remaster](https://open.spotify.com/track/184QpO8ZchGncbNyJe9SDT) | [Steve Harley](https://open.spotify.com/artist/3dS8rLINyM7EYuMXryXJym), [Steve Harley & Cockney Rebel](https://open.spotify.com/artist/6EL5GD53kaaVgJCHgdtdLz) | [The Best Years of Our Lives \(Deluxe Version\)](https://open.spotify.com/album/7GSkRCzsWwH8rJhzuswLgf) | 3:59 |
 
-Snapshot ID: `MTY0MTAwNDM3NiwwMDAwMDAwMGNhMjQxMDFkNjdjOTdmNzc0ODZhNzc3MGUzN2YzNzJm`
+Snapshot ID: `MTY0MTAyNDg2MSwwMDAwMDAwMGNhMjQxMDFkNjdjOTdmNzc0ODZhNzc3MGUzN2YzNzJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,181 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,221 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Don't Cry](https://open.spotify.com/track/0CarV7bYpdZomES1VtPQDh) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Don't Cry](https://open.spotify.com/album/6E6Ma1phFlnclk3qufofPd) | 3:31 |
 | 75 | [Fonction Naturelle](https://open.spotify.com/track/6WhWYLxIDeUDTtKmp8F7mX) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Fonction Naturelle](https://open.spotify.com/album/7n2kBxaAsqRIemFa5dPIbU) | 3:00 |
 
-Snapshot ID: `MTY0MTAwNDU5NSwwMDAwMDAwMDEyYzMxNTlkMzE5OGEwNjgzZTU4OTcwOWM0MTA3ZmY0`
+Snapshot ID: `MTY0MTAyNTA2NywwMDAwMDAwMDEyYzMxNTlkMzE5OGEwNjgzZTU4OTcwOWM0MTA3ZmY0`

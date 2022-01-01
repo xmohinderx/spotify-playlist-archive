@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,348,582 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,349,047 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Nappy Heads \- Remix](https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Blunted On Reality](https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu) | 5:22 |
 | 100 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [ODB](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
 
-Snapshot ID: `MTY0MTAwNDQ3MSwwMDAwMDAwMDc3OTY2YmRjNWU5NGI4MzJhY2YwYjM2Njg2MjI0ZDUx`
+Snapshot ID: `MTY0MTAyNDk1MSwwMDAwMDAwMDc3OTY2YmRjNWU5NGI4MzJhY2YwYjM2Njg2MjI0ZDUx`

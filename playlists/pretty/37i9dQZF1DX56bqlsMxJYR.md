@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,500 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,649 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [My Boyfriend's Back](https://open.spotify.com/track/5NiFSI8iIDtVm1NCwdYrHS) | [The Angels](https://open.spotify.com/artist/6YtJeguOS8yoMkmLLnzU7q) | [My Boyfriend's Back](https://open.spotify.com/album/42pUInY6KQcFg0L6ySYZsa) | 2:16 |
 | 100 | [Georgia on My Mind \- Original Master Recording](https://open.spotify.com/track/47mA6f44zxLtdATOoY7GjN) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Georgia on My Mind \(Original Master Recording\)](https://open.spotify.com/album/77Qcn4aTbV27aarq2CHrGb) | 3:37 |
 
-Snapshot ID: `MTY0MTAwNDU2NiwwMDAwMDAwMDYwYzQyNzY1NDJkNjYzYWU3NTgwY2UxODJlZGIwNjIx`
+Snapshot ID: `MTY0MTAyNTAzOSwwMDAwMDAwMDYwYzQyNzY1NDJkNjYzYWU3NTgwY2UxODJlZGIwNjIx`

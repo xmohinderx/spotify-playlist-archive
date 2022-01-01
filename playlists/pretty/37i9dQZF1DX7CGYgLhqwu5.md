@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,014 likes - 102 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,032 likes - 102 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 101 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
 | 102 | [Yakety Axe](https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [The Essential Chet Atkins](https://open.spotify.com/album/0lKXTFKRUH3eyflNhlSlQZ) | 2:03 |
 
-Snapshot ID: `MTY0MTAwNDYxOSwwMDAwMDAwMGU4ZWMyN2Y4ZTA2MzMxZDkzNTI4NWZhZWJjZmJjOTYw`
+Snapshot ID: `MTY0MTAyNTA5MSwwMDAwMDAwMGU4ZWMyN2Y4ZTA2MzMxZDkzNTI4NWZhZWJjZmJjOTYw`

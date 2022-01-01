@@ -1,32 +1,64 @@
 {
-  "description": "The country way of testifying. \nCover: Carrie Underwood",
+  "description": "The country way of testifying. \nCover: Tucker Beathard",
   "name": "Country by the Grace of God",
-  "num_followers": 239596,
+  "num_followers": 239619,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTExMjQwMCwwMDAwMDA4MjAwMDAwMTdkYTJiNjVkNTgwMDAwMDE3ZDc0MDNjMzM2",
+  "snapshot_id": "MTY0MTAxMzIwMCwwMDAwMDA4MzAwMDAwMTdlMTQwMjQ1MzUwMDAwMDE3ZTEyOTI0ZDAy",
   "tracks": [
     {
       "added_at": "2021-12-10 05:00:00",
       "album": {
-        "name": "Time Well Wasted",
-        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
+        "name": "Prayin' For You",
+        "url": "https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
         }
       ],
-      "duration_ms": 247053,
-      "name": "When I Get Where I'm Going (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"
+      "duration_ms": 229316,
+      "name": "Prayin' For You",
+      "url": "https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "Chris Tomlin & Friends",
+        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Forever Home (feat. Florida Georgia Line)",
+      "url": "https://open.spotify.com/track/0qcVosiukBmgBS0eUDrwk6"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "Thought About You",
+        "url": "https://open.spotify.com/album/0LPzkET4jAcOUbkrGagdI4"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 225694,
+      "name": "Thought About You",
+      "url": "https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -79,6 +111,38 @@
     {
       "added_at": "2021-12-10 05:00:00",
       "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 220308,
+      "name": "Show Me Around",
+      "url": "https://open.spotify.com/track/1kAjZE74FPpadN5JUgrIcZ"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "The Lemonade Stand",
+        "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "When I Meet My Maker",
+      "url": "https://open.spotify.com/track/27AP9jXtfbNJ68atuOkvjc"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
         "name": "One On One",
         "url": "https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr"
       },
@@ -99,6 +163,22 @@
     {
       "added_at": "2021-12-10 05:00:00",
       "album": {
+        "name": "Long Black Train",
+        "url": "https://open.spotify.com/album/1jledek9KEGKEpa9KsuvkT"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        }
+      ],
+      "duration_ms": 250626,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
         "name": "If That Ain't God",
         "url": "https://open.spotify.com/album/6zJ23RQJ1NeubHuCzyvPlE"
       },
@@ -111,22 +191,6 @@
       "duration_ms": 210710,
       "name": "If That Ain't God",
       "url": "https://open.spotify.com/track/2wD4EACbGI6zfKXEAKJmBV"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 220308,
-      "name": "Show Me Around",
-      "url": "https://open.spotify.com/track/1kAjZE74FPpadN5JUgrIcZ"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -159,6 +223,26 @@
       "duration_ms": 206426,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/4QpTG5bffatmfaW04SZH16"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "Time Well Wasted",
+        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "When I Get Where I'm Going (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -247,22 +331,6 @@
       "duration_ms": 231466,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "Prayin' For You",
-        "url": "https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8"
-      },
-      "artists": [
-        {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
-        }
-      ],
-      "duration_ms": 229316,
-      "name": "Prayin' For You",
-      "url": "https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -659,6 +727,26 @@
     {
       "added_at": "2021-12-10 05:00:00",
       "album": {
+        "name": "Who You Are To Me (feat. Lady A)",
+        "url": "https://open.spotify.com/album/1cgi25XjeIHOHs2dldAnYN"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 230108,
+      "name": "Who You Are To Me (feat. Lady A)",
+      "url": "https://open.spotify.com/track/46JqDjp4BMbLQrTOUHdspO"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
         "name": "Changed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5fICps5zhCxC0TaVY62Jx2"
       },
@@ -927,22 +1015,6 @@
     {
       "added_at": "2021-12-10 05:00:00",
       "album": {
-        "name": "The Lemonade Stand",
-        "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "When I Meet My Maker",
-      "url": "https://open.spotify.com/track/27AP9jXtfbNJ68atuOkvjc"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
         "name": "Can't Say I Ain't Country",
         "url": "https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U"
       },
@@ -971,22 +1043,6 @@
       "duration_ms": 252231,
       "name": "One More Hallelujah",
       "url": "https://open.spotify.com/track/6HnxFNElDrHCClUAofO62l"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "Thought About You",
-        "url": "https://open.spotify.com/album/0LPzkET4jAcOUbkrGagdI4"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 225694,
-      "name": "Thought About You",
-      "url": "https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -1051,26 +1107,6 @@
       "duration_ms": 200840,
       "name": "Working On Sunday",
       "url": "https://open.spotify.com/track/64ZqOZGfgq4OABx1qN8Ftd"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "Chris Tomlin & Friends",
-        "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Forever Home (feat. Florida Georgia Line)",
-      "url": "https://open.spotify.com/track/0qcVosiukBmgBS0eUDrwk6"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -1235,26 +1271,6 @@
     {
       "added_at": "2021-12-10 05:00:00",
       "album": {
-        "name": "Who You Are To Me (feat. Lady A)",
-        "url": "https://open.spotify.com/album/1cgi25XjeIHOHs2dldAnYN"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        },
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 230108,
-      "name": "Who You Are To Me (feat. Lady A)",
-      "url": "https://open.spotify.com/track/46JqDjp4BMbLQrTOUHdspO"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
         "name": "Long Trip Alone",
         "url": "https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 205106,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "Long Black Train",
-        "url": "https://open.spotify.com/album/1jledek9KEGKEpa9KsuvkT"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        }
-      ],
-      "duration_ms": 250626,
-      "name": "Long Black Train",
-      "url": "https://open.spotify.com/track/4qRY8LbGGsy9L5GETfi8li"
     },
     {
       "added_at": "2021-12-10 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > it's just chill vibes, respectfully
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,783 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,874 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 |
 | 100 | [Say It](https://open.spotify.com/track/65Z2lFJMMVdHpBCL0k5Qub) | [Oliv Blu](https://open.spotify.com/artist/68iX9SpJQmbuaDfBjJSOlr) | [Say It](https://open.spotify.com/album/3s7NZeo46K9lNNre5Cvpdw) | 3:33 |
 
-Snapshot ID: `MTY0MTAwNDUxNCwwMDAwMDAwMGQ4YzZiOTY4MGM2ZGUxNDhkYjM3ZmFjOWQyMDA3MzM1`
+Snapshot ID: `MTY0MTAyNDk5MSwwMDAwMDAwMGQ4YzZiOTY4MGM2ZGUxNDhkYjM3ZmFjOWQyMDA3MzM1`

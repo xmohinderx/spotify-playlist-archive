@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > This is the best of today's true alternative rock scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,397 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,409 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 149 | [Disconnect](https://open.spotify.com/track/4214YwMZWxM0sWHDN1ajTo) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Disconnect](https://open.spotify.com/album/3v7giniaDS7DxfSHe0gWay) | 3:29 |
 | 150 | [All Good People](https://open.spotify.com/track/47AxWcM1NsPvFawiY3Izln) | [allusinlove](https://open.spotify.com/artist/30f8y3JNhI5bOis0Sb2kdx) | [allusinlove](https://open.spotify.com/album/4q7aSxhn8fl5qvabivScyH) | 4:44 |
 
-Snapshot ID: `MTY0MTAwNDY3NywwMDAwMDAwMDY5ZDUxMDdmZjQ3ODUzYTQ2NTM5NzdiZjMzODBmMmFl`
+Snapshot ID: `MTY0MTAyNTE0NiwwMDAwMDAwMDY5ZDUxMDdmZjQ3ODUzYTQ2NTM5NzdiZjMzODBmMmFl`

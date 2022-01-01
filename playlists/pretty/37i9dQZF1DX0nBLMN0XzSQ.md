@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,589 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,595 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [Don't Go](https://open.spotify.com/track/1Yqr3NjVHEZGoRPGa5K26l) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [The Greatest 80s Party!](https://open.spotify.com/album/1zOYTdsiKFIpw9YhkY9iMq) | 3:01 |
 | 80 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
 
-Snapshot ID: `MTY0MTAwNDQ2MiwwMDAwMDAwMGVkZTQxMzZjYmYzMmM0NDA0OThjMDhlY2FiZTYyYzE2`
+Snapshot ID: `MTY0MTAyNDk0MiwwMDAwMDAwMGVkZTQxMzZjYmYzMmM0NDA0OThjMDhlY2FiZTYyYzE2`

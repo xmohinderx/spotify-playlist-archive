@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,713 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,735 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 149 | [The Question](https://open.spotify.com/track/6IfxNYJWYBaaDxCN8FWehD) | [Anna Tivel](https://open.spotify.com/artist/112l2WmZaTlJcl13f4iFAs) | [The Question](https://open.spotify.com/album/23mIlnYbJwmFiqZi9SW5aZ) | 4:52 |
 | 150 | [Hold Steady](https://open.spotify.com/track/4feJkKbKSeuVVquVUWZXSi) | [Kacey Johansing](https://open.spotify.com/artist/5V1yrA8FrMhKkl4rCu6flc) | [The Hiding](https://open.spotify.com/album/2bVhjBuYON1SBpSieHpd2h) | 3:13 |
 
-Snapshot ID: `MTY0MTAwNDQ0MywwMDAwMDAwMGFkNzFiY2EzZjEwMjQzNzRjZWJhMjdiNGFkNjRkNTNm`
+Snapshot ID: `MTY0MTAyNDkyNSwwMDAwMDAwMGFkNzFiY2EzZjEwMjQzNzRjZWJhMjdiNGFkNjRkNTNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmyho2wkQU.md) - [plain]
 
 > Drive slow homie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,307 likes - 150 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,359 likes - 150 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmyho2wkQU.md) - [plain]
 | 149 | [No Better Love](https://open.spotify.com/track/0K7XjmTNFwQ2qwHn4MjlDx) | [Young Gunz](https://open.spotify.com/artist/2sBv30RzdeMVPoBXbzjIo5), [Rell](https://open.spotify.com/artist/0EOoSsmM3oV2aoGL3Od3E3) | [Tough Luv](https://open.spotify.com/album/2VSIxyOm0xpnSoSeMiDYIU) | 3:55 |
 | 150 | [Country Grammar \(Hot Shit\)](https://open.spotify.com/track/2Lg4kvhOrPhpGEZmSe7VAN) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv) | 4:47 |
 
-Snapshot ID: `MTY0MTAwNDMyOCwwMDAwMDAwMDg5YThmNmJjNmU5NmIzOTM2NjFkYjA3NTRlYjNhZDNm`
+Snapshot ID: `MTY0MTAyNDgxNSwwMDAwMDAwMDg5YThmNmJjNmU5NmIzOTM2NjFkYjA3NTRlYjNhZDNm`

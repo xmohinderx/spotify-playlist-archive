@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Dr\. Lonnie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,129 likes - 80 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,161 likes - 80 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 79 | [The Drip \- Live Session](https://open.spotify.com/track/3xo3K91h5jdhA3Udk0wio4) | [Green Tangerines](https://open.spotify.com/artist/1et1DTeSGzRFLcjnr4xCvS) | [Green Tangerines \(Live Session\)](https://open.spotify.com/album/6lVLYuBC9pUR20y5YWHf3y) | 5:47 |
 | 80 | [Juice Box](https://open.spotify.com/track/5ZJrwkNAswWr1rHZCrEkfs) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63) | [Juice Box](https://open.spotify.com/album/7DF6OjSJwgaXr9GpPdlXHs) | 4:51 |
 
-Snapshot ID: `MTY0MTAwNDMzNSwwMDAwMDAwMDcyYTBiMDFhOWVlM2E0MjRkZjhiNzdlOTA0YTdjYWQ1`
+Snapshot ID: `MTY0MTAyNDgyMSwwMDAwMDAwMDcyYTBiMDFhOWVlM2E0MjRkZjhiNzdlOTA0YTdjYWQ1`

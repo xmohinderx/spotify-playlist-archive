@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 
 > Unwind and let the afternoon unfold.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,350,045 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,350,036 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4E3UdUs7fUx.md) - [plain]
 | 99 | [Water in the Barrel](https://open.spotify.com/track/7elXaVsrVrwczas2crAE0U) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Water in the Barrel](https://open.spotify.com/album/5VsFe3XWwWGUfyBsKK9WXq) | 3:37 |
 | 100 | [Sophie](https://open.spotify.com/track/42mIYumsqOjiAdj2DZFkeF) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/5IbjvCuVMchAsoXKOvVrof) | 5:04 |
 
-Snapshot ID: `MTY0MTAwNDU0MSwwMDAwMDAwMDZkYjQ5Yzc3YzI2ZWQ3MmVlNWVkMzVmZGEzODRkZjk5`
+Snapshot ID: `MTY0MTAyNTAxNywwMDAwMDAwMDZkYjQ5Yzc3YzI2ZWQ3MmVlNWVkMzVmZGEzODRkZjk5`

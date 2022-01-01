@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,550 likes - 121 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,561 likes - 121 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 120 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 |
 | 121 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 |
 
-Snapshot ID: `MTY0MTAwNDM1OCwwMDAwMDAwMDUyM2I5MWIwMzgxOThlMjFhMGU0N2YxZWYwNmJjNDEx`
+Snapshot ID: `MTY0MTAyNDg0MywwMDAwMDAwMDUyM2I5MWIwMzgxOThlMjFhMGU0N2YxZWYwNmJjNDEx`

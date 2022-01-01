@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,379 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,421 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Catharsis](https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG) | [Master Soul Boy](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Catharsis](https://open.spotify.com/album/2ClfWMCvHw0GhAKAS5EVMa) | 2:24 |
 | 60 | [My Girl](https://open.spotify.com/track/5G1tZ7WSNHmvu5mzs3BpQe) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Ghost Notes](https://open.spotify.com/album/7rcd76R4bI3M4wiHvaz8n8) | 4:25 |
 
-Snapshot ID: `MTY0MTAwNDYzMiwwMDAwMDAwMGQ2YTU3MDkxMjcwMDZlNjJjMjYwYTQwODljNTBiZWYz`
+Snapshot ID: `MTY0MTAyNTEwNCwwMDAwMDAwMGQ2YTU3MDkxMjcwMDZlNjJjMjYwYTQwODljNTBiZWYz`

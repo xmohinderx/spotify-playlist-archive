@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,678,193 likes - 113 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,678,220 likes - 113 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

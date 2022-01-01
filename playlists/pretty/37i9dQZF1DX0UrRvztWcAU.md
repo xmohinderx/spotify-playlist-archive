@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these awesome, happy songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,088 likes - 150 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,091 likes - 150 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [All I Need](https://open.spotify.com/track/5Rl46WM2MJ8OJe9IXBKLuM) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [All I Need](https://open.spotify.com/album/3muljzkKxfsdIto5bi1DGh) | 3:12 |
 | 150 | [Tati](https://open.spotify.com/track/3yALdAPY0OGbmR3CefDdYz) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f), [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Tati](https://open.spotify.com/album/6a7jnUqGqhLPkGocyWys2V) | 2:52 |
 
-Snapshot ID: `MTY0MTAwNDQ1NSwwMDAwMDAwMGU2ZGZlOWZlZmNjMTNkMjA0ODBiMDBmYWZhMjVhN2M5`
+Snapshot ID: `MTY0MTAyNDkzNiwwMDAwMDAwMGU2ZGZlOWZlZmNjMTNkMjA0ODBiMDBmYWZhMjVhN2M5`

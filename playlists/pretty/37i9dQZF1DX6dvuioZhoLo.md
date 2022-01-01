@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > Old makes new\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,069 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,090 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Dirty Old Town](https://open.spotify.com/track/5a2WV9vQTSOlbCTap3jFjj) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [I've Got a Way](https://open.spotify.com/album/3dCxhbeYqNxz9L04w2tL8E) | 2:41 |
 | 100 | [Dirty Rain](https://open.spotify.com/track/2zRPDVAsXstoRC8pQjf79T) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 3:12 |
 
-Snapshot ID: `MTY0MTAwNDYwOSwwMDAwMDAwMDkwNDU0OTk1ZjdiMGI4OTE5OTRiMmIxZmUwODE5MTdl`
+Snapshot ID: `MTY0MTAyNTA4MCwwMDAwMDAwMDkwNDU0OTk1ZjdiMGI4OTE5OTRiMmIxZmUwODE5MTdl`

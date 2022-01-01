@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,802 likes - 150 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,834 likes - 150 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Watching The Wheels \- Remastered 2010](https://open.spotify.com/track/4fKhRRYn7F5shZItjJkPJU) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy Stripped Down](https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF) | 3:59 |
 | 150 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/0hSAR39xfxXXs2LmwjTWUI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/7nSAyfhwuPt4vcQ7jeWJCF) | 4:33 |
 
-Snapshot ID: `MTY0MTAwNDMyMCwwMDAwMDAwMDMxMTE4NjA2Yjc4MzIyNTgxYWY1ZTIzN2NmNmNhYTY3`
+Snapshot ID: `MTY0MTAyNDgwNiwwMDAwMDAwMDMxMTE4NjA2Yjc4MzIyNTgxYWY1ZTIzN2NmNmNhYTY3`

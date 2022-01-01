@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bSrsRWE9cd.md) - [plain]
 
 > That special feeling of being calm, happy and relaxed at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,190 likes - 76 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,204 likes - 76 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bSrsRWE9cd.md) - [plain]
 | 75 | [Silence by the Lakeside](https://open.spotify.com/track/172Tyy70R4Cc1JWarP9DNU) | [The Rosebuds](https://open.spotify.com/artist/1uatpkp2CbVMmQlMKFMAwe) | [Night of the Furies](https://open.spotify.com/album/6Z9BCIwHKu1RIFeLJUA04f) | 4:49 |
 | 76 | [Us \- Acoustic](https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Us \(Acoustic\)](https://open.spotify.com/album/4RZ3Ux3PeYeKXXH8MuEuu4) | 3:55 |
 
-Snapshot ID: `MTY0MTAwNDU1MiwwMDAwMDAwMDI0NWI5M2QyYzRlOWJjNDQwNTUxOGMxMDk5MjI5NWMw`
+Snapshot ID: `MTY0MTAyNTAyNywwMDAwMDAwMDI0NWI5M2QyYzRlOWJjNDQwNTUxOGMxMDk5MjI5NWMw`

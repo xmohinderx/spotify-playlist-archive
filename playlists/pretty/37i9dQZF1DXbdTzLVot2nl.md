@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,043 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,093 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 | 59 | [You Win Again](https://open.spotify.com/track/19dL5Zj3Gxr6RGQHlAXxyF) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [E.S.P.](https://open.spotify.com/album/4RnFtuVdr1JPD8UDhQuMBK) | 4:01 |
 | 60 | [The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 |
 
-Snapshot ID: `MTY0MTAwNDcxMCwwMDAwMDAwMDAyODYwZDgxNDUzY2QyMmY4OTA1Y2E1ODA4NTcyNzNi`
+Snapshot ID: `MTY0MTAyNTE3NywwMDAwMDAwMDAyODYwZDgxNDUzY2QyMmY4OTA1Y2E1ODA4NTcyNzNi`

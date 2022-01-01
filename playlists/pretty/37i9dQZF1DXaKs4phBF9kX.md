@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,003 likes - 90 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,009 likes - 90 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 89 | [Pure](https://open.spotify.com/track/7FzT7oEYwxLrRscgDUwzuk) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/7gjtAtqpEZhYLCUnJvbzOn) | 3:47 |
 | 90 | [Still They Ride](https://open.spotify.com/track/2or8ETC2aPaOLJFnF9VoXX) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:50 |
 
-Snapshot ID: `MTY0MTAwNDY4MywwMDAwMDAwMDI5NDhhZTRiZmFlYmJlNjcwMGJjNjAyNjY0NTRiNjk0`
+Snapshot ID: `MTY0MTAyNTE1MSwwMDAwMDAwMDI5NDhhZTRiZmFlYmJlNjcwMGJjNjAyNjY0NTRiNjk0`

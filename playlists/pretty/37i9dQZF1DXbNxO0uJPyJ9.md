@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,268 likes - 80 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,318 likes - 80 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Trapped \- Vocal Version](https://open.spotify.com/track/4QG75CfYI4tsyixze7gt7R) | [Colonel Abrams](https://open.spotify.com/artist/20B6eaXUEN0NOvJqdebu7L) | [True Disco \(3 CD Set\)](https://open.spotify.com/album/4KpgD16YgavSq0RQYiADD5) | 4:05 |
 | 80 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
 
-Snapshot ID: `MTY0MTAwNDcwNSwwMDAwMDAwMDYzMWY2MjAxMTVlMDZlMzBkNjZlNGUyY2E5ZTFmZjA5`
+Snapshot ID: `MTY0MTAyNTE3MiwwMDAwMDAwMDYzMWY2MjAxMTVlMDZlMzBkNjZlNGUyY2E5ZTFmZjA5`

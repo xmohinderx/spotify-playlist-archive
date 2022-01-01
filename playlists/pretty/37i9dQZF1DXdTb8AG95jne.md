@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Ha Hyunsang\(하현상\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,647 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,690 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 |
 | 50 | [Indica \(feat\. Motte\)](https://open.spotify.com/track/4lZTygIDDA87R9TWyJxXEc) | [Land of Peace](https://open.spotify.com/artist/5k0xHB7GIhrTwAAK9wWtfg), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Indica \(feat\. Motte\)](https://open.spotify.com/album/5tfF5EUJI70rGfFrwPHwn5) | 3:14 |
 
-Snapshot ID: `MTY0MTAwNDc0OSwwMDAwMDAwMGQzYWNiYzczYzIyN2Q2MmY4Yzg2MzExOGE5NjQyYjcz`
+Snapshot ID: `MTY0MTAyNTIxNCwwMDAwMDAwMGQzYWNiYzczYzIyN2Q2MmY4Yzg2MzExOGE5NjQyYjcz`

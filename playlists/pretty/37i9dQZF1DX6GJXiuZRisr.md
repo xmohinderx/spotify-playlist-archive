@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,639 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,690 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Give Into You](https://open.spotify.com/track/5GvdWteb7cK1tKP1GsNWZI) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [A New Day EP](https://open.spotify.com/album/6RTewADm1CSSTMzp3MnpfD) | 3:13 |
 | 100 | [Vallut Bass](https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [Vallut Bass](https://open.spotify.com/album/2u0mZypCSZa9vMm32FYyEN) | 3:31 |
 
-Snapshot ID: `MTY0MTAwNDU5OCwwMDAwMDAwMDBiNmU0Zjg0MWRkMWU1OTE0YjZlZWNiZWJmZGZhNjJi`
+Snapshot ID: `MTY0MTAyNTA3MCwwMDAwMDAwMDBiNmU0Zjg0MWRkMWU1OTE0YjZlZWNiZWJmZGZhNjJi`

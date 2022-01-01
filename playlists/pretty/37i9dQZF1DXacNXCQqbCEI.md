@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,306 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,335 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 59 | [Resiliencia](https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Resiliencia](https://open.spotify.com/album/6WiwJthVBqLR7rd5tQ4jzz) | 4:49 |
 | 60 | [El Cafetal](https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [El Cafetal](https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48) | 4:04 |
 
-Snapshot ID: `MTY0MTAwNDY4OSwwMDAwMDAwMDg4YmM4Y2EzY2EwMDFlMzIyYjBhMDhiNjExN2EwY2I5`
+Snapshot ID: `MTY0MTAyNTE1NywwMDAwMDAwMDg4YmM4Y2EzY2EwMDFlMzIyYjBhMDhiNjExN2EwY2I5`

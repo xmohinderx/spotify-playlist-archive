@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,458 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,478 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Yellow Sari](https://open.spotify.com/track/2xRB7a9UJXns10FMexgKn8) | [JJ Whitefield](https://open.spotify.com/artist/1YkLBP9z7ymGS5FXHMEl5S) | [Yellow Sari](https://open.spotify.com/album/2c0QZvuJ1KGVT4mD8rRQCb) | 3:00 |
 | 100 | [Calentita](https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n), [Nuria](https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2) | [Calentita](https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce) | 3:20 |
 
-Snapshot ID: `MTY0MTAwNDMzMywwMDAwMDAwMDI3MDkxZGQ4NjU1YjFjZGFjNjFlMjNmNTk4NzNmODlh`
+Snapshot ID: `MTY0MTAyNDgxOSwwMDAwMDAwMDI3MDkxZGQ4NjU1YjFjZGFjNjFlMjNmNTk4NzNmODlh`

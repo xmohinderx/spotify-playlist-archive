@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,313 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,303 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 99 | [Christmas Lights](https://open.spotify.com/track/2JApOkyG5QGrn0luyAAUDz) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Christmas Lights](https://open.spotify.com/album/2ML0HivGBfi9C1ihEAnqck) | 3:01 |
 | 100 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1dgvpiB50RfuemLhYet0P7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [DREAM Christmas Vol\. 5](https://open.spotify.com/album/2vqzTe45OIcoSCYerZER95) | 3:45 |
 
-Snapshot ID: `MTY0MTAwNDM1MywwMDAwMDAwMDg5YzQ5N2E4NjY5OWU1MGE0ZDFiM2U1OGFjZTUyMDk2`
+Snapshot ID: `MTY0MTAyNDgzOCwwMDAwMDAwMDg5YzQ5N2E4NjY5OWU1MGE0ZDFiM2U1OGFjZTUyMDk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 
 > That’s how its supposed to be\. Living young, wild and free!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,741,032 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,741,049 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 99 | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ) | 3:10 |
 | 100 | [Perfect \(For Somebody Else\) \[feat\. Dewain Whitmore\]](https://open.spotify.com/track/7zHnrqnWNZLBmLhLwj3i7c) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Dewain Whitmore](https://open.spotify.com/artist/1E1W3to8HhGSkkIEUMwEjd) | [Perfect \(For Somebody Else\) \[feat\. Dewain Whitmore\]](https://open.spotify.com/album/4VJM4L02CZuSfnGP0SXs3Y) | 2:49 |
 
-Snapshot ID: `MTY0MTAwNDYzNSwwMDAwMDAwMGVmYTc3MTM0YzA4ZjhhZmM3MDVjMDY2ZWZjOTJiYTg5`
+Snapshot ID: `MTY0MTAyNTEwNiwwMDAwMDAwMGVmYTc3MTM0YzA4ZjhhZmM3MDVjMDY2ZWZjOTJiYTg5`

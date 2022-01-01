@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,750 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,731 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [Last Christmas](https://open.spotify.com/track/4PeEB4RU07v4aRrsXmehR8) | [Shane Hampsheir](https://open.spotify.com/artist/16MbTMsesqMZNB1WaySib8), [London Music Works](https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB) | [Shane Hampsheir's Christmas](https://open.spotify.com/album/7zb0bHCk9qJzkE77C1KO1V) | 4:53 |
 | 50 | [Diddly Squat](https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:05 |
 
-Snapshot ID: `MTY0MTAwNDU2OSwwMDAwMDAwMGViOThjZmMxMGI2OWFmM2ZmZDkwODQ5ZThkY2QwYTBk`
+Snapshot ID: `MTY0MTAyNTA0MiwwMDAwMDAwMGViOThjZmMxMGI2OWFmM2ZmZDkwODQ5ZThkY2QwYTBk`

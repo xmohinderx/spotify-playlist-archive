@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 
 > Instrumental only\. For the maniacs out there\. Cover: pg.lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,097 likes - 130 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,106 likes - 130 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 129 | [Signals \- Instrumental](https://open.spotify.com/track/2DQeD4Y1LDOtKgE0jWqezB) | [Interlinked](https://open.spotify.com/artist/5dogEJKbOwyTKNa2WSc8j4) | [Signals \(Instrumental\)](https://open.spotify.com/album/4oKgbfG317J939zpkccwiS) | 3:52 |
 | 130 | [Apnea \- Instrumental](https://open.spotify.com/track/12200irx8PX7uEm3u8FJEE) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Place I Feel Safest \(Instrumental\)](https://open.spotify.com/album/2wWSFDwZUACO3uOhgPHRtq) | 3:25 |
 
-Snapshot ID: `MTY0MTAwNDMzNiwwMDAwMDAwMGY2OTYxNzYwNzBmNzIwMjYzMDUzNjQyYzZhNTNhZTI4`
+Snapshot ID: `MTY0MTAyNDgyMywwMDAwMDAwMGY2OTYxNzYwNzBmNzIwMjYzMDUzNjQyYzZhNTNhZTI4`

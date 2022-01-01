@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,575 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,590 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [This Christmas](https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv) | [Jyp Nation](https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO) | [This Christmas \- Single](https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ) | 3:47 |
 | 100 | [White Christmas](https://open.spotify.com/track/2fn95gdp0R3lYFCqRBAXVv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [White Christmas](https://open.spotify.com/album/5dAGDyJZlGs5q734ZoVQYM) | 3:13 |
 
-Snapshot ID: `MTY0MTAwNDM1MCwwMDAwMDAwMDY1Mjk3MjQzMDFmZTgxNmNkNzYxMDZjYzM5Yjk2OGY3`
+Snapshot ID: `MTY0MTAyNDgzNiwwMDAwMDAwMDY1Mjk3MjQzMDFmZTgxNmNkNzYxMDZjYzM5Yjk2OGY3`

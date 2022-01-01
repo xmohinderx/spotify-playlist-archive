@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,426,899 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,426,989 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 99 | [Is It Really Me You're Missing](https://open.spotify.com/track/1WO6kvO7P8TOsuhBaqun5w) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/3LfWFLY5JrPbzuGVbBzwS3) | 3:52 |
 | 100 | [24 Hours](https://open.spotify.com/track/385VOmGbguaPG57TgoW8Lh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:30 |
 
-Snapshot ID: `MTY0MTAwNDU2MywwMDAwMDAwMDU4YWI5NmUwMzkzMDNiZjg3MGEzODkyNTZkZjdmMDRm`
+Snapshot ID: `MTY0MTAyNTAzNywwMDAwMDAwMDU4YWI5NmUwMzkzMDNiZjg3MGEzODkyNTZkZjdmMDRm`

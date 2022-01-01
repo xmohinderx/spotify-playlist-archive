@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,996 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,042 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 74 | [Take a Picture](https://open.spotify.com/track/2O2mr2gzBRtKGRiswqRyiN) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Title Of Record](https://open.spotify.com/album/0bsS6wybJvPfLs7cr3bj7j) | 6:03 |
 | 75 | [So Happy](https://open.spotify.com/track/2e9ZCaqv3uF5AX7QLIh9h1) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Scars & Souvenirs](https://open.spotify.com/album/1AB8tdwS9hY4iyulXexNab) | 4:11 |
 
-Snapshot ID: `MTY0MTAwNDM2MCwwMDAwMDAwMDA3ODNiNWJiNTBiODU3MDFlZWNlY2Q2ZDE5MzI4Yzk3`
+Snapshot ID: `MTY0MTAyNDg0NSwwMDAwMDAwMDA3ODNiNWJiNTBiODU3MDFlZWNlY2Q2ZDE5MzI4Yzk3`

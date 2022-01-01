@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtpM7d4h5Xa.md) - [plain]
 
 > 50 best examples of catchy pop tunes that borrowed their melodies from <a href="spotify:genre:classical">classical</a> music\. Each song is followed by its classical inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,570 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,574 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

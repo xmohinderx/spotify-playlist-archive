@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,696 likes - 119 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,742 likes - 119 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 118 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 |
 | 119 | [Darling Baby \- Mono](https://open.spotify.com/track/66EcsKLusAz7ydla0ENGkg) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [The Motown Anthology](https://open.spotify.com/album/5VPaWphXyRUpqdXtgQqegP) | 2:35 |
 
-Snapshot ID: `MTY0MTAwNDQyMywwMDAwMDAwMDRlZGVmNTczZTQxM2E5MzI3Y2NiZTk0N2U1ZTQ3OWUx`
+Snapshot ID: `MTY0MTAyNDkwNiwwMDAwMDAwMDRlZGVmNTczZTQxM2E5MzI3Y2NiZTk0N2U1ZTQ3OWUx`

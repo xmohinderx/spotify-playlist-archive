@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,302 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,310 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Wash Away](https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D) | [Wash Away](https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr) | 3:31 |
 | 100 | [Serotonin](https://open.spotify.com/track/1HBztgfs0Wtltk4z8hUiSf) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7) | [Serotonin](https://open.spotify.com/album/6h9Kly7pr9XLMHfx3cVc2x) | 3:01 |
 
-Snapshot ID: `MTY0MTAwNDYzNSwwMDAwMDAwMDU2MDg0NGRlOTQ4YTAzMTQ2MGU4NzBkMmRmZDI0Y2I3`
+Snapshot ID: `MTY0MTAyNTEwNiwwMDAwMDAwMDU2MDg0NGRlOTQ4YTAzMTQ2MGU4NzBkMmRmZDI0Y2I3`

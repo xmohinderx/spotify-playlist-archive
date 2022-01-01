@@ -2,7 +2,7 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. <br/>Cover: Carrie Underwood
+> The country way of testifying\. <br/>Cover: Tucker Beathard
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

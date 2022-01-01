@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the new tunes in the Thrash world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,720 likes - 120 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,724 likes - 120 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Bloody Rain](https://open.spotify.com/track/6tSDBDxtrQR4dEWWG5aymJ) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Bloody Rain](https://open.spotify.com/album/5aWuJV6GQ0whl0InQyMuqV) | 5:16 |
 | 120 | [Path of Discipline](https://open.spotify.com/track/7ek4uZo41eieLg4e9zYPcX) | [Red Death](https://open.spotify.com/artist/1uBhFijojfN4nXW4huTJ4r) | [Sickness Divine](https://open.spotify.com/album/5o517FcrGcBgyYPPcGWa30) | 3:39 |
 
-Snapshot ID: `MTY0MTAwNDQzNCwwMDAwMDAwMDRmNTJhYjlhMmI2YjU0ZDJhYzc4MjUxMzQwMDUyZjM4`
+Snapshot ID: `MTY0MTAyNDkxNiwwMDAwMDAwMDRmNTJhYjlhMmI2YjU0ZDJhYzc4MjUxMzQwMDUyZjM4`

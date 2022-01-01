@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,216 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,220 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Faller](https://open.spotify.com/track/2ap9hdHdrR9QOiosR9vcwu) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr), [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Faller](https://open.spotify.com/album/0prJNOqGxgOhTVs52VUlFY) | 2:40 |
 | 100 | [Oscillating Love](https://open.spotify.com/track/3OkCg0FmQic1z61kpzMmkI) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Oscillating Love](https://open.spotify.com/album/0px93W1pVB6l4matH0a2TK) | 4:58 |
 
-Snapshot ID: `MTY0MTAwNDQ2MCwwMDAwMDAwMGI4YzlkYmVkNmJiMTk0NTFmODQ3MjNhMDcxZjMzN2Ez`
+Snapshot ID: `MTY0MTAyNDk0MCwwMDAwMDAwMGI4YzlkYmVkNmJiMTk0NTFmODQ3MjNhMDcxZjMzN2Ez`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,643 likes - 200 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,676 likes - 200 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 199 | [Scars To Your Beautiful](https://open.spotify.com/track/4JPM6TuFJgccpoKLKmleDD) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Scars To Your Beautiful](https://open.spotify.com/album/7wMuoQxclWrghUMcDyzMhJ) | 4:17 |
 | 200 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 |
 
-Snapshot ID: `MTY0MTAwNDUwNSwwMDAwMDAwMDNkYTdiMjhiZTE5OWQ5NzBhMTZiMjIxODBkMWEzN2Nj`
+Snapshot ID: `MTY0MTAyNDk4MywwMDAwMDAwMDNkYTdiMjhiZTE5OWQ5NzBhMTZiMjIxODBkMWEzN2Nj`

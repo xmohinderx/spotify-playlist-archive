@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,860 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,873 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 99 | [Far from You](https://open.spotify.com/track/76LTw6966xM8oaQQoHzAXz) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [The Future and the Past](https://open.spotify.com/album/49CYEKpIsLJNMI1Yfatu4d) | 3:34 |
 | 100 | [Love Will Tear Us Apart](https://open.spotify.com/track/4z7LkcJsYe8AaZXI3TWOHT) | [Odina](https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75) | [Love Will Tear Us Apart](https://open.spotify.com/album/1v2BVhOLte39KIo0TfOm5E) | 3:43 |
 
-Snapshot ID: `MTY0MTAwNDUxNiwwMDAwMDAwMGNjYmU0ODE4ZjBhZDMxYWZjMmExMjAyYjA2MTU5NjMx`
+Snapshot ID: `MTY0MTAyNDk5MywwMDAwMDAwMGNjYmU0ODE4ZjBhZDMxYWZjMmExMjAyYjA2MTU5NjMx`

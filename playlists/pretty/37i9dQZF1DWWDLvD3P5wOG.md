@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,050 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,094 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Text Message](https://open.spotify.com/track/4u63rBIcBRmEXArgnwMoaa) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Text Message \- single](https://open.spotify.com/album/6KS4EHKeEUyuxG8G1DOWbd) | 2:57 |
 | 80 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 |
 
-Snapshot ID: `MTY0MTAwNDM2NiwwMDAwMDAwMGIzN2UyNjMwZDM5ZWFlYWQ4N2NkZDE5YWM3MzZlZWQ5`
+Snapshot ID: `MTY0MTAyNDg1MSwwMDAwMDAwMGIzN2UyNjMwZDM5ZWFlYWQ4N2NkZDE5YWM3MzZlZWQ5`

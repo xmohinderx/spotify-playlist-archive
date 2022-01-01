@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > those songs that make you feel like you're levitating
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,545 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,761 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 49 | [Connaissais de Face](https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:20 |
 | 50 | [Acres](https://open.spotify.com/track/3p2Dz6a0slY4fWQLC8eXsS) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism III](https://open.spotify.com/album/2hnFVR7bX3TSkih1SLCVfG) | 3:53 |
 
-Snapshot ID: `MTY0MTAwNDM1MCwwMDAwMDAwMDIzOTVhMTI0OWY1ZTI5ZWVkYjNlYmIwY2IwM2MzMGZm`
+Snapshot ID: `MTY0MTAyNDgzNSwwMDAwMDAwMDIzOTVhMTI0OWY1ZTI5ZWVkYjNlYmIwY2IwM2MzMGZm`

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain](/playlists/plain/37i9dQZF1DWXJfnUiYjUKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJfnUiYjUKT)
 
-### [New Music Friday \(Other\)](https://open.spotify.com/playlist/37i9dQZF1DWXJfnUiYjUKT)
+### [New Music Friday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXJfnUiYjUKT)
 
 > The very best in new music from around the world\. Cover: Alesso & Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,391 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,400 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

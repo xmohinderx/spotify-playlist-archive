@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,938 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,946 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
 | 75 | [December \- Acoustic](https://open.spotify.com/track/7B9uWbksb8XaAgqQylPKwq) | [Roseview](https://open.spotify.com/artist/0oLsYVo4HsQqqY93I3j4B6) | [December \(Acoustic\)](https://open.spotify.com/album/3KGZp21en9EZVv7fnlEjbv) | 3:51 |
 
-Snapshot ID: `MTY0MTAwNDcyMiwwMDAwMDAwMGIzNzk3MWU0MzE1ZjI4NDU0Yzc2MDZiNTgwMzIwNjAw`
+Snapshot ID: `MTY0MTAyNTE4OCwwMDAwMDAwMGIzNzk3MWU0MzE1ZjI4NDU0Yzc2MDZiNTgwMzIwNjAw`

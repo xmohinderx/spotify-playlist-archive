@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Hyolyn x Dasom\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,451 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,452 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 69 | [Dear you](https://open.spotify.com/track/1mttCFELeKHQIs6A3WUNj5) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/02tASSJqgrHueEUw97lnRm) | 3:36 |
 | 70 | [Pool Party \(Feat\. E\-CHAN of DKB\)](https://open.spotify.com/track/2avJo0RwtC1zWiOx4CaGWG) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [E\-CHAN](https://open.spotify.com/artist/4h44hjwoLSVhQynEnkrbt5) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:12 |
 
-Snapshot ID: `MTY0MTAwNDQ4MywwMDAwMDAwMDdiYWQ0MWVlYTMxY2ExM2VlY2MzMWI4OTE0ZDYwZWE5`
+Snapshot ID: `MTY0MTAyNDk2MiwwMDAwMDAwMDdiYWQ0MWVlYTMxY2ExM2VlY2MzMWI4OTE0ZDYwZWE5`

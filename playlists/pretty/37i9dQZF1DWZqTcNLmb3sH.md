@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Yuvarathnaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,298 likes - 98 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,309 likes - 98 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7F6T2n2fegs.md) - [plain]
 
 > Here it is, the playlist for the ultimate throwback bash!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,084,817 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,085,045 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7F6T2n2fegs.md) - [plain]
 | 149 | [I'm So Excited](https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:48 |
 | 150 | [Hey Brother](https://open.spotify.com/track/3zKST4nk4QJE77oLjUZ0Ng) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/02h9kO2oLKnLtycgbElKsw) | 4:15 |
 
-Snapshot ID: `MTY0MTAwNDYyMCwwMDAwMDAwMDMxN2QzYmZiMjFkOTQ1N2QxZmJkODYyYTJkNzNkYWVl`
+Snapshot ID: `MTY0MTAyNTA5MiwwMDAwMDAwMDMxN2QzYmZiMjFkOTQ1N2QxZmJkODYyYTJkNzNkYWVl`

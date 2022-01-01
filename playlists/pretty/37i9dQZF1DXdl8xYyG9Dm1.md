@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=4mLu7AObRVe3gsSn4kDpjw"> A\-Reece </a>  and <a href="https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR?si=xVwLdOd2TTekWZ7e7xb9Gw"> Jay Jody </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,866 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,870 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Link Up](https://open.spotify.com/track/0CKZ0eCTKaaJh1vQjO27fC) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:19 |
 | 70 | [Africana \(feat\. Victoria Kimani\)](https://open.spotify.com/track/7v7cJqKreMEQOZlarcBAU8) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Africana \(feat\. Victoria Kimani\)](https://open.spotify.com/album/2k54ttWzOu5qOqH9e5ng0K) | 3:47 |
 
-Snapshot ID: `MTY0MTAwNDc1NiwwMDAwMDAwMDBiYzg3YTUxZTUxNGQ5MDdiMjM2ZThmOGVkNDRhNDUx`
+Snapshot ID: `MTY0MTAyNTIyMSwwMDAwMDAwMDBiYzg3YTUxZTUxNGQ5MDdiMjM2ZThmOGVkNDRhNDUx`

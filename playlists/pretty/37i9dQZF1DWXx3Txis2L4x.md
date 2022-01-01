@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Keep your run going with these upbeat rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,460 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,472 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 39 | [My God Is The Sun](https://open.spotify.com/track/1Pc3gTtQG4Cq1x81NcXtCN) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 3:55 |
 | 40 | [One Armed Scissor](https://open.spotify.com/track/3T1YjH72qs6L6tDscZFZL5) | [At The Drive In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship of Command](https://open.spotify.com/album/0BrySJeJIdjsGkJDn2nXbc) | 4:20 |
 
-Snapshot ID: `MTY0MTAwNDQwNCwwMDAwMDAwMGUyYjg5YTMzNTYxZjU5NmQ4ZWI3MWI3ZTNiOWMyNjM2`
+Snapshot ID: `MTY0MTAyNDg4NywwMDAwMDAwMGUyYjg5YTMzNTYxZjU5NmQ4ZWI3MWI3ZTNiOWMyNjM2`

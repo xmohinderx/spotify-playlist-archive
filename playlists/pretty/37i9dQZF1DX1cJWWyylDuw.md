@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Paleface
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,311 likes - 120 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,343 likes - 120 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 119 | [Altered Eyes](https://open.spotify.com/track/6i2msZFGP7Tk7WiWaqzZq5) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Altered Eyes](https://open.spotify.com/album/05J7UPdqi1E7lwS9vLrFsR) | 3:54 |
 | 120 | [Apollo](https://open.spotify.com/track/7fFb8tJU5thmLGP1ZKqLxw) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/5XlKRhFaEPZl0NEoLbMsRo) | 5:12 |
 
-Snapshot ID: `MTY0MTAwNDQ3OCwwMDAwMDAwMGM5ZjRjZWM2YzdjNjJhZDA3NjAwMmVlZmYwODM5NGMw`
+Snapshot ID: `MTY0MTAyNDk1OCwwMDAwMDAwMGM5ZjRjZWM2YzdjNjJhZDA3NjAwMmVlZmYwODM5NGMw`

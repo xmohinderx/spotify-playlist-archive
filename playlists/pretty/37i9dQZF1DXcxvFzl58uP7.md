@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,341 likes - 115 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,427 likes - 115 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 114 | [East Coast](https://open.spotify.com/track/3lhsUIhg27AZDKcLqujAjN) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [East Coast](https://open.spotify.com/album/3BkjqERhr7hFzpZdkKU1Me) | 4:37 |
 | 115 | [As a Child](https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [As a Child](https://open.spotify.com/album/49PschqwWD3K9b8vrWzuAb) | 3:10 |
 
-Snapshot ID: `MTY0MTAwNDczNiwwMDAwMDAwMDMzZjUwZmU2ZmE5YmVjN2M3OTRjOTE4YTdlYTY2NGJk`
+Snapshot ID: `MTY0MTAyNTIwMiwwMDAwMDAwMDMzZjUwZmU2ZmE5YmVjN2M3OTRjOTE4YTdlYTY2NGJk`

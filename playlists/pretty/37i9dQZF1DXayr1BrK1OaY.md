@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,413 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,441 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Never Come Back](https://open.spotify.com/track/0QEG3NGmWatNOIAVxudQfd) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 5:05 |
 | 75 | [Pure](https://open.spotify.com/track/6OXnL79ZUpY7zsp01yU0q4) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Anjunadeep Explorations 13](https://open.spotify.com/album/6aqRlhEmzmujvXb7EF4pd4) | 3:22 |
 
-Snapshot ID: `MTY0MTAwNDY5NiwwMDAwMDAwMDgyZDM0ZjgzOThjOWFmZTNmMDlhZDM3NGQ1YzUxODQ4`
+Snapshot ID: `MTY0MTAyNTE2NCwwMDAwMDAwMDgyZDM0ZjgzOThjOWFmZTNmMDlhZDM3NGQ1YzUxODQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring LEISURE
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,957 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,974 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Losing Touch](https://open.spotify.com/track/33h0F53mXDP3CmBSKlFKo5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/76zZinKzeNvh8GRfPnEB8M) | 3:55 |
 | 100 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 |
 
-Snapshot ID: `MTY0MTAwNDYzOCwwMDAwMDAwMDNjMDExMjY0M2QxNmRiM2UxOTI4NTExNGJjOGZhNWQw`
+Snapshot ID: `MTY0MTAyNTEwOSwwMDAwMDAwMDNjMDExMjY0M2QxNmRiM2UxOTI4NTExNGJjOGZhNWQw`

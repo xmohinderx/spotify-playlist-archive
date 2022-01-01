@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,730 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,733 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 49 | [Spend Christmas With You](https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Spend Christmas With You](https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ) | 3:15 |
 | 50 | [This Day \(feat\. Kiana Ledé\) \- from the Netflix Original Motion Picture Jingle Jangle](https://open.spotify.com/track/1ub1mjaj5QG9fdaCIBSPsH) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [This Day \(feat\. Kiana Ledé\) \[from the Netflix Original Motion Picture Jingle Jangle\]](https://open.spotify.com/album/18Y2FVvp3r41QQ5asBYWzl) | 3:48 |
 
-Snapshot ID: `MTY0MTAwNDU0MSwwMDAwMDAwMGQ4ZWYwZTBmOGU1Y2U3NmRlMjBiZDBiNjY1ZGQ0ZjU3`
+Snapshot ID: `MTY0MTAyNTAxNywwMDAwMDAwMGQ4ZWYwZTBmOGU1Y2U3NmRlMjBiZDBiNjY1ZGQ0ZjU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,686 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,693 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Perfect](https://open.spotify.com/track/74YuAIgyAC6dRq4tLdUdDr) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Whole New Life](https://open.spotify.com/album/58YWhZ41VojZwZlWEDyxjC) | 2:25 |
 | 50 | [Ravenous](https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3) | [Gutter Demons](https://open.spotify.com/artist/22aCMV8ydQjMaTi8d5hUdf) | [No God, No Ghost, No Saints](https://open.spotify.com/album/2fbrbnqy3C8R1hjUzufsdA) | 3:32 |
 
-Snapshot ID: `MTY0MTAwNDY5OCwwMDAwMDAwMDg1NDJkN2Q1ZjJmMTM5NDRmY2FmNDE5M2RlY2RjNTI1`
+Snapshot ID: `MTY0MTAyNTE2NSwwMDAwMDAwMDg1NDJkN2Q1ZjJmMTM5NDRmY2FmNDE5M2RlY2RjNTI1`

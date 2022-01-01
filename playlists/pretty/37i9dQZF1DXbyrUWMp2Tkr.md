@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 
 > A selection of the greatest Thrash Metal tunes\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,886 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,909 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 | 49 | [Slaves of Pain](https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:04 |
 | 50 | [Ninja Untouchables/Untouchable Glory](https://open.spotify.com/track/5epOdgJW9Y2bu61k4dumrY) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Untouchable Glory](https://open.spotify.com/album/4KHhqOCvMaJ7x3QYQBGRFr) | 2:46 |
 
-Snapshot ID: `MTY0MTAwNDcxNiwwMDAwMDAwMDFmMzIzOGRkNzU2YWRlNjY0MTM3MWIwODgzNzdhN2Ew`
+Snapshot ID: `MTY0MTAyNTE4MywwMDAwMDAwMDFmMzIzOGRkNzU2YWRlNjY0MTM3MWIwODgzNzdhN2Ew`

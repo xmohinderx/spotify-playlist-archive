@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Sunny tracks from Mac DeMarco, The Beach Boys, and everyone in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,507 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,525 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 79 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 |
 | 80 | [Hawaiian Boi](https://open.spotify.com/track/6EzFRLgOG9gXBg2OwREqJu) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/5XqSocqCRgQwhAWTjeYaPv) | 2:41 |
 
-Snapshot ID: `MTY0MTAwNDQyNCwwMDAwMDAwMDFjMzU5NzA2ZmFjNzBlZDkxODMxMGQ5OWZjMGYxNTcw`
+Snapshot ID: `MTY0MTAyNDkwNywwMDAwMDAwMDFjMzU5NzA2ZmFjNzBlZDkxODMxMGQ5OWZjMGYxNTcw`

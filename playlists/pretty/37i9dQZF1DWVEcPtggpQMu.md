@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w?si=444SdbtzRkGu7Xg5IkX0SQ">Zoocci Coke Dope</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,361 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,360 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

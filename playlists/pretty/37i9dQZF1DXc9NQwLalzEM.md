@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,720 likes - 134 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,732 likes - 134 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 133 | [Ooh I Love You](https://open.spotify.com/track/0z7KWM6WxU9BcXiNNjy913) | [The Electrifying Cashmeres](https://open.spotify.com/artist/0gErNB9PMMHOI9hzpjzH4r) | [Underground Oldies Vol\. 7 \- Rare and Hard to Find Soul Oldies](https://open.spotify.com/album/0sVolmnLgBsqPSqrAJ6xLt) | 3:03 |
 | 134 | [Save Your Love for Me](https://open.spotify.com/track/0zqcehfRKNfDetTUzzQt7C) | [Vivian Reed](https://open.spotify.com/artist/6W67TOlYK1M0cUSQkeuM8V) | [Lost Soul, Vol\. 3](https://open.spotify.com/album/3Ye9Nox4fyKl2dFqoPgym7) | 3:16 |
 
-Snapshot ID: `MTY0MTAwNDcyMSwwMDAwMDAwMDA5NDJjZWVkNTk4M2UyZDBjMDJmMDQ4YWQ5NzVkM2Qx`
+Snapshot ID: `MTY0MTAyNTE4NywwMDAwMDAwMDA5NDJjZWVkNTk4M2UyZDBjMDJmMDQ4YWQ5NzVkM2Qx`

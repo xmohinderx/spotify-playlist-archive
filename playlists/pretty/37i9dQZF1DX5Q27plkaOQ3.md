@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,253 likes - 94 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,261 likes - 94 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 93 | [Killing Machine](https://open.spotify.com/track/2vp3HUzMnyaI3hLZKW5d2k) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Killing Machine](https://open.spotify.com/album/4STgH4wL9troz6flN3FeE1) | 3:03 |
 | 94 | [Stand By Me](https://open.spotify.com/track/4z6JhOgdaVoP4WR3gjftBJ) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Stand By Me](https://open.spotify.com/album/5R4PlfnRbAsDQoCBpArhDK) | 4:12 |
 
-Snapshot ID: `MTY0MTAwNDU3NywwMDAwMDAwMGRhZDVmZTcwYWMwNmY4YjM3Mjg0NDEwOWY3NWY1YjQ0`
+Snapshot ID: `MTY0MTAyNTA1MCwwMDAwMDAwMGRhZDVmZTcwYWMwNmY4YjM3Mjg0NDEwOWY3NWY1YjQ0`

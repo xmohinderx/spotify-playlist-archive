@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,184 likes - 98 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,185 likes - 98 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 97 | [Navidad Sin Ti](https://open.spotify.com/track/1eakbXygVlIzucgfkdaOMN) | [Los Disidentes](https://open.spotify.com/artist/6IyKGUc7TMv7KHGHj5KpnA) | [Dos Regalos](https://open.spotify.com/album/4RhUZdCnAS0AYM5dlKMZYN) | 3:30 |
 | 98 | [Macarena Christmas \- Joy Mix](https://open.spotify.com/track/00591zbq7tnVjtUWwAv2l4) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Christmas Party](https://open.spotify.com/album/5zia3CV55WrS5QwEHWvFcY) | 4:13 |
 
-Snapshot ID: `MTY0MTAwNDY1MywwMDAwMDAwMDM5ZGY0MjA3NWQ3NDQzZWYxNjRlODVmNTAwOTMwZDNk`
+Snapshot ID: `MTY0MTAyNTEyMywwMDAwMDAwMDM5ZGY0MjA3NWQ3NDQzZWYxNjRlODVmNTAwOTMwZDNk`

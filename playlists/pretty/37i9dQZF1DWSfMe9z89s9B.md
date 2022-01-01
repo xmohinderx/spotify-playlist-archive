@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Fana Hues
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,959 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,094 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 99 | [Relay](https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Relay](https://open.spotify.com/album/43skczn9Io3vAXh97760qM) | 3:05 |
 | 100 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/album/52IKnS2cBXHstdyJjQGVkv) | 2:35 |
 
-Snapshot ID: `MTY0MTAwNDI5MiwwMDAwMDAwMDgxODgzYjhkOWQ0MDVhMzVjNzcxYzdiMGNlYjc1YjUy`
+Snapshot ID: `MTY0MTAyNDc4MSwwMDAwMDAwMDgxODgzYjhkOWQ0MDVhMzVjNzcxYzdiMGNlYjc1YjUy`

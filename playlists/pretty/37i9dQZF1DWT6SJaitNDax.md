@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Top Afro Bashment, Pop, Fusion / X\-Overs from all across the world\.  Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">WizKid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,033 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,060 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 99 | [The Don](https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Don](https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z) | 2:48 |
 | 100 | [Body](https://open.spotify.com/track/6mMs3kv7TmqF2v8S3YlvoO) | [Reen](https://open.spotify.com/artist/1PFtz57h7GTlU7xMSIi6qg) | [Body](https://open.spotify.com/album/3PG3V71aKlzwh3YqHcCYFj) | 2:35 |
 
-Snapshot ID: `MTY0MTAwNDMwMiwwMDAwMDAwMDRkNjAxNmRmNWQ3ZmNkNmNlYWU4MWQzNGQ4ZjZhZjMz`
+Snapshot ID: `MTY0MTAyNDc5MCwwMDAwMDAwMDRkNjAxNmRmNWQ3ZmNkNmNlYWU4MWQzNGQ4ZjZhZjMz`

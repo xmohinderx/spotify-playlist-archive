@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,076 likes - 100 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,151 likes - 100 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Autumn Nocturne](https://open.spotify.com/track/6Jws7Ip1lI09JNDGppRHRv) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 6:52 |
 | 100 | [My Funny Valentine](https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 3:24 |
 
-Snapshot ID: `MTY0MTAwNDU2MiwwMDAwMDAwMGQ4NTRkNWUyNDdjMzU4YTBiYzI2MzVlNDRmMjllZmE1`
+Snapshot ID: `MTY0MTAyNTAzNSwwMDAwMDAwMGQ4NTRkNWUyNDdjMzU4YTBiYzI2MzVlNDRmMjllZmE1`

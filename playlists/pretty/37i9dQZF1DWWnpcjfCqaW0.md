@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Lefty Frizzell, Hank Williams, Kitty Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,528 likes - 96 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,546 likes - 96 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 95 | [I Forgot More Than You'll Ever Know \- Remastered](https://open.spotify.com/track/1hV5guiKDYaQCKnwXXLzyH) | [The Davis Sisters](https://open.spotify.com/artist/2WVoGWk3tcKJd7Lc4QJ7ux) | [Skeeter Davis: RCA Country Legend](https://open.spotify.com/album/2pWSwDwX3lcPSe8vHY3NDy) | 3:01 |
 | 96 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 
-Snapshot ID: `MTY0MTAwNDM4MCwwMDAwMDAwMDA5YTRjZTg3YmU2MDNlOTQ5NTZiNWY5YzAzMjdkMmQ4`
+Snapshot ID: `MTY0MTAyNDg2NCwwMDAwMDAwMDA5YTRjZTg3YmU2MDNlOTQ5NTZiNWY5YzAzMjdkMmQ4`

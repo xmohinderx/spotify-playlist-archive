@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Hand Habits
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,040 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,056 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Roll Back Your Clocks](https://open.spotify.com/track/5zNRi0V5CoFoubQV4irWZ2) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Roll Back Your Clocks](https://open.spotify.com/album/4kGr9nnWAzCuZ9if74DHq0) | 2:35 |
 | 150 | [Lincoln, Nebraska](https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Lincoln, Nebraska](https://open.spotify.com/album/3sliyQLmB0w5oU2yjkuZgH) | 2:23 |
 
-Snapshot ID: `MTY0MTAwNDUxMiwwMDAwMDAwMGQzZGJhZmRhNjUyYzFhZmM4ZDg2MzAzNTg2MDQ3Mzcy`
+Snapshot ID: `MTY0MTAyNDk4OSwwMDAwMDAwMGQzZGJhZmRhNjUyYzFhZmM4ZDg2MzAzNTg2MDQ3Mzcy`

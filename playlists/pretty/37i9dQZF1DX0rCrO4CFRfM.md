@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,845 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,888 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [7 \- Acoustic](https://open.spotify.com/track/0ZObDSV7QWyu0Zdinf61Mq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/3918b6TP7PXvhRrJj0SevW) | 4:12 |
 | 50 | [Vagabond \- Acoustic Version](https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4) | 2:40 |
 
-Snapshot ID: `MTY0MTAwNDQ2MywwMDAwMDAwMGVhODNkNjI2MmI1NTg3YjY3NjM0NjI1NGY1Y2MwOTYw`
+Snapshot ID: `MTY0MTAyNDk0MywwMDAwMDAwMGVhODNkNjI2MmI1NTg3YjY3NjM0NjI1NGY1Y2MwOTYw`

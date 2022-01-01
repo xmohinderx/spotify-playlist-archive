@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,442 likes - 148 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,444 likes - 148 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 147 | [Silent Love](https://open.spotify.com/track/3TigdYvjKBPz1eerCoEoAF) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D) | [Silent Love](https://open.spotify.com/album/6KVB8PB5ig7jmElL1xJDKq) | 4:07 |
 | 148 | [Hot N Heavy](https://open.spotify.com/track/3sIPjLfkLNnm8KLxR9aInw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hot N Heavy](https://open.spotify.com/album/5mt4XIAT306Y6XdDtJbNUq) | 3:35 |
 
-Snapshot ID: `MTY0MTAwNDI4NiwwMDAwMDAwMGE1N2I3MTIxY2ZjMGVmZjFhNTIwMzhhNTg3ZDcwYTdl`
+Snapshot ID: `MTY0MTAyNDc3NSwwMDAwMDAwMGE1N2I3MTIxY2ZjMGVmZjFhNTIwMzhhNTg3ZDcwYTdl`

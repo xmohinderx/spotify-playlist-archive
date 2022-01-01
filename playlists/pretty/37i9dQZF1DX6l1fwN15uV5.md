@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,659 likes - 80 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,691 likes - 80 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 79 | [Dear Jessie](https://open.spotify.com/track/1ZLgeJ8aUm1nJcddza8dVG) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 4:21 |
 | 80 | [First Time](https://open.spotify.com/track/1hC742BlJVdDwl31JUGAqW) | [Robin Beck](https://open.spotify.com/artist/0tUERnHmr1tKp2pSwPLN8b) | [Love](https://open.spotify.com/album/0QBNxOIQHwu66oobvV5uGZ) | 3:17 |
 
-Snapshot ID: `MTY0MTAwNDYxMCwwMDAwMDAwMDI5MDlmZTg5ZDVlOTA3MzE1ZGI1ZjE4NzIxMjk4Mzg5`
+Snapshot ID: `MTY0MTAyNTA4MiwwMDAwMDAwMDI5MDlmZTg5ZDVlOTA3MzE1ZGI1ZjE4NzIxMjk4Mzg5`

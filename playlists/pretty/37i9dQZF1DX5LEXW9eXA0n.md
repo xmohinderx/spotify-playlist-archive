@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: KangHyeWon\(강혜원\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,226 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,262 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 49 | [Two Letters](https://open.spotify.com/track/1WWHM83WMlkceHY1XqnaNs) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be My Reason](https://open.spotify.com/album/20rBBVeawY0f6do5SXQnWn) | 3:33 |
 | 50 | [All My Love \- Korean Ver.](https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 |
 
-Snapshot ID: `MTY0MTAwNDU3MywwMDAwMDAwMGM5MDkwOWMzYjU1OWU3ZTdmOTY1OWE2NjE0YjE5ODg4`
+Snapshot ID: `MTY0MTAyNTA0NiwwMDAwMDAwMGM5MDkwOWMzYjU1OWU3ZTdmOTY1OWE2NjE0YjE5ODg4`

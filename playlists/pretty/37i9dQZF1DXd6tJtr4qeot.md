@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,242 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,279 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 49 | [Country Roads](https://open.spotify.com/track/2sj6shokFZofFW0VaygHAA) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Have Another Ball](https://open.spotify.com/album/6XrQBL1kxQZm6BoFtmAxAg) | 2:10 |
 | 50 | [Lean On Sheena](https://open.spotify.com/track/7IR7GUO0dUyUsBp7BfQ3vJ) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [The Gold Record](https://open.spotify.com/album/3MF7PvmrMjEXGvA8fP3L6l) | 3:20 |
 
-Snapshot ID: `MTY0MTAwNDczOCwwMDAwMDAwMGFmNWE5ZmM1NmQzMTVjMzAxZGE4MTFkNzliZTFiOTk0`
+Snapshot ID: `MTY0MTAyNTIwMywwMDAwMDAwMGFmNWE5ZmM1NmQzMTVjMzAxZGE4MTFkNzliZTFiOTk0`

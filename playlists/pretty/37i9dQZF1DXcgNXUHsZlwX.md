@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner ta journée\.  Photo: Ingrid St\-Pierre
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,714 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,716 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Le monarque des Indes](https://open.spotify.com/track/2iGFdHJ9PNdXuPWCpjw61T) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Pour déjouer l'ennui](https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE) | 2:50 |
 | 100 | [Chanson d'automne](https://open.spotify.com/track/6TnV9y0Rt6f0U4nGqDwhC4) | [Mauvais Amis](https://open.spotify.com/artist/0fQ1GquXLsW7jOodJZHwn3) | [Chanson d'automne](https://open.spotify.com/album/3U9WFrewtJlnallEoNuAq9) | 1:42 |
 
-Snapshot ID: `MTY0MTAwNDczMywwMDAwMDAwMDhlNmEzOGY3ZTYxZDQ0NzYwMzE0ODlhNTY2MWZmMDdi`
+Snapshot ID: `MTY0MTAyNTE5OCwwMDAwMDAwMDhlNmEzOGY3ZTYxZDQ0NzYwMzE0ODlhNTY2MWZmMDdi`

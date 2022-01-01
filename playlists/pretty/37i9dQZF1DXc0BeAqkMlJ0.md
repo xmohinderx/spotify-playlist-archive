@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0BeAqkMlJ0.md) - [plain]
 
 > The Bollywood singer’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,072 likes - 33 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,087 likes - 33 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

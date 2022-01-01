@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out\. Cover: Tchami
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,600 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,633 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [IQ Doesn't Matter](https://open.spotify.com/track/1hvAkRZP9V3tGipGa5TWvc) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [IQ Doesn't Matter](https://open.spotify.com/album/47Mks62R6OaDfQWPt55fbp) | 2:27 |
 | 100 | [Same Stars](https://open.spotify.com/track/2fXIiMWnBLfPBxpQ7DTvMO) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Reja Jay](https://open.spotify.com/artist/0DjUxHauWoZAVYPhEDJEyf) | [Same Stars](https://open.spotify.com/album/2I0s6uRil1Yhkq7nLkGt93) | 3:05 |
 
-Snapshot ID: `MTY0MTAwNDMzOCwwMDAwMDAwMDNiM2JkZDY3YmI5NDc1ODcxZGNhNTJkNjRiODk2Yzlh`
+Snapshot ID: `MTY0MTAyNDgyNSwwMDAwMDAwMDNiM2JkZDY3YmI5NDc1ODcxZGNhNTJkNjRiODk2Yzlh`
