@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 
 > every main character needs their soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,402 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,416 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 74 | [You Want Everyone To Love You](https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [places i’ve lived](https://open.spotify.com/album/5upABJYpPbI6bGWI4UlaEM) | 4:04 |
 | 75 | [The Subway Song](https://open.spotify.com/track/3MIMKvXfK4bqkJ2wteG5Jq) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Subway Song](https://open.spotify.com/album/1duvX5yMywtvx6k1JAC3iX) | 4:01 |
 
-Snapshot ID: `MTY0MTAyNTAyMCwwMDAwMDAwMDI2YjZmMjE5M2FiNGQwNGMwYmUzNjA1M2YxODhmMTYw`
+Snapshot ID: `MTY0MTAyNjE4MywwMDAwMDAwMDI2YjZmMjE5M2FiNGQwNGMwYmUzNjA1M2YxODhmMTYw`

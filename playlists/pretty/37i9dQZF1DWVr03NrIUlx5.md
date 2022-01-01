@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 144 | [Hymn for the Weekend](https://open.spotify.com/track/45S0auZgfisuHjQkZgCBl5) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Coldplay](https://open.spotify.com/album/0cmwnoLmkKQVqVVCyNdgqo) | 3:44 |
 | 145 | [Dark Necessities](https://open.spotify.com/track/3FIac6oYC3hHFJdWUGcqfp) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Red Hot Chili Peppers](https://open.spotify.com/album/57UTpB82tkVuFfDi4jK93f) | 4:32 |
 
-Snapshot ID: `MTY0MTAyNDg0MiwwMDAwMDAwMDk3Y2U3NWE2YjFlZGQ3YTVlMDAxYzdmMTBjMjc2Zjcw`
+Snapshot ID: `MTY0MTAyNjAwOCwwMDAwMDAwMDk3Y2U3NWE2YjFlZGQ3YTVlMDAxYzdmMTBjMjc2Zjcw`

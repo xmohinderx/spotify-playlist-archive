@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Skjenkestopp](https://open.spotify.com/track/2GiiOh2U8EQwWkORJd8FNI) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Skjenkestopp](https://open.spotify.com/album/7LgYrxQA5yqoUp21iiOXZR) | 2:39 |
 | 70 | [Nå Koser Vi Oss](https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [Nå Koser Vi Oss](https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF) | 2:49 |
 
-Snapshot ID: `MTY0MTAyNTE0NiwwMDAwMDAwMGM5MTNmMDFlNjMxNjU3NTRhNDVmNzE1MWE3NTY1NDI1`
+Snapshot ID: `MTY0MTAyNjMwOSwwMDAwMDAwMGM5MTNmMDFlNjMxNjU3NTRhNDVmNzE1MWE3NTY1NDI1`

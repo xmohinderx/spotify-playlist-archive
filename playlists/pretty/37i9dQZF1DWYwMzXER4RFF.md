@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Enola Gay
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,364 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,365 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 |
 | 55 | [Montage Music](https://open.spotify.com/track/4w63AOnbaNstQMinV5Lzad) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Montage Music](https://open.spotify.com/album/22RtlgDRtoki1KT4Ilo2Xe) | 3:14 |
 
-Snapshot ID: `MTY0MTAyNDkwNiwwMDAwMDAwMDdkNDczNmE3NjJmNjk5NzkxNmMyMGNlZDNmZjI2NDg1`
+Snapshot ID: `MTY0MTAyNjA3MSwwMDAwMDAwMDdkNDczNmE3NjJmNjk5NzkxNmMyMGNlZDNmZjI2NDg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: Oh Si Young\(오시영\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,851 likes - 52 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,852 likes - 52 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [Fallin’](https://open.spotify.com/track/3ADWPCUm96c7ruPWgzkcTa) | [HARU](https://open.spotify.com/artist/3cR6bND96I3hsUFvymOM8A) | [Show Window : The Queen's House Part.2](https://open.spotify.com/album/4rJQnh1YlWW275NVDx21ln) | 3:45 |
 | 52 | [Way Back Home](https://open.spotify.com/track/4M13QYXUbkv5cWYqw7m88u) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo, First](https://open.spotify.com/album/2VTq68lUwuwceZbQdrPj6V) | 3:30 |
 
-Snapshot ID: `MTY0MTAyNDk2OSwwMDAwMDAwMDIxZWYxMDZiNmFlZmRmNTg1MjhlYzhkZmM2MmZkZmYz`
+Snapshot ID: `MTY0MTAyNjEzMywwMDAwMDAwMDIxZWYxMDZiNmFlZmRmNTg1MjhlYzhkZmM2MmZkZmYz`

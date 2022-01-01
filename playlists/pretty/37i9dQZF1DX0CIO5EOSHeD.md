@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Sfven
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,247 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,249 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [Good For You](https://open.spotify.com/track/3FVQzQWwaOKYXnBFnXB6iZ) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Good For You](https://open.spotify.com/album/4UYS4jArAYYuBTTpCTPKwg) | 3:35 |
 | 100 | [Big Nothing](https://open.spotify.com/track/5z8uTILTDLsjfeQot1NA7t) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 2:22 |
 
-Snapshot ID: `MTY0MTAyNDkyNywwMDAwMDAwMDNkMzRhZTY2MDYwY2NkZjgzMjMxNDk3ZjcwNDllYmYy`
+Snapshot ID: `MTY0MTAyNjA5MiwwMDAwMDAwMDNkMzRhZTY2MDYwY2NkZjgzMjMxNDk3ZjcwNDllYmYy`

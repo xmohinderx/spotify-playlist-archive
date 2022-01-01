@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,616 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,621 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/album/5FT1DfAMQ8ewLsCP6c8PtF) | 3:15 |
 | 50 | [Dmtri](https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Lamb Over Rice](https://open.spotify.com/album/3BPX4x5EQOd9vzpPC2rMrm) | 4:34 |
 
-Snapshot ID: `MTY0MTAyNDc3NywwMDAwMDAwMGFjMjNlZDY1NzY0MDE3MDU5MGVhZDFjODUzYzRhM2Q2`
+Snapshot ID: `MTY0MTAyNTk0NCwwMDAwMDAwMGFjMjNlZDY1NzY0MDE3MDU5MGVhZDFjODUzYzRhM2Q2`

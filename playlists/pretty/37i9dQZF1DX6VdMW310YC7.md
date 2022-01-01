@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,215,952 likes - 303 songs - 20 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,215,963 likes - 303 songs - 20 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 302 | [Mana](https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Mana](https://open.spotify.com/album/16rmHSa9CPjFFrWH3zFG74) | 3:32 |
 | 303 | [Solid Gold \- Jesse Perez's Poolside Radio Mix](https://open.spotify.com/track/7hGl1ltB6ROzH6bbnQB2ur) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [Jesse Perez](https://open.spotify.com/artist/28tbqi7xhIZs8RRGdeCy8d) | [Solid Gold \(Jesse Perez Remix\)](https://open.spotify.com/album/0UvE9dtOc1Ne1yJaK30U2p) | 3:01 |
 
-Snapshot ID: `MTY0MTAyNTA3NywwMDAwMDAwMGMyNGJjMDljMTA5MDkxYmZhYTJhODVlNzA3ZTA2OWEw`
+Snapshot ID: `MTY0MTAyNjI0MCwwMDAwMDAwMGMyNGJjMDljMTA5MDkxYmZhYTJhODVlNzA3ZTA2OWEw`

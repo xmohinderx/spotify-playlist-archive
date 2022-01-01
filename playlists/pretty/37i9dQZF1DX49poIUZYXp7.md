@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\.  Cover: Tenille Arts
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,098 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,097 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 99 | [Miss Me More](https://open.spotify.com/track/4ZwLDLTkFfy45yYA39kYOQ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Miss Me More](https://open.spotify.com/album/39wJJPpL0ukNLWsU2Z3XIv) | 3:12 |
 | 100 | [Every Last Thing](https://open.spotify.com/track/5qQNPkFOoOPT4IAlmHX0yH) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Every Last Thing](https://open.spotify.com/album/4vsOyrjgHxAsxklWp9DJ0X) | 2:44 |
 
-Snapshot ID: `MTY0MTAyNTAxNiwwMDAwMDAwMGY5ZTRlOGNkZjFlYmNmZDQwMjQ4M2FmOTU4YWZlYTMy`
+Snapshot ID: `MTY0MTAyNjE3OSwwMDAwMDAwMGY5ZTRlOGNkZjFlYmNmZDQwMjQ4M2FmOTU4YWZlYTMy`

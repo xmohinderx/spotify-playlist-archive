@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 49 | [Pump It Up](https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model](https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt) | 3:16 |
 | 50 | [Happy House](https://open.spotify.com/track/0oU1wL8FqgKwTPa50nACdd) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope](https://open.spotify.com/album/5qwqMAvWEPdUkprxmfceir) | 3:51 |
 
-Snapshot ID: `MTY0MTAyNTAwMSwwMDAwMDAwMGE2ZDQ2NzM1ODZhMzQ1ODM3ZTQ1YTFiNmJjY2ZlYjBk`
+Snapshot ID: `MTY0MTAyNjE2NCwwMDAwMDAwMGE2ZDQ2NzM1ODZhMzQ1ODM3ZTQ1YTFiNmJjY2ZlYjBk`

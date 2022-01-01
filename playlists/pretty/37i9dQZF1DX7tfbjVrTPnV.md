@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Rodney Crowell
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,927 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,928 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Stranger to My Happiness](https://open.spotify.com/track/1Ow1h8ipU0S07gGcJYfVkg) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Give the People What They Want](https://open.spotify.com/album/2gXqj7ah9qGergzhQhkfrf) | 3:31 |
 | 150 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
 
-Snapshot ID: `MTY0MTAyNTEwMiwwMDAwMDAwMGM0Y2UyNGI0NjdjZDA2M2QxN2E0MzI5MDgwMzIxM2Q4`
+Snapshot ID: `MTY0MTAyNjI2NSwwMDAwMDAwMGM0Y2UyNGI0NjdjZDA2M2QxN2E0MzI5MDgwMzIxM2Q4`

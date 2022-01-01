@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > no thoughts, just non\-stop alt bops
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,066 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,069 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 99 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 |
 | 100 | [dog cuddles](https://open.spotify.com/track/7c2HKfs86p4Leyxh6SFAs8) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [dog cuddles](https://open.spotify.com/album/2NudU808g9JHUywNJpgd29) | 2:31 |
 
-Snapshot ID: `MTY0MTAyNTAwNCwwMDAwMDAwMDQ2MjM0OGNkMmU0MjgyZTYwYzE1NjA1NmY0MDc1MTk3`
+Snapshot ID: `MTY0MTAyNjE2OCwwMDAwMDAwMDQ2MjM0OGNkMmU0MjgyZTYwYzE1NjA1NmY0MDc1MTk3`

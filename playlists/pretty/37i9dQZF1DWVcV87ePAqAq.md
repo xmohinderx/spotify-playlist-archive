@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Gott nytt år!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,277 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,281 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 99 | [Dance With Somebody \- Radio Version](https://open.spotify.com/track/3wWln2O18PeL860Ch2rdzf) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Greatest Hits Volume 1](https://open.spotify.com/album/2nxcairPuxNmIKxLXM7oqp) | 3:59 |
 | 100 | [Last Hurrah \- David Guetta Remix](https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Last Hurrah \(David Guetta Remix\)](https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG) | 3:11 |
 
-Snapshot ID: `MTY0MTAyNDgzNiwwMDAwMDAwMDEzZDQ4NTU1ODI2ZTU1NDFlMDY4YzMzYTI0MDM0ZDk4`
+Snapshot ID: `MTY0MTAyNjAwMywwMDAwMDAwMDEzZDQ4NTU1ODI2ZTU1NDFlMDY4YzMzYTI0MDM0ZDk4`

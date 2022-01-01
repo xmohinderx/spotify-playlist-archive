@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705,714 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,705,716 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [The Spirit](https://open.spotify.com/track/1dBpg8a8jwAkaSbROiehr9) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Spirit](https://open.spotify.com/album/0DTs9hQSrLvq8l0w17PG3b) | 2:15 |
 | 150 | [Move Your Body](https://open.spotify.com/track/3EAwcVzkJyIp481tAtYeR0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Move Your Body](https://open.spotify.com/album/0eIn9Vlw8ZwN79RTZeibbp) | 3:21 |
 
-Snapshot ID: `MTY0MTAyNDc4MCwwMDAwMDAwMDk3YzhmYmVjZWFhNTgxODY2OTU1YzY5MDczZDM5YjJk`
+Snapshot ID: `MTY0MTAyNTk0NywwMDAwMDAwMDk3YzhmYmVjZWFhNTgxODY2OTU1YzY5MDczZDM5YjJk`

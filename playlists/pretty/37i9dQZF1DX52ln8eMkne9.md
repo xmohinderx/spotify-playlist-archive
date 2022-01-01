@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental jazz songs\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,344 likes - 125 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,347 likes - 125 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 124 | [Someone To Watch Over Me](https://open.spotify.com/track/22rhSVshqqrJVpVONUGRjQ) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad) | [Helen Forrest: The Complete World Transcriptions](https://open.spotify.com/album/3vTbzq3jHCEXLC5PbniHbK) | 2:09 |
 | 125 | [A Bad Case Of The Blues](https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Gold](https://open.spotify.com/album/1H1HA3q5mq61SFUs9HIhoT) | 2:37 |
 
-Snapshot ID: `MTY0MTAyNTAzOCwwMDAwMDAwMDkwMzZmMTRlYjYxZGZmY2U5NWY0NDMwMjM3MDFlYzkx`
+Snapshot ID: `MTY0MTAyNjIwMSwwMDAwMDAwMDkwMzZmMTRlYjYxZGZmY2U5NWY0NDMwMjM3MDFlYzkx`

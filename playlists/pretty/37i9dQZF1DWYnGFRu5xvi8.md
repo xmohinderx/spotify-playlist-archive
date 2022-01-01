@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,476 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,478 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Ragnarok](https://open.spotify.com/track/69Iw9YveeiAcYWcnNm2CoT) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XI Wings of the Goddess Original Soundtrack](https://open.spotify.com/album/258UuJStJnNPFIabbPNx4F) | 2:52 |
 | 100 | [Gates of the Moon](https://open.spotify.com/track/5fN6ZPaVC4tARnd36e2rXj) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 5:00 |
 
-Snapshot ID: `MTY0MTAyNDkwMiwwMDAwMDAwMDljYzRiYjMzZTE1OWEwOWZlNDM1NTJiNjUxNTIzMzE3`
+Snapshot ID: `MTY0MTAyNjA2NywwMDAwMDAwMDljYzRiYjMzZTE1OWEwOWZlNDM1NTJiNjUxNTIzMzE3`

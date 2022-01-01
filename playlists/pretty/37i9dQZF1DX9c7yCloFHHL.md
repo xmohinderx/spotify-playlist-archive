@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Cover: Nala Sinephro
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,704 likes - 120 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,705 likes - 120 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 119 | [Echoes](https://open.spotify.com/track/4vvpzJF121oJbfU2F7yaO0) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF) | [Echoes](https://open.spotify.com/album/6davSrv4DvlDFXrZF0CtwD) | 1:56 |
 | 120 | [The First Falling Snowflakes Of A Winter Long Gone](https://open.spotify.com/track/5wEdD7Wrj2Zm0z2eUg9vsF) | [Rosentwig](https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb) | [The First Falling Snowflakes Of A Winter Long Gone](https://open.spotify.com/album/03zbuNtQm2kP6lGQd7zwzz) | 2:44 |
 
-Snapshot ID: `MTY0MTAyNTEzNiwwMDAwMDAwMGQwZjFkYzJjMGJkNzM0ZjkzZWI4MGZhMjkwOGFlZTJl`
+Snapshot ID: `MTY0MTAyNjI5OSwwMDAwMDAwMGQwZjFkYzJjMGJkNzM0ZjkzZWI4MGZhMjkwOGFlZTJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Dua Lipa & Elton John.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,266,509 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,266,510 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [i hope ur miserable until ur dead \- Jauz Remix](https://open.spotify.com/track/3EthUkTHbAoZn5wxuoSfnL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [i hope ur miserable until ur dead \(Jauz Remix\)](https://open.spotify.com/album/0hy69B5DiAkwSeQGhVhWrG) | 3:01 |
 | 100 | [I am not a woman, I'm a god \- Hot Chip Remix](https://open.spotify.com/track/6N9e2i99cXGGujgELtxotL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [I am not a woman, I'm a god \(Remixes\)](https://open.spotify.com/album/1KI8OF9vF5XKY88noK7Au9) | 4:47 |
 
-Snapshot ID: `MTY0MTAyNTE5NSwwMDAwMDAwMDhlMWQwZDNmNDM0NjZjMTZlY2Y4YTk2NTY2OTA4OTFi`
+Snapshot ID: `MTY0MTAyNjM1OSwwMDAwMDAwMDhlMWQwZDNmNDM0NjZjMTZlY2Y4YTk2NTY2OTA4OTFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Allison Ponthier
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,362 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,363 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Swimming Backwards](https://open.spotify.com/track/6gdXKvWTGKYDOsC1Rj3Q3d) | [There](https://open.spotify.com/artist/1acar6LWnyqmDdmHabW68Y) | [Swimming Backwards](https://open.spotify.com/album/6eiGLXIkQHtUO7EdFFAywc) | 3:42 |
 | 150 | [Standing On The Moon](https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Standing On The Moon](https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK) | 4:59 |
 
-Snapshot ID: `MTY0MTAyNDk3MywwMDAwMDAwMDQwZTMwZTVhMjQ3NWU0NzFiZDExYjNmODRjNmYwOWM2`
+Snapshot ID: `MTY0MTAyNjEzNywwMDAwMDAwMDQwZTMwZTVhMjQ3NWU0NzFiZDExYjNmODRjNmYwOWM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,411,044 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,411,053 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Alien](https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Alien](https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh) | 2:45 |
 | 100 | [Love Me Better \(with Shift K3Y & Marc E\. Bassy\)](https://open.spotify.com/track/5zHRrkIk98Adfqh25kMZFU) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Love Me Better](https://open.spotify.com/album/1FCqo8PHzNgQsxpFUd7VeZ) | 2:30 |
 
-Snapshot ID: `MTY0MTAyNDc3MSwwMDAwMDAwMDBhOTU5NzQ5NjQ2NmZiNjQzZmVkNzNiNjEzN2VhNjM1`
+Snapshot ID: `MTY0MTAyNTkzOCwwMDAwMDAwMDBhOTU5NzQ5NjQ2NmZiNjQzZmVkNzNiNjEzN2VhNjM1`

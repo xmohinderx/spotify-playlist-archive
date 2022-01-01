@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
 | 50 | [Bonden](https://open.spotify.com/track/3qJ67DQIkl9FnqTcbxqkuf) | [Sigrid Moldestad](https://open.spotify.com/artist/4l2PfWenotuMdNx3O2QzkM) | [Bonden](https://open.spotify.com/album/4rhFyhczRVGlYU9zOPYmnE) | 4:44 |
 
-Snapshot ID: `MTY0MTAyNDg3MiwwMDAwMDAwMDE4M2M1OTk0OWM3ZmM2NDRiOWFjMDIwOWZlY2Q2OGU4`
+Snapshot ID: `MTY0MTAyNjAzOCwwMDAwMDAwMDE4M2M1OTk0OWM3ZmM2NDRiOWFjMDIwOWZlY2Q2OGU4`

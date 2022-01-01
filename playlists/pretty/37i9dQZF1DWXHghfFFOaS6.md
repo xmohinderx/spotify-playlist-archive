@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Jazz, hip\-hop and funk in one flavor\. Cover: Guru
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,935 likes - 90 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,934 likes - 90 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [The Final Comedown](https://open.spotify.com/track/4kvcSogx5uXHYuQMYBgCSs) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Wade Marcus](https://open.spotify.com/artist/6TyNxthThaivJa2Sxii9fH) | [Best of Acid Jazz](https://open.spotify.com/album/1YBTymL1i5kLEZ2VpxkbDa) | 3:27 |
 | 90 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 |
 
-Snapshot ID: `MTY0MTAyNDg3MywwMDAwMDAwMDZkZjM0ZmU0OWNmZWU4MTg1ZWJhMDQ4ZTYyMGEzYTJm`
+Snapshot ID: `MTY0MTAyNjAzOSwwMDAwMDAwMDZkZjM0ZmU0OWNmZWU4MTg1ZWJhMDQ4ZTYyMGEzYTJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,471 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,474 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [The Lebanon](https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Hysteria](https://open.spotify.com/album/0Jst3a86SKc0inDa2AKhXf) | 5:04 |
 | 80 | [I Can't Stand Up For Falling Down](https://open.spotify.com/track/5h0CMhpV8wmPfcmL3xXRkz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Get Happy](https://open.spotify.com/album/3kvYeP5e5CQCHq1oCsQhrY) | 2:06 |
 
-Snapshot ID: `MTY0MTAyNDc5OSwwMDAwMDAwMGUxNjBhMzc2YWIxMDA1YjY3NzEyMzJkMzdkYmY4YjI2`
+Snapshot ID: `MTY0MTAyNTk2NiwwMDAwMDAwMGUxNjBhMzc2YWIxMDA1YjY3NzEyMzJkMzdkYmY4YjI2`

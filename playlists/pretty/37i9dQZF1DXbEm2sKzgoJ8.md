@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,955 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,962 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 74 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
 | 75 | [Love Level](https://open.spotify.com/track/491PSWzb5VbxaBzKOreaEY) | [Love Level](https://open.spotify.com/artist/5rvUlI4cK6csRpgrOEeuRb) | [Love Level](https://open.spotify.com/album/74jLHOTiFSlxu6KWUIKX8M) | 2:26 |
 
-Snapshot ID: `MTY0MTAyNTE2OSwwMDAwMDAwMDg1ZTIxYTJkZjgxZmE1NmFhYTcyYmM2YzZkZDVkZTQw`
+Snapshot ID: `MTY0MTAyNjMzMywwMDAwMDAwMDg1ZTIxYTJkZjgxZmE1NmFhYTcyYmM2YzZkZDVkZTQw`

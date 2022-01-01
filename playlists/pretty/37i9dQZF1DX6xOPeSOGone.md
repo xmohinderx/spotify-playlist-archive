@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > The great masterpieces of the genre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,203,082 likes - 150 songs - 11 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,203,092 likes - 150 songs - 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 149 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
 | 150 | [Strong Enough](https://open.spotify.com/track/0IiG5LCOkbUTyXoylZ3spP) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hits And Rarities](https://open.spotify.com/album/6T3hWDRvhh2iLcgnGdnXUU) | 3:10 |
 
-Snapshot ID: `MTY0MTAyNTA4NSwwMDAwMDAwMDkzOTYzMWY5YTliZjQ4YjUxZjBmMTRiYjlhYWMzMGFh`
+Snapshot ID: `MTY0MTAyNjI0OCwwMDAwMDAwMDkzOTYzMWY5YTliZjQ4YjUxZjBmMTRiYjlhYWMzMGFh`

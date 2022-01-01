@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Tails.
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,819 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,823 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [High Like This \(feat\. Reo Cragun\)](https://open.spotify.com/track/1HF9IpKHAqYgU4Kl1HseaS) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [High Like This \(feat\. Reo Cragun\)](https://open.spotify.com/album/3CgdnhlwCIsvZ5JZeFOS10) | 2:33 |
 | 125 | [Chandelier \(camoufly Remix\)](https://open.spotify.com/track/6LIpZXwxDxR2iWiPYFBBnx) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Chandelier \(camoufly Remix\)](https://open.spotify.com/album/61Kux9RkSUm0LXx09IqRIZ) | 2:34 |
 
-Snapshot ID: `MTY0MTAyNTIyMCwwMDAwMDAwMDVlOGJjMjJiM2E5MGMxMDM2YTAxMGZmZDliZmNjMmFl`
+Snapshot ID: `MTY0MTAyNjM4MywwMDAwMDAwMDVlOGJjMjJiM2E5MGMxMDM2YTAxMGZmZDliZmNjMmFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: St\. Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,400 likes - 150 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,402 likes - 150 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Airwalkin'](https://open.spotify.com/track/3GuI8cLpgy6CxZk72a1Jyo) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/5slqr0lIekuWg0N3q6PDTT) | 3:35 |
 | 150 | [Nobody Taught Me](https://open.spotify.com/track/5bVZ4C7MFM1tgsb8VjvLb3) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Nobody Taught Me](https://open.spotify.com/album/5Wjjrn5PxAzqwHDSSFfjtY) | 3:49 |
 
-Snapshot ID: `MTY0MTAyNTEyMCwwMDAwMDAwMDJlYzhlZDNlNTYwMWQzZjg4OTJmYmEwMTVmNWQ0MjE4`
+Snapshot ID: `MTY0MTAyNjI4MywwMDAwMDAwMDJlYzhlZDNlNTYwMWQzZjg4OTJmYmEwMTVmNWQ0MjE4`

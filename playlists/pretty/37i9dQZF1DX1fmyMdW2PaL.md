@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,338 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,339 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [Unbowed](https://open.spotify.com/track/5yd3XyTsHL2UBVVWqiXQgl) | [To Kill](https://open.spotify.com/artist/56ZCgO84aGXtdtsNj7gEJB) | [Unbowed](https://open.spotify.com/album/75CSto135wF6fWo1yr8sTj) | 2:20 |
 | 100 | [Comalord](https://open.spotify.com/track/0FgCf3pRR83CSRA2vsRxPo) | [Köhlbrand](https://open.spotify.com/artist/0QEmx3jwwZc0bi8TnYLWw1) | [Comalord](https://open.spotify.com/album/4en3sKFcpOctEzY5WtDBqJ) | 2:50 |
 
-Snapshot ID: `MTY0MTAyNDk1OSwwMDAwMDAwMDQwZDY2ZTExNTY3ZGY3NzU3Nzg4ODU2M2VhYTFiYTUz`
+Snapshot ID: `MTY0MTAyNjEyMywwMDAwMDAwMDQwZDY2ZTExNTY3ZGY3NzU3Nzg4ODU2M2VhYTFiYTUz`

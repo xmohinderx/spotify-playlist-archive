@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,116,899 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,116,906 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Thundersteel](https://open.spotify.com/track/3PtoySboyS2gTmvFPy6iDi) | [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thundersteel](https://open.spotify.com/album/0zmiGhL8QcuAY5cbet7XbM) | 3:49 |
 | 125 | [Bedside Radio](https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Metal Rendez\-Vous](https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw) | 3:19 |
 
-Snapshot ID: `MTY0MTAyNDk3NywwMDAwMDAwMDM5M2UwYWE5YzFlZmVlM2RlYWVhNDI1YmMyMWRlODRj`
+Snapshot ID: `MTY0MTAyNjE0MSwwMDAwMDAwMDM5M2UwYWE5YzFlZmVlM2RlYWVhNDI1YmMyMWRlODRj`

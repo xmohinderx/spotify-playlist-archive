@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,348 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,349 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Got Ya Movin'](https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy) | [Funky Times](https://open.spotify.com/artist/1WlYYdGPxcxcmDVtIzTuhV), [Julia Hofer](https://open.spotify.com/artist/42rpmJkLfveqCuH2fh9bdV), [Silas Engel](https://open.spotify.com/artist/4BjlJxkz88UeYje83jgwHf), [André Haaf](https://open.spotify.com/artist/3rbhr6Z9OqXd4OjED0O2Vg) | [Got Ya Movin'](https://open.spotify.com/album/7yfKLZHZRYOr9ersfyaobt) | 3:26 |
 | 80 | [Shiny Boots](https://open.spotify.com/track/5cmB8ZZ9FDQ3D03BzRG5u0) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Piers Green](https://open.spotify.com/artist/2BD3op8zryBDr5nhRg2Pm8) | [Shiny Boots](https://open.spotify.com/album/6COvwsnQ4Qkzy8QjgRuhEd) | 4:33 |
 
-Snapshot ID: `MTY0MTAyNTExOSwwMDAwMDAwMDJkNTI3OTg5OTU5ODA0ZDEwMDNiMDE4MTEwMDRmY2Zk`
+Snapshot ID: `MTY0MTAyNjI4MiwwMDAwMDAwMDJkNTI3OTg5OTU5ODA0ZDEwMDNiMDE4MTEwMDRmY2Zk`

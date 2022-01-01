@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,770 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,768 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [False Reactions](https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 5:11 |
 | 60 | [Vergangenheit](https://open.spotify.com/track/6EYWLaus7to0TWiHo6mlIU) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Vergangenheit](https://open.spotify.com/album/46zXFUxiBVNtFbwmSfvejh) | 5:33 |
 
-Snapshot ID: `MTY0MTAyNDk0MywwMDAwMDAwMGYwMWI4NTlmZDhhYjg5MGU0Y2Q5NmE2MTcxZTc3OTg1`
+Snapshot ID: `MTY0MTAyNjEwOCwwMDAwMDAwMGYwMWI4NTlmZDhhYjg5MGU0Y2Q5NmE2MTcxZTc3OTg1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,790 likes - 115 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,792 likes - 115 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 114 | [PAPA JOHNS](https://open.spotify.com/track/78priJC6WYdAjjH9CoaXMA) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:28 |
 | 115 | [LowKey](https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [LowKey](https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH) | 3:13 |
 
-Snapshot ID: `MTY0MTAyNTIxNiwwMDAwMDAwMGEwNjM3MDBjOTJjNWRjMjVjNWU2OTFiNzBhNTA0NzQ3`
+Snapshot ID: `MTY0MTAyNjM3OSwwMDAwMDAwMGEwNjM3MDBjOTJjNWRjMjVjNWU2OTFiNzBhNTA0NzQ3`

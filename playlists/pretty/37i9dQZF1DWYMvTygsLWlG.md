@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748,238 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,239 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [Everytime \- Remastered](https://open.spotify.com/track/1Qq7tEkWRJB9v1aAAeoruA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Essential Britney Spears](https://open.spotify.com/album/2ti2e8J05nwg9ikcMjW8aS) | 3:50 |
 | 150 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
 
-Snapshot ID: `MTY0MTAyNDg5NSwwMDAwMDAwMDcxY2VmZTJmYTg2YTNkNTY1YTNiY2M3MmEyNDhmYjQx`
+Snapshot ID: `MTY0MTAyNjA2MSwwMDAwMDAwMDcxY2VmZTJmYTg2YTNkNTY1YTNiY2M3MmEyNDhmYjQx`

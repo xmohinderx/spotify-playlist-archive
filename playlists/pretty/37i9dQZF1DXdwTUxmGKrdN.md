@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,068 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,072 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 49 | [Embrace ​](https://open.spotify.com/track/1ZXt69SBkxQXPiVuMJ7RhH) | [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Embrace](https://open.spotify.com/album/7bljLOiLPMG0ZbVVduZfzb) | 4:42 |
 | 50 | [Bittersweet](https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Bittersweet](https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ) | 4:04 |
 
-Snapshot ID: `MTY0MTAyNTIyMiwwMDAwMDAwMGQ4ODYyZWEzNzRhMGZlYmRlNGJlMDZiMTNhZTY0NjEx`
+Snapshot ID: `MTY0MTAyNjM4NSwwMDAwMDAwMGQ4ODYyZWEzNzRhMGZlYmRlNGJlMDZiMTNhZTY0NjEx`

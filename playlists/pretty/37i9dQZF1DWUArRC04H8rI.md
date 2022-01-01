@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > A new generation making their own rules\. Cover: riela
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,660 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,659 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 59 | [Sola](https://open.spotify.com/track/237dlPXLNIsatIRYKRbCWN) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/09Uf3mvkEMJZor5YsOP4dk) | 3:18 |
 | 60 | [Where Does The Love Go?](https://open.spotify.com/track/6AvpB3EobBINZu3NuA4fh1) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 |
 
-Snapshot ID: `MTY0MTAyNDgxNCwwMDAwMDAwMGMxZDg2MjY4NDZjYjRiOTcwYTNjYmJjYTZiZGZlMTkz`
+Snapshot ID: `MTY0MTAyNTk4MCwwMDAwMDAwMGMxZDg2MjY4NDZjYjRiOTcwYTNjYmJjYTZiZGZlMTkz`

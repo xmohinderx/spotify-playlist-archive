@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > ALT the Good Vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,055 likes - 120 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,056 likes - 120 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 119 | [Out of My Hands](https://open.spotify.com/track/2cMOFBM3yX5ntYPkayvKPc) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [Out of My Hands](https://open.spotify.com/album/245d5Tm6FfK9n2tFmpFQv7) | 2:26 |
 | 120 | [Talking is Hard](https://open.spotify.com/track/0r733vlPgYPpZ6y6BnFK3U) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Pillows & Therapy](https://open.spotify.com/album/7qkgFXQ5SAxDLHN2tJmECG) | 3:17 |
 
-Snapshot ID: `MTY0MTAyNDk3OSwwMDAwMDAwMGE2NjdkZDVlY2U0NTc1NTU0Y2QzYjE5MzFlNzVkMTc4`
+Snapshot ID: `MTY0MTAyNjE0MywwMDAwMDAwMGE2NjdkZDVlY2U0NTc1NTU0Y2QzYjE5MzFlNzVkMTc4`

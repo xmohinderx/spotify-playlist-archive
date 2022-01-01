@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With La Bouquet, Vacation Manor, Ollie Wride and more
+> With Sunglasses Kid, Great Good Fine Ok, The Chain Gang Of 1974 and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

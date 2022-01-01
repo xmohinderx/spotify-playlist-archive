@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Timecop1983, Fury Weekend, Gunship and more
+> With Lucy In Disguise, FM\-84, September 87 and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 9,952 likes - 50 songs - 3 hr 46 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Half\-Life](https://open.spotify.com/track/3AqgKDuiWSz6sVphzyOT32) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [After Dark \(Deluxe Edition\)](https://open.spotify.com/album/7dszm1dxmXo1Tgw97QOPeA) | 3:21 |
 | 50 | [Beyond Memory](https://open.spotify.com/track/7zmbtfKgZMTQ1GlqBno5T5) | [NINA](https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG) | [Beyond Memory](https://open.spotify.com/album/0KGWOAde97ZeOypR6kcLad) | 3:35 |
 
-Snapshot ID: `MTY0MTAyNTIzNCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`
+Snapshot ID: `MTY0MTAyNjM5NiwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`

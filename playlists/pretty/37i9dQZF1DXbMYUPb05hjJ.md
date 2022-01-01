@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,353 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,361 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 | 89 | [How Deep Is Your Love?](https://open.spotify.com/track/58ZxxTUnEHvhdNNZAkcZTN) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [In the Grace of Your Love](https://open.spotify.com/album/6ZiAGfJbLftvLMAFoEvoYK) | 6:27 |
 | 90 | [Modern Girl](https://open.spotify.com/track/2TV1CEAFvQiiLhqxUOCQnC) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/0U6Z6EVDwVMqwmr2zEcH4L) | 3:01 |
 
-Snapshot ID: `MTY0MTAyNTE3MiwwMDAwMDAwMGYyNjQxOWVmMTMzNzgzMjE3N2E1ZmUyMGU0MDE1MjAw`
+Snapshot ID: `MTY0MTAyNjMzNiwwMDAwMDAwMGYyNjQxOWVmMTMzNzgzMjE3N2E1ZmUyMGU0MDE1MjAw`

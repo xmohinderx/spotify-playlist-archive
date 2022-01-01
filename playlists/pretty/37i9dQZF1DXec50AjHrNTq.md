@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXec50AjHrNTq.md) - [plain]
 
 > The best of AC/DC, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,709,409 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709,412 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

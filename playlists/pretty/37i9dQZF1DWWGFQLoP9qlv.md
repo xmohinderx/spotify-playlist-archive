@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGFQLoP9qlv.md) - [plain]
 
 > Great songs by indisputable music legends\. Cover: The Velvet Underground
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,037,899 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,037,905 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGFQLoP9qlv.md) - [plain]
 | 69 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
 | 70 | [Lust For Life](https://open.spotify.com/track/3IRvvlj2KpYoH76mLacnsp) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/5F79SWd4x7teHv5An2pqHQ) | 5:13 |
 
-Snapshot ID: `MTY0MTAyNDg1MiwwMDAwMDAwMDgzMjZhOWJlZmE1Y2U0ZTlkMDk1NzllYzBkNTBjZGMx`
+Snapshot ID: `MTY0MTAyNjAxOCwwMDAwMDAwMDgzMjZhOWJlZmE1Y2U0ZTlkMDk1NzllYzBkNTBjZGMx`

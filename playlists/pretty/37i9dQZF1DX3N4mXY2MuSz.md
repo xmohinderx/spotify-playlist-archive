@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favorite punks\. Cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,985 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,983 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Do You Hear What I Hear?](https://open.spotify.com/track/7HB7slDgmDZcpYHXOl0n2V) | [The Myrrhderers](https://open.spotify.com/artist/03qAaFUzsAor9CiD56NFBr) | [The Myrrhderers Sleigh Christmas](https://open.spotify.com/album/4X3JPkIzfXiukzcFfDUOxu) | 3:10 |
 | 75 | [All I Want For Christmas Is You](https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [All I Want For Christmas Is You](https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT) | 3:20 |
 
-Snapshot ID: `MTY0MTAyNTAwMiwwMDAwMDAwMGM5NTJhMDVlNzcwNGYxZmExMDg1NmQ4MzUwZTEwZmY1`
+Snapshot ID: `MTY0MTAyNjE2NSwwMDAwMDAwMGM5NTJhMDVlNzcwNGYxZmExMDg1NmQ4MzUwZTEwZmY1`

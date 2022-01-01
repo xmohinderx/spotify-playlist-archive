@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Hours of your favorite acoustic and roots music gems\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,136,663 likes - 160 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,136,666 likes - 160 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [It'll Work Itself Out](https://open.spotify.com/track/1WvRxjDesc8qkTwYQO55gI) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/2dtz6kpnXfJygR4QpYE6cG) | 3:02 |
 | 160 | [Echo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2d7lM2tUbVZbfOvmJFn4pw) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:31 |
 
-Snapshot ID: `MTY0MTAyNTA4NiwwMDAwMDAwMDg0NWE2Nzc0YWNlNDc5YmUyNjZmYzBjODE3MWZhNDVl`
+Snapshot ID: `MTY0MTAyNjI0OSwwMDAwMDAwMDg0NWE2Nzc0YWNlNDc5YmUyNjZmYzBjODE3MWZhNDVl`

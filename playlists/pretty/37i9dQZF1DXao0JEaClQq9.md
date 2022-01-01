@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft Sega Bodega
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,579 likes - 125 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,581 likes - 125 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [stardew](https://open.spotify.com/track/59VEyFtuiZnWCfCDc4hOU0) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [Womb](https://open.spotify.com/album/1qUKQoS2lPswBUS5BRUpOq) | 4:07 |
 | 125 | [Wannabe](https://open.spotify.com/track/36ODdTjOflEHu6vGHSpNYu) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Heart Ego](https://open.spotify.com/album/3OBMJU0p7YKR46QkDnNLTC) | 3:49 |
 
-Snapshot ID: `MTY0MTAyNTE2MCwwMDAwMDAwMDYyMzRmOTEwNmRiOWI0MmYyYTY5MmQ2ZGJhODU0YWNh`
+Snapshot ID: `MTY0MTAyNjMyNCwwMDAwMDAwMDYyMzRmOTEwNmRiOWI0MmYyYTY5MmQ2ZGJhODU0YWNh`

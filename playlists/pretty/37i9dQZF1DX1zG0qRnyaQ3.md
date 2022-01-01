@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,905 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,904 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [Corruption](https://open.spotify.com/track/1FqwMgOMkIt0hD6luMRbkP) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \[5\]](https://open.spotify.com/album/1WD0ZdG3tEmfDxiQgnFOsm) | 1:27 |
 | 50 | [That's The Breaks](https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [That's The Breaks](https://open.spotify.com/album/7jBnEaexaIWaZvD7Bft29z) | 0:42 |
 
-Snapshot ID: `MTY0MTAyNDk3MCwwMDAwMDAwMDk5OThiM2RhYWQ4MGNhNThiZjkwMjViOGIyZDRlOWJk`
+Snapshot ID: `MTY0MTAyNjEzNCwwMDAwMDAwMDk5OThiM2RhYWQ4MGNhNThiZjkwMjViOGIyZDRlOWJk`

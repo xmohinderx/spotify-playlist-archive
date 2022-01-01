@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,826 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,827 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 99 | [Purple Heart](https://open.spotify.com/track/41hfLPgLlHIBPaiPw2q8tV) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Purple Heart](https://open.spotify.com/album/3eQzl4B4D6gS5gCkaEU4vL) | 3:38 |
 | 100 | [Platonic Jive](https://open.spotify.com/track/3TjIRkNUnTpS3TaBCSCdP6) | [The Entelechia Society](https://open.spotify.com/artist/6Dpo9Z3O17iOifh3bHbcWF) | [Serve: Chilled](https://open.spotify.com/album/0uA3UROehB2WaXRhPiu9zX) | 5:45 |
 
-Snapshot ID: `MTY0MTAyNTIwOCwwMDAwMDAwMDM0ZDVmZjUwNTM1ZjU0ZWJjZTUxMmNiM2E2NDdkYThl`
+Snapshot ID: `MTY0MTAyNjM3MiwwMDAwMDAwMDM0ZDVmZjUwNTM1ZjU0ZWJjZTUxMmNiM2E2NDdkYThl`

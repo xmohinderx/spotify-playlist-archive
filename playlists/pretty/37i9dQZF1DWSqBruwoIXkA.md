@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > Sad Boy Winter has landed\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,650 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,659 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 99 | [Drop Dead](https://open.spotify.com/track/3i4CFXy3ezQZEt8V0GA7Uh) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Drop Dead](https://open.spotify.com/album/2WxwbxrV7YRjWfM64hXbNR) | 2:57 |
 | 100 | [Pain](https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Pain](https://open.spotify.com/album/1gNekazz4PqtPKSkCAORqp) | 3:39 |
 
-Snapshot ID: `MTY0MTAyNDc4NCwwMDAwMDAwMDZmYmIyNmMzNDRjMWQ0NjI2M2Y2YmViZmQ0ZGNlYjNj`
+Snapshot ID: `MTY0MTAyNTk1MiwwMDAwMDAwMDZmYmIyNmMzNDRjMWQ0NjI2M2Y2YmViZmQ0ZGNlYjNj`

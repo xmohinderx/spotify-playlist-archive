@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,320 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,321 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Waiting Room](https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:53 |
 | 100 | [Can't Be Saved](https://open.spotify.com/track/7AGO0iN6e1NGwPj29zEYhY) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe\)](https://open.spotify.com/album/0AqTsQRY2x8Npg0E2hBvM8) | 3:07 |
 
-Snapshot ID: `MTY0MTAyNTAwMiwwMDAwMDAwMDA3MmIyZDkxZWU1NmFlOWFmNGI3YjQ2ZTBjNWRhYTBl`
+Snapshot ID: `MTY0MTAyNjE2NSwwMDAwMDAwMDA3MmIyZDkxZWU1NmFlOWFmNGI3YjQ2ZTBjNWRhYTBl`

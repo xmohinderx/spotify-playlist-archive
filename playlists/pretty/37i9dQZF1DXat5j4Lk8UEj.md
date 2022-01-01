@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > Dive into a mix of electric roots rock and folk\-infused alternative\. Cover: The Brook & The Bluff
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,400 likes - 120 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,401 likes - 120 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 119 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 | 120 | [The John Wayne](https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [Absolute Zero](https://open.spotify.com/album/0FSlXUD9lWwWP1NkfiNmQH) | 4:51 |
 
-Snapshot ID: `MTY0MTAyNTE2MywwMDAwMDAwMGZlYjQ0ZmNkMmY2Zjg3YTkxOTM5YTMzYjBlN2VjNzBi`
+Snapshot ID: `MTY0MTAyNjMyNiwwMDAwMDAwMGZlYjQ0ZmNkMmY2Zjg3YTkxOTM5YTMzYjBlN2VjNzBi`

@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Soul Bossa Nova](https://open.spotify.com/track/0Jw3cPBXlGnA6DEJrZSTI0) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Big Band Bossa Nova](https://open.spotify.com/album/1KSOL1jvue2lfcdsNZ7YN8) | 2:46 |
 | 100 | [It's All Right With Me \- Rudy Van Gelder Edition/Digital Remaster/2006](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 |
 
-Snapshot ID: `MTY0MTAyNDkwOCwwMDAwMDAwMGRkMjM1OGFkNjBmNDk2MmFmZTA3NmQ3MjVkMzc3NDhk`
+Snapshot ID: `MTY0MTAyNjA3NCwwMDAwMDAwMGRkMjM1OGFkNjBmNDk2MmFmZTA3NmQ3MjVkMzc3NDhk`

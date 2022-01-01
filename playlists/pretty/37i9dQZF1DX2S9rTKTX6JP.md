@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,561 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,563 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [All Along the Watchtower](https://open.spotify.com/track/7xdLNxZCtY68x5MAOBEmBq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 3:58 |
 | 100 | [Just What I Needed](https://open.spotify.com/track/0CdbUHOAfMAvvtkSg22AM8) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Just What I Needed](https://open.spotify.com/album/0rIB0XxACqySHkiaoF1JmK) | 3:44 |
 
-Snapshot ID: `MTY0MTAyNDk3OSwwMDAwMDAwMDQwMGNhMzFhZTZjMTAwYmFkYmY2NWMxYTVlZGU5YmNi`
+Snapshot ID: `MTY0MTAyNjE0MywwMDAwMDAwMDQwMGNhMzFhZTZjMTAwYmFkYmY2NWMxYTVlZGU5YmNi`

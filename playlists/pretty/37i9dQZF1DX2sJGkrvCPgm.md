@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6J2CmPOqOD3Bdi5rf9u4zc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:13 |
 | 100 | [Hark! The Herald Angels Sing \(Glory In The Highest\)](https://open.spotify.com/track/6YjDs79QtwtDIVwVvnuiCN) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Campfire Christmas \(Vol\. 1\)](https://open.spotify.com/album/1pNwYbeB1bqTBoEtrPJsSb) | 3:33 |
 
-Snapshot ID: `MTY0MTAyNDk4OCwwMDAwMDAwMGIzYjk3OTJiNjI5YTNmMGJhMmVkZThhZDhjODViZDYw`
+Snapshot ID: `MTY0MTAyNjE1MiwwMDAwMDAwMGIzYjk3OTJiNjI5YTNmMGJhMmVkZThhZDhjODViZDYw`

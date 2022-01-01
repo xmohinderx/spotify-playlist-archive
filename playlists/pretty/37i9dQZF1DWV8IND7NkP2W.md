@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 東京への旅のお供に、日本を代表するインスト楽曲の特集をどうぞ！！
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,072 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,071 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Dream Journey](https://open.spotify.com/track/5HSzVDiVqNfNTyc45bH0x1) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Dream Journey](https://open.spotify.com/album/0ANg0lMuo3WHS82JwOaLow) | 4:55 |
 | 100 | [We Gathered Leaves](https://open.spotify.com/track/1nTH6eMMt4MXqvu9GGLn4Y) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [We Gathered Leaves](https://open.spotify.com/album/5YRDw5rO8vIUxjtgHqICji) | 1:33 |
 
-Snapshot ID: `MTY0MTAyNDgyOSwwMDAwMDAwMGM5MzgwZjEwMDVjZGQ0Zjg1MDVmMjcyMDhjMzg5YmE2`
+Snapshot ID: `MTY0MTAyNTk5NSwwMDAwMDAwMGM5MzgwZjEwMDVjZGQ0Zjg1MDVmMjcyMDhjMzg5YmE2`

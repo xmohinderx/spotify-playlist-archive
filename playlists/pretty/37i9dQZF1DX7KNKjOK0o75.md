@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 
 > Feel great with these timelessly fun songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,112,094 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,112,098 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 | 79 | [Jessie's Girl](https://open.spotify.com/track/0TF3F5Lw5apoD1zvR8LikO) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [The Best Of Rick Springfield](https://open.spotify.com/album/7bVG2FiRaUwDyzlOFxVX9i) | 3:12 |
 | 80 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Good Vibrations 40th Anniversary](https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn) | 3:37 |
 
-Snapshot ID: `MTY0MTAyNTA5NSwwMDAwMDAwMGI4YTFiMWRkMjE1YjcwNDhmY2EyNjg1NmI0NDQ5ZDY0`
+Snapshot ID: `MTY0MTAyNjI1NywwMDAwMDAwMGI4YTFiMWRkMjE1YjcwNDhmY2EyNjg1NmI0NDQ5ZDY0`

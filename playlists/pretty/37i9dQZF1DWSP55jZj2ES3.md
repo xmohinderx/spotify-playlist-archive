@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > grab a blanket and get the good vibes going
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,891 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,897 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 49 | [Head Down](https://open.spotify.com/track/3X8AJHRC435k1l4c6OjecV) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Head Down](https://open.spotify.com/album/2Ef9XULg6bu9Avri3kWUsn) | 4:15 |
 | 50 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 
-Snapshot ID: `MTY0MTAyNDc3NCwwMDAwMDAwMDYwN2NlNjdiNjQwYjRlMGFkMmRmNTdjNzQ1NjMyNjE4`
+Snapshot ID: `MTY0MTAyNTk0MSwwMDAwMDAwMDYwN2NlNjdiNjQwYjRlMGFkMmRmNTdjNzQ1NjMyNjE4`

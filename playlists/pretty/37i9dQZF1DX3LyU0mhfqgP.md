@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: serpentwithfeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,133 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,131 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 73 | [Children](https://open.spotify.com/track/2CUiWTVatM7iXmn63zP39c) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Children](https://open.spotify.com/album/0diCTKYJdp4IDN0KVs0N6t) | 3:41 |
 | 74 | [3 Purple Hearts](https://open.spotify.com/track/1wsm2fpsZv1qH6fO25PHB2) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [3 Purple Hearts](https://open.spotify.com/album/2P2LTbZvZ9KSV4V95Oeik3) | 3:20 |
 
-Snapshot ID: `MTY0MTAyNTAwMiwwMDAwMDAwMGZlMTQ3YTBkNmQzZGFiNjgzODYzM2RhMTg5NmY0YmMy`
+Snapshot ID: `MTY0MTAyNjE2NSwwMDAwMDAwMGZlMTQ3YTBkNmQzZGFiNjgzODYzM2RhMTg5NmY0YmMy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Dream Theater
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,412 likes - 130 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,413 likes - 130 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 129 | [Far Below](https://open.spotify.com/track/4LjXxVBZTL8CtjMpOnccwv) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Far Below](https://open.spotify.com/album/1mp4fdVKmraS9zRk0GogOn) | 4:35 |
 | 130 | [Sorceress](https://open.spotify.com/track/2GBAebLEPMbZ00bFZCA0s6) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/0pD9QGJjubOlnjMUHYM7OM) | 5:49 |
 
-Snapshot ID: `MTY0MTAyNTA2MSwwMDAwMDAwMDY2NzNmNmQ5ZTY0OWM2ODlhOGM1MjZjMTY0MTQzNjQ5`
+Snapshot ID: `MTY0MTAyNjIyNSwwMDAwMDAwMDY2NzNmNmQ5ZTY0OWM2ODlhOGM1MjZjMTY0MTQzNjQ5`

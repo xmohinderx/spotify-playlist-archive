@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,399 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,402 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [Best Thing That Ever Happened to Me](https://open.spotify.com/track/3j3755RU3R30QAD83LbW26) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Collections](https://open.spotify.com/album/2lWt7eTJLdNUpgCtO87pPx) | 3:44 |
 | 50 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
 
-Snapshot ID: `MTY0MTAyNDg4OSwwMDAwMDAwMDI5MDhhMWFhMDQ3OTllNDE2ZGFkNDhmNjljZGY2N2Q3`
+Snapshot ID: `MTY0MTAyNjA1NCwwMDAwMDAwMDI5MDhhMWFhMDQ3OTllNDE2ZGFkNDhmNjljZGY2N2Q3`

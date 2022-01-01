@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 
 > Hit the road to the soundtrack of these seventies classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,464,764 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,464,768 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 99 | [A Horse with No Name \- 2006 Remaster](https://open.spotify.com/track/0LfiPrJKVVpnkXUcLLMzOo) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [Definitive Pop: America](https://open.spotify.com/album/074qwgdr7Vn4rkqR4O5rK8) | 4:09 |
 | 100 | [Jet \- Remastered 2010](https://open.spotify.com/track/13VWHWIIVckG3bHq6oduFJ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/5WDwQd1NNzitecaWN7BoUB) | 4:08 |
 
-Snapshot ID: `MTY0MTAyNDg2MiwwMDAwMDAwMDllNDQ1NWJjNjRhOTc1MDQ5YjdlMTgyNWQ1NmJkMjMw`
+Snapshot ID: `MTY0MTAyNjAyOCwwMDAwMDAwMDllNDQ1NWJjNjRhOTc1MDQ5YjdlMTgyNWQ1NmJkMjMw`

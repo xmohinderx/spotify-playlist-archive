@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9CCxc3fffni.md) - [plain]
 
 > La belleza nunca pasa de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,384 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,386 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9CCxc3fffni.md) - [plain]
 | 74 | [Don't Know Why](https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:06 |
 | 75 | [Wild World](https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea for the Tillerman \(Deluxe Edition\)](https://open.spotify.com/album/6lmjLgTFMevnJVif0iwfDi) | 3:20 |
 
-Snapshot ID: `MTY0MTAyNTEzMCwwMDAwMDAwMGI3NjI0NWY5OTAxY2VkNjFlYmRhNmM4OTNhZTJhM2E3`
+Snapshot ID: `MTY0MTAyNjI5MywwMDAwMDAwMGI3NjI0NWY5OTAxY2VkNjFlYmRhNmM4OTNhZTJhM2E3`

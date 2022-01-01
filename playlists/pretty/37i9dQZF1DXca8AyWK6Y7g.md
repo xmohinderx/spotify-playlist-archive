@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Indie, pop, and everything in between to bring you good energy and good vibes\. Cover: chloe moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,587 likes - 150 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,586 likes - 150 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [SOMEBODY](https://open.spotify.com/track/0HeiYo9WwMT8ujirrWzarf) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [SOMEBODY](https://open.spotify.com/album/5aGeJx3pPmu3uAiX3tP5D5) | 2:44 |
 | 150 | [Holly](https://open.spotify.com/track/0KH3EDexTEFoWZxjX2f1gu) | [Ryan Caraveo](https://open.spotify.com/artist/1PDE2MIJ4M6uvFJDrslazf) | [Northend Sweetheart](https://open.spotify.com/album/59IZ19QhspSGGVYHZnZGoN) | 3:01 |
 
-Snapshot ID: `MTY0MTAyNTE5NiwwMDAwMDAwMDA4YTE2ZTZlNmQ4Nzg5ODIxY2MzYjc3YTZlM2QwNjM5`
+Snapshot ID: `MTY0MTAyNjM1OSwwMDAwMDAwMDA4YTE2ZTZlNmQ4Nzg5ODIxY2MzYjc3YTZlM2QwNjM5`

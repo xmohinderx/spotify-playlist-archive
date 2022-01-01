@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > Beats to relax, study, and focus..\. and warm your heart for Xmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,443,251 likes - 812 songs - 1 day 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,443,258 likes - 812 songs - 1 day 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -821,4 +821,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 811 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 |
 | 812 | [In The Deep](https://open.spotify.com/track/57NUJvvaolgDOw4DwumiDN) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [In The Deep](https://open.spotify.com/album/780tID6S852uS2Bo2s3qWz) | 2:06 |
 
-Snapshot ID: `MTY0MTAyNDg1NSwwMDAwMDAwMGFkMzNiOGNlMTI4YWNmYzRhODkyZDUxODQzNjQ4Y2Y0`
+Snapshot ID: `MTY0MTAyNjAyMSwwMDAwMDAwMGFkMzNiOGNlMTI4YWNmYzRhODkyZDUxODQzNjQ4Y2Y0`

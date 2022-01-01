@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Where jazz meets electronic music\. Cover: Mark de Clive\-Lowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,144 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,145 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Lower Brinstar Vibes](https://open.spotify.com/track/5mbORzorEBD2pxmIzeE1su) | [Joshua Morse](https://open.spotify.com/artist/1dxOwy6v6oyNSoj7GqhRNx), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Plugged In](https://open.spotify.com/album/1ioWRMKxCjAiYRGpvh0GA1) | 3:06 |
 | 80 | [Afro Blue](https://open.spotify.com/track/6OV5AAEspMRkv7uVsNQiRk) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Afro Blue](https://open.spotify.com/album/6Pxk9yPJlLqh8vTYg68YTu) | 3:15 |
 
-Snapshot ID: `MTY0MTAyNTAzOCwwMDAwMDAwMDdiYzdlNDlmNjI0OWJlYmZiZmQ5Njk0YzNmNDY0MGQ1`
+Snapshot ID: `MTY0MTAyNjIwMiwwMDAwMDAwMDdiYzdlNDlmNjI0OWJlYmZiZmQ5Njk0YzNmNDY0MGQ1`

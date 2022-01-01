@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The top 70 tracks from Fresh Finds Latin in 2021\. Los 70 top tracks de Fresh Finds Latin en 2021\. Cover: Paty B
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,925 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,924 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 69 | [Caminos de Cristal](https://open.spotify.com/track/39URgTcuoiIKh3iCvghcYh) | [Todos los Martes](https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P) | [Av\. del Sol, Pt\. 1](https://open.spotify.com/album/7CFCkp8h5eeiPBkV1SpSxP) | 5:08 |
 | 70 | [Agua](https://open.spotify.com/track/7jotpJ37YLNWhiNiMDF9Qr) | [anaguzz](https://open.spotify.com/artist/0wT2ghrHMD1RuXh2DpK7Jp) | [Agua](https://open.spotify.com/album/1X2dDpJ5qFc6vnWkWDSiZs) | 2:26 |
 
-Snapshot ID: `MTY0MTAyNTE1OSwwMDAwMDAwMDNmYTZiNmE5OGRmZGYyY2ZlZDk2YjdlZmVmYjkwZGY0`
+Snapshot ID: `MTY0MTAyNjMyMiwwMDAwMDAwMDNmYTZiNmE5OGRmZGYyY2ZlZDk2YjdlZmVmYjkwZGY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,983,767 likes - 300 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,983,764 likes - 300 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Willow Winds](https://open.spotify.com/track/4nxF7Zpqmk5AjzBIdtnTZy) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Willow Winds](https://open.spotify.com/album/3w2Ri5yiTsPP9HW9QQnL52) | 2:30 |
 | 300 | [California Sunset](https://open.spotify.com/track/3tMOe813dVniNHEtyi547N) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [California Sunset](https://open.spotify.com/album/4oato70XrrlN91MvZe6KRo) | 2:20 |
 
-Snapshot ID: `MTY0MTAyNDkzNSwwMDAwMDAwMDc3ZjNkMGU5ZDRkMmQzMWY5YTAwNjI0ZDdkMDM0M2M0`
+Snapshot ID: `MTY0MTAyNjA5OSwwMDAwMDAwMDc3ZjNkMGU5ZDRkMmQzMWY5YTAwNjI0ZDdkMDM0M2M0`

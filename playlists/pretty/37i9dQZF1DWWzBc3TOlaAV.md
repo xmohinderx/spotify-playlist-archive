@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,673 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,676 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 89 | [Hey Jude \- Remastered 2015](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 7:05 |
 | 90 | [See Emily Play \- 2016 Remastered Version](https://open.spotify.com/track/1jlcpwrEnd7IKDz69M5jGk) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Early Years 1965\-1967 CAMBRIDGE ST/ATION](https://open.spotify.com/album/4kzYgNWgzrtCn2y36Q0gVK) | 2:54 |
 
-Snapshot ID: `MTY0MTAyNDg2OCwwMDAwMDAwMDAwZTBmZTllM2I1NjVjZmZmMGE5ODc4MjgwMjVkNGFh`
+Snapshot ID: `MTY0MTAyNjAzNCwwMDAwMDAwMDAwZTBmZTllM2I1NjVjZmZmMGE5ODc4MjgwMjVkNGFh`

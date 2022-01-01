@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,096 likes - 80 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,097 likes - 80 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
 | 80 | [Red Planet](https://open.spotify.com/track/6yc1GhDYLaac1IahIgVdIP) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Static](https://open.spotify.com/album/3vbUHWi4I1bn8dsDoKPwjx) | 9:30 |
 
-Snapshot ID: `MTY0MTAyNTE0NSwwMDAwMDAwMGJmZTliMDg2YzYwNjYzY2VlMWE5NDVmZjlmMzA0YWIx`
+Snapshot ID: `MTY0MTAyNjMwOCwwMDAwMDAwMGJmZTliMDg2YzYwNjYzY2VlMWE5NDVmZjlmMzA0YWIx`

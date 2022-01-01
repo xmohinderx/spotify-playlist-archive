@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz music to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,840 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,843 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 74 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 |
 | 75 | [Triceratops / The Caller](https://open.spotify.com/track/2k5d3V0BVehNIXYUBWTaaD) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/6zmUoCKw6UvkLGjaVEZsin) | 5:15 |
 
-Snapshot ID: `MTY0MTAyNTA4NywwMDAwMDAwMDk5MDBmMzM5MDJlZjcxOWMyOTEwNTM5NmM0N2Y3ODUx`
+Snapshot ID: `MTY0MTAyNjI1MSwwMDAwMDAwMDk5MDBmMzM5MDJlZjcxOWMyOTEwNTM5NmM0N2Y3ODUx`

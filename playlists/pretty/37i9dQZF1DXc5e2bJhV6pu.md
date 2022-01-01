@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 
 > Get your day off to a cracking start!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082,896 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082,902 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 | 79 | [Fallin’ \(Adrenaline\)](https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\)](https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm) | 3:36 |
 | 80 | [Love Songs](https://open.spotify.com/track/5WmPL0RQxooB4si6PuSkUi) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Love Songs](https://open.spotify.com/album/0I3jWk2OaJ6jjQt3bbJllg) | 3:15 |
 
-Snapshot ID: `MTY0MTAyNTE4NSwwMDAwMDAwMDk5MTdhM2E4MzdjODk4YmE0YmMwN2ViM2FiNTRlMDEx`
+Snapshot ID: `MTY0MTAyNjM0OCwwMDAwMDAwMDk5MTdhM2E4MzdjODk4YmE0YmMwN2ViM2FiNTRlMDEx`

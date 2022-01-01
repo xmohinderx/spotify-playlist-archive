@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,054 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,056 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 95 | [What Goes On When The Sun Goes Down](https://open.spotify.com/track/79vfnjh0dqLBx9gijw3f2C) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [The Essential Ronnie Milsap](https://open.spotify.com/album/16GtIUhmqYMj82brhEkmyB) | 2:52 |
 | 96 | ['Til I Get It Right](https://open.spotify.com/track/64s3ywG24Rkgum7qIIA6wO) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 2:37 |
 
-Snapshot ID: `MTY0MTAyNDg5NiwwMDAwMDAwMGQ3ODQ4NjJhMWM1MzYzNmJiMTcyYjRkYmUxMjFlMWRl`
+Snapshot ID: `MTY0MTAyNjA2MiwwMDAwMDAwMGQ3ODQ4NjJhMWM1MzYzNmJiMTcyYjRkYmUxMjFlMWRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,002 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,017 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [You Should've Known](https://open.spotify.com/track/6FV7RivrHzOwu6SkLRRYmY) | [Hopsin](https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT), [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [You Should've Known](https://open.spotify.com/album/4kzII0xqiF6lGNVdNwGI3V) | 3:14 |
 | 150 | [KIKA](https://open.spotify.com/track/6VRwEqn7BvsN0dChfDrMAf) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [DUMMY BOY](https://open.spotify.com/album/4f8pX9Vjs9uU5aKjqDNcDO) | 2:16 |
 
-Snapshot ID: `MTY0MTAyNDkxOCwwMDAwMDAwMDJhOTU5ZjFkZjM0YWQ3NTg0OGJlY2MxNDRjYTc1ZWFh`
+Snapshot ID: `MTY0MTAyNjA4NCwwMDAwMDAwMDJhOTU5ZjFkZjM0YWQ3NTg0OGJlY2MxNDRjYTc1ZWFh`

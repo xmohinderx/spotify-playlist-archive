@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Happy Now](https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Happy Now](https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO) | 3:31 |
 | 80 | [Don't Know How](https://open.spotify.com/track/1FHqE8ythlH0NbgBM7cy2i) | [Caj Morgan](https://open.spotify.com/artist/6Xvy1uxkv35sodFf8FfpNw) | [Don't Know How](https://open.spotify.com/album/68tlip0IkcMUDPSlcqxhx1) | 3:15 |
 
-Snapshot ID: `MTY0MTAyNDc3MiwwMDAwMDAwMDUyOGM0MTVmMjA2Njk0YzEwYzU2YTUxMmFmNDIwZWU5`
+Snapshot ID: `MTY0MTAyNTkzOSwwMDAwMDAwMDUyOGM0MTVmMjA2Njk0YzEwYzU2YTUxMmFmNDIwZWU5`

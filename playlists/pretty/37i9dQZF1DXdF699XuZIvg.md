@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,283 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,288 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [On To The Next](https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 2:58 |
 | 75 | [Evil \- The Weathermaker Vault Series](https://open.spotify.com/track/2b76mwuhgTySol1s00AjqO) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Evil \(The Weathermaker Vault Series\)](https://open.spotify.com/album/12bk4bn6YqiY79X697JSb6) | 3:13 |
 
-Snapshot ID: `MTY0MTAyNTIwNywwMDAwMDAwMGQ1MTA3NzM4Yjc2MmY2NTdiMzUzNTFhOTA3MmM1MTU2`
+Snapshot ID: `MTY0MTAyNjM3MCwwMDAwMDAwMGQ1MTA3NzM4Yjc2MmY2NTdiMzUzNTFhOTA3MmM1MTU2`

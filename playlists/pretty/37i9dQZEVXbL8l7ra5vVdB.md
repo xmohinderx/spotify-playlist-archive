@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL8l7ra5vVdB.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Russia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,767 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,769 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

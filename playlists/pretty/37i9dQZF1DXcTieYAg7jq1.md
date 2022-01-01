@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,283 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,285 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Sugarcane](https://open.spotify.com/track/7pzoOz4tiF2KA76FNM70ms) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Sugarcane](https://open.spotify.com/album/0NRpX7UAG0LJVkqtx3jFze) | 3:54 |
 | 100 | [We're On Our Way Now](https://open.spotify.com/track/2ySHAi6CPwpGYdsomsezWg) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [We're On Our Way Now](https://open.spotify.com/album/6krwiE0F3PgGWJWI49WCJI) | 4:08 |
 
-Snapshot ID: `MTY0MTAyNTE5MywwMDAwMDAwMGJiMGVlYzRmZTg5NTMyNGQ0MWE0MGI2YTAwM2U4YTVh`
+Snapshot ID: `MTY0MTAyNjM1NywwMDAwMDAwMGJiMGVlYzRmZTg5NTMyNGQ0MWE0MGI2YTAwM2U4YTVh`

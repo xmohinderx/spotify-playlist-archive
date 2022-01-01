@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vYEZez2Jm.md) - [plain]
 
 > Essential music from the singular artist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,978 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,979 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

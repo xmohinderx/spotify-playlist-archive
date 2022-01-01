@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 
 > Hits to boost your mood and fill you with happiness!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,714,896 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,714,897 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 | 99 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 |
 | 100 | [Perfect \(feat\. Haris\)](https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Perfect \(feat\. Haris\)](https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g) | 2:56 |
 
-Snapshot ID: `MTY0MTAyNTIxMSwwMDAwMDAwMGE2NmUxYmVmMDc4YjJiZWU4MzY3Nzk5ODNlZmU2MjM2`
+Snapshot ID: `MTY0MTAyNjM3NCwwMDAwMDAwMGE2NmUxYmVmMDc4YjJiZWU4MzY3Nzk5ODNlZmU2MjM2`

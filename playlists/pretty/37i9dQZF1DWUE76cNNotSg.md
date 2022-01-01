@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,197 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,200 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Gisèle](https://open.spotify.com/track/2vRsa6uWv4CVbmLcYlWbOZ) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/1LgDq3nCqIdL0f8NyRflJG) | 3:16 |
 | 80 | [I Wanna Know](https://open.spotify.com/track/0xGTpQrQSRS2o8TMYGCyOr) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [I Wanna Know](https://open.spotify.com/album/4g93Ifdeb2qTaoSDFMFUDS) | 5:20 |
 
-Snapshot ID: `MTY0MTAyNDgxNCwwMDAwMDAwMGU4NDZlNDIxYTk0N2FmYTAwYTI4ZTNkOTM5MzlkZGY2`
+Snapshot ID: `MTY0MTAyNTk4MSwwMDAwMDAwMGU4NDZlNDIxYTk0N2FmYTAwYTI4ZTNkOTM5MzlkZGY2`

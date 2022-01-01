@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVYB0r28zn.md) - [plain]
 
 > The sound of jazz today\. Cover: Julian Lage
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,815 likes - 500 songs - 1 day 23 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,816 likes - 500 songs - 1 day 23 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVYB0r28zn.md) - [plain]
 | 499 | [Kvarteret Oron](https://open.spotify.com/track/6Rv0YP8goZU5ZfpfIj7YGe) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Svensk Standard \- EP Version](https://open.spotify.com/album/4jWWFYGDILELGZXSPviYid) | 6:30 |
 | 500 | [Burning Bright](https://open.spotify.com/track/5qgHQb4Ljo0SaPkkzehamp) | [Ben Wendel](https://open.spotify.com/artist/0gaASCUAMqvXxGFDYaNFca) | [Burning Bright](https://open.spotify.com/album/7zzOmTGtNoH4Tj49S1c2PU) | 6:08 |
 
-Snapshot ID: `MTY0MTAyNTIxMywwMDAwMDAwMDk4MDkyZTZjYWE2ZDIxY2JhM2U2YmNhN2U0ZDIyNjQ2`
+Snapshot ID: `MTY0MTAyNjM3NiwwMDAwMDAwMDk4MDkyZTZjYWE2ZDIxY2JhM2U2YmNhN2U0ZDIyNjQ2`

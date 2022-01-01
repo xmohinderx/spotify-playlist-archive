@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,748 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,747 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/track/6bwi6DRMwySEQ1UPzJTSew) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/album/3ggV8f813nt3mOWA0o31jj) | 2:18 |
 | 100 | [Rise Up Shepherd](https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Rise Up Shepherd](https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke) | 2:27 |
 
-Snapshot ID: `MTY0MTAyNTA1MCwwMDAwMDAwMDUxY2JkNDg4MGFhZjIxODgyMzA1ODgzNDU5ZDFmYjc3`
+Snapshot ID: `MTY0MTAyNjIxNCwwMDAwMDAwMDUxY2JkNDg4MGFhZjIxODgyMzA1ODgzNDU5ZDFmYjc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,698 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,697 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Bodied](https://open.spotify.com/track/3C7fssc2tiauEx2Z82evXo) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Bodied](https://open.spotify.com/album/7ERlNRuvXzjBAHHJyKNrCE) | 2:58 |
 | 75 | [thoughts & prayers](https://open.spotify.com/track/22yRdwQ4OXUlPrLGhF6ebu) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [thoughts & prayers](https://open.spotify.com/album/2oPgtJ1qOAi6ht4q4mTs6B) | 3:45 |
 
-Snapshot ID: `MTY0MTAyNDkzMSwwMDAwMDAwMGQ2ZDg2MTI0NjlhNmQzMjgzMjIyZjEwYWU2MGMxMjdi`
+Snapshot ID: `MTY0MTAyNjA5NiwwMDAwMDAwMGQ2ZDg2MTI0NjlhNmQzMjgzMjIyZjEwYWU2MGMxMjdi`

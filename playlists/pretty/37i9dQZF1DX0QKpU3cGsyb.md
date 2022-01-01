@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466,799 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466,806 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 49 | [Teach Me](https://open.spotify.com/track/6x51Lq4KaHqB6rHfCpaI5H) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:11 |
 | 50 | [Nasty Girl](https://open.spotify.com/track/59BQqS7wNaSqXPQCyiaPwy) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Nasty Girl](https://open.spotify.com/album/5utCFrzVEe7nzGGidFTAdN) | 2:48 |
 
-Snapshot ID: `MTY0MTAyNDkzMywwMDAwMDAwMGUyOGYwNjc4YWI5Y2E5MjdlNDcwMDJhYzZlYWFlZWUy`
+Snapshot ID: `MTY0MTAyNjA5OCwwMDAwMDAwMGUyOGYwNjc4YWI5Y2E5MjdlNDcwMDJhYzZlYWFlZWUy`

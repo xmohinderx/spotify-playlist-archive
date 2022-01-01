@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from SLANDER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,051 likes - 98 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,050 likes - 98 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 97 | [St Claire](https://open.spotify.com/track/7qrch7xVClA6bB299puPoz) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [St Claire](https://open.spotify.com/album/0XzPQU4d0gDH92VLJzNe1q) | 3:34 |
 | 98 | [White Soul](https://open.spotify.com/track/6tiijIdFRrgLylQGiUU8yn) | [Bahramji](https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B), [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii) | [White Soul](https://open.spotify.com/album/3j2RieEHieFIp4fYa6vPHU) | 7:26 |
 
-Snapshot ID: `MTY0MTAyNTE0NSwwMDAwMDAwMDFlMTkzZDMwN2Q3YmQzMTMyYjJhOTRmNjUxYzg1MDA2`
+Snapshot ID: `MTY0MTAyNjMwOSwwMDAwMDAwMDFlMTkzZDMwN2Q3YmQzMTMyYjJhOTRmNjUxYzg1MDA2`

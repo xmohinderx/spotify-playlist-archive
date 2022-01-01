@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With La Bouquet, Vacation Manor, Ollie Wride and more
+> With Sunglasses Kid, Great Good Fine Ok, The Chain Gang Of 1974 and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 926 likes - 50 songs - 3 hr 23 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Love Like You Care](https://open.spotify.com/track/06SkmyDvn2fg85eCWL6zXn) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:13 |
 | 50 | [Didn't Make It](https://open.spotify.com/track/3gYvFUEdWIlvxVxKfimAJr) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Bullseye](https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1) | 3:51 |
 
-Snapshot ID: `MTY0MTAyNTIzNSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MTAyNjM5NywwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

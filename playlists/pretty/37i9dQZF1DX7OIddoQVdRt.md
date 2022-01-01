@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,376 likes - 40 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,377 likes - 40 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [More Than Anything \(Radio Edit\)](https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS) | [More Than Anything \(Radio Edit\)](https://open.spotify.com/album/2Mk07z67gI2kAyGCg4HHNk) | 4:20 |
 | 40 | [By Myself](https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG) | [Deon Kipping](https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS) | [Place Called Victory \- EP](https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l) | 6:23 |
 
-Snapshot ID: `MTY0MTAyNTA5NiwwMDAwMDAwMDE1MjBhNWE3OGIzZjVlMzhmOWZmNzE3ZGIzMDI2MzVj`
+Snapshot ID: `MTY0MTAyNjI1OCwwMDAwMDAwMDE1MjBhNWE3OGIzZjVlMzhmOWZmNzE3ZGIzMDI2MzVj`

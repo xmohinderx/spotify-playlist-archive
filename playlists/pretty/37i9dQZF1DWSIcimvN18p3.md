@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the history of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie folk favorites\. Cover: The Staves
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,018 likes - 200 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,020 likes - 200 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 199 | [Love Part Three](https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Love Part Three](https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt) | 4:27 |
 | 200 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 |
 
-Snapshot ID: `MTY0MTAyNDc3MSwwMDAwMDAwMGNkYzVmODYyZWQ1YjNlOTFjNGZmYjY3YmY3YmJjNTI0`
+Snapshot ID: `MTY0MTAyNTkzNywwMDAwMDAwMGNkYzVmODYyZWQ1YjNlOTFjNGZmYjY3YmY3YmJjNTI0`

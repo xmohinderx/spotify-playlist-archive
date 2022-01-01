@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,397 likes - 140 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,399 likes - 140 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [Prove Me Wrong](https://open.spotify.com/track/3OglU7QicgmT9cDISCW6kl) | [Dee Snider](https://open.spotify.com/artist/2pD123sZTm8brthWviUKlQ) | [Prove Me Wrong](https://open.spotify.com/album/3ETXhmjMQ4aKFULZ4bNEB9) | 3:48 |
 | 140 | [Kids and Guns](https://open.spotify.com/track/4YHFUrqEXEvHiiYx2NFwVE) | [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Kids and Guns](https://open.spotify.com/album/4JmSvCMKMPzCFpIiLOlJfe) | 4:07 |
 
-Snapshot ID: `MTY0MTAyNTE0MCwwMDAwMDAwMDc2MjYyMTY1MGI3MjYzNzQyMmFlZjk0YWE1MWQ5NWRk`
+Snapshot ID: `MTY0MTAyNjMwMywwMDAwMDAwMDc2MjYyMTY1MGI3MjYzNzQyMmFlZjk0YWE1MWQ5NWRk`

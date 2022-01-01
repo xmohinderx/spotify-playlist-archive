@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: TOMORROW X TOGETHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,061 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,060 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 69 | [water color](https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Redd](https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c) | 3:09 |
 | 70 | [Baby Tonight](https://open.spotify.com/track/4k0ClAsW3kHgSz3cclKNDW) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 3:18 |
 
-Snapshot ID: `MTY0MTAyNTIxMSwwMDAwMDAwMDE1Njk3YmJmNmE2NGM2YTQzMDFjZTNlNWE0ZGY2Mzk0`
+Snapshot ID: `MTY0MTAyNjM3NSwwMDAwMDAwMDE1Njk3YmJmNmE2NGM2YTQzMDFjZTNlNWE0ZGY2Mzk0`

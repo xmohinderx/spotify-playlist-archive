@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > The sound of a new era\. Discover rhythmic crossover hits from cultures around the world! Cover: Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,743 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,745 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 79 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 |
 | 80 | [Trouble](https://open.spotify.com/track/7l1HLHo18BGGNHRfnfJGTc) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Trouble](https://open.spotify.com/album/637WPEplDNDA9NsDalVQvD) | 2:46 |
 
-Snapshot ID: `MTY0MTAyNDgyNiwwMDAwMDAwMDllY2I3MGM4MGUxYTY0YTdkMWI3MjBkZGUyZTc5NmQ1`
+Snapshot ID: `MTY0MTAyNTk5MywwMDAwMDAwMDllY2I3MGM4MGUxYTY0YTdkMWI3MjBkZGUyZTc5NmQ1`

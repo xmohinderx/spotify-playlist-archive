@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,832 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,833 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 99 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
 | 100 | [Wrecks](https://open.spotify.com/track/0ONx5LbtCGaVrWMqgFmjQi) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [More Primitive](https://open.spotify.com/album/6sFW1cZGE5B2PeDDb7kuRp) | 4:45 |
 
-Snapshot ID: `MTY0MTAyNTA0MCwwMDAwMDAwMDE2NDEzM2MxOGYzNjI3NDIwM2ViOGQ3ZGFlOWU5Yzg4`
+Snapshot ID: `MTY0MTAyNjIwNCwwMDAwMDAwMDE2NDEzM2MxOGYzNjI3NDIwM2ViOGQ3ZGFlOWU5Yzg4`

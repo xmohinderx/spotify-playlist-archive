@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,151 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,155 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Everything Is Alright](https://open.spotify.com/track/0bgUPauRTvHds2ZciPSuoU) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/1Rux1s9IbIPDQnz522MgSf) | 3:27 |
 | 100 | [Adrenaline](https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 3:21 |
 
-Snapshot ID: `MTY0MTAyNTE2MiwwMDAwMDAwMDRhNmRjMzk4NGU2YmUyMTExZWRlODIwMDdlYTM5N2Y4`
+Snapshot ID: `MTY0MTAyNjMyNiwwMDAwMDAwMDRhNmRjMzk4NGU2YmUyMTExZWRlODIwMDdlYTM5N2Y4`

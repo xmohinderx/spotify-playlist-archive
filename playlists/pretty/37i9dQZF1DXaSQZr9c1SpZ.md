@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSQZr9c1SpZ.md) - [plain]
 
 > The best of Bon Iver, and a bit more of founder Justin Vernon's other projects.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,176 likes - 43 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,178 likes - 43 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSQZr9c1SpZ.md) - [plain]
 | 42 | [Beth/Rest](https://open.spotify.com/track/0BWaLzdLiiDEhYfw9Of3Gr) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs) | 5:16 |
 | 43 | [The Wolves \(Act I and II\)](https://open.spotify.com/track/0Tps1iVuFudov2alVP3bUF) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm) | 5:22 |
 
-Snapshot ID: `MTY0MTAyNTE1MywwMDAwMDAwMDhlZmExMGIxZDY3M2IyZDQwZjNhYmU3NDczOWU4MGZm`
+Snapshot ID: `MTY0MTAyNjMxNiwwMDAwMDAwMDhlZmExMGIxZDY3M2IyZDQwZjNhYmU3NDczOWU4MGZm`

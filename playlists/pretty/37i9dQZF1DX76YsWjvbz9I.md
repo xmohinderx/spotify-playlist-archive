@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,194 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,195 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 49 | [We'll Be Together Again](https://open.spotify.com/track/772lBovJFWwQdjQn5WnhhY) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Blame It On My Youth](https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un) | 4:46 |
 | 50 | [You're My Thrill](https://open.spotify.com/track/6FTNlQjDHIegogP2uHvSk0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 5:47 |
 
-Snapshot ID: `MTY0MTAyNTA4OSwwMDAwMDAwMGU2ZWQ1ZTg3OGVhNDEyYmVhZDJkYjU1ZDc4OGFlOWE1`
+Snapshot ID: `MTY0MTAyNjI1MiwwMDAwMDAwMGU2ZWQ1ZTg3OGVhNDEyYmVhZDJkYjU1ZDc4OGFlOWE1`

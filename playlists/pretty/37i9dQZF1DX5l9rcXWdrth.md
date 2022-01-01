@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Saweetie & Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,908 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,913 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 49 | [Bad Bitch Anthem](https://open.spotify.com/track/2iSSej4XF1TvnL957k86vP) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Blue Magic](https://open.spotify.com/album/06NRbPzrE1fhJsay2ikpW9) | 2:01 |
 | 50 | [Bossa Nova \(feat\. Tee Grizzley\)](https://open.spotify.com/track/16P9KvAKrYDA7lH7jgquDd) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Bossa Nova](https://open.spotify.com/album/0EUIGdkbLjNFPB9t01PgBf) | 2:36 |
 
-Snapshot ID: `MTY0MTAyNTA1NywwMDAwMDAwMDQyNGM3MzZlNTZhYTkzMGEzMmMyMjJlNDM2ODMzMTBl`
+Snapshot ID: `MTY0MTAyNjIyMSwwMDAwMDAwMDQyNGM3MzZlNTZhYTkzMGEzMmMyMjJlNDM2ODMzMTBl`

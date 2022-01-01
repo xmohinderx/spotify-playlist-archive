@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE5MI4mMuii.md) - [plain]
 | 77 | [I Feel Free](https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 2:51 |
 | 78 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
 
-Snapshot ID: `MTY0MTAyNDg5NCwwMDAwMDAwMDg0NmZlNzdlMGI2MGExOTMwOGFiNzgwYzc5ZjVkYzk1`
+Snapshot ID: `MTY0MTAyNjA2MCwwMDAwMDAwMDg0NmZlNzdlMGI2MGExOTMwOGFiNzgwYzc5ZjVkYzk1`

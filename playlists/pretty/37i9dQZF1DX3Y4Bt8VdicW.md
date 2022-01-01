@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 | 26 | [Just Dumb Enough to Try](https://open.spotify.com/track/39OpvqhCIgPCKxJLpvudC4) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Disappointing Diamonds Are the Rarest of Them All / Just Dumb Enough to Try](https://open.spotify.com/album/1djJva9yAucJBNCaAthjbq) | 4:02 |
 | 27 | [Please Don't Die](https://open.spotify.com/track/72lGJyqmLUJQEhUOzwCFQF) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/1DSQ4XP8DRnfeiAYYagMUN) | 3:24 |
 
-Snapshot ID: `MTY0MTAyNTAwNiwwMDAwMDAwMDRlOGQ0MzljODI2MTRlZDkyOTU2ZjI1NTRiYjE3NjEy`
+Snapshot ID: `MTY0MTAyNjE2OSwwMDAwMDAwMDRlOGQ0MzljODI2MTRlZDkyOTU2ZjI1NTRiYjE3NjEy`

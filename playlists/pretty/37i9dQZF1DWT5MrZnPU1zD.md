@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,710 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,716 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Majin Buu](https://open.spotify.com/track/7IrbvK5Z6IDXvTQel8F94i) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Majin Buu](https://open.spotify.com/album/7gn8Iq3Abd90DFIuqvdnLs) | 3:28 |
 | 100 | [Big Homie \(feat\. 2 Chainz\)](https://open.spotify.com/track/0tpFIosXHWmkKKONpRXCeO) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Big Homie \(feat\. 2 Chainz\)](https://open.spotify.com/album/4L7n3BuiolmqWznU4IRco4) | 3:23 |
 
-Snapshot ID: `MTY0MTAyNDc4OSwwMDAwMDAwMDFjNTFlN2JhNDNkOWU2Y2ZhODRlMDI2MDk0OThlNzBk`
+Snapshot ID: `MTY0MTAyNTk1NiwwMDAwMDAwMDFjNTFlN2JhNDNkOWU2Y2ZhODRlMDI2MDk0OThlNzBk`

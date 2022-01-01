@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPJN9etkrEa.md) - [plain]
 
 > Welcome to Paradise, Green Day fans!
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,771 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,774 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,140 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,144 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 74 | [lose you again \- acoustic](https://open.spotify.com/track/1GEAvH9xJOKS9vBDmBmHj6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [lose you again \(acoustic\)](https://open.spotify.com/album/62q4hgPpvezNUH3ryfItwV) | 3:16 |
 | 75 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 |
 
-Snapshot ID: `MTY0MTAyNDgzMiwwMDAwMDAwMDlhODE0ZGQ3NTU0OTUwZmRmZTNkNzc0ZDRiYTVkZTk2`
+Snapshot ID: `MTY0MTAyNTk5OCwwMDAwMDAwMDlhODE0ZGQ3NTU0OTUwZmRmZTNkNzc0ZDRiYTVkZTk2`

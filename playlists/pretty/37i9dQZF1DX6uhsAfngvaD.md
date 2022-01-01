@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Dream your way through the day to these blissful indie tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,062 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,063 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [The Mind's Eye](https://open.spotify.com/track/1igVdCr2mrzwu2lHxUbJWn) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [This Ascension is Ours](https://open.spotify.com/album/57B07YMvOwOCrze4qRzhNA) | 5:31 |
 | 80 | [Heaven](https://open.spotify.com/track/1gczbgaCmw15h3ZG4awluK) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Heaven](https://open.spotify.com/album/12ehvPg4PDufuo4FhfAWgr) | 4:48 |
 
-Snapshot ID: `MTY0MTAyNTA4NCwwMDAwMDAwMDRkMDg4MzZkMmU1ZTg3MjZjODkxZGJkNDJkNzZkZjBk`
+Snapshot ID: `MTY0MTAyNjI0NywwMDAwMDAwMDRkMDg4MzZkMmU1ZTg3MjZjODkxZGJkNDJkNzZkZjBk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYM3nMM0oPk.md) - [plain]
 
 > A mega mix of 75 favorites from the last few years!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,919,591 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,919,616 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYM3nMM0oPk.md) - [plain]
 | 74 | [Who Do You Love](https://open.spotify.com/track/5QiNbIilmMiMBXvaAlf7lN) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [World War Joy...Do You Mean](https://open.spotify.com/album/17knWaxhmQjegn5eJgGVyL) | 3:46 |
 | 75 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 
-Snapshot ID: `MTY0MTAyNTE3NSwwMDAwMDAwMGYxYWE4ZTRiOWJlYzY5Mjc5MDUxZDk0NWU5N2M4Yzlk`
+Snapshot ID: `MTY0MTAyNjMzOSwwMDAwMDAwMGYxYWE4ZTRiOWJlYzY5Mjc5MDUxZDk0NWU5N2M4Yzlk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > ¡Que viva el amor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,735 likes - 130 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,736 likes - 130 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 129 | [Ella](https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:18 |
 | 130 | [No Tengo Nada](https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [No Tengo Nada](https://open.spotify.com/album/0sUMIXlf7GdaeiEibYJLml) | 3:45 |
 
-Snapshot ID: `MTY0MTAyNDgyNCwwMDAwMDAwMGJkNjUzOWViMDJhZDBjNDVjZDA2ZWEzZWRjYTU3NTEz`
+Snapshot ID: `MTY0MTAyNTk5MCwwMDAwMDAwMGJkNjUzOWViMDJhZDBjNDVjZDA2ZWEzZWRjYTU3NTEz`

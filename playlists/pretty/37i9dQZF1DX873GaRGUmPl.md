@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade so far\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,776 likes - 80 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,779 likes - 80 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 79 | [Round And Round](https://open.spotify.com/track/2qKTOaX1ZeMWn3aKhpxkz5) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/1dO7qBlkQXYENJaHfK7h56) | 5:08 |
 | 80 | [I Feel](https://open.spotify.com/track/3GkIeUXutIw8XnW9ZC3hJ3) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [I Feel](https://open.spotify.com/album/1QFPoF5sG2ufYfPbw5xCa2) | 3:49 |
 
-Snapshot ID: `MTY0MTAyNTEwNywwMDAwMDAwMDhkOGE1NmE0NjNhNDUyZDYwOTNiYmU1OWEyNzVhMGVi`
+Snapshot ID: `MTY0MTAyNjI3MCwwMDAwMDAwMDhkOGE1NmE0NjNhNDUyZDYwOTNiYmU1OWEyNzVhMGVi`
