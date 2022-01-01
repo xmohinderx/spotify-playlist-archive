@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 250403,
       "name": "Alt det som skinner",
       "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 284357,
       "name": "Bonden",
       "url": "https://open.spotify.com/track/3qJ67DQIkl9FnqTcbxqkuf"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 244222,
       "name": "Brenner overalt",
       "url": "https://open.spotify.com/track/38okmcjwEQKPa6qQLC16NW"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 161386,
       "name": "Crescendo i Ga\u030agata",
       "url": "https://open.spotify.com/track/6d35rdVufTVqEuaAPLxeMt"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
@@ -362,10 +362,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 254380,
       "name": "Det Hainnle Om \u00c5 Leve",
       "url": "https://open.spotify.com/track/2WJ14O84lqRcgjPOSgf6tI"
+    },
+    {
+      "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
     },
     {
       "album": {
@@ -456,7 +474,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 244386,
       "name": "Ei kvinnehand",
       "url": "https://open.spotify.com/track/2uelFmwzrlRwkbfdcoPDTO"
@@ -510,7 +528,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 181493,
       "name": "En Natt Forbi",
       "url": "https://open.spotify.com/track/7FBCKAfx2enIPOziuQJBbX"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 253100,
       "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
       "url": "https://open.spotify.com/track/6SlE2MU3PsOO7NrPIIFRHm"
@@ -604,6 +622,24 @@
       "duration_ms": 171640,
       "name": "Fordi eg elskar deg",
       "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
+    },
+    {
+      "album": {
+        "name": "Gammel mann",
+        "url": "https://open.spotify.com/album/4QN9cJ42L7pboyzUxPCe6F"
+      },
+      "artists": [
+        {
+          "name": "Morten Abel",
+          "url": "https://open.spotify.com/artist/60r4k4LiRa6wLr39Fc8Nrh"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199374,
+      "name": "Gammel mann",
+      "url": "https://open.spotify.com/track/3PfaXLH2xoMTWNKuFToiZl"
     },
     {
       "album": {
@@ -716,7 +752,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 205098,
       "name": "Hjem",
       "url": "https://open.spotify.com/track/3FxG5apYswIMtnYIZN5RKH"
@@ -734,7 +770,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 245489,
       "name": "Hold meg",
       "url": "https://open.spotify.com/track/7kXCyyagaPgbTYeiL0qrZH"
@@ -980,7 +1016,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 197186,
       "name": "L\u00f8vblad i vinden",
       "url": "https://open.spotify.com/track/38J3Av5XTtizhvtOHUDE1o"
@@ -1020,7 +1056,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 141120,
       "name": "Mitt Hjerte Er Ditt",
       "url": "https://open.spotify.com/track/6T95elNl2CwTnJXAUUq9LI"
@@ -1143,6 +1179,28 @@
     },
     {
       "album": {
+        "name": "Sommeren legg ifra",
+        "url": "https://open.spotify.com/album/7mLSPNxkKAfNKU3fu9CVip"
+      },
+      "artists": [
+        {
+          "name": "Lars Bremnes",
+          "url": "https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4"
+        },
+        {
+          "name": "Maria Haukaas Mittet",
+          "url": "https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203145,
+      "name": "Sommeren legg ifra",
+      "url": "https://open.spotify.com/track/7mxUWWdYEzZM6gHNmIgyy7"
+    },
+    {
+      "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
@@ -1190,7 +1248,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 180328,
       "name": "Svarte Skyer",
       "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
@@ -1208,7 +1266,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
@@ -1244,7 +1302,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 285653,
       "name": "S\u00f8tten \u00e5r",
       "url": "https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3"
@@ -1316,7 +1374,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 213386,
       "name": "Til alle tider",
       "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
@@ -1356,7 +1414,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 270693,
       "name": "Tir n'a Noir",
       "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
@@ -1462,7 +1520,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 230480,
       "name": "Veien tilbake",
       "url": "https://open.spotify.com/track/4ymTQjGfZyJm3MDzjY5GK0"

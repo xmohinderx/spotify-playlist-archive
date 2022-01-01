@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Rhapsody Of Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,494 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,547 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
-| 2 | [The Last Hymn to Life](https://open.spotify.com/track/2m1SoDCpZAE0oRs6gGCCXe) | [Insania](https://open.spotify.com/artist/5PgpbJGDEilZcBglUPMMPl) | [V \(Praeparatus Supervivet\)](https://open.spotify.com/album/6DjBQrACipS0vKlBIqUgzI) | 7:36 |
-| 3 | [Diamanti](https://open.spotify.com/track/47uPFOpLZMwu2ke4hyhbyW) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs) | 4:31 |
-| 4 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 |
-| 5 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
-| 6 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
-| 7 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 |
+| 1 | [Diamanti](https://open.spotify.com/track/47uPFOpLZMwu2ke4hyhbyW) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Diamanti](https://open.spotify.com/album/22w7SXP9juzKAZrEG0FnSs) | 4:31 |
+| 2 | [The Bell](https://open.spotify.com/track/1g2eSCd9S2onJcfJxAcS71) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [The Bell](https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu) | 4:31 |
+| 3 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
+| 4 | [The Last Hymn to Life](https://open.spotify.com/track/2m1SoDCpZAE0oRs6gGCCXe) | [Insania](https://open.spotify.com/artist/5PgpbJGDEilZcBglUPMMPl) | [V \(Praeparatus Supervivet\)](https://open.spotify.com/album/6DjBQrACipS0vKlBIqUgzI) | 7:36 |
+| 5 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
+| 6 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 |
+| 7 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
 | 8 | [The Keeper](https://open.spotify.com/track/41tlP5zUoBL8Zca4EGUiPv) | [Solarus](https://open.spotify.com/artist/1uyqmZqACSHV00vIFCsALU) | [A Dance With Tragedy](https://open.spotify.com/album/62vkQQ6Y4eVH0udX8eBxKA) | 5:40 |
 | 9 | [Deliver Us From Evil](https://open.spotify.com/track/4Cb1AimuiTJ5szNlCcf895) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Deliver Us From Evil](https://open.spotify.com/album/1ZnC7l78DJRZ3Tjhn4IyvO) | 5:21 |
 | 10 | [Animus](https://open.spotify.com/track/6rXmDc9alRzssAwtuupzAU) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/5JfBsDpyXTktCmS491h0wV) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [STARCHILD](https://open.spotify.com/track/5y5nbBOz83UZR91XiGkjgD) | [COSMODROME](https://open.spotify.com/artist/3KtQUniaGg80PBRIlZDFBv) | [STARCHILD](https://open.spotify.com/album/4P640RxQ9OYyn2QAcCVwTU) | 4:53 |
 | 80 | [Victorious](https://open.spotify.com/track/5fj8gbxJ0LR464ylTwJPZ6) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Victorious](https://open.spotify.com/album/3dYmEXVat2fvSDh0JimSjR) | 3:55 |
 
-Snapshot ID: `MTYzOTY5OTI2MCwwMDAwMDBjYjAwMDAwMTdkYzViMTIyYjQwMDAwMDE3ZDViMTJhZDNm`
+Snapshot ID: `MTY0MDkzMzMyMSwwMDAwMDBjYzAwMDAwMTdlMGYzZjZjMWQwMDAwMDE3ZDViMTJhZDNm`

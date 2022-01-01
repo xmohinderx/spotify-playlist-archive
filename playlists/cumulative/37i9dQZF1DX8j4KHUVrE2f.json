@@ -70,7 +70,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 188386,
       "name": "Accidentally In Love",
       "url": "https://open.spotify.com/track/4FXdIM78OBdw7KIY2jeM8D"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
@@ -506,10 +506,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 221666,
       "name": "Flowers in the Window",
       "url": "https://open.spotify.com/track/1OpO3L2VnUF90tWFWtC7y4"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Footprints in the Sand - Single Mix",
+      "url": "https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2"
     },
     {
       "album": {
@@ -636,7 +654,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 225906,
       "name": "Home",
       "url": "https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf"
@@ -690,7 +708,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 243160,
       "name": "I'm Like A Bird",
       "url": "https://open.spotify.com/track/2ze7s5CrESggiWA3RpDYIy"
@@ -708,7 +726,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 242186,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 249866,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
@@ -780,7 +798,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 228226,
       "name": "JCB",
       "url": "https://open.spotify.com/track/6CWCgRZ0Hxa2dnrCCvq5bA"
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
@@ -1076,6 +1094,24 @@
       "duration_ms": 202066,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
+    },
+    {
+      "album": {
+        "name": "Olly Murs",
+        "url": "https://open.spotify.com/album/17gXGgVOk1RpPduIpeD5Yq"
+      },
+      "artists": [
+        {
+          "name": "Olly Murs",
+          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Please Don't Let Me Go",
+      "url": "https://open.spotify.com/track/4t4Uc6yNnnzBhatmarfV4Y"
     },
     {
       "album": {
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 314720,
       "name": "Run",
       "url": "https://open.spotify.com/track/4hrAKlxfblnG7llBEEX7TR"
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 209373,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/4mGDeChO9f1Tds6cUEOHSn"
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 184413,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/4oKmnf4t9z2uEw0jN1GJ0z"
@@ -1472,7 +1508,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
@@ -1508,7 +1544,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 106714,
       "name": "What If - Film Version",
       "url": "https://open.spotify.com/track/7vuP6E0zTrcAWueKLO7I33"

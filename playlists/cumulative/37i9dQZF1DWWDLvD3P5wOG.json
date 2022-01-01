@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 137021,
       "name": "Bicycle",
       "url": "https://open.spotify.com/track/7n3pKuNOdLQ8GYwsYt56wm"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 138640,
       "name": "Bicycle (Raw)",
       "url": "https://open.spotify.com/track/4MWA61VZOPj67u9PHnjnAd"
@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Dye Dye - Single",
+        "url": "https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR"
+      },
+      "artists": [
+        {
+          "name": "Macka Diamond",
+          "url": "https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186265,
+      "name": "Dye Dye (Raw)",
+      "url": "https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW"
+    },
+    {
+      "album": {
         "name": "Girl Boss - The Realest Girl",
         "url": "https://open.spotify.com/album/6Y3GwclvGrERqgTZ3EEXm9"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 192573,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/4D1eJ4MRs8Ky0DlBTbFGRp"
@@ -750,7 +768,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201600,
       "name": "I'm Drinking / Rum & Red Bull",
       "url": "https://open.spotify.com/track/7dthTAm8nsB2Xy6H7YkUb5"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258059,
       "name": "Likes",
       "url": "https://open.spotify.com/track/0u8OSg2ooosvr7wW6jgYYk"
@@ -896,7 +914,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 226426,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2ErgYGo9t7cDrJCQw3VIDy"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 185626,
       "name": "Needle Eye",
       "url": "https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv"
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 177834,
       "name": "Text Message",
       "url": "https://open.spotify.com/track/4u63rBIcBRmEXArgnwMoaa"
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 214960,
       "name": "Unknown Number",
       "url": "https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF"

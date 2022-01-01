@@ -1,7 +1,7 @@
 {
   "description": "The hottest tracks of today...featuring Juice WRLD, Roddy Ricch, and FKA Twigs.",
   "name": "Hot Rhythmic",
-  "num_followers": 2060010,
+  "num_followers": 2060301,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -727,7 +727,7 @@
     {
       "added_at": "2021-12-10 21:45:30",
       "album": {
-        "name": "Seduce (feat. Capella Grey)",
+        "name": "Seduce (Feat. Capella Grey & Tamae)",
         "url": "https://open.spotify.com/album/4rznzfuokCVEOo5amWNx7c"
       },
       "artists": [
@@ -736,12 +736,16 @@
           "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         },
         {
+          "name": "Tamae",
+          "url": "https://open.spotify.com/artist/0htOY9MPu4gDd7H8CcGOWb"
+        },
+        {
           "name": "Capella Grey",
           "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
         }
       ],
       "duration_ms": 117446,
-      "name": "Seduce (feat. Capella Grey)",
+      "name": "Seduce (Feat. Capella Grey & Tamae)",
       "url": "https://open.spotify.com/track/5irzewJoHob42Nq3P9kOYh"
     },
     {

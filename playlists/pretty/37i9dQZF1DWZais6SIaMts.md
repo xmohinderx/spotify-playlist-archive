@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZais6SIaMts.md) - [plain]
 
 > The pivotal tracks by the genre\-redefining <a href="spotify:artist:0cmWgDlu9CwTgxPhf403hb">producer</a>, composer, and DJ.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,236 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,283 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1199,6 +1199,28 @@
     },
     {
       "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929"
+      },
+      "artists": [
+        {
+          "name": "Walt Wilkins",
+          "url": "https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg"
+        },
+        {
+          "name": "Tip Jar",
+          "url": "https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204710,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM"
+    },
+    {
+      "album": {
         "name": "Worth the Wait",
         "url": "https://open.spotify.com/album/7AnxH98jDzr062djBBa4ko"
       },
@@ -2116,6 +2138,24 @@
       "duration_ms": 259625,
       "name": "Therapy's Good",
       "url": "https://open.spotify.com/track/3SCs4MWsf3Vmj034QeSvcc"
+    },
+    {
+      "album": {
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "There's Always Next Year",
+      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
     },
     {
       "album": {

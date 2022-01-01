@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from Kodak Black, Rod Wave and Roddy Ricch.
+> Music from Rod Wave, Kodak Black and A Boogie Wit da Hoodie.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 247841,
       "name": "'96 Bulls",
       "url": "https://open.spotify.com/track/0VtyqKSFeXrIVSbpxARxt4"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 169577,
       "name": "1995",
       "url": "https://open.spotify.com/track/5KFqBLIITjlM6fhYhBnBzC"
@@ -56,10 +56,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 128561,
       "name": "2 Cents",
       "url": "https://open.spotify.com/track/444UIyq10heFY8SPc3CCD9"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
     },
     {
       "album": {
@@ -118,7 +136,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/086xJzFlEYeCrQmFIVizMb"
@@ -337,6 +355,28 @@
     },
     {
       "album": {
+        "name": "Big Homie (feat. 2 Chainz)",
+        "url": "https://open.spotify.com/album/4L7n3BuiolmqWznU4IRco4"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203151,
+      "name": "Big Homie (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/0tpFIosXHWmkKKONpRXCeO"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -395,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/7LaGCDyxngXIz7J5xFEIMi"
+      },
+      "artists": [
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132182,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1t741g1kw8T5lvupCmgddl"
+    },
+    {
+      "album": {
         "name": "Calabasas",
         "url": "https://open.spotify.com/album/4gCeDxgSIoEyy5StAXJh7R"
       },
@@ -410,7 +468,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 132192,
       "name": "Calabasas",
       "url": "https://open.spotify.com/track/4TkacaEBA8raWT4LizhONs"
@@ -486,7 +544,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 168004,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP"
@@ -607,6 +665,48 @@
     },
     {
       "album": {
+        "name": "BLACK WALL STREET",
+        "url": "https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU"
+      },
+      "artists": [
+        {
+          "name": "Van Buren Records",
+          "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
+        },
+        {
+          "name": "AzizTheShake",
+          "url": "https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        },
+        {
+          "name": "SAINT LYOR",
+          "url": "https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU"
+        },
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        },
+        {
+          "name": "Invada",
+          "url": "https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X"
+        },
+        {
+          "name": "FELIX!",
+          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280500,
+      "name": "CULT",
+      "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
+    },
+    {
+      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/0Elwgwh70pJTeBPuer7wz0"
       },
@@ -618,7 +718,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 144000,
       "name": "Dead Broke",
       "url": "https://open.spotify.com/track/6CwjgmFdMX6FKzmV2oB7SY"
@@ -974,7 +1074,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 189306,
       "name": "From The Garden (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ONKRd9fnjK2olJ3VTFf9G"
@@ -1058,7 +1158,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 125200,
       "name": "Gordon R Freestyle",
       "url": "https://open.spotify.com/track/0pYJaPb80f8Ye86b2qXurN"
@@ -1127,6 +1227,32 @@
     },
     {
       "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170413,
+      "name": "hibachi (feat. Kodak Black & 21 Savage)",
+      "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
+    },
+    {
+      "album": {
         "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
         "url": "https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6"
       },
@@ -1168,7 +1294,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 154997,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
@@ -1186,7 +1312,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 132500,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/7mYIHFA9OdlzLwWq4CRKlj"
@@ -1252,7 +1378,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 136150,
       "name": "HUNNIDDOLLA",
       "url": "https://open.spotify.com/track/4cOdRhWoQg8wrtggw6YZLY"
@@ -1318,7 +1444,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 180325,
       "name": "Ice Water (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/2RTkEYOLYDQtjWFGNZtvpT"
@@ -1420,7 +1546,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 153575,
       "name": "Just Like Martin",
       "url": "https://open.spotify.com/track/0946VVOuYpcWD04kxXHZzP"
@@ -1652,7 +1778,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 195153,
       "name": "LLC (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
@@ -1710,7 +1836,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204000,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4"
@@ -1728,7 +1854,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 121411,
       "name": "MIA",
       "url": "https://open.spotify.com/track/2N0YVoyymRbn3qSOQYkwOr"
@@ -1830,7 +1956,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 143283,
       "name": "MONEY ON ME",
       "url": "https://open.spotify.com/track/681ZlxQVB8XBPRZD1Wk4oi"
@@ -1866,7 +1992,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 164075,
       "name": "MY STORY (DLOG)",
       "url": "https://open.spotify.com/track/6KUNUUH9IR3RBoBSWvNqfW"
@@ -1910,7 +2036,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 170400,
       "name": "NBA Jam",
       "url": "https://open.spotify.com/track/3YGeC8AIZi2XbnymOauGxc"
@@ -2088,7 +2214,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 125753,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/5mFr8BsDBZ04aNiMAtjT8Y"
@@ -2190,7 +2316,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 145899,
       "name": "Prom Night",
       "url": "https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl"
@@ -2338,7 +2464,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 139742,
       "name": "Rich Rich",
       "url": "https://open.spotify.com/track/4edV6rg1hj1SsTIrcEMPvi"
@@ -2404,7 +2530,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 154718,
       "name": "Rule #1 (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/4apWaVWfqRac78ec6L5bJn"
@@ -2547,6 +2673,28 @@
     },
     {
       "album": {
+        "name": "Keep It Playa",
+        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Shisha",
+      "url": "https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js"
+    },
+    {
+      "album": {
         "name": "SHOOT MY SHOT",
         "url": "https://open.spotify.com/album/2ug89z91VcJ8NfpbZGVrPw"
       },
@@ -2624,7 +2772,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 101353,
       "name": "Sleepy Hollow",
       "url": "https://open.spotify.com/track/3v84EI4rMdsqJ95MxwIjQa"
@@ -2642,7 +2790,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 154225,
       "name": "Solar System",
       "url": "https://open.spotify.com/track/0QfHd0erwsF5oTFiWetfsr"
@@ -2682,7 +2830,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 159425,
       "name": "sorry! (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/7LgNtm2LJiSWl2St8nhZNr"
@@ -2704,7 +2852,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196735,
       "name": "Star Song (with Lil Durk)",
       "url": "https://open.spotify.com/track/21CvSW5NIu5Glg9x3BPxjj"
@@ -2780,7 +2928,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 102857,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/2iJjs5CPZCgsAY368q23OA"
@@ -2846,6 +2994,24 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200958,
+      "name": "thailand",
+      "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
     },
     {
       "album": {
@@ -2940,7 +3106,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 270670,
       "name": "trademark usa",
       "url": "https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk"
@@ -2962,7 +3128,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 141844,
       "name": "Triple S",
       "url": "https://open.spotify.com/track/6DaqBwun59rgzYEQROTbRv"
@@ -3218,7 +3384,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 164735,
       "name": "Wit Dat",
       "url": "https://open.spotify.com/track/0qJN25awSjUDODxzp2JQ83"
@@ -3240,7 +3406,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 164735,
       "name": "Wit Dat (feat. Polo G)",
       "url": "https://open.spotify.com/track/1iV2MgAEz3sEmC0rla3mKS"

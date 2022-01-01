@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+    },
+    {
+      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/0xXh2BdSfwmNk3JjwuuaqG"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 250746,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4VsjMhMOhz9XGDNIzFNGgr"
@@ -280,7 +298,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -316,7 +334,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 236986,
       "name": "Can't fall in love again",
       "url": "https://open.spotify.com/track/4vzuBz7765BZkWebmI69gk"
@@ -468,7 +486,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
@@ -548,10 +566,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
+    },
+    {
+      "album": {
+        "name": "First Loss",
+        "url": "https://open.spotify.com/album/2wPlvpDKnwrBCePrVE6DSs"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236146,
+      "name": "First Loss",
+      "url": "https://open.spotify.com/track/4cOxx9vS7Zda7m0RzAsGMG"
     },
     {
       "album": {
@@ -566,7 +602,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 239122,
       "name": "Flower Way",
       "url": "https://open.spotify.com/track/6Jstg15yIAoAP7rAgFrYYH"
@@ -602,7 +638,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 298173,
       "name": "Forever (\uc57d\uc18d)",
       "url": "https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds"
@@ -620,7 +656,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 280360,
       "name": "Give You My Heart",
       "url": "https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D"
@@ -638,7 +674,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 259413,
       "name": "Good Night MY LOVE",
       "url": "https://open.spotify.com/track/08JrdECBp67G9IwipvxuBO"
@@ -744,7 +780,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 244451,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq"
@@ -762,7 +798,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 210240,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
@@ -780,7 +816,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 269619,
       "name": "Hopefully sky",
       "url": "https://open.spotify.com/track/0w246i6rL2nkjgnyNNAmg6"
@@ -824,7 +860,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 236586,
       "name": "How much I love you (with Jeong Haeil)",
       "url": "https://open.spotify.com/track/3AKMTInwWSxtMZdDrtUwlb"
@@ -986,7 +1022,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH"
@@ -1076,10 +1112,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 187160,
       "name": "Lazy Me",
       "url": "https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ"
+    },
+    {
+      "album": {
+        "name": "Leaf (feat. 10CM)",
+        "url": "https://open.spotify.com/album/7e8DEKMXqSQ8SkQS8nWyis"
+      },
+      "artists": [
+        {
+          "name": "RAVI",
+          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Leaf (feat. 10CM)",
+      "url": "https://open.spotify.com/track/012syLYaTalPGsorWvJJSJ"
     },
     {
       "album": {
@@ -1134,7 +1192,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
@@ -1278,7 +1336,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193930,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n"
@@ -1343,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "CYWORLD BGM 2021",
+        "url": "https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244080,
+      "name": "Nagging",
+      "url": "https://open.spotify.com/track/2SmPmWka2lRmD7GDehpjMF"
+    },
+    {
+      "album": {
         "name": "Never let you go",
         "url": "https://open.spotify.com/album/3t6O9PyiyLjW58koeRrQEc"
       },
@@ -1398,6 +1474,24 @@
       "duration_ms": 247986,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
+    },
+    {
+      "album": {
+        "name": "ONE ROOM",
+        "url": "https://open.spotify.com/album/04EzWMvT1s3D2Q26JbDiKz"
+      },
+      "artists": [
+        {
+          "name": "Lee Ki-chan",
+          "url": "https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305160,
+      "name": "ONE ROOM",
+      "url": "https://open.spotify.com/track/6TeiNdpV8PMX4TAlf5fY4b"
     },
     {
       "album": {
@@ -1546,7 +1640,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204356,
       "name": "Say Yes (Feat. Moon Byul of MAMAMOO)",
       "url": "https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA"
@@ -1654,7 +1748,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 243880,
       "name": "Something's Wrong",
       "url": "https://open.spotify.com/track/3ctGT9T08w6VnpND1zhPTW"
@@ -1726,7 +1820,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 230320,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/10xEWyLu80xSy17g9jptlD"
@@ -1744,7 +1838,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 240680,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6fVIZMLDp8ajfb7A9Dt3RD"
@@ -1827,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "The first love [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 3]",
+        "url": "https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR"
+      },
+      "artists": [
+        {
+          "name": "YODAYOUNG",
+          "url": "https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236190,
+      "name": "The first love [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 3]",
+      "url": "https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7"
+    },
+    {
+      "album": {
         "name": "The Moment My Heart (She is My Type\u2661 X KYUHYUN)",
         "url": "https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J"
       },
@@ -1900,7 +2012,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201832,
       "name": "Things We Took For Granted",
       "url": "https://open.spotify.com/track/0AWL2pfPLApKBhV8p6XezU"
@@ -1943,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Be My Reason",
+        "url": "https://open.spotify.com/album/20rBBVeawY0f6do5SXQnWn"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "Two Letters",
+      "url": "https://open.spotify.com/track/1WWHM83WMlkceHY1XqnaNs"
+    },
+    {
+      "album": {
         "name": "Find Me In Your Memory (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91"
       },
@@ -1954,7 +2084,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 267893,
       "name": "Two People",
       "url": "https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk"
@@ -1976,6 +2106,24 @@
       "duration_ms": 200720,
       "name": "U Hoo Hoo",
       "url": "https://open.spotify.com/track/3fRKoqpAB9jOAMDQXg2fwa"
+    },
+    {
+      "album": {
+        "name": "Unhateable",
+        "url": "https://open.spotify.com/album/4RfLKMKI3rnk5Qxgl6F7YW"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "Unhateable",
+      "url": "https://open.spotify.com/track/7oXQfEySOUukDThklMkr76"
     },
     {
       "album": {
@@ -2044,7 +2192,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 254893,
       "name": "When We Were In Love",
       "url": "https://open.spotify.com/track/613Ixm4sbcHRZGKmGtLX9v"
@@ -2098,7 +2246,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 253045,
       "name": "With My Tears",
       "url": "https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE"
@@ -2192,10 +2340,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 297306,
       "name": "\ub9c8\uc9c0\ub9c9 \ub0a0\uc5d0 Moving On",
       "url": "https://open.spotify.com/track/73TXBk1LE2V4OcyLI2aq3p"
+    },
+    {
+      "album": {
+        "name": "\uc548\ub2e8\ud14c NO.1 The Korea Crossover Andante NO.1 The Korea Crossover",
+        "url": "https://open.spotify.com/album/7xSniY5bw35nzJLlyix4MI"
+      },
+      "artists": [
+        {
+          "name": "\uc548\ub2e8\ud14c ANDANTE",
+          "url": "https://open.spotify.com/artist/06HP47mq0TcpHMhsOrAIOB"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289999,
+      "name": "\ube44\ubc00\uc758 \ud654\uc6d0 the secret garden",
+      "url": "https://open.spotify.com/track/37oNX55SMkw6bWjv8BL07C"
     },
     {
       "album": {
@@ -2210,7 +2376,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 256026,
       "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
       "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"

@@ -1,28 +1,32 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! Photo: Alexandra Streliski",
   "name": "No\u00ebl, No\u00ebl, No\u00ebl",
-  "num_followers": 44963,
+  "num_followers": 44929,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkxMTExMiwwMDAwMDAwMGExNTM4MzA3YTUxZmM4Mzk3OTQ2ODdhNmZiOWNhZmI5",
+  "snapshot_id": "MTY0MTAwNDMwNSwwMDAwMDAwMDllNGRmZGVlMDZhMjIzMTRmYzgxN2NhYjg5NTg2YzIx",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/0HadKSH32oHv4BJjNZ30FG"
       },
       "artists": [
         {
-          "name": "La Zarra",
-          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 208806,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/2LQNGs6tdjJJS7fxopcaFW"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -59,6 +63,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT"
+      },
+      "artists": [
+        {
+          "name": "La Zarra",
+          "url": "https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS"
+        }
+      ],
+      "duration_ms": 208806,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Chansons hivernales",
         "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 221293,
       "name": "Maman, Papa",
       "url": "https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/0HadKSH32oHv4BJjNZ30FG"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/2LQNGs6tdjJJS7fxopcaFW"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
+        "name": "Minuit",
+        "url": "https://open.spotify.com/album/6eDELS5HayAn9hW6vQt8QI"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
         }
       ],
-      "duration_ms": 175986,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/79a2ejVzj2SpXkpWdfv1Co"
+      "duration_ms": 171960,
+      "name": "Minuit",
+      "url": "https://open.spotify.com/track/2blIgt4vJfPXuWp4axbSd1"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -191,22 +191,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Six heures d'avion nous s\u00e9parent",
-        "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/15up0e6AFIYZbmErIVPU3p"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        },
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Six heures d'avion nous s\u00e9parent",
-      "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
+      "duration_ms": 175986,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/79a2ejVzj2SpXkpWdfv1Co"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -227,18 +223,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Christmas Kisses",
-        "url": "https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z"
+        "name": "Six heures d'avion nous s\u00e9parent",
+        "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
       },
       "artists": [
         {
-          "name": "Serena Ryder",
-          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
         }
       ],
-      "duration_ms": 207720,
-      "name": "Christmas Kisses",
-      "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
+      "duration_ms": 168400,
+      "name": "Six heures d'avion nous s\u00e9parent",
+      "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -275,34 +275,34 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3cfRNKKs0by89V5C1uPDm3"
+        "name": "Now That's What I Call Christmas",
+        "url": "https://open.spotify.com/album/2S4v9bMfAM13mpnXYsgUAi"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 133773,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/6MPpnJDLk37GEIM0iGGITd"
+      "duration_ms": 225840,
+      "name": "Wonderful Christmastime (Edited Version) [Remastered]",
+      "url": "https://open.spotify.com/track/1F8tXdM8cz9bH5PiK1SuAB"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "Le P\u00e8re No\u00ebl c't'un qu\u00e9b\u00e9cois",
+        "url": "https://open.spotify.com/album/4ruPhatqirrYVEi69uIwxr"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
         }
       ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+      "duration_ms": 152134,
+      "name": "Le P\u00e8re No\u00ebl c't'un qu\u00e9b\u00e9cois",
+      "url": "https://open.spotify.com/track/1SeDUdcJMK6nurS4gA7n06"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -323,18 +323,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "No\u00ebl \u00e0 deux",
-        "url": "https://open.spotify.com/album/57c1vyDaEkl1ix0egCCExX"
+        "name": "Wonder (Deluxe)",
+        "url": "https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe"
       },
       "artists": [
         {
-          "name": "Marie-Eve Janvier et Jean-Fran\u00e7ois Breau",
-          "url": "https://open.spotify.com/artist/4S0xrNvOSNS3qaFKf1jAWY"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 203169,
-      "name": "No\u00ebl c'est toi",
-      "url": "https://open.spotify.com/track/49vcn4itdW7AJUbG0aSE0T"
+      "duration_ms": 196254,
+      "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
+      "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -367,410 +371,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Cozy Little Christmas",
-        "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Cozy Little Christmas",
-      "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Now That's What I Call Christmas",
-        "url": "https://open.spotify.com/album/2S4v9bMfAM13mpnXYsgUAi"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Wonderful Christmastime (Edited Version) [Remastered]",
-      "url": "https://open.spotify.com/track/1F8tXdM8cz9bH5PiK1SuAB"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Wonder (Deluxe)",
-        "url": "https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 196254,
-      "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
-      "url": "https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "The Complete Greatest Hits (2013 Remaster)",
-        "url": "https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Please Come Home for Christmas - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5WT7czkl5fzyFAdAFjAPmg"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl ensemble",
-        "url": "https://open.spotify.com/album/0wqjebViFWZ16hBqaWMzpl"
-      },
-      "artists": [
-        {
-          "name": "Marc Dupr\u00e9",
-          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
-        },
-        {
-          "name": "Stella Dupr\u00e9",
-          "url": "https://open.spotify.com/artist/62g1wGVpvD1ipBxYHLclkb"
-        }
-      ],
-      "duration_ms": 202962,
-      "name": "No\u00ebl ensemble",
-      "url": "https://open.spotify.com/track/4O5CPWpX1AcCLqtVo5VzdC"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Please Come Home For Christmas",
-        "url": "https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr"
-      },
-      "artists": [
-        {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Please Come Home For Christmas",
-      "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Ma blonde trippe sur No\u00ebl",
-        "url": "https://open.spotify.com/album/4uNYVg2xKHqffkskLqFL3D"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Drapeau",
-          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Ma blonde trippe sur No\u00ebl",
-      "url": "https://open.spotify.com/track/4WCH7Qc0u7AwDumm66whds"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Des pas dans la neige (Bonus track version)",
-        "url": "https://open.spotify.com/album/0zosKa4OSEVZx2AydZGfRY"
-      },
-      "artists": [
-        {
-          "name": "Maryse Letarte",
-          "url": "https://open.spotify.com/artist/526r8qKsRfi46SMfj1Vu5n"
-        }
-      ],
-      "duration_ms": 231280,
-      "name": "\u00d4 tra\u00eeneau dans le ciel",
-      "url": "https://open.spotify.com/track/1kotZfGh3Whdpvs3mze4oz"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl dans la t\u00eate",
-        "url": "https://open.spotify.com/album/39x0MnNzvuYlreAkIKaseT"
-      },
-      "artists": [
-        {
-          "name": "Melissa Ouimet",
-          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
-        }
-      ],
-      "duration_ms": 202730,
-      "name": "No\u00ebl dans la t\u00eate",
-      "url": "https://open.spotify.com/track/3pZ0WKdvxfX05EWjJnZJue"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl \u00e0 trois",
-        "url": "https://open.spotify.com/album/7oXPCfoclsCPgKsu9UPrZv"
-      },
-      "artists": [
-        {
-          "name": "Manon S\u00e9guin",
-          "url": "https://open.spotify.com/artist/6wv9s0XMd0Gk8eZBxmnRhD"
-        },
-        {
-          "name": "Christian Marc Gendron",
-          "url": "https://open.spotify.com/artist/1rGD35s9369KpajSQylkQ9"
-        }
-      ],
-      "duration_ms": 212394,
-      "name": "No\u00ebl \u00e0 trois",
-      "url": "https://open.spotify.com/track/5aIYR5KTWTXQVphJBbJhl2"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Les plus grands tubes No\u00ebl",
-        "url": "https://open.spotify.com/album/3C96pK5SKEyw5NSxyHqRiw"
-      },
-      "artists": [
-        {
-          "name": "Nana Mouskouri",
-          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
-        }
-      ],
-      "duration_ms": 138866,
-      "name": "Douce nuit sainte nuit",
-      "url": "https://open.spotify.com/track/4qbRqSZjfjl0LZydge2kMK"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        },
-        {
-          "name": "Lili-Ann De Francesco",
-          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Nostalgia No\u00ebl",
-        "url": "https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn"
-      },
-      "artists": [
-        {
-          "name": "Marc Hervieux",
-          "url": "https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5"
-        }
-      ],
-      "duration_ms": 152040,
-      "name": "C'est l'hiver",
-      "url": "https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "River",
-      "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas / Bring Me Love",
-        "url": "https://open.spotify.com/album/32m4D8KcGLcqAvTVIi90P1"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
-      "url": "https://open.spotify.com/track/67XXGKQrlBLCAg3gmHkamP"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Mon premier sapin blanc - Single",
-        "url": "https://open.spotify.com/album/0dlmbvj8TTfCcrxA73ytvf"
-      },
-      "artists": [
-        {
-          "name": "Roch Voisine",
-          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Mon premier sapin blanc",
-      "url": "https://open.spotify.com/track/7MDmccuIs9nHn6CDG6ujXt"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "A Very Trainor Christmas",
-        "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "My Kind Of Present",
-      "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/4twpjUjsV4ayAq6J2FNlpY"
-      },
-      "artists": [
-        {
-          "name": "Ginette Reno",
-          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Bonhomme hiver",
-      "url": "https://open.spotify.com/track/4B3Lgis1H9r9URqHsEo5Yb"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "M\u00e9moire de l'essentiel",
-        "url": "https://open.spotify.com/album/32YZqNNCKaDTrmCYaq7yKe"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Jarry",
-          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "M\u00e9moire de l'essentiel",
-      "url": "https://open.spotify.com/track/5Sg3AaC8NsXnGnNXZLF8Jc"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl 2019",
-        "url": "https://open.spotify.com/album/6ykFQwwI2HgSZsHAzprXeP"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 149586,
-      "name": "No\u00ebl \u00e0 Paris",
-      "url": "https://open.spotify.com/track/1iX0aX4G4SCoSlG0CqKgqs"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "These are Special Times",
-        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "I Met an Angel (on Christmas Day)",
-      "url": "https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "No\u00ebl Gospel",
         "url": "https://open.spotify.com/album/23TY3rg5y73zy5EQqDPcRx"
       },
@@ -783,58 +383,6 @@
       "duration_ms": 233066,
       "name": "No\u00ebl \u00e0 J\u00e9rusalem",
       "url": "https://open.spotify.com/track/5NOIYvClm7ZvgeNSKE5dLW"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Le Rythme de No\u00ebl",
-        "url": "https://open.spotify.com/album/4sQqmvczfwEgV1fCirUCYT"
-      },
-      "artists": [
-        {
-          "name": "Marie Eve Janvier",
-          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
-        },
-        {
-          "name": "Jean-Fran\u00e7ois Breau",
-          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Je t'offre mon c\u0153ur",
-      "url": "https://open.spotify.com/track/68CPOCS5H1BJc4DTiwuOGY"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl chez moi",
-        "url": "https://open.spotify.com/album/33XuBkHCKQXVgBhvUR960L"
-      },
-      "artists": [
-        {
-          "name": "Annie Villeneuve",
-          "url": "https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Le sentier de neige",
-      "url": "https://open.spotify.com/track/2Nlz01n71uROXKWJy85gHF"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Mam pis Pap",
-        "url": "https://open.spotify.com/album/0pEfXJfb8TlMbGTaW12le9"
-      },
-      "artists": [
-        {
-          "name": "Les Hay Babies",
-          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
-        }
-      ],
-      "duration_ms": 197105,
-      "name": "Mam pis Pap",
-      "url": "https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -859,18 +407,166 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Toute seule pour No\u00ebl",
-        "url": "https://open.spotify.com/album/7nwZkKKvXPgjQHaHHUHVSF"
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
       },
       "artists": [
         {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 186162,
-      "name": "Toute seule pour No\u00ebl",
-      "url": "https://open.spotify.com/track/6HbakdV227EMrteosQ8Tyb"
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 131133,
+      "name": "C\u2019est l\u2019hiver",
+      "url": "https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3cfRNKKs0by89V5C1uPDm3"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/6MPpnJDLk37GEIM0iGGITd"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl ensemble",
+        "url": "https://open.spotify.com/album/0wqjebViFWZ16hBqaWMzpl"
+      },
+      "artists": [
+        {
+          "name": "Marc Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx"
+        },
+        {
+          "name": "Stella Dupr\u00e9",
+          "url": "https://open.spotify.com/artist/62g1wGVpvD1ipBxYHLclkb"
+        }
+      ],
+      "duration_ms": 202962,
+      "name": "No\u00ebl ensemble",
+      "url": "https://open.spotify.com/track/4O5CPWpX1AcCLqtVo5VzdC"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Ma blonde trippe sur No\u00ebl",
+        "url": "https://open.spotify.com/album/4uNYVg2xKHqffkskLqFL3D"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Drapeau",
+          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Ma blonde trippe sur No\u00ebl",
+      "url": "https://open.spotify.com/track/4WCH7Qc0u7AwDumm66whds"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Joyeux no\u00ebl et bonne ann\u00e9e",
+        "url": "https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC"
+      },
+      "artists": [
+        {
+          "name": "Villeray",
+          "url": "https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Joyeux no\u00ebl et bonne ann\u00e9e",
+      "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl Des Anges",
+        "url": "https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jalbert",
+          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "\u00c7a Berger",
+      "url": "https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "River",
+      "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Chansons de No\u00ebl pour la Fondation Jasmin Roy",
+        "url": "https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00"
+      },
+      "artists": [
+        {
+          "name": "Annie Blanchard",
+          "url": "https://open.spotify.com/artist/24qMzpzrkTCHm3dqASHnO4"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Sainte Nuit",
+      "url": "https://open.spotify.com/track/04iRY9jDir3zzfR8maVhW6"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -891,98 +587,86 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Christmas Ain't Enough",
-        "url": "https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh"
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
       "artists": [
         {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        },
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
         }
       ],
-      "duration_ms": 252222,
-      "name": "Christmas Ain't Enough",
-      "url": "https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi"
+      "duration_ms": 180573,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Power To The People - The Hits",
-        "url": "https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj"
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        },
-        {
-          "name": "The Harlem Community Choir",
-          "url": "https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy"
-        },
-        {
-          "name": "The Plastic Ono Band",
-          "url": "https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro"
-        },
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 213880,
-      "name": "Happy Xmas (War Is Over) - Remastered 2010",
-      "url": "https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Make It To Christmas",
-        "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
+        "name": "No\u00ebl \u00e0 deux",
+        "url": "https://open.spotify.com/album/57c1vyDaEkl1ix0egCCExX"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "Marie-Eve Janvier et Jean-Fran\u00e7ois Breau",
+          "url": "https://open.spotify.com/artist/4S0xrNvOSNS3qaFKf1jAWY"
         }
       ],
-      "duration_ms": 211013,
-      "name": "Make It To Christmas",
-      "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
+      "duration_ms": 203169,
+      "name": "No\u00ebl c'est toi",
+      "url": "https://open.spotify.com/track/49vcn4itdW7AJUbG0aSE0T"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "No\u00ebl dans tes bras",
-        "url": "https://open.spotify.com/album/3rfYEWBgdDXqINFpxp3ehS"
+        "name": "Cozy Little Christmas",
+        "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
       },
       "artists": [
         {
-          "name": "Charl\u0113ne",
-          "url": "https://open.spotify.com/artist/2DywdSfGqK5EtQVLllyOmB"
-        },
-        {
-          "name": "julien charbonneau",
-          "url": "https://open.spotify.com/artist/12JcVQ0h95M307VbxBtcwI"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 192422,
-      "name": "No\u00ebl dans tes bras",
-      "url": "https://open.spotify.com/track/6iTjWXdSNQNqQLTF3oBkyD"
+      "duration_ms": 182520,
+      "name": "Cozy Little Christmas",
+      "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Le ciel \u00e9tait blanc / Ribbons",
-        "url": "https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1"
+        "name": "Mon premier sapin blanc - Single",
+        "url": "https://open.spotify.com/album/0dlmbvj8TTfCcrxA73ytvf"
       },
       "artists": [
         {
-          "name": "Mirabelle",
-          "url": "https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m"
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
         }
       ],
-      "duration_ms": 266933,
-      "name": "Le ciel \u00e9tait blanc",
-      "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
+      "duration_ms": 199080,
+      "name": "Mon premier sapin blanc",
+      "url": "https://open.spotify.com/track/7MDmccuIs9nHn6CDG6ujXt"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1003,18 +687,50 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "La nuit de No\u00ebl",
-        "url": "https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO"
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/4twpjUjsV4ayAq6J2FNlpY"
       },
       "artists": [
         {
-          "name": "Sally Folk",
-          "url": "https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr"
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
         }
       ],
-      "duration_ms": 190429,
-      "name": "La nuit de No\u00ebl",
-      "url": "https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja"
+      "duration_ms": 136400,
+      "name": "Bonhomme hiver",
+      "url": "https://open.spotify.com/track/4B3Lgis1H9r9URqHsEo5Yb"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Des pas dans la neige (Bonus track version)",
+        "url": "https://open.spotify.com/album/0zosKa4OSEVZx2AydZGfRY"
+      },
+      "artists": [
+        {
+          "name": "Maryse Letarte",
+          "url": "https://open.spotify.com/artist/526r8qKsRfi46SMfj1Vu5n"
+        }
+      ],
+      "duration_ms": 231280,
+      "name": "\u00d4 tra\u00eeneau dans le ciel",
+      "url": "https://open.spotify.com/track/1kotZfGh3Whdpvs3mze4oz"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl 2019",
+        "url": "https://open.spotify.com/album/6ykFQwwI2HgSZsHAzprXeP"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 149586,
+      "name": "No\u00ebl \u00e0 Paris",
+      "url": "https://open.spotify.com/track/1iX0aX4G4SCoSlG0CqKgqs"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1031,6 +747,270 @@
       "duration_ms": 260493,
       "name": "I'll Know My Savior (Christmas All Around)",
       "url": "https://open.spotify.com/track/7f3kwHaROm8btPEh4I4f8y"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Les Plus Beaux Noels Du Monde",
+        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mouskouri",
+          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Petit gar\u00e7on",
+      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl c'est l'amour",
+        "url": "https://open.spotify.com/album/2pmCmRrTwxywfvEksgORQ6"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le Arsenault",
+          "url": "https://open.spotify.com/artist/5CuuZ2ZYcRmrb40SLP3nTe"
+        }
+      ],
+      "duration_ms": 185704,
+      "name": "No\u00ebl c'est l'amour",
+      "url": "https://open.spotify.com/track/6d0iSkeq3lfYpJyYbG9EAh"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Christmas Kisses",
+      "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/4twpjUjsV4ayAq6J2FNlpY"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 138560,
+      "name": "Vive le vent",
+      "url": "https://open.spotify.com/track/5hxOLchaxO4yNT2fGTXNSV"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Mam pis Pap",
+        "url": "https://open.spotify.com/album/0pEfXJfb8TlMbGTaW12le9"
+      },
+      "artists": [
+        {
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
+        }
+      ],
+      "duration_ms": 197105,
+      "name": "Mam pis Pap",
+      "url": "https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Chansons de No\u00ebl pour la Fondation Jasmin Roy",
+        "url": "https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00"
+      },
+      "artists": [
+        {
+          "name": "Boom Desjardins",
+          "url": "https://open.spotify.com/artist/6ZbXEwK2HJD1puxQCCL9LW"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Minuit, chr\u00e9tiens",
+      "url": "https://open.spotify.com/track/0kGfNwm2SyhhcddlMpvvUr"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Toute seule pour No\u00ebl",
+        "url": "https://open.spotify.com/album/7nwZkKKvXPgjQHaHHUHVSF"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 186162,
+      "name": "Toute seule pour No\u00ebl",
+      "url": "https://open.spotify.com/track/6HbakdV227EMrteosQ8Tyb"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl \u00e0 trois",
+        "url": "https://open.spotify.com/album/7oXPCfoclsCPgKsu9UPrZv"
+      },
+      "artists": [
+        {
+          "name": "Manon S\u00e9guin",
+          "url": "https://open.spotify.com/artist/6wv9s0XMd0Gk8eZBxmnRhD"
+        },
+        {
+          "name": "Christian Marc Gendron",
+          "url": "https://open.spotify.com/artist/1rGD35s9369KpajSQylkQ9"
+        }
+      ],
+      "duration_ms": 212394,
+      "name": "No\u00ebl \u00e0 trois",
+      "url": "https://open.spotify.com/track/5aIYR5KTWTXQVphJBbJhl2"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Christmas Ain't Enough",
+        "url": "https://open.spotify.com/album/2NLwE0NYAQgZmuNKC179fh"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "duration_ms": 252222,
+      "name": "Christmas Ain't Enough",
+      "url": "https://open.spotify.com/track/6VxjrRPMV0OUXIsKatkusi"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Le Rythme de No\u00ebl",
+        "url": "https://open.spotify.com/album/4sQqmvczfwEgV1fCirUCYT"
+      },
+      "artists": [
+        {
+          "name": "Marie Eve Janvier",
+          "url": "https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch"
+        },
+        {
+          "name": "Jean-Fran\u00e7ois Breau",
+          "url": "https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Je t'offre mon c\u0153ur",
+      "url": "https://open.spotify.com/track/68CPOCS5H1BJc4DTiwuOGY"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl chez moi",
+        "url": "https://open.spotify.com/album/33XuBkHCKQXVgBhvUR960L"
+      },
+      "artists": [
+        {
+          "name": "Annie Villeneuve",
+          "url": "https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Le sentier de neige",
+      "url": "https://open.spotify.com/track/2Nlz01n71uROXKWJy85gHF"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Le ciel \u00e9tait blanc / Ribbons",
+        "url": "https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1"
+      },
+      "artists": [
+        {
+          "name": "Mirabelle",
+          "url": "https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Le ciel \u00e9tait blanc",
+      "url": "https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/4twpjUjsV4ayAq6J2FNlpY"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Promenade en tra\u00eeneau",
+      "url": "https://open.spotify.com/track/2ki6KKT9xdW8ipd7o1jWRc"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl s'invite chez moi",
+        "url": "https://open.spotify.com/album/1UM1dsc6uEq1shAjueNg7A"
+      },
+      "artists": [
+        {
+          "name": "Marjolaine Morasse",
+          "url": "https://open.spotify.com/artist/5DjFqqAgxFV47vjrnGaiLW"
+        }
+      ],
+      "duration_ms": 195504,
+      "name": "No\u00ebl s'invite chez moi",
+      "url": "https://open.spotify.com/track/73BqI9Ip6zXD23w2scAJ7T"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Au Ville La Veille De No\u00ebl",
+        "url": "https://open.spotify.com/album/2RwGK7SjNZCtXoWsOCMQOO"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Au Ville La Veille De No\u00ebl",
+      "url": "https://open.spotify.com/track/7xpW6zmVdKYFJhSWYz4eof"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1055,18 +1035,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+        "name": "Chantons No\u00ebl!",
+        "url": "https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Ren\u00e9e martel",
+          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
         }
       ],
-      "duration_ms": 309386,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
+      "duration_ms": 171560,
+      "name": "Le petit renne au nez rouge",
+      "url": "https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1087,34 +1067,34 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Les Plus Beaux Noels Du Monde",
-        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+        "name": "The Complete Greatest Hits (2013 Remaster)",
+        "url": "https://open.spotify.com/album/21SQdfthbXUibmA8Jtf30b"
       },
       "artists": [
         {
-          "name": "Nana Mouskouri",
-          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 169640,
-      "name": "Petit gar\u00e7on",
-      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
+      "duration_ms": 177440,
+      "name": "Please Come Home for Christmas - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5WT7czkl5fzyFAdAFjAPmg"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Le P\u00e8re No\u00ebl c't'un qu\u00e9b\u00e9cois",
-        "url": "https://open.spotify.com/album/4ruPhatqirrYVEi69uIwxr"
+        "name": "Please Come Home For Christmas",
+        "url": "https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr"
       },
       "artists": [
         {
-          "name": "Sara Dufour",
-          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+          "name": "Roch Voisine",
+          "url": "https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY"
         }
       ],
-      "duration_ms": 152134,
-      "name": "Le P\u00e8re No\u00ebl c't'un qu\u00e9b\u00e9cois",
-      "url": "https://open.spotify.com/track/1SeDUdcJMK6nurS4gA7n06"
+      "duration_ms": 179160,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1135,214 +1115,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Holiday Wishes",
-        "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 166146,
-      "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Minuit",
-        "url": "https://open.spotify.com/album/6eDELS5HayAn9hW6vQt8QI"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Minuit",
-      "url": "https://open.spotify.com/track/2blIgt4vJfPXuWp4axbSd1"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Chante et raconte 25 d\u00e9cembre",
-        "url": "https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT"
-      },
-      "artists": [
-        {
-          "name": "TRICOT MACHINE",
-          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Combien de No\u00ebl ?",
-      "url": "https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "\u00c7a sent No\u00ebl",
-        "url": "https://open.spotify.com/album/2bj08RpbpHeWkegauOZjT7"
-      },
-      "artists": [
-        {
-          "name": "\u00c9lia Laure",
-          "url": "https://open.spotify.com/artist/504WsVRwqge7bTawKTzsCJ"
-        }
-      ],
-      "duration_ms": 192558,
-      "name": "\u00c7a sent No\u00ebl",
-      "url": "https://open.spotify.com/track/0GDSLNLq2nHFlNKtM8lxG5"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Chansons hivernales",
-        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "L'oiseau rare",
-      "url": "https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Je ne veux que toi",
-        "url": "https://open.spotify.com/album/7fXUaEzf9dfiUtJyYMBTFP"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Street",
-          "url": "https://open.spotify.com/artist/1lnUL64UOur97nIDHKEbNI"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Je ne veux que toi",
-      "url": "https://open.spotify.com/track/4sfH4oxRuHyW872VznZOsz"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Chantons No\u00ebl!",
-        "url": "https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9e martel",
-          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "Le petit renne au nez rouge",
-      "url": "https://open.spotify.com/track/2Cb63POXAdqsUQX5SBHIZf"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Le No\u00ebl d'Armand",
-        "url": "https://open.spotify.com/album/7JvwvaEoBiPT5S89dLs3oI"
-      },
-      "artists": [
-        {
-          "name": "Los Pedros Chimicos",
-          "url": "https://open.spotify.com/artist/2Fh9kKNJimsyZYBnFFJ07l"
-        },
-        {
-          "name": "Dominic Dagenais",
-          "url": "https://open.spotify.com/artist/3doFg7i7GvoPTh6jrzA7RO"
-        },
-        {
-          "name": "Martin Valois",
-          "url": "https://open.spotify.com/artist/740KXW4NGJNkDnaLxGLXYv"
-        }
-      ],
-      "duration_ms": 204997,
-      "name": "Le Noe\u0308l d'Armand",
-      "url": "https://open.spotify.com/track/2Apn1JSzVhYDU34KgUxFd0"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Nuit de d\u00e9cembre",
-        "url": "https://open.spotify.com/album/6IXBkRg6oZOKJKT3ZlqoxR"
-      },
-      "artists": [
-        {
-          "name": "Marc-Andr\u00e9 Sauvageau",
-          "url": "https://open.spotify.com/artist/4DLF8mpfWId0kKYVc9T8VD"
-        }
-      ],
-      "duration_ms": 212625,
-      "name": "Nuit de d\u00e9cembre",
-      "url": "https://open.spotify.com/track/6ZlVsxj1dJoHUPlJIZycLI"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/4twpjUjsV4ayAq6J2FNlpY"
-      },
-      "artists": [
-        {
-          "name": "Ginette Reno",
-          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Promenade en tra\u00eeneau",
-      "url": "https://open.spotify.com/track/2ki6KKT9xdW8ipd7o1jWRc"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "A New Christmas",
-        "url": "https://open.spotify.com/album/4H4idRfwMJKkoFmOnltbqk"
-      },
-      "artists": [
-        {
-          "name": "Florence K",
-          "url": "https://open.spotify.com/artist/3jzd2uHziBQ9u48OSMf7hs"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "No\u00ebl c\u2019est toi",
-      "url": "https://open.spotify.com/track/2WduIbvqidNmIi2zqMLMFk"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "La liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/0wizE1OyonMq8qDAGLQI0S"
-      },
-      "artists": [
-        {
-          "name": "Le Trio BBQ",
-          "url": "https://open.spotify.com/artist/4eYSfHNMKYJpkCuLiDRcZq"
-        },
-        {
-          "name": "VoxA4",
-          "url": "https://open.spotify.com/artist/4t3amHinUf5SzX1XfPuLIs"
-        }
-      ],
-      "duration_ms": 239287,
-      "name": "Lettre \u00e0 Papa No\u00ebl",
-      "url": "https://open.spotify.com/track/7iShfGuLfzObfU7hcXeXZ6"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Neige",
         "url": "https://open.spotify.com/album/170FEIg7aSsevNIWhneIQy"
       },
@@ -1359,290 +1131,50 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Enfin d\u00e9cembre",
-        "url": "https://open.spotify.com/album/71bwoZ9o0ATzfWrSJRzpUx"
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
       "artists": [
         {
-          "name": "Marjolaine Morasse",
-          "url": "https://open.spotify.com/artist/5DjFqqAgxFV47vjrnGaiLW"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 132622,
-      "name": "Enfin d\u00e9cembre",
-      "url": "https://open.spotify.com/track/6pT4PZ9utLne3wMJT2DjYE"
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Wintersong",
-        "url": "https://open.spotify.com/album/2yVxCBduVtW4I4wfkoJW48"
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
       },
       "artists": [
         {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
         }
       ],
-      "duration_ms": 244013,
-      "name": "River",
-      "url": "https://open.spotify.com/track/5DAeQJd1dKgA42CyAryzDy"
+      "duration_ms": 144826,
+      "name": "P\u00e8re No\u00ebl arrive ce soir",
+      "url": "https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "La radio me chante No\u00ebl",
-        "url": "https://open.spotify.com/album/2uCD6HjiTx60g2j9pGgURi"
+        "name": "Les plus grands tubes No\u00ebl",
+        "url": "https://open.spotify.com/album/3C96pK5SKEyw5NSxyHqRiw"
       },
       "artists": [
         {
-          "name": "Jack Lavoie Band",
-          "url": "https://open.spotify.com/artist/2ocfdVJ57aYAsQbyMGBIiy"
-        },
-        {
-          "name": "Anick Gagnon",
-          "url": "https://open.spotify.com/artist/0x55oXaXp1JHhcc6eqRvxi"
-        },
-        {
-          "name": "Hervey Hovington",
-          "url": "https://open.spotify.com/artist/7kLlafg2wLz0JInE1QkJyD"
-        },
-        {
-          "name": "Manon B\u00e9dard",
-          "url": "https://open.spotify.com/artist/5JoYRYncSVvlVFogfeN2TP"
-        },
-        {
-          "name": "S.V. Ray",
-          "url": "https://open.spotify.com/artist/4ky3llEPQC8KbYZ8xTtfZo"
+          "name": "Nana Mouskouri",
+          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
         }
       ],
-      "duration_ms": 170052,
-      "name": "La radio me chante No\u00ebl",
-      "url": "https://open.spotify.com/track/22huwaaCC4duxZSUXugPpJ"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Blame It On The Mistletoe",
-        "url": "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Blame It On The Mistletoe",
-      "url": "https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Le soir du 24 d\u00e9cembre",
-        "url": "https://open.spotify.com/album/1fwn5Vm9CCQHDL0PB5B1al"
-      },
-      "artists": [
-        {
-          "name": "La chorale Y'a du monde \u00e0 messe",
-          "url": "https://open.spotify.com/artist/4pNAHtWLfu50HhF84f0WFZ"
-        },
-        {
-          "name": "Sarah Bourdon",
-          "url": "https://open.spotify.com/artist/2SE9aQqSgpEkWH1VEXy5ab"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Le soir du 24 d\u00e9cembre",
-      "url": "https://open.spotify.com/track/7mGJw4c48tqKoEwXiw02Gy"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Joyeux No\u00ebl",
-        "url": "https://open.spotify.com/album/4twpjUjsV4ayAq6J2FNlpY"
-      },
-      "artists": [
-        {
-          "name": "Ginette Reno",
-          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
-        }
-      ],
-      "duration_ms": 138560,
-      "name": "Vive le vent",
-      "url": "https://open.spotify.com/track/5hxOLchaxO4yNT2fGTXNSV"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Au Ville La Veille De No\u00ebl",
-        "url": "https://open.spotify.com/album/2RwGK7SjNZCtXoWsOCMQOO"
-      },
-      "artists": [
-        {
-          "name": "Jenn Grant",
-          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Au Ville La Veille De No\u00ebl",
-      "url": "https://open.spotify.com/track/7xpW6zmVdKYFJhSWYz4eof"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
-        "url": "https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "Jolis sapins",
-      "url": "https://open.spotify.com/track/6qH7KJZXbfjmTlz0d18R7n"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl comme je le vois",
-        "url": "https://open.spotify.com/album/6xahhquJaK3otMyxSivIyH"
-      },
-      "artists": [
-        {
-          "name": "Charles Robert",
-          "url": "https://open.spotify.com/artist/1R7v1ckHaqIzDpi1exOK9h"
-        }
-      ],
-      "duration_ms": 210378,
-      "name": "No\u00ebl comme je le vois",
-      "url": "https://open.spotify.com/track/0cawP4aHLUMpLcOAv9g8Vg"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "No\u00ebl s'invite chez moi",
-        "url": "https://open.spotify.com/album/1UM1dsc6uEq1shAjueNg7A"
-      },
-      "artists": [
-        {
-          "name": "Marjolaine Morasse",
-          "url": "https://open.spotify.com/artist/5DjFqqAgxFV47vjrnGaiLW"
-        }
-      ],
-      "duration_ms": 195504,
-      "name": "No\u00ebl s'invite chez moi",
-      "url": "https://open.spotify.com/track/73BqI9Ip6zXD23w2scAJ7T"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Reprises Vol.1",
-        "url": "https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 186376,
-      "name": "Le sentier de neige",
-      "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Encore (Bonus Album)",
-        "url": "https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj"
-      },
-      "artists": [
-        {
-          "name": "Brigitte",
-          "url": "https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk"
-        }
-      ],
-      "duration_ms": 146426,
-      "name": "No\u00ebl blanc",
-      "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "C'est No\u00ebl (Naughty Christmas)",
-        "url": "https://open.spotify.com/album/3ctbqf8MAm3M9hWKhZYKXY"
-      },
-      "artists": [
-        {
-          "name": "Laurence Nerbonne",
-          "url": "https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ"
-        }
-      ],
-      "duration_ms": 151386,
-      "name": "C'est No\u00ebl (Naughty Christmas)",
-      "url": "https://open.spotify.com/track/1HQk86kw92fQOcli1sxZCJ"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "C'est fort, c'est No\u00ebl",
-        "url": "https://open.spotify.com/album/7lKV2JVkGvhQGys1QQhrga"
-      },
-      "artists": [
-        {
-          "name": "Amay Laoni",
-          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "C'est fort, c'est No\u00ebl",
-      "url": "https://open.spotify.com/track/3TOYD8TolVZYsifa0IjnnG"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Christmas Alone",
-        "url": "https://open.spotify.com/album/1EzpPcosEWSMJvKQu6UVXc"
-      },
-      "artists": [
-        {
-          "name": "Skye Wells",
-          "url": "https://open.spotify.com/artist/5Uh1ldj8Xk3WcWPKbwo5zJ"
-        }
-      ],
-      "duration_ms": 229987,
-      "name": "Christmas Alone",
-      "url": "https://open.spotify.com/track/5bTnCvXkxrVuYa0yclJk5k"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Christmas Calling (V.F.) (en duo avec Marie-Mai) - Single",
-        "url": "https://open.spotify.com/album/7EXP9w7Z1mRDWk44MzIgoI"
-      },
-      "artists": [
-        {
-          "name": "Jonas",
-          "url": "https://open.spotify.com/artist/1ZDG9pBZ3QHj4DFsBHdwKF"
-        },
-        {
-          "name": "Marie-Mai",
-          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
-        }
-      ],
-      "duration_ms": 264277,
-      "name": "Christmas Calling (V.F.) (en duo avec Marie-Mai)",
-      "url": "https://open.spotify.com/track/2pajilVcYtLqZ2AaCUNgjl"
+      "duration_ms": 138866,
+      "name": "Douce nuit sainte nuit",
+      "url": "https://open.spotify.com/track/4qbRqSZjfjl0LZydge2kMK"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -1667,6 +1199,338 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Chante et raconte 25 d\u00e9cembre",
+        "url": "https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT"
+      },
+      "artists": [
+        {
+          "name": "TRICOT MACHINE",
+          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Combien de No\u00ebl ?",
+      "url": "https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Les anges dans nos campagnes",
+        "url": "https://open.spotify.com/album/71g4NNTsqAFEoOhGkLH5Xo"
+      },
+      "artists": [
+        {
+          "name": "Audrey Demontigny",
+          "url": "https://open.spotify.com/artist/4crdDiMwwxegILK70aFGu8"
+        }
+      ],
+      "duration_ms": 190806,
+      "name": "Les anges dans nos campagnes",
+      "url": "https://open.spotify.com/track/537t4mfFAgTfhtu7t6NaEL"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Un grand no\u00ebl d'amour",
+        "url": "https://open.spotify.com/album/4Qa4kIMWoF5GTZLoAQV5sE"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "No\u00ebl blanc",
+      "url": "https://open.spotify.com/track/7K5akEyakiYVbijvPOxkQZ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl dans la t\u00eate",
+        "url": "https://open.spotify.com/album/39x0MnNzvuYlreAkIKaseT"
+      },
+      "artists": [
+        {
+          "name": "Melissa Ouimet",
+          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
+        }
+      ],
+      "duration_ms": 202730,
+      "name": "No\u00ebl dans la t\u00eate",
+      "url": "https://open.spotify.com/track/3pZ0WKdvxfX05EWjJnZJue"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Make It To Christmas",
+        "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Make It To Christmas",
+      "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "La nuit de No\u00ebl",
+        "url": "https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO"
+      },
+      "artists": [
+        {
+          "name": "Sally Folk",
+          "url": "https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr"
+        }
+      ],
+      "duration_ms": 190429,
+      "name": "La nuit de No\u00ebl",
+      "url": "https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "A Very Trainor Christmas",
+        "url": "https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "My Kind Of Present",
+      "url": "https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 158573,
+      "name": "Joie dans le monde",
+      "url": "https://open.spotify.com/track/1biyfmYffp1k90JwirelVl"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Chansons tristes pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "No\u00ebl sous les tropiques",
+      "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Que les f\u00eates commencent !",
+        "url": "https://open.spotify.com/album/5FPBRIRMvJjNOZPDxsCaEU"
+      },
+      "artists": [
+        {
+          "name": "Guylaine Tanguay",
+          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "La valse de No\u00ebl",
+      "url": "https://open.spotify.com/track/6jztEg8eIJRvLDDwfWvWOc"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "La liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/0wizE1OyonMq8qDAGLQI0S"
+      },
+      "artists": [
+        {
+          "name": "Le Trio BBQ",
+          "url": "https://open.spotify.com/artist/4eYSfHNMKYJpkCuLiDRcZq"
+        },
+        {
+          "name": "VoxA4",
+          "url": "https://open.spotify.com/artist/4t3amHinUf5SzX1XfPuLIs"
+        }
+      ],
+      "duration_ms": 239287,
+      "name": "Lettre \u00e0 Papa No\u00ebl",
+      "url": "https://open.spotify.com/track/7iShfGuLfzObfU7hcXeXZ6"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "\u00c0 soir c'est No\u00ebl",
+        "url": "https://open.spotify.com/album/14PccyfM5layefTF0yAB1z"
+      },
+      "artists": [
+        {
+          "name": "Marc Picard",
+          "url": "https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou"
+        }
+      ],
+      "duration_ms": 143408,
+      "name": "\u00c0 soir c'est No\u00ebl",
+      "url": "https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Joyeux No\u00ebl",
+        "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
+      },
+      "artists": [
+        {
+          "name": "Ginette Reno",
+          "url": "https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "J'ai vu maman",
+      "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "No\u00ebl sans faim",
+        "url": "https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b"
+      },
+      "artists": [
+        {
+          "name": "Patrick Norman",
+          "url": "https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Bonjour, No\u00ebl!",
+      "url": "https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Reprises Vol.1",
+        "url": "https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 186376,
+      "name": "Le sentier de neige",
+      "url": "https://open.spotify.com/track/0wj09A1u592qYVeOYJYaji"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Le premier no\u00ebl",
+        "url": "https://open.spotify.com/album/2lg0db9P2tP3R8eiBkDXf4"
+      },
+      "artists": [
+        {
+          "name": "Claire Pelletier",
+          "url": "https://open.spotify.com/artist/1q7Bztq701W8KGpmxAgYhT"
+        }
+      ],
+      "duration_ms": 144600,
+      "name": "Falalalala",
+      "url": "https://open.spotify.com/track/78B6bSEWXuQtxUF32eSSVM"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Holiday Wishes",
+        "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 166146,
+      "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "La parade",
+        "url": "https://open.spotify.com/album/5ftndmQQiLF9QXMXW0CT6x"
+      },
+      "artists": [
+        {
+          "name": "Maryse Letarte",
+          "url": "https://open.spotify.com/artist/526r8qKsRfi46SMfj1Vu5n"
+        }
+      ],
+      "duration_ms": 210898,
+      "name": "Boom boom (version fran\u00e7aise)",
+      "url": "https://open.spotify.com/track/06uWk75nWt4bF0Wzyq4ySn"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Nuit de d\u00e9cembre",
+        "url": "https://open.spotify.com/album/6IXBkRg6oZOKJKT3ZlqoxR"
+      },
+      "artists": [
+        {
+          "name": "Marc-Andr\u00e9 Sauvageau",
+          "url": "https://open.spotify.com/artist/4DLF8mpfWId0kKYVc9T8VD"
+        }
+      ],
+      "duration_ms": 212625,
+      "name": "Nuit de d\u00e9cembre",
+      "url": "https://open.spotify.com/track/6ZlVsxj1dJoHUPlJIZycLI"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Blame It On The Mistletoe",
+        "url": "https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Blame It On The Mistletoe",
+      "url": "https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "No\u00ebl Nau",
         "url": "https://open.spotify.com/album/0ZwaplhfTJ14iN93TLo29D"
       },
@@ -1683,40 +1547,60 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Ma liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+        "name": "Wintersong",
+        "url": "https://open.spotify.com/album/2yVxCBduVtW4I4wfkoJW48"
       },
       "artists": [
         {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 131133,
-      "name": "C\u2019est l\u2019hiver",
-      "url": "https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G"
+      "duration_ms": 244013,
+      "name": "River",
+      "url": "https://open.spotify.com/track/5DAeQJd1dKgA42CyAryzDy"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "C'est No\u00ebl, je m'en fous",
-        "url": "https://open.spotify.com/album/3ylnYUKj77fN8RSlTnfEis"
+        "name": "No\u00ebl dans tes bras",
+        "url": "https://open.spotify.com/album/3rfYEWBgdDXqINFpxp3ehS"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Charl\u0113ne",
+          "url": "https://open.spotify.com/artist/2DywdSfGqK5EtQVLllyOmB"
+        },
+        {
+          "name": "julien charbonneau",
+          "url": "https://open.spotify.com/artist/12JcVQ0h95M307VbxBtcwI"
         }
       ],
-      "duration_ms": 196979,
-      "name": "C'est No\u00ebl, je m'en fous",
-      "url": "https://open.spotify.com/track/7kqTx49wL7kTBRHG5Z85dR"
+      "duration_ms": 192422,
+      "name": "No\u00ebl dans tes bras",
+      "url": "https://open.spotify.com/track/6iTjWXdSNQNqQLTF3oBkyD"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Un air d'hiver",
-        "url": "https://open.spotify.com/album/0RUe6nqKd06UO2DZmCjOCy"
+        "name": "No\u00ebl en famille avec Fernand Gignac",
+        "url": "https://open.spotify.com/album/4UgtynxBA05Q9pJQkvdp3o"
+      },
+      "artists": [
+        {
+          "name": "Fernand Gignac",
+          "url": "https://open.spotify.com/artist/2kkSOj0G4YEXA4vHEvMve2"
+        }
+      ],
+      "duration_ms": 140466,
+      "name": "C'est No\u00ebl",
+      "url": "https://open.spotify.com/track/5oTgKFs81J7g2UUiFZg0bw"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Nostalgia No\u00ebl",
+        "url": "https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn"
       },
       "artists": [
         {
@@ -1724,25 +1608,89 @@
           "url": "https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Doux No\u00ebl",
-      "url": "https://open.spotify.com/track/77YWf8hm0teYjhoL5S8bLV"
+      "duration_ms": 152040,
+      "name": "C'est l'hiver",
+      "url": "https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX"
     },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+        "name": "Tous Ensemble Pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0MkCu0fwfcUNGYb2vdzHR9"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
         }
       ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+      "duration_ms": 164400,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/25X1hTpfK2faJKuTeFi6Cj"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Lumi\u00e8res d'hiver",
+        "url": "https://open.spotify.com/album/4GVVHF9DXhDaXh8b74Uyjo"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 263762,
+      "name": "Chanson pour une nuit d'hiver",
+      "url": "https://open.spotify.com/track/4v5igJYEez7gAKiyHuVFBo"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "You Make It Feel Like Christmas",
+        "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "I Met an Angel (on Christmas Day)",
+      "url": "https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Chansons de No\u00ebl pour la Fondation Jasmin Roy",
+        "url": "https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00"
+      },
+      "artists": [
+        {
+          "name": "Julie B\u00e9langer",
+          "url": "https://open.spotify.com/artist/08KVXjIu7LyS2rK7lXFzYD"
+        }
+      ],
+      "duration_ms": 247120,
+      "name": "Le joyeux No\u00ebl",
+      "url": "https://open.spotify.com/track/17ZmGZ49xOGKwsgkSKq5R8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTEyr4JYwSa7"

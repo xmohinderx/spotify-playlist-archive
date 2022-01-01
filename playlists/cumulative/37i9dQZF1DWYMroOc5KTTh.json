@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "1985",
+        "url": "https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170501,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh"
+    },
+    {
+      "album": {
         "name": "A bite of papaya",
         "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
       },
@@ -16,10 +42,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 257033,
       "name": "A bite of papaya",
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
+    },
+    {
+      "album": {
+        "name": "A Place Called",
+        "url": "https://open.spotify.com/album/5mQbuRmUUu16JpQ15zqAMG"
+      },
+      "artists": [
+        {
+          "name": "Bakai",
+          "url": "https://open.spotify.com/artist/5O7M8SLNNzWp0TJWufgUxA"
+        },
+        {
+          "name": "Manu Grace",
+          "url": "https://open.spotify.com/artist/5nP15sKJZKuxXPS4Xsp3cu"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246640,
+      "name": "A Place Called",
+      "url": "https://open.spotify.com/track/4EobWHoWFV1c6wbyBZ8qeo"
     },
     {
       "album": {
@@ -59,6 +107,24 @@
     },
     {
       "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/0jKRFNGHFQujXgmZ7G3n8c"
+      },
+      "artists": [
+        {
+          "name": "Picard Brothers",
+          "url": "https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229893,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
+    },
+    {
+      "album": {
         "name": "Better Than Before",
         "url": "https://open.spotify.com/album/56N5nzjCtuMgNtsDc0494u"
       },
@@ -74,7 +140,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231352,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/79g4Bb5vUU63OfjXG2j9Af"
@@ -136,7 +202,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220800,
       "name": "Body Positivity",
       "url": "https://open.spotify.com/track/6KSjdSoFDgKHbGvB3Lzi2R"
@@ -190,7 +256,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
@@ -208,7 +274,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 291463,
       "name": "Calico",
       "url": "https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ"
@@ -244,7 +310,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 250862,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
@@ -266,7 +332,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 190276,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6bgefQ0PWrnROEbLQqxitu"
@@ -288,7 +354,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 245601,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g"
@@ -528,7 +594,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 279059,
       "name": "GO (Detroit Swindle Remix)",
       "url": "https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm"
@@ -564,7 +630,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 230551,
       "name": "Greatest Love - Edit",
       "url": "https://open.spotify.com/track/6wmtEikDlY2JbV0nlrscxy"
@@ -589,6 +655,50 @@
     },
     {
       "album": {
+        "name": "Inner Drum",
+        "url": "https://open.spotify.com/album/6BHLogHzPzrGMlcbgFmVdF"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        },
+        {
+          "name": "AMO",
+          "url": "https://open.spotify.com/artist/71o9EPYoPOJnP4T4WX3nox"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236196,
+      "name": "Inner Drum",
+      "url": "https://open.spotify.com/track/6F3jrCP8aRbAQ1OUWvKurZ"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/2fF2IYnssbpRwuL5lgMaPT"
+      },
+      "artists": [
+        {
+          "name": "Colour Castle",
+          "url": "https://open.spotify.com/artist/5PyXw8u0sJbvxMriq8qKBS"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247767,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/776Kqi9RqGbXHWCHzU2ZSi"
+    },
+    {
+      "album": {
         "name": "Joyfulness",
         "url": "https://open.spotify.com/album/6n8v9B5GDwqDvtFoiybePk"
       },
@@ -604,7 +714,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 164874,
       "name": "Joyfulness - Radio Edit",
       "url": "https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH"
@@ -626,7 +736,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 187194,
       "name": "Keep Me In The Dark (feat. Jim Junior)",
       "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
@@ -710,7 +820,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 438717,
       "name": "Lightenup - Alex Metric Remix",
       "url": "https://open.spotify.com/track/1rIPNuXlthhSUphhva5d5y"
@@ -764,7 +874,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 218046,
       "name": "Make It Better",
       "url": "https://open.spotify.com/track/13BOL5TQDF3mEZ9uRh25ud"
@@ -786,7 +896,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
@@ -804,7 +914,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 263878,
       "name": "Ndeko Solo",
       "url": "https://open.spotify.com/track/3fsaBPSlFoPMx3hnO0vmL9"
@@ -1044,7 +1154,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 269000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
@@ -1102,10 +1212,62 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 232062,
       "name": "So High (feat. Maths Time Joy)",
       "url": "https://open.spotify.com/track/6dJjTYKHnGWsoEciR4F2YL"
+    },
+    {
+      "album": {
+        "name": "So High (salute Remix)",
+        "url": "https://open.spotify.com/album/2DLqJozOs5pYBmyxuzz8ht"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        },
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218227,
+      "name": "So High - salute Remix",
+      "url": "https://open.spotify.com/track/1IAIENjT9cwAlo3Grr2pCY"
+    },
+    {
+      "album": {
+        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
+        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Jarvis Cocker",
+          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
+      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
     },
     {
       "album": {
@@ -1142,10 +1304,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 176666,
       "name": "SUNRISE (feat. Arlo Parks)",
       "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
+    },
+    {
+      "album": {
+        "name": "The Best Rapper Alive",
+        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487619,
+      "name": "The Best Rapper Alive",
+      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "album": {
@@ -1200,7 +1380,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 240000,
       "name": "Trouble to Share",
       "url": "https://open.spotify.com/track/65lZrz3d2nPrryy7VawRai"
@@ -1218,7 +1398,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 250485,
       "name": "U Never Know",
       "url": "https://open.spotify.com/track/6ngfBeWnkydrBRrhqvxiXu"
@@ -1247,6 +1427,46 @@
     },
     {
       "album": {
+        "name": "Soundboy",
+        "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "WestBorn",
+      "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/0TBqYD3yqFQOMCQHsB9e5P"
+      },
+      "artists": [
+        {
+          "name": "Tungz",
+          "url": "https://open.spotify.com/artist/2U8Spt8w0ylEP8NA9CkUh7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "What I Wanted",
+      "url": "https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv"
+    },
+    {
+      "album": {
         "name": "Why?",
         "url": "https://open.spotify.com/album/1WQntL25hIv8KTQBqSOCfW"
       },
@@ -1258,7 +1478,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 272231,
       "name": "Why?",
       "url": "https://open.spotify.com/track/04wkYeLXejtH879CwgX3bR"

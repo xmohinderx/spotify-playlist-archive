@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 195735,
       "name": "Boardwalks",
       "url": "https://open.spotify.com/track/3jDF66ZATb0FcHNnOqeyDK"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 150521,
       "name": "Bridge",
       "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 230508,
       "name": "Grey County Blues",
       "url": "https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 243867,
       "name": "Hate the Way You Love Me",
       "url": "https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 266340,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 270226,
       "name": "Leave Me Now",
       "url": "https://open.spotify.com/track/4kRuNETlGmxcA7uZNbppcz"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 238515,
       "name": "May",
       "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 164900,
       "name": "Song For Luke",
       "url": "https://open.spotify.com/track/2eSrKcAM6NwbEfJxwY5NfO"
@@ -1430,6 +1430,24 @@
       "duration_ms": 234799,
       "name": "Song For The Thankful",
       "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
+    },
+    {
+      "album": {
+        "name": "Without/Within",
+        "url": "https://open.spotify.com/album/5IbjvCuVMchAsoXKOvVrof"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304493,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/42mIYumsqOjiAdj2DZFkeF"
     },
     {
       "album": {
@@ -1480,7 +1498,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 135077,
       "name": "Sweet Return",
       "url": "https://open.spotify.com/track/3LApsNoXrlZHPIhGNdo8P1"
@@ -1520,6 +1538,24 @@
       "duration_ms": 154200,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
+    },
+    {
+      "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "album": {
@@ -1762,7 +1798,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216415,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
@@ -1780,7 +1816,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 182374,
       "name": "Try to Make a Fire Burn Again",
       "url": "https://open.spotify.com/track/6rKfnpSyHhdVrukCPZT3hK"
@@ -1888,7 +1924,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 152952,
       "name": "Waiting Around",
       "url": "https://open.spotify.com/track/6WQlGuh6c4jciXEyM2rVGX"
@@ -1928,6 +1964,24 @@
       "duration_ms": 217133,
       "name": "Water in the Barrel",
       "url": "https://open.spotify.com/track/7elXaVsrVrwczas2crAE0U"
+    },
+    {
+      "album": {
+        "name": "Waves (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248427,
+      "name": "Waves - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
     },
     {
       "album": {

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 164081,
       "name": "A Nuh My Style",
       "url": "https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Ay Dios Mio",
       "url": "https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 176367,
       "name": "Belong with Me",
       "url": "https://open.spotify.com/track/3RvWNXxM9TCffELMiAtV19"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 200370,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/2kksFG87MypmLRTw8laNY9"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 193365,
       "name": "Climbing",
       "url": "https://open.spotify.com/track/4NWJK8W8M4ZHjhD25wIgtR"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 167966,
       "name": "Dumpling - dEVOLVE Remix",
       "url": "https://open.spotify.com/track/7weMVtvIvwNK6mqJd8BvNX"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206406,
       "name": "Get Paid",
       "url": "https://open.spotify.com/track/3CDFVcwAfqfgPz1p4R68bh"
@@ -750,6 +750,32 @@
       "duration_ms": 145671,
       "name": "Green Dreams",
       "url": "https://open.spotify.com/track/0fDkjehk7tnIvkjDwka5Fv"
+    },
+    {
+      "album": {
+        "name": "Hard & Done",
+        "url": "https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY"
+      },
+      "artists": [
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        },
+        {
+          "name": "Nyla",
+          "url": "https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160388,
+      "name": "Hard & Done",
+      "url": "https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n"
     },
     {
       "album": {
@@ -914,7 +940,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 234242,
       "name": "Just a Little Bit",
       "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
@@ -932,7 +958,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185103,
       "name": "LIGHTS",
       "url": "https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug"
@@ -1146,7 +1172,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 226285,
       "name": "Potential Man",
       "url": "https://open.spotify.com/track/2yEEzp8hcsuykTheAUYYMh"
@@ -1164,7 +1190,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 141111,
       "name": "Pressure Dem",
       "url": "https://open.spotify.com/track/6UzhbdHb7d8DzlrXMpM7b4"
@@ -1182,10 +1208,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 233072,
       "name": "Proper Paper",
       "url": "https://open.spotify.com/track/4py6tQGaMCXcepJSWw1oBV"
+    },
+    {
+      "album": {
+        "name": "Pull Up to Mi Bumper - Single",
+        "url": "https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150279,
+      "name": "Pull Up to Mi Bumper",
+      "url": "https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J"
     },
     {
       "album": {
@@ -1218,7 +1266,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181816,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
@@ -1276,7 +1324,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 154285,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa"
@@ -1312,7 +1360,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 217533,
       "name": "Sin Sex",
       "url": "https://open.spotify.com/track/4vYQ5wrzzYIkc2tYUVH0jh"
@@ -1525,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Raw Raw Riddim",
+        "url": "https://open.spotify.com/album/6mlmlDJeD8CaIsZnFdC7wS"
+      },
+      "artists": [
+        {
+          "name": "Poshh",
+          "url": "https://open.spotify.com/artist/3QtKcHpJt9j9n8fsbjQ7RJ"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Top Gyal",
+      "url": "https://open.spotify.com/track/0aScqSccesEPFrw28mOije"
+    },
+    {
+      "album": {
         "name": "Trick'a Treat",
         "url": "https://open.spotify.com/album/6FIgMqqBzBXoVLS66Pg6k9"
       },
@@ -1610,7 +1676,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 199200,
       "name": "Understand",
       "url": "https://open.spotify.com/track/766AI05axy4T9ISDCY9qQi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaVVA0KKQMp.md) - [plain]
 
 > The '90s Bollywood vocalist’s best offerings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,445 likes - 30 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,483 likes - 30 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

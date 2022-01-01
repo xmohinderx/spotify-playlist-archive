@@ -1,13 +1,53 @@
 {
-  "description": "The hottest new pop with the all the drops. Cover: Rita Ora & Sam Feldt",
+  "description": "The hottest new pop with the all the drops. Cover: Alesso & Katy Perry",
   "name": "Fresh Dance Pop",
-  "num_followers": 71656,
+  "num_followers": 71793,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDM4NDAxMywwMDAwMDA2MjAwMDAwMTdkZWU4MWEzN2MwMDAwMDE3ZDliZGUxNjhj",
+  "snapshot_id": "MTY0MDkyNjgwMCwwMDAwMDA2MzAwMDAwMTdlMGVkYmU5MzYwMDAwMDE3ZTBkYTI2ODFj",
   "tracks": [
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Sunshine. The EP",
+        "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188825,
+      "name": "Sunshine - MOTi Remix",
+      "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
+    },
     {
       "added_at": "2021-12-24 22:13:33",
       "album": {
@@ -27,6 +67,42 @@
       "duration_ms": 168515,
       "name": "Cross My Heart",
       "url": "https://open.spotify.com/track/4RxTUxyNf3NFE4eqZqIfcf"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "CAN'T TOUCH THIS (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 123214,
+      "name": "CAN'T TOUCH THIS - R3HAB Remix",
+      "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
+    },
+    {
+      "added_at": "2021-12-24 22:13:33",
+      "album": {
+        "name": "State of Mind",
+        "url": "https://open.spotify.com/album/4yvTLnl0rRcKxDDnp0iGPq"
+      },
+      "artists": [
+        {
+          "name": "Konn",
+          "url": "https://open.spotify.com/artist/6lJjChvxVQwo0IzldUOYUe"
+        }
+      ],
+      "duration_ms": 171887,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/0aE9iWVdcwjffBjuydP2Em"
     },
     {
       "added_at": "2021-12-24 22:13:33",
@@ -49,20 +125,24 @@
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
-      "added_at": "2021-12-24 22:13:33",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "State of Mind",
-        "url": "https://open.spotify.com/album/4yvTLnl0rRcKxDDnp0iGPq"
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/26Za5pnbPVRxLEV85dCP16"
       },
       "artists": [
         {
-          "name": "Konn",
-          "url": "https://open.spotify.com/artist/6lJjChvxVQwo0IzldUOYUe"
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
         }
       ],
-      "duration_ms": 171887,
-      "name": "State of Mind",
-      "url": "https://open.spotify.com/track/0aE9iWVdcwjffBjuydP2Em"
+      "duration_ms": 163923,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/4fvcOHfqC8yEBQphZjFud6"
     },
     {
       "added_at": "2021-12-24 22:13:33",
@@ -85,6 +165,26 @@
       "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
     },
     {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Discoteca",
+        "url": "https://open.spotify.com/album/7r6a9NnWydms4uIjf9bH5C"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Discoteca",
+      "url": "https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh"
+    },
+    {
       "added_at": "2021-12-24 22:13:33",
       "album": {
         "name": "Brooklyn",
@@ -103,6 +203,26 @@
       "duration_ms": 182618,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/7r43fMg1w7Q8thasT0ZjEk"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Riley Biederer",
+          "url": "https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR"
+        }
+      ],
+      "duration_ms": 192753,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/7xIHOrZhIOwqF4byN4kq4Q"
     },
     {
       "added_at": "2021-12-24 22:13:33",
@@ -1375,46 +1495,6 @@
     {
       "added_at": "2021-12-24 22:13:33",
       "album": {
-        "name": "London Boys",
-        "url": "https://open.spotify.com/album/7FFVfXBVu0TILqQVpZsGam"
-      },
-      "artists": [
-        {
-          "name": "Ariana and the Rose",
-          "url": "https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83"
-        },
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "London Boys",
-      "url": "https://open.spotify.com/track/4BrsCwmDoOnuPUR7Xv193v"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
-        "name": "Scream Drive Faster (Teddy Geiger Remix)",
-        "url": "https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        },
-        {
-          "name": "Teddy Geiger",
-          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Scream Drive Faster - Teddy Geiger Remix",
-      "url": "https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
         "name": "Magic Still Exists",
         "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
       },
@@ -1483,26 +1563,6 @@
     {
       "added_at": "2021-12-24 22:13:33",
       "album": {
-        "name": "Kiss of Life",
-        "url": "https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
         "name": "Telepath",
         "url": "https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE"
       },
@@ -1515,46 +1575,6 @@
       "duration_ms": 194973,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
-        "name": "Swear On Love",
-        "url": "https://open.spotify.com/album/4Zoqt87F9B14ygVBF3XgQc"
-      },
-      "artists": [
-        {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
-        },
-        {
-          "name": "Haywood",
-          "url": "https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu"
-        }
-      ],
-      "duration_ms": 166653,
-      "name": "Swear On Love",
-      "url": "https://open.spotify.com/track/4U7Tg4x7h6tWsfVoKIVPRz"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
-        "name": "Skin & Bones",
-        "url": "https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Skin & Bones (feat. Winona Oak)",
-      "url": "https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ"
     },
     {
       "added_at": "2021-12-24 22:13:33",
@@ -1575,26 +1595,6 @@
       "duration_ms": 192000,
       "name": "Call On Me (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
-        "name": "PWR RNGR ft. Mick Jenkins",
-        "url": "https://open.spotify.com/album/7uOvw6gOJyngV3LoPynY4p"
-      },
-      "artists": [
-        {
-          "name": "HARLOE",
-          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 216195,
-      "name": "PWR RNGR ft. Mick Jenkins",
-      "url": "https://open.spotify.com/track/6QOlPC9Mwf6SEjq5LHD9Y4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53"

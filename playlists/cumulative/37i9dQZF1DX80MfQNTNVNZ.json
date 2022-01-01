@@ -188,7 +188,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206060,
       "name": "bayridge",
       "url": "https://open.spotify.com/track/6GijrCnVsghoXzLOt2elDw"
@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/10BbeJ1AOLszpaDhZWJBVS"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184314,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/5lmgkKIkmyVH5DofULJ0YM"
+    },
+    {
+      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 163266,
       "name": "Funny Thing About Love (with Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/4u1uoGRnt2bAvan9JYLvjN"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 233722,
       "name": "Lonely As I Ever Was",
       "url": "https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz"
@@ -899,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/6o6ovalcWUZlsuT9DsAnS1"
+      },
+      "artists": [
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187741,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/3EpXvoc1tuppLNAFS1cl0X"
+    },
+    {
+      "album": {
         "name": "No Other Feeling",
         "url": "https://open.spotify.com/album/3lKMgWojUxZSoGtkoEm3Y3"
       },
@@ -922,7 +958,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 255818,
       "name": "No Other Feeling",
       "url": "https://open.spotify.com/track/77V4RwChUT3LFMyhulCOdp"
@@ -1086,10 +1122,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205480,
       "name": "Slow Motion Town",
       "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/23QRjFegLUWvpFQ1ZJZ5pV"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        },
+        {
+          "name": "S V W",
+          "url": "https://open.spotify.com/artist/0mFKizDINRI23pACDOpSPD"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141584,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6lcVAexfyal10RpKsM6SmQ"
     },
     {
       "album": {
@@ -1191,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "album": {
         "name": "ICE CREAM CLONES",
         "url": "https://open.spotify.com/album/1GIyXOAK33QpaVCMwRQbPC"
       },
@@ -1286,7 +1362,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222626,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv"
@@ -1428,7 +1504,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"
@@ -1450,6 +1526,32 @@
       "duration_ms": 254124,
       "name": "Yo",
       "url": "https://open.spotify.com/track/4iJrGwqUJjXmxaNVM9SBn0"
+    },
+    {
+      "album": {
+        "name": "Rising With It",
+        "url": "https://open.spotify.com/album/1JDQaafV4hYNP8K5tuK6r4"
+      },
+      "artists": [
+        {
+          "name": "Otis Junior",
+          "url": "https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK"
+        },
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        },
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/2cia8oELcnvpyIpbCDBCr1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX80MfQNTNVNZ"

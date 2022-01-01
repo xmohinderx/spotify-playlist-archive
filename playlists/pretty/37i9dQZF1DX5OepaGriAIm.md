@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of jazz from timeless classics to boundary\-breaking contemporary favorites\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,412 likes - 125 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,528 likes - 125 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

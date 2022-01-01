@@ -1,7 +1,7 @@
 {
   "description": "The best newly released songs of the week. Cover: Alesso, Katy Perry",
   "name": "New Music Friday Malaysia",
-  "num_followers": 58431,
+  "num_followers": 58436,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-12-30 16:00:00",
       "album": {
+        "name": "Nundongja",
+        "url": "https://open.spotify.com/album/2PTCsSugNnA0olmMfw7ScH"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "duration_ms": 225895,
+      "name": "Nundongja",
+      "url": "https://open.spotify.com/track/3YYUMVgLZblkHVnzOEPka7"
+    },
+    {
+      "added_at": "2021-12-30 16:00:00",
+      "album": {
         "name": "The Good Days Boys Playlist 1",
         "url": "https://open.spotify.com/album/5qQ6xIXc6aVePk5GcAV92Z"
       },
@@ -811,6 +827,26 @@
       "duration_ms": 164526,
       "name": "Where My Girls At",
       "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
+    },
+    {
+      "added_at": "2021-12-30 16:00:00",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/26Za5pnbPVRxLEV85dCP16"
+      },
+      "artists": [
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        }
+      ],
+      "duration_ms": 163923,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/4fvcOHfqC8yEBQphZjFud6"
     },
     {
       "added_at": "2021-12-30 16:00:00",

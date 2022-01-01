@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new core at its finest\. Cover: Siamese
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,789 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,802 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 |
-| 2 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
-| 3 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 |
-| 4 | [Crossed](https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Crossed](https://open.spotify.com/album/1UMgA7ETQAijzHYDsTDi1X) | 3:00 |
-| 5 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 |
-| 6 | [Till We Have Faces](https://open.spotify.com/track/7DVaDiCKKX9I2UonUdDfh1) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Iridescent](https://open.spotify.com/album/3PLHTrAqFD7AjNNqzVZmzr) | 3:46 |
-| 7 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 |
+| 1 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 |
+| 2 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 |
+| 3 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 |
+| 4 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 |
+| 5 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
+| 6 | [Crossed](https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Crossed](https://open.spotify.com/album/1UMgA7ETQAijzHYDsTDi1X) | 3:00 |
+| 7 | [Till We Have Faces](https://open.spotify.com/track/7DVaDiCKKX9I2UonUdDfh1) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Iridescent](https://open.spotify.com/album/3PLHTrAqFD7AjNNqzVZmzr) | 3:46 |
 | 8 | [Closer](https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Closer](https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9) | 3:19 |
 | 9 | [Heads Up](https://open.spotify.com/track/5oHXmKMdCnUJXsXAkZkwnR) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Heads Up](https://open.spotify.com/album/5kiO6eG6N0MGbzIs0pMwUf) | 2:56 |
 | 10 | [Outrun](https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Outrun](https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 99 | [As If It Never Was](https://open.spotify.com/track/5ihb2wN6ltF6kciiBEDFGM) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [The Sun Sleeps, As If It Never Was](https://open.spotify.com/album/3BkRwfs7XLuJA0hILM9EXB) | 4:54 |
 | 100 | [Down](https://open.spotify.com/track/08BIaNWJMOQLrK5mSje5kY) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Down](https://open.spotify.com/album/0151780uryrl7Mj83Tc6G8) | 3:21 |
 
-Snapshot ID: `MTYzOTY5OTI2MCwwMDAwMDUxMDAwMDAwMTdkYzViMTIyYmUwMDAwMDE3ZGI4ODExNTBh`
+Snapshot ID: `MTY0MDk0NDUwNiwwMDAwMDUxMTAwMDAwMTdlMGZlYTE2M2IwMDAwMDE3ZGI4ODExNTBh`

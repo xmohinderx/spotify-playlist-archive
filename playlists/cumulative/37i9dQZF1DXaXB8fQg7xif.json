@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "<a href=\"spotify:genre:edm_dance\">Move</a> your feet!",
-  "name": "Dance Party",
+  "description": "Bid 2021 farewell and <a href=\"spotify:genre:edm_dance\">move</a> your feet!",
+  "name": "New Year's Eve Dance Party",
   "tracks": [
     {
       "album": {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176720,
       "name": "Acrobatic",
       "url": "https://open.spotify.com/track/2ZDssPiWL5pxRB03Ll9WWy"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 168576,
       "name": "Alors On Danse - DubDogz Remix",
       "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 113127,
       "name": "Bongo Cha Cha Cha",
       "url": "https://open.spotify.com/track/7J4zszAZxAyowZp7gNUIUI"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 136981,
       "name": "Bruk It Down (feat. TxTHEWAY)",
       "url": "https://open.spotify.com/track/04J03yanQCmSuigan5Y0cM"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 238264,
       "name": "Carry Us",
       "url": "https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn"
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 240480,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg"
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 267546,
       "name": "El Incomprendido",
       "url": "https://open.spotify.com/track/2mL37yB3f3Lfy4iiXV02Qf"
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 164428,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/3r9CbJJKdAQ1Djfu932w22"
@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-11",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -5518,7 +5518,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 191612,
       "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
       "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
@@ -6567,6 +6567,24 @@
     },
     {
       "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241970,
+      "name": "Love Tonight - Edit",
+      "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
+    },
+    {
+      "album": {
         "name": "Love Vibration",
         "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
       },
@@ -6870,7 +6888,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 285375,
       "name": "Marea (We\u2019ve Lost Dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
@@ -7196,7 +7214,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -7556,6 +7574,24 @@
       "duration_ms": 188173,
       "name": "Needed You",
       "url": "https://open.spotify.com/track/6aboP9OEODXeWkJLpEhMfC"
+    },
+    {
+      "album": {
+        "name": "Never Going Home",
+        "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169944,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     },
     {
       "album": {
@@ -8133,6 +8169,28 @@
     },
     {
       "album": {
+        "name": "Oohla Oohla",
+        "url": "https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143280,
+      "name": "Oohla Oohla",
+      "url": "https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn"
+    },
+    {
+      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/0uhFHjpSRJyzCoiElOy7dV"
       },
@@ -8148,7 +8206,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 143280,
       "name": "Oohla Oohla",
       "url": "https://open.spotify.com/track/7chO7fuXHHB3nZVjEQMXwx"
@@ -8226,7 +8284,7 @@
       ],
       "date_added": "2020-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "Oxygen - Dario Rodriguez Remix",
       "url": "https://open.spotify.com/track/7tks4SpHKvcPiMb6cql9Er"
@@ -8464,7 +8522,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204160,
       "name": "Poison",
       "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
@@ -8644,6 +8702,32 @@
     {
       "album": {
         "name": "Promises",
+        "url": "https://open.spotify.com/album/2vNOniF3jdNkIfW4B3A1P7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4VWCn553TnAjZn7Vv57BWP"
+    },
+    {
+      "album": {
+        "name": "Promises",
         "url": "https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG"
       },
       "artists": [
@@ -8662,7 +8746,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201176,
       "name": "Promises",
       "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
@@ -8856,6 +8940,28 @@
       "duration_ms": 238048,
       "name": "Rain On Me - Purple Disco Machine Remix - Edit",
       "url": "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND"
+    },
+    {
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "album": {
@@ -9484,7 +9590,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 125846,
       "name": "See Me Fall",
       "url": "https://open.spotify.com/track/17UzpGcbxDFds1D9QahiR6"
@@ -10342,7 +10448,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 173809,
       "name": "tell me what you\u2019re thinking",
       "url": "https://open.spotify.com/track/5ym3bCHNv6OoDuQ96lNu3y"
@@ -10376,6 +10482,24 @@
       "duration_ms": 203720,
       "name": "The Answer (featuring Arthur Baker & Victor Simonelli)",
       "url": "https://open.spotify.com/track/5whiPPRn248jYANBCMzQoB"
+    },
+    {
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "album": {
@@ -10536,7 +10660,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 194904,
       "name": "Think About Us - 90's Club Mix",
       "url": "https://open.spotify.com/track/6FANeHrcPH8cDFUgty6jDS"
@@ -10884,7 +11008,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 170087,
       "name": "Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/5i5zn4un7FhVeNYiGNnLDA"

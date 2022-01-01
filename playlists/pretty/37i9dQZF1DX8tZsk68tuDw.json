@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Joshwa.",
   "name": "Dance Rising",
-  "num_followers": 1962257,
+  "num_followers": 1962322,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDNjNjAwMDAwMTdkZWFjZjY1MzYwMDAwMDE3ZDkxNTRmOGRj",
+  "snapshot_id": "MTY0MDkyNjgwMCwwMDAwMDNjNzAwMDAwMTdlMGVkYmU5MjYwMDAwMDE3ZDkxNTRmOGRj",
   "tracks": [
     {
       "added_at": "2021-12-03 05:01:00",
@@ -201,20 +201,28 @@
       "url": "https://open.spotify.com/track/19lT0l1OBkLtWI5iE5zORl"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Give It to Me",
-        "url": "https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF"
+        "name": "String Theory",
+        "url": "https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
+      "duration_ms": 261230,
+      "name": "String Theory",
+      "url": "https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -351,6 +359,22 @@
       "duration_ms": 175309,
       "name": "edamame (feat. Rich Brian) - Diplo Remix",
       "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
+      },
+      "artists": [
+        {
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -839,30 +863,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Dopamine (feat. Eyelar) [John Summit Remix]",
-        "url": "https://open.spotify.com/album/6AITsfnOPby1JiJwUD7TBI"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Eyelar",
-          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Dopamine (feat. Eyelar) [John Summit Remix]",
-      "url": "https://open.spotify.com/track/0np5Q0HCkLlUU9NVUCbqHv"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Say A Little Prayer",
         "url": "https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 218363,
       "name": "18 & Over",
       "url": "https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Daddy / What Happens In Vegas",
-        "url": "https://open.spotify.com/album/4jq7sudnqaNjpJh8FMNTKZ"
-      },
-      "artists": [
-        {
-          "name": "Nitti Gritti",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/3Bp5P1UoYfprzFy7EClcoz"
     },
     {
       "added_at": "2021-12-03 05:01:00",

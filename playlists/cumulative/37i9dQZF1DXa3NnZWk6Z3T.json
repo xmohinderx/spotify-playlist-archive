@@ -276,7 +276,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 234750,
       "name": "Ausente",
       "url": "https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD"
@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de alcachofa",
+        "url": "https://open.spotify.com/album/2GAqYzi3RC1O8ayRILGAmY"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "Coraz\u00f3n de alcachofa",
+      "url": "https://open.spotify.com/track/1ZAMZml4Id7gl52Bo6Trch"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Gitano",
         "url": "https://open.spotify.com/album/6G6kXacmfhK2QoD3FL9QYx"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 160106,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 226107,
       "name": "Gameboi",
       "url": "https://open.spotify.com/track/6T1N9aCrsS2l3JjxsuQVLt"
@@ -1156,6 +1174,46 @@
       "duration_ms": 230026,
       "name": "Ganando el Tiempo (with Jorge Drexler)",
       "url": "https://open.spotify.com/track/6vcggsPzVC9qWikamING0g"
+    },
+    {
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181280,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b"
+    },
+    {
+      "album": {
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Nahuel Barbero",
+          "url": "https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231936,
+      "name": "Hablo Con Vos (feat. Nahuel Barbero)",
+      "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
     },
     {
       "album": {
@@ -1384,6 +1442,24 @@
       "duration_ms": 278244,
       "name": "Junto al Mar",
       "url": "https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV"
+    },
+    {
+      "album": {
+        "name": "La Creatividad",
+        "url": "https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s del Real",
+          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124685,
+      "name": "La Creatividad",
+      "url": "https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8"
     },
     {
       "album": {
@@ -1632,7 +1708,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 236475,
       "name": "Me Voy a Pinar del R\u00edo",
       "url": "https://open.spotify.com/track/0y3iYQTQiMmLxYUVgNM7Th"
@@ -1676,7 +1752,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 264933,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3Y6MLd4wP8h4LlFlZTTxjO"
@@ -1768,6 +1844,24 @@
       "duration_ms": 229785,
       "name": "Mozo",
       "url": "https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i"
+    },
+    {
+      "album": {
+        "name": "Mp3",
+        "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181368,
+      "name": "Mp3",
+      "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
     },
     {
       "album": {
@@ -2190,7 +2284,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 226733,
       "name": "Para Qu\u00e9 Sufrir",
       "url": "https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG"
@@ -2262,7 +2356,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 182186,
       "name": "Para Verte",
       "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
@@ -2342,7 +2436,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 202306,
       "name": "Pell\u00edzquenme",
       "url": "https://open.spotify.com/track/0VYWDJokuyS8K354XdaBuq"
@@ -2360,7 +2454,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 210745,
       "name": "Pelo Rojo",
       "url": "https://open.spotify.com/track/0qIMvQqkARENwEmau3CnRW"
@@ -2444,7 +2538,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
@@ -2677,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Siempre Cerca (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3NEYdetK2Nhf6FIbCnIlca"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189654,
+      "name": "Siempre Cerca - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2cp3Ez21EpWKsp541ws5mK"
+    },
+    {
+      "album": {
         "name": "Alas Canciones",
         "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
@@ -2804,7 +2916,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 240189,
       "name": "Te quiero much\u00edsimo",
       "url": "https://open.spotify.com/track/2cImsnqZsLYhTVDKfWWINr"
@@ -2840,7 +2952,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 192267,
       "name": "Te Quiero y Nada M\u00e1s",
       "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"

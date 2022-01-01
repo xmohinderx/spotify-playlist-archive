@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/3uhacxjARwJvQZ5iyehrX3"
+      },
+      "artists": [
+        {
+          "name": "Kitone",
+          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/2001Dk1uUT2AtwV9GuvuAe"
+    },
+    {
+      "album": {
         "name": "Another Level (ft. Lovespeake)",
         "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
       },
@@ -152,7 +170,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 150819,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4n93qqnMDU7n5LRj5O2wh7"
@@ -482,7 +500,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 191904,
       "name": "Cum Check This",
       "url": "https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 158951,
       "name": "Do It",
       "url": "https://open.spotify.com/track/4zdaqhDpl2pXrwTsqbqRG8"
@@ -662,7 +680,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/3v6cqJNWyYT1A2xsaVnO2r"
@@ -790,7 +808,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181651,
       "name": "Feelin",
       "url": "https://open.spotify.com/track/5JmnPc5ot8XJ7vGTjexjjH"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 248437,
       "name": "Fly With Us",
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 194262,
       "name": "Fool for You",
       "url": "https://open.spotify.com/track/2tt4GTCzZdV3yP2PZQjrbr"
@@ -928,7 +946,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 161951,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 157500,
       "name": "Green Light (feat. Kate Wild)",
       "url": "https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL"
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 127680,
       "name": "Gucci Fendi Prada - BYOR Remix",
       "url": "https://open.spotify.com/track/7FYV4Nq4IW08XDssxctuyR"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 170329,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4TCfzdejg8xdFYZjzTOA4A"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 197760,
       "name": "Hypnotic - Benny Benassi & BB Team Remix",
       "url": "https://open.spotify.com/track/77rr1hEnBM8KyS6WabMYQz"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/3qloJH27eI7bk6QEf1SQLC"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 147584,
       "name": "IQ Doesn't Matter",
       "url": "https://open.spotify.com/track/1hvAkRZP9V3tGipGa5TWvc"
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Loose",
       "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 147840,
       "name": "No Ass",
       "url": "https://open.spotify.com/track/7pmmkWdaBxJwYwmVwQeSYa"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 147031,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/3TKYpVvhTKoKl5vIrX96AD"
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178080,
       "name": "Purification",
       "url": "https://open.spotify.com/track/0U9m269ExQq7LmZc6MTzee"
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 157142,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/3yOrxeQguuAAa3LfnXuRId"
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185000,
       "name": "Say It (feat. LP Giobbi & Blush'ko)",
       "url": "https://open.spotify.com/track/60MsiXfuTpTTOQbnnu48Hy"
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 230046,
       "name": "shit i like",
       "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 171103,
       "name": "Switchblade",
       "url": "https://open.spotify.com/track/6TYgNHU24Cyqs3nsnJ8W8A"
@@ -2776,7 +2794,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 156500,
       "name": "Where Do You Think You Are Going",
       "url": "https://open.spotify.com/track/67LE3pbU8ZZxBJmLhEFupM"
@@ -2794,7 +2812,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178000,
       "name": "White House",
       "url": "https://open.spotify.com/track/45zkrrZ1JcJodTjeXiVECG"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184285,
       "name": "You Are My Life",
       "url": "https://open.spotify.com/track/51ecx8vfBmfo9maBzKDBfa"

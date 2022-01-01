@@ -20,7 +20,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 293295,
       "name": "2000 Blacks Got to Be Free - Edit",
       "url": "https://open.spotify.com/track/37XinhUkfYcdSwhy5nYvbq"
@@ -42,7 +42,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 267091,
       "name": "Adar\u00e1",
       "url": "https://open.spotify.com/track/3OGKGvLhd2rN04g2iaCXVs"
@@ -134,7 +134,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 150927,
       "name": "Aguanc\u00f3",
       "url": "https://open.spotify.com/track/4yQao18rUx4vdhzenobQGN"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 327398,
       "name": "Babel",
       "url": "https://open.spotify.com/track/02sVh7Sa1kaJBqUYYFog9w"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 309543,
       "name": "Bayne Lay Yihedal",
       "url": "https://open.spotify.com/track/5ib4uV4lUJyFKXF6vfxmrk"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 288569,
       "name": "Ben Bene La",
       "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 200991,
       "name": "Calentita",
       "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 425528,
       "name": "Dog eat dog",
       "url": "https://open.spotify.com/track/32gtSO10v6vgTl0CvikODe"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184886,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 187896,
       "name": "Ethiopian Sunshower",
       "url": "https://open.spotify.com/track/0K6QOkv9bXA5MeM5t1TgIx"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 209349,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/7Dz6iAmPkfyDVgc0Y2MCy2"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 374891,
       "name": "Firewalker - JKriv Remix",
       "url": "https://open.spotify.com/track/1bGTFzHyw6ILoMylKGWku1"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/6TVfkxSos194SFzV6oCeGX"
@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Haditouni (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/6sRXH84YpSaYltT7qDCxMM"
+      },
+      "artists": [
+        {
+          "name": "Douaa",
+          "url": "https://open.spotify.com/artist/4iAexb7ScY5FYSUsViF4io"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205874,
+      "name": "Haditouni (Habibi Funk 015)",
+      "url": "https://open.spotify.com/track/40Eql6g1f9BLSWeJ8mZgOU"
+    },
+    {
+      "album": {
         "name": "Volume 5",
         "url": "https://open.spotify.com/album/3vljYoTzf9am5UQL3lzBhE"
       },
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 340828,
       "name": "Hayeelin",
       "url": "https://open.spotify.com/track/7qBmYbJW3AKHGxbRXlOpWQ"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 345705,
       "name": "House of Lett",
       "url": "https://open.spotify.com/track/0t43FxUgWcEMRqKAykWn0k"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 245693,
       "name": "Hymne \u00e0 la vie",
       "url": "https://open.spotify.com/track/7JPcKTrV5SJWzs0nFX67KR"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 179567,
       "name": "I'm Gonna Make It",
       "url": "https://open.spotify.com/track/5oeL6Qnnlg4x789IMHQyl3"
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 214287,
       "name": "Judge Not - Ray Mang Radio Edit",
       "url": "https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy"
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 249650,
       "name": "Ka Fwo Bit - Patchworks Remix",
       "url": "https://open.spotify.com/track/2v06FOgGYlTnestcu4Wjkd"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 292940,
       "name": "Little Mouse",
       "url": "https://open.spotify.com/track/6PLmTnJIHb22SXrQRr29fg"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 221760,
       "name": "Long in the Tooth",
       "url": "https://open.spotify.com/track/7ETH5mL8eLwdrx0cwQiLk9"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 202186,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/3oLDvpwu9s6DxzIxNlnETC"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 204333,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6o8TnSHigKVdqxXDVtmbIx"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 228229,
       "name": "Matamba",
       "url": "https://open.spotify.com/track/4IXkPFYdg21ZYJMOsbgHfr"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 212000,
       "name": "Mi Conga Es De Akok\u00e1n",
       "url": "https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE"
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 290448,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
@@ -1868,6 +1886,24 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
+    },
+    {
+      "album": {
+        "name": "Mr Fuego",
+        "url": "https://open.spotify.com/album/0h8AQXGEFk5TU6sUn6t8hJ"
+      },
+      "artists": [
+        {
+          "name": "Charles Doll\u00e9",
+          "url": "https://open.spotify.com/artist/6wWOOejQdKDPBOqeI8CO50"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Mr Fuego",
+      "url": "https://open.spotify.com/track/28lBDoni4I6pIID81uSqov"
     },
     {
       "album": {
@@ -1991,6 +2027,28 @@
     },
     {
       "album": {
+        "name": "Cosmica Italiana",
+        "url": "https://open.spotify.com/album/2G5JH90WW0A6TyE6UxKDiu"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Morresi",
+          "url": "https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2"
+        },
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291145,
+      "name": "Nuda Sorgente",
+      "url": "https://open.spotify.com/track/23pDTmgAmsHoLfYDHDAowF"
+    },
+    {
+      "album": {
         "name": "On Top",
         "url": "https://open.spotify.com/album/6rjsdwXZd4Xvi3fZvSGjnx"
       },
@@ -2107,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Japan (\u30a8\u30b3\u30fc\u30ba\u30fb\u30aa\u30d6\u30fb\u30b8\u30e3\u30d1\u30f3)",
+        "url": "https://open.spotify.com/album/2K8BqrVspd3v1MX7pmrbIO"
+      },
+      "artists": [
+        {
+          "name": "Minyo Crusaders",
+          "url": "https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346373,
+      "name": "Otemoyan - Reggae",
+      "url": "https://open.spotify.com/track/4DIkIKQ3LgaI9bs0JX2qgN"
+    },
+    {
+      "album": {
         "name": "Our People",
         "url": "https://open.spotify.com/album/4OvOD9N2Zu503aeEB26mcy"
       },
@@ -2202,7 +2278,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
@@ -2394,7 +2470,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 317355,
       "name": "Shepherd Song - Esa & His Afro-Synth Band Version",
       "url": "https://open.spotify.com/track/0yM0uVP2UFGgA7SWVkgSnp"
@@ -2470,7 +2546,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 261839,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/3RaajzNOCvM1AHrroBgwOe"
@@ -2586,7 +2662,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 376318,
       "name": "Ta Lassa - Hide & Smile Edit",
       "url": "https://open.spotify.com/track/4wwzgwVi0V1t8SOWU5Bgx4"
@@ -2622,7 +2698,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 166760,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
@@ -2640,7 +2716,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 348148,
       "name": "The Rabbit That Hunts Tigers",
       "url": "https://open.spotify.com/track/13rx5XnSVYoN2IhPnERw24"
@@ -2698,6 +2774,24 @@
       "duration_ms": 342189,
       "name": "Time (You and I)",
       "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
+    },
+    {
+      "album": {
+        "name": "Indigo - EP",
+        "url": "https://open.spotify.com/album/2IgjsbxHF0dC4jjT5Cl5Jd"
+      },
+      "artists": [
+        {
+          "name": "Flamingo Pier",
+          "url": "https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287386,
+      "name": "Tripping Up",
+      "url": "https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o"
     },
     {
       "album": {
@@ -2866,7 +2960,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 192656,
       "name": "Wifi Beach",
       "url": "https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF"
@@ -2884,7 +2978,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 180090,
       "name": "Yellow Sari",
       "url": "https://open.spotify.com/track/2xRB7a9UJXns10FMexgKn8"
@@ -2902,7 +2996,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 527308,
       "name": "YOGA IN KARACHI",
       "url": "https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET"

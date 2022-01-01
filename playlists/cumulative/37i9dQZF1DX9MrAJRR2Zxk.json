@@ -166,7 +166,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 191600,
       "name": "Chun-Li",
       "url": "https://open.spotify.com/track/7I9svbEdAvJrXNdruNhad4"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 235477,
       "name": "Come and See Me (feat. Drake)",
       "url": "https://open.spotify.com/track/1wZqJM5FGDEl3FjHDxDyQd"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 183533,
       "name": "Dutty Wine",
       "url": "https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE"
@@ -800,10 +800,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 239786,
       "name": "Pon De River Pon De Bank",
       "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+    },
+    {
+      "album": {
+        "name": "Pon Di Cocky",
+        "url": "https://open.spotify.com/album/1RWQjkjAU6YcGbH0022sO4"
+      },
+      "artists": [
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190119,
+      "name": "Pon Di Cocky",
+      "url": "https://open.spotify.com/track/38CECqycscktTYRq4yKMXc"
     },
     {
       "album": {
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 198948,
       "name": "Time Is of Essence",
       "url": "https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 162373,
       "name": "Worthless Bwoy",
       "url": "https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j"

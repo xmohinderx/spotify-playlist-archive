@@ -1,31 +1,47 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
   "name": "Top 50 - South Korea",
-  "num_followers": 30800,
+  "num_followers": 30894,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk0MTc4MDMwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk0MjU5MTE3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+      "duration_ms": 262120,
+      "name": "Winter Sleep",
+      "url": "https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 128106,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/02SbQgZbzMoylPoGr32ugF"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Show Me The Money 10 Episode 2",
         "url": "https://open.spotify.com/album/1wp620RExm0tih8QSvfmf0"
@@ -49,7 +65,39 @@
       "url": "https://open.spotify.com/track/2eLe81VDUQ5f0xFfc9cMWz"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Next Stop",
+      "url": "https://open.spotify.com/track/2qd4cLpENPf0gBia8WFi0m"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Dreams Come True - SM STATION",
         "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
@@ -65,7 +113,7 @@
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
@@ -85,7 +133,7 @@
       "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
@@ -96,12 +144,12 @@
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 262120,
-      "name": "Winter Sleep",
-      "url": "https://open.spotify.com/track/2y4hHM6c48Qzk0bqh33XfB"
+      "duration_ms": 206373,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1t9FZ4govN4TS6RcA6QpYH"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
@@ -112,12 +160,12 @@
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 128106,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/02SbQgZbzMoylPoGr32ugF"
+      "duration_ms": 238333,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/56Tn22SAFIGYpyHrf7TV0X"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8"
@@ -137,23 +185,7 @@
       "url": "https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 209946,
-      "name": "Christmas Tree",
-      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -173,23 +205,23 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Next Stop",
-      "url": "https://open.spotify.com/track/2qd4cLpENPf0gBia8WFi0m"
+      "duration_ms": 209946,
+      "name": "Christmas Tree",
+      "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Show Me The Money 10 Episode 3",
         "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
@@ -229,39 +261,7 @@
       "url": "https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1t9FZ4govN4TS6RcA6QpYH"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/3ivhPVStd9RrtczBFwjkMQ"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/56Tn22SAFIGYpyHrf7TV0X"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -361,43 +361,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "strawberry moon",
         "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
@@ -413,7 +377,7 @@
       "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Show Me The Money 10 Semi Final",
         "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
@@ -433,7 +397,43 @@
       "url": "https://open.spotify.com/track/0AF50NdDzZ3cze2O0SyjXf"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
@@ -485,7 +485,23 @@
       "url": "https://open.spotify.com/track/36kGkexLBfRK1hqdJ6qmaE"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/7v35vbIFXpCNqRcCmciH0v"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 156876,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -513,7 +529,23 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -529,23 +561,7 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/7v35vbIFXpCNqRcCmciH0v"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 156876,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Show Me The Money 10 Final",
         "url": "https://open.spotify.com/album/34uVbKk2EOXlPMAeBo3Qio"
@@ -565,23 +581,7 @@
       "url": "https://open.spotify.com/track/4t3Vgfjl9Sb6ZR5q5kGOUL"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "OHAYO MY NIGHT",
         "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
@@ -601,55 +601,7 @@
       "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
@@ -669,7 +621,39 @@
       "url": "https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "Traffic light",
+        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Traffic light",
+      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -693,23 +677,23 @@
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -725,23 +709,39 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
-        "name": "Traffic light",
-        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 231586,
-      "name": "Traffic light",
-      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
@@ -761,23 +761,7 @@
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "RE : WIND",
-        "url": "https://open.spotify.com/album/7DiANZye6S3euQdwdI5oBh"
-      },
-      "artists": [
-        {
-          "name": "ISEGYE IDOL",
-          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
-        }
-      ],
-      "duration_ms": 271024,
-      "name": "RE : WIND",
-      "url": "https://open.spotify.com/track/0RCqAz9JQJZim0N9WAYvf7"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
@@ -793,7 +777,23 @@
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "RE : WIND",
+        "url": "https://open.spotify.com/album/7DiANZye6S3euQdwdI5oBh"
+      },
+      "artists": [
+        {
+          "name": "ISEGYE IDOL",
+          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
+        }
+      ],
+      "duration_ms": 271024,
+      "name": "RE : WIND",
+      "url": "https://open.spotify.com/track/0RCqAz9JQJZim0N9WAYvf7"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Show Me The Money 10 Semi Final",
         "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
@@ -837,23 +837,7 @@
       "url": "https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-        "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 214258,
-      "name": "Sweet Night",
-      "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
@@ -869,7 +853,7 @@
       "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
@@ -885,23 +869,7 @@
       "url": "https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
-      "album": {
-        "name": "Jirisan (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4"
-      },
-      "artists": [
-        {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 264840,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
-    },
-    {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
         "name": "Universe (Let's Play Ball)",
         "url": "https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk"
@@ -917,28 +885,52 @@
       "url": "https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS"
     },
     {
-      "added_at": "2021-12-30 11:13:50",
+      "added_at": "2021-12-31 09:45:17",
       "album": {
-        "name": "Fighting Demons",
-        "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 226149,
-      "name": "Girl Of My Dreams (with SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR"
+      "duration_ms": 180423,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
+        "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 214258,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
+    },
+    {
+      "added_at": "2021-12-31 09:45:17",
+      "album": {
+        "name": "Jirisan (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNxXF4SkHj9F"

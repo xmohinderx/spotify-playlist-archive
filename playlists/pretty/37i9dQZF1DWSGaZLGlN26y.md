@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaZLGlN26y.md) - [plain]
 
 > Songs for lovers like you've never heard before\.  Cover: Chelsea Cutler, Dan & Shay and Giveon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,715 likes - 114 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,724 likes - 114 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

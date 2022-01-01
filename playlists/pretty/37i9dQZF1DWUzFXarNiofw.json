@@ -1,15 +1,31 @@
 {
   "description": "The newest, freshest R&B tunes.  Cover: Alex Isley",
   "name": "New Jams",
-  "num_followers": 843416,
+  "num_followers": 843651,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDU0NDAwMDAwMTdkZWFjZjY1MWMwMDAwMDE3ZDM1ODQ2NWY3",
+  "snapshot_id": "MTY0MDkyNjgwMCwwMDAwMDU0NTAwMDAwMTdlMGVkYmU5MmYwMDAwMDE3ZDM1ODQ2NWY3",
   "tracks": [
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 140068,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "MERCEDES",
         "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
@@ -41,27 +57,23 @@
       "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+        "name": "Breakfast - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3dE3ZGLl0XaYuGBibxSYbh"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+      "duration_ms": 192854,
+      "name": "Breakfast - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Wish List",
         "url": "https://open.spotify.com/album/181wU5FCHQ0IOHyxmrWnRP"
@@ -81,7 +93,7 @@
       "url": "https://open.spotify.com/track/5I3y0xO2zxDYLgUJJ9RkYL"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Poison (feat. The Weeknd)",
         "url": "https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO"
@@ -101,39 +113,7 @@
       "url": "https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 140068,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Breakfast - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/3dE3ZGLl0XaYuGBibxSYbh"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 192854,
-      "name": "Breakfast - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "KEYS",
         "url": "https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX"
@@ -157,7 +137,7 @@
       "url": "https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Midnight River (feat. 6LACK)",
         "url": "https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx"
@@ -177,7 +157,7 @@
       "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Candy Drip",
         "url": "https://open.spotify.com/album/2exRXecgdBcKjTGG3PUgnV"
@@ -193,7 +173,27 @@
       "url": "https://open.spotify.com/track/3bP9pv7uHgCN4mzmelCIjO"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Stay Down (feat. Yung Bleu)",
         "url": "https://open.spotify.com/album/3cD1mioxU5VL4gTD70U11D"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3HLb8PRE1JcZTJoveY3Mez"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Amazing (feat. DJ Khaled)",
         "url": "https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "OFF",
         "url": "https://open.spotify.com/album/40V87fTgyJKlza2IUyRA3f"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/4NV1Hoah3ggnoOP7PlrWjh"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "BEFORE WE GO",
         "url": "https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/3I18yc91YWnLAMTQSS4SiE"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/7N39Fksc732Ab7A6dCqdQW"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/36Cs04fKrfupan7JZPBCYS"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Bling Up",
         "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Power To The P",
         "url": "https://open.spotify.com/album/57xnaHv0aE8h5teklV2Rmj"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4j63ho8KkjNLx9PInIcgyQ"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "AT LEAST WE HAVE THIS",
         "url": "https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/7sdWbnUGRzpWJmupEpXJiP"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/5ywsqu9AEJnEJhJ05Vf9Me"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Gangster of Love",
         "url": "https://open.spotify.com/album/59C8kAHMHnBRR0S3i0JhTU"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/1XXNLuG4TNBUiIM9QF3XLF"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Moongate",
         "url": "https://open.spotify.com/album/7putIpK39AKgjSA1WGfeSk"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/7ISSqT0VPIh8A9tIVxurUu"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "On Call",
         "url": "https://open.spotify.com/album/6pIxAsFxQuCcNId8c2v5d9"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/6xfKovdHM1wbD3oi1J83mr"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Trust Nobody",
         "url": "https://open.spotify.com/album/3Ysfk40yB4vJNCjflkD7tZ"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Nothing Feels Better",
         "url": "https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Best Of Me",
         "url": "https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/1KkxtIMy5n9AN0hhlzWbAc"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Get Back (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/5C6SZng9isd7hGZshc7RtX"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/74CjepodJooOCQkrGCwE4C"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Rich Kids",
         "url": "https://open.spotify.com/album/7xKUg94LStzFMZzbVBlWkK"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Present",
         "url": "https://open.spotify.com/album/5KsduyvZorQ3RjJTZA8In9"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Still FWM",
         "url": "https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Garden Party",
         "url": "https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Hear Me",
         "url": "https://open.spotify.com/album/1tui01lpThZuhFF4hMHi9B"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/2OGqjv2CNqU0Gf1GgvbODU"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "I Just Wanna Know",
         "url": "https://open.spotify.com/album/1KI9hd3ztHycQ0EvyjEgXg"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/0EnSlazIrg3sp5T6RXw4iM"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Sis. He wasn't the one",
         "url": "https://open.spotify.com/album/5YevC69TIurE8iNXuEH4U3"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/2UPZsKorPS5xSr4BRhOxny"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Midnight Snacks",
         "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/3PmtVhKChNrW23rI6ADGyx"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/7nogWi70pk4R7t8aNomgGu"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "I Don't Wanna",
         "url": "https://open.spotify.com/album/1hHhYr9cofmRR0mCpV6tDx"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/30xoUvcCyCXeQBdu8QmrQF"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Please Don't Walk Away",
         "url": "https://open.spotify.com/album/1r7kgxzwwL0fVQ4FfkA2Dy"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "trying not to think about it",
         "url": "https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/2vhKxNeSvtd9JhhW0cI2Jn"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/0EdTXBGnQ6uiJ0OxWTInVC"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Access Denied",
         "url": "https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/2RtodA9O20qR1GcAqzhWLy"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Dreams (feat. Trinidad James)",
         "url": "https://open.spotify.com/album/4hp79aSS0MUmh7UbfnlGyo"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/17ojW9f6g030DJIRIKCTur"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "A 64 East Saga",
         "url": "https://open.spotify.com/album/6oU2DEPxbMtL6Qtwtpgoqn"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/2Fw6WaVEGVqi5aj1AIVuDE"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/4FxyBQB6mQTPWcyxoVZSrY"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/5xctb8qcs4uSvzv1xLEynn"

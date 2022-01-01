@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWi0hHcPHnic.md) - [plain]
 
 > Your favorite KIDZ BOP hits, all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,358 likes - 229 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,517 likes - 229 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

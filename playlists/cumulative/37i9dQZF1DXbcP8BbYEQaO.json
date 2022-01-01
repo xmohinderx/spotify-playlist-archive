@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 204525,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/5Rnv9hVUuyc5Q7jiFRHRwm"
@@ -1890,6 +1890,24 @@
       "duration_ms": 293384,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/19NjpgGT46uoHEpBXReOX4"
+    },
+    {
+      "album": {
+        "name": "Ghost - EP",
+        "url": "https://open.spotify.com/album/4xRU1l0o51zNmeTPqFuVRB"
+      },
+      "artists": [
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184306,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4mUV6ibaOhrkYNxFT0bSuL"
     },
     {
       "album": {

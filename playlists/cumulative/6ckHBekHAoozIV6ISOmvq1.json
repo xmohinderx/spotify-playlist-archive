@@ -634,7 +634,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2021-07-10",
+      "date_removed": null,
       "duration_ms": 327493,
       "name": "Ahi, amours, con dure departie",
       "url": "https://open.spotify.com/track/6MdDeQdhTuwnzmeag47oAw"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 311266,
       "name": "Ahi, amours, con dure departie",
       "url": "https://open.spotify.com/track/3k4FgoOcjxuwJy7gnc0REZ"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 447040,
       "name": "Amour m\u2019a le cuer mis (Ballade)",
       "url": "https://open.spotify.com/track/6THfQ2uSdqmUTOScQIpZ5B"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 250626,
       "name": "Au repairier de la douce contre (arr. D. Vellard)",
       "url": "https://open.spotify.com/track/0Vpt40Eb5klGZyPZoExkfV"
@@ -2934,7 +2934,7 @@
       ],
       "date_added": "2019-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-20",
+      "date_removed": null,
       "duration_ms": 419373,
       "name": "Carmina qui quondam",
       "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-09",
+      "date_removed": null,
       "duration_ms": 327520,
       "name": "Condesa de Dia: Ab joi et ab joven m'apais",
       "url": "https://open.spotify.com/track/0cnuibMroeRagHBvBCtxua"
@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 342666,
       "name": "Congaudeant catholici - Music for St. James the Apostle from Codex Calixtinus, Santiago de Compostela, 12th Century",
       "url": "https://open.spotify.com/track/3gxVrSpZZHmXOD3w36Beli"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 822226,
       "name": "Dame d\u2019onour (Ballade)",
       "url": "https://open.spotify.com/track/7aItXFxzu8Uc4DztLPkFCX"
@@ -6104,7 +6104,7 @@
       ],
       "date_added": "2019-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 202453,
       "name": "Herz, m\u00fct, leib, sel",
       "url": "https://open.spotify.com/track/7j0gqUzo8qYFDahhSCUmzn"
@@ -6126,7 +6126,7 @@
       ],
       "date_added": "2020-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-18",
+      "date_removed": null,
       "duration_ms": 357920,
       "name": "Hodie clarissimam - Olim promissus - Forma speciosissimus - Olim quem vates",
       "url": "https://open.spotify.com/track/6AyksliTShvT5gIQF3tPgP"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 224613,
       "name": "H\u00e9las emy! Ma dame et ma mestresse",
       "url": "https://open.spotify.com/track/2nPleG7CKCUztBobOAlWWg"
@@ -7228,7 +7228,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215560,
       "name": "Kalenda maya",
       "url": "https://open.spotify.com/track/6v4HcAWVqQoVKQrXhvZ5MI"
@@ -7288,6 +7288,32 @@
       "duration_ms": 209040,
       "name": "Kemp's Jig - Mistress Winter's Jump - My Lady Hunsdon's Puffe (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/3EWemJKqmoFjKEizVyZir1"
+    },
+    {
+      "album": {
+        "name": "H\u00f6r, Kristenhait!",
+        "url": "https://open.spotify.com/album/4p5Gt8k0BALwsBDZmIalXo"
+      },
+      "artists": [
+        {
+          "name": "Oswald von Wolkenstein",
+          "url": "https://open.spotify.com/artist/7AO7NMUKtwjBhKiK27N18x"
+        },
+        {
+          "name": "Sabine Lutzenberger",
+          "url": "https://open.spotify.com/artist/5CQ2EQMMUrdWkoViUxbgoG"
+        },
+        {
+          "name": "Baptiste Romain",
+          "url": "https://open.spotify.com/artist/7I4wEJyWJL9BRQmIWvjqja"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497746,
+      "name": "Keuschlich geboren",
+      "url": "https://open.spotify.com/track/0y3aU4Jnm5yZoqxJID3aEj"
     },
     {
       "album": {
@@ -9444,7 +9470,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 223586,
       "name": "Ne me vueill\u00e9s belle oblier",
       "url": "https://open.spotify.com/track/0gXnPON96qcv7etJz3q34V"
@@ -11512,7 +11538,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 365093,
       "name": "Quan vei la lauzeta mover",
       "url": "https://open.spotify.com/track/1D0zvNWK5DNWfk4uiPz4sR"
@@ -11868,7 +11894,7 @@
       ],
       "date_added": "2020-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-13",
+      "date_removed": null,
       "duration_ms": 433946,
       "name": "Raimbaut de Vaqueiras: Kalenda maia",
       "url": "https://open.spotify.com/track/18xJ7YTMOsqDbfszFwkK76"
@@ -12404,7 +12430,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 223893,
       "name": "Sancti spiritus",
       "url": "https://open.spotify.com/track/6IZMJJn2k29OiqDH6gPIHF"

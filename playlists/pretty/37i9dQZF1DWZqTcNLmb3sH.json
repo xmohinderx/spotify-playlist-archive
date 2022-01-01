@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Yuvarathnaa",
   "name": "Latest Kannada",
-  "num_followers": 19258,
+  "num_followers": 19298,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDYwMjE1OCwwMDAwMDEyNjAwMDAwMTdkZmI4MjQ0OTAwMDAwMDE3ZDkwMjY4YjJm",
+  "snapshot_id": "MTY0MDk3MDM4NCwwMDAwMDEyNzAwMDAwMTdlMTE3NGYzMDUwMDAwMDE3ZDkwMjY4YjJm",
   "tracks": [
     {
       "added_at": "2021-12-10 14:34:22",
@@ -81,24 +81,28 @@
       "url": "https://open.spotify.com/track/0apfI2SxduCbp7hsM27BcR"
     },
     {
-      "added_at": "2021-12-24 14:15:24",
+      "added_at": "2021-12-31 17:06:24",
       "album": {
-        "name": "Komuram Bheemudho (From \"RRR\")",
-        "url": "https://open.spotify.com/album/2iwCk16cdBu0jxy33ifOVa"
+        "name": "Raamam Raaghavam (From \"Rrr\")",
+        "url": "https://open.spotify.com/album/7tXqykeGhYJ049SnG2EgMR"
       },
       "artists": [
         {
-          "name": "Kala Bhairava",
-          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
         },
         {
-          "name": "M. M. Keeravani",
-          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+          "name": "Chandana Bala Kalyan",
+          "url": "https://open.spotify.com/artist/229U8W2owEe3012apvgbwb"
+        },
+        {
+          "name": "Charu Hariharan",
+          "url": "https://open.spotify.com/artist/4E9HVb4iW6DkBRQv1UVmnf"
         }
       ],
-      "duration_ms": 254058,
-      "name": "Komuram Bheemudho (From \"RRR\")",
-      "url": "https://open.spotify.com/track/7tJ90Ejr0RaStewhAcCxeN"
+      "duration_ms": 231093,
+      "name": "Raamam Raaghavam (From \"Rrr\")",
+      "url": "https://open.spotify.com/track/6HmWP8iJw234brBeyjlthO"
     },
     {
       "added_at": "2021-12-16 08:04:14",
@@ -143,6 +147,26 @@
       "duration_ms": 227232,
       "name": "Amabarada Taareye - From \"Minnal Murali\"",
       "url": "https://open.spotify.com/track/1vZt1T6S0D9iibvPy0rC3n"
+    },
+    {
+      "added_at": "2021-12-24 14:15:24",
+      "album": {
+        "name": "Komuram Bheemudho (From \"RRR\")",
+        "url": "https://open.spotify.com/album/2iwCk16cdBu0jxy33ifOVa"
+      },
+      "artists": [
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "M. M. Keeravani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        }
+      ],
+      "duration_ms": 254058,
+      "name": "Komuram Bheemudho (From \"RRR\")",
+      "url": "https://open.spotify.com/track/7tJ90Ejr0RaStewhAcCxeN"
     },
     {
       "added_at": "2021-12-06 14:30:03",

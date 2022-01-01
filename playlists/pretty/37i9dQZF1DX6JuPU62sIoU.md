@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JuPU62sIoU.md) - [plain]
 
 > Get all the essential music by Nickelback.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,812 likes - 33 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,990 likes - 33 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

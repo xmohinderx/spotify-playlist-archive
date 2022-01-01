@@ -892,6 +892,10 @@
         {
           "name": "mgng",
           "url": "https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc"
+        },
+        {
+          "name": "MASNY BEN",
+          "url": "https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU"
         }
       ],
       "date_added": "2021-11-20",
@@ -1550,6 +1554,10 @@
         {
           "name": "mgng",
           "url": "https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc"
+        },
+        {
+          "name": "MASNY BEN",
+          "url": "https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU"
         }
       ],
       "date_added": "2021-10-10",
@@ -2380,7 +2388,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 256000,
       "name": "FALA",
       "url": "https://open.spotify.com/track/4XZxxP6ilbl56BooNjq7Ki"
@@ -5987,6 +5995,36 @@
     },
     {
       "album": {
+        "name": "Ostatnia nocka ale to DRILL",
+        "url": "https://open.spotify.com/album/2KbhmBTvGG57FImHauKdwm"
+      },
+      "artists": [
+        {
+          "name": "m\u0142ody klakson produkcja",
+          "url": "https://open.spotify.com/artist/5OpbwO25KnXFv2nUYlMwOu"
+        },
+        {
+          "name": "Maciej Male\u0144czuk",
+          "url": "https://open.spotify.com/artist/7Ft8vHNJaxWX5n2Efkf2Iw"
+        },
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "Yugopolis",
+          "url": "https://open.spotify.com/artist/6v7jmixV5xmTHA1l6NDpYn"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260299,
+      "name": "Ostatnia nocka ale to DRILL",
+      "url": "https://open.spotify.com/track/40ztXOcIAX26Zgh4oo6Y9k"
+    },
+    {
+      "album": {
         "name": "OXA",
         "url": "https://open.spotify.com/album/7LAk6Qmb6hyBsvHuj3hEGq"
       },
@@ -6116,7 +6154,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 165645,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/01AnaOESGIDMJiTXrvAY1M"
@@ -6320,7 +6358,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -6530,7 +6568,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173573,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/0e9qii2fpZNl6UStkD8vFi"
@@ -8092,7 +8130,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 225948,
       "name": "ten Stan",
       "url": "https://open.spotify.com/track/6lfg5PabZsH0WAMzllXWLK"

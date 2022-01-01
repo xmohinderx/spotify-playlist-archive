@@ -1,32 +1,108 @@
 {
   "description": "The best independent music in a post-genre world",
   "name": "HEADPHONES",
-  "num_followers": 30049,
+  "num_followers": 30051,
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NDgwMSxlOWZiYjE3YjkzZjgzOWY4MDcyODFkODZhNDM0YmJlY2JmN2IyNGE2",
+  "snapshot_id": "NDgyOCw2MjlmMzlkYTE0YjIwYjc3YjJmN2UzYzQxNzgzYzJmNmFlMDM1ZmM0",
   "tracks": [
     {
-      "added_at": "2021-12-24 16:48:17",
+      "added_at": "2021-12-31 16:40:43",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/57EvcMmi3j0msVQcDj1Vgp"
+        "name": "hail mary",
+        "url": "https://open.spotify.com/album/66ffihcpI4EZbBw8XlkPkR"
       },
       "artists": [
         {
-          "name": "Adam Turley",
-          "url": "https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF"
-        },
-        {
-          "name": "Obi Ben",
-          "url": "https://open.spotify.com/artist/4tggpePtFnIweqywchxhP9"
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
         }
       ],
-      "duration_ms": 155698,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/7oT74IUwjrHseRdUT2tSYa"
+      "duration_ms": 150917,
+      "name": "hail mary",
+      "url": "https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir"
+    },
+    {
+      "added_at": "2021-12-31 16:40:43",
+      "album": {
+        "name": "We\u2019ll Know Come Morning",
+        "url": "https://open.spotify.com/album/6CBrqov37of1mqY4tkLjVl"
+      },
+      "artists": [
+        {
+          "name": "Toulouse",
+          "url": "https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "We'll Know Come Morning",
+      "url": "https://open.spotify.com/track/3aNdYYgyatnA0l5vAwFvP9"
+    },
+    {
+      "added_at": "2021-12-31 16:40:43",
+      "album": {
+        "name": "NFT Bars",
+        "url": "https://open.spotify.com/album/0Ru0KxM0cBQeMsTfqVPrxP"
+      },
+      "artists": [
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "NFT Bars",
+      "url": "https://open.spotify.com/track/40nSlr3u8EVrQAQfFDzZsC"
+    },
+    {
+      "added_at": "2021-12-31 16:40:43",
+      "album": {
+        "name": "Mission Complete",
+        "url": "https://open.spotify.com/album/2Q7QFGIUk8z9lpHbApwCMk"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Mission Complete",
+      "url": "https://open.spotify.com/track/2Be78p0qvvtxvrNiPPdn4w"
+    },
+    {
+      "added_at": "2021-12-31 16:40:43",
+      "album": {
+        "name": "Tlhale",
+        "url": "https://open.spotify.com/album/7Ie353ysPP2wCZOu5kJvRD"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Tlhale",
+      "url": "https://open.spotify.com/track/45rVGqesBqBjumX8nsfk3c"
+    },
+    {
+      "added_at": "2021-12-24 16:48:17",
+      "album": {
+        "name": "Lucid Theory",
+        "url": "https://open.spotify.com/album/4Bdv20xzcXcysNvQvdrr0C"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+        }
+      ],
+      "duration_ms": 202258,
+      "name": "Amagroove",
+      "url": "https://open.spotify.com/track/3tPBQ87IWlc9Soez97Qvir"
     },
     {
       "added_at": "2021-12-24 16:48:17",
@@ -61,40 +137,48 @@
       "url": "https://open.spotify.com/track/2OiSlKB8apjRx8pAN9MsHb"
     },
     {
-      "added_at": "2021-12-24 16:48:17",
+      "added_at": "2021-12-31 16:40:43",
       "album": {
-        "name": "The Bomb (Cut Chemist Remix)",
-        "url": "https://open.spotify.com/album/2oXztNNcavqg9j2gSacsFX"
+        "name": "Tus Latidos (Toy Selectah Remix)",
+        "url": "https://open.spotify.com/album/21FqI8r9sZTXVYhLWRvjft"
       },
       "artists": [
         {
-          "name": "Pigeon John",
-          "url": "https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj"
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
         },
         {
-          "name": "Cut Chemist",
-          "url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh"
+          "name": "Toy Selectah",
+          "url": "https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM"
+        },
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
         }
       ],
-      "duration_ms": 211696,
-      "name": "The Bomb - Cut Chemist Remix",
-      "url": "https://open.spotify.com/track/4KP3IvYbwElZod00S2c8dY"
+      "duration_ms": 229380,
+      "name": "Tus Latidos - Toy Selectah Remix",
+      "url": "https://open.spotify.com/track/4Yil1lmlKlllmiBkCFitTX"
     },
     {
-      "added_at": "2021-12-26 15:37:04",
+      "added_at": "2021-12-24 16:48:17",
       "album": {
-        "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
-        "url": "https://open.spotify.com/album/6tKzmHLOGWSPBRp8msUVBF"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/57EvcMmi3j0msVQcDj1Vgp"
       },
       "artists": [
         {
-          "name": "gangCBang",
-          "url": "https://open.spotify.com/artist/7CQi6Efv5Jjzi9KegiAGf4"
+          "name": "Adam Turley",
+          "url": "https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF"
+        },
+        {
+          "name": "Obi Ben",
+          "url": "https://open.spotify.com/artist/4tggpePtFnIweqywchxhP9"
         }
       ],
-      "duration_ms": 146869,
-      "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
-      "url": "https://open.spotify.com/track/0gG0dF1yexUsE8OO7mq8Kn"
+      "duration_ms": 155698,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7oT74IUwjrHseRdUT2tSYa"
     },
     {
       "added_at": "2021-12-26 15:37:25",
@@ -115,110 +199,22 @@
     {
       "added_at": "2021-12-24 16:48:17",
       "album": {
-        "name": "The Knowing",
-        "url": "https://open.spotify.com/album/16j2tCVRkwBZttAiG8nQuJ"
+        "name": "The Bomb (Cut Chemist Remix)",
+        "url": "https://open.spotify.com/album/2oXztNNcavqg9j2gSacsFX"
       },
       "artists": [
         {
-          "name": "Espacio Dios",
-          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "The Knowing",
-      "url": "https://open.spotify.com/track/4wdJIe44V9G4zj5uj1hUjW"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
-        "name": "Amigos con derechos",
-        "url": "https://open.spotify.com/album/2yTB6qi8BtujK1ZVsiynVN"
-      },
-      "artists": [
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+          "name": "Pigeon John",
+          "url": "https://open.spotify.com/artist/3RfeWhoxAqlNRNcywG7RJj"
         },
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Cut Chemist",
+          "url": "https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh"
         }
       ],
-      "duration_ms": 219933,
-      "name": "Amigos con derechos",
-      "url": "https://open.spotify.com/track/58ySh8QZ67IDkD2s9pj8mg"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
-        "name": "PARIS-BAVEX",
-        "url": "https://open.spotify.com/album/7gGjOwPTo6tg0nXMDEmkbT"
-      },
-      "artists": [
-        {
-          "name": "Nelson",
-          "url": "https://open.spotify.com/artist/4t85ZMxOo7Vgm3nc2zbKod"
-        }
-      ],
-      "duration_ms": 223570,
-      "name": "Naissance",
-      "url": "https://open.spotify.com/track/1TBkAzfycl8rhoe4728UZM"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
-        "name": "El Rey Naci\u00f3",
-        "url": "https://open.spotify.com/album/0axf6NG076bZl2KV0kEXP8"
-      },
-      "artists": [
-        {
-          "name": "Christian Velez",
-          "url": "https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM"
-        },
-        {
-          "name": "Ayrton Day",
-          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
-        }
-      ],
-      "duration_ms": 87315,
-      "name": "El Rey Naci\u00f3",
-      "url": "https://open.spotify.com/track/3b8sYIua0GO4yuH8LNNNtN"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
-        "name": "How You Feel",
-        "url": "https://open.spotify.com/album/4geAeFQJl7TWhr8tmIYKZS"
-      },
-      "artists": [
-        {
-          "name": "D'One",
-          "url": "https://open.spotify.com/artist/1GJ03RP8m15KzoFVsvRKSx"
-        },
-        {
-          "name": "YB Jefe",
-          "url": "https://open.spotify.com/artist/1Kqe0iUFsGg9lRXa3Ck2Dx"
-        }
-      ],
-      "duration_ms": 204155,
-      "name": "How You Feel",
-      "url": "https://open.spotify.com/track/1CFNT2NBfm0x4fTO3rY7eo"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
-        "name": "Light Stream",
-        "url": "https://open.spotify.com/album/3dsbXwunUgzqCygSaFdyYh"
-      },
-      "artists": [
-        {
-          "name": "Younger Hunger",
-          "url": "https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu"
-        }
-      ],
-      "duration_ms": 217266,
-      "name": "Light Stream",
-      "url": "https://open.spotify.com/track/12MCVDBiqeSA4iqHurkEC3"
+      "duration_ms": 211696,
+      "name": "The Bomb - Cut Chemist Remix",
+      "url": "https://open.spotify.com/track/4KP3IvYbwElZod00S2c8dY"
     },
     {
       "added_at": "2021-12-24 16:48:17",
@@ -239,18 +235,38 @@
     {
       "added_at": "2021-12-24 16:48:17",
       "album": {
-        "name": "Want U",
-        "url": "https://open.spotify.com/album/7yAV9Ts9PwX544kUEHBhlv"
+        "name": "Light Stream",
+        "url": "https://open.spotify.com/album/3dsbXwunUgzqCygSaFdyYh"
       },
       "artists": [
         {
-          "name": "Naylor",
-          "url": "https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy"
+          "name": "Younger Hunger",
+          "url": "https://open.spotify.com/artist/6Irs7fI5Xuwhx38JhtarDu"
         }
       ],
-      "duration_ms": 239843,
-      "name": "Want U",
-      "url": "https://open.spotify.com/track/5CS9dAVLZ3EVFtw84mI1Bo"
+      "duration_ms": 217266,
+      "name": "Light Stream",
+      "url": "https://open.spotify.com/track/12MCVDBiqeSA4iqHurkEC3"
+    },
+    {
+      "added_at": "2021-12-24 16:48:17",
+      "album": {
+        "name": "How You Feel",
+        "url": "https://open.spotify.com/album/4geAeFQJl7TWhr8tmIYKZS"
+      },
+      "artists": [
+        {
+          "name": "D'One",
+          "url": "https://open.spotify.com/artist/1GJ03RP8m15KzoFVsvRKSx"
+        },
+        {
+          "name": "YB Jefe",
+          "url": "https://open.spotify.com/artist/1Kqe0iUFsGg9lRXa3Ck2Dx"
+        }
+      ],
+      "duration_ms": 204155,
+      "name": "How You Feel",
+      "url": "https://open.spotify.com/track/1CFNT2NBfm0x4fTO3rY7eo"
     },
     {
       "added_at": "2021-12-24 16:48:17",
@@ -335,6 +351,26 @@
       "duration_ms": 147368,
       "name": "CHARGER (ft. Charli XCX)",
       "url": "https://open.spotify.com/track/0WDjZuWS4Z0ATgR8eL5cr1"
+    },
+    {
+      "added_at": "2021-12-24 16:48:17",
+      "album": {
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/2yTB6qi8BtujK1ZVsiynVN"
+      },
+      "artists": [
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/58ySh8QZ67IDkD2s9pj8mg"
     },
     {
       "added_at": "2021-12-24 16:48:17",
@@ -457,6 +493,90 @@
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
     },
     {
+      "added_at": "2021-12-26 15:37:04",
+      "album": {
+        "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
+        "url": "https://open.spotify.com/album/6tKzmHLOGWSPBRp8msUVBF"
+      },
+      "artists": [
+        {
+          "name": "gangCBang",
+          "url": "https://open.spotify.com/artist/7CQi6Efv5Jjzi9KegiAGf4"
+        }
+      ],
+      "duration_ms": 146869,
+      "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
+      "url": "https://open.spotify.com/track/0gG0dF1yexUsE8OO7mq8Kn"
+    },
+    {
+      "added_at": "2021-12-24 16:48:17",
+      "album": {
+        "name": "The Knowing",
+        "url": "https://open.spotify.com/album/16j2tCVRkwBZttAiG8nQuJ"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "The Knowing",
+      "url": "https://open.spotify.com/track/4wdJIe44V9G4zj5uj1hUjW"
+    },
+    {
+      "added_at": "2021-12-24 16:48:17",
+      "album": {
+        "name": "PARIS-BAVEX",
+        "url": "https://open.spotify.com/album/7gGjOwPTo6tg0nXMDEmkbT"
+      },
+      "artists": [
+        {
+          "name": "Nelson",
+          "url": "https://open.spotify.com/artist/4t85ZMxOo7Vgm3nc2zbKod"
+        }
+      ],
+      "duration_ms": 223570,
+      "name": "Naissance",
+      "url": "https://open.spotify.com/track/1TBkAzfycl8rhoe4728UZM"
+    },
+    {
+      "added_at": "2021-12-24 16:48:17",
+      "album": {
+        "name": "El Rey Naci\u00f3",
+        "url": "https://open.spotify.com/album/0axf6NG076bZl2KV0kEXP8"
+      },
+      "artists": [
+        {
+          "name": "Christian Velez",
+          "url": "https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM"
+        },
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "duration_ms": 87315,
+      "name": "El Rey Naci\u00f3",
+      "url": "https://open.spotify.com/track/3b8sYIua0GO4yuH8LNNNtN"
+    },
+    {
+      "added_at": "2021-12-24 16:48:17",
+      "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/7yAV9Ts9PwX544kUEHBhlv"
+      },
+      "artists": [
+        {
+          "name": "Naylor",
+          "url": "https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy"
+        }
+      ],
+      "duration_ms": 239843,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/5CS9dAVLZ3EVFtw84mI1Bo"
+    },
+    {
       "added_at": "2021-12-24 16:48:17",
       "album": {
         "name": "Every Stroke",
@@ -495,30 +615,6 @@
     {
       "added_at": "2021-12-24 16:48:17",
       "album": {
-        "name": "31",
-        "url": "https://open.spotify.com/album/4cujlpSlDdDIzNYyE8ljCa"
-      },
-      "artists": [
-        {
-          "name": "Hemay",
-          "url": "https://open.spotify.com/artist/0GohXKnNt69Pdrfgi5Yebd"
-        },
-        {
-          "name": "Unfamouslouie",
-          "url": "https://open.spotify.com/artist/2r027MivKk5aA5yYHp1iP2"
-        },
-        {
-          "name": "Turbo Sanchez",
-          "url": "https://open.spotify.com/artist/0gSA2njSI8inDdK4NhUTSj"
-        }
-      ],
-      "duration_ms": 145357,
-      "name": "31",
-      "url": "https://open.spotify.com/track/0TBXmt4EMcBXqROeG0O0ek"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
         "name": "Road To Hastafari",
         "url": "https://open.spotify.com/album/0aYCzuvw9TZXaOp7gzsisC"
       },
@@ -531,22 +627,6 @@
       "duration_ms": 139610,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/3arfmOJAwifdb9Wa8Pt6yM"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
-        "name": "Panorama Route",
-        "url": "https://open.spotify.com/album/5Y0uhZLxogomcjVbR3a6il"
-      },
-      "artists": [
-        {
-          "name": "Espacio Dios",
-          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
-        }
-      ],
-      "duration_ms": 155172,
-      "name": "Sticks and Burns",
-      "url": "https://open.spotify.com/track/143OukwkcB1QyPcTgn6syH"
     },
     {
       "added_at": "2021-12-24 16:48:17",
@@ -695,22 +775,6 @@
       "duration_ms": 250823,
       "name": "Pavements",
       "url": "https://open.spotify.com/track/4Ci7DiDJNUqLw7zsnFmsMS"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
-        "name": "Lucid Theory",
-        "url": "https://open.spotify.com/album/4Bdv20xzcXcysNvQvdrr0C"
-      },
-      "artists": [
-        {
-          "name": "Gina Jeanz",
-          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
-        }
-      ],
-      "duration_ms": 202258,
-      "name": "Amagroove",
-      "url": "https://open.spotify.com/track/3tPBQ87IWlc9Soez97Qvir"
     },
     {
       "added_at": "2021-12-24 16:48:17",
@@ -879,22 +943,6 @@
       "duration_ms": 187819,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/5248fOomOpuVprkPh5ox0t"
-    },
-    {
-      "added_at": "2021-12-24 16:48:17",
-      "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/6FrEvhhvKpljmoAOdBV5iy"
-      },
-      "artists": [
-        {
-          "name": "ADO",
-          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
-        }
-      ],
-      "duration_ms": 288052,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/1u22nlIFhqEDtSFxplsZZb"
     },
     {
       "added_at": "2021-12-24 16:48:17",

@@ -250,7 +250,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193244,
       "name": "Call Me In The Afternoon",
       "url": "https://open.spotify.com/track/5vVHhJr6OpVuHMt1TuHT35"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 170840,
       "name": "Chateau Lobby #4 (in C for Two Virgins)",
       "url": "https://open.spotify.com/track/4KmylOc7EVRfTfy6OImJPX"
@@ -406,6 +406,24 @@
     {
       "album": {
         "name": "Heigh Ho",
+        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "date_added": "2019-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319706,
+      "name": "Don't Tell Our Friends About Me",
+      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
+    },
+    {
+      "album": {
+        "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/2pAGZOhOB3tYMQiU0SJSkb"
       },
       "artists": [
@@ -434,7 +452,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 264038,
       "name": "Dusty Trails",
       "url": "https://open.spotify.com/track/4U9aINkQtATpGe9sDUfGx0"
@@ -586,7 +604,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 246670,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6qUGqE3cmrQ2AapgzYKVp3"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "Hands on You",
       "url": "https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi"
@@ -734,7 +752,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 226373,
       "name": "Housebroken Man",
       "url": "https://open.spotify.com/track/1LqsC52W6xIfohpYXYyhYA"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 162070,
       "name": "I Get No Joy",
       "url": "https://open.spotify.com/track/4arr0qyAa5BW0X0EXZwZDu"
@@ -824,7 +842,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 261730,
       "name": "I'll Be the One",
       "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
@@ -914,7 +932,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231826,
       "name": "Just One of the Guys",
       "url": "https://open.spotify.com/track/2tmL6BDmK6SwOt2ETIgmfo"
@@ -950,7 +968,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 146106,
       "name": "Life of Sin",
       "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/77hI6DJ12C9WohWk8XUhto"
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 290728,
       "name": "Love Ain't Enough",
       "url": "https://open.spotify.com/track/2sgbm2X8Ye9YIzvEUFGoar"
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/4iaGeV4WFvP2ynbqCIyTpS"
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 153548,
       "name": "Party Boy",
       "url": "https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og"
@@ -1368,7 +1386,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 209373,
       "name": "Rye Whiskey",
       "url": "https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 280320,
       "name": "Tennessee Song",
       "url": "https://open.spotify.com/track/1FEVjTvRUuDJn2HKtSrz1U"
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2019-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 233921,
       "name": "Trinity Lane",
       "url": "https://open.spotify.com/track/3Q7dM70nAfpK7TWkdZnNE4"

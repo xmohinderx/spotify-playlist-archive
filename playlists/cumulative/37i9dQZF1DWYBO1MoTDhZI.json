@@ -1151,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/26Za5pnbPVRxLEV85dCP16"
+      },
+      "artists": [
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163923,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/4fvcOHfqC8yEBQphZjFud6"
+    },
+    {
+      "album": {
         "name": "dancing around / slow motion",
         "url": "https://open.spotify.com/album/4EOf9uZgdtGuKAcAJIesCQ"
       },
@@ -1632,7 +1654,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 289653,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3RZauEkvORMeP06npyaIYa"
@@ -2198,7 +2220,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220070,
       "name": "Hallucinogenics - Japanese Wallpaper & Winona Oak Remix",
       "url": "https://open.spotify.com/track/1AEpQvwq5ChyCIKF7kZK5F"
@@ -5100,6 +5122,24 @@
       "duration_ms": 200583,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
+    },
+    {
+      "album": {
+        "name": "All This and Heaven Too",
+        "url": "https://open.spotify.com/album/3XOMPHoTULcm8kEqHp7YlE"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "Thank You for Being a Friend",
+      "url": "https://open.spotify.com/track/5yNUgA66PbcPIJPOU2eBwR"
     },
     {
       "album": {

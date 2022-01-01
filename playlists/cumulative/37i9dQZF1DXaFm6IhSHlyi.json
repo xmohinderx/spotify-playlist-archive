@@ -204,7 +204,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 155013,
       "name": "Ana Mesh Magroha",
       "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 239330,
       "name": "Benar Cinta",
       "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
@@ -390,6 +390,24 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "album": {
+        "name": "Bhula Dunga",
+        "url": "https://open.spotify.com/album/4DcFYtjt3WdLqZtBbCk3wa"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "Bhula Dunga",
+      "url": "https://open.spotify.com/track/7pmY8QjqZP8GRV6qBRpheu"
     },
     {
       "album": {
@@ -574,10 +592,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 271023,
       "name": "Chale Aana (From \"De De Pyaar De\")",
       "url": "https://open.spotify.com/track/6vuMdb0E8buJeSHArN3dXk"
+    },
+    {
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
     },
     {
       "album": {
@@ -758,7 +794,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 232083,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6Yc24vrmfEwFqX1TfC7ccJ"
@@ -960,7 +996,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222666,
       "name": "Hilo Rojo",
       "url": "https://open.spotify.com/track/5c17sD5ibjougPh0bNnBTj"
@@ -1152,7 +1188,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 225453,
       "name": "In meiner Erinnerung",
       "url": "https://open.spotify.com/track/7hEogFloi0A60JMFfgVi3l"
@@ -1361,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346400,
+      "name": "Lily\u306e\u7948\u308a",
+      "url": "https://open.spotify.com/track/2UM4ucGnzbD1bp0G67xkj7"
+    },
+    {
+      "album": {
         "name": "Ll Abad",
         "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
       },
@@ -1496,6 +1550,24 @@
       "duration_ms": 261593,
       "name": "Madhaniyan (Live)",
       "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
+    },
+    {
+      "album": {
+        "name": "Maghihintay",
+        "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
+      },
+      "artists": [
+        {
+          "name": "Ruru Madrid",
+          "url": "https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275913,
+      "name": "Maghihintay",
+      "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
     },
     {
       "album": {
@@ -1738,7 +1810,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 226575,
       "name": "Ohebbou Yadayka",
       "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
@@ -2168,7 +2240,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 143799,
       "name": "Taal (#YOM 10)",
       "url": "https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC"
@@ -2244,7 +2316,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 178213,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/4GnfXitA7wXQiVCDKdbZwT"
@@ -2374,7 +2446,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 145301,
       "name": "Tum Jaisi Ho",
       "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
@@ -2476,7 +2548,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 209627,
       "name": "Vanha (feat. BEHM)",
       "url": "https://open.spotify.com/track/3VMLjw1WTEU5xEcNfNiUMd"
@@ -2708,7 +2780,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "\u041c\u043e\u044f \u0434\u0443\u0448\u0430",
       "url": "https://open.spotify.com/track/4QtIr8eU5jvKTmM1T44rnJ"
@@ -2834,7 +2906,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 266333,
       "name": "\u30a2\u30a4\u30ce\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/2gzApyJhCWVdTRxL9HB1EO"
@@ -2946,7 +3018,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 324626,
       "name": "\u6953",
       "url": "https://open.spotify.com/track/73xYYths9kvmFvYsd9gC9Z"

@@ -346,7 +346,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222150,
       "name": "Black Boots And Leather Rebellion",
       "url": "https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 219112,
       "name": "Break Itself",
       "url": "https://open.spotify.com/track/3lIUzs8KlXQo8fuhJswAxm"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 200603,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/3vutFeUl31fjJyPpAGmLGf"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 258760,
       "name": "Brooklyn Bridge",
       "url": "https://open.spotify.com/track/7fPocdnUzvo4hdF3aKkyAV"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 132134,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0mkkpDTCXoXWbLd9I1ThV1"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 260338,
       "name": "Edge Of The Dark",
       "url": "https://open.spotify.com/track/5LAgxVviiDTPQNc3cvInAU"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 192489,
       "name": "Far from Home",
       "url": "https://open.spotify.com/track/1VUbViOlLsvXeb6Aiv3A63"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 142150,
       "name": "Four Tequilas Down",
       "url": "https://open.spotify.com/track/7ilxwPIQLBWPIQa1gxYow6"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 156066,
       "name": "Full Full Colour",
       "url": "https://open.spotify.com/track/4TmZ7SSq5YnKe2Qu9ge5fL"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 237451,
       "name": "Get More Rest",
       "url": "https://open.spotify.com/track/0x6p5TFeH5kCZunuF6XXQ7"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220171,
       "name": "Happier Without Me",
       "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 196333,
       "name": "Hurt Like That",
       "url": "https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 198093,
       "name": "Hymn for Her (feat. Lydia Clowes)",
       "url": "https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 186601,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/04ZNuBUb2OAM4RUPi6s67q"
@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Mind of Its Own",
+        "url": "https://open.spotify.com/album/0uXrDuj03d9mhUefCxEG3D"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201133,
+      "name": "Mind of Its Own",
+      "url": "https://open.spotify.com/track/0frbJJp4kKMvrvDnv6YiUD"
+    },
+    {
+      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3"
       },
@@ -1916,7 +1934,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 236653,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/30GvcF5Wfe6alZGKm6hPp8"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Pennsylvania",
       "url": "https://open.spotify.com/track/2Oj7LiOt7bXagVCvoA0OPw"
@@ -2206,6 +2224,24 @@
       "duration_ms": 197755,
       "name": "Radiohead",
       "url": "https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX"
+    },
+    {
+      "album": {
+        "name": "rains",
+        "url": "https://open.spotify.com/album/26iiPtEXta6wX8yBQ0O7OZ"
+      },
+      "artists": [
+        {
+          "name": "Solomon Crook",
+          "url": "https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143220,
+      "name": "rains",
+      "url": "https://open.spotify.com/track/4GNk8J7ApnCVax7dKvLRnE"
     },
     {
       "album": {
@@ -2440,7 +2476,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 261472,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/0E2LmUQq8ud6OJz55gWgeI"
@@ -2650,7 +2686,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "The Usual",
       "url": "https://open.spotify.com/track/13GDcQRwrRwMxa9s774D9X"
@@ -2762,7 +2798,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 255190,
       "name": "They Are You",
       "url": "https://open.spotify.com/track/5FdtgW0zQFghZjsLlu1cPv"
@@ -3012,7 +3048,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 189360,
       "name": "We Need to Talk",
       "url": "https://open.spotify.com/track/4XHjtpHLcD4QIFjZHfkfO2"
@@ -3088,7 +3124,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 200346,
       "name": "Why It Hurts",
       "url": "https://open.spotify.com/track/79tW2TBIRnQBRdiGkC6xM0"
@@ -3200,7 +3236,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178186,
       "name": "you make me feel alright",
       "url": "https://open.spotify.com/track/62VR8f0u8XIgDQCwT1tzNC"

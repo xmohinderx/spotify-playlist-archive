@@ -70,7 +70,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 153605,
       "name": "Arrurr\u00fa",
       "url": "https://open.spotify.com/track/7tENydudpJ6js1OHUYit7w"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 162973,
       "name": "Canci\u00f3n de Cuna",
       "url": "https://open.spotify.com/track/7douQtrRKnSyVPVFqNOJJL"
@@ -296,7 +296,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 142986,
       "name": "El Le\u00f3n Duerme esta Noche (The Lion Sleeps Tonight)",
       "url": "https://open.spotify.com/track/1k1347MCMjIoFuRSV3rkiK"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 62228,
       "name": "Elena of Avalor (Main Title) - From \"Elena of Avalor\"/Spanish Version",
       "url": "https://open.spotify.com/track/2RIGpSQlV27eJmf7XfeHjM"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 364573,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb"
@@ -422,7 +422,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 264424,
       "name": "Estrellita Viajera",
       "url": "https://open.spotify.com/track/3HqhXRvZ82kJwAjuc36Vcp"
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Viva Kids, Vol. 2",
+        "url": "https://open.spotify.com/album/2pMKU5YSzVz2tQ3RvJ1cMt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132707,
+      "name": "La Canci\u00f3n de la Efe",
+      "url": "https://open.spotify.com/track/1Iop545mi48sE8mNNbxEuy"
+    },
+    {
+      "album": {
         "name": "Marc Anthony For Babies",
         "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 131666,
       "name": "Musiquita de Reir",
       "url": "https://open.spotify.com/track/79BrYmFDbHnqj16M63jgYU"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 136826,
       "name": "Nube de Algod\u00f3n",
       "url": "https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP"
@@ -820,7 +838,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 255000,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4"

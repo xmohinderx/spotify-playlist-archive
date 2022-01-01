@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 164277,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/4BeIdwrMlsBlVHgJHs9l6J"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 166729,
       "name": "Bunk Beds",
       "url": "https://open.spotify.com/track/4T8OtUOyImRoxbkLnFdHje"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 184363,
       "name": "Comfort Chain",
       "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
@@ -316,6 +316,24 @@
       "duration_ms": 206974,
       "name": "Corduroy Dreams",
       "url": "https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w"
+    },
+    {
+      "album": {
+        "name": "Night at Ezeh's",
+        "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193285,
+      "name": "CRISIS",
+      "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
     },
     {
       "album": {
@@ -565,6 +583,24 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5Nb5lpQAmZqoUNvCjiQIr9"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217149,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy"
+    },
+    {
+      "album": {
         "name": "Skiptracing",
         "url": "https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed"
       },
@@ -602,6 +638,24 @@
       "duration_ms": 182346,
       "name": "Hush - Still Woozy Remix",
       "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
+    },
+    {
+      "album": {
+        "name": "I Just Want to Be the One You Love",
+        "url": "https://open.spotify.com/album/5ZlnrUGPrJmpXynJwElBws"
+      },
+      "artists": [
+        {
+          "name": "Boxout",
+          "url": "https://open.spotify.com/artist/45Sf6MYLYtpaoIebiLw1QB"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80842,
+      "name": "I Just Want to Be the One You Love",
+      "url": "https://open.spotify.com/track/7gZDMiW9u6N3UIgBzbdUFU"
     },
     {
       "album": {
@@ -786,7 +840,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 162758,
       "name": "Like the Movies",
       "url": "https://open.spotify.com/track/6jh16zx3qgGeLA5J3iihS0"
@@ -822,7 +876,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 101000,
       "name": "Lost in You",
       "url": "https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e"
@@ -876,7 +930,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 139623,
       "name": "magnolia",
       "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
@@ -963,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177479,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
+    },
+    {
+      "album": {
         "name": "Who Really Cares",
         "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
       },
@@ -1035,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Prom Night",
+        "url": "https://open.spotify.com/album/4igkg9FFor8cs1FWNhCNXR"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "Prom Night",
+      "url": "https://open.spotify.com/track/77OOBEhQnWEum2pokUnoMU"
+    },
+    {
+      "album": {
         "name": "recently",
         "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
@@ -1064,7 +1154,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 86739,
       "name": "Romantic Lover",
       "url": "https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs"
@@ -1100,7 +1190,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
@@ -1284,7 +1374,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 170413,
       "name": "Sweet & Spice",
       "url": "https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj"
@@ -1338,7 +1428,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 131657,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/3u0kNxqOOC8SdoODpkmoZO"
@@ -1508,6 +1598,24 @@
       "duration_ms": 126312,
       "name": "worldstar money (interlude)",
       "url": "https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0"
+    },
+    {
+      "album": {
+        "name": "Y U Gotta B Like That",
+        "url": "https://open.spotify.com/album/7ErSfjONTrLqmvrJanrtcK"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154456,
+      "name": "Y U Gotta B Like That",
+      "url": "https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM"
     },
     {
       "album": {

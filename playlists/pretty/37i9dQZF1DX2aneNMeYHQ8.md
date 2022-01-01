@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > The best in alt, folk, and indie rock\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,562 likes - 111 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,592 likes - 111 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 110 | [Headsick \(feat\. Manchester Orchestra\)](https://open.spotify.com/track/56HkFpTjJJM9iSRQNQBf7K) | [USERx](https://open.spotify.com/artist/5D586pjJERMYhB6AhPEYYS), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Rozwell](https://open.spotify.com/artist/2cpbwPiqgvzIDDrxVkjQsq) | [Headsick \(feat\. Manchester Orchestra\)](https://open.spotify.com/album/49oEWOnNicuNcqMTvX5EUQ) | 4:34 |
 | 111 | [Strong](https://open.spotify.com/track/00nnzvRP1Nt3dzkUVFhuIQ) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Strong](https://open.spotify.com/album/4d91qyKEWqSefIIUYomXMe) | 3:19 |
 
-Snapshot ID: `MTYzOTcxNzIwMCwwMDAwMDRlMzAwMDAwMTdkYzZjMmUxNDcwMDAwMDE3ZGM1ZmIzMTU2`
+Snapshot ID: `MTY0MDkyNjgwMCwwMDAwMDRlNDAwMDAwMTdlMGVkYmU5MmIwMDAwMDE3ZGM1ZmIzMTU2`

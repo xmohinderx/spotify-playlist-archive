@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 256838,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/6eEqRaK4SQWJ4vJjc4295m"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 285160,
       "name": "Blood Bank",
       "url": "https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 263880,
       "name": "Caf\u00e9 Amarillo",
       "url": "https://open.spotify.com/track/13KkPgATUmUh4b1vWjkNTB"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 191712,
       "name": "Cameos",
       "url": "https://open.spotify.com/track/1Buh8ZFWaCoE6Yh3LhKZ4v"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 268509,
       "name": "First Aid",
       "url": "https://open.spotify.com/track/3y2Dktpll4t3zPlgpCnUCy"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 268764,
       "name": "First Aid",
       "url": "https://open.spotify.com/track/2imAA5ofcn4dCRVNjKyEq3"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 246200,
       "name": "Funky Galileo",
       "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 229510,
       "name": "Hacienda Motel",
       "url": "https://open.spotify.com/track/1aJJ3ciSmS8DXJL1DK0w1o"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": "2021-10-16",
+      "date_removed": null,
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 239066,
       "name": "The Breeze",
       "url": "https://open.spotify.com/track/33VReBh5WbMIOiJI1Ml4o8"
@@ -3578,9 +3578,9 @@
           "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "date_added": "2021-07-19",
+      "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-07",
+      "date_removed": null,
       "duration_ms": 206947,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"

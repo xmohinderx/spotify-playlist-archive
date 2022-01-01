@@ -72,7 +72,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 207733,
       "name": "Achha Ji Main Haari Chalo",
       "url": "https://open.spotify.com/track/5ceKyCGIpjceDJhOT9pE7r"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 250493,
       "name": "Chhod Do Aanchal Zamana Kya Kahega",
       "url": "https://open.spotify.com/track/4gSg57VPQCijuhSlyGq1hN"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 508368,
       "name": "Dekha Teri Mast Nigahon Mein (From \"Khiladi\")",
       "url": "https://open.spotify.com/track/2wABF5mVSKA2F16EHZCHfy"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 356586,
       "name": "Dillagi Ne Di Hawa - From Dostana",
       "url": "https://open.spotify.com/track/4kpyNMvKPLD1mbCxbH8n8d"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 320773,
       "name": "Hungama Ho Gaya",
       "url": "https://open.spotify.com/track/6c3laaeBowkSLUziUrSgi5"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 343453,
       "name": "In Ankhon Ki Masti",
       "url": "https://open.spotify.com/track/0gWDDSHXescfwtvkx6pYJQ"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 303346,
       "name": "Jaane Do Naa - From \"Saagar\"",
       "url": "https://open.spotify.com/track/7nuUMsmN9dYAztgze03ZOt"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 389160,
       "name": "Khatouba",
       "url": "https://open.spotify.com/track/62CTCK5zMY2XALqC1xFeZ1"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 316466,
       "name": "Khullam Khulla Pyar Karenge",
       "url": "https://open.spotify.com/track/05wx2CKrtC8ziwKa0HUuHm"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 276133,
       "name": "Kya Dekhte Ho - From \"Qurbani\"",
       "url": "https://open.spotify.com/track/2DVbXBwctoSZ8IMX6JilBe"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205191,
       "name": "Kya Ghazab Karte Ho Ji",
       "url": "https://open.spotify.com/track/2NJar6TvqiITh3XhuPzHH0"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 211617,
       "name": "Na Bole Tum Na Maine Kuchh Kaha",
       "url": "https://open.spotify.com/track/4JvuEZPB6C7ZQ8XFUmFLJ4"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 335005,
       "name": "O Saathi Re - Female Vocals",
       "url": "https://open.spotify.com/track/1dYOciuxgvYcepVR1ZmQNk"
@@ -1376,6 +1376,28 @@
       "duration_ms": 479686,
       "name": "Roj Roj Aankhon Tale",
       "url": "https://open.spotify.com/track/0Zi7sEsBzNZXPb39JzurlN"
+    },
+    {
+      "album": {
+        "name": "Satya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kVzRosBiI1oaliq3LB3SR"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Suresh Wadkar",
+          "url": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323693,
+      "name": "Sapne Mein",
+      "url": "https://open.spotify.com/track/0CFIkzVgJRzcPb1Ni1nzvi"
     },
     {
       "album": {
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 329720,
       "name": "Ye Ladka Hay Allah Kaisa Hai Diwana",
       "url": "https://open.spotify.com/track/43vzwkho3DVRDhXyp79tOJ"
@@ -1636,6 +1658,28 @@
       "duration_ms": 408306,
       "name": "Yeh Vaada Raha - Yeh Vaada Raha / Soundtrack Version",
       "url": "https://open.spotify.com/track/3imcaZrXc4NGR0crjX1cDC"
+    },
+    {
+      "album": {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353693,
+      "name": "Zara Sa Jhoom Loon Main",
+      "url": "https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcaxFdaLtowG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bJVMtDYJHx.md) - [plain]
 
 > Celebrating the legacy of the undisputed Queen of Soul, Aretha Franklin\.  Her most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,805 likes - 51 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,915 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

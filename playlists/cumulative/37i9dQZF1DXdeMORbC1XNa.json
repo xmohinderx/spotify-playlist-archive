@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "1985",
+        "url": "https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170501,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh"
+    },
+    {
+      "album": {
         "name": "Accusations",
         "url": "https://open.spotify.com/album/5TKbXvC1OuzaxYqbIj38cG"
       },
@@ -60,7 +86,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231471,
       "name": "Ameno Amapiano - Remix",
       "url": "https://open.spotify.com/track/3JIWSOzzlJfyf2Y1i54QeX"
@@ -82,7 +108,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
@@ -108,6 +134,24 @@
       "duration_ms": 189800,
       "name": "B. D\u2019OR (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/4AsBXK2LqjLyZdzcSxLDgJ"
+      },
+      "artists": [
+        {
+          "name": "ZieZie",
+          "url": "https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/4DHKU5Drre8uccA9qCu1O0"
     },
     {
       "album": {
@@ -140,7 +184,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 194627,
       "name": "Can't Let You Go",
       "url": "https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi"
@@ -166,7 +210,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 194856,
       "name": "Can't Let You Go - Remix",
       "url": "https://open.spotify.com/track/1jpWdlkRzrWWSg3tESHf34"
@@ -192,7 +236,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 236068,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
@@ -214,7 +258,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
@@ -240,7 +284,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 225384,
       "name": "Chance",
       "url": "https://open.spotify.com/track/6RdojpAhP5ch1SznHxVyjC"
@@ -266,6 +310,28 @@
       "duration_ms": 171154,
       "name": "Check Your Balance",
       "url": "https://open.spotify.com/track/62YXpYfXjSja01980k2pcx"
+    },
+    {
+      "album": {
+        "name": "Coming",
+        "url": "https://open.spotify.com/album/7uTt5VXIvILvVXidUZWJQP"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "Coming",
+      "url": "https://open.spotify.com/track/1H2IEdM9irHOk4YTQTgRxE"
     },
     {
       "album": {
@@ -379,6 +445,28 @@
     },
     {
       "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178260,
+      "name": "Don't Be Shy (feat. Obongjayar)",
+      "url": "https://open.spotify.com/track/1MCE6rlOVO4jnrXBFB8ah5"
+    },
+    {
+      "album": {
         "name": "Don't Play Me",
         "url": "https://open.spotify.com/album/2b6HGhyzxE01dI93MlNWv9"
       },
@@ -412,7 +500,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 174295,
       "name": "E Be Mad",
       "url": "https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY"
@@ -452,7 +540,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 152941,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6HidGH3rmgyk47386l4p37"
@@ -470,7 +558,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 135555,
       "name": "Fool for You",
       "url": "https://open.spotify.com/track/4NgVqQZ9T6Vby01CGoEiuw"
@@ -488,7 +576,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 175989,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM"
@@ -550,7 +638,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 234240,
       "name": "Guestlist",
       "url": "https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB"
@@ -590,7 +678,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
@@ -612,7 +700,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 188657,
       "name": "Hold",
       "url": "https://open.spotify.com/track/7vNuWM68PF5O5rBWtWXvnl"
@@ -668,7 +756,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 160707,
       "name": "I Need a Boo",
       "url": "https://open.spotify.com/track/0v9zb1Ja8jGNFoRYDexffZ"
@@ -726,10 +814,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176470,
       "name": "Jowo",
       "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+    },
+    {
+      "album": {
+        "name": "Differences",
+        "url": "https://open.spotify.com/album/2r9OrPhMwHZ8sDQBG02Q5J"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180372,
+      "name": "Justin Bieber",
+      "url": "https://open.spotify.com/track/5Mm9SomFR8RZDPTsLiiTtD"
     },
     {
       "album": {
@@ -748,7 +854,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 231026,
       "name": "Kate Winslet (feat. Unknown T)",
       "url": "https://open.spotify.com/track/1QPIsbNZiuDv9NBjvkZYNU"
@@ -814,7 +920,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 168013,
       "name": "KOLO (feat. Oxlade)",
       "url": "https://open.spotify.com/track/1UM3RVanAaakxcx9GkfNTL"
@@ -854,7 +960,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
@@ -876,7 +982,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 239893,
       "name": "Longtime (feat. Skepta)",
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
@@ -894,7 +1000,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217733,
       "name": "Lupita",
       "url": "https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT"
@@ -920,7 +1026,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 213913,
       "name": "LV N ATTN feat. Wizkid",
       "url": "https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA"
@@ -960,10 +1066,50 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173999,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/4u6JtcrqFz1kw8wTahLGbI"
+    },
+    {
+      "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148265,
+      "name": "Melly Melly",
+      "url": "https://open.spotify.com/track/5bsBjyakiib1bIBTo7QYZd"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217813,
+      "name": "Mighty Wine",
+      "url": "https://open.spotify.com/track/1gAgb7hnZ9AAJ5MCcvSKqJ"
     },
     {
       "album": {
@@ -982,7 +1128,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178144,
       "name": "Mirror (with Stefflon Don)",
       "url": "https://open.spotify.com/track/76B2JYQBtJIpL36FUvN3rJ"
@@ -1044,7 +1190,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206000,
       "name": "MOSLADO",
       "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
@@ -1106,7 +1252,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205069,
       "name": "Never Find",
       "url": "https://open.spotify.com/track/3XdmxkGq16K3L1VcKChi57"
@@ -1146,7 +1292,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 206333,
       "name": "One Time",
       "url": "https://open.spotify.com/track/7J4dbVmwZs7MoZD8A8EkFb"
@@ -1354,7 +1500,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 137250,
       "name": "Ryde",
       "url": "https://open.spotify.com/track/2uzwY7BBbeU9sGCp8Nhl9i"
@@ -1398,7 +1544,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 189029,
       "name": "See Through",
       "url": "https://open.spotify.com/track/4G3MjZTnwVDxmemf4I9vWb"
@@ -1424,7 +1570,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 156327,
       "name": "Sekkle & Bop (feat. Popcaan)",
       "url": "https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq"
@@ -1446,7 +1592,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 163736,
       "name": "Send Me Nudes (feat. Joey B)",
       "url": "https://open.spotify.com/track/0eWsDRH2aTkDmjcUEntwZ5"
@@ -1512,7 +1658,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 198058,
       "name": "Slow Down (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/3meBnCKN8qYEbOdNTEykUa"
@@ -1586,7 +1732,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 395044,
       "name": "Sponono",
       "url": "https://open.spotify.com/track/6V06P7LboO5FaYi13nQANw"
@@ -1630,7 +1776,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 196067,
       "name": "Summertime Fling",
       "url": "https://open.spotify.com/track/5saYMLOOFO5IymxIIoZ4BW"
@@ -1674,6 +1820,24 @@
       "duration_ms": 146367,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5L845uQOeyOSSAhGPFEmLc"
+    },
+    {
+      "album": {
+        "name": "The Don",
+        "url": "https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168896,
+      "name": "The Don",
+      "url": "https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD"
     },
     {
       "album": {
@@ -1728,7 +1892,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 194696,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/4Fg5l5tuO0iNoEc4orRPt3"
@@ -1816,7 +1980,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189354,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/5Gf30Ezykm4MhgzvaPL2Ei"
@@ -1834,10 +1998,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
+    },
+    {
+      "album": {
+        "name": "Studying Abroad: Extended Stay",
+        "url": "https://open.spotify.com/album/3y16fOtHHYMkU706RAua8m"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228463,
+      "name": "Yebo/Sema",
+      "url": "https://open.spotify.com/track/7tFZNqsXf7ESFsT8pYd2RV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdeMORbC1XNa"

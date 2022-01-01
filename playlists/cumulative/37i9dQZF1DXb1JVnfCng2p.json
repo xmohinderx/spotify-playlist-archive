@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 499253,
       "name": "Blind Man, Blind Man - Remastered",
       "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 265893,
       "name": "Camouflage - Rudy Van Gelder Edition/1998 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 341333,
       "name": "For Bessie",
       "url": "https://open.spotify.com/track/4wDVa94O2N0FjGOB4fMDdO"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 394093,
       "name": "Give Me That Feelin'",
       "url": "https://open.spotify.com/track/79sKgKj7XBBmgNKuZfLndd"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 392626,
       "name": "Goin' 'Way Blues",
       "url": "https://open.spotify.com/track/5GF9njagXNUFegdzVOTe8l"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 461800,
       "name": "Hank's Waltz - Remastered",
       "url": "https://open.spotify.com/track/4oPBnq9KzoljAkSiLJCmeU"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 319520,
       "name": "L.D. Blues",
       "url": "https://open.spotify.com/track/1ayeOKqBxxcIQIdbRnAbqB"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 729613,
       "name": "Midtown Blues",
       "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
@@ -1178,6 +1178,24 @@
       "duration_ms": 162533,
       "name": "Shulie A Bop",
       "url": "https://open.spotify.com/track/4nkqR6YY92pi7vCniJKhxI"
+    },
+    {
+      "album": {
+        "name": "Speak No Evil",
+        "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503786,
+      "name": "Speak No Evil - Remastered 1998 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
     },
     {
       "album": {
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 358426,
       "name": "Wigglin' - Remastered",
       "url": "https://open.spotify.com/track/4N4bT7cB4Nu0BGIzaflIHM"

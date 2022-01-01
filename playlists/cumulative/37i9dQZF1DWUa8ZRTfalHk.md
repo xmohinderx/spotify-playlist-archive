@@ -2,7 +2,7 @@
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> The hits of tomorrow are on Spotify today\. Cover: Sadie Jean
+> The hits of tomorrow are on Spotify today\. Cover: Ruel
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Adderall \(Corvette Corvette\)](https://open.spotify.com/track/3aAmQOxRPeKDL0HMWFA5qn) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I) | [Adderall \(Corvette Corvette\)](https://open.spotify.com/album/6zUd16jYIP9n45kUE3L5J3) | 2:16 | 2020-11-13 | 2020-12-18 |
 | [Adderall \(Corvette Corvette\) \- Remix](https://open.spotify.com/track/2Y3USTCETS4xbjJOzT1Icm) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Adderall \(Corvette Corvette\) \[Remix\]](https://open.spotify.com/album/3CHhjAvREJII4YPk4qyDXq) | 2:56 | 2020-12-18 | 2021-01-01 |
 | [After All](https://open.spotify.com/track/38UDoZyudPWXLzXRAb71oP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [After All](https://open.spotify.com/album/3kxT5SN1GQ3j3kS9NHOsYI) | 3:28 | 2021-09-25 | 2021-10-23 |
+| [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 | 2021-12-31 |  |
 | [After You \(feat\. Calle Lehmann\)](https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [After You \(feat\. Calle Lehmann\)](https://open.spotify.com/album/1RDosPV9LVUjxUxpzyXHB6) | 3:44 | 2021-10-30 |  |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2020-12-22 | 2021-01-29 |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-10 | 2021-07-31 |
@@ -577,7 +578,7 @@
 | [No Bad Days](https://open.spotify.com/track/4NM72r7orR4QPkgox7astH) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [No Bad Days](https://open.spotify.com/album/6QwZ44ldGwp9W7DoJ8bwyw) | 3:05 | 2021-10-23 | 2021-12-04 |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-30 | 2021-09-04 |
 | [No Chill \(feat\. Lil Xxel\)](https://open.spotify.com/track/5oh6lXsQ3mhw5PvcsJqvXg) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [No Chill \(feat\. Lil Xxel\)](https://open.spotify.com/album/0Y0TSSqz4YbWKRbVC2r39e) | 2:47 | 2021-01-08 | 2021-02-06 |
-| [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2021-11-06 |  |
+| [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2021-11-06 | 2022-01-01 |
 | [No More Friends \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/5jbk17nRpXXvzGXPXjm3uW) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [No More Friends](https://open.spotify.com/album/5T2HtXj1rvReE0gAAMNx53) | 3:13 | 2021-06-12 | 2021-07-04 |
 | [No Other Way](https://open.spotify.com/track/2NLCLJstWwUxjEc0sgVPtv) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [No Other Way](https://open.spotify.com/album/2r0gxUcjoKqB8WrEEdCwwf) | 2:27 | 2020-10-16 | 2020-11-13 |
 | [No Return \(with The Kid LAROI & Lil Durk\)](https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:48 | 2021-06-12 | 2021-07-04 |

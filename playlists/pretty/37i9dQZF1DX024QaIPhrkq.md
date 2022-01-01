@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX024QaIPhrkq.md) - [plain]
 
 > The essential Soundgarden, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,799 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,865 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

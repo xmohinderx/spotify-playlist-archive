@@ -198,7 +198,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 403388,
       "name": "Ailurus",
       "url": "https://open.spotify.com/track/1MMNg2Inzhu3b6AIZ1Fwmy"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-10",
+      "date_removed": null,
       "duration_ms": 452867,
       "name": "Astronautin",
       "url": "https://open.spotify.com/track/4clBWumKdQ85EDbgYxv3Ow"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2020-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 229440,
       "name": "Best of Me - Radio Edit",
       "url": "https://open.spotify.com/track/3nQPkePHredC24hsQBmlbj"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 324000,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt"
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Carant",
+        "url": "https://open.spotify.com/album/1JHGUkckX84j7St0aEPowG"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460539,
+      "name": "Carant",
+      "url": "https://open.spotify.com/track/2UmRwtqX0LaNkbe598bHIK"
+    },
+    {
+      "album": {
         "name": "Cariilon",
         "url": "https://open.spotify.com/album/71r8Xq4iT7IverzGNug96l"
       },
@@ -1452,7 +1470,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 201720,
       "name": "Close Your Eyes - Spotify Singles",
       "url": "https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u"
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 273442,
       "name": "Devon",
       "url": "https://open.spotify.com/track/3vSSYun94Bt4Al9j3X7Ftm"
@@ -2898,7 +2916,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 432848,
       "name": "German Spring",
       "url": "https://open.spotify.com/track/16rPiwJp75OWUxBAMVzJQx"
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 420876,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/07kw4vqIzRkaoR2JQMiIXK"
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2019-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 374274,
       "name": "Heart Breaker",
       "url": "https://open.spotify.com/track/4WVuuNGFq9CusXUdaviYPd"
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 248092,
       "name": "Hide Away",
       "url": "https://open.spotify.com/track/6N61AfOqIQpWKhKzS92H1j"
@@ -3398,7 +3416,7 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
@@ -3794,7 +3812,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 328189,
       "name": "Iela",
       "url": "https://open.spotify.com/track/3nUMd9BAvtt7r0RZnecRh3"
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 296661,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/19xXgIJjrXk0qZncjSgzgK"
@@ -4982,7 +5000,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 402126,
       "name": "Musica",
       "url": "https://open.spotify.com/track/4FoH1JTnWMZtciVi1V8ifa"
@@ -5168,7 +5186,7 @@
       ],
       "date_added": "2019-08-06",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 497574,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7548lIowWrwIbVIbAOSewT"
@@ -6222,7 +6240,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 352215,
       "name": "Quasar",
       "url": "https://open.spotify.com/track/6KrnEzLSoi4XR5u3bLMPsu"
@@ -6240,7 +6258,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 416000,
       "name": "Radha",
       "url": "https://open.spotify.com/track/3HCEhu4Fm6utMtwPagUcrM"
@@ -7146,7 +7164,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 421621,
       "name": "Smiling Birds",
       "url": "https://open.spotify.com/track/222a7UeWbEtafZgtG5Jk8L"
@@ -7284,7 +7302,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 211200,
       "name": "Spicy (feat. Ginger) - Edit",
       "url": "https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH"
@@ -7454,7 +7472,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 208138,
       "name": "Synthetic Blues",
       "url": "https://open.spotify.com/track/2ykjMnet1sBwPpmbTEqdYm"
@@ -7530,7 +7548,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 238537,
       "name": "Tarcu",
       "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
@@ -8380,7 +8398,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "Twisted Reality - Edit",
       "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
@@ -8734,7 +8752,7 @@
       ],
       "date_added": "2019-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 333714,
       "name": "Vergangenheit",
       "url": "https://open.spotify.com/track/6EYWLaus7to0TWiHo6mlIU"
@@ -8966,7 +8984,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 386341,
       "name": "We Are Not Alone",
       "url": "https://open.spotify.com/track/71ty7upWSu5JxHcGfWSENY"
@@ -9224,7 +9242,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 462295,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6ChwoTAhVHGyxyA3tyv5XI"

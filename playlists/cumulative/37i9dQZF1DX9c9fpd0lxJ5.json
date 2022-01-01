@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 155401,
       "name": "All That I Said",
       "url": "https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf"
@@ -150,6 +150,24 @@
       "duration_ms": 157666,
       "name": "Bichota - Spotify Singles",
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Calling U Back",
+      "url": "https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS"
     },
     {
       "album": {
@@ -319,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/01kTCGJItkwSIK8jYMRxDV"
+      },
+      "artists": [
+        {
+          "name": "Poi mp3",
+          "url": "https://open.spotify.com/artist/56SYLoTCr6PLgLAdzuyzz8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/5FgyIF4AvesAj5xws4gpdv"
+    },
+    {
+      "album": {
         "name": "Estereomance",
         "url": "https://open.spotify.com/album/2qiP0BXVxiIEJvAoO5eKNv"
       },
@@ -384,7 +420,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215000,
       "name": "En el 2000",
       "url": "https://open.spotify.com/track/2cVJwPD5CaTx2kBZyomzGN"
@@ -446,7 +482,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173374,
       "name": "Feel it Now",
       "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
@@ -504,10 +540,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 229566,
       "name": "Get Lost In The Music",
       "url": "https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL"
+    },
+    {
+      "album": {
+        "name": "Girasol",
+        "url": "https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI"
+      },
+      "artists": [
+        {
+          "name": "mi jard\u00edn",
+          "url": "https://open.spotify.com/artist/2Wurz87TqcSpxiCTGDZPAo"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Girasol",
+      "url": "https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M"
     },
     {
       "album": {
@@ -594,7 +648,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222021,
       "name": "Hold It Together",
       "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
@@ -612,7 +666,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 184941,
       "name": "I've Seen Better Days",
       "url": "https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi"
@@ -652,10 +706,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 222226,
       "name": "IN MY ROOM!",
       "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
+    },
+    {
+      "album": {
+        "name": "Incendio",
+        "url": "https://open.spotify.com/album/1GD7KnMcyOfA4Dk6OQDDWd"
+      },
+      "artists": [
+        {
+          "name": "Surfeadores Rosa",
+          "url": "https://open.spotify.com/artist/6BecaP398CIWCEHspNCxQh"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172037,
+      "name": "Incendio",
+      "url": "https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm"
     },
     {
       "album": {
@@ -728,7 +800,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/57Vhb1eZdgfknw62XCJ65F"
@@ -746,7 +818,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/6NALumxGj6tUkYdk5HYpla"
@@ -790,6 +862,24 @@
       "duration_ms": 222466,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/4Qj4s4DZCwH3hAbva1cxPm"
+    },
+    {
+      "album": {
+        "name": "LUV",
+        "url": "https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0"
+      },
+      "artists": [
+        {
+          "name": "Victor Internet",
+          "url": "https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143893,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
     },
     {
       "album": {
@@ -942,7 +1032,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
@@ -1022,6 +1112,28 @@
       "duration_ms": 175470,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
+    },
+    {
+      "album": {
+        "name": "Our Devices Own",
+        "url": "https://open.spotify.com/album/4Kc8mvpbOy8ZKggA0QO2LO"
+      },
+      "artists": [
+        {
+          "name": "Cienfue",
+          "url": "https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT"
+        },
+        {
+          "name": "Van Arro",
+          "url": "https://open.spotify.com/artist/439Y7cCZKrYYToCxmrxiLg"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233491,
+      "name": "Our Devices Own",
+      "url": "https://open.spotify.com/track/0PhdahpDZ1bTXo7KyByzNj"
     },
     {
       "album": {
@@ -1238,7 +1350,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Sad Lullaby",
       "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
@@ -1328,7 +1440,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 221716,
       "name": "Summer Girl",
       "url": "https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW"

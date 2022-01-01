@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 167053,
       "name": "21st of May",
       "url": "https://open.spotify.com/track/0hyhmEE6fFefO00bGN1yxD"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 170677,
       "name": "50 - 50 Chance - Simply Bluegrass",
       "url": "https://open.spotify.com/track/5hlkMObGlGgasDoN8yvXFn"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 188573,
       "name": "Ain\u2019t That Fine",
       "url": "https://open.spotify.com/track/22Is0mpoTCXoz5EE1U2yjb"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 258518,
       "name": "Bad Angel - Live",
       "url": "https://open.spotify.com/track/5TZHBG5VWv4kv5VtHXijdb"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 150880,
       "name": "Burden Bearer",
       "url": "https://open.spotify.com/track/7nSMFiEj3445wpjfjzNoCx"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 309183,
       "name": "Desert Flowers",
       "url": "https://open.spotify.com/track/5X6ZqGQ4unZmm9uEAEwcLY"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 190955,
       "name": "Drivin' Nails In My Coffin - Simply Bluegrass",
       "url": "https://open.spotify.com/track/0Wy7fpZxbslkaINmte0Rpc"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Edges Run",
       "url": "https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao"
@@ -808,6 +808,24 @@
       "duration_ms": 285306,
       "name": "Engine Trouble",
       "url": "https://open.spotify.com/track/3VGjFO89Sh53UjTRGJXWmi"
+    },
+    {
+      "album": {
+        "name": "Eva Kelley",
+        "url": "https://open.spotify.com/album/7DakEfniT1T6Wu4Ws4QRWV"
+      },
+      "artists": [
+        {
+          "name": "Ben Sollee",
+          "url": "https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281725,
+      "name": "Eva Kelley",
+      "url": "https://open.spotify.com/track/0s8Zuk9rkJf9NVR9azmDwE"
     },
     {
       "album": {
@@ -930,7 +948,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 264342,
       "name": "Gone Gone Gone",
       "url": "https://open.spotify.com/track/6BlreBdQpQrOvpjjqqXcB4"
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 170386,
       "name": "Hard Times Come Again No More",
       "url": "https://open.spotify.com/track/2dRJJxDFe7a07uzwizUi1K"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 249000,
       "name": "Harder Than Steel",
       "url": "https://open.spotify.com/track/03xIPbTIXnqTJnElXpDYjY"
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216543,
       "name": "High Lonesome Sound",
       "url": "https://open.spotify.com/track/2sxZLyHEvNGXcNbVpOUOXF"
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 234624,
       "name": "I Wanna Be Where You Are",
       "url": "https://open.spotify.com/track/3x5HfCGFxPXqUz4DKTN5M7"
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 235560,
       "name": "In the Sweet by and By",
       "url": "https://open.spotify.com/track/6gJkNZt514JO7YR6dxS4JE"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 169120,
       "name": "I\u2019ve Been A Long Time Leavin' (But I\u2019ll Be A Long Time Gone)",
       "url": "https://open.spotify.com/track/1xITcjwUzUJL4zoZmBB0PZ"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 160432,
       "name": "Merlefest Mando Mania [with Rebecca Lovell, Mike Compton, Darin Aldridge, Tim O'brien, James Nash, Tom Rozum & Barry Mitterhoff]",
       "url": "https://open.spotify.com/track/1lTl8P56SC9cRpfRO560NG"
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 214855,
       "name": "Millenial Girl",
       "url": "https://open.spotify.com/track/3x310Zjn7DxrsIxjOuHR7I"
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 236666,
       "name": "My Hometown",
       "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 200466,
       "name": "Open Water",
       "url": "https://open.spotify.com/track/2URfv93mR97fnXOh0VXcNJ"
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 171530,
       "name": "Ride The Train",
       "url": "https://open.spotify.com/track/3qbUM5KET665x8Gf2nleQY"
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 272666,
       "name": "Right Side of the Dirt",
       "url": "https://open.spotify.com/track/1pDupWQjzygg1wE7QQFKEP"
@@ -2362,7 +2380,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 145349,
       "name": "Righteous Bell (feat. Sarah Jarosz)",
       "url": "https://open.spotify.com/track/5NmlmBN121Z8oMFwGBMd7J"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 152440,
       "name": "Salty Dog Blues - Live",
       "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 242458,
       "name": "Say Your Mind",
       "url": "https://open.spotify.com/track/6DOTRLTpmkFhkZUVVjPJ4y"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 180546,
       "name": "Scrape Me Off the Ceiling",
       "url": "https://open.spotify.com/track/2snpAgA7u9kPs1amwGkVNo"
@@ -2726,7 +2744,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 139893,
       "name": "Super Moon",
       "url": "https://open.spotify.com/track/6CjmCAzJistyH2lPD340r4"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205586,
       "name": "Taxland (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 211671,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/7pYZ03HHfN3nZ6xj2jeeqZ"
@@ -2938,7 +2956,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "The Girl Who Invented The Wheel",
       "url": "https://open.spotify.com/track/3kb7ixlxkuw9p5157bjuvb"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 207319,
       "name": "The Heart Wants",
       "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
@@ -2992,7 +3010,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 267213,
       "name": "The Hills of Mexico (Live)",
       "url": "https://open.spotify.com/track/31UAWm9VeYUMTdbrSJkfXW"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 219826,
       "name": "The Trappings",
       "url": "https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 247913,
       "name": "The Way It Was Before",
       "url": "https://open.spotify.com/track/4LvIYRvuEd3Vj0cUkgaYyS"
@@ -3192,7 +3210,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189853,
       "name": "Too Wet to Plow",
       "url": "https://open.spotify.com/track/5RtoqHi2cZGyKlojWxa0it"
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 162106,
       "name": "Toward the Fray",
       "url": "https://open.spotify.com/track/7rVlgSnxGCilEgeNx0fmZH"
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206106,
       "name": "Town's End",
       "url": "https://open.spotify.com/track/4nobx1eDq4WEeZ9mvXqip7"
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 204826,
       "name": "Unholy Water",
       "url": "https://open.spotify.com/track/6HZ85VGp3xOsmvVrBlSLH5"
@@ -3668,7 +3686,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201573,
       "name": "With Body and Soul (feat. Emmylou Harris, Tom Gray, John Starling)",
       "url": "https://open.spotify.com/track/4SiS7LvF6n8WnW5ZeB4RfL"
@@ -3704,7 +3722,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 177053,
       "name": "You Were On My Mind This Morning",
       "url": "https://open.spotify.com/track/4XHgu6RHqSyUE7pFKTAlzW"

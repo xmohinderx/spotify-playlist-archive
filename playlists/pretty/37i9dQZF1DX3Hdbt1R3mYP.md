@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Hdbt1R3mYP.md) - [plain]
 
 > One of the most important British folk artists of the 21st century\. This is Laura Marling
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,338 likes - 46 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,355 likes - 46 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

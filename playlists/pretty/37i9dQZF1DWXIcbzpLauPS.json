@@ -1,51 +1,15 @@
 {
   "description": "This is the new core at its finest. Cover: Siamese",
   "name": "New Core",
-  "num_followers": 510789,
+  "num_followers": 510802,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTY5OTI2MCwwMDAwMDUxMDAwMDAwMTdkYzViMTIyYmUwMDAwMDE3ZGI4ODExNTBh",
+  "snapshot_id": "MTY0MDk0NDUwNiwwMDAwMDUxMTAwMDAwMTdlMGZlYTE2M2IwMDAwMDE3ZGI4ODExNTBh",
   "tracks": [
     {
-      "added_at": "2021-12-17 00:01:00",
-      "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2"
-      },
-      "artists": [
-        {
-          "name": "ALESTI",
-          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
-        },
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 266175,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR"
-    },
-    {
-      "added_at": "2021-12-17 00:01:00",
-      "album": {
-        "name": "Somewhere Beyond The Blue",
-        "url": "https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 269398,
-      "name": "Death Is All Around",
-      "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
-    },
-    {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Daggers",
         "url": "https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w"
@@ -65,7 +29,75 @@
       "url": "https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2"
+      },
+      "artists": [
+        {
+          "name": "ALESTI",
+          "url": "https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J"
+        },
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 266175,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR"
+    },
+    {
+      "added_at": "2021-12-31 09:55:06",
+      "album": {
+        "name": "Left For Dead",
+        "url": "https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 185772,
+      "name": "Left For Dead",
+      "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
+    },
+    {
+      "added_at": "2021-12-31 09:55:06",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Erase My Mind",
+      "url": "https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM"
+    },
+    {
+      "added_at": "2021-12-31 09:55:06",
+      "album": {
+        "name": "Somewhere Beyond The Blue",
+        "url": "https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 269398,
+      "name": "Death Is All Around",
+      "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
+    },
+    {
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Crossed",
         "url": "https://open.spotify.com/album/1UMgA7ETQAijzHYDsTDi1X"
@@ -85,23 +117,7 @@
       "url": "https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Erase My Mind",
-      "url": "https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM"
-    },
-    {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Iridescent",
         "url": "https://open.spotify.com/album/3PLHTrAqFD7AjNNqzVZmzr"
@@ -117,23 +133,7 @@
       "url": "https://open.spotify.com/track/7DVaDiCKKX9I2UonUdDfh1"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
-      "album": {
-        "name": "Left For Dead",
-        "url": "https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 185772,
-      "name": "Left For Dead",
-      "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
-    },
-    {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Heads Up",
         "url": "https://open.spotify.com/album/5kiO6eG6N0MGbzIs0pMwUf"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/5oHXmKMdCnUJXsXAkZkwnR"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Outrun",
         "url": "https://open.spotify.com/album/3PtZnZ5OySxape4SVskOE4"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Pump It",
         "url": "https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "I Run With Wolves",
         "url": "https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/7oNOP1xca406nustARPRru"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/0DdAVTe2xiSMJLrDErt2Tm"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/0HcjKTb2vcKHSi8xZejERI"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Life Is Pain",
         "url": "https://open.spotify.com/album/16L3AoU7WMBz2rvS9kzIvV"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/5xp2T1ghPN6uNOfeoqD0uY"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "DESTINY",
         "url": "https://open.spotify.com/album/6szs4Ng6wO7Hu48kHET1xL"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/56wLqIBnjapUsIC08vHHYU"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "HORIZON",
         "url": "https://open.spotify.com/album/4pxmnZ04SiG6WzAmnMln6e"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/1DtJnU6U3E0BnZ8DnTH1rw"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The Negative",
         "url": "https://open.spotify.com/album/7ecQh8Nhpy5OqsmK7N4rHo"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/6dOoxvIbgQq8WhQ2gjndpq"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Snakebit",
         "url": "https://open.spotify.com/album/7sddZ4tNNHTdwWxwxMGFhy"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/0sK8TrIJA5DA9hGATIZ5hi"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Anything at All",
         "url": "https://open.spotify.com/album/62VQpaKM1gEjzZye2K7oQn"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Cold Blooded",
         "url": "https://open.spotify.com/album/5pSv7gNjAnaM169UjdNXY0"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/55qsUnoBhvLZ6ktj5v3lKp"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Intergalactic Casanova",
         "url": "https://open.spotify.com/album/2vOfczZPhxfUiTydB6hyQr"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/6lte7l161HTKi4ZLFFGj6x"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/0Rzu3mifln0xaAZ2pAUnm5"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/5jYBHfcAfmES6eVx695YEJ"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/4LJwcXwtsxWjvCHJBypRvA"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "UKKO",
         "url": "https://open.spotify.com/album/1dhIUr4d0OPP58yIjnB1m1"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/73PaCVePUMiqVRGq1Bttjs"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/2Jrd7g3DXOU5uoFbs95RLb"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/13vYl0wAKM5RGjvoRaVyd8"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Heaven in Hiding",
         "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "We Are No Saints",
         "url": "https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Fixated",
         "url": "https://open.spotify.com/album/3pUQbAVwZskngdbQEUN8o4"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/6dDHGI6P576FaxA3K2PCIE"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/2UUPHayhYk5eGpL8QIOpLm"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Fail Me",
         "url": "https://open.spotify.com/album/6DQlvYwVg564TonxkvAEzl"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/3upMhQ1k7fqbptA2eKqE1V"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Pale Tongue",
         "url": "https://open.spotify.com/album/6pgxhNnusTdUnOOuhiJKEK"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The Line",
         "url": "https://open.spotify.com/album/135JeuEorzoXRr21qrAj75"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/6z0oVHUpCffd17PnC4uJEn"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Through Life and Death",
         "url": "https://open.spotify.com/album/1FSSug8vSM8W1oCR61ZWfA"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/3WQBZ03AEnce4fHmLyEcy4"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/65HY54OfEyWDdtm2zFi8uF"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/5rUv179NuGHKBrmz4k5hiu"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Between Me and The Machine",
         "url": "https://open.spotify.com/album/6l8CriAGZ9xzFOFazJCYSk"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/7e7meNa1AtJ1PGntydHkaZ"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Long Time, No Sea (Expanded Edition)",
         "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/0eD0Svr1TOFx8QgNkpTBsT"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Riot",
         "url": "https://open.spotify.com/album/5rMji1cIGWpALn7VKq9h4n"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/6KPHpYLUcSIWQy6mG3JpN0"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Overthrown",
         "url": "https://open.spotify.com/album/3Ra4pbA7pf3fM4kZlyG8tx"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/6PR8h4YuG6DmBlE7MEalYD"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Reshape Me",
         "url": "https://open.spotify.com/album/3dQ31D349hGROq281dT6yg"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/4lr08jZqpZ2duhBuIcFoky"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Take Your Love and Leave",
         "url": "https://open.spotify.com/album/29c2FSkTeIJAyPZN0TCnaY"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/6S0KonuMvq99QR0Rh03pz4"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Demonz in Paris",
         "url": "https://open.spotify.com/album/34VKekWFisWRsOQVGNzOCF"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/0XkW9sBjJumOFXMHqbYuih"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Lowborn",
         "url": "https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Truly Deprived",
         "url": "https://open.spotify.com/album/0qLEtJ5xuUazymrEcHCfHL"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/2BsTfpWMvFFsCV9RHfdBPJ"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Earthquake",
         "url": "https://open.spotify.com/album/7ipDIQx6f6t0cuyoCFYDr1"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/0LrweVkIjYuXjtJYS8vaL4"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/54FRO0p7V00CyAXSsFegeb"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/7mUmIhrlfX8Zt3QJ7ZzWIM"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The Bearer of Bad News",
         "url": "https://open.spotify.com/album/66pRhOqpnNnmFwKXBt2dLq"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/5gOUadSAIuvOXfJsUaCkpK"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Happier?",
         "url": "https://open.spotify.com/album/2A8YKx8YDBY5uCgVZJg6Oo"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/4M6ZBhuQAcuh6EdB1CUR7a"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/4ikmxObwNxiJxUnaDM4INx"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/4mWx5WcTcwWqynzuB18mSJ"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The City Sleeps (and the Rage Kicks in)",
         "url": "https://open.spotify.com/album/6666PHUWfJhEs02ONgvuXd"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/1OaOfZ07Hg7Ag0KwqYip86"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "There Are Things Worse Than Death - EP",
         "url": "https://open.spotify.com/album/5DXsxOvyvZ9uAdfjpBcU7B"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/4tS7QOYoendjupkCIPQ9Em"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/66v8yWWlcz2h7Q11T39EXe"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/7ynwEn9WVqGHDXYrlQ5Hft"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Back for More",
         "url": "https://open.spotify.com/album/490ljTJrUAlYnjTgjMQMrU"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/3DM9DwtKbAiwvRc4bJ1NyF"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Blood Eagle",
         "url": "https://open.spotify.com/album/5bGQuHM7O09qh8Iqftm9lD"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/7k4bQ69rhUem3UcfJN8brF"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Infra",
         "url": "https://open.spotify.com/album/46bHWBn1dMabwh2VkNz6ck"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/3kQZMbUfSuqPBPYNQyvVB4"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The Realm of Chaos (feat. Heidi Shepherd)",
         "url": "https://open.spotify.com/album/0hspf18kOL8VBd4295NwoL"
@@ -985,7 +985,7 @@
       "url": "https://open.spotify.com/track/2kP5P0M1V8IQnNBkWYzXgM"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "ONI//KIJO",
         "url": "https://open.spotify.com/album/6eSG2kq7uj7JS8QP39EckW"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/0duwzHmpcdFDDfmc7bCb0Q"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/2qOzrw2B0UEnRLW4qaTmnu"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/1eA8wePdNkCGtIhk2ISFOQ"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Stability",
         "url": "https://open.spotify.com/album/0QKeoyFMQ8UhfVRVvjkFHk"
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/2CCw1N2BS2UbzGVXNyN9rB"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Your Fire",
         "url": "https://open.spotify.com/album/4vQoh3wHwa7wM3ZkaQL1fT"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1REmU4T9sKpB0czaqRuz5W"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Purple Static",
         "url": "https://open.spotify.com/album/3SeMw7HoiSTnsc4sDr9tF9"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/3AddKBr7vkhZrmqNZ2l80z"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/1aJPBAfywf1Vsi5vkvSMMV"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/75hUTjvvI6X6CQJ0HvmmX8"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Y",
         "url": "https://open.spotify.com/album/7kBQC3jd52a27AufUTOMJT"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/2nfYd5u63QE2bhlYX4UvDH"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Octane",
         "url": "https://open.spotify.com/album/02FMtu5qZbmOIEOwbjulmX"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4O452YeghXECc0z2FzVbqg"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Sapiens",
         "url": "https://open.spotify.com/album/2DuGroRwamTPVVIWZxJNWz"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/5EgV8FKEaHyIItt0swNjhO"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "In the Balance",
         "url": "https://open.spotify.com/album/6uHaWH6DIPK4weWssYgoHv"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5cemE29LCUtsLtg0a18kK2"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Eraser",
         "url": "https://open.spotify.com/album/2yvQYev2fyWfAOLrjXgQnE"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/588UONZ98cyfcM2IEia5nf"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Walking Blind",
         "url": "https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "A Decade Gone By",
         "url": "https://open.spotify.com/album/0N93vn1mrctly0i2LdABYE"
@@ -1197,7 +1197,7 @@
       "url": "https://open.spotify.com/track/04DSKHIgp10PuSCHDKsef2"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Cynicism",
         "url": "https://open.spotify.com/album/3Ov10cQRZTPb17pXIbygca"
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/4GjtmSqCG46BgHltXa78PN"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The Reaper",
         "url": "https://open.spotify.com/album/6enwHzKPptFmboSR4sC28C"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1FAdkCRgYItcre3alRBPYP"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Wayfarer",
         "url": "https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e"
@@ -1245,7 +1245,7 @@
       "url": "https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "BURIED ALIVE",
         "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
@@ -1261,7 +1261,7 @@
       "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Degrader",
         "url": "https://open.spotify.com/album/5mmZn799VQ5Rs2Tdod68Pz"
@@ -1277,7 +1277,7 @@
       "url": "https://open.spotify.com/track/5TJbc3YJN59ItZKwVcGQng"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "You Scream Good for A Girl",
         "url": "https://open.spotify.com/album/664Ago1PB7fkmyZHZPyfoa"
@@ -1293,7 +1293,7 @@
       "url": "https://open.spotify.com/track/77qrvaqkWsaHvOqTCjadKz"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Rhema",
         "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/45A5LSkr8lptp6M1JYfpPo"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Rainbow Veins",
         "url": "https://open.spotify.com/album/7moGhJvy4szDPEEgvgffGj"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/7cjlfruK9Oqw7k5wAZGO72"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/4yHK77sLinmbGY7Ebp1l3i"
@@ -1341,7 +1341,7 @@
       "url": "https://open.spotify.com/track/0OgCom0J2EH70YJJxcFlgr"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Krewe D'Amour, Vol. 2",
         "url": "https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4Pfclw9uhRXenUImApmAgG"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Strangeland II - The Return",
         "url": "https://open.spotify.com/album/59aeDzurqGSPgOa4FRH7dD"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/4460fCzW6HrtvQthhtiz77"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "VAMPYR",
         "url": "https://open.spotify.com/album/3A9Pi2b6Svur1Ij3j9Lnz7"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/3ZqfaP23vRTS4tSre8HAwk"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Somehow // Somewhere",
         "url": "https://open.spotify.com/album/1WPvBepmgRMfPwpqLggBjH"
@@ -1409,7 +1409,7 @@
       "url": "https://open.spotify.com/track/1yOIXuOyRGaKIFVDxdeBBx"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "F(r)iends",
         "url": "https://open.spotify.com/album/6xLvex7tzo5G88NIVd9vTa"
@@ -1425,7 +1425,7 @@
       "url": "https://open.spotify.com/track/4zGp7dN9ei7nLtSVonXL8C"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Beta Gods",
         "url": "https://open.spotify.com/album/1Uw2WdS8xyAABgFUqCt5ON"
@@ -1445,7 +1445,7 @@
       "url": "https://open.spotify.com/track/5GXV3BnqivDTVGo3S4jGIc"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Stay Away",
         "url": "https://open.spotify.com/album/4SLO8o4TkaPVH3OzlsNjNC"
@@ -1461,7 +1461,7 @@
       "url": "https://open.spotify.com/track/0UZlOO9q3e8jxBj724f6oN"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
@@ -1477,7 +1477,7 @@
       "url": "https://open.spotify.com/track/5d0CEohvmvqcizfc0cXn1t"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Evil Things",
         "url": "https://open.spotify.com/album/7vgtKRBOKgM1BUEjJ0sEIl"
@@ -1493,7 +1493,7 @@
       "url": "https://open.spotify.com/track/6LXQba9gRcFhYZc3OD7nre"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "A Vigil for the Living",
         "url": "https://open.spotify.com/album/01eDgrFRR4sc96XbSyM9uN"
@@ -1509,7 +1509,7 @@
       "url": "https://open.spotify.com/track/5HRTORbVTL0VsUkpgxY2R8"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Condemned",
         "url": "https://open.spotify.com/album/5caXsrxlNAC9YQBVavvPUK"
@@ -1529,7 +1529,7 @@
       "url": "https://open.spotify.com/track/6KqXs2ac8eXus6s97mexwD"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Memoriam",
         "url": "https://open.spotify.com/album/6eDQh4ZnNdjf1rqrt9L69l"
@@ -1545,7 +1545,7 @@
       "url": "https://open.spotify.com/track/6ifbaBmTWX9cjzuq9qGELQ"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "KILL",
         "url": "https://open.spotify.com/album/6FF237DoPVhsSKSWlCpVIB"
@@ -1561,7 +1561,7 @@
       "url": "https://open.spotify.com/track/1Y6D0zTXwFytLR7XnNRjdT"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Generation Genocide",
         "url": "https://open.spotify.com/album/3DgG62Z7goTUZ7jWVAsXNi"
@@ -1577,7 +1577,7 @@
       "url": "https://open.spotify.com/track/0LasUChReFGGNWmry0IlFU"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/1RiAhYJePETr9hJN6QkVZj"
@@ -1593,7 +1593,7 @@
       "url": "https://open.spotify.com/track/1hYOMPs7urlESUzMqfb9Ms"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/4GWIhEKHz9pJcclysehZ93"
@@ -1609,7 +1609,7 @@
       "url": "https://open.spotify.com/track/0Fz4ivzoq6nk4a9r3vgWyq"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The End to a Brief Moment of Lasting Intimacy",
         "url": "https://open.spotify.com/album/5bJ6joEOY28UkisojIyFOk"
@@ -1625,7 +1625,7 @@
       "url": "https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "The Sun Sleeps, As If It Never Was",
         "url": "https://open.spotify.com/album/3BkRwfs7XLuJA0hILM9EXB"
@@ -1641,7 +1641,7 @@
       "url": "https://open.spotify.com/track/5ihb2wN6ltF6kciiBEDFGM"
     },
     {
-      "added_at": "2021-12-17 00:01:00",
+      "added_at": "2021-12-31 09:55:06",
       "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/0151780uryrl7Mj83Tc6G8"

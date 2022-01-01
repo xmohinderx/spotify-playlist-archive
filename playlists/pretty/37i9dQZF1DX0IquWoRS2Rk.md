@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IquWoRS2Rk.md) - [plain]
 
 > Advice on writing everything from college compositions to mystery novels and children's books.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,565 likes - 103 songs - 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,564 likes - 103 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

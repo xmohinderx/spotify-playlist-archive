@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,402 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,914 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 14 | [Aabaad Barbaad \(From "Ludo"\)](https://open.spotify.com/track/0hFUtSsV2itYEUTZGj6w5H) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aabaad Barbaad \(From "Ludo"\)](https://open.spotify.com/album/1PzsfgcbPbiW7uflc9Zi5Z) | 5:09 |
 | 15 | [Zindagi Ko Hi5](https://open.spotify.com/track/1PEY9y4CZLGDrDfTpK2Y1y) | [Mpower](https://open.spotify.com/artist/4lPx2GX5s8Y6lEZ7MZXqDT), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Zindagi Ko Hi5](https://open.spotify.com/album/2kWrkqWtkLAAUtr6Gmh9sa) | 5:41 |
 | 16 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |
-| 17 | [Ghungroo \(From "War"\)](https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Sanchit Balhara](https://open.spotify.com/artist/0LOdQDBSB8NYPykI3REezj) | [Ghungroo \(From "War"\)](https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ) | 5:02 |
+| 17 | [Ghungroo \(From "War"\)](https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ghungroo \(From "War"\)](https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ) | 5:02 |
 | 18 | [Dil Udd Ja Re](https://open.spotify.com/track/4Qf3kmy6VqG3jzDuzubfFz) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 5:03 |
 | 19 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 |
 | 20 | [Nashe Si Chadh Gayi](https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Befikre](https://open.spotify.com/album/2NdNeBKi8ctKgKRH5UGRbO) | 3:57 |

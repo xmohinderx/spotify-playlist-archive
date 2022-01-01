@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music worldwide\.  Cover: Anne Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,386,923 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,123 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 |
 | 100 | [Even At My Worst](https://open.spotify.com/track/1vet3AqINioBDwgdkmAImW) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Even At My Worst](https://open.spotify.com/album/6qgaJkPeR3fpQHEbQmq60y) | 3:30 |
 
-Snapshot ID: `MTY0MDMyMjYwMCwwMDAwMDUxZDAwMDAwMTdkZWFkODhjOTQwMDAwMDE3ZGVhNjQwM2E4`
+Snapshot ID: `MTY0MDkzMTAwNCwwMDAwMDUxZTAwMDAwMTdlMGYxYzBlZGYwMDAwMDE3ZGVhNjQwM2E4`

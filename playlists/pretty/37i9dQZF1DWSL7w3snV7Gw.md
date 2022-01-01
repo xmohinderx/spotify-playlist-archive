@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSL7w3snV7Gw.md) - [plain]
 
 > 50 great tracks from 20th century's most celebrated piano genius\. Beyond his iconic Bach recordings, you will also find his unique interpretation of Beethoven, Scriabin, Strauss, and many other composers from renaissance to modern age.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,272 likes - 50 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,276 likes - 50 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

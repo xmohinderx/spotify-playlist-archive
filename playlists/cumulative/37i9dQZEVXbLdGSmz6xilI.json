@@ -46,7 +46,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193846,
       "name": "101520 (feat. Sol7 & prettyXIX)",
       "url": "https://open.spotify.com/track/2axlAOp86SPuqSBlwLw4WM"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
@@ -2591,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Love Yourself \u8f49 'Tear'",
+        "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196998,
+      "name": "Intro: Singularity",
+      "url": "https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV"
+    },
+    {
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -2944,7 +2962,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
@@ -3150,6 +3168,28 @@
       "duration_ms": 214948,
       "name": "L\u1ee1 Say Bye L\u00e0 Bye",
       "url": "https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk"
+    },
+    {
+      "album": {
+        "name": "Mang Ti\u1ec1n V\u1ec1 Cho M\u1eb9",
+        "url": "https://open.spotify.com/album/1PcVnGylH7vOraRn4mGSF5"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "Nguy\u00ean Th\u1ea3o",
+          "url": "https://open.spotify.com/artist/177KBVFwdDaS2qQNHstlrY"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405360,
+      "name": "Mang Ti\u1ec1n V\u1ec1 Cho M\u1eb9",
+      "url": "https://open.spotify.com/track/57lYw21pS9FprSeJimskIC"
     },
     {
       "album": {
@@ -5190,7 +5230,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-09",
+      "date_removed": null,
       "duration_ms": 248870,
       "name": "Tr\u1ed1n T\u00ecm",
       "url": "https://open.spotify.com/track/34uOIsoy6ETS2sxOTWBRDF"

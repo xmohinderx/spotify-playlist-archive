@@ -1,12 +1,12 @@
 {
   "description": "next gen pop featuring Doja Cat",
   "name": "Pop Sauce",
-  "num_followers": 997276,
+  "num_followers": 997511,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDU5YzAwMDAwMTdkZWFjZjY1NWUwMDAwMDE3ZGUwZWFhMDYx",
+  "snapshot_id": "MTY0MDkyNjgwMCwwMDAwMDU5ZDAwMDAwMTdlMGVkYmU5MjgwMDAwMDE3ZGUwZWFhMDYx",
   "tracks": [
     {
       "added_at": "2021-12-17 05:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "I AM WOMAN",
-        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "I AM WOMAN",
-      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 138293,
       "name": "Get Into It (Yuh)",
       "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "I AM WOMAN",
+        "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "I AM WOMAN",
+      "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 168020,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "Dirty Thoughts",
         "url": "https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil"
       },
@@ -139,18 +123,18 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
         }
       ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+      "duration_ms": 168020,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -171,6 +155,22 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0"
       },
@@ -187,6 +187,26 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174164,
+      "name": "SCOOP (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -219,26 +239,6 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 174164,
-      "name": "SCOOP (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/6bpq1jGkVz66Q3LYeoXdjZ"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
+        "name": "Crisis / Secret / Set Me Free",
+        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
         "name": "GO TO HELL",
         "url": "https://open.spotify.com/album/32boQRfLOkEfXznZtudRrS"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "The New Me",
-        "url": "https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 143774,
-      "name": "The New Me",
-      "url": "https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "what it means to be a girl / this is how i learn to say no",
         "url": "https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA"
       },
@@ -363,18 +363,18 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Crisis / Secret / Set Me Free",
-        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
+        "name": "The New Me",
+        "url": "https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF"
       },
       "artists": [
         {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz"
+      "duration_ms": 143774,
+      "name": "The New Me",
+      "url": "https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
+        "name": "CECE",
+        "url": "https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1"
+      },
+      "artists": [
+        {
+          "name": "Celina Sharma",
+          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
+        },
+        {
+          "name": "Harris J.",
+          "url": "https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE"
+        }
+      ],
+      "duration_ms": 184478,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/304uzYXYjPulJpLRJzuesX"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
         "name": "this is what falling in love feels like",
         "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
       },
@@ -439,6 +459,26 @@
       "duration_ms": 120308,
       "name": "this is what falling in love feels like",
       "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/36kp4SVbHt0SqhAGpdFsK9"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/01yhPS4Pn3chM0sc3gcs6B"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -551,18 +591,18 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Hands On You",
-        "url": "https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj"
+        "name": "Crisis / Secret / Set Me Free",
+        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
       },
       "artists": [
         {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
         }
       ],
-      "duration_ms": 155567,
-      "name": "Hands On You",
-      "url": "https://open.spotify.com/track/1c03f9YZmO792D7hRjZMYi"
+      "duration_ms": 192413,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/77Gfhrr1Uh9Pv57MUUmVuY"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -583,22 +623,18 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "CECE",
-        "url": "https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1"
+        "name": "24",
+        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
       "artists": [
         {
-          "name": "Celina Sharma",
-          "url": "https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD"
-        },
-        {
-          "name": "Harris J.",
-          "url": "https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 184478,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/304uzYXYjPulJpLRJzuesX"
+      "duration_ms": 133897,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -639,22 +675,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "How to Love Other People",
-        "url": "https://open.spotify.com/album/2cX5EWESsBDbpAJnQuq2rE"
-      },
-      "artists": [
-        {
-          "name": "david hugo",
-          "url": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "How to Love Other People",
-      "url": "https://open.spotify.com/track/1om7j46fwbaXC1W1vwtvuu"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "Helios",
         "url": "https://open.spotify.com/album/34XppM4qBBkVv7eDZEei1N"
       },
@@ -669,20 +689,20 @@
       "url": "https://open.spotify.com/track/1FWoak0OgTq1jrYfRKfXsj"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
+        "name": "EPISODE 6: UGLY",
+        "url": "https://open.spotify.com/album/0L7Pn96iL4d6oSZYk1QAxa"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Josie Dunne",
+          "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
         }
       ],
-      "duration_ms": 133897,
-      "name": "24",
-      "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+      "duration_ms": 118085,
+      "name": "UGLY",
+      "url": "https://open.spotify.com/track/2dhPuSbG7blYN5tc6VxzHq"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -699,6 +719,22 @@
       "duration_ms": 156794,
       "name": "anxiety.",
       "url": "https://open.spotify.com/track/4UN1cxXIlQhmOWXhEkrBqu"
+    },
+    {
+      "added_at": "2021-12-19 20:57:18",
+      "album": {
+        "name": "best friends",
+        "url": "https://open.spotify.com/album/2moiRsCEdQveKnCLL3EtYG"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 142663,
+      "name": "best friends",
+      "url": "https://open.spotify.com/track/2ZQLEuaDw9rxJ5u5YR0KEw"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -733,22 +769,6 @@
       "url": "https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA"
     },
     {
-      "added_at": "2021-12-19 20:57:18",
-      "album": {
-        "name": "best friends",
-        "url": "https://open.spotify.com/album/2moiRsCEdQveKnCLL3EtYG"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 142663,
-      "name": "best friends",
-      "url": "https://open.spotify.com/track/2ZQLEuaDw9rxJ5u5YR0KEw"
-    },
-    {
       "added_at": "2021-12-17 05:00:00",
       "album": {
         "name": "Happy Loner",
@@ -763,6 +783,22 @@
       "duration_ms": 193653,
       "name": "Happy Loner",
       "url": "https://open.spotify.com/track/3aVpNPYYhmnhFl61QS56tx"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Hands On You",
+        "url": "https://open.spotify.com/album/7AwODiyS5ghh0uhXt4v2tj"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 155567,
+      "name": "Hands On You",
+      "url": "https://open.spotify.com/track/1c03f9YZmO792D7hRjZMYi"
     },
     {
       "added_at": "2021-12-22 03:21:20",
@@ -795,22 +831,6 @@
       "duration_ms": 123949,
       "name": "don't miss me",
       "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Crisis / Secret / Set Me Free",
-        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/77Gfhrr1Uh9Pv57MUUmVuY"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -923,6 +943,22 @@
       "duration_ms": 131000,
       "name": "GAMEBOY",
       "url": "https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "How to Love Other People",
+        "url": "https://open.spotify.com/album/2cX5EWESsBDbpAJnQuq2rE"
+      },
+      "artists": [
+        {
+          "name": "david hugo",
+          "url": "https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "How to Love Other People",
+      "url": "https://open.spotify.com/track/1om7j46fwbaXC1W1vwtvuu"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1043,22 +1079,6 @@
       "duration_ms": 170646,
       "name": "Halloweenie IV: Innards",
       "url": "https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/2mLsjWM9GyknWYlAXKZcOe"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 127464,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1219,22 +1239,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "nothing ever changes.",
-        "url": "https://open.spotify.com/album/36Xxqh9rfUkyM3quOJkB8x"
-      },
-      "artists": [
-        {
-          "name": "will hyde",
-          "url": "https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn"
-        }
-      ],
-      "duration_ms": 231518,
-      "name": "when u need me.",
-      "url": "https://open.spotify.com/track/5CPEXVOzqhFlZN77l94S86"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "Carol Of The Bells (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
       },
@@ -1347,6 +1351,26 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
+        "name": "Into Your Arms (feat. Ava Max)",
+        "url": "https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI"
+      },
+      "artists": [
+        {
+          "name": "Witt Lowry",
+          "url": "https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 186022,
+      "name": "Into Your Arms (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
         "name": "I Love You But I Love Me More (feat. Beach Bunny)",
         "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
       },
@@ -1403,46 +1427,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
-        "url": "https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        },
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        },
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 158240,
-      "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
-      "url": "https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Just Kids",
-        "url": "https://open.spotify.com/album/3ZRCZAbU3XqFIZ8xxZI8oB"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Just Kids",
-      "url": "https://open.spotify.com/track/4jLiu89QIhVwAES7bvSpWk"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "tell me your feelings and i won't tell you mine",
         "url": "https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R"
       },
@@ -1467,22 +1451,18 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Into Your Arms (feat. Ava Max)",
-        "url": "https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI"
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/2mLsjWM9GyknWYlAXKZcOe"
       },
       "artists": [
         {
-          "name": "Witt Lowry",
-          "url": "https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
         }
       ],
-      "duration_ms": 186022,
-      "name": "Into Your Arms (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
+      "duration_ms": 127464,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1499,22 +1479,6 @@
       "duration_ms": 128306,
       "name": "Sad Fuck",
       "url": "https://open.spotify.com/track/7IorIgAivQrtaHTAzcMU5x"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "How Are You?",
-        "url": "https://open.spotify.com/album/1Bn9N9uVpL48gFXmwpgSsS"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "duration_ms": 137568,
-      "name": "But I Don'T",
-      "url": "https://open.spotify.com/track/0mhS4w3sej2kpvDuAhiZeq"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -1587,22 +1551,6 @@
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 180488,
-      "name": "The Bottom",
-      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -1615,26 +1563,6 @@
       "duration_ms": 173160,
       "name": "jealousy, jealousy",
       "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "flowers & sex",
-        "url": "https://open.spotify.com/album/43yO5kDK1ryXFb87iAvUm6"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        },
-        {
-          "name": "smle",
-          "url": "https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V"
-        }
-      ],
-      "duration_ms": 148588,
-      "name": "flowers & sex",
-      "url": "https://open.spotify.com/track/2Gp6Q9EDhcNHcJiPctBCmk"
     },
     {
       "added_at": "2021-12-17 05:00:00",

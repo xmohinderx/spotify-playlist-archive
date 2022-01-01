@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "A Case Of You",
       "url": "https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215933,
       "name": "A Lack Of Color",
       "url": "https://open.spotify.com/track/4mCF3EBgGPSqmEm205KBAV"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 268800,
       "name": "Almost Lover",
       "url": "https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 177253,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 299333,
       "name": "Comfortable - EP Version",
       "url": "https://open.spotify.com/track/26PnyFUmYdeRG7nQrsTpHc"
@@ -254,6 +254,24 @@
       "duration_ms": 248032,
       "name": "Dancing Without Music",
       "url": "https://open.spotify.com/track/35JqhVvhuyBoPLLUY8Klqd"
+    },
+    {
+      "album": {
+        "name": "Complete Surrender",
+        "url": "https://open.spotify.com/album/5VKfS5xelWpc76avtJ7UvC"
+      },
+      "artists": [
+        {
+          "name": "Slow Club",
+          "url": "https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223773,
+      "name": "Dependable People and Things That I'm Sure Of",
+      "url": "https://open.spotify.com/track/4mGsec7zvqP23XGIh91AJX"
     },
     {
       "album": {
@@ -286,7 +304,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 226733,
       "name": "Do What You Have To Do",
       "url": "https://open.spotify.com/track/32CSjeoAXxx3qQW1tDUy2r"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 253933,
       "name": "Elephants",
       "url": "https://open.spotify.com/track/4k2ad5F7HEXt6Gsiom7jEy"
@@ -384,10 +402,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 466040,
       "name": "End Of The Affair",
       "url": "https://open.spotify.com/track/0vqXG66zkKynUS0aJs9FyR"
+    },
+    {
+      "album": {
+        "name": "The Future and the Past",
+        "url": "https://open.spotify.com/album/49CYEKpIsLJNMI1Yfatu4d"
+      },
+      "artists": [
+        {
+          "name": "Natalie Prass",
+          "url": "https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Far from You",
+      "url": "https://open.spotify.com/track/76LTw6966xM8oaQQoHzAXz"
     },
     {
       "album": {
@@ -438,7 +474,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 215373,
       "name": "Foreground",
       "url": "https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv"
@@ -932,7 +968,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 267053,
       "name": "Laura",
       "url": "https://open.spotify.com/track/1pFkMEeCMtZuuId6AUhMK6"
@@ -950,7 +986,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 255093,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0mEYQKnIfCXeKYlCIP3PHY"
@@ -1008,6 +1044,24 @@
       "duration_ms": 192934,
       "name": "Love Is a Terrible Thing",
       "url": "https://open.spotify.com/track/3NFDsbi0QPErMddPE2A9QF"
+    },
+    {
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/1v2BVhOLte39KIo0TfOm5E"
+      },
+      "artists": [
+        {
+          "name": "Odina",
+          "url": "https://open.spotify.com/artist/2D0wm8aDnVrcljPwg2GM75"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223340,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/4z7LkcJsYe8AaZXI3TWOHT"
     },
     {
       "album": {
@@ -1340,7 +1394,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 299040,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4sS89nAQUy2fRZWbyJWDQV"
@@ -1365,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Let There Be Morning (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0ORE2QC2uVD8VaFWeOtsMo"
+      },
+      "artists": [
+        {
+          "name": "The Perishers",
+          "url": "https://open.spotify.com/artist/511NdtFxUgN1HgraPcUotf"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189240,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/4XYOnP0tFe8ifE3hHitQBF"
+    },
+    {
+      "album": {
         "name": "placeholder",
         "url": "https://open.spotify.com/album/7y3l8rXPVyAspEngY1Beev"
       },
@@ -1376,7 +1448,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 230006,
       "name": "placeholder",
       "url": "https://open.spotify.com/track/6ABQcgTtAPCUyMkVwdRNJo"
@@ -1452,6 +1524,24 @@
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/4Q6Kuze3wNMQRjamyBjHUR"
+    },
+    {
+      "album": {
+        "name": "A Crow Looked at Me",
+        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN"
     },
     {
       "album": {
@@ -1571,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284240,
+      "name": "The Dumbing Down Of Love",
+      "url": "https://open.spotify.com/track/42dbPf0M81U47xbawYssYR"
+    },
+    {
+      "album": {
         "name": "Close to Paradise",
         "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
       },
@@ -1636,7 +1744,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 274573,
       "name": "The Park",
       "url": "https://open.spotify.com/track/6gQxdH3BID5ci42DXIeyFS"
@@ -1784,7 +1892,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 279634,
       "name": "Videotape",
       "url": "https://open.spotify.com/track/3uxhyRdWVXp7GQvERQl6fA"
@@ -1910,7 +2018,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 219799,
       "name": "Whoever You Love, I'm Cool",
       "url": "https://open.spotify.com/track/66uvTWhdKt5Ip7nIpcnzyz"
@@ -1950,6 +2058,24 @@
       "duration_ms": 289160,
       "name": "Without You - Alternate Version",
       "url": "https://open.spotify.com/track/66kaac3HotbZrHm0HF3Fbs"
+    },
+    {
+      "album": {
+        "name": "Cry Forever",
+        "url": "https://open.spotify.com/album/3pb256CZQ5vf8kbDlguYhD"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "Worst Day of My Life",
+      "url": "https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu"
     },
     {
       "album": {
@@ -2072,7 +2198,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 378186,
       "name": "Your Love is Killing Me",
       "url": "https://open.spotify.com/track/2S1IUGeYOV3JPSoaheqIo9"

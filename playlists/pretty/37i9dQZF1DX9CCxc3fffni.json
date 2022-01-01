@@ -1,29 +1,13 @@
 {
   "description": "La belleza nunca pasa de moda.",
   "name": "Las Canciones M\u00e1s Bonitas Del Mundo",
-  "num_followers": 42118,
+  "num_followers": 42349,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkxMTQ5MiwwMDAwMDAwMGUzM2YwZWRjY2ZiMTcxYmY4OTdhMDU4NGMwYjA0ZWJk",
+  "snapshot_id": "MTY0MTAwNDY2MCwwMDAwMDAwMGQ2ZTFiN2Y5ZmY0NmNkYmViMDM5YzA2MTFjMDNlNTcw",
   "tracks": [
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
-    },
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
@@ -39,38 +23,6 @@
       "duration_ms": 302933,
       "name": "Y Nos Dieron las Diez",
       "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 213542,
-      "name": "More Than Words - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Como la flor prometida",
-        "url": "https://open.spotify.com/album/72daU9D3m8mi9CdHpqI55e"
-      },
-      "artists": [
-        {
-          "name": "Luz Casal",
-          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
-        }
-      ],
-      "duration_ms": 217226,
-      "name": "Entre mis recuerdos",
-      "url": "https://open.spotify.com/track/0cS37U88sy6rl9KuDRvz6Y"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -91,34 +43,18 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
       },
       "artists": [
         {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 212481,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Ana, Jose, Nacho (TF1 Co-Production)",
-        "url": "https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/0stIFBwUeaH8qpFe9aPl6w"
+      "duration_ms": 213542,
+      "name": "More Than Words - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -139,82 +75,18 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
+        "name": "Ana, Jose, Nacho (TF1 Co-Production)",
+        "url": "https://open.spotify.com/album/5IL38XjAFliyeLvngPqB83"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Cobarde - Spotify Singles",
-      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Con los A\u00f1os Que Me Quedan",
-      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Depende",
-        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
+      "duration_ms": 174933,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/0stIFBwUeaH8qpFe9aPl6w"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -235,6 +107,102 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Cobarde - Spotify Singles",
+      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Como la flor prometida",
+        "url": "https://open.spotify.com/album/72daU9D3m8mi9CdHpqI55e"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "Entre mis recuerdos",
+      "url": "https://open.spotify.com/track/0cS37U88sy6rl9KuDRvz6Y"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -247,6 +215,58 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 212481,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
+      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Con los A\u00f1os Que Me Quedan",
+      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -275,42 +295,6 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
-      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Tanto (Nueva edici\u00f3n)",
-        "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
         "name": "30 A\u00f1os",
         "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
       },
@@ -335,34 +319,18 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+        "name": "Tanto (Nueva edici\u00f3n)",
+        "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Los 50 Mejores Boleros",
-        "url": "https://open.spotify.com/album/3H3gELlMncLEG4Jno807Po"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/0kYclTHk8XBkFpkm9qmawX"
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -383,6 +351,22 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
       },
@@ -395,54 +379,6 @@
       "duration_ms": 208866,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "Por Si Acaso No Regreso",
-      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/60hMCjSH2qfKZWwRfApvZF"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 184026,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/5uYZdzzxy7q3svSWbTysqR"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Es Por Ti - MTV Unplugged",
-      "url": "https://open.spotify.com/track/3f5vubhmEGPL8JoVi49hm4"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -463,50 +399,50 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
       "artists": [
         {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 275040,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
+      "duration_ms": 295866,
+      "name": "Es Por Ti - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3f5vubhmEGPL8JoVi49hm4"
     },
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
       },
       "artists": [
         {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+      "duration_ms": 347666,
+      "name": "Por Si Acaso No Regreso",
+      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
     },
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Boleros para Enamorarse, Vol. 2",
-        "url": "https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ"
+        "name": "Los 50 Mejores Boleros",
+        "url": "https://open.spotify.com/album/3H3gELlMncLEG4Jno807Po"
       },
       "artists": [
         {
-          "name": "Consuelo Vel\u00e1zquez",
-          "url": "https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 181960,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7"
+      "duration_ms": 157186,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/0kYclTHk8XBkFpkm9qmawX"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -543,38 +479,6 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "20 Aut\u00e9nticos \u00c9xitos Originales - Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/6H3uJxjt9N3kjwjwpYOtof"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/1Dcd1raGWue0oGUMhvPEhq"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Javier Solis con Trio",
-        "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/3sZgzSaWtnhE6OCXe8uWOz"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
         "name": "Rock N' Roll Legends",
         "url": "https://open.spotify.com/album/1KYp0pKKHAX2AwViMzdL4A"
       },
@@ -591,6 +495,22 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
         "name": "Flamenco Highlights",
         "url": "https://open.spotify.com/album/5mMcgpPrC9QJ08ier2W4sw"
       },
@@ -603,6 +523,70 @@
       "duration_ms": 358440,
       "name": "Entre Dos Aguas",
       "url": "https://open.spotify.com/track/593bIFR66EpzxOPdgAV7h5"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "20 Aut\u00e9nticos \u00c9xitos Originales - Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/6H3uJxjt9N3kjwjwpYOtof"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/1Dcd1raGWue0oGUMhvPEhq"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Boleros para Enamorarse, Vol. 2",
+        "url": "https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ"
+      },
+      "artists": [
+        {
+          "name": "Consuelo Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/60hMCjSH2qfKZWwRfApvZF"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 184026,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/5uYZdzzxy7q3svSWbTysqR"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -643,6 +627,30 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
+        "name": "Music For Hope: From the Duomo di Milano",
+        "url": "https://open.spotify.com/album/58lwuQF3HPoqwMgV5bXIjj"
+      },
+      "artists": [
+        {
+          "name": "John Newton",
+          "url": "https://open.spotify.com/artist/0s64WzYrpQpkuTa0V3hOPe"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Czech National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX"
+        }
+      ],
+      "duration_ms": 262457,
+      "name": "Amazing Grace (Arr. William Ross)",
+      "url": "https://open.spotify.com/track/2p6qtCgJz42Mae5p4zUwDl"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
       },
@@ -655,22 +663,6 @@
       "duration_ms": 278333,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/41LiGcvaTkXHyPjfsxKvWv"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "All You Need Is Love - Remastered 2015",
-      "url": "https://open.spotify.com/track/6KqiVlOLfDzJViJVAPym1p"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -691,22 +683,18 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Antonio Carlos Jobim: Finest Hour",
-        "url": "https://open.spotify.com/album/1XkX9d8U5KCcD5DKEpMfOy"
+        "name": "Javier Solis con Trio",
+        "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
       },
       "artists": [
         {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 214866,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/3IvzsLgMv2eF5eSXoeP7Xm"
+      "duration_ms": 171760,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/3sZgzSaWtnhE6OCXe8uWOz"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -747,42 +735,18 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Music For Hope: From the Duomo di Milano",
-        "url": "https://open.spotify.com/album/58lwuQF3HPoqwMgV5bXIjj"
+        "name": "Chinook Wind",
+        "url": "https://open.spotify.com/album/1UmikZ3v395jBrooq0jh1b"
       },
       "artists": [
         {
-          "name": "John Newton",
-          "url": "https://open.spotify.com/artist/0s64WzYrpQpkuTa0V3hOPe"
-        },
-        {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
-        },
-        {
-          "name": "Czech National Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX"
+          "name": "Maika Makovski",
+          "url": "https://open.spotify.com/artist/23qto2LKAJoFxdffbvVvKC"
         }
       ],
-      "duration_ms": 262457,
-      "name": "Amazing Grace (Arr. William Ross)",
-      "url": "https://open.spotify.com/track/2p6qtCgJz42Mae5p4zUwDl"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Forever Ray Charles",
-        "url": "https://open.spotify.com/album/79jP3YHfeDz9KVoN99TgX0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 254641,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/7apQOIhWnJnhGeuY9Muqu8"
+      "duration_ms": 180666,
+      "name": "Song of Distance",
+      "url": "https://open.spotify.com/track/1EbpAImlgu9c33PfKZETUh"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -803,66 +767,38 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 384306,
-      "name": "Heal the World",
-      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
+      "duration_ms": 227760,
+      "name": "All You Need Is Love - Remastered 2015",
+      "url": "https://open.spotify.com/track/6KqiVlOLfDzJViJVAPym1p"
     },
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Achtung Baby",
-        "url": "https://open.spotify.com/album/3hErePSImi79vYHrSmypGw"
+        "name": "Antonio Carlos Jobim: Finest Hour",
+        "url": "https://open.spotify.com/album/1XkX9d8U5KCcD5DKEpMfOy"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3PKtemUKxiDBvBo7tpQ8bG"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Chinook Wind",
-        "url": "https://open.spotify.com/album/1UmikZ3v395jBrooq0jh1b"
-      },
-      "artists": [
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
         {
-          "name": "Maika Makovski",
-          "url": "https://open.spotify.com/artist/23qto2LKAJoFxdffbvVvKC"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 180666,
-      "name": "Song of Distance",
-      "url": "https://open.spotify.com/track/1EbpAImlgu9c33PfKZETUh"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4LroueiEhwtrhmzg9rZPjM"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/0niGpRHjbAjZJMrjY77kTc"
+      "duration_ms": 214866,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/3IvzsLgMv2eF5eSXoeP7Xm"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -883,18 +819,18 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Soul Queen",
-        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 212360,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/7haFcQaoTBr2qY6G0r4JSH"
+      "duration_ms": 384306,
+      "name": "Heal the World",
+      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -915,42 +851,50 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Stan Getz: The Bossa Nova Albums",
-        "url": "https://open.spotify.com/album/4TcCL29jgD69v38woQX85i"
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 317986,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/4xGFcQEIjtmbPD6Jsxq14M"
+      "duration_ms": 212360,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/7haFcQaoTBr2qY6G0r4JSH"
     },
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+        "name": "Forever Ray Charles",
+        "url": "https://open.spotify.com/album/79jP3YHfeDz9KVoN99TgX0"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 626880,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
+      "duration_ms": 254641,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/7apQOIhWnJnhGeuY9Muqu8"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Achtung Baby",
+        "url": "https://open.spotify.com/album/3hErePSImi79vYHrSmypGw"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3PKtemUKxiDBvBo7tpQ8bG"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -987,54 +931,6 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Por Siempre Boleros",
-        "url": "https://open.spotify.com/album/1fs3KzLeD3gelqjyW9XZeh"
-      },
-      "artists": [
-        {
-          "name": "Lucho Gatica",
-          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
-        }
-      ],
-      "duration_ms": 192967,
-      "name": "No Me Platiques Mas",
-      "url": "https://open.spotify.com/track/3GIgOOrpY7SRTXufiOYHsl"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/3Z4DrrPcAsTWOhDelLNwrK"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 210906,
-      "name": "Unforgettable (Duet with Nat King Cole)",
-      "url": "https://open.spotify.com/track/48D177fBErMz5p4zeAW1N5"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/1fkVVhoxy1bNXBGWiBpcsf"
       },
@@ -1051,18 +947,42 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4LroueiEhwtrhmzg9rZPjM"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
         }
       ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+      "duration_ms": 261133,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/0niGpRHjbAjZJMrjY77kTc"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Stan Getz: The Bossa Nova Albums",
+        "url": "https://open.spotify.com/album/4TcCL29jgD69v38woQX85i"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 317986,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/4xGFcQEIjtmbPD6Jsxq14M"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -1083,66 +1003,18 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 320466,
-      "name": "Take a Bow",
-      "url": "https://open.spotify.com/track/7izFzcBTx3DVXFeFYDeZKB"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/2aCDiMUbTAL1QbxYX4HVOz"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 231542,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0H69kFcbwdpZGriV8ZuE4r"
+      "duration_ms": 626880,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -1163,18 +1035,146 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Tea for the Tillerman (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6lmjLgTFMevnJVif0iwfDi"
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/3Z4DrrPcAsTWOhDelLNwrK"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 210906,
+      "name": "Unforgettable (Duet with Nat King Cole)",
+      "url": "https://open.spotify.com/track/48D177fBErMz5p4zeAW1N5"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/2aCDiMUbTAL1QbxYX4HVOz"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 231542,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0H69kFcbwdpZGriV8ZuE4r"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Take a Bow",
+      "url": "https://open.spotify.com/track/7izFzcBTx3DVXFeFYDeZKB"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Por Siempre Boleros",
+        "url": "https://open.spotify.com/album/1fs3KzLeD3gelqjyW9XZeh"
+      },
+      "artists": [
+        {
+          "name": "Lucho Gatica",
+          "url": "https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK"
+        }
+      ],
+      "duration_ms": 192967,
+      "name": "No Me Platiques Mas",
+      "url": "https://open.spotify.com/track/3GIgOOrpY7SRTXufiOYHsl"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -1195,50 +1195,34 @@
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
+        "name": "Hit the Ground Running",
+        "url": "https://open.spotify.com/album/2NM5l4gSAiOQzp30IkxViX"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Newton Faulkner",
+          "url": "https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5"
         }
       ],
-      "duration_ms": 240440,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/2s4BsyV3KhhrtsdtNfzoqb"
+      "duration_ms": 267053,
+      "name": "Finger Tips",
+      "url": "https://open.spotify.com/track/7JuYVKtkibRDkXNQLhJlo7"
     },
     {
       "added_at": "2021-04-30 00:00:31",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg"
-    },
-    {
-      "added_at": "2021-04-30 00:00:31",
-      "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 354880,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2021-04-30 00:00:31",
@@ -1255,6 +1239,22 @@
       "duration_ms": 186146,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
+    },
+    {
+      "added_at": "2021-04-30 00:00:31",
+      "album": {
+        "name": "Tea for the Tillerman (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6lmjLgTFMevnJVif0iwfDi"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/269OfNY9Je1QWaDnu31KKp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9CCxc3fffni"

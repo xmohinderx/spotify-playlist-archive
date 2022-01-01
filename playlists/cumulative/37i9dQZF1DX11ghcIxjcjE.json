@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 213693,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/11nv53N7ZnNTCgyl8yxvYd"
@@ -398,6 +398,24 @@
       "duration_ms": 281160,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4OaV9UYQ3EfrBRPjoO6u7c"
+    },
+    {
+      "album": {
+        "name": "Between The Eyes",
+        "url": "https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc"
+      },
+      "artists": [
+        {
+          "name": "Love Battery",
+          "url": "https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325706,
+      "name": "Highway Of Souls",
+      "url": "https://open.spotify.com/track/0XU4TZ7eOrDoLpJRNyCRhu"
     },
     {
       "album": {

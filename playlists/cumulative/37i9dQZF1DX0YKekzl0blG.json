@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal"
@@ -110,6 +110,24 @@
       "duration_ms": 249760,
       "name": "America",
       "url": "https://open.spotify.com/track/18fwfypFEcZArzsRZgozs0"
+    },
+    {
+      "album": {
+        "name": "The Bravery (UK Version)",
+        "url": "https://open.spotify.com/album/4lgaiekyFcZrIpd3Pm1y0R"
+      },
+      "artists": [
+        {
+          "name": "The Bravery",
+          "url": "https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220693,
+      "name": "An Honest Mistake",
+      "url": "https://open.spotify.com/track/1tk7gvlaVfEmANvHEPQz8t"
     },
     {
       "album": {
@@ -214,7 +232,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 158280,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/6vluCORdF8bV6zhXfKyKBp"
@@ -412,7 +430,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 225253,
       "name": "Geraldine",
       "url": "https://open.spotify.com/track/0x7L1Jp3nvOeaKVg0GGSyt"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 200200,
       "name": "Good Fortune",
       "url": "https://open.spotify.com/track/7hEnqdq7DwBCJxjDd7xMKP"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
@@ -671,6 +689,24 @@
     },
     {
       "album": {
+        "name": "A Weekend In The City",
+        "url": "https://open.spotify.com/album/1mp66letOYxdbVcPjxvIDG"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261360,
+      "name": "I Still Remember",
+      "url": "https://open.spotify.com/track/14BDEYKBXqn0YndMKl10BW"
+    },
+    {
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
       },
@@ -700,7 +736,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217733,
       "name": "I'm Not Gonna Teach Your Boyfriend How To Dance With You",
       "url": "https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC"
@@ -725,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "Jump In The Pool",
+      "url": "https://open.spotify.com/track/4anehmsEuhkXRjm6HAocaj"
+    },
+    {
+      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -736,7 +790,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
@@ -754,7 +808,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 124240,
       "name": "Kiss With A Fist",
       "url": "https://open.spotify.com/track/0K5I39R4ehtSCBDLktWyNY"
@@ -772,7 +826,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 256026,
       "name": "Ladyflash",
       "url": "https://open.spotify.com/track/4iMRg0QlDbAr6zcPvthSxj"
@@ -1042,7 +1096,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 192311,
       "name": "Nobody Move, Nobody Get Hurt",
       "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
@@ -1078,7 +1132,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 251293,
       "name": "Obstacle 1",
       "url": "https://open.spotify.com/track/15YJouNHJaoBqGTmdBleMX"
@@ -1132,7 +1186,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 233373,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/4JMEhtQ4qQ5mwN7eTLpDpG"
@@ -1240,7 +1294,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 221600,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/6AzQZJLLmEUFurwExaWNjd"
@@ -1348,7 +1402,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 168533,
       "name": "So Says I",
       "url": "https://open.spotify.com/track/1ZOHZ37YIHnVn8dEpNIEhp"
@@ -1582,7 +1636,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 216040,
       "name": "The Beginning Of The Twist",
       "url": "https://open.spotify.com/track/5WO4u8XmvXocAsK9rIMTwJ"

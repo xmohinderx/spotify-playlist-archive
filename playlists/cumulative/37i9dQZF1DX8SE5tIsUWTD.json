@@ -334,7 +334,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 253293,
       "name": "Bisaraha",
       "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
@@ -754,7 +754,7 @@
     {
       "album": {
         "name": "Modern Music (Habibi Funk 006)",
-        "url": "https://open.spotify.com/album/4etdTKHbGjNPF4AmMMaj6j"
+        "url": "https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y"
       },
       "artists": [
         {
@@ -765,6 +765,24 @@
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Mafatshi Leh",
+      "url": "https://open.spotify.com/track/520RV8A1weQ6gQLsOyO7zw"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/4etdTKHbGjNPF4AmMMaj6j"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-01",
       "duration_ms": 170000,
       "name": "Mafatshi Leh",
       "url": "https://open.spotify.com/track/72icTQKZRXB47Q9r5t8rQO"
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 426733,
       "name": "Warak Al Khareef",
       "url": "https://open.spotify.com/track/2YRdil5daXlDTDWsstccZ0"

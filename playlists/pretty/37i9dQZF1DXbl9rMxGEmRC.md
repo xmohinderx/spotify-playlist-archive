@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > A collection of recent tracks from the world of black and dark metal\. Cover: Wolves In The Throne Room
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,839 likes - 80 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,868 likes - 80 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sovereign](https://open.spotify.com/track/0LH8EFWl3v3T7YtSFB7Jbr) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2aQu2K5LfwOBed3T1DGojg) | 6:14 |
-| 2 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 |
-| 3 | [Slaves Shall Serve](https://open.spotify.com/track/7fqAKOrf2T2wxCnN6u3MkJ) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [In Absentia Dei](https://open.spotify.com/album/3LAuN7xpQgqsrcA6q3oJd5) | 3:33 |
-| 4 | [Fn .380 Acp\#19074](https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Fn .380 Acp\#19074](https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf) | 5:54 |
-| 5 | [Ecclesia](https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp) | [Ecclesia](https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q) | 7:44 |
-| 6 | [The Fall Of Jotunheim](https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [The Fall Of Jotunheim](https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL) | 4:02 |
-| 7 | [Hopeless Endeavor](https://open.spotify.com/track/7cSJIf1yDgcGLj9VI4DLmg) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Hopeless Endeavor](https://open.spotify.com/album/4iURRVj0MVYD4lt75ehOqk) | 4:15 |
-| 8 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 |
-| 9 | [De tes yeux bleus perlés](https://open.spotify.com/track/1QcLDalgSZ6weWyHyzKnM8) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [De tes yeux bleus perlés](https://open.spotify.com/album/2LJw28WXsdnDv6XkpJYiXJ) | 5:23 |
-| 10 | [Blackest Sabbath 1997](https://open.spotify.com/track/6NNxpCVslN0gi4UvwfxeOs) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Blackest Sabbath 1997](https://open.spotify.com/album/7aHt1M9ebUKH96ZX8ywN9m) | 6:06 |
-| 11 | [Hide from the Sun](https://open.spotify.com/track/5sfu3mgxe0CAa1TSirTnPI) | [Ghost Bath](https://open.spotify.com/artist/37Vukf7o6CBPG68BRDpStb) | [Hide from the Sun](https://open.spotify.com/album/0lqXlSegDRpxttuqMFun9S) | 5:37 |
+| 1 | [Fn .380 Acp\#19074](https://open.spotify.com/track/0iyLsH1W7jhnHQ0vcYaBBV) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Fn .380 Acp\#19074](https://open.spotify.com/album/0rR0YT4jwqwiqgrvabEAlf) | 5:54 |
+| 2 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 |
+| 3 | [De tes yeux bleus perlés](https://open.spotify.com/track/1QcLDalgSZ6weWyHyzKnM8) | [Celeste](https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy) | [De tes yeux bleus perlés](https://open.spotify.com/album/2LJw28WXsdnDv6XkpJYiXJ) | 5:23 |
+| 4 | [Sovereign](https://open.spotify.com/track/0LH8EFWl3v3T7YtSFB7Jbr) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2aQu2K5LfwOBed3T1DGojg) | 6:14 |
+| 5 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 |
+| 6 | [Hide from the Sun](https://open.spotify.com/track/5sfu3mgxe0CAa1TSirTnPI) | [Ghost Bath](https://open.spotify.com/artist/37Vukf7o6CBPG68BRDpStb) | [Hide from the Sun](https://open.spotify.com/album/0lqXlSegDRpxttuqMFun9S) | 5:37 |
+| 7 | [Slaves Shall Serve](https://open.spotify.com/track/7fqAKOrf2T2wxCnN6u3MkJ) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [In Absentia Dei](https://open.spotify.com/album/3LAuN7xpQgqsrcA6q3oJd5) | 3:33 |
+| 8 | [Ecclesia](https://open.spotify.com/track/0ldDRR8LVWKQkAv5th9ZtY) | [BAEST](https://open.spotify.com/artist/4UtjZRQc6qXhAd1kqyLvqp) | [Ecclesia](https://open.spotify.com/album/10CWKHbZuG36qSkRDLBy3q) | 7:44 |
+| 9 | [The Fall Of Jotunheim](https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [The Fall Of Jotunheim](https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL) | 4:02 |
+| 10 | [Hopeless Endeavor](https://open.spotify.com/track/7cSJIf1yDgcGLj9VI4DLmg) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Hopeless Endeavor](https://open.spotify.com/album/4iURRVj0MVYD4lt75ehOqk) | 4:15 |
+| 11 | [Blackest Sabbath 1997](https://open.spotify.com/track/6NNxpCVslN0gi4UvwfxeOs) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Blackest Sabbath 1997](https://open.spotify.com/album/7aHt1M9ebUKH96ZX8ywN9m) | 6:06 |
 | 12 | [Momentary Trails](https://open.spotify.com/track/2KAnVNkix64ZZwDQSQ6Xuy) | [Shadecrown](https://open.spotify.com/artist/27vaCCevKMJ2eS6UBxzqJQ) | [Solitarian](https://open.spotify.com/album/66xupchKxjGI4LcE8dOMG5) | 5:14 |
 | 13 | [Endless November](https://open.spotify.com/track/3TDGJ4EWmZFEMA8B4wnTZ6) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Endless November](https://open.spotify.com/album/3sGToMcgvwofekr6XdIkw9) | 7:43 |
 | 14 | [The Last Dance](https://open.spotify.com/track/1qXNVmeNI6V5wI1cwakweP) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [The Last Dance](https://open.spotify.com/album/4G4RKJjmLnZBsvalhWFOSH) | 4:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 79 | [March of the Antichrist](https://open.spotify.com/track/6Dy0BJpWP1FqqffGVldz1u) | [Path of Destiny](https://open.spotify.com/artist/1iydHn2q6TisTwNxU0yc2K) | [The Seed of All Evil](https://open.spotify.com/album/76y3jhORzJxEJnNfkjHKYj) | 6:39 |
 | 80 | [Cursed](https://open.spotify.com/track/1TaLL0z52wvVRNcmLl0HJF) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [Cursed](https://open.spotify.com/album/3KWgXdrDm75vJbSxWwZvf2) | 5:11 |
 
-Snapshot ID: `MTYzOTY5OTI2MCwwMDAwMDEzMTAwMDAwMTdkYzViMTIyYzEwMDAwMDE3ZDdmNjI0YjJk`
+Snapshot ID: `MTY0MDk0MzkzOCwwMDAwMDEzMjAwMDAwMTdlMGZlMTZhMjcwMDAwMDE3ZDdmNjI0YjJk`

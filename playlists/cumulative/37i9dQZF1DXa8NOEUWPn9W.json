@@ -72,7 +72,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "24",
       "url": "https://open.spotify.com/track/1pvvg93oaSTKKCUzeEWYwo"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 211073,
       "name": "Bosana",
       "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 189370,
       "name": "Cleo - Edit",
       "url": "https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy"
@@ -1645,6 +1645,32 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1fEfDgrXuU5yjQ8gu87AXV"
+      },
+      "artists": [
+        {
+          "name": "Jamie Roy",
+          "url": "https://open.spotify.com/artist/79ABJJGvLA87FSIayREkBM"
+        },
+        {
+          "name": "Huxley",
+          "url": "https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT"
+        },
+        {
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177856,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4oIm6Nv85IWMOPv4Gq0EMN"
+    },
+    {
+      "album": {
         "name": "Feel Something (Sammy Porter Remix)",
         "url": "https://open.spotify.com/album/5KUcIRfXjAjZ2fEfFVJuth"
       },
@@ -1893,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Give It to Me",
+        "url": "https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
+    },
+    {
+      "album": {
         "name": "Givin' Up",
         "url": "https://open.spotify.com/album/1C1vE00EzT79uN5uMkEvSP"
       },
@@ -2024,7 +2068,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 183372,
       "name": "Groove Society",
       "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
@@ -2104,7 +2148,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 194319,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5YT0stC917pjldKbdVzEo4"
@@ -2202,7 +2246,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 178514,
       "name": "Holla",
       "url": "https://open.spotify.com/track/7zq4moIXRmDZBprNH0gj4v"
@@ -2312,7 +2356,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 236129,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/1NMmSM6DYwhAf7027fowmD"
@@ -2334,7 +2378,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 190208,
       "name": "I'll Take You Down (feat. Chilli Chilton)",
       "url": "https://open.spotify.com/track/1XfkucWcvN121yy1b2MoD5"
@@ -2610,7 +2654,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 216084,
       "name": "Keep Pushing",
       "url": "https://open.spotify.com/track/2obQ3ll76uZthJa91RAKv4"
@@ -3224,7 +3268,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176551,
       "name": "Love You Again (feat. Akua)",
       "url": "https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8"
@@ -3800,7 +3844,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 255991,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
@@ -4008,7 +4052,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 183095,
       "name": "R.E.A.L",
       "url": "https://open.spotify.com/track/1mK6vQxrBu7tStp3b8G2Z9"
@@ -4362,6 +4406,24 @@
       "duration_ms": 159375,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v"
+    },
+    {
+      "album": {
+        "name": "ISOLAT003",
+        "url": "https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "Soul System",
+      "url": "https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1"
     },
     {
       "album": {
@@ -5502,7 +5564,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 171162,
       "name": "You Know What I Got - Edit",
       "url": "https://open.spotify.com/track/0wIvuXIoTyPvByoztyGFaW"

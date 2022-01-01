@@ -754,7 +754,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -3009,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "J\u00f3l og bl\u00ed\u00f0a",
+        "url": "https://open.spotify.com/album/1BTLwyCFeToXsnqeQB1Lcq"
+      },
+      "artists": [
+        {
+          "name": "Baggal\u00fatur",
+          "url": "https://open.spotify.com/artist/0zGt5wXkvlORfIk5tnFxAD"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150558,
+      "name": "Gaml\u00e1rspart\u00fd",
+      "url": "https://open.spotify.com/track/7MKFTJmBMJKxNb0CNmLqcZ"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -4058,7 +4076,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 174785,
       "name": "Hugsa Bara Um \u00deig",
       "url": "https://open.spotify.com/track/7j57Fv9vHdXj0YMnynPnV1"
@@ -8244,7 +8262,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 201688,
       "name": "Snj\u00f3korn falla",
       "url": "https://open.spotify.com/track/4h4pNMbBKfaIXyR9SY62Lm"
@@ -8722,6 +8740,24 @@
       "duration_ms": 118547,
       "name": "SUP BITCH (feat. S\u00e9ra Bj\u00f6ssi)",
       "url": "https://open.spotify.com/track/5M2CDUmmWimgOygktKPKjN"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
     },
     {
       "album": {
@@ -9364,6 +9400,32 @@
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
+    },
+    {
+      "album": {
+        "name": "UNGUR DRENGUR DRIPPIN",
+        "url": "https://open.spotify.com/album/3L2WEVXnQwALOY2q56fffn"
+      },
+      "artists": [
+        {
+          "name": "FLUGF\u00c9LAGI\u00d0",
+          "url": "https://open.spotify.com/artist/1p1N9BGhaSQTspDjrV0xEL"
+        },
+        {
+          "name": "G\u00edsli P\u00e1lmi",
+          "url": "https://open.spotify.com/artist/4Sdxz1flOuRiXXi77nGzhG"
+        },
+        {
+          "name": "Yung Nigo Drippin'",
+          "url": "https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134681,
+      "name": "UNGUR DRENGUR DRIPPIN",
+      "url": "https://open.spotify.com/track/6APsKoj3WzGnctxf5fjqCh"
     },
     {
       "album": {

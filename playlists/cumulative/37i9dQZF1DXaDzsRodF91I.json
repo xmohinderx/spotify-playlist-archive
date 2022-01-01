@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 183931,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 229400,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 181598,
       "name": "Forget Me Too",
       "url": "https://open.spotify.com/track/6E9Q1nAdi7S0LrogwfpKdZ"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 205127,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6alKqAc4Pcutwk0Lo9xVBu"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 213293,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 193632,
       "name": "How's It Gonna Be",
       "url": "https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 149380,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/6NtFxoIEN84Mu6AvNDaIXa"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 211279,
       "name": "Reality Is a Ride on the Bus",
       "url": "https://open.spotify.com/track/325dEBL9MWkSl4xymaTckx"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 189506,
       "name": "Santeria",
       "url": "https://open.spotify.com/track/0FTHyxBgSKvK2d45djO8E4"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 150320,
       "name": "Silly Girl",
       "url": "https://open.spotify.com/track/50ZvRtcsctYE4p7RX3DR6g"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 119799,
       "name": "So Done",
       "url": "https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 195680,
       "name": "Sweet Transvestite",
       "url": "https://open.spotify.com/track/2wn5lK5Tf2FCvXGdkubYnu"
@@ -1872,6 +1872,24 @@
       "duration_ms": 208475,
       "name": "This Is Me",
       "url": "https://open.spotify.com/track/25tLYOevpfxypFS9NDWh8U"
+    },
+    {
+      "album": {
+        "name": "Through & Through & Through",
+        "url": "https://open.spotify.com/album/2tuH61aweLiD4pFA0EyMdt"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213506,
+      "name": "Through & Through & Through",
+      "url": "https://open.spotify.com/track/4hmpIR097LZBFipX7l992E"
     },
     {
       "album": {
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 207424,
       "name": "When the Angels Sing",
       "url": "https://open.spotify.com/track/1EH80N83sFOFhVRleeSoiG"

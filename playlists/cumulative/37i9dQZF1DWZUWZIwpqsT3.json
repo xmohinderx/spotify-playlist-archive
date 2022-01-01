@@ -1427,6 +1427,28 @@
     },
     {
       "album": {
+        "name": "Sky High (feat. Non\u00f4)",
+        "url": "https://open.spotify.com/album/1rJPJMJSw8OigDeS1buLcj"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Sky High (feat. Non\u00f4)",
+      "url": "https://open.spotify.com/track/400WptNm7JLz4CbEvHCtMe"
+    },
+    {
+      "album": {
         "name": "Sunglasses At Night",
         "url": "https://open.spotify.com/album/2RjNrAtCnOrtBYgVBtOTHY"
       },

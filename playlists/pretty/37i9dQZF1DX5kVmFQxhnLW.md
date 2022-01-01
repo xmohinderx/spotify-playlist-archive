@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kVmFQxhnLW.md) - [plain]
 
 > Celebrate the holidays with the 10th anniversary of the album "Christmas"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,157 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,331 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

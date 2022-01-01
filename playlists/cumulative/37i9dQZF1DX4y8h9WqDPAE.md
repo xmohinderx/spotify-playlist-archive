@@ -2,7 +2,7 @@
 
 ### [Channel X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Summer Walker
+> Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Khalid
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -506,7 +506,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 175792,
       "name": "DAYTONS",
       "url": "https://open.spotify.com/track/3qOQF98C8xvlpdzD7LZHHu"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 205480,
       "name": "Different Worlds",
       "url": "https://open.spotify.com/track/240IKl4yYUPjffy6x8Ym6z"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 137142,
       "name": "DUMB DUB",
       "url": "https://open.spotify.com/track/5HlpOfX0puOis6mu3WIfkJ"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 185000,
       "name": "Jump Out",
       "url": "https://open.spotify.com/track/7oJfSplYb4omWhFM5ttmcf"
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 270000,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF"
@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "nowhere left to hide",
+        "url": "https://open.spotify.com/album/5t476SIkHBP0IDNTZYMtDD"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "nowhere left to hide",
+      "url": "https://open.spotify.com/track/78vyS0sHFKbr195feDdp9O"
+    },
+    {
+      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/0cjlfA8A92HDR49uDSgdVs"
       },
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 220500,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5g1WgQiZSetIq1mztFOAGH"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 232137,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6ZT3s43kO7TpVJbrl6UREX"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/0LCUh32YKsqbh3d7eCJIh8"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 206400,
       "name": "Spark (with Dia Frampton)",
       "url": "https://open.spotify.com/track/6Xw4u2Jz9DIYUQ9KTCxoBU"
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 139877,
       "name": "Takin' Over",
       "url": "https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2"
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 217000,
       "name": "Tums",
       "url": "https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy"

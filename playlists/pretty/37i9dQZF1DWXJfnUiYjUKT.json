@@ -1,7 +1,7 @@
 {
   "description": "The very best in new music from around the world. Cover: Alesso & Katy Perry",
   "name": "New Music Friday (Other)",
-  "num_followers": 295285,
+  "num_followers": 295391,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -339,6 +339,26 @@
     {
       "added_at": "2021-12-30 23:00:00",
       "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/26Za5pnbPVRxLEV85dCP16"
+      },
+      "artists": [
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        }
+      ],
+      "duration_ms": 163923,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/4fvcOHfqC8yEBQphZjFud6"
+    },
+    {
+      "added_at": "2021-12-30 23:00:00",
+      "album": {
         "name": "Where My Girls At",
         "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
       },
@@ -487,6 +507,22 @@
       "duration_ms": 197538,
       "name": "Back To Paris",
       "url": "https://open.spotify.com/track/3fyjlRvjzojhCwTlxtgwFP"
+    },
+    {
+      "added_at": "2021-12-30 23:00:00",
+      "album": {
+        "name": "You Belong",
+        "url": "https://open.spotify.com/album/3QralLbr3XT6BadVkHlmSW"
+      },
+      "artists": [
+        {
+          "name": "The Presets",
+          "url": "https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX"
+        }
+      ],
+      "duration_ms": 225065,
+      "name": "You Belong",
+      "url": "https://open.spotify.com/track/42xlGkV3dKBi2mzPdCDRfT"
     },
     {
       "added_at": "2021-12-30 23:00:00",
@@ -743,6 +779,22 @@
     {
       "added_at": "2021-12-30 23:00:00",
       "album": {
+        "name": "Bad At Parties",
+        "url": "https://open.spotify.com/album/4KnGjU2WGBhf3clbp68bjt"
+      },
+      "artists": [
+        {
+          "name": "Helena Mayer",
+          "url": "https://open.spotify.com/artist/3Cgfb3YtMWmIqo4I1BmCCU"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Bad At Parties",
+      "url": "https://open.spotify.com/track/4jCLdCkeE7Y1GvmYtdmAA4"
+    },
+    {
+      "added_at": "2021-12-30 23:00:00",
+      "album": {
         "name": "Away From Myself",
         "url": "https://open.spotify.com/album/2X04oTtQLfh0rcvHVsbcbB"
       },
@@ -883,6 +935,22 @@
     {
       "added_at": "2021-12-30 23:00:00",
       "album": {
+        "name": "Last Night in December",
+        "url": "https://open.spotify.com/album/1AXBEa4JAJZBloAvCnyawe"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Bonagura",
+          "url": "https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB"
+        }
+      ],
+      "duration_ms": 271146,
+      "name": "Last Night in December",
+      "url": "https://open.spotify.com/track/3GJnEqJStGudrV7Vch7QXX"
+    },
+    {
+      "added_at": "2021-12-30 23:00:00",
+      "album": {
         "name": "Beer Up",
         "url": "https://open.spotify.com/album/2g75lQNQV0y74O23nk4Jm0"
       },
@@ -931,6 +999,42 @@
       "duration_ms": 194210,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1qwlHf2a7Drko9G5I4WwKH"
+    },
+    {
+      "added_at": "2021-12-30 23:00:00",
+      "album": {
+        "name": "ICGTTA",
+        "url": "https://open.spotify.com/album/6e6mW7pnaWUNfkek3puYr0"
+      },
+      "artists": [
+        {
+          "name": "Shiki XO",
+          "url": "https://open.spotify.com/artist/0QDCjKEJLERqsoqUZmyjd2"
+        }
+      ],
+      "duration_ms": 167516,
+      "name": "ICGTTA",
+      "url": "https://open.spotify.com/track/3fkmqra6uydeAgYLzJ7AOg"
+    },
+    {
+      "added_at": "2021-12-30 23:00:00",
+      "album": {
+        "name": "Day Glow",
+        "url": "https://open.spotify.com/album/25Bx3nBxkpCovQ1SowRpXJ"
+      },
+      "artists": [
+        {
+          "name": "Drew Dazy",
+          "url": "https://open.spotify.com/artist/0JNAhxzsZpMbflMQ2jtKAO"
+        },
+        {
+          "name": "A.K.F",
+          "url": "https://open.spotify.com/artist/5TQ1Tck0FVGrElDzvCS2jt"
+        }
+      ],
+      "duration_ms": 202999,
+      "name": "Day Glow",
+      "url": "https://open.spotify.com/track/3FNkxW98DzGgcc4RocTseS"
     },
     {
       "added_at": "2021-12-30 23:00:00",

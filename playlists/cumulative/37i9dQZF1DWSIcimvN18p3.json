@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 208306,
       "name": "3 Crow",
       "url": "https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 294013,
       "name": "Ain't No Thing",
       "url": "https://open.spotify.com/track/72MfkLKyEXmFT8awGhlE5i"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 134083,
       "name": "Always Room",
       "url": "https://open.spotify.com/track/74nuuKLWKLboj141dT2vBV"
@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/2lkRR5AmnVVmhAdM35ouhB"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186949,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2GtQftqYyLKJ3cZ50r7yxy"
+    },
+    {
+      "album": {
         "name": "25 Trips",
         "url": "https://open.spotify.com/album/5MW8vgKSki8FkuzIeEbDjG"
       },
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 186960,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2fVdmSZjhQr6hM8ACJhlXC"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 171533,
       "name": "Gunslinger (A Ballad For Adult Westerns)",
       "url": "https://open.spotify.com/track/4oFXW4wcrRQGGV85V18YSI"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 125293,
       "name": "Here Before",
       "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
@@ -1944,7 +1962,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 191453,
       "name": "Hillbilly Goddess",
       "url": "https://open.spotify.com/track/0I8orHL8O59rqm8pxRAieh"
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 212466,
       "name": "Kentucky Borderline",
       "url": "https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc"
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 244565,
       "name": "Kentucky, 1988",
       "url": "https://open.spotify.com/track/3PIY1joW8VtV8a6tC9ACt7"
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 134246,
       "name": "Long Lonesome Road",
       "url": "https://open.spotify.com/track/3iJq2eR862uen5kyutkQYs"
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 197453,
       "name": "Machine",
       "url": "https://open.spotify.com/track/0VhedNKd5Ca71G1zsn3XTT"
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 237537,
       "name": "Oh Marie",
       "url": "https://open.spotify.com/track/0JQiWi1xu8joVkan6HBVvy"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 251866,
       "name": "Road to Self",
       "url": "https://open.spotify.com/track/4TxOWAq4e7alqwGLgdtdIa"
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 180666,
       "name": "Roseville Fair",
       "url": "https://open.spotify.com/track/2ErkQZvTUylJ2ptKaz9Ek3"
@@ -3528,7 +3546,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 286388,
       "name": "Stand In",
       "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 176920,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/2ru1SGaG8UGD8HPPuaeCM3"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 177693,
       "name": "Tennessee Breakdown",
       "url": "https://open.spotify.com/track/4K3z84ENFol2LQFishwXMu"
@@ -3814,7 +3832,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 213926,
       "name": "The Expert",
       "url": "https://open.spotify.com/track/2kfzVzDVqCBXjI3iohwdtg"
@@ -3890,7 +3908,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 271175,
       "name": "The Soft Apocalypse",
       "url": "https://open.spotify.com/track/5hDtB04aMDSqO0OCdFY51H"
@@ -3944,7 +3962,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 311000,
       "name": "The Wheel of Fortune",
       "url": "https://open.spotify.com/track/4FAVJ8AfeH4odA0b6HX46v"
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-01",
       "duration_ms": 175840,
       "name": "Use a Napkin (Not Your Mom)",
       "url": "https://open.spotify.com/track/1ZmTvUwqj8B44hMJasvDXB"
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 125360,
       "name": "Valley Forge",
       "url": "https://open.spotify.com/track/0YdGjKALJmizKhcWEmM3Cp"
@@ -4236,7 +4254,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 234800,
       "name": "Where Have All the Flowers Gone",
       "url": "https://open.spotify.com/track/1WMMzf0o1gD5dyyYhJ46fO"
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 233934,
       "name": "Wrong Way Round",
       "url": "https://open.spotify.com/track/3No2bSfZbevs0pvet2HCJ9"
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 191756,
       "name": "YOU BELONG",
       "url": "https://open.spotify.com/track/2NDt0gNDXRXlkMOVPcQlla"
